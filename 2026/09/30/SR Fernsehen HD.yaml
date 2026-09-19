@@ -109,6 +109,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId: 545620
   start: 2026-09-30T10:10:00Z
   stop: 2026-09-30T10:55:00Z
@@ -121,18 +123,19 @@
   start: 2026-09-30T10:55:00Z
   stop: 2026-09-30T12:25:00Z
   title: Der See der Träume
-  subtitle: Spielfilm Deutschland 2006
+  subtitle: Fernsehfilm Deutschland 2006
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 545708
   start: 2026-09-30T12:25:00Z
   stop: 2026-09-30T13:10:00Z
   title: Wer weiß denn sowas? (1140)
-  subtitle: 'Moderation: Kai Pflaume'
+  subtitle: 'Gäste: Kai Böcking und Ingolf Lück'
   widescreen: true
   subtitled: true
   hd: true
@@ -251,7 +254,7 @@
 - eventId: 546249
   start: 2026-09-30T19:00:00Z
   stop: 2026-09-30T19:45:00Z
-  title: Der Fall Pascal
+  title: Ein Kind verschwindet - der Fall Pascal
   widescreen: true
   subtitled: true
   hd: true
@@ -280,12 +283,14 @@
   start: 2026-09-30T21:30:00Z
   stop: 2026-09-30T23:00:00Z
   title: 'Der Zürich-Krimi: Borchert und der Schuss ins Herz'
-  subtitle: Spielfilm Deutschland
+  subtitle: Spielfilm Deutschland 2024
   ageRating: 12
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId: 558846
   start: 2026-09-30T23:00:00Z
   stop: 2026-10-01T00:30:00Z
@@ -296,3 +301,5 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
