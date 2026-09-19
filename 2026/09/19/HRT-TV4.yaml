@@ -642,6 +642,7 @@
   - 1034207
   - 1034423
   - 1034733
+  - 1035183
   - 949219
   start: 2026-09-19T18:05:00Z
   stop: 2026-09-19T18:45:00Z
@@ -651,13 +652,9 @@
   genre:
   - '160'
   description: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
-- eventId: 1035183
-  start: 2026-09-19T18:05:00Z
-  stop: 2026-09-19T18:46:00Z
-  title: Intervju tjedna
-  subtitle: ' '
-  description: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
-- eventId: 949220
+- eventId:
+  - 1035373
+  - 949220
   start: 2026-09-19T18:45:00Z
   stop: 2026-09-19T19:00:00Z
   title: 'DW: Shift'
@@ -674,7 +671,7 @@
   description: Emisija Deutsche Wellea donosi odgovore na pitanje kako živjeti u digitalno doba.
 - eventId: 949221
   start: 2026-09-19T19:00:00Z
-  stop: 2026-09-19T19:44:00Z
+  stop: 2026-09-19T19:45:00Z
   title: Pregled dana
   subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -700,6 +697,7 @@
   - 1034208
   - 1034424
   - 1034734
+  - 1035374
   - 949222
   start: 2026-09-19T19:45:00Z
   stop: 2026-09-19T20:12:00Z
@@ -761,13 +759,23 @@
   genre:
   - '160'
   description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
+- eventId: 1035375
+  start: 2026-09-19T20:40:00Z
+  stop: 2026-09-19T20:42:00Z
+  title: HRT100 Vremeplov
+  subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1035193
   start: 2026-09-19T20:41:00Z
   stop: 2026-09-19T20:43:00Z
   title: HRT100 Vremeplov (31/34)
   subtitle: ' '
   description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
-- eventId: 1014001
+- eventId:
+  - 1014001
+  - 1035376
   start: 2026-09-19T20:42:00Z
   stop: 2026-09-19T21:04:00Z
   title: 'Studio 4: U fokusu'
@@ -790,6 +798,7 @@
   - 1034210
   - 1034426
   - 1034736
+  - 1035377
   start: 2026-09-19T21:04:00Z
   stop: 2026-09-19T21:10:00Z
   title: Bez komentara
@@ -873,6 +882,7 @@
   - 1034212
   - 1034428
   - 1034738
+  - 1035197
   - 949229
   start: 2026-09-19T21:30:00Z
   stop: 2026-09-19T21:50:00Z
@@ -882,12 +892,6 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 1035197
-  start: 2026-09-19T21:30:00Z
-  stop: 2026-09-19T21:53:00Z
-  title: 'Studio 4: Jutarnji intervju'
-  subtitle: ' '
-  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId:
   - 1032129
   - 1033502
@@ -895,6 +899,7 @@
   - 1034213
   - 1034429
   - 1034739
+  - 1035378
   start: 2026-09-19T21:50:00Z
   stop: 2026-09-19T21:55:00Z
   title: '#REPORTAŽE'
@@ -931,6 +936,7 @@
   - 1034214
   - 1034430
   - 1034740
+  - 1035379
   start: 2026-09-19T21:55:00Z
   stop: 2026-09-19T22:00:00Z
   title: Bez komentara
@@ -953,7 +959,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 949232
   start: 2026-09-19T22:00:00Z
-  stop: 2026-09-19T22:09:00Z
+  stop: 2026-09-19T22:10:00Z
   title: Vijesti flash
   subtitle: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   ageRating: 4
@@ -979,6 +985,7 @@
   - 1034215
   - 1034431
   - 1034741
+  - 1035380
   - 949233
   start: 2026-09-19T22:10:00Z
   stop: 2026-09-19T22:17:00Z
@@ -1007,6 +1014,7 @@
   - 1034216
   - 1034432
   - 1034742
+  - 1035381
   - 949234
   start: 2026-09-19T22:17:00Z
   stop: 2026-09-19T22:18:00Z
@@ -1024,6 +1032,7 @@
   - 1034217
   - 1034433
   - 1034743
+  - 1035382
   start: 2026-09-19T22:18:00Z
   stop: 2026-09-19T22:49:00Z
   title: Auto Market Magazin
