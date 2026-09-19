@@ -571,18 +571,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1035152
-  start: 2026-09-19T21:06:28Z
-  stop: 2026-09-19T21:32:00Z
-  title: Zprávy ve 23
-  subtitle: Nejdůležitější události dne v ČR i ve světě.
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '32'
-  widescreen: true
-- eventId: 1035355
+- eventId:
+  - 1035152
+  - 1035355
   start: 2026-09-19T21:06:28Z
   stop: 2026-09-19T21:31:28Z
   title: Zprávy ve 23
@@ -593,7 +584,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 1035356
+- eventId:
+  - 1035356
+  - 1035460
   start: 2026-09-19T21:31:28Z
   stop: 2026-09-19T22:00:00Z
   title: Interview ČT24
@@ -620,6 +613,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 1035461
   - 807193
   - 809007
   start: 2026-09-19T22:00:00Z
@@ -644,6 +638,7 @@
   - '33'
   widescreen: true
 - eventId:
+  - 1035462
   - 807194
   - 809008
   start: 2026-09-19T22:10:00Z
@@ -670,6 +665,7 @@
   - '35'
   widescreen: true
 - eventId:
+  - 1035463
   - 807195
   - 809009
   start: 2026-09-19T23:00:00Z
@@ -694,6 +690,7 @@
   - '33'
   widescreen: true
 - eventId:
+  - 1035464
   - 807196
   - 809010
   start: 2026-09-19T23:10:00Z
