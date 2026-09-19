@@ -64,6 +64,7 @@
   widescreen: true
   subtitled: true
   hd: true
+  ageRating: 6
 - eventId: 545565
   start: 2026-09-30T07:55:00Z
   stop: 2026-09-30T08:40:00Z
@@ -72,6 +73,9 @@
   widescreen: true
   subtitled: true
   hd: true
+  ageRating: 12
+  genre:
+  - '16'
 - eventId: 671205
   start: 2026-09-30T08:40:00Z
   stop: 2026-09-30T08:45:00Z
@@ -83,7 +87,7 @@
   start: 2026-09-30T08:45:00Z
   stop: 2026-09-30T09:15:00Z
   title: Meister des Alltags (275)
-  subtitle: mit Florian Weber
+  subtitle: 'Moderation: Florian Weber'
   widescreen: true
   subtitled: true
   hd: true
@@ -91,7 +95,7 @@
   start: 2026-09-30T09:15:00Z
   stop: 2026-09-30T10:00:00Z
   title: Gefragt - Gejagt (1002)
-  subtitle: mit Alexander Bommes
+  subtitle: 'Moderation: Alexander Bommes'
   widescreen: true
   subtitled: true
   hd: true
@@ -142,7 +146,7 @@
 - eventId: 545726
   start: 2026-09-30T14:10:00Z
   stop: 2026-09-30T15:00:00Z
-  title: Elefant, Tiger & Co. (580)
+  title: Elefant, Tiger & Co. (580/582)
   subtitle: Mal richtig durchleuchten! Geschichten aus dem Leipziger Zoo
   widescreen: true
   subtitled: true
