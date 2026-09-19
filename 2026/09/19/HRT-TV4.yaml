@@ -509,7 +509,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 949210
   start: 2026-09-19T16:54:00Z
-  stop: 2026-09-19T17:00:00Z
+  stop: 2026-09-19T16:55:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -520,6 +520,7 @@
   - 1033493
   - 1033868
   - 1034204
+  - 1034420
   - 949211
   start: 2026-09-19T16:55:00Z
   stop: 2026-09-19T17:00:00Z
@@ -546,7 +547,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 949213
   start: 2026-09-19T17:53:00Z
-  stop: 2026-09-19T17:55:00Z
+  stop: 2026-09-19T17:54:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -558,6 +559,7 @@
   - 1033494
   - 1033869
   - 1034205
+  - 1034421
   - 949214
   start: 2026-09-19T17:54:00Z
   stop: 2026-09-19T17:55:00Z
@@ -569,7 +571,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 949215
   start: 2026-09-19T17:55:00Z
-  stop: 2026-09-19T17:59:00Z
+  stop: 2026-09-19T18:00:00Z
   title: Vrijeme Svijet sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -589,7 +591,7 @@
   description: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
 - eventId: 949218
   start: 2026-09-19T18:00:00Z
-  stop: 2026-09-19T18:04:00Z
+  stop: 2026-09-19T18:01:00Z
   title: '#REPORTAŽE: Odi s nama'
   subtitle: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
   ageRating: 4
@@ -610,6 +612,7 @@
   - 1033495
   - 1033870
   - 1034206
+  - 1034422
   start: 2026-09-19T18:01:00Z
   stop: 2026-09-19T18:05:00Z
   title: '#REPORTAŽE'
@@ -633,6 +636,7 @@
   - 1033496
   - 1033871
   - 1034207
+  - 1034423
   - 949219
   start: 2026-09-19T18:05:00Z
   stop: 2026-09-19T18:45:00Z
@@ -685,6 +689,14 @@
   genre:
   - '160'
   description: Tjedna emisija, u razgovoru u studiju i reportažama rasvjetljava i nastoji riješiti probleme s kojima se susreću branitelji te senzibilizirati javnost.
+- eventId: 1034424
+  start: 2026-09-19T19:45:00Z
+  stop: 2026-09-19T20:11:00Z
+  title: Veterani mira
+  subtitle: Tjedna emisija, u razgovoru u studiju i reportažama rasvjetljava i nastoji riješiti probleme s kojima se susreću branitelji te senzibilizirati javnost.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1031686
   - 1033212
@@ -710,6 +722,7 @@
   - 1033498
   - 1033873
   - 1034209
+  - 1034425
   start: 2026-09-19T20:12:00Z
   stop: 2026-09-19T20:40:00Z
   title: Hrvatska moj izbor
@@ -741,6 +754,7 @@
   - 1033499
   - 1033874
   - 1034210
+  - 1034426
   start: 2026-09-19T21:04:00Z
   stop: 2026-09-19T21:10:00Z
   title: Bez komentara
@@ -762,7 +776,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 949227
   start: 2026-09-19T21:10:00Z
-  stop: 2026-09-19T21:19:00Z
+  stop: 2026-09-19T21:20:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -785,6 +799,7 @@
   - 1033500
   - 1033875
   - 1034211
+  - 1034427
   - 949228
   start: 2026-09-19T21:20:00Z
   stop: 2026-09-19T21:30:00Z
@@ -810,6 +825,7 @@
   - 1033501
   - 1033876
   - 1034212
+  - 1034428
   - 949229
   start: 2026-09-19T21:30:00Z
   stop: 2026-09-19T21:50:00Z
@@ -824,6 +840,7 @@
   - 1033502
   - 1033877
   - 1034213
+  - 1034429
   start: 2026-09-19T21:50:00Z
   stop: 2026-09-19T21:55:00Z
   title: '#REPORTAŽE'
@@ -857,6 +874,7 @@
   - 1033503
   - 1033878
   - 1034214
+  - 1034430
   start: 2026-09-19T21:55:00Z
   stop: 2026-09-19T22:00:00Z
   title: Bez komentara
@@ -878,7 +896,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 949232
   start: 2026-09-19T22:00:00Z
-  stop: 2026-09-19T22:09:00Z
+  stop: 2026-09-19T22:10:00Z
   title: Vijesti flash
   subtitle: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   ageRating: 4
@@ -901,6 +919,7 @@
   - 1033504
   - 1033879
   - 1034215
+  - 1034431
   - 949233
   start: 2026-09-19T22:10:00Z
   stop: 2026-09-19T22:17:00Z
@@ -926,6 +945,7 @@
   - 1033505
   - 1033880
   - 1034216
+  - 1034432
   - 949234
   start: 2026-09-19T22:17:00Z
   stop: 2026-09-19T22:18:00Z
@@ -941,6 +961,7 @@
   - 1033506
   - 1033881
   - 1034217
+  - 1034433
   start: 2026-09-19T22:18:00Z
   stop: 2026-09-19T22:49:00Z
   title: Auto Market Magazin
