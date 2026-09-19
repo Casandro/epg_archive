@@ -280,7 +280,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 949195
   start: 2026-09-19T14:00:00Z
-  stop: 2026-09-19T14:14:00Z
+  stop: 2026-09-19T14:15:00Z
   title: Vijesti
   subtitle: Kratki pregled vijesti iz Hrvatske i svijeta.
   ageRating: 4
@@ -591,7 +591,7 @@
   description: Emisija Deutsche Wellea donosi odgovore na pitanje kako živjeti u digitalno doba.
 - eventId: 949221
   start: 2026-09-19T19:00:00Z
-  stop: 2026-09-19T19:44:00Z
+  stop: 2026-09-19T19:45:00Z
   title: Pregled dana
   subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -604,15 +604,9 @@
   title: Veterani mira
   subtitle: ' '
   description: Tjedna emisija, u razgovoru u studiju i reportažama rasvjetljava i nastoji riješiti probleme s kojima se susreću branitelji te senzibilizirati javnost.
-- eventId: 1032124
-  start: 2026-09-19T19:45:00Z
-  stop: 2026-09-19T20:11:00Z
-  title: Veterani mira
-  subtitle: Tjedna emisija, u razgovoru u studiju i reportažama rasvjetljava i nastoji riješiti probleme s kojima se susreću branitelji te senzibilizirati javnost.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 949222
+- eventId:
+  - 1032124
+  - 949222
   start: 2026-09-19T19:45:00Z
   stop: 2026-09-19T20:12:00Z
   title: Veterani mira
