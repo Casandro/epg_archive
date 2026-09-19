@@ -404,7 +404,7 @@
   - 801177
   - 808999
   start: 2026-09-19T18:06:00Z
-  stop: 2026-09-19T19:00:00Z
+  stop: 2026-09-19T19:01:55Z
   title: Hyde Park Civilizace
   subtitle: Věda a současná civilizace. Interaktivní pořad - prostor pro vaše otázky a komentáře.
   description: |-
@@ -453,7 +453,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1035177
+- eventId:
+  - 1035177
+  - 1035178
   start: 2026-09-19T19:01:55Z
   stop: 2026-09-19T19:05:55Z
   title: Zprávy
@@ -463,6 +465,7 @@
     Skryté titulky
   genre:
   - '32'
+  widescreen: true
 - eventId:
   - 801179
   - 809001
