@@ -34,6 +34,7 @@
   - 1033438
   - 1033917
   - 1034792
+  - 1034935
   start: 2026-09-21T01:15:00Z
   stop: 2026-09-21T01:45:00Z
   title: Voice of America
@@ -64,6 +65,7 @@
   - 1033439
   - 1033918
   - 1034793
+  - 1034936
   start: 2026-09-21T01:45:00Z
   stop: 2026-09-21T02:25:00Z
   title: Çikat n'Trip
@@ -94,6 +96,7 @@
   - 1033440
   - 1033919
   - 1034794
+  - 1034937
   start: 2026-09-21T02:25:00Z
   stop: 2026-09-21T04:30:00Z
   title: Muzike Top 10
@@ -150,6 +153,7 @@
   - 1033441
   - 1033920
   - 1034795
+  - 1034938
   start: 2026-09-21T04:30:00Z
   stop: 2026-09-21T05:00:00Z
   title: Reportazhe
@@ -173,7 +177,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1033442
+- eventId:
+  - 1033442
+  - 1034939
   start: 2026-09-21T05:00:00Z
   stop: 2026-09-21T07:00:00Z
   title: Pastel
@@ -243,6 +249,7 @@
   - 1033443
   - 1033922
   - 1034797
+  - 1034940
   start: 2026-09-21T07:05:00Z
   stop: 2026-09-21T09:00:00Z
   title: Programi i mëngjesit
@@ -305,7 +312,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1033444
+- eventId:
+  - 1033444
+  - 1034941
   start: 2026-09-21T09:00:00Z
   stop: 2026-09-21T10:10:00Z
   title: Daily Click
@@ -375,6 +384,7 @@
   - 1033445
   - 1033924
   - 1034799
+  - 1034942
   start: 2026-09-21T10:15:00Z
   stop: 2026-09-21T10:35:00Z
   title: Muzikë argëtuese
@@ -398,7 +408,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1033446
+- eventId:
+  - 1033446
+  - 1034943
   start: 2026-09-21T10:35:00Z
   stop: 2026-09-21T11:10:00Z
   title: Farewell Letter
@@ -442,6 +454,7 @@
   - 1033447
   - 1033926
   - 1034801
+  - 1034944
   start: 2026-09-21T11:15:00Z
   stop: 2026-09-21T12:25:00Z
   title: Reportazhe
@@ -476,6 +489,7 @@
   - 1033448
   - 1033927
   - 1034802
+  - 1034945
   start: 2026-09-21T12:25:00Z
   stop: 2026-09-21T12:55:00Z
   title: Muzikë argëtuese
@@ -510,6 +524,7 @@
   - 1033449
   - 1033928
   - 1034803
+  - 1034946
   start: 2026-09-21T12:55:00Z
   stop: 2026-09-21T13:00:00Z
   title: Promo
@@ -532,7 +547,7 @@
   subtitle: ' ... '
 - eventId: 1003195
   start: 2026-09-21T13:00:00Z
-  stop: 2026-09-21T13:10:00Z
+  stop: 2026-09-21T13:20:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -561,6 +576,7 @@
   - 1033450
   - 1033929
   - 1034804
+  - 1034947
   start: 2026-09-21T13:20:00Z
   stop: 2026-09-21T14:00:00Z
   title: Promo
@@ -578,6 +594,7 @@
   - 1033451
   - 1033930
   - 1034805
+  - 1034948
   start: 2026-09-21T14:00:00Z
   stop: 2026-09-21T15:00:00Z
   title: Preferenca Muzikore
@@ -613,7 +630,7 @@
   subtitle: '   Arhiva TVR '
 - eventId: 1003199
   start: 2026-09-21T15:00:00Z
-  stop: 2026-09-21T15:10:00Z
+  stop: 2026-09-21T15:55:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -659,7 +676,7 @@
   - '32'
 - eventId: 1003203
   start: 2026-09-21T17:00:00Z
-  stop: 2026-09-21T18:00:00Z
+  stop: 2026-09-21T17:10:00Z
   title: MARILE MECIURI
   subtitle: ' Arhiva TVR '
   ageRating: 4
@@ -676,6 +693,7 @@
   - 1033452
   - 1033931
   - 1034806
+  - 1034949
   start: 2026-09-21T17:10:00Z
   stop: 2026-09-21T17:20:00Z
   title: 10 minuta
@@ -694,6 +712,7 @@
   - 1033453
   - 1033932
   - 1034807
+  - 1034950
   start: 2026-09-21T17:20:00Z
   stop: 2026-09-21T17:30:00Z
   title: Promo
@@ -712,6 +731,7 @@
   - 1033454
   - 1033933
   - 1034808
+  - 1034951
   start: 2026-09-21T17:30:00Z
   stop: 2026-09-21T18:00:00Z
   title: Live News MK
@@ -721,7 +741,7 @@
   - '32'
 - eventId: 1003204
   start: 2026-09-21T18:00:00Z
-  stop: 2026-09-21T18:10:00Z
+  stop: 2026-09-21T19:30:00Z
   title: Film artistik
   subtitle: '  '
   ageRating: 4
@@ -752,6 +772,7 @@
   - 1033455
   - 1033934
   - 1034809
+  - 1034952
   start: 2026-09-21T19:30:00Z
   stop: 2026-09-21T20:55:00Z
   title: Click Plus
@@ -769,7 +790,7 @@
   - '160'
 - eventId: 1003206
   start: 2026-09-21T21:00:00Z
-  stop: 2026-09-21T22:00:00Z
+  stop: 2026-09-21T21:20:00Z
   title: In prelungiri
   subtitle: ' *Preluare TVR Timisoara   (Reluare)'
   ageRating: 4
@@ -792,7 +813,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1033456
+- eventId:
+  - 1033456
+  - 1034953
   start: 2026-09-21T21:20:00Z
   stop: 2026-09-21T22:00:00Z
   title: Reportazhe
@@ -825,6 +848,7 @@
   - 1033457
   - 1033936
   - 1034811
+  - 1034954
   start: 2026-09-21T22:05:00Z
   stop: 2026-09-21T23:25:00Z
   title: Click Plus
@@ -843,6 +867,7 @@
   - 1033458
   - 1033937
   - 1034812
+  - 1034955
   start: 2026-09-21T23:25:00Z
   stop: 2026-09-22T00:30:00Z
   title: Për ditë të mbarë

@@ -1,6 +1,6 @@
 - eventId: 908342
   start: 2026-09-21T00:00:00Z
-  stop: 2026-09-21T02:30:00Z
+  stop: 2026-09-21T04:00:00Z
   title: Adria Music TV program
   subtitle: Zabavna emisija "Kafansko veče" u studiju uređenom poput prave balkanske kafane ugošćuje popularne izvođače iz BiH i regiona.
   ageRating: 4
@@ -24,7 +24,7 @@
   - '96'
 - eventId: 908351
   start: 2026-09-21T06:00:00Z
-  stop: 2026-09-21T06:15:00Z
+  stop: 2026-09-21T08:00:00Z
   title: Adria Music TV program
   subtitle: Program uz koji se možete relaksirati i opustiti vaše misli i tijelo od svakodnevnih briga i stresa.
   ageRating: 4
@@ -50,7 +50,9 @@
   ageRating: 4
   genre:
   - '96'
-- eventId: 1029820
+- eventId:
+  - 1029820
+  - 1034915
   start: 2026-09-21T08:00:00Z
   stop: 2026-09-21T10:00:00Z
   title: Adria Music TV program
