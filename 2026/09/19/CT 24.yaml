@@ -512,7 +512,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1035151
+- eventId:
+  - 1035151
+  - 1035354
   start: 2026-09-19T21:00:00Z
   stop: 2026-09-19T21:06:28Z
   title: Předpověď počasí
@@ -579,6 +581,28 @@
     Skryté titulky
   genre:
   - '32'
+  widescreen: true
+- eventId: 1035355
+  start: 2026-09-19T21:06:28Z
+  stop: 2026-09-19T21:31:28Z
+  title: Zprávy ve 23
+  subtitle: Nejdůležitější události dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+- eventId: 1035356
+  start: 2026-09-19T21:31:28Z
+  stop: 2026-09-19T22:00:00Z
+  title: Interview ČT24
+  subtitle: Profilový rozhovor s významnou osobností, která má co říci k aktuálnímu dění v ČR nebo ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
   widescreen: true
 - eventId:
   - 807192
