@@ -396,9 +396,12 @@
   start: 2026-09-21T21:15:00Z
   stop: 2026-09-21T21:45:00Z
   title: Panorama
-  description: (JM) Program informacyjny.
+  description: |
+    Tytuł oryginalny: Panorama
+    PL, 2026
   genre:
   - '149'
+  subtitle: Główny program informacyjny telewizyjnej Dwójki, podsumowujący najważniejsze wydarzenia minionego dnia w kraju i na świecie.
 - eventId: 865334
   start: 2026-09-21T21:45:00Z
   stop: 2026-09-21T22:25:00Z
@@ -407,10 +410,11 @@
   ageRating: 12
   genre:
   - '149'
+  subtitle: Za pomocą kontrowersyjnej tezy zapoczątkowana zostaje debata na temat bieżących i ważnych społecznie tematów.
 - eventId: 996393
   start: 2026-09-21T22:25:00Z
   stop: 2026-09-21T22:35:00Z
-  title: Niezwykłe miejsca - Wieża widokowa Krynica Górska
+  title: 'Niezwykłe miejsca: Wieża widokowa - Krynica Górska'
   description: Reportaże prezentujące niezwykłe miejsca w Polsce. Miejsca znane i mniej znane, często zapomniane i takie, które nie są niedostępne dla wszystkich. Miejsca skrywające wiele tajemnic, owiane legendą, o bogatej historii.
   ageRating: 7
   genre:
@@ -421,14 +425,23 @@
   title: Moda na język polski - Podlasie i gwara podlaska
   description: Autorzy programu sprawdzają jak mówią mieszkańcy naszego kraju, przedstawiciele różnych grup społecznych i zawodowych. I odkrywają na nowo twórczość dobrze nam znanych pisarzy. Wszystko na poważnie, ale i z przymrużeniem oka.
   ageRating: 12
+  subtitle: Autorzy programu sprawdzają jak mówią mieszkańcy naszego kraju, przedstawiciele różnych grup społecznych i zawodowych. I odkrywają na nowo twórczość dobrze nam znanych pisarzy.
+  genre:
+  - '82'
 - eventId: 865336
   start: 2026-09-21T23:00:00Z
   stop: 2026-09-21T23:30:00Z
   title: Przez pamięć i zapomnienie - odc. 3
-  description: Podróż przez polskie miasta i miasteczka - niegdyś tętniące życiem ośrodki społeczności żydowskiej - inspirowana książką Mordechaja Canina "Wśród ruin i popiołów". To wyprawa śladami pamięci, zapomnianej historii.
+  description: |-
+    Tytuł oryginalny: Przez pamięć i zapomnienie
+    PL, 2025
+    Reżyseria: Rafał Kotomski
+    Występują: Piotr Sierecki
+    Podróż przez polskie miasta i miasteczka - niegdyś tętniące życiem ośrodki społeczności żydowskiej - inspirowana książką Mordechaja Canina "Wśród ruin i popiołów". To wyprawa śladami pamięci, zapomnianej historii i pozostawionego dziedzictwa. Serial dokumentalny, zainspirowany kontrowersyjnym reportażem Mordechaja Canina "Wśród ruin i popiołów", zabiera widzów w poruszającą podróż po dziesiątkach polskich miast i miasteczek, które niegdyś stanowiły prężne ośrodki żydowskiego życia i kultury.
   ageRating: 12
   genre:
   - '149'
+  subtitle: Serial przedstawia dokumentalną podróż przez polskie miasta niegdyś żywo związane z kulturą żydowską.
 - eventId: 865337
   start: 2026-09-21T23:30:00Z
   stop: 2026-09-21T23:55:00Z
@@ -436,6 +449,7 @@
   description: (N) Główne wydanie codziennego programu informacyjnego.
   genre:
   - '36'
+  subtitle: Bieżące wydarzenia w kraju i na świecie. Informacje polityczne, gospodarcze, ważne tematy społeczne i poruszające opinię publiczną.
 - eventId: 865338
   start: 2026-09-21T23:55:00Z
   stop: 2026-09-22T00:05:00Z
