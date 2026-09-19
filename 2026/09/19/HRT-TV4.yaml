@@ -673,7 +673,7 @@
   description: Emisija Deutsche Wellea donosi odgovore na pitanje kako živjeti u digitalno doba.
 - eventId: 949221
   start: 2026-09-19T19:00:00Z
-  stop: 2026-09-19T19:45:00Z
+  stop: 2026-09-19T19:46:00Z
   title: Pregled dana
   subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -716,7 +716,9 @@
   title: Veterani mira
   subtitle: ' '
   description: Tjedna emisija, u razgovoru u studiju i reportažama rasvjetljava i nastoji riješiti probleme s kojima se susreću branitelji te senzibilizirati javnost.
-- eventId: 1035659
+- eventId:
+  - 1035659
+  - 1035999
   start: 2026-09-19T19:46:00Z
   stop: 2026-09-19T20:12:00Z
   title: Veterani mira
@@ -781,6 +783,7 @@
 - eventId:
   - 1035193
   - 1035660
+  - 1036000
   start: 2026-09-19T20:41:00Z
   stop: 2026-09-19T20:43:00Z
   title: HRT100 Vremeplov (31/34)
@@ -804,7 +807,9 @@
   title: 'Studio 4: U fokusu'
   subtitle: ' '
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
-- eventId: 1035661
+- eventId:
+  - 1035661
+  - 1036001
   start: 2026-09-19T20:43:00Z
   stop: 2026-09-19T21:04:00Z
   title: 'Studio 4: U fokusu'
@@ -843,6 +848,7 @@
 - eventId:
   - 1035195
   - 1035662
+  - 1036002
   start: 2026-09-19T21:08:00Z
   stop: 2026-09-19T21:10:00Z
   title: 'Bez komentara: Kina - Potpora naprednoj tehnologiji'
@@ -948,6 +954,7 @@
   - 1034391
   - 1035112
   - 1035663
+  - 1036003
   start: 2026-09-19T21:53:00Z
   stop: 2026-09-19T21:59:00Z
   title: '#REPORTAŽE: Amanda Mlinarić'
@@ -979,6 +986,7 @@
   - 1034392
   - 1035113
   - 1035664
+  - 1036004
   start: 2026-09-19T21:59:00Z
   stop: 2026-09-19T22:00:00Z
   title: 'Bez komentara: Kina - Pekinški tjedan umjetnosti i tehnologije'
@@ -986,7 +994,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 949232
   start: 2026-09-19T22:00:00Z
-  stop: 2026-09-19T22:10:00Z
+  stop: 2026-09-19T22:09:00Z
   title: Vijesti flash
   subtitle: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   ageRating: 4
@@ -1001,6 +1009,7 @@
   - 1034393
   - 1035114
   - 1035665
+  - 1036005
   start: 2026-09-19T22:09:00Z
   stop: 2026-09-19T22:16:00Z
   title: Vijesti iz kulture
@@ -1032,6 +1041,7 @@
   - 1034394
   - 1035115
   - 1035666
+  - 1036006
   start: 2026-09-19T22:16:00Z
   stop: 2026-09-19T22:19:00Z
   title: 'Bez komentara: SAD - SpaceX u tajnoj misiji'
@@ -1081,6 +1091,7 @@
   - 1034395
   - 1035116
   - 1035667
+  - 1036007
   start: 2026-09-19T22:19:00Z
   stop: 2026-09-19T22:49:00Z
   title: Auto Market Magazin
