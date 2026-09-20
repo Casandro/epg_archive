@@ -214,11 +214,19 @@
   title: LT1 Oberösterreich Aktuell
   description: LT1 zeigt aktuelle Nachrichten und Berichte aus ganz Oberösterreich.
   widescreen: true
-- eventId: 1067030
+- eventId:
+  - 1067030
+  - 1067042
   start: 2026-09-20T19:00:00Z
   stop: 2026-09-20T19:30:00Z
   title: RTS Salzburg Tagessendung
   description: Alles über Land und Leute in Salzburg. Persönlichkeiten, das lebendigste Brauchtum, Kultur und Kulinarik.
+  widescreen: true
+- eventId: 1067041
+  start: 2026-09-20T19:30:00Z
+  stop: 2026-09-20T20:00:00Z
+  title: Österreichblick
+  description: R9 zeigt die Highlights aller österreichischen Bundesländer.
   widescreen: true
 - eventId: 857218
   start: 2026-09-20T21:30:00Z
