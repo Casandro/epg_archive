@@ -480,7 +480,7 @@
   - 829200
   - 831976
   start: 2026-09-20T09:00:00Z
-  stop: 2026-09-20T09:30:00Z
+  stop: 2026-09-20T09:29:50Z
   title: Zprávy
   description: |-
     HDTV
@@ -500,7 +500,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 1053330
+- eventId:
+  - 1053330
+  - 1053774
   start: 2026-09-20T09:29:50Z
   stop: 2026-09-20T10:00:00Z
   title: Nedělní debata
