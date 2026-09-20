@@ -1444,14 +1444,16 @@
   description: Kratki pregled vijesti iz Hrvatske i svijeta.
 - eventId: 979944
   start: 2026-09-20T09:30:00Z
-  stop: 2026-09-20T09:32:00Z
+  stop: 2026-09-20T09:31:00Z
   title: Vrijeme RH danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 979945
+- eventId:
+  - 1055006
+  - 979945
   start: 2026-09-20T09:31:00Z
   stop: 2026-09-20T09:33:00Z
   title: Vrijeme Europa danas
@@ -1466,7 +1468,9 @@
   title: Vrijeme Europa danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 979946
+- eventId:
+  - 1054966
+  - 979946
   start: 2026-09-20T09:33:00Z
   stop: 2026-09-20T09:35:00Z
   title: Vrijeme Svijet danas
@@ -1481,7 +1485,9 @@
   title: Vrijeme svijet danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 979947
+- eventId:
+  - 1054967
+  - 979947
   start: 2026-09-20T09:35:00Z
   stop: 2026-09-20T09:55:00Z
   title: Studio 4
@@ -1502,7 +1508,9 @@
   title: Studio 4
   subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 979948
+- eventId:
+  - 1054968
+  - 979948
   start: 2026-09-20T09:55:00Z
   stop: 2026-09-20T10:00:00Z
   title: Bez komentara
@@ -1580,7 +1588,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 979956
+- eventId:
+  - 1054969
+  - 979956
   start: 2026-09-20T10:55:00Z
   stop: 2026-09-20T11:00:00Z
   title: Bez komentara
@@ -1624,14 +1634,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 979958
   start: 2026-09-20T11:30:00Z
-  stop: 2026-09-20T11:55:00Z
+  stop: 2026-09-20T11:31:00Z
   title: Vrijeme RH danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 979959
+- eventId:
+  - 1054970
+  - 979959
   start: 2026-09-20T11:31:00Z
   stop: 2026-09-20T11:33:00Z
   title: Vrijeme Europa danas
@@ -1640,7 +1652,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 979960
+- eventId:
+  - 1054971
+  - 979960
   start: 2026-09-20T11:33:00Z
   stop: 2026-09-20T11:35:00Z
   title: Vrijeme Svijet danas
@@ -1649,7 +1663,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 979961
+- eventId:
+  - 1054972
+  - 979961
   start: 2026-09-20T11:35:00Z
   stop: 2026-09-20T11:55:00Z
   title: Studio 4
@@ -1712,7 +1728,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 979968
+- eventId:
+  - 1054973
+  - 979968
   start: 2026-09-20T12:55:00Z
   stop: 2026-09-20T13:00:00Z
   title: Bez komentara
@@ -2356,7 +2374,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 980013
   start: 2026-09-20T22:00:00Z
-  stop: 2026-09-20T22:09:00Z
+  stop: 2026-09-20T22:10:00Z
   title: Vijesti flash
   subtitle: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   ageRating: 4
@@ -2383,6 +2401,7 @@
   - 1053322
   - 1054008
   - 1054251
+  - 1054974
   - 980014
   start: 2026-09-20T22:10:00Z
   stop: 2026-09-20T22:17:00Z
@@ -2412,6 +2431,7 @@
   - 1053323
   - 1054009
   - 1054252
+  - 1054975
   - 980015
   start: 2026-09-20T22:17:00Z
   stop: 2026-09-20T23:07:00Z
