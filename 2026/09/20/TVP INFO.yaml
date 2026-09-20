@@ -338,7 +338,9 @@
   description: |-
     program informacyjny
     Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
-- eventId: 837704
+- eventId:
+  - 1050091
+  - 837704
   start: 2026-09-20T07:25:00Z
   stop: 2026-09-20T07:30:00Z
   title: Prognoza pogody
@@ -396,6 +398,7 @@
     Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId:
   - 1046154
+  - 1050092
   - 837817
   start: 2026-09-20T10:27:00Z
   stop: 2026-09-20T10:30:00Z
@@ -443,7 +446,7 @@
   - '32'
 - eventId: 837822
   start: 2026-09-20T11:30:00Z
-  stop: 2026-09-20T12:15:00Z
+  stop: 2026-09-20T11:53:00Z
   title: 'Polscy szpiedzy: Maciej Moryc'
   subtitle: Czteroodcinkowa seria, w której Wioleta Firlej rozmawia z byłymi oficerami polskich służb. Wśród zaproszonych gości znajdą się m.in. pułkownicy Wojciech Martynowicz i Vincent V. Severski oraz major Tarski.
   description: |-
@@ -454,6 +457,7 @@
   - '51'
 - eventId:
   - 1046155
+  - 1050093
   - 962985
   start: 2026-09-20T11:53:00Z
   stop: 2026-09-20T12:00:00Z
@@ -463,7 +467,9 @@
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
   genre:
   - '34'
-- eventId: 1046156
+- eventId:
+  - 1046156
+  - 1050105
   start: 2026-09-20T12:00:00Z
   stop: 2026-09-20T12:23:00Z
   title: Serwis info dzień
@@ -501,6 +507,7 @@
     Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId:
   - 1046157
+  - 1050106
   - 837902
   start: 2026-09-20T12:24:00Z
   stop: 2026-09-20T12:30:00Z
@@ -783,7 +790,7 @@
   - '32'
 - eventId: 937912
   start: 2026-09-20T23:33:00Z
-  stop: 2026-09-20T23:52:00Z
+  stop: 2026-09-20T23:51:00Z
   title: Pytanie dnia
   subtitle: Zaproszony do studia gość komentuje wydarzenia dnia. Emisja bezpośrednio po głównym wydaniu programu informacyjnego ma związek z charakterem problematyki poruszanej w każdym odcinku.
   description: |-
@@ -793,6 +800,7 @@
   - '51'
 - eventId:
   - 1046158
+  - 1050125
   - 937913
   start: 2026-09-20T23:51:00Z
   stop: 2026-09-21T00:05:00Z
