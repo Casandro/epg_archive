@@ -1711,6 +1711,14 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+- eventId: 1056164
+  start: 2026-09-20T11:55:00Z
+  stop: 2026-09-20T12:00:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 979962
   start: 2026-09-20T11:55:00Z
   stop: 2026-09-20T12:00:00Z
@@ -1722,14 +1730,28 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 979963
   start: 2026-09-20T12:00:00Z
-  stop: 2026-09-20T12:30:00Z
+  stop: 2026-09-20T12:26:00Z
   title: Vijesti
   subtitle: Kratki pregled vijesti iz Hrvatske i svijeta.
   ageRating: 4
   genre:
   - '32'
   description: Kratki pregled vijesti iz Hrvatske i svijeta.
-- eventId: 979964
+- eventId: 1056146
+  start: 2026-09-20T12:26:00Z
+  stop: 2026-09-20T12:27:00Z
+  title: Vrijeme RH danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+- eventId: 1056147
+  start: 2026-09-20T12:27:00Z
+  stop: 2026-09-20T12:29:00Z
+  title: Vrijeme Europa danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+- eventId:
+  - 1056155
+  - 979964
   start: 2026-09-20T12:30:00Z
   stop: 2026-09-20T12:31:00Z
   title: Vrijeme RH danas
@@ -1747,7 +1769,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 979966
+- eventId:
+  - 1056156
+  - 979966
   start: 2026-09-20T12:33:00Z
   stop: 2026-09-20T12:35:00Z
   title: Vrijeme Svijet danas
@@ -1771,6 +1795,7 @@
   - 1055412
   - 1055428
   - 1055998
+  - 1056157
   - 979968
   start: 2026-09-20T12:55:00Z
   stop: 2026-09-20T13:00:00Z
@@ -2452,6 +2477,7 @@
   - 1055413
   - 1055429
   - 1055999
+  - 1056158
   - 980014
   start: 2026-09-20T22:10:00Z
   stop: 2026-09-20T22:17:00Z
@@ -2488,6 +2514,7 @@
   - 1055414
   - 1055430
   - 1056000
+  - 1056159
   - 980015
   start: 2026-09-20T22:17:00Z
   stop: 2026-09-20T23:07:00Z
