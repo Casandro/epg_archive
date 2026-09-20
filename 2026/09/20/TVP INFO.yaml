@@ -323,7 +323,7 @@
   - '34'
 - eventId: 837703
   start: 2026-09-20T07:05:00Z
-  stop: 2026-09-20T07:25:00Z
+  stop: 2026-09-20T07:24:00Z
   title: Info Poranek
   subtitle: Program składa się z serwisów informacyjnych i sportowych, przeglądu prasy krajowej i zagranicznej oraz portali internetowych, prognozy pogody, informacji ekonomicznych i rozmowy z zaproszonymi gośćmi.
   description: |-
@@ -331,6 +331,13 @@
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
   genre:
   - '34'
+- eventId: 1046917
+  start: 2026-09-20T07:24:00Z
+  stop: 2026-09-20T07:30:00Z
+  title: Pogoda Info
+  description: |-
+    program informacyjny
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId: 837704
   start: 2026-09-20T07:25:00Z
   stop: 2026-09-20T07:30:00Z
@@ -378,7 +385,9 @@
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
   genre:
   - '34'
-- eventId: 1039200
+- eventId:
+  - 1039200
+  - 1046949
   start: 2026-09-20T10:26:00Z
   stop: 2026-09-20T10:30:00Z
   title: Pogoda Info
@@ -434,7 +443,7 @@
   - '32'
 - eventId: 837822
   start: 2026-09-20T11:30:00Z
-  stop: 2026-09-20T11:53:00Z
+  stop: 2026-09-20T12:15:00Z
   title: 'Polscy szpiedzy: Maciej Moryc'
   subtitle: Czteroodcinkowa seria, w której Wioleta Firlej rozmawia z byłymi oficerami polskich służb. Wśród zaproszonych gości znajdą się m.in. pułkownicy Wojciech Martynowicz i Vincent V. Severski oraz major Tarski.
   description: |-
@@ -472,14 +481,18 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 1046146
+- eventId:
+  - 1046146
+  - 1046878
   start: 2026-09-20T12:15:00Z
   stop: 2026-09-20T12:23:00Z
   title: Serwis Info Dzień
   description: |-
     program informacyjny (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
-- eventId: 1046147
+- eventId:
+  - 1046147
+  - 1046879
   start: 2026-09-20T12:23:00Z
   stop: 2026-09-20T12:30:00Z
   title: Pogoda Info
@@ -789,7 +802,9 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 1046151
+- eventId:
+  - 1046151
+  - 1046882
   start: 2026-09-20T23:52:00Z
   stop: 2026-09-21T00:05:00Z
   title: Teleplotki
