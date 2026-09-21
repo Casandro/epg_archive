@@ -21,6 +21,7 @@
   - 1048013
   - 1060069
   - 1077069
+  - 1094018
   start: 2026-09-22T00:05:00Z
   stop: 2026-09-22T00:20:00Z
   title: Teleshopping
@@ -31,6 +32,13 @@
   - 1077070
   start: 2026-09-22T00:20:00Z
   stop: 2026-09-22T02:05:00Z
+  title: Hurra, die Schwedinnen sind da
+  subtitle: Hurra, die Schwedinnen sind da
+  description: Der Huber-Bauer ist der reichste Mann im Dorf. Er will seine Tochter am liebsten mit Niki, dem Schwiegersohn seiner Wahl, verkuppeln. Niki ist noch nicht überzeugt von dieser Idee, zumal fünf Schwedinnen auftauchen, bei denen Niki und sein Freund Tony wacker ihren Mann stehen müssen. Ge 1978
+  ageRating: 18
+- eventId: 1094019
+  start: 2026-09-22T00:20:00Z
+  stop: 2026-09-22T02:00:00Z
   title: Hurra, die Schwedinnen sind da
   subtitle: Hurra, die Schwedinnen sind da
   description: Der Huber-Bauer ist der reichste Mann im Dorf. Er will seine Tochter am liebsten mit Niki, dem Schwiegersohn seiner Wahl, verkuppeln. Niki ist noch nicht überzeugt von dieser Idee, zumal fünf Schwedinnen auftauchen, bei denen Niki und sein Freund Tony wacker ihren Mann stehen müssen. Ge 1978
@@ -55,6 +63,7 @@
   - 1048015
   - 1060071
   - 1077071
+  - 1094020
   start: 2026-09-22T02:05:00Z
   stop: 2026-09-22T02:20:00Z
   title: Teleshopping
@@ -63,6 +72,7 @@
   - 1048016
   - 1060072
   - 1077072
+  - 1094021
   start: 2026-09-22T02:20:00Z
   stop: 2026-09-22T04:00:00Z
   title: Liebesgrüße aus der Lederhose
@@ -91,9 +101,9 @@
 - eventId: 1080988
   start: 2026-09-22T04:00:00Z
   stop: 2026-09-22T05:00:00Z
-  title: Christian kocht
+  title: Das große Captain-Cook-Wunschkonzert
   subtitle: 1-2-3.tv Programmvorschau 22.09.2026, 6-7 Uhr
-  description: In dieser Stunde erwarten Sie diverse Highlights.
+  description: 'Nach Ihren Zuschriften und Wünschen wurden die beliebtesten Musik-Aufnahmen mit "Captain Cook und seinen singenden Saxophonen" ausgewählt. Die Erfolgsgeschichte der Instrumentalband begann1993: Der Textdichter aus Regensburg, Günther Behrle, entschloss sich, in Verehrung für den verstorbenen Bandleader Billy Vaughn ein Ensemble zusammenzustellen, dessen Melodiestimmen von Saxophonen gespielt werden. Der Erfolg ließ nicht lange auf sich warten... Ge 2015'
   genre:
   - '166'
 - eventId: 1080989
@@ -104,12 +114,16 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 1048033
+- eventId:
+  - 1048033
+  - 1094022
   start: 2026-09-22T05:05:00Z
   stop: 2026-09-22T05:25:00Z
   title: Teleshopping
   subtitle: Teleshopping
-- eventId: 1048034
+- eventId:
+  - 1048034
+  - 1094023
   start: 2026-09-22T05:25:00Z
   stop: 2026-09-22T10:00:00Z
   title: Teleshopping
@@ -148,7 +162,7 @@
   - '166'
 - eventId: 1048084
   start: 2026-09-22T10:00:00Z
-  stop: 2026-09-22T11:00:00Z
+  stop: 2026-09-22T12:00:00Z
   title: Maskenball bei Scotland Yard
   subtitle: 1-2-3.tv Programmvorschau 22.09.2026, 12-13 Uhr
   description: Agostino Celli behauptet sich mittels eines von ihm erfundenen Gerätes in die TV-Programme der ganzen Welt einschalten zu können. Mit Hilfe von Werbefachmann Giorgio fliehen beide aus dem Irrenhaus. Das Aufsehen ist ungeheuer, als sie mit ihren Werbesendungen für die Kuchen der Schwester Bonetti mitten in das offizielle Fernsehprogramm hineinsenden. Doch schon bald ist die Polizei auf ihrer Spur und eine groteske Jagd nach dem Schwarzsender beginnt. Ge 1963
@@ -164,7 +178,7 @@
   - '166'
 - eventId: 1048109
   start: 2026-09-22T12:00:00Z
-  stop: 2026-09-22T13:00:00Z
+  stop: 2026-09-22T15:25:00Z
   title: Teleshopping
   subtitle: 1-2-3.tv Programmvorschau 22.09.2026, 14-15 Uhr
   description: In dieser Stunde erwarten Sie diverse Highlights.
@@ -194,7 +208,9 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 1048132
+- eventId:
+  - 1048132
+  - 1094032
   start: 2026-09-22T15:25:00Z
   stop: 2026-09-22T16:35:00Z
   title: Schlager Traumreise - Amigos
@@ -213,6 +229,11 @@
   stop: 2026-09-22T17:05:00Z
   title: Teleshopping
   subtitle: Teleshopping
+- eventId: 1094033
+  start: 2026-09-22T16:35:00Z
+  stop: 2026-09-22T17:00:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
 - eventId: 1079916
   start: 2026-09-22T17:00:00Z
   stop: 2026-09-22T18:00:00Z
@@ -221,13 +242,17 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 1048134
+- eventId:
+  - 1048134
+  - 1094034
   start: 2026-09-22T17:05:00Z
   stop: 2026-09-22T17:40:00Z
   title: Amigos - 50 Jahre Schlager
   subtitle: Amigos - 50 Jahre Schlager
   description: In der Sendung "50 Jahre Schlager mit den Amigos" feiert die Musikwelt das beeindruckende Jubiläum der legendären Band. Durch mitreißende Auftritte und persönliche Einblicke in ihre Karriere wird die Geschichte der Amigos lebendig. Die Sendung präsentiert eine emotionale Reise durch fünf Jahrzehnte voller Hits und unvergesslicher Momente. Fans und Musikliebhaber gleichermaßen werden von den Geschichten hinter den Liedern und den berührenden Erinnerungen der Bandmitglieder berührt sein. Ge 2020
-- eventId: 1048135
+- eventId:
+  - 1048135
+  - 1094035
   start: 2026-09-22T17:40:00Z
   stop: 2026-09-22T18:15:00Z
   title: Teleshopping
@@ -248,7 +273,9 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 1048162
+- eventId:
+  - 1048162
+  - 1094042
   start: 2026-09-22T19:30:00Z
   stop: 2026-09-22T20:30:00Z
   title: Schlager Gold - Daniela Alfinito
@@ -262,7 +289,9 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 1048163
+- eventId:
+  - 1048163
+  - 1094043
   start: 2026-09-22T20:30:00Z
   stop: 2026-09-22T22:15:00Z
   title: Teleshopping
