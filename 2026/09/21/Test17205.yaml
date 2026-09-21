@@ -96,7 +96,7 @@
   hd: true
 - eventId: 964742
   start: 2026-09-21T03:25:00Z
-  stop: 2026-09-21T04:15:00Z
+  stop: 2026-09-21T04:10:00Z
   title: Mise au point
   description: |-
     (Rediffusion) (Suisse Romande-2026)  - Climat : le baroud d'honneur des verts Au terme d'un nouvel été caniculaire, les verts suisses tentent de relancer le débat climatique et la mobilisation populaire. Leur adversaire désigné : le Ministre UDC Albert Roesti.
@@ -104,6 +104,16 @@
      - L'eldorado des super-riches La ville de Prospera, au Honduras, incarne le rêve de certains super-riches : un espace libertaire qui s'invente ses propres règles, hors du contrôle de l'Etat. Visite exceptionnelle de la dernière utopie des milliardaires.
   genre:
   - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1078981
+  start: 2026-09-21T04:10:00Z
+  stop: 2026-09-21T05:00:00Z
+  title: 19h30 - Signé
+  description: (Rediffusion)  "Langue des signes"
+  genre:
+  - '33'
   widescreen: true
   subtitled: true
   hd: true
@@ -128,7 +138,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1002846
+- eventId:
+  - 1002846
+  - 1078982
   start: 2026-09-21T05:00:00Z
   stop: 2026-09-21T06:00:00Z
   title: La Matinale
