@@ -2337,7 +2337,7 @@
   - '160'
 - eventId: 1003206
   start: 2026-09-21T21:00:00Z
-  stop: 2026-09-21T22:00:00Z
+  stop: 2026-09-21T21:20:00Z
   title: In prelungiri
   subtitle: ' *Preluare TVR Timisoara   (Reluare)'
   ageRating: 4
@@ -2415,7 +2415,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1094097
+- eventId:
+  - 1094097
+  - 1094836
   start: 2026-09-21T21:20:00Z
   stop: 2026-09-21T22:00:00Z
   title: Reportazhe
@@ -2536,6 +2538,7 @@
   - 1090153
   - 1091461
   - 1094098
+  - 1094837
   start: 2026-09-21T22:05:00Z
   stop: 2026-09-21T23:25:00Z
   title: Click Plus
@@ -2609,6 +2612,7 @@
   - 1090154
   - 1091462
   - 1094099
+  - 1094838
   start: 2026-09-21T23:25:00Z
   stop: 2026-09-22T00:30:00Z
   title: Për ditë të mbarë

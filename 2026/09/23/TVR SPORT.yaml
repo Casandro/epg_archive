@@ -58,6 +58,7 @@
   - 1090183
   - 1091491
   - 1094128
+  - 1094867
   start: 2026-09-23T01:25:00Z
   stop: 2026-09-23T02:00:00Z
   title: Çikat n'Trip
@@ -102,6 +103,7 @@
   - 1090184
   - 1091492
   - 1094129
+  - 1094868
   start: 2026-09-23T02:00:00Z
   stop: 2026-09-23T03:30:00Z
   title: Reportazhe
@@ -178,6 +180,7 @@
   - 1090185
   - 1091493
   - 1094130
+  - 1094869
   start: 2026-09-23T03:30:00Z
   stop: 2026-09-23T04:10:00Z
   title: Muzike Top 10
@@ -222,6 +225,7 @@
   - 1090186
   - 1091494
   - 1094131
+  - 1094870
   start: 2026-09-23T04:10:00Z
   stop: 2026-09-23T04:40:00Z
   title: Muzike Top 10
@@ -250,6 +254,7 @@
   - 1090187
   - 1091495
   - 1094132
+  - 1094871
   start: 2026-09-23T04:40:00Z
   stop: 2026-09-23T05:00:00Z
   title: Muzikë për fëmijë
@@ -300,7 +305,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1094133
+- eventId:
+  - 1094133
+  - 1094872
   start: 2026-09-23T05:00:00Z
   stop: 2026-09-23T07:00:00Z
   title: Pastel
@@ -393,6 +400,7 @@
   - 1090189
   - 1091497
   - 1094134
+  - 1094873
   start: 2026-09-23T07:05:00Z
   stop: 2026-09-23T09:00:00Z
   title: Programi i mëngjesit
@@ -475,7 +483,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1094135
+- eventId:
+  - 1094135
+  - 1094874
   start: 2026-09-23T09:00:00Z
   stop: 2026-09-23T10:10:00Z
   title: Daily Click
@@ -568,6 +578,7 @@
   - 1090191
   - 1091499
   - 1094136
+  - 1094875
   start: 2026-09-23T10:15:00Z
   stop: 2026-09-23T10:35:00Z
   title: Muzikë argëtuese
@@ -602,7 +613,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1094137
+- eventId:
+  - 1094137
+  - 1094876
   start: 2026-09-23T10:35:00Z
   stop: 2026-09-23T11:10:00Z
   title: Farewell Letter
@@ -663,6 +676,7 @@
   - 1090193
   - 1091501
   - 1094138
+  - 1094877
   start: 2026-09-23T11:15:00Z
   stop: 2026-09-23T12:35:00Z
   title: Reportazhe
@@ -711,6 +725,7 @@
   - 1090194
   - 1091502
   - 1094139
+  - 1094878
   start: 2026-09-23T12:35:00Z
   stop: 2026-09-23T12:55:00Z
   title: Promo
@@ -739,6 +754,7 @@
   - 1090195
   - 1091503
   - 1094140
+  - 1094879
   start: 2026-09-23T12:55:00Z
   stop: 2026-09-23T13:00:00Z
   title: Promo
@@ -765,7 +781,7 @@
   subtitle: ' ... '
 - eventId: 1003266
   start: 2026-09-23T13:00:00Z
-  stop: 2026-09-23T13:10:00Z
+  stop: 2026-09-23T13:20:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -814,6 +830,7 @@
   - 1090196
   - 1091504
   - 1094141
+  - 1094880
   start: 2026-09-23T13:20:00Z
   stop: 2026-09-23T13:30:00Z
   title: Promo
@@ -842,6 +859,7 @@
   - 1090197
   - 1091505
   - 1094142
+  - 1094881
   start: 2026-09-23T13:30:00Z
   stop: 2026-09-23T14:00:00Z
   title: Reportazhe
@@ -859,7 +877,7 @@
   - '160'
 - eventId: 1003269
   start: 2026-09-23T15:00:00Z
-  stop: 2026-09-23T15:10:00Z
+  stop: 2026-09-23T15:55:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -912,7 +930,7 @@
   - '32'
 - eventId: 1003273
   start: 2026-09-23T17:00:00Z
-  stop: 2026-09-23T18:00:00Z
+  stop: 2026-09-23T17:10:00Z
   title: STADION
   subtitle: ' * MAGAZIN RUGBY Premiera '
   ageRating: 4
@@ -939,6 +957,7 @@
   - 1090198
   - 1091506
   - 1094143
+  - 1094882
   start: 2026-09-23T17:10:00Z
   stop: 2026-09-23T17:20:00Z
   title: 10 minuta
@@ -967,6 +986,7 @@
   - 1090199
   - 1091507
   - 1094144
+  - 1094883
   start: 2026-09-23T17:20:00Z
   stop: 2026-09-23T17:30:00Z
   title: Promo
@@ -995,6 +1015,7 @@
   - 1090200
   - 1091508
   - 1094145
+  - 1094884
   start: 2026-09-23T17:30:00Z
   stop: 2026-09-23T18:00:00Z
   title: Live News MK
@@ -1004,7 +1025,7 @@
   - '32'
 - eventId: 1003274
   start: 2026-09-23T18:00:00Z
-  stop: 2026-09-23T18:10:00Z
+  stop: 2026-09-23T18:45:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -1057,6 +1078,7 @@
   - 1090201
   - 1091509
   - 1094146
+  - 1094885
   start: 2026-09-23T18:45:00Z
   stop: 2026-09-23T19:30:00Z
   title: Firefly
@@ -1085,6 +1107,7 @@
   - 1090202
   - 1091510
   - 1094147
+  - 1094886
   start: 2026-09-23T19:30:00Z
   stop: 2026-09-23T20:55:00Z
   title: Film artistik
@@ -1102,7 +1125,7 @@
   - '160'
 - eventId: 1003276
   start: 2026-09-23T21:00:00Z
-  stop: 2026-09-23T22:00:00Z
+  stop: 2026-09-23T21:20:00Z
   title: Live News MK
   subtitle: ' Preluare TVR Cluj   (Reluare)'
   ageRating: 4
@@ -1135,7 +1158,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1094148
+- eventId:
+  - 1094148
+  - 1094887
   start: 2026-09-23T21:20:00Z
   stop: 2026-09-23T22:00:00Z
   title: Farewell Letter
@@ -1181,6 +1206,7 @@
   - 1090204
   - 1091512
   - 1094149
+  - 1094888
   start: 2026-09-23T22:05:00Z
   stop: 2026-09-23T23:25:00Z
   title: Click Plus
@@ -1209,6 +1235,7 @@
   - 1090205
   - 1091513
   - 1094150
+  - 1094889
   start: 2026-09-23T23:25:00Z
   stop: 2026-09-24T01:25:00Z
   title: Pastel
