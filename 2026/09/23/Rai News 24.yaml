@@ -41,8 +41,12 @@
   title: FACCIA A FACCIA
 - eventId: 1089874
   start: 2026-09-23T04:00:00Z
-  stop: 2026-09-23T04:26:55Z
+  stop: 2026-09-23T04:15:00Z
   title: NEWS + TITOLI
+- eventId: 1093761
+  start: 2026-09-23T04:15:00Z
+  stop: 2026-09-23T04:26:55Z
+  title: MATTINA 24 + METEO IN DIRETTA
 - eventId: 1089875
   start: 2026-09-23T04:26:55Z
   stop: 2026-09-23T04:30:00Z
@@ -54,14 +58,14 @@
 - eventId: 1089877
   start: 2026-09-23T04:45:00Z
   stop: 2026-09-23T04:57:00Z
-  title: AR
+  title: MATTINA 24
 - eventId: 1089878
   start: 2026-09-23T04:57:00Z
   stop: 2026-09-23T05:00:00Z
   title: METEO AM
 - eventId: 1089879
   start: 2026-09-23T05:00:00Z
-  stop: 2026-09-23T05:03:00Z
+  stop: 2026-09-23T05:28:00Z
   title: RASSEGNA STAMPA TITOLI QUOTIDIANI
 - eventId: 1089880
   start: 2026-09-23T05:03:00Z
@@ -73,28 +77,44 @@
   title: METEO AM
 - eventId: 1089882
   start: 2026-09-23T05:30:00Z
-  stop: 2026-09-23T05:45:00Z
+  stop: 2026-09-23T05:40:00Z
   title: NEWS + SOMMARIO
+- eventId: 1093762
+  start: 2026-09-23T05:40:00Z
+  stop: 2026-09-23T05:50:00Z
+  title: RASSEGNA STAMPA ESTERA
 - eventId: 1089883
   start: 2026-09-23T05:45:00Z
   stop: 2026-09-23T05:57:00Z
   title: BASTA LA SALUTE
+- eventId: 1093763
+  start: 2026-09-23T05:50:00Z
+  stop: 2026-09-23T06:00:00Z
+  title: MATTINA 24 + ISORADIO + METEO LIVE
 - eventId: 1089884
   start: 2026-09-23T05:57:00Z
   stop: 2026-09-23T06:00:00Z
   title: METEO AM
 - eventId: 1089890
   start: 2026-09-23T06:00:00Z
-  stop: 2026-09-23T06:26:00Z
+  stop: 2026-09-23T06:25:00Z
   title: NEWS
+- eventId: 1093768
+  start: 2026-09-23T06:25:00Z
+  stop: 2026-09-23T06:30:00Z
+  title: CISS
 - eventId: 1089891
   start: 2026-09-23T06:26:00Z
   stop: 2026-09-23T06:30:00Z
   title: CCISS
 - eventId: 1089892
   start: 2026-09-23T06:30:00Z
-  stop: 2026-09-23T07:00:00Z
+  stop: 2026-09-23T06:55:00Z
   title: RASSEGNA STAMPA
+- eventId: 1093769
+  start: 2026-09-23T06:55:00Z
+  stop: 2026-09-23T07:00:00Z
+  title: METEO 24
 - eventId: 1089893
   start: 2026-09-23T07:00:00Z
   stop: 2026-09-23T07:27:00Z
@@ -106,11 +126,15 @@
 - eventId: 1089895
   start: 2026-09-23T07:30:00Z
   stop: 2026-09-23T07:45:00Z
-  title: NEWS + SOMMARIO
+  title: CRONACHE DALL'ITALIA
 - eventId: 1089896
   start: 2026-09-23T07:45:00Z
   stop: 2026-09-23T08:00:00Z
   title: BASTA LA SALUTE
+- eventId: 1093770
+  start: 2026-09-23T07:47:00Z
+  stop: 2026-09-23T08:00:00Z
+  title: RASSEGNA STAMPA ESTERA REPLICA
 - eventId: 1089897
   start: 2026-09-23T08:00:00Z
   stop: 2026-09-23T08:30:00Z
@@ -126,12 +150,20 @@
   subtitle: NOTIZIARIO.
 - eventId: 1088923
   start: 2026-09-23T09:30:00Z
-  stop: 2026-09-23T09:45:00Z
+  stop: 2026-09-23T09:35:00Z
   title: NEWS + SOMMARIO
   subtitle: NOTIZIARIO.
+- eventId: 1093774
+  start: 2026-09-23T09:35:00Z
+  stop: 2026-09-23T09:45:00Z
+  title: CRONACHE DALL'ITALIA
 - eventId: 1088924
   start: 2026-09-23T09:45:00Z
   stop: 2026-09-23T09:55:55Z
+  title: FOCUS 24
+- eventId: 1093775
+  start: 2026-09-23T09:50:00Z
+  stop: 2026-09-23T10:00:00Z
   title: FOCUS 24
 - eventId: 1088925
   start: 2026-09-23T09:55:55Z
@@ -148,7 +180,7 @@
 - eventId: 1088928
   start: 2026-09-23T10:45:00Z
   stop: 2026-09-23T10:57:00Z
-  title: AR
+  title: FOCUS 24
 - eventId: 1088929
   start: 2026-09-23T10:57:00Z
   stop: 2026-09-23T11:00:00Z
@@ -161,10 +193,19 @@
   start: 2026-09-23T11:27:00Z
   stop: 2026-09-23T11:30:00Z
   title: METEO AM
+- eventId: 1093776
+  start: 2026-09-23T11:28:00Z
+  stop: 2026-09-23T11:30:00Z
+  title: METEO
 - eventId: 1088932
   start: 2026-09-23T11:30:00Z
-  stop: 2026-09-23T11:45:00Z
+  stop: 2026-09-23T11:40:00Z
   title: NEWS + SOMMARIO
+  subtitle: NOTIZIARIO.
+- eventId: 1093777
+  start: 2026-09-23T11:40:00Z
+  stop: 2026-09-23T12:00:00Z
+  title: BASTA LA SALUTE PRIMA EMISSIONE
 - eventId: 1088933
   start: 2026-09-23T11:45:00Z
   stop: 2026-09-23T12:00:00Z
@@ -175,12 +216,16 @@
   title: NEWS + TITOLI
 - eventId: 1088938
   start: 2026-09-23T12:30:00Z
+  stop: 2026-09-23T12:45:00Z
+  title: NEWS + SPAZIO RAINEWS.IT
+- eventId: 1093785
+  start: 2026-09-23T12:45:00Z
   stop: 2026-09-23T13:00:00Z
-  title: FILO DIRETTO
+  title: FOCUS 24
 - eventId: 1088939
   start: 2026-09-23T13:00:00Z
-  stop: 2026-09-23T13:23:00Z
-  title: NEWS
+  stop: 2026-09-23T13:30:00Z
+  title: POMERIGGIO 24
   subtitle: NOTIZIARIO.
 - eventId: 1088940
   start: 2026-09-23T13:23:00Z
@@ -198,12 +243,21 @@
   title: PROMO PRIMA SERATA RAI DEL GIORNO
 - eventId: 1088943
   start: 2026-09-23T14:00:00Z
-  stop: 2026-09-23T14:30:00Z
+  stop: 2026-09-23T14:26:55Z
   title: NEWS + TITOLI
+- eventId: 1093786
+  start: 2026-09-23T14:26:55Z
+  stop: 2026-09-23T14:30:00Z
+  title: METEO
 - eventId: 1088944
   start: 2026-09-23T14:30:00Z
-  stop: 2026-09-23T14:45:00Z
+  stop: 2026-09-23T14:33:00Z
   title: NEWS + SOMMARIO
+  subtitle: NOTIZIARIO.
+- eventId: 1093787
+  start: 2026-09-23T14:33:00Z
+  stop: 2026-09-23T15:00:00Z
+  title: POMERIGGIO 24
 - eventId: 1088945
   start: 2026-09-23T14:45:00Z
   stop: 2026-09-23T15:00:00Z
@@ -214,8 +268,12 @@
   title: NEWS + TITOLI
 - eventId: 1088952
   start: 2026-09-23T15:30:00Z
-  stop: 2026-09-23T15:45:00Z
+  stop: 2026-09-23T15:33:00Z
   title: NEWS + SOMMARIO + Economia e borsa
+- eventId: 1093789
+  start: 2026-09-23T15:33:00Z
+  stop: 2026-09-23T16:00:00Z
+  title: ECONOMIA 24
 - eventId: 1088953
   start: 2026-09-23T15:45:00Z
   stop: 2026-09-23T16:00:00Z
@@ -223,14 +281,14 @@
 - eventId: 1088954
   start: 2026-09-23T16:00:00Z
   stop: 2026-09-23T16:26:55Z
-  title: NEWS
+  title: SERA 24
 - eventId: 1088955
   start: 2026-09-23T16:26:55Z
   stop: 2026-09-23T16:30:00Z
   title: METEO
 - eventId: 1088956
   start: 2026-09-23T16:30:00Z
-  stop: 2026-09-23T16:45:00Z
+  stop: 2026-09-23T17:00:00Z
   title: NEWS + SOMMARIO
 - eventId: 1088957
   start: 2026-09-23T16:45:00Z
@@ -248,3 +306,70 @@
   start: 2026-09-23T17:45:00Z
   stop: 2026-09-23T18:00:00Z
   title: BASTA LA SALUTE
+- eventId: 1093790
+  start: 2026-09-23T18:00:00Z
+  stop: 2026-09-23T18:26:55Z
+  title: TG LIS + NEWS
+  subtitle: NOTIZIARIO.
+- eventId: 1093791
+  start: 2026-09-23T18:26:55Z
+  stop: 2026-09-23T18:30:00Z
+  title: METEO
+- eventId: 1093792
+  start: 2026-09-23T18:30:00Z
+  stop: 2026-09-23T18:45:00Z
+  title: NEWS + SOMMARIO
+  subtitle: NOTIZIARIO.
+- eventId: 1093793
+  start: 2026-09-23T18:45:00Z
+  stop: 2026-09-23T19:00:00Z
+  title: FOCUS 24
+- eventId: 1093794
+  start: 2026-09-23T19:00:00Z
+  stop: 2026-09-23T19:30:00Z
+  title: NEWS
+- eventId: 1093795
+  start: 2026-09-23T19:30:00Z
+  stop: 2026-09-23T19:45:00Z
+  title: FOCUS ESTERI
+- eventId: 1093796
+  start: 2026-09-23T19:45:00Z
+  stop: 2026-09-23T20:00:00Z
+  title: BASTA LA SALUTE
+- eventId: 1093797
+  start: 2026-09-23T20:00:00Z
+  stop: 2026-09-23T20:30:00Z
+  title: NEWS + TITOLI
+- eventId: 1093798
+  start: 2026-09-23T20:30:00Z
+  stop: 2026-09-23T21:00:00Z
+  title: FACCIA A FACCIA
+- eventId: 1093806
+  start: 2026-09-23T21:00:00Z
+  stop: 2026-09-23T21:30:00Z
+  title: NOTTE 24 - RASSEGNA STAMPA
+- eventId: 1093807
+  start: 2026-09-23T21:30:00Z
+  stop: 2026-09-23T22:00:00Z
+  title: NOTTE 24 - RASSEGNA STAMPA
+- eventId: 1093808
+  start: 2026-09-23T22:00:00Z
+  stop: 2026-09-23T22:25:00Z
+  title: NEWS
+- eventId: 1093809
+  start: 2026-09-23T22:25:00Z
+  stop: 2026-09-23T22:30:00Z
+  title: METEO
+- eventId: 1093810
+  start: 2026-09-23T22:30:00Z
+  stop: 2026-09-23T23:00:00Z
+  title: FACCIA A FACCIA
+- eventId: 1093811
+  start: 2026-09-23T23:00:00Z
+  stop: 2026-09-23T23:30:00Z
+  title: TG NOTTE + RASSEGNA STAMPA
+  subtitle: NOTIZIARIO.
+- eventId: 1093812
+  start: 2026-09-23T23:30:00Z
+  stop: 2026-09-24T00:00:00Z
+  title: REPLICA RASSEGNA STAMPA
