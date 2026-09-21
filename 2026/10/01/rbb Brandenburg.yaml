@@ -168,7 +168,7 @@
   start: 2026-10-01T12:30:00Z
   stop: 2026-10-01T14:00:00Z
   title: Utta Danella - Der schwarze Spiegel
-  subtitle: Spielfilm Deutschland 2000
+  subtitle: Fernsehfilm Deutschland 2000
   episodeUri: crid://onid-1/e/6a877be8d249e1c650284fa3
   genre:
   - '16'
@@ -176,6 +176,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 542969
   start: 2026-10-01T14:00:00Z
   stop: 2026-10-01T14:15:00Z
@@ -195,6 +196,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 543133
   start: 2026-10-01T15:05:00Z
   stop: 2026-10-01T15:53:00Z
@@ -307,11 +309,13 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId: 543731
   start: 2026-10-01T22:25:00Z
   stop: 2026-10-01T23:55:00Z
   title: Über die Grenze - Rausch der Sterne
-  subtitle: Spielfilm Deutschland 2020
+  subtitle: Fernsehfilm Deutschland 2020
   episodeUri: crid://onid-1/e/6a88cd628a863603524b8433
   genre:
   - '16'
@@ -319,6 +323,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId: 543732
   start: 2026-10-01T23:55:00Z
   stop: 2026-10-02T00:40:00Z
