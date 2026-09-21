@@ -1970,7 +1970,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1003203
+- eventId:
+  - 1003203
+  - 1096199
   start: 2026-09-21T17:00:00Z
   stop: 2026-09-21T18:00:00Z
   title: MARILE MECIURI
@@ -2335,6 +2337,7 @@
   - 1094905
   - 1095412
   - 1095751
+  - 1096149
   start: 2026-09-21T19:30:00Z
   stop: 2026-09-21T20:55:00Z
   title: Click Plus
@@ -2352,7 +2355,7 @@
   - '160'
 - eventId: 1003206
   start: 2026-09-21T21:00:00Z
-  stop: 2026-09-21T22:00:00Z
+  stop: 2026-09-21T21:20:00Z
   title: In prelungiri
   subtitle: ' *Preluare TVR Timisoara   (Reluare)'
   ageRating: 4
@@ -2429,6 +2432,14 @@
   - 1095752
   start: 2026-09-21T21:20:00Z
   stop: 2026-09-21T22:05:00Z
+  title: Reportazhe
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1096150
+  start: 2026-09-21T21:20:00Z
+  stop: 2026-09-21T22:00:00Z
   title: Reportazhe
   subtitle: ' '
   ageRating: 4
@@ -2553,6 +2564,7 @@
   - 1094837
   - 1095414
   - 1095753
+  - 1096151
   start: 2026-09-21T22:05:00Z
   stop: 2026-09-21T23:25:00Z
   title: Click Plus
@@ -2629,6 +2641,7 @@
   - 1094838
   - 1095415
   - 1095754
+  - 1096152
   start: 2026-09-21T23:25:00Z
   stop: 2026-09-22T00:30:00Z
   title: Për ditë të mbarë
