@@ -1986,6 +1986,7 @@
   - 1097442
   - 1097925
   - 1098406
+  - 1098797
   start: 2026-09-21T21:50:00Z
   stop: 2026-09-21T21:56:00Z
   title: '#REPORTAŽE'
@@ -2008,6 +2009,7 @@
   - 1097443
   - 1097926
   - 1098407
+  - 1098798
   start: 2026-09-21T21:56:00Z
   stop: 2026-09-21T22:00:00Z
   title: Bez komentara
@@ -2034,7 +2036,9 @@
   genre:
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 1013240
+- eventId:
+  - 1013240
+  - 1098799
   start: 2026-09-21T22:17:00Z
   stop: 2026-09-21T22:42:00Z
   title: Pogled preko granice - Hrvati u BiH
@@ -2043,7 +2047,9 @@
   genre:
   - '160'
   description: Tjedna emisija, donosi kratke reportaže o svakodnevici Hrvata u BiH, prati tamošnju političku scenu, događaje u hrvatskoj zajednici, podsjeća na velikane hrvatske kulture, znanosti i povijesti.
-- eventId: 1013241
+- eventId:
+  - 1013241
+  - 1098800
   start: 2026-09-21T22:42:00Z
   stop: 2026-09-21T23:05:00Z
   title: Regionalni dnevnik
@@ -2052,7 +2058,9 @@
   genre:
   - '32'
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 1013242
+- eventId:
+  - 1013242
+  - 1098801
   start: 2026-09-21T23:05:00Z
   stop: 2026-09-21T23:57:00Z
   title: Dnevnik 2
@@ -2076,3 +2084,11 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+- eventId: 1098802
+  start: 2026-09-21T23:58:00Z
+  stop: 2026-09-22T00:00:00Z
+  title: Vrijeme RH danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
