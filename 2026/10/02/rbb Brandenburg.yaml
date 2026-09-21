@@ -85,6 +85,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId: 544153
   start: 2026-10-02T07:45:00Z
   stop: 2026-10-02T08:30:00Z
@@ -95,6 +96,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 544154
   start: 2026-10-02T08:30:00Z
   stop: 2026-10-02T09:15:00Z
@@ -105,6 +107,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 544289
   start: 2026-10-02T09:15:00Z
   stop: 2026-10-02T10:05:00Z
@@ -126,10 +129,12 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId: 544291
   start: 2026-10-02T10:55:00Z
   stop: 2026-10-02T11:10:00Z
-  title: Quarks
+  title: 'Quarks: Ist uns Künstliche Intelligenz überlegen?'
   subtitle: Ist uns Künstliche Intelligenz überlegen?
   episodeUri: crid://onid-1/e/6a88cd628a863603524b8415
   widescreen: true

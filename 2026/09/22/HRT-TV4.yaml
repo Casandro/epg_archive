@@ -243,7 +243,7 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 1039915
   start: 2026-09-22T04:18:00Z
-  stop: 2026-09-22T04:25:00Z
+  stop: 2026-09-22T04:26:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
@@ -285,6 +285,7 @@
   - 1087600
   - 1088312
   - 1088620
+  - 1089211
   start: 2026-09-22T04:26:00Z
   stop: 2026-09-22T04:56:00Z
   title: Otvoreno
@@ -342,6 +343,7 @@
   - 1088313
   - 1088443
   - 1088621
+  - 1089212
   start: 2026-09-22T04:56:00Z
   stop: 2026-09-22T05:00:00Z
   title: Bez komentara
@@ -1000,7 +1002,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1039998
   start: 2026-09-22T20:15:00Z
-  stop: 2026-09-22T20:43:00Z
+  stop: 2026-09-22T20:45:00Z
   title: 'Zadar: More'
   subtitle: Mozaična informativna emisija posvećena bogatstvu našeg Jadranskog mora, obale i priobalja. Donosi zanimljive reportaže o temama vezanim za život na moru i uz njega.
   ageRating: 4
@@ -1022,6 +1024,14 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+- eventId: 1089213
+  start: 2026-09-22T20:45:00Z
+  stop: 2026-09-22T21:05:00Z
+  title: Sportske minute
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1089203
   start: 2026-09-22T21:03:00Z
   stop: 2026-09-22T21:06:00Z
@@ -1037,13 +1047,23 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1089214
+  start: 2026-09-22T21:05:00Z
+  stop: 2026-09-22T21:08:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1089204
   start: 2026-09-22T21:06:00Z
   stop: 2026-09-22T21:10:00Z
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1040001
+- eventId:
+  - 1040001
+  - 1089215
   start: 2026-09-22T21:08:00Z
   stop: 2026-09-22T21:10:00Z
   title: Bez komentara
