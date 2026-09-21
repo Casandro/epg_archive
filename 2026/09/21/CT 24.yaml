@@ -977,6 +977,17 @@
   genre:
   - '35'
   widescreen: true
+- eventId: 1093284
+  start: 2026-09-21T13:38:32Z
+  stop: 2026-09-21T14:00:00Z
+  title: Ekonomika ČT24
+  subtitle: Nejdůležitější zprávy ze světa peněz každý všední den.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '128'
+  widescreen: true
 - eventId: 1092964
   start: 2026-09-21T13:39:22Z
   stop: 2026-09-21T14:00:00Z
@@ -1182,6 +1193,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1093347
   - 863272
   - 869343
   start: 2026-09-21T15:33:00Z
@@ -1208,6 +1220,7 @@
   - '35'
   widescreen: true
 - eventId:
+  - 1093360
   - 863273
   - 869344
   start: 2026-09-21T15:55:00Z
@@ -1227,6 +1240,7 @@
 - eventId:
   - 1092968
   - 1093149
+  - 1093355
   - 863274
   - 869345
   start: 2026-09-21T16:00:00Z
@@ -1256,7 +1270,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1093150
+- eventId:
+  - 1093150
+  - 1093302
   start: 2026-09-21T16:03:00Z
   stop: 2026-09-21T16:28:00Z
   title: Studio ČT24
