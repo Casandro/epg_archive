@@ -519,6 +519,7 @@
   - 1069299
   - 1069380
   - 1086284
+  - 1086511
   start: 2026-09-21T07:09:00Z
   stop: 2026-09-21T07:44:00Z
   title: Kulturzeit
@@ -538,7 +539,9 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 1086252
+- eventId:
+  - 1086252
+  - 1086355
   start: 2026-09-21T07:10:00Z
   stop: 2026-09-21T07:46:00Z
   title: Kulturzeit
@@ -562,6 +565,7 @@
   - 1069300
   - 1069381
   - 1086283
+  - 1086510
   start: 2026-09-21T07:44:00Z
   stop: 2026-09-21T08:21:00Z
   title: 'NANO: Regenwald Revival'
@@ -595,7 +599,9 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 1086253
+- eventId:
+  - 1086253
+  - 1086354
   start: 2026-09-21T07:46:00Z
   stop: 2026-09-21T08:15:00Z
   title: 'NANO: Regenwald Revival'
@@ -608,6 +614,15 @@
     HD-Produktion
   genre:
   - '144'
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId: 1086360
+  start: 2026-09-21T08:15:00Z
+  stop: 2026-09-21T08:21:00Z
+  title: DACH-Bodenfund - Erfindungen
+  genre:
+  - '32'
   widescreen: true
   hd: true
   audiodesc: true
