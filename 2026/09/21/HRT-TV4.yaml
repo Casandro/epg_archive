@@ -1837,7 +1837,7 @@
   description: Emisija Hrvatskog radija u kojoj o aktualnim političkim, društvenim i gospodarskim temama i radu stranaka govore predsjednici oporbenih parlamentarnih stranaka.
 - eventId: 1013227
   start: 2026-09-21T19:00:00Z
-  stop: 2026-09-21T19:44:00Z
+  stop: 2026-09-21T19:45:00Z
   title: Pregled dana
   subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -1872,7 +1872,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1013230
   start: 2026-09-21T20:15:00Z
-  stop: 2026-09-21T20:41:00Z
+  stop: 2026-09-21T20:42:00Z
   title: Svijet zabave
   subtitle: Vodimo vas kroz svijet glazbe, filma, mode, glamura, poznatih javnih osoba, događaja, crvenih tepiha...
   ageRating: 4
@@ -1885,7 +1885,9 @@
   title: 'Studio 4: Dijagnoza'
   subtitle: ' '
   description: U razgovoru s liječnicima i reportažama otkrivaju se istine i zablude vezane za određenu dijagnozu, potiče na aktivnosti koje preveniraju bolest te na pravodobnu terapiju nakon postavljanja dijagnoze
-- eventId: 1014769
+- eventId:
+  - 1014769
+  - 1097383
   start: 2026-09-21T20:42:00Z
   stop: 2026-09-21T21:02:00Z
   title: 'Studio 4: Dijagnoza'
@@ -1894,14 +1896,6 @@
   genre:
   - '160'
   description: U razgovoru s liječnicima i reportažama otkrivaju se istine i zablude vezane za određenu dijagnozu, potiče na aktivnosti koje preveniraju bolest te na pravodobnu terapiju nakon postavljanja dijagnoze
-- eventId: 1097383
-  start: 2026-09-21T20:42:00Z
-  stop: 2026-09-21T21:01:00Z
-  title: 'Studio 4: Dijagnoza'
-  subtitle: U razgovoru s liječnicima i reportažama otkrivaju se istine i zablude vezane za određenu dijagnozu, potiče na aktivnosti koje preveniraju bolest te na pravodobnu terapiju nakon postavljanja dijagnoze.
-  ageRating: 4
-  genre:
-  - '160'
 - eventId: 1097118
   start: 2026-09-21T21:01:00Z
   stop: 2026-09-21T21:06:00Z
