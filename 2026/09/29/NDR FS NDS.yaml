@@ -227,6 +227,7 @@
   widescreen: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 571572
   - 708760
@@ -238,6 +239,7 @@
   widescreen: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 571836
   - 708820
@@ -249,6 +251,8 @@
   widescreen: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId:
   - 571837
   - 708821
@@ -264,12 +268,15 @@
   - 708822
   start: 2026-09-29T13:10:00Z
   stop: 2026-09-29T14:00:00Z
-  title: WaPo Bodensee
+  title: WaPo Bodensee (15)
   subtitle: Blutsbrüder
   subtitled: true
   widescreen: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 571839
   - 708823
@@ -285,8 +292,8 @@
   - 708824
   start: 2026-09-29T14:15:00Z
   stop: 2026-09-29T15:00:00Z
-  title: Wer weiß denn sowas?
-  subtitle: 'Moderation: Kai Pflaume'
+  title: Wer weiß denn sowas? (1147)
+  subtitle: 'Gäste: Harald Krassnitzer und Aylin Tezel'
   subtitled: true
   widescreen: true
   hd: true
@@ -307,7 +314,7 @@
   start: 2026-09-29T15:10:00Z
   stop: 2026-09-29T16:00:00Z
   title: Leopard, Seebär & Co. (82)
-  subtitle: Bye Bye, Thai!
+  subtitle: Geschichten aus dem Tierpark Hagenbeck in Hamburg
   subtitled: true
   widescreen: true
   hd: true
