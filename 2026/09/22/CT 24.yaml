@@ -1,18 +1,9 @@
-- eventId: 1097146
-  start: 2026-09-22T00:00:00Z
-  stop: 2026-09-22T00:10:00Z
-  title: Zprávy
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '32'
-  widescreen: true
 - eventId:
+  - 1097146
   - 892233
   - 898197
   start: 2026-09-22T00:00:00Z
-  stop: 2026-09-22T00:11:00Z
+  stop: 2026-09-22T00:10:00Z
   title: Zprávy
   description: |-
     HDTV
@@ -24,6 +15,7 @@
   hd: true
 - eventId:
   - 1097147
+  - 1097701
   - 892234
   - 898198
   start: 2026-09-22T00:10:00Z
@@ -79,6 +71,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1097702
+  start: 2026-09-22T00:34:00Z
+  stop: 2026-09-22T00:59:43Z
+  title: Události v regionech
+  subtitle: Hlavní regionální zpravodajská relace České televize. Souhrn nejdůležitějších událostí dne na jižní Moravě a ve Zlínském kraji.
+  description: |-
+    HDTV
+    Znakový jazyk
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId: 1096851
   start: 2026-09-22T00:35:00Z
   stop: 2026-09-22T00:59:43Z
@@ -117,6 +121,7 @@
   widescreen: true
 - eventId:
   - 1097149
+  - 1097703
   - 892236
   - 898200
   start: 2026-09-22T01:00:00Z
@@ -169,6 +174,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1097704
+  start: 2026-09-22T01:10:00Z
+  stop: 2026-09-22T01:33:43Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1096704
   - 1096727
@@ -197,22 +213,8 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 1097151
-  start: 2026-09-22T01:34:00Z
-  stop: 2026-09-22T01:58:10Z
-  title: Události v regionech
-  subtitle: |-
-    Na Dny NATO dorazilo o víkendu 150 tisíc lidí
-    Bývalý náměstek hejtmana Unucka je vinen z úplatkářství
-    Olomoucký kraj bude s Agelem provozovat 4 nemocnice.
-  description: |-
-    HDTV
-    Znakový jazyk
-    Skryté titulky
-  genre:
-  - '32'
-  widescreen: true
 - eventId:
+  - 1097151
   - 892238
   - 898202
   start: 2026-09-22T01:34:00Z
@@ -231,6 +233,21 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1097705
+  start: 2026-09-22T01:34:00Z
+  stop: 2026-09-22T01:57:54Z
+  title: Události v regionech
+  subtitle: |-
+    Na Dny NATO dorazilo o víkendu 150 tisíc lidí
+    Bývalý náměstek hejtmana Unucka je vinen z úplatkářství
+    Olomoucký kraj bude s Agelem provozovat 4 nemocnice.
+  description: |-
+    HDTV
+    Znakový jazyk
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 1096705
   - 1096728
@@ -272,6 +289,7 @@
   widescreen: true
 - eventId:
   - 1097235
+  - 1097706
   - 892239
   - 898203
   start: 2026-09-22T02:00:00Z
@@ -311,7 +329,18 @@
   widescreen: true
 - eventId: 1097236
   start: 2026-09-22T02:10:00Z
-  stop: 2026-09-22T02:57:10Z
+  stop: 2026-09-22T02:59:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 1097707
+  start: 2026-09-22T02:10:00Z
+  stop: 2026-09-22T02:56:54Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
   description: |-
@@ -368,6 +397,8 @@
   - '32'
   widescreen: true
 - eventId:
+  - 1097631
+  - 1097708
   - 892241
   - 898209
   start: 2026-09-22T03:00:00Z
@@ -415,6 +446,8 @@
   - '35'
   widescreen: true
 - eventId:
+  - 1097632
+  - 1097709
   - 892242
   - 898210
   start: 2026-09-22T03:10:00Z
