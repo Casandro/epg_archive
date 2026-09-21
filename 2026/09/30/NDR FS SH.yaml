@@ -156,15 +156,17 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId: 572664
   start: 2026-09-30T11:10:00Z
   stop: 2026-09-30T12:00:00Z
   title: In aller Freundschaft - Die jungen Ärzte (258)
-  subtitle: Vertrauenverlust
+  subtitle: Vertrauensverlust
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId: 572946
   start: 2026-09-30T12:00:00Z
   stop: 2026-09-30T13:00:00Z
@@ -174,6 +176,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId: 572947
   start: 2026-09-30T13:00:00Z
   stop: 2026-09-30T13:10:00Z
@@ -185,12 +189,15 @@
 - eventId: 572948
   start: 2026-09-30T13:10:00Z
   stop: 2026-09-30T14:00:00Z
-  title: WaPo Bodensee
+  title: WaPo Bodensee (16)
   subtitle: Schneewittchen
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId: 572949
   start: 2026-09-30T14:00:00Z
   stop: 2026-09-30T14:15:00Z
@@ -220,7 +227,7 @@
   start: 2026-09-30T15:10:00Z
   stop: 2026-09-30T16:00:00Z
   title: Leopard, Seebär & Co. (83)
-  subtitle: Tragische Geburt im Bisonrevier
+  subtitle: Geschichten aus dem Tierpark Hagenbeck in Hamburg
   widescreen: true
   subtitled: true
   hd: true
@@ -242,6 +249,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId: 573142
   start: 2026-09-30T16:45:00Z
   stop: 2026-09-30T17:30:00Z
@@ -313,7 +322,7 @@
 - eventId: 573339
   start: 2026-09-30T21:35:00Z
   stop: 2026-09-30T22:20:00Z
-  title: Die Braut, ihr Mann, die Eltern & Wir!
+  title: Die Braut, ihr Mann, die Eltern & Wir! (2/5)
   subtitle: 'Kai und Knossi auf Hochzeitsreise: Indien'
   widescreen: true
   subtitled: true
@@ -341,11 +350,13 @@
   start: 2026-09-30T23:20:00Z
   stop: 2026-09-30T23:50:00Z
   title: 'Die Nordreportage: Spenden statt wegwerfen'
-  subtitle: Haushaltsauflösung nachhaltig
+  subtitle: Spenden statt wegwerfen - Haushaltsauflösung nachhaltig
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId: 573343
   start: 2026-09-30T23:50:00Z
   stop: 2026-10-01T00:20:00Z
