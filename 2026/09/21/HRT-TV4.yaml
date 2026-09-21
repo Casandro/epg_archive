@@ -1965,7 +1965,7 @@
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 1013235
   start: 2026-09-21T21:30:00Z
-  stop: 2026-09-21T21:53:00Z
+  stop: 2026-09-21T21:50:00Z
   title: 'Studio 4: Jutarnji intervju'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -1987,6 +1987,7 @@
   - 1097925
   - 1098406
   - 1098797
+  - 1098900
   start: 2026-09-21T21:50:00Z
   stop: 2026-09-21T21:56:00Z
   title: '#REPORTAŽE'
@@ -2016,6 +2017,7 @@
   - 1097926
   - 1098407
   - 1098798
+  - 1098901
   start: 2026-09-21T21:56:00Z
   stop: 2026-09-21T22:00:00Z
   title: Bez komentara
@@ -2051,6 +2053,7 @@
 - eventId:
   - 1013240
   - 1098799
+  - 1098902
   start: 2026-09-21T22:17:00Z
   stop: 2026-09-21T22:42:00Z
   title: Pogled preko granice - Hrvati u BiH
@@ -2068,6 +2071,7 @@
 - eventId:
   - 1013241
   - 1098800
+  - 1098903
   start: 2026-09-21T22:42:00Z
   stop: 2026-09-21T23:05:00Z
   title: Regionalni dnevnik
@@ -2085,6 +2089,7 @@
 - eventId:
   - 1013242
   - 1098801
+  - 1098904
   start: 2026-09-21T23:05:00Z
   stop: 2026-09-21T23:57:00Z
   title: Dnevnik 2
@@ -2114,7 +2119,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 1098802
+- eventId:
+  - 1098802
+  - 1098905
   start: 2026-09-21T23:58:00Z
   stop: 2026-09-22T00:00:00Z
   title: Vrijeme RH danas
