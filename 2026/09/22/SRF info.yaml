@@ -69,6 +69,15 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1099234
+  start: 2026-09-22T00:35:00Z
+  stop: 2026-09-22T00:50:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 896481
   start: 2026-09-22T00:40:00Z
   stop: 2026-09-22T00:45:00Z
@@ -102,13 +111,14 @@
   hd: true
 - eventId: 896484
   start: 2026-09-22T00:55:00Z
-  stop: 2026-09-22T01:20:00Z
+  stop: 2026-09-22T01:00:00Z
   title: 10 vor 10
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: Spätausgabe
 - eventId: 1099235
   start: 2026-09-22T01:00:00Z
   stop: 2026-09-22T01:05:00Z
@@ -619,7 +629,7 @@
   hd: true
 - eventId: 1002885
   start: 2026-09-22T05:15:00Z
-  stop: 2026-09-22T05:35:00Z
+  stop: 2026-09-22T05:20:00Z
   title: Schweiz aktuell
   genre:
   - '32'
@@ -627,10 +637,23 @@
   subtitled: true
   hd: true
   description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  subtitle: Die Sportnews des Tages
+- eventId: 1099278
+  start: 2026-09-22T05:20:00Z
+  stop: 2026-09-22T05:35:00Z
+  title: Schweiz aktuell
+  description: |-
     Tierseuche
     Baubeginn
     Hundekurse
     Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1002886
   start: 2026-09-22T05:35:00Z
   stop: 2026-09-22T06:15:00Z
