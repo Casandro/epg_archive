@@ -449,7 +449,7 @@
   - 863160
   - 869233
   start: 2026-09-21T11:00:00Z
-  stop: 2026-09-21T11:05:10Z
+  stop: 2026-09-21T11:03:00Z
   title: Zprávy
   description: |-
     HDTV
@@ -460,6 +460,8 @@
   subtitled: true
   hd: true
 - eventId:
+  - 1087820
+  - 1088034
   - 863161
   - 869234
   start: 2026-09-21T11:03:00Z
@@ -499,10 +501,11 @@
   - '35'
   widescreen: true
 - eventId:
+  - 1088035
   - 863162
   - 869235
   start: 2026-09-21T11:30:00Z
-  stop: 2026-09-21T11:35:00Z
+  stop: 2026-09-21T11:34:55Z
   title: Zprávy
   description: |-
     HDTV
@@ -537,6 +540,28 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1087821
+  start: 2026-09-21T11:34:55Z
+  stop: 2026-09-21T12:00:55Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 1088036
+  start: 2026-09-21T11:34:55Z
+  stop: 2026-09-21T12:00:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId: 1087606
   start: 2026-09-21T11:35:00Z
   stop: 2026-09-21T12:00:00Z
@@ -573,6 +598,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1087822
+  start: 2026-09-21T12:00:55Z
+  stop: 2026-09-21T12:07:00Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 863165
   - 869294
@@ -588,6 +623,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1087823
+  start: 2026-09-21T12:07:00Z
+  stop: 2026-09-21T12:30:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 863166
   - 869295
