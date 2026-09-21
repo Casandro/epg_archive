@@ -1552,23 +1552,13 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1098505
-  start: 2026-09-21T21:00:00Z
-  stop: 2026-09-21T21:08:56Z
-  title: Předpověď počasí
-  subtitle: Souhrn meteorologických informací.
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '33'
-  widescreen: true
 - eventId:
+  - 1098505
   - 1098529
   - 863284
   - 869425
   start: 2026-09-21T21:00:00Z
-  stop: 2026-09-21T21:07:23Z
+  stop: 2026-09-21T21:08:56Z
   title: Předpověď počasí
   subtitle: Souhrn meteorologických informací.
   description: |-
@@ -1634,7 +1624,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 1098538
+- eventId:
+  - 1098538
+  - 1098560
   start: 2026-09-21T21:08:56Z
   stop: 2026-09-21T21:32:00Z
   title: Zprávy ve 23
