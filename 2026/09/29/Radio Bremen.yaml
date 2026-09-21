@@ -185,6 +185,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 533159
   start: 2026-09-29T11:10:00Z
   stop: 2026-09-29T12:00:00Z
@@ -194,6 +195,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 533379
   start: 2026-09-29T12:00:00Z
   stop: 2026-09-29T13:00:00Z
@@ -203,6 +205,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId: 533380
   start: 2026-09-29T13:00:00Z
   stop: 2026-09-29T13:10:00Z
@@ -214,12 +218,15 @@
 - eventId: 533381
   start: 2026-09-29T13:10:00Z
   stop: 2026-09-29T14:00:00Z
-  title: WaPo Bodensee
+  title: WaPo Bodensee (15)
   subtitle: Blutsbrüder
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId: 533382
   start: 2026-09-29T14:00:00Z
   stop: 2026-09-29T14:15:00Z
@@ -231,8 +238,8 @@
 - eventId: 533383
   start: 2026-09-29T14:15:00Z
   stop: 2026-09-29T15:00:00Z
-  title: Wer weiß denn sowas?
-  subtitle: 'Moderation: Kai Pflaume'
+  title: Wer weiß denn sowas? (1147)
+  subtitle: 'Gäste: Harald Krassnitzer und Aylin Tezel'
   widescreen: true
   subtitled: true
   hd: true
@@ -249,7 +256,7 @@
   start: 2026-09-29T15:10:00Z
   stop: 2026-09-29T16:00:00Z
   title: Leopard, Seebär & Co. (82)
-  subtitle: Bye Bye, Thai!
+  subtitle: Geschichten aus dem Tierpark Hagenbeck in Hamburg
   widescreen: true
   subtitled: true
   hd: true
@@ -350,13 +357,14 @@
   start: 2026-09-29T20:00:00Z
   stop: 2026-09-29T21:30:00Z
   title: 'Tatort: Die goldene Zeit'
-  subtitle: 'Tatort: Die goldene Zeit'
+  subtitle: Fernsehfilm Deutschland 2019
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId: 535127
   start: 2026-09-29T21:30:00Z
   stop: 2026-09-29T22:00:00Z
@@ -374,14 +382,17 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId: 545180
   start: 2026-09-29T23:25:00Z
   stop: 2026-09-30T00:55:00Z
   title: 'Tatort: Die goldene Zeit'
-  subtitle: 'Tatort: Die goldene Zeit'
+  subtitle: Fernsehfilm Deutschland 2019
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
