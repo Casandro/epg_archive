@@ -394,7 +394,7 @@
   - 863158
   - 869231
   start: 2026-09-21T10:30:00Z
-  stop: 2026-09-21T10:33:05Z
+  stop: 2026-09-21T10:33:19Z
   title: Zprávy
   description: |-
     HDTV
@@ -426,6 +426,17 @@
   stop: 2026-09-21T11:00:00Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 1088608
+  start: 2026-09-21T10:33:19Z
+  stop: 2026-09-21T11:00:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Výsledky německých zemských voleb; Střet zájmů (upoutávka Reportérů ČT); Výrazná změna počasí.'
   description: |-
     HDTV
     Skryté titulky
@@ -500,7 +511,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 1088514
+- eventId:
+  - 1088514
+  - 1088527
   start: 2026-09-21T11:29:50Z
   stop: 2026-09-21T11:32:50Z
   title: Zprávy
@@ -535,7 +548,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 1088515
+- eventId:
+  - 1088515
+  - 1088528
   start: 2026-09-21T11:32:50Z
   stop: 2026-09-21T12:00:00Z
   title: Studio ČT24
@@ -606,6 +621,7 @@
   - '35'
   widescreen: true
 - eventId:
+  - 1088530
   - 863164
   - 869293
   start: 2026-09-21T12:00:00Z
@@ -630,6 +646,7 @@
   - '32'
   widescreen: true
 - eventId:
+  - 1088531
   - 863165
   - 869294
   start: 2026-09-21T12:03:00Z
@@ -655,7 +672,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 1088516
+- eventId:
+  - 1088516
+  - 1088532
   start: 2026-09-21T12:29:55Z
   stop: 2026-09-21T12:32:55Z
   title: Zprávy
@@ -679,7 +698,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1088517
+- eventId:
+  - 1088517
+  - 1088533
   start: 2026-09-21T12:32:55Z
   stop: 2026-09-21T13:00:00Z
   title: Studio ČT24
@@ -745,7 +766,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1088518
+- eventId:
+  - 1088518
+  - 1088534
   start: 2026-09-21T13:05:05Z
   stop: 2026-09-21T13:30:00Z
   title: Studio ČT24
