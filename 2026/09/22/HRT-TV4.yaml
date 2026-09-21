@@ -396,6 +396,7 @@
   - 1039920
   - 1095991
   - 1096401
+  - 1096621
   start: 2026-09-22T05:15:00Z
   stop: 2026-09-22T05:22:00Z
   title: Vijesti iz kulture
@@ -425,6 +426,7 @@
   - 1039922
   - 1095992
   - 1096402
+  - 1096622
   start: 2026-09-22T05:23:00Z
   stop: 2026-09-22T05:24:00Z
   title: Vrijeme Europa danas
@@ -631,6 +633,7 @@
   - 1039942
   - 1095993
   - 1096403
+  - 1096623
   start: 2026-09-22T11:48:00Z
   stop: 2026-09-22T11:56:00Z
   title: 'Studio 4: Znanost'
@@ -819,7 +822,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1039966
   start: 2026-09-22T14:30:00Z
-  stop: 2026-09-22T14:57:00Z
+  stop: 2026-09-22T14:56:00Z
   title: 'DW: Sutrašnjica danas'
   subtitle: Emisija Deutsche Wellea o europskom načinu života, donosi zanimljivosti iz europskih gradova.
   ageRating: 4
@@ -838,6 +841,7 @@
   - 1039967
   - 1095994
   - 1096404
+  - 1096624
   start: 2026-09-22T14:57:00Z
   stop: 2026-09-22T15:05:00Z
   title: 'Studio 4: Kultura'
@@ -858,6 +862,7 @@
   - 1039968
   - 1095995
   - 1096405
+  - 1096625
   start: 2026-09-22T15:05:00Z
   stop: 2026-09-22T15:13:00Z
   title: 'Studio 4: Znanost'
@@ -888,6 +893,7 @@
   - 1039971
   - 1095996
   - 1096406
+  - 1096626
   start: 2026-09-22T15:15:00Z
   stop: 2026-09-22T15:20:00Z
   title: Vrijeme Svijet danas
@@ -934,6 +940,7 @@
   - 1039974
   - 1095997
   - 1096407
+  - 1096627
   start: 2026-09-22T15:45:00Z
   stop: 2026-09-22T15:52:00Z
   title: 'Studio 4: Sport'
@@ -954,6 +961,7 @@
   - 1039975
   - 1095998
   - 1096408
+  - 1096628
   start: 2026-09-22T15:52:00Z
   stop: 2026-09-22T15:58:00Z
   title: Bez komentara
@@ -998,6 +1006,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1096629
+  start: 2026-09-22T16:00:00Z
+  stop: 2026-09-22T16:18:00Z
+  title: Sportske minute
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1095853
   - 1096216
@@ -1010,6 +1026,7 @@
   - 1039978
   - 1096000
   - 1096410
+  - 1096630
   start: 2026-09-22T16:20:00Z
   stop: 2026-09-22T16:30:00Z
   title: 'Studio 4: Znanost'
@@ -1155,7 +1172,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1039998
   start: 2026-09-22T20:15:00Z
-  stop: 2026-09-22T20:45:00Z
+  stop: 2026-09-22T20:43:00Z
   title: 'Zadar: More'
   subtitle: Mozaična informativna emisija posvećena bogatstvu našeg Jadranskog mora, obale i priobalja. Donosi zanimljive reportaže o temama vezanim za život na moru i uz njega.
   ageRating: 4
@@ -1200,7 +1217,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1094089
+- eventId:
+  - 1094089
+  - 1096631
   start: 2026-09-22T20:45:00Z
   stop: 2026-09-22T21:03:00Z
   title: Sportske minute
@@ -1240,6 +1259,7 @@
   - 1095124
   - 1096002
   - 1096412
+  - 1096632
   start: 2026-09-22T21:05:00Z
   stop: 2026-09-22T21:08:00Z
   title: '#REPORTAŽE'
@@ -1271,6 +1291,7 @@
   - 1095125
   - 1096003
   - 1096413
+  - 1096633
   start: 2026-09-22T21:08:00Z
   stop: 2026-09-22T21:10:00Z
   title: Bez komentara
