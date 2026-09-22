@@ -1000,7 +1000,9 @@
   genre:
   - '32'
   description: Kratki pregled vijesti iz Hrvatske i svijeta.
-- eventId: 1039935
+- eventId:
+  - 1039935
+  - 1118059
   start: 2026-09-22T07:30:00Z
   stop: 2026-09-22T10:00:00Z
   title: Prijenos sjednice Hrvatskog sabora
@@ -1094,7 +1096,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 1039941
+- eventId:
+  - 1039941
+  - 1118060
   start: 2026-09-22T11:43:00Z
   stop: 2026-09-22T11:47:00Z
   title: Poslovne vijesti
@@ -1115,6 +1119,7 @@
   - 1099428
   - 1104781
   - 1107774
+  - 1118061
   start: 2026-09-22T11:47:00Z
   stop: 2026-09-22T11:56:00Z
   title: 'Studio 4: Znanost'
@@ -1147,7 +1152,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 1039943
+- eventId:
+  - 1039943
+  - 1118062
   start: 2026-09-22T11:56:00Z
   stop: 2026-09-22T12:00:00Z
   title: Bez komentara
@@ -1201,7 +1208,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 1039953
+- eventId:
+  - 1039953
+  - 1118063
   start: 2026-09-22T12:55:00Z
   stop: 2026-09-22T13:00:00Z
   title: Bez komentara
@@ -1210,7 +1219,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1039954
+- eventId:
+  - 1039954
+  - 1118064
   start: 2026-09-22T13:00:00Z
   stop: 2026-09-22T13:05:00Z
   title: Vijesti
@@ -1239,6 +1250,14 @@
   genre:
   - '160'
   description: Govor predsjednika Donalda Trumpa na Općoj skupštini UN-a, prijenos
+- eventId: 1118065
+  start: 2026-09-22T13:05:00Z
+  stop: 2026-09-22T13:30:00Z
+  title: Govor predsjednika Donalda Trumpa na Općoj.
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1039955
   start: 2026-09-22T13:30:00Z
   stop: 2026-09-22T13:31:00Z
@@ -1248,7 +1267,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 1039956
+- eventId:
+  - 1039956
+  - 1118066
   start: 2026-09-22T13:31:00Z
   stop: 2026-09-22T13:33:00Z
   title: Vrijeme Europa danas
@@ -1257,7 +1278,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 1039957
+- eventId:
+  - 1039957
+  - 1118067
   start: 2026-09-22T13:33:00Z
   stop: 2026-09-22T13:35:00Z
   title: Vrijeme Svijet danas
@@ -1275,7 +1298,9 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 1039959
+- eventId:
+  - 1039959
+  - 1118068
   start: 2026-09-22T13:55:00Z
   stop: 2026-09-22T14:00:00Z
   title: Bez komentara
@@ -1284,7 +1309,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1039960
+- eventId:
+  - 1039960
+  - 1118069
   start: 2026-09-22T14:00:00Z
   stop: 2026-09-22T14:15:00Z
   title: Vijesti
@@ -1293,7 +1320,9 @@
   genre:
   - '32'
   description: Kratki pregled vijesti iz Hrvatske i svijeta.
-- eventId: 1039961
+- eventId:
+  - 1039961
+  - 1118070
   start: 2026-09-22T14:15:00Z
   stop: 2026-09-22T14:22:00Z
   title: 'Studio 4: Sport'
@@ -1302,7 +1331,9 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 1039962
+- eventId:
+  - 1039962
+  - 1118071
   start: 2026-09-22T14:22:00Z
   stop: 2026-09-22T14:23:00Z
   title: Vrijeme RH danas
@@ -1311,7 +1342,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 1039963
+- eventId:
+  - 1039963
+  - 1118072
   start: 2026-09-22T14:23:00Z
   stop: 2026-09-22T14:24:00Z
   title: Vrijeme Europa danas
@@ -1329,7 +1362,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 1039965
+- eventId:
+  - 1039965
+  - 1118073
   start: 2026-09-22T14:26:00Z
   stop: 2026-09-22T14:30:00Z
   title: Bez komentara
@@ -1338,7 +1373,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1039966
+- eventId:
+  - 1039966
+  - 1118074
   start: 2026-09-22T14:30:00Z
   stop: 2026-09-22T14:56:00Z
   title: 'DW: Sutrašnjica danas'
@@ -1359,6 +1396,7 @@
   - 1099430
   - 1104783
   - 1107776
+  - 1118075
   start: 2026-09-22T14:56:00Z
   stop: 2026-09-22T15:04:00Z
   title: 'Studio 4: Kultura'
@@ -1402,6 +1440,7 @@
   - 1099431
   - 1104784
   - 1107777
+  - 1118076
   start: 2026-09-22T15:04:00Z
   stop: 2026-09-22T15:13:00Z
   title: 'Studio 4: Znanost'
@@ -1434,7 +1473,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 1039969
+- eventId:
+  - 1039969
+  - 1118077
   start: 2026-09-22T15:13:00Z
   stop: 2026-09-22T15:14:00Z
   title: Vrijeme RH danas
@@ -1443,7 +1484,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 1039970
+- eventId:
+  - 1039970
+  - 1118078
   start: 2026-09-22T15:14:00Z
   stop: 2026-09-22T15:16:00Z
   title: Vrijeme Europa danas
@@ -1500,7 +1543,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 1039972
+- eventId:
+  - 1039972
+  - 1118079
   start: 2026-09-22T15:20:00Z
   stop: 2026-09-22T15:40:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -1529,6 +1574,7 @@
   - 1099433
   - 1104786
   - 1107779
+  - 1118080
   start: 2026-09-22T15:44:00Z
   stop: 2026-09-22T15:51:00Z
   title: 'Studio 4: Sport'
@@ -1572,6 +1618,7 @@
   - 1099434
   - 1104787
   - 1107780
+  - 1118081
   start: 2026-09-22T15:51:00Z
   stop: 2026-09-22T15:56:00Z
   title: Bez komentara
@@ -1620,6 +1667,14 @@
   title: 'HRT100 Vremeplov: Obnova zagrebačkih hotela za Univerzijadu 1986. (33/34)'
   subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
   description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1118082
+  start: 2026-09-22T15:56:00Z
+  stop: 2026-09-22T15:58:00Z
+  title: HRT100 Vremeplov
+  subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
   ageRating: 4
   genre:
   - '160'
@@ -1681,6 +1736,7 @@
   - 1099436
   - 1104789
   - 1107782
+  - 1118083
   start: 2026-09-22T16:18:00Z
   stop: 2026-09-22T16:30:00Z
   title: 'Studio 4: Znanost'
@@ -1713,7 +1769,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 1039979
+- eventId:
+  - 1039979
+  - 1118084
   start: 2026-09-22T16:30:00Z
   stop: 2026-09-22T16:53:00Z
   title: Regionalni dnevnik
@@ -1740,7 +1798,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 1039982
+- eventId:
+  - 1039982
+  - 1118085
   start: 2026-09-22T16:55:00Z
   stop: 2026-09-22T17:00:00Z
   title: Vrijeme Svijet sutra
@@ -2079,7 +2139,17 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 1040006
+- eventId: 1118086
+  start: 2026-09-22T21:50:00Z
+  stop: 2026-09-22T21:55:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 1040006
+  - 1118087
   start: 2026-09-22T21:55:00Z
   stop: 2026-09-22T22:00:00Z
   title: Bez komentara
