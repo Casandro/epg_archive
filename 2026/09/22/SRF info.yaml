@@ -1323,7 +1323,7 @@
   subtitle: Spätausgabe
 - eventId: 1002927
   start: 2026-09-22T22:40:00Z
-  stop: 2026-09-22T22:45:00Z
+  stop: 2026-09-22T22:50:00Z
   title: Sportflash
   genre:
   - '32'
@@ -1343,9 +1343,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1129204
+  start: 2026-09-22T22:50:00Z
+  stop: 2026-09-22T22:55:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1128877
   start: 2026-09-22T22:55:00Z
-  stop: 2026-09-22T23:05:00Z
+  stop: 2026-09-22T23:15:00Z
   title: 10 vor 10
   description: |-
     Freude und Frust über F-35
@@ -1398,20 +1407,52 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1129205
+  start: 2026-09-22T23:20:00Z
+  stop: 2026-09-22T23:25:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1002928
   start: 2026-09-22T23:25:00Z
-  stop: 2026-09-22T23:45:00Z
-  title: 10 vor 10
+  stop: 2026-09-22T23:30:00Z
+  title: Sportflash
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
   description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  subtitle: Die Sportnews des Tages
+- eventId: 1129206
+  start: 2026-09-22T23:30:00Z
+  stop: 2026-09-22T23:40:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1129207
+  start: 2026-09-22T23:40:00Z
+  stop: 2026-09-22T23:55:00Z
+  title: 10 vor 10
+  description: |-
     Freude und Frust über F-35
     Abstimmen per Mausklick
     Ausgezeichnet vegan
     Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 923579
   start: 2026-09-22T23:45:00Z
   stop: 2026-09-22T23:50:00Z
