@@ -16,7 +16,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1072649
+- eventId:
+  - 1072649
+  - 1127401
   start: 2026-09-23T00:06:00Z
   stop: 2026-09-23T00:26:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -47,6 +49,7 @@
   - 1125348
   - 1126628
   - 1127154
+  - 1127402
   start: 2026-09-23T00:26:00Z
   stop: 2026-09-23T00:30:00Z
   title: '#REPORTAŽE'
@@ -83,6 +86,7 @@
   - 1125349
   - 1126629
   - 1127155
+  - 1127403
   start: 2026-09-23T00:30:00Z
   stop: 2026-09-23T00:53:00Z
   title: Regionalni dnevnik
@@ -241,7 +245,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 1072667
+- eventId:
+  - 1072667
+  - 1127404
   start: 2026-09-23T03:54:00Z
   stop: 2026-09-23T03:55:00Z
   title: Vrijeme Europa danas
@@ -268,6 +274,14 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 1127405
+  start: 2026-09-23T03:57:00Z
+  stop: 2026-09-23T04:00:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1072670
   start: 2026-09-23T04:00:00Z
   stop: 2026-09-23T04:08:00Z
@@ -1097,6 +1111,7 @@
   - 1125350
   - 1126632
   - 1127156
+  - 1127406
   start: 2026-09-23T20:19:00Z
   stop: 2026-09-23T20:45:00Z
   title: 'DW: Sutrašnjica danas'
