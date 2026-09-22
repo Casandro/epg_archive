@@ -1477,6 +1477,7 @@
   - 1120394
   - 1120961
   - 1122050
+  - 1122959
   start: 2026-09-22T13:57:00Z
   stop: 2026-09-22T14:02:00Z
   title: Bez komentara
@@ -1504,6 +1505,7 @@
   - 1119968
   - 1120395
   - 1120962
+  - 1122960
   start: 2026-09-22T14:02:00Z
   stop: 2026-09-22T14:17:00Z
   title: Vijesti
@@ -1538,6 +1540,7 @@
   - 1120396
   - 1120963
   - 1122052
+  - 1122961
   start: 2026-09-22T14:17:00Z
   stop: 2026-09-22T14:24:00Z
   title: 'Studio 4: Sport'
@@ -1579,7 +1582,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 1039964
   start: 2026-09-22T14:24:00Z
-  stop: 2026-09-22T14:26:00Z
+  stop: 2026-09-22T14:25:00Z
   title: Vrijeme Svijet danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -1592,6 +1595,7 @@
   - 1120397
   - 1120964
   - 1122053
+  - 1122962
   start: 2026-09-22T14:25:00Z
   stop: 2026-09-22T14:27:00Z
   title: Vrijeme Europa danas
@@ -1620,6 +1624,7 @@
   - 1120398
   - 1120965
   - 1122054
+  - 1122963
   start: 2026-09-22T14:27:00Z
   stop: 2026-09-22T14:29:00Z
   title: Vrijeme svijet danas
@@ -1631,6 +1636,7 @@
   - 1120399
   - 1120966
   - 1122055
+  - 1122964
   start: 2026-09-22T14:29:00Z
   stop: 2026-09-22T14:32:00Z
   title: Bez komentara
@@ -1726,6 +1732,7 @@
   - 1120401
   - 1120968
   - 1122057
+  - 1122966
   start: 2026-09-22T14:58:00Z
   stop: 2026-09-22T15:06:00Z
   title: 'Studio 4: Kultura'
@@ -1787,6 +1794,7 @@
   - 1120402
   - 1120969
   - 1122058
+  - 1122967
   start: 2026-09-22T15:06:00Z
   stop: 2026-09-22T15:15:00Z
   title: 'Studio 4: Znanost'
@@ -1856,6 +1864,7 @@
   - 1120403
   - 1120970
   - 1122059
+  - 1122968
   start: 2026-09-22T15:15:00Z
   stop: 2026-09-22T15:16:00Z
   title: Vrijeme RH danas
@@ -1878,7 +1887,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1107778
   start: 2026-09-22T15:16:00Z
-  stop: 2026-09-22T15:20:00Z
+  stop: 2026-09-22T15:18:00Z
   title: Vrijeme Svijet danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -1891,6 +1900,7 @@
   - 1120404
   - 1120971
   - 1122060
+  - 1122969
   start: 2026-09-22T15:18:00Z
   stop: 2026-09-22T15:22:00Z
   title: Vrijeme svijet danas
@@ -1919,6 +1929,7 @@
   - 1120405
   - 1120972
   - 1122061
+  - 1122970
   start: 2026-09-22T15:22:00Z
   stop: 2026-09-22T15:40:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -1989,6 +2000,7 @@
   - 1120406
   - 1120973
   - 1122062
+  - 1122971
   start: 2026-09-22T15:45:00Z
   stop: 2026-09-22T15:49:00Z
   title: Poslovne vijesti
@@ -2000,6 +2012,7 @@
   - 1120407
   - 1120974
   - 1122063
+  - 1122972
   start: 2026-09-22T15:49:00Z
   stop: 2026-09-22T15:58:00Z
   title: 'Studio 4: Sport'
@@ -2091,7 +2104,7 @@
   - '160'
 - eventId: 1039976
   start: 2026-09-22T15:58:00Z
-  stop: 2026-09-22T16:18:00Z
+  stop: 2026-09-22T16:00:00Z
   title: 'HRT100 Vremeplov: Obnova zagrebačkih hotela za Univerzijadu 1986. (33/34)'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
@@ -2141,7 +2154,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1122064
+- eventId:
+  - 1122064
+  - 1122973
   start: 2026-09-22T16:00:00Z
   stop: 2026-09-22T16:18:00Z
   title: 'Studio 4: Sportske minute'
@@ -2201,7 +2216,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 1122065
+- eventId:
+  - 1122065
+  - 1122974
   start: 2026-09-22T16:20:00Z
   stop: 2026-09-22T16:30:00Z
   title: 'Studio 4: Znanost'
@@ -2230,6 +2247,7 @@
   - 1120410
   - 1120977
   - 1122066
+  - 1122975
   start: 2026-09-22T16:31:00Z
   stop: 2026-09-22T16:53:00Z
   title: Regionalni dnevnik
@@ -2246,7 +2264,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1039981
   start: 2026-09-22T16:54:00Z
-  stop: 2026-09-22T16:55:00Z
+  stop: 2026-09-22T16:56:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -2276,6 +2294,7 @@
   - 1120411
   - 1120978
   - 1122067
+  - 1122976
   start: 2026-09-22T16:56:00Z
   stop: 2026-09-22T16:57:00Z
   title: Vrijeme Europa sutra
@@ -2287,6 +2306,7 @@
   - 1120412
   - 1120979
   - 1122068
+  - 1122977
   start: 2026-09-22T16:57:00Z
   stop: 2026-09-22T17:00:00Z
   title: Vrijeme svijet sutra
@@ -2643,6 +2663,7 @@
   - 1120413
   - 1120980
   - 1122069
+  - 1122978
   start: 2026-09-22T21:52:00Z
   stop: 2026-09-22T21:58:00Z
   title: '#REPORTAŽE: Route 66'
@@ -2671,6 +2692,7 @@
   - 1120414
   - 1120981
   - 1122070
+  - 1122979
   start: 2026-09-22T21:58:00Z
   stop: 2026-09-22T22:00:00Z
   title: Bez komentara

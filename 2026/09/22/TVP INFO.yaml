@@ -698,7 +698,7 @@
   - '32'
 - eventId: 900724
   start: 2026-09-22T22:03:00Z
-  stop: 2026-09-22T22:48:00Z
+  stop: 2026-09-22T22:49:00Z
   title: Trójkąt polityczny
   subtitle: Autorki zapraszają bohaterów najważniejszych wydarzeń politycznych w kraju, by poznać motywy podejmowanych przez nich decyzji i zaprezentować widzom kulisy polskiej polityki oraz jej najważniejszych graczy.
   description: |-
@@ -722,10 +722,12 @@
   - 1113199
   start: 2026-09-22T22:49:00Z
   stop: 2026-09-22T22:53:00Z
-  title: Pogoda Info
+  title: Prognoza pogody
   description: |-
     program informacyjny
     Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
+  genre:
+  - '32'
 - eventId:
   - 1033246
   - 1112860
@@ -746,6 +748,8 @@
   description: |-
     program publicystyczny (Polska, 2026) (na żywo)
     Program publicystyczny, którego autorzy koncentrują się na sprawdzaniu wiarygodności informacji. Prezentowane w nim wiadomości stanowią rozwinięcie treści publikowanych na portalu Sprawdzam.to, a głównym celem magazynu jest wspólna z mediami publicznymi walka z fake newsami.
+  genre:
+  - '34'
 - eventId: 937866
   start: 2026-09-22T22:55:00Z
   stop: 2026-09-22T23:23:00Z
@@ -768,20 +772,18 @@
     PL, 2026
   genre:
   - '32'
-- eventId: 1112556
+- eventId:
+  - 1112556
+  - 1113201
   start: 2026-09-22T22:57:00Z
   stop: 2026-09-22T23:25:00Z
   title: Program informacyjny
   description: |-
     program informacyjny
     Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.
-- eventId: 1113201
-  start: 2026-09-22T22:57:00Z
-  stop: 2026-09-22T23:24:00Z
-  title: Program informacyjny
-  description: |-
-    program informacyjny
-    Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.
+  subtitle: Bieżące wydarzenia w kraju i na świecie. Informacje polityczne, gospodarcze, ważne tematy społeczne i poruszające opinię publiczną.
+  genre:
+  - '32'
 - eventId: 937867
   start: 2026-09-22T23:23:00Z
   stop: 2026-09-22T23:44:00Z
@@ -813,6 +815,9 @@
   description: |-
     program publicystyczny (Polska, 2025)
     Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.
+  subtitle: Zaproszony do studia gość komentuje wydarzenia dnia. Emisja bezpośrednio po głównym wydaniu programu informacyjnego ma związek z charakterem problematyki poruszanej w każdym odcinku.
+  genre:
+  - '51'
 - eventId: 937868
   start: 2026-09-22T23:44:00Z
   stop: 2026-09-22T23:50:00Z
@@ -831,6 +836,15 @@
     PL, 2026
   genre:
   - '32'
+- eventId: 1123269
+  start: 2026-09-22T23:46:00Z
+  stop: 2026-09-22T23:53:00Z
+  title: Prognoza pogody
+  description: |
+    Tytuł oryginalny: Prognoza pogody
+    PL, 2026
+  genre:
+  - '32'
 - eventId: 937869
   start: 2026-09-22T23:50:00Z
   stop: 2026-09-23T00:05:00Z
@@ -838,5 +852,14 @@
   description: |-
     magazyn (Polska, 2026)
     Program nadawany na żywo z patrolującego nocną Warszawę samochodu ma przedstawiać najważniejsze zdarzenia kryminalne dnia. Prowadzący wraz z byłym funkcjonariuszem policji będą omawiać poszczególne sprawy, korzystając z jego wiedzy i praktyki zdobytej podczas służby.
+  genre:
+  - '129'
+- eventId: 1123270
+  start: 2026-09-22T23:53:00Z
+  stop: 2026-09-23T00:05:00Z
+  title: 112. Magazyn kryminalny
+  description: |
+    Tytuł oryginalny: 112. Magazyn kryminalny
+    PL, 2026
   genre:
   - '129'
