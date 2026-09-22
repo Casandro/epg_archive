@@ -369,7 +369,7 @@
   - 739563
   - 741233
   start: 2026-09-30T22:45:00Z
-  stop: 2026-09-30T23:30:00Z
+  stop: 2026-09-30T23:20:00Z
   title: Dokumentation
   genre:
   - '32'
@@ -378,7 +378,9 @@
   hd: true
   audiodesc: true
   subtitle: Rehbraun
-- eventId: 1127409
+- eventId:
+  - 1127409
+  - 1127665
   start: 2026-09-30T23:20:00Z
   stop: 2026-09-30T23:55:00Z
   title: Inside CDU
@@ -387,6 +389,8 @@
   - '128'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 739564
   - 741234
@@ -399,7 +403,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1127410
+- eventId:
+  - 1127410
+  - 1127666
   start: 2026-09-30T23:55:00Z
   stop: 2026-10-01T00:30:00Z
   title: Inside CDU
@@ -408,3 +414,5 @@
   - '128'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
