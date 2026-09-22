@@ -1,6 +1,6 @@
 - eventId: 1040058
   start: 2026-09-22T04:05:00Z
-  stop: 2026-09-22T04:35:00Z
+  stop: 2026-09-22T04:40:00Z
   title: Odmevi
   subtitle: Odmevi vsak delavnik ob 22.10 ponudijo sveže večerne novice ter analize najpomembnejših dogodkov dneva.
   ageRating: 4
@@ -14,8 +14,24 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1107576
+  start: 2026-09-22T04:40:00Z
+  stop: 2026-09-22T04:50:00Z
+  title: Kultura
+  subtitle: 'V SNG Drama smo si ogledali premiero predstave Iranska konferenca Ivana Viripajeva v režiji Nine Rajić Kranjac, v Koroški galeriji likovnih umetnosti pa skupinsko razstavo Divje vode: v iskanju.'
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1040060
   start: 2026-09-22T04:45:00Z
+  stop: 2026-09-22T05:00:00Z
+  title: Šport
+  subtitle: Zadnji pregled športnega dogajanja v dnevu je prelet dneva z vsemi najpomembnejšimi novicami, zlasti popoldanskimi in svežimi večernimi, ter napoved novega tekmovalnega dne.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 1107577
+  start: 2026-09-22T04:50:00Z
   stop: 2026-09-22T05:00:00Z
   title: Šport
   subtitle: Zadnji pregled športnega dogajanja v dnevu je prelet dneva z vsemi najpomembnejšimi novicami, zlasti popoldanskimi in svežimi večernimi, ter napoved novega tekmovalnega dne.
@@ -370,12 +386,20 @@
   - '160'
 - eventId: 1040140
   start: 2026-09-22T22:35:00Z
-  stop: 2026-09-22T23:05:00Z
+  stop: 2026-09-22T23:00:00Z
   title: Dnevnik Slovencev v Italiji
   subtitle: Dnevnik Slovencev v Italiji je informativna oddaja, v kateri novinarji poročajo predvsem o dnevnih dogodkih med Slovenci v Italiji.
   ageRating: 4
   genre:
   - '32'
+- eventId: 1107569
+  start: 2026-09-22T23:00:00Z
+  stop: 2026-09-23T04:05:00Z
+  title: Napovedujemo
+  subtitle: Napovednik programa.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1040141
   start: 2026-09-22T23:05:00Z
   stop: 2026-09-23T04:05:00Z
