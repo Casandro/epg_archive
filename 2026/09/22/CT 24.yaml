@@ -1140,17 +1140,6 @@
 - eventId:
   - 1120208
   - 1120437
-  start: 2026-09-22T13:03:00Z
-  stop: 2026-09-22T13:29:10Z
-  title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '35'
-  widescreen: true
-- eventId:
   - 892259
   - 898230
   start: 2026-09-22T13:03:00Z
@@ -1183,6 +1172,16 @@
   - 1120438
   start: 2026-09-22T13:29:10Z
   stop: 2026-09-22T13:32:10Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+- eventId: 1122270
+  start: 2026-09-22T13:30:00Z
+  stop: 2026-09-22T13:33:01Z
   title: Zprávy
   description: |-
     HDTV
@@ -1242,6 +1241,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1122284
+  start: 2026-09-22T13:33:01Z
+  stop: 2026-09-22T13:40:01Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1120211
   - 1120440
@@ -1271,6 +1281,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1122285
+  start: 2026-09-22T13:40:01Z
+  stop: 2026-09-22T14:00:00Z
+  title: Ekonomika ČT24
+  subtitle: 'Témata: Energetická chudoba; Finanční gramotnost dětí.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '128'
+  widescreen: true
 - eventId:
   - 892263
   - 898234
@@ -1383,6 +1404,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1122288
   - 892267
   - 898336
   start: 2026-09-22T15:03:00Z
