@@ -1250,7 +1250,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1039952
   start: 2026-09-22T12:35:00Z
-  stop: 2026-09-22T12:55:00Z
+  stop: 2026-09-22T12:57:00Z
   title: Studio 4
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -1424,7 +1424,7 @@
   - 1120393
   - 1120960
   start: 2026-09-22T13:37:00Z
-  stop: 2026-09-22T13:55:00Z
+  stop: 2026-09-22T13:57:00Z
   title: 'Studio 4: Sportske minute'
   subtitle: ' '
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
@@ -1474,7 +1474,7 @@
   - 1120395
   - 1120962
   start: 2026-09-22T14:02:00Z
-  stop: 2026-09-22T14:15:00Z
+  stop: 2026-09-22T14:17:00Z
   title: Vijesti
   subtitle: ' '
   description: Kratki pregled vijesti iz Hrvatske i svijeta.
@@ -1608,7 +1608,7 @@
   - 1120400
   - 1120967
   start: 2026-09-22T14:32:00Z
-  stop: 2026-09-22T14:56:00Z
+  stop: 2026-09-22T14:58:00Z
   title: 'DW: Sutrašnjica danas'
   subtitle: ' '
   description: Emisija Deutsche Wellea o europskom načinu života, donosi zanimljivosti iz europskih gradova.
@@ -2018,7 +2018,12 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 1039977
+- eventId:
+  - 1039977
+  - 1118736
+  - 1119981
+  - 1120408
+  - 1120975
   start: 2026-09-22T16:00:00Z
   stop: 2026-09-22T16:20:00Z
   title: 'Studio 4: Sportske minute'
@@ -2056,16 +2061,6 @@
   ageRating: 4
   genre:
   - '160'
-- eventId:
-  - 1118736
-  - 1119981
-  - 1120408
-  - 1120975
-  start: 2026-09-22T16:00:00Z
-  stop: 2026-09-22T16:18:00Z
-  title: 'Studio 4: Sportske minute'
-  subtitle: ' '
-  description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
 - eventId:
   - 1095853
   - 1096216
@@ -2111,7 +2106,7 @@
   - 1120409
   - 1120976
   start: 2026-09-22T16:20:00Z
-  stop: 2026-09-22T16:30:00Z
+  stop: 2026-09-22T16:31:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
@@ -2510,7 +2505,7 @@
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 1040004
   start: 2026-09-22T21:30:00Z
-  stop: 2026-09-22T21:50:00Z
+  stop: 2026-09-22T21:52:00Z
   title: 'Studio 4: Jutarnji intervju'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
