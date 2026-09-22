@@ -2016,7 +2016,7 @@
   - 892322
   - 898500
   start: 2026-09-22T21:00:00Z
-  stop: 2026-09-22T21:05:00Z
+  stop: 2026-09-22T21:07:12Z
   title: Předpověď počasí
   subtitle: Souhrn meteorologických informací.
   description: |-
@@ -2042,7 +2042,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1127293
+- eventId:
+  - 1127293
+  - 1127417
   start: 2026-09-22T21:07:12Z
   stop: 2026-09-22T21:31:05Z
   title: Zprávy ve 23
@@ -2053,7 +2055,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 1127322
+- eventId:
+  - 1127322
+  - 1127418
   start: 2026-09-22T21:31:05Z
   stop: 2026-09-22T22:00:00Z
   title: Interview ČT24
@@ -2081,6 +2085,7 @@
   hd: true
 - eventId:
   - 1127295
+  - 1127419
   - 892325
   - 898503
   start: 2026-09-22T22:00:00Z
@@ -2108,6 +2113,7 @@
   widescreen: true
 - eventId:
   - 1127323
+  - 1127420
   - 892326
   - 898504
   start: 2026-09-22T22:10:00Z
@@ -2137,6 +2143,7 @@
   widescreen: true
 - eventId:
   - 1127324
+  - 1127421
   - 892327
   - 898505
   start: 2026-09-22T23:00:00Z
@@ -2164,6 +2171,7 @@
   widescreen: true
 - eventId:
   - 1127325
+  - 1127422
   - 892328
   - 898506
   start: 2026-09-22T23:10:00Z
