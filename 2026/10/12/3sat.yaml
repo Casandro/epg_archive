@@ -339,7 +339,9 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 1102247
+- eventId:
+  - 1102247
+  - 1108680
   start: 2026-10-12T18:00:00Z
   stop: 2026-10-12T18:15:00Z
   title: Tagesschau
@@ -347,7 +349,11 @@
   - '32'
   widescreen: true
   subtitled: true
-- eventId: 1102248
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1102248
+  - 1108681
   start: 2026-10-12T18:15:00Z
   stop: 2026-10-12T19:00:00Z
   title: Zwischen Fels und Fluss - Das Stubaital
@@ -355,7 +361,11 @@
   genre:
   - '112'
   widescreen: true
-- eventId: 1102249
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1102249
+  - 1108682
   start: 2026-10-12T19:00:00Z
   stop: 2026-10-12T19:40:00Z
   title: Zwischen Fels und Fluss - Das Lafnitztal
@@ -363,7 +373,11 @@
   genre:
   - '112'
   widescreen: true
-- eventId: 1102250
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1102250
+  - 1108683
   start: 2026-10-12T19:40:00Z
   stop: 2026-10-12T20:25:00Z
   title: Zwischen Fels und Fluss - Das Raabtal
@@ -371,7 +385,11 @@
   genre:
   - '112'
   widescreen: true
-- eventId: 1102251
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1102251
+  - 1108684
   start: 2026-10-12T20:25:00Z
   stop: 2026-10-12T22:10:00Z
   title: On the Border - Europas Grenzen in der Sahara
@@ -379,7 +397,11 @@
   genre:
   - '16'
   widescreen: true
-- eventId: 1102302
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1102302
+  - 1108685
   start: 2026-10-12T22:10:00Z
   stop: 2026-10-12T22:40:00Z
   title: '37°: Meine ziemlich bunte Familie'
@@ -388,14 +410,22 @@
   - '112'
   widescreen: true
   subtitled: true
-- eventId: 1102303
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1102303
+  - 1108686
   start: 2026-10-12T22:40:00Z
   stop: 2026-10-12T23:05:00Z
   title: 10 vor 10
   genre:
   - '32'
   widescreen: true
-- eventId: 1102304
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1102304
+  - 1108687
   start: 2026-10-12T23:05:00Z
   stop: 2026-10-13T00:05:00Z
   title: Caren Miosga
@@ -403,3 +433,5 @@
   - '128'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
