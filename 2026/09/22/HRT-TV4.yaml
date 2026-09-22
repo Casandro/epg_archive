@@ -2805,6 +2805,7 @@
   - 1128150
   - 1128483
   - 1128620
+  - 1128686
   start: 2026-09-22T21:50:00Z
   stop: 2026-09-22T21:55:00Z
   title: '#REPORTAŽE'
@@ -2849,6 +2850,7 @@
   - 1128151
   - 1128484
   - 1128621
+  - 1128687
   start: 2026-09-22T21:55:00Z
   stop: 2026-09-22T22:00:00Z
   title: Bez komentara
@@ -2898,7 +2900,9 @@
   genre:
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 1040009
+- eventId:
+  - 1040009
+  - 1128688
   start: 2026-09-22T22:17:00Z
   stop: 2026-09-22T22:42:00Z
   title: Glas domovine
@@ -2907,7 +2911,9 @@
   genre:
   - '160'
   description: 'Donosimo životnu i glazbenu priču Gorana Rukavine koji se nakon studija u Grazu skrasio u Ljubljani. Dijelimo isto more i stoljetnu povijest, a koliko se zapravo poznajemo?  Hrvatsku zajednicu u Srbiji uskoro očekuju izbori za njezino zastupničko tijelo - Hrvatsko nacionalno vijeće. Već 103 godine održava se hodočašće gradišćanskih Hrvata u marijansko svetište u Celju. Folklorno društvo Poljanci iz Vulkaprodrštofa organiziralo je tamburaški kamp za mlađe naraštaje. Urednik: Zvonko Božinović'
-- eventId: 1040010
+- eventId:
+  - 1040010
+  - 1128689
   start: 2026-09-22T22:42:00Z
   stop: 2026-09-22T23:05:00Z
   title: Regionalni dnevnik
@@ -2916,7 +2922,9 @@
   genre:
   - '32'
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 1040011
+- eventId:
+  - 1040011
+  - 1128690
   start: 2026-09-22T23:05:00Z
   stop: 2026-09-22T23:58:00Z
   title: Dnevnik 2

@@ -1,4 +1,6 @@
-- eventId: 1072647
+- eventId:
+  - 1072647
+  - 1128691
   start: 2026-09-23T00:00:00Z
   stop: 2026-09-23T00:02:00Z
   title: Vrijeme Svijet danas
@@ -36,6 +38,7 @@
   - 1128152
   - 1128485
   - 1128622
+  - 1128692
   start: 2026-09-23T00:06:00Z
   stop: 2026-09-23T00:26:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -72,6 +75,7 @@
   - 1128153
   - 1128486
   - 1128623
+  - 1128693
   start: 2026-09-23T00:26:00Z
   stop: 2026-09-23T00:30:00Z
   title: '#REPORTAŽE'
@@ -116,6 +120,7 @@
   - 1128154
   - 1128487
   - 1128624
+  - 1128694
   start: 2026-09-23T00:30:00Z
   stop: 2026-09-23T00:53:00Z
   title: Regionalni dnevnik
@@ -231,7 +236,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1072662
+- eventId:
+  - 1072662
+  - 1128695
   start: 2026-09-23T01:58:00Z
   stop: 2026-09-23T02:43:00Z
   title: Pregled dana
@@ -258,7 +265,9 @@
   genre:
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 1072665
+- eventId:
+  - 1072665
+  - 1128696
   start: 2026-09-23T03:00:00Z
   stop: 2026-09-23T03:53:00Z
   title: Dnevnik 2
@@ -325,6 +334,7 @@
   - 1128156
   - 1128489
   - 1128626
+  - 1128697
   start: 2026-09-23T03:57:00Z
   stop: 2026-09-23T04:00:00Z
   title: Bez komentara
@@ -358,6 +368,14 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 1128698
+  start: 2026-09-23T04:08:00Z
+  stop: 2026-09-23T04:10:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1072672
   start: 2026-09-23T04:10:00Z
   stop: 2026-09-23T04:18:00Z
@@ -367,7 +385,9 @@
   genre:
   - '32'
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 1072673
+- eventId:
+  - 1072673
+  - 1128699
   start: 2026-09-23T04:18:00Z
   stop: 2026-09-23T04:27:00Z
   title: 'Studio 4: Znanost'
@@ -1177,6 +1197,7 @@
   - 1128157
   - 1128490
   - 1128627
+  - 1128700
   start: 2026-09-23T20:19:00Z
   stop: 2026-09-23T20:45:00Z
   title: 'DW: Sutrašnjica danas'
