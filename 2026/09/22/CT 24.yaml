@@ -673,7 +673,7 @@
   - 1120181
   - 1120196
   start: 2026-09-22T11:29:19Z
-  stop: 2026-09-22T11:32:19Z
+  stop: 2026-09-22T11:33:02Z
   title: Zprávy
   description: |-
     HDTV
@@ -760,6 +760,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1120604
+  start: 2026-09-22T11:33:02Z
+  stop: 2026-09-22T12:00:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Opatření proti vysokým cenám paliv (reakce ČESMAD Bohemia); Instalace obřího historického skleníku ve Valči.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1118000
   - 1118040
@@ -790,6 +801,16 @@
   - 1119392
   start: 2026-09-22T11:59:30Z
   stop: 2026-09-22T12:02:30Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+- eventId: 1120605
+  start: 2026-09-22T12:00:00Z
+  stop: 2026-09-22T12:03:02Z
   title: Zprávy
   description: |-
     HDTV
@@ -850,6 +871,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1120606
+  start: 2026-09-22T12:03:02Z
+  stop: 2026-09-22T12:29:37Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1118527
   - 1118702
@@ -897,6 +929,16 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 1120607
+  start: 2026-09-22T12:29:37Z
+  stop: 2026-09-22T12:32:37Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 1118590
   - 1118704
@@ -928,6 +970,17 @@
   - 1119202
   - 1119395
   start: 2026-09-22T12:32:05Z
+  stop: 2026-09-22T13:00:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 1120608
+  start: 2026-09-22T12:32:37Z
   stop: 2026-09-22T13:00:00Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
@@ -988,7 +1041,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1120208
+- eventId:
+  - 1120208
+  - 1120437
   start: 2026-09-22T13:03:00Z
   stop: 2026-09-22T13:29:10Z
   title: Studio ČT24
@@ -1027,7 +1082,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 1120209
+- eventId:
+  - 1120209
+  - 1120438
   start: 2026-09-22T13:29:10Z
   stop: 2026-09-22T13:32:10Z
   title: Zprávy
@@ -1061,7 +1118,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 1120210
+- eventId:
+  - 1120210
+  - 1120439
   start: 2026-09-22T13:32:10Z
   stop: 2026-09-22T13:39:10Z
   title: Studio ČT24
@@ -1087,7 +1146,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1120211
+- eventId:
+  - 1120211
+  - 1120440
   start: 2026-09-22T13:39:10Z
   stop: 2026-09-22T14:00:00Z
   title: Ekonomika ČT24
