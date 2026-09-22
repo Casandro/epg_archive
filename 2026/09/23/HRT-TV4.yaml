@@ -9,7 +9,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1072648
   start: 2026-09-23T00:02:00Z
-  stop: 2026-09-23T00:06:00Z
+  stop: 2026-09-23T00:05:00Z
   title: 'Bez komentara: Berlin - Izbori'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -19,6 +19,12 @@
 - eventId: 1127659
   start: 2026-09-23T00:05:00Z
   stop: 2026-09-23T00:26:00Z
+  title: 'Studio 4: Jutarnji intervju'
+  subtitle: ' '
+  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+- eventId: 1127891
+  start: 2026-09-23T00:05:00Z
+  stop: 2026-09-23T00:28:00Z
   title: 'Studio 4: Jutarnji intervju'
   subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -76,6 +82,7 @@
   - 1126225
   - 1127129
   - 1127660
+  - 1127892
   start: 2026-09-23T00:28:00Z
   stop: 2026-09-23T00:32:00Z
   title: '#REPORTAŽE: Posvojena osoba'
@@ -116,6 +123,7 @@
   - 1126226
   - 1127130
   - 1127661
+  - 1127893
   start: 2026-09-23T00:32:00Z
   stop: 2026-09-23T00:53:00Z
   title: Regionalni dnevnik
@@ -249,7 +257,7 @@
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
 - eventId: 1072666
   start: 2026-09-23T03:53:00Z
-  stop: 2026-09-23T03:54:00Z
+  stop: 2026-09-23T03:55:00Z
   title: Vrijeme RH danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -270,14 +278,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 1072668
   start: 2026-09-23T03:55:00Z
-  stop: 2026-09-23T03:57:00Z
+  stop: 2026-09-23T03:56:00Z
   title: Vrijeme Svijet danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 1127662
+- eventId:
+  - 1127662
+  - 1127894
   start: 2026-09-23T03:56:00Z
   stop: 2026-09-23T03:58:00Z
   title: Vrijeme svijet danas
@@ -302,7 +312,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1127663
+- eventId:
+  - 1127663
+  - 1127895
   start: 2026-09-23T03:58:00Z
   stop: 2026-09-23T04:00:00Z
   title: 'Bez komentara: SAD - Klimatski tjedan'
@@ -434,7 +446,7 @@
   - 1104794
   - 1107787
   start: 2026-09-23T04:57:00Z
-  stop: 2026-09-23T05:00:00Z
+  stop: 2026-09-23T04:58:00Z
   title: 'Bez komentara: Svijet - Cijene nafte i dalje visoke'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -1114,6 +1126,7 @@
   - 1126227
   - 1127131
   - 1127664
+  - 1127896
   start: 2026-09-23T20:17:00Z
   stop: 2026-09-23T20:45:00Z
   title: 'DW: Sutrašnjica danas'
