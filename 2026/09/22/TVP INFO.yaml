@@ -698,7 +698,7 @@
   - '32'
 - eventId: 900724
   start: 2026-09-22T22:03:00Z
-  stop: 2026-09-22T22:49:00Z
+  stop: 2026-09-22T22:48:00Z
   title: Trójkąt polityczny
   subtitle: Autorki zapraszają bohaterów najważniejszych wydarzeń politycznych w kraju, by poznać motywy podejmowanych przez nich decyzji i zaprezentować widzom kulisy polskiej polityki oraz jej najważniejszych graczy.
   description: |-
@@ -706,7 +706,9 @@
     Program poprowadzą Aleksandra Pawlicka i Renata Grochal. Jest on wspólną inicjatywą TVP i Polskiego Radia.
   genre:
   - '34'
-- eventId: 937865
+- eventId:
+  - 1112859
+  - 937865
   start: 2026-09-22T22:48:00Z
   stop: 2026-09-22T22:52:00Z
   title: Prognoza pogody
@@ -722,7 +724,9 @@
   description: |-
     program informacyjny
     Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
-- eventId: 1033246
+- eventId:
+  - 1033246
+  - 1112860
   start: 2026-09-22T22:52:00Z
   stop: 2026-09-22T22:56:00Z
   title: Sprawdzam to Extra
@@ -748,7 +752,9 @@
     PL, 2026
   genre:
   - '32'
-- eventId: 1033247
+- eventId:
+  - 1033247
+  - 1112861
   start: 2026-09-22T22:56:00Z
   stop: 2026-09-22T23:24:00Z
   title: '19.30'
@@ -775,7 +781,9 @@
     PL, 2026
   genre:
   - '51'
-- eventId: 1033248
+- eventId:
+  - 1033248
+  - 1112862
   start: 2026-09-22T23:24:00Z
   stop: 2026-09-22T23:45:00Z
   title: Pytanie dnia
