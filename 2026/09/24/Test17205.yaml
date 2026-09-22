@@ -91,7 +91,7 @@
   hd: true
 - eventId: 1098098
   start: 2026-09-24T04:20:00Z
-  stop: 2026-09-24T04:40:00Z
+  stop: 2026-09-24T05:00:00Z
   title: Couleurs locales
   description: (Rediffusion)
   genre:
@@ -110,7 +110,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 959828
+- eventId:
+  - 1124300
+  - 959828
   start: 2026-09-24T05:00:00Z
   stop: 2026-09-24T06:00:00Z
   title: La Matinale
@@ -182,6 +184,7 @@
   - '128'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 964721
   start: 2026-09-24T10:00:00Z
   stop: 2026-09-24T10:10:00Z
@@ -226,7 +229,7 @@
   hd: true
 - eventId: 969664
   start: 2026-09-24T11:45:00Z
-  stop: 2026-09-24T11:50:00Z
+  stop: 2026-09-24T11:55:00Z
   title: Météo
   genre:
   - '33'
@@ -244,6 +247,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1124343
+  start: 2026-09-24T11:55:00Z
+  stop: 2026-09-24T13:00:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 969581
   start: 2026-09-24T13:00:00Z
   stop: 2026-09-24T14:00:00Z
@@ -252,6 +266,7 @@
   - '128'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 969582
   start: 2026-09-24T14:00:00Z
   stop: 2026-09-24T15:25:00Z
@@ -369,11 +384,21 @@
   hd: true
 - eventId: 985358
   start: 2026-09-24T22:15:00Z
-  stop: 2026-09-24T23:35:00Z
+  stop: 2026-09-24T23:25:00Z
   title: Le test
   description: Annie Castillon est heureuse. Sa vie conjugale avec Laurent est un exemple d'harmonie. Ses deux grands, Maximilien et César sont des garçons brillants et sensibles. Et Poupi, sa jeune ado, l'épaule sans jamais se plaindre dans l'éducation d'Antoine, le petit dernier. Un week-end comme tous les autres, la découverte d'un test de grossesse positif dans la salle de bain va enrayer la belle harmonie. (France-2021)
   genre:
   - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1124303
+  start: 2026-09-24T23:25:00Z
+  stop: 2026-09-24T23:45:00Z
+  title: Couleurs locales
+  description: (Rediffusion)
+  genre:
+  - '33'
   widescreen: true
   subtitled: true
   hd: true
@@ -382,6 +407,16 @@
   stop: 2026-09-24T23:50:00Z
   title: Couleurs locales
   description: (Rediffusion)
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1124304
+  start: 2026-09-24T23:45:00Z
+  stop: 2026-09-25T00:15:00Z
+  title: 19h30 - Signé
+  description: (Rediffusion)  "Langue des signes"
   genre:
   - '33'
   widescreen: true
