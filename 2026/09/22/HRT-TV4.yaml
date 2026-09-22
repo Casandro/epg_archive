@@ -248,7 +248,7 @@
   - '160'
 - eventId: 1039901
   start: 2026-09-22T01:30:00Z
-  stop: 2026-09-22T01:50:00Z
+  stop: 2026-09-22T01:49:00Z
   title: 'Studio 4: Dijagnoza'
   subtitle: U razgovoru s liječnicima i reportažama otkrivaju se istine i zablude vezane za određenu dijagnozu, potiče na aktivnosti koje preveniraju bolest te na pravodobnu terapiju nakon postavljanja dijagnoze.
   ageRating: 4
@@ -263,6 +263,7 @@
   - 1099152
   - 1099416
   - 1104769
+  - 1109598
   start: 2026-09-22T01:49:00Z
   stop: 2026-09-22T01:54:00Z
   title: '#REPORTAŽE: Graditelj kampera'
@@ -325,7 +326,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 1039906
   start: 2026-09-22T02:53:00Z
-  stop: 2026-09-22T03:00:00Z
+  stop: 2026-09-22T03:01:00Z
   title: Vijesti iz kulture
   subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   ageRating: 4
@@ -354,6 +355,7 @@
   - 1099153
   - 1099417
   - 1104770
+  - 1109599
   start: 2026-09-22T03:01:00Z
   stop: 2026-09-22T03:51:00Z
   title: Dnevnik 2
@@ -370,7 +372,7 @@
   - '32'
 - eventId: 1039908
   start: 2026-09-22T03:53:00Z
-  stop: 2026-09-22T03:54:00Z
+  stop: 2026-09-22T03:55:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -415,6 +417,12 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 1109600
+  start: 2026-09-22T03:55:00Z
+  stop: 2026-09-22T03:56:00Z
+  title: Vrijeme Europa danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 1097124
   - 1097809
@@ -429,16 +437,12 @@
   - 1099154
   - 1099418
   - 1104771
+  - 1107769
   start: 2026-09-22T03:56:00Z
   stop: 2026-09-22T03:58:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
-  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 1107769
-  start: 2026-09-22T03:56:00Z
-  stop: 2026-09-22T04:00:00Z
-  title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '160'
@@ -467,6 +471,7 @@
   - 1099155
   - 1099419
   - 1104772
+  - 1109601
   start: 2026-09-22T03:58:00Z
   stop: 2026-09-22T04:00:00Z
   title: 'Bez komentara: London, Velika Britanija - Sarah Regensburger predstavlja perzijsku kulturu na Londonskom tjednu mode'
@@ -474,7 +479,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1039912
   start: 2026-09-22T04:00:00Z
-  stop: 2026-09-22T04:08:00Z
+  stop: 2026-09-22T04:09:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -510,6 +515,7 @@
   - 1099156
   - 1099420
   - 1104773
+  - 1109602
   start: 2026-09-22T04:09:00Z
   stop: 2026-09-22T04:19:00Z
   title: Vijesti na engleskom jeziku
@@ -554,6 +560,7 @@
   - 1099157
   - 1099421
   - 1104774
+  - 1109603
   start: 2026-09-22T04:19:00Z
   stop: 2026-09-22T04:26:00Z
   title: 'Studio 4: Znanost'
@@ -625,6 +632,7 @@
   - 1099158
   - 1099422
   - 1104775
+  - 1109604
   start: 2026-09-22T04:26:00Z
   stop: 2026-09-22T04:55:00Z
   title: Otvoreno
@@ -707,6 +715,7 @@
   - 1099159
   - 1099423
   - 1104776
+  - 1109605
   start: 2026-09-22T04:57:00Z
   stop: 2026-09-22T04:58:00Z
   title: 'Bez komentara: Milano, Italija - Nogometni stadion San Siro slavi 100 godina'
@@ -955,14 +964,10 @@
   - 1099162
   - 1099426
   - 1104779
+  - 1107772
   start: 2026-09-22T10:00:00Z
   stop: 2026-09-22T10:30:00Z
   title: Predstavljanje plana sanacije lokacije onečišćene otpadom, prijenos
-  subtitle: ' '
-- eventId: 1107772
-  start: 2026-09-22T10:00:00Z
-  stop: 2026-09-22T10:30:00Z
-  title: Predstavljanje plana sanacije lokacije.
   subtitle: ' '
   ageRating: 4
   genre:
@@ -1168,14 +1173,10 @@
   - 1099165
   - 1099429
   - 1104782
+  - 1107775
   start: 2026-09-22T13:05:00Z
   stop: 2026-09-22T13:30:00Z
   title: Govor predsjednika Donalda Trumpa na Općoj skupštini UN-a, prijenos
-  subtitle: ' '
-- eventId: 1107775
-  start: 2026-09-22T13:05:00Z
-  stop: 2026-09-22T13:30:00Z
-  title: Govor predsjednika Donalda Trumpa na Općoj.
   subtitle: ' '
   ageRating: 4
   genre:
@@ -1440,6 +1441,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1039972
   start: 2026-09-22T15:20:00Z
   stop: 2026-09-22T15:40:00Z
@@ -1554,16 +1556,12 @@
   - 1099171
   - 1099435
   - 1104788
+  - 1107781
   start: 2026-09-22T15:56:00Z
   stop: 2026-09-22T15:58:00Z
   title: 'HRT100 Vremeplov: Obnova zagrebačkih hotela za Univerzijadu 1986. (33/34)'
-  subtitle: ' '
-  description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
-- eventId: 1107781
-  start: 2026-09-22T15:56:00Z
-  stop: 2026-09-22T15:58:00Z
-  title: HRT100 Vremeplov
   subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
+  description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
   ageRating: 4
   genre:
   - '160'
