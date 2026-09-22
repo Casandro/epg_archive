@@ -372,11 +372,13 @@
   - '47'
 - eventId: 1125751
   start: 2026-09-22T16:00:00Z
-  stop: 2026-09-22T16:10:00Z
+  stop: 2026-09-22T16:15:00Z
   title: 'AU COEUR DE L''INFO : LE JOURNAL'
-  description: 'Une immersion au c&#339;ur de l''info pour dØcrypter les faits majeurs du jour, tout en offrant des Øclairages sur les grands enjeux internationaux.  '
+  description: EN DIRECT.  Journal - 2026. Emission du 22 sept. 2026. Soyez au courant et retrouvez toutes les informations sur le sujet politique, sur l'Øconomie, la sociØtØ, la culture et la santØ.
   genre:
   - '47'
+  subtitle: EN DIRECT.  Journal - 2026. Emission du 22 sept. 2026.
+  subtitled: true
 - eventId: 1125938
   start: 2026-09-22T16:10:00Z
   stop: 2026-09-22T16:30:00Z
@@ -384,3 +386,12 @@
   description: 'Une personnalitØ politique revient sur les grands sujets qui marquent l''actualitØ et rØpond aux questions des journalistes de France 24 et de RFI.  '
   genre:
   - '47'
+- eventId: 1126015
+  start: 2026-09-22T16:15:00Z
+  stop: 2026-09-22T16:30:00Z
+  title: SPOTLIGHT
+  subtitle: EN DIRECT.  Interview - 2026. Emission du 22 sept. 2026.
+  description: 'EN DIRECT.  Interview - 2026. Emission du 22 sept. 2026. L''interview phare du jour qui va au-delΩ des gros titres : des invitØs de marque venus du monde entier approfondissent les sujets qui font l''actualitØ.'
+  genre:
+  - '144'
+  subtitled: true
