@@ -717,7 +717,9 @@
     PL, 2026
   genre:
   - '32'
-- eventId: 1112554
+- eventId:
+  - 1112554
+  - 1113199
   start: 2026-09-22T22:49:00Z
   stop: 2026-09-22T22:53:00Z
   title: Pogoda Info
@@ -735,7 +737,9 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 1112555
+- eventId:
+  - 1112555
+  - 1113200
   start: 2026-09-22T22:53:00Z
   stop: 2026-09-22T22:57:00Z
   title: Sprawdzam to extra
@@ -771,6 +775,13 @@
   description: |-
     program informacyjny
     Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.
+- eventId: 1113201
+  start: 2026-09-22T22:57:00Z
+  stop: 2026-09-22T23:24:00Z
+  title: Program informacyjny
+  description: |-
+    program informacyjny
+    Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.
 - eventId: 937867
   start: 2026-09-22T23:23:00Z
   stop: 2026-09-22T23:44:00Z
@@ -793,7 +804,9 @@
     PL, 2026
   genre:
   - '51'
-- eventId: 1112557
+- eventId:
+  - 1112557
+  - 1113202
   start: 2026-09-22T23:25:00Z
   stop: 2026-09-22T23:45:00Z
   title: Pytanie dnia
