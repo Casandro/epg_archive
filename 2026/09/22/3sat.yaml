@@ -1297,6 +1297,7 @@
   - 1100475
   - 1128528
   - 1128557
+  - 1128639
   start: 2026-09-22T20:29:00Z
   stop: 2026-09-22T22:01:00Z
   title: 'Systemfehler: Der Cum-Ex Skandal'
@@ -1352,6 +1353,7 @@
 - eventId:
   - 1128529
   - 1128558
+  - 1128635
   start: 2026-09-22T22:01:00Z
   stop: 2026-09-22T22:30:00Z
   title: 'Donat auf Achse: Von 9/11, Gott und ungewollter'
@@ -1365,7 +1367,11 @@
   genre:
   - '112'
   widescreen: true
-- eventId: 1128523
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1128523
+  - 1128602
   start: 2026-09-22T22:30:00Z
   stop: 2026-09-22T22:57:00Z
   title: 10 vor 10
@@ -1377,6 +1383,8 @@
   genre:
   - '32'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1100290
   - 1100477
@@ -1423,6 +1431,22 @@
   - '128'
   widescreen: true
   subtitled: true
+- eventId: 1128603
+  start: 2026-09-22T22:57:00Z
+  stop: 2026-09-23T00:14:00Z
+  title: maischberger
+  subtitle: Nach den Wahlen in Mecklenburg-Vorpommern und Berlin
+  description: |-
+    Sandra Maischberger diskutiert mit Gästen aktuelle Themen, die gesellschaftlich relevant sind, von Schönheitswahn bis Rassismus - journalistisch, kontrovers, informativ und unterhaltend.
+
+    Die Bandbreite bei Maischberger reicht von Politik, Gesellschaft und Boulevard bis Sport. Ihre Gäste sind Prominente, Fachleute und Betroffene.
+    HD-Produktion
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1100291
   - 1100478
