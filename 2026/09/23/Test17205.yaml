@@ -84,7 +84,7 @@
   hd: true
 - eventId: 1002957
   start: 2026-09-23T04:05:00Z
-  stop: 2026-09-23T05:00:00Z
+  stop: 2026-09-23T06:00:00Z
   title: A bon entendeur
   description: |-
     (Rediffusion) IA et voyages : ne suivez pas le guide aveuglément Alors que 80% de la population suisse utilise l'intelligence artificielle, nombreux sont ceux qui lui confient désormais leurs projets d'évasion. Pourtant, derrière la facilité apparente se cachent des écueils bien réels. En testant sept agents conversationnels, ABE explore aussi l'envers du décor !
@@ -229,6 +229,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1112295
+  start: 2026-09-23T13:10:00Z
+  stop: 2026-09-23T14:05:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 940403
   start: 2026-09-23T14:05:00Z
   stop: 2026-09-23T14:45:00Z
@@ -240,6 +251,7 @@
   - '128'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 940404
   start: 2026-09-23T14:45:00Z
   stop: 2026-09-23T15:30:00Z
@@ -263,11 +275,22 @@
   hd: true
 - eventId: 941271
   start: 2026-09-23T16:00:00Z
-  stop: 2026-09-23T16:40:00Z
+  stop: 2026-09-23T16:35:00Z
   title: Forum
   description: En direct. Forum du 23.09.2026
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1112302
+  start: 2026-09-23T16:35:00Z
+  stop: 2026-09-23T18:50:00Z
+  title: Football
+  subtitle: UEFA Women's Champions League
+  description: En direct. 1e journée Servette FCCF - OL Lyonnes En direct de Genève
+  genre:
+  - '64'
   widescreen: true
   subtitled: true
   hd: true
@@ -300,7 +323,7 @@
   hd: true
 - eventId: 1098061
   start: 2026-09-23T18:51:00Z
-  stop: 2026-09-23T20:10:00Z
+  stop: 2026-09-23T20:15:00Z
   title: Documentaires
   description: Le chêne Besoin de déconnecter? Laissez-vous surprendre. Au c_ur d'un chêne géant, une incroyable communauté animale dévoile ses secrets. Une immersion captivante, sans commentaire, entre ASMR nature, vie sauvage et spectacle grand format. (Suisse Romande-2022)
   genre:
@@ -381,7 +404,7 @@
   hd: true
 - eventId: 1098072
   start: 2026-09-23T23:20:00Z
-  stop: 2026-09-23T23:45:00Z
+  stop: 2026-09-23T23:50:00Z
   title: 19h30 - Signé
   description: '"Langue des signes"'
   genre:
@@ -399,7 +422,7 @@
   hd: true
 - eventId: 1098073
   start: 2026-09-23T23:50:00Z
-  stop: 2026-09-24T00:45:00Z
+  stop: 2026-09-24T00:50:00Z
   title: 36.9°
   description: (Rediffusion)
   genre:

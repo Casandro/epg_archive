@@ -222,7 +222,7 @@
   hd: true
 - eventId: 1099241
   start: 2026-09-22T01:55:00Z
-  stop: 2026-09-22T02:15:00Z
+  stop: 2026-09-22T02:20:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -499,7 +499,7 @@
   hd: true
 - eventId: 1099262
   start: 2026-09-22T04:15:00Z
-  stop: 2026-09-22T04:25:00Z
+  stop: 2026-09-22T04:30:00Z
   title: Schweiz aktuell
   description: |-
     Tierseuche
@@ -551,7 +551,7 @@
   hd: true
 - eventId: 1099264
   start: 2026-09-22T04:35:00Z
-  stop: 2026-09-22T04:50:00Z
+  stop: 2026-09-22T04:55:00Z
   title: Schweiz aktuell
   description: |-
     Tierseuche
@@ -642,7 +642,7 @@
   subtitle: Die Sportnews des Tages
 - eventId: 1099278
   start: 2026-09-22T05:20:00Z
-  stop: 2026-09-22T05:35:00Z
+  stop: 2026-09-22T05:40:00Z
   title: Schweiz aktuell
   description: |-
     Tierseuche
@@ -678,7 +678,7 @@
   hd: true
 - eventId: 1002887
   start: 2026-09-22T06:15:00Z
-  stop: 2026-09-22T06:50:00Z
+  stop: 2026-09-22T06:55:00Z
   title: Gredig direkt
   subtitle: 'Valérie Dittli: Vom Politstar zur Aussenseiterin'
   description: |-
@@ -843,11 +843,22 @@
   hd: true
 - eventId: 1002893
   start: 2026-09-22T14:20:00Z
-  stop: 2026-09-22T14:30:00Z
+  stop: 2026-09-22T14:25:00Z
   title: Meteo
   subtitle: Mittagsausgabe
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1112354
+  start: 2026-09-22T14:25:00Z
+  stop: 2026-09-22T15:00:00Z
+  title: Eco Talk
+  subtitle: 'SAC-Hütten: Von der Nische zum Massentourismus?'
+  description: |-
+    Immer mehr Menschen entdecken die Alpen, die Erwartungen an Komfort, Sicherheit und Erreichbarkeit steigen. Stehen die SAC-Hütten an einem Wendepunkt?
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -859,6 +870,26 @@
   description: |-
     Immer mehr Menschen entdecken die Alpen, die Erwartungen an Komfort, Sicherheit und Erreichbarkeit steigen. Stehen die SAC-Hütten an einem Wendepunkt?
     Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1112355
+  start: 2026-09-22T15:00:00Z
+  stop: 2026-09-22T15:05:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1112356
+  start: 2026-09-22T15:05:00Z
+  stop: 2026-09-22T15:15:00Z
+  title: Meteo
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
   widescreen: true
   subtitled: true
   hd: true
