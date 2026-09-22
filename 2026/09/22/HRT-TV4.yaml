@@ -326,7 +326,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 1039906
   start: 2026-09-22T02:53:00Z
-  stop: 2026-09-22T03:00:00Z
+  stop: 2026-09-22T03:01:00Z
   title: Vijesti iz kulture
   subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   ageRating: 4
@@ -357,6 +357,7 @@
   - 1099417
   - 1104770
   - 1109599
+  - 1112396
   start: 2026-09-22T03:01:00Z
   stop: 2026-09-22T03:51:00Z
   title: Dnevnik 2
@@ -373,7 +374,7 @@
   - '32'
 - eventId: 1039908
   start: 2026-09-22T03:53:00Z
-  stop: 2026-09-22T03:54:00Z
+  stop: 2026-09-22T03:55:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -420,7 +421,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 1109600
+- eventId:
+  - 1109600
+  - 1112397
   start: 2026-09-22T03:55:00Z
   stop: 2026-09-22T03:56:00Z
   title: Vrijeme Europa danas
@@ -442,7 +445,7 @@
   - 1104771
   - 1107769
   start: 2026-09-22T03:56:00Z
-  stop: 2026-09-22T04:00:00Z
+  stop: 2026-09-22T03:58:00Z
   title: Vrijeme svijet danas
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
@@ -475,6 +478,7 @@
   - 1099419
   - 1104772
   - 1109601
+  - 1112398
   start: 2026-09-22T03:58:00Z
   stop: 2026-09-22T04:00:00Z
   title: 'Bez komentara: London, Velika Britanija - Sarah Regensburger predstavlja perzijsku kulturu na Londonskom tjednu mode'
@@ -482,7 +486,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1039912
   start: 2026-09-22T04:00:00Z
-  stop: 2026-09-22T04:08:00Z
+  stop: 2026-09-22T04:09:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -520,6 +524,7 @@
   - 1099420
   - 1104773
   - 1109602
+  - 1112399
   start: 2026-09-22T04:09:00Z
   stop: 2026-09-22T04:19:00Z
   title: Vijesti na engleskom jeziku
@@ -567,6 +572,7 @@
   - 1099421
   - 1104774
   - 1109603
+  - 1112400
   start: 2026-09-22T04:19:00Z
   stop: 2026-09-22T04:26:00Z
   title: 'Studio 4: Znanost'
@@ -640,6 +646,7 @@
   - 1099422
   - 1104775
   - 1109604
+  - 1112401
   start: 2026-09-22T04:26:00Z
   stop: 2026-09-22T04:55:00Z
   title: Otvoreno
@@ -724,6 +731,7 @@
   - 1099423
   - 1104776
   - 1109605
+  - 1112402
   start: 2026-09-22T04:57:00Z
   stop: 2026-09-22T04:58:00Z
   title: 'Bez komentara: Milano, Italija - Nogometni stadion San Siro slavi 100 godina'
@@ -1822,16 +1830,12 @@
   - 1099173
   - 1099437
   - 1104790
+  - 1107783
   start: 2026-09-22T20:43:00Z
   stop: 2026-09-22T21:03:00Z
   title: 'Studio 4: Sportske minute'
-  subtitle: ' '
-  description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 1107783
-  start: 2026-09-22T20:43:00Z
-  stop: 2026-09-22T21:03:00Z
-  title: Sportske minute
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
   genre:
   - '160'
@@ -1895,16 +1899,12 @@
   - 1099174
   - 1099438
   - 1104791
+  - 1107784
   start: 2026-09-22T21:03:00Z
   stop: 2026-09-22T21:06:00Z
   title: '#REPORTAŽE: Posvojena osoba'
-  subtitle: ' '
-  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 1107784
-  start: 2026-09-22T21:03:00Z
-  stop: 2026-09-22T21:06:00Z
-  title: '#REPORTAŽE'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
