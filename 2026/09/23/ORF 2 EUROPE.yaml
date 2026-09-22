@@ -90,7 +90,9 @@
   title: konkret
   genre:
   - '34'
-- eventId: 1113804
+- eventId:
+  - 1113804
+  - 1117726
   start: 2026-09-23T03:48:38Z
   stop: 2026-09-23T04:08:08Z
   title: konkret
@@ -133,9 +135,13 @@
   start: 2026-09-23T04:00:00Z
   stop: 2026-09-23T04:30:00Z
   title: Wetter-Panorama und Programmvorschau
+- eventId: 1117727
+  start: 2026-09-23T04:09:06Z
+  stop: 2026-09-23T04:27:53Z
+  title: Wetter-Panorama und Programmvorschau
 - eventId: 931457
   start: 2026-09-23T04:30:00Z
-  stop: 2026-09-23T05:00:00Z
+  stop: 2026-09-23T04:58:49Z
   title: Guten Morgen Österreich
   genre:
   - '34'
@@ -145,6 +151,12 @@
   title: ZIB
   genre:
   - '33'
+- eventId: 1117728
+  start: 2026-09-23T05:08:30Z
+  stop: 2026-09-23T05:30:00Z
+  title: Guten Morgen Österreich
+  genre:
+  - '34'
 - eventId: 931557
   start: 2026-09-23T05:10:00Z
   stop: 2026-09-23T05:30:00Z
@@ -159,7 +171,7 @@
   - '33'
 - eventId: 931853
   start: 2026-09-23T05:33:00Z
-  stop: 2026-09-23T06:00:00Z
+  stop: 2026-09-23T05:58:59Z
   title: Guten Morgen Österreich
   genre:
   - '34'
@@ -169,6 +181,12 @@
   title: ZIB
   genre:
   - '33'
+- eventId: 1117729
+  start: 2026-09-23T06:08:30Z
+  stop: 2026-09-23T06:30:00Z
+  title: Guten Morgen Österreich
+  genre:
+  - '34'
 - eventId: 932101
   start: 2026-09-23T06:10:00Z
   stop: 2026-09-23T06:30:00Z
@@ -183,7 +201,7 @@
   - '33'
 - eventId: 932326
   start: 2026-09-23T06:33:00Z
-  stop: 2026-09-23T07:00:00Z
+  stop: 2026-09-23T06:58:33Z
   title: Guten Morgen Österreich
   genre:
   - '34'
@@ -195,7 +213,7 @@
   - '33'
 - eventId: 1092398
   start: 2026-09-23T07:05:00Z
-  stop: 2026-09-23T11:00:00Z
+  stop: 2026-09-23T10:59:00Z
   title: Plenarsitzung des Nationalrates
   description: |-
     Nach der Sondersitzung zum Klimaschutz startet der Nationalrat mit einem regulären Plenartag in den Herbst. Auf der Tagesordnung stehen unter anderem das Gesetzespaket "Arbeiten im Alter" mit steuerlichen Begünstigungen für Erwerbstätige im Pensionsalter und Änderungen bei der betrieblichen Altersvorsorge. Beschlossen werden sollen außerdem weitere Sondermittel zur Förderung der Beschäftigung von Menschen mit Behinderungen. Neu geregelt werden die Familienleistungen für Vertriebene aus der Ukraine und subsidiär Schutzberechtigte. Auch der Bundesrechnungsabschluss 2025 steht zur Debatte. Nach Abschluss der Beratungen im Verfassungsausschuss könnte zudem der Weg für mehr Digitalisierung in Verwaltungsverfahren frei werden. Änderungen im Verwaltungsverfahrens- und Verwaltungsstrafgesetz schaffen die rechtlichen Grundlagen für den Einsatz von Chatbots und vollständig automatisierten schriftlichen Erledigungen. Zum Auftakt stehen eine Aktuelle Stunde der SPÖ und eine Europastunde der NEOS auf dem Programm. Die FPÖ bringt in Erster Lesung zwei Anträge ein: zur Befreiung von Blaulichtorganisationen von der Mineralölsteuer und zu einer Änderung der Straßenverkehrsordnung. Letztere richtet sich unter anderem gegen Regenbogen-Zebrastreifen.
@@ -215,6 +233,18 @@
   title: Wetter
   genre:
   - '33'
+- eventId: 1117749
+  start: 2026-09-23T11:25:22Z
+  stop: 2026-09-23T11:27:52Z
+  title: Wetter
+  genre:
+  - '33'
+- eventId: 1117750
+  start: 2026-09-23T11:29:53Z
+  stop: 2026-09-23T12:13:53Z
+  title: Aktuell nach eins
+  genre:
+  - '34'
 - eventId: 936923
   start: 2026-09-23T11:30:00Z
   stop: 2026-09-23T12:14:00Z
@@ -227,9 +257,21 @@
   title: Seitenblicke
   genre:
   - '35'
+- eventId: 1117751
+  start: 2026-09-23T12:15:24Z
+  stop: 2026-09-23T12:19:54Z
+  title: Seitenblicke
+  genre:
+  - '35'
 - eventId: 938019
   start: 2026-09-23T12:20:00Z
   stop: 2026-09-23T12:44:25Z
+  title: Silvia kocht
+  genre:
+  - '165'
+- eventId: 1117752
+  start: 2026-09-23T12:20:53Z
+  stop: 2026-09-23T12:45:18Z
   title: Silvia kocht
   genre:
   - '165'
@@ -239,13 +281,19 @@
   title: Hinter den Schlagzeilen
   genre:
   - '51'
+- eventId: 1117753
+  start: 2026-09-23T14:24:07Z
+  stop: 2026-09-23T14:54:07Z
+  title: Hinter den Schlagzeilen
+  genre:
+  - '51'
 - eventId: 940181
   start: 2026-09-23T14:56:30Z
   stop: 2026-09-23T14:59:30Z
   title: Steiermark heute kompakt
 - eventId: 940182
   start: 2026-09-23T15:00:00Z
-  stop: 2026-09-23T15:05:00Z
+  stop: 2026-09-23T15:05:30Z
   title: ZIB
   genre:
   - '33'
@@ -255,6 +303,18 @@
   title: Aktuell nach fünf
   genre:
   - '34'
+- eventId: 1117730
+  start: 2026-09-23T15:07:44Z
+  stop: 2026-09-23T15:26:44Z
+  title: Aktuell nach fünf
+  genre:
+  - '34'
+- eventId: 1117731
+  start: 2026-09-23T15:29:12Z
+  stop: 2026-09-23T16:25:52Z
+  title: Studio 2
+  genre:
+  - '160'
 - eventId: 941216
   start: 2026-09-23T15:30:00Z
   stop: 2026-09-23T16:28:00Z
@@ -275,6 +335,14 @@
   start: 2026-09-23T16:44:00Z
   stop: 2026-09-23T16:45:00Z
   title: infos & tipps
+- eventId: 1117732
+  start: 2026-09-23T16:44:40Z
+  stop: 2026-09-23T16:45:55Z
+  title: infos & tipps
+- eventId: 1117733
+  start: 2026-09-23T16:47:32Z
+  stop: 2026-09-23T16:53:27Z
+  title: Lotto 6 aus 45 mit Joker
 - eventId: 941882
   start: 2026-09-23T16:48:00Z
   stop: 2026-09-23T16:53:55Z
@@ -285,12 +353,18 @@
   title: Steiermark heute Service
 - eventId: 942042
   start: 2026-09-23T17:00:00Z
-  stop: 2026-09-23T17:24:00Z
+  stop: 2026-09-23T17:21:00Z
   title: Steiermark heute
 - eventId: 942235
   start: 2026-09-23T17:30:00Z
-  stop: 2026-09-23T17:49:30Z
+  stop: 2026-09-23T17:49:00Z
   title: Zeit im Bild
+  genre:
+  - '33'
+- eventId: 1117734
+  start: 2026-09-23T17:50:51Z
+  stop: 2026-09-23T17:52:21Z
+  title: Wetter
   genre:
   - '33'
 - eventId: 942653
@@ -299,12 +373,24 @@
   title: Wetter
   genre:
   - '33'
+- eventId: 1117735
+  start: 2026-09-23T17:55:25Z
+  stop: 2026-09-23T17:59:05Z
+  title: Sport Aktuell
+  genre:
+  - '64'
 - eventId: 942654
   start: 2026-09-23T17:56:00Z
   stop: 2026-09-23T17:59:40Z
   title: Sport Aktuell
   genre:
   - '64'
+- eventId: 1117736
+  start: 2026-09-23T18:03:34Z
+  stop: 2026-09-23T18:08:04Z
+  title: Seitenblicke
+  genre:
+  - '35'
 - eventId: 942657
   start: 2026-09-23T18:05:00Z
   stop: 2026-09-23T18:08:40Z
@@ -313,7 +399,7 @@
   - '35'
 - eventId: 942723
   start: 2026-09-23T18:15:00Z
-  stop: 2026-09-23T19:43:30Z
+  stop: 2026-09-23T19:45:35Z
   title: 2 in Tirol - Heimat grenzenlos entdecken
   description: "Ein neues Moderationsduo macht sich heuer  in \"2 in Tirol\" auf eine vergnügliche Reise durch Tirol, Südtirol und das Trentino. Schauspielerin Kristina Sprenger und Wettermann Sigi Fink lernen ihre Heimat einmal von einer ganz anderen Seite kennen, und da bleibt kein Auge trocken. Die zwei stürzen sich mit viel Witz und Leidenschaft in die Sendung, die heuer über Grenzen geht. Ihr erster Treffpunkt ist 1400 Meter unter der Erde, was Kristina gar nicht und Sigi sehr lustig findet. Und das ist erst der Anfang.  \nMitwirkende: Lena Schaur (Musikerin), Tel Tipes (Musiker), Max von Milland (Musiker)"
   genre:
@@ -321,6 +407,13 @@
 - eventId: 943849
   start: 2026-09-23T19:50:00Z
   stop: 2026-09-23T19:55:31Z
+  title: Tierisch prominent
+  description: 'Die ORF-Kräuterexpertin Uschi Zezelitsch lebt mit vier Katzen in ihrer Villa Himmelrot: dem ängstlichen Fraser, Schmuser Nelson, dem zugelaufenen Bobby und der frechen Luisa. Die Burgenländerin verbindet Tierliebe mit Kräuterheilkunde und stellt natürliche Zeckensprays aus Kokosöl und Duftblattpelargonie her.'
+  genre:
+  - '145'
+- eventId: 1117737
+  start: 2026-09-23T19:50:11Z
+  stop: 2026-09-23T19:55:42Z
   title: Tierisch prominent
   description: 'Die ORF-Kräuterexpertin Uschi Zezelitsch lebt mit vier Katzen in ihrer Villa Himmelrot: dem ängstlichen Fraser, Schmuser Nelson, dem zugelaufenen Bobby und der frechen Luisa. Die Burgenländerin verbindet Tierliebe mit Kräuterheilkunde und stellt natürliche Zeckensprays aus Kokosöl und Duftblattpelargonie her.'
   genre:
@@ -339,9 +432,23 @@
   description: "Deutschland steht vor einer politischen Zäsur: in Sachsen-Anhalt hat sich die als rechtsextrem eingestufte AfD bei den Wahlen Anfang September mehr als verdoppelt und erzielte ein Rekordergebnis von 44% der Stimmen. Auch bei den kommenden Wahlen in Mecklenburg-Vorpommern könnte die \"Alternative für Deutschland\" stärkste Kraft werden.\n\nDas WELTjournal analysiert die Gründe für den enormen Zuspruch zur völkisch-nationalistischen Agenda der AfD. Auf Social Media wie Instagramm und Tiktok dominiert die AfD die politische Diskussion und zielt mit emotionalisierten Kurzvideos vor allem auf junge Wähler und Wählerinnen. Beleuchtet werden auch die Rolle Russlands und der USA unter Trump, die den Aufstieg der AfD von außen massiv befeuern. Ein hochaktueller Blick auf die gegenwärtigen Herausforderungen für die Demokratie in Deutschland. \nGestaltung: Evan Williams"
   genre:
   - '129'
+- eventId: 1117738
+  start: 2026-09-23T20:31:24Z
+  stop: 2026-09-23T21:30:24Z
+  title: WELTjournal
+  subtitle: Deutschland - Der Aufstieg der AfD
+  description: "Deutschland steht vor einer politischen Zäsur: in Sachsen-Anhalt hat sich die als rechtsextrem eingestufte AfD bei den Wahlen Anfang September mehr als verdoppelt und erzielte ein Rekordergebnis von 44%. Bei den Wahlen in Mecklenburg-Vorpommern am Wochenende wurde die \"Alternative für Deutschland\" ebenfalls stärkste Kraft.\n\nDas WELTjournal analysiert die Gründe für den enormen Zuspruch zur völkisch-nationalistischen Agenda der AfD. Auf Social Media wie Instagram und Tiktok dominiert die AfD die politische Diskussion und zielt mit emotionalisierten Kurzvideos vor allem auf junge Wähler und Wählerinnen. Beleuchtet werden auch die Rolle Russlands und der USA unter Trump, die den Aufstieg der AfD von außen massiv befeuern. Ein hochaktueller Blick auf die gegenwärtigen Herausforderungen für die Demokratie in Deutschland. \nGestaltung: Evan Williams"
+  genre:
+  - '129'
 - eventId: 946113
   start: 2026-09-23T23:35:00Z
   stop: 2026-09-24T01:09:00Z
+  title: 2 in Tirol - Heimat grenzenlos entdecken
+  genre:
+  - '116'
+- eventId: 1117739
+  start: 2026-09-23T23:37:29Z
+  stop: 2026-09-24T01:08:04Z
   title: 2 in Tirol - Heimat grenzenlos entdecken
   genre:
   - '116'
