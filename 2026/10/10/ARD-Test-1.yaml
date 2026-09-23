@@ -17,18 +17,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153554
-  start: 2026-10-10T00:30:00Z
-  stop: 2026-10-10T01:55:00Z
-  title: Einspruch, Schatz! - Rosenkrieg
-  subtitle: Spielfilm Deutschland 2026
-  ageRating: 6
-  genre:
-  - '16'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 832192
+- eventId:
+  - 1153554
+  - 832192
   start: 2026-10-10T00:30:00Z
   stop: 2026-10-10T02:00:00Z
   title: Einspruch, Schatz! - Rosenkrieg
@@ -87,15 +78,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153557
-  start: 2026-10-10T02:40:00Z
-  stop: 2026-10-10T03:25:00Z
-  title: Hubert ohne Staller (166)
-  subtitle: Tod auf Rezept
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 832195
+- eventId:
+  - 1153557
+  - 832195
   start: 2026-10-10T02:40:00Z
   stop: 2026-10-10T03:30:00Z
   title: Hubert ohne Staller (166)
@@ -127,15 +112,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153563
-  start: 2026-10-10T03:40:00Z
-  stop: 2026-10-10T03:50:00Z
-  title: Arthur und die Freunde der Tafelrunde (28/52)
-  subtitle: Das Orakel der Grotte
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 832239
+- eventId:
+  - 1153563
+  - 832239
   start: 2026-10-10T03:40:00Z
   stop: 2026-10-10T03:55:00Z
   title: Arthur und die Freunde der Tafelrunde (28/52)
@@ -168,15 +147,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153565
-  start: 2026-10-10T04:35:00Z
-  stop: 2026-10-10T04:50:00Z
-  title: 'Elefant, Tiger & Kids: Zoo-Praktikum Backstage (5/18)'
-  subtitle: Tierarzt im Flamingo-Haus
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 832242
+- eventId:
+  - 1153565
+  - 832242
   start: 2026-10-10T04:35:00Z
   stop: 2026-10-10T04:55:00Z
   title: 'Elefant, Tiger & Kids: Zoo-Praktikum Backstage (5/18)'
@@ -265,7 +238,7 @@
   - 832281
   start: 2026-10-10T06:45:00Z
   stop: 2026-10-10T06:55:00Z
-  title: POV - Deine Geschichte zählt
+  title: POV - Deine Geschichte zählt (27)
   subtitle: Suizidgedanken · Was tun, wenn ein Freund nicht mehr kann?
   widescreen: true
   subtitled: true
@@ -307,15 +280,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153585
-  start: 2026-10-10T07:55:00Z
-  stop: 2026-10-10T08:35:00Z
-  title: Panda, Gorilla & Co. (309)
-  subtitle: Geschichten aus dem Zoo Berlin und dem Tierpark Berlin
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 832285
+- eventId:
+  - 1153585
+  - 832285
   start: 2026-10-10T07:55:00Z
   stop: 2026-10-10T08:40:00Z
   title: Panda, Gorilla & Co. (309)
@@ -410,7 +377,7 @@
   hd: true
 - eventId: 832324
   start: 2026-10-10T11:45:00Z
-  stop: 2026-10-10T11:55:00Z
+  stop: 2026-10-10T12:00:00Z
   title: Erlebnisreisen
   widescreen: true
   subtitled: true
@@ -566,7 +533,7 @@
   hd: true
 - eventId: 832448
   start: 2026-10-10T18:15:00Z
-  stop: 2026-10-10T21:10:00Z
+  stop: 2026-10-10T21:25:00Z
   title: Tatort - Die Erfindung des Rades
   subtitle: 'Moderation: Barbara Schöneberger'
   widescreen: true
@@ -606,6 +573,14 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1154599
+  start: 2026-10-10T21:25:00Z
+  stop: 2026-10-10T21:35:00Z
+  title: Tagesthemen
+  subtitle: mit Wetter
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 1153644
   - 832477
@@ -620,9 +595,24 @@
   - 1153645
   - 832478
   start: 2026-10-10T21:40:00Z
-  stop: 2026-10-10T23:40:00Z
+  stop: 2026-10-10T21:45:00Z
   title: N. N.
   subtitle: (Weitere Informationen folgen)
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1154600
+  start: 2026-10-10T21:45:00Z
+  stop: 2026-10-10T21:50:00Z
+  title: Das Wort zum Sonntag
+  subtitle: spricht Pfarrer Wolfgang Beck, Hildesheim
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1154601
+  start: 2026-10-10T21:50:00Z
+  stop: 2026-10-10T23:53:00Z
+  title: Teddy Teclebrhan - Halb Mensch, halb Disco
   widescreen: true
   subtitled: true
   hd: true
@@ -664,6 +654,24 @@
   start: 2026-10-10T23:45:00Z
   stop: 2026-10-11T01:25:00Z
   title: Haus Kummerveldt (4/6)
+  subtitle: Spielfilm Italien 1981 (Innamorato pazzo)
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1154602
+  start: 2026-10-10T23:53:00Z
+  stop: 2026-10-10T23:55:00Z
+  title: Tagesschau
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1154603
+  start: 2026-10-10T23:55:00Z
+  stop: 2026-10-11T01:35:00Z
+  title: Gib dem Affen Zucker
   subtitle: Spielfilm Italien 1981 (Innamorato pazzo)
   ageRating: 6
   genre:

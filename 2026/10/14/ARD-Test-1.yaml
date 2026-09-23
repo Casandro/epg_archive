@@ -46,7 +46,7 @@
   hd: true
 - eventId: 950106
   start: 2026-10-14T02:25:00Z
-  stop: 2026-10-14T02:55:00Z
+  stop: 2026-10-14T02:58:00Z
   title: Lokalzeit aus Dortmund
   widescreen: true
   subtitled: true
@@ -67,15 +67,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153569
-  start: 2026-10-14T03:00:00Z
-  stop: 2026-10-14T03:25:00Z
-  title: FAKT
-  subtitle: Das MDR-Magazin
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 950157
+- eventId:
+  - 1153569
+  - 950157
   start: 2026-10-14T03:00:00Z
   stop: 2026-10-14T03:30:00Z
   title: FAKT
@@ -205,15 +199,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153591
-  start: 2026-10-14T08:45:00Z
-  stop: 2026-10-14T09:10:00Z
-  title: Meister des Alltags (306)
-  subtitle: mit Florian Weber
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 950207
+- eventId:
+  - 1153591
+  - 950207
   start: 2026-10-14T08:45:00Z
   stop: 2026-10-14T09:15:00Z
   title: Meister des Alltags (306)
@@ -229,15 +217,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153596
-  start: 2026-10-14T09:15:00Z
-  stop: 2026-10-14T09:55:00Z
-  title: Gefragt - Gejagt (1012)
-  subtitle: mit Alexander Bommes
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 950244
+- eventId:
+  - 1153596
+  - 950244
   start: 2026-10-14T09:15:00Z
   stop: 2026-10-14T10:00:00Z
   title: Gefragt - Gejagt (1012)
@@ -379,7 +361,7 @@
   hd: true
 - eventId: 950327
   start: 2026-10-14T16:00:00Z
-  stop: 2026-10-14T16:45:00Z
+  stop: 2026-10-14T16:50:00Z
   title: Gefragt - Gejagt (1058)
   subtitle: mit Alexander Bommes
   widescreen: true

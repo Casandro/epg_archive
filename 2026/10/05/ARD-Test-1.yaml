@@ -16,7 +16,7 @@
   hd: true
 - eventId: 939117
   start: 2026-10-05T01:25:00Z
-  stop: 2026-10-05T02:05:00Z
+  stop: 2026-10-05T02:10:00Z
   title: We Came As Romans - Vainstream 2026
   subtitle: Aufzeichnung vom 27. Juni 2026 aus Münster
   widescreen: true
@@ -188,15 +188,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153371
-  start: 2026-10-05T08:45:00Z
-  stop: 2026-10-05T09:10:00Z
-  title: Meister des Alltags (299)
-  subtitle: 'Moderation: Florian Weber'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 682740
+- eventId:
+  - 1153371
+  - 682740
   start: 2026-10-05T08:45:00Z
   stop: 2026-10-05T09:15:00Z
   title: Meister des Alltags (299)
@@ -212,15 +206,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153401
-  start: 2026-10-05T09:15:00Z
-  stop: 2026-10-05T09:55:00Z
-  title: Gefragt - Gejagt (1005)
-  subtitle: 'Moderation: Alexander Bommes'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 682762
+- eventId:
+  - 1153401
+  - 682762
   start: 2026-10-05T09:15:00Z
   stop: 2026-10-05T10:00:00Z
   title: Gefragt - Gejagt (1005)
@@ -455,7 +443,7 @@
   hd: true
 - eventId: 682869
   start: 2026-10-05T19:45:00Z
-  stop: 2026-10-05T20:15:00Z
+  stop: 2026-10-05T20:20:00Z
   title: Tagesthemen
   subtitle: 'Moderation: Catherine Vogel'
   widescreen: true
