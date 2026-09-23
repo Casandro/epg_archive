@@ -1,6 +1,6 @@
 - eventId: 955703
   start: 2026-09-24T01:00:00Z
-  stop: 2026-09-24T05:00:00Z
+  stop: 2026-09-24T04:00:00Z
   title: Best polish
   subtitle: Program prezentuje zestawienie najlepszych przebojów w wykonaniu artystów i zespołów polskiej sceny muzycznej.
   description: |-
@@ -10,7 +10,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 955828
+- eventId:
+  - 1156172
+  - 955828
   start: 2026-09-24T04:00:00Z
   stop: 2026-09-24T05:00:00Z
   title: Best polish
@@ -47,12 +49,22 @@
   - '96'
 - eventId: 956888
   start: 2026-09-24T07:00:00Z
-  stop: 2026-09-24T22:00:00Z
+  stop: 2026-09-24T10:00:00Z
   title: Top 166 Hits of the 80's
   description: |-
     program muzyczny
     166 przebojów, które cieszyły się popularnością w latach 80.
     Od lat: 12
+  ageRating: 12
+  genre:
+  - '96'
+- eventId: 1156198
+  start: 2026-09-24T10:00:00Z
+  stop: 2026-09-24T13:00:00Z
+  title: Top 167 Hits of the 80's
+  description: |
+    Tytuł oryginalny: Top 167 Hits of the 80's
+    PL, 2026
   ageRating: 12
   genre:
   - '96'
@@ -62,6 +74,16 @@
   title: Top 166 Hits of the 80's
   description: |
     Tytuł oryginalny: Top 166 Hits of the 80's
+    PL, 2026
+  ageRating: 12
+  genre:
+  - '96'
+- eventId: 1156217
+  start: 2026-09-24T13:00:00Z
+  stop: 2026-09-24T16:00:00Z
+  title: Top 167 Hits of the 80's
+  description: |
+    Tytuł oryginalny: Top 167 Hits of the 80's
     PL, 2026
   ageRating: 12
   genre:
@@ -76,12 +98,32 @@
   ageRating: 12
   genre:
   - '96'
+- eventId: 1156225
+  start: 2026-09-24T16:00:00Z
+  stop: 2026-09-24T19:00:00Z
+  title: Top 167 Hits of the 80's
+  description: |
+    Tytuł oryginalny: Top 167 Hits of the 80's
+    PL, 2026
+  ageRating: 12
+  genre:
+  - '96'
 - eventId: 955342
   start: 2026-09-24T16:00:00Z
   stop: 2026-09-24T19:00:00Z
   title: Top 166 Hits of the 80's
   description: |
     Tytuł oryginalny: Top 166 Hits of the 80's
+    PL, 2026
+  ageRating: 12
+  genre:
+  - '96'
+- eventId: 1156240
+  start: 2026-09-24T19:00:00Z
+  stop: 2026-09-24T22:00:00Z
+  title: Top 167 Hits of the 80's
+  description: |
+    Tytuł oryginalny: Top 167 Hits of the 80's
     PL, 2026
   ageRating: 12
   genre:

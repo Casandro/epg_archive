@@ -111,7 +111,7 @@
   hd: true
 - eventId: 1124315
   start: 2026-09-25T04:15:00Z
-  stop: 2026-09-25T04:30:00Z
+  stop: 2026-09-25T05:00:00Z
   title: Couleurs locales
   description: (Rediffusion)
   genre:
@@ -130,7 +130,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 991174
+- eventId:
+  - 1155511
+  - 991174
   start: 2026-09-25T05:00:00Z
   stop: 2026-09-25T06:00:00Z
   title: La Matinale
@@ -166,7 +168,7 @@
   start: 2026-09-25T07:55:00Z
   stop: 2026-09-25T08:10:00Z
   title: Ramdam
-  description: 'Filmer un corps Quand on danse,les corps tournent, s''élèvent et dessinent un espace entre terre et ciel. On vous propose une immersion dans l''art de filmer la danse : comment saisir l''élan, le souffle et la présence des corps en mouvement? À travers un film, l''émission interroge la capacité du cinéma à rendre visible ce qui se joue dans l''expérience intime du geste dansé.'
+  description: 'Silence on tourne Quand on danse,les corps tournent, s''élèvent et dessinent un espace entre terre et ciel. On vous propose une immersion dans l''art de filmer la danse : comment saisir l''élan, le souffle et la présence des corps en mouvement? À travers un film, l''émission interroge la capacité du cinéma à rendre visible ce qui se joue dans l''expérience intime du geste dansé.'
   genre:
   - '128'
   widescreen: true
@@ -227,7 +229,10 @@
   start: 2026-09-25T10:20:00Z
   stop: 2026-09-25T11:15:00Z
   title: Mise au point
-  description: (Suisse Romande-2026)
+  description: |-
+    (Suisse Romande-2026)  - Climat : le baroud d'honneur des verts Au terme d'un nouvel été caniculaire, les verts suisses tentent de relancer le débat climatique et la mobilisation populaire. Leur adversaire désigné : le Ministre UDC Albert Roesti.
+     - Les ambulanciers face à la violence Ils subissent des dizaines d'agressions chaque année. Les ambulanciers de la région lausannoise sont équipés de spray au poivre depuis le début de cette année. Reportage en immersion avec une équipe de secouristes.
+     - L'eldorado des super-riches La ville de Prospera, au Honduras, incarne le rêve de certains super-riches : un espace libertaire qui s'invente ses propres règles, hors du contrôle de l'Etat. Visite exceptionnelle de la dernière utopie des milliardaires.
   genre:
   - '128'
   widescreen: true
@@ -274,9 +279,9 @@
   hd: true
 - eventId: 1002853
   start: 2026-09-25T13:05:00Z
-  stop: 2026-09-25T13:50:00Z
+  stop: 2026-09-25T13:55:00Z
   title: Temps présent
-  description: 'La Suisse face à l''invisible menace du frelon asiatique C''est une nouvelle menace invisible : le frelon asiatique se déploie en Suisse de manière exponentielle et inquiétante. De jolis petits cocons blancs et beiges apparaissent un peu partout, même dans nos villes. Ce sont, en fait, des nids d''un redoutable insecte à ne surtout pas toucher. Arrivé en 2017 par le Jura, le frelon asiatique est un grand destructeur d''abeilles et autres pollinisateurs, et ses attaques sur l''homme peuvent entraîner des réactions imprévisibles. Pourtant, la Confédération peine à prendre la mesure de la menace et laisse les cantons gérer ce nouveau fléau comme ils peuvent. Reportage au c_ur de la lutte en Suisse romande.  (Suisse Romande-2026)'
+  description: "La Suisse face à la menace du redoutable frelon asiatique C'est une nouvelle menace invisible : le frelon asiatique se déploie en Suisse de manière exponentielle et inquiétante. De jolis petits cocons blancs et beiges apparaissent un peu partout, même dans nos villes. Ce sont, en fait, des nids d'un redoutable insecte à ne surtout pas toucher. Arrivé en 2017 par le Jura, le frelon asiatique est un grand destructeur d'abeilles et autres pollinisateurs, et ses attaques sur l'homme peuvent entraîner des réactions imprévisibles. Pourtant, la Confédération peine à prendre la mesure de la menace et laisse les cantons gérer ce nouveau fléau comme ils peuvent. Reportage au c_ur de la lutte en Suisse romande. \n\nUn reportage de Jean-Daniel Bohnenblust (Suisse Romande-2026)"
   genre:
   - '128'
   widescreen: true
@@ -293,9 +298,20 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1155518
+  start: 2026-09-25T13:55:00Z
+  stop: 2026-09-25T14:15:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1002855
   start: 2026-09-25T14:15:00Z
-  stop: 2026-09-25T15:05:00Z
+  stop: 2026-09-25T15:00:00Z
   title: Dîner à la ferme
   description: |-
     Nouvelles Graines : André Bélard, Vaud Vigneron et oenologue depuis 15 ans, André a créé en 2023, le plus jeune vignoble de Lavaux. Un vignoble de 2,3 hectares qu'il a pu louer à un vigneron de la région qui souhaitait remettre son exploitation. Aujourd'hui, certains de ses rangs de vignes font un peu loucher au milieu des ceps parfaitement rectilignes de Lavaux.
@@ -303,6 +319,17 @@
      (Suisse Romande-2026)  "Audio description"
   genre:
   - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1155519
+  start: 2026-09-25T15:00:00Z
+  stop: 2026-09-25T15:25:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
   widescreen: true
   subtitled: true
   hd: true
