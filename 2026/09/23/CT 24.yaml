@@ -436,7 +436,7 @@
   - 925271
   - 926092
   start: 2026-09-23T10:30:00Z
-  stop: 2026-09-23T10:33:00Z
+  stop: 2026-09-23T10:33:05Z
   title: Zprávy
   description: |-
     HDTV
@@ -461,6 +461,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1148047
+  start: 2026-09-23T10:33:05Z
+  stop: 2026-09-23T11:00:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Íránský prezident promluví v OSN (komentář politologa); Na Pohansku dostavují jez; V Grand Palais začíná výstava Paula Cézannea (živý vstup).'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 925273
   - 926094
@@ -581,6 +592,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1148127
+  start: 2026-09-23T12:30:00Z
+  stop: 2026-09-23T12:33:00Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 925279
   - 926200
@@ -596,6 +617,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 1148128
   - 925280
   - 926201
   start: 2026-09-23T12:33:00Z
@@ -610,7 +632,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1147810
+- eventId:
+  - 1147810
+  - 1147965
   start: 2026-09-23T12:34:55Z
   stop: 2026-09-23T13:00:55Z
   title: Studio ČT24
@@ -621,18 +645,8 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 1147965
-  start: 2026-09-23T12:34:55Z
-  stop: 2026-09-23T13:00:00Z
-  title: Studio ČT24
-  subtitle: 'Témata: Slovenská vláda rozhodne o cenách pohonných hmot (živý vstup z Bratislavy); Novinky v optických a obranných technologiích.'
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '35'
-  widescreen: true
 - eventId:
+  - 1148129
   - 925281
   - 926202
   start: 2026-09-23T13:00:00Z
@@ -659,6 +673,7 @@
   - '32'
   widescreen: true
 - eventId:
+  - 1148130
   - 925282
   - 926203
   start: 2026-09-23T13:03:00Z
