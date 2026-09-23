@@ -24,7 +24,7 @@
   description: S nama je dr. Beck, liječnik kojeg volite i kojem vjerujete. Na sva pitanja i nedoumice kada je o zdravlju riječ odgovore će nam dati naš doktor i njegovi sugovornici. Čekaju vas na konzultacijama od ponedjeljka do četvrtka, na HTV1. Budite uz dr. Becka i doznajte više o zdravstvenim problemima, kako se nositi s njima, kako ih liječiti i spriječiti...
 - eventId: 1146177
   start: 2026-09-24T00:43:00Z
-  stop: 2026-09-24T01:36:00Z
+  stop: 2026-09-24T01:35:00Z
   title: Dnevnik 2
   subtitle: ' '
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
@@ -40,6 +40,12 @@
   title: Dnevnik 2
   subtitle: ' '
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
+- eventId: 1154716
+  start: 2026-09-24T01:35:00Z
+  stop: 2026-09-24T02:01:00Z
+  title: Pogled preko granice - Hrvati u BiH
+  subtitle: ' '
+  description: Tjedna emisija, donosi kratke reportaže o svakodnevici Hrvata u BiH, prati tamošnju političku scenu, događaje u hrvatskoj zajednici, podsjeća na velikane hrvatske kulture, znanosti i povijesti.
 - eventId: 1085032
   start: 2026-09-24T01:36:00Z
   stop: 2026-09-24T02:01:00Z
@@ -84,7 +90,7 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 1146180
   start: 2026-09-24T02:12:00Z
-  stop: 2026-09-24T02:57:00Z
+  stop: 2026-09-24T02:55:00Z
   title: Kod nas doma
   subtitle: ' '
   description: 'U goste nam stiže naš najizvođeniji dramatičar, Miro Gavran. Zvjezdan Ružić predstavlja svoju nadolazeću turneju u kojoj kombinira glazbu, film i osobna svjedočanstva. Razgovaramo i o klimatskim promjenama koje su postale vidljivije nego ikad, a njihov utjecaj na mentalno zdravlje komentira psihijatar dr. Igor Marinić. Na kraju emisije - "Samo opušteno" uz Dorijana Klarića i Lorenu Bućan. Voditeljica: Barbara Kolar Urednice: Stephanie Stelko, Mirna Dvoršćak Redateljica: Anamaria Corazza'
@@ -100,6 +106,12 @@
   title: Kod nas doma
   subtitle: ' '
   description: Dnevna emisija Kod nas doma svaki radni dan poslijepodne progovara o aktualnim temama i zbivanjima kod nas i u svijetu. Donosi priče inspirativnih ljudi i prate važne društvene događaje, modne revije i premijere. U ugodnoj atmosferi studija s javnim osobama i stručnjacima voditelji razgovaraju o zanimljivim temama.
+- eventId: 1154717
+  start: 2026-09-24T02:55:00Z
+  stop: 2026-09-24T03:00:00Z
+  title: 'Baština u objektivu: Dubrovačke zidine'
+  subtitle: ' '
+  description: Baština u objektivu kroz 100tinjak petominutnih razglednica, prikazuje povijesno - kulturne artefakte i fenomene naše zemlje, kroz umjetnički objektiv foto i video zapisa Luke Marottija.
 - eventId: 1085035
   start: 2026-09-24T02:57:00Z
   stop: 2026-09-24T03:02:00Z
@@ -112,6 +124,12 @@
   title: 'Baština u objektivu: Dubrovačke zidine'
   subtitle: ' '
   description: Baština u objektivu kroz 100tinjak petominutnih razglednica, prikazuje povijesno - kulturne artefakte i fenomene naše zemlje, kroz umjetnički objektiv foto i video zapisa Luke Marottija.
+- eventId: 1154718
+  start: 2026-09-24T03:00:00Z
+  stop: 2026-09-24T03:30:00Z
+  title: Otvoreno
+  subtitle: ' '
+  description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
 - eventId: 1085036
   start: 2026-09-24T03:02:00Z
   stop: 2026-09-24T03:33:00Z
@@ -124,6 +142,12 @@
   title: Otvoreno
   subtitle: ' '
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
+- eventId: 1154719
+  start: 2026-09-24T03:30:00Z
+  stop: 2026-09-24T03:58:00Z
+  title: 'Zlatna liga: Srećko Juričić i Vladimir Vujnović'
+  subtitle: ' '
+  description: Legende s ekrana ponovno su s vama! Emisija u kojoj legendarni voditelji ugošćuju osobe iz javnog života, a svi su 65 plus!
 - eventId: 1085037
   start: 2026-09-24T03:32:00Z
   stop: 2026-09-24T03:57:00Z
@@ -148,7 +172,9 @@
   title: Što je klasik? Poetski šaman
   subtitle: ' '
   description: Emisija predstavlja hrvatske i svjetske književne klasike pokazujući na stručan, ali pristupačan način koliko su klasici društveno relevantni i svevremeni te potiče na čitanje.
-- eventId: 1071776
+- eventId:
+  - 1071776
+  - 1154720
   start: 2026-09-24T03:58:00Z
   stop: 2026-09-24T04:27:00Z
   title: Što je klasik? Poetski šaman
@@ -166,7 +192,9 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 1071777
+- eventId:
+  - 1071777
+  - 1154721
   start: 2026-09-24T04:27:00Z
   stop: 2026-09-24T04:35:00Z
   title: 'Studio 4: Znanost'
@@ -187,6 +215,12 @@
 - eventId: 1071778
   start: 2026-09-24T04:35:00Z
   stop: 2026-09-24T04:43:00Z
+  title: 'Studio 4: Kultura'
+  subtitle: ' '
+  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+- eventId: 1154722
+  start: 2026-09-24T04:35:00Z
+  stop: 2026-09-24T04:46:00Z
   title: 'Studio 4: Kultura'
   subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -226,6 +260,12 @@
   title: 'Romano Bolković - 1 na 1: Davor Ivo Stier, talk show'
   subtitle: ' '
   description: S gostom Davorom Ivom Stierom razgovaramo o Srbiji nakon pogreba Ratka Mladića, političkoj ulozi Srpske pravoslavne crkve, odnosima Beograda s Moskvom, Pekingom i Parizom te o tome može li Srbija doista napredovati prema članstvu u Europskoj uniji bez jasnog geopolitičkog opredjeljenja. Razgovaramo i o Kosovu, Crnoj Gori i vjerodostojnosti politike proširenja, ali i o pitanju može li se Europska unija dalje širiti bez promjene vlastitog načina odlučivanja. U širem europskom kontekstu govorimo o ratu u Ukrajini, budućem odnosu Europe i Rusije, mogućoj novoj sigurnosnoj arhitekturi kontinenta, ulozi Britanije i Kanade, odnosu Europske unije i NATO-a te o tome što bi europska strateška autonomija zapravo trebala značiti. Otvaramo i pitanje ubrzanog europskog naoružavanja, nove vojne uloge Njemačke, odnosa Europe prema Sjedinjenim Državama i Kini te, na kraju, mjesta Hrvatske u Europi koja se politički i sigurnosno iznova oblikuje. Davor Ivo Stier je hrvatski europarlamentarni zastupnik (HDZ) u trenutačnom sazivu Europskog parlamenta, izabran na tu dužnost do 2029. godine. Rođen je 6. siječnja 1972. u Buenos Airesu (Argentina). Završio je studij političkih znanosti i međunarodnih odnosa na Papinskom katoličkom sveučilištu Argentina, a potom i Diplomatsku akademiju u Zagrebu te je 1996. primljen u hrvatsku diplomatsku službu. Radio je na završetku pregovora za punopravno članstvo RH u Sjevernoatlantskom savezu i Europskoj uniji i od 2016. do 2017. bio potpredsjednik Vlade i ministar vanjskih i europskih poslova.
+- eventId: 1154723
+  start: 2026-09-24T05:21:00Z
+  stop: 2026-09-24T06:10:00Z
+  title: 'Romano Bolković - 1 na 1: Davor Ivo Stier, talk show'
+  subtitle: ' '
+  description: S gostom Davorom Ivom Stierom razgovaramo o Srbiji nakon pogreba Ratka Mladića, političkoj ulozi Srpske pravoslavne crkve, odnosima Beograda s Moskvom, Pekingom i Parizom te o tome može li Srbija doista napredovati prema članstvu u Europskoj uniji bez jasnog geopolitičkog opredjeljenja. Razgovaramo i o Kosovu, Crnoj Gori i vjerodostojnosti politike proširenja, ali i o pitanju može li se Europska unija dalje širiti bez promjene vlastitog načina odlučivanja. U širem europskom kontekstu govorimo o ratu u Ukrajini, budućem odnosu Europe i Rusije, mogućoj novoj sigurnosnoj arhitekturi kontinenta, ulozi Britanije i Kanade, odnosu Europske unije i NATO-a te o tome što bi europska strateška autonomija zapravo trebala značiti. Otvaramo i pitanje ubrzanog europskog naoružavanja, nove vojne uloge Njemačke, odnosa Europe prema Sjedinjenim Državama i Kini te, na kraju, mjesta Hrvatske u Europi koja se politički i sigurnosno iznova oblikuje. Davor Ivo Stier je hrvatski europarlamentarni zastupnik (HDZ) u trenutačnom sazivu Europskog parlamenta, izabran na tu dužnost do 2029. godine. Rođen je 6. siječnja 1972. u Buenos Airesu (Argentina). Završio je studij političkih znanosti i međunarodnih odnosa na Papinskom katoličkom sveučilištu Argentina, a potom i Diplomatsku akademiju u Zagrebu te je 1996. primljen u hrvatsku diplomatsku službu. Radio je na završetku pregovora za punopravno članstvo RH u Sjevernoatlantskom savezu i Europskoj uniji i od 2016. do 2017. bio potpredsjednik Vlade i ministar vanjskih i europskih poslova.
 - eventId: 1085042
   start: 2026-09-24T06:07:00Z
   stop: 2026-09-24T06:18:00Z
@@ -240,6 +280,12 @@
   description: 'U Čarobnu ploču svi ste dobrodošli, puno smo slova već zajedno prošli. Slova Đ i DŽ učimo danas, Mila će otpjevati pjesmice za vas. Krešo će pokazati koliko crta koje slovo krije, i ravne i zakrivljene naučili ste prije. Slovom Đ počinje đak koji učiti voli, zato nam se pridružite u veseloj školi. I svakako na kraju emisije zaplešite s nama. Ples je najbolji početak dana! Autori: Ida Tomić i Dragutin Broz Uloge Krešimir Mikić i Mila Elegović'
 - eventId: 1146187
   start: 2026-09-24T06:10:00Z
+  stop: 2026-09-24T06:21:00Z
+  title: 'Čarobna ploča - Školica: Slova Đ i DŽ (18/20)'
+  subtitle: ' '
+  description: 'U Čarobnu ploču svi ste dobrodošli, puno smo slova već zajedno prošli. Slova Đ i DŽ učimo danas, Mila će otpjevati pjesmice za vas. Krešo će pokazati koliko crta koje slovo krije, i ravne i zakrivljene naučili ste prije. Slovom Đ počinje đak koji učiti voli, zato nam se pridružite u veseloj školi. I svakako na kraju emisije zaplešite s nama. Ples je najbolji početak dana! Autori: Ida Tomić i Dragutin Broz Uloge Krešimir Mikić i Mila Elegović'
+- eventId: 1154724
+  start: 2026-09-24T06:11:00Z
   stop: 2026-09-24T06:21:00Z
   title: 'Čarobna ploča - Školica: Slova Đ i DŽ (18/20)'
   subtitle: ' '
@@ -268,6 +314,12 @@
   title: Svijet znanosti
   subtitle: ' '
   description: Emisija donosi aktualnosti, nova znanstvena otkrića, zanimljivosti iz životinjskog i biljnog svijeta te društvene fenomene. Zavirit ćemo u sve kutke Zemlje, a nećemo zaboraviti ni ostatak svemira. Donosimo ozbiljnu, ali i onu ležerniju, zabavnu stranu znanosti.
+- eventId: 1154725
+  start: 2026-09-24T06:52:00Z
+  stop: 2026-09-24T07:20:00Z
+  title: Svijet znanosti
+  subtitle: ' '
+  description: Emisija donosi aktualnosti, nova znanstvena otkrića, zanimljivosti iz životinjskog i biljnog svijeta te društvene fenomene. Zavirit ćemo u sve kutke Zemlje, a nećemo zaboraviti ni ostatak svemira. Donosimo ozbiljnu, ali i onu ležerniju, zabavnu stranu znanosti.
 - eventId: 1071784
   start: 2026-09-24T07:18:00Z
   stop: 2026-09-24T07:47:00Z
@@ -276,6 +328,12 @@
   description: Art - vaša adresa za kulturu! Donosimo vam najbolje iz svijeta umjetnosti i ideja, priče koje oblikuju kazalište, likovnost, književnost, arhitekturu, film, glazbu.
 - eventId: 1146190
   start: 2026-09-24T07:20:00Z
+  stop: 2026-09-24T07:49:00Z
+  title: ART
+  subtitle: ' '
+  description: Art - vaša adresa za kulturu! Donosimo vam najbolje iz svijeta umjetnosti i ideja, priče koje oblikuju kazalište, likovnost, književnost, arhitekturu, film, glazbu.
+- eventId: 1154726
+  start: 2026-09-24T07:21:00Z
   stop: 2026-09-24T07:49:00Z
   title: ART
   subtitle: ' '
@@ -298,6 +356,12 @@
   title: 'Studio 4: Sport'
   subtitle: ' '
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+- eventId: 1154727
+  start: 2026-09-24T07:50:00Z
+  stop: 2026-09-24T07:56:00Z
+  title: 'Studio 4: Sport'
+  subtitle: ' '
+  description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
 - eventId: 1085044
   start: 2026-09-24T07:55:00Z
   stop: 2026-09-24T07:59:00Z
@@ -307,6 +371,12 @@
 - eventId: 1071786
   start: 2026-09-24T07:56:00Z
   stop: 2026-09-24T08:00:00Z
+  title: '#REPORTAŽE: Route 66'
+  subtitle: ' '
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1154728
+  start: 2026-09-24T07:56:00Z
+  stop: 2026-09-24T07:59:00Z
   title: '#REPORTAŽE: Route 66'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
@@ -336,7 +406,7 @@
   description: S nama je dr. Beck, liječnik kojeg volite i kojem vjerujete. Na sva pitanja i nedoumice kada je o zdravlju riječ odgovore će nam dati naš doktor i njegovi sugovornici. Čekaju vas na konzultacijama od ponedjeljka do četvrtka, na HTV1. Budite uz dr. Becka i doznajte više o zdravstvenim problemima, kako se nositi s njima, kako ih liječiti i spriječiti...
 - eventId: 1146192
   start: 2026-09-24T08:43:00Z
-  stop: 2026-09-24T09:36:00Z
+  stop: 2026-09-24T09:35:00Z
   title: Dnevnik 2
   subtitle: ' '
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
@@ -352,6 +422,12 @@
   title: Dnevnik 2
   subtitle: ' '
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
+- eventId: 1154729
+  start: 2026-09-24T09:35:00Z
+  stop: 2026-09-24T10:01:00Z
+  title: Pogled preko granice - Hrvati u BiH
+  subtitle: ' '
+  description: Tjedna emisija, donosi kratke reportaže o svakodnevici Hrvata u BiH, prati tamošnju političku scenu, događaje u hrvatskoj zajednici, podsjeća na velikane hrvatske kulture, znanosti i povijesti.
 - eventId: 1086242
   start: 2026-09-24T09:36:00Z
   stop: 2026-09-24T10:01:00Z
@@ -384,7 +460,7 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 1146195
   start: 2026-09-24T10:12:00Z
-  stop: 2026-09-24T10:57:00Z
+  stop: 2026-09-24T10:55:00Z
   title: Kod nas doma
   subtitle: ' '
   description: 'U goste nam stiže naš najizvođeniji dramatičar, Miro Gavran. Zvjezdan Ružić predstavlja svoju nadolazeću turneju u kojoj kombinira glazbu, film i osobna svjedočanstva. Razgovaramo i o klimatskim promjenama koje su postale vidljivije nego ikad, a njihov utjecaj na mentalno zdravlje komentira psihijatar dr. Igor Marinić. Na kraju emisije - "Samo opušteno" uz Dorijana Klarića i Lorenu Bućan. Voditeljica: Barbara Kolar Urednice: Stephanie Stelko, Mirna Dvoršćak Redateljica: Anamaria Corazza'
@@ -394,18 +470,36 @@
   title: Kod nas doma
   subtitle: ' '
   description: Dnevna emisija Kod nas doma svaki radni dan poslijepodne progovara o aktualnim temama i zbivanjima kod nas i u svijetu. Donosi priče inspirativnih ljudi i prate važne društvene događaje, modne revije i premijere. U ugodnoj atmosferi studija s javnim osobama i stručnjacima voditelji razgovaraju o zanimljivim temama.
+- eventId: 1154730
+  start: 2026-09-24T10:55:00Z
+  stop: 2026-09-24T11:00:00Z
+  title: 'Baština u objektivu: Dubrovačke zidine'
+  subtitle: ' '
+  description: Baština u objektivu kroz 100tinjak petominutnih razglednica, prikazuje povijesno - kulturne artefakte i fenomene naše zemlje, kroz umjetnički objektiv foto i video zapisa Luke Marottija.
 - eventId: 1086246
   start: 2026-09-24T10:57:00Z
   stop: 2026-09-24T11:02:00Z
   title: 'Baština u objektivu: Dubrovačke zidine'
   subtitle: ' '
   description: Baština u objektivu kroz 100tinjak petominutnih razglednica, prikazuje povijesno - kulturne artefakte i fenomene naše zemlje, kroz umjetnički objektiv foto i video zapisa Luke Marottija.
+- eventId: 1154731
+  start: 2026-09-24T11:00:00Z
+  stop: 2026-09-24T11:30:00Z
+  title: Otvoreno
+  subtitle: ' '
+  description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
 - eventId: 1086247
   start: 2026-09-24T11:02:00Z
   stop: 2026-09-24T11:33:00Z
   title: Otvoreno
   subtitle: ' '
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
+- eventId: 1154732
+  start: 2026-09-24T11:30:00Z
+  stop: 2026-09-24T11:58:00Z
+  title: 'Zlatna liga: Srećko Juričić i Vladimir Vujnović'
+  subtitle: ' '
+  description: Legende s ekrana ponovno su s vama! Emisija u kojoj legendarni voditelji ugošćuju osobe iz javnog života, a svi su 65 plus!
 - eventId: 1086248
   start: 2026-09-24T11:32:00Z
   stop: 2026-09-24T11:57:00Z
@@ -424,6 +518,12 @@
   title: Što je klasik? Poetski šaman
   subtitle: ' '
   description: Emisija predstavlja hrvatske i svjetske književne klasike pokazujući na stručan, ali pristupačan način koliko su klasici društveno relevantni i svevremeni te potiče na čitanje.
+- eventId: 1154733
+  start: 2026-09-24T11:58:00Z
+  stop: 2026-09-24T12:27:00Z
+  title: Što je klasik? Poetski šaman
+  subtitle: ' '
+  description: Emisija predstavlja hrvatske i svjetske književne klasike pokazujući na stručan, ali pristupačan način koliko su klasici društveno relevantni i svevremeni te potiče na čitanje.
 - eventId: 1146197
   start: 2026-09-24T12:00:00Z
   stop: 2026-09-24T12:29:00Z
@@ -436,6 +536,12 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
+- eventId: 1154734
+  start: 2026-09-24T12:27:00Z
+  stop: 2026-09-24T12:35:00Z
+  title: 'Studio 4: Znanost'
+  subtitle: ' '
+  description: Kratki pregled aktualnosti iz svijeta znanosti.
 - eventId: 1146198
   start: 2026-09-24T12:29:00Z
   stop: 2026-09-24T12:37:00Z
@@ -445,6 +551,12 @@
 - eventId: 1104693
   start: 2026-09-24T12:34:00Z
   stop: 2026-09-24T12:43:00Z
+  title: 'Studio 4: Kultura'
+  subtitle: ' '
+  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+- eventId: 1154735
+  start: 2026-09-24T12:35:00Z
+  stop: 2026-09-24T12:46:00Z
   title: 'Studio 4: Kultura'
   subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -478,6 +590,12 @@
   title: 'Romano Bolković - 1 na 1: Davor Ivo Stier, talk show'
   subtitle: ' '
   description: S gostom Davorom Ivom Stierom razgovaramo o Srbiji nakon pogreba Ratka Mladića, političkoj ulozi Srpske pravoslavne crkve, odnosima Beograda s Moskvom, Pekingom i Parizom te o tome može li Srbija doista napredovati prema članstvu u Europskoj uniji bez jasnog geopolitičkog opredjeljenja. Razgovaramo i o Kosovu, Crnoj Gori i vjerodostojnosti politike proširenja, ali i o pitanju može li se Europska unija dalje širiti bez promjene vlastitog načina odlučivanja. U širem europskom kontekstu govorimo o ratu u Ukrajini, budućem odnosu Europe i Rusije, mogućoj novoj sigurnosnoj arhitekturi kontinenta, ulozi Britanije i Kanade, odnosu Europske unije i NATO-a te o tome što bi europska strateška autonomija zapravo trebala značiti. Otvaramo i pitanje ubrzanog europskog naoružavanja, nove vojne uloge Njemačke, odnosa Europe prema Sjedinjenim Državama i Kini te, na kraju, mjesta Hrvatske u Europi koja se politički i sigurnosno iznova oblikuje. Davor Ivo Stier je hrvatski europarlamentarni zastupnik (HDZ) u trenutačnom sazivu Europskog parlamenta, izabran na tu dužnost do 2029. godine. Rođen je 6. siječnja 1972. u Buenos Airesu (Argentina). Završio je studij političkih znanosti i međunarodnih odnosa na Papinskom katoličkom sveučilištu Argentina, a potom i Diplomatsku akademiju u Zagrebu te je 1996. primljen u hrvatsku diplomatsku službu. Radio je na završetku pregovora za punopravno članstvo RH u Sjevernoatlantskom savezu i Europskoj uniji i od 2016. do 2017. bio potpredsjednik Vlade i ministar vanjskih i europskih poslova.
+- eventId: 1154736
+  start: 2026-09-24T13:21:00Z
+  stop: 2026-09-24T14:10:00Z
+  title: 'Romano Bolković - 1 na 1: Davor Ivo Stier, talk show'
+  subtitle: ' '
+  description: S gostom Davorom Ivom Stierom razgovaramo o Srbiji nakon pogreba Ratka Mladića, političkoj ulozi Srpske pravoslavne crkve, odnosima Beograda s Moskvom, Pekingom i Parizom te o tome može li Srbija doista napredovati prema članstvu u Europskoj uniji bez jasnog geopolitičkog opredjeljenja. Razgovaramo i o Kosovu, Crnoj Gori i vjerodostojnosti politike proširenja, ali i o pitanju može li se Europska unija dalje širiti bez promjene vlastitog načina odlučivanja. U širem europskom kontekstu govorimo o ratu u Ukrajini, budućem odnosu Europe i Rusije, mogućoj novoj sigurnosnoj arhitekturi kontinenta, ulozi Britanije i Kanade, odnosu Europske unije i NATO-a te o tome što bi europska strateška autonomija zapravo trebala značiti. Otvaramo i pitanje ubrzanog europskog naoružavanja, nove vojne uloge Njemačke, odnosa Europe prema Sjedinjenim Državama i Kini te, na kraju, mjesta Hrvatske u Europi koja se politički i sigurnosno iznova oblikuje. Davor Ivo Stier je hrvatski europarlamentarni zastupnik (HDZ) u trenutačnom sazivu Europskog parlamenta, izabran na tu dužnost do 2029. godine. Rođen je 6. siječnja 1972. u Buenos Airesu (Argentina). Završio je studij političkih znanosti i međunarodnih odnosa na Papinskom katoličkom sveučilištu Argentina, a potom i Diplomatsku akademiju u Zagrebu te je 1996. primljen u hrvatsku diplomatsku službu. Radio je na završetku pregovora za punopravno članstvo RH u Sjevernoatlantskom savezu i Europskoj uniji i od 2016. do 2017. bio potpredsjednik Vlade i ministar vanjskih i europskih poslova.
 - eventId: 1104696
   start: 2026-09-24T14:07:00Z
   stop: 2026-09-24T14:18:00Z
@@ -486,6 +604,12 @@
   description: 'U Čarobnu ploču svi ste dobrodošli, puno smo slova već zajedno prošli. Slova Đ i DŽ učimo danas, Mila će otpjevati pjesmice za vas. Krešo će pokazati koliko crta koje slovo krije, i ravne i zakrivljene naučili ste prije. Slovom Đ počinje đak koji učiti voli, zato nam se pridružite u veseloj školi. I svakako na kraju emisije zaplešite s nama. Ples je najbolji početak dana! Autori: Ida Tomić i Dragutin Broz Uloge Krešimir Mikić i Mila Elegović'
 - eventId: 1146202
   start: 2026-09-24T14:10:00Z
+  stop: 2026-09-24T14:21:00Z
+  title: 'Čarobna ploča - Školica: Slova Đ i DŽ (18/20)'
+  subtitle: ' '
+  description: 'U Čarobnu ploču svi ste dobrodošli, puno smo slova već zajedno prošli. Slova Đ i DŽ učimo danas, Mila će otpjevati pjesmice za vas. Krešo će pokazati koliko crta koje slovo krije, i ravne i zakrivljene naučili ste prije. Slovom Đ počinje đak koji učiti voli, zato nam se pridružite u veseloj školi. I svakako na kraju emisije zaplešite s nama. Ples je najbolji početak dana! Autori: Ida Tomić i Dragutin Broz Uloge Krešimir Mikić i Mila Elegović'
+- eventId: 1154737
+  start: 2026-09-24T14:11:00Z
   stop: 2026-09-24T14:21:00Z
   title: 'Čarobna ploča - Školica: Slova Đ i DŽ (18/20)'
   subtitle: ' '
@@ -514,6 +638,12 @@
   title: Svijet znanosti
   subtitle: ' '
   description: Emisija donosi aktualnosti, nova znanstvena otkrića, zanimljivosti iz životinjskog i biljnog svijeta te društvene fenomene. Zavirit ćemo u sve kutke Zemlje, a nećemo zaboraviti ni ostatak svemira. Donosimo ozbiljnu, ali i onu ležerniju, zabavnu stranu znanosti.
+- eventId: 1154738
+  start: 2026-09-24T14:52:00Z
+  stop: 2026-09-24T15:20:00Z
+  title: Svijet znanosti
+  subtitle: ' '
+  description: Emisija donosi aktualnosti, nova znanstvena otkrića, zanimljivosti iz životinjskog i biljnog svijeta te društvene fenomene. Zavirit ćemo u sve kutke Zemlje, a nećemo zaboraviti ni ostatak svemira. Donosimo ozbiljnu, ali i onu ležerniju, zabavnu stranu znanosti.
 - eventId: 1104699
   start: 2026-09-24T15:18:00Z
   stop: 2026-09-24T15:47:00Z
@@ -522,6 +652,12 @@
   description: Art - vaša adresa za kulturu! Donosimo vam najbolje iz svijeta umjetnosti i ideja, priče koje oblikuju kazalište, likovnost, književnost, arhitekturu, film, glazbu.
 - eventId: 1146205
   start: 2026-09-24T15:20:00Z
+  stop: 2026-09-24T15:49:00Z
+  title: ART
+  subtitle: ' '
+  description: Art - vaša adresa za kulturu! Donosimo vam najbolje iz svijeta umjetnosti i ideja, priče koje oblikuju kazalište, likovnost, književnost, arhitekturu, film, glazbu.
+- eventId: 1154739
+  start: 2026-09-24T15:21:00Z
   stop: 2026-09-24T15:49:00Z
   title: ART
   subtitle: ' '
@@ -538,8 +674,20 @@
   title: 'Studio 4: Sport'
   subtitle: ' '
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+- eventId: 1154740
+  start: 2026-09-24T15:50:00Z
+  stop: 2026-09-24T15:56:00Z
+  title: 'Studio 4: Sport'
+  subtitle: ' '
+  description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
 - eventId: 1104701
   start: 2026-09-24T15:55:00Z
+  stop: 2026-09-24T15:59:00Z
+  title: '#REPORTAŽE: Route 66'
+  subtitle: ' '
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1154741
+  start: 2026-09-24T15:56:00Z
   stop: 2026-09-24T15:59:00Z
   title: '#REPORTAŽE: Route 66'
   subtitle: ' '
@@ -558,7 +706,7 @@
   description: S nama je dr. Beck, liječnik kojeg volite i kojem vjerujete. Na sva pitanja i nedoumice kada je o zdravlju riječ odgovore će nam dati naš doktor i njegovi sugovornici. Čekaju vas na konzultacijama od ponedjeljka do četvrtka, na HTV1. Budite uz dr. Becka i doznajte više o zdravstvenim problemima, kako se nositi s njima, kako ih liječiti i spriječiti...
 - eventId: 1146207
   start: 2026-09-24T16:43:00Z
-  stop: 2026-09-24T17:36:00Z
+  stop: 2026-09-24T17:35:00Z
   title: Dnevnik 2
   subtitle: ' '
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
@@ -568,6 +716,12 @@
   title: Dnevnik 2
   subtitle: ' '
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
+- eventId: 1154742
+  start: 2026-09-24T17:35:00Z
+  stop: 2026-09-24T18:01:00Z
+  title: Pogled preko granice - Hrvati u BiH
+  subtitle: ' '
+  description: Tjedna emisija, donosi kratke reportaže o svakodnevici Hrvata u BiH, prati tamošnju političku scenu, događaje u hrvatskoj zajednici, podsjeća na velikane hrvatske kulture, znanosti i povijesti.
 - eventId: 1104705
   start: 2026-09-24T17:36:00Z
   stop: 2026-09-24T18:01:00Z
@@ -600,7 +754,7 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 1146210
   start: 2026-09-24T18:12:00Z
-  stop: 2026-09-24T18:57:00Z
+  stop: 2026-09-24T18:55:00Z
   title: Kod nas doma
   subtitle: ' '
   description: 'U goste nam stiže naš najizvođeniji dramatičar, Miro Gavran. Zvjezdan Ružić predstavlja svoju nadolazeću turneju u kojoj kombinira glazbu, film i osobna svjedočanstva. Razgovaramo i o klimatskim promjenama koje su postale vidljivije nego ikad, a njihov utjecaj na mentalno zdravlje komentira psihijatar dr. Igor Marinić. Na kraju emisije - "Samo opušteno" uz Dorijana Klarića i Lorenu Bućan. Voditeljica: Barbara Kolar Urednice: Stephanie Stelko, Mirna Dvoršćak Redateljica: Anamaria Corazza'
@@ -610,18 +764,36 @@
   title: Kod nas doma
   subtitle: ' '
   description: Dnevna emisija Kod nas doma svaki radni dan poslijepodne progovara o aktualnim temama i zbivanjima kod nas i u svijetu. Donosi priče inspirativnih ljudi i prate važne društvene događaje, modne revije i premijere. U ugodnoj atmosferi studija s javnim osobama i stručnjacima voditelji razgovaraju o zanimljivim temama.
+- eventId: 1154743
+  start: 2026-09-24T18:55:00Z
+  stop: 2026-09-24T19:00:00Z
+  title: 'Baština u objektivu: Dubrovačke zidine'
+  subtitle: ' '
+  description: Baština u objektivu kroz 100tinjak petominutnih razglednica, prikazuje povijesno - kulturne artefakte i fenomene naše zemlje, kroz umjetnički objektiv foto i video zapisa Luke Marottija.
 - eventId: 1104709
   start: 2026-09-24T18:57:00Z
   stop: 2026-09-24T19:02:00Z
   title: 'Baština u objektivu: Dubrovačke zidine'
   subtitle: ' '
   description: Baština u objektivu kroz 100tinjak petominutnih razglednica, prikazuje povijesno - kulturne artefakte i fenomene naše zemlje, kroz umjetnički objektiv foto i video zapisa Luke Marottija.
+- eventId: 1154744
+  start: 2026-09-24T19:00:00Z
+  stop: 2026-09-24T19:30:00Z
+  title: Otvoreno
+  subtitle: ' '
+  description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
 - eventId: 1104710
   start: 2026-09-24T19:02:00Z
   stop: 2026-09-24T19:33:00Z
   title: Otvoreno
   subtitle: ' '
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
+- eventId: 1154745
+  start: 2026-09-24T19:30:00Z
+  stop: 2026-09-24T19:58:00Z
+  title: 'Zlatna liga: Srećko Juričić i Vladimir Vujnović'
+  subtitle: ' '
+  description: Legende s ekrana ponovno su s vama! Emisija u kojoj legendarni voditelji ugošćuju osobe iz javnog života, a svi su 65 plus!
 - eventId: 1104711
   start: 2026-09-24T19:32:00Z
   stop: 2026-09-24T19:57:00Z
@@ -640,6 +812,12 @@
   title: Što je klasik? Poetski šaman
   subtitle: ' '
   description: Emisija predstavlja hrvatske i svjetske književne klasike pokazujući na stručan, ali pristupačan način koliko su klasici društveno relevantni i svevremeni te potiče na čitanje.
+- eventId: 1154746
+  start: 2026-09-24T19:58:00Z
+  stop: 2026-09-24T20:27:00Z
+  title: Što je klasik? Poetski šaman
+  subtitle: ' '
+  description: Emisija predstavlja hrvatske i svjetske književne klasike pokazujući na stručan, ali pristupačan način koliko su klasici društveno relevantni i svevremeni te potiče na čitanje.
 - eventId: 1146212
   start: 2026-09-24T20:00:00Z
   stop: 2026-09-24T20:29:00Z
@@ -652,6 +830,12 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
+- eventId: 1154747
+  start: 2026-09-24T20:27:00Z
+  stop: 2026-09-24T20:35:00Z
+  title: 'Studio 4: Znanost'
+  subtitle: ' '
+  description: Kratki pregled aktualnosti iz svijeta znanosti.
 - eventId: 1146213
   start: 2026-09-24T20:29:00Z
   stop: 2026-09-24T20:37:00Z
@@ -661,6 +845,12 @@
 - eventId: 1104714
   start: 2026-09-24T20:34:00Z
   stop: 2026-09-24T20:43:00Z
+  title: 'Studio 4: Kultura'
+  subtitle: ' '
+  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+- eventId: 1154748
+  start: 2026-09-24T20:35:00Z
+  stop: 2026-09-24T20:46:00Z
   title: 'Studio 4: Kultura'
   subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -694,6 +884,12 @@
   title: 'Romano Bolković - 1 na 1: Davor Ivo Stier, talk show'
   subtitle: ' '
   description: S gostom Davorom Ivom Stierom razgovaramo o Srbiji nakon pogreba Ratka Mladića, političkoj ulozi Srpske pravoslavne crkve, odnosima Beograda s Moskvom, Pekingom i Parizom te o tome može li Srbija doista napredovati prema članstvu u Europskoj uniji bez jasnog geopolitičkog opredjeljenja. Razgovaramo i o Kosovu, Crnoj Gori i vjerodostojnosti politike proširenja, ali i o pitanju može li se Europska unija dalje širiti bez promjene vlastitog načina odlučivanja. U širem europskom kontekstu govorimo o ratu u Ukrajini, budućem odnosu Europe i Rusije, mogućoj novoj sigurnosnoj arhitekturi kontinenta, ulozi Britanije i Kanade, odnosu Europske unije i NATO-a te o tome što bi europska strateška autonomija zapravo trebala značiti. Otvaramo i pitanje ubrzanog europskog naoružavanja, nove vojne uloge Njemačke, odnosa Europe prema Sjedinjenim Državama i Kini te, na kraju, mjesta Hrvatske u Europi koja se politički i sigurnosno iznova oblikuje. Davor Ivo Stier je hrvatski europarlamentarni zastupnik (HDZ) u trenutačnom sazivu Europskog parlamenta, izabran na tu dužnost do 2029. godine. Rođen je 6. siječnja 1972. u Buenos Airesu (Argentina). Završio je studij političkih znanosti i međunarodnih odnosa na Papinskom katoličkom sveučilištu Argentina, a potom i Diplomatsku akademiju u Zagrebu te je 1996. primljen u hrvatsku diplomatsku službu. Radio je na završetku pregovora za punopravno članstvo RH u Sjevernoatlantskom savezu i Europskoj uniji i od 2016. do 2017. bio potpredsjednik Vlade i ministar vanjskih i europskih poslova.
+- eventId: 1154749
+  start: 2026-09-24T21:21:00Z
+  stop: 2026-09-24T22:10:00Z
+  title: 'Romano Bolković - 1 na 1: Davor Ivo Stier, talk show'
+  subtitle: ' '
+  description: S gostom Davorom Ivom Stierom razgovaramo o Srbiji nakon pogreba Ratka Mladića, političkoj ulozi Srpske pravoslavne crkve, odnosima Beograda s Moskvom, Pekingom i Parizom te o tome može li Srbija doista napredovati prema članstvu u Europskoj uniji bez jasnog geopolitičkog opredjeljenja. Razgovaramo i o Kosovu, Crnoj Gori i vjerodostojnosti politike proširenja, ali i o pitanju može li se Europska unija dalje širiti bez promjene vlastitog načina odlučivanja. U širem europskom kontekstu govorimo o ratu u Ukrajini, budućem odnosu Europe i Rusije, mogućoj novoj sigurnosnoj arhitekturi kontinenta, ulozi Britanije i Kanade, odnosu Europske unije i NATO-a te o tome što bi europska strateška autonomija zapravo trebala značiti. Otvaramo i pitanje ubrzanog europskog naoružavanja, nove vojne uloge Njemačke, odnosa Europe prema Sjedinjenim Državama i Kini te, na kraju, mjesta Hrvatske u Europi koja se politički i sigurnosno iznova oblikuje. Davor Ivo Stier je hrvatski europarlamentarni zastupnik (HDZ) u trenutačnom sazivu Europskog parlamenta, izabran na tu dužnost do 2029. godine. Rođen je 6. siječnja 1972. u Buenos Airesu (Argentina). Završio je studij političkih znanosti i međunarodnih odnosa na Papinskom katoličkom sveučilištu Argentina, a potom i Diplomatsku akademiju u Zagrebu te je 1996. primljen u hrvatsku diplomatsku službu. Radio je na završetku pregovora za punopravno članstvo RH u Sjevernoatlantskom savezu i Europskoj uniji i od 2016. do 2017. bio potpredsjednik Vlade i ministar vanjskih i europskih poslova.
 - eventId: 1104717
   start: 2026-09-24T22:07:00Z
   stop: 2026-09-24T22:18:00Z
@@ -702,6 +898,12 @@
   description: 'U Čarobnu ploču svi ste dobrodošli, puno smo slova već zajedno prošli. Slova Đ i DŽ učimo danas, Mila će otpjevati pjesmice za vas. Krešo će pokazati koliko crta koje slovo krije, i ravne i zakrivljene naučili ste prije. Slovom Đ počinje đak koji učiti voli, zato nam se pridružite u veseloj školi. I svakako na kraju emisije zaplešite s nama. Ples je najbolji početak dana! Autori: Ida Tomić i Dragutin Broz Uloge Krešimir Mikić i Mila Elegović'
 - eventId: 1146217
   start: 2026-09-24T22:10:00Z
+  stop: 2026-09-24T22:21:00Z
+  title: 'Čarobna ploča - Školica: Slova Đ i DŽ (18/20)'
+  subtitle: ' '
+  description: 'U Čarobnu ploču svi ste dobrodošli, puno smo slova već zajedno prošli. Slova Đ i DŽ učimo danas, Mila će otpjevati pjesmice za vas. Krešo će pokazati koliko crta koje slovo krije, i ravne i zakrivljene naučili ste prije. Slovom Đ počinje đak koji učiti voli, zato nam se pridružite u veseloj školi. I svakako na kraju emisije zaplešite s nama. Ples je najbolji početak dana! Autori: Ida Tomić i Dragutin Broz Uloge Krešimir Mikić i Mila Elegović'
+- eventId: 1154750
+  start: 2026-09-24T22:11:00Z
   stop: 2026-09-24T22:21:00Z
   title: 'Čarobna ploča - Školica: Slova Đ i DŽ (18/20)'
   subtitle: ' '
@@ -730,6 +932,12 @@
   title: Svijet znanosti
   subtitle: ' '
   description: Emisija donosi aktualnosti, nova znanstvena otkrića, zanimljivosti iz životinjskog i biljnog svijeta te društvene fenomene. Zavirit ćemo u sve kutke Zemlje, a nećemo zaboraviti ni ostatak svemira. Donosimo ozbiljnu, ali i onu ležerniju, zabavnu stranu znanosti.
+- eventId: 1154751
+  start: 2026-09-24T22:52:00Z
+  stop: 2026-09-24T23:20:00Z
+  title: Svijet znanosti
+  subtitle: ' '
+  description: Emisija donosi aktualnosti, nova znanstvena otkrića, zanimljivosti iz životinjskog i biljnog svijeta te društvene fenomene. Zavirit ćemo u sve kutke Zemlje, a nećemo zaboraviti ni ostatak svemira. Donosimo ozbiljnu, ali i onu ležerniju, zabavnu stranu znanosti.
 - eventId: 1104720
   start: 2026-09-24T23:18:00Z
   stop: 2026-09-24T23:47:00Z
@@ -738,6 +946,12 @@
   description: Art - vaša adresa za kulturu! Donosimo vam najbolje iz svijeta umjetnosti i ideja, priče koje oblikuju kazalište, likovnost, književnost, arhitekturu, film, glazbu.
 - eventId: 1146220
   start: 2026-09-24T23:20:00Z
+  stop: 2026-09-24T23:49:00Z
+  title: ART
+  subtitle: ' '
+  description: Art - vaša adresa za kulturu! Donosimo vam najbolje iz svijeta umjetnosti i ideja, priče koje oblikuju kazalište, likovnost, književnost, arhitekturu, film, glazbu.
+- eventId: 1154752
+  start: 2026-09-24T23:21:00Z
   stop: 2026-09-24T23:49:00Z
   title: ART
   subtitle: ' '
@@ -754,8 +968,20 @@
   title: 'Studio 4: Sport'
   subtitle: ' '
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+- eventId: 1154753
+  start: 2026-09-24T23:50:00Z
+  stop: 2026-09-24T23:56:00Z
+  title: 'Studio 4: Sport'
+  subtitle: ' '
+  description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
 - eventId: 1104722
   start: 2026-09-24T23:55:00Z
+  stop: 2026-09-24T23:59:00Z
+  title: '#REPORTAŽE: Route 66'
+  subtitle: ' '
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1154754
+  start: 2026-09-24T23:56:00Z
   stop: 2026-09-24T23:59:00Z
   title: '#REPORTAŽE: Route 66'
   subtitle: ' '
