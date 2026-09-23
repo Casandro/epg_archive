@@ -68,12 +68,16 @@
   stop: 2026-09-24T14:45:00Z
   title: DIARIO DEL GIORNO
   description: DIARIO DEL GIORNO
-- eventId: 1158764
+- eventId:
+  - 1158764
+  - 1159436
   start: 2026-09-24T14:45:00Z
   stop: 2026-09-24T14:55:00Z
   title: DIRETTA TGCOM24
   description: DIRETTA TGCOM24
-- eventId: 1158765
+- eventId:
+  - 1158765
+  - 1159437
   start: 2026-09-24T14:55:00Z
   stop: 2026-09-24T16:30:00Z
   title: DENTRO LA NOTIZIA
@@ -88,3 +92,13 @@
   stop: 2026-09-24T17:35:00Z
   title: TG4
   description: TG4
+- eventId: 1159430
+  start: 2026-09-24T17:35:00Z
+  stop: 2026-09-24T17:54:00Z
+  title: 10 MINUTI
+  description: 10 MINUTI
+- eventId: 1159431
+  start: 2026-09-24T17:54:00Z
+  stop: 2026-09-24T18:30:00Z
+  title: TG5
+  description: TG5
