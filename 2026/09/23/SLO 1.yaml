@@ -24,7 +24,7 @@
   - '32'
 - eventId: 1073362
   start: 2026-09-23T04:35:00Z
-  stop: 2026-09-23T04:45:00Z
+  stop: 2026-09-23T04:50:00Z
   title: Kultura
   subtitle: Kultura je kratka aktualna informativna oddaja o kulturi in umetnosti, v kateri se praviloma izpostavljajo osrednji dogodki dneva. V njej najdejo prostor tudi mednarodne novice in problemske teme.
   ageRating: 4
@@ -38,7 +38,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1073363
+- eventId:
+  - 1073363
+  - 1132831
   start: 2026-09-23T04:50:00Z
   stop: 2026-09-23T05:00:00Z
   title: Šport
@@ -102,9 +104,17 @@
   ageRating: 4
 - eventId: 1073371
   start: 2026-09-23T08:40:00Z
-  stop: 2026-09-23T09:10:00Z
+  stop: 2026-09-23T09:05:00Z
   title: Na vrtu
   subtitle: V najstarejši vrtnarski oddaji pri nas vam vsak petek svetujejo, kako gojiti vrtnine na ekološki način, z ekološkimi in bio-dinamičnimi pripravki, kako pravilno saditi sadno drevje in ga na začetku.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1132832
+  start: 2026-09-23T09:05:00Z
+  stop: 2026-09-23T09:25:00Z
+  title: Televizijsko prodajno okno
+  subtitle: TV izložba.
   ageRating: 4
   genre:
   - '160'
@@ -134,7 +144,7 @@
   start: 2026-09-23T10:20:00Z
   stop: 2026-09-23T10:55:00Z
   title: Marcel
-  subtitle: Vsak ponedeljek zvečer vas na prvem programu Televizije Slovenija znova vabimo v družbo dolgoletnega voditelja Studia City, Marcela Štefančiča.
+  subtitle: Kako to, da vlogo izraelskega vazala igra Slovenija, ne pa katera druga evropska država, kakšne bodo posledice slovenske ločitve od jedrne Evrope, kakšna je verjetnost, da Kanada postane pridružena.
   ageRating: 4
   genre:
   - '160'
@@ -156,7 +166,7 @@
   - '32'
 - eventId: 1073378
   start: 2026-09-23T11:20:00Z
-  stop: 2026-09-23T11:30:00Z
+  stop: 2026-09-23T11:35:00Z
   title: Šport
   subtitle: 'Prvi pregled športnega dogajanja v dnevu je namenjen svežim športnim novicam: v oddajo strnemo najpomembnejše rezultate in dogodke prejšnjega večera, noči in jutra.'
   ageRating: 4
@@ -164,6 +174,14 @@
   - '32'
 - eventId: 1073379
   start: 2026-09-23T11:30:00Z
+  stop: 2026-09-23T12:00:00Z
+  title: Globus
+  subtitle: Dežela dveh obrazov in dveh hitrosti. Med Atlantskim oceanom in Saharo, med Afriko in arabskim svetom - Maroko. Vonj po začimbah, ozke ulice starodavnih medin, pravljični svet preteklosti.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1132833
+  start: 2026-09-23T11:35:00Z
   stop: 2026-09-23T12:00:00Z
   title: Globus
   subtitle: Dežela dveh obrazov in dveh hitrosti. Med Atlantskim oceanom in Saharo, med Afriko in arabskim svetom - Maroko. Vonj po začimbah, ozke ulice starodavnih medin, pravljični svet preteklosti.
@@ -304,12 +322,20 @@
   - '32'
 - eventId: 1072983
   start: 2026-09-23T17:25:00Z
-  stop: 2026-09-23T17:45:00Z
+  stop: 2026-09-23T17:40:00Z
   title: Slovenska kronika
   subtitle: Oddaja Slovenska kronika predstavi najpomembnejše dogodke in zgodbe iz slovenskih krajev. Poudarek je na človeških zgodbah, okoljskih in socialnih temah, dnevnem utripu podeželja in mest.
   ageRating: 4
   genre:
   - '160'
+- eventId: 1132834
+  start: 2026-09-23T17:40:00Z
+  stop: 2026-09-23T17:55:00Z
+  title: Šport
+  subtitle: Osrednji pregled športnega dogajanja v dnevu je najbolj celovit, poglobljen in aktualen izbor športnega dogajanja v Sloveniji in po svetu.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 1072984
   start: 2026-09-23T17:45:00Z
   stop: 2026-09-23T17:55:00Z
@@ -376,7 +402,7 @@
   - '32'
 - eventId: 1072996
   start: 2026-09-23T21:05:00Z
-  stop: 2026-09-23T21:50:00Z
+  stop: 2026-09-23T21:55:00Z
   title: Profil
   subtitle: V Profilu gostimo Nejca Poharja, režiserja tv serije Na terapiji, kratkih filmov in tv oglasov, kolumnista Sobotne priloge Dela, predvsem pa duhovitega in subtilnega pisca, ki se vseskozi giblje na.
   ageRating: 4
@@ -398,6 +424,22 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 1132835
+  start: 2026-09-23T21:55:00Z
+  stop: 2026-09-23T22:25:00Z
+  title: Dnevnik Slovencev v Italiji
+  subtitle: Dnevnik Slovencev v Italiji je informativna oddaja, v kateri novinarji poročajo predvsem o dnevnih dogodkih med Slovenci v Italiji.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 1132836
+  start: 2026-09-23T22:25:00Z
+  stop: 2026-09-24T04:05:00Z
+  title: Napovedujemo
+  subtitle: Napovednik programa.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1072998
   start: 2026-09-23T22:30:00Z
   stop: 2026-09-24T04:05:00Z

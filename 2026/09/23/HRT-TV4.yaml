@@ -142,6 +142,7 @@
   - 1129685
   - 1129801
   - 1130310
+  - 1132871
   start: 2026-09-23T00:28:00Z
   stop: 2026-09-23T00:32:00Z
   title: '#REPORTAŽE: Posvojena osoba'
@@ -198,6 +199,7 @@
   - 1129686
   - 1129802
   - 1130311
+  - 1133894
   start: 2026-09-23T00:32:00Z
   stop: 2026-09-23T00:53:00Z
   title: Regionalni dnevnik
@@ -312,6 +314,7 @@
   - 1129771
   - 1130123
   - 1131517
+  - 1132545
   start: 2026-09-23T01:58:00Z
   stop: 2026-09-23T02:43:00Z
   title: Pregled dana
@@ -346,6 +349,7 @@
   - 1129772
   - 1130124
   - 1131518
+  - 1132546
   start: 2026-09-23T03:00:00Z
   stop: 2026-09-23T03:53:00Z
   title: Dnevnik 2
@@ -367,7 +371,7 @@
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
 - eventId: 1072666
   start: 2026-09-23T03:53:00Z
-  stop: 2026-09-23T03:54:00Z
+  stop: 2026-09-23T03:55:00Z
   title: Vrijeme RH danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -392,7 +396,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 1072668
   start: 2026-09-23T03:55:00Z
-  stop: 2026-09-23T03:57:00Z
+  stop: 2026-09-23T03:56:00Z
   title: Vrijeme Svijet danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -418,6 +422,14 @@
   title: Vrijeme Europa danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+- eventId: 1132856
+  start: 2026-09-23T03:56:00Z
+  stop: 2026-09-23T03:58:00Z
+  title: Vrijeme Svijet danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 1072669
   start: 2026-09-23T03:57:00Z
   stop: 2026-09-23T04:00:00Z
@@ -466,6 +478,14 @@
   title: Vrijeme svijet danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 1132857
+  start: 2026-09-23T03:58:00Z
+  stop: 2026-09-23T04:00:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1072670
   start: 2026-09-23T04:00:00Z
   stop: 2026-09-23T04:08:00Z
@@ -491,6 +511,7 @@
   - 1129774
   - 1130126
   - 1131520
+  - 1132548
   start: 2026-09-23T04:08:00Z
   stop: 2026-09-23T04:10:00Z
   title: Bez komentara
@@ -537,6 +558,7 @@
   - 1129775
   - 1130127
   - 1131521
+  - 1132549
   start: 2026-09-23T04:18:00Z
   stop: 2026-09-23T04:27:00Z
   title: 'Studio 4: Znanost'
@@ -591,7 +613,7 @@
   start: 2026-09-23T04:27:00Z
   stop: 2026-09-23T04:57:00Z
   title: Otvoreno
-  subtitle: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
+  subtitle: Četiri faze sanacije ilegalno odloženog otpada u Gospiću, najdulji zasad poznati rok za pojedinu fazu - 13 mjeseci za zakopani otpad. Kad će sav otpad biti uklonjen iz Gospića?
   ageRating: 4
   genre:
   - '160'
@@ -1303,8 +1325,11 @@
   start: 2026-09-23T20:14:00Z
   stop: 2026-09-23T20:17:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1119990
   - 1120417
@@ -1321,11 +1346,15 @@
   - 1129693
   - 1129809
   - 1130323
+  - 1132858
   start: 2026-09-23T20:17:00Z
   stop: 2026-09-23T20:45:00Z
   title: 'DW: Sutrašnjica danas'
-  subtitle: ' '
+  subtitle: Emisija Deutsche Wellea o europskom načinu života, donosi zanimljivosti iz europskih gradova.
   description: Emisija Deutsche Wellea o europskom načinu života, donosi zanimljivosti iz europskih gradova.
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 1071670
   start: 2026-09-23T20:19:00Z
   stop: 2026-09-23T20:47:00Z
@@ -1368,8 +1397,11 @@
   start: 2026-09-23T20:45:00Z
   stop: 2026-09-23T20:47:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1071671
   start: 2026-09-23T20:47:00Z
   stop: 2026-09-23T21:07:00Z
