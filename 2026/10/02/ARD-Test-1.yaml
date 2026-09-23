@@ -15,7 +15,7 @@
   hd: true
 - eventId: 553892
   start: 2026-10-02T01:00:00Z
-  stop: 2026-10-02T02:25:00Z
+  stop: 2026-10-02T02:30:00Z
   title: 'Der Kroatien-Krimi: Split vergisst nie'
   subtitle: Fernsehfilm Deutschland 2023
   ageRating: 12
@@ -63,15 +63,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153544
-  start: 2026-10-02T02:45:00Z
-  stop: 2026-10-02T03:25:00Z
-  title: Nuhr im Ersten
-  subtitle: 'Moderation: Dieter Nuhr'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 553895
+- eventId:
+  - 1153544
+  - 553895
   start: 2026-10-02T02:45:00Z
   stop: 2026-10-02T03:30:00Z
   title: Nuhr im Ersten
@@ -214,15 +208,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153576
-  start: 2026-10-02T08:45:00Z
-  stop: 2026-10-02T09:10:00Z
-  title: Meister des Alltags (298)
-  subtitle: 'Moderation: Florian Weber'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 555608
+- eventId:
+  - 1153576
+  - 555608
   start: 2026-10-02T08:45:00Z
   stop: 2026-10-02T09:15:00Z
   title: Meister des Alltags (298)
@@ -240,15 +228,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153837
-  start: 2026-10-02T09:15:00Z
-  stop: 2026-10-02T09:55:00Z
-  title: Gefragt - Gejagt (1004)
-  subtitle: mit Alexander Bommes
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 555895
+- eventId:
+  - 1153837
+  - 555895
   start: 2026-10-02T09:15:00Z
   stop: 2026-10-02T10:00:00Z
   title: Gefragt - Gejagt (1004)
@@ -392,7 +374,7 @@
   hd: true
 - eventId: 548269
   start: 2026-10-02T16:00:00Z
-  stop: 2026-10-02T16:45:00Z
+  stop: 2026-10-02T16:50:00Z
   title: Gefragt - Gejagt (1051)
   subtitle: mit Alexander Bommes
   widescreen: true

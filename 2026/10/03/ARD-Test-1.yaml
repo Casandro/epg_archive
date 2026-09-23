@@ -22,7 +22,7 @@
   hd: true
 - eventId: 619473
   start: 2026-10-03T01:00:00Z
-  stop: 2026-10-03T02:25:00Z
+  stop: 2026-10-03T02:30:00Z
   title: Maria Wern, Kripo Gotland - Raues Land
   subtitle: Fernsehfilm Deutschland/Schweden 2020 (Maria Wern - No Boundaries)
   ageRating: 12
@@ -52,14 +52,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153650
-  start: 2026-10-03T02:30:00Z
-  stop: 2026-10-03T02:55:00Z
-  title: Brisant
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 619474
+- eventId:
+  - 1153650
+  - 619474
   start: 2026-10-03T02:30:00Z
   stop: 2026-10-03T02:58:00Z
   title: Brisant
@@ -82,15 +77,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153659
-  start: 2026-10-03T03:00:00Z
-  stop: 2026-10-03T03:25:00Z
-  title: Quarks im Ersten
-  subtitle: 'Die große Sonnen-Frage: gefährlich oder gesund?'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 619517
+- eventId:
+  - 1153659
+  - 619517
   start: 2026-10-03T03:00:00Z
   stop: 2026-10-03T03:30:00Z
   title: Quarks im Ersten
@@ -117,26 +106,18 @@
   hd: true
   genre:
   - '16'
-- eventId: 1153661
-  start: 2026-10-03T03:40:00Z
-  stop: 2026-10-03T03:50:00Z
-  title: Arthur und die Freunde der Tafelrunde (26/52)
-  subtitle: Der Riesenbändiger
-  genre:
-  - '16'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 619519
+- eventId:
+  - 1153661
+  - 619519
   start: 2026-10-03T03:40:00Z
   stop: 2026-10-03T03:55:00Z
   title: Arthur und die Freunde der Tafelrunde (26/52)
   subtitle: Der Riesenbändiger
+  genre:
+  - '16'
   widescreen: true
   subtitled: true
   hd: true
-  genre:
-  - '16'
 - eventId: 1149031
   start: 2026-10-03T03:50:00Z
   stop: 2026-10-03T04:20:00Z
@@ -190,15 +171,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153665
-  start: 2026-10-03T05:00:00Z
-  stop: 2026-10-03T05:20:00Z
-  title: Nina und die wilden Tiere
-  subtitle: Auf dem Fluss der Spitzkrokodile
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 619523
+- eventId:
+  - 1153665
+  - 619523
   start: 2026-10-03T05:00:00Z
   stop: 2026-10-03T05:25:00Z
   title: Nina und die wilden Tiere
@@ -393,14 +368,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153696
-  start: 2026-10-03T12:15:00Z
-  stop: 2026-10-03T12:25:00Z
-  title: Tagesschau
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 619612
+- eventId:
+  - 1153696
+  - 619612
   start: 2026-10-03T12:15:00Z
   stop: 2026-10-03T12:30:00Z
   title: Tagesschau
@@ -601,15 +571,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1153732
-  start: 2026-10-03T21:50:00Z
-  stop: 2026-10-03T22:45:00Z
-  title: Inas Nacht (10/12)
-  subtitle: Late-Night-Show
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 619731
+- eventId:
+  - 1153732
+  - 619731
   start: 2026-10-03T21:50:00Z
   stop: 2026-10-03T22:50:00Z
   title: Inas Nacht (10/12)
