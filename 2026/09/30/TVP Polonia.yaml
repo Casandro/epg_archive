@@ -413,13 +413,18 @@
   stop: 2026-09-30T21:15:00Z
   title: Słowo daję! - Pisownia łączna i rozdzielna
   description: Z łącznikiem, po prostu łącznie, a może rozdzielnie? Poprawna pisownia to nie lada wyzwanie dla użytkowników języka. O czym warto pamiętać w perspektywie zmian w polskiej ortografii? Na to pytanie odpowie nasz ekspert, Mateusz Adamczyk.
+  genre:
+  - '82'
 - eventId: 1139515
   start: 2026-09-30T21:15:00Z
   stop: 2026-09-30T21:45:00Z
   title: Panorama
-  description: (JM) Program informacyjny.
+  description: |
+    Tytuł oryginalny: Panorama
+    PL, 2026
   genre:
   - '149'
+  subtitle: Główny program informacyjny telewizyjnej Dwójki, podsumowujący najważniejsze wydarzenia minionego dnia w kraju i na świecie.
 - eventId: 1139516
   start: 2026-09-30T21:45:00Z
   stop: 2026-09-30T22:40:00Z
@@ -428,19 +433,29 @@
   ageRating: 16
   genre:
   - '149'
+  subtitle: Program ma bawić, ukazując absurdy bieżących wydarzeń politycznych i społecznych w Polsce, a także za granicą. Prowadzący nie przeoczy żadnej wpadki, a o opinię zapyta gości w studiu.
 - eventId: 1139517
   start: 2026-09-30T22:40:00Z
   stop: 2026-09-30T23:10:00Z
   title: Pan Mama - odc. 4 - "Money, money, money"
-  description: (AD) (N) Dzieci Sylwestra odkrywają szokującą prawdę - średnia krajowa wzrosła! W związku z tym domagają się podwyżki kieszonkowego. Sylwester zgadza się na wprowadzenie "systemu płatności rodzinnych". Każdy musi płacić za każdą
+  description: |-
+    Tytuł oryginalny: Pan Mama
+    PL, 2025
+    Reżyseria: Jan Foryś
+    Występują: Paweł Domagała, Karolina Bacia, Piotr Głowacki
+    Dzieci Sylwestra odkrywają szokującą prawdę - średnia krajowa wzrosła! W związku z tym domagają się podwyżki kieszonkowego. Sylwester, w akcie desperacji, zgadza się na wprowadzenie "systemu płatności rodzinnych". Każdy musi płacić za każdą przysługę - od wynoszenia śmieci po robienie kanapek. Brzmi jak genialny plan? No cóż, szybko okaże się, kto tu naprawdę na tym zarobi.
   ageRating: 12
   genre:
   - '20'
+  subtitle: Dzieci Sylwestra odkrywają szokującą prawdę - średnia krajowa wzrosła. W związku z tym domagają się podwyżki kieszonkowego. Ojciec w akcie desperacji zgadza się na wprowadzenie systemu płatności rodzinnych.
 - eventId: 1139518
   start: 2026-09-30T23:10:00Z
   stop: 2026-09-30T23:30:00Z
   title: Stacja Innowacja
   description: W Polsce coraz częściej rozumiemy, że zamiast kupować zagraniczne technologie, warto inwestować w te rodzime - i to nawet niemałe pieniądze. Polska może coraz skuteczniej konkurować - poprzez innowacje.
+  subtitle: Program przedstawia polskich wynalazców pracujących na uczelniach, w firmach i instytucjach badawczych. Ich wynalazki podbijają światowe rynki, wpływając na życie ludzi, poprawiając je i udoskonalając.
+  genre:
+  - '34'
 - eventId: 1139519
   start: 2026-09-30T23:30:00Z
   stop: 2026-09-30T23:55:00Z
@@ -448,6 +463,7 @@
   description: (N) Główne wydanie codziennego programu informacyjnego.
   genre:
   - '36'
+  subtitle: Bieżące wydarzenia w kraju i na świecie. Informacje polityczne, gospodarcze, ważne tematy społeczne i poruszające opinię publiczną.
 - eventId: 1139520
   start: 2026-09-30T23:55:00Z
   stop: 2026-10-01T00:05:00Z
