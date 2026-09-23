@@ -128,7 +128,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 552441
+- eventId:
+  - 1149653
+  - 552441
   start: 2026-09-23T10:00:00Z
   stop: 2026-09-23T12:00:00Z
   title: ZDF-Mittagsmagazin
@@ -137,7 +139,9 @@
   subtitled: true
   hd: true
   subtitle: 'Moderation: Mirjam Meinhardt'
-- eventId: 552792
+- eventId:
+  - 1149654
+  - 552792
   start: 2026-09-23T12:00:00Z
   stop: 2026-09-23T12:10:00Z
   title: Tagesschau
@@ -158,6 +162,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1148809
+  start: 2026-09-23T12:20:00Z
+  stop: 2026-09-23T13:10:00Z
+  title: Rentnercops (18)
+  subtitle: Gute Nacht Freunde
+  description: Edwin ist wieder eingestellt. Günter und er werden an einen Tatort gerufen. In der Wohnung zweier Studentinnen wird ein toter Mann gefunden. Die Frauen geben an, er sei ein amerikanischer Medizinstudent im Austauschsemester und sie hätten ihn erst am Abend zuvor kennengelernt. Dr. Schmidt kommt zu dem Schluss, dass der Mann an einem Herzinfarkt gestorben ist - aber keineswegs sei er Mitte 20, wie die Frauen angegeben haben, sondern mindestens Ende 30. Da außer seinem Vornamen "Connor" nichts über ihn bekannt ist ,und man auch an der Uni keinen Austauschstudenten namens Connor kennt, wird die Sache für Edwin und Günter knifflig.
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 552794
   start: 2026-09-23T13:00:00Z
   stop: 2026-09-23T13:10:00Z
@@ -171,24 +186,35 @@
   stop: 2026-09-23T14:00:00Z
   title: Sturm der Liebe (4636)
   subtitle: Deutschland 2026
-  description: Yanniks Tochter Frida taucht überraschend in Bichlheim auf. Fanny ist überrascht, als Marlon die Zusammenarbeit am Duftprojekt beendet. Werner und Mona nähern sich an. Larissa präsentiert Leo und Elias eine originelle Idee zur Finanzierung der Hochzeit.
+  description: 'An seinem 70. Geburtstag sterben Achim Wagner und sein Schwiegersohn zeitgleich: beide fallen während des Essens tot in ihr Grillfleisch. Vicky denkt sofort an eine Lebensmittelvergiftung, doch die beiden Frauen der Toten sind kerngesund. Würde Vickys Theorie stimmen, wären die beiden ebenfalls mausetot. Als sich herausstellt, dass die Mutter und ihre schwangere Tochter Vegetarier sind, fällt der Verdacht zunächst auf sie. Allerdings findet sich kein Motiv für die Tat. Erst als Edwin und Günter herausfinden, dass Achim Wagner seinen Schwiegersohn durch einen Privatdetektiv beobachten ließ, kommen sie der Lösung des Falls näher.'
   widescreen: true
   subtitled: true
   hd: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId: 552796
   start: 2026-09-23T14:00:00Z
   stop: 2026-09-23T14:10:00Z
-  title: Tagesschau
+  title: WDR aktuell
   description: Die Nachrichten der ARD
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: 'Moderation: Tobias Häusler'
 - eventId: 552797
   start: 2026-09-23T14:10:00Z
   stop: 2026-09-23T15:00:00Z
   title: Elefant, Tiger & Co. (575)
   subtitle: Geschichten aus dem Leipziger Zoo
   description: 'Vor einigen Wochen ist eine fünfköpfige Elefantenherde aus Berlin in den Leipziger Elefantentempel eingezogen. Inzwischen haben sich die Neuankömmlinge gut in ihrer neuen Umgebung eingewöhnt. Nun soll es endlich zum ersten direkten Aufeinandertreffen mit dem Leipziger Quartett um Bulle Voi Nam kommen. Ein Vorhaben nicht ohne Risiko: Jungspund Kiran könnte beim Rendezvous zwischen die Fronten geraten.'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1148810
+  start: 2026-09-23T14:15:00Z
+  stop: 2026-09-23T16:00:00Z
+  title: Hier und heute
   widescreen: true
   subtitled: true
   hd: true
@@ -210,10 +236,27 @@
   hd: true
 - eventId: 546758
   start: 2026-09-23T16:00:00Z
-  stop: 2026-09-23T16:50:00Z
+  stop: 2026-09-23T16:15:00Z
   title: Gefragt - Gejagt (1044)
   subtitle: 'Moderation: Alexander Bommes'
   description: Vier Kandidaten müssen in Einzelrunden eine Minute lang Fragen gegen die Uhr beantworten. Pro richtiger Antwort wird ihnen Geld gutgeschrieben. In Einzelduellen gegen den "Jäger" müssen sie dann ihr Geld verteidigen. Werden sie dabei von ihm eingeholt, scheiden sie aus. Wenn die Kandidaten aber gegen den "Jäger" gewinnen, retten sie sich und ihr Geld ins Finale.
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1148826
+  start: 2026-09-23T16:15:00Z
+  stop: 2026-09-23T16:45:00Z
+  title: Servicezeit
+  subtitle: Verbrauchertipps für jeden Tag
+  description: Wirklich preiswert? Wirklich praktisch? Wirklich lecker? Die Servicezeit macht Ihren Alltag leichter! Mit unseren Tipps sind Sie in allen Lebenslagen gut beraten! Ob Gesundheit oder Geld, Wohnen oder Ernährung, Multimedia oder Verkehr - das Verbrauchermagazin Servicezeit beleuchtet Hintergründe, schafft Orientierung und gibt praktische Ratschläge - und zwar unabhängig und neutral.
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1148827
+  start: 2026-09-23T16:45:00Z
+  stop: 2026-09-23T17:30:00Z
+  title: Aktuelle Stunde
+  subtitle: Das Informationsmagazin für NRW
   widescreen: true
   subtitled: true
   hd: true
@@ -225,6 +268,15 @@
   description: "Karsten Heimreich hat die geniale Geschäftsidee: Er erstellt nach dem Vorbild von Beverly Hills eine Radtour, die an den Villen der Stars am Starnberger See vorbeiführt. STARnberg nennt er sein Angebot. Sein Geschäftspartner ist Yazid, der ihm die aktuellen Adressen liefert. Die halblegale Tour kommt bei den Touristen bestens an. Ganz anders bei den betroffenen Promis. \nAls Heimreich ermordet aufgefunden wird, haben Hubert und Girwidz den Verdacht, dass ein genervter Promi dahinterstecken könnte."
   genre:
   - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1148828
+  start: 2026-09-23T17:30:00Z
+  stop: 2026-09-23T17:55:00Z
+  title: Lokalzeit aus Köln
+  subtitle: Der Blick in die Region
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
   widescreen: true
   subtitled: true
   hd: true
@@ -266,9 +318,9 @@
   hd: true
 - eventId: 559920
   start: 2026-09-23T18:15:00Z
-  stop: 2026-09-23T19:45:00Z
+  stop: 2026-09-23T19:00:00Z
   title: Eine Nacht in Bangkok
-  subtitle: Spielfilm Deutschland 2026
+  subtitle: Das Wirtschafts- und Verbrauchermagazin
   description: 'Zehn Jahre nach ihrer Trennung treffen Katharina und Hektor im Untersuchungsgefängnis wieder aufeinander: Ihre Tochter Lilith sitzt wegen des Verdachts auf mehrere Einbrüche in Haft. Während Hektor zunächst auf die befreundete Anwältin Lydia setzt, beginnen die Eltern doch selbst zu ermitteln. Dabei stoßen sie auf unerwartete Geheimnisse in Liliths Leben und erkennen, wie wenig sie ihre Tochter tatsächlich kennen. Die Suche nach der Wahrheit führt sie nicht nur zu den Hintergründen des Falls, sondern auch zu ihrer gemeinsamen Vergangenheit und der Frage, was Familie wirklich bedeutet.'
   ageRating: 12
   genre:
@@ -276,10 +328,19 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1148831
+  start: 2026-09-23T19:00:00Z
+  stop: 2026-09-23T19:45:00Z
+  title: Wer kann das bezahlen? Wenn Lebensmittel zum Luxus werden
+  subtitle: Mehrteilige Reihe mit Anna Planken
+  description: "Anna Planken trifft Menschen in NRW und spricht mit ihnen über Geld. Während die Hälfte der Menschen in Deutschland weniger als 2.000 Euro netto verdient, gibt es gleichzeitig immer mehr Einkommensmillionäre. Viele spüren, dass sie auf ihrem Konto am Monatsende weniger übrig haben. \nAnna Planken: \"Alles wird teurer, egal in welchen Bereich wir gucken: Essen, Trinken, Klamotten, Möbel. Und wir wollen uns ja nicht nur versorgen. Wie schaffen wir es, den kleinen Luxus in den Alltag zu bringen? Wir suchen nach Strategien, sich trotzdem noch was gönnen zu können.\""
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 559921
   start: 2026-09-23T19:45:00Z
   stop: 2026-09-23T20:15:00Z
-  title: Plusminus
+  title: WDR aktuell
   subtitle: Das ARD-Wirtschaftsmagazin
   description: |-
     Themen:
@@ -291,12 +352,13 @@
   hd: true
 - eventId: 559922
   start: 2026-09-23T20:15:00Z
-  stop: 2026-09-23T20:50:00Z
-  title: Tagesthemen
+  stop: 2026-09-23T21:00:00Z
+  title: Blackout - Wie sicher ist unser Stromnetz?
   subtitle: mit Wetter
   widescreen: true
   subtitled: true
   hd: true
+  description: 'Billigste Mittel erreichen größte Wirkung. Selbsternannte Aktivisten können mit einem verhältnismäßig kleinen Anschlag in Berlin rund 45.000 Haushalte und 2.200 Betriebe vom Stromnetz abschneiden. Wenn das so einfach geht: Wie sicher ist unsere Stromversorgung? Können Anschläge auch größere Teile Deutschlands oder Europas lahmlegen? Welche Folgen hätte das? Gibt es Wege aus dieser Verletzlichkeit?'
 - eventId: 559923
   start: 2026-09-23T20:50:00Z
   stop: 2026-09-23T22:05:00Z
@@ -314,6 +376,15 @@
     Im Gespräch der Mitbegründer "Der Fantastischen Vier" Smudo
 
     Es kommentieren: die RTL/ntv-Moderatorin Pinar Atalay, der politische Chefkorrespondent des Tagesspiegel Daniel Friedrich Sturm und der Kolumnist und Podcaster Hajo Schumacher.
+- eventId: 1148851
+  start: 2026-09-23T21:00:00Z
+  stop: 2026-09-23T22:25:00Z
+  title: Telegram - Das dunkle Imperium von Pawel Durow
+  subtitle: Film von Igor Sardreev und Aleksandr Urzhanov
+  description: Letzte Bastion der Meinungsfreiheit oder straffreie Spielwiese für Extremisten und Kriminelle? Am Messenger-Dienst Telegram scheiden sich die Geister. Genau wie an seinem mysteriösen Gründer, dem in Russland geborenen Tech-Milliardär Pawel Durow. Ist dieser Mann ein kompromissloser Verfechter radikaler Freiheit oder ein Komplize von Verbrechern aller Art? Drängende Fragen, denen der Autor Aleksandr Urzhanov in Paris, St. Petersburg, Dubai und Berlin nachgeht.
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 553000
   start: 2026-09-23T22:05:00Z
   stop: 2026-09-23T22:15:00Z
@@ -334,6 +405,24 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1148852
+  start: 2026-09-23T22:25:00Z
+  stop: 2026-09-23T23:05:00Z
+  title: Arcadia - Du bekommst was du verdienst (13)
+  subtitle: Der Kuss
+  description: Marco und Alex werden zu Gesetzlosen erklärt und müssen um ihr Leben fürchten. Milly und Hanna kehren nach Arcadia zurück, werden aber sofort gejagt. Milly erfährt von einer besonderen Verbindung zur Hüterin.
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1148853
+  start: 2026-09-23T23:05:00Z
+  stop: 2026-09-23T23:48:00Z
+  title: Arcadia - Du bekommst was du verdienst (14)
+  subtitle: Der Sturz
+  description: Marco kämpft um Gerechtigkeit für Alex und Simon. Die Siedlung wird zerstört. Milly erfährt, dass die Hüterin ihre leibliche Mutter ist.
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 553002
   start: 2026-09-23T23:48:00Z
   stop: 2026-09-23T23:50:00Z
@@ -344,7 +433,7 @@
   hd: true
 - eventId: 553003
   start: 2026-09-23T23:50:00Z
-  stop: 2026-09-24T01:20:00Z
+  stop: 2026-09-24T00:00:00Z
   title: Dreileben - Komm mir nicht nach
   subtitle: Spielfilm Deutschland 2011
   description: Die Polizeipsychologin Johanna kommt in das thüringische Städtchen Dreileben, um ihre Kollegen vom LKA bei der Suche nach dem entflohenen Mörder Molesch zu unterstützen. Doch ihr Aufenthalt wird weniger von dem Fall geprägt als vom Aufeinandertreffen mit ihrer langjährigen Freundin Vera, bei der sie für die Dauer der Ermittlungen wohnt. Das Verhältnis der beiden Frauen ist noch immer sehr vertraut, wird aber zusehends belastet, als sich herausstellt, dass sie vor vielen Jahren in denselben Mann verliebt waren.
