@@ -160,6 +160,7 @@
   - 1157836
   - 1158684
   - 1160076
+  - 1160821
   start: 2026-09-24T00:31:00Z
   stop: 2026-09-24T00:33:00Z
   title: Vrijeme Europa danas
@@ -184,6 +185,7 @@
   - 1157837
   - 1158685
   - 1160077
+  - 1160822
   start: 2026-09-24T00:33:00Z
   stop: 2026-09-24T00:35:00Z
   title: Vrijeme Svijet danas
@@ -198,6 +200,7 @@
   - 1157838
   - 1158686
   - 1160078
+  - 1160823
   start: 2026-09-24T00:35:00Z
   stop: 2026-09-24T00:37:00Z
   title: Bez komentara
@@ -218,7 +221,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1160079
+- eventId:
+  - 1160079
+  - 1160824
   start: 2026-09-24T00:37:00Z
   stop: 2026-09-24T00:54:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -268,6 +273,7 @@
   - 1157840
   - 1158688
   - 1160080
+  - 1160825
   start: 2026-09-24T00:57:00Z
   stop: 2026-09-24T00:59:00Z
   title: '#REPORTAŽE'
@@ -282,6 +288,7 @@
   - 1157841
   - 1158689
   - 1160081
+  - 1160826
   start: 2026-09-24T00:59:00Z
   stop: 2026-09-24T01:02:00Z
   title: Bez komentara
@@ -327,6 +334,14 @@
   genre:
   - '32'
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
+- eventId: 1160827
+  start: 2026-09-24T01:02:00Z
+  stop: 2026-09-24T01:20:00Z
+  title: Regionalni dnevnik
+  subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1104804
   - 1146796
@@ -404,6 +419,7 @@
   - 1157843
   - 1158691
   - 1160083
+  - 1160828
   start: 2026-09-24T01:25:00Z
   stop: 2026-09-24T01:27:00Z
   title: Bez komentara
@@ -418,6 +434,7 @@
   - 1157844
   - 1158692
   - 1160084
+  - 1160829
   start: 2026-09-24T01:27:00Z
   stop: 2026-09-24T01:32:00Z
   title: Poslovne vijesti
@@ -483,6 +500,7 @@
   - 1157845
   - 1158693
   - 1160085
+  - 1160830
   start: 2026-09-24T01:32:00Z
   stop: 2026-09-24T01:42:00Z
   title: Vijesti flash
@@ -497,6 +515,7 @@
   - 1157846
   - 1158694
   - 1160086
+  - 1160831
   start: 2026-09-24T01:42:00Z
   stop: 2026-09-24T01:50:00Z
   title: Vijesti na engleskom jeziku
@@ -551,6 +570,7 @@
   - 1157847
   - 1158695
   - 1160087
+  - 1160832
   start: 2026-09-24T01:52:00Z
   stop: 2026-09-24T02:00:00Z
   title: Vijesti na španjolskom jeziku
@@ -623,6 +643,7 @@
   - 1157848
   - 1158696
   - 1160088
+  - 1160833
   start: 2026-09-24T02:00:00Z
   stop: 2026-09-24T02:02:00Z
   title: Bez komentara
@@ -638,6 +659,7 @@
   - 1157849
   - 1158697
   - 1160089
+  - 1160834
   start: 2026-09-24T02:02:00Z
   stop: 2026-09-24T02:22:00Z
   title: 'Studio 4: U fokusu'
@@ -652,6 +674,7 @@
   - 1157850
   - 1158698
   - 1160090
+  - 1160835
   start: 2026-09-24T02:22:00Z
   stop: 2026-09-24T02:28:00Z
   title: '#REPORTAŽE'
@@ -666,6 +689,7 @@
   - 1157851
   - 1158699
   - 1160091
+  - 1160836
   start: 2026-09-24T02:28:00Z
   stop: 2026-09-24T02:30:00Z
   title: Bez komentara
@@ -680,6 +704,7 @@
   - 1157852
   - 1158700
   - 1160092
+  - 1160837
   start: 2026-09-24T02:30:00Z
   stop: 2026-09-24T03:15:00Z
   title: Pregled dana
@@ -781,6 +806,7 @@
   - 1157853
   - 1158701
   - 1160093
+  - 1160838
   start: 2026-09-24T03:15:00Z
   stop: 2026-09-24T03:25:00Z
   title: Vijesti flash
@@ -795,6 +821,7 @@
   - 1157854
   - 1158702
   - 1160094
+  - 1160839
   start: 2026-09-24T03:25:00Z
   stop: 2026-09-24T03:32:00Z
   title: Vijesti iz kulture
@@ -808,6 +835,7 @@
   - 1157855
   - 1158703
   - 1160095
+  - 1160840
   start: 2026-09-24T03:32:00Z
   stop: 2026-09-24T04:25:00Z
   title: Dnevnik 2
@@ -1020,6 +1048,7 @@
   - 1157856
   - 1158704
   - 1160096
+  - 1160841
   start: 2026-09-24T04:25:00Z
   stop: 2026-09-24T04:26:00Z
   title: Vrijeme RH danas
@@ -1067,6 +1096,7 @@
   - 1157857
   - 1158705
   - 1160097
+  - 1160842
   start: 2026-09-24T04:28:00Z
   stop: 2026-09-24T04:30:00Z
   title: Vrijeme Svijet danas
@@ -1082,6 +1112,7 @@
   - 1157858
   - 1158706
   - 1160098
+  - 1160843
   start: 2026-09-24T04:30:00Z
   stop: 2026-09-24T04:32:00Z
   title: Bez komentara
@@ -1096,6 +1127,7 @@
   - 1157859
   - 1158707
   - 1160099
+  - 1160844
   start: 2026-09-24T04:32:00Z
   stop: 2026-09-24T04:40:00Z
   title: Vijesti na španjolskom jeziku
@@ -1110,6 +1142,7 @@
   - 1157860
   - 1158708
   - 1160100
+  - 1160845
   start: 2026-09-24T04:40:00Z
   stop: 2026-09-24T04:42:00Z
   title: Bez komentara
@@ -1124,6 +1157,7 @@
   - 1157861
   - 1158709
   - 1160101
+  - 1160846
   start: 2026-09-24T04:42:00Z
   stop: 2026-09-24T04:50:00Z
   title: Vijesti na engleskom jeziku
@@ -1138,6 +1172,7 @@
   - 1157862
   - 1158710
   - 1160102
+  - 1160847
   start: 2026-09-24T04:50:00Z
   stop: 2026-09-24T04:58:00Z
   title: 'Studio 4: Znanost'
@@ -1244,6 +1279,7 @@
   - 1157863
   - 1158711
   - 1160103
+  - 1160848
   start: 2026-09-24T05:28:00Z
   stop: 2026-09-24T05:30:00Z
   title: Bez komentara
@@ -1701,6 +1737,7 @@
   - 1157864
   - 1158712
   - 1160104
+  - 1160849
   start: 2026-09-24T16:00:00Z
   stop: 2026-09-24T16:20:00Z
   title: 'Studio 4: Zelena linija'
@@ -1742,6 +1779,7 @@
   - 1157865
   - 1158713
   - 1160105
+  - 1160850
   start: 2026-09-24T16:20:00Z
   stop: 2026-09-24T16:27:00Z
   title: '#REPORTAŽE'
@@ -1850,6 +1888,7 @@
   - 1157866
   - 1158714
   - 1160339
+  - 1160851
   start: 2026-09-24T17:59:00Z
   stop: 2026-09-24T18:00:00Z
   title: HAK - promet info
@@ -1981,6 +2020,7 @@
   - 1157867
   - 1158715
   - 1160210
+  - 1160852
   start: 2026-09-24T21:07:00Z
   stop: 2026-09-24T21:10:00Z
   title: Bez komentara
@@ -2046,6 +2086,7 @@
   - 1157868
   - 1158716
   - 1160211
+  - 1160853
   start: 2026-09-24T21:57:00Z
   stop: 2026-09-24T22:00:00Z
   title: Bez komentara
