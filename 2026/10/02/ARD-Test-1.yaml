@@ -15,7 +15,7 @@
   hd: true
 - eventId: 553892
   start: 2026-10-02T01:00:00Z
-  stop: 2026-10-02T01:25:00Z
+  stop: 2026-10-02T02:25:00Z
   title: 'Der Kroatien-Krimi: Split vergisst nie'
   subtitle: Fernsehfilm Deutschland 2023
   ageRating: 12
@@ -45,17 +45,29 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 553893
+- eventId:
+  - 1153542
+  - 553893
   start: 2026-10-02T02:30:00Z
   stop: 2026-10-02T02:43:00Z
   title: Deutschlandbilder
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 553894
+- eventId:
+  - 1153543
+  - 553894
   start: 2026-10-02T02:43:00Z
   stop: 2026-10-02T02:45:00Z
   title: Tagesschau
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1153544
+  start: 2026-10-02T02:45:00Z
+  stop: 2026-10-02T03:25:00Z
+  title: Nuhr im Ersten
+  subtitle: 'Moderation: Dieter Nuhr'
   widescreen: true
   subtitled: true
   hd: true
@@ -81,7 +93,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 554615
+- eventId:
+  - 1153560
+  - 554615
   start: 2026-10-02T03:30:00Z
   stop: 2026-10-02T07:00:00Z
   title: ZDF-Morgenmagazin
@@ -132,14 +146,18 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 555605
+- eventId:
+  - 1153572
+  - 555605
   start: 2026-10-02T07:00:00Z
   stop: 2026-10-02T07:05:00Z
   title: Tagesschau
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 555606
+- eventId:
+  - 1153573
+  - 555606
   start: 2026-10-02T07:05:00Z
   stop: 2026-10-02T07:55:00Z
   title: Hubert ohne Staller (161)
@@ -164,7 +182,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 555607
+- eventId:
+  - 1153574
+  - 555607
   start: 2026-10-02T07:55:00Z
   stop: 2026-10-02T08:40:00Z
   title: Morden im Norden (62)
@@ -185,10 +205,20 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 671216
+- eventId:
+  - 1153575
+  - 671216
   start: 2026-10-02T08:40:00Z
   stop: 2026-10-02T08:45:00Z
   title: Tagesschau
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1153576
+  start: 2026-10-02T08:45:00Z
+  stop: 2026-10-02T09:10:00Z
+  title: Meister des Alltags (298)
+  subtitle: 'Moderation: Florian Weber'
   widescreen: true
   subtitled: true
   hd: true
@@ -210,6 +240,14 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1153837
+  start: 2026-10-02T09:15:00Z
+  stop: 2026-10-02T09:55:00Z
+  title: Gefragt - Gejagt (1004)
+  subtitle: mit Alexander Bommes
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 555895
   start: 2026-10-02T09:15:00Z
   stop: 2026-10-02T10:00:00Z
@@ -226,7 +264,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 555896
+- eventId:
+  - 1153838
+  - 555896
   start: 2026-10-02T10:00:00Z
   stop: 2026-10-02T12:00:00Z
   title: ARD-Mittagsmagazin
@@ -257,14 +297,18 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 546945
+- eventId:
+  - 1153599
+  - 546945
   start: 2026-10-02T12:00:00Z
   stop: 2026-10-02T12:10:00Z
   title: Tagesschau
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 546946
+- eventId:
+  - 1153600
+  - 546946
   start: 2026-10-02T12:10:00Z
   stop: 2026-10-02T13:00:00Z
   title: Rote Rosen (4390)
@@ -283,7 +327,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 546947
+- eventId:
+  - 1153601
+  - 546947
   start: 2026-10-02T13:00:00Z
   stop: 2026-10-02T13:10:00Z
   title: Tagesschau
@@ -303,13 +349,15 @@
   - '16'
 - eventId: 546949
   start: 2026-10-02T14:00:00Z
-  stop: 2026-10-02T14:15:00Z
+  stop: 2026-10-02T14:10:00Z
   title: WDR aktuell
   widescreen: true
   subtitled: true
   hd: true
   subtitle: 'Moderation: Tobias Häusler'
-- eventId: 546950
+- eventId:
+  - 1153602
+  - 546950
   start: 2026-10-02T14:10:00Z
   stop: 2026-10-02T15:00:00Z
   title: Elefant, Tiger & Co. (582/582)
@@ -409,7 +457,7 @@
   hd: true
 - eventId: 556941
   start: 2026-10-02T18:15:00Z
-  stop: 2026-10-02T19:00:00Z
+  stop: 2026-10-02T19:45:00Z
   title: Sabine Heinrich - Auf dem Wasser durch NRW (1/4)
   subtitle: Spielfilm Deutschland 2026
   ageRating: 6
@@ -427,7 +475,7 @@
   hd: true
 - eventId: 556942
   start: 2026-10-02T19:45:00Z
-  stop: 2026-10-02T20:00:00Z
+  stop: 2026-10-02T20:20:00Z
   title: Tagesthemen
   subtitle: 'Moderation: Catherine Vogel'
   widescreen: true
@@ -441,7 +489,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 556943
+- eventId:
+  - 1153627
+  - 556943
   start: 2026-10-02T20:20:00Z
   stop: 2026-10-02T21:50:00Z
   title: 'Tatort: Cash'
@@ -452,7 +502,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 548854
+- eventId:
+  - 1153635
+  - 548854
   start: 2026-10-02T21:50:00Z
   stop: 2026-10-02T23:20:00Z
   title: Maria Wern, Kripo Gotland - Raues Land
@@ -487,14 +539,18 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 548855
+- eventId:
+  - 1153636
+  - 548855
   start: 2026-10-02T23:20:00Z
   stop: 2026-10-02T23:25:00Z
   title: Tagesschau
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 548856
+- eventId:
+  - 1153637
+  - 548856
   start: 2026-10-02T23:25:00Z
   stop: 2026-10-03T00:58:00Z
   title: Einspruch, Schatz! - Kavaliersdelikt

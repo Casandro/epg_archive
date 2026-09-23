@@ -33,6 +33,13 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1153298
+  start: 2026-10-05T02:10:00Z
+  stop: 2026-10-05T02:43:00Z
+  title: Brisant
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 939118
   start: 2026-10-05T02:10:00Z
   stop: 2026-10-05T02:43:00Z
@@ -49,13 +56,15 @@
   hd: true
 - eventId: 682676
   start: 2026-10-05T02:45:00Z
-  stop: 2026-10-05T03:35:00Z
+  stop: 2026-10-05T03:30:00Z
   title: Pennywise - Area4 Festival 2008
   subtitle: Aufzeichnung des Area4 Festivals vom 29.-31.08.2008
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 682896
+- eventId:
+  - 1153333
+  - 682896
   start: 2026-10-05T03:30:00Z
   stop: 2026-10-05T07:00:00Z
   title: ARD-Morgenmagazin
@@ -116,13 +125,15 @@
   hd: true
 - eventId: 682736
   start: 2026-10-05T07:00:00Z
-  stop: 2026-10-05T07:10:00Z
+  stop: 2026-10-05T07:05:00Z
   title: POV - Deine Geschichte zählt
   widescreen: true
   subtitled: true
   hd: true
   subtitle: Bundeswehr (2) - Wehrdienst? Nein danke!
-- eventId: 682737
+- eventId:
+  - 1153368
+  - 682737
   start: 2026-10-05T07:05:00Z
   stop: 2026-10-05T07:55:00Z
   title: Hubert ohne Staller (162)
@@ -145,7 +156,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 682738
+- eventId:
+  - 1153369
+  - 682738
   start: 2026-10-05T07:55:00Z
   stop: 2026-10-05T08:40:00Z
   title: Morden im Norden (63)
@@ -166,10 +179,20 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 682739
+- eventId:
+  - 1153370
+  - 682739
   start: 2026-10-05T08:40:00Z
   stop: 2026-10-05T08:45:00Z
   title: Tagesschau
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1153371
+  start: 2026-10-05T08:45:00Z
+  stop: 2026-10-05T09:10:00Z
+  title: Meister des Alltags (299)
+  subtitle: 'Moderation: Florian Weber'
   widescreen: true
   subtitled: true
   hd: true
@@ -189,6 +212,14 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1153401
+  start: 2026-10-05T09:15:00Z
+  stop: 2026-10-05T09:55:00Z
+  title: Gefragt - Gejagt (1005)
+  subtitle: 'Moderation: Alexander Bommes'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 682762
   start: 2026-10-05T09:15:00Z
   stop: 2026-10-05T10:00:00Z
@@ -205,7 +236,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 682763
+- eventId:
+  - 1153402
+  - 682763
   start: 2026-10-05T10:00:00Z
   stop: 2026-10-05T12:00:00Z
   title: ZDF-Mittagsmagazin
@@ -236,14 +269,18 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 682789
+- eventId:
+  - 1153429
+  - 682789
   start: 2026-10-05T12:00:00Z
   stop: 2026-10-05T12:10:00Z
   title: Tagesschau
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 682790
+- eventId:
+  - 1153430
+  - 682790
   start: 2026-10-05T12:10:00Z
   stop: 2026-10-05T13:00:00Z
   title: Rote Rosen (4391)
@@ -262,7 +299,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 682791
+- eventId:
+  - 1153431
+  - 682791
   start: 2026-10-05T13:00:00Z
   stop: 2026-10-05T13:10:00Z
   title: Tagesschau
@@ -282,13 +321,15 @@
   - '16'
 - eventId: 682793
   start: 2026-10-05T14:00:00Z
-  stop: 2026-10-05T14:15:00Z
+  stop: 2026-10-05T14:10:00Z
   title: WDR aktuell
   widescreen: true
   subtitled: true
   hd: true
   subtitle: 'Moderation: Carolyn Wißing'
-- eventId: 682794
+- eventId:
+  - 1153432
+  - 682794
   start: 2026-10-05T14:10:00Z
   stop: 2026-10-05T15:00:00Z
   title: Seelöwe & Co. - tierisch beliebt (1/13)
@@ -303,14 +344,18 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 682826
+- eventId:
+  - 1153465
+  - 682826
   start: 2026-10-05T15:00:00Z
   stop: 2026-10-05T15:15:00Z
   title: Tagesschau
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 682827
+- eventId:
+  - 1153466
+  - 682827
   start: 2026-10-05T15:15:00Z
   stop: 2026-10-05T16:00:00Z
   title: Brisant
@@ -319,7 +364,7 @@
   hd: true
 - eventId: 682828
   start: 2026-10-05T16:00:00Z
-  stop: 2026-10-05T16:15:00Z
+  stop: 2026-10-05T16:45:00Z
   title: Gefragt - Gejagt (1052)
   subtitle: mit Alexander Bommes
   widescreen: true
@@ -341,7 +386,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 682829
+- eventId:
+  - 1153467
+  - 682829
   start: 2026-10-05T16:50:00Z
   stop: 2026-10-05T17:45:00Z
   title: Großstadtrevier (523/526)
@@ -357,7 +404,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 682830
+- eventId:
+  - 1153468
+  - 682830
   start: 2026-10-05T17:45:00Z
   stop: 2026-10-05T17:50:00Z
   title: Wissen vor acht - Zukunft
@@ -365,7 +414,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 682831
+- eventId:
+  - 1153469
+  - 682831
   start: 2026-10-05T17:50:00Z
   stop: 2026-10-05T17:55:00Z
   title: Wetter vor acht
@@ -418,7 +469,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 682870
+- eventId:
+  - 1153496
+  - 682870
   start: 2026-10-05T20:20:00Z
   stop: 2026-10-05T21:40:00Z
   title: Ganz nach oben
@@ -440,7 +493,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 682893
+- eventId:
+  - 1153520
+  - 682893
   start: 2026-10-05T21:40:00Z
   stop: 2026-10-05T22:25:00Z
   title: Vom Paradies in die Hölle
@@ -456,7 +511,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 682894
+- eventId:
+  - 1153521
+  - 682894
   start: 2026-10-05T22:25:00Z
   stop: 2026-10-05T22:35:00Z
   title: Tagesschau
@@ -471,7 +528,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 682895
+- eventId:
+  - 1153522
+  - 682895
   start: 2026-10-05T22:35:00Z
   stop: 2026-10-06T00:08:00Z
   title: 'Tatort: Explosive Mischung'
