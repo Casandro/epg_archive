@@ -1,15 +1,6 @@
-- eventId: 1141320
-  start: 2026-09-23T01:00:00Z
-  stop: 2026-09-23T04:00:00Z
-  title: Best polish
-  subtitle: Program prezentuje zestawienie najlepszych przebojów w wykonaniu artystów i zespołów polskiej sceny muzycznej.
-  description: |
-    Tytuł oryginalny: Best polish
-    PL, 2026
-  ageRating: 12
-  genre:
-  - '96'
-- eventId: 929849
+- eventId:
+  - 1141320
+  - 929849
   start: 2026-09-23T01:00:00Z
   stop: 2026-09-23T05:00:00Z
   title: Best polish
@@ -61,7 +52,7 @@
   - '96'
 - eventId: 930010
   start: 2026-09-23T07:00:00Z
-  stop: 2026-09-23T10:00:00Z
+  stop: 2026-09-23T22:00:00Z
   title: Top 166 Hits of the 90's
   description: |-
     program popularnonaukowy
@@ -127,9 +118,10 @@
   stop: 2026-09-24T01:00:00Z
   title: Best hits
   subtitle: Zestawienie największych hitów, które niezmiennie cieszą się dużą popularnością w Polsce i na świecie.
-  description: |
-    Tytuł oryginalny: Best hits
-    PL, 2026
+  description: |-
+    program muzyczny
+    Zestawienie największych hitów muzycznych, które niezmiennie cieszą się dużą popularnością w Polsce i na świecie.
+    Od lat: 12
   ageRating: 12
   genre:
   - '96'
