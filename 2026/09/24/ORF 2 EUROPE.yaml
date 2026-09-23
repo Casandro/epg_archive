@@ -73,7 +73,9 @@
   title: Studio 2
   genre:
   - '160'
-- eventId: 1143074
+- eventId:
+  - 1143074
+  - 1147280
   start: 2026-09-24T03:58:27Z
   stop: 2026-09-24T04:13:07Z
   title: konkret
@@ -238,9 +240,13 @@
   start: 2026-09-24T04:00:00Z
   stop: 2026-09-24T04:30:00Z
   title: Wetter-Panorama und Programmvorschau
+- eventId: 1147281
+  start: 2026-09-24T04:13:22Z
+  stop: 2026-09-24T04:28:22Z
+  title: Wetter-Panorama und Programmvorschau
 - eventId: 959605
   start: 2026-09-24T04:30:00Z
-  stop: 2026-09-24T05:00:00Z
+  stop: 2026-09-24T04:58:55Z
   title: Guten Morgen Österreich
   genre:
   - '34'
@@ -250,6 +256,12 @@
   title: ZIB
   genre:
   - '33'
+- eventId: 1147282
+  start: 2026-09-24T05:08:30Z
+  stop: 2026-09-24T05:30:00Z
+  title: Guten Morgen Österreich
+  genre:
+  - '34'
 - eventId: 959724
   start: 2026-09-24T05:10:00Z
   stop: 2026-09-24T05:30:00Z
@@ -264,7 +276,7 @@
   - '33'
 - eventId: 960137
   start: 2026-09-24T05:33:00Z
-  stop: 2026-09-24T06:00:00Z
+  stop: 2026-09-24T05:59:00Z
   title: Guten Morgen Österreich
   genre:
   - '34'
@@ -274,6 +286,12 @@
   title: ZIB
   genre:
   - '33'
+- eventId: 1147283
+  start: 2026-09-24T06:08:30Z
+  stop: 2026-09-24T06:30:00Z
+  title: Guten Morgen Österreich
+  genre:
+  - '34'
 - eventId: 960653
   start: 2026-09-24T06:10:00Z
   stop: 2026-09-24T06:30:00Z
@@ -288,7 +306,7 @@
   - '33'
 - eventId: 960725
   start: 2026-09-24T06:33:00Z
-  stop: 2026-09-24T07:00:00Z
+  stop: 2026-09-24T06:58:39Z
   title: Guten Morgen Österreich
   genre:
   - '34'
@@ -298,6 +316,14 @@
   title: ZIB
   genre:
   - '33'
+- eventId: 1147284
+  start: 2026-09-24T07:09:30Z
+  stop: 2026-09-24T07:26:30Z
+  title: Fit mit den Stars
+  subtitle: Kristina Inhof
+  description: "\"Fit mit den Stars\" bringt täglich frische Motivation für einen aktiven Start in den Tag! \nOb Tanzprofi, Sportlegende oder TV-Star - jede prominente Person bringt seine oder ihre persönliche Note in die Fitnessübungen ein. Neben wechselnden Gästen sorgen Fixstarter Conny Kreuter und Corinna Kamper mit ihren abwechslungsreichen Übungen für Schwung und gute Laune. \"Fit mit den Stars\" richtet sich an alle Altersgruppen und Fitnesslevels - gemeinsam aktiv bleiben, Spaß haben und fit werden!"
+  genre:
+  - '164'
 - eventId: 961554
   start: 2026-09-24T07:10:00Z
   stop: 2026-09-24T07:27:00Z
@@ -306,6 +332,10 @@
   description: "\"Fit mit den Stars\" bringt täglich frische Motivation für einen aktiven Start in den Tag! Das ORF-Fitnessformat läuft von Montag bis Freitag um 9:10 Uhr auf ORF 2.\nOb Tanzprofi, Sportlegende oder TV-Star - jede prominente Person bringt seine oder ihre persönliche Note in die Fitnessübungen ein. Neben wechselnden Gästen sorgen Fixstarter Conny Kreuter und Corinna Kamper mit ihren abwechslungsreichen Übungen für Schwung und gute Laune. \n\"Fit mit den Stars\" richtet sich an alle Altersgruppen."
   genre:
   - '164'
+- eventId: 1147285
+  start: 2026-09-24T07:26:35Z
+  stop: 2026-09-24T07:29:35Z
+  title: Wetter-Panorama
 - eventId: 961574
   start: 2026-09-24T07:27:00Z
   stop: 2026-09-24T07:30:00Z
@@ -316,8 +346,21 @@
   title: Silvia kocht
   genre:
   - '165'
+- eventId: 1147286
+  start: 2026-09-24T07:30:35Z
+  stop: 2026-09-24T07:55:00Z
+  title: Silvia kocht
+  genre:
+  - '165'
 - eventId: 963202
   start: 2026-09-24T08:45:00Z
+  stop: 2026-09-24T09:10:00Z
+  title: Österreich-Bild aus dem Landesstudio Vorarlberg
+  subtitle: Freiheit auf Rädern - Alltag im Rollstuhl
+  genre:
+  - '34'
+- eventId: 1147287
+  start: 2026-09-24T08:45:29Z
   stop: 2026-09-24T09:10:00Z
   title: Österreich-Bild aus dem Landesstudio Vorarlberg
   subtitle: Freiheit auf Rädern - Alltag im Rollstuhl
@@ -330,8 +373,21 @@
   subtitle: Deutschland - Der Aufstieg der AfD
   genre:
   - '129'
+- eventId: 1147288
+  start: 2026-09-24T09:12:32Z
+  stop: 2026-09-24T10:11:32Z
+  title: WELTjournal
+  subtitle: Deutschland - Der Aufstieg der AfD
+  genre:
+  - '129'
 - eventId: 993872
   start: 2026-09-24T10:45:00Z
+  stop: 2026-09-24T10:55:00Z
+  title: Wetterschau
+  genre:
+  - '33'
+- eventId: 1147289
+  start: 2026-09-24T10:45:29Z
   stop: 2026-09-24T10:55:00Z
   title: Wetterschau
   genre:
@@ -354,6 +410,18 @@
   title: Wetter
   genre:
   - '33'
+- eventId: 1147290
+  start: 2026-09-24T11:25:08Z
+  stop: 2026-09-24T11:27:38Z
+  title: Wetter
+  genre:
+  - '33'
+- eventId: 1147291
+  start: 2026-09-24T11:28:26Z
+  stop: 2026-09-24T12:12:26Z
+  title: Aktuell nach eins
+  genre:
+  - '34'
 - eventId: 965106
   start: 2026-09-24T11:30:00Z
   stop: 2026-09-24T12:14:00Z
