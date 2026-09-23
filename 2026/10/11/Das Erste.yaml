@@ -12,7 +12,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1154195
+- eventId:
+  - 1154195
+  - 1154576
   start: 2026-10-11T01:35:00Z
   stop: 2026-10-11T03:08:00Z
   title: Meine Mutter und plötzlich auch mein Vater
@@ -21,6 +23,9 @@
   genre:
   - '16'
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1073391
   - 860285
@@ -41,14 +46,26 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1154196
+- eventId:
+  - 1154196
+  - 1154577
   start: 2026-10-11T03:08:00Z
   stop: 2026-10-11T03:10:00Z
   title: Tagesschau
-- eventId: 1154197
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1154197
+  - 1154578
   start: 2026-10-11T03:10:00Z
   stop: 2026-10-11T03:30:00Z
   title: Brisant
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1073058
   - 860295

@@ -400,7 +400,7 @@
   - 1040175
   - 829393
   start: 2026-10-10T18:15:00Z
-  stop: 2026-10-10T21:15:00Z
+  stop: 2026-10-10T21:25:00Z
   title: Verstehen Sie Spaß?
   subtitle: 'Moderation: Barbara Schöneberger'
   widescreen: true
@@ -418,12 +418,17 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1154190
+- eventId:
+  - 1154190
+  - 1154571
   start: 2026-10-10T21:25:00Z
   stop: 2026-10-10T21:35:00Z
   title: Tagesthemen
   subtitle: mit Wetter
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1040201
   - 829402
@@ -439,24 +444,34 @@
   - 1040202
   - 829403
   start: 2026-10-10T21:40:00Z
-  stop: 2026-10-10T23:40:00Z
+  stop: 2026-10-10T21:45:00Z
   title: N. N.
   subtitle: (Weitere Informationen folgen)
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1154191
+- eventId:
+  - 1154191
+  - 1154572
   start: 2026-10-10T21:45:00Z
   stop: 2026-10-10T21:50:00Z
   title: Das Wort zum Sonntag
   subtitle: spricht Pfarrer Wolfgang Beck, Hildesheim
   subtitled: true
-- eventId: 1154192
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1154192
+  - 1154573
   start: 2026-10-10T21:50:00Z
   stop: 2026-10-10T23:53:00Z
   title: Teddy Teclebrhan - Halb Mensch, halb Disco
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1040203
   - 829404
@@ -481,11 +496,19 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1154193
+- eventId:
+  - 1154193
+  - 1154574
   start: 2026-10-10T23:53:00Z
   stop: 2026-10-10T23:55:00Z
   title: Tagesschau
-- eventId: 1154194
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1154194
+  - 1154575
   start: 2026-10-10T23:55:00Z
   stop: 2026-10-11T01:35:00Z
   title: Gib dem Affen Zucker
@@ -494,3 +517,6 @@
   genre:
   - '16'
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true

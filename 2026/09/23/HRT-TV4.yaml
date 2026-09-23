@@ -1169,6 +1169,7 @@
   - 1148678
   - 1149959
   - 1152306
+  - 1154450
   start: 2026-09-23T14:00:00Z
   stop: 2026-09-23T14:15:00Z
   title: Vijesti
@@ -1193,6 +1194,7 @@
   - 1148679
   - 1149960
   - 1152307
+  - 1154451
   start: 2026-09-23T14:15:00Z
   stop: 2026-09-23T14:22:00Z
   title: 'Studio 4: Sport'
@@ -1217,6 +1219,7 @@
   - 1148680
   - 1149961
   - 1152308
+  - 1154452
   start: 2026-09-23T14:22:00Z
   stop: 2026-09-23T14:23:00Z
   title: Vrijeme RH danas
@@ -1232,6 +1235,7 @@
   - 1148681
   - 1149962
   - 1152309
+  - 1154453
   start: 2026-09-23T14:23:00Z
   stop: 2026-09-23T14:24:00Z
   title: Vrijeme Europa danas
@@ -1242,7 +1246,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 1072717
   start: 2026-09-23T14:24:00Z
-  stop: 2026-09-23T14:25:00Z
+  stop: 2026-09-23T14:26:00Z
   title: Vrijeme Svijet danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -1265,6 +1269,7 @@
   - 1148682
   - 1149963
   - 1152310
+  - 1154454
   start: 2026-09-23T14:26:00Z
   stop: 2026-09-23T14:30:00Z
   title: Bez komentara
@@ -1298,6 +1303,7 @@
   - 1148683
   - 1149964
   - 1152311
+  - 1154455
   start: 2026-09-23T14:30:00Z
   stop: 2026-09-23T14:55:00Z
   title: A sada Vlada
@@ -1322,6 +1328,7 @@
   - 1148684
   - 1149965
   - 1152312
+  - 1154456
   start: 2026-09-23T14:55:00Z
   stop: 2026-09-23T15:03:00Z
   title: 'Studio 4: Kultura'
@@ -1356,6 +1363,14 @@
 - eventId: 1152313
   start: 2026-09-23T15:03:00Z
   stop: 2026-09-23T15:43:00Z
+  title: 'Studio 4: Znanost'
+  subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1154457
+  start: 2026-09-23T15:03:00Z
+  stop: 2026-09-23T15:42:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
@@ -1519,7 +1534,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 1152314
+- eventId:
+  - 1152314
+  - 1154458
   start: 2026-09-23T15:43:00Z
   stop: 2026-09-23T15:44:00Z
   title: Vrijeme RH danas
@@ -1527,7 +1544,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1152315
+- eventId:
+  - 1152315
+  - 1154459
   start: 2026-09-23T15:44:00Z
   stop: 2026-09-23T15:46:00Z
   title: Vrijeme Europa danas
@@ -1544,7 +1563,9 @@
   title: Poslovne vijesti
   subtitle: ' '
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 1152316
+- eventId:
+  - 1152316
+  - 1154460
   start: 2026-09-23T15:46:00Z
   stop: 2026-09-23T15:48:00Z
   title: Vrijeme Svijet danas
@@ -1566,7 +1587,9 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 1152317
+- eventId:
+  - 1152317
+  - 1154461
   start: 2026-09-23T15:48:00Z
   stop: 2026-09-23T15:52:00Z
   title: Bez komentara
@@ -1583,7 +1606,9 @@
   title: 'Studio 4: Sport'
   subtitle: ' '
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 1152318
+- eventId:
+  - 1152318
+  - 1154462
   start: 2026-09-23T15:52:00Z
   stop: 2026-09-23T16:12:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -1642,7 +1667,9 @@
   title: 'Studio 4: U fokusu'
   subtitle: ' '
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
-- eventId: 1152319
+- eventId:
+  - 1152319
+  - 1154463
   start: 2026-09-23T16:12:00Z
   stop: 2026-09-23T16:15:00Z
   title: Bez komentara
@@ -1650,7 +1677,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1152320
+- eventId:
+  - 1152320
+  - 1154464
   start: 2026-09-23T16:15:00Z
   stop: 2026-09-23T16:19:00Z
   title: Poslovne vijesti
@@ -1658,7 +1687,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1152321
+- eventId:
+  - 1152321
+  - 1154465
   start: 2026-09-23T16:19:00Z
   stop: 2026-09-23T16:29:00Z
   title: 'Studio 4: Sport'
@@ -1719,7 +1750,9 @@
   title: HAK - prometna edukacija
   subtitle: ' '
   description: Edukativna tjedna emisija Hrvatskog autokluba donosi reportaže, kratke savjete i zanimljivosti o cestovnom prometu i povećanju sigurnosti.
-- eventId: 1152322
+- eventId:
+  - 1152322
+  - 1154466
   start: 2026-09-23T16:29:00Z
   stop: 2026-09-23T16:32:00Z
   title: Bez komentara
@@ -1741,7 +1774,9 @@
   genre:
   - '32'
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 1152323
+- eventId:
+  - 1152323
+  - 1154467
   start: 2026-09-23T16:32:00Z
   stop: 2026-09-23T16:52:00Z
   title: 'Studio 4: U fokusu'
@@ -1763,7 +1798,9 @@
   title: Regionalni dnevnik
   subtitle: ' '
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 1152324
+- eventId:
+  - 1152324
+  - 1154468
   start: 2026-09-23T16:52:00Z
   stop: 2026-09-23T16:58:00Z
   title: '#REPORTAŽE'
@@ -1813,7 +1850,9 @@
   title: Vrijeme Europa sutra
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 1152325
+- eventId:
+  - 1152325
+  - 1154469
   start: 2026-09-23T16:58:00Z
   stop: 2026-09-23T17:03:00Z
   title: HAK - Prometna edukacija
@@ -1858,7 +1897,9 @@
   title: Dnevnik 2
   subtitle: ' '
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
-- eventId: 1152326
+- eventId:
+  - 1152326
+  - 1154470
   start: 2026-09-23T17:03:00Z
   stop: 2026-09-23T17:26:00Z
   title: Regionalni dnevnik
@@ -1866,7 +1907,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1152327
+- eventId:
+  - 1152327
+  - 1154471
   start: 2026-09-23T17:26:00Z
   stop: 2026-09-23T17:27:00Z
   title: Vrijeme RH sutra
@@ -1874,7 +1917,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1152328
+- eventId:
+  - 1152328
+  - 1154472
   start: 2026-09-23T17:27:00Z
   stop: 2026-09-23T17:29:00Z
   title: Vrijeme Europa sutra
@@ -1882,7 +1927,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1152329
+- eventId:
+  - 1152329
+  - 1154473
   start: 2026-09-23T17:29:00Z
   stop: 2026-09-23T17:32:00Z
   title: Vrijeme Svijet sutra
@@ -1890,7 +1937,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1152330
+- eventId:
+  - 1152330
+  - 1154474
   start: 2026-09-23T17:32:00Z
   stop: 2026-09-23T18:25:00Z
   title: Dnevnik 2
@@ -2022,7 +2071,9 @@
   title: Druga strana
   subtitle: ' '
   description: 'Geopolitičke napetosti rastu. Središnje banke Amerike i Europe dižu kamatne stope, a investitori ne slijede stara, utabana pravila.Zašto ne kupuju obveznice koje nude veći prinos nego prije? Tko se boji vrtoglavog rasta državnog duga i inflacije? Hoće li na cijenu zlata više utjecati Hormuz ili indijska sezona vjenčanja? I zašto Europska središnja banka prati cijenu piva na Oktoberfestu? Kako je to davne 2008 govorio politolog Daniel Drezner: "Kada Sjedinjene Države duguju Kini stotine milijardi dolara, onda je to američki problem. No, kad joj duguju 600 tisuća milijardi dolara, onda je to kineski problem." Kina i Amerika zaglavile su u nužnoj ravnoteži i balansu međusobnog financijskog terorizma. Iz koje nema izlaza... barem ne lakog. Globalni investitori to su prepoznali. I ne daju se uvući u igru. A američki dug raste kao nikada do sada. I tu dolazimo do prvog tržišnog paradoksa. Amerika obećava više kamate, a to je uvijek značilo pad cijene zlata. Jer, zašto riskirati na tržištu kad američka država nudi sigurnu i stabilnu zaradu? Ove godine to se ne događa! Investitori pokazuju veći apetit prema zlatu od središnjih banaka do ETF-ova. Slijedi li oporavak ili novi tržišni zlatni balon, odgovara Vladimir Potočki, ekonomski analitičar i stručnjak za tržište plemenitih metala. Urednik i voditelj: Željko Kardum'
-- eventId: 1152331
+- eventId:
+  - 1152331
+  - 1154475
   start: 2026-09-23T18:25:00Z
   stop: 2026-09-23T18:26:00Z
   title: Vrijeme RH sutra
@@ -2030,7 +2081,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1152332
+- eventId:
+  - 1152332
+  - 1154476
   start: 2026-09-23T18:26:00Z
   stop: 2026-09-23T18:28:00Z
   title: Vrijeme Europa sutra
@@ -2070,14 +2123,16 @@
   description: Emisija u kojoj svake srijede o najvažnijim odlukama, temama iz djelokruga Vlade i potezima uživo govore članovi Vlade Republike Hrvatske. Ovisno o aktualnim temama koje određuju i goste, emisiju uređuju i vode urednice i urednici Informativnog programa Hrvatskog radija.
 - eventId: 1152224
   start: 2026-09-23T18:32:00Z
-  stop: 2026-09-23T18:59:00Z
+  stop: 2026-09-23T18:33:00Z
   title: HAK - promet info
   subtitle: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
   ageRating: 4
   genre:
   - '160'
   description: Emisija u kojoj svake srijede o najvažnijim odlukama, temama iz djelokruga Vlade i potezima uživo govore članovi Vlade Republike Hrvatske. Ovisno o aktualnim temama koje određuju i goste, emisiju uređuju i vode urednice i urednici Informativnog programa Hrvatskog radija.
-- eventId: 1152334
+- eventId:
+  - 1152334
+  - 1154477
   start: 2026-09-23T18:33:00Z
   stop: 2026-09-23T18:35:00Z
   title: '#REPORTAŽE'
@@ -2085,7 +2140,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1152335
+- eventId:
+  - 1152335
+  - 1154478
   start: 2026-09-23T18:35:00Z
   stop: 2026-09-23T18:59:00Z
   title: Druga strana
@@ -2140,14 +2197,16 @@
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
 - eventId: 1152226
   start: 2026-09-23T19:02:00Z
-  stop: 2026-09-23T19:49:00Z
+  stop: 2026-09-23T19:29:00Z
   title: A sada Vlada
   subtitle: Emisija u kojoj svake srijede o najvažnijim odlukama, temama iz djelokruga Vlade i potezima uživo govore članovi Vlade Republike Hrvatske.
   ageRating: 4
   genre:
   - '160'
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
-- eventId: 1152336
+- eventId:
+  - 1152336
+  - 1154479
   start: 2026-09-23T19:29:00Z
   stop: 2026-09-23T19:32:00Z
   title: Bez komentara
@@ -2155,7 +2214,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1152337
+- eventId:
+  - 1152337
+  - 1154480
   start: 2026-09-23T19:32:00Z
   stop: 2026-09-23T20:14:00Z
   title: Pregled dana
@@ -2290,7 +2351,7 @@
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
 - eventId: 1152229
   start: 2026-09-23T20:49:00Z
-  stop: 2026-09-23T21:09:00Z
+  stop: 2026-09-23T21:12:00Z
   title: 'DW: Sutrašnjica danas'
   subtitle: Emisija Deutsche Wellea o europskom načinu života, donosi zanimljivosti iz europskih gradova.
   ageRating: 4
@@ -2343,7 +2404,9 @@
   title: Vijesti na engleskom jeziku
   subtitle: ' '
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 1152338
+- eventId:
+  - 1152338
+  - 1154489
   start: 2026-09-23T21:17:00Z
   stop: 2026-09-23T21:19:00Z
   title: Bez komentara
@@ -2351,7 +2414,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1152339
+- eventId:
+  - 1152339
+  - 1154490
   start: 2026-09-23T21:19:00Z
   stop: 2026-09-23T21:39:00Z
   title: 'Studio 4: U fokusu'
@@ -2410,7 +2475,9 @@
   title: 'Studio 4: Jutarnji intervju'
   subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 1152340
+- eventId:
+  - 1152340
+  - 1154491
   start: 2026-09-23T21:39:00Z
   stop: 2026-09-23T21:42:00Z
   title: Bez komentara
@@ -2418,7 +2485,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1152341
+- eventId:
+  - 1152341
+  - 1154492
   start: 2026-09-23T21:42:00Z
   stop: 2026-09-23T21:52:00Z
   title: Vijesti na engleskom jeziku
@@ -2452,7 +2521,7 @@
   - 1149774
   - 1152234
   start: 2026-09-23T21:52:00Z
-  stop: 2026-09-23T22:00:00Z
+  stop: 2026-09-23T22:02:00Z
   title: '#REPORTAŽE: Radićeva katedrala'
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
@@ -2498,7 +2567,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 1152235
   start: 2026-09-23T22:02:00Z
-  stop: 2026-09-23T22:12:00Z
+  stop: 2026-09-23T22:19:00Z
   title: 'Studio 4: Jutarnji intervju'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -2551,7 +2620,9 @@
   title: Druga strana
   subtitle: ' '
   description: 'Geopolitičke napetosti rastu. Središnje banke Amerike i Europe dižu kamatne stope, a investitori ne slijede stara, utabana pravila.Zašto ne kupuju obveznice koje nude veći prinos nego prije? Tko se boji vrtoglavog rasta državnog duga i inflacije? Hoće li na cijenu zlata više utjecati Hormuz ili indijska sezona vjenčanja? I zašto Europska središnja banka prati cijenu piva na Oktoberfestu? Kako je to davne 2008 govorio politolog Daniel Drezner: "Kada Sjedinjene Države duguju Kini stotine milijardi dolara, onda je to američki problem. No, kad joj duguju 600 tisuća milijardi dolara, onda je to kineski problem." Kina i Amerika zaglavile su u nužnoj ravnoteži i balansu međusobnog financijskog terorizma. Iz koje nema izlaza... barem ne lakog. Globalni investitori to su prepoznali. I ne daju se uvući u igru. A američki dug raste kao nikada do sada. I tu dolazimo do prvog tržišnog paradoksa. Amerika obećava više kamate, a to je uvijek značilo pad cijene zlata. Jer, zašto riskirati na tržištu kad američka država nudi sigurnu i stabilnu zaradu? Ove godine to se ne događa! Investitori pokazuju veći apetit prema zlatu od središnjih banaka do ETF-ova. Slijedi li oporavak ili novi tržišni zlatni balon, odgovara Vladimir Potočki, ekonomski analitičar i stručnjak za tržište plemenitih metala. Urednik i voditelj: Željko Kardum'
-- eventId: 1152342
+- eventId:
+  - 1152342
+  - 1154493
   start: 2026-09-23T22:22:00Z
   stop: 2026-09-23T22:30:00Z
   title: '#REPORTAŽE'
@@ -2559,7 +2630,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1152343
+- eventId:
+  - 1152343
+  - 1154494
   start: 2026-09-23T22:30:00Z
   stop: 2026-09-23T22:32:00Z
   title: Bez komentara
@@ -2567,7 +2640,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1152344
+- eventId:
+  - 1152344
+  - 1154495
   start: 2026-09-23T22:32:00Z
   stop: 2026-09-23T22:42:00Z
   title: Vijesti flash
@@ -2589,7 +2664,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1152345
+- eventId:
+  - 1152345
+  - 1154496
   start: 2026-09-23T22:42:00Z
   stop: 2026-09-23T22:49:00Z
   title: Vijesti iz kulture
@@ -2611,7 +2688,9 @@
   title: Regionalni dnevnik
   subtitle: ' '
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 1152346
+- eventId:
+  - 1152346
+  - 1154497
   start: 2026-09-23T22:49:00Z
   stop: 2026-09-23T23:14:00Z
   title: Druga strana
@@ -2647,7 +2726,9 @@
   title: Dnevnik 2
   subtitle: ' '
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
-- eventId: 1152347
+- eventId:
+  - 1152347
+  - 1154498
   start: 2026-09-23T23:14:00Z
   stop: 2026-09-23T23:37:00Z
   title: Regionalni dnevnik
@@ -2655,7 +2736,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1152348
+- eventId:
+  - 1152348
+  - 1154499
   start: 2026-09-23T23:37:00Z
   stop: 2026-09-24T00:25:00Z
   title: Dnevnik 2
