@@ -1385,22 +1385,12 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1159241
-  start: 2026-09-23T21:00:00Z
-  stop: 2026-09-23T21:07:12Z
-  title: Předpověď počasí
-  subtitle: Souhrn meteorologických informací.
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '33'
-  widescreen: true
 - eventId:
+  - 1159241
   - 923829
   - 926644
   start: 2026-09-23T21:00:00Z
-  stop: 2026-09-23T21:05:00Z
+  stop: 2026-09-23T21:07:12Z
   title: Předpověď počasí
   subtitle: Souhrn meteorologických informací.
   description: |-
@@ -1437,6 +1427,17 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 1159809
+  start: 2026-09-23T21:07:12Z
+  stop: 2026-09-23T21:32:00Z
+  title: Zprávy ve 23
+  subtitle: Nejdůležitější události dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 923831
   - 926646
@@ -1452,7 +1453,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1159243
+- eventId:
+  - 1159243
+  - 1159810
   start: 2026-09-23T21:32:12Z
   stop: 2026-09-23T22:00:00Z
   title: Interview ČT24
@@ -1511,18 +1514,8 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1159372
-  start: 2026-09-23T23:10:00Z
-  stop: 2026-09-23T23:59:50Z
-  title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '32'
-  widescreen: true
 - eventId:
+  - 1159372
   - 923835
   - 926650
   start: 2026-09-23T23:10:00Z
