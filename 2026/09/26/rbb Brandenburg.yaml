@@ -193,13 +193,23 @@
   audiodesc: true
 - eventId: 1003798
   start: 2026-09-26T11:45:00Z
-  stop: 2026-09-26T13:30:00Z
+  stop: 2026-09-26T12:50:00Z
   title: 'Live: Olympia für Deutschland'
   subtitle: Berlin, KölnRheinRuhr oder München - wer geht ins Rennen? - Live aus dem Kurhaus in Baden-Baden
   description: |-
     Am 26. September 2026 überträgt das rbb Fernsehen von 13:45 bis 14:45 Uhr live aus Baden-Baden die Bekanntgabe, welche deutsche Stadt bzw. Region sich für die Ausrichtung der Olympischen Sommerspiele bewerben wird.
     Zur Auswahl stehen München, Berlin und die Region Rhein-Ruhr.
   episodeUri: crid://onid-1/e/6aa47cc277a50ca5975b98b4
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 1186154
+  start: 2026-09-26T12:50:00Z
+  stop: 2026-09-26T13:35:00Z
+  title: Streets of Berlin - Die Schönhauser Allee
+  description: Die Schönhauser Allee ist der große Boulevard im Osten Berlins. Grell, bunt, meist hektisch, manchmal gechillt, immer laut. Sie ist Einkaufsstraße, Fressmeile und Partylocation. Drei Kilometer urbanes Leben in Prenzlauer Berg. Die Doku-Reihe "Streets of Berlin" erzählt von den Straßen der Stadt und den Menschen, die in ihnen wohnen, leben und arbeiten.
+  episodeUri: crid://onid-1/e/6ab3a58313fd5b728f550309
   widescreen: true
   subtitled: true
   hd: true
@@ -214,6 +224,16 @@
   hd: true
   audiodesc: true
   description: '"Asia-Town" und pulsierender Kiez: Die Kantstraße im Westen Berlins ist für ihre vielfältige asiatische Küche bekannt. Aber nicht nur: Vom Breitscheidplatz bis zum Charlottenburger Amtsgericht treffen hier Traditionsorte wie das Theater des Westens auf eine lange gewachsene Kneipenkultur. Streets of Berlin erzählt von den Straßen der Stadt und den Menschen, die in ihnen wohnen, leben und lieben.'
+- eventId: 1186256
+  start: 2026-09-26T13:35:00Z
+  stop: 2026-09-26T14:00:00Z
+  title: Streets of Berlin - Die Kantstraße
+  description: '"Asia-Town" und pulsierender Kiez: Die Kantstraße im Westen Berlins ist für ihre vielfältige asiatische Küche bekannt. Aber nicht nur: Vom Breitscheidplatz bis zum Charlottenburger Amtsgericht treffen hier Traditionsorte wie das Theater des Westens auf eine lange gewachsene Kneipenkultur. Streets of Berlin erzählt von den Straßen der Stadt und den Menschen, die in ihnen wohnen, leben und lieben.'
+  episodeUri: crid://onid-1/e/6aad3bbaececd813c7e2d140
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 1003803
   start: 2026-09-26T14:00:00Z
   stop: 2026-09-26T14:05:00Z
@@ -225,8 +245,8 @@
   audiodesc: true
 - eventId: 541401
   start: 2026-09-26T14:05:00Z
-  stop: 2026-09-26T14:50:00Z
-  title: Geld.Macht.Liebe (20)
+  stop: 2026-09-26T14:10:00Z
+  title: Guck mal Retro - Oktoberfest
   subtitle: Mörtelfieber
   episodeUri: crid://onid-1/e/6a862a5e99dcb1ba40e524e2
   ageRating: 12
@@ -237,6 +257,20 @@
   hd: true
   audiodesc: true
   description: Martines tragischer Unfalltod schockt die Rheinbergs. Nur Markus heuchelt seine Anteilnahme. Auch Marietta ist nicht sehr bewegt. Für sie ist die Beerdigung eine willkommene Gelegenheit, um ihren Ehemann Jonas zu präsentieren, der nach einem Ausflug in sein altes Leben zu ihr zurückgekehrt ist. Allein Will Stern bleibt der Trauerfeier fern. Die Bilder von Martines Tod rauben ihm den Schlaf. Nach einem Schwächeanfall wird 'Mörtel Willy' ins Krankenhaus eingeliefert. Vom schlechten Gewissen geplagt, vertraut Will seiner Schwester Sophia an, dass Martines Tod womöglich doch kein Unfall war. Sophia ist erschüttert, aber sie schweigt.
+- eventId: 1186257
+  start: 2026-09-26T14:10:00Z
+  stop: 2026-09-26T14:50:00Z
+  title: Geld.Macht.Liebe (20)
+  subtitle: Mörtelfieber
+  description: Martines tragischer Unfalltod schockt die Rheinbergs. Nur Markus heuchelt seine Anteilnahme. Auch Marietta ist nicht sehr bewegt. Für sie ist die Beerdigung eine willkommene Gelegenheit, um ihren Ehemann Jonas zu präsentieren, der nach einem Ausflug in sein altes Leben zu ihr zurückgekehrt ist. Allein Will Stern bleibt der Trauerfeier fern. Die Bilder von Martines Tod rauben ihm den Schlaf. Nach einem Schwächeanfall wird 'Mörtel Willy' ins Krankenhaus eingeliefert. Vom schlechten Gewissen geplagt, vertraut Will seiner Schwester Sophia an, dass Martines Tod womöglich doch kein Unfall war. Sophia ist erschüttert, aber sie schweigt.
+  episodeUri: crid://onid-1/e/6a862a5e99dcb1ba40e524e2
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 1003804
   start: 2026-09-26T14:50:00Z
   stop: 2026-09-26T14:55:00Z
@@ -368,7 +402,7 @@
   description: Die Nachrichten der ARD
 - eventId: 541821
   start: 2026-09-26T18:15:00Z
-  stop: 2026-09-26T18:30:00Z
+  stop: 2026-09-26T18:55:00Z
   title: 'rbb24 spezial: Berlin nach dem Olympiaentscheid'
   subtitle: 'Moderation: Uri Zahavi'
   episodeUri: crid://onid-1/e/6aabdfaa8bff181b9d92a618
@@ -379,6 +413,7 @@
   description: |-
     Entscheidung über Deutschlands Olympia-Bewerbung:
     Am 26. September fällt in Baden-Baden die Entscheidung, mit welchem der drei Bewerber Deutschland ins Rennen um die Olympischen Spiele 2036, 2040 oder 2044 geht. Zur Auswahl stehen Berlin, München und die Region KölnRheinRuhr. Die Entscheidung trifft die außerordentliche Mitgliederversammlung des Deutschen Olympischen Sportbundes (DOSB). Unser rbb24 spezial beleuchtet die Konsequenzen der Entscheidung für Berlin.
+  ageRating: 12
 - eventId: 1003809
   start: 2026-09-26T18:30:00Z
   stop: 2026-09-26T19:10:00Z
@@ -391,6 +426,18 @@
   hd: true
   audiodesc: true
   description: Robert Liebling ist Rechtsanwalt in Kreuzberg. Für Strafsachen engagiert er den jungen Anwalt Giselmund Arnold aus Stuttgart. Der erlebt in einem Diebstahlsfall mit körperlichen Attacken seine Feuertaufe. Folge 1 der Kultserie, die auch aufgrund der interessanten Berlin Bilder, der bunten Achtziger im wilden Kreuzberg, viel Sehenswertes bietet. In der Rolle des Anwalts glänzt Manfred Krug.
+- eventId: 1186262
+  start: 2026-09-26T18:55:00Z
+  stop: 2026-09-26T19:40:00Z
+  title: Liebling Kreuzberg (2)
+  subtitle: Ein dringender Fall
+  description: Der 17 jährige Bodo ist in einen Supermarkt eingebrochen und hat den Geschäftsführer als Geisel genommen. Rechtsanwalt Liebling kümmert sich zusammen mit seinem Sozius Arnold um diesen Fall  und das mit höchstem körperlichen Einsatz.
+  episodeUri: crid://onid-1/e/6a862a5e99dcb1ba40e524ca
+  ageRating: 12
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 1003810
   start: 2026-09-26T19:10:00Z
   stop: 2026-09-26T19:55:00Z
@@ -403,6 +450,26 @@
   hd: true
   audiodesc: true
   description: Der 17 jährige Bodo ist in einen Supermarkt eingebrochen und hat den Geschäftsführer als Geisel genommen. Rechtsanwalt Liebling kümmert sich zusammen mit seinem Sozius Arnold um diesen Fall  und das mit höchstem körperlichen Einsatz.
+- eventId: 1186263
+  start: 2026-09-26T19:40:00Z
+  stop: 2026-09-26T19:45:00Z
+  title: Unterwegs um den Wannsee
+  description: Badewanne der Berliner, Sehnsuchtsort, Ostsee des kleinen Mannes - was ist der Wannsee nicht alles! Kein Wunder, dass die Havelbucht im Südwesten Berlins so viele Menschen anzieht. Ein Streifzug unterwegs auf und am Wannsee.
+  episodeUri: crid://onid-1/e/6ab524b4bd456535113623ec
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 1186264
+  start: 2026-09-26T19:45:00Z
+  stop: 2026-09-26T20:00:00Z
+  title: rbb24 mit Sport
+  description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Berlin und Brandenburg und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
+  episodeUri: crid://onid-1/e/6a862a5e99dcb1ba40e524c8
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 1003811
   start: 2026-09-26T19:55:00Z
   stop: 2026-09-26T20:10:00Z
@@ -413,6 +480,20 @@
   hd: true
   audiodesc: true
   description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Berlin und Brandenburg und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
+- eventId: 1186265
+  start: 2026-09-26T20:00:00Z
+  stop: 2026-09-26T22:05:00Z
+  title: Serpico
+  subtitle: Spielfilm USA/Italien 1973
+  description: Serpico, ein junger Streifenpolizist, muss bald nach seinem Dienstantritt feststellen, dass die New Yorker Polizei Schmiergelder kassiert und Korruption und Bestechung an der Tagesordnung sind. Serpicos Sinn für Gerechtigkeit ist verletzt und er möchte die kriminellen Missstände in den eigenen Reihen melden. Doch Serpico wird von seinen Kollegen unter Druck gesetzt, denn sie dulden keinen Außenseiter und Verräter wie ihn. Bei seinen Vorgesetzten trifft Frank Serpico auf taube Ohren. Dennoch gibt er sein Ziel, die Missstände öffentlich zu machen, nicht auf.
+  episodeUri: crid://onid-1/e/6a862a5e99dcb1ba40e524c6
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 1003812
   start: 2026-09-26T20:10:00Z
   stop: 2026-09-26T22:15:00Z
@@ -427,6 +508,18 @@
   hd: true
   audiodesc: true
   description: Serpico, ein junger Streifenpolizist, muss bald nach seinem Dienstantritt feststellen, dass die New Yorker Polizei Schmiergelder kassiert und Korruption und Bestechung an der Tagesordnung sind. Serpicos Sinn für Gerechtigkeit ist verletzt und er möchte die kriminellen Missstände in den eigenen Reihen melden. Doch Serpico wird von seinen Kollegen unter Druck gesetzt, denn sie dulden keinen Außenseiter und Verräter wie ihn. Bei seinen Vorgesetzten trifft Frank Serpico auf taube Ohren. Dennoch gibt er sein Ziel, die Missstände öffentlich zu machen, nicht auf.
+- eventId: 1186271
+  start: 2026-09-26T22:05:00Z
+  stop: 2026-09-27T00:05:00Z
+  title: eat.READ.sleep
+  description: |-
+    Lesung war gestern, heute ist eat.READ.sleep. live! Die Podcast-Sessions des NDR Kultur Bücherpodcasts sind legendär - lasst euch überraschen, was die Hosts Katharina Mahrenholtz und Daniel Kaiser diesmal vorbereitet haben - für ihre kurzweilige Bühnen-Show rund ums Lesen.
+    Besonderer Interviewgast auf der Bühne ist diesmal Thomas Böhm, einer der "Literaturagenten" vom rbb, die wie die Hosts von eat.READ.sleep für gute Bücher und fürs Lesen begeistern wollen.
+  episodeUri: crid://onid-1/e/6aaa8019beaf67e73b499bf8
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 1003814
   start: 2026-09-26T22:15:00Z
   stop: 2026-09-27T00:15:00Z
