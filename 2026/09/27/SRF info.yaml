@@ -84,18 +84,25 @@
   start: 2026-09-27T03:45:00Z
   stop: 2026-09-27T03:55:00Z
   title: Tagesschau
-  subtitle: Spätausgabe
+  subtitle: F-35, Patriot und Co. - Fass ohne Boden?
   genre:
   - '32'
   widescreen: true
   hd: true
+  description: |-
+    Steigende Kosten beim F-35-Kampfjet und Mehrkosten beim Patriot-Abwehrsystem schwächen das Vertrauen in die Rüstungspolitik. Um künftig finanzielle Engpässe abzufedern und weitere Rüstungsprojekte zu sichern, soll ein neuer Rüstungsfonds geschaffen werden. Die Finanzierung ist jedoch umstritten.
+    Schweiz 2026
+  subtitled: true
 - eventId: 1053832
   start: 2026-09-27T03:55:00Z
-  stop: 2026-09-27T05:05:00Z
+  stop: 2026-09-27T04:55:00Z
   title: Arena
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: Spätausgabe
+  genre:
+  - '32'
 - eventId: 1053833
   start: 2026-09-27T04:00:00Z
   stop: 2026-09-27T05:05:00Z
@@ -108,9 +115,9 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 1053834
-  start: 2026-09-27T05:05:00Z
-  stop: 2026-09-27T05:15:00Z
+- eventId: 1184539
+  start: 2026-09-27T04:55:00Z
+  stop: 2026-09-27T05:05:00Z
   title: Sportheute
   subtitle: Der Sport des Tages
   description: |-
@@ -120,6 +127,19 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 1053834
+  start: 2026-09-27T05:05:00Z
+  stop: 2026-09-27T05:55:00Z
+  title: Rundschau Talk
+  subtitle: 'Zu Gast: Susanne Vincenz-Stauffacher (Co-Präsidentin FDP) sowie Mattea Meyer (Co-Präsidentin SP)'
+  description: |-
+    Im «Rundschau Talk» treffen die Parteispitzen Susanne Vincenz-Stauffacher von der FDP und Mattea Meyer von der SP aufeinander. Wie gut sind ihre Parteien aufgestellt - und welche Antworten haben sie auf die grossen Streitfragen?
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 1053835
   start: 2026-09-27T05:15:00Z
   stop: 2026-09-27T06:05:00Z
@@ -128,6 +148,15 @@
   description: |-
     Im «Rundschau Talk» treffen die Parteispitzen Susanne Vincenz-Stauffacher von der FDP und Mattea Meyer von der SP aufeinander. Wie gut sind ihre Parteien aufgestellt - und welche Antworten haben sie auf die grossen Streitfragen?
     Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1184540
+  start: 2026-09-27T05:55:00Z
+  stop: 2026-09-27T06:25:00Z
+  title: Gredig direkt
+  subtitle: 'Andres Andrekson: Vom Stress, «Stress» zu sein'
+  description: "Er zählt zu den erfolgreichsten Musikern der Schweiz. Doch hinter dem Künstlernamen «Stress» steht ein Mann, der Gewalt, Schmerz, Depressionen und Selbstzweifel erlebt hat. Bei «Gredig direkt» spricht Andres Andrekson über seinen Weg zur Heilung. \nSchweiz 2026"
   widescreen: true
   subtitled: true
   hd: true
@@ -140,6 +169,16 @@
   hd: true
   subtitle: 'Andres Andrekson: Vom Stress, «Stress» zu sein'
   description: "Er zählt zu den erfolgreichsten Musikern der Schweiz. Doch hinter dem Künstlernamen «Stress» steht ein Mann, der Gewalt, Schmerz, Depressionen und Selbstzweifel erlebt hat. Bei «Gredig direkt» spricht Andres Andrekson über seinen Weg zur Heilung. \nSchweiz 2026"
+- eventId: 1184542
+  start: 2026-09-27T06:25:00Z
+  stop: 2026-09-27T06:55:00Z
+  title: Kulturplatz
+  subtitle: Bauen in den Himmel - Wie hoch darf eine Stadt wachsen?
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1053840
   start: 2026-09-27T06:35:00Z
   stop: 2026-09-27T07:05:00Z
@@ -150,6 +189,18 @@
   subtitled: true
   hd: true
   subtitle: Bauen in den Himmel - Wie hoch darf eine Stadt wachsen?
+- eventId: 1184543
+  start: 2026-09-27T06:55:00Z
+  stop: 2026-09-27T07:05:00Z
+  title: Sportheute
+  subtitle: Der Sport des Tages
+  description: |-
+    Grosse Erfolge, starke Emotionen und packende Bilder - «Sportheute» offeriert die wichtigsten News aus dem nationalen und internationalen Sport. An Spieltagen der National League steht das Schweizer Eishockey im Fokus.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 1053841
   start: 2026-09-27T07:05:00Z
   stop: 2026-09-27T07:15:00Z
@@ -162,11 +213,22 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 1053842
-  start: 2026-09-27T07:15:00Z
-  stop: 2026-09-27T07:20:00Z
+- eventId: 1184544
+  start: 2026-09-27T07:10:00Z
+  stop: 2026-09-27T07:15:00Z
   title: mitenand in Gebärdensprache
   subtitle: 'Für Tiere in Not: Mit dem Tierrettungsdienst unterwegs'
+  description: |-
+    Igel in Not, verletzte Vögel, ausgesetzte Katzen: Für Tierrettungsfahrer Werner Hoke beginnt im Frühling die Hochsaison. Rund um die Uhr rettet die Stiftung Tierrettungsdienst verletzte Tiere - und schenkt ihnen eine zweite Chance. Ein Bericht von Elma Softic.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1053842
+  start: 2026-09-27T07:15:00Z
+  stop: 2026-09-27T08:00:00Z
+  title: Rundschau Talk in Gebärdensprache
+  subtitle: 'Zu Gast: Susanne Vincenz-Stauffacher (Co-Präsidentin FDP) sowie Mattea Meyer (Co-Präsidentin SP)'
   description: |-
     Igel in Not, verletzte Vögel, ausgesetzte Katzen: Für Tierrettungsfahrer Werner Hoke beginnt im Frühling die Hochsaison. Rund um die Uhr rettet die Stiftung Tierrettungsdienst verletzte Tiere - und schenkt ihnen eine zweite Chance. Ein Bericht von Elma Softic.
     Schweiz 2026
@@ -184,11 +246,30 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1184545
+  start: 2026-09-27T08:00:00Z
+  stop: 2026-09-27T08:30:00Z
+  title: Kassensturz in Gebärdensprache
+  subtitle: 'Kein Geld nach missratener Operation: Lücke im Haftpflichtsystem'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1054358
   start: 2026-09-27T08:05:00Z
   stop: 2026-09-27T08:40:00Z
   title: Kassensturz in Gebärdensprache
   subtitle: 'Kein Geld nach missratener Operation: Lücke im Haftpflichtsystem'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1184546
+  start: 2026-09-27T08:30:00Z
+  stop: 2026-09-27T10:10:00Z
+  title: Puls Spezial in Gebärdensprache
+  subtitle: Mit Leib und Seele - Wege aus der Gesundheitskrise | Teil 1
+  description: |-
+    Ob der Aufbau einer neuen Geburtspraxis, ein Stellenwechsel kurz vor der Rente oder der Balanceakt zwischen Praxis und Bühne: Folge 1 zeigt, wie vier Frauen mit viel Herzblut, Durchhaltewillen und Mut den Hürden im Gesundheitswesen trotzen.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -299,6 +380,7 @@
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: Studiogast - Raphael Diaz, Eishockeyspieler EV Zug
 - eventId: 1067711
   start: 2026-09-27T18:55:00Z
   stop: 2026-09-27T19:50:00Z
@@ -310,6 +392,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1184587
+  start: 2026-09-27T19:00:00Z
+  stop: 2026-09-27T19:50:00Z
+  title: NZZ Format
+  subtitle: Zu wenige Löschflugzeuge - Was hilft gegen die neuen Megabrände?
+  description: |-
+    Spätestens seit dem Sommer 2026 ist klar: Es gibt immer mehr und grössere Waldbrände in Europa. Doch viele Löschflugzeuge sind alt, neue Maschinen lassen auf sich warten. «NZZ Format» fragt: Welche Flugzeuge braucht Europa? Und warum ist grösser nicht automatisch besser?
+    Schweiz 2026
+  widescreen: true
+  hd: true
 - eventId: 1067712
   start: 2026-09-27T19:50:00Z
   stop: 2026-09-27T20:25:00Z
@@ -319,6 +411,15 @@
   hd: true
   subtitle: 'Andres Andrekson: Vom Stress, «Stress» zu sein'
   description: "Er zählt zu den erfolgreichsten Musikern der Schweiz. Doch hinter dem Künstlernamen «Stress» steht ein Mann, der Gewalt, Schmerz, Depressionen und Selbstzweifel erlebt hat. Bei «Gredig direkt» spricht Andres Andrekson über seinen Weg zur Heilung. \nSchweiz 2026"
+- eventId: 1184588
+  start: 2026-09-27T19:55:00Z
+  stop: 2026-09-27T20:25:00Z
+  title: Gredig direkt
+  subtitle: 'Andres Andrekson: Vom Stress, «Stress» zu sein'
+  description: "Er zählt zu den erfolgreichsten Musikern der Schweiz. Doch hinter dem Künstlernamen «Stress» steht ein Mann, der Gewalt, Schmerz, Depressionen und Selbstzweifel erlebt hat. Bei «Gredig direkt» spricht Andres Andrekson über seinen Weg zur Heilung. \nSchweiz 2026"
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1067713
   start: 2026-09-27T20:25:00Z
   stop: 2026-09-27T20:30:00Z
@@ -332,7 +433,31 @@
   hd: true
 - eventId: 1078958
   start: 2026-09-27T20:30:00Z
-  stop: 2026-09-27T20:35:00Z
+  stop: 2026-09-27T20:40:00Z
+  title: mitenand
+  subtitle: Kinder lesen vor - Katzen hören zu
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Im Tierheim des Zürcher Tierschutzes lesen jeden Samstag Kinder Katzen vor. Besonders Kinder, denen das Lesen schwerfällt, können hier ohne Druck üben. Gleichzeitig lernen sie, die Körpersprache der Tiere zu verstehen und ihre Bedürfnisse zu respektieren. Ein Bericht von Elma Softic.
+    Schweiz 2026
+- eventId: 1078959
+  start: 2026-09-27T20:35:00Z
+  stop: 2026-09-27T21:00:00Z
+  title: GESUNDHEITHEUTE - Die Gesundheitssendung mit Dr. Jeanne Fürst
+  subtitle: 'Hüftimpingement: Wenn das Hüftgelenk schmerzhaft einklemmt'
+  description: |-
+    In der zweiten Folge der Serie mit der Universitätsklinik Balgrist Zürich zeigt GESUNDHEITHEUTE, wie ein Hüftimpingement erkannt wird und welche Behandlungsmöglichkeiten helfen können.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1184589
+  start: 2026-09-27T20:40:00Z
+  stop: 2026-09-27T20:45:00Z
   title: Meteo
   subtitle: Abendausgabe
   genre:
@@ -340,9 +465,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1078959
-  start: 2026-09-27T20:35:00Z
-  stop: 2026-09-27T21:00:00Z
+- eventId: 1184590
+  start: 2026-09-27T20:45:00Z
+  stop: 2026-09-27T21:05:00Z
   title: GESUNDHEITHEUTE - Die Gesundheitssendung mit Dr. Jeanne Fürst
   subtitle: 'Hüftimpingement: Wenn das Hüftgelenk schmerzhaft einklemmt'
   description: |-
@@ -371,10 +496,21 @@
   - '32'
   widescreen: true
   hd: true
+- eventId: 1184596
+  start: 2026-09-27T21:10:00Z
+  stop: 2026-09-27T21:15:00Z
+  title: mitenand
+  subtitle: Kinder lesen vor - Katzen hören zu
+  description: |-
+    Im Tierheim des Zürcher Tierschutzes lesen jeden Samstag Kinder Katzen vor. Besonders Kinder, denen das Lesen schwerfällt, können hier ohne Druck üben. Gleichzeitig lernen sie, die Körpersprache der Tiere zu verstehen und ihre Bedürfnisse zu respektieren. Ein Bericht von Elma Softic.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1078965
   start: 2026-09-27T21:15:00Z
-  stop: 2026-09-27T21:20:00Z
-  title: Meteo
+  stop: 2026-09-27T21:25:00Z
+  title: Tagesschau
   subtitle: Spätausgabe
   genre:
   - '32'
@@ -384,6 +520,28 @@
   start: 2026-09-27T21:20:00Z
   stop: 2026-09-27T22:10:00Z
   title: Sportpanorama
+  description: |-
+    Das Magazin zur nationalen und internationalen Sportaktualität des Wochenendes.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1184597
+  start: 2026-09-27T21:25:00Z
+  stop: 2026-09-27T21:30:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 1184598
+  start: 2026-09-27T21:30:00Z
+  stop: 2026-09-27T22:25:00Z
+  title: Sportpanorama
+  subtitle: Studiogast - Raphael Diaz, Eishockeyspieler EV Zug
   description: |-
     Das Magazin zur nationalen und internationalen Sportaktualität des Wochenendes.
     Schweiz 2026
@@ -422,6 +580,37 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1184599
+  start: 2026-09-27T22:30:00Z
+  stop: 2026-09-27T22:35:00Z
+  title: Tagesschau
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 1184600
+  start: 2026-09-27T22:35:00Z
+  stop: 2026-09-27T22:40:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 1184601
+  start: 2026-09-27T22:40:00Z
+  stop: 2026-09-27T23:30:00Z
+  title: Sportpanorama
+  subtitle: Studiogast - Raphael Diaz, Eishockeyspieler EV Zug
+  description: |-
+    Das Magazin zur nationalen und internationalen Sportaktualität des Wochenendes.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1078970
   start: 2026-09-27T23:15:00Z
   stop: 2026-09-27T23:25:00Z
@@ -443,6 +632,35 @@
 - eventId: 1078972
   start: 2026-09-27T23:30:00Z
   stop: 2026-09-28T00:15:00Z
+  title: Rundschau Talk
+  subtitle: 'Zu Gast: Susanne Vincenz-Stauffacher (Co-Präsidentin FDP) sowie Mattea Meyer (Co-Präsidentin SP)'
+  description: |-
+    Im «Rundschau Talk» treffen die Parteispitzen Susanne Vincenz-Stauffacher von der FDP und Mattea Meyer von der SP aufeinander. Wie gut sind ihre Parteien aufgestellt - und welche Antworten haben sie auf die grossen Streitfragen?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1184602
+  start: 2026-09-27T23:35:00Z
+  stop: 2026-09-27T23:45:00Z
+  title: Tagesschau
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 1184603
+  start: 2026-09-27T23:45:00Z
+  stop: 2026-09-27T23:50:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 1184604
+  start: 2026-09-27T23:50:00Z
+  stop: 2026-09-28T00:30:00Z
   title: Rundschau Talk
   subtitle: 'Zu Gast: Susanne Vincenz-Stauffacher (Co-Präsidentin FDP) sowie Mattea Meyer (Co-Präsidentin SP)'
   description: |-
