@@ -905,7 +905,7 @@
   hd: true
 - eventId: 1181259
   start: 2026-09-25T20:40:00Z
-  stop: 2026-09-25T21:00:00Z
+  stop: 2026-09-25T21:05:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -958,7 +958,7 @@
     Schweiz 2026
 - eventId: 1181263
   start: 2026-09-25T21:20:00Z
-  stop: 2026-09-25T21:35:00Z
+  stop: 2026-09-25T21:40:00Z
   title: Schweiz aktuell
   genre:
   - '32'
@@ -1022,7 +1022,7 @@
   hd: true
 - eventId: 1009204
   start: 2026-09-25T22:10:00Z
-  stop: 2026-09-25T22:12:00Z
+  stop: 2026-09-25T22:15:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -1032,6 +1032,15 @@
   subtitle: Spätausgabe
 - eventId: 1181266
   start: 2026-09-25T22:12:00Z
+  stop: 2026-09-25T22:20:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1181865
+  start: 2026-09-25T22:15:00Z
   stop: 2026-09-25T22:20:00Z
   title: Newsflash SRF 1
   genre:
@@ -1069,6 +1078,16 @@
   genre:
   - '64'
   widescreen: true
+  hd: true
+- eventId: 1181866
+  start: 2026-09-25T22:40:00Z
+  stop: 2026-09-25T22:45:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 1181268
   start: 2026-09-25T22:44:00Z
@@ -1151,6 +1170,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1181867
+  start: 2026-09-25T23:25:00Z
+  stop: 2026-09-25T23:30:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1181271
   start: 2026-09-25T23:26:00Z
   stop: 2026-09-25T23:27:00Z
@@ -1181,6 +1210,18 @@
   - '32'
   widescreen: true
   subtitled: true
+  hd: true
+- eventId: 1181868
+  start: 2026-09-25T23:30:00Z
+  stop: 2026-09-25T23:35:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
   hd: true
 - eventId: 1181273
   start: 2026-09-25T23:35:00Z
