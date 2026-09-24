@@ -1808,7 +1808,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1104841
+- eventId:
+  - 1104841
+  - 1179387
   start: 2026-09-24T07:30:00Z
   stop: 2026-09-24T11:00:00Z
   title: Prijenos sjednice Hrvatskog sabora
@@ -1878,7 +1880,7 @@
   - '160'
 - eventId: 1104847
   start: 2026-09-24T11:43:00Z
-  stop: 2026-09-24T11:47:00Z
+  stop: 2026-09-24T11:48:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
@@ -1914,6 +1916,7 @@
   - 1175618
   - 1177186
   - 1178598
+  - 1179388
   start: 2026-09-24T11:48:00Z
   stop: 2026-09-24T11:56:00Z
   title: 'Studio 4: Znanost'
@@ -1951,6 +1954,7 @@
   - 1175619
   - 1177187
   - 1178599
+  - 1179389
   start: 2026-09-24T11:56:00Z
   stop: 2026-09-24T12:00:00Z
   title: Bez komentara
@@ -2159,6 +2163,7 @@
   - 1175620
   - 1177188
   - 1178600
+  - 1179390
   start: 2026-09-24T14:55:00Z
   stop: 2026-09-24T15:03:00Z
   title: 'Studio 4: Kultura'
@@ -2195,6 +2200,7 @@
   - 1175621
   - 1177189
   - 1178601
+  - 1179391
   start: 2026-09-24T15:03:00Z
   stop: 2026-09-24T15:11:00Z
   title: 'Studio 4: Znanost'
@@ -2220,7 +2226,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1104871
   start: 2026-09-24T15:11:00Z
-  stop: 2026-09-24T15:13:00Z
+  stop: 2026-09-24T15:12:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
@@ -2239,6 +2245,7 @@
   - 1175622
   - 1177190
   - 1178602
+  - 1179392
   start: 2026-09-24T15:12:00Z
   stop: 2026-09-24T15:13:00Z
   title: Vrijeme Europa danas
@@ -2285,7 +2292,7 @@
   - '160'
 - eventId: 1104877
   start: 2026-09-24T15:43:00Z
-  stop: 2026-09-24T15:47:00Z
+  stop: 2026-09-24T15:48:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
@@ -2319,6 +2326,7 @@
   - 1175623
   - 1177191
   - 1178603
+  - 1179393
   start: 2026-09-24T15:48:00Z
   stop: 2026-09-24T15:57:00Z
   title: 'Studio 4: Sport'
@@ -2362,6 +2370,7 @@
   - 1175624
   - 1177192
   - 1178604
+  - 1179394
   start: 2026-09-24T15:57:00Z
   stop: 2026-09-24T15:59:00Z
   title: HRT100 Vremeplov
@@ -2386,7 +2395,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1104880
   start: 2026-09-24T15:59:00Z
-  stop: 2026-09-24T16:19:00Z
+  stop: 2026-09-24T16:01:00Z
   title: 'Studio 4: Zelena linija'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
@@ -2443,6 +2452,14 @@
   title: 'Studio 4: Zelena linija'
   subtitle: ' '
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
+- eventId: 1179395
+  start: 2026-09-24T16:01:00Z
+  stop: 2026-09-24T16:19:00Z
+  title: 'Studio 4: Zelena linija'
+  subtitle: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1161597
   - 1162145
@@ -2507,6 +2524,7 @@
   - 1175626
   - 1177194
   - 1178606
+  - 1179396
   start: 2026-09-24T16:21:00Z
   stop: 2026-09-24T16:27:00Z
   title: '#REPORTAŽE'
@@ -2541,6 +2559,7 @@
   - 1175627
   - 1177195
   - 1178607
+  - 1179397
   start: 2026-09-24T16:27:00Z
   stop: 2026-09-24T16:30:00Z
   title: Bez komentara
@@ -2569,7 +2588,7 @@
   - '32'
 - eventId: 1104886
   start: 2026-09-24T16:54:00Z
-  stop: 2026-09-24T16:56:00Z
+  stop: 2026-09-24T16:55:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
@@ -2596,6 +2615,7 @@
   - 1175628
   - 1177196
   - 1178608
+  - 1179398
   start: 2026-09-24T16:55:00Z
   stop: 2026-09-24T17:00:00Z
   title: Vrijeme Svijet sutra
