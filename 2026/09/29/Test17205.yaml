@@ -156,9 +156,21 @@
   hd: true
 - eventId: 1124320
   start: 2026-09-29T11:40:00Z
-  stop: 2026-09-29T12:15:00Z
+  stop: 2026-09-29T12:10:00Z
   title: Signes
   description: 'Découvrir Genève en langue des signes La ville de Genève se dote désormais de visites guidées en langue des signes. Grâce à un projet original initié par Genève Tourisme et l''association S-5 qui proposent depuis peu des visites guidées inversées : pendant qu''une personne sourde guide en langue des signes, un interprète la traduit en français ou en anglais à l''intention du public entendant. Pour la première visite du genre, Giovanni Palama, un des guides récemment formés, emmène son public à la découverte des sourds qui ont marqué Genève. (Suisse Romande-2025)  "Audio description"  "Langue des signes"'
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1189246
+  start: 2026-09-29T12:10:00Z
+  stop: 2026-09-29T12:55:00Z
+  title: A bon entendeur
+  description: |-
+    IA et voyages : ne suivez pas le guide aveuglément Alors que 80% de la population suisse utilise l'intelligence artificielle, nombreux sont ceux qui lui confient désormais leurs projets d'évasion. Pourtant, derrière la facilité apparente se cachent des écueils bien réels. En testant sept agents conversationnels, ABE explore aussi l'envers du décor !
+     (Suisse Romande-2026)
   genre:
   - '128'
   widescreen: true
@@ -244,6 +256,12 @@
   title: PMU
   widescreen: true
   hd: true
+- eventId: 1189247
+  start: 2026-09-29T18:05:00Z
+  stop: 2026-09-29T18:10:00Z
+  title: PMU
+  widescreen: true
+  hd: true
 - eventId: 1128855
   start: 2026-09-29T18:10:00Z
   stop: 2026-09-29T21:10:00Z
@@ -266,7 +284,17 @@
   hd: true
 - eventId: 1128869
   start: 2026-09-29T21:15:00Z
-  stop: 2026-09-29T22:30:00Z
+  stop: 2026-09-29T21:20:00Z
+  title: Zap RTS Sport
+  description: Sauvage Dans une vallée perdue du Mercantour, la rencontre improbable d'une jeune citadine rebelle et d'un vieux misanthrope. Entre Adriana et Bernard, c'est le dialogue de deux solitudes qui amènera chacun d'eux à une forme de rédemption. (Suisse-2009)
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1189248
+  start: 2026-09-29T21:20:00Z
+  stop: 2026-09-29T22:40:00Z
   title: Nocturne
   description: Sauvage Dans une vallée perdue du Mercantour, la rencontre improbable d'une jeune citadine rebelle et d'un vieux misanthrope. Entre Adriana et Bernard, c'est le dialogue de deux solitudes qui amènera chacun d'eux à une forme de rédemption. (Suisse-2009)
   genre:
@@ -287,3 +315,16 @@
   subtitled: true
   hd: true
   ageRating: 10
+- eventId: 1189249
+  start: 2026-09-29T22:40:00Z
+  stop: 2026-09-30T00:00:00Z
+  title: La preuve scientifique de l'existence de Dieu
+  description: |-
+    Le peuple est sur le point de voter pour ou contre l'interdiction d'exporter des armes depuis la Suisse.
+    Alain, 70 ans, participe à un documentaire qui retrace l'histoire d'un groupe d'objecteurs de conscience dont il était le cerveau en 1971. En plein tournage, il apprend que son petit-fils est victime d'un accident durant son école de recrue. Avec l'aide de ses vieux amis, il reprend la lutte pour un monde sans armes. (Suisse Romande-2018)  "Audio description"
+  ageRating: 10
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
