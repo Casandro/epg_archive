@@ -461,12 +461,22 @@
   hd: true
 - eventId: 996592
   start: 2026-09-25T11:20:00Z
-  stop: 2026-09-25T12:00:00Z
+  stop: 2026-09-25T11:55:00Z
   title: Eco Talk
   subtitle: 'SAC-Hütten: Von der Nische zum Massentourismus?'
   description: |-
     Immer mehr Menschen entdecken die Alpen, die Erwartungen an Komfort, Sicherheit und Erreichbarkeit steigen. Stehen die SAC-Hütten an einem Wendepunkt?
     Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1181217
+  start: 2026-09-25T11:55:00Z
+  stop: 2026-09-25T12:00:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
   widescreen: true
   subtitled: true
   hd: true
@@ -482,14 +492,17 @@
   hd: true
 - eventId: 1002859
   start: 2026-09-25T12:05:00Z
-  stop: 2026-09-25T12:10:00Z
-  title: Meteo
-  subtitle: Mittagsausgabe
+  stop: 2026-09-25T13:00:00Z
+  title: SRF DOK
+  subtitle: Die Schweiz - Land der Genossenschaften
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    In der Schweiz prallen zwei Welten aufeinander: renditegetriebene Konzerne gegen gemeinnützige Genossenschaften. Sind Genossenschaften das Wirtschaftsmodell der Zukunft? Eine Reise durch die «Eid-Genossenschaft».
+    Deutsche Schweiz 2025
 - eventId: 1002860
   start: 2026-09-25T12:10:00Z
   stop: 2026-09-25T13:00:00Z
@@ -523,7 +536,7 @@
   hd: true
 - eventId: 1002863
   start: 2026-09-25T13:10:00Z
-  stop: 2026-09-25T13:45:00Z
+  stop: 2026-09-25T13:40:00Z
   title: Reporter
   subtitle: Russlands Zukunft - Leben in der Ungewissheit (Teil 3)
   description: |-
@@ -532,9 +545,19 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1181232
+  start: 2026-09-25T13:40:00Z
+  stop: 2026-09-25T13:45:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1002864
   start: 2026-09-25T13:45:00Z
-  stop: 2026-09-25T13:50:00Z
+  stop: 2026-09-25T13:55:00Z
   title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
@@ -760,7 +783,20 @@
   hd: true
 - eventId: 1008483
   start: 2026-09-25T19:35:00Z
-  stop: 2026-09-25T19:45:00Z
+  stop: 2026-09-25T19:40:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Abendausgabe
+- eventId: 1181256
+  start: 2026-09-25T19:40:00Z
+  stop: 2026-09-25T19:50:00Z
   title: Telesguard
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
@@ -791,9 +827,23 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 1008486
   start: 2026-09-25T19:55:00Z
-  stop: 2026-09-25T20:15:00Z
+  stop: 2026-09-25T20:05:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+- eventId: 1181257
+  start: 2026-09-25T20:05:00Z
+  stop: 2026-09-25T20:20:00Z
   title: Schweiz aktuell
   genre:
   - '32'
@@ -831,9 +881,31 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 1008490
   start: 2026-09-25T20:30:00Z
-  stop: 2026-09-25T20:55:00Z
+  stop: 2026-09-25T20:35:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1181258
+  start: 2026-09-25T20:35:00Z
+  stop: 2026-09-25T20:40:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 1181259
+  start: 2026-09-25T20:40:00Z
+  stop: 2026-09-25T21:00:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -862,9 +934,31 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1181262
+  start: 2026-09-25T21:05:00Z
+  stop: 2026-09-25T21:10:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1008498
   start: 2026-09-25T21:10:00Z
-  stop: 2026-09-25T21:30:00Z
+  stop: 2026-09-25T21:20:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+- eventId: 1181263
+  start: 2026-09-25T21:20:00Z
+  stop: 2026-09-25T21:35:00Z
   title: Schweiz aktuell
   genre:
   - '32'
@@ -883,6 +977,24 @@
 - eventId: 1008500
   start: 2026-09-25T21:35:00Z
   stop: 2026-09-25T22:00:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1181264
+  start: 2026-09-25T21:40:00Z
+  stop: 2026-09-25T21:45:00Z
+  title: SRF Börse
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1181265
+  start: 2026-09-25T21:45:00Z
+  stop: 2026-09-25T22:05:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -910,7 +1022,26 @@
   hd: true
 - eventId: 1009204
   start: 2026-09-25T22:10:00Z
-  stop: 2026-09-25T22:35:00Z
+  stop: 2026-09-25T22:12:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Spätausgabe
+- eventId: 1181266
+  start: 2026-09-25T22:12:00Z
+  stop: 2026-09-25T22:20:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1181267
+  start: 2026-09-25T22:20:00Z
+  stop: 2026-09-25T22:40:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -939,18 +1070,50 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 1181268
+  start: 2026-09-25T22:44:00Z
+  stop: 2026-09-25T22:45:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1009207
   start: 2026-09-25T22:45:00Z
-  stop: 2026-09-25T22:50:00Z
+  stop: 2026-09-25T22:55:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
 - eventId: 1009208
   start: 2026-09-25T22:50:00Z
   stop: 2026-09-25T23:15:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1181269
+  start: 2026-09-25T22:55:00Z
+  stop: 2026-09-25T23:00:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1181270
+  start: 2026-09-25T23:00:00Z
+  stop: 2026-09-25T23:25:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -988,9 +1151,49 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1181271
+  start: 2026-09-25T23:26:00Z
+  stop: 2026-09-25T23:27:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1181272
+  start: 2026-09-25T23:27:00Z
+  stop: 2026-09-25T23:35:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 1018579
   start: 2026-09-25T23:30:00Z
   stop: 2026-09-25T23:55:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1181273
+  start: 2026-09-25T23:35:00Z
+  stop: 2026-09-25T23:40:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1181274
+  start: 2026-09-25T23:40:00Z
+  stop: 2026-09-26T00:05:00Z
   title: 10 vor 10
   genre:
   - '32'
