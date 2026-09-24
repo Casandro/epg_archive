@@ -148,6 +148,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId: 561052
   start: 2026-10-02T10:25:00Z
   stop: 2026-10-02T11:10:00Z
@@ -157,6 +159,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 561053
   start: 2026-10-02T11:10:00Z
   stop: 2026-10-02T12:00:00Z
@@ -166,6 +169,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId: 548158
   start: 2026-10-02T12:00:00Z
   stop: 2026-10-02T12:30:00Z
@@ -195,12 +199,15 @@
 - eventId: 548161
   start: 2026-10-02T13:10:00Z
   stop: 2026-10-02T14:00:00Z
-  title: WaPo Bodensee
+  title: WaPo Bodensee (18)
   subtitle: Morgenlicht
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId: 548162
   start: 2026-10-02T14:00:00Z
   stop: 2026-10-02T14:15:00Z
@@ -354,6 +361,9 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Die Puhdys
+  genre:
+  - '97'
 - eventId: 619434
   start: 2026-10-02T23:15:00Z
   stop: 2026-10-03T01:15:00Z
