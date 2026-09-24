@@ -385,6 +385,7 @@
   - 1180008
   - 1180841
   - 1181055
+  - 1181592
   start: 2026-09-25T04:26:00Z
   stop: 2026-09-25T04:56:00Z
   title: Otvoreno
@@ -393,14 +394,6 @@
   genre:
   - '160'
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
-- eventId: 1181592
-  start: 2026-09-25T04:26:00Z
-  stop: 2026-09-25T04:55:00Z
-  title: Otvoreno
-  subtitle: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
-  ageRating: 4
-  genre:
-  - '160'
 - eventId:
   - 1161607
   - 1162155
@@ -1093,7 +1086,9 @@
   genre:
   - '160'
   description: Emisija donosi aktualnosti, nova znanstvena otkrića, zanimljivosti iz životinjskog i biljnog svijeta te društvene fenomene. Zavirit ćemo u sve kutke Zemlje, a nećemo zaboraviti ni ostatak svemira. Donosimo ozbiljnu, ali i onu ležerniju, zabavnu stranu znanosti.
-- eventId: 1131608
+- eventId:
+  - 1131608
+  - 1181594
   start: 2026-09-25T20:15:00Z
   stop: 2026-09-25T20:45:00Z
   title: Priče iz Hrvatske
@@ -1102,14 +1097,6 @@
   genre:
   - '128'
   description: Emisija donosi priloge o ljudima, njihovim interesima, podvizima i inspirativnim životnim trenucima. Kroz intimne i poticajne priče otkriva bogatstvo svakodnevice koje se često izgubi u buci dana.
-- eventId: 1181594
-  start: 2026-09-25T20:15:00Z
-  stop: 2026-09-25T20:44:00Z
-  title: Priče iz Hrvatske
-  subtitle: Emisija donosi priloge o ljudima, njihovim interesima, podvizima i inspirativnim životnim trenucima. Kroz intimne i poticajne priče otkriva bogatstvo svakodnevice koje se često izgubi u buci dana.
-  ageRating: 4
-  genre:
-  - '128'
 - eventId: 1181433
   start: 2026-09-25T20:16:00Z
   stop: 2026-09-25T20:44:00Z
@@ -1133,7 +1120,7 @@
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
 - eventId: 1181595
   start: 2026-09-25T20:45:00Z
-  stop: 2026-09-25T21:06:00Z
+  stop: 2026-09-25T21:07:00Z
   title: Sportske minute
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
