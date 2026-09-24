@@ -636,7 +636,9 @@
     HD-Produktion
   hd: true
   audiodesc: true
-- eventId: 1189899
+- eventId:
+  - 1189899
+  - 1190177
   start: 2026-09-24T22:35:00Z
   stop: 2026-09-24T22:50:00Z
   title: heute journal update
@@ -652,6 +654,8 @@
   genre:
   - '32'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 566641
   - 598787
