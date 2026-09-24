@@ -360,7 +360,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1180058
+- eventId:
+  - 1180058
+  - 1180373
   start: 2026-09-24T09:00:00Z
   stop: 2026-09-24T09:59:00Z
   title: Studio ČT24
@@ -415,6 +417,7 @@
   hd: true
 - eventId:
   - 1180260
+  - 1180391
   - 949058
   - 958270
   start: 2026-09-24T10:33:00Z
@@ -444,6 +447,7 @@
   widescreen: true
 - eventId:
   - 1180261
+  - 1180392
   - 949059
   - 958271
   start: 2026-09-24T11:00:00Z
@@ -469,7 +473,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 1180262
+- eventId:
+  - 1180262
+  - 1180393
   start: 2026-09-24T11:03:00Z
   stop: 2026-09-24T11:29:50Z
   title: Studio ČT24
@@ -508,7 +514,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 1180263
+- eventId:
+  - 1180263
+  - 1180394
   start: 2026-09-24T11:29:50Z
   stop: 2026-09-24T11:32:50Z
   title: Zprávy
@@ -532,7 +540,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1180264
+- eventId:
+  - 1180264
+  - 1180395
   start: 2026-09-24T11:32:50Z
   stop: 2026-09-24T12:00:00Z
   title: Studio ČT24
@@ -625,6 +635,17 @@
   genre:
   - '35'
   widescreen: true
+- eventId: 1180396
+  start: 2026-09-24T12:05:00Z
+  stop: 2026-09-24T12:31:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Sněmovna o zmrazení platů vrcholných politiků, NRR o udržitelnosti veřejných financí, Policie kontroluje kamiony.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 949065
   - 958388
@@ -639,6 +660,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1180420
+  start: 2026-09-24T12:31:00Z
+  stop: 2026-09-24T12:36:55Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 949066
   - 958389
@@ -654,6 +685,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1180421
+  start: 2026-09-24T12:36:55Z
+  stop: 2026-09-24T13:00:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: LIVE TK prezidenta Petra Pavla během návštěvy v Nebrasce, Kampaň: Normální řízení zabíjí, Školení volebních komisařů v Ostravě.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 949067
   - 958390
