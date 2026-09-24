@@ -415,7 +415,7 @@
   - 1181432
   - 1183371
   start: 2026-09-25T04:55:00Z
-  stop: 2026-09-25T04:58:00Z
+  stop: 2026-09-25T05:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -459,7 +459,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 1131537
   start: 2026-09-25T05:10:00Z
-  stop: 2026-09-25T05:14:00Z
+  stop: 2026-09-25T05:15:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
@@ -481,6 +481,7 @@
   - 1187474
   - 1187651
   - 1187918
+  - 1188699
   start: 2026-09-25T05:15:00Z
   stop: 2026-09-25T05:22:00Z
   title: Vijesti iz kulture
@@ -500,7 +501,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1131539
   start: 2026-09-25T05:22:00Z
-  stop: 2026-09-25T05:24:00Z
+  stop: 2026-09-25T05:23:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -513,6 +514,7 @@
   - 1187475
   - 1187652
   - 1187919
+  - 1188700
   start: 2026-09-25T05:23:00Z
   stop: 2026-09-25T05:24:00Z
   title: Vrijeme Europa danas
@@ -717,6 +719,7 @@
   - 1187659
   - 1187920
   - 1188004
+  - 1188701
   start: 2026-09-25T11:48:00Z
   stop: 2026-09-25T11:56:00Z
   title: 'Studio 4: Znanost'
@@ -732,6 +735,7 @@
   - 1187660
   - 1187921
   - 1188005
+  - 1188702
   start: 2026-09-25T11:56:00Z
   stop: 2026-09-25T12:00:00Z
   title: Bez komentara
@@ -945,6 +949,7 @@
   - 1187661
   - 1187922
   - 1188006
+  - 1188703
   start: 2026-09-25T15:11:00Z
   stop: 2026-09-25T15:12:00Z
   title: Vrijeme RH danas
@@ -969,6 +974,7 @@
   - 1187662
   - 1187923
   - 1188007
+  - 1188704
   start: 2026-09-25T15:13:00Z
   stop: 2026-09-25T15:15:00Z
   title: Vrijeme Svijet danas
@@ -1038,6 +1044,7 @@
   - 1187663
   - 1187924
   - 1188008
+  - 1188705
   start: 2026-09-25T15:48:00Z
   stop: 2026-09-25T15:57:00Z
   title: 'Studio 4: Sport'
@@ -1062,6 +1069,7 @@
   - 1187664
   - 1187925
   - 1188009
+  - 1188706
   start: 2026-09-25T15:57:00Z
   stop: 2026-09-25T16:00:00Z
   title: Bez komentara
@@ -1079,7 +1087,17 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 1131592
+- eventId: 1188707
+  start: 2026-09-25T16:00:00Z
+  stop: 2026-09-25T16:21:00Z
+  title: Sportske minute
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 1131592
+  - 1188708
   start: 2026-09-25T16:22:00Z
   stop: 2026-09-25T16:30:00Z
   title: 'Studio 4: Kultura'
@@ -1097,7 +1115,17 @@
   genre:
   - '32'
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 1131594
+- eventId: 1188709
+  start: 2026-09-25T16:30:00Z
+  stop: 2026-09-25T16:52:00Z
+  title: Regionalni dnevnik
+  subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId:
+  - 1131594
+  - 1188710
   start: 2026-09-25T16:53:00Z
   stop: 2026-09-25T16:54:00Z
   title: Vrijeme RH sutra
@@ -1214,7 +1242,9 @@
   genre:
   - '160'
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
-- eventId: 1131607
+- eventId:
+  - 1131607
+  - 1188711
   start: 2026-09-25T19:45:00Z
   stop: 2026-09-25T20:15:00Z
   title: Svijet znanosti
@@ -1232,6 +1262,7 @@
   - 1187038
   - 1187665
   - 1187926
+  - 1188712
   start: 2026-09-25T20:15:00Z
   stop: 2026-09-25T20:45:00Z
   title: Priče iz Hrvatske
@@ -1291,20 +1322,12 @@
   - 1184173
   - 1185649
   - 1187039
+  - 1187483
   - 1187666
   - 1187927
-  start: 2026-09-25T20:45:00Z
-  stop: 2026-09-25T21:07:00Z
-  title: Sportske minute
-  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId:
-  - 1187483
   - 1188011
   start: 2026-09-25T20:45:00Z
-  stop: 2026-09-25T21:06:00Z
+  stop: 2026-09-25T21:07:00Z
   title: Sportske minute
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
@@ -1402,6 +1425,7 @@
   - 1187668
   - 1187929
   - 1188013
+  - 1188713
   start: 2026-09-25T21:57:00Z
   stop: 2026-09-25T22:00:00Z
   title: Bez komentara

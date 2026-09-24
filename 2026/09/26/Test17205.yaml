@@ -121,7 +121,7 @@
   hd: true
 - eventId: 1155530
   start: 2026-09-26T04:25:00Z
-  stop: 2026-09-26T04:40:00Z
+  stop: 2026-09-26T05:00:00Z
   title: Couleurs locales
   description: (Rediffusion)
   genre:
@@ -140,7 +140,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1024525
+- eventId:
+  - 1024525
+  - 1188552
   start: 2026-09-26T05:00:00Z
   stop: 2026-09-26T07:00:00Z
   title: RTS Info
@@ -254,6 +256,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1188599
+  start: 2026-09-26T14:05:00Z
+  stop: 2026-09-26T15:10:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1035287
   start: 2026-09-26T15:10:00Z
   stop: 2026-09-26T16:00:00Z
@@ -277,7 +290,7 @@
   hd: true
 - eventId: 1035292
   start: 2026-09-26T18:15:00Z
-  stop: 2026-09-26T21:10:00Z
+  stop: 2026-09-26T21:11:00Z
   title: Football
   subtitle: UEFA Nations League
   description: En direct. Macédoine du Nord - Suisse 1e journée En direct de Skopje (MKD)
@@ -313,6 +326,33 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1188619
+  start: 2026-09-26T21:16:00Z
+  stop: 2026-09-26T21:17:00Z
+  title: PMU
+  widescreen: true
+  hd: true
+- eventId: 1188620
+  start: 2026-09-26T21:17:00Z
+  stop: 2026-09-26T21:20:00Z
+  title: Zap RTS Sport
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1188621
+  start: 2026-09-26T21:20:00Z
+  stop: 2026-09-26T22:10:00Z
+  title: Documentaires
+  description: |-
+    Dirty Dancing, comédie romantique engagée Doc Portrait Dirty Dancing est bien plus qu'un film, c'est une véritable icône de la pop culture. Sa bande originale, ses chorégraphies inoubliables et son histoire d'amour estivale nourrissent l'imaginaire collectif depuis sa sortie en 1987. Pourtant, derrière son charme irrésistible se cache une prise de position politique audacieuse, trop souvent oubliée, sur le droit à l'avortement et l'émancipation des femmes.
+     (France-2026)
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1039142
   start: 2026-09-26T22:10:00Z
   stop: 2026-09-26T23:30:00Z
@@ -325,8 +365,30 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1188622
+  start: 2026-09-26T22:15:00Z
+  stop: 2026-09-26T23:40:00Z
+  title: Documentaires
+  description: |-
+    Lil'Buck Real Swan Doc Portrait Lil' Buck, jeune prodige de la street dance de Memphis baptisée "jookin'" est rapidement devenu l'un des meilleurs danseurs de la ville avant de décider de prendre des cours de ballet. De cette alchimie va naître un mythe, celui d'un virtuose défiant la gravité, réconciliant deux styles et s'imposant comme une référence pour des artistes comme Yo-Yo Ma, Benjamin Millepied, Spike Jonze ou encore Madonna.
+     (France-2019)
+  genre:
+  - '50'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1039143
   start: 2026-09-26T23:30:00Z
+  stop: 2026-09-27T00:05:00Z
+  title: 19h30 - Signé
+  description: '"Langue des signes"'
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1188623
+  start: 2026-09-26T23:40:00Z
   stop: 2026-09-27T00:05:00Z
   title: 19h30 - Signé
   description: '"Langue des signes"'
