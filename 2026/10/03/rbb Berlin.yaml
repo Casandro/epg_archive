@@ -1,4 +1,6 @@
-- eventId: 1186464
+- eventId:
+  - 1186464
+  - 1186958
   start: 2026-10-03T00:15:00Z
   stop: 2026-10-03T01:05:00Z
   title: Mord mit Aussicht (13)
@@ -8,7 +10,12 @@
   genre:
   - '16'
   subtitled: true
-- eventId: 1186465
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1186465
+  - 1186959
   start: 2026-10-03T01:05:00Z
   stop: 2026-10-03T01:55:00Z
   title: Mord mit Aussicht (14)
@@ -18,6 +25,9 @@
   genre:
   - '16'
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 618771
   - 826968
@@ -33,13 +43,19 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 1186466
+- eventId:
+  - 1186466
+  - 1186960
   start: 2026-10-03T01:55:00Z
   stop: 2026-10-03T02:25:00Z
   title: rbbKultur
   subtitle: Ein Dorf im Techno-Fieber
   episodeUri: crid://onid-8468/e/6ab52bbf154534f4084eb795
   ageRating: 6
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 618772
   - 826969
@@ -55,12 +71,20 @@
   audiodesc: true
   genre:
   - '16'
-- eventId: 1186467
+- eventId:
+  - 1186467
+  - 1186961
   start: 2026-10-03T02:25:00Z
   stop: 2026-10-03T02:40:00Z
   title: Unterwegs in Frankfurt/Oder
   episodeUri: crid://onid-8468/e/6ab52bbf154534f4084eb793
-- eventId: 1186468
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1186468
+  - 1186962
   start: 2026-10-03T02:40:00Z
   stop: 2026-10-03T03:10:00Z
   title: rbb Gartenzeit
@@ -68,6 +92,10 @@
   episodeUri: crid://onid-8468/e/6a8a1ee6769542e5e86c640a
   genre:
   - '144'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 618773
   - 826970
@@ -82,11 +110,17 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1186563
+- eventId:
+  - 1186563
+  - 1186968
   start: 2026-10-03T03:10:00Z
   stop: 2026-10-03T03:25:00Z
   title: Berliner Nächte - Herbst
   episodeUri: crid://onid-8468/e/6a8a1ee6769542e5e86c6408
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 618806
   - 827144
