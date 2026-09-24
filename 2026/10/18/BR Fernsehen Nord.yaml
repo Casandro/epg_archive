@@ -44,14 +44,16 @@
   audiodesc: true
 - eventId: 1073687
   start: 2026-10-18T03:50:00Z
-  stop: 2026-10-18T04:30:00Z
+  stop: 2026-10-18T04:00:00Z
   title: Space Night
   subtitle: Flight through the Skies
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1073688
+- eventId:
+  - 1073688
+  - 1169138
   start: 2026-10-18T04:00:00Z
   stop: 2026-10-18T04:30:00Z
   title: Gesundheit!
@@ -140,6 +142,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: '... durch die Woche mit Christoph Süß'
 - eventId: 1073746
   start: 2026-10-18T10:45:00Z
   stop: 2026-10-18T11:15:00Z
