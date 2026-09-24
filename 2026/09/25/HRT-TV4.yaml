@@ -1089,7 +1089,7 @@
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
 - eventId: 1188707
   start: 2026-09-25T16:00:00Z
-  stop: 2026-09-25T16:21:00Z
+  stop: 2026-09-25T16:22:00Z
   title: Sportske minute
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
@@ -1106,7 +1106,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 1131593
+- eventId:
+  - 1131593
+  - 1188709
   start: 2026-09-25T16:30:00Z
   stop: 2026-09-25T16:53:00Z
   title: Regionalni dnevnik
@@ -1115,14 +1117,6 @@
   genre:
   - '32'
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 1188709
-  start: 2026-09-25T16:30:00Z
-  stop: 2026-09-25T16:52:00Z
-  title: Regionalni dnevnik
-  subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-  ageRating: 4
-  genre:
-  - '32'
 - eventId:
   - 1131594
   - 1188710
