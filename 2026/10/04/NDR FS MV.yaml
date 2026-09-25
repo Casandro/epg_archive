@@ -78,6 +78,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId: 651651
   start: 2026-10-04T04:55:00Z
   stop: 2026-10-04T05:10:00Z
@@ -87,11 +89,13 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId: 651652
   start: 2026-10-04T05:10:00Z
   stop: 2026-10-04T05:55:00Z
   title: Giora Feidman - Seele der Klarinette
-  subtitle: DE 2026
+  subtitle: Deutschland 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -99,12 +103,14 @@
 - eventId: 651653
   start: 2026-10-04T05:55:00Z
   stop: 2026-10-04T07:00:00Z
-  title: Klassik-Matinée
+  title: 'Klassik-Matinée: Lobgesang'
   subtitle: 'Mendelssohn: Sinfonie Nr. 2 "Lobgesang"'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId: 651689
   start: 2026-10-04T07:00:00Z
   stop: 2026-10-04T07:30:00Z
@@ -164,15 +170,20 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId: 651718
   start: 2026-10-04T10:10:00Z
   stop: 2026-10-04T11:40:00Z
   title: Was heißt hier Oma!
-  subtitle: DE 2007
+  subtitle: Fernsehfilm Deutschland 2007
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId: 651719
   start: 2026-10-04T11:40:00Z
   stop: 2026-10-04T12:25:00Z
@@ -209,6 +220,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '165'
 - eventId: 651745
   start: 2026-10-04T14:30:00Z
   stop: 2026-10-04T15:00:00Z
@@ -243,6 +256,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Christoph Kramer, TV-Experte, Podcaster und Autor
 - eventId: 663625
   start: 2026-10-04T17:30:00Z
   stop: 2026-10-04T18:00:00Z
@@ -276,6 +290,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: 'Moderation: Kai Pflaume'
 - eventId: 651798
   start: 2026-10-04T20:45:00Z
   stop: 2026-10-04T21:30:00Z
@@ -297,7 +312,7 @@
   start: 2026-10-04T22:00:00Z
   stop: 2026-10-04T22:50:00Z
   title: Quizduell Olymp
-  subtitle: Quizduell-Olymp
+  subtitle: 'Moderation: Esther Sedlaczek'
   widescreen: true
   subtitled: true
   hd: true
