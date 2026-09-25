@@ -2181,14 +2181,16 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 1131617
   start: 2026-09-25T22:10:00Z
-  stop: 2026-09-25T22:20:00Z
+  stop: 2026-09-25T22:17:00Z
   title: Vijesti iz kulture
   subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   ageRating: 4
   genre:
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 1131618
+- eventId:
+  - 1131618
+  - 1221877
   start: 2026-09-25T22:17:00Z
   stop: 2026-09-25T22:40:00Z
   title: Potrošački kod
@@ -2218,6 +2220,7 @@
 - eventId:
   - 1131619
   - 1220942
+  - 1221878
   start: 2026-09-25T22:42:00Z
   stop: 2026-09-25T23:05:00Z
   title: Regionalni dnevnik
@@ -2232,7 +2235,9 @@
   title: Regionalni dnevnik
   subtitle: ' '
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 1131620
+- eventId:
+  - 1131620
+  - 1221879
   start: 2026-09-25T23:05:00Z
   stop: 2026-09-25T23:58:00Z
   title: Dnevnik 2
@@ -2266,7 +2271,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1131622
   start: 2026-09-25T23:59:00Z
-  stop: 2026-09-26T00:01:00Z
+  stop: 2026-09-26T00:00:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
