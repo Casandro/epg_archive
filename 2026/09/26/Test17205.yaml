@@ -121,7 +121,7 @@
   hd: true
 - eventId: 1155530
   start: 2026-09-26T04:25:00Z
-  stop: 2026-09-26T05:00:00Z
+  stop: 2026-09-26T04:40:00Z
   title: Couleurs locales
   description: (Rediffusion)
   genre:
@@ -129,7 +129,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1155531
+- eventId:
+  - 1155531
+  - 1197717
   start: 2026-09-26T04:40:00Z
   stop: 2026-09-26T07:00:00Z
   title: RTS Info
