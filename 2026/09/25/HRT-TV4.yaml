@@ -2048,6 +2048,7 @@
   - 1207724
   - 1208851
   - 1210885
+  - 1220938
   start: 2026-09-25T21:07:00Z
   stop: 2026-09-25T21:10:00Z
   title: Bez komentara
@@ -2067,7 +2068,7 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 1131612
   start: 2026-09-25T21:20:00Z
-  stop: 2026-09-25T21:29:00Z
+  stop: 2026-09-25T21:30:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -2080,7 +2081,9 @@
   title: 'Studio 4: Jutarnji intervju'
   subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 1131613
+- eventId:
+  - 1131613
+  - 1220939
   start: 2026-09-25T21:30:00Z
   stop: 2026-09-25T21:50:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -2098,6 +2101,14 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1220940
+  start: 2026-09-25T21:50:00Z
+  stop: 2026-09-25T21:55:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1220827
   start: 2026-09-25T21:51:00Z
   stop: 2026-09-25T21:57:00Z
@@ -2117,6 +2128,7 @@
   - 1189632
   - 1190625
   - 1194903
+  - 1220941
   start: 2026-09-25T21:55:00Z
   stop: 2026-09-25T22:00:00Z
   title: Bez komentara
@@ -2195,7 +2207,9 @@
   title: Regionalni dnevnik
   subtitle: ' '
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 1131619
+- eventId:
+  - 1131619
+  - 1220942
   start: 2026-09-25T22:42:00Z
   stop: 2026-09-25T23:05:00Z
   title: Regionalni dnevnik
@@ -2219,7 +2233,9 @@
   title: Vrijeme RH danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 1131621
+- eventId:
+  - 1131621
+  - 1220943
   start: 2026-09-25T23:58:00Z
   stop: 2026-09-25T23:59:00Z
   title: Vrijeme RH danas
