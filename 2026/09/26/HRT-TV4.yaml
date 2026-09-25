@@ -271,7 +271,7 @@
   - '32'
 - eventId: 1132905
   start: 2026-09-26T04:18:00Z
-  stop: 2026-09-26T04:26:00Z
+  stop: 2026-09-26T04:27:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   description: Kratki pregled aktualnosti iz svijeta znanosti.
@@ -344,11 +344,15 @@
   - 1205032
   - 1207725
   - 1208852
+  - 1210886
   start: 2026-09-26T04:27:00Z
   stop: 2026-09-26T04:30:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1181438
   - 1183701
@@ -985,6 +989,7 @@
 - eventId:
   - 1167575
   - 1209156
+  - 1210933
   start: 2026-09-26T14:55:00Z
   stop: 2026-09-26T15:20:00Z
   title: Druga strana
@@ -1002,6 +1007,7 @@
 - eventId:
   - 1167576
   - 1209157
+  - 1210934
   start: 2026-09-26T15:20:00Z
   stop: 2026-09-26T16:00:00Z
   title: Globalna Hrvatska
@@ -1019,6 +1025,7 @@
 - eventId:
   - 1167577
   - 1209158
+  - 1210935
   start: 2026-09-26T16:00:00Z
   stop: 2026-09-26T16:20:00Z
   title: 'Studio 4: U fokusu'
@@ -1042,7 +1049,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1209159
+- eventId:
+  - 1209159
+  - 1210936
   start: 2026-09-26T16:20:00Z
   stop: 2026-09-26T16:27:00Z
   title: '#REPORTAŽE'
@@ -1065,6 +1074,7 @@
 - eventId:
   - 1167579
   - 1209160
+  - 1210937
   start: 2026-09-26T16:27:00Z
   stop: 2026-09-26T16:30:00Z
   title: Bez komentara
@@ -1157,6 +1167,7 @@
 - eventId:
   - 1167589
   - 1209161
+  - 1210938
   start: 2026-09-26T17:59:00Z
   stop: 2026-09-26T18:00:00Z
   title: HAK - promet info
@@ -1246,6 +1257,7 @@
 - eventId:
   - 1167598
   - 1209162
+  - 1210939
   start: 2026-09-26T20:45:00Z
   stop: 2026-09-26T20:48:00Z
   title: Bez komentara
@@ -1314,6 +1326,7 @@
 - eventId:
   - 1167604
   - 1209163
+  - 1210940
   start: 2026-09-26T21:57:00Z
   stop: 2026-09-26T22:00:00Z
   title: Bez komentara
