@@ -445,7 +445,7 @@
   - 565986
   - 596687
   start: 2026-09-25T15:10:00Z
-  stop: 2026-09-25T16:00:00Z
+  stop: 2026-09-25T16:10:00Z
   title: hallo deutschland
   genre:
   - '32'
@@ -489,7 +489,9 @@
     HD-Produktion
   hd: true
   audiodesc: true
-- eventId: 1202804
+- eventId:
+  - 1202804
+  - 1202820
   start: 2026-09-25T16:10:00Z
   stop: 2026-09-25T17:00:00Z
   title: SOKO Linz
@@ -516,6 +518,8 @@
   - '17'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 565988
   - 596689
