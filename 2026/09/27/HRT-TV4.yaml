@@ -27,14 +27,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1193497
   start: 2026-09-27T00:04:00Z
-  stop: 2026-09-27T00:08:00Z
+  stop: 2026-09-27T00:07:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1193498
+- eventId:
+  - 1193498
+  - 1209164
   start: 2026-09-27T00:07:00Z
   stop: 2026-09-27T00:27:00Z
   title: 'Studio 4: Intervju'
@@ -58,6 +60,14 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1209165
+  start: 2026-09-27T00:27:00Z
+  stop: 2026-09-27T00:32:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1208862
   start: 2026-09-27T00:28:00Z
   stop: 2026-09-27T00:32:00Z
@@ -147,7 +157,7 @@
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
 - eventId: 1193509
   start: 2026-09-27T01:50:00Z
-  stop: 2026-09-27T01:53:00Z
+  stop: 2026-09-27T01:55:00Z
   title: '#REPORTAŽE: Najstariji student'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
@@ -160,7 +170,9 @@
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1193510
+- eventId:
+  - 1193510
+  - 1209166
   start: 2026-09-27T01:55:00Z
   stop: 2026-09-27T01:58:00Z
   title: Bez komentara
@@ -306,7 +318,7 @@
   description: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
 - eventId: 1193528
   start: 2026-09-27T04:56:00Z
-  stop: 2026-09-27T04:58:00Z
+  stop: 2026-09-27T05:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
