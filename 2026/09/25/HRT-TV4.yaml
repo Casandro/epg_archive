@@ -2162,7 +2162,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1220828
+- eventId:
+  - 1220828
+  - 1221723
   start: 2026-09-25T21:57:00Z
   stop: 2026-09-25T22:00:00Z
   title: 'Bez komentara: Tihi ocean - Zrakoplov "Lovci na uragane" snimio središte uragana Polo'
@@ -2179,7 +2181,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 1131617
   start: 2026-09-25T22:10:00Z
-  stop: 2026-09-25T22:17:00Z
+  stop: 2026-09-25T22:20:00Z
   title: Vijesti iz kulture
   subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   ageRating: 4
@@ -2194,6 +2196,12 @@
   ageRating: 4
   genre:
   - '160'
+  description: 'Ovaj tjedan obilježile su više cijene goriva koje vrijede do utorka. Koliko dugo država može amortizirati energetski udar i hoće li energenti biti još skuplji? Kako se formira cijena za gorivo i možemo li neovisno o krizi imati dovoljno zaliha za iduće mjesece? Na koji način vozači mogu uštedjeti? Gosti: Marijan Krpan, predsjednik Uprave Agencije za ugljikovodike; Ivan Brodić, analitičar za energetiku'
+- eventId: 1221724
+  start: 2026-09-25T22:20:00Z
+  stop: 2026-09-25T22:40:00Z
+  title: Potrošački kod
+  subtitle: ' '
   description: 'Ovaj tjedan obilježile su više cijene goriva koje vrijede do utorka. Koliko dugo država može amortizirati energetski udar i hoće li energenti biti još skuplji? Kako se formira cijena za gorivo i možemo li neovisno o krizi imati dovoljno zaliha za iduće mjesece? Na koji način vozači mogu uštedjeti? Gosti: Marijan Krpan, predsjednik Uprave Agencije za ugljikovodike; Ivan Brodić, analitičar za energetiku'
 - eventId: 1220829
   start: 2026-09-25T22:40:00Z
@@ -2218,6 +2226,12 @@
   genre:
   - '32'
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+- eventId: 1221725
+  start: 2026-09-25T22:43:00Z
+  stop: 2026-09-25T23:05:00Z
+  title: Regionalni dnevnik
+  subtitle: ' '
+  description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
 - eventId: 1131620
   start: 2026-09-25T23:05:00Z
   stop: 2026-09-25T23:58:00Z
@@ -2226,6 +2240,12 @@
   ageRating: 4
   genre:
   - '32'
+  description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
+- eventId: 1221726
+  start: 2026-09-25T23:07:00Z
+  stop: 2026-09-25T23:58:00Z
+  title: Dnevnik 2
+  subtitle: ' '
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
 - eventId: 1220831
   start: 2026-09-25T23:57:00Z
@@ -2246,10 +2266,10 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1131622
   start: 2026-09-25T23:59:00Z
-  stop: 2026-09-26T00:00:00Z
+  stop: 2026-09-26T00:01:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
-  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
