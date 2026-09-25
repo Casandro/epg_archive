@@ -663,7 +663,9 @@
     HD-Produktion
   hd: true
   audiodesc: true
-- eventId: 1204197
+- eventId:
+  - 1204197
+  - 1204460
   start: 2026-09-25T08:16:00Z
   stop: 2026-09-25T08:58:00Z
   title: 'Hoch hinaus II: Die Jägerin aus Leidenschaft -'
@@ -677,9 +679,11 @@
   - '112'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 1204198
   start: 2026-09-25T08:58:00Z
-  stop: 2026-09-25T09:15:00Z
+  stop: 2026-09-25T09:16:00Z
   title: 'Streifzug durch die Schönheit Istriens: Pula und Rovinj'
   genre:
   - '32'
