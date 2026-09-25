@@ -688,6 +688,15 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 1204840
+  start: 2026-09-25T08:58:00Z
+  stop: 2026-09-25T09:15:00Z
+  title: 'Streifzug durch die Schönheit Istriens: Pula und Rovinj'
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId: 1204120
   start: 2026-09-25T09:00:00Z
   stop: 2026-09-25T09:15:00Z
@@ -731,7 +740,9 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 1204199
+- eventId:
+  - 1204199
+  - 1204844
   start: 2026-09-25T09:16:00Z
   stop: 2026-09-25T09:46:00Z
   title: 'Donat auf Achse: Von 9/11, Gott und ungewollter'
@@ -745,6 +756,8 @@
   genre:
   - '112'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 548981
   - 597988
@@ -836,7 +849,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1204200
+- eventId:
+  - 1204200
+  - 1204845
   start: 2026-09-25T11:05:00Z
   stop: 2026-09-25T11:32:00Z
   title: 37°Leben
@@ -851,6 +866,8 @@
   - '112'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 548983
   - 597990
