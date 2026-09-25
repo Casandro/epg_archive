@@ -196,6 +196,14 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 1197024
+  start: 2026-09-25T06:04:00Z
+  stop: 2026-09-25T06:30:00Z
+  title: Superknjiga
+  subtitle: Kada Ela postane preopterećena s previše obaveza koje ima i ne zna kako se nositi s njima, Superknjiga odvodi djecu u Babilon u 6. st. pr. Kr. kako bi naučila riješiti njen problem.
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 1028521
   start: 2026-09-25T06:29:00Z
   stop: 2026-09-25T07:00:00Z
@@ -212,7 +220,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1194911
+- eventId:
+  - 1194911
+  - 1197025
   start: 2026-09-25T06:31:00Z
   stop: 2026-09-25T07:00:00Z
   title: Moje vrijeme s Isusom
@@ -230,7 +240,7 @@
   - '160'
 - eventId: 1028523
   start: 2026-09-25T07:10:00Z
-  stop: 2026-09-25T08:01:00Z
+  stop: 2026-09-25T08:00:00Z
   title: Dudo i prijatelji, talk-show
   subtitle: Još kao dijete, današnji gost započeo je svoju sportsku priču u streljačkom klubu u rodnom Bjelovaru. Već nakon prvog hica bilo je jasno - pred njim je put ispisan zlatnim slovima.
   description: Još kao dijete, današnji gost započeo je svoju sportsku priču u streljačkom klubu u rodnom Bjelovaru. Već nakon prvog hica bilo je jasno - pred njim je put ispisan zlatnim slovima. U drugom razredu srednje škole postao je član Hrvatske streljačke reprezentacije, a samo nekoliko godina kasnije - okitio se i olimpijskom medaljom. Gost emisije Dudo i prijatelji je jedan od najperspektivnijih mladih hrvatskih sportaša, precizan, smiren i nepokolebljiv - Miran Maričić.
@@ -260,6 +270,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1197026
+  start: 2026-09-25T08:01:00Z
+  stop: 2026-09-25T08:50:00Z
+  title: Susret u Riječi
+  subtitle: Vladimir Sokol hrvatski je arheolog, muzeolog i istraživač srednjovjekovne i antičke baštine.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1028525
   start: 2026-09-25T08:12:00Z
   stop: 2026-09-25T09:04:00Z
@@ -275,7 +293,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1194913
+- eventId:
+  - 1194913
+  - 1197027
   start: 2026-09-25T08:51:00Z
   stop: 2026-09-25T09:37:00Z
   title: Postani velik pred Bogom
@@ -295,7 +315,9 @@
   title: ZANAS - Kruna
   subtitle: Pjesma "Kruna" u izvedbi hrvatskog kršćanskog glazbenog dua ZANAS.
   ageRating: 4
-- eventId: 1194915
+- eventId:
+  - 1194915
+  - 1197028
   start: 2026-09-25T09:39:00Z
   stop: 2026-09-25T10:32:00Z
   title: Papino apostolsko putovanje u Francusku
@@ -323,7 +345,9 @@
   title: odaziv
   subtitle: Magazin
   description: 'Propitujemo ljudski koncept zasluge pred Božjom upornošću i milošću. Ljudsko se društvo temelji na strogoj računici: više rada mora značiti više novca, a veći trud donosi veća prava. Međutim, Isus ruši ovaj okvir. Što ima prednost - pravda ili milosrđe? Što evanđelje govori poslodavcima, a što radnicima? Pratimo nedjeljnu Riječ Božju. Gost i stručni suradnik u emisiji je vlč. Odilon Singbo.'
-- eventId: 1194916
+- eventId:
+  - 1194916
+  - 1197029
   start: 2026-09-25T10:32:00Z
   stop: 2026-09-25T10:36:00Z
   title: Đuro Ravenšćak feat. fra Marin Karačić - Vrati me
@@ -335,7 +359,9 @@
   title: Božja pobjeda - Put stvara
   subtitle: Božja pobjeda - Put stvara.
   ageRating: 4
-- eventId: 1194918
+- eventId:
+  - 1194918
+  - 1197030
   start: 2026-09-25T10:39:00Z
   stop: 2026-09-25T11:43:00Z
   title: Odaziv
@@ -400,7 +426,9 @@
   title: Božja pobjeda - Kao ruža
   subtitle: Poslušajte pjesmu 'Kao ruža' u izvedbi omiljene grupe Božja pobjeda.
   ageRating: 4
-- eventId: 1196571
+- eventId:
+  - 1196571
+  - 1197031
   start: 2026-09-25T12:39:00Z
   stop: 2026-09-25T14:33:00Z
   title: Papino apostolsko putovanje u Francusku
@@ -441,13 +469,17 @@
   title: Tolkien
   subtitle: Dokumentarni
   description: 'Tolkien''s The Lord of the Rings: A Catholic Worldview'
-- eventId: 1196572
+- eventId:
+  - 1196572
+  - 1197032
   start: 2026-09-25T14:33:00Z
   stop: 2026-09-25T14:39:00Z
   title: Amorose - Blagoslov
   subtitle: Amorose - Blagoslov.
   ageRating: 4
-- eventId: 1196573
+- eventId:
+  - 1196573
+  - 1197033
   start: 2026-09-25T14:39:00Z
   stop: 2026-09-25T15:15:00Z
   title: Život na stijeni
@@ -487,19 +519,25 @@
   description: |-
     Vodimo vas u obilazak paviljona Svete Stolice na Venecijanskom bijenalu.
     Razgovaramo o ulozi Vatikana na ovoj izložbi s pročelnikom Dikasterija za kulturu i obrazovanje i posjećujemo povijesnu zgradu, Veliku bratovštinu sv. Roka - znamenitost koja simbolizira dobrotvornost i umjetnički sjaj.
-- eventId: 1196575
+- eventId:
+  - 1196575
+  - 1197034
   start: 2026-09-25T16:17:00Z
   stop: 2026-09-25T16:23:00Z
   title: Beatus - Isuse ja vjerujem
   subtitle: Zbor Beatus iz župe Svete Obitelji u Zagrebu donosi pjesmu 'Isuse ja vjerujem'.
   ageRating: 4
-- eventId: 1196576
+- eventId:
+  - 1196576
+  - 1197035
   start: 2026-09-25T16:23:00Z
   stop: 2026-09-25T16:29:00Z
   title: Filip Panza - Ime dostojno
   subtitle: Filip Panza - Ime dostojno.
   ageRating: 4
-- eventId: 1196577
+- eventId:
+  - 1196577
+  - 1197036
   start: 2026-09-25T16:29:00Z
   stop: 2026-09-25T17:37:00Z
   title: 'Krunica i sveta Misa: Sinj'
@@ -561,7 +599,9 @@
   title: Sestre Palić - Sad blagoslivljaj
   subtitle: Sestre Palić - Sad blagoslivljaj.
   ageRating: 4
-- eventId: 1196579
+- eventId:
+  - 1196579
+  - 1197037
   start: 2026-09-25T18:59:00Z
   stop: 2026-09-25T20:33:00Z
   title: Papino apostolsko putovanje u Francusku
@@ -594,13 +634,17 @@
   title: Božanstvena komedija
   subtitle: Religijski
   description: Prema riječima pape Franje ekologija je briga za zajednički dom. Ekološka kriza i dalje ne jenjava, a glad za novcem je sve jača od gladi za dobrom. Što papina enciklika  Laudato si , koja poziva na 'ekološko obraćenje', donosi novo u pristupu ekologiji? Tko je u središtu kršćanskog pristupa ekologiji? Saznajemo koji su najaktualniji problemi u Hrvatskoj. Kako uopće osvijestiti ljude o tim problemima? Dobivamo odgovor na najvažniju dilemu, koja je razlika između smeća i otpada? Na sva ova pitanja i još mnogo drugi dobivamo odgovore stručnog gosta emisije.
-- eventId: 1196580
+- eventId:
+  - 1196580
+  - 1197038
   start: 2026-09-25T20:33:00Z
   stop: 2026-09-25T20:39:00Z
   title: MZ Kraljica apostola - Bogu reci da, kao Marija
   subtitle: Uživajte u pjesmi 'Bogu reci da, kao Marija' koju izvodi MZ Kraljica apostola.
   ageRating: 4
-- eventId: 1196440
+- eventId:
+  - 1196440
+  - 1197039
   start: 2026-09-25T20:39:00Z
   stop: 2026-09-25T20:58:00Z
   title: Egzamen - ispit svjesnosti
@@ -618,7 +662,7 @@
   - '160'
 - eventId: 1182989
   start: 2026-09-25T20:58:00Z
-  stop: 2026-09-25T21:26:00Z
+  stop: 2026-09-25T21:24:00Z
   title: Najveći dar, Najveći dar
   subtitle: U "Najvećem daru" i dalje govorimo o nastavku euharistijske molitve. Vlč.
   ageRating: 4
@@ -642,7 +686,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1196441
+- eventId:
+  - 1196441
+  - 1197040
   start: 2026-09-25T21:26:00Z
   stop: 2026-09-25T21:31:00Z
   title: Stihom kroz dušu
@@ -681,7 +727,9 @@
   genre:
   - '160'
   description: Molimo zajedno molitvu Krunice Blažene Djevice Marije.
-- eventId: 1196442
+- eventId:
+  - 1196442
+  - 1197041
   start: 2026-09-25T21:32:00Z
   stop: 2026-09-25T21:56:00Z
   title: Krunica
@@ -689,7 +737,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1196443
+- eventId:
+  - 1196443
+  - 1197042
   start: 2026-09-25T21:56:00Z
   stop: 2026-09-25T22:02:00Z
   title: Klapa sv. Juraj HRM - Majko ljubeznjiva
