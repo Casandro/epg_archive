@@ -27,7 +27,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1193497
   start: 2026-09-27T00:04:00Z
-  stop: 2026-09-27T00:07:00Z
+  stop: 2026-09-27T00:08:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -71,11 +71,15 @@
   - 1220847
   - 1221746
   - 1222561
+  - 1226507
   start: 2026-09-27T00:08:00Z
   stop: 2026-09-27T00:27:00Z
   title: 'Studio 4: Intervju'
-  subtitle: ' '
+  subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1193499
   start: 2026-09-27T00:27:00Z
   stop: 2026-09-27T00:32:00Z
@@ -119,6 +123,14 @@
   title: '#REPORTAŽE: Drvo'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1226508
+  start: 2026-09-27T00:28:00Z
+  stop: 2026-09-27T00:32:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1193500
   start: 2026-09-27T00:32:00Z
   stop: 2026-09-27T00:50:00Z
@@ -202,7 +214,7 @@
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
 - eventId: 1193509
   start: 2026-09-27T01:50:00Z
-  stop: 2026-09-27T01:55:00Z
+  stop: 2026-09-27T01:53:00Z
   title: '#REPORTAŽE: Najstariji student'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
@@ -220,11 +232,15 @@
   - 1220849
   - 1221748
   - 1222563
+  - 1226509
   start: 2026-09-27T01:53:00Z
   stop: 2026-09-27T01:58:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1193510
   - 1209166
@@ -980,16 +996,16 @@
   start: 2026-09-27T14:25:00Z
   stop: 2026-09-27T14:50:00Z
   title: Potrošački kod
-  subtitle: Tjedna emisija namijenjena potrošačima. Otkriva probleme s kojima se svakodnevno susreću pri kupnji robe i usluga, donosi savjete i upute.
+  subtitle: Ovaj tjedan obilježile su više cijene goriva koje vrijede do utorka. Koliko dugo država može amortizirati energetski udar i hoće li energenti biti još skuplji?
   ageRating: 4
   genre:
   - '160'
   description: 'Ovaj tjedan obilježile su više cijene goriva koje vrijede do utorka. Koliko dugo država može amortizirati energetski udar i hoće li energenti biti još skuplji? Kako se formira cijena za gorivo i možemo li neovisno o krizi imati dovoljno zaliha za iduće mjesece? Na koji način vozači mogu uštedjeti? Gosti: Marijan Krpan, predsjednik Uprave Agencije za ugljikovodike; Ivan Brodić, analitičar za energetiku'
 - eventId: 1193595
   start: 2026-09-27T14:50:00Z
-  stop: 2026-09-27T15:35:00Z
+  stop: 2026-09-27T15:33:00Z
   title: Prizma - multinacionalni magazin
-  subtitle: Multinacionalni magazin, donosi aktualnosti o manjinama i ljudskim pravima.
+  subtitle: Jesu li manjine zadovoljne zastupljenošću u programima HRT-a? Kako je obilježen Dan rumunjskog jezika u Zagrebu?
   ageRating: 4
   genre:
   - '160'
@@ -1004,6 +1020,14 @@
   title: 'DW: Global Us'
   subtitle: ' '
   description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
+- eventId: 1226510
+  start: 2026-09-27T15:33:00Z
+  stop: 2026-09-27T15:59:00Z
+  title: Global 3000
+  subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1193598
   start: 2026-09-27T15:35:00Z
   stop: 2026-09-27T16:01:00Z
@@ -1034,6 +1058,14 @@
   title: 'Romano Bolković - 1 na 1: Davor Ivo Stier, talk show'
   subtitle: ' '
   description: S gostom Davorom Ivom Stierom razgovaramo o Srbiji nakon pogreba Ratka Mladića, političkoj ulozi Srpske pravoslavne crkve, odnosima Beograda s Moskvom, Pekingom i Parizom te o tome može li Srbija doista napredovati prema članstvu u Europskoj uniji bez jasnog geopolitičkog opredjeljenja. Razgovaramo i o Kosovu, Crnoj Gori i vjerodostojnosti politike proširenja, ali i o pitanju može li se Europska unija dalje širiti bez promjene vlastitog načina odlučivanja. U širem europskom kontekstu govorimo o ratu u Ukrajini, budućem odnosu Europe i Rusije, mogućoj novoj sigurnosnoj arhitekturi kontinenta, ulozi Britanije i Kanade, odnosu Europske unije i NATO-a te o tome što bi europska strateška autonomija zapravo trebala značiti. Otvaramo i pitanje ubrzanog europskog naoružavanja, nove vojne uloge Njemačke, odnosa Europe prema Sjedinjenim Državama i Kini te, na kraju, mjesta Hrvatske u Europi koja se politički i sigurnosno iznova oblikuje. Davor Ivo Stier je hrvatski europarlamentarni zastupnik (HDZ) u trenutačnom sazivu Europskog parlamenta, izabran na tu dužnost do 2029. godine. Rođen je 6. siječnja 1972. u Buenos Airesu (Argentina). Završio je studij političkih znanosti i međunarodnih odnosa na Papinskom katoličkom sveučilištu Argentina, a potom i Diplomatsku akademiju u Zagrebu te je 1996. primljen u hrvatsku diplomatsku službu. Radio je na završetku pregovora za punopravno članstvo RH u Sjevernoatlantskom savezu i Europskoj uniji i od 2016. do 2017. bio potpredsjednik Vlade i ministar vanjskih i europskih poslova.
+- eventId: 1226511
+  start: 2026-09-27T15:59:00Z
+  stop: 2026-09-27T16:49:00Z
+  title: Romano Bolković - 1 na 1
+  subtitle: S gostom Davorom Ivom Stierom razgovaramo o Srbiji nakon pogreba Ratka Mladića, političkoj ulozi Srpske pravoslavne crkve, odnosima Beograda s Moskvom, Pekingom i Parizom te o tome može li Srbija.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1193599
   start: 2026-09-27T16:01:00Z
   stop: 2026-09-27T16:51:00Z
@@ -1059,11 +1091,15 @@
   - 1216488
   - 1216988
   - 1219801
+  - 1226512
   start: 2026-09-27T16:49:00Z
   stop: 2026-09-27T16:53:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1193600
   - 1216705
@@ -1153,7 +1189,7 @@
   start: 2026-09-27T18:00:00Z
   stop: 2026-09-27T19:00:00Z
   title: Nedjeljom u 2
-  subtitle: Tjedna emisija u kojoj urednik razgovara s gostom iz svijeta politike, znanosti, kulture i gospodarstva.
+  subtitle: Tema emisije su vitalni umirovljnici. Može li starost biti dostojanstvena i lijepa, kako se nositi s odlascima najdražih ljudi, te što nam je najvažnije u trećem životnom dobu neke su od tema emisije.
   description: Tjedna emisija u kojoj urednik razgovara s gostom iz svijeta politike, znanosti, kulture i gospodarstva.
   ageRating: 4
   genre:
@@ -1196,10 +1232,18 @@
   - '160'
 - eventId: 1193615
   start: 2026-09-27T21:03:00Z
-  stop: 2026-09-27T21:10:00Z
+  stop: 2026-09-27T21:08:00Z
   title: '#REPORTAŽE: Obroci za pet eura'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1226513
+  start: 2026-09-27T21:08:00Z
+  stop: 2026-09-27T21:10:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
@@ -1232,10 +1276,18 @@
   - '160'
 - eventId: 1193619
   start: 2026-09-27T21:50:00Z
-  stop: 2026-09-27T21:57:00Z
+  stop: 2026-09-27T21:55:00Z
   title: '#REPORTAŽE: Dizajneri'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1226514
+  start: 2026-09-27T21:55:00Z
+  stop: 2026-09-27T22:00:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
@@ -1281,6 +1333,14 @@
   title: Dnevnik 2
   subtitle: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a.
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 1226515
+  start: 2026-09-27T23:08:00Z
+  stop: 2026-09-28T00:00:00Z
+  title: Dnevnik 2
+  subtitle: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a.
   ageRating: 4
   genre:
   - '32'
