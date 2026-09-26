@@ -752,7 +752,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1247853
+- eventId:
+  - 1247853
+  - 1248196
   start: 2026-09-26T14:02:58Z
   stop: 2026-09-26T15:00:00Z
   title: Studio ČT24
@@ -762,6 +764,7 @@
     Skryté titulky
   genre:
   - '35'
+  widescreen: true
 - eventId:
   - 1016267
   - 1017778
@@ -880,6 +883,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1248203
+  start: 2026-09-26T16:28:00Z
+  stop: 2026-09-26T16:55:00Z
+  title: Interview ČT24
+  subtitle: 'Host: Jan Vlasák, herec. Moderuje: Tereza Willoughby.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1016273
   - 1017784
