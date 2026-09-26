@@ -364,7 +364,7 @@
   hd: true
 - eventId: 1035292
   start: 2026-09-26T18:15:00Z
-  stop: 2026-09-26T21:11:00Z
+  stop: 2026-09-26T21:09:00Z
   title: Football
   subtitle: UEFA Nations League
   description: En direct. Macédoine du Nord - Suisse 1e journée En direct de Skopje (MKD)
@@ -373,11 +373,26 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1251642
+  start: 2026-09-26T21:09:00Z
+  stop: 2026-09-26T21:10:00Z
+  title: PMU
+  widescreen: true
+  hd: true
 - eventId: 1039139
   start: 2026-09-26T21:10:00Z
   stop: 2026-09-26T21:11:00Z
   title: PMU
   widescreen: true
+  hd: true
+- eventId: 1251643
+  start: 2026-09-26T21:10:00Z
+  stop: 2026-09-26T21:15:00Z
+  title: Zap RTS Sport
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 1039140
   start: 2026-09-26T21:11:00Z
@@ -388,7 +403,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1039141
+- eventId:
+  - 1039141
+  - 1251644
   start: 2026-09-26T21:15:00Z
   stop: 2026-09-26T22:10:00Z
   title: Documentaires
@@ -427,7 +444,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1039142
+- eventId:
+  - 1039142
+  - 1251645
   start: 2026-09-26T22:10:00Z
   stop: 2026-09-26T23:30:00Z
   title: Documentaires
@@ -451,7 +470,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1039143
+- eventId:
+  - 1039143
+  - 1251646
   start: 2026-09-26T23:30:00Z
   stop: 2026-09-27T00:05:00Z
   title: 19h30 - Signé
