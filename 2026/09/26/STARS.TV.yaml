@@ -10,9 +10,21 @@
   ageRating: 12
   genre:
   - '96'
+- eventId: 1233213
+  start: 2026-09-26T01:00:00Z
+  stop: 2026-09-26T04:00:00Z
+  title: Best polish
+  subtitle: Program prezentuje zestawienie najlepszych przebojów w wykonaniu artystów i zespołów polskiej sceny muzycznej.
+  description: |
+    Tytuł oryginalny: Best polish
+    PL, 2026
+  ageRating: 12
+  genre:
+  - '96'
 - eventId:
   - 1019636
   - 1229068
+  - 1233182
   start: 2026-09-26T04:00:00Z
   stop: 2026-09-26T05:00:00Z
   title: Best polish
@@ -128,7 +140,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 1174304
+- eventId:
+  - 1174304
+  - 1233181
   start: 2026-09-26T17:00:00Z
   stop: 2026-09-26T20:00:00Z
   title: Top 100 | Polskie party
@@ -149,7 +163,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 1174305
+- eventId:
+  - 1174305
+  - 1233214
   start: 2026-09-26T20:00:00Z
   stop: 2026-09-26T22:00:00Z
   title: Top 100 | Polskie party
