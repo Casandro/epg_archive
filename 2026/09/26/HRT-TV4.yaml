@@ -855,7 +855,7 @@
   - '160'
 - eventId: 1167533
   start: 2026-09-26T08:42:00Z
-  stop: 2026-09-26T08:46:00Z
+  stop: 2026-09-26T08:47:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
@@ -889,6 +889,7 @@
   - 1237261
   - 1237950
   - 1238949
+  - 1239812
   start: 2026-09-26T08:47:00Z
   stop: 2026-09-26T08:55:00Z
   title: 'Studio 4: Znanost'
@@ -924,6 +925,7 @@
   - 1237262
   - 1237951
   - 1238950
+  - 1239813
   start: 2026-09-26T08:55:00Z
   stop: 2026-09-26T09:00:00Z
   title: Bez komentara
@@ -1373,7 +1375,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1238951
+- eventId:
+  - 1238951
+  - 1239814
   start: 2026-09-26T15:21:00Z
   stop: 2026-09-26T16:00:00Z
   title: Globalna Hrvatska
@@ -1431,7 +1435,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1238952
+- eventId:
+  - 1238952
+  - 1239815
   start: 2026-09-26T16:01:00Z
   stop: 2026-09-26T16:20:00Z
   title: 'Studio 4: U fokusu'
@@ -1494,6 +1500,7 @@
   - 1237265
   - 1237954
   - 1238953
+  - 1239816
   start: 2026-09-26T16:21:00Z
   stop: 2026-09-26T16:26:00Z
   title: '#REPORTAŽE'
@@ -1570,7 +1577,7 @@
   - '32'
 - eventId: 1167583
   start: 2026-09-26T16:54:00Z
-  stop: 2026-09-26T16:56:00Z
+  stop: 2026-09-26T16:55:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
@@ -1597,6 +1604,7 @@
   - 1237266
   - 1237955
   - 1238954
+  - 1239817
   start: 2026-09-26T16:55:00Z
   stop: 2026-09-26T17:00:00Z
   title: Vrijeme Svijet sutra
@@ -1754,6 +1762,7 @@
   - 1237267
   - 1237956
   - 1238955
+  - 1239818
   start: 2026-09-26T20:11:00Z
   stop: 2026-09-26T20:16:00Z
   title: Bez komentara
