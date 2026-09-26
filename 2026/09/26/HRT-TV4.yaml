@@ -1183,14 +1183,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1167557
   start: 2026-09-26T12:30:00Z
-  stop: 2026-09-26T12:34:00Z
+  stop: 2026-09-26T12:31:00Z
   title: 'Bez komentara: Francuska - Posjet pape Lava XIV.'
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
-- eventId: 1167558
+- eventId:
+  - 1167558
+  - 1243796
   start: 2026-09-26T12:31:00Z
   stop: 2026-09-26T12:33:00Z
   title: Vrijeme Europa danas
@@ -1208,13 +1210,23 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 1243797
+  start: 2026-09-26T12:33:00Z
+  stop: 2026-09-26T12:35:00Z
+  title: Vrijeme Svijet danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 1242848
   start: 2026-09-26T12:34:00Z
   stop: 2026-09-26T12:55:00Z
   title: Studio 4
   subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 1167560
+- eventId:
+  - 1167560
+  - 1243798
   start: 2026-09-26T12:35:00Z
   stop: 2026-09-26T12:55:00Z
   title: Studio 4
@@ -1447,7 +1459,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1241259
+- eventId:
+  - 1241259
+  - 1243799
   start: 2026-09-26T15:21:00Z
   stop: 2026-09-26T16:00:00Z
   title: Globalna Hrvatska
@@ -1513,7 +1527,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1241260
+- eventId:
+  - 1241260
+  - 1243800
   start: 2026-09-26T16:01:00Z
   stop: 2026-09-26T16:20:00Z
   title: 'Studio 4: U fokusu'
@@ -1584,6 +1600,7 @@
   - 1240233
   - 1240581
   - 1241261
+  - 1243801
   start: 2026-09-26T16:21:00Z
   stop: 2026-09-26T16:26:00Z
   title: '#REPORTAŽE'
@@ -1660,7 +1677,7 @@
   - '32'
 - eventId: 1167583
   start: 2026-09-26T16:54:00Z
-  stop: 2026-09-26T16:56:00Z
+  stop: 2026-09-26T16:55:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
@@ -1691,6 +1708,7 @@
   - 1240234
   - 1240582
   - 1241262
+  - 1243802
   start: 2026-09-26T16:55:00Z
   stop: 2026-09-26T17:00:00Z
   title: Vrijeme Svijet sutra
@@ -1739,6 +1757,7 @@
   - 1167586
   - 1240583
   - 1241263
+  - 1243803
   start: 2026-09-26T17:53:00Z
   stop: 2026-09-26T17:54:00Z
   title: Vrijeme RH sutra
@@ -1758,7 +1777,7 @@
   - '32'
 - eventId: 1167588
   start: 2026-09-26T17:55:00Z
-  stop: 2026-09-26T17:59:00Z
+  stop: 2026-09-26T18:00:00Z
   title: Vrijeme svijet sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
@@ -1790,7 +1809,7 @@
   - '160'
 - eventId: 1167590
   start: 2026-09-26T18:00:00Z
-  stop: 2026-09-26T18:04:00Z
+  stop: 2026-09-26T18:01:00Z
   title: HAK - promet info
   subtitle: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
   description: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
@@ -1820,6 +1839,7 @@
 - eventId:
   - 1240584
   - 1241264
+  - 1243804
   start: 2026-09-26T18:01:00Z
   stop: 2026-09-26T18:05:00Z
   title: '#REPORTAŽE'
@@ -1840,6 +1860,7 @@
   - 1167591
   - 1240585
   - 1241265
+  - 1243805
   start: 2026-09-26T18:05:00Z
   stop: 2026-09-26T18:45:00Z
   title: Intervju tjedna
@@ -1897,6 +1918,7 @@
   - 1240235
   - 1240586
   - 1241266
+  - 1243806
   start: 2026-09-26T20:11:00Z
   stop: 2026-09-26T20:16:00Z
   title: Bez komentara
