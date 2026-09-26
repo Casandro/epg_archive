@@ -273,14 +273,16 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 1224761
   start: 2026-09-28T04:18:00Z
-  stop: 2026-09-28T04:27:00Z
+  stop: 2026-09-28T04:26:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 1224762
+- eventId:
+  - 1224762
+  - 1256849
   start: 2026-09-28T04:26:00Z
   stop: 2026-09-28T04:56:00Z
   title: 'Rijeka: More'
@@ -304,6 +306,14 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 1256850
+  start: 2026-09-28T04:56:00Z
+  stop: 2026-09-28T05:00:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1256780
   start: 2026-09-28T04:57:00Z
   stop: 2026-09-28T05:00:00Z
