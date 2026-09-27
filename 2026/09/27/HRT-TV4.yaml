@@ -2011,7 +2011,7 @@
   - '32'
 - eventId: 1193618
   start: 2026-09-27T21:30:00Z
-  stop: 2026-09-27T21:52:00Z
+  stop: 2026-09-27T21:50:00Z
   title: 'Studio 4: Jutarnji intervju'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -2033,6 +2033,7 @@
   - 1277406
   - 1282877
   - 1285049
+  - 1287676
   start: 2026-09-27T21:50:00Z
   stop: 2026-09-27T21:55:00Z
   title: '#REPORTAŽE'
@@ -2061,6 +2062,7 @@
   - 1277407
   - 1282878
   - 1285050
+  - 1287677
   start: 2026-09-27T21:55:00Z
   stop: 2026-09-27T22:00:00Z
   title: Bez komentara
@@ -2104,14 +2106,16 @@
   - '32'
 - eventId: 1193622
   start: 2026-09-27T22:10:00Z
-  stop: 2026-09-27T22:18:00Z
+  stop: 2026-09-27T22:17:00Z
   title: Vijesti iz kulture
   subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   ageRating: 4
   genre:
   - '160'
-- eventId: 1193623
+- eventId:
+  - 1193623
+  - 1287678
   start: 2026-09-27T22:17:00Z
   stop: 2026-09-27T23:08:00Z
   title: Plodovi zemlje
@@ -2135,7 +2139,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1226515
+- eventId:
+  - 1226515
+  - 1287679
   start: 2026-09-27T23:08:00Z
   stop: 2026-09-28T00:00:00Z
   title: Dnevnik 2
