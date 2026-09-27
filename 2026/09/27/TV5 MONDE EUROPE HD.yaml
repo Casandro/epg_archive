@@ -515,7 +515,9 @@
   title: 'FRANC-JEU -27/09/2026 '
   subtitle: ' '
   ageRating: 7
-- eventId: 1282536
+- eventId:
+  - 1282536
+  - 1283413
   start: 2026-09-27T15:01:00Z
   stop: 2026-09-27T15:42:00Z
   title: FRANC-JEU
@@ -539,11 +541,13 @@
   ageRating: 7
 - eventId: 1212165
   start: 2026-09-27T15:42:00Z
-  stop: 2026-09-27T15:55:00Z
+  stop: 2026-09-27T15:54:00Z
   title: 'L''Europe et les États-Unis : quelle dépendance ? '
   subtitle: 'Aujourd''hui, plus de la moitié des satellites opérationnels gravitant autour de la Terre sont la propriété d''un individu : Elon Mu '
   description: "L'Europe et les États-Unis : quelle dépendance ?\n\nAujourd'hui, plus de la moitié des satellites opérationnels gravitant autour de la Terre sont la propriété d'un individu : Elon Musk, via Starlink. Une situation qui illustre la dépendance européenne vis-à-vis des États-Unis. De ses infrastructures numériques à sa défense, l'Europe doit désormais repenser sa souveraineté. Tour d'horizon.\n\nPrésentation : Émilie Aubry\n "
   ageRating: 7
+  genre:
+  - '127'
 - eventId: 1046715
   start: 2026-09-27T15:55:00Z
   stop: 2026-09-27T16:00:00Z
