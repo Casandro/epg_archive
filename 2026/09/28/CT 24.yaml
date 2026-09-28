@@ -362,7 +362,7 @@
   - 1075772
   - 1078551
   start: 2026-09-28T09:00:00Z
-  stop: 2026-09-28T09:05:05Z
+  stop: 2026-09-28T09:03:00Z
   title: Zprávy
   description: |-
     HDTV
@@ -375,6 +375,7 @@
 - eventId:
   - 1075773
   - 1078552
+  - 1303283
   start: 2026-09-28T09:03:00Z
   stop: 2026-09-28T10:00:00Z
   title: Studio ČT24
@@ -432,7 +433,7 @@
   - 1075776
   - 1078555
   start: 2026-09-28T11:00:00Z
-  stop: 2026-09-28T11:03:00Z
+  stop: 2026-09-28T11:05:05Z
   title: Zprávy
   description: |-
     HDTV
@@ -445,6 +446,7 @@
 - eventId:
   - 1075777
   - 1078556
+  - 1303448
   start: 2026-09-28T11:03:00Z
   stop: 2026-09-28T12:00:00Z
   title: Studio ČT24
@@ -457,7 +459,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1303080
+- eventId:
+  - 1303080
+  - 1303284
   start: 2026-09-28T11:05:05Z
   stop: 2026-09-28T12:00:00Z
   title: Studio ČT24
