@@ -58,7 +58,7 @@
 - eventId: 708938
   start: 2026-10-06T04:00:00Z
   stop: 2026-10-06T04:20:00Z
-  title: Sesamstraße
+  title: Sesamstraße (2982)
   genre:
   - '16'
   widescreen: true
@@ -77,7 +77,7 @@
   start: 2026-10-06T04:35:00Z
   stop: 2026-10-06T05:20:00Z
   title: Markt
-  subtitle: 'Moderation: Jo Hiller'
+  subtitle: Wie gesund ist der Nuss-Snack?
   widescreen: true
   subtitled: true
   hd: true
@@ -166,6 +166,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId: 709114
   start: 2026-10-06T11:10:00Z
   stop: 2026-10-06T12:00:00Z
@@ -175,6 +176,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId: 709129
   start: 2026-10-06T12:00:00Z
   stop: 2026-10-06T13:00:00Z
@@ -183,6 +185,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '162'
 - eventId: 709130
   start: 2026-10-06T13:00:00Z
   stop: 2026-10-06T13:10:00Z
@@ -194,12 +198,15 @@
 - eventId: 709131
   start: 2026-10-06T13:10:00Z
   stop: 2026-10-06T14:00:00Z
-  title: WaPo Bodensee
+  title: WaPo Bodensee (20)
   subtitle: Abgetaucht
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId: 709132
   start: 2026-10-06T14:00:00Z
   stop: 2026-10-06T14:15:00Z
@@ -211,8 +218,8 @@
 - eventId: 709133
   start: 2026-10-06T14:15:00Z
   stop: 2026-10-06T15:00:00Z
-  title: Wer weiß denn sowas?
-  subtitle: 'Moderation: Kai Pflaume'
+  title: Wer weiß denn sowas? (1152)
+  subtitle: 'Gäste: Lea Wagner und Wolff-Christoph Fuss'
   widescreen: true
   subtitled: true
   hd: true
@@ -229,7 +236,7 @@
   start: 2026-10-06T15:10:00Z
   stop: 2026-10-06T16:00:00Z
   title: Leopard, Seebär & Co. (87)
-  subtitle: Ein Pflegekind für Volker Friedrich
+  subtitle: Geschichten aus dem Tierpark Hagenbeck in Hamburg
   widescreen: true
   subtitled: true
   hd: true
@@ -330,13 +337,14 @@
   start: 2026-10-06T20:00:00Z
   stop: 2026-10-06T21:30:00Z
   title: 'Tatort: Spur des Blutes'
-  subtitle: Spielfilm
+  subtitle: Fernsehfilm Deutschland 2022
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId: 709208
   start: 2026-10-06T21:30:00Z
   stop: 2026-10-06T22:00:00Z
@@ -358,10 +366,11 @@
   start: 2026-10-06T23:30:00Z
   stop: 2026-10-07T01:00:00Z
   title: 'Tatort: Spur des Blutes'
-  subtitle: Spielfilm
+  subtitle: Fernsehfilm Deutschland 2022
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
