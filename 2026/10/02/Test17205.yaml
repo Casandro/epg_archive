@@ -105,7 +105,7 @@
   start: 2026-10-02T10:20:00Z
   stop: 2026-10-02T11:15:00Z
   title: Mise au point
-  description: (Suisse Romande-2026)
+  description: "(Suisse Romande-2026)  - Retards sur le rail Alors que plusieurs tronçons romands sont saturés, et que l'argent tarde pour développer la ligne Lausanne-Genève, des voix s'élèvent contre le tunnel ferroviaire du Grimsel. Le projet, déclaré prioritaire, est pourtant sévèrement critiqué par le contrôle fédéral des finances, reportage. \n - En Suisse, on n'a jamais mangé autant de poulet 16,5 kg par personne chaque année. Ça représente une augmentation de 83% en 25 ans, alors que la consommation de toutes les autres viandes stagnent ou baissent. Un succès qui s'explique par son prix abordable et par la mode du fameux (ou pas) poulet croustillant.\n - Glacier : ne me quitte pas Il a rejoint les dizaines de glaciers suisses disparus, l'été caniculaire a eu raison du glacier de Bella Tolla. Des disparitions qui pèsent lourd sur le moral de ceux qui vivent dans les montagnes valaisannes, même si sous la glace, d'autres perspectives s'ouvrent, reportage."
   genre:
   - '128'
   widescreen: true
@@ -144,11 +144,15 @@
   start: 2026-10-02T12:25:00Z
   stop: 2026-10-02T13:10:00Z
   title: Temps présent
-  description: Les gourous de l'argent facile De Lausanne à Miami, en passant par Dubaï, ils s'affichent dans des appartements de luxe et des bolides à plusieurs centaines de milliers de francs. Ils affirment que faire fortune est un jeu d'enfant et proposent de partager avec vous la méthode qui vous rendra riche en quelques mois. Or, même dans le monde de l'argent facile, rien n'est gratuit. Surtout pas leurs prétendus secrets. Enquête sur les influenceurs du fric et leurs promesses onéreuses.  (Suisse Romande-2026)
+  description: |-
+    Les gourous de l'argent facile De Lausanne à Miami, en passant par Dubaï, ils s'affichent dans des appartements de luxe et des bolides à plusieurs centaines de milliers de francs. Ils affirment que faire fortune est un jeu d'enfant et proposent de partager avec vous la méthode qui vous rendra riche en quelques mois. Or, même dans le monde de l'argent facile, rien n'est gratuit. Surtout pas leurs prétendus secrets. Enquête sur les influenceurs du fric et leurs promesses onéreuses.
+
+    Un reportage d'Anastase Liaros (Suisse Romande-2026)
   genre:
   - '128'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 1213619
   start: 2026-10-02T13:10:00Z
   stop: 2026-10-02T13:55:00Z
@@ -172,6 +176,7 @@
   - '128'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 1221142
   start: 2026-10-02T14:45:00Z
   stop: 2026-10-02T15:05:00Z
@@ -249,8 +254,29 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1307116
+  start: 2026-10-02T18:15:00Z
+  stop: 2026-10-02T18:30:00Z
+  title: Adrénaline
+  subtitle: Magazine de sports extrêmes
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1221195
   start: 2026-10-02T18:30:00Z
+  stop: 2026-10-02T20:38:00Z
+  title: Football
+  subtitle: UEFA Nations League
+  description: En direct. France - Italie 3e journée En direct de Saint-Denis (FRA)
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1307117
+  start: 2026-10-02T18:35:00Z
   stop: 2026-10-02T20:38:00Z
   title: Football
   subtitle: UEFA Nations League
@@ -274,6 +300,7 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 1221198
   start: 2026-10-02T20:50:00Z
   stop: 2026-10-02T22:40:00Z
