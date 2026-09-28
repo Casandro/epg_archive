@@ -7,7 +7,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 1289897
+- eventId:
+  - 1289897
+  - 1310253
   start: 2026-09-30T00:02:00Z
   stop: 2026-09-30T00:05:00Z
   title: Bez komentara
@@ -16,7 +18,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1289898
+- eventId:
+  - 1289898
+  - 1310254
   start: 2026-09-30T00:05:00Z
   stop: 2026-09-30T00:25:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -34,6 +38,14 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1310255
+  start: 2026-09-30T00:25:00Z
+  stop: 2026-09-30T00:30:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1289900
   start: 2026-09-30T00:30:00Z
   stop: 2026-09-30T00:53:00Z
@@ -124,7 +136,9 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 1289910
+- eventId:
+  - 1289910
+  - 1310256
   start: 2026-09-30T01:54:00Z
   stop: 2026-09-30T01:58:00Z
   title: Bez komentara
@@ -178,7 +192,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 1289916
+- eventId:
+  - 1289916
+  - 1310257
   start: 2026-09-30T03:54:00Z
   stop: 2026-09-30T03:55:00Z
   title: Vrijeme Europa danas
@@ -196,7 +212,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 1289918
+- eventId:
+  - 1289918
+  - 1310258
   start: 2026-09-30T03:57:00Z
   stop: 2026-09-30T04:00:00Z
   title: Bez komentara

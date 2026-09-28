@@ -767,6 +767,14 @@
   - '33'
   widescreen: true
   hd: true
+- eventId: 1310325
+  start: 2026-09-28T17:50:05Z
+  stop: 2026-09-28T17:52:00Z
+  title: Počasí v letoviscích
+  description: HDTV
+  genre:
+  - '33'
+  widescreen: true
 - eventId:
   - 1075792
   - 1078571
@@ -811,6 +819,18 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 1310348
+  start: 2026-09-28T18:05:08Z
+  stop: 2026-09-28T18:32:47Z
+  title: 'Galerie Selfie: Tomáš Kačo a Pokáč'
+  subtitle: Portréty inspirativních osobností. Narodil se v Novém Jičíně jako čtvrté z dvanácti dětí. Tomáš Kačo miloval muziku a když chtěl odejít studovat konzervatoř do Ostravy, rodičům připadalo,
+  description: |-
+    že to je moc daleko. Prosadil si svou, pak vystudoval ještě AMU v Praze a Berklee College of Music v Bostonu. Pokáč (neboli Jan Pokorný) vystudoval softwarové inženýrství na ČVUT, měl pracovní nabídku ze zahraničí, ale dal přednost skládání písniček. Tomáš koncertoval v Carnegie Hall, Pokáč dvakrát vyprodal O2 Arénu.
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 1075794
   - 1078573
@@ -828,6 +848,17 @@
   hd: true
 - eventId: 1309955
   start: 2026-09-28T18:32:42Z
+  stop: 2026-09-28T19:00:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 1310349
+  start: 2026-09-28T18:32:47Z
   stop: 2026-09-28T19:00:00Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
@@ -924,12 +955,14 @@
   subtitle: Profilový rozhovor s významnou osobností, která má co říci k aktuálnímu dění v ČR nebo ve světě.
   description: |-
     HDTV
+    Zvukový popis
     Skryté titulky
   genre:
   - '35'
   widescreen: true
   subtitled: true
   hd: true
+  audiodesc: true
 - eventId:
   - 1075801
   - 1078587
