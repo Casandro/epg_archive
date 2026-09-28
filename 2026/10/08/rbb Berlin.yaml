@@ -101,6 +101,7 @@
   widescreen: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 768921
   - 977445
@@ -113,6 +114,7 @@
   widescreen: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 768922
   - 977446
@@ -180,13 +182,15 @@
   widescreen: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 768980
   - 977523
   start: 2026-10-08T12:30:00Z
   stop: 2026-10-08T14:00:00Z
   title: Der zweite Frühling
-  subtitle: Spielfilm Deutschland 2003
+  subtitle: Fernsehfilm Deutschland 2003
   episodeUri: crid://onid-8468/e/6a90b66c166400f5462ec579
   genre:
   - '16'
@@ -217,6 +221,7 @@
   widescreen: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 769008
   - 977642
@@ -304,7 +309,7 @@
   start: 2026-10-08T18:15:00Z
   stop: 2026-10-08T20:00:00Z
   title: Hannah Arendt
-  subtitle: Spielfilm Deutschland/Frankreich 2012
+  subtitle: Spielfilm Deutschland/Frankreich/Israel/Luxemburg 2012
   episodeUri: crid://onid-8468/e/6a90b66c166400f5462ec567
   ageRating: 6
   genre:
@@ -337,6 +342,8 @@
   widescreen: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 769082
   - 977942
