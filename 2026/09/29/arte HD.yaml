@@ -23,6 +23,7 @@
   - 1297116
   - 1298591
   - 1299288
+  - 1301288
   start: 2026-09-29T00:20:00Z
   stop: 2026-09-29T01:15:00Z
   title: Die Sprache der Vögel
@@ -56,6 +57,7 @@
   - 1297117
   - 1298592
   - 1299289
+  - 1301289
   - 569320
   start: 2026-09-29T01:15:00Z
   stop: 2026-09-29T01:40:00Z
@@ -90,6 +92,7 @@
   - 1297118
   - 1298593
   - 1299290
+  - 1301290
   - 569321
   start: 2026-09-29T01:40:00Z
   stop: 2026-09-29T01:55:00Z
@@ -123,6 +126,7 @@
   - 1297119
   - 1298594
   - 1299291
+  - 1301291
   - 569322
   start: 2026-09-29T01:55:00Z
   stop: 2026-09-29T03:20:00Z
@@ -157,6 +161,7 @@
   - 1297120
   - 1298608
   - 1299292
+  - 1301258
   - 569459
   start: 2026-09-29T03:20:00Z
   stop: 2026-09-29T04:50:00Z
@@ -172,7 +177,9 @@
   stop: 2026-09-30T03:55:00Z
   title: ARTE
   description: 'El canal de televisiðn cultural. '
-- eventId: 569460
+- eventId:
+  - 1301259
+  - 569460
   start: 2026-09-29T04:50:00Z
   stop: 2026-09-29T05:20:00Z
   title: Küchen der Welt
@@ -185,7 +192,9 @@
     * Mehr als ein Reiskuchen: der Uánn-kué aus Taiwan
     * Kulinarische Mitbringsel
     * Ran an die Töpfe!
-- eventId: 569461
+- eventId:
+  - 1301260
+  - 569461
   start: 2026-09-29T05:20:00Z
   stop: 2026-09-29T06:05:00Z
   title: Stadt Land Kunst
@@ -195,7 +204,9 @@
   hd: true
   audiodesc: true
   description: "* Madrid: Carlos Giménez stellt sich den Geistern des Franquismus\n* Quebec: Die Atikamekw              \n* La Réunion: Nativs kreolisches Fisch-Cari              \n* Indien: Die Farbe Khaki"
-- eventId: 569483
+- eventId:
+  - 1301261
+  - 569483
   start: 2026-09-29T06:05:00Z
   stop: 2026-09-29T06:55:00Z
   title: Stadt Land Kunst
@@ -210,7 +221,9 @@
     * Madagaskar: In Antsiranana ist Träumen erlaubt
     * Frankreich: Gabys Limousin-Pastete
     * Kyoto: Japans Amazone
-- eventId: 569484
+- eventId:
+  - 1301262
+  - 569484
   start: 2026-09-29T06:55:00Z
   stop: 2026-09-29T08:25:00Z
   title: Die Freiheitsstatue
@@ -220,7 +233,9 @@
   hd: true
   audiodesc: true
   description: Die Freiheitsstatue ist eines der bekanntesten Wahrzeichen der USA. Entworfen wurde sie jedoch vom französischen Künstler Frédéric-Auguste Bartholdi. Frankreich machte sie den Amerikanern im Zeichen der republikanischen Ideale des 19. Jahrhunderts und des Kampfes gegen die Unterdrückung zum Geschenk.
-- eventId: 569485
+- eventId:
+  - 1301263
+  - 569485
   start: 2026-09-29T08:25:00Z
   stop: 2026-09-29T09:25:00Z
   title: Beachtliche Stätten und ihre wilden Nachbarn
@@ -230,7 +245,9 @@
   hd: true
   audiodesc: true
   description: In Europas Berge kehrt die Wildnis zurück! In den rumänischen Karpaten sind wieder Bären und Wisente zu sehen, am Mont Blanc wachsen Algen und im besiedelten Elsass zeugen Störche und Feldhamster davon, wie schwierig sich das Zusammenleben von Mensch und Tier gestalten kann. Die Dokumentation begibt sich auf die Spuren wilder Tiere - von der Sächsischen Schweiz bis in die Pyrenäen.
-- eventId: 565827
+- eventId:
+  - 1301264
+  - 565827
   start: 2026-09-29T09:25:00Z
   stop: 2026-09-29T09:55:00Z
   title: 'Re: Neustart im Frauenhaus'
@@ -240,7 +257,9 @@
   hd: true
   audiodesc: true
   description: Sabine floh vor den Schlägen und Todesdrohungen ihres Partners ins Frauenhaus. Lara entkam nach Jahren von Gewalt und Ausbeutung in ein geheimes Schutzhaus. Fast täglich suchen Frauen Schutz vor häuslicher Gewalt. Nach der Flucht beginnt ein oft mühsamer Neuanfang, geprägt von Angst, Selbstzweifeln und der Hoffnung auf ein Leben ohne Gewalt.
-- eventId: 565828
+- eventId:
+  - 1301265
+  - 565828
   start: 2026-09-29T09:55:00Z
   stop: 2026-09-29T10:25:00Z
   title: Küchen der Welt
@@ -253,7 +272,9 @@
     * Guadeloupes westindisches Erbe: Colombo
     * Ein Biss'chen Heimat: Marie Line, von Guadeloupe nach Malta
     * Ran an die Töpfe!
-- eventId: 565829
+- eventId:
+  - 1301266
+  - 565829
   start: 2026-09-29T10:25:00Z
   stop: 2026-09-29T11:10:00Z
   title: Stadt Land Kunst
@@ -267,7 +288,9 @@
     * Die "Buschmänner": Die ersten Menschen in Botsuana
     * In Malaysia: Die pikante Suppe von Min
     * Ein Hundeleben in Athen
-- eventId: 565830
+- eventId:
+  - 1301267
+  - 565830
   start: 2026-09-29T11:10:00Z
   stop: 2026-09-29T12:00:00Z
   title: Stadt Land Kunst
@@ -282,7 +305,9 @@
     * Chilenisches Patagonien: Die Natur als Erbe
     * Estland: Vallos Hühnersuppe mit Kalbfleischklößchen
     * Warschau: Polens geheime Universitäten
-- eventId: 565884
+- eventId:
+  - 1301268
+  - 565884
   start: 2026-09-29T12:00:00Z
   stop: 2026-09-29T13:45:00Z
   title: Mord im Mittsommer
@@ -294,7 +319,9 @@
   hd: true
   audiodesc: true
   description: Svens Tochter Linnea verunglückt tragisch bei einem Bootsunfall. Zwei Jahre später will Sven seine Firma verkaufen und eine Stiftung in ihrem Namen gründen - da wird er vergiftet. Alexander, Valpen und Nora übernehmen den Fall. Doch Alexanders und Noras Gefühle füreinander machen die Zusammenarbeit schwer. "Mord im Mittsommer" - die Krimiserie zur gleichnamigen Romanreihe.
-- eventId: 565885
+- eventId:
+  - 1301269
+  - 565885
   start: 2026-09-29T13:45:00Z
   stop: 2026-09-29T14:20:00Z
   title: 360° Reportage
@@ -304,7 +331,9 @@
   hd: true
   audiodesc: true
   description: Über viele Jahrhunderte wanderten albanische Hirten mit ihren Tieren über den ganzen Balkan auf der Suche nach Futter. Eine Tradition, die mit der sozialistischen Diktatur ein jähes Ende fand. Nach deren Niedergang besannen sich viele der einstigen Schäfer wieder auf ihre alten Bräuche - und versuchten auch, ihre Kinder für den Hirtenberuf zu begeistern. Doch diese haben sich längst der Moderne zugewandt, studieren in den Städten und sehen keine Perspektive in der althergebrachten Tradition. Haben die Schäfer dennoch eine Zukunft in dem Balkanland?
-- eventId: 565886
+- eventId:
+  - 1301270
+  - 565886
   start: 2026-09-29T14:20:00Z
   stop: 2026-09-29T15:05:00Z
   title: Baishanzu - Chinas unbekanntes Naturjuwel
@@ -314,7 +343,9 @@
   hd: true
   audiodesc: true
   description: Der Nationalpark Baishanzu in der chinesischen Provinz Zhejiang beheimatet eine seltene und artenreiche Tierwelt. In dem nebelverhangenen Urwald mit seinen zahlreichen Flüssen tummelt sich eine Vielzahl endemischer und bedrohter Tierarten. Die Dokumentation erkundet einen einzigartigen Ort mit besonderen Bewohnern.
-- eventId: 566251
+- eventId:
+  - 1301271
+  - 566251
   start: 2026-09-29T15:05:00Z
   stop: 2026-09-29T15:50:00Z
   title: Traumrouten des Orients
@@ -324,7 +355,9 @@
   hd: true
   audiodesc: true
   description: Indien und Pakistan bilden einen geheimnisvollen Subkontinent. In der Kolonialzeit bauten die Briten eine Straße durch das gesamte Reich und nannten sie "Grand Trunk Road". Der legendäre Weg bildet auf über 2.400 Kilometern eine pulsierende Lebensader. Von Kolkata über Benares nach Delhi führt die Route von Indien über die pakistanische Grenze nach Lahore und Peshawar.
-- eventId: 566252
+- eventId:
+  - 1301272
+  - 566252
   start: 2026-09-29T15:50:00Z
   stop: 2026-09-29T16:35:00Z
   title: Traumrouten des Orients
@@ -334,7 +367,9 @@
   hd: true
   audiodesc: true
   description: 'Unterwegs auf einer abenteuerlichen Route durch das Pamir-Gebirge, die voller Geheimnisse und Überraschungen steckt: Diese Folge der Dokureihe führt vorbei an über 7.000 Meter hohen Bergen nach Kirgistan, wo Steppen und Pferdeherden das Bild bestimmen. Ausgangspunkt der Reise ist Duschanbe, die Hauptstadt Tadschikistans.'
-- eventId: 566253
+- eventId:
+  - 1301273
+  - 566253
   start: 2026-09-29T16:35:00Z
   stop: 2026-09-29T17:20:00Z
   title: Traumrouten des Orients
@@ -344,7 +379,9 @@
   hd: true
   audiodesc: true
   description: Die Reise zu den legendären Metropolen des Orients führt durch Wüsten und Gebirge und bleibt eine der großen Traumrouten der Region. In Isfahan begegnen die Reisenden einem jungen Mullah, sehen einem Miniaturmaler bei der Arbeit zu, und ein Teppichhändler beschreibt ihnen die Situation seines Gewerbes, des drittgrößten des Landes.
-- eventId: 566254
+- eventId:
+  - 1301274
+  - 566254
   start: 2026-09-29T17:20:00Z
   stop: 2026-09-29T17:40:00Z
   title: ARTE Journal
@@ -354,7 +391,9 @@
   hd: true
   audiodesc: true
   description: ARTE Journal, das europäische Nachrichtenmagazin, wirft einen aktuellen, weltoffenen und europäischen Blick auf Politik und Kultur.
-- eventId: 566255
+- eventId:
+  - 1301275
+  - 566255
   start: 2026-09-29T17:40:00Z
   stop: 2026-09-29T18:15:00Z
   title: 'Re: Färöer Inseln - Im Visier der Großmächte'
@@ -364,7 +403,9 @@
   hd: true
   audiodesc: true
   description: Die Färöer liegen zwischen Arktis, Europa, Russland und den USA - in einem neuen Spannungsfeld der Großmächte. Militärischer Betrieb vor der Küste ist keine Seltenheit mehr. Seit Donald Trumps Vorstoß, Grönland unter US-Kontrolle zu bringen, ist auch die färöische Politik in Sorge - denn auch die Färöer gehören zu Dänemark, nicht aber zur EU. Wie sieht die Zukunft der Inseln aus?
-- eventId: 566445
+- eventId:
+  - 1301276
+  - 566445
   start: 2026-09-29T18:15:00Z
   stop: 2026-09-29T19:15:00Z
   title: Louis Vuitton, das Imperium der Luxusmacher (1/2)
@@ -374,7 +415,9 @@
   hd: true
   audiodesc: true
   description: Die erste Folge von "Louis Vuitton, das Imperium der Luxusmacher" dokumentiert Bernard Arnaults Aufstieg vom Bauunternehmer zum Big Player des globalen Kapitalismus. Früh erkannte er, wie lukrativ der Verkauf von Träumen sein kann. Nach Erfahrungen im US-Kapitalismus baute er in Frankreich ein Mode-Imperium auf. Mit 47 war er Milliardär und prägte die Luxusbranche wie kein Zweiter.
-- eventId: 566446
+- eventId:
+  - 1301277
+  - 566446
   start: 2026-09-29T19:15:00Z
   stop: 2026-09-29T20:20:00Z
   title: Louis Vuitton, das Imperium der Luxusmacher (2/2)
@@ -384,7 +427,9 @@
   hd: true
   audiodesc: true
   description: 'Zu Beginn des 21. Jahrhunderts ist LVMH Moët Hennessy Louis Vuitton weit mehr als ein Luxusimperium: Es ist ein Staat im Staate mit immenser Macht. Der Gruppe gehört die Zeitung Les Échos und sie unterhält enge Verbindungen zur Politik. Mit mehr als 75 Marken und unzähligen Immobilien ist Bernard Arnaults Familienholding in Paris allgegenwärtig.'
-- eventId: 566447
+- eventId:
+  - 1301278
+  - 566447
   start: 2026-09-29T20:20:00Z
   stop: 2026-09-29T21:20:00Z
   title: 'Elon Musks Traum vom Mars: Der wahre Preis'
@@ -394,7 +439,9 @@
   hd: true
   audiodesc: true
   description: Mit dem Versprechen auf andere Welten schürt die Raumfahrtindustrie gefährliche Illusionen und überfrachtet den Orbit mit Tausenden von Satelliten. Forschende und Aktivisten prangern die Folgen dieses Systems an, das die Destabilisierung der Erde beschleunigt, Ökosysteme schwächt und unser Verhältnis zum Kosmos verändert.
-- eventId: 566508
+- eventId:
+  - 1301279
+  - 566508
   start: 2026-09-29T21:20:00Z
   stop: 2026-09-29T22:15:00Z
   title: 'Der Billionen-Prozess: Wer bezahlt die Klimakatastrophe?'
@@ -404,7 +451,9 @@
   hd: true
   audiodesc: true
   description: 'Alles begann 2019 in einem Klassenzimmer auf Vanuatu. Jurastudierende fragten sich: Wer bezahlt die Klimakatastrophe? Sie schmiedeten einen Plan: den Klimawandel vor das höchste Gericht der Welt zu bringen. Sechs Jahre lang kämpften sie gegen Widerstände, um das Völkerrecht zu revolutionieren und die Industriestaaten finanziell haftbar zu machen.'
-- eventId: 566509
+- eventId:
+  - 1301280
+  - 566509
   start: 2026-09-29T22:15:00Z
   stop: 2026-09-29T23:50:00Z
   title: Kinderschänder im Visier
@@ -415,7 +464,9 @@
   hd: true
   audiodesc: true
   description: "88 Millionen Aufnahmen von Kindesmissbrauch zirkulierten im Jahr 2022 weltweit. Jede Sekunde werden mindestens zwei Bilder von Kindesvergewaltigungen im Internet geteilt. In sozialen Netzwerken und Videospielen haben es Sexualstraftäter besonders einfach, neue Opfer zu finden. \nVier Jahre lang recherchierte die Regisseurin unter anderem in Deutschland, Frankreich, Großbritannien, Nordamerika und den Philippinen, mit welchen Maßnahmen die internationale Gemeinschaft reagiert. Sie begleitete Polizisten und Mitarbeiter von Organisationen, die die Täter aufspüren und täglich für die Sicherheit der Kinder kämpfen."
-- eventId: 566510
+- eventId:
+  - 1301281
+  - 566510
   start: 2026-09-29T23:50:00Z
   stop: 2026-09-30T01:15:00Z
   title: Kohlenstoff
