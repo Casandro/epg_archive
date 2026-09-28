@@ -122,6 +122,11 @@
   stop: 2026-09-29T06:30:00Z
   title: Best of DW-online Content
   widescreen: true
+- eventId: 1308429
+  start: 2026-09-29T06:15:00Z
+  stop: 2026-09-29T06:30:00Z
+  title: Planet A
+  widescreen: true
 - eventId: 1141705
   start: 2026-09-29T06:30:00Z
   stop: 2026-09-29T07:00:00Z
@@ -140,7 +145,9 @@
   stop: 2026-09-29T07:15:00Z
   title: DW News Focus
   widescreen: true
-- eventId: 1141708
+- eventId:
+  - 1141708
+  - 1308431
   start: 2026-09-29T07:15:00Z
   stop: 2026-09-29T08:00:00Z
   title: India's Little-Known Minority
@@ -183,7 +190,9 @@
   stop: 2026-09-29T09:15:00Z
   title: DW News Focus
   widescreen: true
-- eventId: 1141552
+- eventId:
+  - 1141552
+  - 1308433
   start: 2026-09-29T09:15:00Z
   stop: 2026-09-29T09:45:00Z
   title: Close up
