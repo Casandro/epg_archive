@@ -69,6 +69,7 @@
   - 1317042
   - 1322996
   - 1325149
+  - 1327850
   start: 2026-09-30T01:25:00Z
   stop: 2026-09-30T02:00:00Z
   title: Çikat n'Trip
@@ -83,7 +84,7 @@
   subtitle: ' Arhiva TVR   (Reluare)'
 - eventId: 1211206
   start: 2026-09-30T02:00:00Z
-  stop: 2026-09-30T02:55:00Z
+  stop: 2026-09-30T03:30:00Z
   title: Reportazhe
   subtitle: ' Arhiva TVR   (Reluare)'
   ageRating: 4
@@ -179,6 +180,7 @@
   - 1317043
   - 1322997
   - 1325150
+  - 1327851
   start: 2026-09-30T03:30:00Z
   stop: 2026-09-30T04:10:00Z
   title: Muzike Top 10
@@ -242,6 +244,7 @@
   - 1317044
   - 1322998
   - 1325151
+  - 1327852
   start: 2026-09-30T04:10:00Z
   stop: 2026-09-30T04:40:00Z
   title: Muzike Top 10
@@ -276,6 +279,7 @@
   - 1317045
   - 1322999
   - 1325152
+  - 1327853
   start: 2026-09-30T04:40:00Z
   stop: 2026-09-30T05:00:00Z
   title: Muzikë për fëmijë
@@ -312,6 +316,14 @@
   - 1325153
   start: 2026-09-30T05:00:00Z
   stop: 2026-09-30T07:05:00Z
+  title: Pastel
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1327854
+  start: 2026-09-30T05:00:00Z
+  stop: 2026-09-30T07:00:00Z
   title: Pastel
   subtitle: ' '
   ageRating: 4
@@ -460,6 +472,7 @@
   - 1317047
   - 1323001
   - 1325154
+  - 1327855
   start: 2026-09-30T07:05:00Z
   stop: 2026-09-30T09:00:00Z
   title: Programi i mëngjesit
@@ -587,7 +600,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1323185
+- eventId:
+  - 1323185
+  - 1327856
   start: 2026-09-30T09:00:00Z
   stop: 2026-09-30T10:10:00Z
   title: Daily Click
@@ -738,6 +753,7 @@
   - 1317049
   - 1323186
   - 1325313
+  - 1327857
   start: 2026-09-30T10:15:00Z
   stop: 2026-09-30T10:35:00Z
   title: Muzikë argëtuese
@@ -778,7 +794,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1323187
+- eventId:
+  - 1323187
+  - 1327858
   start: 2026-09-30T10:35:00Z
   stop: 2026-09-30T11:10:00Z
   title: Farewell Letter
@@ -871,6 +889,7 @@
   - 1317051
   - 1323188
   - 1325315
+  - 1327859
   start: 2026-09-30T11:15:00Z
   stop: 2026-09-30T12:35:00Z
   title: Reportazhe
@@ -933,6 +952,7 @@
   - 1317052
   - 1323189
   - 1325316
+  - 1327860
   start: 2026-09-30T12:35:00Z
   stop: 2026-09-30T12:55:00Z
   title: Promo
@@ -966,6 +986,7 @@
   - 1317053
   - 1323190
   - 1325317
+  - 1327861
   start: 2026-09-30T12:55:00Z
   stop: 2026-09-30T13:00:00Z
   title: Promo
@@ -1005,7 +1026,7 @@
   subtitle: ' ... '
 - eventId: 1212259
   start: 2026-09-30T13:00:00Z
-  stop: 2026-09-30T13:10:00Z
+  stop: 2026-09-30T13:20:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -1067,6 +1088,7 @@
   - 1317054
   - 1323191
   - 1325318
+  - 1327862
   start: 2026-09-30T13:20:00Z
   stop: 2026-09-30T13:30:00Z
   title: Promo
@@ -1100,6 +1122,7 @@
   - 1317055
   - 1323192
   - 1325319
+  - 1327863
   start: 2026-09-30T13:30:00Z
   stop: 2026-09-30T14:00:00Z
   title: Reportazhe
@@ -1117,7 +1140,7 @@
   - '160'
 - eventId: 1212262
   start: 2026-09-30T15:00:00Z
-  stop: 2026-09-30T16:30:00Z
+  stop: 2026-09-30T15:55:00Z
   title: Handbal feminin
   subtitle: '  *LIGA FLORILOR*ET4HC Zalău-CS Gloria Bistri'
   ageRating: 4
@@ -1148,6 +1171,7 @@
   - 1317056
   - 1323014
   - 1325320
+  - 1327864
   start: 2026-09-30T15:55:00Z
   stop: 2026-09-30T16:00:00Z
   title: Promo
@@ -1180,6 +1204,7 @@
   - 1317057
   - 1323015
   - 1325321
+  - 1327865
   start: 2026-09-30T16:00:00Z
   stop: 2026-09-30T16:30:00Z
   title: Reportazhe
@@ -1197,7 +1222,7 @@
   - '32'
 - eventId: 1212264
   start: 2026-09-30T17:00:00Z
-  stop: 2026-09-30T18:00:00Z
+  stop: 2026-09-30T17:10:00Z
   title: TOTUL DESPRE FOTBAL
   subtitle: ' Arhiva TVR '
   ageRating: 4
@@ -1228,6 +1253,7 @@
   - 1317058
   - 1323016
   - 1325322
+  - 1327866
   start: 2026-09-30T17:10:00Z
   stop: 2026-09-30T17:20:00Z
   title: 10 minuta
@@ -1260,6 +1286,7 @@
   - 1317059
   - 1323017
   - 1325323
+  - 1327867
   start: 2026-09-30T17:20:00Z
   stop: 2026-09-30T17:30:00Z
   title: Promo
@@ -1292,6 +1319,7 @@
   - 1317060
   - 1323018
   - 1325324
+  - 1327868
   start: 2026-09-30T17:30:00Z
   stop: 2026-09-30T18:00:00Z
   title: Live News MK
@@ -1301,7 +1329,7 @@
   - '32'
 - eventId: 1212265
   start: 2026-09-30T18:00:00Z
-  stop: 2026-09-30T18:10:00Z
+  stop: 2026-09-30T18:45:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -1368,6 +1396,7 @@
   - 1317061
   - 1323193
   - 1325325
+  - 1327869
   start: 2026-09-30T18:45:00Z
   stop: 2026-09-30T19:30:00Z
   title: Firefly
@@ -1401,6 +1430,7 @@
   - 1317062
   - 1323194
   - 1325326
+  - 1327870
   start: 2026-09-30T19:30:00Z
   stop: 2026-09-30T20:55:00Z
   title: Film artistik
@@ -1457,7 +1487,7 @@
   - '160'
 - eventId: 1212268
   start: 2026-09-30T21:00:00Z
-  stop: 2026-09-30T22:00:00Z
+  stop: 2026-09-30T21:20:00Z
   title: Live News MK
   subtitle: ' Preluare TVR Cluj   (Reluare)'
   ageRating: 4
@@ -1495,7 +1525,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1323195
+- eventId:
+  - 1323195
+  - 1327871
   start: 2026-09-30T21:20:00Z
   stop: 2026-09-30T22:00:00Z
   title: Farewell Letter
@@ -1559,6 +1591,7 @@
   - 1317064
   - 1323196
   - 1325328
+  - 1327872
   start: 2026-09-30T22:05:00Z
   stop: 2026-09-30T23:25:00Z
   title: Click Plus
@@ -1592,6 +1625,7 @@
   - 1317065
   - 1323197
   - 1325329
+  - 1327873
   start: 2026-09-30T23:25:00Z
   stop: 2026-10-01T01:25:00Z
   title: Pastel
