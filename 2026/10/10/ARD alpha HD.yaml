@@ -151,6 +151,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId: 832298
   start: 2026-10-10T10:00:00Z
   stop: 2026-10-10T10:30:00Z
@@ -174,21 +176,25 @@
 - eventId: 832300
   start: 2026-10-10T11:00:00Z
   stop: 2026-10-10T11:15:00Z
-  title: Tele-Gym (6)
+  title: Tele-Gym (6/8)
   subtitle: Yoga-Pilates-50plus
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId: 832301
   start: 2026-10-10T11:15:00Z
   stop: 2026-10-10T11:30:00Z
-  title: Tele-Gym (3)
-  subtitle: ZEN-Meditation
+  title: Tele-Gym (3/8)
+  subtitle: Yoga-Pilates-50plus
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId: 832302
   start: 2026-10-10T11:30:00Z
   stop: 2026-10-10T11:45:00Z
@@ -202,7 +208,7 @@
   start: 2026-10-10T11:45:00Z
   stop: 2026-10-10T12:30:00Z
   title: Zwischen Spessart und Karwendel
-  subtitle: DE
+  subtitle: 'Moderation: Florian Schrei'
   widescreen: true
   subtitled: true
   hd: true
@@ -264,7 +270,7 @@
 - eventId: 832384
   start: 2026-10-10T17:00:00Z
   stop: 2026-10-10T17:30:00Z
-  title: Eisenbahn-Romantik
+  title: Eisenbahn-Romantik (1036)
   subtitle: Auf Draculas Spuren - Mit dem Zug durch Transsilvanien
   widescreen: true
   subtitled: true
@@ -304,6 +310,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId: 832435
   start: 2026-10-10T19:45:00Z
   stop: 2026-10-10T20:30:00Z
@@ -355,3 +362,4 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
