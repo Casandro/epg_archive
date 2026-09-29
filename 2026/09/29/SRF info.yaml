@@ -1270,17 +1270,40 @@
   hd: true
 - eventId: 1129203
   start: 2026-09-29T22:15:00Z
-  stop: 2026-09-29T22:35:00Z
+  stop: 2026-09-29T22:25:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
 - eventId: 1141056
   start: 2026-09-29T22:20:00Z
   stop: 2026-09-29T22:40:00Z
   title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1345479
+  start: 2026-09-29T22:25:00Z
+  stop: 2026-09-29T22:30:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1345480
+  start: 2026-09-29T22:30:00Z
+  stop: 2026-09-29T22:50:00Z
+  title: 10 vor 10
+  description: "Was stoppt den Anstieg?\nSchicksalstage für den Regenwald\nKunst vom Band \nSchweiz 2026"
   genre:
   - '32'
   widescreen: true
@@ -1340,6 +1363,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1345481
+  start: 2026-09-29T22:55:00Z
+  stop: 2026-09-29T23:00:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1141060
   start: 2026-09-29T23:00:00Z
   stop: 2026-09-29T23:20:00Z
@@ -1349,16 +1382,38 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1345482
+  start: 2026-09-29T23:00:00Z
+  stop: 2026-09-29T23:05:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 1345483
+  start: 2026-09-29T23:05:00Z
+  stop: 2026-09-29T23:10:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1213718
   start: 2026-09-29T23:10:00Z
-  stop: 2026-09-29T23:15:00Z
-  title: Meteo
+  stop: 2026-09-29T23:35:00Z
+  title: 10 vor 10
   subtitle: Spätausgabe
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: "Was stoppt den Anstieg?\nSchicksalstage für den Regenwald\nKunst vom Band \nSchweiz 2026"
 - eventId: 1213719
   start: 2026-09-29T23:15:00Z
   stop: 2026-09-29T23:20:00Z
@@ -1403,6 +1458,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1345484
+  start: 2026-09-29T23:35:00Z
+  stop: 2026-09-29T23:40:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1141064
   start: 2026-09-29T23:40:00Z
   stop: 2026-09-30T00:00:00Z
@@ -1412,19 +1477,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1213720
-  start: 2026-09-29T23:45:00Z
-  stop: 2026-09-29T23:50:00Z
-  title: Meteo
-  subtitle: Spätausgabe
-  genre:
-  - '32'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 1213721
-  start: 2026-09-29T23:50:00Z
-  stop: 2026-09-29T23:55:00Z
+- eventId: 1345485
+  start: 2026-09-29T23:40:00Z
+  stop: 2026-09-29T23:45:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -1434,6 +1489,29 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 1213720
+  start: 2026-09-29T23:45:00Z
+  stop: 2026-09-29T23:50:00Z
+  title: Newsflash SRF 1
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1213721
+  start: 2026-09-29T23:50:00Z
+  stop: 2026-09-30T00:15:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 1213722
   start: 2026-09-29T23:55:00Z
   stop: 2026-09-30T00:05:00Z

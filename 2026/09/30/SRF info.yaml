@@ -30,6 +30,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1345499
+  start: 2026-09-30T00:15:00Z
+  stop: 2026-09-30T00:20:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1141071
   start: 2026-09-30T00:20:00Z
   stop: 2026-09-30T00:40:00Z
@@ -39,10 +49,22 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1345500
+  start: 2026-09-30T00:20:00Z
+  stop: 2026-09-30T00:25:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 1213728
   start: 2026-09-30T00:25:00Z
-  stop: 2026-09-30T00:30:00Z
-  title: Meteo
+  stop: 2026-09-30T00:35:00Z
+  title: Newsflash SRF 1
   subtitle: Spätausgabe
   genre:
   - '32'
@@ -63,13 +85,14 @@
   hd: true
 - eventId: 1213730
   start: 2026-09-30T00:35:00Z
-  stop: 2026-09-30T00:40:00Z
+  stop: 2026-09-30T00:55:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: "Was stoppt den Anstieg?\nSchicksalstage für den Regenwald\nKunst vom Band \nSchweiz 2026"
 - eventId: 1141072
   start: 2026-09-30T00:40:00Z
   stop: 2026-09-30T00:55:00Z
@@ -101,20 +124,24 @@
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: Spätausgabe
 - eventId: 1141075
   start: 2026-09-30T01:00:00Z
   stop: 2026-09-30T01:05:00Z
-  title: 10 vor 10
+  title: Sportflash
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
-  subtitle: Spätausgabe
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
 - eventId: 1213731
   start: 2026-09-30T01:05:00Z
-  stop: 2026-09-30T01:10:00Z
-  title: Sportflash
+  stop: 2026-09-30T01:15:00Z
+  title: Newsflash SRF 1
   subtitle: Die Sportnews des Tages
   description: |-
     Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
@@ -123,6 +150,7 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 1213732
   start: 2026-09-30T01:10:00Z
   stop: 2026-09-30T01:15:00Z
@@ -141,6 +169,7 @@
   widescreen: true
   subtitled: true
   hd: true
+  description: "Was stoppt den Anstieg?\nSchicksalstage für den Regenwald\nKunst vom Band \nSchweiz 2026"
 - eventId: 1141076
   start: 2026-09-30T01:20:00Z
   stop: 2026-09-30T01:25:00Z
@@ -175,7 +204,7 @@
   subtitle: Spätausgabe
 - eventId: 1141079
   start: 2026-09-30T01:40:00Z
-  stop: 2026-09-30T01:45:00Z
+  stop: 2026-09-30T01:50:00Z
   title: Sportflash
   genre:
   - '32'
@@ -195,6 +224,15 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1345501
+  start: 2026-09-30T01:50:00Z
+  stop: 2026-09-30T01:55:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1213735
   start: 2026-09-30T01:55:00Z
   stop: 2026-09-30T02:15:00Z
@@ -204,6 +242,7 @@
   widescreen: true
   subtitled: true
   hd: true
+  description: "Was stoppt den Anstieg?\nSchicksalstage für den Regenwald\nKunst vom Band \nSchweiz 2026"
 - eventId: 1141080
   start: 2026-09-30T02:00:00Z
   stop: 2026-09-30T02:05:00Z
@@ -238,7 +277,7 @@
   subtitle: Spätausgabe
 - eventId: 1141083
   start: 2026-09-30T02:20:00Z
-  stop: 2026-09-30T02:25:00Z
+  stop: 2026-09-30T02:30:00Z
   title: Sportflash
   genre:
   - '32'
@@ -260,8 +299,18 @@
   hd: true
 - eventId: 1213737
   start: 2026-09-30T02:30:00Z
+  stop: 2026-09-30T02:35:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1345502
+  start: 2026-09-30T02:35:00Z
   stop: 2026-09-30T02:50:00Z
   title: 10 vor 10
+  description: "Was stoppt den Anstieg?\nSchicksalstage für den Regenwald\nKunst vom Band \nSchweiz 2026"
   genre:
   - '32'
   widescreen: true
@@ -314,17 +363,40 @@
     Schweiz 2026
 - eventId: 1148378
   start: 2026-09-30T03:00:00Z
-  stop: 2026-09-30T03:05:00Z
+  stop: 2026-09-30T03:10:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
 - eventId: 1213743
   start: 2026-09-30T03:05:00Z
   stop: 2026-09-30T03:20:00Z
   title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1345509
+  start: 2026-09-30T03:10:00Z
+  stop: 2026-09-30T03:15:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1345510
+  start: 2026-09-30T03:15:00Z
+  stop: 2026-09-30T03:30:00Z
+  title: 10 vor 10
+  description: "Was stoppt den Anstieg?\nSchicksalstage für den Regenwald\nKunst vom Band \nSchweiz 2026"
   genre:
   - '32'
   widescreen: true
@@ -374,15 +446,29 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1345511
+  start: 2026-09-30T03:35:00Z
+  stop: 2026-09-30T03:40:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1213745
   start: 2026-09-30T03:40:00Z
-  stop: 2026-09-30T04:00:00Z
+  stop: 2026-09-30T03:50:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
 - eventId: 1148382
   start: 2026-09-30T03:50:00Z
   stop: 2026-09-30T04:00:00Z
@@ -390,6 +476,25 @@
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
     Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1345512
+  start: 2026-09-30T03:50:00Z
+  stop: 2026-09-30T03:55:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1345513
+  start: 2026-09-30T03:55:00Z
+  stop: 2026-09-30T04:00:00Z
+  title: Meteo
+  subtitle: Spätausgabe
   genre:
   - '32'
   widescreen: true
@@ -430,7 +535,7 @@
   hd: true
 - eventId: 1148385
   start: 2026-09-30T04:30:00Z
-  stop: 2026-09-30T04:35:00Z
+  stop: 2026-09-30T04:40:00Z
   title: Schweiz aktuell
   genre:
   - '32'
@@ -443,6 +548,15 @@
     Schweiz 2026
 - eventId: 1333990
   start: 2026-09-30T04:35:00Z
+  stop: 2026-09-30T04:55:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1345514
+  start: 2026-09-30T04:40:00Z
   stop: 2026-09-30T04:55:00Z
   title: Schweiz aktuell
   genre:
@@ -483,8 +597,29 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1345515
+  start: 2026-09-30T05:00:00Z
+  stop: 2026-09-30T05:10:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 1333992
   start: 2026-09-30T05:05:00Z
+  stop: 2026-09-30T05:25:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1345516
+  start: 2026-09-30T05:10:00Z
   stop: 2026-09-30T05:25:00Z
   title: Schweiz aktuell
   genre:
@@ -525,9 +660,30 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1345517
+  start: 2026-09-30T05:30:00Z
+  stop: 2026-09-30T05:40:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 1333994
   start: 2026-09-30T05:35:00Z
   stop: 2026-09-30T05:50:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1345518
+  start: 2026-09-30T05:40:00Z
+  stop: 2026-09-30T06:05:00Z
   title: Schweiz aktuell
   genre:
   - '32'
@@ -572,7 +728,20 @@
   hd: true
 - eventId: 1333998
   start: 2026-09-30T06:05:00Z
-  stop: 2026-09-30T07:35:00Z
+  stop: 2026-09-30T06:10:00Z
+  title: Puls Spezial in Gebärdensprache
+  subtitle: Mit Leib und Seele - Wege aus der Gesundheitskrise | Teil 1
+  description: |-
+    Ob der Aufbau einer neuen Geburtspraxis, ein Stellenwechsel kurz vor der Rente oder der Balanceakt zwischen Praxis und Bühne: Folge 1 zeigt, wie vier Frauen mit viel Herzblut, Durchhaltewillen und Mut den Hürden im Gesundheitswesen trotzen.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+  genre:
+  - '64'
+- eventId: 1345524
+  start: 2026-09-30T06:10:00Z
+  stop: 2026-09-30T07:45:00Z
   title: Puls Spezial in Gebärdensprache
   subtitle: Mit Leib und Seele - Wege aus der Gesundheitskrise | Teil 1
   description: |-
@@ -605,6 +774,18 @@
   - '112'
   widescreen: true
   hd: true
+- eventId: 1345525
+  start: 2026-09-30T07:45:00Z
+  stop: 2026-09-30T08:15:00Z
+  title: Cuntrasts
+  subtitle: 'Kunst zu zweit: Ursina Giger und Florian Egli - Musik, Familie und Karriere'
+  description: |-
+    Wie lässt sich der Alltag mit zwei kleinen Kindern und zwei Musikkarrieren unter einen Hut bringen? Der Dokumentarfilm zeigt das Leben von Ursina Giger und Florian Egli, die musikalisch zusammenarbeiten, aber auch privat ein Paar, eine Familie sind.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  hd: true
 - eventId: 1148404
   start: 2026-09-30T07:55:00Z
   stop: 2026-09-30T08:30:00Z
@@ -617,6 +798,15 @@
 - eventId: 1334000
   start: 2026-09-30T08:05:00Z
   stop: 2026-09-30T08:40:00Z
+  title: Eco Talk
+  subtitle: 'Künstliche Intelligenz: Wie viel Macht geben wir den Maschinen?'
+  description: "KI verändert Wirtschaft und Gesellschaft tiefgreifend. Wir ringen damit, sie möglichst sinnvoll einzusetzen ohne die Risiken ausser Acht zu lassen. \nSchweiz 2026"
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1345526
+  start: 2026-09-30T08:15:00Z
+  stop: 2026-09-30T08:50:00Z
   title: Eco Talk
   subtitle: 'Künstliche Intelligenz: Wie viel Macht geben wir den Maschinen?'
   description: "KI verändert Wirtschaft und Gesellschaft tiefgreifend. Wir ringen damit, sie möglichst sinnvoll einzusetzen ohne die Risiken ausser Acht zu lassen. \nSchweiz 2026"
@@ -647,6 +837,18 @@
   - '112'
   widescreen: true
   hd: true
+- eventId: 1345527
+  start: 2026-09-30T08:50:00Z
+  stop: 2026-09-30T09:15:00Z
+  title: Cuntrasts
+  subtitle: 'Kunst zu zweit: Ursina Giger und Florian Egli - Musik, Familie und Karriere'
+  description: |-
+    Wie lässt sich der Alltag mit zwei kleinen Kindern und zwei Musikkarrieren unter einen Hut bringen? Der Dokumentarfilm zeigt das Leben von Ursina Giger und Florian Egli, die musikalisch zusammenarbeiten, aber auch privat ein Paar, eine Familie sind.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  hd: true
 - eventId: 1148406
   start: 2026-09-30T08:55:00Z
   stop: 2026-09-30T10:00:00Z
@@ -665,9 +867,30 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1345533
+  start: 2026-09-30T09:15:00Z
+  stop: 2026-09-30T10:10:00Z
+  title: Club
+  subtitle: 'Wahlen USA: Wie mächtig bleibt Trump?'
+  description: "Die USA wählen bei den Midterms in vier Wochen einen neuen Kongress. Gelingt es Trump und seinen Republikanern, ihre Macht bei den Zwischenwahlen zu sichern? Und was passiert, wenn Trump mit dem Rücken zur Wand steht? \nSchweiz 2026"
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1148426
   start: 2026-09-30T10:00:00Z
   stop: 2026-09-30T10:25:00Z
+  title: Cuntrasts
+  subtitle: 'Kunst zu zweit: Ursina Giger und Florian Egli - Musik, Familie und Karriere'
+  description: |-
+    Wie lässt sich der Alltag mit zwei kleinen Kindern und zwei Musikkarrieren unter einen Hut bringen? Der Dokumentarfilm zeigt das Leben von Ursina Giger und Florian Egli, die musikalisch zusammenarbeiten, aber auch privat ein Paar, eine Familie sind.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  hd: true
+- eventId: 1345534
+  start: 2026-09-30T10:10:00Z
+  stop: 2026-09-30T10:40:00Z
   title: Cuntrasts
   subtitle: 'Kunst zu zweit: Ursina Giger und Florian Egli - Musik, Familie und Karriere'
   description: |-
@@ -686,8 +909,29 @@
   hd: true
   subtitle: 'Wahlen USA: Wie mächtig bleibt Trump?'
   description: "Die USA wählen bei den Midterms in vier Wochen einen neuen Kongress. Gelingt es Trump und seinen Republikanern, ihre Macht bei den Zwischenwahlen zu sichern? Und was passiert, wenn Trump mit dem Rücken zur Wand steht? \nSchweiz 2026"
+- eventId: 1345535
+  start: 2026-09-30T10:40:00Z
+  stop: 2026-09-30T11:30:00Z
+  title: Club
+  subtitle: 'Wahlen USA: Wie mächtig bleibt Trump?'
+  description: "Die USA wählen bei den Midterms in vier Wochen einen neuen Kongress. Gelingt es Trump und seinen Republikanern, ihre Macht bei den Zwischenwahlen zu sichern? Und was passiert, wenn Trump mit dem Rücken zur Wand steht? \nSchweiz 2026"
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1155537
   start: 2026-09-30T11:30:00Z
+  stop: 2026-09-30T12:00:00Z
+  title: Cuntrasts
+  subtitle: 'Kunst zu zweit: Ursina Giger und Florian Egli - Musik, Familie und Karriere'
+  description: |-
+    Wie lässt sich der Alltag mit zwei kleinen Kindern und zwei Musikkarrieren unter einen Hut bringen? Der Dokumentarfilm zeigt das Leben von Ursina Giger und Florian Egli, die musikalisch zusammenarbeiten, aber auch privat ein Paar, eine Familie sind.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  hd: true
+- eventId: 1345536
+  start: 2026-09-30T11:35:00Z
   stop: 2026-09-30T12:00:00Z
   title: Cuntrasts
   subtitle: 'Kunst zu zweit: Ursina Giger und Florian Egli - Musik, Familie und Karriere'

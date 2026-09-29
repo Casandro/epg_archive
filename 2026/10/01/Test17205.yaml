@@ -90,7 +90,7 @@
   hd: true
 - eventId: 1307044
   start: 2026-10-01T03:50:00Z
-  stop: 2026-10-01T05:00:00Z
+  stop: 2026-10-01T04:35:00Z
   title: Infrarouge
   description: (Rediffusion) 2026 (25/34) Infrarouge (Suisse Romande-2026)
   genre:
@@ -109,7 +109,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1307045
+- eventId:
+  - 1307045
+  - 1345541
   start: 2026-10-01T04:35:00Z
   stop: 2026-10-01T06:00:00Z
   title: RTS Info
