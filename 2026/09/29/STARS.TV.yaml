@@ -10,6 +10,15 @@
   ageRating: 12
   genre:
   - '96'
+- eventId: 1327924
+  start: 2026-09-29T01:00:00Z
+  stop: 2026-09-29T05:00:00Z
+  title: Best Polish
+  description: |-
+    program muzyczny
+    Zestawienie największych polskich przebojów. Zaprezentowane zostaną zarówno hity sprzed lat, jak te i współczesne.
+    Od lat: 12
+  ageRating: 12
 - eventId: 1109835
   start: 2026-09-29T04:00:00Z
   stop: 2026-09-29T05:00:00Z
@@ -81,7 +90,7 @@
   - '96'
 - eventId: 1156193
   start: 2026-09-29T11:00:00Z
-  stop: 2026-09-29T20:00:00Z
+  stop: 2026-09-29T14:00:00Z
   title: Top 100 | Rock 00's
   description: |-
     program muzyczny
@@ -100,7 +109,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 1156219
+- eventId:
+  - 1156219
+  - 1327979
   start: 2026-09-29T14:00:00Z
   stop: 2026-09-29T17:00:00Z
   title: Top 100 | Rock 00's
@@ -120,7 +131,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 1156239
+- eventId:
+  - 1156239
+  - 1328006
   start: 2026-09-29T17:00:00Z
   stop: 2026-09-29T20:00:00Z
   title: Top 100 | Rock 00's
