@@ -47,7 +47,7 @@
   start: 2026-10-10T03:45:00Z
   stop: 2026-10-10T04:10:00Z
   title: Schloss Einstein (739)
-  subtitle: '2012'
+  subtitle: Deutschland 2011
   episodeUri: crid://onid-1/e/6a989f5c2d07852659fe0776
   widescreen: true
   subtitled: true
@@ -57,7 +57,7 @@
   start: 2026-10-10T04:10:00Z
   stop: 2026-10-10T04:35:00Z
   title: Schloss Einstein (740)
-  subtitle: '2012'
+  subtitle: Deutschland 2011
   episodeUri: crid://onid-1/e/6a989f5c2d07852659fe0774
   widescreen: true
   subtitled: true
@@ -73,6 +73,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId: 830741
   start: 2026-10-10T05:00:00Z
   stop: 2026-10-10T05:30:00Z
@@ -115,7 +117,7 @@
   start: 2026-10-10T07:00:00Z
   stop: 2026-10-10T08:30:00Z
   title: Auf einmal war es Liebe
-  subtitle: Spielfilm Deutschland 2019
+  subtitle: Fernsehfilm Deutschland 2019
   episodeUri: crid://onid-1/e/6a989f5c2d07852659fe0768
   genre:
   - '16'
@@ -123,11 +125,12 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 830834
   start: 2026-10-10T08:30:00Z
   stop: 2026-10-10T10:00:00Z
   title: Pinocchio (1/2)
-  subtitle: Spielfilm Deutschland 2013
+  subtitle: Fernsehfilm Deutschland 2013
   episodeUri: crid://onid-1/e/6a989f5c2d07852659fe0766
   genre:
   - '16'
@@ -173,6 +176,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: 'Gäste: Pierre M. Krause und Mike Krüger'
 - eventId: 830969
   start: 2026-10-10T12:15:00Z
   stop: 2026-10-10T13:00:00Z
@@ -363,7 +367,7 @@
   start: 2026-10-10T23:35:00Z
   stop: 2026-10-11T01:05:00Z
   title: Auf einmal war es Liebe
-  subtitle: Spielfilm Deutschland 2019
+  subtitle: Fernsehfilm Deutschland 2019
   episodeUri: crid://onid-1/e/6a989f5c7d1bb68baf778c94
   genre:
   - '16'
@@ -371,3 +375,4 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
