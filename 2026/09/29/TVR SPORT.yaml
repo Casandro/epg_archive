@@ -1772,7 +1772,7 @@
   - '160'
 - eventId: 1209656
   start: 2026-09-29T13:00:00Z
-  stop: 2026-09-29T13:20:00Z
+  stop: 2026-09-29T13:10:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -1976,7 +1976,7 @@
   - '160'
 - eventId: 1209659
   start: 2026-09-29T15:00:00Z
-  stop: 2026-09-29T15:55:00Z
+  stop: 2026-09-29T15:10:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -2032,7 +2032,9 @@
   stop: 2026-09-29T16:10:00Z
   title: În prelungiri
   subtitle: '  *Preluare TVR Timisoara   (Reluare)'
-- eventId: 1336948
+- eventId:
+  - 1336948
+  - 1338924
   start: 2026-09-29T15:10:00Z
   stop: 2026-09-29T16:10:00Z
   title: In prelungiri
@@ -2219,6 +2221,7 @@
   - 1334446
   - 1336175
   - 1336949
+  - 1338925
   start: 2026-09-29T16:10:00Z
   stop: 2026-09-29T16:30:00Z
   title: Fillere
@@ -2233,7 +2236,7 @@
   - '32'
 - eventId: 1209663
   start: 2026-09-29T17:00:00Z
-  stop: 2026-09-29T17:10:00Z
+  stop: 2026-09-29T17:30:00Z
   title: CAMPION LA MICROFON
   subtitle: ' *IN MEMORIAM RADU DIACONESCU '
   ageRating: 4
@@ -2450,7 +2453,7 @@
   - '32'
 - eventId: 1209664
   start: 2026-09-29T18:00:00Z
-  stop: 2026-09-29T18:45:00Z
+  stop: 2026-09-29T18:10:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -2498,6 +2501,7 @@
   - 1334447
   - 1336176
   - 1336950
+  - 1338926
   start: 2026-09-29T18:10:00Z
   stop: 2026-09-29T20:10:00Z
   title: Rugby
@@ -2690,6 +2694,7 @@
   - 1334448
   - 1336177
   - 1336951
+  - 1338927
   start: 2026-09-29T20:10:00Z
   stop: 2026-09-29T20:55:00Z
   title: REPLAY
@@ -2704,7 +2709,7 @@
   - '160'
 - eventId: 1209667
   start: 2026-09-29T21:00:00Z
-  stop: 2026-09-29T21:20:00Z
+  stop: 2026-09-29T22:00:00Z
   title: Live News MK
   subtitle: ' Preluare TVR Iasi   (Reluare)'
   ageRating: 4
@@ -2825,6 +2830,7 @@
   - 1334449
   - 1336178
   - 1336952
+  - 1338928
   start: 2026-09-29T22:00:00Z
   stop: 2026-09-29T23:40:00Z
   title: Ora de sport
@@ -3014,6 +3020,7 @@
   - 1334450
   - 1336179
   - 1336953
+  - 1338929
   start: 2026-09-29T23:40:00Z
   stop: 2026-09-30T00:00:00Z
   title: Fillere
