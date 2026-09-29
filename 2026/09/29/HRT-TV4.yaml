@@ -1618,7 +1618,7 @@
   description: 'Ljetu je kraj, no veza s morem ostaje, pa i kroz našu emisiju. Plovimo danas od sjevera do juga, od obale do otoka.  Teški dani za plivaričare. Srdele je sve manje, a mjere sve strože. Istarski ribari s 20 spali na samo pet dana lova mjesečno. Postoji mogućnost da se mjera proširi i na ostale ribolovne zone. Na otoku Lošinju vraćamo se u prošlost i uz domaćine otkrivamo brodski jelovnik iz nekih drugih vremena. Na našoj obali nalaze se jedne od najstarijih solana u Europi, ovoga puta svratit ćemo do Stona, a uz kolege iz Istre otkriti grue. Palme, eukaliptusi, oleandri, bugenvilije, ruže, plovimo do otoka Ilovika.   Urednice: Irena Hrvatin i Dajana Kruneš'
 - eventId: 1259002
   start: 2026-09-29T20:45:00Z
-  stop: 2026-09-29T21:05:00Z
+  stop: 2026-09-29T21:04:00Z
   title: 'Studio 4: Sportske minute'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
@@ -1634,6 +1634,14 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1336687
+  start: 2026-09-29T21:05:00Z
+  stop: 2026-09-29T21:10:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1259073
   start: 2026-09-29T21:10:00Z
   stop: 2026-09-29T21:20:00Z
@@ -1643,7 +1651,9 @@
   genre:
   - '32'
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 1259074
+- eventId:
+  - 1259074
+  - 1336688
   start: 2026-09-29T21:20:00Z
   stop: 2026-09-29T21:30:00Z
   title: Vijesti na španjolskom jeziku
@@ -1652,7 +1662,9 @@
   genre:
   - '32'
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 1259075
+- eventId:
+  - 1259075
+  - 1336689
   start: 2026-09-29T21:30:00Z
   stop: 2026-09-29T21:50:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -1670,6 +1682,14 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1336690
+  start: 2026-09-29T21:50:00Z
+  stop: 2026-09-29T21:57:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1259077
   - 1310251
@@ -1692,6 +1712,7 @@
   - 1311269
   - 1315961
   - 1322580
+  - 1336691
   start: 2026-09-29T21:57:00Z
   stop: 2026-09-29T22:00:00Z
   title: Bez komentara
@@ -1720,13 +1741,19 @@
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
 - eventId: 1259080
   start: 2026-09-29T22:17:00Z
-  stop: 2026-09-29T22:42:00Z
+  stop: 2026-09-29T22:39:00Z
   title: Glas domovine
   subtitle: O hrvatskoj nastavi u Čileu razgovaramo s učiteljem Vatroslavom Hercegom. Zašto se obitelj Markon-Jurčić preselila u Beč? Hrvatska čitaonica u Subotici organizirala je etnokamp za stotinjak djece.
   ageRating: 4
   genre:
   - '160'
   description: O hrvatskoj nastavi u Čileu razgovaramo s učiteljem Vatroslavom Hercegom. Zašto se obitelj Markon-Jurčić preselila u Beč? Hrvatska čitaonica u Subotici organizirala je etnokamp za stotinjak djece. Gradišćanska Nova Gora proslavila je 450. obljetnicu postojanja sela pod sadašnjim nazivom.
+- eventId: 1336612
+  start: 2026-09-29T22:39:00Z
+  stop: 2026-09-29T22:42:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1259081
   start: 2026-09-29T22:42:00Z
   stop: 2026-09-29T23:05:00Z

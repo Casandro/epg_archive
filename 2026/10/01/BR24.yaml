@@ -46,14 +46,28 @@
   description: ".30 Infoblock mit Meldungen, Originaltönen und Kurzberichten von Korrespondenten\n.40 BR24 Wirtschaft\n ab 17.00 Uhr als Podcast verfügbar in ARD Sounds\n.45 BR24 kompakt\n.50 BR24 Hintergrund\n.55 BR24 Sport \n.58 Verkehr und Wetter\n\nab 15.00\n.00 Infoblock mit Meldungen, Originaltönen und Kurzberichten von Korrespondenten\n.15 BR24 kompakt\n.17 BR24 Bayern\n.20 BR24 Hintergrund\n.25 BR24 Kultur\n.28 Verkehr und Wetter\n.30 Infoblock mit Meldungen, Originaltönen und Kurzberichten von Korrespondenten\n.38 BR24 Wirtschaft\n ab 17.00 Uhr als Podcast verfügbar in ARD Sounds\n.45 BR24 kompakt\n.47 BR24 Bayern\n.50 BR24 Hintergrund\n.55 BR24 Sport \n.58 Verkehr und Wetter\n\nAusnahmen\n16.20 BR24 Thema des Tages *\n17.20 BR24 Thema des Tages * (Wiederholung von 16.20)\n\n* Als Podcast verfügbar in ARD Sounds"
 - eventId: 714634
   start: 2026-10-01T16:00:00Z
-  stop: 2026-10-01T18:00:00Z
+  stop: 2026-10-01T17:00:00Z
   title: BR24 - Informationen am Abend
   description: ".00 Infoblock mit Meldungen, Originaltönen und Kurzberichten von Korrespondenten\n.10 BR24 Bayern\n.15 BR24 kompakt\n.20 BR24 Hintergrund\n.25 BR24 Kultur\n.28 Verkehr und Wetter\n.30 Infoblock mit Meldungen, Originaltönen und Kurzberichten von Korrespondenten\n.40 BR24 Wirtschaft \n ab 17.00 Uhr als Podcast verfügbar in ARD Sounds\n.45 BR24 kompakt\n.50 BR24 Hintergrund\n.55 BR24 Sport \n.58 Verkehr und Wetter"
+- eventId: 1336562
+  start: 2026-10-01T17:00:00Z
+  stop: 2026-10-01T17:03:00Z
+  title: BR24 Nachrichten
+  description: Das Wichtigste aus aller Welt im Nachrichtenüberblick mit Meldungen aus Politik, Wirtschaft, Kultur und Sport
+- eventId: 1336563
+  start: 2026-10-01T17:03:00Z
+  stop: 2026-10-01T18:00:00Z
+  title: Mitreden! Deutschland diskutiert
+  subtitle: 'Tag der Deutschen Einheit: Was hält uns zusammen?'
 - eventId: 714641
   start: 2026-10-01T18:00:00Z
-  stop: 2026-10-01T18:15:00Z
-  title: Infoblock
+  stop: 2026-10-01T18:03:00Z
+  title: BR24 Nachrichten
   description: Von Berlin bis Brüssel, von Washington bis Wladiwostok - unsere Korrespondenten berichten, was passiert in der Welt. Im Infoblock erfahren Sie alles, was Sie wissen müssen
+- eventId: 1336564
+  start: 2026-10-01T18:03:00Z
+  stop: 2026-10-01T18:40:00Z
+  title: Mitreden! Deutschland diskutiert
 - eventId: 714642
   start: 2026-10-01T18:15:00Z
   stop: 2026-10-01T20:00:00Z
@@ -62,8 +76,22 @@
     Dazwischen:
     20.30 / 21.00 / 21.30
     Nachrichten, Wetter
+- eventId: 1336572
+  start: 2026-10-01T18:40:00Z
+  stop: 2026-10-01T20:40:00Z
+  title: UEFA Nations League
+  subtitle: Deutschland - Serbien
+  description: "Live aus München \nReporter: Andre Siems und Jens-Jörg Riek\n\nBR24 zu empfangen über UKW, Digital Radio und über DVB-S\nBR24live zu empfangen über Digital Radio und über DVB-S\n\nsowie im Internet als Live-Stream unter www.br.de/br24"
 - eventId: 714643
   start: 2026-10-01T20:00:00Z
+  stop: 2026-10-01T22:00:00Z
+  title: ARD-Infonacht
+  description: |-
+    von NDR Info in Zusammenarbeit mit BR24
+
+    23.00 Nachrichten, Wetter
+- eventId: 1336573
+  start: 2026-10-01T20:40:00Z
   stop: 2026-10-01T22:00:00Z
   title: ARD-Infonacht
   description: |-
