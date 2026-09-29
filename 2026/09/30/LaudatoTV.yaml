@@ -139,13 +139,15 @@
   - '160'
 - eventId: 1180827
   start: 2026-09-30T05:45:00Z
-  stop: 2026-09-30T05:52:00Z
+  stop: 2026-09-30T05:51:00Z
   title: Pod smokvom
   subtitle: YouTube kanal Pod Smokvom svakodnevno donosi Evanđelje dana s razmatranjem svećenika, koji brojnim pratiteljima pomaže u duhovnom životu.
   ageRating: 4
   genre:
   - '160'
-- eventId: 1267626
+- eventId:
+  - 1267626
+  - 1342683
   start: 2026-09-30T05:51:00Z
   stop: 2026-09-30T06:00:00Z
   title: Katolički kalendar
@@ -175,13 +177,23 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1342684
+  start: 2026-09-30T06:00:00Z
+  stop: 2026-09-30T06:05:00Z
+  title: Mali katekizam
+  subtitle: Mali katekizam objašnjava što je to molitva.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1342596
   start: 2026-09-30T06:01:00Z
   stop: 2026-09-30T06:06:00Z
   title: Mali katekizam, Mali katekizam
   subtitle: Religijski
   description: Mali katekizam objašnjava što je to molitva.
-- eventId: 1184012
+- eventId:
+  - 1184012
+  - 1342685
   start: 2026-09-30T06:05:00Z
   stop: 2026-09-30T06:32:00Z
   title: Superknjiga
@@ -231,6 +243,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1342686
+  start: 2026-09-30T07:10:00Z
+  stop: 2026-09-30T07:50:00Z
+  title: Iz srca Majke Angelice
+  subtitle: Majka Angelica bila je poznata po tome što je govorila iz srca dajući vjernicima točno ono što su trebali čuti kako bi slijedili Isusa. Ovaj serijal savršeno bilježi njezine duboke, nadahnute...
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1342599
   start: 2026-09-30T07:11:00Z
   stop: 2026-09-30T07:50:00Z
@@ -240,6 +260,14 @@
 - eventId: 1184016
   start: 2026-09-30T07:50:00Z
   stop: 2026-09-30T09:00:00Z
+  title: Papa s nama
+  subtitle: Kako biti autentičan kršćanin? Kako produbiti odnos s Bogom? Zajedno s nama potražite odgovor u emisiji "Papa s nama".
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1342687
+  start: 2026-09-30T07:50:00Z
+  stop: 2026-09-30T08:56:00Z
   title: Papa s nama
   subtitle: Kako biti autentičan kršćanin? Kako produbiti odnos s Bogom? Zajedno s nama potražite odgovor u emisiji "Papa s nama".
   ageRating: 4
@@ -261,7 +289,9 @@
   title: Generacija plus
   subtitle: Magazin
   description: 'Što je zapravo prava radost? U novoj epizodi pitamo se: ako je Bog radost, zašto je mi ponekad ne živimo? Razgovaramo o tome kako prepoznati radost, razlikovati je od prolazne sreće i kako nadvladati tugaljivost. Pridružite nam se i otkrijte zašto su upravo radosni kršćani ujedno i oni - najljepši kršćani!'
-- eventId: 1184020
+- eventId:
+  - 1184020
+  - 1342688
   start: 2026-09-30T09:00:00Z
   stop: 2026-09-30T09:50:00Z
   title: Generacija plus
@@ -280,7 +310,7 @@
   - '160'
 - eventId: 1184022
   start: 2026-09-30T10:00:00Z
-  stop: 2026-09-30T10:03:00Z
+  stop: 2026-09-30T10:02:00Z
   title: Anđeo Gospodnji
   subtitle: Moliti znači razgovarati s Bogom. Zajedno uz program Laudato TV dodatno osnažite vezu sa svojim Ocem.
   ageRating: 4
@@ -292,6 +322,14 @@
   title: Susret u riječi
   subtitle: U novoj emisiji ugošćujemo književnika Srećka Ilića, autora čiji su život i stvaralaštvo duboko povezani s dolinom Neretve.
   description: U novoj emisiji ugošćujemo književnika Srećka Ilića, autora čiji su život i stvaralaštvo duboko povezani s dolinom Neretve. Rođen u Metkoviću, a odrastao u Vidu, Ilić u svojim djelima vjerno oživljava duh, tradiciju i humor rodnoga kraja. Široj publici predstavio se zbirkom "Smij naš svagdašnji" (2003.), a tri godine nakon toga objavljuje i knjigu "Zgode s kamena i vode" (2006.). Pridružite nam se u toplom razgovoru o njegovu životnom i književnom putu od neretvanskih obala, preko Splita, pa sve do Zagreba u kojem danas živi i stvara.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1342689
+  start: 2026-09-30T10:02:00Z
+  stop: 2026-09-30T10:51:00Z
+  title: Susret u Riječi
+  subtitle: U novoj emisiji ugošćujemo književnika Srećka Ilića, autora čiji su život i stvaralaštvo duboko povezani s dolinom Neretve.
   ageRating: 4
   genre:
   - '160'
@@ -307,7 +345,9 @@
   title: Život i zdravlje
   subtitle: Magazin
   description: Tema današnje emisije je PREŽIVLJAVANJE NOVOROĐENČETA - NAJNOVIJA DOSTIGNUĆA. Novorođenče može biti prerano rođeno sa malom porođajnom težinom, sklono je infekcijama, sepsi, krvarenju i još mnogo toga, ali vrhunski liječnici, primjenjujući najnovija medicinska dostignuća postižu velike uspjehe i omogućuju takvoj djeci kasniji normalan razvoj. O najnovijim dostignućima u liječenju takve djece u emisiji razgovaramo s prof. dr. sc. Borisom Filipovićem - Grčićem, dr. med., specijalistom pedijatrije i subspecijalistom neonatologije u Klinici za pedijatriju KBC-a Zagreb.
-- eventId: 1267638
+- eventId:
+  - 1267638
+  - 1342690
   start: 2026-09-30T10:51:00Z
   stop: 2026-09-30T11:56:00Z
   title: Život i zdravlje
@@ -328,7 +368,9 @@
   title: Pavao - apostol Kristov
   subtitle: Pavao - apostol Kristov (2018) Religijski
   description: Glasoviti glumac Jim Caviezel održao je poticajno predvanje u kojem je govorio o dozivljajima koji su mu promijenili život, nakon što je imao ulogu u filmu "Pasija" i "Pavao - apostol Kristov".
-- eventId: 1267639
+- eventId:
+  - 1267639
+  - 1342691
   start: 2026-09-30T11:56:00Z
   stop: 2026-09-30T12:15:00Z
   title: Pavao - apostol Kristov
@@ -343,7 +385,9 @@
   title: Pavao - apostol Kristov
   subtitle: Pavao - apostol Kristov (2018) Religijski
   description: Glasoviti glumac Jim Caviezel održao je poticajno predvanje u kojem je govorio o dozivljajima koji su mu promijenili život, nakon što je imao ulogu u filmu "Pasija" i "Pavao - apostol Kristov".
-- eventId: 1184032
+- eventId:
+  - 1184032
+  - 1342692
   start: 2026-09-30T12:15:00Z
   stop: 2026-09-30T13:00:00Z
   title: Izdvojeno
@@ -374,7 +418,7 @@
   subtitle: Duhovna glazba Glazbeni
 - eventId: 1267652
   start: 2026-09-30T13:15:00Z
-  stop: 2026-09-30T13:16:00Z
+  stop: 2026-09-30T14:05:00Z
   title: Duhovna glazba, Duhovna glazba
   subtitle: Duhovna glazba promiče duhovne i moralne vrijednosti. Poslušajte koju poruku spasenja donose!
   ageRating: 4
@@ -440,7 +484,9 @@
   description: |-
     My highway to heaven: Carlo Acutis and the Eucharist
     Može li jedan mladić pokazati put prema nebu? Carlo Acutis bio je tinejdžer koji je volio računala, nogomet i druženje s prijateljima. No, iznad svega volio je Isusa, a posebno Euharistiju, stvarnu Isusovu prisutnost. Njegova duboka vjera i ljubav prema Blaženoj Djevici Mariji ostavili su snažan trag u životima mnogih. Dokumentarni film ,,Moj put do neba - Carlo Acutis i Euharistija donosi priču o mladiću koji je pokazao da svetost nije nedostižna i da put prema nebu možemo početi živjeti već danas.
-- eventId: 1184035
+- eventId:
+  - 1184035
+  - 1342693
   start: 2026-09-30T14:05:00Z
   stop: 2026-09-30T15:09:00Z
   title: Moj put do Neba - Caro Acutis i Euharistija
@@ -457,7 +503,9 @@
   title: Nadbiskup Fulton J. Sheen
   subtitle: Religijski
   description: Na Laudato TV predstavljamo jednu od najpoznatijih medijskih osoba katoličanstva - nadbiskupa Fultona J. Sheena! Video zapisi ovog priznatog intelektualca, filozofa i teologa su iz 1950-tih i 1960-tih godina, ali tehnička zastarjelost ne zasjenjuje njihovu dubinu, jasnoću, živost i aktualnost.
-- eventId: 1322205
+- eventId:
+  - 1322205
+  - 1342694
   start: 2026-09-30T15:09:00Z
   stop: 2026-09-30T15:45:00Z
   title: Nadbiskup Fulton J. Sheen
@@ -481,7 +529,9 @@
   title: 'Pobožnost svetom Josipu i sveta Misa: Karlovac'
   subtitle: Religijski
   description: 'Pobožnost svetom Josipu i sveta Misa: Karlovac'
-- eventId: 1184040
+- eventId:
+  - 1184040
+  - 1342695
   start: 2026-09-30T15:45:00Z
   stop: 2026-09-30T17:35:00Z
   title: 'Pobožnost svetom Josipu i sveta Misa: Karlovac'
@@ -523,12 +573,22 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1342696
+  start: 2026-09-30T17:35:00Z
+  stop: 2026-09-30T18:02:00Z
+  title: Živjeti što Bog govori
+  subtitle: U novom izdanju emisije "Živjeti što Bog govori" sa stručnim suradnikom don Rolandom Jelićem nastavljamo promišljati o osmoj Božjoj zapovijedi. Jesu li male i takozvane "nužne" laži doista bezazlene?
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1342644
   start: 2026-09-30T18:00:00Z
   stop: 2026-09-30T18:08:00Z
   title: Vijesti iz Vatikana
   subtitle: Informativni
-- eventId: 1184045
+- eventId:
+  - 1184045
+  - 1342697
   start: 2026-09-30T18:02:00Z
   stop: 2026-09-30T18:10:00Z
   title: Vijesti iz Vatikana
@@ -550,7 +610,9 @@
   genre:
   - '160'
   description: Kako se nositi s duhovnim borbama u svakodnevici, kako nositi svoju, a kako razumjeti tuđu borbu? Što kao vjernici možemo učiniti jedni za druge i svoju Domovinu? Pod geslom ,,Evo, sve činim novo! Bratovština Marijanski zavjet za domovinu organizira hodočašće branitelja i mladih u Međugorje kao zahvalu za sve milosti i sva dobra, te zajedničku molitvu za hrvatski narod, Domovinu i njezine obitelji, okupljajući branitelje, mlade i sve zainteresirane vjernike. S nama u emisiji je p. Ivan Mandurić, duhovnik Bratovštine Marijanski zavjet za domovinu.
-- eventId: 1184047
+- eventId:
+  - 1184047
+  - 1342698
   start: 2026-09-30T18:55:00Z
   stop: 2026-09-30T20:01:00Z
   title: Blagoslovljen tek
@@ -600,6 +662,14 @@
   description: |-
     Zapisi s hodočašća na kraj svijeta: Camino de Santiago
     Anđelko Šutalo i Vlado Terkeš hodočastili su svetome Jakovu i kamerom bilježili svoj put, koji je započeo u francuskom gradiću Saint Jean Pied de Portu, a završio 800 km dalje, u Santiago de Compostelli, glavnom gradu španjolske pokrajine Galicije.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1342699
+  start: 2026-09-30T20:18:00Z
+  stop: 2026-09-30T21:31:00Z
+  title: Zapisi s hodočašća na kraju svijeta
+  subtitle: Anđelko Šutalo i Vlado Terkeš hodočastili su svetome Jakovu i kamerom bilježili svoj put, koji je započeo u francuskom gradiću Saint Jean Pied de Portu, a završio 800 km dalje, u Santiago de.
   ageRating: 4
   genre:
   - '160'
