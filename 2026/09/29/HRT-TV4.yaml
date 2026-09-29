@@ -1920,7 +1920,9 @@
   genre:
   - '160'
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
-- eventId: 1258999
+- eventId:
+  - 1258999
+  - 1343962
   start: 2026-09-29T19:45:00Z
   stop: 2026-09-29T20:13:00Z
   title: 'DW: U dobroj formi'
@@ -1929,7 +1931,9 @@
   genre:
   - '160'
   description: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
-- eventId: 1259000
+- eventId:
+  - 1259000
+  - 1343963
   start: 2026-09-29T20:13:00Z
   stop: 2026-09-29T20:15:00Z
   title: Bez komentara
@@ -2022,6 +2026,14 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1343964
+  start: 2026-09-29T21:05:00Z
+  stop: 2026-09-29T21:10:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1259073
   start: 2026-09-29T21:10:00Z
   stop: 2026-09-29T21:20:00Z
@@ -2115,6 +2127,7 @@
   - 1341280
   - 1341535
   - 1342654
+  - 1343965
   start: 2026-09-29T21:50:00Z
   stop: 2026-09-29T21:57:00Z
   title: '#REPORTAŽE'
@@ -2164,6 +2177,7 @@
   - 1341281
   - 1341536
   - 1342655
+  - 1343966
   start: 2026-09-29T21:57:00Z
   stop: 2026-09-29T22:00:00Z
   title: Bez komentara
@@ -2214,7 +2228,7 @@
 - eventId: 1336612
   start: 2026-09-29T22:39:00Z
   stop: 2026-09-29T22:41:00Z
-  title: Bez komentara
+  title: 'Bez komentara: London, UK - Na aukciji zbirka umjetnina Petera Simona vrijedna 137 milijuna funti'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1342359
@@ -2226,6 +2240,7 @@
 - eventId:
   - 1259081
   - 1342656
+  - 1343967
   start: 2026-09-29T22:42:00Z
   stop: 2026-09-29T23:05:00Z
   title: Regionalni dnevnik
@@ -2236,13 +2251,19 @@
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
 - eventId: 1259082
   start: 2026-09-29T23:05:00Z
-  stop: 2026-09-29T23:58:00Z
+  stop: 2026-09-29T23:56:00Z
   title: Dnevnik 2
   subtitle: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a.
   ageRating: 4
   genre:
   - '32'
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
+- eventId: 1343907
+  start: 2026-09-29T23:56:00Z
+  stop: 2026-09-29T23:58:00Z
+  title: Vrijeme RH danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1259083
   start: 2026-09-29T23:58:00Z
   stop: 2026-09-30T00:00:00Z
