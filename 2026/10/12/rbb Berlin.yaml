@@ -137,6 +137,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 1101488
   - 893016
@@ -149,6 +150,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 1101489
   - 893017
@@ -211,13 +213,15 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1102078
   - 893083
   start: 2026-10-12T12:30:00Z
   stop: 2026-10-12T14:00:00Z
   title: Das bisschen Haushalt
-  subtitle: Spielfilm Deutschland 2003
+  subtitle: Fernsehfilm Deutschland 2003
   episodeUri: crid://onid-8468/e/6a989f5df83c9ffc8bd4edcf
   genre:
   - '16'
@@ -248,6 +252,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 1102358
   - 893115
@@ -359,7 +364,7 @@
   start: 2026-10-12T20:15:00Z
   stop: 2026-10-12T21:45:00Z
   title: 'Der Wien-Krimi: Blind ermittelt - Lebendig begraben'
-  subtitle: Spielfilm Deutschland/Österreich 2021
+  subtitle: Fernsehfilm Deutschland/Österreich 2021
   episodeUri: crid://onid-8468/e/6a989f5df83c9ffc8bd4edb9
   ageRating: 12
   genre:
