@@ -443,7 +443,7 @@
   - 978811
   - 980524
   start: 2026-10-08T20:55:00Z
-  stop: 2026-10-08T22:15:00Z
+  stop: 2026-10-08T22:10:00Z
   title: One Night at KitKat
   subtitle: Film von Mohsen Najafimehri und Diba Darbari
   genre:
@@ -451,7 +451,9 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 1361597
+- eventId:
+  - 1361597
+  - 1361932
   start: 2026-10-08T22:10:00Z
   stop: 2026-10-08T22:40:00Z
   title: 'WeltWeit: Dauerbrenner Plastikmüll. Wer zahlt den Preis?'
@@ -459,6 +461,8 @@
   - '32'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 978821
   - 980525
@@ -471,13 +475,17 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1361598
+- eventId:
+  - 1361598
+  - 1361933
   start: 2026-10-08T22:40:00Z
   stop: 2026-10-08T23:10:00Z
   title: 10 vor 10
   genre:
   - '32'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 978822
   - 980526
