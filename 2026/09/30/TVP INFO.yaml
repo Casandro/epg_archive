@@ -846,7 +846,7 @@
   - '32'
 - eventId: 1143280
   start: 2026-09-30T21:45:00Z
-  stop: 2026-09-30T22:03:00Z
+  stop: 2026-09-30T22:02:00Z
   title: Panorama dnia
   subtitle: Główny serwis informacyjny TVP Info podsumowujący dzień, wzbogacony o więcej wiadomości ze świata oraz z dziedziny gospodarki i kultury.
   description: |-
@@ -855,7 +855,9 @@
     Program podsumowujący najważniejsze wiadomości z kraju i ze świata, jakie miały miejsce minionego dnia. Ponadto dziennikarze zapowiadają widzom przyszłe tematy audycji.
   genre:
   - '32'
-- eventId: 1334763
+- eventId:
+  - 1334763
+  - 1358278
   start: 2026-09-30T22:02:00Z
   stop: 2026-09-30T22:49:00Z
   title: Bez trybu Justyna Dobrosz-Oracz
@@ -885,7 +887,9 @@
     program publicystyczny (Polska, 2024)
     Prowadzą: Justyna Dobrosz-Oracz
     Magazyn Justyny Dobrosz-Oracz z udziałem dziennikarzy i komentatorów. Dziennikarka udaje się do Sejmu, gdzie zadaje politykom szczere pytania, nie wahając się poruszać kontrowersyjnych tematów. Natomiast eksperci zgromadzeni w studiu komentują bieżące wydarzenia.
-- eventId: 1334764
+- eventId:
+  - 1334764
+  - 1358279
   start: 2026-09-30T22:49:00Z
   stop: 2026-09-30T22:57:00Z
   title: Prognoza pogody
@@ -921,7 +925,9 @@
     PL, 2026
   genre:
   - '32'
-- eventId: 1334765
+- eventId:
+  - 1334765
+  - 1358280
   start: 2026-09-30T22:57:00Z
   stop: 2026-09-30T23:25:00Z
   title: '19.30'
@@ -960,7 +966,9 @@
     PL, 2026
   genre:
   - '32'
-- eventId: 1334766
+- eventId:
+  - 1334766
+  - 1358281
   start: 2026-09-30T23:25:00Z
   stop: 2026-09-30T23:50:00Z
   title: Pytanie dnia
@@ -993,7 +1001,9 @@
     PL, 2026
   genre:
   - '51'
-- eventId: 1334767
+- eventId:
+  - 1334767
+  - 1358282
   start: 2026-09-30T23:50:00Z
   stop: 2026-10-01T00:05:00Z
   title: 112. Magazyn kryminalny
