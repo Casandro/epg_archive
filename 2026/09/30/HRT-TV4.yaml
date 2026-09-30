@@ -2259,6 +2259,12 @@
   genre:
   - '32'
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+- eventId: 1373978
+  start: 2026-09-30T22:43:00Z
+  stop: 2026-09-30T23:03:00Z
+  title: Regionalni dnevnik
+  subtitle: ' '
+  description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
 - eventId:
   - 1367172
   - 1367565
@@ -2322,6 +2328,7 @@
 - eventId:
   - 1372798
   - 1373382
+  - 1373979
   start: 2026-09-30T23:57:00Z
   stop: 2026-09-30T23:59:00Z
   title: Vrijeme Europa danas
@@ -2341,7 +2348,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 1290006
+- eventId:
+  - 1290006
+  - 1373546
   start: 2026-09-30T23:59:00Z
   stop: 2026-10-01T00:01:00Z
   title: Vrijeme Europa danas
@@ -2350,11 +2359,3 @@
   genre:
   - '32'
   description: Je li broj turističkih grupa u Istri, karakterističnih za posezonu, napokon dostigao pred pandemijske godine? Kakva je ovogodišnja potrošnja turista na zadarskom području? Kako hrvatski hotelijeri komentiraju sidrenje cijena? Zašto je nautički charter podbacio u Splitsko-dalmatinskoj županiji? Posjetili smo i jug Austrije koja je ovoga ljeta imala snažan turistički rast.
-- eventId: 1373546
-  start: 2026-09-30T23:59:00Z
-  stop: 2026-10-01T00:00:00Z
-  title: Vrijeme Europa danas
-  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-  ageRating: 4
-  genre:
-  - '32'
