@@ -981,6 +981,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1367738
+  start: 2026-09-30T16:24:50Z
+  stop: 2026-09-30T16:55:00Z
+  title: Interview ČT24
+  subtitle: 'Host: Karel Havlíček /ANO/, 1. místopředseda vlády, ministr průmyslu a obchodu. Moderuje: Daniel Takáč.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1134761
   - 1138254
@@ -1055,7 +1066,9 @@
   - '33'
   widescreen: true
   hd: true
-- eventId: 1367247
+- eventId:
+  - 1367247
+  - 1367752
   start: 2026-09-30T17:55:59Z
   stop: 2026-09-30T18:06:49Z
   title: Branky, body, vteřiny
@@ -1082,7 +1095,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1367230
+- eventId:
+  - 1367230
+  - 1367755
   start: 2026-09-30T18:06:49Z
   stop: 2026-09-30T19:30:00Z
   title: 90' ČT24
