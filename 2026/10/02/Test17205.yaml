@@ -131,7 +131,7 @@
   hd: true
 - eventId: 1339042
   start: 2026-10-02T04:20:00Z
-  stop: 2026-10-02T04:50:00Z
+  stop: 2026-10-02T05:00:00Z
   title: 19h30 - Signé
   description: (Rediffusion)  "Langue des signes"
   genre:
@@ -150,7 +150,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1232452
+- eventId:
+  - 1232452
+  - 1370213
   start: 2026-10-02T05:00:00Z
   stop: 2026-10-02T06:00:00Z
   title: La Matinale
@@ -234,7 +236,7 @@
   hd: true
 - eventId: 1221119
   start: 2026-10-02T11:15:00Z
-  stop: 2026-10-02T11:35:00Z
+  stop: 2026-10-02T11:36:00Z
   title: 12h45
   genre:
   - '33'
@@ -243,6 +245,15 @@
   hd: true
 - eventId: 1221120
   start: 2026-10-02T11:35:00Z
+  stop: 2026-10-02T11:40:00Z
+  title: Météo
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1370214
+  start: 2026-10-02T11:36:00Z
   stop: 2026-10-02T11:40:00Z
   title: Météo
   genre:
@@ -263,7 +274,7 @@
   hd: true
 - eventId: 1213618
   start: 2026-10-02T12:25:00Z
-  stop: 2026-10-02T13:10:00Z
+  stop: 2026-10-02T13:15:00Z
   title: Temps présent
   description: |-
     Les gourous de l'argent facile De Lausanne à Miami, en passant par Dubaï, ils s'affichent dans des appartements de luxe et des bolides à plusieurs centaines de milliers de francs. Ils affirment que faire fortune est un jeu d'enfant et proposent de partager avec vous la méthode qui vous rendra riche en quelques mois. Or, même dans le monde de l'argent facile, rien n'est gratuit. Surtout pas leurs prétendus secrets. Enquête sur les influenceurs du fric et leurs promesses onéreuses.
@@ -276,6 +287,17 @@
   subtitled: true
 - eventId: 1213619
   start: 2026-10-02T13:10:00Z
+  stop: 2026-10-02T13:55:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1370215
+  start: 2026-10-02T13:15:00Z
   stop: 2026-10-02T13:55:00Z
   title: RTS Info
   subtitle: L'actualité en continu
@@ -357,7 +379,7 @@
   hd: true
 - eventId: 1221162
   start: 2026-10-02T17:30:00Z
-  stop: 2026-10-02T18:15:00Z
+  stop: 2026-10-02T18:10:00Z
   title: 19h30 - Signé
   description: En direct.  "Langue des signes"
   genre:
@@ -368,6 +390,16 @@
 - eventId: 1221194
   start: 2026-10-02T18:10:00Z
   stop: 2026-10-02T18:30:00Z
+  title: Adrénaline
+  subtitle: Magazine de sports extrêmes
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1370216
+  start: 2026-10-02T18:10:00Z
+  stop: 2026-10-02T18:35:00Z
   title: Adrénaline
   subtitle: Magazine de sports extrêmes
   genre:
@@ -415,13 +447,24 @@
   hd: true
 - eventId: 1221197
   start: 2026-10-02T20:40:00Z
-  stop: 2026-10-02T20:50:00Z
+  stop: 2026-10-02T20:45:00Z
   title: Zap RTS Sport
   genre:
   - '64'
   widescreen: true
   hd: true
   subtitled: true
+- eventId: 1370217
+  start: 2026-10-02T20:45:00Z
+  stop: 2026-10-02T22:40:00Z
+  title: One piece film - Red
+  description: (Inédit) Luffy et son équipage s'apprêtent à assister à un festival de musique attendu avec impatience. La chanteuse la plus populaire du monde, Uta, va monter sur scène pour la première fois. Celle qui n'est autre que la fille du légendaire pirate Shanks Le Roux va révéler la puissance exceptionnelle de sa voix qui pourrait bien changer le monde... (France-2022)
+  ageRating: 10
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1221198
   start: 2026-10-02T20:50:00Z
   stop: 2026-10-02T22:40:00Z
@@ -435,9 +478,19 @@
   hd: true
 - eventId: 1232408
   start: 2026-10-02T22:40:00Z
-  stop: 2026-10-02T23:00:00Z
+  stop: 2026-10-02T22:55:00Z
   title: Couleurs locales
   description: (Rediffusion)
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1370228
+  start: 2026-10-02T22:55:00Z
+  stop: 2026-10-02T23:30:00Z
+  title: 19h30 - Signé
+  description: (Rediffusion)  "Langue des signes"
   genre:
   - '33'
   widescreen: true
@@ -446,6 +499,26 @@
 - eventId: 1232409
   start: 2026-10-02T23:00:00Z
   stop: 2026-10-03T03:55:00Z
+  title: 19h30 - Signé
+  description: (Rediffusion)  "Langue des signes"
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1370229
+  start: 2026-10-02T23:30:00Z
+  stop: 2026-10-02T23:45:00Z
+  title: Couleurs locales
+  description: (Rediffusion)
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1370230
+  start: 2026-10-02T23:45:00Z
+  stop: 2026-10-03T00:15:00Z
   title: 19h30 - Signé
   description: (Rediffusion)  "Langue des signes"
   genre:

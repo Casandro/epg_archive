@@ -30,7 +30,7 @@
   hd: true
 - eventId: 1282846
   start: 2026-10-04T00:35:00Z
-  stop: 2026-10-04T01:05:00Z
+  stop: 2026-10-04T01:10:00Z
   title: SRFglobal
   subtitle: Das grosse Geschäft mit dem Balkan
   description: |-
@@ -48,6 +48,15 @@
   - '32'
   widescreen: true
   hd: true
+- eventId: 1370205
+  start: 2026-10-04T01:10:00Z
+  stop: 2026-10-04T01:20:00Z
+  title: Tagesschau
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
 - eventId: 1282848
   start: 2026-10-04T01:15:00Z
   stop: 2026-10-04T01:20:00Z
@@ -59,7 +68,19 @@
   hd: true
 - eventId: 1282849
   start: 2026-10-04T01:20:00Z
-  stop: 2026-10-04T01:30:00Z
+  stop: 2026-10-04T01:25:00Z
+  title: Sportheute
+  subtitle: Der Sport des Tages
+  description: |-
+    Grosse Erfolge, starke Emotionen und packende Bilder - «Sportheute» offeriert die wichtigsten News aus dem nationalen und internationalen Sport. An Spieltagen der National League steht das Schweizer Eishockey im Fokus.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 1370206
+  start: 2026-10-04T01:25:00Z
+  stop: 2026-10-04T01:35:00Z
   title: Sportheute
   subtitle: Der Sport des Tages
   description: |-
@@ -76,9 +97,25 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1370207
+  start: 2026-10-04T01:35:00Z
+  stop: 2026-10-04T02:45:00Z
+  title: Arena
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1282851
   start: 2026-10-04T02:40:00Z
   stop: 2026-10-04T02:50:00Z
+  title: Tagesschau
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 1370208
+  start: 2026-10-04T02:45:00Z
+  stop: 2026-10-04T02:55:00Z
   title: Tagesschau
   subtitle: Spätausgabe
   genre:
@@ -96,7 +133,19 @@
   hd: true
 - eventId: 1282853
   start: 2026-10-04T02:55:00Z
-  stop: 2026-10-04T03:05:00Z
+  stop: 2026-10-04T03:00:00Z
+  title: Sportheute
+  subtitle: Der Sport des Tages
+  description: |-
+    Grosse Erfolge, starke Emotionen und packende Bilder - «Sportheute» offeriert die wichtigsten News aus dem nationalen und internationalen Sport. An Spieltagen der National League steht das Schweizer Eishockey im Fokus.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 1370209
+  start: 2026-10-04T03:00:00Z
+  stop: 2026-10-04T03:10:00Z
   title: Sportheute
   subtitle: Der Sport des Tages
   description: |-
@@ -108,6 +157,20 @@
   hd: true
 - eventId: 1282854
   start: 2026-10-04T03:05:00Z
+  stop: 2026-10-04T03:45:00Z
+  title: Einstein
+  subtitle: 'Extremwetter: Wie retten wir unsere Ernten?'
+  description: |-
+    60 Grad heisse Äcker, vertrocknete Felder und ein Kampf um jeden Tropfen: Der Extremsommer fordert die Schweizer Landwirtschaft heraus. «Einstein» zeigt, wie gesunde Böden, neue Anbaumethoden und Hightech unsere Ernten künftig vor Dürre und Starkregen schützen könnten.
+
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1370210
+  start: 2026-10-04T03:10:00Z
   stop: 2026-10-04T03:45:00Z
   title: Einstein
   subtitle: 'Extremwetter: Wie retten wir unsere Ernten?'
