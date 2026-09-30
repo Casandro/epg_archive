@@ -1169,7 +1169,7 @@
   - 1138259
   - 1370735
   start: 2026-09-30T18:07:00Z
-  stop: 2026-09-30T19:30:00Z
+  stop: 2026-09-30T19:30:01Z
   title: 90' ČT24
   subtitle: Podstatná témata, hlavní události dne a jejich aktéři debatují a odpovídají na otázky moderátora a diváků.
   description: |-
@@ -1227,6 +1227,7 @@
     Skryté titulky
   genre:
   - '35'
+  widescreen: true
 - eventId: 1370576
   start: 2026-09-30T19:30:37Z
   stop: 2026-09-30T20:00:00Z
@@ -1270,7 +1271,7 @@
   - 1135185
   - 1138262
   start: 2026-09-30T21:00:00Z
-  stop: 2026-09-30T21:05:00Z
+  stop: 2026-09-30T21:07:39Z
   title: Předpověď počasí
   subtitle: Souhrn meteorologických informací.
   description: |-
@@ -1296,7 +1297,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1370669
+- eventId:
+  - 1370669
+  - 1371260
   start: 2026-09-30T21:07:39Z
   stop: 2026-09-30T21:32:00Z
   title: Zprávy ve 23
@@ -1322,7 +1325,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1370670
+- eventId:
+  - 1370670
+  - 1371261
   start: 2026-09-30T21:32:39Z
   stop: 2026-09-30T22:00:00Z
   title: Interview ČT24
