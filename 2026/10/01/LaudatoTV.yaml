@@ -180,7 +180,7 @@
   - '128'
 - eventId: 1204465
   start: 2026-10-01T07:00:00Z
-  stop: 2026-10-01T07:10:00Z
+  stop: 2026-10-01T07:11:00Z
   title: Živa riječ
   subtitle: Dnevna emisija, kratkog formata, koju vodi i uređuje duhovnik Laudato TV-a, p. Ivan Raljušić, CPPS, pratit će svakoga dana ohrabrujućim mislima odabrani citat nedjeljnog Evanđelja. Emisija će se...
   ageRating: 4
@@ -188,6 +188,14 @@
   - '160'
 - eventId: 1220774
   start: 2026-10-01T07:10:00Z
+  stop: 2026-10-01T07:20:00Z
+  title: Vijesti iz Vatikana
+  subtitle: Donosimo najnovije vijesti iz Vatikana, koji predstavlja sjedište Rimokatoličke Crkve. Saznajte sve najvažnije novosti i informirajte se o najbitnijim događajima vezanim uz Crkvu.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 1363644
+  start: 2026-10-01T07:11:00Z
   stop: 2026-10-01T07:20:00Z
   title: Vijesti iz Vatikana
   subtitle: Donosimo najnovije vijesti iz Vatikana, koji predstavlja sjedište Rimokatoličke Crkve. Saznajte sve najvažnije novosti i informirajte se o najbitnijim događajima vezanim uz Crkvu.
@@ -221,7 +229,7 @@
   - '160'
 - eventId: 1267707
   start: 2026-10-01T10:02:00Z
-  stop: 2026-10-01T10:35:00Z
+  stop: 2026-10-01T10:34:00Z
   title: Nadbiskup Fulton J. Sheen
   subtitle: Na Laudato TV predstavljamo jednu od najpoznatijih medijskih osoba katoličanstva - nadbiskupa Fultona J. Sheena!
   description: Na Laudato TV predstavljamo jednu od najpoznatijih medijskih osoba katoličanstva - nadbiskupa Fultona J. Sheena! Video zapisi ovog priznatog intelektualca, filozofa i teologa su iz 1950-tih i 1960-tih godina, ali tehnička zastarjelost ne zasjenjuje njihovu dubinu, jasnoću, živost i aktualnost.
@@ -264,7 +272,7 @@
   - '32'
 - eventId: 1267738
   start: 2026-10-01T13:00:00Z
-  stop: 2026-10-01T13:14:00Z
+  stop: 2026-10-01T13:16:00Z
   title: Krunica Božjeg milosrđa
   subtitle: Molimo zajedno molitvu Krunice Božjega Milosrđa.
   description: Molimo zajedno molitvu Krunice Božjega Milosrđa.
@@ -279,14 +287,30 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1363646
+  start: 2026-10-01T13:16:00Z
+  stop: 2026-10-01T14:20:00Z
+  title: Papa s nama
+  subtitle: Kako biti autentičan kršćanin? Kako produbiti odnos s Bogom? Zajedno s nama potražite odgovor u emisiji "Papa s nama".
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1267740
   start: 2026-10-01T14:20:00Z
-  stop: 2026-10-01T15:40:00Z
+  stop: 2026-10-01T15:39:00Z
   title: 'Zapisi s hodočašća na kraj svijeta: Camino de Santiago'
   subtitle: Anđelko Šutalo i Vlado Terkeš hodočastili su svetome Jakovu i kamerom bilježili svoj put, koji je započeo u francuskom gradiću Saint Jean Pied de Portu, a završio 800 km dalje, u Santiago de.
   description: |-
     Zapisi s hodočašća na kraj svijeta: Camino de Santiago
     Anđelko Šutalo i Vlado Terkeš hodočastili su svetome Jakovu i kamerom bilježili svoj put, koji je započeo u francuskom gradiću Saint Jean Pied de Portu, a završio 800 km dalje, u Santiago de Compostelli, glavnom gradu španjolske pokrajine Galicije.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1363647
+  start: 2026-10-01T15:39:00Z
+  stop: 2026-10-01T16:15:00Z
+  title: Zlatni savjeti
+  subtitle: Glavobolja je jedna od najčešćih tegoba, a njezini uzroci mogu biti brojni.
   ageRating: 4
   genre:
   - '160'
@@ -335,9 +359,17 @@
   - '160'
 - eventId: 1267792
   start: 2026-10-01T20:00:00Z
-  stop: 2026-10-01T20:20:00Z
+  stop: 2026-10-01T20:19:00Z
   title: Egzamen - ispit svjesnosti
   subtitle: Donosimo emisiju "Egzamen- ispit svjesnosti" posvećenu vjeri i religioznosti.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1363648
+  start: 2026-10-01T20:19:00Z
+  stop: 2026-10-01T20:50:00Z
+  title: Život na stijeni
+  subtitle: Gošća u ovoj emisiji Života na stijeni je Noelle Mering. Napisala je knjigu "Awake, Not Woke".
   ageRating: 4
   genre:
   - '160'
@@ -361,7 +393,7 @@
   - '160'
 - eventId: 1267828
   start: 2026-10-01T21:30:00Z
-  stop: 2026-10-01T21:31:00Z
+  stop: 2026-10-01T22:02:00Z
   title: Osobna posveta Bezgrješnom Srcu Marijinu
   subtitle: Moliti znači razgovarati s Bogom. Zajedno uz program Laudato TV dodatno osnažite vezu sa svojim Ocem.
   description: Osobna posveta Bezgrješnom Srcu Marijinu
@@ -395,7 +427,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1361621
+- eventId:
+  - 1361621
+  - 1363649
   start: 2026-10-01T22:02:00Z
   stop: 2026-10-01T22:10:00Z
   title: Vijesti iz Vatikana
@@ -415,6 +449,11 @@
   stop: 2026-10-01T23:39:00Z
   title: More milosrđa
   subtitle: Religijski
+- eventId: 1363650
+  start: 2026-10-01T22:10:00Z
+  stop: 2026-10-01T23:40:00Z
+  title: More milosrđa
+  subtitle: Religijski
 - eventId:
   - 1267831
   - 1361761
@@ -429,6 +468,12 @@
 - eventId: 1361623
   start: 2026-10-01T23:40:00Z
   stop: 2026-10-02T00:37:00Z
+  title: Tolkien
+  subtitle: Dokumentarni
+  description: 'Tolkien''s The Lord of the Rings: A Catholic Worldview'
+- eventId: 1363651
+  start: 2026-10-01T23:40:00Z
+  stop: 2026-10-02T00:38:00Z
   title: Tolkien
   subtitle: Dokumentarni
   description: 'Tolkien''s The Lord of the Rings: A Catholic Worldview'
