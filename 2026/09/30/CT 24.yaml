@@ -743,7 +743,7 @@
   - 1138244
   - 1362750
   start: 2026-09-30T14:00:00Z
-  stop: 2026-09-30T14:29:00Z
+  stop: 2026-09-30T14:30:00Z
   title: Zprávy v 16
   subtitle: Nejdůležitější události dne v ČR i ve světě.
   description: |-
@@ -780,10 +780,22 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 1366690
+  start: 2026-09-30T14:29:30Z
+  stop: 2026-09-30T14:32:30Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Znakový jazyk
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 1134502
   - 1138245
   - 1363828
+  - 1366478
   start: 2026-09-30T14:30:00Z
   stop: 2026-09-30T14:33:00Z
   title: Zprávy
@@ -803,6 +815,17 @@
   stop: 2026-09-30T15:00:00Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 1366691
+  start: 2026-09-30T14:32:30Z
+  stop: 2026-09-30T15:00:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Pilot chtěl havarovat s letadlem směřujícím do Izraele; Kulturní přehled; Závěr sezony v kempech a na vodě.'
   description: |-
     HDTV
     Skryté titulky
@@ -879,6 +902,7 @@
 - eventId:
   - 1134757
   - 1138250
+  - 1366668
   start: 2026-09-30T15:33:00Z
   stop: 2026-09-30T15:55:00Z
   title: Studio ČT24
@@ -905,6 +929,7 @@
 - eventId:
   - 1134758
   - 1138251
+  - 1366669
   start: 2026-09-30T15:55:00Z
   stop: 2026-09-30T16:00:00Z
   title: Předpověď počasí
@@ -970,6 +995,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1366670
+  start: 2026-09-30T16:28:00Z
+  stop: 2026-09-30T16:55:00Z
+  title: Interview ČT24
+  subtitle: 'Host: Karel Havlíček /ANO/, 1. místopředseda vlády, ministr průmyslu a obchodu. Moderuje: Daniel Takáč.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1134762
   - 1138255
