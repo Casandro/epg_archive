@@ -310,6 +310,7 @@
   - 1345285
   - 1345980
   - 1346158
+  - 1352140
   start: 2026-09-30T00:55:00Z
   stop: 2026-09-30T01:00:00Z
   title: Poslovne vijesti
@@ -339,7 +340,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 1289904
   start: 2026-09-30T01:10:00Z
-  stop: 2026-09-30T01:17:00Z
+  stop: 2026-09-30T01:18:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -368,6 +369,7 @@
   - 1345286
   - 1345981
   - 1346159
+  - 1352141
   start: 2026-09-30T01:18:00Z
   stop: 2026-09-30T01:20:00Z
   title: Bez komentara
@@ -389,6 +391,7 @@
   - 1345287
   - 1345982
   - 1346160
+  - 1352142
   start: 2026-09-30T01:20:00Z
   stop: 2026-09-30T01:28:00Z
   title: Vijesti na španjolskom jeziku
@@ -419,6 +422,7 @@
   - 1345288
   - 1345983
   - 1346161
+  - 1352143
   start: 2026-09-30T01:28:00Z
   stop: 2026-09-30T01:30:00Z
   title: Bez komentara
@@ -454,7 +458,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1345984
+- eventId:
+  - 1345984
+  - 1352144
   start: 2026-09-30T01:30:00Z
   stop: 2026-09-30T01:47:00Z
   title: Sportske minute
@@ -501,6 +507,7 @@
   - 1345290
   - 1345985
   - 1346163
+  - 1352145
   start: 2026-09-30T01:50:00Z
   stop: 2026-09-30T01:55:00Z
   title: '#REPORTAŽE'
@@ -606,7 +613,9 @@
   genre:
   - '160'
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
-- eventId: 1345987
+- eventId:
+  - 1345987
+  - 1352147
   start: 2026-09-30T01:58:00Z
   stop: 2026-09-30T02:41:00Z
   title: Pregled dana
@@ -634,6 +643,7 @@
   - 1345293
   - 1345988
   - 1346166
+  - 1352148
   start: 2026-09-30T02:43:00Z
   stop: 2026-09-30T02:53:00Z
   title: Vijesti flash
@@ -656,6 +666,7 @@
   - 1345294
   - 1345989
   - 1346167
+  - 1352149
   start: 2026-09-30T02:53:00Z
   stop: 2026-09-30T03:00:00Z
   title: Vijesti iz kulture
@@ -685,6 +696,7 @@
 - eventId:
   - 1345295
   - 1346168
+  - 1352150
   start: 2026-09-30T03:00:00Z
   stop: 2026-09-30T03:50:00Z
   title: Dnevnik 2
@@ -698,12 +710,17 @@
   title: Vrijeme RH danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 1343913
+- eventId:
+  - 1343913
+  - 1352151
   start: 2026-09-30T03:51:00Z
   stop: 2026-09-30T03:53:00Z
   title: Vrijeme RH danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 1345200
   start: 2026-09-30T03:52:00Z
   stop: 2026-09-30T03:53:00Z
@@ -712,7 +729,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 1289915
   start: 2026-09-30T03:53:00Z
-  stop: 2026-09-30T03:55:00Z
+  stop: 2026-09-30T03:54:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -755,6 +772,14 @@
   title: Vrijeme svijet danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 1352152
+  start: 2026-09-30T03:54:00Z
+  stop: 2026-09-30T03:56:00Z
+  title: Vrijeme Svijet danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 1289917
   start: 2026-09-30T03:55:00Z
   stop: 2026-09-30T03:56:00Z
@@ -817,6 +842,14 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 1352153
+  start: 2026-09-30T03:56:00Z
+  stop: 2026-09-30T04:00:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1289918
   - 1310258
@@ -869,6 +902,7 @@
   - 1289919
   - 1345297
   - 1346170
+  - 1352154
   start: 2026-09-30T04:00:00Z
   stop: 2026-09-30T04:08:00Z
   title: Vijesti na španjolskom jeziku
@@ -907,6 +941,7 @@
 - eventId:
   - 1345298
   - 1346171
+  - 1352155
   start: 2026-09-30T04:08:00Z
   stop: 2026-09-30T04:10:00Z
   title: Bez komentara
@@ -918,6 +953,7 @@
   - 1289921
   - 1345299
   - 1346172
+  - 1352156
   start: 2026-09-30T04:10:00Z
   stop: 2026-09-30T04:18:00Z
   title: Vijesti na engleskom jeziku
@@ -947,6 +983,14 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
+- eventId: 1352157
+  start: 2026-09-30T04:18:00Z
+  stop: 2026-09-30T04:27:00Z
+  title: 'Studio 4: Znanost'
+  subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1345967
   - 1346064
@@ -1001,6 +1045,14 @@
   title: Otvoreno
   subtitle: ' '
   description: 'Koja će biti sudbina arhitektonskog natječaja za novi stadion u Maksimiru? Hoće li se natječaj poništiti, hoće li se doraditi ili graditi prvonagrađeni projekt ili nešto treće? Što je trebalo napraviti drugačije? Tko treba odlučiti koje je najbolje rješenje za Zagreb i nogomet? Gosti su: Tihomil Matković, zamjenik predsjednika Grupacije arhitektonskih i inženjerskih djelatnosti, HGK, prof. dr. sc. Krunoslav Šmit, Katedra za urbanizam Arhitektonskog fakulteta, Otto Barić, arhitekt, Toma Plejić, predsjednik Udruženja hrvatskih arhitekata i ocjenjivačkog suda za novi stadion'
+- eventId: 1352158
+  start: 2026-09-30T04:27:00Z
+  stop: 2026-09-30T04:55:00Z
+  title: Otvoreno
+  subtitle: Koja će biti sudbina arhitektonskog natječaja za novi stadion u Maksimiru? Hoće li se natječaj poništiti, hoće li se doraditi ili graditi prvonagrađeni projekt ili nešto treće?
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1345968
   - 1346065
@@ -1054,6 +1106,14 @@
   title: 'Bez komentara: Moskva, Rusija - Neobična utrka: natjecatelji veslali u golemim bundevama'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 1352159
+  start: 2026-09-30T04:57:00Z
+  stop: 2026-09-30T05:00:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1289925
   start: 2026-09-30T05:00:00Z
   stop: 2026-09-30T05:10:00Z
@@ -1582,8 +1642,11 @@
   start: 2026-09-30T16:23:00Z
   stop: 2026-09-30T16:30:00Z
   title: HAK - prometna edukacija
-  subtitle: ' '
+  subtitle: Edukativna tjedna emisija Hrvatskog autokluba donosi reportaže, kratke savjete i zanimljivosti o cestovnom prometu i povećanju sigurnosti.
   description: Edukativna tjedna emisija Hrvatskog autokluba donosi reportaže, kratke savjete i zanimljivosti o cestovnom prometu i povećanju sigurnosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1289986
   - 1336850
@@ -1737,7 +1800,7 @@
   start: 2026-09-30T19:45:00Z
   stop: 2026-09-30T20:14:00Z
   title: turizam.hrt
-  subtitle: U tjednoj emisiji o turizmu pratimo, propitkujemo i analiziramo turističke aktualnosti na obali, otocima i u unutrašnjosti.
+  subtitle: Je li broj turističkih grupa u Istri, karakterističnih za posezonu, napokon dostigao pred pandemijske godine? Kakva je ovogodišnja potrošnja turista na zadarskom području?
   ageRating: 4
   genre:
   - '160'
@@ -1758,8 +1821,11 @@
   start: 2026-09-30T20:14:00Z
   stop: 2026-09-30T20:30:00Z
   title: 'Manjinski mozaik: Petrovačko zvono'
-  subtitle: ' '
+  subtitle: Petrovačko zvono zvoni duže od pola stoljeća. Najavljuje druženje i veselje koje pjesmom i plesom šire kulturno-umjetnička društva Rusina u Hrvatskoj.
   description: Petrovačko zvono zvoni duže od pola stoljeća. Najavljuje druženje i veselje koje pjesmom i plesom šire kulturno-umjetnička društva Rusina u Hrvatskoj. U središtu rusinske zajednice, u mjestu Petrovci u plodnom Srijemu, odzvanjao je rusinski jezik u stihu i koraku. Petrovačko zvono središnja je kulturna manifestacija Rusina. Slavi se tradicija i zajedništvo naroda koji nema matičnu državu, ali ima srce koje snažno kuca.
+  ageRating: 4
+  genre:
+  - '128'
 - eventId:
   - 1289377
   - 1336851
@@ -1862,8 +1928,11 @@
   start: 2026-09-30T21:55:00Z
   stop: 2026-09-30T22:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1289999
   - 1336852
@@ -1909,7 +1978,7 @@
   start: 2026-09-30T22:17:00Z
   stop: 2026-09-30T22:42:00Z
   title: Druga strana
-  subtitle: Tjedna emisija o gospodarstvu koja govori o onome što drugi prešućuju. Je li sve onakvo kakvim se na prvi pogled čini?
+  subtitle: Koliko košta mentalno zdravlje? Može li to biti porezno priznati odbitak? I kako mjeriti odnos dobivenog novca, slave i društvenog statusa i psihoza, odnosno mentalnih poremećaja?
   ageRating: 4
   genre:
   - '160'
