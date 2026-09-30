@@ -222,8 +222,20 @@
   hd: true
 - eventId: 1334036
   start: 2026-10-06T03:40:00Z
-  stop: 2026-10-06T03:55:00Z
+  stop: 2026-10-06T03:50:00Z
   title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358537
+  start: 2026-10-06T03:50:00Z
+  stop: 2026-10-06T04:00:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
   genre:
   - '32'
   widescreen: true
@@ -241,6 +253,15 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1358538
+  start: 2026-10-06T04:00:00Z
+  stop: 2026-10-06T04:20:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1334038
   start: 2026-10-06T04:05:00Z
   stop: 2026-10-06T04:25:00Z
@@ -250,9 +271,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1334039
-  start: 2026-10-06T04:25:00Z
-  stop: 2026-10-06T04:30:00Z
+- eventId: 1358539
+  start: 2026-10-06T04:20:00Z
+  stop: 2026-10-06T04:25:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -262,6 +283,19 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 1334039
+  start: 2026-10-06T04:25:00Z
+  stop: 2026-10-06T04:45:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 1334040
   start: 2026-10-06T04:30:00Z
   stop: 2026-10-06T04:50:00Z
@@ -271,9 +305,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1334041
-  start: 2026-10-06T04:50:00Z
-  stop: 2026-10-06T04:55:00Z
+- eventId: 1358540
+  start: 2026-10-06T04:45:00Z
+  stop: 2026-10-06T04:50:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -283,6 +317,19 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 1334041
+  start: 2026-10-06T04:50:00Z
+  stop: 2026-10-06T05:10:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 1334042
   start: 2026-10-06T04:55:00Z
   stop: 2026-10-06T05:15:00Z
@@ -292,9 +339,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1334043
-  start: 2026-10-06T05:15:00Z
-  stop: 2026-10-06T05:20:00Z
+- eventId: 1358541
+  start: 2026-10-06T05:10:00Z
+  stop: 2026-10-06T05:15:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -304,6 +351,19 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 1334043
+  start: 2026-10-06T05:15:00Z
+  stop: 2026-10-06T05:35:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 1334044
   start: 2026-10-06T05:20:00Z
   stop: 2026-10-06T05:40:00Z
@@ -313,9 +373,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1334045
-  start: 2026-10-06T05:40:00Z
-  stop: 2026-10-06T05:45:00Z
+- eventId: 1358542
+  start: 2026-10-06T05:35:00Z
+  stop: 2026-10-06T05:40:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -325,6 +385,19 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 1334045
+  start: 2026-10-06T05:40:00Z
+  stop: 2026-10-06T06:15:00Z
+  title: Sportflash
+  subtitle: 'Subventionierte Kultur: Wie wichtig und nötig sind Gelder der öffentlichen Hand?'
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 1334046
   start: 2026-10-06T05:45:00Z
   stop: 2026-10-06T06:20:00Z
@@ -336,6 +409,17 @@
   description: |-
     In der Schweiz subventionieren Bund, Kantone und Gemeinden die hiesige Kulturbranche mit Millionen an Fördermitteln. Viel zu viel, finden die einen, deutlich zu wenig, kritisieren andere.
     Schweiz 2026
+- eventId: 1358543
+  start: 2026-10-06T06:15:00Z
+  stop: 2026-10-06T06:45:00Z
+  title: SRFglobal
+  subtitle: Das grosse Geschäft mit dem Balkan
+  description: |-
+    Der Westbalkan gleicht einem Marktplatz, auf dem Interessensgruppen aus den USA, China, dem Nahen Osten oder Russland Einfluss zu kaufen versuchen. Im Angebot stehen Häfen, Minen, Küstenstreifen und ganze Inseln. Wer sichert sich wo, was - und was erhält er im Gegenzug?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1334051
   start: 2026-10-06T06:20:00Z
   stop: 2026-10-06T06:50:00Z
@@ -343,6 +427,17 @@
   subtitle: Das grosse Geschäft mit dem Balkan
   description: |-
     Der Westbalkan gleicht einem Marktplatz, auf dem Interessensgruppen aus den USA, China, dem Nahen Osten oder Russland Einfluss zu kaufen versuchen. Im Angebot stehen Häfen, Minen, Küstenstreifen und ganze Inseln. Wer sichert sich wo, was - und was erhält er im Gegenzug?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358544
+  start: 2026-10-06T06:45:00Z
+  stop: 2026-10-06T07:20:00Z
+  title: Puls
+  subtitle: Im Rausch der Muskeln - Ab wann wird es gefährlich?
+  description: |-
+    Der Muskelboom unter Jugendlichen hält an. Für schnelle Erfolge greifen deshalb immer mehr junge Männer zu Anabolika und riskieren ihre Gesundheit. Gleichzeitig wächst der psychische Druck: Wenn selbst exzessives Training nicht zum Traumkörper führt, dann werden Muskeln zur Obsession.
     Schweiz 2026
   widescreen: true
   subtitled: true
@@ -563,6 +658,327 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1358547
+  start: 2026-10-06T13:50:00Z
+  stop: 2026-10-06T13:55:00Z
+  title: Meteo
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358548
+  start: 2026-10-06T13:55:00Z
+  stop: 2026-10-06T14:30:00Z
+  title: Puls
+  subtitle: Im Rausch der Muskeln - Ab wann wird es gefährlich?
+  description: |-
+    Der Muskelboom unter Jugendlichen hält an. Für schnelle Erfolge greifen deshalb immer mehr junge Männer zu Anabolika und riskieren ihre Gesundheit. Gleichzeitig wächst der psychische Druck: Wenn selbst exzessives Training nicht zum Traumkörper führt, dann werden Muskeln zur Obsession.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358549
+  start: 2026-10-06T14:30:00Z
+  stop: 2026-10-06T14:35:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358550
+  start: 2026-10-06T14:35:00Z
+  stop: 2026-10-06T14:40:00Z
+  title: Meteo
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358556
+  start: 2026-10-06T14:40:00Z
+  stop: 2026-10-06T15:15:00Z
+  title: Eco Talk
+  subtitle: 'Subventionierte Kultur: Wie wichtig und nötig sind Gelder der öffentlichen Hand?'
+  description: |-
+    In der Schweiz subventionieren Bund, Kantone und Gemeinden die hiesige Kulturbranche mit Millionen an Fördermitteln. Viel zu viel, finden die einen, deutlich zu wenig, kritisieren andere.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358559
+  start: 2026-10-06T15:15:00Z
+  stop: 2026-10-06T15:20:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358560
+  start: 2026-10-06T15:20:00Z
+  stop: 2026-10-06T15:25:00Z
+  title: Meteo
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358561
+  start: 2026-10-06T15:25:00Z
+  stop: 2026-10-06T16:00:00Z
+  title: SRFglobal
+  subtitle: Das grosse Geschäft mit dem Balkan
+  description: |-
+    Der Westbalkan gleicht einem Marktplatz, auf dem Interessensgruppen aus den USA, China, dem Nahen Osten oder Russland Einfluss zu kaufen versuchen. Im Angebot stehen Häfen, Minen, Küstenstreifen und ganze Inseln. Wer sichert sich wo, was - und was erhält er im Gegenzug?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358562
+  start: 2026-10-06T16:00:00Z
+  stop: 2026-10-06T16:10:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358563
+  start: 2026-10-06T16:10:00Z
+  stop: 2026-10-06T16:15:00Z
+  title: Tagesschau kompakt
+  subtitle: Vorabendausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358564
+  start: 2026-10-06T16:15:00Z
+  stop: 2026-10-06T16:20:00Z
+  title: Meteo
+  subtitle: Vorabendausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358565
+  start: 2026-10-06T16:20:00Z
+  stop: 2026-10-06T16:30:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358566
+  start: 2026-10-06T16:30:00Z
+  stop: 2026-10-06T16:35:00Z
+  title: Tagesschau kompakt
+  subtitle: Vorabendausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358567
+  start: 2026-10-06T16:35:00Z
+  stop: 2026-10-06T16:40:00Z
+  title: Meteo
+  subtitle: Vorabendausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358568
+  start: 2026-10-06T16:40:00Z
+  stop: 2026-10-06T16:50:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358569
+  start: 2026-10-06T16:50:00Z
+  stop: 2026-10-06T17:00:00Z
+  title: Meteo
+  subtitle: Vorabendausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358570
+  start: 2026-10-06T17:00:00Z
+  stop: 2026-10-06T17:25:00Z
+  title: Schweiz aktuell in Gebärdensprache
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358571
+  start: 2026-10-06T17:25:00Z
+  stop: 2026-10-06T17:30:00Z
+  title: SRF Börse in Gebärdensprache
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358572
+  start: 2026-10-06T17:30:00Z
+  stop: 2026-10-06T17:55:00Z
+  title: Tagesschau in Gebärdensprache
+  subtitle: Hauptausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358573
+  start: 2026-10-06T17:55:00Z
+  stop: 2026-10-06T18:05:00Z
+  title: Meteo in Gebärdensprache
+  subtitle: Abendausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358574
+  start: 2026-10-06T18:05:00Z
+  stop: 2026-10-06T18:45:00Z
+  title: Eco Talk
+  subtitle: 'Subventionierte Kultur: Wie wichtig und nötig sind Gelder der öffentlichen Hand?'
+  description: |-
+    In der Schweiz subventionieren Bund, Kantone und Gemeinden die hiesige Kulturbranche mit Millionen an Fördermitteln. Viel zu viel, finden die einen, deutlich zu wenig, kritisieren andere.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358575
+  start: 2026-10-06T18:45:00Z
+  stop: 2026-10-06T19:40:00Z
+  title: Mona mittendrin
+  subtitle: Am Flughafen Zürich - Präzision hinter den Kulissen
+  description: |-
+    Der Flughafen Zürich funktioniert wie ein Uhrwerk. Vieles ist für die Passagiere selbstverständlich und nicht sichtbar. Hinter den Kulissen leisten Menschen Präzisionsarbeit, damit das komplexe Ganze funktioniert. Mona Vetsch lernt Mitarbeitende kennen, die Verantwortung tragen.
+    Deutsche Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358576
+  start: 2026-10-06T19:40:00Z
+  stop: 2026-10-06T19:45:00Z
+  title: Meteo
+  subtitle: Abendausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358577
+  start: 2026-10-06T19:45:00Z
+  stop: 2026-10-06T19:55:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358578
+  start: 2026-10-06T19:55:00Z
+  stop: 2026-10-06T20:00:00Z
+  title: SRF Börse
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358579
+  start: 2026-10-06T20:00:00Z
+  stop: 2026-10-06T20:05:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 1358580
+  start: 2026-10-06T20:05:00Z
+  stop: 2026-10-06T20:25:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358581
+  start: 2026-10-06T20:25:00Z
+  stop: 2026-10-06T20:30:00Z
+  title: Meteo
+  subtitle: Abendausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358582
+  start: 2026-10-06T20:30:00Z
+  stop: 2026-10-06T20:35:00Z
+  title: SRF Börse
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358583
+  start: 2026-10-06T20:35:00Z
+  stop: 2026-10-06T20:40:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 1358584
+  start: 2026-10-06T20:40:00Z
+  stop: 2026-10-06T21:05:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1345444
   start: 2026-10-06T21:05:00Z
   stop: 2026-10-06T21:10:00Z
@@ -606,6 +1022,126 @@
 - eventId: 1345448
   start: 2026-10-06T21:45:00Z
   stop: 2026-10-06T22:10:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358588
+  start: 2026-10-06T22:10:00Z
+  stop: 2026-10-06T22:15:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358589
+  start: 2026-10-06T22:15:00Z
+  stop: 2026-10-06T22:20:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 1358590
+  start: 2026-10-06T22:20:00Z
+  stop: 2026-10-06T22:25:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358591
+  start: 2026-10-06T22:25:00Z
+  stop: 2026-10-06T22:50:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358592
+  start: 2026-10-06T22:50:00Z
+  stop: 2026-10-06T22:55:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358593
+  start: 2026-10-06T22:55:00Z
+  stop: 2026-10-06T23:00:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 1358594
+  start: 2026-10-06T23:00:00Z
+  stop: 2026-10-06T23:05:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358595
+  start: 2026-10-06T23:05:00Z
+  stop: 2026-10-06T23:30:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358596
+  start: 2026-10-06T23:30:00Z
+  stop: 2026-10-06T23:35:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358597
+  start: 2026-10-06T23:35:00Z
+  stop: 2026-10-06T23:40:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 1358598
+  start: 2026-10-06T23:40:00Z
+  stop: 2026-10-06T23:45:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1358599
+  start: 2026-10-06T23:45:00Z
+  stop: 2026-10-07T00:10:00Z
   title: 10 vor 10
   genre:
   - '32'
