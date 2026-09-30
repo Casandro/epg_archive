@@ -2578,7 +2578,7 @@
   - '160'
 - eventId: 1212268
   start: 2026-09-30T21:00:00Z
-  stop: 2026-09-30T22:00:00Z
+  stop: 2026-09-30T21:20:00Z
   title: Live News MK
   subtitle: ' Preluare TVR Cluj   (Reluare)'
   ageRating: 4
@@ -2657,7 +2657,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1372890
+- eventId:
+  - 1372890
+  - 1373322
   start: 2026-09-30T21:20:00Z
   stop: 2026-09-30T22:00:00Z
   title: Farewell Letter
@@ -2791,6 +2793,7 @@
   - 1370749
   - 1372891
   - 1373063
+  - 1373323
   start: 2026-09-30T22:05:00Z
   stop: 2026-09-30T23:25:00Z
   title: Click Plus
@@ -2865,6 +2868,7 @@
   - 1370750
   - 1372892
   - 1373064
+  - 1373324
   start: 2026-09-30T23:25:00Z
   stop: 2026-10-01T01:25:00Z
   title: Pastel
