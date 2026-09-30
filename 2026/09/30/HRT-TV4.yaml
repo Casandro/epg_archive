@@ -502,6 +502,7 @@
   - 1345985
   - 1346163
   - 1352145
+  - 1355972
   start: 2026-09-30T01:50:00Z
   stop: 2026-09-30T01:55:00Z
   title: '#REPORTAŽE'
@@ -576,6 +577,7 @@
   - 1345986
   - 1346164
   - 1352146
+  - 1355973
   start: 2026-09-30T01:55:00Z
   stop: 2026-09-30T01:58:00Z
   title: Bez komentara
@@ -612,6 +614,14 @@
   genre:
   - '160'
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
+- eventId: 1355974
+  start: 2026-09-30T01:58:00Z
+  stop: 2026-09-30T02:41:00Z
+  title: Pregled dana
+  subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1344937
   start: 2026-09-30T01:59:00Z
   stop: 2026-09-30T02:43:00Z
@@ -634,6 +644,7 @@
   - 1345988
   - 1346166
   - 1352148
+  - 1355975
   start: 2026-09-30T02:43:00Z
   stop: 2026-09-30T02:53:00Z
   title: Vijesti flash
@@ -658,6 +669,7 @@
   - 1345989
   - 1346167
   - 1352149
+  - 1355976
   start: 2026-09-30T02:53:00Z
   stop: 2026-09-30T03:00:00Z
   title: Vijesti iz kulture
@@ -689,6 +701,14 @@
   genre:
   - '32'
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
+- eventId: 1355977
+  start: 2026-09-30T03:00:00Z
+  stop: 2026-09-30T03:50:00Z
+  title: Dnevnik 2
+  subtitle: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1345199
   - 1353510
@@ -700,6 +720,7 @@
 - eventId:
   - 1343913
   - 1352151
+  - 1355978
   start: 2026-09-30T03:51:00Z
   stop: 2026-09-30T03:53:00Z
   title: Vrijeme RH danas
@@ -718,7 +739,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 1289915
   start: 2026-09-30T03:53:00Z
-  stop: 2026-09-30T03:55:00Z
+  stop: 2026-09-30T03:54:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -761,7 +782,9 @@
   title: Vrijeme svijet danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 1352152
+- eventId:
+  - 1352152
+  - 1355979
   start: 2026-09-30T03:54:00Z
   stop: 2026-09-30T03:56:00Z
   title: Vrijeme Svijet danas
@@ -832,7 +855,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1352153
+- eventId:
+  - 1352153
+  - 1355980
   start: 2026-09-30T03:56:00Z
   stop: 2026-09-30T04:00:00Z
   title: Bez komentara
@@ -894,6 +919,7 @@
   - 1345297
   - 1346170
   - 1352154
+  - 1355981
   start: 2026-09-30T04:00:00Z
   stop: 2026-09-30T04:08:00Z
   title: Vijesti na španjolskom jeziku
@@ -935,6 +961,7 @@
   - 1345298
   - 1346171
   - 1352155
+  - 1355982
   start: 2026-09-30T04:08:00Z
   stop: 2026-09-30T04:10:00Z
   title: Bez komentara
@@ -947,6 +974,7 @@
   - 1345299
   - 1346172
   - 1352156
+  - 1355983
   start: 2026-09-30T04:10:00Z
   stop: 2026-09-30T04:18:00Z
   title: Vijesti na engleskom jeziku
@@ -977,7 +1005,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 1352157
+- eventId:
+  - 1352157
+  - 1355984
   start: 2026-09-30T04:18:00Z
   stop: 2026-09-30T04:27:00Z
   title: 'Studio 4: Znanost'
@@ -1044,6 +1074,14 @@
   title: Otvoreno
   subtitle: ' '
   description: 'Koja će biti sudbina arhitektonskog natječaja za novi stadion u Maksimiru? Hoće li se natječaj poništiti, hoće li se doraditi ili graditi prvonagrađeni projekt ili nešto treće? Što je trebalo napraviti drugačije? Tko treba odlučiti koje je najbolje rješenje za Zagreb i nogomet? Gosti su: Tihomil Matković, zamjenik predsjednika Grupacije arhitektonskih i inženjerskih djelatnosti, HGK, prof. dr. sc. Krunoslav Šmit, Katedra za urbanizam Arhitektonskog fakulteta, Otto Barić, arhitekt, Toma Plejić, predsjednik Udruženja hrvatskih arhitekata i ocjenjivačkog suda za novi stadion'
+- eventId: 1355985
+  start: 2026-09-30T04:27:00Z
+  stop: 2026-09-30T04:55:00Z
+  title: Otvoreno
+  subtitle: Koja će biti sudbina arhitektonskog natječaja za novi stadion u Maksimiru? Hoće li se natječaj poništiti, hoće li se doraditi ili graditi prvonagrađeni projekt ili nešto treće?
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1345968
   - 1346065
@@ -1098,7 +1136,9 @@
   title: 'Bez komentara: Moskva, Rusija - Neobična utrka: natjecatelji veslali u golemim bundevama'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1352159
+- eventId:
+  - 1352159
+  - 1355986
   start: 2026-09-30T04:57:00Z
   stop: 2026-09-30T05:00:00Z
   title: Bez komentara
