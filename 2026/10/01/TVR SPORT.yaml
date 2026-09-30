@@ -92,6 +92,7 @@
   - 1362626
   - 1364472
   - 1366318
+  - 1367105
   start: 2026-10-01T01:25:00Z
   stop: 2026-10-01T02:00:00Z
   title: Çikat n'Trip
@@ -172,6 +173,7 @@
   - 1362627
   - 1364473
   - 1366319
+  - 1367106
   start: 2026-10-01T02:00:00Z
   stop: 2026-10-01T03:30:00Z
   title: Reportazhe
@@ -309,6 +311,7 @@
   - 1362628
   - 1364474
   - 1366320
+  - 1367107
   start: 2026-10-01T03:30:00Z
   stop: 2026-10-01T04:30:00Z
   title: Muzike Top 10
@@ -384,6 +387,7 @@
   - 1362629
   - 1364475
   - 1366321
+  - 1367108
   start: 2026-10-01T04:30:00Z
   stop: 2026-10-01T05:00:00Z
   title: Muzikë për fëmijë
@@ -430,6 +434,14 @@
   - 1366322
   start: 2026-10-01T05:00:00Z
   stop: 2026-10-01T07:05:00Z
+  title: Pastel
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1367109
+  start: 2026-10-01T05:00:00Z
+  stop: 2026-10-01T07:00:00Z
   title: Pastel
   subtitle: ' '
   ageRating: 4
@@ -596,6 +608,7 @@
   - 1362631
   - 1364477
   - 1366323
+  - 1367110
   start: 2026-10-01T07:05:00Z
   stop: 2026-10-01T09:00:00Z
   title: Programi i mëngjesit
@@ -740,6 +753,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1367111
+  start: 2026-10-01T09:00:00Z
+  stop: 2026-10-01T10:10:00Z
+  title: Daily Click
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1212284
   start: 2026-10-01T09:40:00Z
   stop: 2026-10-01T09:59:00Z
@@ -875,6 +896,7 @@
   - 1362633
   - 1364479
   - 1366325
+  - 1367112
   start: 2026-10-01T10:15:00Z
   stop: 2026-10-01T10:35:00Z
   title: Çka ka me honger
@@ -925,7 +947,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1362634
+- eventId:
+  - 1362634
+  - 1367113
   start: 2026-10-01T10:35:00Z
   stop: 2026-10-01T12:30:00Z
   title: Farewell Letter
@@ -1094,6 +1118,7 @@
   - 1362635
   - 1364407
   - 1366327
+  - 1367114
   start: 2026-10-01T12:35:00Z
   stop: 2026-10-01T12:59:00Z
   title: Reportazhe
@@ -1108,7 +1133,7 @@
   subtitle: ' ... '
 - eventId: 1212293
   start: 2026-10-01T13:00:00Z
-  stop: 2026-10-01T13:10:00Z
+  stop: 2026-10-01T13:20:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -1182,6 +1207,7 @@
   - 1362636
   - 1364408
   - 1366328
+  - 1367115
   start: 2026-10-01T13:20:00Z
   stop: 2026-10-01T13:30:00Z
   title: Promo
@@ -1226,6 +1252,7 @@
   - 1362637
   - 1364409
   - 1366329
+  - 1367116
   start: 2026-10-01T13:30:00Z
   stop: 2026-10-01T14:00:00Z
   title: Reportazhe
@@ -1243,7 +1270,7 @@
   - '160'
 - eventId: 1305233
   start: 2026-10-01T15:00:00Z
-  stop: 2026-10-01T16:30:00Z
+  stop: 2026-10-01T15:55:00Z
   title: Pastel
   subtitle: ' * CUPA MONDIALA BAKU, AZERBAIDJANComentator: Vlad BucurescuTransmisiune directa '
   ageRating: 4
@@ -1291,6 +1318,7 @@
   - 1362638
   - 1364410
   - 1366330
+  - 1367117
   start: 2026-10-01T15:55:00Z
   stop: 2026-10-01T16:00:00Z
   title: Promo
@@ -1335,6 +1363,7 @@
   - 1362639
   - 1364411
   - 1366331
+  - 1367118
   start: 2026-10-01T16:00:00Z
   stop: 2026-10-01T16:30:00Z
   title: Reportazhe
@@ -1384,6 +1413,7 @@
   - 1362640
   - 1364412
   - 1366332
+  - 1367119
   start: 2026-10-01T16:30:00Z
   stop: 2026-10-01T17:00:00Z
   title: Live news AL
@@ -1424,7 +1454,7 @@
   subtitle: '   '
 - eventId: 1212298
   start: 2026-10-01T17:00:00Z
-  stop: 2026-10-01T18:00:00Z
+  stop: 2026-10-01T17:30:00Z
   title: HANDBAL ZOOM Premiera
   subtitle: '  '
   ageRating: 4
@@ -1467,6 +1497,7 @@
   - 1362641
   - 1364413
   - 1366333
+  - 1367120
   start: 2026-10-01T17:30:00Z
   stop: 2026-10-01T18:00:00Z
   title: Live News MK
@@ -1476,7 +1507,7 @@
   - '32'
 - eventId: 1212299
   start: 2026-10-01T18:00:00Z
-  stop: 2026-10-01T18:10:00Z
+  stop: 2026-10-01T18:45:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -1552,6 +1583,7 @@
   - 1362642
   - 1364414
   - 1366334
+  - 1367121
   start: 2026-10-01T18:45:00Z
   stop: 2026-10-01T19:30:00Z
   title: Firefly
@@ -1595,6 +1627,7 @@
   - 1362643
   - 1364415
   - 1366335
+  - 1367122
   start: 2026-10-01T19:30:00Z
   stop: 2026-10-01T20:55:00Z
   title: Film artistik
@@ -1622,7 +1655,7 @@
   - '160'
 - eventId: 1308659
   start: 2026-10-01T21:00:00Z
-  stop: 2026-10-01T22:35:00Z
+  stop: 2026-10-01T21:20:00Z
   title: Live News MK
   subtitle: ' * CUPA MONDIALA BAKU, AZERBAIDJAN Comentator: Vlad Bucurescu   (Reluare)'
   ageRating: 4
@@ -1665,6 +1698,7 @@
   - 1362644
   - 1364416
   - 1366336
+  - 1367123
   start: 2026-10-01T21:20:00Z
   stop: 2026-10-01T22:05:00Z
   title: Farewell Letter
@@ -1719,6 +1753,7 @@
   - 1362645
   - 1364417
   - 1366337
+  - 1367124
   start: 2026-10-01T22:05:00Z
   stop: 2026-10-01T23:25:00Z
   title: Click Plus
@@ -1794,6 +1829,7 @@
   - 1362646
   - 1364418
   - 1366338
+  - 1367125
   start: 2026-10-01T23:25:00Z
   stop: 2026-10-02T01:20:00Z
   title: Pastel

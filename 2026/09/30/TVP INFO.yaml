@@ -846,7 +846,7 @@
   - '32'
 - eventId: 1143280
   start: 2026-09-30T21:45:00Z
-  stop: 2026-09-30T22:02:00Z
+  stop: 2026-09-30T22:03:00Z
   title: Panorama dnia
   subtitle: Główny serwis informacyjny TVP Info podsumowujący dzień, wzbogacony o więcej wiadomości ze świata oraz z dziedziny gospodarki i kultury.
   description: |-
@@ -880,6 +880,7 @@
 - eventId:
   - 1356189
   - 1356432
+  - 1366981
   start: 2026-09-30T22:03:00Z
   stop: 2026-09-30T22:50:00Z
   title: Bez trybu. Justyna Dobrosz-Oracz
@@ -910,6 +911,7 @@
 - eventId:
   - 1356190
   - 1356433
+  - 1366982
   start: 2026-09-30T22:50:00Z
   stop: 2026-09-30T22:58:00Z
   title: Pogoda Info
@@ -950,6 +952,7 @@
 - eventId:
   - 1356191
   - 1356434
+  - 1366983
   start: 2026-09-30T22:58:00Z
   stop: 2026-09-30T23:26:00Z
   title: Program informacyjny 19.30
@@ -982,6 +985,7 @@
   - 1244396
   - 1356192
   - 1356435
+  - 1366984
   start: 2026-09-30T23:26:00Z
   stop: 2026-09-30T23:51:00Z
   title: Pytanie dnia
@@ -1012,13 +1016,15 @@
     PL, 2026
   genre:
   - '129'
-- eventId: 1244397
+- eventId:
+  - 1244397
+  - 1366985
   start: 2026-09-30T23:51:00Z
   stop: 2026-10-01T00:06:00Z
   title: 112. Magazyn kryminalny
-  description: |
-    Tytuł oryginalny: 112. Magazyn kryminalny
-    PL, 2026
+  description: |-
+    magazyn (Polska, 2026)
+    Program nadawany na żywo z patrolującego nocną Warszawę samochodu ma przedstawiać najważniejsze zdarzenia kryminalne dnia. Prowadzący wraz z byłym funkcjonariuszem policji będą omawiać poszczególne sprawy, korzystając z jego wiedzy i praktyki zdobytej podczas służby.
   genre:
   - '129'
 - eventId:
