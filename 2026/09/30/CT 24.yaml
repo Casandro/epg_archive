@@ -996,7 +996,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1366670
+- eventId:
+  - 1366670
+  - 1367246
   start: 2026-09-30T16:28:00Z
   stop: 2026-09-30T16:55:00Z
   title: Interview ČT24
@@ -1046,13 +1048,24 @@
   - 1134764
   - 1138257
   start: 2026-09-30T17:54:00Z
-  stop: 2026-09-30T17:56:00Z
+  stop: 2026-09-30T17:55:59Z
   title: Počasí v evropských metropolích
   description: HDTV
   genre:
   - '33'
   widescreen: true
   hd: true
+- eventId: 1367247
+  start: 2026-09-30T17:55:59Z
+  stop: 2026-09-30T18:06:49Z
+  title: Branky, body, vteřiny
+  description: |-
+    HDTV
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 1134765
   - 1138258
@@ -1069,6 +1082,17 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 1367230
+  start: 2026-09-30T18:06:49Z
+  stop: 2026-09-30T19:30:00Z
+  title: 90' ČT24
+  subtitle: 'Téma: Sněmovní opozice chce vyslovit nedůvěru vládě. Moderuje: Mariana Novotná.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1135062
   - 1138259
