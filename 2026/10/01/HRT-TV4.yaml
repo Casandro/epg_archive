@@ -1906,13 +1906,23 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1398116
+  start: 2026-10-01T21:50:00Z
+  stop: 2026-10-01T21:56:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1398000
   start: 2026-10-01T21:54:00Z
   stop: 2026-10-01T22:00:00Z
   title: '#REPORTAŽE: Dominik i videoigrice'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 1322605
+- eventId:
+  - 1322605
+  - 1398117
   start: 2026-10-01T21:56:00Z
   stop: 2026-10-01T22:00:00Z
   title: Bez komentara
@@ -1966,7 +1976,7 @@
   - '32'
 - eventId: 1322606
   start: 2026-10-01T22:43:00Z
-  stop: 2026-10-01T23:05:00Z
+  stop: 2026-10-01T23:06:00Z
   title: Regionalni dnevnik
   subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
@@ -1984,7 +1994,9 @@
   genre:
   - '32'
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
-- eventId: 1322607
+- eventId:
+  - 1322607
+  - 1398118
   start: 2026-10-01T23:06:00Z
   stop: 2026-10-01T23:58:00Z
   title: Dnevnik 2
@@ -2004,7 +2016,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1320251
   start: 2026-10-01T23:59:00Z
-  stop: 2026-10-02T00:01:00Z
+  stop: 2026-10-02T00:00:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
