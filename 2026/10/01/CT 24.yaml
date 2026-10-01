@@ -434,7 +434,7 @@
   - 1177516
   - 1388657
   start: 2026-10-01T11:03:00Z
-  stop: 2026-10-01T11:30:00Z
+  stop: 2026-10-01T11:29:50Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
   description: |-
@@ -458,7 +458,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 1388660
+- eventId:
+  - 1388660
+  - 1390677
   start: 2026-10-01T11:29:50Z
   stop: 2026-10-01T11:32:50Z
   title: Zprávy
@@ -504,7 +506,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 1388661
+- eventId:
+  - 1388661
+  - 1390678
   start: 2026-10-01T11:32:50Z
   stop: 2026-10-01T12:00:00Z
   title: Studio ČT24
@@ -656,7 +660,7 @@
   - 1165887
   - 1177543
   start: 2026-10-01T13:30:00Z
-  stop: 2026-10-01T13:33:00Z
+  stop: 2026-10-01T13:34:55Z
   title: Zprávy
   description: |-
     HDTV
@@ -681,6 +685,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1390687
+  start: 2026-10-01T13:34:55Z
+  stop: 2026-10-01T13:41:55Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1165889
   - 1177545
@@ -696,6 +711,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1390688
+  start: 2026-10-01T13:41:55Z
+  stop: 2026-10-01T14:00:00Z
+  title: Ekonomika ČT24
+  subtitle: Nejdůležitější zprávy ze světa peněz každý všední den.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '128'
+  widescreen: true
 - eventId:
   - 1165890
   - 1177546
