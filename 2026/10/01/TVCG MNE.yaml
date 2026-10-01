@@ -304,20 +304,32 @@
   - '128'
 - eventId: 1283773
   start: 2026-10-01T16:00:00Z
-  stop: 2026-10-01T16:40:00Z
+  stop: 2026-10-01T16:10:00Z
   title: 'TV arhiv: Veselin Đuranović II dio'
   subtitle: 'Dokumentarna serija "Istorijski portreti" donosi nam priče o životu i borbi istaknutih pojedinaca i velikana Crne Gore. '
   ageRating: 4
   genre:
   - '128'
-- eventId: 1373273
+- eventId:
+  - 1373273
+  - 1376724
   start: 2026-10-01T16:10:00Z
   stop: 2026-10-01T16:30:00Z
   title: Akcenti
-- eventId: 1373274
+  subtitle: Pratite "Akcente" i budite u toku sa najnovijim društvenim i političkim dešavanjima u zemlji i saznajte šta o njima imaju da kažu naši cijenjeni gosti.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 1373274
+  - 1376725
   start: 2026-10-01T16:30:00Z
   stop: 2026-10-01T17:00:00Z
   title: Press konferencija
+  subtitle: Pres konferencija za medije.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1283774
   start: 2026-10-01T16:40:00Z
   stop: 2026-10-01T17:10:00Z
@@ -337,10 +349,16 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1373275
+- eventId:
+  - 1373275
+  - 1376726
   start: 2026-10-01T17:00:00Z
   stop: 2026-10-01T17:10:00Z
   title: Akcenti
+  subtitle: Pratite "Akcente" i budite u toku sa najnovijim društvenim i političkim dešavanjima u zemlji i saznajte šta o njima imaju da kažu naši cijenjeni gosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1283775
   start: 2026-10-01T17:10:00Z
   stop: 2026-10-01T17:20:00Z
