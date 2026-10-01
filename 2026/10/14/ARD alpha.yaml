@@ -73,8 +73,11 @@
 - eventId: 1163444
   start: 2026-10-14T06:30:00Z
   stop: 2026-10-14T06:45:00Z
-  title: Tele-Gym (7)
-  subtitle: Emotional Moves
+  title: Tele-Gym (7/8)
+  subtitle: Aktiv in den Tag
+  genre:
+  - '144'
+  subtitled: true
 - eventId: 1163445
   start: 2026-10-14T06:45:00Z
   stop: 2026-10-14T08:00:00Z
@@ -103,7 +106,7 @@
 - eventId: 1163814
   start: 2026-10-14T09:45:00Z
   stop: 2026-10-14T10:05:00Z
-  title: Hannah Arendt - Das Mädchen aus der Fremde
+  title: Hannah Arendt - Das Mädchen aus der Fremde (3/5)
   subtitle: Ich will verstehen
 - eventId: 1163815
   start: 2026-10-14T10:05:00Z
@@ -113,13 +116,17 @@
 - eventId: 1163816
   start: 2026-10-14T11:00:00Z
   stop: 2026-10-14T11:15:00Z
-  title: Tele-Gym (5)
-  subtitle: Yoga-Pilates-50plus
+  title: Tele-Gym (5/8)
+  subtitle: Gesund & schön - funktionelles Figurtraining
+  subtitled: true
 - eventId: 1163817
   start: 2026-10-14T11:15:00Z
   stop: 2026-10-14T11:30:00Z
-  title: Tele-Gym (5)
+  title: Tele-Gym (5/8)
   subtitle: Yoga-Pilates-50plus
+  genre:
+  - '144'
+  subtitled: true
 - eventId: 1163818
   start: 2026-10-14T11:30:00Z
   stop: 2026-10-14T12:00:00Z
@@ -127,7 +134,7 @@
 - eventId: 1163955
   start: 2026-10-14T12:00:00Z
   stop: 2026-10-14T12:45:00Z
-  title: Quarks
+  title: 'Quarks: Mehr Wildnis wagen - Wie nah darf sie uns kommen?'
   subtitle: 'Mehr Wildnis wagen: Wie nah darf sie uns kommen?'
   subtitled: true
 - eventId: 1163956
@@ -146,14 +153,20 @@
   title: Mein Körper. Mein Alter.
   subtitle: Wer bestimmt, wie alt ich bin?
   subtitled: true
+  genre:
+  - '144'
 - eventId: 1163959
   start: 2026-10-14T14:00:00Z
   stop: 2026-10-14T14:30:00Z
   title: Werden wir ewig leben?
+  subtitle: 42 - Die Antwort auf fast alles
+  ageRating: 12
+  genre:
+  - '144'
 - eventId: 1163960
   start: 2026-10-14T14:30:00Z
   stop: 2026-10-14T14:45:00Z
-  title: Hannah Arendt - Das Mädchen aus der Fremde
+  title: Hannah Arendt - Das Mädchen aus der Fremde (2/5)
   subtitle: Paria und Parvenu
 - eventId: 1163961
   start: 2026-10-14T14:45:00Z
@@ -165,6 +178,7 @@
   start: 2026-10-14T15:30:00Z
   stop: 2026-10-14T16:15:00Z
   title: 'Tobis Städtetrip: Frankfurt City'
+  subtitle: 'Moderation: Tobias Kämmerer'
 - eventId: 1164635
   start: 2026-10-14T16:15:00Z
   stop: 2026-10-14T16:45:00Z
@@ -232,6 +246,6 @@
   subtitle: Quiet Cove
 - eventId: 1165475
   start: 2026-10-14T23:00:00Z
-  stop: 2026-10-15T00:15:00Z
+  stop: 2026-10-15T00:00:00Z
   title: Space Night
   subtitle: Earth-Views
