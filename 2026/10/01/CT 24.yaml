@@ -1150,7 +1150,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 1395356
+- eventId:
+  - 1395356
+  - 1395997
   start: 2026-10-01T16:28:04Z
   stop: 2026-10-01T16:55:00Z
   title: Interview ČT24
@@ -1267,6 +1269,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1396052
+  start: 2026-10-01T19:30:01Z
+  stop: 2026-10-01T20:00:00Z
+  title: Horizont ČT24
+  subtitle: Pořad zahraniční redakce o dění ve světě. Klade důraz na původní tvorbu vlastních zpravodajů a bohaté agenturní zpravodajství, využívá nejmodernější postupy, televizní žánry i technologie.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1165915
   - 1179745
@@ -1302,6 +1315,7 @@
   - 1179751
   - 1395174
   - 1395678
+  - 1396054
   start: 2026-10-01T21:05:00Z
   stop: 2026-10-01T21:32:00Z
   title: Zprávy ve 23
