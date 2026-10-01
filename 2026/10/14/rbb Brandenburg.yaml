@@ -102,6 +102,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 949709
   start: 2026-10-14T07:45:00Z
   stop: 2026-10-14T08:30:00Z
@@ -112,6 +113,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 949710
   start: 2026-10-14T08:30:00Z
   stop: 2026-10-14T09:15:00Z
@@ -144,6 +146,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId: 949746
   start: 2026-10-14T10:55:00Z
   stop: 2026-10-14T11:40:00Z
@@ -165,11 +169,13 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId: 949770
   start: 2026-10-14T12:30:00Z
   stop: 2026-10-14T14:00:00Z
   title: Erbin mit Herz
-  subtitle: Spielfilm Deutschland/Österreich 2004
+  subtitle: Fernsehfilm Deutschland/Österreich 2004
   episodeUri: crid://onid-1/e/6a989f5f2d07852659fe079f
   genre:
   - '16'
@@ -177,6 +183,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 949771
   start: 2026-10-14T14:00:00Z
   stop: 2026-10-14T14:15:00Z
@@ -196,6 +203,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId: 949799
   start: 2026-10-14T15:05:00Z
   stop: 2026-10-14T15:53:00Z
@@ -303,7 +311,7 @@
 - eventId: 949849
   start: 2026-10-14T20:15:00Z
   stop: 2026-10-14T21:00:00Z
-  title: 'rbb Story: Ausgeliefert!'
+  title: Ausgeliefert! - Das Geschäft mit Kurierfahrern
   subtitle: Das Geschäft mit den Kurierfahrern - Film von Fabian Grieger und Jan Wiese
   episodeUri: crid://onid-1/e/6a989f5f2d07852659fe0789
   widescreen: true
