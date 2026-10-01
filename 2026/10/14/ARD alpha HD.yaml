@@ -54,7 +54,7 @@
 - eventId: 950132
   start: 2026-10-14T04:00:00Z
   stop: 2026-10-14T04:30:00Z
-  title: C'est ça, la vie
+  title: C'est ça, la vie (5/26)
   subtitle: Marie-Paule, ingénieur
   widescreen: true
   subtitled: true
@@ -81,7 +81,7 @@
 - eventId: 950135
   start: 2026-10-14T05:15:00Z
   stop: 2026-10-14T05:30:00Z
-  title: GRIPS Englisch
+  title: GRIPS Englisch (21)
   subtitle: Wegbeschreibung
   widescreen: true
   subtitled: true
@@ -126,12 +126,14 @@
 - eventId: 950177
   start: 2026-10-14T06:30:00Z
   stop: 2026-10-14T06:45:00Z
-  title: Tele-Gym (7)
-  subtitle: Gesunder Rücken
+  title: Tele-Gym (7/8)
+  subtitle: Aktiv in den Tag
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId: 950178
   start: 2026-10-14T06:45:00Z
   stop: 2026-10-14T08:00:00Z
@@ -173,7 +175,7 @@
 - eventId: 950217
   start: 2026-10-14T09:45:00Z
   stop: 2026-10-14T10:05:00Z
-  title: Hannah Arendt - Das Mädchen aus der Fremde
+  title: Hannah Arendt - Das Mädchen aus der Fremde (3/5)
   subtitle: Ich will verstehen
   widescreen: true
   subtitled: true
@@ -191,8 +193,8 @@
 - eventId: 950219
   start: 2026-10-14T11:00:00Z
   stop: 2026-10-14T11:15:00Z
-  title: Tele-Gym (5)
-  subtitle: Yoga-Pilates-50plus
+  title: Tele-Gym (5/8)
+  subtitle: Gesund & schön - funktionelles Figurtraining
   widescreen: true
   subtitled: true
   hd: true
@@ -200,12 +202,14 @@
 - eventId: 950220
   start: 2026-10-14T11:15:00Z
   stop: 2026-10-14T11:30:00Z
-  title: Tele-Gym (5)
+  title: Tele-Gym (5/8)
   subtitle: Yoga-Pilates-50plus
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId: 950221
   start: 2026-10-14T11:30:00Z
   stop: 2026-10-14T12:00:00Z
@@ -217,7 +221,7 @@
 - eventId: 950251
   start: 2026-10-14T12:00:00Z
   stop: 2026-10-14T12:45:00Z
-  title: Quarks
+  title: 'Quarks: Mehr Wildnis wagen - Wie nah darf sie uns kommen?'
   subtitle: 'Mehr Wildnis wagen: Wie nah darf sie uns kommen?'
   widescreen: true
   subtitled: true
@@ -250,6 +254,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId: 950255
   start: 2026-10-14T14:00:00Z
   stop: 2026-10-14T14:30:00Z
@@ -258,10 +264,14 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: 42 - Die Antwort auf fast alles
+  ageRating: 12
+  genre:
+  - '144'
 - eventId: 950256
   start: 2026-10-14T14:30:00Z
   stop: 2026-10-14T14:45:00Z
-  title: Hannah Arendt - Das Mädchen aus der Fremde
+  title: Hannah Arendt - Das Mädchen aus der Fremde (2/5)
   subtitle: Paria und Parvenu
   widescreen: true
   subtitled: true
@@ -284,6 +294,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: 'Moderation: Tobias Kämmerer'
 - eventId: 950301
   start: 2026-10-14T16:15:00Z
   stop: 2026-10-14T16:45:00Z
@@ -397,7 +408,7 @@
   audiodesc: true
 - eventId: 950400
   start: 2026-10-14T23:00:00Z
-  stop: 2026-10-15T00:15:00Z
+  stop: 2026-10-15T00:00:00Z
   title: Space Night
   subtitle: Earth-Views
   widescreen: true
