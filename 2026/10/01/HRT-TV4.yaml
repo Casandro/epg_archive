@@ -1832,6 +1832,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1397998
+  start: 2026-10-01T20:45:00Z
+  stop: 2026-10-01T21:06:00Z
+  title: 'Studio 4: Zelena linija'
+  subtitle: ' '
+  description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
 - eventId: 1320238
   start: 2026-10-01T21:02:00Z
   stop: 2026-10-01T21:07:00Z
@@ -1849,6 +1855,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1397999
+  start: 2026-10-01T21:06:00Z
+  stop: 2026-10-01T21:10:00Z
+  title: '#REPORTAŽE: Bacanje hrane'
+  subtitle: ' '
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 1320239
   start: 2026-10-01T21:07:00Z
   stop: 2026-10-01T21:10:00Z
@@ -1893,6 +1905,12 @@
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1398000
+  start: 2026-10-01T21:54:00Z
+  stop: 2026-10-01T22:00:00Z
+  title: '#REPORTAŽE: Dominik i videoigrice'
+  subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 1322605
   start: 2026-10-01T21:56:00Z
@@ -1948,14 +1966,16 @@
   - '32'
 - eventId: 1322606
   start: 2026-10-01T22:43:00Z
-  stop: 2026-10-01T23:06:00Z
+  stop: 2026-10-01T23:05:00Z
   title: Regionalni dnevnik
   subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
   ageRating: 4
   genre:
   - '32'
-- eventId: 1320249
+- eventId:
+  - 1320249
+  - 1398001
   start: 2026-10-01T23:05:00Z
   stop: 2026-10-01T23:58:00Z
   title: Dnevnik 2
@@ -1963,6 +1983,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
 - eventId: 1322607
   start: 2026-10-01T23:06:00Z
   stop: 2026-10-01T23:58:00Z
@@ -1980,9 +2001,10 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1320251
   start: 2026-10-01T23:59:00Z
-  stop: 2026-10-02T00:00:00Z
+  stop: 2026-10-02T00:01:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
