@@ -311,6 +311,7 @@
 - eventId:
   - 1165873
   - 1177511
+  - 1388645
   start: 2026-10-01T10:00:00Z
   stop: 2026-10-01T10:20:00Z
   title: Zprávy ve 12
@@ -326,6 +327,7 @@
 - eventId:
   - 1165874
   - 1177512
+  - 1388646
   start: 2026-10-01T10:20:00Z
   stop: 2026-10-01T10:30:00Z
   title: Předpověď počasí, sportovní zprávy
@@ -352,6 +354,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1388647
+  start: 2026-10-01T10:30:00Z
+  stop: 2026-10-01T10:33:10Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 1165876
   - 1177514
@@ -367,7 +379,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1387708
+- eventId:
+  - 1387708
+  - 1388648
   start: 2026-10-01T10:33:10Z
   stop: 2026-10-01T11:00:00Z
   title: Studio ČT24
@@ -392,6 +406,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1388649
+  start: 2026-10-01T11:00:00Z
+  stop: 2026-10-01T11:05:11Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 1165878
   - 1177516
@@ -407,7 +431,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1387785
+- eventId:
+  - 1387785
+  - 1388650
   start: 2026-10-01T11:05:11Z
   stop: 2026-10-01T11:31:11Z
   title: Studio ČT24
@@ -432,7 +458,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1388314
+- eventId:
+  - 1388314
+  - 1388651
   start: 2026-10-01T11:31:11Z
   stop: 2026-10-01T11:37:06Z
   title: Zprávy
@@ -457,7 +485,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1388315
+- eventId:
+  - 1388315
+  - 1388652
   start: 2026-10-01T11:37:06Z
   stop: 2026-10-01T12:00:00Z
   title: Studio ČT24
