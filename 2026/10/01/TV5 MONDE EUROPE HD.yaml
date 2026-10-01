@@ -40,7 +40,9 @@
   subtitle: 'C''est un record absolu : la Suisse a totalisé en 2025 plus de 60 millions de nuitées. Rien qu''à Lucerne, ce sont près de 9 million '
   description: "Sur nos monts, le surtourisme\n\nC'est un record absolu : la Suisse a totalisé en 2025 plus de 60 millions de nuitées. Rien qu'à Lucerne, ce sont près de 9 millions de visiteurs qui ont traversé la ville, deux fois plus qu'il y a vingt ans. Avec des conséquences non négligeables pour les habitants...\n\nPrésentation : Élisabeth Logean\n "
   ageRating: 7
-- eventId: 1380315
+- eventId:
+  - 1380315
+  - 1381615
   start: 2026-10-01T01:46:00Z
   stop: 2026-10-01T02:00:00Z
   title: LE COURT DU JOUR
@@ -56,10 +58,13 @@
   ageRating: 7
 - eventId: 1169615
   start: 2026-10-01T02:00:00Z
-  stop: 2026-10-01T03:01:00Z
+  stop: 2026-10-01T03:00:00Z
   title: 'LE 23H DU 30/09/2026 '
   subtitle: ' '
   ageRating: 7
+  description: 'Pres: Patricia Loison. Le journal de 23 heures de franceinfo (heure de Paris). Retrouvez les grands reportages, les interviews et les dØcryptages de la rØdaction sur toute l''actualitØ franĿaise et internationale.  '
+  genre:
+  - '47'
 - eventId: 1169616
   start: 2026-10-01T03:00:00Z
   stop: 2026-10-01T03:23:00Z

@@ -2,8 +2,8 @@
   - 1356116
   - 1373045
   start: 2026-10-02T00:00:00Z
-  stop: 2026-10-02T01:00:00Z
-  title: Night Deals
+  stop: 2026-10-02T00:20:00Z
+  title: Teleshopping
   subtitle: 1-2-3.tv Programmvorschau 02.10.2026, 2-3 Uhr
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
@@ -22,6 +22,13 @@
   - 1371989
   start: 2026-10-02T00:20:00Z
   stop: 2026-10-02T02:05:00Z
+  title: Alpenglühn im Dirndlrock
+  subtitle: Alpenglühn im Dirndlrock
+  description: 'Bürgermeister Ploderer hat ein Problem. Es ist zu wenig Geld im Haushaltssäckel von Vögelbrunn. Um das zu ändern, soll sein Dorf als Marktgemeinde werden. Doch dafür braucht es mehr Einwohner im Ort: Sieben Babys müssen bis zur nächsten Volkszählung her! Mit Hilfe eines dauerpotenten Papagallos macht das Dorf ab sofort seinem Namen alle Ehre. Ge 1973'
+  ageRating: 18
+- eventId: 1381714
+  start: 2026-10-02T00:20:00Z
+  stop: 2026-10-02T02:00:00Z
   title: Alpenglühn im Dirndlrock
   subtitle: Alpenglühn im Dirndlrock
   description: 'Bürgermeister Ploderer hat ein Problem. Es ist zu wenig Geld im Haushaltssäckel von Vögelbrunn. Um das zu ändern, soll sein Dorf als Marktgemeinde werden. Doch dafür braucht es mehr Einwohner im Ort: Sieben Babys müssen bis zur nächsten Volkszählung her! Mit Hilfe eines dauerpotenten Papagallos macht das Dorf ab sofort seinem Namen alle Ehre. Ge 1973'
@@ -46,6 +53,7 @@
   - 1338678
   - 1354230
   - 1371990
+  - 1381715
   start: 2026-10-02T02:05:00Z
   stop: 2026-10-02T02:20:00Z
   title: Teleshopping
@@ -55,6 +63,20 @@
   - 1354231
   - 1371991
   start: 2026-10-02T02:20:00Z
+  stop: 2026-10-02T04:00:00Z
+  title: Mädchen, die nach München kommen
+  subtitle: Mädchen, die nach München kommen
+  description: '"Mädchen, die nach München kommen" erzählt die Geschichte von Sophie, einer jungen Frau aus der Provinz, die in der pulsierenden Großstadt München ihr Glück suchen will. Im Abenteuer Großstadtleben trifft sie auf verschiedene Menschen, entdeckt neue Facetten ihrer selbst und lernt, was es bedeutet, den eigenen Weg zu finden. Die charmante Mischung aus Drama und Komödie zeigt, wie eine neue Umgebung das Leben verändern kann. Ge'
+  ageRating: 18
+- eventId: 1381716
+  start: 2026-10-02T02:20:00Z
+  stop: 2026-10-02T02:30:00Z
+  title: Schulmädchen '84
+  subtitle: Schulmädchen '84
+  description: Was Schulmädchen nach Schulschluss so alles in Sachen Liebe lernen wird hier in den erschiedenen Episoden auf frivol-heitere Art erzählt ... Ge 1984
+  ageRating: 16
+- eventId: 1381717
+  start: 2026-10-02T02:30:00Z
   stop: 2026-10-02T04:00:00Z
   title: Mädchen, die nach München kommen
   subtitle: Mädchen, die nach München kommen
@@ -72,13 +94,23 @@
   - '166'
 - eventId: 1338690
   start: 2026-10-02T04:00:00Z
-  stop: 2026-10-02T05:05:00Z
+  stop: 2026-10-02T04:55:00Z
   title: Unvergessene Legenden - Die Flippers
   subtitle: Unvergessene Legenden - Die Flippers
   description: '"Die Flippers" sind, bis dato unerreicht, die erfolgreichste Schlagerband Deutschlands. Reisen Sie mit durch eine Karriere der Superlative, die als Traum begann und mit einer gigantischen, über 4 Jahre währenden, Abschiedstour beendet wurde. Jeder kann aus dem Hut sofort einige der  großartigen Flippers-Hits ansingen. Diese Schlager und der Werdegang von der "Dancing Show Band" bis zu den "Flippers" sind die roten Fäden dieser Sendung. Ge 2020'
+- eventId: 1381721
+  start: 2026-10-02T04:55:00Z
+  stop: 2026-10-02T05:10:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
 - eventId: 1338691
   start: 2026-10-02T05:05:00Z
   stop: 2026-10-02T05:25:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
+- eventId: 1381722
+  start: 2026-10-02T05:10:00Z
+  stop: 2026-10-02T10:00:00Z
   title: Teleshopping
   subtitle: Teleshopping
 - eventId: 1338692
@@ -97,7 +129,9 @@
   stop: 2026-10-02T15:25:00Z
   title: Teleshopping
   subtitle: Teleshopping
-- eventId: 1338767
+- eventId:
+  - 1338767
+  - 1381637
   start: 2026-10-02T15:25:00Z
   stop: 2026-10-02T16:35:00Z
   title: Unvergessene Legenden - Heintje
@@ -108,31 +142,44 @@
   stop: 2026-10-02T17:05:00Z
   title: Teleshopping
   subtitle: Teleshopping
-- eventId: 1338769
+- eventId: 1381638
+  start: 2026-10-02T16:35:00Z
+  stop: 2026-10-02T17:00:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
+- eventId:
+  - 1338769
+  - 1381639
   start: 2026-10-02T17:05:00Z
   stop: 2026-10-02T17:40:00Z
   title: Das große Kirmesmusikanten-Wunschkonzert
   subtitle: Das große Kirmesmusikanten-Wunschkonzert
   description: Die "Kirmesmusikanten" war DAS holländische Star-Ehepaar, das die Geschichte von Leidenschaft, Tradition und Verbundenheit mit seiner Heimatregion geprägt war. Ursprünglich als Amateurband in einem ländlichen Dorf gegründet, wurden sie im Laufe der Jahre weit seine Heimat hinaus bekannt. In den 1970er-Jahren begannen die Kirmesmusikanten, ihre Liebe zur traditionellen Volksmusik zu teilen und gemeinsam zu musizieren. Ge 2020
-- eventId: 1338770
+- eventId:
+  - 1338770
+  - 1381640
   start: 2026-10-02T17:40:00Z
   stop: 2026-10-02T18:15:00Z
   title: Teleshopping
   subtitle: Teleshopping
-- eventId: 1338787
+- eventId:
+  - 1338787
+  - 1381646
   start: 2026-10-02T18:15:00Z
   stop: 2026-10-02T20:15:00Z
   title: Schlager Gold - Amigos
   subtitle: Schlager Gold - Amigos
   description: Ingo Blenn entführt uns in die zauberhafte Welt der Amigos. In seiner Sendereihe "Schlager Gold" hören wir die schönsten Lieder dieser beliebten Band und erfahren viel Wissenswertes aus dem Leben von Bernd und Karl Heinz Ulrich. Viele große Hits, Hitparaden-Stürmer und echte Ohrwürmer, erwarten Sie. Ge 2020
-- eventId: 1338788
+- eventId:
+  - 1338788
+  - 1381647
   start: 2026-10-02T20:15:00Z
   stop: 2026-10-02T22:15:00Z
   title: Teleshopping
   subtitle: Teleshopping
 - eventId: 1338583
   start: 2026-10-02T22:15:00Z
-  stop: 2026-10-03T00:05:00Z
+  stop: 2026-10-03T00:00:00Z
   title: Alpenglühn im Dirndlrock
   subtitle: Alpenglühn im Dirndlrock
   description: 'Bürgermeister Ploderer hat ein Problem. Es ist zu wenig Geld im Haushaltssäckel von Vögelbrunn. Um das zu ändern, soll sein Dorf als Marktgemeinde werden. Doch dafür braucht es mehr Einwohner im Ort: Sieben Babys müssen bis zur nächsten Volkszählung her! Mit Hilfe eines dauerpotenten Papagallos macht das Dorf ab sofort seinem Namen alle Ehre. Ge 1973'
