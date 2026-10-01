@@ -2,18 +2,18 @@
   start: 2026-10-02T00:10:00Z
   stop: 2026-10-02T00:25:00Z
   title: Wydarzy się jutro
-  description: |
-    Tytuł oryginalny: Wydarzy się jutro
-    PL, 2026
+  description: |-
+    program publicystyczny (Polska, 2026)
+    Program prezentuje zapowiedzi najważniejszych wydarzeń nadchodzącego dnia. Zawiera również przegląd tytułów prasowych, które ukażą się w kolejnej dobie.
   genre:
   - '34'
 - eventId: 1202207
   start: 2026-10-02T00:25:00Z
   stop: 2026-10-02T00:40:00Z
   title: Rewers - ciekawostki dnia
-  description: |
-    Tytuł oryginalny: Rewers - ciekawostki dnia
-    PL, 2026
+  description: |-
+    program informacyjny (Polska, 2026)
+    Twórcy programu zbierają i prezentują nietypowe, zaskakujące i ciekawe wydarzenia oraz materiały z prasy polskiej i zagranicznej, pokazują też mniej oczywiste fakty z różnych stron świata.
   genre:
   - '34'
 - eventId: 1335036
@@ -37,6 +37,15 @@
     Dlaczego ludzie w Małopolsce wciąż odczuwają sentyment do czasów zaboru austriackiego? Skąd w ich domach pojawiały się portrety cesarza Franciszka Józefa? Galicja to sztucznie wymyślona kraina, w której odnajdziemy mnóstwo sprzeczności. Radosław Kotarski wyrusza na południe Polski, aby przespacerować się po galicyjskich rynkach. Zagląda do warsztatów rzemieślniczych i usługowych, aby przyjrzeć się życiu w dawnej Małopolsce. Sprawdza też, dlaczego o krakusach mówi się centusie.
   genre:
   - '149'
+- eventId: 1394298
+  start: 2026-10-02T00:45:00Z
+  stop: 2026-10-02T01:20:00Z
+  title: 'Podróże z historią: odc.32'
+  description: |-
+    serial dokumentalny (Polska, 2014) odc.32, Dwie twarze Galicji
+    Prowadzą: Radosław Kotarski
+    Galicją nazywano ziemie zaboru austriackiego. Był to sztucznie utworzony region, w którym spotykało się wiele sprzeczności. Prowadzący jedzie na południe Polski, by przespacerować się po galicyjskich rynkach. Zagląda do warsztatów rzemieślniczych i usługowych.
+    Reżyser: Radosław Kotarski
 - eventId: 1335037
   start: 2026-10-02T00:56:00Z
   stop: 2026-10-02T01:27:00Z
@@ -61,6 +70,13 @@
     Dziennikarz i pasjonat przyrody Dariusz Gross zabiera widzów w niezwykłą podróż po polskich parkach narodowych. Program ukazuje te turystycznie miejsca z zupełnie nowej, fascynującej perspektywy. Zamiast standardowych szlaków, widz ma możliwość poznać sekrety ekosystemów oczami wybitnych naukowców i badaczy, którzy na co dzień walczą o ich przetrwanie dla przyszłych pokoleń. To unikalne połączenie nowoczesnych technologii badawczych z odwiecznym pięknem dzikiej natury.
   genre:
   - '35'
+- eventId: 1394299
+  start: 2026-10-02T01:20:00Z
+  stop: 2026-10-02T01:55:00Z
+  title: Polskie parki narodowe
+  description: |-
+    serial dokumentalny (Polska, 2022), Park Narodowy Ujście Warty
+    Dariusz Gross przedstawi parki narodowe w Polsce od zupełnie innej strony. Ukaże tajniki pracy naukowców, którzy badają nieodkryte dotąd tajemnice ekosystemów i starają się zachować je dla przyszłych pokoleń. Zaprezentuje także niecodzienne oblicze przyrody oraz wskaże wyjątkowość każdego z polskich parków narodowych.
 - eventId: 1335038
   start: 2026-10-02T01:27:00Z
   stop: 2026-10-02T01:56:00Z
@@ -73,14 +89,16 @@
     Dziennikarz i pasjonat przyrody Dariusz Gross zabiera widzów w niezwykłą podróż po polskich parkach narodowych. Program ukazuje te turystycznie miejsca z zupełnie nowej, fascynującej perspektywy. Zamiast standardowych szlaków, widz ma możliwość poznać sekrety ekosystemów oczami wybitnych naukowców i badaczy, którzy na co dzień walczą o ich przetrwanie dla przyszłych pokoleń. To unikalne połączenie nowoczesnych technologii badawczych z odwiecznym pięknem dzikiej natury.
   genre:
   - '35'
-- eventId: 1244937
+- eventId:
+  - 1244937
+  - 1394300
   start: 2026-10-02T01:55:00Z
   stop: 2026-10-02T02:40:00Z
   title: Kwiatki polskie
   subtitle: Prowadzący wraz z innymi dziennikarzami komentują poruszające opinię publiczną tematy, zachowując zdrowy rozsądek i trzeźwość oceny wobec wszystkich stron życia społecznego w Polsce.
-  description: |
-    Tytuł oryginalny: Kwiatki polskie
-    PL, 2026
+  description: |-
+    magazyn (Polska, 2024)
+    Przegląd wydarzeń. Prowadzący oraz ich goście komentują bieżące tematy, które aktualnie poruszają opinię publiczną. Uzupełnieniem audycji są rozmowy z politykami i ekspertami, sondy uliczne oraz autorskie reportaże. Program prowadzą znani ze swojego poczucia humoru dziennikarze: Grzegorz Markowski i Katarzyna Kasia.
   genre:
   - '34'
 - eventId: 1202210
@@ -106,10 +124,8 @@
 - eventId: 1244938
   start: 2026-10-02T02:40:00Z
   stop: 2026-10-02T03:45:00Z
-  title: 'Podcasty: Genealogia genetyczna: Jak testy DNA ujawniają zd'
-  description: |
-    Tytuł oryginalny: Podcasty
-    PL, 2026
+  title: 'Podcasty: Genealogia genetyczna: Jak testy DNA ujawniają zdrady, rozwiązują zbro'
+  description: 'cykl reportaży (Polska, 2026), Genealogia genetyczna: Jak testy DNA ujawniają zdrady, rozwiązują zbrodnie?'
   genre:
   - '34'
 - eventId: 1202211
@@ -125,135 +141,135 @@
   start: 2026-10-02T03:45:00Z
   stop: 2026-10-02T03:47:00Z
   title: Info Poranek
-  description: |
-    Tytuł oryginalny: Info Poranek
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
   genre:
   - '34'
 - eventId: 1202316
   start: 2026-10-02T03:47:00Z
   stop: 2026-10-02T03:50:00Z
-  title: Serwis Info
-  description: |
-    Tytuł oryginalny: Serwis Info
-    PL, 2026
+  title: Serwis Info Poranek
+  description: |-
+    program informacyjny (na żywo)
+    Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
   genre:
   - '34'
 - eventId: 1202317
   start: 2026-10-02T03:50:00Z
   stop: 2026-10-02T03:52:00Z
   title: Prognoza pogody
-  description: |
-    Tytuł oryginalny: Prognoza pogody
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
 - eventId: 1202318
   start: 2026-10-02T03:52:00Z
   stop: 2026-10-02T04:00:00Z
   title: Info Poranek
-  description: |
-    Tytuł oryginalny: Info Poranek
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
   genre:
   - '34'
 - eventId: 1202319
   start: 2026-10-02T04:00:00Z
   stop: 2026-10-02T04:05:00Z
-  title: Serwis Info
-  description: |
-    Tytuł oryginalny: Serwis Info
-    PL, 2026
+  title: Serwis Info Poranek
+  description: |-
+    program informacyjny (na żywo)
+    Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
   genre:
   - '34'
 - eventId: 1202320
   start: 2026-10-02T04:05:00Z
   stop: 2026-10-02T04:13:00Z
   title: Info Poranek
-  description: |
-    Tytuł oryginalny: Info Poranek
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
   genre:
   - '34'
 - eventId: 1202321
   start: 2026-10-02T04:13:00Z
   stop: 2026-10-02T04:15:00Z
   title: Prognoza pogody
-  description: |
-    Tytuł oryginalny: Prognoza pogody
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
 - eventId: 1202322
   start: 2026-10-02T04:15:00Z
   stop: 2026-10-02T04:30:00Z
   title: Info Poranek
-  description: |
-    Tytuł oryginalny: Info Poranek
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
   genre:
   - '34'
 - eventId: 1202323
   start: 2026-10-02T04:30:00Z
   stop: 2026-10-02T04:35:00Z
-  title: Serwis Info
-  description: |
-    Tytuł oryginalny: Serwis Info
-    PL, 2026
+  title: Serwis Info Poranek
+  description: |-
+    program informacyjny (na żywo)
+    Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
   genre:
   - '34'
 - eventId: 1202324
   start: 2026-10-02T04:35:00Z
   stop: 2026-10-02T04:40:00Z
   title: Info Poranek
-  description: |
-    Tytuł oryginalny: Info Poranek
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
   genre:
   - '34'
 - eventId: 1202325
   start: 2026-10-02T04:40:00Z
   stop: 2026-10-02T04:42:00Z
   title: Prognoza pogody
-  description: |
-    Tytuł oryginalny: Prognoza pogody
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
 - eventId: 1202326
   start: 2026-10-02T04:42:00Z
   stop: 2026-10-02T04:50:00Z
   title: Info Poranek
-  description: |
-    Tytuł oryginalny: Info Poranek
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
   genre:
   - '34'
 - eventId: 1202327
   start: 2026-10-02T04:50:00Z
   stop: 2026-10-02T04:55:00Z
-  title: Agrobiznes
-  description: |
-    Tytuł oryginalny: Agrobiznes
-    PL, 2026
+  title: Agrobiznes Info
+  description: |-
+    program informacyjny (Polska, 2024) (na żywo)
+    Dziennik informacyjny emitowany od poniedziałku do piątku. Zawiera aktualne wiadomości z branży rolno-spożywczej, notowania giełdowe oraz prognozy cenowe. Nie zabraknie w nim też informacji o krajowych i zagranicznych wydarzeniach związanych z rolnictwem.
   genre:
   - '34'
 - eventId: 1202328
   start: 2026-10-02T04:55:00Z
   stop: 2026-10-02T05:00:00Z
-  title: Agropogoda
-  description: |
-    Tytuł oryginalny: Agropogoda
-    PL, 2026
+  title: Agropogoda Info
+  description: |-
+    program informacyjny (Polska, 2024) (na żywo)
+    Prognoza pogody dla rolników, leśników, sadowników, producentów warzyw i kwiatów oraz alergików. Nie zabraknie również praktycznych porad dotyczących spodziewanych warunków atmosferycznych.
   genre:
   - '32'
 - eventId: 1202329
   start: 2026-10-02T05:00:00Z
   stop: 2026-10-02T05:05:00Z
-  title: Serwis Info
-  description: |
-    Tytuł oryginalny: Serwis Info
-    PL, 2026
+  title: Serwis Info Poranek
+  description: |-
+    program informacyjny (na żywo)
+    Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
   genre:
   - '34'
 - eventId: 1202330
