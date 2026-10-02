@@ -109,7 +109,9 @@
   stop: 2026-10-04T04:31:00Z
   title: Vijesti iz Vatikana
   subtitle: Informativni
-- eventId: 1368486
+- eventId:
+  - 1368486
+  - 1426485
   start: 2026-10-04T04:23:00Z
   stop: 2026-10-04T04:31:00Z
   title: Vijesti iz Vatikana
@@ -149,6 +151,7 @@
 - eventId:
   - 1395198
   - 1405367
+  - 1426486
   start: 2026-10-04T04:55:00Z
   stop: 2026-10-04T05:29:00Z
   title: Zlatni savjeti
@@ -182,6 +185,7 @@
 - eventId:
   - 1395199
   - 1405368
+  - 1426487
   start: 2026-10-04T05:29:00Z
   stop: 2026-10-04T05:48:00Z
   title: Razlog nade
@@ -223,6 +227,14 @@
   - 1405369
   start: 2026-10-04T05:48:00Z
   stop: 2026-10-04T06:00:00Z
+  title: Pod smokvom
+  subtitle: YouTube kanal Pod Smokvom svakodnevno donosi Evanđelje dana s razmatranjem svećenika, koji brojnim pratiteljima pomaže u duhovnom životu.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1426488
+  start: 2026-10-04T05:48:00Z
+  stop: 2026-10-04T05:57:00Z
   title: Pod smokvom
   subtitle: YouTube kanal Pod Smokvom svakodnevno donosi Evanđelje dana s razmatranjem svećenika, koji brojnim pratiteljima pomaže u duhovnom životu.
   ageRating: 4
@@ -317,7 +329,9 @@
   start: 2026-10-04T08:22:00Z
   stop: 2026-10-04T08:27:00Z
   title: vlč. Tihomir Kosec - U Sveti čas, vlč. Tihomir Kosec - U Sveti čas
-- eventId: 1368491
+- eventId:
+  - 1368491
+  - 1426489
   start: 2026-10-04T08:25:00Z
   stop: 2026-10-04T09:00:00Z
   title: Vjera i nada
@@ -389,7 +403,9 @@
   stop: 2026-10-04T11:50:00Z
   title: Svijet očima Vatikana
   subtitle: Religijski
-- eventId: 1395202
+- eventId:
+  - 1395202
+  - 1426490
   start: 2026-10-04T11:44:00Z
   stop: 2026-10-04T12:52:00Z
   title: Izdvojeno - tjedni pregled
@@ -420,14 +436,16 @@
   - '32'
 - eventId: 1357569
   start: 2026-10-04T13:00:00Z
-  stop: 2026-10-04T13:10:00Z
+  stop: 2026-10-04T13:09:00Z
   title: Krunica Božjeg milosrđa
   subtitle: Molimo zajedno molitvu Krunice Božjega Milosrđa.
   description: Molimo zajedno molitvu Krunice Božjega Milosrđa.
   ageRating: 4
   genre:
   - '160'
-- eventId: 1357570
+- eventId:
+  - 1357570
+  - 1426491
   start: 2026-10-04T13:09:00Z
   stop: 2026-10-04T13:30:00Z
   title: Klub prijatelja
@@ -468,10 +486,13 @@
   - '160'
 - eventId: 1426077
   start: 2026-10-04T14:55:00Z
-  stop: 2026-10-04T15:51:00Z
+  stop: 2026-10-04T15:59:00Z
   title: In Familia Dei
-  subtitle: Religijski
+  subtitle: Eda i Marijan Šafarić već 42 godine grade svoju zajedničku priču, a posebno mjesto u njihovim srcima zauzima Srce Isusovo, kojemu su kroz život ostali duboko privrženi.
   description: Eda i Marijan Šafarić već 42 godine grade svoju zajedničku priču, a posebno mjesto u njihovim srcima zauzima Srce Isusovo, kojemu su kroz život ostali duboko privrženi. Što im je u svim tim godinama bilo najteže, a što najljepše? Koji su trenuci ostali zauvijek urezani u njihova srca i što im je davalo snagu da zajedno prolaze kroz sve životne izazove? Upoznajte obitelj Šafarić i njihovu priču o ljubavi, vjeri i zajedništvu koje traje.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1425968
   - 1426224
@@ -496,9 +517,17 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1426492
+  start: 2026-10-04T16:00:00Z
+  stop: 2026-10-04T17:30:00Z
+  title: 'Sveta misa: Sinj'
+  subtitle: Pratimo zajedno izravan prijenos svečane svete mise iz Svetišta Gospe Sinjske u Sinju, na svetkovinu sv. Franje Asiškoga. Svečano euharistijsko slavlje predslavit će mons.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1357571
   start: 2026-10-04T17:30:00Z
-  stop: 2026-10-04T18:21:00Z
+  stop: 2026-10-04T18:30:00Z
   title: Klanjanje Presvetom Oltarskom Sakramentu
   description: Klanjanje Presvetom Oltarskom Sakramentu
   subtitle: Molitva.
@@ -524,6 +553,7 @@
 - eventId:
   - 1395203
   - 1405313
+  - 1426493
   start: 2026-10-04T19:34:00Z
   stop: 2026-10-04T20:00:00Z
   title: Čujte i počujte
@@ -555,7 +585,9 @@
   title: Čujte i počujte
   subtitle: Religijski
   description: U novom izdanju emisije ,,Čujte i počujte govorimo o HosanaFestu, koji će se uskoro održati u Subotici. Naši gosti su vlč. Marniko Stantić i Miroslav Zelić, koji će predstaviti ovogodišnji festival, njegovu misiju, program i značaj za promicanje suvremene duhovne glazbe. Saznat ćemo kako teku pripreme, što očekuje posjetitelje te na koji način HosanaFest već godinama okuplja glazbenike, autore i ljubitelje duhovne pjesme.
-- eventId: 1357573
+- eventId:
+  - 1357573
+  - 1426494
   start: 2026-10-04T20:00:00Z
   stop: 2026-10-04T20:19:00Z
   title: Egzamen - ispit svjesnosti
@@ -581,6 +613,14 @@
   title: Neka nam Bog pomogne 5, serija
   subtitle: Sestra Angela istražuje djevojku koja je spremna prodati sebe ne bi li spasila onoga koga voli. Nico se, s druge strane, želi ozbiljno pozabaviti Marijom.
   description: Sestra Angela istražuje djevojku koja je spremna prodati sebe ne bi li spasila onoga koga voli. Nico se, s druge strane, želi ozbiljno pozabaviti Marijom. U međuvremenu, Ginevru proganja vlastita prošlost i plaši je. Nico je pokušava zaštititi, pa saznaje tajnu koju je čuvala od njega. Athos i Emma otkrivaju da oboje vole čitati, a Azzurra postaje pseudo intelektualka da ne bude izostavljena iz razgovora.
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 1426495
+  start: 2026-10-04T20:19:00Z
+  stop: 2026-10-04T21:26:00Z
+  title: Neka nam Bog pomogne
+  subtitle: Sestra Angela istražuje djevojku koja je spremna prodati sebe ne bi li spasila onoga koga voli. Nico se, s druge strane, želi ozbiljno pozabaviti Marijom.
   ageRating: 4
   genre:
   - '128'
@@ -625,7 +665,7 @@
   - 1413254
   - 1418751
   start: 2026-10-04T21:31:00Z
-  stop: 2026-10-04T21:55:00Z
+  stop: 2026-10-04T22:02:00Z
   title: Krunica, Krunica Blažene Djevice Marije
   subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
   ageRating: 4

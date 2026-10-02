@@ -1251,7 +1251,7 @@
   hd: true
 - eventId: 1426150
   start: 2026-10-02T21:07:01Z
-  stop: 2026-10-02T21:32:01Z
+  stop: 2026-10-02T21:30:23Z
   title: Zprávy ve 23
   subtitle: Nejdůležitější události dne v ČR i ve světě.
   description: |-
@@ -1259,6 +1259,17 @@
     Skryté titulky
   genre:
   - '32'
+  widescreen: true
+- eventId: 1426415
+  start: 2026-10-02T21:30:23Z
+  stop: 2026-10-02T22:00:00Z
+  title: Interview ČT24
+  subtitle: 'Host: Martin Legner,, generální ředitel Hasičského záchranného sboru ČR. Moderuje: Daniel Takáč.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
   widescreen: true
 - eventId:
   - 1193380
@@ -1289,6 +1300,7 @@
 - eventId:
   - 1193381
   - 1200019
+  - 1426320
   start: 2026-10-02T22:00:00Z
   stop: 2026-10-02T22:10:00Z
   title: Zprávy
@@ -1335,6 +1347,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1426321
+  start: 2026-10-02T22:10:00Z
+  stop: 2026-10-02T22:59:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId: 1426288
   start: 2026-10-02T22:15:42Z
   stop: 2026-10-02T23:04:42Z
@@ -1356,6 +1379,16 @@
     Skryté titulky
   genre:
   - '35'
+  widescreen: true
+- eventId: 1426322
+  start: 2026-10-02T22:59:00Z
+  stop: 2026-10-02T23:09:00Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
   widescreen: true
 - eventId:
   - 1193383
@@ -1390,6 +1423,17 @@
     Skryté titulky
   genre:
   - '32'
+  widescreen: true
+- eventId: 1426323
+  start: 2026-10-02T23:09:00Z
+  stop: 2026-10-03T00:00:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
   widescreen: true
 - eventId:
   - 1193384
