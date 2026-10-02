@@ -381,7 +381,7 @@
   - 798613
   - 798744
   start: 2026-10-02T15:10:00Z
-  stop: 2026-10-02T16:00:00Z
+  stop: 2026-10-02T16:10:00Z
   title: hallo deutschland
   genre:
   - '32'
@@ -425,7 +425,9 @@
     Schnitt: Alexandra Löwy
     Musik: Claus Quidde, René Münzer
     HD-Produktion
-- eventId: 1411524
+- eventId:
+  - 1411524
+  - 1412126
   start: 2026-10-02T16:10:00Z
   stop: 2026-10-02T17:00:00Z
   title: SOKO Linz
@@ -452,6 +454,8 @@
   - '17'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 798615
   - 798746
