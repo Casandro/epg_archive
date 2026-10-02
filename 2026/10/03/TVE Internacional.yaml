@@ -18,7 +18,7 @@
   subtitled: true
 - eventId: 1382404
   start: 2026-10-03T05:00:00Z
-  stop: 2026-10-03T09:00:00Z
+  stop: 2026-10-03T11:05:00Z
   title: NOTICIAS 24 H
   subtitle: |-
     Núm. cap.:641; Presentacion: Olga Lambea, Beatriz Perez De Aranda, Jesus Amor, Marta Solano, Angeles Bravo, Pedro Carreño; INFORMACIÓN CONTINUA 24 HORAS 366 DIAS AL AÑO
@@ -82,7 +82,7 @@
   subtitled: true
 - eventId: 1382408
   start: 2026-10-03T12:55:00Z
-  stop: 2026-10-03T13:45:00Z
+  stop: 2026-10-03T13:40:00Z
   title: TELEDIARIO 1
   subtitle: "Núm. cap.:641; Realizacion: Olegario Marcos Gigosos; \nPresentación: Alejandra Herranz, Carmen Moraleda; Edicion: Amaia Perez De Mendiola; ESPACIO DE INFORMACIÓN DIARIA, EN DIRECTO\n\nTelediario 1\nSUBT."
   description: "Núm. cap.:641; Realizacion: Olegario Marcos Gigosos; \nPresentación: Alejandra Herranz, Carmen Moraleda; Edicion: Amaia Perez De Mendiola; ESPACIO DE INFORMACIÓN DIARIA, EN DIRECTO\n\nTelediario 1\nSUBT."
@@ -90,9 +90,9 @@
   - '32'
   widescreen: true
   subtitled: true
-- eventId: 1382409
-  start: 2026-10-03T13:45:00Z
-  stop: 2026-10-03T13:50:00Z
+- eventId: 1427054
+  start: 2026-10-03T13:40:00Z
+  stop: 2026-10-03T13:45:00Z
   title: TELEDEPORTE 1
   subtitle: |-
     Núm. cap.:615; Actualidad deportiva diaria nacional e internacional.
@@ -103,18 +103,36 @@
   genre:
   - '65'
   widescreen: true
-- eventId: 1382410
-  start: 2026-10-03T13:50:00Z
-  stop: 2026-10-03T13:54:00Z
+- eventId: 1382409
+  start: 2026-10-03T13:45:00Z
+  stop: 2026-10-03T13:46:00Z
+  title: LA SUERTE EN TUS MANOS
+  subtitle: 'Núm. cap.:374; Produccion: Aurora Triguero-Lizana Gomez; Invitado/S: Garcia Company, Alvaro; Programa dedicado a las actividades de SELAE'
+  description: 'Núm. cap.:374; Produccion: Aurora Triguero-Lizana Gomez; Invitado/S: Garcia Company, Alvaro; Programa dedicado a las actividades de SELAE'
+  genre:
+  - '65'
+  widescreen: true
+- eventId: 1427055
+  start: 2026-10-03T13:46:00Z
+  stop: 2026-10-03T13:50:00Z
   title: LA SUERTE EN TUS MANOS
   subtitle: |-
-    Núm. cap.:374; Produccion: Aurora Triguero-Lizana Gomez; Invitado/S: Garcia Company, Alvaro; Programa dedicado a las actividades de SELAE
+    Núm. cap.:375; Produccion: Aurora Triguero-Lizana Gomez; Invitado/S: Garcia Company, Alvaro; Programa dedicado a las actividades de SELAE
 
     La Suerte En Tus Manos
   description: |-
-    Núm. cap.:374; Produccion: Aurora Triguero-Lizana Gomez; Invitado/S: Garcia Company, Alvaro; Programa dedicado a las actividades de SELAE
+    Núm. cap.:375; Produccion: Aurora Triguero-Lizana Gomez; Invitado/S: Garcia Company, Alvaro; Programa dedicado a las actividades de SELAE
 
     La Suerte En Tus Manos
+  genre:
+  - '49'
+  widescreen: true
+- eventId: 1382410
+  start: 2026-10-03T13:50:00Z
+  stop: 2026-10-03T14:35:00Z
+  title: SABER Y GANAR FIN DE SEMANA
+  subtitle: "Núm. cap.:555; Director:Anaïs Schaaff; Realizacion: Jose Maria Mas; \nProducción: Alicia Perez; \nPresentación: Rodrigo Vazquez; PROGRAMA CONCURSO PRESENTADO POR JORDI HURTADO\n\n555"
+  description: "Núm. cap.:555; Director:Anaïs Schaaff; Realizacion: Jose Maria Mas; \nProducción: Alicia Perez; \nPresentación: Rodrigo Vazquez; PROGRAMA CONCURSO PRESENTADO POR JORDI HURTADO\n\n555"
   genre:
   - '49'
   widescreen: true
@@ -143,6 +161,15 @@
   - '49'
   widescreen: true
   subtitled: true
+- eventId: 1427056
+  start: 2026-10-03T14:35:00Z
+  stop: 2026-10-03T15:19:16Z
+  title: DE TAPAS POR ESPAÑA
+  subtitle: "Núm. cap.:6; Director:Javier Larrondobuno Perez; Realizacion: Jose Luis Velazquez Espinosa; Guion: Pilar Lara Martos. Asesor Historico: Man; \nProducción: Conchita Endrino Armenteros. Productora; \nPresentación: Adrienne Chabal"
+  description: "Núm. cap.:6; Director:Javier Larrondobuno Perez; Realizacion: Jose Luis Velazquez Espinosa; Guion: Pilar Lara Martos. Asesor Historico: Man; \nProducción: Conchita Endrino Armenteros. Productora; \nPresentación: Adrienne Chaballe; Invitado/S: Ohiane Agirre, Ana Galdos, Juan Manuel Garmendia, Mikel Martinez, Carlos Rilova, Mikel Montorio, Mikel Chillida, Ana Lopez De Tejada, Nagore Valdes, Jon Torre; Edicion: Rocio Martin De Arcos Y Jose Luis Velazq; Locucion: Adrienne Chaballe; Camaras: Luis Roldan Bendris, Fernando Martinez Bonilla, Joaquin Martinez Cardeso. Piloto Dron:; Operador De Sonido: Pedro Maestre Ballesteros; Post\nProducción Sonido: Pedro Maestre Ballesteros; San Sebastián me ha cautivado y lo ha hecho con razones de peso: una gastronomía internacionalmente premiada desde hace años, una ciudad cuidada hasta\n\nSan Sebastian, La Perla Del Cantabrico"
+  genre:
+  - '128'
+  widescreen: true
 - eventId: 1382413
   start: 2026-10-03T14:40:00Z
   stop: 2026-10-03T15:33:48Z
@@ -153,6 +180,14 @@
   - '144'
   widescreen: true
   subtitled: true
+- eventId: 1427058
+  start: 2026-10-03T15:19:16Z
+  stop: 2026-10-03T16:05:00Z
+  title: DE TAPAS POR ESPAÑA
+  description: "Núm. cap.:11; Director:Javier Larrondobuno Perez; Realizacion: Jose Luis Velazquez Espinosa; Guion: Pilar Lara Martos. Asesor Historico: Man; \nProducción: Conchita Endrino Armenteros. Productora; \nPresentación: Adrienne Chaballe; Invitado/S: Jesus Colorado, Gonzalo Sedin, Raul Vicente, M Amparo Verde, Rosa M Iglesias, Rafael Bolivar, Jacobo Sanz, Margarita Becedas, Elena Bonet, Jorge Lozano, Isabel Bernardo, Yolanda Huertas, Tito Garcia, ; Edicion: Rocio Martin De Arcos Y Jose Luis Velazq; Locucion: Adrienne Chaballe; Camaras: Jesus Ronquillo Viedma, Luis Roldan Bendris Y Javier Morete Gon; Auxiliares De Programa: Fernando Martinez Bonilla; Operador De Sonido: Pedro Maestre Ballesteros; Post\nProducción Sonido: Pedro Maestre Ballesteros; Salamanca, ciudad dorada que tiene a la Universidad como motor desde hace cientos de años.\nSalamanca, Faro Del Humanismo"
+  genre:
+  - '128'
+  widescreen: true
 - eventId: 1382414
   start: 2026-10-03T15:33:48Z
   stop: 2026-10-03T16:20:00Z
@@ -162,6 +197,15 @@
   - '128'
   widescreen: true
   subtitled: true
+- eventId: 1427059
+  start: 2026-10-03T16:05:00Z
+  stop: 2026-10-03T17:00:00Z
+  title: SUKHA
+  subtitle: "Núm. cap.:115; Director:Miguel Angel Hoyos Alarte; Realizacion: Carmen Villalba Bergado; \nProducción: Miguel Lucas Prieto; \nPresentación: Pablo Gonzalez Batista, Susana Castañon Suarez; Productor Ejecutivo: Ainhoa Ramos Fernandez; Sukha\n\nS"
+  description: "Núm. cap.:115; Director:Miguel Angel Hoyos Alarte; Realizacion: Carmen Villalba Bergado; \nProducción: Miguel Lucas Prieto; \nPresentación: Pablo Gonzalez Batista, Susana Castañon Suarez; Productor Ejecutivo: Ainhoa Ramos Fernandez; Sukha\n\nSukha"
+  genre:
+  - '128'
+  widescreen: true
 - eventId: 1382415
   start: 2026-10-03T16:20:00Z
   stop: 2026-10-03T17:05:00Z
@@ -170,6 +214,15 @@
   description: "Núm. cap.:115; Director:Miguel Angel Hoyos Alarte; Realizacion: Carmen Villalba Bergado; \nProducción: Miguel Lucas Prieto; \nPresentación: Pablo Gonzalez Batista, Susana Castañon Suarez; Productor Ejecutivo: Ainhoa Ramos Fernandez; Sukha\n\nSukha"
   genre:
   - '128'
+  widescreen: true
+- eventId: 1427060
+  start: 2026-10-03T17:00:00Z
+  stop: 2026-10-03T18:30:00Z
+  title: COSAS NUESTRAS   (ESTRENO)
+  subtitle: Núm. cap.:1; Programa de entretenimiento para los fines de semana
+  description: Núm. cap.:1; Programa de entretenimiento para los fines de semana
+  genre:
+  - '144'
   widescreen: true
 - eventId: 1382416
   start: 2026-10-03T17:05:00Z
@@ -191,6 +244,15 @@
   - '144'
   widescreen: true
   subtitled: true
+- eventId: 1427061
+  start: 2026-10-03T18:30:00Z
+  stop: 2026-10-03T19:00:00Z
+  title: ESPAÑA SIN ASFALTO
+  subtitle: "Núm. cap.:1; Director:Luis Guridi; Guion: Luis Guridi, Ana Galan; \nProducción: Alejandra Castillo, Sofia Romera, Emilio Hermosa; Fotografia: Julen Rojas; \nPresentación: Miriam Monlleo; Edicion: Javier Guridi; Camaras: Pepe Año"
+  description: "Núm. cap.:1; Director:Luis Guridi; Guion: Luis Guridi, Ana Galan; \nProducción: Alejandra Castillo, Sofia Romera, Emilio Hermosa; Fotografia: Julen Rojas; \nPresentación: Miriam Monlleo; Edicion: Javier Guridi; Camaras: Pepe Añon, Nacho Jauregui; Operador De Sonido: Juani Vergara; Miriam recorre La Sierra de Grazalema. Un lugar con un clima muy particular que ha formado sus paisajes y el modo de vida de sus habitantes.\nEl Mosaico Verde Del Sur"
+  genre:
+  - '64'
+  widescreen: true
 - eventId: 1382418
   start: 2026-10-03T19:00:00Z
   stop: 2026-10-03T19:30:00Z
@@ -213,13 +275,15 @@
   start: 2026-10-03T19:30:00Z
   stop: 2026-10-03T21:10:00Z
   title: VERSION ESPAÑOLA
-  subtitle: 'Núm. cap.:1; Director:Koldo Serra; Interprete/S: Emma Suarez, Nathalie Poza, Hugo Silva, Daniel Perez Prada, Barbara Goenaga, Kandido Uranga, Fernando Albizu, Ione Irazabal, Juan Viadas, Nacho Fresneda; Guion: Javier Echaniz, Juan G'
+  subtitle: 'Núm. cap.:1; Director:Koldo Serra; Interprete/S: Emma Suarez, Nathalie Poza, Hugo Silva, Daniel Perez Prada, Barbara Goenaga, Kandido Uranga, Fernando Albizu, Ione Irazabal, Juan Viadas, Nacho Fresneda; Guion: Javier Echaniz, Juan Gil, Asie'
   widescreen: true
   description: |-
     Núm. cap.:1; Director:Koldo Serra; Interprete/S: Emma Suarez, Nathalie Poza, Hugo Silva, Daniel Perez Prada, Barbara Goenaga, Kandido Uranga, Fernando Albizu, Ione Irazabal, Juan Viadas, Nacho Fresneda; Guion: Javier Echaniz, Juan Gil, Asier Guerricaechebarria; Fotografia: Unax Mendia; Musica: Fernando Velazquez; Cuando Raquel está a punto de recibir un préstamo del banco, dos atracadores interrumpen la vital transacción y secuestran a clientes y empleados.
     70 Binladens
+    SUBT.
   genre:
   - '16'
+  subtitled: true
 - eventId: 1421178
   start: 2026-10-03T21:10:00Z
   stop: 2026-10-03T22:10:00Z
@@ -240,13 +304,14 @@
   widescreen: true
 - eventId: 1421179
   start: 2026-10-03T22:10:00Z
-  stop: 2026-10-03T22:35:00Z
+  stop: 2026-10-03T22:40:00Z
   title: ATENCION OBRAS
   subtitle: "Núm. cap.:365; Director:Sara Nuñez De Arenas; Realizacion: Ana Mazuecos; \nProducción: Lucrecia Bofill; Invitado/S: Auquer Sarda, Enric; Magazine cultural sobre las más diversas manifestaciones artísticas conducido por Cayetana Gui"
-  description: "Núm. cap.:365; Director:Sara Nuñez De Arenas; Realizacion: Ana Mazuecos; \nProducción: Lucrecia Bofill; Invitado/S: Auquer Sarda, Enric; Magazine cultural sobre las más diversas manifestaciones artísticas conducido por Cayetana Guillén Cuervo.\nJosele Y Fino - Los Enemigos"
+  description: "Núm. cap.:365; Director:Sara Nuñez De Arenas; Realizacion: Ana Mazuecos; \nProducción: Lucrecia Bofill; Invitado/S: Auquer Sarda, Enric; Magazine cultural sobre las más diversas manifestaciones artísticas conducido por Cayetana Guillén Cuervo.\nJosele Y Fino (Los Enemigos)\nSUBT."
   genre:
   - '144'
   widescreen: true
+  subtitled: true
 - eventId: 1382421
   start: 2026-10-03T22:35:00Z
   stop: 2026-10-03T23:05:00Z
