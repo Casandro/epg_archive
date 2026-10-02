@@ -35,7 +35,7 @@
 - eventId: 1191188
   start: 2026-10-15T04:00:00Z
   stop: 2026-10-15T04:30:00Z
-  title: Avanti! Avanti!
+  title: Avanti! Avanti! (25/26)
   subtitle: 'Ripetizione: Verdi e Garibaldi'
 - eventId: 1191189
   start: 2026-10-15T04:30:00Z
@@ -45,19 +45,19 @@
 - eventId: 1191190
   start: 2026-10-15T05:00:00Z
   stop: 2026-10-15T05:15:00Z
-  title: GRIPS Mathe
+  title: GRIPS Mathe (36)
   subtitle: Gleichungen mit Brüchen
   subtitled: true
 - eventId: 1191191
   start: 2026-10-15T05:15:00Z
   stop: 2026-10-15T05:30:00Z
-  title: GRIPS Mathe
+  title: GRIPS Mathe (37/42)
   subtitle: Komplizierte Gleichungen
   subtitled: true
 - eventId: 1191192
   start: 2026-10-15T05:30:00Z
   stop: 2026-10-15T05:55:00Z
-  title: Willi wills wissen
+  title: Willi wills wissen (76)
   subtitle: Wie geheuer ist das Abenteuer?
   subtitled: true
 - eventId: 1191193
@@ -71,7 +71,7 @@
   start: 2026-10-15T06:00:00Z
   stop: 2026-10-15T06:15:00Z
   title: JobChallenge
-  subtitle: Glockengießerin für einen Tag! Schülerin macht die Challenge
+  subtitle: Glockengießerin für einen Tag! Schülerin macht die Challenge - Metall- und Glockengießer/-in
   subtitled: true
 - eventId: 1191242
   start: 2026-10-15T06:15:00Z
@@ -83,13 +83,14 @@
   start: 2026-10-15T06:20:00Z
   stop: 2026-10-15T06:30:00Z
   title: JobChallenge
-  subtitle: Apotheke statt Klassenzimmer! Schüler testet die PKA-Ausbild
+  subtitle: Apotheke statt Klassenzimmer! Schüler testet die PKA-Ausbildung
   subtitled: true
 - eventId: 1191244
   start: 2026-10-15T06:30:00Z
   stop: 2026-10-15T06:45:00Z
-  title: Tele-Gym (1)
+  title: Tele-Gym (1/10)
   subtitle: Aktiv & beweglich mit 60+
+  subtitled: true
 - eventId: 1191245
   start: 2026-10-15T06:45:00Z
   stop: 2026-10-15T08:00:00Z
@@ -115,7 +116,7 @@
 - eventId: 1191400
   start: 2026-10-15T09:45:00Z
   stop: 2026-10-15T10:05:00Z
-  title: Hannah Arendt - Das Mädchen aus der Fremde
+  title: Hannah Arendt - Das Mädchen aus der Fremde (4/5)
   subtitle: Denken ohne Geländer
 - eventId: 1191401
   start: 2026-10-15T10:05:00Z
@@ -125,13 +126,17 @@
 - eventId: 1191402
   start: 2026-10-15T11:00:00Z
   stop: 2026-10-15T11:15:00Z
-  title: Tele-Gym (6)
+  title: Tele-Gym (6/8)
   subtitle: Yoga-Pilates-50plus
+  subtitled: true
 - eventId: 1191403
   start: 2026-10-15T11:15:00Z
   stop: 2026-10-15T11:30:00Z
-  title: Tele-Gym (5)
+  title: Tele-Gym (5/10)
   subtitle: Yoga-Pilates-50plus
+  genre:
+  - '144'
+  subtitled: true
 - eventId: 1191404
   start: 2026-10-15T11:30:00Z
   stop: 2026-10-15T12:00:00Z
@@ -168,6 +173,8 @@
   start: 2026-10-15T15:25:00Z
   stop: 2026-10-15T15:30:00Z
   title: 'alpha-retro: Metamorphose eines Gesichts (1966)'
+  genre:
+  - '112'
 - eventId: 1193185
   start: 2026-10-15T15:30:00Z
   stop: 2026-10-15T16:15:00Z
@@ -198,17 +205,19 @@
 - eventId: 1192904
   start: 2026-10-15T18:15:00Z
   stop: 2026-10-15T19:05:00Z
-  title: Tropische Inseln
+  title: Tropische Inseln (2/3)
   subtitle: Borneo
 - eventId: 1192905
   start: 2026-10-15T19:05:00Z
   stop: 2026-10-15T19:50:00Z
   title: Heidi und die Kraft der Berge
+  genre:
+  - '112'
 - eventId: 1192906
   start: 2026-10-15T19:50:00Z
   stop: 2026-10-15T20:20:00Z
   title: Der eisige Weg zum Extrembergsteiger
-  subtitle: DE
+  subtitle: Deutschland 2024
 - eventId: 1192907
   start: 2026-10-15T20:20:00Z
   stop: 2026-10-15T21:05:00Z
@@ -235,6 +244,11 @@
   subtitle: River's Peace
 - eventId: 1193062
   start: 2026-10-15T22:50:00Z
-  stop: 2026-10-16T00:05:00Z
+  stop: 2026-10-15T23:50:00Z
   title: Space Night
   subtitle: How to become an Astronaut
+- eventId: 1415398
+  start: 2026-10-15T23:50:00Z
+  stop: 2026-10-16T00:05:00Z
+  title: alpha-Centauri
+  subtitle: Was füttert Centaurus A?

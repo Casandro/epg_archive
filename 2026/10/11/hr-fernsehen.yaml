@@ -200,13 +200,14 @@
   start: 2026-10-11T10:15:00Z
   stop: 2026-10-11T11:45:00Z
   title: Hilfe, die Familie kommt!
-  subtitle: Spielfilm Deutschland 2007
+  subtitle: Fernsehfilm Deutschland 2007
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 1071361
   - 860546
@@ -217,6 +218,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 1071495
   - 860566
@@ -239,17 +242,20 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Grillmeister nach Feierabend
 - eventId:
   - 1071497
   - 860568
   start: 2026-10-11T13:45:00Z
   stop: 2026-10-11T14:30:00Z
-  title: Mittendrin - Flughafen Frankfurt
+  title: Mittendrin - Flughafen Frankfurt (72)
   subtitle: Condors pinker Flieger - Ein Zeichen gegen Brustkrebs
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId:
   - 1071498
   - 860569
@@ -339,23 +345,27 @@
   - 860648
   start: 2026-10-11T18:15:00Z
   stop: 2026-10-11T19:00:00Z
-  title: Die Tierärzte - Retter mit Herz
+  title: Die Tierärzte - Retter mit Herz (21)
   subtitle: 'Startup: Wagnis eigene Praxis'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 1071922
   - 860649
   start: 2026-10-11T19:00:00Z
   stop: 2026-10-11T19:45:00Z
-  title: Die Tierärzte - Retter mit Herz
+  title: Die Tierärzte - Retter mit Herz (22)
   subtitle: 'Ärztedoppel: Vater & Sohn im OP'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 1071923
   - 860650
@@ -394,7 +404,7 @@
   start: 2026-10-11T21:25:00Z
   stop: 2026-10-11T21:55:00Z
   title: strassenstars - HISTORY
-  subtitle: Comedy-Quiz rund um Menschenkenntnis zum Mitraten
+  subtitle: Comedy-Quiz rund um Menschenkenntnis zum Mitraten mit Roberto Cappelluti
   widescreen: true
   subtitled: true
   hd: true
