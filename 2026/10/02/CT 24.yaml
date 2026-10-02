@@ -642,6 +642,7 @@
   - 1193354
   - 1199567
   - 1415642
+  - 1417658
   start: 2026-10-02T12:33:00Z
   stop: 2026-10-02T13:00:00Z
   title: Studio ČT24
@@ -846,7 +847,7 @@
   hd: true
 - eventId: 1417223
   start: 2026-10-02T14:34:55Z
-  stop: 2026-10-02T15:00:00Z
+  stop: 2026-10-02T15:00:55Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
   description: |-
@@ -872,6 +873,18 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 1417659
+  start: 2026-10-02T15:00:55Z
+  stop: 2026-10-02T15:07:05Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Znakový jazyk
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 1193364
   - 1199730
@@ -887,6 +900,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1417660
+  start: 2026-10-02T15:07:05Z
+  stop: 2026-10-02T15:30:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1193365
   - 1199731
