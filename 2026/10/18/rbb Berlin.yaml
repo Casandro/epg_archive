@@ -219,7 +219,7 @@
   - 1414204
   - 1414210
   start: 2026-10-18T13:00:00Z
-  stop: 2026-10-18T15:05:00Z
+  stop: 2026-10-18T15:00:00Z
   title: 'Handball BL live: SG Flensburg-Handewitt - Füchse Berlin'
   subtitle: Live aus der GGW Arena in Flensburg
   episodeUri: crid://onid-8468/e/6abf5c5386eeae853caf7fcc
@@ -239,11 +239,17 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1414638
+- eventId:
+  - 1414638
+  - 1414822
   start: 2026-10-18T15:00:00Z
   stop: 2026-10-18T15:05:00Z
   title: Landschleicher
   episodeUri: crid://onid-8468/e/6abf5fd66abd5bbee7ec29d0
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1071521
   - 1292794
