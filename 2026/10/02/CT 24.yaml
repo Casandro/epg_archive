@@ -1089,13 +1089,16 @@
   - '33'
   widescreen: true
   hd: true
-- eventId: 1423903
+- eventId:
+  - 1423903
+  - 1424313
   start: 2026-10-02T17:54:03Z
   stop: 2026-10-02T17:56:00Z
   title: Počasí v evropských metropolích
   description: HDTV
   genre:
   - '33'
+  widescreen: true
 - eventId:
   - 1193374
   - 1199740
@@ -1154,6 +1157,17 @@
   genre:
   - '35'
   widescreen: true
+- eventId: 1424325
+  start: 2026-10-02T19:30:05Z
+  stop: 2026-10-02T20:00:00Z
+  title: Horizont ČT24
+  subtitle: Pořad zahraniční redakce o dění ve světě. Klade důraz na původní tvorbu vlastních zpravodajů a bohaté agenturní zpravodajství, využívá nejmodernější postupy, televizní žánry i technologie.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1193377
   - 1199917
@@ -1187,6 +1201,7 @@
 - eventId:
   - 1193379
   - 1200017
+  - 1424328
   start: 2026-10-02T21:05:00Z
   stop: 2026-10-02T21:32:00Z
   title: Zprávy ve 23
