@@ -1,3 +1,11 @@
+- eventId: 1405338
+  start: 2026-10-02T00:00:00Z
+  stop: 2026-10-02T03:45:00Z
+  title: Videonoč
+  subtitle: V okviru Videonoči si boste lahko ogledali široko ponudbo slovenskih glasbenih videospotov vseh zvrsti. Z njimi noč ne bo tako dolga ...
+  ageRating: 4
+  genre:
+  - '96'
 - eventId: 1349065
   start: 2026-10-02T03:35:00Z
   stop: 2026-10-02T04:00:00Z
@@ -8,8 +16,8 @@
   - '96'
 - eventId: 1349981
   start: 2026-10-02T03:45:00Z
-  stop: 2026-10-02T04:00:00Z
-  title: Videonoč
+  stop: 2026-10-02T06:50:00Z
+  title: Napovedujemo
   subtitle: V okviru Videonoči si boste lahko ogledali široko ponudbo slovenskih glasbenih videospotov vseh zvrsti. Z njimi noč ne bo tako dolga ...
   ageRating: 4
   genre:
@@ -22,6 +30,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1405341
+  start: 2026-10-02T06:50:00Z
+  stop: 2026-10-02T08:00:00Z
+  title: Videotrak
+  subtitle: Videotrak je video-glasbeni časovni pas urbanega slovenskega 'mainstreama', ki sega od popa in rocka, rapa, r'n'b-ja ter elektronike in vse tja do metala in alternative.
+  ageRating: 4
+  genre:
+  - '96'
 - eventId: 1349067
   start: 2026-10-02T06:55:00Z
   stop: 2026-10-02T08:00:00Z
@@ -32,7 +48,7 @@
   - '96'
 - eventId: 1349068
   start: 2026-10-02T08:00:00Z
-  stop: 2026-10-02T09:45:00Z
+  stop: 2026-10-02T09:50:00Z
   title: cestna dirka, mlajše članice
   subtitle: 1995 je leto začetka evropskega prvenstva v cestnem kolesarstvu za moške in ženske. Ko je tekmovanje postalo bolj množično, je dodana disciplina kronometer (vožnja na čas) in kategorija juniorjev.
   ageRating: 4
@@ -46,6 +62,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1405344
+  start: 2026-10-02T09:50:00Z
+  stop: 2026-10-02T11:25:00Z
+  title: Nedelja po domače
+  subtitle: '"Nedelja po domače" bo vsem, ki imajo radi narodno in narodno - zabavno glasbo, ponudila uro in pol glasbenih užitkov, podkrepljenih z zanimivimi gosti s področja kulturno - etnografskega.'
+  ageRating: 4
+  genre:
+  - '96'
 - eventId: 1349071
   start: 2026-10-02T10:30:00Z
   stop: 2026-10-02T12:00:00Z
@@ -62,9 +86,17 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1405345
+  start: 2026-10-02T11:25:00Z
+  stop: 2026-10-02T11:50:00Z
+  title: TV klinika z Davidom Zupančičem
+  subtitle: Danes je poznanih več kot dvesto revmatičnih bolezni. Prvi simptomi so podobni simptomom drugih bolezni, zato je pot do postavitve končne diagnoze lahko zelo dolga.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1349983
   start: 2026-10-02T11:50:00Z
-  stop: 2026-10-02T12:20:00Z
+  stop: 2026-10-02T12:30:00Z
   title: Dnevna soba
   subtitle: Tokrat je z nami glasbenik Tomaž Domicelj, ki že desetletja hodi po svoji poti - brez kompromisov, brez filtrov in brez potrebe, da bi komurkoli ugajal.
   ageRating: 4
@@ -94,6 +126,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1405346
+  start: 2026-10-02T12:30:00Z
+  stop: 2026-10-02T13:10:00Z
+  title: Avtomobilnost
+  subtitle: Tokrat se lotevamo vroče teme avtonomne vožnje.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1349074
   start: 2026-10-02T13:00:00Z
   stop: 2026-10-02T13:50:00Z
@@ -104,6 +144,14 @@
   - '160'
 - eventId: 1349985
   start: 2026-10-02T13:05:00Z
+  stop: 2026-10-02T13:50:00Z
+  title: Tempo
+  subtitle: Tempo, oddaja o parašportu, vsak mesec prinaša afirmativne življenjske/športne zgodbe o parašportnikih.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1405347
+  start: 2026-10-02T13:10:00Z
   stop: 2026-10-02T13:50:00Z
   title: Tempo
   subtitle: Tempo, oddaja o parašportu, vsak mesec prinaša afirmativne življenjske/športne zgodbe o parašportnikih.
@@ -128,13 +176,15 @@
   - '160'
 - eventId: 1349077
   start: 2026-10-02T16:30:00Z
-  stop: 2026-10-02T16:50:00Z
+  stop: 2026-10-02T16:45:00Z
   title: Kultura
   subtitle: Kultura je kratka aktualna informativna oddaja o kulturi in umetnosti, v kateri se praviloma izpostavljajo osrednji dogodki dneva. V njej najdejo prostor tudi mednarodne novice in problemske teme.
   ageRating: 4
   genre:
   - '160'
-- eventId: 1349078
+- eventId:
+  - 1349078
+  - 1405348
   start: 2026-10-02T16:45:00Z
   stop: 2026-10-02T18:00:00Z
   title: Videotrak
@@ -160,7 +210,7 @@
   - '16'
 - eventId: 1349080
   start: 2026-10-02T19:30:00Z
-  stop: 2026-10-02T20:50:00Z
+  stop: 2026-10-02T20:55:00Z
   title: Vstop
   subtitle: Napeta psihološka drama, ki skoraj v celoti poteka v prostorih za zasliševanje na ameriškem letališču Newark.
   ageRating: 4
@@ -174,6 +224,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1405352
+  start: 2026-10-02T20:55:00Z
+  stop: 2026-10-02T21:55:00Z
+  title: Cena športne slave
+  subtitle: So upi tekmovalnega športa, bodoči vrhunski telovadci, plavalci, umetnostni drsalci, hokejisti, tenisači, nogometaši ...
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1349082
   start: 2026-10-02T21:50:00Z
   stop: 2026-10-02T23:25:00Z
@@ -182,8 +240,24 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1405356
+  start: 2026-10-02T21:55:00Z
+  stop: 2026-10-02T23:35:00Z
+  title: RTV Cirkus
+  subtitle: Vid Voršič je mednarodno priznani fotograf formule 1. Nad njegovimi fotografijami so navdušeni številni dirkači, tudi Lewis Hamilton za katerega fotografira, z Danielom Riccardom pa sta postala celo.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1349083
   start: 2026-10-02T23:25:00Z
+  stop: 2026-10-03T04:00:00Z
+  title: Videonoč
+  subtitle: V okviru Videonoči si boste lahko ogledali široko ponudbo slovenskih glasbenih videospotov vseh zvrsti. Z njimi noč ne bo tako dolga ...
+  ageRating: 4
+  genre:
+  - '96'
+- eventId: 1405357
+  start: 2026-10-02T23:35:00Z
   stop: 2026-10-03T04:00:00Z
   title: Videonoč
   subtitle: V okviru Videonoči si boste lahko ogledali široko ponudbo slovenskih glasbenih videospotov vseh zvrsti. Z njimi noč ne bo tako dolga ...

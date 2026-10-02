@@ -46,13 +46,15 @@
   ageRating: 4
 - eventId: 1375667
   start: 2026-10-03T11:25:00Z
-  stop: 2026-10-03T16:25:00Z
+  stop: 2026-10-03T15:45:00Z
   title: Cestna dirka
   subtitle: 1995 je leto začetka evropskega prvenstva v cestnem kolesarstvu za moške in ženske. Ko je tekmovanje postalo bolj množično, je dodana disciplina kronometer (vožnja na čas) in kategorija juniorjev.
   ageRating: 4
   genre:
   - '64'
-- eventId: 1375672
+- eventId:
+  - 1375672
+  - 1405363
   start: 2026-10-03T15:45:00Z
   stop: 2026-10-03T16:50:00Z
   title: Merckx, v zavetrju prvaka
@@ -68,7 +70,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1375673
+- eventId:
+  - 1375673
+  - 1405364
   start: 2026-10-03T16:50:00Z
   stop: 2026-10-03T18:00:00Z
   title: Videotrak
@@ -110,7 +114,7 @@
   - '160'
 - eventId: 1375689
   start: 2026-10-03T21:40:00Z
-  stop: 2026-10-03T23:50:00Z
+  stop: 2026-10-03T23:55:00Z
   title: Siddharta v Areni Stožice
   subtitle: Razprodan koncert Siddharte je bil posnet novembra 2023 v ljubljanski Areni Stožice. 30 let po legendarnem koncertu na bežigrajskem stadionu in izidu albuma Rh-.
   ageRating: 4
@@ -118,6 +122,14 @@
   - '96'
 - eventId: 1375690
   start: 2026-10-03T23:50:00Z
+  stop: 2026-10-04T04:00:00Z
+  title: Videonoč
+  subtitle: V okviru Videonoči si boste lahko ogledali široko ponudbo slovenskih glasbenih videospotov vseh zvrsti. Z njimi noč ne bo tako dolga ...
+  ageRating: 4
+  genre:
+  - '96'
+- eventId: 1405366
+  start: 2026-10-03T23:55:00Z
   stop: 2026-10-04T04:00:00Z
   title: Videonoč
   subtitle: V okviru Videonoči si boste lahko ogledali široko ponudbo slovenskih glasbenih videospotov vseh zvrsti. Z njimi noč ne bo tako dolga ...
