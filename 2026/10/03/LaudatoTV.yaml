@@ -177,7 +177,7 @@
   - '160'
 - eventId: 1268014
   start: 2026-10-03T05:45:00Z
-  stop: 2026-10-03T05:53:00Z
+  stop: 2026-10-03T05:52:00Z
   title: Pod smokvom
   subtitle: YouTube kanal Pod Smokvom svakodnevno donosi Evanđelje dana s razmatranjem svećenika, koji brojnim pratiteljima pomaže u duhovnom životu.
   ageRating: 4
@@ -187,6 +187,7 @@
   - 1395187
   - 1396823
   - 1405354
+  - 1425771
   start: 2026-10-03T05:52:00Z
   stop: 2026-10-03T05:59:00Z
   title: Katolički kalendar
@@ -228,7 +229,9 @@
   title: Mali katekizam, Mali katekizam
   subtitle: Religijski
   description: Mali katekizam odgovara na velika pitanja pojednostavljeno kroz crteže. U ovoj emisiji objašnjava se što je čovjek.
-- eventId: 1405355
+- eventId:
+  - 1405355
+  - 1425772
   start: 2026-10-03T05:59:00Z
   stop: 2026-10-03T06:03:00Z
   title: Mali katekizam
@@ -261,6 +264,7 @@
   - 1395190
   - 1396826
   - 1405358
+  - 1425773
   start: 2026-10-03T06:03:00Z
   stop: 2026-10-03T06:30:00Z
   title: Superknjiga
@@ -290,10 +294,19 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 1425774
+  start: 2026-10-03T06:30:00Z
+  stop: 2026-10-03T06:59:00Z
+  title: Moje vrijeme s Isusom
+  subtitle: 'Crtana serija prati zgode četvero djece, Eve, Josepha, Christine i Enriquea, koji su krenuli na put otkrića. Naši junaci putuju u prošlost kako bi oživjeli svoje omiljene priče iz Evanđelja. '
+  ageRating: 4
+  genre:
+  - '128'
 - eventId:
   - 1395191
   - 1396827
   - 1405359
+  - 1425775
   start: 2026-10-03T06:59:00Z
   stop: 2026-10-03T07:10:00Z
   title: Živa riječ
@@ -384,6 +397,7 @@
 - eventId:
   - 1368476
   - 1378197
+  - 1425776
   start: 2026-10-03T07:43:00Z
   stop: 2026-10-03T08:01:00Z
   title: Prozor svetog Josipa
@@ -416,7 +430,17 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1268032
+- eventId: 1425777
+  start: 2026-10-03T08:01:00Z
+  stop: 2026-10-03T08:55:00Z
+  title: Neka nam Bog pomogne
+  subtitle: Dok sestra Angela istražuje tajnu Gabrieleovih prijatelja i prijateljice, Emma se vraća u samostan. Hoće li Azzurra smoći hrabrosti reći tko joj je otac?
+  ageRating: 4
+  genre:
+  - '128'
+- eventId:
+  - 1268032
+  - 1425778
   start: 2026-10-03T08:55:00Z
   stop: 2026-10-03T10:00:00Z
   title: Radost ljubavi u braku
@@ -476,7 +500,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1268046
+- eventId:
+  - 1268046
+  - 1425731
   start: 2026-10-03T11:40:00Z
   stop: 2026-10-03T12:26:00Z
   title: Izdvojeno
@@ -513,6 +539,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1425779
+  start: 2026-10-03T12:26:00Z
+  stop: 2026-10-03T13:00:00Z
+  title: '"Čipka od okova i milosrđa" - Bl.'
+  subtitle: U povodu obljetnice sudskog procesa protiv blaženoga Alojzija Stepinca, 3. listopada donosimo reportažu iz Lepoglave - mjesta njegova zatočeništva i svjedočanstva vjere, čiji se tragovi osjećaju i.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1268061
   start: 2026-10-03T13:00:00Z
   stop: 2026-10-03T13:15:00Z
@@ -543,6 +577,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1425780
+  start: 2026-10-03T13:54:00Z
+  stop: 2026-10-03T14:59:00Z
+  title: Život i zdravlje
+  subtitle: Emisija donosi temu boli u bubregu. Taj simptom može imati višestruko značenje, izuzetno je težak za pacijenta, zahtijeva detaljan pregled i liječenje.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1268063
   - 1396365
@@ -556,7 +598,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1268074
+- eventId:
+  - 1268074
+  - 1425781
   start: 2026-10-03T15:00:00Z
   stop: 2026-10-03T17:00:00Z
   title: 'Krunica i sveta Misa: Međugorje'
@@ -583,7 +627,7 @@
   - '32'
 - eventId: 1268083
   start: 2026-10-03T18:10:00Z
-  stop: 2026-10-03T18:31:00Z
+  stop: 2026-10-03T18:30:00Z
   title: Izdvojeno
   subtitle: Emisija "Izdvojeno" pet dana u tjednu donosi aktualne teme iz života Crkve, priča neispričane priče o ljudima, zajednicama i brojnim drugim primjerima koji potiču na dobro i u čovjeku bude nadu.
   ageRating: 4
@@ -598,7 +642,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1391668
+- eventId:
+  - 1391668
+  - 1425782
   start: 2026-10-03T18:31:00Z
   stop: 2026-10-03T19:15:00Z
   title: Čovjek prije svega
@@ -616,7 +662,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1268086
+- eventId:
+  - 1268086
+  - 1425783
   start: 2026-10-03T20:00:00Z
   stop: 2026-10-03T20:20:00Z
   title: Egzamen - ispit svjesnosti
@@ -658,6 +706,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1425784
+  start: 2026-10-03T20:20:00Z
+  stop: 2026-10-03T21:05:00Z
+  title: Domovinu volim
+  subtitle: Domoljubna glazba.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1268099
   start: 2026-10-03T21:05:00Z
   stop: 2026-10-03T21:30:00Z
@@ -687,13 +743,19 @@
   - '160'
 - eventId: 1391669
   start: 2026-10-03T21:32:00Z
-  stop: 2026-10-03T22:02:00Z
+  stop: 2026-10-03T21:57:00Z
   title: Krunica, Krunica Blažene Djevice Marije
   subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
   ageRating: 4
   genre:
   - '160'
   description: Molimo zajedno molitvu Krunice Blažene Djevice Marije.
+- eventId: 1425635
+  start: 2026-10-03T21:57:00Z
+  stop: 2026-10-03T22:02:00Z
+  title: SKUD Ivan Goran Kovačić - Zdravo vječna diko nebi
+  subtitle: Glazbeni
+  description: SKUD Ivan Goran Kovačić - Zdravo vječna diko nebi
 - eventId:
   - 1268101
   - 1375746
