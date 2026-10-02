@@ -435,19 +435,7 @@
 - eventId:
   - 1228084
   - 1234311
-  start: 2026-10-03T03:10:00Z
-  stop: 2026-10-03T04:00:00Z
-  title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '35'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 1427749
+  - 1427749
   start: 2026-10-03T03:10:00Z
   stop: 2026-10-03T03:59:00Z
   title: Studio ČT24
@@ -458,6 +446,8 @@
   genre:
   - '35'
   widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1426292
   start: 2026-10-03T03:13:19Z
   stop: 2026-10-03T04:02:19Z
@@ -490,7 +480,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 1427750
+- eventId:
+  - 1427750
+  - 1428334
   start: 2026-10-03T03:59:00Z
   stop: 2026-10-03T04:09:00Z
   title: Zprávy
@@ -545,7 +537,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 1427751
+- eventId:
+  - 1427751
+  - 1428335
   start: 2026-10-03T04:09:00Z
   stop: 2026-10-03T05:00:00Z
   title: Studio ČT24
