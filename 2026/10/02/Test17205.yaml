@@ -379,12 +379,23 @@
   hd: true
 - eventId: 1221160
   start: 2026-10-02T16:25:00Z
-  stop: 2026-10-02T17:15:00Z
+  stop: 2026-10-02T17:10:00Z
   title: Cyclisme
   subtitle: Coupe du monde VTT
   description: En direct. Short Track Messieurs En direct de Lake Placid (USA)
   genre:
   - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1422819
+  start: 2026-10-02T17:10:00Z
+  stop: 2026-10-02T17:30:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
   widescreen: true
   subtitled: true
   hd: true
@@ -538,9 +549,29 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1422824
+  start: 2026-10-02T23:35:00Z
+  stop: 2026-10-02T23:45:00Z
+  title: Couleurs locales
+  description: (Rediffusion)
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1370230
   start: 2026-10-02T23:45:00Z
   stop: 2026-10-03T00:15:00Z
+  title: 19h30 - Signé
+  description: (Rediffusion)  "Langue des signes"
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1422825
+  start: 2026-10-02T23:50:00Z
+  stop: 2026-10-03T00:25:00Z
   title: 19h30 - Signé
   description: (Rediffusion)  "Langue des signes"
   genre:

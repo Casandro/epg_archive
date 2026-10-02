@@ -1,6 +1,6 @@
-- eventId: 1358603
-  start: 2026-10-07T00:10:00Z
-  stop: 2026-10-07T00:15:00Z
+- eventId: 1422837
+  start: 2026-10-07T00:05:00Z
+  stop: 2026-10-07T00:10:00Z
   title: Meteo
   subtitle: Spätausgabe
   genre:
@@ -8,10 +8,23 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1358603
+  start: 2026-10-07T00:10:00Z
+  stop: 2026-10-07T00:15:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
 - eventId: 1358604
   start: 2026-10-07T00:15:00Z
-  stop: 2026-10-07T00:20:00Z
-  title: Sportflash
+  stop: 2026-10-07T00:25:00Z
+  title: Newsflash SRF 1
   subtitle: Die Sportnews des Tages
   description: |-
     Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
@@ -20,6 +33,7 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 1358605
   start: 2026-10-07T00:20:00Z
   stop: 2026-10-07T00:25:00Z
@@ -31,16 +45,16 @@
   hd: true
 - eventId: 1358606
   start: 2026-10-07T00:25:00Z
-  stop: 2026-10-07T00:50:00Z
+  stop: 2026-10-07T00:45:00Z
   title: 10 vor 10
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1358607
-  start: 2026-10-07T00:50:00Z
-  stop: 2026-10-07T00:55:00Z
+- eventId: 1422838
+  start: 2026-10-07T00:45:00Z
+  stop: 2026-10-07T00:50:00Z
   title: Meteo
   subtitle: Spätausgabe
   genre:
@@ -48,6 +62,19 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1358607
+  start: 2026-10-07T00:50:00Z
+  stop: 2026-10-07T01:00:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
 - eventId: 1358608
   start: 2026-10-07T00:55:00Z
   stop: 2026-10-07T01:00:00Z
@@ -182,7 +209,7 @@
   hd: true
 - eventId: 1358622
   start: 2026-10-07T03:00:00Z
-  stop: 2026-10-07T03:05:00Z
+  stop: 2026-10-07T03:10:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
@@ -191,6 +218,15 @@
   hd: true
 - eventId: 1358623
   start: 2026-10-07T03:05:00Z
+  stop: 2026-10-07T03:30:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1422843
+  start: 2026-10-07T03:10:00Z
   stop: 2026-10-07T03:30:00Z
   title: 10 vor 10
   genre:
@@ -220,8 +256,22 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 1358626
   start: 2026-10-07T03:40:00Z
+  stop: 2026-10-07T03:45:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+- eventId: 1422844
+  start: 2026-10-07T03:45:00Z
   stop: 2026-10-07T03:50:00Z
   title: Newsflash SRF 1
   genre:
