@@ -360,9 +360,9 @@
   start: 2026-10-03T18:05:00Z
   stop: 2026-10-03T18:15:00Z
   title: Sport
-  description: |
-    Tytuł oryginalny: Sport
-    PL, 2026
+  description: |-
+    magazyn (na żywo)
+    Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.
   genre:
   - '66'
 - eventId: 1232650
@@ -378,9 +378,9 @@
   start: 2026-10-03T18:15:00Z
   stop: 2026-10-03T18:20:00Z
   title: Pogoda
-  description: |
-    Tytuł oryginalny: Pogoda
-    PL, 2025
+  description: |-
+    program informacyjny
+    Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.
   genre:
   - '32'
 - eventId: 1232651
@@ -388,11 +388,11 @@
   stop: 2026-10-03T19:10:00Z
   title: Archiwista - odc. 4 (seria I, odc. 4) Nie całkiem ślepa temida
   description: |-
-    Tytuł oryginalny: Archiwista
-    PL, 2020
-    Reżyseria: Maciej Żak
-    Występują: Henryk Talar, Paulina Gałązka, Mirosław Zbrojewicz, Rafał Mohr, Maria Gładkowska, Mateusz Kmiecik
-    W archiwum zirytowana Zuza czyta na głos artykuł o tym, jak o zastępca komendanta, Strączek, rozwikłał sprawę Jana Gołki. W tym czasie Henryk porządkuje teczki, które mają trafić na przemiał. Nagle sięga po jedną z nich i kładzie przed Wasiluk. Akta dotyczą morderstwa prokuratora Dariusza Zwolińskiego. Co ciekawe, z jego mieszkania pełnego biżuterii i antyków, zginął jedynie klaser ze starymimonetami.
+    serial kryminalny (Polska, 2020) odc.4, Nie całkiem ślepa Temida
+    Występują: Henryk Talar, Paulina Gałązka, Mirosław Zbrojewicz, Rafał Mohr, Maria Gładkowska, Sylwia Juszczak-Krawczyk, Beata Fido, Mateusz Kmiecik, Angelika Kurowska, Jan Wieczorkowski
+    Henryk natrafia w archiwum na teczkę ze sprawą morderstwa prokuratora Dariusza Zwolińskiego. Z jego mieszkania pełnego biżuterii i antyków zginął jedynie klaser ze starymi monetami. Dzięki pomocy brata Zuza trafia na ich ślad w darknecie, miejscu półlegalnego handlu, i umawia się z jednym z jego użytkowników, Wojtkiem.
+    Reżyser: Maciej Żak
+    Od lat: 16
   ageRating: 16
   genre:
   - '18'
@@ -414,7 +414,7 @@
 - eventId: 1232653
   start: 2026-10-03T20:00:00Z
   stop: 2026-10-03T20:45:00Z
-  title: Daję słowo - Maciej Orłoś - /43/ - Stefan Friedmann
+  title: 'Daję słowo - Maciej Orłoś 2: Stefan Friedmann: odc.43'
   description: |-
     Tytuł oryginalny: Daję słowo - Maciej Orłoś
     PL, 2026
@@ -427,7 +427,7 @@
 - eventId: 1232654
   start: 2026-10-03T20:45:00Z
   stop: 2026-10-03T21:00:00Z
-  title: DOBRY ŻART
+  title: 'Dobry żart: odc.4'
   description: Najlepsze archiwalne skecze przygotowane w nowej oprawie graficznej. Najlepsze skecze ostatniego dwudziestolecia w wykonaniu gwiazd polskiego kabaretu.
   ageRating: 12
   genre:
@@ -450,7 +450,11 @@
   start: 2026-10-03T22:05:00Z
   stop: 2026-10-03T22:40:00Z
   title: To jest grane - odc. 105
-  description: '"To jest grane" - autorski program znanego dziennikarza muzycznego Marka Sierockiego, prezentujący największe hity i wzbogacony o cenny komentarz autora. Prezentowane będą największe przeboje z wybranych, światowych list przebojów.'
+  description: |-
+    program muzyczny (Polska, 2026) odc.105
+    Prowadzą: Marek Sierocki
+    Marek Sierocki prezentuje co tydzień największe przeboje z polskiej, amerykańskiej i brytyjskiej listy oraz zestawienia bestsellerów. Utwory z czołowych miejsc muzycznych notowań ilustrowane są fragmentami teledysków. Nie zabraknie ciekawych gości, artystów promujących swoje wychodzące właśnie albumy bądź teledyski.
+    Od lat: 12
   ageRating: 12
   subtitle: W programie przegląd polskich i zagranicznych list przebojów. Każde wydanie gości artystę lub zespół, którzy wydają płytę. Program przedstawia album tygodnia, kartkę z kalendarza i miks utworów jednego wykonawcy albo gatunku.
   genre:
@@ -472,8 +476,10 @@
 - eventId: 1232674
   start: 2026-10-03T23:30:00Z
   stop: 2026-10-03T23:55:00Z
-  title: Program informacyjny
-  description: (N) Główne wydanie codziennego programu informacyjnego.
+  title: Program informacyjny 19.30
+  description: |-
+    program informacyjny
+    Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.
   genre:
   - '36'
   subtitle: Bieżące wydarzenia w kraju i na świecie. Informacje polityczne, gospodarcze, ważne tematy społeczne i poruszające opinię publiczną.
