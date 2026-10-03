@@ -9,12 +9,18 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1400227
   start: 2026-10-04T00:01:00Z
-  stop: 2026-10-04T00:03:00Z
+  stop: 2026-10-04T00:02:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+- eventId: 1451919
+  start: 2026-10-04T00:02:00Z
+  stop: 2026-10-04T00:04:00Z
+  title: Vrijeme Europa danas
+  subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 1400228
   start: 2026-10-04T00:03:00Z
@@ -25,6 +31,12 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 1451920
+  start: 2026-10-04T00:04:00Z
+  stop: 2026-10-04T00:06:00Z
+  title: Vrijeme svijet danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1400229
   start: 2026-10-04T00:05:00Z
   stop: 2026-10-04T00:25:00Z
@@ -33,6 +45,12 @@
   ageRating: 4
   genre:
   - '160'
+  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+- eventId: 1451921
+  start: 2026-10-04T00:06:00Z
+  stop: 2026-10-04T00:25:00Z
+  title: 'Studio 4: Intervju'
+  subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId: 1400230
   start: 2026-10-04T00:25:00Z
@@ -65,6 +83,12 @@
   title: '#REPORTAŽE: Botoks'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1451922
+  start: 2026-10-04T00:27:00Z
+  stop: 2026-10-04T00:31:00Z
+  title: '#REPORTAŽE: Botoks'
+  subtitle: ' '
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 1400231
   - 1447404
@@ -94,6 +118,12 @@
   title: 'Bez komentara: Tbilisi, Gruzija - Umirovljenici biraju superbaku i superdjeda'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 1451923
+  start: 2026-10-04T00:31:00Z
+  stop: 2026-10-04T00:50:00Z
+  title: Regionalni dnevnik
+  subtitle: ' '
+  description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
 - eventId: 1400232
   start: 2026-10-04T00:32:00Z
   stop: 2026-10-04T00:50:00Z
@@ -150,7 +180,7 @@
   - 1451712
   start: 2026-10-04T01:18:00Z
   stop: 2026-10-04T01:20:00Z
-  title: Bez komentara
+  title: 'Bez komentara: Litva - NATO pokazao borbene avione'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
@@ -229,7 +259,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 1400245
   start: 2026-10-04T02:50:00Z
-  stop: 2026-10-04T02:57:00Z
+  stop: 2026-10-04T03:00:00Z
   title: Vijesti iz kulture
   subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   ageRating: 4
@@ -247,14 +277,16 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1400248
   start: 2026-10-04T03:00:00Z
-  stop: 2026-10-04T03:53:00Z
+  stop: 2026-10-04T03:52:00Z
   title: Dnevnik 2
   subtitle: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a.
   ageRating: 4
   genre:
   - '32'
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
-- eventId: 1451418
+- eventId:
+  - 1451418
+  - 1451924
   start: 2026-10-04T03:52:00Z
   stop: 2026-10-04T03:54:00Z
   title: Vrijeme RH danas
@@ -372,7 +404,7 @@
   - 1445721
   - 1445949
   start: 2026-10-04T04:10:00Z
-  stop: 2026-10-04T04:18:00Z
+  stop: 2026-10-04T04:17:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
@@ -391,6 +423,12 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 1451925
+  start: 2026-10-04T04:17:00Z
+  stop: 2026-10-04T04:19:00Z
+  title: 'Bez komentara: London, UK - Otvorena izložba koja predstavlja 2000 godina korejske kulture'
+  subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 1442888
@@ -411,6 +449,7 @@
   - 1443177
   - 1444720
   - 1445164
+  - 1451926
   start: 2026-10-04T04:19:00Z
   stop: 2026-10-04T04:27:00Z
   title: 'Studio 4: Znanost'
@@ -458,7 +497,7 @@
   - 1445724
   - 1445952
   start: 2026-10-04T04:55:00Z
-  stop: 2026-10-04T05:00:00Z
+  stop: 2026-10-04T04:58:00Z
   title: 'Bez komentara: Tbilisi, Gruzija - Umirovljenici biraju superbaku i superdjeda'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -489,7 +528,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 1400262
   start: 2026-10-04T05:10:00Z
-  stop: 2026-10-04T05:15:00Z
+  stop: 2026-10-04T05:14:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
@@ -507,6 +546,12 @@
   - 1451419
   start: 2026-10-04T05:14:00Z
   stop: 2026-10-04T05:21:00Z
+  title: Vijesti iz kulture
+  subtitle: ' '
+  description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
+- eventId: 1451927
+  start: 2026-10-04T05:14:00Z
+  stop: 2026-10-04T05:23:00Z
   title: Vijesti iz kulture
   subtitle: ' '
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
@@ -566,10 +611,10 @@
   ageRating: 4
   genre:
   - '32'
-  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1405304
   start: 2026-10-04T05:24:00Z
-  stop: 2026-10-04T05:28:00Z
+  stop: 2026-10-04T05:26:00Z
   title: Vrijeme svijet danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
@@ -584,6 +629,12 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 1451928
+  start: 2026-10-04T05:26:00Z
+  stop: 2026-10-04T05:28:00Z
+  title: Vrijeme svijet danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1400267
   start: 2026-10-04T05:27:00Z
   stop: 2026-10-04T05:30:00Z
@@ -782,7 +833,7 @@
   - 1427824
   - 1431761
   start: 2026-10-04T08:42:00Z
-  stop: 2026-10-04T08:47:00Z
+  stop: 2026-10-04T08:46:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
@@ -818,6 +869,7 @@
   - 1448271
   - 1450238
   - 1451421
+  - 1451929
   start: 2026-10-04T08:46:00Z
   stop: 2026-10-04T08:54:00Z
   title: 'Studio 4: Znanost'
@@ -876,6 +928,7 @@
   - 1448272
   - 1450239
   - 1451422
+  - 1451930
   start: 2026-10-04T08:54:00Z
   stop: 2026-10-04T09:00:00Z
   title: Bez komentara
@@ -1221,7 +1274,7 @@
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
 - eventId: 1405306
   start: 2026-10-04T14:22:00Z
-  stop: 2026-10-04T14:25:00Z
+  stop: 2026-10-04T14:24:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -1236,6 +1289,7 @@
   - 1448273
   - 1450240
   - 1451423
+  - 1451931
   start: 2026-10-04T14:24:00Z
   stop: 2026-10-04T14:49:00Z
   title: Potrošački kod
@@ -1266,6 +1320,7 @@
   - 1448274
   - 1450241
   - 1451424
+  - 1451932
   start: 2026-10-04T14:49:00Z
   stop: 2026-10-04T15:34:00Z
   title: Prizma, multinacionalni magazin
@@ -1298,6 +1353,12 @@
   - 1451425
   start: 2026-10-04T15:34:00Z
   stop: 2026-10-04T16:00:00Z
+  title: 'DW: Global Us'
+  subtitle: ' '
+  description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
+- eventId: 1451933
+  start: 2026-10-04T15:34:00Z
+  stop: 2026-10-04T16:01:00Z
   title: 'DW: Global Us'
   subtitle: ' '
   description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
@@ -1346,16 +1407,8 @@
   title: 'Romano Bolković - 1 na 1: Josip Brkić, talk show'
   subtitle: ' '
   description: Josip Brkić zamjenik je ministra vanjskih poslova Bosne i Hercegovine od travnja 2015. godine. Predsjedava Povjerenstvom za suradnju s NATO-om BiH, međunarodni je tajnik HDZ-a BiH i član Glavnog vijeća Hrvatskog narodnog sabora Bosne i Hercegovine. Rođen je 1974. godine u Sarajevu, gdje je završio osnovnu i srednju školu. Diplomirao je na Pravnom fakultetu Sveučilišta u Mostaru, magistrirao na poslijediplomskom studiju Europske studije Sveučilišta u Sarajevu i Sveučilišta u Bolonji te je doktorand međunarodnog javnog prava na Pravnom fakultetu Sveučilišta u Mostaru. Od 2004. do 2008. bio je veleposlanik Bosne i Hercegovine u Španjolskoj i Maroku. Prethodno je obnašao rukovodeće dužnosti u Ministarstvu europskih integracija BiH, a od 2009. do 2015. radio je na rukovodećim položajima u poslovnom sektoru. Član je Upravnog odbora Europske organizacije javnog prava i Globalnog povjerenstva za vladavinu prava. S gospodinom Brkićem razgovaramo o predstojećim izborima u Bosni i Hercegovini, izboru hrvatskog člana Predsjedništva i legitimnom predstavljanju Hrvata. Govorimo i o tome kako se oblikuje vanjska politika BiH te kako unutarnje političke razlike utječu na odnose s Hrvatskom i međunarodnim partnerima. Razgovaramo o europskom putu BiH, preprekama u pristupnom procesu i ulozi Hrvatske u približavanju BiH Europskoj uniji. Otvaramo i temu suradnje s NATO-om, ostvarenih reformi i mogućnosti daljnjeg napretka. Govorimo o budućoj ulozi visokog predstavnika, američkoj politici prema BiH i odnosima domaćih političkih stranaka. Otvaramo pitanja državne imovine, Južne plinske konekcije i rezultata potpore Republike Hrvatske. Razgovor zaključujemo pitanjem dogovora o budućnosti BiH i kompromisa potrebnih za stabilno funkcioniranje države.
-- eventId: 1405307
-  start: 2026-10-04T16:01:00Z
-  stop: 2026-10-04T16:52:00Z
-  title: 'Romano Bolković - 1 na 1: Josip Brkić, talk show'
-  subtitle: Josip Brkić zamjenik je ministra vanjskih poslova Bosne i Hercegovine od travnja 2015. godine.
-  description: Josip Brkić zamjenik je ministra vanjskih poslova Bosne i Hercegovine od travnja 2015. godine. Predsjedava Povjerenstvom za suradnju s NATO-om BiH, međunarodni je tajnik HDZ-a BiH i član Glavnog vijeća Hrvatskog narodnog sabora Bosne i Hercegovine. Rođen je 1974. godine u Sarajevu, gdje je završio osnovnu i srednju školu. Diplomirao je na Pravnom fakultetu Sveučilišta u Mostaru, magistrirao na poslijediplomskom studiju Europske studije Sveučilišta u Sarajevu i Sveučilišta u Bolonji te je doktorand međunarodnog javnog prava na Pravnom fakultetu Sveučilišta u Mostaru. Od 2004. do 2008. bio je veleposlanik Bosne i Hercegovine u Španjolskoj i Maroku. Prethodno je obnašao rukovodeće dužnosti u Ministarstvu europskih integracija BiH, a od 2009. do 2015. radio je na rukovodećim položajima u poslovnom sektoru. Član je Upravnog odbora Europske organizacije javnog prava i Globalnog povjerenstva za vladavinu prava. S gospodinom Brkićem razgovaramo o predstojećim izborima u Bosni i Hercegovini, izboru hrvatskog člana Predsjedništva i legitimnom predstavljanju Hrvata. Govorimo i o tome kako se oblikuje vanjska politika BiH te kako unutarnje političke razlike utječu na odnose s Hrvatskom i međunarodnim partnerima. Razgovaramo o europskom putu BiH, preprekama u pristupnom procesu i ulozi Hrvatske u približavanju BiH Europskoj uniji. Otvaramo i temu suradnje s NATO-om, ostvarenih reformi i mogućnosti daljnjeg napretka. Govorimo o budućoj ulozi visokog predstavnika, američkoj politici prema BiH i odnosima domaćih političkih stranaka. Otvaramo pitanja državne imovine, Južne plinske konekcije i rezultata potpore Republike Hrvatske. Razgovor zaključujemo pitanjem dogovora o budućnosti BiH i kompromisa potrebnih za stabilno funkcioniranje države.
-  ageRating: 4
-  genre:
-  - '160'
 - eventId:
+  - 1405307
   - 1444729
   - 1445173
   - 1447129
@@ -1365,8 +1418,9 @@
   - 1451722
   start: 2026-10-04T16:01:00Z
   stop: 2026-10-04T16:52:00Z
-  title: Romano Bolković - 1 na 1
+  title: 'Romano Bolković - 1 na 1: Josip Brkić, talk show'
   subtitle: Josip Brkić zamjenik je ministra vanjskih poslova Bosne i Hercegovine od travnja 2015. godine.
+  description: Josip Brkić zamjenik je ministra vanjskih poslova Bosne i Hercegovine od travnja 2015. godine. Predsjedava Povjerenstvom za suradnju s NATO-om BiH, međunarodni je tajnik HDZ-a BiH i član Glavnog vijeća Hrvatskog narodnog sabora Bosne i Hercegovine. Rođen je 1974. godine u Sarajevu, gdje je završio osnovnu i srednju školu. Diplomirao je na Pravnom fakultetu Sveučilišta u Mostaru, magistrirao na poslijediplomskom studiju Europske studije Sveučilišta u Sarajevu i Sveučilišta u Bolonji te je doktorand međunarodnog javnog prava na Pravnom fakultetu Sveučilišta u Mostaru. Od 2004. do 2008. bio je veleposlanik Bosne i Hercegovine u Španjolskoj i Maroku. Prethodno je obnašao rukovodeće dužnosti u Ministarstvu europskih integracija BiH, a od 2009. do 2015. radio je na rukovodećim položajima u poslovnom sektoru. Član je Upravnog odbora Europske organizacije javnog prava i Globalnog povjerenstva za vladavinu prava. S gospodinom Brkićem razgovaramo o predstojećim izborima u Bosni i Hercegovini, izboru hrvatskog člana Predsjedništva i legitimnom predstavljanju Hrvata. Govorimo i o tome kako se oblikuje vanjska politika BiH te kako unutarnje političke razlike utječu na odnose s Hrvatskom i međunarodnim partnerima. Razgovaramo o europskom putu BiH, preprekama u pristupnom procesu i ulozi Hrvatske u približavanju BiH Europskoj uniji. Otvaramo i temu suradnje s NATO-om, ostvarenih reformi i mogućnosti daljnjeg napretka. Govorimo o budućoj ulozi visokog predstavnika, američkoj politici prema BiH i odnosima domaćih političkih stranaka. Otvaramo pitanja državne imovine, Južne plinske konekcije i rezultata potpore Republike Hrvatske. Razgovor zaključujemo pitanjem dogovora o budućnosti BiH i kompromisa potrebnih za stabilno funkcioniranje države.
   ageRating: 4
   genre:
   - '160'
@@ -1549,6 +1603,7 @@
 - eventId:
   - 1450244
   - 1451427
+  - 1451934
   start: 2026-10-04T20:44:00Z
   stop: 2026-10-04T21:03:00Z
   title: 'Studio 4: U fokusu'
@@ -1586,6 +1641,7 @@
   - 1448278
   - 1450245
   - 1451428
+  - 1451935
   start: 2026-10-04T21:04:00Z
   stop: 2026-10-04T21:07:00Z
   title: '#REPORTAŽE: Marko - plakati'
