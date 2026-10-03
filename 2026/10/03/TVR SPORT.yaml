@@ -61,9 +61,12 @@
   - 1427515
   - 1431100
   start: 2026-10-03T00:00:00Z
-  stop: 2026-10-03T01:30:00Z
+  stop: 2026-10-03T02:00:00Z
   title: Handbal masculin
   subtitle: ' * LIGA ZIMBRILOR* ETAPA A4-A SCM Politehnica Timi'
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1212337
   - 1352293
@@ -173,6 +176,7 @@
   - 1427657
   - 1428079
   - 1428341
+  - 1433905
   start: 2026-10-03T02:00:00Z
   stop: 2026-10-03T05:00:00Z
   title: Pastel
@@ -417,6 +421,7 @@
   - 1427658
   - 1428080
   - 1428342
+  - 1433906
   start: 2026-10-03T05:00:00Z
   stop: 2026-10-03T05:30:00Z
   title: Pastel
@@ -468,6 +473,14 @@
   - 1428343
   start: 2026-10-03T05:30:00Z
   stop: 2026-10-03T07:05:00Z
+  title: Live News MK
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 1433907
+  start: 2026-10-03T05:30:00Z
+  stop: 2026-10-03T07:00:00Z
   title: Live News MK
   subtitle: ' '
   ageRating: 4
@@ -703,6 +716,7 @@
   - 1427587
   - 1428082
   - 1428344
+  - 1433908
   start: 2026-10-03T07:05:00Z
   stop: 2026-10-03T09:30:00Z
   title: Programi i mëngjesit
@@ -893,6 +907,7 @@
   - 1427588
   - 1428083
   - 1428345
+  - 1433909
   start: 2026-10-03T09:30:00Z
   stop: 2026-10-03T10:20:00Z
   title: Reportazhe
@@ -1043,6 +1058,14 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 1433910
+  start: 2026-10-03T10:20:00Z
+  stop: 2026-10-03T11:00:00Z
+  title: Farewell Letter
+  subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
+  ageRating: 4
+  genre:
+  - '128'
 - eventId:
   - 1212351
   - 1380071
@@ -1132,6 +1155,7 @@
   - 1427590
   - 1428085
   - 1428347
+  - 1433911
   start: 2026-10-03T11:05:00Z
   stop: 2026-10-03T12:15:00Z
   title: Click Plus
@@ -1228,6 +1252,7 @@
   - 1427591
   - 1428086
   - 1428348
+  - 1433912
   start: 2026-10-03T12:15:00Z
   stop: 2026-10-03T13:25:00Z
   title: Reportazhe
@@ -1371,6 +1396,7 @@
   - 1427592
   - 1428087
   - 1428349
+  - 1433913
   start: 2026-10-03T13:25:00Z
   stop: 2026-10-03T14:00:00Z
   title: Promo
@@ -1382,7 +1408,7 @@
   - 1212355
   - 1409158
   start: 2026-10-03T14:00:00Z
-  stop: 2026-10-03T15:30:00Z
+  stop: 2026-10-03T15:00:00Z
   title: Preferenca Muzikore
   subtitle: ' * CUPA MONDIALA BAKU, AZERBAIDJANComentator: Vlad BucurescuTransmisiune directa '
   ageRating: 4
@@ -1430,6 +1456,7 @@
   - 1427593
   - 1428088
   - 1428350
+  - 1433914
   start: 2026-10-03T15:00:00Z
   stop: 2026-10-03T15:55:00Z
   title: Pastel
@@ -1498,7 +1525,7 @@
   - '160'
 - eventId: 1212357
   start: 2026-10-03T16:00:00Z
-  stop: 2026-10-03T18:30:00Z
+  stop: 2026-10-03T16:30:00Z
   title: MARILE MECIURI
   subtitle: ' Carpathian Dance Cup 2026 '
   ageRating: 4
@@ -1546,6 +1573,7 @@
   - 1427594
   - 1428089
   - 1428351
+  - 1433915
   start: 2026-10-03T16:30:00Z
   stop: 2026-10-03T17:00:00Z
   title: Live news AL
@@ -1595,6 +1623,7 @@
   - 1427595
   - 1428090
   - 1428352
+  - 1433916
   start: 2026-10-03T17:00:00Z
   stop: 2026-10-03T17:30:00Z
   title: Edhe unë jam këtu
@@ -1644,6 +1673,7 @@
   - 1427596
   - 1428091
   - 1428353
+  - 1433917
   start: 2026-10-03T17:30:00Z
   stop: 2026-10-03T18:00:00Z
   title: Live News MK
@@ -1698,6 +1728,7 @@
   - 1427597
   - 1428092
   - 1428354
+  - 1433918
   start: 2026-10-03T18:00:00Z
   stop: 2026-10-03T18:30:00Z
   title: Promo
@@ -1723,7 +1754,7 @@
   subtitle: ' '
 - eventId: 1212361
   start: 2026-10-03T20:00:00Z
-  stop: 2026-10-03T21:50:00Z
+  stop: 2026-10-03T20:20:00Z
   title: Live News MK
   subtitle: '  *VECTRA HORSE CLUB    (Reluare)'
   ageRating: 4
@@ -1771,6 +1802,7 @@
   - 1427598
   - 1428093
   - 1428355
+  - 1433919
   start: 2026-10-03T20:20:00Z
   stop: 2026-10-03T20:40:00Z
   title: Fc Latta
@@ -1820,6 +1852,7 @@
   - 1427599
   - 1428094
   - 1428356
+  - 1433920
   start: 2026-10-03T20:40:00Z
   stop: 2026-10-03T22:25:00Z
   title: Odeon
@@ -1917,6 +1950,7 @@
   - 1427602
   - 1428095
   - 1428357
+  - 1433921
   start: 2026-10-03T22:25:00Z
   stop: 2026-10-03T23:35:00Z
   title: Click Plus
@@ -1928,7 +1962,7 @@
   - 1212364
   - 1417725
   start: 2026-10-03T23:35:00Z
-  stop: 2026-10-04T00:00:00Z
+  stop: 2026-10-04T01:25:00Z
   title: SPORTS REPLAY
   subtitle: ' '
   ageRating: 4
