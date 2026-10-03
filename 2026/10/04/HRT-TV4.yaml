@@ -254,8 +254,11 @@
   start: 2026-10-04T04:00:00Z
   stop: 2026-10-04T04:08:00Z
   title: Vijesti na španjolskom jeziku
-  subtitle: ' '
+  subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1400254
   - 1443174
@@ -278,8 +281,11 @@
   start: 2026-10-04T04:08:00Z
   stop: 2026-10-04T04:10:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1400255
   - 1443175
@@ -302,8 +308,11 @@
   start: 2026-10-04T04:10:00Z
   stop: 2026-10-04T04:18:00Z
   title: Vijesti na engleskom jeziku
-  subtitle: ' '
+  subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1400256
   - 1443176
@@ -326,8 +335,11 @@
   start: 2026-10-04T04:18:00Z
   stop: 2026-10-04T04:20:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1400257
   - 1443177
@@ -350,8 +362,11 @@
   start: 2026-10-04T04:20:00Z
   stop: 2026-10-04T04:27:00Z
   title: 'Studio 4: Znanost'
-  subtitle: ' '
+  subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   description: Kratki pregled aktualnosti iz svijeta znanosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1400258
   start: 2026-10-04T04:27:00Z
   stop: 2026-10-04T04:29:00Z
@@ -377,10 +392,13 @@
   - 1445724
   - 1445952
   start: 2026-10-04T04:55:00Z
-  stop: 2026-10-04T04:58:00Z
+  stop: 2026-10-04T05:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1400260
   - 1443178
@@ -405,7 +423,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 1400262
   start: 2026-10-04T05:10:00Z
-  stop: 2026-10-04T05:14:00Z
+  stop: 2026-10-04T05:15:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
@@ -426,6 +444,7 @@
   - 1400263
   - 1444722
   - 1445166
+  - 1447122
   start: 2026-10-04T05:15:00Z
   stop: 2026-10-04T05:22:00Z
   title: Vijesti iz kulture
@@ -446,7 +465,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1400264
   start: 2026-10-04T05:22:00Z
-  stop: 2026-10-04T05:24:00Z
+  stop: 2026-10-04T05:23:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -457,6 +476,7 @@
   - 1400265
   - 1444723
   - 1445167
+  - 1447123
   start: 2026-10-04T05:23:00Z
   stop: 2026-10-04T05:24:00Z
   title: Vrijeme Europa danas
@@ -680,7 +700,7 @@
   - 1427824
   - 1431761
   start: 2026-10-04T08:42:00Z
-  stop: 2026-10-04T08:46:00Z
+  stop: 2026-10-04T08:47:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
@@ -729,6 +749,7 @@
   - 1431762
   - 1444724
   - 1445168
+  - 1447124
   start: 2026-10-04T08:47:00Z
   stop: 2026-10-04T08:55:00Z
   title: 'Studio 4: Znanost'
@@ -779,6 +800,7 @@
   - 1431763
   - 1444725
   - 1445169
+  - 1447125
   start: 2026-10-04T08:55:00Z
   stop: 2026-10-04T09:00:00Z
   title: Bez komentara
@@ -1103,7 +1125,7 @@
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
 - eventId: 1405306
   start: 2026-10-04T14:22:00Z
-  stop: 2026-10-04T14:24:00Z
+  stop: 2026-10-04T14:25:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -1132,6 +1154,14 @@
   genre:
   - '160'
   description: 'Vlada je odgodila provođenje odluke o isticanju tzv. sidrenih cijena za obrtnike i pružatelje usluga za 17. studenoga. Bazne cijene podrazumijevaju da se, uz aktualnu cijenu, mora istaknuti i koliko su proizvod ili usluga stajali 10. rujna.  Ostavlja li produljenje roka pružateljima usluga dovoljno vremena za pripremu i hoće li se trošak uvođenja sidrenih cijena preliti na leđa potrošača? Gosti su: Kristina Bakula, Udruge "Glas poduzetnika" i Đurđica Mostarčić, predsjednice Sekcije računovođa pri Hrvatskoj obrtničkoj komori.'
+- eventId: 1447126
+  start: 2026-10-04T14:25:00Z
+  stop: 2026-10-04T14:49:00Z
+  title: Potrošački kod
+  subtitle: Vlada je odgodila provođenje odluke o isticanju tzv. sidrenih cijena za obrtnike i pružatelje usluga za 17. studenoga.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1444926
   - 1445015
@@ -1154,6 +1184,14 @@
   genre:
   - '160'
   description: Multinacionalni magazin, donosi aktualnosti o manjinama i ljudskim pravima.
+- eventId: 1447127
+  start: 2026-10-04T14:50:00Z
+  stop: 2026-10-04T15:34:00Z
+  title: Prizma - multinacionalni magazin
+  subtitle: Multinacionalni magazin, donosi aktualnosti o manjinama i ljudskim pravima.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1444927
   - 1445016
@@ -1173,7 +1211,9 @@
   genre:
   - '160'
   description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
-- eventId: 1444728
+- eventId:
+  - 1444728
+  - 1447128
   start: 2026-10-04T15:35:00Z
   stop: 2026-10-04T16:00:00Z
   title: Global 3000
@@ -1219,6 +1259,7 @@
 - eventId:
   - 1444729
   - 1445173
+  - 1447129
   start: 2026-10-04T16:01:00Z
   stop: 2026-10-04T16:52:00Z
   title: Romano Bolković - 1 na 1
@@ -1378,6 +1419,7 @@
   - 1400333
   - 1444730
   - 1445174
+  - 1447130
   start: 2026-10-04T20:43:00Z
   stop: 2026-10-04T21:03:00Z
   title: 'Studio 4: U fokusu'
@@ -1408,6 +1450,7 @@
 - eventId:
   - 1444731
   - 1445175
+  - 1447131
   start: 2026-10-04T21:03:00Z
   stop: 2026-10-04T21:07:00Z
   title: '#REPORTAŽE'
