@@ -225,7 +225,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1400252
   start: 2026-10-04T03:57:00Z
-  stop: 2026-10-04T03:59:00Z
+  stop: 2026-10-04T04:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -244,7 +244,9 @@
   genre:
   - '32'
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 1442885
+- eventId:
+  - 1442885
+  - 1444915
   start: 2026-10-04T04:00:00Z
   stop: 2026-10-04T04:08:00Z
   title: Vijesti na španjolskom jeziku
@@ -262,7 +264,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1442886
+- eventId:
+  - 1442886
+  - 1444916
   start: 2026-10-04T04:08:00Z
   stop: 2026-10-04T04:10:00Z
   title: Bez komentara
@@ -280,7 +284,9 @@
   genre:
   - '32'
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 1442887
+- eventId:
+  - 1442887
+  - 1444917
   start: 2026-10-04T04:10:00Z
   stop: 2026-10-04T04:18:00Z
   title: Vijesti na engleskom jeziku
@@ -298,7 +304,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1442888
+- eventId:
+  - 1442888
+  - 1444918
   start: 2026-10-04T04:18:00Z
   stop: 2026-10-04T04:20:00Z
   title: Bez komentara
@@ -316,7 +324,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 1442889
+- eventId:
+  - 1442889
+  - 1444919
   start: 2026-10-04T04:20:00Z
   stop: 2026-10-04T04:27:00Z
   title: 'Studio 4: Znanost'
@@ -333,14 +343,16 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1400259
   start: 2026-10-04T04:29:00Z
-  stop: 2026-10-04T04:56:00Z
+  stop: 2026-10-04T04:55:00Z
   title: 'DW: U dobroj formi'
   subtitle: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
   ageRating: 4
   genre:
   - '160'
   description: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
-- eventId: 1442890
+- eventId:
+  - 1442890
+  - 1444920
   start: 2026-10-04T04:55:00Z
   stop: 2026-10-04T04:58:00Z
   title: Bez komentara
@@ -369,13 +381,19 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 1400262
   start: 2026-10-04T05:10:00Z
-  stop: 2026-10-04T05:15:00Z
+  stop: 2026-10-04T05:14:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
+- eventId: 1444921
+  start: 2026-10-04T05:14:00Z
+  stop: 2026-10-04T05:21:00Z
+  title: Vijesti iz kulture
+  subtitle: ' '
+  description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
 - eventId:
   - 1400263
   - 1444722
@@ -387,10 +405,16 @@
   genre:
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
+- eventId: 1444922
+  start: 2026-10-04T05:21:00Z
+  stop: 2026-10-04T05:22:00Z
+  title: Vrijeme RH danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1400264
   start: 2026-10-04T05:22:00Z
-  stop: 2026-10-04T05:23:00Z
-  title: Vrijeme RH danas
+  stop: 2026-10-04T05:24:00Z
+  title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
@@ -622,7 +646,7 @@
   - 1427824
   - 1431761
   start: 2026-10-04T08:42:00Z
-  stop: 2026-10-04T08:47:00Z
+  stop: 2026-10-04T08:46:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
@@ -650,6 +674,12 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
+- eventId: 1444923
+  start: 2026-10-04T08:46:00Z
+  stop: 2026-10-04T08:54:00Z
+  title: 'Studio 4: Znanost'
+  subtitle: ' '
+  description: Kratki pregled aktualnosti iz svijeta znanosti.
 - eventId:
   - 1417165
   - 1418050
@@ -689,6 +719,12 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
+- eventId: 1444924
+  start: 2026-10-04T08:54:00Z
+  stop: 2026-10-04T09:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 1417166
   - 1418051
@@ -1023,13 +1059,19 @@
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
 - eventId: 1405306
   start: 2026-10-04T14:22:00Z
-  stop: 2026-10-04T14:25:00Z
+  stop: 2026-10-04T14:24:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
+- eventId: 1444925
+  start: 2026-10-04T14:24:00Z
+  stop: 2026-10-04T14:49:00Z
+  title: Potrošački kod
+  subtitle: ' '
+  description: 'Vlada je odgodila provođenje odluke o isticanju tzv. sidrenih cijena za obrtnike i pružatelje usluga za 17. studenoga. Bazne cijene podrazumijevaju da se, uz aktualnu cijenu, mora istaknuti i koliko su proizvod ili usluga stajali 10. rujna.  Ostavlja li produljenje roka pružateljima usluga dovoljno vremena za pripremu i hoće li se trošak uvođenja sidrenih cijena preliti na leđa potrošača? Gosti su: Kristina Bakula, Udruge "Glas poduzetnika" i Đurđica Mostarčić, predsjednice Sekcije računovođa pri Hrvatskoj obrtničkoj komori.'
 - eventId:
   - 1400316
   - 1444726
@@ -1041,6 +1083,12 @@
   genre:
   - '160'
   description: 'Vlada je odgodila provođenje odluke o isticanju tzv. sidrenih cijena za obrtnike i pružatelje usluga za 17. studenoga. Bazne cijene podrazumijevaju da se, uz aktualnu cijenu, mora istaknuti i koliko su proizvod ili usluga stajali 10. rujna.  Ostavlja li produljenje roka pružateljima usluga dovoljno vremena za pripremu i hoće li se trošak uvođenja sidrenih cijena preliti na leđa potrošača? Gosti su: Kristina Bakula, Udruge "Glas poduzetnika" i Đurđica Mostarčić, predsjednice Sekcije računovođa pri Hrvatskoj obrtničkoj komori.'
+- eventId: 1444926
+  start: 2026-10-04T14:49:00Z
+  stop: 2026-10-04T15:34:00Z
+  title: Prizma, multinacionalni magazin
+  subtitle: ' '
+  description: Kameni spoticanja na meti vandala - kome smeta sjećanje na žrtve nacizma i fašizma. Kako je nastala Mala bugarska gramatika i kojim jezikom govore Talijani u Slavoniji? Zašto u Prizmi govorimo o Charlieju Chaplinu, objašnjava Rada Šešić, selektorica DOKUarta.
 - eventId:
   - 1400317
   - 1444727
@@ -1052,6 +1100,12 @@
   genre:
   - '160'
   description: Multinacionalni magazin, donosi aktualnosti o manjinama i ljudskim pravima.
+- eventId: 1444927
+  start: 2026-10-04T15:34:00Z
+  stop: 2026-10-04T16:00:00Z
+  title: 'DW: Global Us'
+  subtitle: ' '
+  description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
 - eventId: 1400318
   start: 2026-10-04T15:35:00Z
   stop: 2026-10-04T16:01:00Z
@@ -1077,6 +1131,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1444928
+  start: 2026-10-04T16:00:00Z
+  stop: 2026-10-04T16:52:00Z
+  title: 'Romano Bolković - 1 na 1: Josip Brkić, talk show'
+  subtitle: ' '
+  description: Josip Brkić zamjenik je ministra vanjskih poslova Bosne i Hercegovine od travnja 2015. godine. Predsjedava Povjerenstvom za suradnju s NATO-om BiH, međunarodni je tajnik HDZ-a BiH i član Glavnog vijeća Hrvatskog narodnog sabora Bosne i Hercegovine. Rođen je 1974. godine u Sarajevu, gdje je završio osnovnu i srednju školu. Diplomirao je na Pravnom fakultetu Sveučilišta u Mostaru, magistrirao na poslijediplomskom studiju Europske studije Sveučilišta u Sarajevu i Sveučilišta u Bolonji te je doktorand međunarodnog javnog prava na Pravnom fakultetu Sveučilišta u Mostaru. Od 2004. do 2008. bio je veleposlanik Bosne i Hercegovine u Španjolskoj i Maroku. Prethodno je obnašao rukovodeće dužnosti u Ministarstvu europskih integracija BiH, a od 2009. do 2015. radio je na rukovodećim položajima u poslovnom sektoru. Član je Upravnog odbora Europske organizacije javnog prava i Globalnog povjerenstva za vladavinu prava. S gospodinom Brkićem razgovaramo o predstojećim izborima u Bosni i Hercegovini, izboru hrvatskog člana Predsjedništva i legitimnom predstavljanju Hrvata. Govorimo i o tome kako se oblikuje vanjska politika BiH te kako unutarnje političke razlike utječu na odnose s Hrvatskom i međunarodnim partnerima. Razgovaramo o europskom putu BiH, preprekama u pristupnom procesu i ulozi Hrvatske u približavanju BiH Europskoj uniji. Otvaramo i temu suradnje s NATO-om, ostvarenih reformi i mogućnosti daljnjeg napretka. Govorimo o budućoj ulozi visokog predstavnika, američkoj politici prema BiH i odnosima domaćih političkih stranaka. Otvaramo pitanja državne imovine, Južne plinske konekcije i rezultata potpore Republike Hrvatske. Razgovor zaključujemo pitanjem dogovora o budućnosti BiH i kompromisa potrebnih za stabilno funkcioniranje države.
 - eventId: 1405307
   start: 2026-10-04T16:01:00Z
   stop: 2026-10-04T16:52:00Z
@@ -1253,6 +1313,12 @@
   genre:
   - '160'
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
+- eventId: 1444929
+  start: 2026-10-04T20:44:00Z
+  stop: 2026-10-04T21:03:00Z
+  title: 'Studio 4: U fokusu'
+  subtitle: ' '
+  description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
 - eventId: 1400334
   start: 2026-10-04T21:03:00Z
   stop: 2026-10-04T21:07:00Z
@@ -1270,6 +1336,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1444930
+  start: 2026-10-04T21:04:00Z
+  stop: 2026-10-04T21:07:00Z
+  title: '#REPORTAŽE: Marko - plakati'
+  subtitle: ' '
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 1405540
   start: 2026-10-04T21:07:00Z
   stop: 2026-10-04T21:10:00Z
