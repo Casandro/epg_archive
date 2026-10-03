@@ -91,6 +91,7 @@
   - 1445397
   - 1445657
   - 1447112
+  - 1448190
   start: 2026-10-05T01:15:00Z
   stop: 2026-10-05T01:45:00Z
   title: Voice of America
@@ -131,6 +132,7 @@
   - 1445398
   - 1445658
   - 1447113
+  - 1448191
   start: 2026-10-05T01:45:00Z
   stop: 2026-10-05T02:25:00Z
   title: Çikat n'Trip
@@ -171,6 +173,7 @@
   - 1445399
   - 1445659
   - 1447114
+  - 1448192
   start: 2026-10-05T02:25:00Z
   stop: 2026-10-05T04:30:00Z
   title: Muzike Top 10
@@ -247,6 +250,7 @@
   - 1445400
   - 1445660
   - 1447115
+  - 1448193
   start: 2026-10-05T04:30:00Z
   stop: 2026-10-05T05:00:00Z
   title: Reportazhe
@@ -275,7 +279,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1445661
+- eventId:
+  - 1445661
+  - 1448194
   start: 2026-10-05T05:00:00Z
   stop: 2026-10-05T07:00:00Z
   title: Pastel
@@ -368,6 +374,7 @@
   - 1445402
   - 1445662
   - 1445926
+  - 1448195
   start: 2026-10-05T07:05:00Z
   stop: 2026-10-05T09:00:00Z
   title: Programi i mëngjesit
@@ -440,6 +447,14 @@
   - 1445927
   start: 2026-10-05T09:00:00Z
   stop: 2026-10-05T10:15:00Z
+  title: Daily Click
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1448196
+  start: 2026-10-05T09:00:00Z
+  stop: 2026-10-05T10:10:00Z
   title: Daily Click
   subtitle: ' '
   ageRating: 4
@@ -528,6 +543,7 @@
   - 1445404
   - 1445664
   - 1445928
+  - 1448197
   start: 2026-10-05T10:15:00Z
   stop: 2026-10-05T10:35:00Z
   title: Muzikë argëtuese
@@ -552,6 +568,14 @@
   - 1445929
   start: 2026-10-05T10:35:00Z
   stop: 2026-10-05T11:15:00Z
+  title: Farewell Letter
+  subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 1448198
+  start: 2026-10-05T10:35:00Z
+  stop: 2026-10-05T11:10:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -606,6 +630,7 @@
   - 1445406
   - 1445666
   - 1445930
+  - 1448199
   start: 2026-10-05T11:15:00Z
   stop: 2026-10-05T12:25:00Z
   title: Reportazhe
@@ -650,6 +675,7 @@
   - 1445407
   - 1445667
   - 1445931
+  - 1448200
   start: 2026-10-05T12:25:00Z
   stop: 2026-10-05T12:55:00Z
   title: Muzikë argëtuese
@@ -694,6 +720,7 @@
   - 1445408
   - 1445668
   - 1445932
+  - 1448201
   start: 2026-10-05T12:55:00Z
   stop: 2026-10-05T13:00:00Z
   title: Promo
@@ -720,7 +747,7 @@
   subtitle: ' ... '
 - eventId: 1419899
   start: 2026-10-05T13:00:00Z
-  stop: 2026-10-05T13:10:00Z
+  stop: 2026-10-05T13:20:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -758,6 +785,7 @@
   - 1445409
   - 1445669
   - 1445933
+  - 1448202
   start: 2026-10-05T13:20:00Z
   stop: 2026-10-05T14:00:00Z
   title: Promo
@@ -780,6 +808,7 @@
   - 1445410
   - 1445670
   - 1445934
+  - 1448203
   start: 2026-10-05T14:00:00Z
   stop: 2026-10-05T15:00:00Z
   title: Preferenca Muzikore
@@ -823,7 +852,7 @@
   subtitle: ' Arhiva TVR '
 - eventId: 1419903
   start: 2026-10-05T15:00:00Z
-  stop: 2026-10-05T16:30:00Z
+  stop: 2026-10-05T15:55:00Z
   title: Handbal masculin
   subtitle: '  *LIGA ZIMBRILOR*ET4AHC Potaissa Turda-CSU SuceavaComentator: Dragos CojocaruTransmisiune directa '
   ageRating: 4
@@ -844,6 +873,7 @@
   - 1445411
   - 1445671
   - 1445935
+  - 1448204
   start: 2026-10-05T15:55:00Z
   stop: 2026-10-05T16:00:00Z
   title: Promo
@@ -866,6 +896,7 @@
   - 1445412
   - 1445672
   - 1445936
+  - 1448205
   start: 2026-10-05T16:00:00Z
   stop: 2026-10-05T16:30:00Z
   title: Reportazhe
@@ -883,7 +914,7 @@
   - '32'
 - eventId: 1419905
   start: 2026-10-05T17:00:00Z
-  stop: 2026-10-05T18:00:00Z
+  stop: 2026-10-05T17:10:00Z
   title: MARILE MECIURI
   subtitle: ' Arhiva TVR '
   ageRating: 4
@@ -904,6 +935,7 @@
   - 1445413
   - 1445673
   - 1445937
+  - 1448206
   start: 2026-10-05T17:10:00Z
   stop: 2026-10-05T17:20:00Z
   title: 10 minuta
@@ -926,6 +958,7 @@
   - 1445414
   - 1445674
   - 1445938
+  - 1448207
   start: 2026-10-05T17:20:00Z
   stop: 2026-10-05T17:30:00Z
   title: Promo
@@ -948,6 +981,7 @@
   - 1445415
   - 1445675
   - 1445939
+  - 1448208
   start: 2026-10-05T17:30:00Z
   stop: 2026-10-05T18:00:00Z
   title: Live News MK
@@ -957,7 +991,7 @@
   - '32'
 - eventId: 1419906
   start: 2026-10-05T18:00:00Z
-  stop: 2026-10-05T18:10:00Z
+  stop: 2026-10-05T19:30:00Z
   title: Film artistik
   subtitle: '  '
   ageRating: 4
@@ -994,6 +1028,7 @@
   - 1445416
   - 1445581
   - 1445879
+  - 1448209
   start: 2026-10-05T19:30:00Z
   stop: 2026-10-05T20:55:00Z
   title: Click Plus
@@ -1031,7 +1066,7 @@
   - '160'
 - eventId: 1419909
   start: 2026-10-05T21:00:00Z
-  stop: 2026-10-05T22:00:00Z
+  stop: 2026-10-05T21:20:00Z
   title: In prelungiri
   subtitle: ' *Preluare TVR Timisoara   (Reluare)'
   ageRating: 4
@@ -1054,6 +1089,14 @@
   - 1445880
   start: 2026-10-05T21:20:00Z
   stop: 2026-10-05T22:05:00Z
+  title: Reportazhe
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1448210
+  start: 2026-10-05T21:20:00Z
+  stop: 2026-10-05T22:00:00Z
   title: Reportazhe
   subtitle: ' '
   ageRating: 4
@@ -1090,6 +1133,7 @@
   - 1445418
   - 1445583
   - 1445881
+  - 1448211
   start: 2026-10-05T22:05:00Z
   stop: 2026-10-05T23:25:00Z
   title: Click Plus
@@ -1112,6 +1156,7 @@
   - 1445419
   - 1445584
   - 1445882
+  - 1448212
   start: 2026-10-05T23:25:00Z
   stop: 2026-10-06T00:30:00Z
   title: Për ditë të mbarë
