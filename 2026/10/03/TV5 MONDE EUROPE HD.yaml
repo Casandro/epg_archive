@@ -492,7 +492,9 @@
   description: 'Le grand JT quotidien de TV5MONDE qui décrypte l''actualité ! Ce qu''il faut savoir : le regard francophone sur les principaux faits du jour. Économie, débats de société, actualité internationale : l''expertise des journalistes de la rédaction. Chroniques inédites le week-end : francophonie, réseaux sociaux, infox, politique, sport... http://information.tv5monde.com (2026)'
   genre:
   - '34'
-- eventId: 1448364
+- eventId:
+  - 1448364
+  - 1449146
   start: 2026-10-03T15:09:00Z
   stop: 2026-10-03T16:00:00Z
   title: LA TABLE DU FERMIER
@@ -508,10 +510,13 @@
   ageRating: 7
 - eventId: 1229119
   start: 2026-10-03T16:00:00Z
-  stop: 2026-10-03T16:24:00Z
+  stop: 2026-10-03T16:28:00Z
   title: 'EDITION DU 03/10/2026 '
   subtitle: ' '
   ageRating: 7
+  description: 'Rendez-vous de l''information et de la culture francophone proposØ par la rØdaction de TV5MONDE, prØsentØ par Mohamed Kaci (du lundi au jeudi) et Xavier Lambrechts (du vendredi au dimanche).  '
+  genre:
+  - '47'
 - eventId: 1229120
   start: 2026-10-03T16:24:00Z
   stop: 2026-10-03T16:28:00Z
