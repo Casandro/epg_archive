@@ -47,6 +47,7 @@
   - 1447403
   - 1449359
   - 1450267
+  - 1451710
   start: 2026-10-04T00:25:00Z
   stop: 2026-10-04T00:28:00Z
   title: '#REPORTAŽE'
@@ -69,6 +70,7 @@
   - 1447404
   - 1449360
   - 1450268
+  - 1451711
   start: 2026-10-04T00:28:00Z
   stop: 2026-10-04T00:32:00Z
   title: Bez komentara
@@ -130,7 +132,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 1400236
   start: 2026-10-04T01:10:00Z
-  stop: 2026-10-04T01:17:00Z
+  stop: 2026-10-04T01:18:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -143,7 +145,9 @@
   title: 'Bez komentara: Litva - NATO pokazao borbene avione'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1400237
+- eventId:
+  - 1400237
+  - 1451712
   start: 2026-10-04T01:18:00Z
   stop: 2026-10-04T01:20:00Z
   title: Bez komentara
@@ -158,7 +162,9 @@
   title: Vijesti na španjolskom jeziku
   subtitle: ' '
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 1400238
+- eventId:
+  - 1400238
+  - 1451713
   start: 2026-10-04T01:20:00Z
   stop: 2026-10-04T01:28:00Z
   title: Vijesti na španjolskom jeziku
@@ -254,7 +260,9 @@
   title: Vrijeme RH danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 1400249
+- eventId:
+  - 1400249
+  - 1451714
   start: 2026-10-04T03:53:00Z
   stop: 2026-10-04T03:54:00Z
   title: Vrijeme RH danas
@@ -450,7 +458,7 @@
   - 1445724
   - 1445952
   start: 2026-10-04T04:55:00Z
-  stop: 2026-10-04T04:58:00Z
+  stop: 2026-10-04T05:00:00Z
   title: 'Bez komentara: Tbilisi, Gruzija - Umirovljenici biraju superbaku i superdjeda'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -481,7 +489,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 1400262
   start: 2026-10-04T05:10:00Z
-  stop: 2026-10-04T05:14:00Z
+  stop: 2026-10-04T05:15:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
@@ -510,6 +518,7 @@
   - 1447405
   - 1449361
   - 1450269
+  - 1451715
   start: 2026-10-04T05:15:00Z
   stop: 2026-10-04T05:22:00Z
   title: Vijesti iz kulture
@@ -534,7 +543,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1400264
   start: 2026-10-04T05:22:00Z
-  stop: 2026-10-04T05:24:00Z
+  stop: 2026-10-04T05:23:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -549,6 +558,7 @@
   - 1447406
   - 1449362
   - 1450270
+  - 1451716
   start: 2026-10-04T05:23:00Z
   stop: 2026-10-04T05:24:00Z
   title: Vrijeme Europa danas
@@ -772,7 +782,7 @@
   - 1427824
   - 1431761
   start: 2026-10-04T08:42:00Z
-  stop: 2026-10-04T08:46:00Z
+  stop: 2026-10-04T08:47:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
@@ -828,6 +838,7 @@
   - 1447407
   - 1449363
   - 1450271
+  - 1451717
   start: 2026-10-04T08:47:00Z
   stop: 2026-10-04T08:55:00Z
   title: 'Studio 4: Znanost'
@@ -885,6 +896,7 @@
   - 1447408
   - 1449364
   - 1450272
+  - 1451718
   start: 2026-10-04T08:55:00Z
   stop: 2026-10-04T09:00:00Z
   title: Bez komentara
@@ -1209,7 +1221,7 @@
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
 - eventId: 1405306
   start: 2026-10-04T14:22:00Z
-  stop: 2026-10-04T14:24:00Z
+  stop: 2026-10-04T14:25:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -1245,6 +1257,14 @@
   genre:
   - '160'
   description: 'Vlada je odgodila provođenje odluke o isticanju tzv. sidrenih cijena za obrtnike i pružatelje usluga za 17. studenoga. Bazne cijene podrazumijevaju da se, uz aktualnu cijenu, mora istaknuti i koliko su proizvod ili usluga stajali 10. rujna.  Ostavlja li produljenje roka pružateljima usluga dovoljno vremena za pripremu i hoće li se trošak uvođenja sidrenih cijena preliti na leđa potrošača? Gosti su: Kristina Bakula, Udruge "Glas poduzetnika" i Đurđica Mostarčić, predsjednice Sekcije računovođa pri Hrvatskoj obrtničkoj komori.'
+- eventId: 1451719
+  start: 2026-10-04T14:25:00Z
+  stop: 2026-10-04T14:49:00Z
+  title: Potrošački kod
+  subtitle: Vlada je odgodila provođenje odluke o isticanju tzv. sidrenih cijena za obrtnike i pružatelje usluga za 17. studenoga.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1444926
   - 1445015
@@ -1274,6 +1294,14 @@
   genre:
   - '160'
   description: Multinacionalni magazin, donosi aktualnosti o manjinama i ljudskim pravima.
+- eventId: 1451720
+  start: 2026-10-04T14:50:00Z
+  stop: 2026-10-04T15:34:00Z
+  title: Prizma - multinacionalni magazin
+  subtitle: Multinacionalni magazin, donosi aktualnosti o manjinama i ljudskim pravima.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1444927
   - 1445016
@@ -1305,6 +1333,14 @@
   - 1450275
   start: 2026-10-04T15:35:00Z
   stop: 2026-10-04T16:01:00Z
+  title: Global 3000
+  subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1451721
+  start: 2026-10-04T15:35:00Z
+  stop: 2026-10-04T16:00:00Z
   title: Global 3000
   subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
   ageRating: 4
@@ -1347,6 +1383,7 @@
   - 1447412
   - 1449368
   - 1450276
+  - 1451722
   start: 2026-10-04T16:01:00Z
   stop: 2026-10-04T16:52:00Z
   title: Romano Bolković - 1 na 1
@@ -1510,6 +1547,7 @@
   - 1447413
   - 1449369
   - 1450277
+  - 1451723
   start: 2026-10-04T20:43:00Z
   stop: 2026-10-04T21:03:00Z
   title: 'Studio 4: U fokusu'
@@ -1553,6 +1591,7 @@
   - 1447414
   - 1449370
   - 1450278
+  - 1451724
   start: 2026-10-04T21:03:00Z
   stop: 2026-10-04T21:07:00Z
   title: '#REPORTAŽE'
