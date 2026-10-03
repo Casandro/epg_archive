@@ -225,14 +225,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1400252
   start: 2026-10-04T03:57:00Z
-  stop: 2026-10-04T04:00:00Z
+  stop: 2026-10-04T03:59:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1400253
+- eventId:
+  - 1400253
+  - 1443173
   start: 2026-10-04T03:59:00Z
   stop: 2026-10-04T04:07:00Z
   title: Vijesti na španjolskom jeziku
@@ -247,7 +249,9 @@
   title: Vijesti na španjolskom jeziku
   subtitle: ' '
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 1400254
+- eventId:
+  - 1400254
+  - 1443174
   start: 2026-10-04T04:07:00Z
   stop: 2026-10-04T04:09:00Z
   title: Bez komentara
@@ -262,7 +266,9 @@
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1400255
+- eventId:
+  - 1400255
+  - 1443175
   start: 2026-10-04T04:09:00Z
   stop: 2026-10-04T04:17:00Z
   title: Vijesti na engleskom jeziku
@@ -277,7 +283,9 @@
   title: Vijesti na engleskom jeziku
   subtitle: ' '
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 1400256
+- eventId:
+  - 1400256
+  - 1443176
   start: 2026-10-04T04:17:00Z
   stop: 2026-10-04T04:19:00Z
   title: Bez komentara
@@ -292,7 +300,9 @@
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1400257
+- eventId:
+  - 1400257
+  - 1443177
   start: 2026-10-04T04:19:00Z
   stop: 2026-10-04T04:27:00Z
   title: 'Studio 4: Znanost'
@@ -318,7 +328,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1400259
   start: 2026-10-04T04:29:00Z
-  stop: 2026-10-04T04:55:00Z
+  stop: 2026-10-04T04:56:00Z
   title: 'DW: U dobroj formi'
   subtitle: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
   ageRating: 4
@@ -331,7 +341,9 @@
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1400260
+- eventId:
+  - 1400260
+  - 1443178
   start: 2026-10-04T04:56:00Z
   stop: 2026-10-04T05:00:00Z
   title: Bez komentara
