@@ -347,7 +347,7 @@
   hd: true
 - eventId: 1393689
   start: 2026-10-03T03:20:00Z
-  stop: 2026-10-03T03:25:00Z
+  stop: 2026-10-03T03:50:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
@@ -427,7 +427,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1252435
+- eventId:
+  - 1252435
+  - 1435579
   start: 2026-10-03T04:05:00Z
   stop: 2026-10-03T04:25:00Z
   title: Schweiz aktuell
@@ -677,6 +679,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1435582
+  start: 2026-10-03T09:30:00Z
+  stop: 2026-10-03T10:05:00Z
+  title: SRFglobal
+  subtitle: Das grosse Geschäft mit dem Balkan
+  description: |-
+    Der Westbalkan gleicht einem Marktplatz, auf dem Interessensgruppen aus den USA, China, dem Nahen Osten oder Russland Einfluss zu kaufen versuchen. Im Angebot stehen Häfen, Minen, Küstenstreifen und ganze Inseln. Wer sichert sich wo, was - und was erhält er im Gegenzug?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1252456
   start: 2026-10-03T09:35:00Z
   stop: 2026-10-03T10:40:00Z
@@ -688,6 +701,15 @@
   description: "Die USA wählen bei den Midterms in vier Wochen einen neuen Kongress. Gelingt es Trump und seinen Republikanern, ihre Macht bei den Zwischenwahlen zu sichern? Und was passiert, wenn Trump mit dem Rücken zur Wand steht? \nSchweiz 2026"
 - eventId: 1393707
   start: 2026-10-03T09:55:00Z
+  stop: 2026-10-03T10:55:00Z
+  title: Club
+  subtitle: 'Wahlen USA: Wie mächtig bleibt Trump?'
+  description: "Die USA wählen bei den Midterms in vier Wochen einen neuen Kongress. Gelingt es Trump und seinen Republikanern, ihre Macht bei den Zwischenwahlen zu sichern? Und was passiert, wenn Trump mit dem Rücken zur Wand steht? \nSchweiz 2026"
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1435583
+  start: 2026-10-03T10:05:00Z
   stop: 2026-10-03T10:55:00Z
   title: Club
   subtitle: 'Wahlen USA: Wie mächtig bleibt Trump?'
@@ -709,6 +731,17 @@
 - eventId: 1393708
   start: 2026-10-03T10:55:00Z
   stop: 2026-10-03T12:05:00Z
+  title: Arena
+  subtitle: Mammut-Debatte zu EU-Vertragspaket - und jetzt?
+  description: |-
+    Während drei Tagen hat der Ständerat in der Herbstsession das EU-Vertragspaket auf Herz und Nieren geprüft. Dabei hat er umstrittene Anpassungen vorgenommen. Und er hat vorgespurt: Das Vertragspaket soll Volk und Ständen unterbreitet werden.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1435584
+  start: 2026-10-03T11:00:00Z
+  stop: 2026-10-03T12:15:00Z
   title: Arena
   subtitle: Mammut-Debatte zu EU-Vertragspaket - und jetzt?
   description: |-
@@ -739,6 +772,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1435585
+  start: 2026-10-03T12:15:00Z
+  stop: 2026-10-03T12:50:00Z
+  title: SRFglobal
+  subtitle: Das grosse Geschäft mit dem Balkan
+  description: |-
+    Der Westbalkan gleicht einem Marktplatz, auf dem Interessensgruppen aus den USA, China, dem Nahen Osten oder Russland Einfluss zu kaufen versuchen. Im Angebot stehen Häfen, Minen, Küstenstreifen und ganze Inseln. Wer sichert sich wo, was - und was erhält er im Gegenzug?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1252462
   start: 2026-10-03T12:20:00Z
   stop: 2026-10-03T13:25:00Z
@@ -751,6 +795,15 @@
 - eventId: 1393711
   start: 2026-10-03T12:35:00Z
   stop: 2026-10-03T13:35:00Z
+  title: Club
+  subtitle: 'Wahlen USA: Wie mächtig bleibt Trump?'
+  description: "Die USA wählen bei den Midterms in vier Wochen einen neuen Kongress. Gelingt es Trump und seinen Republikanern, ihre Macht bei den Zwischenwahlen zu sichern? Und was passiert, wenn Trump mit dem Rücken zur Wand steht? \nSchweiz 2026"
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1435586
+  start: 2026-10-03T12:50:00Z
+  stop: 2026-10-03T13:50:00Z
   title: Club
   subtitle: 'Wahlen USA: Wie mächtig bleibt Trump?'
   description: "Die USA wählen bei den Midterms in vier Wochen einen neuen Kongress. Gelingt es Trump und seinen Republikanern, ihre Macht bei den Zwischenwahlen zu sichern? Und was passiert, wenn Trump mit dem Rücken zur Wand steht? \nSchweiz 2026"
@@ -771,6 +824,17 @@
 - eventId: 1393712
   start: 2026-10-03T13:35:00Z
   stop: 2026-10-03T14:45:00Z
+  title: Arena
+  subtitle: Mammut-Debatte zu EU-Vertragspaket - und jetzt?
+  description: |-
+    Während drei Tagen hat der Ständerat in der Herbstsession das EU-Vertragspaket auf Herz und Nieren geprüft. Dabei hat er umstrittene Anpassungen vorgenommen. Und er hat vorgespurt: Das Vertragspaket soll Volk und Ständen unterbreitet werden.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1435587
+  start: 2026-10-03T13:50:00Z
+  stop: 2026-10-03T15:05:00Z
   title: Arena
   subtitle: Mammut-Debatte zu EU-Vertragspaket - und jetzt?
   description: |-
@@ -811,6 +875,16 @@
     Schweiz 2026
   widescreen: true
   hd: true
+- eventId: 1435588
+  start: 2026-10-03T15:05:00Z
+  stop: 2026-10-03T15:55:00Z
+  title: NZZ Standpunkte
+  subtitle: 'Intelligenz aus der Maschine: Ist KI Frankensteins neues Monster?'
+  description: |-
+    Von Schülern, die sich bei den Hausaufgaben helfen lassen, bis zu Investoren, die sich um die Börse sorgen: KI ist das Thema der Stunde. Der deutsche Philosoph Markus Gabriel erklärt, warum die Technologie so bahnbrechend ist - und ob sie ihre Versprechen halten kann.
+    Schweiz 2026
+  widescreen: true
+  hd: true
 - eventId: 1393714
   start: 2026-10-03T15:10:00Z
   stop: 2026-10-03T16:00:00Z
@@ -820,6 +894,17 @@
     Von Schülern, die sich bei den Hausaufgaben helfen lassen, bis zu Investoren, die sich um die Börse sorgen: KI ist das Thema der Stunde. Der deutsche Philosoph Markus Gabriel erklärt, warum die Technologie so bahnbrechend ist - und ob sie ihre Versprechen halten kann.
     Schweiz 2026
   widescreen: true
+  hd: true
+- eventId: 1435589
+  start: 2026-10-03T15:55:00Z
+  stop: 2026-10-03T16:10:00Z
+  title: Minisguard
+  subtitle: Welche Maschinen gibt es auf einer Baustelle?
+  description: |-
+    Bagger, Kran oder Walze: Welche Baumaschine ist die schwerste, welche die teuerste und welche am schwierigsten zu bedienen? Ronja macht sich auf die Suche nach den Antworten.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 1252470
   start: 2026-10-03T16:00:00Z
@@ -863,11 +948,13 @@
 - eventId: 1252474
   start: 2026-10-03T16:25:00Z
   stop: 2026-10-03T16:30:00Z
-  title: Meteo
+  title: Tagesschau
   subtitle: Vorabendausgabe
   widescreen: true
   subtitled: true
   hd: true
+  genre:
+  - '32'
 - eventId: 1252475
   start: 2026-10-03T16:30:00Z
   stop: 2026-10-03T16:55:00Z

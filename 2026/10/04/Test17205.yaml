@@ -70,7 +70,7 @@
   hd: true
 - eventId: 1393731
   start: 2026-10-04T03:45:00Z
-  stop: 2026-10-04T04:50:00Z
+  stop: 2026-10-04T04:20:00Z
   title: 19h30 - Signé
   description: (Rediffusion)  "Langue des signes"
   genre:
@@ -89,7 +89,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1393732
+- eventId:
+  - 1393732
+  - 1435590
   start: 2026-10-04T04:20:00Z
   stop: 2026-10-04T04:50:00Z
   title: 19h30 - Signé
