@@ -733,7 +733,7 @@
   - 1260658
   - 1264303
   start: 2026-10-04T16:00:00Z
-  stop: 2026-10-04T16:27:50Z
+  stop: 2026-10-04T16:28:02Z
   title: Zprávy
   description: |-
     HDTV
@@ -762,6 +762,19 @@
   hd: true
 - eventId: 1470839
   start: 2026-10-04T16:28:00Z
+  stop: 2026-10-04T16:55:00Z
+  title: Interview ČT24
+  subtitle: 'Host: Martin Fuksa, reprezentant v rychlostní kanoistice. Moderuje: Tereza Willoughby.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId:
+  - 1475750
+  - 1477761
+  start: 2026-10-04T16:28:02Z
   stop: 2026-10-04T16:55:00Z
   title: Interview ČT24
   subtitle: 'Host: Martin Fuksa, reprezentant v rychlostní kanoistice. Moderuje: Tereza Willoughby.'
@@ -863,6 +876,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1475759
+  start: 2026-10-04T18:34:24Z
+  stop: 2026-10-04T19:00:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1260694
   - 1264491
@@ -895,6 +919,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1477795
+  start: 2026-10-04T19:12:25Z
+  stop: 2026-10-04T20:00:00Z
+  title: Newsroom ČT24
+  subtitle: Dočasný zákaz vstupu za natáčení mimo vyhrazené prostory Sněmovny. Využívají politici pravidla dolní komory parlamentu k útěku před nepříjemnými otázkami? Britská BBC pokračuje v propouštění novinářů a
+  description: |-
+    chystá omezení vysílání. Od dětství až do stáří. Televize ITV odvysílala poslední díl časosběrného dokumentu Seven Up, který každých sedm let sledoval životy dětí z dětských domovů i elitních škol. Předvolební kalkulačky - nakolik se dá jejich výsledkům věřit? Rozhovor s reportérkou ČT Darjou Stomatovou a kameramanem Jánem Schürgerem nejen o cestách do války. V pressu: Jak vypadá den fotoreportérky vydavatelství Mafra?
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 1260696
   - 1264493
@@ -928,6 +964,7 @@
 - eventId:
   - 1260725
   - 1264575
+  - 1477800
   start: 2026-10-04T21:05:00Z
   stop: 2026-10-04T21:32:00Z
   title: Zprávy ve 23
