@@ -286,7 +286,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 1400245
   start: 2026-10-04T02:50:00Z
-  stop: 2026-10-04T03:00:00Z
+  stop: 2026-10-04T02:57:00Z
   title: Vijesti iz kulture
   subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   ageRating: 4
@@ -305,6 +305,7 @@
 - eventId:
   - 1452041
   - 1456086
+  - 1459228
   start: 2026-10-04T02:57:00Z
   stop: 2026-10-04T03:00:00Z
   title: Bez komentara
@@ -330,8 +331,11 @@
   start: 2026-10-04T03:52:00Z
   stop: 2026-10-04T03:54:00Z
   title: Vrijeme RH danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1400249
   - 1451714
@@ -446,7 +450,7 @@
   - 1445721
   - 1445949
   start: 2026-10-04T04:10:00Z
-  stop: 2026-10-04T04:17:00Z
+  stop: 2026-10-04T04:18:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
@@ -493,6 +497,7 @@
 - eventId:
   - 1452043
   - 1456088
+  - 1459229
   start: 2026-10-04T04:18:00Z
   stop: 2026-10-04T04:20:00Z
   title: Bez komentara
@@ -525,6 +530,7 @@
   - 1445951
   - 1452044
   - 1456089
+  - 1459230
   start: 2026-10-04T04:20:00Z
   stop: 2026-10-04T04:27:00Z
   title: 'Studio 4: Znanost'
@@ -558,7 +564,7 @@
   - 1445724
   - 1445952
   start: 2026-10-04T04:55:00Z
-  stop: 2026-10-04T04:58:00Z
+  stop: 2026-10-04T05:00:00Z
   title: 'Bez komentara: Tbilisi, Gruzija - Umirovljenici biraju superbaku i superdjeda'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -605,21 +611,18 @@
   - 1449315
   - 1450236
   - 1451419
-  start: 2026-10-04T05:14:00Z
-  stop: 2026-10-04T05:21:00Z
-  title: Vijesti iz kulture
-  subtitle: ' '
-  description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId:
   - 1451927
   - 1452252
   - 1452399
   - 1458516
   start: 2026-10-04T05:14:00Z
-  stop: 2026-10-04T05:23:00Z
+  stop: 2026-10-04T05:21:00Z
   title: Vijesti iz kulture
-  subtitle: ' '
+  subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1400263
   - 1444722
@@ -648,11 +651,15 @@
   - 1449316
   - 1450237
   - 1451420
+  - 1459231
   start: 2026-10-04T05:21:00Z
   stop: 2026-10-04T05:22:00Z
   title: Vrijeme RH danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 1400264
   start: 2026-10-04T05:22:00Z
   stop: 2026-10-04T05:23:00Z
@@ -669,6 +676,14 @@
   stop: 2026-10-04T05:23:00Z
   title: Vrijeme RH danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 1459232
+  start: 2026-10-04T05:22:00Z
+  stop: 2026-10-04T05:24:00Z
+  title: Vrijeme Europa danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
@@ -691,7 +706,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1405304
   start: 2026-10-04T05:24:00Z
-  stop: 2026-10-04T05:26:00Z
+  stop: 2026-10-04T05:28:00Z
   title: Vrijeme svijet danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
@@ -957,8 +972,11 @@
   start: 2026-10-04T08:46:00Z
   stop: 2026-10-04T08:54:00Z
   title: 'Studio 4: Znanost'
-  subtitle: ' '
+  subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   description: Kratki pregled aktualnosti iz svijeta znanosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1417165
   - 1418050
@@ -1021,8 +1039,11 @@
   start: 2026-10-04T08:54:00Z
   stop: 2026-10-04T09:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1417166
   - 1418051
@@ -1387,8 +1408,11 @@
   start: 2026-10-04T14:24:00Z
   stop: 2026-10-04T14:49:00Z
   title: Potrošački kod
-  subtitle: ' '
+  subtitle: Vlada je odgodila provođenje odluke o isticanju tzv. sidrenih cijena za obrtnike i pružatelje usluga za 17. studenoga.
   description: 'Vlada je odgodila provođenje odluke o isticanju tzv. sidrenih cijena za obrtnike i pružatelje usluga za 17. studenoga. Bazne cijene podrazumijevaju da se, uz aktualnu cijenu, mora istaknuti i koliko su proizvod ili usluga stajali 10. rujna.  Ostavlja li produljenje roka pružateljima usluga dovoljno vremena za pripremu i hoće li se trošak uvođenja sidrenih cijena preliti na leđa potrošača? Gosti su: Kristina Bakula, Udruge "Glas poduzetnika" i Đurđica Mostarčić, predsjednice Sekcije računovođa pri Hrvatskoj obrtničkoj komori.'
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1400316
   - 1444726
@@ -1429,9 +1453,12 @@
   - 1458521
   start: 2026-10-04T14:49:00Z
   stop: 2026-10-04T15:34:00Z
-  title: Prizma, multinacionalni magazin
-  subtitle: ' '
+  title: Prizma - multinacionalni magazin
+  subtitle: Kameni spoticanja na meti vandala - kome smeta sjećanje na žrtve nacizma i fašizma. Kako je nastala Mala bugarska gramatika i kojim jezikom govore Talijani u Slavoniji?
   description: Kameni spoticanja na meti vandala - kome smeta sjećanje na žrtve nacizma i fašizma. Kako je nastala Mala bugarska gramatika i kojim jezikom govore Talijani u Slavoniji? Zašto u Prizmi govorimo o Charlieju Chaplinu, objašnjava Rada Šešić, selektorica DOKUarta.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1400317
   - 1444727
@@ -1466,21 +1493,18 @@
   - 1448275
   - 1450242
   - 1451425
-  start: 2026-10-04T15:34:00Z
-  stop: 2026-10-04T16:00:00Z
-  title: 'DW: Global Us'
-  subtitle: ' '
-  description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
-- eventId:
   - 1451933
   - 1452240
   - 1452405
   - 1458522
   start: 2026-10-04T15:34:00Z
-  stop: 2026-10-04T16:01:00Z
+  stop: 2026-10-04T16:00:00Z
   title: 'DW: Global Us'
-  subtitle: ' '
+  subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
   description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1400318
   start: 2026-10-04T15:35:00Z
   stop: 2026-10-04T16:01:00Z
@@ -1528,6 +1552,14 @@
   title: 'Romano Bolković - 1 na 1: Josip Brkić, talk show'
   subtitle: ' '
   description: Josip Brkić zamjenik je ministra vanjskih poslova Bosne i Hercegovine od travnja 2015. godine. Predsjedava Povjerenstvom za suradnju s NATO-om BiH, međunarodni je tajnik HDZ-a BiH i član Glavnog vijeća Hrvatskog narodnog sabora Bosne i Hercegovine. Rođen je 1974. godine u Sarajevu, gdje je završio osnovnu i srednju školu. Diplomirao je na Pravnom fakultetu Sveučilišta u Mostaru, magistrirao na poslijediplomskom studiju Europske studije Sveučilišta u Sarajevu i Sveučilišta u Bolonji te je doktorand međunarodnog javnog prava na Pravnom fakultetu Sveučilišta u Mostaru. Od 2004. do 2008. bio je veleposlanik Bosne i Hercegovine u Španjolskoj i Maroku. Prethodno je obnašao rukovodeće dužnosti u Ministarstvu europskih integracija BiH, a od 2009. do 2015. radio je na rukovodećim položajima u poslovnom sektoru. Član je Upravnog odbora Europske organizacije javnog prava i Globalnog povjerenstva za vladavinu prava. S gospodinom Brkićem razgovaramo o predstojećim izborima u Bosni i Hercegovini, izboru hrvatskog člana Predsjedništva i legitimnom predstavljanju Hrvata. Govorimo i o tome kako se oblikuje vanjska politika BiH te kako unutarnje političke razlike utječu na odnose s Hrvatskom i međunarodnim partnerima. Razgovaramo o europskom putu BiH, preprekama u pristupnom procesu i ulozi Hrvatske u približavanju BiH Europskoj uniji. Otvaramo i temu suradnje s NATO-om, ostvarenih reformi i mogućnosti daljnjeg napretka. Govorimo o budućoj ulozi visokog predstavnika, američkoj politici prema BiH i odnosima domaćih političkih stranaka. Otvaramo pitanja državne imovine, Južne plinske konekcije i rezultata potpore Republike Hrvatske. Razgovor zaključujemo pitanjem dogovora o budućnosti BiH i kompromisa potrebnih za stabilno funkcioniranje države.
+- eventId: 1458991
+  start: 2026-10-04T16:00:00Z
+  stop: 2026-10-04T16:52:00Z
+  title: Romano Bolković - 1 na 1
+  subtitle: Josip Brkić zamjenik je ministra vanjskih poslova Bosne i Hercegovine od travnja 2015. godine.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1405307
   - 1444729
@@ -1722,8 +1754,11 @@
   start: 2026-10-04T20:44:00Z
   stop: 2026-10-04T21:04:00Z
   title: 'Studio 4: U fokusu'
-  subtitle: ' '
+  subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1450244
   - 1451427
@@ -1776,8 +1811,11 @@
   start: 2026-10-04T21:04:00Z
   stop: 2026-10-04T21:07:00Z
   title: '#REPORTAŽE: Marko - plakati'
-  subtitle: ' '
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1405540
   start: 2026-10-04T21:07:00Z
   stop: 2026-10-04T21:10:00Z
