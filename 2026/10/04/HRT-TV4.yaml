@@ -1518,7 +1518,7 @@
   - 1452405
   - 1458522
   start: 2026-10-04T15:34:00Z
-  stop: 2026-10-04T16:01:00Z
+  stop: 2026-10-04T16:00:00Z
   title: 'DW: Global Us'
   subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
   description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
@@ -1567,6 +1567,7 @@
   - 1448276
   - 1450243
   - 1451426
+  - 1471665
   start: 2026-10-04T16:00:00Z
   stop: 2026-10-04T16:52:00Z
   title: 'Romano Bolković - 1 na 1: Josip Brkić, talk show'
@@ -1627,7 +1628,7 @@
   - '160'
 - eventId: 1405308
   start: 2026-10-04T16:52:00Z
-  stop: 2026-10-04T16:54:00Z
+  stop: 2026-10-04T16:53:00Z
   title: Vrijeme RH sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
@@ -1642,6 +1643,12 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 1471666
+  start: 2026-10-04T16:53:00Z
+  stop: 2026-10-04T16:55:00Z
+  title: Vrijeme Europa sutra
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 1400322
   start: 2026-10-04T16:54:00Z
   stop: 2026-10-04T16:55:00Z
@@ -1688,7 +1695,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1400326
   start: 2026-10-04T17:54:00Z
-  stop: 2026-10-04T17:55:00Z
+  stop: 2026-10-04T17:56:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -1720,6 +1727,12 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 1471667
+  start: 2026-10-04T17:56:00Z
+  stop: 2026-10-04T17:59:00Z
+  title: Vrijeme svijet sutra
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1400328
   start: 2026-10-04T17:59:00Z
   stop: 2026-10-04T18:00:00Z
@@ -1766,7 +1779,7 @@
   - '160'
 - eventId: 1405311
   start: 2026-10-04T20:01:00Z
-  stop: 2026-10-04T20:44:00Z
+  stop: 2026-10-04T20:43:00Z
   title: 'Intervju tjedna: Toma Plejić'
   subtitle: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
   description: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
@@ -1784,6 +1797,7 @@
   - 1451723
   - 1452052
   - 1456097
+  - 1471668
   start: 2026-10-04T20:43:00Z
   stop: 2026-10-04T21:03:00Z
   title: 'Studio 4: U fokusu'
@@ -1813,7 +1827,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1400334
+- eventId:
+  - 1400334
+  - 1471669
   start: 2026-10-04T21:03:00Z
   stop: 2026-10-04T21:07:00Z
   title: '#REPORTAŽE: Marko - plakati'
@@ -1870,7 +1886,7 @@
 - eventId: 1405540
   start: 2026-10-04T21:07:00Z
   stop: 2026-10-04T21:10:00Z
-  title: Bez komentara
+  title: 'Bez komentara: Lug - PaprikaFest'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
@@ -1887,13 +1903,19 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 1400336
   start: 2026-10-04T21:20:00Z
-  stop: 2026-10-04T21:30:00Z
+  stop: 2026-10-04T21:29:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
   genre:
   - '32'
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
+- eventId: 1471670
+  start: 2026-10-04T21:29:00Z
+  stop: 2026-10-04T21:50:00Z
+  title: 'Studio 4: Jutarnji intervju'
+  subtitle: ' '
+  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId:
   - 1400337
   - 1470792
@@ -1922,6 +1944,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1471671
+  start: 2026-10-04T21:52:00Z
+  stop: 2026-10-04T21:58:00Z
+  title: '#REPORTAŽE: Košarka za sve'
+  subtitle: ' '
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 1405541
   - 1470794
@@ -1941,6 +1969,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1471672
+  start: 2026-10-04T21:58:00Z
+  stop: 2026-10-04T22:00:00Z
+  title: 'Bez komentara: Svijet - Niže cijene nafte'
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1400340
   start: 2026-10-04T22:00:00Z
   stop: 2026-10-04T22:10:00Z
