@@ -1784,7 +1784,7 @@
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
 - eventId: 1400331
   start: 2026-10-04T19:45:00Z
-  stop: 2026-10-04T20:01:00Z
+  stop: 2026-10-04T20:02:00Z
   title: Manjinski mozaik
   subtitle: Svaki tjedan donosi dokumentarne priče iz života 22 nacionalne manjine. Predstavlja portrete osoba i zajednica ističući njihov nacionalni, kulturni i povijesni identitet, običaje i tradiciju.
   ageRating: 4
@@ -1808,6 +1808,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1480288
+  start: 2026-10-04T20:02:00Z
+  stop: 2026-10-04T20:44:00Z
+  title: 'Intervju tjedna: Toma Plejić'
+  subtitle: ' '
+  description: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
 - eventId:
   - 1400333
   - 1444730
@@ -1907,15 +1913,6 @@
   - 1452242
   - 1452407
   - 1458524
-  start: 2026-10-04T21:04:00Z
-  stop: 2026-10-04T21:07:00Z
-  title: '#REPORTAŽE: Marko - plakati'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId:
   - 1470791
   - 1471688
   - 1475642
@@ -1923,8 +1920,9 @@
   - 1478934
   start: 2026-10-04T21:04:00Z
   stop: 2026-10-04T21:07:00Z
-  title: '#REPORTAŽE'
+  title: '#REPORTAŽE: Marko - plakati'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
@@ -1948,7 +1946,7 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 1400336
   start: 2026-10-04T21:20:00Z
-  stop: 2026-10-04T21:30:00Z
+  stop: 2026-10-04T21:29:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -1960,6 +1958,7 @@
   - 1472019
   - 1477802
   - 1478396
+  - 1480289
   start: 2026-10-04T21:29:00Z
   stop: 2026-10-04T21:50:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -2007,6 +2006,7 @@
   - 1472020
   - 1477803
   - 1478397
+  - 1480290
   start: 2026-10-04T21:52:00Z
   stop: 2026-10-04T21:58:00Z
   title: '#REPORTAŽE: Košarka za sve'
@@ -2040,6 +2040,7 @@
   - 1472021
   - 1477804
   - 1478398
+  - 1480291
   start: 2026-10-04T21:58:00Z
   stop: 2026-10-04T22:00:00Z
   title: 'Bez komentara: Svijet - Niže cijene nafte'
