@@ -1518,7 +1518,7 @@
   - 1452405
   - 1458522
   start: 2026-10-04T15:34:00Z
-  stop: 2026-10-04T16:01:00Z
+  stop: 2026-10-04T16:00:00Z
   title: 'DW: Global Us'
   subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
   description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
@@ -1607,7 +1607,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1469616
+- eventId:
+  - 1469616
+  - 1470788
   start: 2026-10-04T16:01:00Z
   stop: 2026-10-04T16:52:00Z
   title: Romano Bolković - 1 na 1
@@ -1702,6 +1704,14 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 1470789
+  start: 2026-10-04T17:55:00Z
+  stop: 2026-10-04T17:59:00Z
+  title: Vrijeme Svijet sutra
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 1400327
   start: 2026-10-04T17:56:00Z
   stop: 2026-10-04T17:59:00Z
@@ -1756,7 +1766,7 @@
   - '160'
 - eventId: 1405311
   start: 2026-10-04T20:01:00Z
-  stop: 2026-10-04T20:44:00Z
+  stop: 2026-10-04T20:43:00Z
   title: 'Intervju tjedna: Toma Plejić'
   subtitle: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
   description: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
@@ -1803,11 +1813,15 @@
   - 1451934
   - 1452241
   - 1452406
+  - 1470790
   start: 2026-10-04T20:44:00Z
   stop: 2026-10-04T21:03:00Z
   title: 'Studio 4: U fokusu'
-  subtitle: ' '
+  subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1400334
   start: 2026-10-04T21:03:00Z
   stop: 2026-10-04T21:07:00Z
@@ -1854,6 +1868,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1470791
+  start: 2026-10-04T21:04:00Z
+  stop: 2026-10-04T21:07:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1405540
   start: 2026-10-04T21:07:00Z
   stop: 2026-10-04T21:10:00Z
@@ -1881,7 +1903,9 @@
   genre:
   - '32'
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 1400337
+- eventId:
+  - 1400337
+  - 1470792
   start: 2026-10-04T21:30:00Z
   stop: 2026-10-04T21:50:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -1899,7 +1923,17 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 1405541
+- eventId: 1470793
+  start: 2026-10-04T21:50:00Z
+  stop: 2026-10-04T21:55:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 1405541
+  - 1470794
   start: 2026-10-04T21:55:00Z
   stop: 2026-10-04T22:00:00Z
   title: Bez komentara
