@@ -746,9 +746,7 @@
   start: 2026-10-04T17:08:00Z
   stop: 2026-10-04T17:16:00Z
   title: Garnek z durszlakiem i pokrywką
-  description: |
-    Tytuł oryginalny: Garnek z durszlakiem i pokrywką
-    PL, 2026
+  description: Garnek wykonany jest z wytrzymałej stali węglowej. Jego nieprzywierająca powłoka sprawia, że świetnie sprawdza się również do smażenia i to bez dodatku tłuszczu!
   genre:
   - '166'
 - eventId: 1310614
@@ -763,7 +761,7 @@
 - eventId: 1310615
   start: 2026-10-04T17:31:00Z
   stop: 2026-10-04T17:46:00Z
-  title: Urządzenie do masażu stóp i nóg Dr Ho Motion Ciser z termot
+  title: Urządzenie do masażu stóp i nóg Dr Ho Motion Ciser z termoterapią do rozgrzewani
   description: |
     Tytuł oryginalny: Urządzenie do masażu stóp i nóg Dr Ho Motion Ciser z termoterapią do rozgrzewania mięśni!
     PL, 2026
@@ -809,9 +807,7 @@
   start: 2026-10-04T18:25:00Z
   stop: 2026-10-04T18:33:00Z
   title: Garnek z durszlakiem i pokrywką
-  description: |
-    Tytuł oryginalny: Garnek z durszlakiem i pokrywką
-    PL, 2026
+  description: Garnek wykonany jest z wytrzymałej stali węglowej. Jego nieprzywierająca powłoka sprawia, że świetnie sprawdza się również do smażenia i to bez dodatku tłuszczu!
   genre:
   - '166'
 - eventId: 1310621
@@ -826,10 +822,8 @@
 - eventId: 1310622
   start: 2026-10-04T18:48:00Z
   stop: 2026-10-04T19:03:00Z
-  title: Power Touch Gold Edition golarka elektryczna + trymer GRATI
-  description: |
-    Tytuł oryginalny: Power Touch Gold Edition golarka elektryczna + trymer GRATIS + zestaw do higieny osobistej GRATIS!
-    PL, 2026
+  title: Power Touch Gold Edition golarka elektryczna + trymer GRATIS + zestaw do higieny
+  description: Elektryczna maszynka do brody goli na sucho i mokro. Podwójne ostrza pokryte 24-karatowym złotem. Trymer GRATIS! Zestaw do higieny osobistej GRATIS!
   genre:
   - '166'
 - eventId: 1310623
@@ -960,14 +954,16 @@
   - '166'
 - eventId: 1310637
   start: 2026-10-04T21:53:00Z
-  stop: 2026-10-05T04:01:00Z
-  title: Urządzenie do masażu stóp i nóg Dr Ho Motion Ciser z termot
+  stop: 2026-10-04T22:08:00Z
+  title: Urządzenie do masażu stóp i nóg Dr Ho Motion Ciser z termoterapią do rozgrzewani
   description: |
     Tytuł oryginalny: Urządzenie do masażu stóp i nóg Dr Ho Motion Ciser z termoterapią do rozgrzewania mięśni!
     PL, 2026
   genre:
   - '166'
-- eventId: 1310638
+- eventId:
+  - 1310638
+  - 1462524
   start: 2026-10-04T22:08:00Z
   stop: 2026-10-04T22:24:00Z
   title: Zoomlite
@@ -976,7 +972,9 @@
     PL, 2026
   genre:
   - '166'
-- eventId: 1310639
+- eventId:
+  - 1310639
+  - 1462525
   start: 2026-10-04T22:24:00Z
   stop: 2026-10-04T22:39:00Z
   title: MSlimm Bra
@@ -985,7 +983,9 @@
     PL, 2026
   genre:
   - '166'
-- eventId: 1310640
+- eventId:
+  - 1310640
+  - 1462526
   start: 2026-10-04T22:39:00Z
   stop: 2026-10-04T22:54:00Z
   title: Skarpetki kompresyjne Sankom Patent Socks
@@ -994,7 +994,9 @@
     PL, 2026
   genre:
   - '166'
-- eventId: 1310641
+- eventId:
+  - 1310641
+  - 1462527
   start: 2026-10-04T22:54:00Z
   stop: 2026-10-04T23:01:00Z
   title: Patelnia Master Copper
@@ -1012,13 +1014,18 @@
     PL, 2026
   genre:
   - '166'
-- eventId: 1310643
+- eventId: 1462528
+  start: 2026-10-04T23:01:00Z
+  stop: 2026-10-04T23:17:00Z
+  title: DR Ho's Get up & Go Cane black
+  description: DR Ho"s Get up & Go Cane black
+- eventId:
+  - 1310643
+  - 1462529
   start: 2026-10-04T23:17:00Z
   stop: 2026-10-04T23:24:00Z
   title: Garnek z durszlakiem i pokrywką
-  description: |
-    Tytuł oryginalny: Garnek z durszlakiem i pokrywką
-    PL, 2026
+  description: Garnek wykonany jest z wytrzymałej stali węglowej. Jego nieprzywierająca powłoka sprawia, że świetnie sprawdza się również do smażenia i to bez dodatku tłuszczu!
   genre:
   - '166'
 - eventId: 1310644
@@ -1030,7 +1037,14 @@
     PL, 2026
   genre:
   - '166'
-- eventId: 1310645
+- eventId: 1462530
+  start: 2026-10-04T23:24:00Z
+  stop: 2026-10-04T23:39:00Z
+  title: Power Touch Gold Edition golarka elektryczna + trymer GRATIS + zestaw do higieny
+  description: Elektryczna maszynka do brody goli na sucho i mokro. Podwójne ostrza pokryte 24-karatowym złotem. Trymer GRATIS! Zestaw do higieny osobistej GRATIS!
+- eventId:
+  - 1310645
+  - 1462531
   start: 2026-10-04T23:39:00Z
   stop: 2026-10-04T23:47:00Z
   title: Odkurzacz Clean All Vac
@@ -1039,7 +1053,9 @@
     PL, 2026
   genre:
   - '166'
-- eventId: 1310646
+- eventId:
+  - 1310646
+  - 1462532
   start: 2026-10-04T23:47:00Z
   stop: 2026-10-05T00:02:00Z
   title: Hearizon
