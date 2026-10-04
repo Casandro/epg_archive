@@ -447,10 +447,12 @@
 - eventId: 1448982
   start: 2026-10-04T07:24:00Z
   stop: 2026-10-04T07:30:00Z
-  title: Pogoda Info
+  title: Prognoza pogody
   description: |-
     program informacyjny
     Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
+  genre:
+  - '32'
 - eventId: 1268420
   start: 2026-10-04T07:25:00Z
   stop: 2026-10-04T07:30:00Z
@@ -565,13 +567,22 @@
   - '34'
 - eventId: 1268434
   start: 2026-10-04T12:00:00Z
-  stop: 2026-10-04T12:24:00Z
+  stop: 2026-10-04T12:23:00Z
   title: Serwis info dzień
   description: |
     Tytuł oryginalny: Serwis info dzień
     PL, 2026
   genre:
   - '34'
+- eventId: 1462365
+  start: 2026-10-04T12:23:00Z
+  stop: 2026-10-04T12:30:00Z
+  title: Prognoza pogody
+  description: |
+    Tytuł oryginalny: Prognoza pogody
+    PL, 2026
+  genre:
+  - '32'
 - eventId: 1268435
   start: 2026-10-04T12:24:00Z
   stop: 2026-10-04T12:30:00Z
