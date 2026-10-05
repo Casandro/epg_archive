@@ -42,6 +42,7 @@
   - 1502886
   - 1505287
   - 1507106
+  - 1507486
   start: 2026-10-06T00:23:00Z
   stop: 2026-10-06T00:27:00Z
   title: '#REPORTAŽE: Pas Meghan'
@@ -66,6 +67,7 @@
   - 1502887
   - 1505288
   - 1507107
+  - 1507487
   start: 2026-10-06T00:27:00Z
   stop: 2026-10-06T00:30:00Z
   title: 'Bez komentara: Tajland - Nosač aviona'
@@ -193,7 +195,9 @@
   genre:
   - '32'
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
-- eventId: 1507108
+- eventId:
+  - 1507108
+  - 1507488
   start: 2026-10-06T02:45:00Z
   stop: 2026-10-06T02:55:00Z
   title: Vijesti flash
@@ -210,7 +214,9 @@
   genre:
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 1507109
+- eventId:
+  - 1507109
+  - 1507489
   start: 2026-10-06T02:55:00Z
   stop: 2026-10-06T03:02:00Z
   title: Vijesti iz kulture
@@ -227,7 +233,9 @@
   genre:
   - '32'
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
-- eventId: 1507110
+- eventId:
+  - 1507110
+  - 1507490
   start: 2026-10-06T03:02:00Z
   stop: 2026-10-06T03:53:00Z
   title: Dnevnik 2
@@ -262,14 +270,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1456120
   start: 2026-10-06T03:57:00Z
-  stop: 2026-10-06T04:00:00Z
+  stop: 2026-10-06T03:59:00Z
   title: 'Bez komentara: Španjolska - Testiranje rovera za Mars'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 1507111
+- eventId:
+  - 1507111
+  - 1507491
   start: 2026-10-06T03:59:00Z
   stop: 2026-10-06T04:00:00Z
   title: 'Bez komentara: Španjolska - Testiranje rovera za Mars'
@@ -304,7 +314,7 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 1456124
   start: 2026-10-06T04:18:00Z
-  stop: 2026-10-06T04:26:00Z
+  stop: 2026-10-06T04:25:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
@@ -315,6 +325,7 @@
   - 1502889
   - 1505290
   - 1507112
+  - 1507492
   start: 2026-10-06T04:25:00Z
   stop: 2026-10-06T04:55:00Z
   title: Otvoreno
@@ -339,6 +350,7 @@
   - 1502890
   - 1505291
   - 1507113
+  - 1507493
   start: 2026-10-06T04:55:00Z
   stop: 2026-10-06T04:58:00Z
   title: 'Bez komentara: Kina - Lov na gusjenice'
@@ -589,7 +601,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1456151
   start: 2026-10-06T08:35:00Z
-  stop: 2026-10-06T08:45:00Z
+  stop: 2026-10-06T08:42:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
@@ -602,6 +614,7 @@
   - 1505292
   - 1506860
   - 1507114
+  - 1507472
   start: 2026-10-06T08:42:00Z
   stop: 2026-10-06T08:47:00Z
   title: Poslovne vijesti
@@ -630,6 +643,7 @@
   - 1505293
   - 1506861
   - 1507115
+  - 1507473
   start: 2026-10-06T08:47:00Z
   stop: 2026-10-06T08:55:00Z
   title: 'Studio 4: Znanost'
@@ -658,6 +672,7 @@
   - 1505294
   - 1506862
   - 1507116
+  - 1507474
   start: 2026-10-06T08:55:00Z
   stop: 2026-10-06T09:00:00Z
   title: Bez komentara
@@ -752,7 +767,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1456163
   start: 2026-10-06T10:20:00Z
-  stop: 2026-10-06T10:30:00Z
+  stop: 2026-10-06T10:28:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -765,6 +780,7 @@
   - 1505295
   - 1506863
   - 1507117
+  - 1507475
   start: 2026-10-06T10:28:00Z
   stop: 2026-10-06T10:30:00Z
   title: Bez komentara
@@ -1255,7 +1271,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1456215
   start: 2026-10-06T20:15:00Z
-  stop: 2026-10-06T20:45:00Z
+  stop: 2026-10-06T20:43:00Z
   title: 'Split: More'
   subtitle: Mozaična informativna emisija posvećena bogatstvu našeg Jadranskog mora, obale i priobalja. Donosi zanimljive reportaže o temama vezanim za život na moru i uz njega.
   ageRating: 4
@@ -1268,6 +1284,7 @@
   - 1505296
   - 1506864
   - 1507118
+  - 1507476
   start: 2026-10-06T20:43:00Z
   stop: 2026-10-06T21:03:00Z
   title: 'Studio 4: Sportske minute'
@@ -1310,6 +1327,7 @@
   - 1505297
   - 1506865
   - 1507119
+  - 1507477
   start: 2026-10-06T21:03:00Z
   stop: 2026-10-06T21:06:00Z
   title: '#REPORTAŽE: Gabrijel Vlašić mehaničar'
@@ -1345,6 +1363,7 @@
   - 1505298
   - 1506866
   - 1507120
+  - 1507478
   start: 2026-10-06T21:06:00Z
   stop: 2026-10-06T21:10:00Z
   title: Bez komentara
