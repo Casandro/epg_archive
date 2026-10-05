@@ -274,6 +274,7 @@
 - eventId:
   - 1293663
   - 1304993
+  - 1499349
   start: 2026-10-05T10:20:00Z
   stop: 2026-10-05T10:30:00Z
   title: Předpověď počasí, sportovní zprávy
@@ -301,6 +302,18 @@
   subtitled: true
   hd: true
 - eventId:
+  - 1499348
+  - 1499383
+  start: 2026-10-05T10:30:00Z
+  stop: 2026-10-05T10:33:15Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+- eventId:
   - 1293665
   - 1304995
   start: 2026-10-05T10:33:00Z
@@ -320,6 +333,17 @@
   stop: 2026-10-05T11:00:00Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 1499363
+  start: 2026-10-05T10:33:15Z
+  stop: 2026-10-05T11:00:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Nobelova cena za fyziologii nebo lékařství; Tenisová kauza (upoutávka na Reportéry ČT); Lidé využívají peníze z tzv. superdávky na jiné účely.'
   description: |-
     HDTV
     Skryté titulky
@@ -387,7 +411,7 @@
   start: 2026-10-05T11:32:40Z
   stop: 2026-10-05T12:00:00Z
   title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  subtitle: 'Témata: Ceny benzínu v Polsku (živý vstup z Varšavy); Světový den meningitidy; Pacienti mohou nově na robotické operace do Náchoda.'
   description: |-
     HDTV
     Skryté titulky
@@ -551,6 +575,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1499364
+  start: 2026-10-05T13:05:00Z
+  stop: 2026-10-05T13:30:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1293676
   - 1305008
