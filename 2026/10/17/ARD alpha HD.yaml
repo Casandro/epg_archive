@@ -202,12 +202,14 @@
 - eventId: 1040702
   start: 2026-10-17T11:15:00Z
   stop: 2026-10-17T11:30:00Z
-  title: Tele-Gym (4)
+  title: Tele-Gym (4/8)
   subtitle: Yoga-Pilates-50plus
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId: 1040703
   start: 2026-10-17T11:30:00Z
   stop: 2026-10-17T11:45:00Z
@@ -221,7 +223,7 @@
   start: 2026-10-17T11:45:00Z
   stop: 2026-10-17T12:30:00Z
   title: Zwischen Spessart und Karwendel
-  subtitle: DE
+  subtitle: 'Moderation: Florian Schrei'
   widescreen: true
   subtitled: true
   hd: true
@@ -282,7 +284,7 @@
 - eventId: 1040768
   start: 2026-10-17T17:00:00Z
   stop: 2026-10-17T17:30:00Z
-  title: Eisenbahn-Romantik
+  title: Eisenbahn-Romantik (1037)
   subtitle: Die Schätze Transsilvaniens - Von Bahnen und Vampiren
   widescreen: true
   subtitled: true
@@ -317,21 +319,25 @@
 - eventId: 1040809
   start: 2026-10-17T18:15:00Z
   stop: 2026-10-17T19:00:00Z
-  title: Vor 100 Jahren um die Welt
-  subtitle: Von Leningrad über San Francisco nach Rio
+  title: Vor 100 Jahren um die Welt (1/2)
+  subtitle: Von Leningrad über San Francisco bis nach Rio
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId: 1040810
   start: 2026-10-17T19:00:00Z
   stop: 2026-10-17T19:45:00Z
   title: Vor 100 Jahren um die Welt (2/5)
-  subtitle: Von San Francisco über Miami nach New York
+  subtitle: Von New York über Palästina bis zum Nordkap
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId: 1040811
   start: 2026-10-17T19:45:00Z
   stop: 2026-10-17T20:30:00Z
@@ -377,3 +383,5 @@
   hd: true
   audiodesc: true
   subtitle: Film von Adrian-Basil Müller und Udo Müller
+  genre:
+  - '112'
