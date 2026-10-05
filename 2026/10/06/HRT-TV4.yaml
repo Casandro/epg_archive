@@ -243,7 +243,7 @@
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
 - eventId: 1456126
   start: 2026-10-06T04:56:00Z
-  stop: 2026-10-06T04:58:00Z
+  stop: 2026-10-06T05:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -480,7 +480,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1456151
   start: 2026-10-06T08:35:00Z
-  stop: 2026-10-06T08:42:00Z
+  stop: 2026-10-06T08:45:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
@@ -493,7 +493,9 @@
   title: Poslovne vijesti
   subtitle: ' '
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 1456152
+- eventId:
+  - 1456152
+  - 1501799
   start: 2026-10-06T08:45:00Z
   stop: 2026-10-06T08:50:00Z
   title: Poslovne vijesti
@@ -508,7 +510,9 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 1456153
+- eventId:
+  - 1456153
+  - 1501800
   start: 2026-10-06T08:50:00Z
   stop: 2026-10-06T09:00:00Z
   title: 'Studio 4: Znanost'
@@ -612,7 +616,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1456163
   start: 2026-10-06T10:20:00Z
-  stop: 2026-10-06T10:28:00Z
+  stop: 2026-10-06T10:30:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -1132,6 +1136,14 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+- eventId: 1501801
+  start: 2026-10-06T20:45:00Z
+  stop: 2026-10-06T21:03:00Z
+  title: Sportske minute
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1501331
   start: 2026-10-06T21:03:00Z
   stop: 2026-10-06T21:06:00Z
@@ -1147,13 +1159,23 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1501802
+  start: 2026-10-06T21:05:00Z
+  stop: 2026-10-06T21:08:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1501332
   start: 2026-10-06T21:06:00Z
   stop: 2026-10-06T21:10:00Z
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1456218
+- eventId:
+  - 1456218
+  - 1501803
   start: 2026-10-06T21:08:00Z
   stop: 2026-10-06T21:10:00Z
   title: Bez komentara
