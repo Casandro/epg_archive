@@ -310,7 +310,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1481608
+- eventId:
+  - 1481608
+  - 1497848
   start: 2026-10-31T19:00:00Z
   stop: 2026-10-31T19:15:00Z
   title: Tagesschau
@@ -343,9 +345,19 @@
   audiodesc: true
 - eventId: 1456945
   start: 2026-10-31T20:45:00Z
-  stop: 2026-10-31T22:00:00Z
+  stop: 2026-10-31T21:00:00Z
   title: rbb24 mit Sport
   episodeUri: crid://onid-1/e/6ab3ddcd3d902b8d51bf3655
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 1497850
+  start: 2026-10-31T21:00:00Z
+  stop: 2026-10-31T22:00:00Z
+  title: Die Helle Nacht - mit Volker Wieprecht
+  subtitle: Der neue Talk im großen Sendesaal
+  episodeUri: crid://onid-1/e/6ac36cf3325a112579fbc541
   widescreen: true
   subtitled: true
   hd: true
