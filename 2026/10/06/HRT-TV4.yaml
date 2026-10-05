@@ -551,7 +551,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1456151
   start: 2026-10-06T08:35:00Z
-  stop: 2026-10-06T08:42:00Z
+  stop: 2026-10-06T08:45:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
@@ -575,6 +575,7 @@
   - 1504641
   - 1506224
   - 1506474
+  - 1506881
   start: 2026-10-06T08:45:00Z
   stop: 2026-10-06T08:50:00Z
   title: Poslovne vijesti
@@ -600,6 +601,7 @@
   - 1504642
   - 1506225
   - 1506475
+  - 1506882
   start: 2026-10-06T08:50:00Z
   stop: 2026-10-06T09:00:00Z
   title: 'Studio 4: Znanost'
@@ -707,7 +709,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1456163
   start: 2026-10-06T10:20:00Z
-  stop: 2026-10-06T10:28:00Z
+  stop: 2026-10-06T10:30:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -1248,6 +1250,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1506883
+  start: 2026-10-06T20:45:00Z
+  stop: 2026-10-06T21:03:00Z
+  title: Sportske minute
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1501331
   - 1502896
@@ -1273,6 +1283,7 @@
   - 1504644
   - 1506227
   - 1506477
+  - 1506884
   start: 2026-10-06T21:05:00Z
   stop: 2026-10-06T21:08:00Z
   title: '#REPORTAŽE'
@@ -1297,6 +1308,7 @@
   - 1504645
   - 1506228
   - 1506478
+  - 1506885
   start: 2026-10-06T21:08:00Z
   stop: 2026-10-06T21:10:00Z
   title: Bez komentara
