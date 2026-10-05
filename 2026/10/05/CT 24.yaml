@@ -313,6 +313,16 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 1499572
+  start: 2026-10-05T10:32:22Z
+  stop: 2026-10-05T11:00:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Nobelova cena za fyziologii nebo lékařství; Tenisová kauza (upoutávka na Reportéry ČT); Lidé využívají peníze z tzv. superdávky na jiné účely.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
 - eventId:
   - 1293665
   - 1304995
@@ -451,19 +461,7 @@
 - eventId:
   - 1293671
   - 1305003
-  start: 2026-10-05T12:03:00Z
-  stop: 2026-10-05T12:30:00Z
-  title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '35'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 1498405
+  - 1498405
   start: 2026-10-05T12:03:00Z
   stop: 2026-10-05T12:29:30Z
   title: Studio ČT24
@@ -474,6 +472,8 @@
   genre:
   - '35'
   widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1497452
   start: 2026-10-05T12:05:05Z
   stop: 2026-10-05T12:30:00Z
@@ -485,7 +485,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 1498563
+- eventId:
+  - 1498563
+  - 1499591
   start: 2026-10-05T12:29:30Z
   stop: 2026-10-05T12:32:30Z
   title: Zprávy
@@ -509,7 +511,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1498564
+- eventId:
+  - 1498564
+  - 1499592
   start: 2026-10-05T12:32:30Z
   stop: 2026-10-05T13:00:00Z
   title: Studio ČT24
