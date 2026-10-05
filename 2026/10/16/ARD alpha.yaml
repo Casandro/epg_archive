@@ -35,7 +35,7 @@
 - eventId: 1223491
   start: 2026-10-16T04:00:00Z
   stop: 2026-10-16T04:30:00Z
-  title: Hablamos Español
+  title: Hablamos Español (1/39)
   subtitle: Auf dem Flughafen
 - eventId: 1223492
   start: 2026-10-16T04:30:00Z
@@ -45,13 +45,13 @@
 - eventId: 1223493
   start: 2026-10-16T05:00:00Z
   stop: 2026-10-16T05:15:00Z
-  title: GRIPS Deutsch
+  title: GRIPS Deutsch (17/36)
   subtitle: Praktikumsbericht
   subtitled: true
 - eventId: 1223494
   start: 2026-10-16T05:15:00Z
   stop: 2026-10-16T05:30:00Z
-  title: GRIPS Deutsch
+  title: GRIPS Deutsch (18/36)
   subtitle: Berichten
   subtitled: true
 - eventId: 1223495
@@ -73,11 +73,16 @@
   title: RESPEKT - Demokratische Grundwerte für alle!
   subtitle: Was ist deutsch? Klischees und gesellschaftliche Realität
   subtitled: true
+  genre:
+  - '128'
 - eventId: 1224094
   start: 2026-10-16T06:30:00Z
   stop: 2026-10-16T06:45:00Z
-  title: Tele-Gym (4)
-  subtitle: Integrales Qi Gong
+  title: Tele-Gym (4/8)
+  subtitle: Yoga-Pilates-50plus
+  genre:
+  - '144'
+  subtitled: true
 - eventId: 1224095
   start: 2026-10-16T06:45:00Z
   stop: 2026-10-16T08:00:00Z
@@ -106,7 +111,7 @@
 - eventId: 1223668
   start: 2026-10-16T09:45:00Z
   stop: 2026-10-16T10:05:00Z
-  title: Hannah Arendt - Das Mädchen aus der Fremde
+  title: Hannah Arendt - Das Mädchen aus der Fremde (5/5)
   subtitle: Amor Mundi
 - eventId: 1223669
   start: 2026-10-16T10:05:00Z
@@ -116,13 +121,17 @@
 - eventId: 1223670
   start: 2026-10-16T11:00:00Z
   stop: 2026-10-16T11:15:00Z
-  title: Tele-Gym (6)
-  subtitle: Yoga-Pilates-50plus
+  title: Tele-Gym (6/8)
+  subtitle: Prävention Osteoporose
+  subtitled: true
 - eventId: 1223671
   start: 2026-10-16T11:15:00Z
   stop: 2026-10-16T11:30:00Z
-  title: Tele-Gym (7)
+  title: Tele-Gym (7/8)
   subtitle: Yoga-Pilates-50plus
+  genre:
+  - '144'
+  subtitled: true
 - eventId: 1223672
   start: 2026-10-16T11:30:00Z
   stop: 2026-10-16T12:00:00Z
@@ -169,7 +178,7 @@
   start: 2026-10-16T16:15:00Z
   stop: 2026-10-16T16:45:00Z
   title: Ländermagazin
-  subtitle: Nordrhein-Westfalen
+  subtitle: Heute aus Nordrhein-Westfalen
 - eventId: 1223963
   start: 2026-10-16T16:45:00Z
   stop: 2026-10-16T17:10:00Z
@@ -205,6 +214,9 @@
   stop: 2026-10-16T19:00:00Z
   title: Mit dem Zug auf St. Kitts
   subtitled: true
+  subtitle: Deutschland 2020
+  genre:
+  - '144'
 - eventId: 1224051
   start: 2026-10-16T19:00:00Z
   stop: 2026-10-16T19:40:00Z

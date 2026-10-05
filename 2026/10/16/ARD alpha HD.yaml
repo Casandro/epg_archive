@@ -63,7 +63,7 @@
 - eventId: 1010398
   start: 2026-10-16T04:00:00Z
   stop: 2026-10-16T04:30:00Z
-  title: Hablamos Español
+  title: Hablamos Español (1/39)
   subtitle: Auf dem Flughafen
   widescreen: true
   subtitled: true
@@ -81,7 +81,7 @@
 - eventId: 1010400
   start: 2026-10-16T05:00:00Z
   stop: 2026-10-16T05:15:00Z
-  title: GRIPS Deutsch
+  title: GRIPS Deutsch (17/36)
   subtitle: Praktikumsbericht
   widescreen: true
   subtitled: true
@@ -90,7 +90,7 @@
 - eventId: 1010401
   start: 2026-10-16T05:15:00Z
   stop: 2026-10-16T05:30:00Z
-  title: GRIPS Deutsch
+  title: GRIPS Deutsch (18/36)
   subtitle: Berichten
   widescreen: true
   subtitled: true
@@ -125,15 +125,19 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '128'
 - eventId: 1010424
   start: 2026-10-16T06:30:00Z
   stop: 2026-10-16T06:45:00Z
-  title: Tele-Gym (4)
+  title: Tele-Gym (4/8)
   subtitle: Yoga-Pilates-50plus
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId: 1010425
   start: 2026-10-16T06:45:00Z
   stop: 2026-10-16T08:00:00Z
@@ -176,7 +180,7 @@
 - eventId: 1010449
   start: 2026-10-16T09:45:00Z
   stop: 2026-10-16T10:05:00Z
-  title: Hannah Arendt - Das Mädchen aus der Fremde
+  title: Hannah Arendt - Das Mädchen aus der Fremde (5/5)
   subtitle: Amor Mundi
   widescreen: true
   subtitled: true
@@ -194,8 +198,8 @@
 - eventId: 1010451
   start: 2026-10-16T11:00:00Z
   stop: 2026-10-16T11:15:00Z
-  title: Tele-Gym (6)
-  subtitle: Yoga-Pilates-50plus
+  title: Tele-Gym (6/8)
+  subtitle: Prävention Osteoporose
   widescreen: true
   subtitled: true
   hd: true
@@ -203,12 +207,14 @@
 - eventId: 1010452
   start: 2026-10-16T11:15:00Z
   stop: 2026-10-16T11:30:00Z
-  title: Tele-Gym (7)
+  title: Tele-Gym (7/8)
   subtitle: Yoga-Pilates-50plus
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId: 1010453
   start: 2026-10-16T11:30:00Z
   stop: 2026-10-16T12:00:00Z
@@ -284,7 +290,7 @@
   start: 2026-10-16T16:15:00Z
   stop: 2026-10-16T16:45:00Z
   title: Ländermagazin
-  subtitle: Nordrhein-Westfalen
+  subtitle: Heute aus Nordrhein-Westfalen
   widescreen: true
   subtitled: true
   hd: true
@@ -351,6 +357,9 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Deutschland 2020
+  genre:
+  - '144'
 - eventId: 1010569
   start: 2026-10-16T19:00:00Z
   stop: 2026-10-16T19:40:00Z

@@ -73,12 +73,16 @@
     ca. 05:30 Uhr:
 
     Aktuelles aus dem ARD-Morgenmagazin
-- eventId: 1500001
+- eventId:
+  - 1500001
+  - 1500191
   start: 2026-10-06T06:30:00Z
   stop: 2026-10-06T12:00:00Z
   title: phoenix vor ort
   subtitle: u.a. Eu-Parlament
   description: 'L I V E - 10:55 Uhr: Magdeburg: Konstituierung des Landtags von Sachsen-Anhalt zur neunten Wahlperiode'
+  widescreen: true
+  hd: true
 - eventId:
   - 711042
   - 918948
@@ -170,7 +174,7 @@
   - 711107
   - 919411
   start: 2026-10-06T13:15:00Z
-  stop: 2026-10-06T14:45:00Z
+  stop: 2026-10-06T14:00:00Z
   title: unter den linden
   subtitle: Aufgeschnürt? Was wird jetzt aus den Reformen?
   widescreen: true
@@ -179,6 +183,18 @@
     Moderator Thomas G. Becker diskutiert über die Reformen der schwarz-roten Regierungskoalition und den Zustand der Bundesregierung mit:
     * Nina Scheer (SPD), Energiepolitische Sprecherin Bundestagsfraktion
     * Mathias Middelberg (CDU), stellv. Fraktionsvorsitzender CDU/CSU-Bundestagsfraktion
+- eventId:
+  - 1500020
+  - 1500192
+  start: 2026-10-06T14:00:00Z
+  stop: 2026-10-06T14:45:00Z
+  title: Zwischen Schulbank und Schießstand
+  subtitle: Wie Europas Armeen um Nachwuchs werben
+  description: |-
+    Schon in wenigen Jahren könnte es zu einem Angriff Russlands auf NATO- und EU-Gebiet kommen, befürchten Politikerinnen und Politiker. Gleichzeitig wird das Verteidigungsbündnis mit den USA infrage gestellt. Europa versucht deshalb, die eigenen Verteidigungsfähigkeiten so schnell wie möglich zu stärken.
+    Die Bundeswehr soll innerhalb weniger Jahre "kriegstüchtig" werden. Bis 2035 soll die Truppe von derzeit 186.000 auf 260.000 aktive Soldatinnen und Soldaten anwachsen. Deshalb wirbt die Bundeswehr massiv um Nachwuchs. Ein Mittel: einwöchige Schnupperangebote für Jugendliche und junge Erwachsene.
+  widescreen: true
+  hd: true
 - eventId:
   - 711108
   - 919412
@@ -277,10 +293,11 @@
   start: 2026-10-06T19:00:00Z
   stop: 2026-10-06T19:45:00Z
   title: Die Schätze Südamerikas
-  subtitle: Welten-Saga II
+  subtitle: Die Schätze Südamerikas
   widescreen: true
   hd: true
   description: Historiker und Presenter Christopher Clark reist zu spektakulären Naturwundern, den beeindruckenden Spuren präkolumbianischer Hochkulturen und den Zeugnissen langer Kolonisation. Die filmische Reise führt von den Wasserfällen von Iguazú zu den alten Missionsstationen der Jesuiten, geht weiter nach Sucre in Bolivien mit seinem kolonialen Erbe, nach Tiwanaku, Cusco und Machu Picchu und endet in Buenos Aires mit dem UNESCO-Welterbe Tango.
+  ageRating: 6
 - eventId:
   - 711170
   - 919634
@@ -298,6 +315,8 @@
   title: phoenix runde
   widescreen: true
   hd: true
+  subtitle: Landtagssitzung in Magdeburg - Bekommt die AfD den Vorsitz? (UT)
+  description: "Moderatorin Lena Mosel im Gespräch mit ihren Gästen \n* Prof. Karl-Rudolf Korte,\nPolitikwissenschaftler\n* Eva-Quadbeck, RedaktionsNetzwerk, Deutschland RND\n* David Begrich,\nRechtsextremismus-Experte"
 - eventId:
   - 711198
   - 919693
@@ -321,6 +340,8 @@
   title: phoenix runde
   widescreen: true
   hd: true
+  subtitle: Landtagssitzung in Magdeburg - Bekommt die AfD den Vorsitz? (UT)
+  description: "Moderatorin Lena Mosel im Gespräch mit ihren Gästen \n* Prof. Karl-Rudolf Korte,\nPolitikwissenschaftler\n* Eva-Quadbeck, RedaktionsNetzwerk, Deutschland RND\n* David Begrich,\nRechtsextremismus-Experte"
 - eventId:
   - 737090
   - 919695
@@ -337,7 +358,8 @@
   start: 2026-10-06T23:30:00Z
   stop: 2026-10-07T00:15:00Z
   title: Die Schätze Südamerikas
-  subtitle: Welten-Saga II
+  subtitle: Die Schätze Südamerikas
   widescreen: true
   hd: true
   description: Historiker und Presenter Christopher Clark reist zu spektakulären Naturwundern, den beeindruckenden Spuren präkolumbianischer Hochkulturen und den Zeugnissen langer Kolonisation. Die filmische Reise führt von den Wasserfällen von Iguazú zu den alten Missionsstationen der Jesuiten, geht weiter nach Sucre in Bolivien mit seinem kolonialen Erbe, nach Tiwanaku, Cusco und Machu Picchu und endet in Buenos Aires mit dem UNESCO-Welterbe Tango.
+  ageRating: 6
