@@ -1145,7 +1145,7 @@
   - 1293684
   - 1305042
   start: 2026-10-05T20:00:00Z
-  stop: 2026-10-05T21:00:00Z
+  stop: 2026-10-05T21:00:47Z
   title: Události, komentáře
   subtitle: Komentované zpravodajství České televize. Aktéři klíčových událostí odpovídají na aktuální otázky.
   description: |-
@@ -1160,7 +1160,7 @@
   - 1293685
   - 1305044
   start: 2026-10-05T21:00:00Z
-  stop: 2026-10-05T21:05:00Z
+  stop: 2026-10-05T21:07:22Z
   title: Předpověď počasí
   subtitle: Souhrn meteorologických informací.
   description: |-
@@ -1171,6 +1171,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1507718
+  start: 2026-10-05T21:00:47Z
+  stop: 2026-10-05T21:08:09Z
+  title: Předpověď počasí
+  subtitle: Souhrn meteorologických informací.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '33'
+  widescreen: true
 - eventId:
   - 1293686
   - 1305045
@@ -1197,8 +1208,30 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 1507723
+  start: 2026-10-05T21:08:09Z
+  stop: 2026-10-05T21:30:15Z
+  title: Zprávy ve 23
+  subtitle: Nejdůležitější události dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId: 1507205
   start: 2026-10-05T21:30:05Z
+  stop: 2026-10-05T22:00:00Z
+  title: Interview ČT24
+  subtitle: 'Host: Jeroným Tejc  /nestr. za ANO/, ministr spravedlnosti. Moderuje: Daniel Takáč.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 1507724
+  start: 2026-10-05T21:30:15Z
   stop: 2026-10-05T22:00:00Z
   title: Interview ČT24
   subtitle: 'Host: Jeroným Tejc  /nestr. za ANO/, ministr spravedlnosti. Moderuje: Daniel Takáč.'
