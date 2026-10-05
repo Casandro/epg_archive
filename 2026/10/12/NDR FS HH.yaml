@@ -176,6 +176,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 892387
   start: 2026-10-12T11:10:00Z
   stop: 2026-10-12T12:00:00Z
@@ -206,12 +207,15 @@
 - eventId: 892414
   start: 2026-10-12T13:10:00Z
   stop: 2026-10-12T14:00:00Z
-  title: WaPo Bodensee
+  title: WaPo Bodensee (24)
   subtitle: Böse Freunde
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId: 892415
   start: 2026-10-12T14:00:00Z
   stop: 2026-10-12T14:15:00Z
@@ -241,7 +245,7 @@
   start: 2026-10-12T15:10:00Z
   stop: 2026-10-12T16:00:00Z
   title: Leopard, Seebär & Co. (91)
-  subtitle: Papa Katta ist der Beste
+  subtitle: Geschichten aus dem Tierpark Hagenbeck in Hamburg
   widescreen: true
   subtitled: true
   hd: true
@@ -299,7 +303,7 @@
 - eventId: 892482
   start: 2026-10-12T19:00:00Z
   stop: 2026-10-12T19:45:00Z
-  title: Die Ernährungs-Docs
+  title: Die Ernährungs-Docs (92)
   widescreen: true
   subtitled: true
   hd: true
@@ -334,11 +338,14 @@
   start: 2026-10-12T21:15:00Z
   stop: 2026-10-12T22:45:00Z
   title: Was wir wussten - Risiko Pille
-  subtitle: DE 2019
+  subtitle: Fernsehfilm Deutschland 2019
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId: 892509
   start: 2026-10-12T22:45:00Z
   stop: 2026-10-12T23:30:00Z
