@@ -36,13 +36,13 @@
 - eventId: 1258233
   start: 2026-10-17T04:00:00Z
   stop: 2026-10-17T04:30:00Z
-  title: Englisch für Anfänger
+  title: Englisch für Anfänger (30/51)
   subtitle: The Editor's Office
 - eventId: 1258234
   start: 2026-10-17T04:30:00Z
   stop: 2026-10-17T05:00:00Z
   title: TELEKOLLEG Französisch
-  subtitle: Esquisses de France
+  subtitle: Esquisses de France - Le Canal du Midi et ses villes
 - eventId: 1258235
   start: 2026-10-17T05:00:00Z
   stop: 2026-10-17T05:30:00Z
@@ -58,8 +58,9 @@
 - eventId: 1258306
   start: 2026-10-17T06:00:00Z
   stop: 2026-10-17T06:15:00Z
-  title: Tele-Gym (4)
+  title: Tele-Gym (4/8)
   subtitle: Integrales Qi Gong
+  subtitled: true
 - eventId: 1258307
   start: 2026-10-17T06:15:00Z
   stop: 2026-10-17T07:30:00Z
@@ -92,6 +93,8 @@
   stop: 2026-10-17T10:00:00Z
   title: Streetphilosophy
   subtitle: Verteidige die Freiheit!
+  genre:
+  - '112'
 - eventId: 1258378
   start: 2026-10-17T10:00:00Z
   stop: 2026-10-17T10:30:00Z
@@ -105,13 +108,19 @@
 - eventId: 1258380
   start: 2026-10-17T11:00:00Z
   stop: 2026-10-17T11:15:00Z
-  title: Tele-Gym (7)
+  title: Tele-Gym (7/8)
   subtitle: Yoga-Pilates-50plus
+  genre:
+  - '144'
+  subtitled: true
 - eventId: 1258381
   start: 2026-10-17T11:15:00Z
   stop: 2026-10-17T11:30:00Z
-  title: Tele-Gym (4)
-  subtitle: Integrales Qi Gong
+  title: Tele-Gym (4/8)
+  subtitle: Yoga-Pilates-50plus
+  genre:
+  - '144'
+  subtitled: true
 - eventId: 1258382
   start: 2026-10-17T11:30:00Z
   stop: 2026-10-17T11:45:00Z
@@ -121,7 +130,7 @@
   start: 2026-10-17T11:45:00Z
   stop: 2026-10-17T12:30:00Z
   title: Zwischen Spessart und Karwendel
-  subtitle: DE
+  subtitle: 'Moderation: Florian Schrei'
   subtitled: true
 - eventId: 1258654
   start: 2026-10-17T12:30:00Z
@@ -157,7 +166,7 @@
 - eventId: 1259220
   start: 2026-10-17T17:00:00Z
   stop: 2026-10-17T17:30:00Z
-  title: Eisenbahn-Romantik
+  title: Eisenbahn-Romantik (1037)
   subtitle: Die Schätze Transsilvaniens - Von Bahnen und Vampiren
   subtitled: true
 - eventId: 1259221
@@ -178,14 +187,18 @@
 - eventId: 1259600
   start: 2026-10-17T18:15:00Z
   stop: 2026-10-17T19:00:00Z
-  title: Vor 100 Jahren um die Welt
-  subtitle: Von Leningrad über San Francisco nach Rio
+  title: Vor 100 Jahren um die Welt (1/2)
+  subtitle: Von Leningrad über San Francisco bis nach Rio
+  genre:
+  - '144'
 - eventId: 1259601
   start: 2026-10-17T19:00:00Z
   stop: 2026-10-17T19:45:00Z
   title: Vor 100 Jahren um die Welt (2/5)
-  subtitle: Von San Francisco über Miami nach New York
+  subtitle: Von New York über Palästina bis zum Nordkap
   subtitled: true
+  genre:
+  - '144'
 - eventId: 1259602
   start: 2026-10-17T19:45:00Z
   stop: 2026-10-17T20:30:00Z
@@ -213,3 +226,5 @@
   title: Als Mutti in den Westen ging
   subtitle: Film von Adrian-Basil Müller und Udo Müller
   subtitled: true
+  genre:
+  - '112'
