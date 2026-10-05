@@ -352,10 +352,14 @@
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
 - eventId: 1334033
   start: 2026-10-06T03:05:00Z
   stop: 2026-10-06T03:10:00Z
-  title: 10 vor 10
+  title: Newsflash SRF 1
   genre:
   - '32'
   widescreen: true
@@ -364,7 +368,7 @@
   subtitle: Spätausgabe
 - eventId: 1422789
   start: 2026-10-06T03:10:00Z
-  stop: 2026-10-06T03:15:00Z
+  stop: 2026-10-06T03:35:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -374,6 +378,7 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 1422790
   start: 2026-10-06T03:15:00Z
   stop: 2026-10-06T03:45:00Z
@@ -405,6 +410,40 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 1508190
+  start: 2026-10-06T03:35:00Z
+  stop: 2026-10-06T03:37:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1508191
+  start: 2026-10-06T03:37:00Z
+  stop: 2026-10-06T03:39:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1508192
+  start: 2026-10-06T03:39:00Z
+  stop: 2026-10-06T03:45:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 1334036
   start: 2026-10-06T03:40:00Z
   stop: 2026-10-06T03:50:00Z
@@ -417,7 +456,7 @@
 - eventId: 1422791
   start: 2026-10-06T03:45:00Z
   stop: 2026-10-06T03:55:00Z
-  title: Telesguard
+  title: Newsflash SRF 1
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
     Schweiz 2026
@@ -1017,6 +1056,16 @@
   hd: true
 - eventId: 1422817
   start: 2026-10-06T14:15:00Z
+  stop: 2026-10-06T14:25:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1508225
+  start: 2026-10-06T14:20:00Z
   stop: 2026-10-06T14:25:00Z
   title: Tagesschau kompakt
   subtitle: Mittagsausgabe
