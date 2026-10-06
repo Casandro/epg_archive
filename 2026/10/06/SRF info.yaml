@@ -192,6 +192,15 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 1516543
+  start: 2026-10-06T01:35:00Z
+  stop: 2026-10-06T02:01:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1326096
   start: 2026-10-06T01:40:00Z
   stop: 2026-10-06T01:45:00Z
@@ -236,6 +245,16 @@
   start: 2026-10-06T02:00:00Z
   stop: 2026-10-06T02:05:00Z
   title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1516510
+  start: 2026-10-06T02:01:00Z
+  stop: 2026-10-06T02:05:00Z
+  title: Meteo
+  subtitle: Spätausgabe
   genre:
   - '32'
   widescreen: true
@@ -854,7 +873,7 @@
   hd: true
 - eventId: 1339060
   start: 2026-10-06T11:55:00Z
-  stop: 2026-10-06T11:59:00Z
+  stop: 2026-10-06T12:00:00Z
   title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
@@ -884,6 +903,16 @@
   hd: true
 - eventId: 1339063
   start: 2026-10-06T12:05:00Z
+  stop: 2026-10-06T12:09:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1516513
+  start: 2026-10-06T12:09:00Z
   stop: 2026-10-06T12:10:00Z
   title: Meteo
   subtitle: Mittagsausgabe
@@ -959,7 +988,7 @@
 - eventId: 1422814
   start: 2026-10-06T12:55:00Z
   stop: 2026-10-06T13:00:00Z
-  title: Meteo
+  title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
   - '32'
@@ -968,7 +997,7 @@
   hd: true
 - eventId: 1339128
   start: 2026-10-06T13:00:00Z
-  stop: 2026-10-06T13:35:00Z
+  stop: 2026-10-06T13:05:00Z
   title: Tagesschau kompakt
   subtitle: 'Subventionierte Kultur: Wie wichtig und nötig sind Gelder der öffentlichen Hand?'
   genre:
@@ -986,6 +1015,17 @@
   subtitle: Mittagsausgabe
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1516514
+  start: 2026-10-06T13:05:00Z
+  stop: 2026-10-06T13:35:00Z
+  title: Eco Talk
+  subtitle: 'Subventionierte Kultur: Wie wichtig und nötig sind Gelder der öffentlichen Hand?'
+  description: |-
+    In der Schweiz subventionieren Bund, Kantone und Gemeinden die hiesige Kulturbranche mit Millionen an Fördermitteln. Viel zu viel, finden die einen, deutlich zu wenig, kritisieren andere.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -1013,7 +1053,7 @@
 - eventId: 1422816
   start: 2026-10-06T13:40:00Z
   stop: 2026-10-06T13:45:00Z
-  title: Meteo
+  title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
   - '32'
@@ -1022,7 +1062,7 @@
   hd: true
 - eventId: 1340555
   start: 2026-10-06T13:45:00Z
-  stop: 2026-10-06T14:15:00Z
+  stop: 2026-10-06T13:50:00Z
   title: Tagesschau kompakt
   subtitle: Im Rausch der Muskeln - Ab wann wird es gefährlich?
   genre:
@@ -1040,6 +1080,17 @@
   subtitle: Mittagsausgabe
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1516515
+  start: 2026-10-06T13:50:00Z
+  stop: 2026-10-06T14:20:00Z
+  title: Puls
+  subtitle: Im Rausch der Muskeln - Ab wann wird es gefährlich?
+  description: |-
+    Der Muskelboom unter Jugendlichen hält an. Für schnelle Erfolge greifen deshalb immer mehr junge Männer zu Anabolika und riskieren ihre Gesundheit. Gleichzeitig wächst der psychische Druck: Wenn selbst exzessives Training nicht zum Traumkörper führt, dann werden Muskeln zur Obsession.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -1076,7 +1127,7 @@
   hd: true
 - eventId: 1422818
   start: 2026-10-06T14:25:00Z
-  stop: 2026-10-06T14:30:00Z
+  stop: 2026-10-06T14:35:00Z
   title: Meteo
   subtitle: Mittagsausgabe
   genre:
@@ -1104,6 +1155,17 @@
   subtitle: Mittagsausgabe
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1516516
+  start: 2026-10-06T14:35:00Z
+  stop: 2026-10-06T15:05:00Z
+  title: Eco Talk
+  subtitle: 'Subventionierte Kultur: Wie wichtig und nötig sind Gelder der öffentlichen Hand?'
+  description: |-
+    In der Schweiz subventionieren Bund, Kantone und Gemeinden die hiesige Kulturbranche mit Millionen an Fördermitteln. Viel zu viel, finden die einen, deutlich zu wenig, kritisieren andere.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
