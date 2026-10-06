@@ -165,6 +165,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId: 979491
   start: 2026-10-15T11:10:00Z
   stop: 2026-10-15T12:00:00Z
@@ -194,12 +195,15 @@
 - eventId: 979519
   start: 2026-10-15T13:10:00Z
   stop: 2026-10-15T14:00:00Z
-  title: WaPo Bodensee
+  title: WaPo Bodensee (27)
   subtitle: Schutzlos
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId: 979520
   start: 2026-10-15T14:00:00Z
   stop: 2026-10-15T14:15:00Z
@@ -229,7 +233,7 @@
   start: 2026-10-15T15:10:00Z
   stop: 2026-10-15T16:00:00Z
   title: Leopard, Seebär & Co. (94)
-  subtitle: Giraffentransport mit Hindernissen
+  subtitle: Geschichten aus dem Tierpark Hagenbeck in Hamburg
   widescreen: true
   subtitled: true
   hd: true
@@ -304,32 +308,36 @@
 - eventId: 979594
   start: 2026-10-15T20:00:00Z
   stop: 2026-10-15T20:50:00Z
-  title: Morden im Norden
+  title: Morden im Norden (161)
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Nicht mit mir
 - eventId: 979595
   start: 2026-10-15T20:50:00Z
   stop: 2026-10-15T21:35:00Z
-  title: Morden im Norden
+  title: Morden im Norden (162)
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Das zweite Alibi
 - eventId: 979623
   start: 2026-10-15T21:35:00Z
   stop: 2026-10-15T22:25:00Z
-  title: Großstadtrevier
+  title: Großstadtrevier (500)
   subtitle: Vendetta
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId: 979624
   start: 2026-10-15T22:25:00Z
   stop: 2026-10-15T22:50:00Z
-  title: Ein kurzes Leben lang
+  title: Ein kurzes Leben lang (3/28)
   subtitle: Herzlich willkommen
   widescreen: true
   subtitled: true
@@ -338,7 +346,7 @@
 - eventId: 979625
   start: 2026-10-15T22:50:00Z
   stop: 2026-10-15T23:15:00Z
-  title: Ein kurzes Leben lang
+  title: Ein kurzes Leben lang (4/28)
   subtitle: Alte Leute werden manchmal wunderlich
   widescreen: true
   subtitled: true
