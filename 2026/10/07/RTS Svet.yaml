@@ -60,11 +60,13 @@
   description: 'Ova godina je jubilarna za Narodni orkestar RTS-a. Večerašnjim koncertom u MTS dvorani najstariji orkestar u našoj zemlji obeležiće 90 godina rada. O značaju, umetničkom doprinosu Narodnog orkestra u oblikovanju nacionalnog muzičkog identiteta, i o programu koncerta govorili su Aleksandra Paladin, odgovorna urednica Muzičke produkcije RTS-a i vokalni solista Čeda Marković. Sve je spremno za ovaj veliki, jubilarni koncert, rekla je Paladin: "Rođendansko uzbuđenje je zaista veliko, 90 godina jer Narodnog orkestra RTS-a i to je ste najstariji ansambl na području Balkana. Ponosimo se time kao i velikim brojem izvođača koji će biti na sceni".'
 - eventId: 1458805
   start: 2026-10-07T02:45:00Z
-  stop: 2026-10-07T03:55:00Z
+  stop: 2026-10-07T03:43:00Z
   title: Srećni ljudi
   subtitle: Serija prati život prosečne srpske porodice tokom prve polovine devedesetih godina prošlog veka.
   description: Serija prati život prosečne srpske porodice tokom prve polovine devedesetih godina prošlog veka. Nakon što Vukašin ostane bez posla, porodica Golubović je prinuđena da se preseli u kuću njegovih roditelja, Riske i Aranđela. Dok pokušavaju da pronađu sreću u teškim vremenima, Golubovići upadaju u brojne komične situacije i susreću se sa živopisnim likovima koji savršeno oslikavaju ovaj mračan period u istoriji naše zemlje.
-- eventId: 1458806
+- eventId:
+  - 1458806
+  - 1524512
   start: 2026-10-07T03:43:00Z
   stop: 2026-10-07T03:55:00Z
   title: Verski kalendar
@@ -120,16 +122,34 @@
   description: Program Radio-televizije Srbije ove jeseni obogatiće nova dnevna emisija "Druga kafa", koja pred gledaoce Prvog programa stiže 14. septembra, a emitovaće se radnim danima od 10.30 časova. Reč je o savremenom televizijskom formatu koji na jedinstven način spaja informativnost, opuštenu atmosferu i vrhunsku zabavu. Odmah nakon Jutarnjeg programa, "Druga kafa" će gledaocima ponuditi sadržajan nastavak prepodneva, uz korisne informacije, zanimljive priče i poruku da je svaki dan bolji kada ga započnete uz dobru kafu i još bolju atmosferu. Voditelji emisije su Milja Gogić i Milenko Krišan, a u studiju će im se pridružiti kuvar Mladen Arsić, koji će iz dana u dan pripremati raznovrsna jela - od zdravih, laganih salata i obroka namenjenih savremenom načinu života, do egzotičnih specijaliteta iz različitih kuhinja sveta, ali i slatkih poslastica koje svi obožavaju. Recepti će biti jednostavni, primenjivi i prilagođeni svakom domu. "Druga kafa" obuhvatiće širok spektar tema - od društvenih...
 - eventId: 1458815
   start: 2026-10-07T10:00:00Z
-  stop: 2026-10-07T11:00:00Z
+  stop: 2026-10-07T10:30:00Z
   title: Dnevnik 1
   subtitle: Najgledanija informativna emisija u Srbiji.
   description: Najgledanija informativna emisija u Srbiji.
+- eventId: 1524513
+  start: 2026-10-07T10:30:00Z
+  stop: 2026-10-07T10:50:00Z
+  title: Sportski dnevnik
+  subtitle: Saznajte najvažnije informacije iz sveta sporta! Donosimo vam pregled rezultata, informacije o predstojećim takmičenjima, kao i aktuelnosti koje se tiču domaćih sportista.
+  description: Saznajte najvažnije informacije iz sveta sporta! Donosimo vam pregled rezultata, informacije o predstojećim takmičenjima, kao i aktuelnosti koje se tiču domaćih sportista. Naši novinari pripremili su priloge sa sportskih terena i intervjue sa sportistima, trenerima i stručnjacima.
+- eventId: 1524514
+  start: 2026-10-07T10:50:00Z
+  stop: 2026-10-07T11:00:00Z
+  title: Kulturni dnevnik
+  subtitle: Dopisnici i saradnici RTS-a javljaće se sa mesta najzanimljivijih domaćih i svetskih kulturnih događaja, dočekivati umetnike na aerodromu, razgovarati sa njima pre i posle nastupa.
+  description: Dopisnici i saradnici RTS-a javljaće se sa mesta najzanimljivijih domaćih i svetskih kulturnih događaja, dočekivati umetnike na aerodromu, razgovarati sa njima pre i posle nastupa. Kulturni dnevnik će se baviti i umetnošću življenja. Iskusan uređivački tim i mlade snage RTS-a vratiće kulturi mesto koje joj pripada.
 - eventId: 1458816
   start: 2026-10-07T11:00:00Z
   stop: 2026-10-07T11:20:00Z
   title: Sportski dnevnik
   subtitle: Saznajte najvažnije informacije iz sveta sporta! Donosimo vam pregled rezultata, informacije o predstojećim takmičenjima, kao i aktuelnosti koje se tiču domaćih sportista.
   description: Saznajte najvažnije informacije iz sveta sporta! Donosimo vam pregled rezultata, informacije o predstojećim takmičenjima, kao i aktuelnosti koje se tiču domaćih sportista. Naši novinari pripremili su priloge sa sportskih terena i intervjue sa sportistima, trenerima i stručnjacima.
+- eventId: 1524515
+  start: 2026-10-07T11:05:00Z
+  stop: 2026-10-07T12:00:00Z
+  title: Вера
+  subtitle: Мелодраматичен шпионски трилер инспириран од животот на Вера Пешиќ, шпионка од Втората светска војна.
+  description: Мелодраматичен шпионски трилер инспириран од животот на Вера Пешиќ, шпионка од Втората светска војна.
 - eventId: 1458817
   start: 2026-10-07T11:20:00Z
   stop: 2026-10-07T11:35:00Z
@@ -145,9 +165,9 @@
 - eventId: 1458819
   start: 2026-10-07T12:00:00Z
   stop: 2026-10-07T13:00:00Z
-  title: Muzički program
-  subtitle: Muzički program predstavlja vaš prozor u svet raznovrsne muzike.
-  description: Muzički program predstavlja vaš prozor u svet raznovrsne muzike. Upoznaće vas sa raznim muzičkim pravcima, gde ćete uz muziku koja prija vašim ušima lepše započeti dan, naučiti neke nove pesme i prepustiti se talasima dobrog raspoloženja.
+  title: Veterinarska misija
+  subtitle: Šta se desi kada reflektori zamene operacionu lampu, a poznata lica obuku mantil i stanu pored veterinara usred prave intervencije? Dešava se "Veterinarska misija", televizijska emisija koja bez.
+  description: Šta se desi kada reflektori zamene operacionu lampu, a poznata lica obuku mantil i stanu pored veterinara usred prave intervencije? Dešava se "Veterinarska misija", televizijska emisija koja bez ulepšavanja, ali sa mnogo emocije i humora, otkriva kako izgleda stvarni život veterinara. Autor i voditelj emisije, dr Dragiša Jestrotić, veterinar, vodi gledaoce tamo gde kamere retko ulaze, u ambulante, štale, dvorišta, na farme i na teren, gde nema ponavljanja kadra, nema glume i nema pauze za tremu.
 - eventId: 1458820
   start: 2026-10-07T13:00:00Z
   stop: 2026-10-07T13:10:00Z
