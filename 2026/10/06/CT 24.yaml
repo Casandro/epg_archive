@@ -1080,6 +1080,19 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 1531601
+  start: 2026-10-06T17:00:00Z
+  stop: 2026-10-06T17:54:08Z
+  title: Události
+  subtitle: Hlavní zpravodajská relace České televize. Souhrn nejdůležitějších událostí dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Znakový jazyk
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 1320298
   - 1327743
@@ -1091,13 +1104,16 @@
   - '33'
   widescreen: true
   hd: true
-- eventId: 1531535
+- eventId:
+  - 1531535
+  - 1531598
   start: 2026-10-06T17:54:08Z
   stop: 2026-10-06T17:56:00Z
   title: Počasí v evropských metropolích
   description: HDTV
   genre:
   - '33'
+  widescreen: true
 - eventId:
   - 1320299
   - 1327744
@@ -1129,6 +1145,7 @@
 - eventId:
   - 1320301
   - 1327745
+  - 1531612
   start: 2026-10-06T18:07:00Z
   stop: 2026-10-06T19:30:00Z
   title: 90' ČT24
@@ -1157,6 +1174,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1531613
+  start: 2026-10-06T19:30:06Z
+  stop: 2026-10-06T20:00:00Z
+  title: Horizont ČT24
+  subtitle: Pořad zahraniční redakce o dění ve světě. Klade důraz na původní tvorbu vlastních zpravodajů a bohaté agenturní zpravodajství, využívá nejmodernější postupy, televizní žánry i technologie.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1320303
   - 1327747
