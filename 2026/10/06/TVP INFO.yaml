@@ -726,7 +726,7 @@
   - '32'
 - eventId: 1335192
   start: 2026-10-06T23:28:00Z
-  stop: 2026-10-06T23:51:00Z
+  stop: 2026-10-06T23:55:00Z
   title: Pytanie dnia
   subtitle: Zaproszony do studia gość komentuje wydarzenia dnia. Emisja bezpośrednio po głównym wydaniu programu informacyjnego ma związek z charakterem problematyki poruszanej w każdym odcinku.
   description: |-
@@ -743,13 +743,15 @@
     Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
-- eventId: 1335193
+- eventId:
+  - 1335193
+  - 1526465
   start: 2026-10-06T23:55:00Z
   stop: 2026-10-07T00:10:00Z
   title: 112. Magazyn kryminalny
-  description: |
-    Tytuł oryginalny: 112. Magazyn kryminalny
-    PL, 2026
+  description: |-
+    magazyn (Polska, 2026)
+    Program nadawany na żywo z patrolującego nocną Warszawę samochodu ma przedstawiać najważniejsze zdarzenia kryminalne dnia. Prowadzący wraz z byłym funkcjonariuszem policji będą omawiać poszczególne sprawy, korzystając z jego wiedzy i praktyki zdobytej podczas służby.
   genre:
   - '129'
 - eventId: 1466539
