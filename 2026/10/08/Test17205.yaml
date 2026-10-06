@@ -196,7 +196,7 @@
   hd: true
 - eventId: 1393755
   start: 2026-10-08T10:05:00Z
-  stop: 2026-10-08T10:15:00Z
+  stop: 2026-10-08T10:20:00Z
   title: RTS Info
   subtitle: L'actualité en continu
   description: En direct.
@@ -214,18 +214,11 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1393756
+- eventId:
+  - 1393756
+  - 1531051
   start: 2026-10-08T10:20:00Z
   stop: 2026-10-08T10:40:00Z
-  title: Couleurs locales
-  genre:
-  - '33'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 1531051
-  start: 2026-10-08T10:20:00Z
-  stop: 2026-10-08T10:35:00Z
   title: Couleurs locales
   genre:
   - '33'
@@ -383,7 +376,7 @@
   hd: true
 - eventId: 1398359
   start: 2026-10-08T18:35:00Z
-  stop: 2026-10-08T19:00:00Z
+  stop: 2026-10-08T19:05:00Z
   title: Les Simpson
   subtitle: Burns incognito
   description: |-
