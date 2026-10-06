@@ -93,6 +93,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId: 1012197
   start: 2026-10-16T07:45:00Z
   stop: 2026-10-16T08:30:00Z
@@ -103,6 +104,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 1012198
   start: 2026-10-16T08:30:00Z
   stop: 2026-10-16T09:15:00Z
@@ -156,11 +158,13 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId: 1012247
   start: 2026-10-16T12:30:00Z
   stop: 2026-10-16T14:00:00Z
   title: Wieder daheim
-  subtitle: Spielfilm Deutschland 2008
+  subtitle: Fernsehfilm Deutschland 2008
   episodeUri: crid://onid-1/e/6a9b42607746096db216557a
   genre:
   - '16'
@@ -168,6 +172,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 1012248
   start: 2026-10-16T14:00:00Z
   stop: 2026-10-16T14:15:00Z
@@ -187,6 +192,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId: 1012282
   start: 2026-10-16T15:05:00Z
   stop: 2026-10-16T15:53:00Z
