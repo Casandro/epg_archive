@@ -133,7 +133,7 @@
   subtitled: true
 - eventId: 1508259
   start: 2026-10-08T08:30:00Z
-  stop: 2026-10-08T09:00:00Z
+  stop: 2026-10-08T08:55:00Z
   title: Cuntrasts
   description: Curdin Janett - le bricoleur (Suisse rhéto-romane-2026)
   genre:
@@ -148,6 +148,17 @@
   description: Curdin Janett - le bricoleur (Suisse rhéto-romane-2026)
   genre:
   - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1531050
+  start: 2026-10-08T08:55:00Z
+  stop: 2026-10-08T09:15:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
   widescreen: true
   subtitled: true
   hd: true
@@ -177,7 +188,7 @@
   start: 2026-10-08T09:15:00Z
   stop: 2026-10-08T10:05:00Z
   title: Infrarouge
-  description: 2026 (26/34) Infrarouge (Suisse Romande-2026)
+  description: "2026 (26/34) Infrarouge: Israël : la fuite en avant ? Trois ans jour pour jours après les attentats du 7 octobre, Israël est plus isolé que jamais sur la scène internationale. La guerre sanglante qu'il mène dans la bande de Gaza en guise de représailles est condamnée de toutes parts.  \nPourtant, Benjamin Netanyahou semble déterminé à maintenir le cap. Il faut dire qu'il jouera son maintien au pouvoir lors des élections législatives du 27 octobre. \nAlors, la chute du Premier ministre israélien pourrait-elle permettre d'envisager une désescalade dans la région ? Et alors que la colonisation s'accélère en Cisjordanie, jusqu'où est-il prêt à aller pour se maintenir au pouvoir ?  \n (Suisse Romande-2026)"
   genre:
   - '32'
   widescreen: true
@@ -212,6 +223,15 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1531051
+  start: 2026-10-08T10:20:00Z
+  stop: 2026-10-08T10:35:00Z
+  title: Couleurs locales
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1508262
   start: 2026-10-08T10:35:00Z
   stop: 2026-10-08T11:30:00Z
@@ -224,7 +244,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1393757
+- eventId:
+  - 1393757
+  - 1531052
   start: 2026-10-08T10:40:00Z
   stop: 2026-10-08T11:30:00Z
   title: Caravane FM
@@ -269,7 +291,7 @@
   start: 2026-10-08T13:00:00Z
   stop: 2026-10-08T13:50:00Z
   title: Infrarouge
-  description: 2026 (26/34) Infrarouge (Suisse Romande-2026)
+  description: "2026 (26/34) Infrarouge: Israël : la fuite en avant ? Trois ans jour pour jours après les attentats du 7 octobre, Israël est plus isolé que jamais sur la scène internationale. La guerre sanglante qu'il mène dans la bande de Gaza en guise de représailles est condamnée de toutes parts.  \nPourtant, Benjamin Netanyahou semble déterminé à maintenir le cap. Il faut dire qu'il jouera son maintien au pouvoir lors des élections législatives du 27 octobre. \nAlors, la chute du Premier ministre israélien pourrait-elle permettre d'envisager une désescalade dans la région ? Et alors que la colonisation s'accélère en Cisjordanie, jusqu'où est-il prêt à aller pour se maintenir au pouvoir ?  \n (Suisse Romande-2026)"
   genre:
   - '32'
   widescreen: true
@@ -335,6 +357,19 @@
   hd: true
 - eventId: 1398358
   start: 2026-10-08T18:05:00Z
+  stop: 2026-10-08T18:10:00Z
+  title: Les Simpson
+  subtitle: La grosse ligne bleue
+  description: |-
+    The Fat Blue Line - Saison 31 (3/22) Lors du festival de San Castellaneta, une grande partie des habitants de la ville se rend compte que leurs portefeuilles ont été volés à la tire. À la suite de son incompétence, le chef Wiggum est remplacé par une enquêtrice d'État qui met Gros Tony derrière les barreaux.
+     (Etats-Unis d'Amérique-2019)
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1531053
+  start: 2026-10-08T18:10:00Z
   stop: 2026-10-08T18:35:00Z
   title: Les Simpson
   subtitle: La grosse ligne bleue
@@ -366,6 +401,25 @@
   description: Avec Blaise Bersinger, Julie Conti, Jeremy Crausaz, Alix Henzelin, Sarah Mottet, Yoann Provenzano, Nathanaël Rochat et Lucas Vuilleumier. (Suisse Romande-2026)
   genre:
   - '113'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1531054
+  start: 2026-10-08T19:05:00Z
+  stop: 2026-10-08T20:25:00Z
+  title: Best of Couleur 3 Comedy Club 2026
+  description: Avec Blaise Bersinger, Julie Conti, Jeremy Crausaz, Alix Henzelin, Sarah Mottet, Yoann Provenzano, Nathanaël Rochat et Lucas Vuilleumier. (Suisse Romande-2026)
+  genre:
+  - '113'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1531055
+  start: 2026-10-08T20:25:00Z
+  stop: 2026-10-08T20:35:00Z
+  title: Zap RTS Sport
+  genre:
+  - '64'
   widescreen: true
   subtitled: true
   hd: true
@@ -459,9 +513,19 @@
   hd: true
 - eventId: 1516548
   start: 2026-10-08T23:20:00Z
-  stop: 2026-10-08T23:40:00Z
+  stop: 2026-10-08T23:35:00Z
   title: Couleurs locales
   description: (Rediffusion)
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1531056
+  start: 2026-10-08T23:35:00Z
+  stop: 2026-10-09T00:05:00Z
+  title: 19h30 - Signé
+  description: (Rediffusion)  "Langue des signes"
   genre:
   - '33'
   widescreen: true
