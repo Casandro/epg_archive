@@ -1880,7 +1880,9 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 1532941
+- eventId:
+  - 1532941
+  - 1533541
   start: 2026-10-06T21:50:00Z
   stop: 2026-10-06T21:55:00Z
   title: '#REPORTAŽE'
@@ -1897,6 +1899,7 @@
 - eventId:
   - 1456223
   - 1532942
+  - 1533542
   start: 2026-10-06T21:55:00Z
   stop: 2026-10-06T22:00:00Z
   title: Bez komentara
@@ -1913,7 +1916,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1456224
   start: 2026-10-06T22:00:00Z
-  stop: 2026-10-06T22:09:00Z
+  stop: 2026-10-06T22:10:00Z
   title: Vijesti flash
   subtitle: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   ageRating: 4
@@ -1929,6 +1932,7 @@
 - eventId:
   - 1456225
   - 1532943
+  - 1533543
   start: 2026-10-06T22:10:00Z
   stop: 2026-10-06T22:17:00Z
   title: Vijesti iz kulture
@@ -1952,7 +1956,9 @@
   genre:
   - '160'
   description: Životna i poslovna priča obitelji Rajkovača iz austrijskog gradića Tullna; Sve veći broj mladih Hrvata iz Salzburga dolazi studirati u Hrvatsku; Ministar rada i mirovinskoga sustava Alen Ružić obećao je pola milijuna eura pomoći za socijalni program Hrvata u Srbiji; Tradicionalno pješačenje kroz Park prirode Rozalija-Kogelbrig u Gradišću okupilo je nekoliko stotina sudionika.
-- eventId: 1532944
+- eventId:
+  - 1532944
+  - 1533544
   start: 2026-10-06T22:17:00Z
   stop: 2026-10-06T22:40:00Z
   title: Glas domovine
@@ -1999,6 +2005,7 @@
 - eventId:
   - 1456229
   - 1532945
+  - 1533545
   start: 2026-10-06T23:58:00Z
   stop: 2026-10-06T23:59:00Z
   title: Vrijeme RH danas
@@ -2009,7 +2016,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1456230
   start: 2026-10-06T23:59:00Z
-  stop: 2026-10-07T00:01:00Z
+  stop: 2026-10-07T00:00:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
