@@ -33,6 +33,7 @@
   - 1529834
   - 1530660
   - 1531281
+  - 1532654
   start: 2026-10-07T01:25:00Z
   stop: 2026-10-07T02:00:00Z
   title: Çikat n'Trip
@@ -75,6 +76,7 @@
   - 1529835
   - 1530661
   - 1531282
+  - 1532655
   start: 2026-10-07T02:00:00Z
   stop: 2026-10-07T03:30:00Z
   title: Reportazhe
@@ -189,6 +191,7 @@
   - 1529836
   - 1530662
   - 1531283
+  - 1532656
   start: 2026-10-07T03:30:00Z
   stop: 2026-10-07T04:10:00Z
   title: Muzike Top 10
@@ -267,6 +270,7 @@
   - 1529837
   - 1530663
   - 1531284
+  - 1532657
   start: 2026-10-07T04:10:00Z
   stop: 2026-10-07T04:40:00Z
   title: Muzike Top 10
@@ -309,6 +313,7 @@
   - 1529838
   - 1530664
   - 1531285
+  - 1532658
   start: 2026-10-07T04:40:00Z
   stop: 2026-10-07T05:00:00Z
   title: Muzikë për fëmijë
@@ -357,7 +362,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1530665
+- eventId:
+  - 1530665
+  - 1532659
   start: 2026-10-07T05:00:00Z
   stop: 2026-10-07T07:00:00Z
   title: Pastel
@@ -544,6 +551,7 @@
   - 1529840
   - 1530666
   - 1531287
+  - 1532660
   start: 2026-10-07T07:05:00Z
   stop: 2026-10-07T09:00:00Z
   title: Programi i mëngjesit
@@ -700,7 +708,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1530667
+- eventId:
+  - 1530667
+  - 1532661
   start: 2026-10-07T09:00:00Z
   stop: 2026-10-07T10:10:00Z
   title: Daily Click
@@ -886,6 +896,7 @@
   - 1529842
   - 1530668
   - 1531289
+  - 1532662
   start: 2026-10-07T10:15:00Z
   stop: 2026-10-07T10:35:00Z
   title: Muzikë argëtuese
@@ -933,7 +944,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1530669
+- eventId:
+  - 1530669
+  - 1532663
   start: 2026-10-07T10:35:00Z
   stop: 2026-10-07T11:10:00Z
   title: Farewell Letter
@@ -1047,6 +1060,7 @@
   - 1529844
   - 1530670
   - 1531291
+  - 1532664
   start: 2026-10-07T11:15:00Z
   stop: 2026-10-07T12:35:00Z
   title: Reportazhe
@@ -1124,6 +1138,7 @@
   - 1529845
   - 1530671
   - 1531292
+  - 1532665
   start: 2026-10-07T12:35:00Z
   stop: 2026-10-07T12:55:00Z
   title: Promo
@@ -1165,6 +1180,7 @@
   - 1529846
   - 1530672
   - 1531293
+  - 1532666
   start: 2026-10-07T12:55:00Z
   stop: 2026-10-07T13:00:00Z
   title: Promo
@@ -1210,7 +1226,7 @@
   subtitle: ' ... '
 - eventId: 1419965
   start: 2026-10-07T13:00:00Z
-  stop: 2026-10-07T13:10:00Z
+  stop: 2026-10-07T13:20:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -1286,6 +1302,7 @@
   - 1529847
   - 1530673
   - 1531294
+  - 1532667
   start: 2026-10-07T13:20:00Z
   stop: 2026-10-07T13:30:00Z
   title: Promo
@@ -1327,6 +1344,7 @@
   - 1529848
   - 1530674
   - 1531295
+  - 1532668
   start: 2026-10-07T13:30:00Z
   stop: 2026-10-07T14:00:00Z
   title: Reportazhe
@@ -1344,7 +1362,7 @@
   - '160'
 - eventId: 1419968
   start: 2026-10-07T15:00:00Z
-  stop: 2026-10-07T16:30:00Z
+  stop: 2026-10-07T15:55:00Z
   title: Handbal feminin
   subtitle: '  *LIGA FLORILOR*ET5CS Rapid Bucure'
   ageRating: 4
@@ -1384,6 +1402,7 @@
   - 1529849
   - 1530675
   - 1531296
+  - 1532669
   start: 2026-10-07T15:55:00Z
   stop: 2026-10-07T16:00:00Z
   title: Promo
@@ -1425,6 +1444,7 @@
   - 1529850
   - 1530676
   - 1531297
+  - 1532670
   start: 2026-10-07T16:00:00Z
   stop: 2026-10-07T16:30:00Z
   title: Reportazhe
@@ -1442,7 +1462,7 @@
   - '32'
 - eventId: 1419970
   start: 2026-10-07T17:00:00Z
-  stop: 2026-10-07T18:30:00Z
+  stop: 2026-10-07T17:10:00Z
   title: Handbal feminin
   subtitle: '  *LIGA FLORILOR*ET5HC Dunărea Brăila-CSM BucurestiComentator: Dragos BocanaciuProducator: Valentina StelescuTransmisiune directa '
   ageRating: 4
@@ -1482,6 +1502,7 @@
   - 1529851
   - 1530677
   - 1531298
+  - 1532671
   start: 2026-10-07T17:10:00Z
   stop: 2026-10-07T17:20:00Z
   title: 10 minuta
@@ -1523,6 +1544,7 @@
   - 1529852
   - 1530678
   - 1531299
+  - 1532672
   start: 2026-10-07T17:20:00Z
   stop: 2026-10-07T17:30:00Z
   title: Promo
@@ -1564,6 +1586,7 @@
   - 1529853
   - 1530679
   - 1531300
+  - 1532673
   start: 2026-10-07T17:30:00Z
   stop: 2026-10-07T18:00:00Z
   title: Live News MK
@@ -1605,6 +1628,7 @@
   - 1529854
   - 1530680
   - 1531301
+  - 1532674
   start: 2026-10-07T18:00:00Z
   stop: 2026-10-07T18:45:00Z
   title: Farewell Letter
@@ -1682,6 +1706,7 @@
   - 1529855
   - 1530681
   - 1531302
+  - 1532675
   start: 2026-10-07T18:45:00Z
   stop: 2026-10-07T19:30:00Z
   title: Firefly
@@ -1723,6 +1748,7 @@
   - 1529856
   - 1530682
   - 1531303
+  - 1532676
   start: 2026-10-07T19:30:00Z
   stop: 2026-10-07T20:55:00Z
   title: Film artistik
@@ -1780,7 +1806,7 @@
   - '160'
 - eventId: 1419973
   start: 2026-10-07T21:00:00Z
-  stop: 2026-10-07T22:00:00Z
+  stop: 2026-10-07T21:20:00Z
   title: Live News MK
   subtitle: ' Preluare TVR Cluj   (Reluare)'
   ageRating: 4
@@ -1826,7 +1852,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1530683
+- eventId:
+  - 1530683
+  - 1532677
   start: 2026-10-07T21:20:00Z
   stop: 2026-10-07T22:00:00Z
   title: Farewell Letter
@@ -1904,6 +1932,7 @@
   - 1529858
   - 1530684
   - 1531305
+  - 1532678
   start: 2026-10-07T22:05:00Z
   stop: 2026-10-07T23:25:00Z
   title: Click Plus
@@ -1945,6 +1974,7 @@
   - 1529859
   - 1530685
   - 1531306
+  - 1532679
   start: 2026-10-07T23:25:00Z
   stop: 2026-10-08T01:25:00Z
   title: Pastel
