@@ -326,6 +326,7 @@
   - 1351914
   - 1355930
   - 1550582
+  - 1550752
   start: 2026-10-07T10:00:00Z
   stop: 2026-10-07T10:20:00Z
   title: Zprávy ve 12
@@ -342,6 +343,7 @@
   - 1351915
   - 1355931
   - 1550583
+  - 1550786
   start: 2026-10-07T10:20:00Z
   stop: 2026-10-07T10:30:00Z
   title: Předpověď počasí, sportovní zprávy
@@ -368,7 +370,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1550584
+- eventId:
+  - 1550584
+  - 1550787
   start: 2026-10-07T10:30:00Z
   stop: 2026-10-07T10:33:10Z
   title: Zprávy
@@ -396,6 +400,7 @@
 - eventId:
   - 1549420
   - 1550585
+  - 1550788
   start: 2026-10-07T10:33:10Z
   stop: 2026-10-07T11:00:00Z
   title: Studio ČT24
@@ -435,7 +440,7 @@
   - 1351919
   - 1355935
   start: 2026-10-07T11:03:00Z
-  stop: 2026-10-07T11:30:00Z
+  stop: 2026-10-07T11:29:40Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
   description: |-
@@ -446,6 +451,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1550976
+  start: 2026-10-07T11:29:40Z
+  stop: 2026-10-07T11:32:40Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 1351920
   - 1355936
@@ -460,6 +475,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1550977
+  start: 2026-10-07T11:32:40Z
+  stop: 2026-10-07T12:00:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1351921
   - 1355937
@@ -505,6 +531,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1550978
+  start: 2026-10-07T12:03:00Z
+  stop: 2026-10-07T12:29:40Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId: 1550594
   start: 2026-10-07T12:05:05Z
   stop: 2026-10-07T12:30:00Z
@@ -515,6 +552,16 @@
     Skryté titulky
   genre:
   - '35'
+  widescreen: true
+- eventId: 1550979
+  start: 2026-10-07T12:29:40Z
+  stop: 2026-10-07T12:32:40Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
   widescreen: true
 - eventId:
   - 1351924
@@ -530,6 +577,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1550980
+  start: 2026-10-07T12:32:40Z
+  stop: 2026-10-07T13:00:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1351925
   - 1355941
