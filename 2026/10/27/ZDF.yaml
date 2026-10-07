@@ -21,7 +21,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1535128
+- eventId:
+  - 1535128
+  - 1539322
   start: 2026-10-27T03:40:00Z
   stop: 2026-10-27T04:30:00Z
   title: hallo deutschland
@@ -29,7 +31,11 @@
   - '32'
   widescreen: true
   subtitled: true
-- eventId: 1535129
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1535129
+  - 1539323
   start: 2026-10-27T04:30:00Z
   stop: 2026-10-27T08:00:00Z
   title: ZDF-Morgenmagazin
@@ -37,6 +43,8 @@
   - '32'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1535150
   - 1539272
