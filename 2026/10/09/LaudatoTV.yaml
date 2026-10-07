@@ -36,7 +36,7 @@
   description: 'Dvoje branitelja. Trideset godina braka. Troje djece. I stotine kilometara najtežih svjetskih pustinja. Kad su mnogi mislili da je nakon rata vrijeme za odmor, oni su odlučili pokazati kako se pomiču granice - i u sportu i u životu. Kako izgraditi sretnu obitelj i ostati neslomljivi nakon svega? Renata i Zorislav - supružnici koji pomiču granice mogućeg i poručuju: "Nismo generacija koja je prošla. Sreća je naša zajednička odluka." Dok je Renata u radnom odnosu i snažna čuvarica obitelji, Zorislav kao umirovljeni branitelj niže svoje nove pobjede. Postao je poznat po nevjerojatnim ultramaratonskim pothvatima - poput zahtjevnog Maratona pijeska u Saharskoj pustinji i Tenzing-Hillary Everest Maratona, jedne od najtežih trail utrka na svijetu. Zorislav i prijatelji Martin i Zlatko postali su prva trojica Hrvata u povijesti koji su uspješno istrčali ovaj legendarni maraton.'
 - eventId: 1515149
   start: 2026-10-09T02:58:00Z
-  stop: 2026-10-09T03:39:00Z
+  stop: 2026-10-09T03:38:00Z
   title: Nova misija
   subtitle: Dvoje branitelja. Trideset godina braka. Troje djece. I stotine kilometara najtežih svjetskih pustinja.
   description: 'Dvoje branitelja. Trideset godina braka. Troje djece. I stotine kilometara najtežih svjetskih pustinja. Kad su mnogi mislili da je nakon rata vrijeme za odmor, oni su odlučili pokazati kako se pomiču granice - i u sportu i u životu. Kako izgraditi sretnu obitelj i ostati neslomljivi nakon svega? Renata i Zorislav - supružnici koji pomiču granice mogućeg i poručuju: "Nismo generacija koja je prošla. Sreća je naša zajednička odluka." Dok je Renata u radnom odnosu i snažna čuvarica obitelji, Zorislav kao umirovljeni branitelj niže svoje nove pobjede. Postao je poznat po nevjerojatnim ultramaratonskim pothvatima - poput zahtjevnog Maratona pijeska u Saharskoj pustinji i Tenzing-Hillary Everest Maratona, jedne od najtežih trail utrka na svijetu. Zorislav i prijatelji Martin i Zlatko postali su prva trojica Hrvata u povijesti koji su uspješno istrčali ovaj legendarni maraton.'
@@ -48,7 +48,9 @@
   stop: 2026-10-09T04:25:00Z
   title: Izdvojeno
   subtitle: Religijski
-- eventId: 1515150
+- eventId:
+  - 1515150
+  - 1559138
   start: 2026-10-09T03:39:00Z
   stop: 2026-10-09T04:22:00Z
   title: Izdvojeno
@@ -80,7 +82,7 @@
   - '160'
 - eventId: 1515153
   start: 2026-10-09T04:31:00Z
-  stop: 2026-10-09T05:00:00Z
+  stop: 2026-10-09T04:55:00Z
   title: Krunica, Krunica Blažene Djevice Marije
   subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
   description: Molimo zajedno molitvu Krunice Blažene Djevice Marije.
@@ -93,12 +95,24 @@
   title: Osobna posveta Bezgrješnom Srcu Marijinu
   subtitle: Religijski
   description: Osobna posveta Bezgrješnom Srcu Marijinu
+- eventId: 1559002
+  start: 2026-10-09T04:55:00Z
+  stop: 2026-10-09T04:59:00Z
+  title: VA Lipe - Kraljice možna, VA Lipe - Kraljice možna
 - eventId: 1440528
   start: 2026-10-09T05:00:00Z
   stop: 2026-10-09T05:45:00Z
   title: 'Sveta Misa: Svetište Majke Božje Remetske, Zagreb, Sveta Misa: Zagreb'
   subtitle: Sveta Misa iz Svetišta Majke Božje Remetske u Zagrebu.
   description: Sveta Misa iz Svetišta Majke Božje Remetske u Zagrebu.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1559139
+  start: 2026-10-09T05:00:00Z
+  stop: 2026-10-09T05:45:00Z
+  title: 'Sveta Misa: Svetište Majke Božje Remetske, Zagreb'
+  subtitle: Sveta Misa iz Svetišta Majke Božje Remetske u Zagrebu.
   ageRating: 4
   genre:
   - '160'
