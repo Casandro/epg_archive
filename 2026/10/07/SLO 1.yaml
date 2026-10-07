@@ -182,13 +182,15 @@
   - '128'
 - eventId: 1483953
   start: 2026-10-07T13:55:00Z
-  stop: 2026-10-07T14:05:00Z
+  stop: 2026-10-07T14:00:00Z
   title: Živalski čira čara
   subtitle: Je ptica? Je medved? Je Živalski čira čara! Ugibanje je zabavno. Vam je velik rilec znan? Kaj pa črno bela dlaka? In kaj menite o malčku, ki se plazi naokrog zelo počasi? Škatlica vam pomaga z namigi.
   ageRating: 4
   genre:
   - '160'
-- eventId: 1483954
+- eventId:
+  - 1483954
+  - 1539618
   start: 2026-10-07T14:00:00Z
   stop: 2026-10-07T14:15:00Z
   title: Z vseh vetrov
@@ -362,6 +364,14 @@
   - '160'
 - eventId: 1484001
   start: 2026-10-07T21:50:00Z
+  stop: 2026-10-07T22:25:00Z
+  title: Dnevnik Slovencev v Italiji
+  subtitle: Dnevnik Slovencev v Italiji je informativna oddaja, v kateri novinarji poročajo predvsem o dnevnih dogodkih med Slovenci v Italiji.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 1539659
+  start: 2026-10-07T21:55:00Z
   stop: 2026-10-07T22:25:00Z
   title: Dnevnik Slovencev v Italiji
   subtitle: Dnevnik Slovencev v Italiji je informativna oddaja, v kateri novinarji poročajo predvsem o dnevnih dogodkih med Slovenci v Italiji.
