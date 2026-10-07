@@ -73,6 +73,11 @@
   stop: 2026-10-07T03:15:00Z
   title: DW News Focus
   widescreen: true
+- eventId: 1543866
+  start: 2026-10-07T03:03:00Z
+  stop: 2026-10-07T03:15:00Z
+  title: DW News Focus
+  widescreen: true
 - eventId: 1380798
   start: 2026-10-07T03:15:00Z
   stop: 2026-10-07T03:30:00Z
@@ -96,7 +101,9 @@
   title: DW News
   subtitle: News
   widescreen: true
-- eventId: 1380801
+- eventId:
+  - 1380801
+  - 1543867
   start: 2026-10-07T04:02:00Z
   stop: 2026-10-07T04:15:00Z
   title: DW News Focus
@@ -104,6 +111,7 @@
 - eventId:
   - 1380802
   - 1525038
+  - 1543868
   start: 2026-10-07T04:15:00Z
   stop: 2026-10-07T05:00:00Z
   title: Through Kazakhstan by Train
@@ -154,6 +162,11 @@
   widescreen: true
 - eventId: 1380842
   start: 2026-10-07T06:02:00Z
+  stop: 2026-10-07T06:15:00Z
+  title: DW News Focus
+  widescreen: true
+- eventId: 1543880
+  start: 2026-10-07T06:03:00Z
   stop: 2026-10-07T06:15:00Z
   title: DW News Focus
   widescreen: true
