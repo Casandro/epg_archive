@@ -2561,7 +2561,9 @@
   title: Regionalni dnevnik
   subtitle: ' '
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 1483893
+- eventId:
+  - 1483893
+  - 1561108
   start: 2026-10-07T22:42:00Z
   stop: 2026-10-07T23:05:00Z
   title: Regionalni dnevnik
@@ -2581,14 +2583,16 @@
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
 - eventId: 1483895
   start: 2026-10-07T23:58:00Z
-  stop: 2026-10-08T00:00:00Z
+  stop: 2026-10-07T23:59:00Z
   title: Vrijeme RH danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 1483896
+- eventId:
+  - 1483896
+  - 1561109
   start: 2026-10-07T23:59:00Z
   stop: 2026-10-08T00:00:00Z
   title: Vrijeme Europa danas
