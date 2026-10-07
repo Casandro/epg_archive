@@ -441,7 +441,7 @@
   - 1351919
   - 1355935
   start: 2026-10-07T11:03:00Z
-  stop: 2026-10-07T11:29:40Z
+  stop: 2026-10-07T11:30:00Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
   description: |-
@@ -467,6 +467,8 @@
 - eventId:
   - 1351920
   - 1355936
+  - 1551489
+  - 1551490
   start: 2026-10-07T11:30:00Z
   stop: 2026-10-07T11:33:00Z
   title: Zprávy
@@ -495,6 +497,7 @@
   - 1351921
   - 1355937
   - 1550366
+  - 1551503
   start: 2026-10-07T11:33:00Z
   stop: 2026-10-07T12:00:00Z
   title: Studio ČT24
@@ -575,6 +578,7 @@
 - eventId:
   - 1351924
   - 1355940
+  - 1551504
   start: 2026-10-07T12:30:00Z
   stop: 2026-10-07T12:33:00Z
   title: Zprávy
@@ -602,6 +606,7 @@
 - eventId:
   - 1351925
   - 1355941
+  - 1551505
   start: 2026-10-07T12:33:00Z
   stop: 2026-10-07T13:00:00Z
   title: Studio ČT24
@@ -643,6 +648,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1551506
+  start: 2026-10-07T13:03:00Z
+  stop: 2026-10-07T13:29:10Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1551253
   - 1551474
@@ -655,6 +671,16 @@
     Skryté titulky
   genre:
   - '35'
+  widescreen: true
+- eventId: 1551507
+  start: 2026-10-07T13:29:10Z
+  stop: 2026-10-07T13:32:10Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
   widescreen: true
 - eventId:
   - 1351928
@@ -682,6 +708,17 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 1551508
+  start: 2026-10-07T13:32:10Z
+  stop: 2026-10-07T13:39:10Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1351929
   - 1355945
@@ -707,6 +744,17 @@
     Skryté titulky
   genre:
   - '35'
+  widescreen: true
+- eventId: 1551509
+  start: 2026-10-07T13:39:10Z
+  stop: 2026-10-07T14:00:00Z
+  title: Ekonomika ČT24
+  subtitle: Nejdůležitější zprávy ze světa peněz každý všední den.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '128'
   widescreen: true
 - eventId:
   - 1351930
