@@ -327,7 +327,7 @@
   - 1193954
   - 978134
   start: 2026-10-15T21:35:00Z
-  stop: 2026-10-15T22:35:00Z
+  stop: 2026-10-15T22:45:00Z
   title: Inas Nacht (12/12)
   subtitle: Late-Night-Show
   widescreen: true
@@ -358,12 +358,19 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1556134
+- eventId:
+  - 1556134
+  - 1556866
   start: 2026-10-15T22:50:00Z
   stop: 2026-10-15T23:00:00Z
   title: Tagesschau
   subtitled: true
-- eventId: 1556135
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1556135
+  - 1556867
   start: 2026-10-15T23:00:00Z
   stop: 2026-10-16T00:33:00Z
   title: 'Tiroler Blut: Am Abgrund'
@@ -372,3 +379,6 @@
   genre:
   - '16'
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
