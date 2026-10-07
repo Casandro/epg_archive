@@ -107,7 +107,7 @@
   - 1379325
   - 1390514
   start: 2026-10-08T02:10:00Z
-  stop: 2026-10-08T03:00:00Z
+  stop: 2026-10-08T02:59:00Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
   description: |-
@@ -129,7 +129,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 1559204
+- eventId:
+  - 1559204
+  - 1559276
   start: 2026-10-08T02:59:00Z
   stop: 2026-10-08T03:09:00Z
   title: Zprávy
@@ -153,7 +155,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1559208
+- eventId:
+  - 1559208
+  - 1559277
   start: 2026-10-08T03:09:00Z
   stop: 2026-10-08T03:59:00Z
   title: Studio ČT24
