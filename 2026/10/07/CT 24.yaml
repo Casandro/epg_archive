@@ -558,7 +558,7 @@
   start: 2026-10-07T12:03:00Z
   stop: 2026-10-07T12:29:40Z
   title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  subtitle: 'Témata: Výsledky průmyslu, stavebnictví a zahraničního obchodu za srpen (reakce Svazu průmyslu a dopravy ČR); 20 let od vraždy Politkovské.'
   description: |-
     HDTV
     Skryté titulky
@@ -636,7 +636,7 @@
   - 1351926
   - 1355942
   start: 2026-10-07T13:00:00Z
-  stop: 2026-10-07T13:05:05Z
+  stop: 2026-10-07T13:03:00Z
   title: Zprávy
   description: |-
     HDTV
@@ -661,7 +661,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1551506
+- eventId:
+  - 1551506
+  - 1552141
   start: 2026-10-07T13:03:00Z
   stop: 2026-10-07T13:29:10Z
   title: Studio ČT24
@@ -685,7 +687,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 1551507
+- eventId:
+  - 1551507
+  - 1552142
   start: 2026-10-07T13:29:10Z
   stop: 2026-10-07T13:32:10Z
   title: Zprávy
@@ -721,7 +725,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 1551508
+- eventId:
+  - 1551508
+  - 1552143
   start: 2026-10-07T13:32:10Z
   stop: 2026-10-07T13:39:10Z
   title: Studio ČT24
@@ -760,6 +766,17 @@
   widescreen: true
 - eventId: 1551509
   start: 2026-10-07T13:39:10Z
+  stop: 2026-10-07T13:59:55Z
+  title: Ekonomika ČT24
+  subtitle: Nejdůležitější zprávy ze světa peněz každý všední den.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '128'
+  widescreen: true
+- eventId: 1552144
+  start: 2026-10-07T13:39:10Z
   stop: 2026-10-07T14:00:00Z
   title: Ekonomika ČT24
   subtitle: Nejdůležitější zprávy ze světa peněz každý všední den.
@@ -796,6 +813,18 @@
   genre:
   - '128'
   widescreen: true
+- eventId: 1552256
+  start: 2026-10-07T13:59:55Z
+  stop: 2026-10-07T14:30:00Z
+  title: Zprávy v 16
+  subtitle: Nejdůležitější události dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Znakový jazyk
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 1351931
   - 1355947
@@ -816,7 +845,7 @@
   - 1351932
   - 1355948
   start: 2026-10-07T14:30:00Z
-  stop: 2026-10-07T14:33:00Z
+  stop: 2026-10-07T14:37:05Z
   title: Zprávy
   description: |-
     HDTV
@@ -842,7 +871,20 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1551920
+- eventId: 1552257
+  start: 2026-10-07T14:35:00Z
+  stop: 2026-10-07T15:00:00Z
+  title: Studio ČT24
+  subtitle: Nobelova cena za chemii.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId:
+  - 1551920
+  - 1552145
   start: 2026-10-07T14:37:05Z
   stop: 2026-10-07T15:00:00Z
   title: Studio ČT24
