@@ -42,7 +42,9 @@
   start: 2026-10-07T02:35:00Z
   stop: 2026-10-07T03:25:00Z
   title: Intermède
-- eventId: 1368824
+- eventId:
+  - 1368824
+  - 1544812
   start: 2026-10-07T03:25:00Z
   stop: 2026-10-07T04:10:00Z
   title: Le Paraguay sauvage
@@ -56,7 +58,9 @@
   description: "Documentaire (2025, 44mn) Voyage en deux étapes au Paraguay, entre nature foisonnante, métissages culturels et vestiges historiques. Au Nord s'étend le Gran Chaco, l'une des régions les plus sauvages d'Amérique du Sud, qui se caractérise par ses lagunes salées et ses zones inondables. Animaux rares, éleveurs, communautés autochtones et descendants de colons mennonites y cohabitent dans une certaine harmonie. \n\nAUDIO 1 : FRANÇAIS / AUDIO 2 : ALLEMAND"
   genre:
   - '145'
-- eventId: 1368825
+- eventId:
+  - 1368825
+  - 1544813
   start: 2026-10-07T04:10:00Z
   stop: 2026-10-07T04:55:00Z
   title: Le Paraguay sauvage
@@ -73,6 +77,13 @@
 - eventId: 1368826
   start: 2026-10-07T04:55:00Z
   stop: 2026-10-07T05:50:00Z
+  title: Kourou, des bagnes et des fusées
+  subtitle: E596. Kourou est aujourd'hui un important site de lancement de fusées. Autrefois, les îles du large servaient de bagne. Le deux sites ne sont éloignés que de quelques kilomètres.
+  genre:
+  - '32'
+- eventId: 1544956
+  start: 2026-10-07T04:55:00Z
+  stop: 2026-10-07T05:49:58Z
   title: Kourou, des bagnes et des fusées
   subtitle: E596. Kourou est aujourd'hui un important site de lancement de fusées. Autrefois, les îles du large servaient de bagne. Le deux sites ne sont éloignés que de quelques kilomètres.
   genre:
@@ -98,14 +109,18 @@
     Sous-titres pour sourds et malentendants disponibles pour ce programme
   genre:
   - '122'
-- eventId: 1368827
+- eventId:
+  - 1368827
+  - 1544957
   start: 2026-10-07T05:50:00Z
   stop: 2026-10-07T06:20:00Z
   title: Voyage en cuisine
   subtitle: 'Guadeloupe : le tourment d''amour E106. L''histoire du tourment d''amour, une délicieuse tarte à la noix de coco des Saintes. Clémence explore le marché aux épices et partage la recette.'
   genre:
   - '32'
-- eventId: 1368828
+- eventId:
+  - 1368828
+  - 1544958
   start: 2026-10-07T06:20:00Z
   stop: 2026-10-07T07:05:00Z
   title: Invitation au voyage
@@ -123,7 +138,9 @@
     Sous-titres pour sourds et malentendants disponibles pour ce programme
   genre:
   - '112'
-- eventId: 1368829
+- eventId:
+  - 1368829
+  - 1544959
   start: 2026-10-07T07:05:00Z
   stop: 2026-10-07T07:55:00Z
   title: Invitation au voyage
@@ -144,6 +161,13 @@
 - eventId: 1368830
   start: 2026-10-07T07:55:00Z
   stop: 2026-10-07T08:40:00Z
+  title: Les parcs nationaux des pays baltes
+  subtitle: Lahemaa en Estonie S01 E01. Lahemaa est le plus ancien et le plus grand parc naturel d'Estonie. Situé dans le nord du pays, il présente un patrimoine naturel riche et préservé.
+  genre:
+  - '146'
+- eventId: 1544960
+  start: 2026-10-07T07:55:00Z
+  stop: 2026-10-07T08:39:40Z
   title: Les parcs nationaux des pays baltes
   subtitle: Lahemaa en Estonie S01 E01. Lahemaa est le plus ancien et le plus grand parc naturel d'Estonie. Situé dans le nord du pays, il présente un patrimoine naturel riche et préservé.
   genre:
@@ -175,11 +199,32 @@
   subtitle: Soomaa en Estonie S01 E02. Littéralement "terre des tourbières", le parc national de Soomaa, au sud-ouest de l'Estonie, porte son nom à merveille car il se compose de vastes zones marécageuses.
   genre:
   - '146'
+- eventId: 1544961
+  start: 2026-10-07T08:40:00Z
+  stop: 2026-10-07T09:20:00Z
+  title: Les parcs nationaux des pays baltes
+  subtitle: Soomaa en Estonie S01 E02. Littéralement "terre des tourbières", le parc national de Soomaa, au sud-ouest de l'Estonie, porte son nom à merveille car il se compose de vastes zones marécageuses.
+  genre:
+  - '146'
+- eventId: 1544962
+  start: 2026-10-07T09:20:00Z
+  stop: 2026-10-07T10:05:00Z
+  title: Les parcs nationaux des pays baltes
+  subtitle: Gauja en Lettonie S01 E03. Etabli en 1973 au nord de Riga, la capitale, le plus ancien parc national de Lettonie s'étend le long de la vallée du fleuve Gauja. Il témoigne d'une biodiversité incomparable.
+  genre:
+  - '146'
 - eventId: 1368832
   start: 2026-10-07T09:25:00Z
   stop: 2026-10-07T10:10:00Z
   title: Les parcs nationaux des pays baltes
   subtitle: Gauja en Lettonie S01 E03. Etabli en 1973 au nord de Riga, la capitale, le plus ancien parc national de Lettonie s'étend le long de la vallée du fleuve Gauja. Il témoigne d'une biodiversité incomparable.
+  genre:
+  - '146'
+- eventId: 1544963
+  start: 2026-10-07T10:05:00Z
+  stop: 2026-10-07T11:00:00Z
+  title: Les parcs nationaux des pays baltes
+  subtitle: Isthme de Courlande en Lituanie S01 E04. Le parc national de l'isthme de Courlande présente un paysage atypique. Il est constitué d'un cordon littoral sablonneux de plus d'une centaine de kilomètres de long.
   genre:
   - '146'
 - eventId: 1368833
@@ -218,7 +263,9 @@
   subtitle: Le coeur sauvage de l'Afrique S01 E02. Le massif Mulanje, 3 000 mètres d'altitude, inscrit au patrimoine mondial de l'Unesco, et la réserve Nkhotakota avec ses crocodiles, ses éléphants et ses hippopotames.
   genre:
   - '146'
-- eventId: 1368838
+- eventId:
+  - 1368838
+  - 1544964
   start: 2026-10-07T15:20:00Z
   stop: 2026-10-07T16:05:00Z
   title: Invitation au voyage
@@ -236,7 +283,9 @@
     Sous-titres pour sourds et malentendants disponibles pour ce programme
   genre:
   - '112'
-- eventId: 1368839
+- eventId:
+  - 1368839
+  - 1544965
   start: 2026-10-07T16:05:00Z
   stop: 2026-10-07T16:50:00Z
   title: Invitation au voyage
@@ -254,7 +303,9 @@
     Sous-titres pour sourds et malentendants disponibles pour ce programme
   genre:
   - '112'
-- eventId: 1368840
+- eventId:
+  - 1368840
+  - 1544966
   start: 2026-10-07T16:50:00Z
   stop: 2026-10-07T17:30:00Z
   title: Voyage en cuisine
@@ -272,7 +323,9 @@
     Sous-titres pour sourds et malentendants disponibles pour ce programme
   genre:
   - '122'
-- eventId: 1368841
+- eventId:
+  - 1368841
+  - 1544967
   start: 2026-10-07T17:30:00Z
   stop: 2026-10-07T17:45:00Z
   title: Le dessous des images
@@ -300,7 +353,9 @@
   description: |-
     (2026, 21mn) Chaque jour à 19h45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité. Un regard original sur le monde.
     AUDIO 1 : FRANÇAIS
-- eventId: 1368843
+- eventId:
+  - 1368843
+  - 1544968
   start: 2026-10-07T18:05:00Z
   stop: 2026-10-07T18:50:00Z
   title: 28 minutes
@@ -317,7 +372,9 @@
     AUDIO 1 : FRANÇAIS
   genre:
   - '34'
-- eventId: 1368844
+- eventId:
+  - 1368844
+  - 1544969
   start: 2026-10-07T18:50:00Z
   stop: 2026-10-07T19:00:00Z
   title: 'Le dessous des cartes : l''essentiel'
@@ -334,7 +391,9 @@
     AUDIO 1 : FRANÇAIS
   genre:
   - '148'
-- eventId: 1368845
+- eventId:
+  - 1368845
+  - 1544970
   start: 2026-10-07T19:00:00Z
   stop: 2026-10-07T21:30:00Z
   title: Zero Dark Thirty
@@ -360,6 +419,13 @@
   subtitle: Depuis près d'un demi-siècle, Kathryn Bigelow subvertit les codes du film de genre pour explorer les multiples facettes de la violence masculine.
   genre:
   - '112'
+- eventId: 1544971
+  start: 2026-10-07T21:30:00Z
+  stop: 2026-10-07T22:25:00Z
+  title: 'Kathryn Bigelow : Hollywood sous adrénaline'
+  subtitle: Depuis près d'un demi-siècle, Kathryn Bigelow subvertit les codes du film de genre pour explorer les multiples facettes de la violence masculine.
+  genre:
+  - '112'
 - eventId: 1542893
   start: 2026-10-07T21:31:12Z
   stop: 2026-10-07T22:25:26Z
@@ -378,6 +444,13 @@
   subtitle: 'Sauvage et sanglant. Deux courts métrages autour de la thématique "sauvage et sanglant" : "Orla" de Marie Lukácová (Tchéquie/Slovaquie) et "Time to Go" de Renzo Cozza (Argentine).'
   genre:
   - '118'
+- eventId: 1544972
+  start: 2026-10-07T22:25:00Z
+  stop: 2026-10-07T23:20:00Z
+  title: Court-circuit
+  subtitle: 'Sauvage et sanglant. Deux courts métrages autour de la thématique "sauvage et sanglant" : "Orla" de Marie Lukácová (Tchéquie/Slovaquie) et "Time to Go" de Renzo Cozza (Argentine).'
+  genre:
+  - '118'
 - eventId: 1542894
   start: 2026-10-07T22:25:26Z
   stop: 2026-10-07T23:22:57Z
@@ -390,6 +463,14 @@
   - '122'
 - eventId: 1368848
   start: 2026-10-07T23:15:00Z
+  stop: 2026-10-08T00:50:00Z
+  title: Un été sur le bitume
+  subtitle: A l'aube de ses 30 ans, une livreuse à vélo aux amours libres voit son père débarquer chez elle au moment où elle découvre qu'elle est enceinte.
+  ageRating: 12
+  genre:
+  - '20'
+- eventId: 1544973
+  start: 2026-10-07T23:20:00Z
   stop: 2026-10-08T00:50:00Z
   title: Un été sur le bitume
   subtitle: A l'aube de ses 30 ans, une livreuse à vélo aux amours libres voit son père débarquer chez elle au moment où elle découvre qu'elle est enceinte.
