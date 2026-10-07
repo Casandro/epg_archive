@@ -122,6 +122,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId: 1104485
   start: 2026-10-19T07:45:00Z
   stop: 2026-10-19T08:30:00Z
@@ -132,6 +133,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId: 1104486
   start: 2026-10-19T08:30:00Z
   stop: 2026-10-19T09:15:00Z
@@ -189,11 +191,13 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId: 1104547
   start: 2026-10-19T12:30:00Z
   stop: 2026-10-19T14:00:00Z
   title: Mann gesucht, Liebe gefunden
-  subtitle: Spielfilm Deutschland 2003
+  subtitle: Fernsehfilm Deutschland 2003
   episodeUri: crid://onid-1/e/6aa0885a90abaa473ac68d70
   genre:
   - '16'
@@ -201,6 +205,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 1104548
   start: 2026-10-19T14:00:00Z
   stop: 2026-10-19T14:15:00Z
