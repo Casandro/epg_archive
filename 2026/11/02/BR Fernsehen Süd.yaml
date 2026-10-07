@@ -63,7 +63,7 @@
   audiodesc: true
 - eventId: 1512316
   start: 2026-11-02T03:55:00Z
-  stop: 2026-11-02T04:10:00Z
+  stop: 2026-11-02T04:45:00Z
   title: Schwaben + Altbayern
   subtitle: DE
   widescreen: true
@@ -79,7 +79,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1512317
+- eventId:
+  - 1512317
+  - 1548618
   start: 2026-11-02T04:45:00Z
   stop: 2026-11-02T05:00:00Z
   title: Space Night
