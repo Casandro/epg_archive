@@ -1233,7 +1233,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1510911
+- eventId:
+  - 1510911
+  - 1576946
   start: 2026-10-08T10:30:00Z
   stop: 2026-10-08T10:55:00Z
   title: Studio 4
@@ -1296,7 +1298,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 1550635
+- eventId:
+  - 1550635
+  - 1576947
   start: 2026-10-08T11:55:00Z
   stop: 2026-10-08T12:00:00Z
   title: Bez komentara
@@ -1350,7 +1354,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 1550636
+- eventId:
+  - 1550636
+  - 1576948
   start: 2026-10-08T12:55:00Z
   stop: 2026-10-08T13:00:00Z
   title: Bez komentara
@@ -1552,7 +1558,9 @@
   genre:
   - '160'
   description: 'Najveće glazbene streaming platforme krenule su u rat protiv umjetne inteligencije. Spotify je obrisao 75 milijuna pjesama koje je kreirala umjetna inteligencija, Tidal ne dijeli profit sa AI kreatorima, a Bandcamp je zabranio svu prodaju takve glazbe na svojoj platformi. No, je li bitka unaprijed izgubljena? Hoće li AI pojesti skladatelje, odgovara Boris Đurđević, poznat i pod imenom Eric Destler, hrvatski autor i producent te osnivač grupe Colonia. Urednik i voditelj: Željko Kardum'
-- eventId: 1510936
+- eventId:
+  - 1510936
+  - 1576949
   start: 2026-10-08T14:55:00Z
   stop: 2026-10-08T15:03:00Z
   title: 'Studio 4: Kultura'
@@ -1572,6 +1580,7 @@
   - 1561857
   - 1562647
   - 1567837
+  - 1576876
   start: 2026-10-08T15:03:00Z
   stop: 2026-10-08T15:11:00Z
   title: 'Studio 4: Znanost'
@@ -1614,6 +1623,7 @@
   - 1561858
   - 1562648
   - 1567838
+  - 1576877
   start: 2026-10-08T15:11:00Z
   stop: 2026-10-08T15:12:00Z
   title: Vrijeme RH danas
@@ -1650,6 +1660,14 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+- eventId: 1576878
+  start: 2026-10-08T15:13:00Z
+  stop: 2026-10-08T15:15:00Z
+  title: Vrijeme Svijet danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1510944
   - 1550717
@@ -1684,6 +1702,7 @@
   - 1561860
   - 1562650
   - 1567840
+  - 1576879
   start: 2026-10-08T15:15:00Z
   stop: 2026-10-08T15:20:00Z
   title: Bez komentara
@@ -1724,7 +1743,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 1510947
+- eventId:
+  - 1510947
+  - 1576880
   start: 2026-10-08T15:40:00Z
   stop: 2026-10-08T15:45:00Z
   title: Poslovne vijesti
@@ -1733,7 +1754,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 1510948
+- eventId:
+  - 1510948
+  - 1576881
   start: 2026-10-08T15:45:00Z
   stop: 2026-10-08T15:52:00Z
   title: 'Studio 4: Sport'
@@ -1753,6 +1776,7 @@
   - 1561861
   - 1562651
   - 1567841
+  - 1576882
   start: 2026-10-08T15:52:00Z
   stop: 2026-10-08T15:58:00Z
   title: Bez komentara
@@ -2068,6 +2092,14 @@
   genre:
   - '160'
   description: 'Ponovno se razbuktao građanski rat u Etiopiji, snage sa sjevera zemlje ratuju protiv središnje vlasti. Između 2020. i 2022. njihov sukob odnio je stotine tisuća života, a sada se ponovno vode borbe između etničkih skupina. O tome što su korijeni sukoba i zašto se on ponovno pokrenuo, razgovaramo s putopiscem i reporterom Hrvojem Ivančićem koji je izravno svjedočio prethodnom ratu u Etiopiji.  Urednik i voditelj: Danko Družijanić'
+- eventId: 1576883
+  start: 2026-10-08T18:05:00Z
+  stop: 2026-10-08T18:30:00Z
+  title: 'Agenda: Svijet'
+  subtitle: Tjedni vanjskopolitički magazin koji informira, približava i analizira svjetske događaje, procese, izazove i prijetnje.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1510966
   start: 2026-10-08T18:30:00Z
   stop: 2026-10-08T18:57:00Z
@@ -2077,7 +2109,17 @@
   genre:
   - '160'
   description: Pjevamo o plavom Jadranu, no naše je more sve manje plavo. Kanalizacija koju ispuštamo u more, betonizacija, nasipavanje plaža, sve to uništava podmorje i zagađuje more. Ponavljamo grešku koju su napravili Španjolci i Talijani kada su se okrenuli masovnom turizmu, živeći su zabludi da će se priroda sama oporaviti. Da bi se more i život u njemu vratio na staro, trebala proći stotinjak i više godina. U međuvremenu, podmorje je pusto, a smeće koje je završilo u moru, kroz ribu i morske plodove vraćamo natrag u sebe. Profit je važniji od prirode.
-- eventId: 1510967
+- eventId: 1576884
+  start: 2026-10-08T18:30:00Z
+  stop: 2026-10-08T18:57:00Z
+  title: Labirint
+  subtitle: Pjevamo o plavom Jadranu, no naše je more sve manje plavo. Kanalizacija koju ispuštamo u more, betonizacija, nasipavanje plaža, sve to uništava podmorje i zagađuje more.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 1510967
+  - 1576885
   start: 2026-10-08T18:57:00Z
   stop: 2026-10-08T19:00:00Z
   title: Bez komentara
@@ -2095,7 +2137,9 @@
   genre:
   - '160'
   description: U izravnom prijenosu nacionalnog izdanja najprestižnijeg globalnog programa nagrađivanja poduzetnika doznajte tko će među 30 poduzetnika iz 27 kompanija ponijeti titulu jedanaestog hrvatskog poduzetnika godine i predstavljati Hrvatsku na svjetskoj završnici u Monte Carlu.
-- eventId: 1510969
+- eventId:
+  - 1510969
+  - 1576886
   start: 2026-10-08T20:00:00Z
   stop: 2026-10-08T20:45:00Z
   title: Pregled dana
@@ -2113,6 +2157,20 @@
   genre:
   - '160'
   description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
+- eventId: 1576887
+  start: 2026-10-08T20:45:00Z
+  stop: 2026-10-08T21:06:00Z
+  title: Global 3000
+  subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1576861
+  start: 2026-10-08T21:06:00Z
+  stop: 2026-10-08T21:10:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 1510979
   - 1550724
@@ -2147,6 +2205,7 @@
   - 1561867
   - 1562657
   - 1567847
+  - 1576888
   start: 2026-10-08T21:11:00Z
   stop: 2026-10-08T21:20:00Z
   title: Vijesti na engleskom jeziku
@@ -2155,7 +2214,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1510980
+- eventId:
+  - 1510980
+  - 1576889
   start: 2026-10-08T21:20:00Z
   stop: 2026-10-08T21:30:00Z
   title: Vijesti na španjolskom jeziku
@@ -2164,7 +2225,9 @@
   genre:
   - '32'
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 1510981
+- eventId:
+  - 1510981
+  - 1576890
   start: 2026-10-08T21:30:00Z
   stop: 2026-10-08T21:50:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -2182,6 +2245,14 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1576891
+  start: 2026-10-08T21:50:00Z
+  stop: 2026-10-08T21:56:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1550652
   - 1551663
