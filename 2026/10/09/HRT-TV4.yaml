@@ -194,6 +194,7 @@
   - 1577119
   - 1580872
   - 1583095
+  - 1584048
   start: 2026-10-09T00:25:00Z
   stop: 2026-10-09T00:29:00Z
   title: '#REPORTAŽE: Silvio - noževi'
@@ -231,6 +232,7 @@
   - 1577120
   - 1580873
   - 1583096
+  - 1584049
   start: 2026-10-09T00:29:00Z
   stop: 2026-10-09T00:30:00Z
   title: Bez komentara
@@ -415,7 +417,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1538325
   start: 2026-10-09T03:54:00Z
-  stop: 2026-10-09T03:55:00Z
+  stop: 2026-10-09T03:56:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -485,6 +487,7 @@
   - 1577121
   - 1580874
   - 1583097
+  - 1584050
   start: 2026-10-09T03:56:00Z
   stop: 2026-10-09T03:58:00Z
   title: Vrijeme svijet danas
@@ -536,6 +539,7 @@
   - 1577122
   - 1580875
   - 1583098
+  - 1584051
   start: 2026-10-09T03:58:00Z
   stop: 2026-10-09T04:00:00Z
   title: Bez komentara
@@ -677,7 +681,7 @@
   - '160'
 - eventId: 1550664
   start: 2026-10-09T04:56:00Z
-  stop: 2026-10-09T05:00:00Z
+  stop: 2026-10-09T04:58:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -883,14 +887,16 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1538353
   start: 2026-10-09T08:00:00Z
-  stop: 2026-10-09T08:30:00Z
+  stop: 2026-10-09T08:05:00Z
   title: Vijesti
   subtitle: Kratki pregled vijesti iz Hrvatske i svijeta.
   ageRating: 4
   genre:
   - '32'
   description: Kratki pregled vijesti iz Hrvatske i svijeta.
-- eventId: 1583099
+- eventId:
+  - 1583099
+  - 1584052
   start: 2026-10-09T08:05:00Z
   stop: 2026-10-09T08:30:00Z
   title: Sjednica Vlade, prijenos
@@ -907,14 +913,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1538355
   start: 2026-10-09T08:31:00Z
-  stop: 2026-10-09T08:33:00Z
+  stop: 2026-10-09T08:32:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 1583100
+- eventId:
+  - 1583100
+  - 1584053
   start: 2026-10-09T08:32:00Z
   stop: 2026-10-09T08:34:00Z
   title: Vrijeme svijet danas
@@ -932,7 +940,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 1583101
+- eventId:
+  - 1583101
+  - 1584054
   start: 2026-10-09T08:34:00Z
   stop: 2026-10-09T08:41:00Z
   title: 'Studio 4: Sport'
@@ -950,7 +960,9 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 1583102
+- eventId:
+  - 1583102
+  - 1584055
   start: 2026-10-09T08:41:00Z
   stop: 2026-10-09T08:46:00Z
   title: Poslovne vijesti
@@ -982,7 +994,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 1583103
+- eventId:
+  - 1583103
+  - 1584056
   start: 2026-10-09T08:46:00Z
   stop: 2026-10-09T08:55:00Z
   title: 'Studio 4: Znanost'
@@ -1018,6 +1032,7 @@
   - 1577127
   - 1580878
   - 1583104
+  - 1584057
   start: 2026-10-09T08:55:00Z
   stop: 2026-10-09T09:00:00Z
   title: Bez komentara
@@ -1112,7 +1127,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1538369
   start: 2026-10-09T10:20:00Z
-  stop: 2026-10-09T10:30:00Z
+  stop: 2026-10-09T10:28:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -1123,6 +1138,7 @@
   - 1577129
   - 1580879
   - 1583105
+  - 1584058
   start: 2026-10-09T10:28:00Z
   stop: 2026-10-09T10:30:00Z
   title: Bez komentara
@@ -1386,7 +1402,7 @@
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId: 1540393
   start: 2026-10-09T15:03:00Z
-  stop: 2026-10-09T15:11:00Z
+  stop: 2026-10-09T15:12:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
@@ -1415,7 +1431,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1540395
   start: 2026-10-09T15:12:00Z
-  stop: 2026-10-09T15:14:00Z
+  stop: 2026-10-09T15:13:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -1430,7 +1446,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1583106
+- eventId:
+  - 1583106
+  - 1584059
   start: 2026-10-09T15:13:00Z
   stop: 2026-10-09T15:15:00Z
   title: Vrijeme Europa danas
@@ -1455,7 +1473,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1583107
+- eventId:
+  - 1583107
+  - 1584060
   start: 2026-10-09T15:15:00Z
   stop: 2026-10-09T15:17:00Z
   title: Vrijeme svijet danas
@@ -1480,7 +1500,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1583108
+- eventId:
+  - 1583108
+  - 1584061
   start: 2026-10-09T15:17:00Z
   stop: 2026-10-09T15:20:00Z
   title: Bez komentara
@@ -1552,6 +1574,7 @@
   - 1577134
   - 1580880
   - 1583109
+  - 1584062
   start: 2026-10-09T16:20:00Z
   stop: 2026-10-09T16:28:00Z
   title: 'Studio 4: Kultura'
@@ -1578,6 +1601,7 @@
   - 1577135
   - 1580881
   - 1583110
+  - 1584063
   start: 2026-10-09T16:28:00Z
   stop: 2026-10-09T16:30:00Z
   title: Bez komentara
@@ -1736,6 +1760,7 @@
   - 1577136
   - 1580882
   - 1583111
+  - 1584064
   start: 2026-10-09T18:31:00Z
   stop: 2026-10-09T18:55:00Z
   title: Eko zona
@@ -1745,6 +1770,7 @@
   - 1577137
   - 1580883
   - 1583112
+  - 1584065
   start: 2026-10-09T18:55:00Z
   stop: 2026-10-09T19:00:00Z
   title: Bez komentara
@@ -1799,6 +1825,7 @@
   - 1577138
   - 1580884
   - 1583113
+  - 1584066
   start: 2026-10-09T20:44:00Z
   stop: 2026-10-09T21:04:00Z
   title: 'Studio 4: Sportske minute'
@@ -1841,6 +1868,7 @@
   - 1577139
   - 1580885
   - 1583114
+  - 1584067
   start: 2026-10-09T21:04:00Z
   stop: 2026-10-09T21:07:00Z
   title: '#REPORTAŽE: Marke'
@@ -1875,6 +1903,7 @@
   - 1577140
   - 1580886
   - 1583115
+  - 1584068
   start: 2026-10-09T21:07:00Z
   stop: 2026-10-09T21:10:00Z
   title: Bez komentara

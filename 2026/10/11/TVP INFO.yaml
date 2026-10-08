@@ -292,13 +292,22 @@
   - '34'
 - eventId: 1492294
   start: 2026-10-11T06:14:00Z
-  stop: 2026-10-11T06:17:00Z
+  stop: 2026-10-11T06:16:00Z
   title: Prognoza pogody
   description: |
     Tytuł oryginalny: Prognoza pogody
     PL, 2026
   genre:
   - '32'
+- eventId: 1584109
+  start: 2026-10-11T06:16:00Z
+  stop: 2026-10-11T06:30:00Z
+  title: Info Poranek
+  description: |
+    Tytuł oryginalny: Info Poranek
+    PL, 2026
+  genre:
+  - '34'
 - eventId: 1492295
   start: 2026-10-11T06:17:00Z
   stop: 2026-10-11T06:30:00Z
@@ -620,7 +629,7 @@
   - '51'
 - eventId: 1492347
   start: 2026-10-11T18:15:00Z
-  stop: 2026-10-11T20:10:00Z
+  stop: 2026-10-11T20:00:00Z
   title: 'Wieczór wyborczy: Przedterminowe wybory prezydenta Krakowa '
   subtitle: W programie ogłoszone zostaną wstępne wyniki wyborów. Wypowiedzą się zaproszeni do studia eksperci oraz komentatorzy życia politycznego.
   description: |
@@ -628,6 +637,16 @@
     PL, 2026
   genre:
   - '130'
+- eventId: 1584110
+  start: 2026-10-11T20:00:00Z
+  stop: 2026-10-11T21:00:00Z
+  title: Woronicza 17
+  subtitle: Wydanie specjalne dotyczące przedterminowych wyborów prezydenckich w Krakowie - II tura.
+  description: |
+    Tytuł oryginalny: Woronicza 17
+    PL, 2026
+  genre:
+  - '34'
 - eventId: 1492348
   start: 2026-10-11T20:10:00Z
   stop: 2026-10-11T21:00:00Z
@@ -650,13 +669,14 @@
   - '34'
 - eventId: 1492350
   start: 2026-10-11T21:00:00Z
-  stop: 2026-10-11T21:15:00Z
-  title: Wydarzy się jutro
+  stop: 2026-10-11T22:03:00Z
+  title: 'Wieczór wyborczy: Przedterminowe wybory prezydenta Krakowa '
   description: |
     Tytuł oryginalny: Wydarzy się jutro
     PL, 2026
   genre:
   - '34'
+  subtitle: Przedterminowe wybory prezydenta Krakowa w 2026 roku. II tura.
 - eventId: 1492351
   start: 2026-10-11T21:15:00Z
   stop: 2026-10-11T21:30:00Z
