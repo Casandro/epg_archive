@@ -1,4 +1,6 @@
-- eventId: 1564403
+- eventId:
+  - 1564403
+  - 1568099
   start: 2026-10-08T00:00:00Z
   stop: 2026-10-08T04:05:00Z
   title: Napovedujemo
@@ -16,7 +18,7 @@
   - '32'
 - eventId: 1510972
   start: 2026-10-08T04:35:00Z
-  stop: 2026-10-08T04:45:00Z
+  stop: 2026-10-08T04:50:00Z
   title: Kultura
   subtitle: Kultura je kratka aktualna informativna oddaja o kulturi in umetnosti, v kateri se praviloma izpostavljajo osrednji dogodki dneva. V njej najdejo prostor tudi mednarodne novice in problemske teme.
   ageRating: 4
@@ -30,7 +32,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1510973
+- eventId:
+  - 1510973
+  - 1568100
   start: 2026-10-08T04:50:00Z
   stop: 2026-10-08T05:00:00Z
   title: Šport
@@ -96,9 +100,17 @@
   - '160'
 - eventId: 1510997
   start: 2026-10-08T08:35:00Z
-  stop: 2026-10-08T09:00:00Z
+  stop: 2026-10-08T08:55:00Z
   title: Okusi 2 generacij
   subtitle: Gaber se sprehaja po gozdu in nabira jesenske plodove, Primož pa doma že kuha krompir za pripravo njokov, ki bodo danes na jedilniku tako kuhani kot pečeni.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1568101
+  start: 2026-10-08T08:55:00Z
+  stop: 2026-10-08T09:15:00Z
+  title: Televizijsko prodajno okno
+  subtitle: TV izložba.
   ageRating: 4
   genre:
   - '160'
@@ -112,10 +124,18 @@
   - '160'
 - eventId: 1511013
   start: 2026-10-08T09:15:00Z
-  stop: 2026-10-08T09:50:00Z
+  stop: 2026-10-08T09:45:00Z
   title: Vem!
   subtitle: V zabavnem kvizu trije tekmovalci odgovarjajo na enostavna vprašanja. Rešitev je zmeraj črka, ki se izpiše v križanki. Naslednja naloga je rešiti gesla v tej skrivnostni križanki. Tekmovalci lahko v...
   ageRating: 4
+- eventId: 1568102
+  start: 2026-10-08T09:45:00Z
+  stop: 2026-10-08T10:00:00Z
+  title: Televizijsko prodajno okno
+  subtitle: TV izložba.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1511014
   start: 2026-10-08T09:50:00Z
   stop: 2026-10-08T10:00:00Z
@@ -356,7 +376,7 @@
   start: 2026-10-08T21:05:00Z
   stop: 2026-10-08T21:40:00Z
   title: Opus
-  subtitle: Oddaja Opus je monotematska oddaja, posvečena resni glasbi, baletu in operi.
+  subtitle: Oddajo Opus, ki jo je do zdaj pripravljala Darja Korez Korenčan, so po njeni upokojitvi prevzeli njeni kolegi v uredništvu.
   ageRating: 4
   genre:
   - '160'

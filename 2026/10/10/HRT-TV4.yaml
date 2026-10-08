@@ -252,7 +252,7 @@
   - '128'
 - eventId: 1562698
   start: 2026-10-10T04:56:00Z
-  stop: 2026-10-10T04:58:00Z
+  stop: 2026-10-10T05:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -310,8 +310,11 @@
   start: 2026-10-10T05:24:00Z
   stop: 2026-10-10T05:26:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 1564049
   start: 2026-10-10T05:25:00Z
   stop: 2026-10-10T05:30:00Z
@@ -326,8 +329,11 @@
   start: 2026-10-10T05:26:00Z
   stop: 2026-10-10T05:30:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1562706
   start: 2026-10-10T05:30:00Z
   stop: 2026-10-10T05:55:00Z
@@ -757,24 +763,33 @@
   start: 2026-10-10T14:22:00Z
   stop: 2026-10-10T14:23:00Z
   title: Vrijeme RH danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1562754
   - 1567863
   start: 2026-10-10T14:23:00Z
   stop: 2026-10-10T14:24:00Z
   title: Vrijeme Europa danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1562755
   - 1567864
   start: 2026-10-10T14:24:00Z
   stop: 2026-10-10T14:26:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 1564404
   start: 2026-10-10T14:25:00Z
   stop: 2026-10-10T14:26:00Z
@@ -836,9 +851,17 @@
   - '160'
 - eventId: 1564408
   start: 2026-10-10T16:20:00Z
-  stop: 2026-10-10T16:27:00Z
+  stop: 2026-10-10T16:26:00Z
   title: '#REPORTAŽE'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1568139
+  start: 2026-10-10T16:26:00Z
+  stop: 2026-10-10T16:30:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
@@ -852,12 +875,20 @@
   - '160'
 - eventId: 1564410
   start: 2026-10-10T16:30:00Z
-  stop: 2026-10-10T16:50:00Z
+  stop: 2026-10-10T16:49:00Z
   title: Regionalni dnevnik
   subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
   ageRating: 4
   genre:
   - '32'
+- eventId: 1568140
+  start: 2026-10-10T16:49:00Z
+  stop: 2026-10-10T16:53:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1564411
   start: 2026-10-10T16:50:00Z
   stop: 2026-10-10T16:53:00Z
@@ -876,9 +907,17 @@
   - '32'
 - eventId: 1564413
   start: 2026-10-10T16:54:00Z
-  stop: 2026-10-10T16:56:00Z
+  stop: 2026-10-10T16:55:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 1568141
+  start: 2026-10-10T16:55:00Z
+  stop: 2026-10-10T17:00:00Z
+  title: Vrijeme Svijet sutra
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
@@ -908,9 +947,17 @@
   - '32'
 - eventId: 1564417
   start: 2026-10-10T17:54:00Z
-  stop: 2026-10-10T17:56:00Z
+  stop: 2026-10-10T17:55:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 1568142
+  start: 2026-10-10T17:55:00Z
+  stop: 2026-10-10T17:59:00Z
+  title: Vrijeme Svijet sutra
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
@@ -932,9 +979,17 @@
   - '160'
 - eventId: 1564420
   start: 2026-10-10T18:00:00Z
-  stop: 2026-10-10T18:05:00Z
+  stop: 2026-10-10T18:03:00Z
   title: '#REPORTAŽE'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1568144
+  start: 2026-10-10T18:03:00Z
+  stop: 2026-10-10T18:05:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
@@ -956,7 +1011,7 @@
   - '160'
 - eventId: 1564423
   start: 2026-10-10T19:00:00Z
-  stop: 2026-10-10T19:01:00Z
+  stop: 2026-10-10T19:45:00Z
   title: Pregled dana
   subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -972,9 +1027,17 @@
   - '160'
 - eventId: 1564425
   start: 2026-10-10T19:45:00Z
-  stop: 2026-10-10T20:15:00Z
+  stop: 2026-10-10T20:11:00Z
   title: Veterani mira
   subtitle: Tjedna emisija, u razgovoru u studiju i reportažama rasvjetljava i nastoji riješiti probleme s kojima se susreću branitelji te senzibilizirati javnost.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1568145
+  start: 2026-10-10T20:11:00Z
+  stop: 2026-10-10T20:15:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
@@ -988,9 +1051,17 @@
   - '128'
 - eventId: 1564427
   start: 2026-10-10T20:42:00Z
-  stop: 2026-10-10T20:45:00Z
+  stop: 2026-10-10T20:44:00Z
   title: HRT100 Vremeplov
   subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1568146
+  start: 2026-10-10T20:44:00Z
+  stop: 2026-10-10T21:04:00Z
+  title: 'Studio 4: U fokusu'
+  subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
   ageRating: 4
   genre:
   - '160'
@@ -1002,11 +1073,27 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1568148
+  start: 2026-10-10T21:04:00Z
+  stop: 2026-10-10T21:07:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1564429
   start: 2026-10-10T21:05:00Z
   stop: 2026-10-10T21:10:00Z
   title: '#REPORTAŽE'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1568149
+  start: 2026-10-10T21:07:00Z
+  stop: 2026-10-10T21:10:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
@@ -1036,9 +1123,17 @@
   - '160'
 - eventId: 1564433
   start: 2026-10-10T21:50:00Z
-  stop: 2026-10-10T21:57:00Z
+  stop: 2026-10-10T21:55:00Z
   title: '#REPORTAŽE'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1568150
+  start: 2026-10-10T21:55:00Z
+  stop: 2026-10-10T22:00:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
