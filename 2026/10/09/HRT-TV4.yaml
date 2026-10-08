@@ -147,6 +147,7 @@
   - 1576893
   - 1577248
   - 1577633
+  - 1578076
   start: 2026-10-09T00:24:00Z
   stop: 2026-10-09T00:27:00Z
   title: '#REPORTAŽE'
@@ -204,6 +205,7 @@
   - 1576894
   - 1577249
   - 1577634
+  - 1578077
   start: 2026-10-09T00:27:00Z
   stop: 2026-10-09T00:30:00Z
   title: Bez komentara
@@ -427,6 +429,7 @@
   - 1576895
   - 1577250
   - 1577635
+  - 1578078
   start: 2026-10-09T03:55:00Z
   stop: 2026-10-09T03:57:00Z
   title: Vrijeme Svijet danas
@@ -477,6 +480,7 @@
   - 1576896
   - 1577251
   - 1577636
+  - 1578079
   start: 2026-10-09T03:57:00Z
   stop: 2026-10-09T04:00:00Z
   title: Bez komentara
@@ -895,6 +899,7 @@
   - 1538358
   - 1577252
   - 1577637
+  - 1578080
   start: 2026-10-09T08:45:00Z
   stop: 2026-10-09T08:50:00Z
   title: Poslovne vijesti
@@ -913,6 +918,7 @@
   - 1538359
   - 1577253
   - 1577638
+  - 1578081
   start: 2026-10-09T08:50:00Z
   stop: 2026-10-09T09:00:00Z
   title: 'Studio 4: Znanost'
@@ -1401,7 +1407,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1538412
   start: 2026-10-09T16:00:00Z
-  stop: 2026-10-09T16:20:00Z
+  stop: 2026-10-09T16:22:00Z
   title: 'Studio 4: Sportske minute'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
@@ -1418,6 +1424,7 @@
   - 1538413
   - 1577254
   - 1577639
+  - 1578082
   start: 2026-10-09T16:22:00Z
   stop: 2026-10-09T16:30:00Z
   title: 'Studio 4: Kultura'
@@ -1555,7 +1562,9 @@
   genre:
   - '160'
   description: Tjedna emisija namijenjena potrošačima. Otkriva probleme s kojima se svakodnevno susreću pri kupnji robe i usluga, donosi savjete i upute.
-- eventId: 1538426
+- eventId:
+  - 1538426
+  - 1578083
   start: 2026-10-09T18:30:00Z
   stop: 2026-10-09T18:57:00Z
   title: Eko zona
@@ -1590,6 +1599,7 @@
   - 1538427
   - 1577256
   - 1577641
+  - 1578084
   start: 2026-10-09T18:57:00Z
   stop: 2026-10-09T19:00:00Z
   title: Bez komentara
@@ -1618,7 +1628,7 @@
   description: Skupina Magazin obilježila je 40 godina od objave kultnog albuma "Put putujem" velikim koncertom punim poznatih lica. Legendarni Michael Douglas objavio je biografiju, holivudska ikona Greta Garbo pojavila se u reklami koja je izazvala veliku pozornost iz posve pogrešnih razloga, a Sarah Jessica Parker proglašena je - baletnom junakinjom. Donosimo i sve o novim filmovima "The Social Reckoning", "Behemoth!" i "Druga mama"!
 - eventId: 1538430
   start: 2026-10-09T20:15:00Z
-  stop: 2026-10-09T20:44:00Z
+  stop: 2026-10-09T20:45:00Z
   title: Priče iz Hrvatske
   subtitle: Emisija donosi priloge o ljudima, njihovim interesima, podvizima i inspirativnim životnim trenucima. Kroz intimne i poticajne priče otkriva bogatstvo svakodnevice koje se često izgubi u buci dana.
   ageRating: 4
@@ -1650,6 +1660,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1578085
+  start: 2026-10-09T20:45:00Z
+  stop: 2026-10-09T21:05:00Z
+  title: Sportske minute
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1577139
   start: 2026-10-09T21:04:00Z
   stop: 2026-10-09T21:07:00Z
@@ -1668,6 +1686,7 @@
 - eventId:
   - 1577258
   - 1577643
+  - 1578086
   start: 2026-10-09T21:05:00Z
   stop: 2026-10-09T21:08:00Z
   title: '#REPORTAŽE'
@@ -1685,6 +1704,7 @@
   - 1540401
   - 1577259
   - 1577644
+  - 1578087
   start: 2026-10-09T21:08:00Z
   stop: 2026-10-09T21:10:00Z
   title: Bez komentara
