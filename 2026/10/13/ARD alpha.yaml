@@ -42,14 +42,15 @@
 - eventId: 1132143
   start: 2026-10-13T04:00:00Z
   stop: 2026-10-13T04:30:00Z
-  title: Fast Track English
-  subtitle: The Latest Style
+  title: TELEKOLLEG Englisch (23/26)
+  subtitle: 'Fast Track English: The latest style'
   description: Der Sprachkurs "Fast Track English" bietet die Möglichkeit, vorhandene Englischkenntnisse aufzufrischen und zu vertiefen. Die einzelnen Folgen sind rein englischsprachig. Die Begleitbücher geben aber deutschsprachige Hinweise und Anleitungen. Die Filme wurden an Originalschauplätzen in England gedreht. Es wird alltägliches Englisch gesprochen. Dabei wechseln individuelle Akzente und das Sprechtempo der native speakers, Engländerinnen und Engländer in ihrer normalen Umgebung. Es kann sein, dass der Sprachstudent zunächst nicht alles auf Anhieb versteht.
 - eventId: 1132144
   start: 2026-10-13T04:30:00Z
   stop: 2026-10-13T05:00:00Z
   title: TELEKOLLEG Französisch (13/39)
   subtitle: Bon Courage
+  description: Die Lebenswege der Menschen unterscheiden sich ganz erheblich. Oft stehen unvorhersehbare Hürden einer geradlinigen Schulausbildung im Wege. Aber eine fundierte Ausbildung ist als solide Basis für ein erfülltes Berufsleben wichtig. Das Telekolleg eröffnet Ihnen die Möglichkeit, Wissen aufzufrischen oder staatlich anerkannte Schulabschlüsse nachzuholen - auch später und neben Job und Familie.
 - eventId: 1132145
   start: 2026-10-13T05:00:00Z
   stop: 2026-10-13T05:30:00Z
@@ -60,7 +61,7 @@
 - eventId: 1132146
   start: 2026-10-13T05:30:00Z
   stop: 2026-10-13T05:55:00Z
-  title: Willi wills wissen
+  title: Willi wills wissen (125)
   subtitle: Wie sieht die Welt im Weltraum aus?
   subtitled: true
   description: |-
@@ -78,15 +79,21 @@
 - eventId: 1132175
   start: 2026-10-13T06:00:00Z
   stop: 2026-10-13T06:30:00Z
-  title: TELEKOLLEG Physik - Elektrizität
+  title: TELEKOLLEG Physik - Elektrizität (21)
   subtitle: Kraft auf bewegte Ladung
+  description: |-
+    Fachinformation zum Unterrichtsfach Physik innerhalb des Telekollegs.
+
+    Das magnetische Feld eines elektrischen Leiters haben Sie bereits kennengelernt. Jetzt geht es um den Einfluss des äußeren Magnetfelds auf einen stromdurchflossenen Leiter beziehungsweise einen Strahl von Ladungen.
 - eventId: 1132176
   start: 2026-10-13T06:30:00Z
   stop: 2026-10-13T06:45:00Z
-  title: Tele-Gym - 7
+  title: Tele-Gym (7/8)
   subtitle: Schlank, Fit & Gesund
   subtitled: true
   description: "Ein flacher Bauch, ein knackiger Po und straffe Beine - die Fitness-Expertin Nina Winkler hat dafür nach neuen sportwissenschaftlichen Erkenntnissen die besten Übungen zusammengestellt. \nDie acht intensiven Übungseinheiten trainieren nicht nur die Muskeln, sondern heizen gleichzeitig den Stoffwechsel und die Fettverbrennung an. Dabei schmelzen die Pölsterchen, und Bauch, Beine und Po werden intensiv in Form gebracht.\nDas Training ist für jede Altersgruppe geeignet, da die Übungen in unterschiedlichen Schwierigkeitsstufen gezeigt werden."
+  genre:
+  - '144'
 - eventId: 1132177
   start: 2026-10-13T06:45:00Z
   stop: 2026-10-13T08:00:00Z
@@ -117,10 +124,18 @@
   start: 2026-10-13T08:30:00Z
   stop: 2026-10-13T09:00:00Z
   title: aktiv und gesund
-  subtitle: Ernährungsmythen / Hüftgelenkluxation / Muskelaufbau im Alter
+  subtitle: Gelenkersatz - wann? / Roboter in der Pflege / Unfallrisiko Smartphone
   subtitled: true
   genre:
   - '144'
+  description: |-
+    Themen u.a.:
+    * Smartphone-Nutzung im Straßenverkehr führt zu massivem Anstieg des Unfallrisikos
+    * Gelenkersatz - wann?
+    * Roboter in der Pflege
+    * Rumpf-Übung "Superman": mit Sporttherapeut Stephan Müller
+    * Bunte Bete: mit Koch Daniel Bocholt
+    * Gleitschirm-Tour
 - eventId: 1132204
   start: 2026-10-13T09:00:00Z
   stop: 2026-10-13T09:45:00Z
@@ -133,6 +148,8 @@
   title: Hannah Arendt - Das Mädchen aus der Fremde
   subtitle: Paria und Parvenu
   description: Die fünfteilige Serie über Hannah Arendt zeigt ihr Leben, angelehnt an ihre Werke, ihre bedeutenden Beziehungen und Freundschaften, die gleichzeitig auch immer Reflektoren ihrer Arbeiten waren. Die Folgen setzen sich aus inszenierten Sequenzen und dokumentarischen Teilen zusammen. Der rege Briefwechsel Hannah Arendts mit Freunden und Kollegen wird als Gespräche in einem Raum à la "Dogville" mit Schauspielern dargestellt. Das Interview "Zur Person", das Günter Gaus 1964 mit Hannah Arendt geführt hat, ist Selbstzeugnis und Dokument zugleich und wird als immer wiederkehrendes Element in jede Folge thematisch eingebunden.
+  genre:
+  - '112'
 - eventId: 1132206
   start: 2026-10-13T10:05:00Z
   stop: 2026-10-13T11:00:00Z
@@ -142,15 +159,21 @@
 - eventId: 1132207
   start: 2026-10-13T11:00:00Z
   stop: 2026-10-13T11:15:00Z
-  title: Tele-Gym (6)
+  title: Tele-Gym (6/8)
   subtitle: Yoga-Pilates-50plus
   description: 'Überall auf Straßen, Wiesen und Feldern sieht man sie im schnellen Schritt: die Nordic Walker. Jetzt zeigt TELE-GYM, wie man diese Sportart abwechslungsreich gestalten und sich damit optimal auf den Wintersport vorbereiten kann. Nordic Walking wurde ursprünglich als Sommertraining für Skilangläufer entwickelt. Es ist das perfekte Ganzkörpertraining für jedermann, da 90% aller Muskeln im Einsatz sind. Das Übungsprogramm ist in Zusammenarbeit mit dem Deutschen Skiverband aus dem Nordic-Walking-Sport heraus entwickelt worden.'
+  genre:
+  - '144'
+  subtitled: true
 - eventId: 1132208
   start: 2026-10-13T11:15:00Z
   stop: 2026-10-13T11:30:00Z
-  title: Tele-Gym (1)
+  title: Tele-Gym (1/10)
   subtitle: Aktiv & beweglich mit 60+
   description: "TELE-GYM aktiv & beweglich mit 60+\nmit Gabi Fastner\n\nZwanzig Jahre 50 bleiben! Mit diesem Training schaffen Sie das! \nBewegung ist die beste Möglichkeit, ein gesundes und selbständiges Leben bis ins hohe Alter zu führen. Ohne Bewegung lassen wichtige Funktionen nach, die Muskeln werden schwächer, die Gelenke unbeweglicher, das Gleichgewicht schwindet. Unser Körper erhält nur die Funktionen, die er auch nutzt und im Alltag braucht! Schuld ist also nicht allein der Alterungsprozess, sondern auch wie die körperlichen Fähigkeiten trainiert werden."
+  genre:
+  - '144'
+  subtitled: true
 - eventId: 1132209
   start: 2026-10-13T11:30:00Z
   stop: 2026-10-13T12:00:00Z
@@ -171,6 +194,7 @@
   stop: 2026-10-13T12:45:00Z
   title: Die Frage
   subtitle: 'Brustverkleinerung: Wie geht es Kerstin 5 Jahre später?'
+  description: 'Es gibt diese großen, kniffligen Fragen, auf die es keine einfachen Antworten gibt: Warum mobben wir? Saufen wir zu viel? Oder: Was machen Pornos mit uns? Uns interessieren Fragen, die uns allen wichtig sind und oft nur oberflächlich diskutiert werden. Wir suchen Antworten auf diese Fragen, Woche für Woche - offen und unabhängig. Mit jedem Video - aber erst recht in den Diskussionen mit euch - kommen wir einer Antwort auf die Fragen aber ein Stück näher.'
 - eventId: 1131978
   start: 2026-10-13T12:45:00Z
   stop: 2026-10-13T13:15:00Z
@@ -189,9 +213,10 @@
 - eventId: 1131980
   start: 2026-10-13T14:00:00Z
   stop: 2026-10-13T14:30:00Z
-  title: Gut zu wissen
+  title: Die Rettung der Wälder - Wie schützen wir sie vor kommenden Dürren?
   subtitle: Die Rettung der Wälder - Wie schützen wir sie vor kommenden
   subtitled: true
+  description: "\"Wir müssen jetzt den Wald für die kommenden Generationen pflanzen\". Ludwig Pertl hat eine Mission. Der ehemalige Revierförster im oberbayerischen Kaufering will die Wälder der umliegenden Gemeinden widerstandsfähig gegen den Klimawandel machen. \nSein Plan: Statt der Fichte Laubbäume zu pflanzen. Seine Favoriten sind Ahorn, Wildapfel und Hainbuche. Keine Rotbuche, denn auch die hält er für ein Auslaufmodell."
 - eventId: 1131981
   start: 2026-10-13T14:30:00Z
   stop: 2026-10-13T14:45:00Z
@@ -210,7 +235,9 @@
   title: Expedition in die Heimat
   subtitle: Ganz schön im Wandel - Traben-Trarbach an der Mosel
   subtitled: true
-  description: "Ihren immensen finanziellen Erfolg ließen viele Weinhändler in Stein meißeln, auf einzigartige und damals sehr moderne Art: im Jugendstil. Anna Lena besucht und bestaunt so wundervolle wie ungewöhnliche Prachtvillen und Kellereigebäude, die allesamt der Architekt Bruno Möhring entwarf. Er war verantwortlich für die einzigartige Architektur, die immer noch den Charme Traben-Trarbachs ausmacht. \n\nInzwischen ist es ein zwar großartiges, aber auch schweres Erbe, mit dem die Doppelstadt heute mehr denn je zu kämpfen hat. Traben-Trarbach hat viel vor, vieles ist in Bewegung, vieles muss sich wandeln."
+  description: |-
+    Ein kleiner Ort an der Mittelmosel, der mal fast ein Weltstädtchen war - Anna Lena Dörrs Expedition nach Traben-Trarbach ist auch eine Zeitreise: Um 1900 war die Doppelstadt das größte Weinhandelszentrum im Deutschen Kaiserreich. Der Traben-Trabacher Moselriesling hatte Weltruf. Ihren immensen finanziellen Erfolg ließen viele Weinhändler in Stein meißeln, auf einzigartige und damals sehr moderne Art: im Jugendstil.
+    Und der Wein? Mit Markus Müllen vom "klitzekleinen Ring" erlebt Anna Lena Dörr auf dem wieder aufgeforsteten Trarbacher Hühnerberg hautnah, warum man als Moselwinzer schwindelfrei sein muss.
 - eventId: 1132016
   start: 2026-10-13T16:15:00Z
   stop: 2026-10-13T16:45:00Z
@@ -260,11 +287,17 @@
     Man ist so alt, wie man sich fühlt - Phrase oder Wirklichkeit? Damit beschäftigt sich diese "ARD Wissen"-Dokumentation und geht dabei der Frage nach, inwieweit der Alterungsprozess beeinflusst werden kann und welche Faktoren eine Rolle spielen. Dabei nähert sie sich dem Thema aus unterschiedlichen Perspektiven. Denn Fakt ist: Jeder Mensch altert anders.
 
     Wie können wir unser biologisches Alter beeinflussen? Die Kölnerin Beatrice nimmt an einem "Verjüngungsprojekt" teil. Für drei Monate absolviert sie ein professionelles Sportprogramm und stellt ihre Ernährung um.
+  genre:
+  - '144'
 - eventId: 1132056
   start: 2026-10-13T19:45:00Z
   stop: 2026-10-13T20:15:00Z
   title: Werden wir ewig leben?
   description: 'Für Alternsforscherin Andrea Maier ist es eine aufregende Zeit: "In den nächsten zehn Jahren werden wir in der Lage sein zu zeigen, ob wir die Lebensspanne des Menschen um 10 oder auch um 20 Jahre verlängern können." In Singapur leitet Maier Versuchsreihen mit bereits zugelassenen Medikamenten. Weltweit werden derzeit rund 20 Wirkstoffe getestet, die eigentlich gegen Krankheiten wie etwa Diabetes oder Krebs eingesetzt werden, die aber auch das Altern erheblich beeinflussen könnten. Untersucht werden müssen etwa die genaue Dosierung und langfristige Nebenwirkungen.'
+  subtitle: Deutschland 2022
+  ageRating: 12
+  genre:
+  - '144'
 - eventId: 1132057
   start: 2026-10-13T20:15:00Z
   stop: 2026-10-13T21:00:00Z
