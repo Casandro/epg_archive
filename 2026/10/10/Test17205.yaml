@@ -141,7 +141,7 @@
   hd: true
 - eventId: 1556090
   start: 2026-10-10T04:25:00Z
-  stop: 2026-10-10T04:40:00Z
+  stop: 2026-10-10T05:00:00Z
   title: Couleurs locales
   description: (Rediffusion)
   genre:
@@ -160,7 +160,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1443534
+- eventId:
+  - 1443534
+  - 1580557
   start: 2026-10-10T05:00:00Z
   stop: 2026-10-10T05:50:00Z
   title: RTS Info
@@ -233,8 +235,27 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1580558
+  start: 2026-10-10T09:50:00Z
+  stop: 2026-10-10T10:00:00Z
+  title: Adrénaline
+  subtitle: Magazine de sports extrêmes
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1447660
   start: 2026-10-10T10:00:00Z
+  stop: 2026-10-10T10:20:00Z
+  title: Couleurs locales
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1580559
+  start: 2026-10-10T10:05:00Z
   stop: 2026-10-10T10:20:00Z
   title: Couleurs locales
   genre:
@@ -359,6 +380,25 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1580560
+  start: 2026-10-10T19:56:00Z
+  stop: 2026-10-10T19:57:00Z
+  title: Zap RTS Sport
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1580561
+  start: 2026-10-10T19:57:00Z
+  stop: 2026-10-10T20:45:00Z
+  title: Documentaires
+  description: '(Inédit) L''été de la Nati ''25 Doc Portrait  L''été de la Nati ''25 suit l''équipe nationale féminine suisse durant l''été 2025, alors que le pays accueille l''Euro de football féminin. Le documentaire plonge dans les coulisses de l''équipe jouant à domicile : les doutes, la pression, les moments intimes et les émotions qui unissent les joueuses. Au-delà du sport, le film capture comment cet événement a créé un lien unique entre l''équipe et tout un pays, marquant un tournant pour le football féminin suisse. (Suisse-2026)'
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1508245
   start: 2026-10-10T20:35:00Z
   stop: 2026-10-10T21:15:00Z
@@ -381,8 +421,30 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1580562
+  start: 2026-10-10T20:45:00Z
+  stop: 2026-10-10T21:25:00Z
+  title: Documentaires
+  description: |-
+    Je t'aime Astral Doc Portrait Avec Je t'aime astral, Slash plonge au c_ur d'un phénomène en pleine explosion : l'astrolove. Compatibilités amoureuses par signes astrologiques, dating astral, astrologues stars des réseaux sociaux, applications de rencontre spécialisées, podcasts, comptes TikTok et business de l'astro... l'astrologie est devenue un véritable marché émotionnel et un nouveau langage sentimental
+     (France-2025)
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1508246
   start: 2026-10-10T21:15:00Z
+  stop: 2026-10-10T22:15:00Z
+  title: Documentaires
+  description: Kim K theory  Doc Portrait  Kim Kardashian incarne, à elle seule, toute notre époque. C'est un personnage social total. L'analyser c'est donc parler de nous, de notre rapport aux réseaux sociaux, au capitalisme, aux normes esthétiques. En croisant le regard des journalistes Nesrine Slaoui et Guillaume Erner, ce film propose une théorie dans l'air du temps traversée par les questions raciales et de genre. (France-2023)
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1580563
+  start: 2026-10-10T21:25:00Z
   stop: 2026-10-10T22:15:00Z
   title: Documentaires
   description: Kim K theory  Doc Portrait  Kim Kardashian incarne, à elle seule, toute notre époque. C'est un personnage social total. L'analyser c'est donc parler de nous, de notre rapport aux réseaux sociaux, au capitalisme, aux normes esthétiques. En croisant le regard des journalistes Nesrine Slaoui et Guillaume Erner, ce film propose une théorie dans l'air du temps traversée par les questions raciales et de genre. (France-2023)
@@ -404,6 +466,17 @@
   hd: true
 - eventId: 1508247
   start: 2026-10-10T22:15:00Z
+  stop: 2026-10-10T23:10:00Z
+  title: Documentaires
+  description: Les dents de la mer, un succès-monstre Doc Portrait ll y a un avant et un après Les Dents de la mer. Pour Spielberg, mais aussi pour le cinéma américain tout entier. Chef-d'_uvre en grande partie improvisé, le film est un monstrueux accident industriel. Avec son tournage en pleine mer, son requin mécanique défaillant et son réalisateur inexpérimenté, cette série B au budget devenu fou était bien partie pour être une catastrophe (France-2024)
+  ageRating: 10
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1580564
+  start: 2026-10-10T22:20:00Z
   stop: 2026-10-10T23:10:00Z
   title: Documentaires
   description: Les dents de la mer, un succès-monstre Doc Portrait ll y a un avant et un après Les Dents de la mer. Pour Spielberg, mais aussi pour le cinéma américain tout entier. Chef-d'_uvre en grande partie improvisé, le film est un monstrueux accident industriel. Avec son tournage en pleine mer, son requin mécanique défaillant et son réalisateur inexpérimenté, cette série B au budget devenu fou était bien partie pour être une catastrophe (France-2024)
@@ -446,6 +519,16 @@
 - eventId: 1508249
   start: 2026-10-10T23:40:00Z
   stop: 2026-10-11T03:55:00Z
+  title: 19h30 - Signé
+  description: (Rediffusion)  "Langue des signes"
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1580565
+  start: 2026-10-10T23:45:00Z
+  stop: 2026-10-11T00:15:00Z
   title: 19h30 - Signé
   description: (Rediffusion)  "Langue des signes"
   genre:
