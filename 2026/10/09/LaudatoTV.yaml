@@ -138,7 +138,7 @@
   - '160'
 - eventId: 1440529
   start: 2026-10-09T05:45:00Z
-  stop: 2026-10-09T05:54:00Z
+  stop: 2026-10-09T05:55:00Z
   title: Pod smokvom
   subtitle: YouTube kanal Pod Smokvom svakodnevno donosi Evanđelje dana s razmatranjem svećenika, koji brojnim pratiteljima pomaže u duhovnom životu.
   ageRating: 4
@@ -160,6 +160,7 @@
   - 1440530
   - 1581307
   - 1585426
+  - 1586398
   start: 2026-10-09T05:55:00Z
   stop: 2026-10-09T06:00:00Z
   title: Katolički kalendar
@@ -167,7 +168,7 @@
   description: Katolički kalendar' emisija je informativno-edukativnog karaktera, kojoj je cilj gledateljima kroz riječ i sliku približiti svetice, svetce, blaženice i blaženike Katoličke Crkve, te određene blagdane i liturgijsko vrijeme.
 - eventId: 1440540
   start: 2026-10-09T06:00:00Z
-  stop: 2026-10-09T06:03:00Z
+  stop: 2026-10-09T06:04:00Z
   title: Mali katekizam, Mali katekizam
   subtitle: U ovom nastavku Malog katekizma saznat ćemo što su znamenja.
   description: U ovom nastavku Malog katekizma saznat ćemo što su znamenja.
@@ -191,6 +192,12 @@
   title: Superknjiga
   subtitle: Animirani
   description: Ela ima problema s djeljenjem posla oko školskog projekta s naizgled neprijateljskom i natjecateljskom učenicom. Međutim, kad Superknjiga odvede naš trio natrag u vrijeme pada Jerihona gdje Ela upoznaje Rahabu, ona počinje shvaćati da se ljudi mogu promjeniti i da oni koji su bili protivnici mogu postati suradnici koji će raditi s tobom za veće dobro.
+- eventId: 1586400
+  start: 2026-10-09T06:04:00Z
+  stop: 2026-10-09T06:31:00Z
+  title: Superknjiga
+  subtitle: Animirani
+  description: Ela ima problema s djeljenjem posla oko školskog projekta s naizgled neprijateljskom i natjecateljskom učenicom. Međutim, kad Superknjiga odvede naš trio natrag u vrijeme pada Jerihona gdje Ela upoznaje Rahabu, ona počinje shvaćati da se ljudi mogu promjeniti i da oni koji su bili protivnici mogu postati suradnici koji će raditi s tobom za veće dobro.
 - eventId: 1440542
   start: 2026-10-09T06:30:00Z
   stop: 2026-10-09T07:00:00Z
@@ -207,7 +214,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1585428
+- eventId:
+  - 1585428
+  - 1586401
   start: 2026-10-09T06:31:00Z
   stop: 2026-10-09T07:00:00Z
   title: Moje vrijeme s Isusom, My time with Jesus
@@ -230,7 +239,7 @@
   - '32'
 - eventId: 1440545
   start: 2026-10-09T07:20:00Z
-  stop: 2026-10-09T08:04:00Z
+  stop: 2026-10-09T08:05:00Z
   title: Dudo i prijatelji, talk-show
   subtitle: Dubravko Šimenc - Dudo predstavlja mlade i talentirane hrvatske sportaše te razgovara s onima koji su ispisali i dalje pišu velike stranice hrvatske i svjetske sportske povijesti.
   ageRating: 4
@@ -259,7 +268,9 @@
   title: Susret u riječi
   subtitle: Religijski
   description: U novoj emisiji ugošćujemo istaknutog povjesničara dr. sc. Trpimira Vedriša, profesora na Odsjeku za povijest Filozofskog fakulteta u Zagrebu. Ovaj rođeni Zagrepčanin diplomirao je povijest i etnologiju, a doktorat je stekao na Srednjoeuropskom sveučilištu u Budimpešti. U svom znanstvenom radu primarno se bavi poviješću kršćanstva te hrvatskim srednjovjekovljem. Autor je brojnih znanstvenih radova i suurednik zapaženih zbornika o kultovima svetaca
-- eventId: 1585429
+- eventId:
+  - 1585429
+  - 1586402
   start: 2026-10-09T08:05:00Z
   stop: 2026-10-09T08:52:00Z
   title: Susret u riječi
@@ -282,7 +293,7 @@
   - '160'
 - eventId: 1440555
   start: 2026-10-09T10:00:00Z
-  stop: 2026-10-09T10:02:00Z
+  stop: 2026-10-09T10:03:00Z
   title: Anđeo Gospodnji
   subtitle: Moliti znači razgovarati s Bogom. Zajedno uz program Laudato TV dodatno osnažite vezu sa svojim Ocem.
   ageRating: 4
@@ -299,6 +310,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1586404
+  start: 2026-10-09T10:03:00Z
+  stop: 2026-10-09T10:55:00Z
+  title: In Familia Dei
+  subtitle: Religijski
+  description: Eda i Marijan Šafarić već 42 godine grade svoju zajedničku priču, a posebno mjesto u njihovim srcima zauzima Srce Isusovo, kojemu su kroz život ostali duboko privrženi. Što im je u svim tim godinama bilo najteže, a što najljepše? Koji su trenuci ostali zauvijek urezani u njihova srca i što im je davalo snagu da zajedno prolaze kroz sve životne izazove? Upoznajte obitelj Šafarić i njihovu priču o ljubavi, vjeri i zajedništvu koje traje.
 - eventId:
   - 1538602
   - 1546419
@@ -313,7 +330,7 @@
   - '160'
 - eventId: 1552715
   start: 2026-10-09T10:55:00Z
-  stop: 2026-10-09T11:20:00Z
+  stop: 2026-10-09T11:21:00Z
   title: Iz srca Majke Angelice
   subtitle: 'U ovoj emisija majka Angelica govorit će o više tema. Najprije o tome što znači biti izabran. Kaže: "Svi znamo da smo izabrani. Nismo uvijek svjesni toga izbora.'
   ageRating: 4
@@ -348,6 +365,10 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1586405
+  start: 2026-10-09T11:21:00Z
+  stop: 2026-10-09T11:38:00Z
+  title: Stihom kroz dušu - Svjetlost je tvoja sjena, Stihom kroz dušu
 - eventId: 1440558
   start: 2026-10-09T11:35:00Z
   stop: 2026-10-09T12:22:00Z
@@ -363,6 +384,12 @@
   ageRating: 4
   genre:
   - '160'
+  description: 18. rujna 1946. uhićen je zagrebački nadbiskup bl. Alojzije Stepinac. Suđenje je započelo 30. rujna, a 3. listopada blaženik je održao znameniti govor pred komunističkim sudom. Upravo je taj datum papa Ivan Pavao II. odabrao za dan beatifikacije. U razdoblju od 5. prosinca 1951. do 10. veljače 1960. godine u zatočeništvu u Krašiću napisao je 592 pisma koja su objedinjena u knjigu, koju je pripremio mons. Juraj Batelja generalni postulator za kauze beatifikacije i kanonizacije Zagrebačke nadbiskupije; s kojim u emisiji razgovaramo o posljednjim godinama našeg blaženika, našeg sveca Alojzija Stepinca.
+- eventId: 1586406
+  start: 2026-10-09T11:38:00Z
+  stop: 2026-10-09T12:23:00Z
+  title: Izdvojeno
+  subtitle: Religijski
   description: 18. rujna 1946. uhićen je zagrebački nadbiskup bl. Alojzije Stepinac. Suđenje je započelo 30. rujna, a 3. listopada blaženik je održao znameniti govor pred komunističkim sudom. Upravo je taj datum papa Ivan Pavao II. odabrao za dan beatifikacije. U razdoblju od 5. prosinca 1951. do 10. veljače 1960. godine u zatočeništvu u Krašiću napisao je 592 pisma koja su objedinjena u knjigu, koju je pripremio mons. Juraj Batelja generalni postulator za kauze beatifikacije i kanonizacije Zagrebačke nadbiskupije; s kojim u emisiji razgovaramo o posljednjim godinama našeg blaženika, našeg sveca Alojzija Stepinca.
 - eventId: 1440571
   start: 2026-10-09T12:22:00Z
@@ -387,6 +414,12 @@
   title: Križni put, Križni put
   subtitle: Religijski
   description: Prema tekstu Tomislava Ivančića 'Pođi za mnom' molimo zajedno pobožnost križnog puta.
+- eventId: 1586408
+  start: 2026-10-09T12:23:00Z
+  stop: 2026-10-09T12:52:00Z
+  title: Križni put, Križni put
+  subtitle: Religijski
+  description: Prema tekstu Tomislava Ivančića 'Pođi za mnom' molimo zajedno pobožnost križnog puta.
 - eventId:
   - 1538620
   - 1585601
@@ -400,13 +433,14 @@
 - eventId:
   - 1440572
   - 1585432
+  - 1586409
   start: 2026-10-09T12:52:00Z
   stop: 2026-10-09T13:00:00Z
   title: Vijesti iz Vatikana
   subtitle: Informativni
 - eventId: 1440573
   start: 2026-10-09T13:00:00Z
-  stop: 2026-10-09T13:14:00Z
+  stop: 2026-10-09T13:15:00Z
   title: Krunica Božjeg milosrđa
   subtitle: Molimo zajedno molitvu Krunice Božjega Milosrđa.
   description: Molimo zajedno molitvu Krunice Božjega Milosrđa.
@@ -424,7 +458,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1585433
+- eventId:
+  - 1585433
+  - 1586410
   start: 2026-10-09T13:15:00Z
   stop: 2026-10-09T14:00:00Z
   title: Nova misija
@@ -432,7 +468,7 @@
   description: 'Dvoje branitelja. Trideset godina braka. Troje djece. I stotine kilometara najtežih svjetskih pustinja. Kad su mnogi mislili da je nakon rata vrijeme za odmor, oni su odlučili pokazati kako se pomiču granice - i u sportu i u životu. Kako izgraditi sretnu obitelj i ostati neslomljivi nakon svega? Renata i Zorislav - supružnici koji pomiču granice mogućeg i poručuju: "Nismo generacija koja je prošla. Sreća je naša zajednička odluka." Dok je Renata u radnom odnosu i snažna čuvarica obitelji, Zorislav kao umirovljeni branitelj niže svoje nove pobjede. Postao je poznat po nevjerojatnim ultramaratonskim pothvatima - poput zahtjevnog Maratona pijeska u Saharskoj pustinji i Tenzing-Hillary Everest Maratona, jedne od najtežih trail utrka na svijetu. Zorislav i prijatelji Martin i Zlatko postali su prva trojica Hrvata u povijesti koji su uspješno istrčali ovaj legendarni maraton.'
 - eventId: 1440575
   start: 2026-10-09T14:00:00Z
-  stop: 2026-10-09T14:29:00Z
+  stop: 2026-10-09T14:30:00Z
   title: Život na stijeni
   subtitle: U ovoj epizodi emisije Život na stijeni gošća je Noelle Mering, autorica knjige "Awake, Not Woke". Ovo je druga emisija koja je snimljena s njom.
   ageRating: 4
@@ -465,7 +501,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1585434
+- eventId:
+  - 1585434
+  - 1586411
   start: 2026-10-09T14:30:00Z
   stop: 2026-10-09T15:20:00Z
   title: Novo srce
@@ -618,14 +656,16 @@
   - '160'
 - eventId: 1538632
   start: 2026-10-09T21:31:00Z
-  stop: 2026-10-09T22:02:00Z
+  stop: 2026-10-09T21:55:00Z
   title: Krunica, Krunica Blažene Djevice Marije
   subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
   ageRating: 4
   genre:
   - '160'
   description: Molimo zajedno molitvu Krunice Blažene Djevice Marije.
-- eventId: 1585435
+- eventId:
+  - 1585435
+  - 1586412
   start: 2026-10-09T21:55:00Z
   stop: 2026-10-09T22:02:00Z
   title: Fidelis - Marijo, o Marijo, Fidelis - Marijo, o Marijo
