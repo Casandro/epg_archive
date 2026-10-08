@@ -92,6 +92,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 1130503
   start: 2026-10-20T07:45:00Z
   stop: 2026-10-20T08:30:00Z
@@ -102,6 +103,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 1130504
   start: 2026-10-20T08:30:00Z
   stop: 2026-10-20T09:15:00Z
@@ -157,11 +159,13 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId: 1130551
   start: 2026-10-20T12:30:00Z
   stop: 2026-10-20T14:00:00Z
   title: Utta Danella - Der Himmel in deinen Augen
-  subtitle: Spielfilm Deutschland 2006
+  subtitle: Fernsehfilm Deutschland 2006
   episodeUri: crid://onid-1/e/6aa0885b90abaa473ac68db4
   genre:
   - '16'
@@ -169,6 +173,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 1130552
   start: 2026-10-20T14:00:00Z
   stop: 2026-10-20T14:15:00Z
@@ -188,6 +193,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId: 1130579
   start: 2026-10-20T15:05:00Z
   stop: 2026-10-20T15:53:00Z
@@ -208,6 +214,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId: 1130581
   start: 2026-10-20T16:00:00Z
   stop: 2026-10-20T17:27:00Z
