@@ -668,6 +668,24 @@
   - '128'
   widescreen: true
   subtitled: true
+- eventId: 1622263
+  start: 2026-10-09T21:10:00Z
+  stop: 2026-10-09T21:35:00Z
+  title: ZDF Magazin Royale
+  description: |-
+    Late Night Show, Deutschland 2026
+    Das "ZDF Magazin Royale" hebt seinen Vorhang. Jan Böhmermann begrüßt die Zuschauer zu seiner Late-Night-Satire.
+
+    Gesellschaftlich relevante Themen gepaart mit Witz und Ironie. Jan Böhmermann stößt Debatten an, begrüßt streitbare Gäste und musiziert mit dem Rundfunk-Tanzorchester Ehrenfeld. Unterhaltung, Überraschung und Erkenntnisgewinn - willkommen zum "ZDF Magazin Royale!"
+    Moderation: Jan Böhmermann
+
+    HD-Produktion
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1012626
   - 1012819
@@ -689,7 +707,9 @@
     Moderation: Katty Salié, Jo Schück
 
     HD-Produktion
-- eventId: 1621654
+- eventId:
+  - 1621654
+  - 1622264
   start: 2026-10-09T21:40:00Z
   stop: 2026-10-09T22:25:00Z
   title: aspekte
@@ -706,6 +726,8 @@
   - '112'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1621508
   - 1621653
@@ -746,7 +768,9 @@
 
     Moderation: Gundula Gause
     HD-Produktion
-- eventId: 1621655
+- eventId:
+  - 1621655
+  - 1622265
   start: 2026-10-09T22:25:00Z
   stop: 2026-10-09T22:45:00Z
   title: heute journal update
@@ -762,6 +786,8 @@
   genre:
   - '32'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1621483
   - 1621484
@@ -804,7 +830,7 @@
   - 1621509
   - 1621542
   start: 2026-10-09T22:45:00Z
-  stop: 2026-10-09T23:30:00Z
+  stop: 2026-10-09T22:55:00Z
   title: Das Literarische Quartett spezial - U21
   subtitle: Über Bücher diskutieren Thea Dorn und junge Literaturfans
   description: |-
@@ -819,7 +845,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1621656
+- eventId:
+  - 1621656
+  - 1622266
   start: 2026-10-09T22:55:00Z
   stop: 2026-10-09T23:40:00Z
   title: Das Literarische Quartett spezial - U21
@@ -834,6 +862,8 @@
   - '128'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1012629
   - 1012822
@@ -872,7 +902,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1621657
+- eventId:
+  - 1621657
+  - 1622267
   start: 2026-10-09T23:40:00Z
   stop: 2026-10-10T00:30:00Z
   title: hallo deutschland
@@ -887,3 +919,5 @@
   - '128'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
