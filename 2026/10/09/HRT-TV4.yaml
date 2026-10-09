@@ -349,6 +349,7 @@
   - 1587867
   - 1588796
   - 1588931
+  - 1595347
   start: 2026-10-09T01:10:00Z
   stop: 2026-10-09T01:18:00Z
   title: Vijesti na engleskom jeziku
@@ -376,6 +377,7 @@
   - 1587868
   - 1588797
   - 1588932
+  - 1595348
   start: 2026-10-09T01:18:00Z
   stop: 2026-10-09T01:20:00Z
   title: Bez komentara
@@ -405,6 +407,7 @@
   - 1587869
   - 1588798
   - 1588933
+  - 1595349
   start: 2026-10-09T01:20:00Z
   stop: 2026-10-09T01:28:00Z
   title: Vijesti na španjolskom jeziku
@@ -426,6 +429,7 @@
   - 1587870
   - 1588799
   - 1588934
+  - 1595350
   start: 2026-10-09T01:28:00Z
   stop: 2026-10-09T01:30:00Z
   title: Bez komentara
@@ -442,7 +446,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1538316
   start: 2026-10-09T01:30:00Z
-  stop: 2026-10-09T01:31:00Z
+  stop: 2026-10-09T01:49:00Z
   title: 'Bez komentara: Slovačka, Dunav rekordno nizak'
   subtitle: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
   ageRating: 4
@@ -485,6 +489,7 @@
   - 1587871
   - 1588800
   - 1588935
+  - 1595351
   start: 2026-10-09T01:50:00Z
   stop: 2026-10-09T01:54:00Z
   title: '#REPORTAŽE'
@@ -590,6 +595,7 @@
   - 1587872
   - 1588801
   - 1588936
+  - 1595352
   start: 2026-10-09T02:53:00Z
   stop: 2026-10-09T03:00:00Z
   title: Vijesti iz kulture
@@ -611,6 +617,7 @@
   - 1587873
   - 1588802
   - 1588937
+  - 1595354
   start: 2026-10-09T03:00:00Z
   stop: 2026-10-09T03:53:00Z
   title: Dnevnik 2
@@ -645,6 +652,14 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+- eventId: 1595355
+  start: 2026-10-09T03:54:00Z
+  stop: 2026-10-09T03:56:00Z
+  title: Vrijeme Europa danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1550661
   - 1551672
@@ -735,8 +750,11 @@
   start: 2026-10-09T03:56:00Z
   stop: 2026-10-09T03:58:00Z
   title: Vrijeme Europa danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1550662
   - 1551673
@@ -813,11 +831,14 @@
   start: 2026-10-09T03:58:00Z
   stop: 2026-10-09T04:00:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1538328
   start: 2026-10-09T04:00:00Z
-  stop: 2026-10-09T04:02:00Z
+  stop: 2026-10-09T04:08:00Z
   title: 'Bez komentara: London, Engleska - Testiranje robota za dostavu'
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -838,6 +859,7 @@
   - 1587875
   - 1588804
   - 1588939
+  - 1595356
   start: 2026-10-09T04:08:00Z
   stop: 2026-10-09T04:10:00Z
   title: Bez komentara
@@ -865,6 +887,7 @@
   - 1587876
   - 1588805
   - 1588940
+  - 1595357
   start: 2026-10-09T04:10:00Z
   stop: 2026-10-09T04:18:00Z
   title: Vijesti na engleskom jeziku
@@ -900,6 +923,7 @@
   - 1587877
   - 1588806
   - 1588941
+  - 1595358
   start: 2026-10-09T04:18:00Z
   stop: 2026-10-09T04:26:00Z
   title: 'Studio 4: Znanost'
@@ -954,10 +978,11 @@
   - 1587878
   - 1588807
   - 1588942
+  - 1595359
   start: 2026-10-09T04:26:00Z
   stop: 2026-10-09T04:56:00Z
   title: Otvoreno
-  subtitle: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
+  subtitle: Učestali incidenti sa samostalnim potezima agenata umjetne inteligencije ponovno otvaraju pitanje regulacije tehnologije. Razvija li se sve prebrzo zbog utrke za kapitalom?
   description: 'Učestali incidenti sa samostalnim potezima agenata umjetne inteligencije ponovno otvaraju pitanje regulacije tehnologije. Razvija li se sve prebrzo zbog utrke za kapitalom? Imaju li ljudi kontrolu nad umjetnom inteligencijom? Za što su danas sposobni algoritmi? Gdje je granica razvoja, a gdje granica nužne zaštite? Gosti su: Aco Momčilović, stručnjak za umjetnu inteligenciju, Marijana Šarolić Robić, pravna stručnjakinja i osnivačica Hrvatske udruge za umjetnu inteligenciju, Davor Aničić, suosnivač i direktor tvrtke Velebit AI, Zlatan Morić, pročelnik Odjela za kibernetičku sigurnost Sveučilišta Algebra Bernays.'
   ageRating: 4
   genre:
@@ -1035,6 +1060,7 @@
   - 1587879
   - 1588808
   - 1588943
+  - 1595360
   start: 2026-10-09T04:56:00Z
   stop: 2026-10-09T05:00:00Z
   title: Bez komentara
@@ -1084,8 +1110,11 @@
   start: 2026-10-09T05:14:00Z
   stop: 2026-10-09T05:22:00Z
   title: Vijesti iz kulture
-  subtitle: ' '
+  subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1538337
   - 1585953
@@ -1167,8 +1196,11 @@
   start: 2026-10-09T05:25:00Z
   stop: 2026-10-09T05:27:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1539691
   - 1586907
@@ -1190,8 +1222,11 @@
   start: 2026-10-09T05:27:00Z
   stop: 2026-10-09T05:30:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1538341
   start: 2026-10-09T05:30:00Z
   stop: 2026-10-09T05:59:00Z
@@ -1259,8 +1294,11 @@
   start: 2026-10-09T06:55:00Z
   stop: 2026-10-09T07:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1538348
   start: 2026-10-09T07:00:00Z
   stop: 2026-10-09T07:25:00Z
@@ -1274,8 +1312,11 @@
   start: 2026-10-09T07:25:00Z
   stop: 2026-10-09T07:30:00Z
   title: Svečano potpisivanje ugovora o dodjeli bespovratnih sredstava "Ulaganje u razvoj geotermalne energije", prijenos
-  subtitle: ' '
+  subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1538349
   start: 2026-10-09T07:30:00Z
   stop: 2026-10-09T07:31:00Z
@@ -1316,8 +1357,11 @@
   start: 2026-10-09T07:55:00Z
   stop: 2026-10-09T08:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1538353
   start: 2026-10-09T08:00:00Z
   stop: 2026-10-09T08:05:00Z
@@ -1338,8 +1382,11 @@
   start: 2026-10-09T08:05:00Z
   stop: 2026-10-09T08:30:00Z
   title: Sjednica Vlade, prijenos
-  subtitle: ' '
+  subtitle: Izjave predsjednika Vlade Andreja Plenkovića i predsjednika Vlade Savezne pokrajine Bavarske Markusa Södera
   description: Izjave predsjednika Vlade Andreja Plenkovića i predsjednika Vlade Savezne pokrajine Bavarske Markusa Södera
+  ageRating: 4
+  genre:
+  - '48'
 - eventId: 1538354
   start: 2026-10-09T08:30:00Z
   stop: 2026-10-09T08:31:00Z
@@ -1369,8 +1416,11 @@
   start: 2026-10-09T08:32:00Z
   stop: 2026-10-09T08:34:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1538356
   - 1582982
@@ -1401,8 +1451,11 @@
   start: 2026-10-09T08:34:00Z
   stop: 2026-10-09T08:41:00Z
   title: 'Studio 4: Sport'
-  subtitle: ' '
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1538357
   - 1582983
@@ -1433,8 +1486,11 @@
   start: 2026-10-09T08:41:00Z
   stop: 2026-10-09T08:46:00Z
   title: Poslovne vijesti
-  subtitle: ' '
+  subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1577125
   - 1580876
@@ -2463,7 +2519,7 @@
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 1538425
   start: 2026-10-09T18:05:00Z
-  stop: 2026-10-09T18:30:00Z
+  stop: 2026-10-09T18:31:00Z
   title: Potrošački kod
   subtitle: Tjedna emisija namijenjena potrošačima. Otkriva probleme s kojima se svakodnevno susreću pri kupnji robe i usluga, donosi savjete i upute.
   ageRating: 4
