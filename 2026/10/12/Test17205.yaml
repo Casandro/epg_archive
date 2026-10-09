@@ -132,7 +132,7 @@
   start: 2026-10-12T05:00:00Z
   stop: 2026-10-12T06:00:00Z
   title: La Matinale
-  subtitle: La Matinale en vidéo
+  subtitle: L'actualité en continu
   description: En direct. 7h-8h de La Première du 12.10.2026
   genre:
   - '32'
@@ -141,10 +141,20 @@
   hd: true
 - eventId: 1501457
   start: 2026-10-12T06:00:00Z
-  stop: 2026-10-12T07:00:00Z
+  stop: 2026-10-12T06:55:00Z
   title: RTS Info
   subtitle: L'actualité en continu
   description: En direct.
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1618651
+  start: 2026-10-12T06:55:00Z
+  stop: 2026-10-12T08:00:00Z
+  title: Forum
+  description: Forum en différé  du 11.10.2026
   genre:
   - '32'
   widescreen: true
@@ -182,7 +192,7 @@
   hd: true
 - eventId: 1501478
   start: 2026-10-12T09:05:00Z
-  stop: 2026-10-12T09:35:00Z
+  stop: 2026-10-12T09:40:00Z
   title: Signes
   description: |-
     Mon père, ce pionnier Quand elle était petite, la présentatrice de Signes Natasha Ruf ne comprenait pas pourquoi son père s'absentait sans cesse. Rolf Ruf, 91 ans aujourd'hui, est un homme exceptionnel qui a surmonté sa surdité par la force de sa volonté et de ses talents : il est le premier sourd en Suisse à avoir suivi une formation en architecture et à côté de son travail, il s'est investi corps et âme dans une troupe de mimes bien connue outre-Sarine, le Mimenchor de Zürich.
@@ -264,7 +274,7 @@
   hd: true
 - eventId: 1501499
   start: 2026-10-12T12:20:00Z
-  stop: 2026-10-12T12:55:00Z
+  stop: 2026-10-12T13:00:00Z
   title: A bon entendeur
   description: |-
     Maté : boisson saine ou soda ? Le maté en canette s'est imposé comme la boisson tendance. Son succès repose sur une promesse séduisante: un coup de boost, pas trop de sucre et une image naturelle synonyme de bien-être. Derrière le marketing, les diététiciens appellent à la prudence. Le maté est-il une alternative saine ou un soda déguisé ?
@@ -286,7 +296,7 @@
   hd: true
 - eventId: 1616875
   start: 2026-10-12T13:00:00Z
-  stop: 2026-10-12T13:45:00Z
+  stop: 2026-10-12T13:50:00Z
   title: Mise au point
   description: |-
     (Suisse Romande-2026)  - Lycées : la révolte française vue de Suisse Les manifestations de lycéens se sont poursuivies cette semaine en France, déstabilisant le gouvernement à quelques mois de l'élection présidentielle. Regards croisés, entre la France et la Suisse, sur cette révolte étudiante.
