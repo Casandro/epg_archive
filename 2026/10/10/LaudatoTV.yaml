@@ -158,6 +158,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1617526
+  start: 2026-10-10T05:59:00Z
+  stop: 2026-10-10T06:02:00Z
+  title: Mali katekizam
+  subtitle: Zašto se Bog objavljuje čovjeku pojasnit će Mali katekizam.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1469887
   start: 2026-10-10T06:00:00Z
   stop: 2026-10-10T06:02:00Z
@@ -172,7 +180,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1469888
+- eventId:
+  - 1469888
+  - 1617527
   start: 2026-10-10T06:02:00Z
   stop: 2026-10-10T06:29:00Z
   title: Superknjiga
@@ -192,6 +202,7 @@
 - eventId:
   - 1559010
   - 1565039
+  - 1617528
   start: 2026-10-10T06:59:00Z
   stop: 2026-10-10T07:07:00Z
   title: Živa riječ
@@ -229,6 +240,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1617489
+  start: 2026-10-10T08:29:00Z
+  stop: 2026-10-10T10:36:00Z
+  title: 'Sveta Misa: Solin'
+  subtitle: U subotu, 10. listopada, s Gospina otoka u Solinu prenosimo središnje euharistijsko slavlje u povodu 1050. obljetnice smrti hrvatske kraljice Jelene i 950. obljetnice krunidbe kralja Dmitra Zvonimira.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1469892
   start: 2026-10-10T08:30:00Z
   stop: 2026-10-10T10:40:00Z
@@ -243,6 +262,11 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1617435
+  start: 2026-10-10T10:36:00Z
+  stop: 2026-10-10T10:40:00Z
+  title: Apostoli mira - Kraljice Hrvata, Apostoli mira - Kraljice Hrvata
+  subtitle: Glazbeni
 - eventId: 1469902
   start: 2026-10-10T10:40:00Z
   stop: 2026-10-10T11:05:00Z
@@ -261,7 +285,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1469913
+- eventId:
+  - 1469913
+  - 1617511
   start: 2026-10-10T12:05:00Z
   stop: 2026-10-10T12:52:00Z
   title: Izdvojeno
@@ -293,7 +319,9 @@
   title: Zlatni savjeti
   subtitle: Religijski
   description: Amarant ili šćir poznat je po svom bogatom nutritivnom sastavu, bogat je željezom, magnezijem, kalcijem, folnom kiselinom, a ne sadrži gluten. On je vrijedna prehrambena namirnica, a njegovo sjeme može se pripremati kao kaša za doručak, prilog umjesto riže ili krumpira te dodavati juhama, povrću i salatama. Od kuhanog amaranta mogu se napraviti popečci i deserti, od njegovih zrnaca kokice, a od brašna palačinke, kruh, peciva i kolači.
-- eventId: 1546266
+- eventId:
+  - 1546266
+  - 1617512
   start: 2026-10-10T13:16:00Z
   stop: 2026-10-10T13:55:00Z
   title: Zlatni savjeti
@@ -345,12 +373,18 @@
   - '160'
 - eventId: 1469936
   start: 2026-10-10T18:30:00Z
-  stop: 2026-10-10T19:00:00Z
+  stop: 2026-10-10T18:56:00Z
   title: Živjeti što Bog govori, Živjeti što Bog govori
   subtitle: U emisiji 'Živjeti što Bog govori' otkrivamo na koji način Božje zapovijedi nam pokazuju put prema slobodi, miru i punini života.
   ageRating: 4
   genre:
   - '160'
+- eventId: 1617440
+  start: 2026-10-10T18:56:00Z
+  stop: 2026-10-10T19:00:00Z
+  title: Zbor Mihovil - Dok me Tvoje svjetlo vodi
+  subtitle: Glazbeni
+  description: Zbor Mihovil - Dok me Tvoje svjetlo vodi
 - eventId: 1469937
   start: 2026-10-10T19:00:00Z
   stop: 2026-10-10T19:50:00Z
@@ -368,7 +402,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1469939
+- eventId: 1617513
+  start: 2026-10-10T19:50:00Z
+  stop: 2026-10-10T20:00:00Z
+  title: Stihom kroz dušu
+  subtitle: Zaronite u svijet duhovne poezije i upoznajte opća mjesta duhovne lirike. S Robertom Kurbašom oživljavamo koloplet domaćih i svjetskih stihova koji dotiču sve generacije.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 1469939
+  - 1617514
   start: 2026-10-10T20:00:00Z
   stop: 2026-10-10T20:19:00Z
   title: Egzamen - ispit svjesnosti
@@ -384,12 +428,22 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1617515
+  start: 2026-10-10T20:19:00Z
+  stop: 2026-10-10T20:59:00Z
+  title: Domovinu volim
+  subtitle: Domoljubna glazba.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1469940
   start: 2026-10-10T20:20:00Z
   stop: 2026-10-10T21:00:00Z
   title: Domovinu volim, Domovinu volim
   subtitle: Glazbeni
-- eventId: 1469952
+- eventId:
+  - 1469952
+  - 1617516
   start: 2026-10-10T21:00:00Z
   stop: 2026-10-10T21:15:00Z
   title: Razlog nade

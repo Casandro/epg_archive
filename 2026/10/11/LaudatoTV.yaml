@@ -61,7 +61,9 @@
   stop: 2026-10-11T04:25:00Z
   title: Izdvojeno
   subtitle: Religijski
-- eventId: 1546290
+- eventId:
+  - 1546290
+  - 1617517
   start: 2026-10-11T04:06:00Z
   stop: 2026-10-11T04:25:00Z
   title: Izdvojeno
@@ -69,7 +71,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1501694
+- eventId:
+  - 1501694
+  - 1617518
   start: 2026-10-11T04:25:00Z
   stop: 2026-10-11T04:33:00Z
   title: Vijesti iz Vatikana
@@ -77,7 +81,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1501695
+- eventId:
+  - 1501695
+  - 1617519
   start: 2026-10-11T04:33:00Z
   stop: 2026-10-11T04:34:00Z
   title: Osobna posveta Bezgrješnom Srcu Marijinu
@@ -95,7 +101,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1501696
+- eventId:
+  - 1501696
+  - 1617520
   start: 2026-10-11T05:00:00Z
   stop: 2026-10-11T05:35:00Z
   title: Zlatni savjeti
@@ -307,7 +315,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1501753
+- eventId:
+  - 1501753
+  - 1617521
   start: 2026-10-11T17:25:00Z
   stop: 2026-10-11T18:15:00Z
   title: Klanjanje Presvetom Oltarskom Sakramentu
@@ -324,6 +334,19 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 1617522
+  start: 2026-10-11T18:15:00Z
+  stop: 2026-10-11T18:26:00Z
+  title: Vijesti iz Vatikana
+  subtitle: Donosimo najnovije vijesti iz Vatikana, koji predstavlja sjedište Rimokatoličke Crkve. Saznajte sve najvažnije novosti i informirajte se o najbitnijim događajima vezanim uz Crkvu.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 1617453
+  start: 2026-10-11T18:26:00Z
+  stop: 2026-10-11T18:29:00Z
+  title: Božja pobjeda - Slava Isusu, Božja pobjeda - Slava Isusu
+  subtitle: Glazbeni
 - eventId: 1501772
   start: 2026-10-11T18:30:00Z
   stop: 2026-10-11T19:35:00Z
@@ -333,15 +356,29 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1617523
+  start: 2026-10-11T18:30:00Z
+  stop: 2026-10-11T19:35:00Z
+  title: Odaziv
+  subtitle: '"Mnogo je zvanih, malo izabranih." Ovo je priča o našim prioritetima. Poziv na Božju gozbu je besplatan, ali zahtijeva unutarnju promjenu, ljubav i istinsko obraćenje.'
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1501773
   start: 2026-10-11T19:35:00Z
-  stop: 2026-10-11T20:00:00Z
+  stop: 2026-10-11T19:57:00Z
   title: Čujte i počujte
   subtitle: Gost emisije je predsjednik Udruge "Prilika za susret" - Tomislav Belavić.
   description: Gost emisije je predsjednik Udruge ,,Prilika za susret - Tomislav Belavić. Osvrnut će se na ljeto iza nas, brojne projekte i aktivnosti Udruge, ali i najaviti novosti, nove projekte i zanimljiva događanja koja nas očekuju u vremenu pred nama.
   ageRating: 4
   genre:
   - '160'
+- eventId: 1617455
+  start: 2026-10-11T19:57:00Z
+  stop: 2026-10-11T20:00:00Z
+  title: Dominik Lučić i Jakov Jozinović - Ispred bijele hostije
+  subtitle: Glazbeni
+  description: Dominik Lučić i Jakov Jozinović - Ispred bijele hostije
 - eventId: 1501774
   start: 2026-10-11T20:00:00Z
   stop: 2026-10-11T20:19:00Z
@@ -356,6 +393,14 @@
   title: Neka nam Bog pomogne 5, serija
   subtitle: Sestra Angela istražuje medicinsku sestru s dvostrukim identitetom. Kada Nicova teta, koja je također časna sestra, dođe u samostan, Marija traži Ginevru da joj pomogne ostaviti dobar dojam.
   description: Sestra Angela istražuje medicinsku sestru s dvostrukim identitetom. Kada Nicova teta, koja je također časna sestra, dođe u samostan, Marija traži Ginevru da joj pomogne ostaviti dobar dojam. U međuvremenu, Valentina postaje prilično impresionirana Alessiom, njezinim novim fizioterapeutom, upravo kad joj Gabriele odluči reći što zapravo osjeća prema njoj. Athos pokušava nadoknaditi izgubljeno vrijeme s Azzurrom, ali je možda otišao predaleko.
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 1617524
+  start: 2026-10-11T20:19:00Z
+  stop: 2026-10-11T21:22:00Z
+  title: Neka nam Bog pomogne
+  subtitle: Sestra Angela istražuje medicinsku sestru s dvostrukim identitetom. Kada Nicova teta, koja je također časna sestra, dođe u samostan, Marija traži Ginevru da joj pomogne ostaviti dobar dojam.
   ageRating: 4
   genre:
   - '128'
@@ -442,6 +487,14 @@
   title: Postani velik pred Bogom, Become great before God
   subtitle: Saznajte sve o Johannu Baptistu Jordanu, kasnije poznatom po imenu Franjo Maria Jordan od Križa, utemeljitelju Družbe božanskog spasitelja, odnosno salvatorijanaca.
   description: Saznajte sve o Johannu Baptistu Jordanu, kasnije poznatom po imenu Franjo Maria Jordan od Križa, utemeljitelju Družbe božanskog spasitelja, odnosno salvatorijanaca. Prvi dio serijala bavi se njegovim djetinjstvom u malenom gradiću u Njemačkoj.
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 1617525
+  start: 2026-10-11T23:35:00Z
+  stop: 2026-10-12T00:30:00Z
+  title: Postani velik pred Bogom
+  subtitle: Saznajte sve o Johannu Baptistu Jordanu, kasnije poznatom po imenu Franjo Maria Jordan od Križa, utemeljitelju Družbe božanskog spasitelja, odnosno salvatorijanaca.
   ageRating: 4
   genre:
   - '128'

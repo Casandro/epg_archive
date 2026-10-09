@@ -93,7 +93,7 @@
   hd: true
 - eventId: 1580613
   start: 2026-10-12T03:45:00Z
-  stop: 2026-10-12T04:35:00Z
+  stop: 2026-10-12T05:00:00Z
   title: Mise au point
   description: |-
     (Rediffusion) (Suisse Romande-2026)  - Lycées : la révolte française vue de Suisse Les manifestations de lycéens se sont poursuivies cette semaine en France, déstabilisant le gouvernement à quelques mois de l'élection présidentielle. Regards croisés, entre la France et la Suisse, sur cette révolte étudiante.
@@ -126,7 +126,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1501443
+- eventId:
+  - 1501443
+  - 1616961
   start: 2026-10-12T05:00:00Z
   stop: 2026-10-12T06:00:00Z
   title: La Matinale
@@ -162,7 +164,7 @@
   start: 2026-10-12T08:00:00Z
   stop: 2026-10-12T08:25:00Z
   title: basik - Signé
-  description: basik 2026 - Signé basik explore et explique l'économie. Modes de vie, pouvoir d'achat, rapport à l'argent... Salarié ou patron, accro au boulot ou adepte du temps partiel, basik raconte les romand.e.s qui façonnent l'économie et cherchent des solutions face aux défis sociétaux et environnementaux. Chaque lundi, la rédaction investit les rues, les usines et les commerces. Avec un grand reportage, un feuilleton, une interview et une chronique un peu décalée, jamais l'économie n'a été aussi proche de vous !  "Langue des signes"
+  description: Panique sur la facture numérique - Signé basik explore et explique l'économie. Modes de vie, pouvoir d'achat, rapport à l'argent... Salarié ou patron, accro au boulot ou adepte du temps partiel, basik raconte les romand.e.s qui façonnent l'économie et cherchent des solutions face aux défis sociétaux et environnementaux. Chaque lundi, la rédaction investit les rues, les usines et les commerces. Avec un grand reportage, un feuilleton, une interview et une chronique un peu décalée, jamais l'économie n'a été aussi proche de vous !  "Langue des signes"
   genre:
   - '128'
   widescreen: true
@@ -185,7 +187,7 @@
   description: |-
     Mon père, ce pionnier Quand elle était petite, la présentatrice de Signes Natasha Ruf ne comprenait pas pourquoi son père s'absentait sans cesse. Rolf Ruf, 91 ans aujourd'hui, est un homme exceptionnel qui a surmonté sa surdité par la force de sa volonté et de ses talents : il est le premier sourd en Suisse à avoir suivi une formation en architecture et à côté de son travail, il s'est investi corps et âme dans une troupe de mimes bien connue outre-Sarine, le Mimenchor de Zürich.
     Le portrait émouvant d'un père par sa fille.
-     (Suisse Alémanique-2026)  "Langue des signes"
+     (Suisse Alémanique-2026)  "Audio description"  "Langue des signes"
   genre:
   - '128'
   widescreen: true
@@ -193,6 +195,17 @@
   hd: true
 - eventId: 1501479
   start: 2026-10-12T09:35:00Z
+  stop: 2026-10-12T09:55:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1616866
+  start: 2026-10-12T09:40:00Z
   stop: 2026-10-12T09:55:00Z
   title: RTS Info
   subtitle: L'actualité en continu
@@ -271,8 +284,32 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1616875
+  start: 2026-10-12T13:00:00Z
+  stop: 2026-10-12T13:45:00Z
+  title: Mise au point
+  description: |-
+    (Suisse Romande-2026)  - Lycées : la révolte française vue de Suisse Les manifestations de lycéens se sont poursuivies cette semaine en France, déstabilisant le gouvernement à quelques mois de l'élection présidentielle. Regards croisés, entre la France et la Suisse, sur cette révolte étudiante.
+     - Vacances et trafic de drogue : le piège thaïlandais Deux Suisses ont été arrêtés en Thaïlande. Ils font partie de ces occidentaux, attirés par la promesse de vacances gratuites, qui servent de mules pour le trafic de drogue. Reportage exclusif à Bangkok et en Suisse.
+     - Les enfants boomerang Avec la crise du logement et les difficultés économiques, de plus en plus de Suisses, jeunes et moins jeunes, se voient forcés de revenir habiter chez leurs parents. Rencontre avec trois adultes de retour chez leur maman.
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1516555
   start: 2026-10-12T13:45:00Z
+  stop: 2026-10-12T14:10:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1616876
+  start: 2026-10-12T13:50:00Z
   stop: 2026-10-12T14:10:00Z
   title: RTS Info
   subtitle: L'actualité en continu
@@ -307,7 +344,7 @@
   start: 2026-10-12T15:35:00Z
   stop: 2026-10-12T16:00:00Z
   title: Ramdam
-  description: Du rififi à l'opéra Chaussez vos baskets. Oui, vos baskets parce que RAMDAM vous emmène... à l'opéra. On va découvrir une institution qui n'est pas aussi guindée ou poussiéreuse que certains le pensent. L'opéra aujourd'hui peut être très contemporain, pop et décoiffant mais est-ce que le public le sait? Comment l'opéra, en 2026, vit ou survit?
+  description: Opéra, maintenant ou jamais! Chaussez vos baskets. Oui, vos baskets parce que RAMDAM vous emmène... à l'opéra. On va découvrir une institution qui n'est pas aussi guindée ou poussiéreuse que certains le pensent. L'opéra aujourd'hui peut être très contemporain, pop et décoiffant mais est-ce que le public le sait? Comment l'opéra, en 2026, vit ou survit?
   genre:
   - '128'
   widescreen: true
@@ -407,7 +444,7 @@
   hd: true
 - eventId: 1521423
   start: 2026-10-12T21:45:00Z
-  stop: 2026-10-12T22:45:00Z
+  stop: 2026-10-12T22:40:00Z
   title: Blind
   description: |-
     1 (3/6) L'enfoui Les recherches pour retrouver Carole s'enfoncent dans un bourbier où se mêlent duperies, traumatismes et fausses identités. Tandis que les soupçons pèsent de plus en plus sur Nathaniel, Milla découvre les indices d'un lien entre Schwaabe et la grossesse de Carole. Juste avant la découverte de nouveaux éléments, Nathaniel est arrêté, tandis que Carole reste introuvable.
@@ -416,6 +453,16 @@
   ageRating: 10
   genre:
   - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1616925
+  start: 2026-10-12T22:40:00Z
+  stop: 2026-10-12T23:00:00Z
+  title: Couleurs locales
+  description: (Rediffusion)
+  genre:
+  - '33'
   widescreen: true
   subtitled: true
   hd: true
@@ -431,7 +478,27 @@
   hd: true
 - eventId: 1521425
   start: 2026-10-12T23:00:00Z
-  stop: 2026-10-13T03:55:00Z
+  stop: 2026-10-12T23:30:00Z
+  title: 19h30 - Signé
+  description: (Rediffusion)  "Langue des signes"
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1616926
+  start: 2026-10-12T23:30:00Z
+  stop: 2026-10-12T23:45:00Z
+  title: Couleurs locales
+  description: (Rediffusion)
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1616927
+  start: 2026-10-12T23:45:00Z
+  stop: 2026-10-13T00:20:00Z
   title: 19h30 - Signé
   description: (Rediffusion)  "Langue des signes"
   genre:
