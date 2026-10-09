@@ -164,11 +164,9 @@
   start: 2026-10-10T05:20:00Z
   stop: 2026-10-10T05:54:59Z
   title: Maarten & Philip op het spoor
-- eventId: 1584939
-  start: 2026-10-10T05:25:00Z
-  stop: 2026-10-10T06:00:00Z
-  title: Maarten & Philip op het spoor
-- eventId: 1605530
+- eventId:
+  - 1584939
+  - 1605530
   start: 2026-10-10T05:25:00Z
   stop: 2026-10-10T06:04:59Z
   title: Maarten & Philip op het spoor
@@ -243,11 +241,9 @@
   start: 2026-10-10T08:05:00Z
   stop: 2026-10-10T08:39:59Z
   title: Nieuwsuur
-- eventId: 1584944
-  start: 2026-10-10T08:15:00Z
-  stop: 2026-10-10T08:50:00Z
-  title: Nieuwsuur
-- eventId: 1605534
+- eventId:
+  - 1584944
+  - 1605534
   start: 2026-10-10T08:15:00Z
   stop: 2026-10-10T08:54:59Z
   title: Nieuwsuur
@@ -263,11 +259,9 @@
   start: 2026-10-10T08:50:00Z
   stop: 2026-10-10T09:19:59Z
   title: NOS Studio Sport Voetbal
-- eventId: 1602479
-  start: 2026-10-10T08:55:00Z
-  stop: 2026-10-10T09:20:00Z
-  title: NOS Studio Sport Voetbal
-- eventId: 1605535
+- eventId:
+  - 1602479
+  - 1605535
   start: 2026-10-10T08:55:00Z
   stop: 2026-10-10T09:24:59Z
   title: NOS Studio Sport Voetbal
@@ -337,7 +331,7 @@
   - 1602482
   - 1605539
   start: 2026-10-10T11:10:00Z
-  stop: 2026-10-10T11:55:00Z
+  stop: 2026-10-10T11:59:59Z
   title: First Dates
   subtitle: Romantik 2026, Season:16 Episode:43
   description: '2026 ● S16 E43 Waar vind je de echte liefde? Het First Dates restaurant opent haar deuren voor single gasten die op zoek zijn naar de ware. We zien singles die dromen van een geschikte partner. Leidt een eerste date tot een tweede? En wie vindt de perfecte match? Romantik 2026,  Actors: Denice Dest, Jeremy Zijlstra, Eric Corton, Season:16 Episode:43'
@@ -429,7 +423,7 @@
   - 1602488
   - 1605545
   start: 2026-10-10T14:55:00Z
-  stop: 2026-10-10T15:10:00Z
+  stop: 2026-10-10T15:14:59Z
   title: Welkom in de 80 jarige oorlog
   subtitle: Oorlog op zee, Education / Science / Factual topics 2018, Season:1 Episode:7
   description: '2018 ● S1 E7 We kijken uit over de wereldzeeën met Piet Hein, de beroemde zeeheld. Met o.a. De driehoekshandel, Kaapvaart en De zilvervloot. Education / Science / Factual topics 2018,  Actors: Plien van Bennekom, Season:1 Episode:7'
@@ -443,7 +437,7 @@
   - 1602489
   - 1605546
   start: 2026-10-10T15:15:00Z
-  stop: 2026-10-10T15:30:00Z
+  stop: 2026-10-10T15:34:59Z
   title: NOS Jeugdjournaal
   subtitle: Children's / Youth programs 2026, Season:1 Episode:282
   description: '2026 ● E282 Het laatste nieuws uit binnen- en buitenland en het weer, speciaal voor de jonge kijker. Children''s / Youth programs 2026,  Actors: Annabelle Zandbergen, Benjamin Kat, Evita Mac-nack, Season:1 Episode:282'
@@ -459,6 +453,8 @@
   start: 2026-10-10T15:35:00Z
   stop: 2026-10-10T16:09:59Z
   title: Expeditie Nederland
+  subtitle: Variety show 2026, Season:5 Episode:25
+  description: '2026 ● S5 E25 Regionale verslaggevers duiken in uiteenlopende thema''s. Rond deze thema''s gaan ze op zoek naar bijzondere, spraakmakende en ontroerende verhalen. En zo schetsen zij een eigen beeld van Nederland. Variety show 2026,  Actors: Carrie ten Napel, Bert Haandrikman, Season:5 Episode:25'
 - eventId:
   - 1520810
   - 1522888
@@ -471,6 +467,8 @@
   start: 2026-10-10T16:10:00Z
   stop: 2026-10-10T16:24:59Z
   title: NOS Journaal 18.00 uur
+  subtitle: News / Current affairs 2021
+  description: '2021 Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en het weer. News / Current affairs 2021,  Actors: Mark Visser, Rob Trip, Jeroen Overbeek'
 - eventId:
   - 1520811
   - 1522889
@@ -481,8 +479,10 @@
   - 1602492
   - 1605549
   start: 2026-10-10T16:25:00Z
-  stop: 2026-10-10T16:50:00Z
+  stop: 2026-10-10T16:54:59Z
   title: Noord-Zuid-Oost-West
+  subtitle: Margreet - 80 Prachtig! - Route C, Show / Game show 2026, Season:6 Episode:161
+  description: '2026 ● S6 E161 In Margreet: er gaat geen dag voorbij of er is nieuws over een azc, maar wat gebeurt er nu eigenlijk echt in een asielzoekerscentrum? Het azc in Leersum is het oudste asielzoekerscentrum van de provincie Utrecht. Er wonen ruim 500 mensen. Hoe houd je zo''n ''dorp in een dorp'' leefbaar voor iedereen? 80 Prachtig! vertelt het verhaal van 80''ers die zich niet laten weerhouden door hun leeftijd om te doen wat ze willen doen. Show / Game show 2026, Season:6 Episode:161'
 - eventId:
   - 1520812
   - 1522890
@@ -535,7 +535,7 @@
   - 1520818
   - 1522896
   start: 2026-10-10T20:10:00Z
-  stop: 2026-10-10T20:40:00Z
+  stop: 2026-10-10T20:44:59Z
   title: Nieuwsuur
 - eventId:
   - 1520819
@@ -547,7 +547,7 @@
   - 1602495
   - 1605552
   start: 2026-10-10T20:45:00Z
-  stop: 2026-10-10T21:30:00Z
+  stop: 2026-10-10T21:34:59Z
   title: NOS Studio Sport Voetbal
 - eventId:
   - 1520820
@@ -559,7 +559,7 @@
   - 1602496
   - 1605553
   start: 2026-10-10T21:35:00Z
-  stop: 2026-10-10T22:00:00Z
+  stop: 2026-10-10T22:04:59Z
   title: 3 Op Reis
 - eventId:
   - 1520821
@@ -607,7 +607,7 @@
   - 1602499
   - 1605556
   start: 2026-10-10T23:10:00Z
-  stop: 2026-10-10T23:55:00Z
+  stop: 2026-10-10T23:59:59Z
   title: First Dates
 - eventId:
   - 1520826
