@@ -20,9 +20,18 @@
   subtitle: Was ist eine Hypernova?
 - eventId: 1399668
   start: 2026-10-22T02:40:00Z
-  stop: 2026-10-22T04:00:00Z
+  stop: 2026-10-22T03:00:00Z
   title: Space Night
   subtitle: The Blue Planet
+- eventId: 1615447
+  start: 2026-10-22T03:00:00Z
+  stop: 2026-10-22T03:30:00Z
+  title: nano
+- eventId: 1615448
+  start: 2026-10-22T03:30:00Z
+  stop: 2026-10-22T04:00:00Z
+  title: bob ross
+  subtitle: waves of wonder
 - eventId: 1399761
   start: 2026-10-22T04:00:00Z
   stop: 2026-10-22T04:30:00Z
@@ -123,13 +132,17 @@
 - eventId: 1399859
   start: 2026-10-22T11:00:00Z
   stop: 2026-10-22T11:15:00Z
-  title: Tele-Gym (7)
+  title: Tele-Gym (7/8)
   subtitle: Yoga-Pilates-50plus
+  subtitled: true
 - eventId: 1399860
   start: 2026-10-22T11:15:00Z
   stop: 2026-10-22T11:30:00Z
-  title: Tele-Gym (6)
+  title: Tele-Gym (6/10)
   subtitle: Yoga-Pilates-50plus
+  genre:
+  - '144'
+  subtitled: true
 - eventId: 1399861
   start: 2026-10-22T11:30:00Z
   stop: 2026-10-22T12:00:00Z
@@ -192,7 +205,7 @@
 - eventId: 1400148
   start: 2026-10-22T18:15:00Z
   stop: 2026-10-22T19:05:00Z
-  title: Tropische Inseln
+  title: Tropische Inseln (3/3)
   subtitle: Hawaii
 - eventId: 1400149
   start: 2026-10-22T19:05:00Z
