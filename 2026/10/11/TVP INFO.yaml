@@ -292,7 +292,7 @@
   - '34'
 - eventId: 1492294
   start: 2026-10-11T06:14:00Z
-  stop: 2026-10-11T06:16:00Z
+  stop: 2026-10-11T06:17:00Z
   title: Prognoza pogody
   description: |
     Tytuł oryginalny: Prognoza pogody
@@ -308,7 +308,9 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 1492295
+- eventId:
+  - 1492295
+  - 1608369
   start: 2026-10-11T06:17:00Z
   stop: 2026-10-11T06:30:00Z
   title: Info Poranek
