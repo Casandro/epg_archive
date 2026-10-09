@@ -63,7 +63,7 @@
   - 1041437
   - 1043305
   start: 2026-10-10T02:25:00Z
-  stop: 2026-10-10T03:10:00Z
+  stop: 2026-10-10T03:05:00Z
   title: Detective No. 24
   subtitle: Hase und Igel
   genre:
@@ -89,7 +89,9 @@
     Schnitt: Patrick Austen, Håkan Wärn
     Musik: Matti Bye, Anders Af Klintberg
     HD-Produktion
-- eventId: 1620025
+- eventId:
+  - 1620025
+  - 1620594
   start: 2026-10-10T03:05:00Z
   stop: 2026-10-10T03:30:00Z
   title: hallo deutschland
@@ -107,6 +109,8 @@
   - '32'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1041263
   - 1043306
