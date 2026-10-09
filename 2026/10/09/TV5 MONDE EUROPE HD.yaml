@@ -55,7 +55,9 @@
   description: 'Pres: Patricia Loison. Le journal de 23 heures de franceinfo (heure de Paris). Retrouvez les grands reportages, les interviews et les dØcryptages de la rØdaction sur toute l''actualitØ franĿaise et internationale.  '
   genre:
   - '47'
-- eventId: 1407128
+- eventId:
+  - 1407128
+  - 1599871
   start: 2026-10-09T03:00:00Z
   stop: 2026-10-09T03:30:00Z
   title: UN SI GRAND SOLEIL
@@ -64,9 +66,6 @@
   ageRating: 7
   genre:
   - '31'
-- eventId: 1599871
-  start: 2026-10-09T03:00:00Z
-  stop: 2026-10-09T03:23:00Z
 - eventId: 1407129
   start: 2026-10-09T03:23:00Z
   stop: 2026-10-09T03:30:00Z
@@ -83,6 +82,8 @@
   subtitle: 'La vallée de la Gordolasque, entre les Alpes du Sud et la Méditerranée, est un écrin préservé où faune et flore cohabitent en harm '
   description: "Fario, le secret de la montagne\n\nLa vallée de la Gordolasque, entre les Alpes du Sud et la Méditerranée, est un écrin préservé où faune et flore cohabitent en harmonie. Romain Passeron suit le cycle des truites remontant la rivière et découvre un savoir-faire ancestral : le réempoissonnement des lacs d'altitude. \n\nPrésentation : Romain Passeron\nRéalisation : Cédric Ragnolo, Kévin Sempé (Monaco/France, 2024)\n "
   ageRating: 7
+  genre:
+  - '127'
 - eventId: 1407131
   start: 2026-10-09T03:58:00Z
   stop: 2026-10-09T04:24:00Z

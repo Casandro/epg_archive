@@ -10,10 +10,22 @@
   ageRating: 12
   genre:
   - '96'
+- eventId: 1599928
+  start: 2026-10-09T01:00:00Z
+  stop: 2026-10-09T04:00:00Z
+  title: Best polish
+  subtitle: Program prezentuje zestawienie najlepszych przebojów w wykonaniu artystów i zespołów polskiej sceny muzycznej.
+  description: |
+    Tytuł oryginalny: Best polish
+    PL, 2026
+  ageRating: 12
+  genre:
+  - '96'
 - eventId:
   - 1444932
   - 1584268
   - 1598940
+  - 1599927
   start: 2026-10-09T04:00:00Z
   stop: 2026-10-09T05:00:00Z
   title: Best polish
@@ -107,7 +119,7 @@
   - '96'
 - eventId: 1444940
   start: 2026-10-09T13:00:00Z
-  stop: 2026-10-09T22:00:00Z
+  stop: 2026-10-09T16:00:00Z
   title: 1400 hitów na 14. urodziny STARS TV (miejsca 1400-1301)
   description: |-
     program muzyczny
@@ -116,7 +128,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 1444941
+- eventId:
+  - 1444941
+  - 1600069
   start: 2026-10-09T16:00:00Z
   stop: 2026-10-09T19:00:00Z
   title: 1400 hitów na 14 urodziny STARS TV (miejsca 1400-1301)
@@ -126,7 +140,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 1444942
+- eventId:
+  - 1444942
+  - 1600070
   start: 2026-10-09T19:00:00Z
   stop: 2026-10-09T22:00:00Z
   title: 1400 hitów na 14 urodziny STARS TV (miejsca 1400-1301)
