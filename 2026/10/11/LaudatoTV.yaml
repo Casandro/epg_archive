@@ -65,6 +65,7 @@
 - eventId:
   - 1546290
   - 1617517
+  - 1620008
   start: 2026-10-11T04:06:00Z
   stop: 2026-10-11T04:25:00Z
   title: Izdvojeno
@@ -80,6 +81,7 @@
 - eventId:
   - 1501694
   - 1617518
+  - 1620009
   start: 2026-10-11T04:25:00Z
   stop: 2026-10-11T04:33:00Z
   title: Vijesti iz Vatikana
@@ -95,6 +97,7 @@
 - eventId:
   - 1501695
   - 1617519
+  - 1620010
   start: 2026-10-11T04:33:00Z
   stop: 2026-10-11T04:34:00Z
   title: Osobna posveta Bezgrješnom Srcu Marijinu
@@ -105,7 +108,7 @@
   - '160'
 - eventId: 1546291
   start: 2026-10-11T04:34:00Z
-  stop: 2026-10-11T04:35:00Z
+  stop: 2026-10-11T05:00:00Z
   title: Osobna posveta Bezgrješnom Srcu Marijinu
   subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
   description: Molimo zajedno molitvu Krunice Blažene Djevice Marije.
@@ -121,6 +124,7 @@
 - eventId:
   - 1501696
   - 1617520
+  - 1620011
   start: 2026-10-11T05:00:00Z
   stop: 2026-10-11T05:35:00Z
   title: Zlatni savjeti
@@ -190,13 +194,15 @@
   subtitle: Informativni
 - eventId: 1585439
   start: 2026-10-11T07:11:00Z
-  stop: 2026-10-11T07:21:00Z
+  stop: 2026-10-11T07:20:00Z
   title: Vijesti iz Vatikana
   subtitle: Donosimo najnovije vijesti iz Vatikana, koji predstavlja sjedište Rimokatoličke Crkve. Saznajte sve najvažnije novosti i informirajte se o najbitnijim događajima vezanim uz Crkvu.
   ageRating: 4
   genre:
   - '32'
-- eventId: 1501715
+- eventId:
+  - 1501715
+  - 1620012
   start: 2026-10-11T07:20:00Z
   stop: 2026-10-11T08:00:00Z
   title: Čovjek prije svega
@@ -214,6 +220,14 @@
 - eventId: 1501716
   start: 2026-10-11T08:00:00Z
   stop: 2026-10-11T08:30:00Z
+  title: Vjera i nada
+  subtitle: Televizijska emisija "Vjera i nada" vezana je uglavnom uz vjerske teme, a proizvodi je Ured za pastoral u medijima Varaždinske biskupije.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1620013
+  start: 2026-10-11T08:00:00Z
+  stop: 2026-10-11T08:29:00Z
   title: Vjera i nada
   subtitle: Televizijska emisija "Vjera i nada" vezana je uglavnom uz vjerske teme, a proizvodi je Ured za pastoral u medijima Varaždinske biskupije.
   ageRating: 4
@@ -237,13 +251,23 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1620014
+  start: 2026-10-11T08:30:00Z
+  stop: 2026-10-11T09:29:00Z
+  title: 'Sveta Misa: Svetište Majke Božje Remetske, Zagreb'
+  subtitle: Uživo - prijenos svete Mise na Laudato televiziji.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1618995
   start: 2026-10-11T09:29:00Z
   stop: 2026-10-11T10:00:00Z
   title: Svijet očima Vatikana
   subtitle: Religijski
   description: Prisjećamo se najznačajnijih trenutaka povijesnog posjeta pape Lava XIV. Francuskoj. S francuskim veleposlanikom pri Svetoj Stolici razgovaramo o stanju Crkve u Francuskoj. Sve o prisutnosti Lurda u Rimu, od replike špilje u Vatikanskim vrtovima do čudotvornog izvora u crkvi Santa Maria in Via.
-- eventId: 1501725
+- eventId:
+  - 1501725
+  - 1620015
   start: 2026-10-11T09:30:00Z
   stop: 2026-10-11T10:00:00Z
   title: Svijet očima Vatikana
@@ -270,7 +294,7 @@
   - '112'
 - eventId: 1501728
   start: 2026-10-11T10:47:00Z
-  stop: 2026-10-11T11:21:00Z
+  stop: 2026-10-11T11:20:00Z
   title: Koncert sestre Husar i Matija Dedić - Katedrala Zagreb, 2020.
   description: Koncert sestre Husar i Matija Dedić - Katedrala Zagreb, 2020.
   subtitle: Jedinstveni uskrsni koncert na kojem su vrhunske vokalistice Ivana Husar Mlinac i Marija Husar Rimac, uz pratnju prestižnog pijanista i skladatelja Matije Dedića izveli neke od najpoznatijih duhov
@@ -284,6 +308,14 @@
   description: |-
     "Čipka od okova i milosrđa" - Bl. Alojzije Stepinac i Lepoglava
     U povodu 80. obljetnice osude blaženoga Alojzija Stepinca, u nedjelju 11. listopada ponovno donosimo reportažu iz Lepoglave - mjesta njegova zatočeništva i svjedočanstva vjere, čiji se tragovi osjećaju i danas. Upravo je 11. listopada 1946. blaženi Alojzije Stepinac osuđen na 16 godina zatvora s prisilnim radom, nakon montiranog sudskog procesa pred kojim je izgovorio svoje poznate riječi obrane: ,,Moja je savjest čista.
+  subtitle: U povodu 80. obljetnice osude blaženoga Alojzija Stepinca, u nedjelju 11. listopada ponovno donosimo reportažu iz Lepoglave - mjesta njegova zatočeništva i svjedočanstva vjere, čiji se tragovi.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1620016
+  start: 2026-10-11T11:20:00Z
+  stop: 2026-10-11T11:55:00Z
+  title: '"Čipka od okova i milosrđa" - Bl.'
   subtitle: U povodu 80. obljetnice osude blaženoga Alojzija Stepinca, u nedjelju 11. listopada ponovno donosimo reportažu iz Lepoglave - mjesta njegova zatočeništva i svjedočanstva vjere, čiji se tragovi.
   ageRating: 4
   genre:
@@ -317,7 +349,9 @@
   stop: 2026-10-11T13:30:00Z
   title: Klub prijatelja
   subtitle: Magazin
-- eventId: 1574270
+- eventId:
+  - 1574270
+  - 1620017
   start: 2026-10-11T13:11:00Z
   stop: 2026-10-11T13:30:00Z
   title: Klub prijatelja
@@ -330,7 +364,9 @@
   stop: 2026-10-11T13:30:00Z
   title: Klub prijatelja
   subtitle: Magazin
-- eventId: 1501739
+- eventId:
+  - 1501739
+  - 1620018
   start: 2026-10-11T13:30:00Z
   stop: 2026-10-11T14:16:00Z
   title: Kako dalje?
@@ -360,6 +396,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1620019
+  start: 2026-10-11T14:16:00Z
+  stop: 2026-10-11T15:10:00Z
+  title: Dudo i prijatelji
+  subtitle: U kino dvoranama u Hrvatskoj nedavno je s prikazivanjem započeo film "Dražen", a koji govori o legendi hrvatske košarke Draženu Petroviću. Njegov lik odigrao je mladi glumac Domagoj Nižić.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1619992
   start: 2026-10-11T14:17:00Z
   stop: 2026-10-11T15:10:00Z
@@ -372,6 +416,14 @@
   title: Svi za stol, Svi za stol
   subtitle: Uz dobru hranu, iskrene razgovore i poneku priču iz prošlosti, očekuje nas druženje s Miroslavom Škorom.
   description: 'Uz dobru hranu, iskrene razgovore i poneku priču iz prošlosti, očekuje nas druženje s Miroslavom Škorom. Za njega i Marina Periša kuha chef Tomislav Varga, a na jelovniku su: rižoto od cikle, janjeća koljenica s kremom od bundeve te poširana dunja u umaku od cimeta i vina.'
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1620020
+  start: 2026-10-11T15:10:00Z
+  stop: 2026-10-11T16:29:00Z
+  title: Svi za stol
+  subtitle: Uz dobru hranu, iskrene razgovore i poneku priču iz prošlosti, očekuje nas druženje s Miroslavom Škorom.
   ageRating: 4
   genre:
   - '160'
@@ -401,11 +453,19 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1620021
+  start: 2026-10-11T16:30:00Z
+  stop: 2026-10-11T17:25:00Z
+  title: 'Sveta Misa: Karlovac'
+  subtitle: Sveta Misa iz Nacionalnog svetišta svetog Josipa u Karlovcu.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1501753
   - 1617521
   start: 2026-10-11T17:25:00Z
-  stop: 2026-10-11T18:05:00Z
+  stop: 2026-10-11T18:15:00Z
   title: Klanjanje Presvetom Oltarskom Sakramentu
   description: Klanjanje Presvetom Oltarskom Sakramentu
   subtitle: Molitva.
@@ -425,7 +485,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1617522
+- eventId:
+  - 1617522
+  - 1620022
   start: 2026-10-11T18:15:00Z
   stop: 2026-10-11T18:26:00Z
   title: Vijesti iz Vatikana
@@ -459,7 +521,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1617523
+- eventId:
+  - 1617523
+  - 1620023
   start: 2026-10-11T18:30:00Z
   stop: 2026-10-11T19:35:00Z
   title: Odaziv
@@ -499,7 +563,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1617524
+- eventId:
+  - 1617524
+  - 1620024
   start: 2026-10-11T20:19:00Z
   stop: 2026-10-11T21:22:00Z
   title: Neka nam Bog pomogne
