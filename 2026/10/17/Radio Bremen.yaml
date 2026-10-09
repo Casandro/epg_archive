@@ -54,6 +54,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Poetry-Künstlerin Clara Lösel
 - eventId: 1070584
   start: 2026-10-17T04:00:00Z
   stop: 2026-10-17T04:30:00Z
@@ -72,6 +73,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId: 1070586
   start: 2026-10-17T05:00:00Z
   stop: 2026-10-17T05:30:00Z
@@ -160,12 +163,14 @@
 - eventId: 1070596
   start: 2026-10-17T10:00:00Z
   stop: 2026-10-17T10:45:00Z
-  title: Unsere Geschichte
+  title: Unsere Geschichte - Die letzten ihrer Art
   subtitle: Berufe von damals
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '162'
 - eventId: 1070597
   start: 2026-10-17T10:45:00Z
   stop: 2026-10-17T11:15:00Z
@@ -244,6 +249,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Abenteurer und Filmemacher Anselm Nathanael Pahnke
 - eventId: 1040827
   start: 2026-10-17T17:30:00Z
   stop: 2026-10-17T17:58:00Z
@@ -289,7 +295,7 @@
   start: 2026-10-17T20:45:00Z
   stop: 2026-10-17T22:15:00Z
   title: 'Tatort: Undercover Camping'
-  subtitle: Spielfilm
+  subtitle: Fernsehfilm Deutschland 1997
   genre:
   - '16'
   widescreen: true
@@ -304,6 +310,10 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Fernsehfilm Schweden 2020
+  ageRating: 12
+  genre:
+  - '16'
 - eventId: 1070613
   start: 2026-10-17T23:40:00Z
   stop: 2026-10-18T00:30:00Z
