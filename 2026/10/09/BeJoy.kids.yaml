@@ -854,7 +854,9 @@
   stop: 2026-10-09T14:06:41Z
   title: Superbook Classic
   subtitle: 'Episodio 12: Il primo natale'
-- eventId: 1610916
+- eventId:
+  - 1610916
+  - 1614896
   start: 2026-10-09T13:43:37Z
   stop: 2026-10-09T14:06:43Z
   title: Superbook Classic
@@ -875,7 +877,7 @@
   title: Minno Kids
 - eventId: 1610917
   start: 2026-10-09T14:06:43Z
-  stop: 2026-10-09T14:12:02Z
+  stop: 2026-10-09T14:12:03Z
   title: Minno Kids
 - eventId: 1588345
   start: 2026-10-09T14:06:46Z
@@ -889,6 +891,11 @@
 - eventId: 1610918
   start: 2026-10-09T14:12:02Z
   stop: 2026-10-09T14:23:41Z
+  title: Ma che gioia
+  subtitle: Il primo giorno di scuola
+- eventId: 1614817
+  start: 2026-10-09T14:12:03Z
+  stop: 2026-10-09T14:23:42Z
   title: Ma che gioia
   subtitle: Il primo giorno di scuola
 - eventId: 1588346
@@ -911,6 +918,11 @@
   stop: 2026-10-09T14:29:26Z
   title: Nell'Angolo dei Più Piccoli
   subtitle: 'Un programma dedicato ai più piccoli dal titolo: "La solitudine"'
+- eventId: 1614818
+  start: 2026-10-09T14:23:42Z
+  stop: 2026-10-09T14:29:26Z
+  title: Nell'Angolo dei Più Piccoli
+  subtitle: 'Un programma dedicato ai più piccoli dal titolo: "La solitudine"'
 - eventId: 1588347
   start: 2026-10-09T14:23:45Z
   stop: 2026-10-09T14:29:30Z
@@ -921,7 +933,9 @@
   stop: 2026-10-09T14:52:40Z
   title: Kids' Ten Commandments
   subtitle: 'Le Avventure di Seth: L''Avventura di Seth'
-- eventId: 1610920
+- eventId:
+  - 1610920
+  - 1614898
   start: 2026-10-09T14:29:26Z
   stop: 2026-10-09T14:52:42Z
   title: Kids' Ten Commandments
@@ -951,7 +965,9 @@
   stop: 2026-10-09T15:07:10Z
   title: My First Bible
   subtitle: La morte di Mosè
-- eventId: 1610922
+- eventId:
+  - 1610922
+  - 1614899
   start: 2026-10-09T14:55:13Z
   stop: 2026-10-09T15:07:12Z
   title: My First Bible
@@ -976,7 +992,9 @@
   stop: 2026-10-09T15:41:29Z
   title: Superbook
   subtitle: S04 | E05 - La fuga di Pietro
-- eventId: 1610802
+- eventId:
+  - 1610802
+  - 1614900
   start: 2026-10-09T15:14:53Z
   stop: 2026-10-09T15:41:31Z
   title: Superbook
@@ -986,7 +1004,9 @@
   stop: 2026-10-09T15:51:21Z
   title: Theo
   subtitle: La giustificazione
-- eventId: 1610803
+- eventId:
+  - 1610803
+  - 1614901
   start: 2026-10-09T15:41:31Z
   stop: 2026-10-09T15:51:23Z
   title: Theo
@@ -1018,7 +1038,7 @@
   subtitle: In questo episodio parleremo di come Dio con la sua Parola
 - eventId: 1610806
   start: 2026-10-09T15:58:48Z
-  stop: 2026-10-09T16:05:51Z
+  stop: 2026-10-09T16:05:52Z
   title: La Bussola - Al servizio dei più piccoli
   subtitle: In questo episodio parleremo di come Dio con la sua Parola
 - eventId: 1602293
@@ -1031,6 +1051,11 @@
   stop: 2026-10-09T16:10:02Z
   title: Bibtoons Go
   subtitle: il buon samaritano
+- eventId: 1614823
+  start: 2026-10-09T16:05:52Z
+  stop: 2026-10-09T16:10:03Z
+  title: Bibtoons Go
+  subtitle: il buon samaritano
 - eventId: 1602294
   start: 2026-10-09T16:10:01Z
   stop: 2026-10-09T16:16:20Z
@@ -1039,6 +1064,11 @@
 - eventId: 1610808
   start: 2026-10-09T16:10:02Z
   stop: 2026-10-09T16:16:21Z
+  title: Nell'Angolo dei Più Piccoli
+  subtitle: 'Un programma dedicato ai più piccoli dal titolo: "L''impegno"'
+- eventId: 1614824
+  start: 2026-10-09T16:10:03Z
+  stop: 2026-10-09T16:16:22Z
   title: Nell'Angolo dei Più Piccoli
   subtitle: 'Un programma dedicato ai più piccoli dal titolo: "L''impegno"'
 - eventId: 1602295
@@ -1051,6 +1081,11 @@
   stop: 2026-10-09T16:18:21Z
   title: Bibtoons Go
   subtitle: Davide contro Golia
+- eventId: 1614825
+  start: 2026-10-09T16:16:22Z
+  stop: 2026-10-09T16:18:22Z
+  title: Bibtoons Go
+  subtitle: Davide contro Golia
 - eventId: 1602296
   start: 2026-10-09T16:18:20Z
   stop: 2026-10-09T16:19:44Z
@@ -1059,6 +1094,11 @@
 - eventId: 1610810
   start: 2026-10-09T16:18:21Z
   stop: 2026-10-09T16:19:45Z
+  title: Storie della Bibbia
+  subtitle: I Dieci Comandamenti
+- eventId: 1614826
+  start: 2026-10-09T16:18:22Z
+  stop: 2026-10-09T16:19:46Z
   title: Storie della Bibbia
   subtitle: I Dieci Comandamenti
 - eventId: 1602297
@@ -1076,12 +1116,19 @@
   stop: 2026-10-09T16:31:17Z
   title: Cartoni Animati
   subtitle: Le Video-Parabole di Gesù (ep.9)
+- eventId: 1614827
+  start: 2026-10-09T16:19:46Z
+  stop: 2026-10-09T16:31:17Z
+  title: Cartoni Animati
+  subtitle: Le Video-Parabole di Gesù (ep.9)
 - eventId: 1602298
   start: 2026-10-09T16:31:15Z
   stop: 2026-10-09T16:59:15Z
   title: Bibtoons Go
   subtitle: Sansone giudice di Israele
-- eventId: 1610812
+- eventId:
+  - 1610812
+  - 1614902
   start: 2026-10-09T16:31:17Z
   stop: 2026-10-09T16:59:17Z
   title: Bibtoons Go
@@ -1091,7 +1138,9 @@
   stop: 2026-10-09T17:11:56Z
   title: My First Bible
   subtitle: Balaam e il suo asino
-- eventId: 1610813
+- eventId:
+  - 1610813
+  - 1614903
   start: 2026-10-09T16:59:17Z
   stop: 2026-10-09T17:11:58Z
   title: My First Bible
@@ -1106,6 +1155,11 @@
   stop: 2026-10-09T17:35:03Z
   title: Superbook Classic
   subtitle: 'Episodio 14: Il terzo giorno'
+- eventId: 1614904
+  start: 2026-10-09T17:11:58Z
+  stop: 2026-10-09T17:35:04Z
+  title: Superbook Classic
+  subtitle: 'Episodio 14: Il terzo giorno'
 - eventId: 1602301
   start: 2026-10-09T17:35:01Z
   stop: 2026-10-09T17:41:12Z
@@ -1117,6 +1171,10 @@
 - eventId: 1610815
   start: 2026-10-09T17:35:03Z
   stop: 2026-10-09T17:41:14Z
+  title: Minno Kids
+- eventId: 1614831
+  start: 2026-10-09T17:35:04Z
+  stop: 2026-10-09T17:41:15Z
   title: Minno Kids
 - eventId: 1602302
   start: 2026-10-09T17:41:12Z
@@ -1131,6 +1189,11 @@
 - eventId: 1610816
   start: 2026-10-09T17:41:14Z
   stop: 2026-10-09T18:07:53Z
+  title: Superbook
+  subtitle: S04 | E07 - Giosuè e Caleb
+- eventId: 1614832
+  start: 2026-10-09T17:41:15Z
+  stop: 2026-10-09T18:07:54Z
   title: Superbook
   subtitle: S04 | E07 - Giosuè e Caleb
 - eventId: 1602031
@@ -1148,6 +1211,11 @@
   stop: 2026-10-09T18:34:20Z
   title: Cartoni Animati
   subtitle: Gesù, un regno senza confini (Puntata 12)
+- eventId: 1614834
+  start: 2026-10-09T18:07:54Z
+  stop: 2026-10-09T18:34:21Z
+  title: Cartoni Animati
+  subtitle: Gesù, un regno senza confini (Puntata 12)
 - eventId: 1602032
   start: 2026-10-09T18:34:18Z
   stop: 2026-10-09T18:48:24Z
@@ -1163,12 +1231,19 @@
   stop: 2026-10-09T18:48:26Z
   title: Cartoni Animati
   subtitle: Le Video-Parabole di Gesù (ep.3)
+- eventId: 1614835
+  start: 2026-10-09T18:34:21Z
+  stop: 2026-10-09T18:48:26Z
+  title: Cartoni Animati
+  subtitle: Le Video-Parabole di Gesù (ep.3)
 - eventId: 1602033
   start: 2026-10-09T18:48:24Z
   stop: 2026-10-09T19:15:23Z
   title: Cartoni Animati
   subtitle: Gesù, un regno senza confini
-- eventId: 1610821
+- eventId:
+  - 1610821
+  - 1614905
   start: 2026-10-09T18:48:26Z
   stop: 2026-10-09T19:15:25Z
   title: Cartoni Animati
@@ -1180,7 +1255,7 @@
   subtitle: Dio parla a Samuele
 - eventId: 1610822
   start: 2026-10-09T19:15:25Z
-  stop: 2026-10-09T19:18:02Z
+  stop: 2026-10-09T19:18:03Z
   title: Storie della Bibbia
   subtitle: Dio parla a Samuele
 - eventId: 1602035
@@ -1191,6 +1266,11 @@
 - eventId: 1610823
   start: 2026-10-09T19:18:02Z
   stop: 2026-10-09T19:44:41Z
+  title: Superbook
+  subtitle: S03 | E01 - Rut
+- eventId: 1614837
+  start: 2026-10-09T19:18:03Z
+  stop: 2026-10-09T19:44:42Z
   title: Superbook
   subtitle: S03 | E01 - Rut
 - eventId: 1602036
@@ -1208,6 +1288,11 @@
   stop: 2026-10-09T19:52:24Z
   title: Minno Kids
   subtitle: La storia della morte di Gesù
+- eventId: 1614838
+  start: 2026-10-09T19:44:42Z
+  stop: 2026-10-09T19:52:24Z
+  title: Minno Kids
+  subtitle: La storia della morte di Gesù
 - eventId: 1602037
   start: 2026-10-09T19:52:22Z
   stop: 2026-10-09T20:15:27Z
@@ -1216,6 +1301,11 @@
 - eventId: 1610825
   start: 2026-10-09T19:52:24Z
   stop: 2026-10-09T20:15:28Z
+  title: Superbook Classic
+  subtitle: 'Episodio 18: Vogliamo un re'
+- eventId: 1614906
+  start: 2026-10-09T19:52:24Z
+  stop: 2026-10-09T20:15:29Z
   title: Superbook Classic
   subtitle: 'Episodio 18: Vogliamo un re'
 - eventId: 1602038
@@ -1233,12 +1323,19 @@
   stop: 2026-10-09T20:27:33Z
   title: Racconti Biblici per Bambini
   subtitle: In questa puntata una nuova storia dalla Bibbia. "Giuseppe e i suoi fratelli"
+- eventId: 1614840
+  start: 2026-10-09T20:15:29Z
+  stop: 2026-10-09T20:27:33Z
+  title: Racconti Biblici per Bambini
+  subtitle: In questa puntata una nuova storia dalla Bibbia. "Giuseppe e i suoi fratelli"
 - eventId: 1602039
   start: 2026-10-09T20:27:31Z
   stop: 2026-10-09T20:29:54Z
   title: Storie della Bibbia
   subtitle: Gesu' prega
-- eventId: 1610827
+- eventId:
+  - 1610827
+  - 1614907
   start: 2026-10-09T20:27:33Z
   stop: 2026-10-09T20:29:56Z
   title: Storie della Bibbia
@@ -1248,7 +1345,9 @@
   stop: 2026-10-09T20:41:41Z
   title: Racconti Biblici per Bambini
   subtitle: In questa puntata una nuova storia dalla Bibbia. "Mosè e i 10 Comandamenti"
-- eventId: 1610828
+- eventId:
+  - 1610828
+  - 1614908
   start: 2026-10-09T20:29:56Z
   stop: 2026-10-09T20:41:43Z
   title: Racconti Biblici per Bambini
@@ -1258,7 +1357,9 @@
   stop: 2026-10-09T21:04:47Z
   title: Superbook Classic
   subtitle: 'Episodio 12: Il primo natale'
-- eventId: 1610829
+- eventId:
+  - 1610829
+  - 1614909
   start: 2026-10-09T20:41:43Z
   stop: 2026-10-09T21:04:49Z
   title: Superbook Classic
@@ -1268,7 +1369,9 @@
   stop: 2026-10-09T21:06:53Z
   title: Storie della Bibbia
   subtitle: Gesu' insegna sull'umilta'
-- eventId: 1610830
+- eventId:
+  - 1610830
+  - 1614910
   start: 2026-10-09T21:04:49Z
   stop: 2026-10-09T21:06:55Z
   title: Storie della Bibbia
@@ -1278,7 +1381,9 @@
   stop: 2026-10-09T21:29:46Z
   title: Superbook Classic
   subtitle: 'Episodio 22: Le bighe di fuoco'
-- eventId: 1610831
+- eventId:
+  - 1610831
+  - 1614911
   start: 2026-10-09T21:06:55Z
   stop: 2026-10-09T21:29:48Z
   title: Superbook Classic
@@ -1298,7 +1403,9 @@
   stop: 2026-10-09T22:06:07Z
   title: My First Bible
   subtitle: Dio rigetta Saul come Re
-- eventId: 1610833
+- eventId:
+  - 1610833
+  - 1614912
   start: 2026-10-09T21:56:06Z
   stop: 2026-10-09T22:06:09Z
   title: My First Bible
@@ -1338,7 +1445,9 @@
   stop: 2026-10-09T23:12:53Z
   title: Superbook Classic
   subtitle: 'Episodio 02: I due fratelli'
-- eventId: 1610837
+- eventId:
+  - 1610837
+  - 1614913
   start: 2026-10-09T22:49:48Z
   stop: 2026-10-09T23:12:55Z
   title: Superbook Classic
@@ -1353,6 +1462,11 @@
   stop: 2026-10-09T23:24:02Z
   title: Cartoni Animati
   subtitle: Le Video-Parabole di Gesù (ep.10)
+- eventId: 1614914
+  start: 2026-10-09T23:12:55Z
+  stop: 2026-10-09T23:24:03Z
+  title: Cartoni Animati
+  subtitle: Le Video-Parabole di Gesù (ep.10)
 - eventId: 1602064
   start: 2026-10-09T23:24:01Z
   stop: 2026-10-09T23:32:45Z
@@ -1363,12 +1477,19 @@
   stop: 2026-10-09T23:32:47Z
   title: La Bussola - Al servizio dei più piccoli
   subtitle: In questo episodio parleremo dell'Unzione di Davide
+- eventId: 1614849
+  start: 2026-10-09T23:24:03Z
+  stop: 2026-10-09T23:32:47Z
+  title: La Bussola - Al servizio dei più piccoli
+  subtitle: In questo episodio parleremo dell'Unzione di Davide
 - eventId: 1602065
   start: 2026-10-09T23:32:45Z
   stop: 2026-10-09T23:59:25Z
   title: Superbook
   subtitle: S04 | E08 - Elia e la vedova
-- eventId: 1610840
+- eventId:
+  - 1610840
+  - 1614915
   start: 2026-10-09T23:32:47Z
   stop: 2026-10-09T23:59:27Z
   title: Superbook
@@ -1381,5 +1502,10 @@
 - eventId: 1610841
   start: 2026-10-09T23:59:27Z
   stop: 2026-10-10T00:10:58Z
+  title: Cartoni Animati
+  subtitle: Le Video-Parabole di Gesù (ep.9)
+- eventId: 1614916
+  start: 2026-10-09T23:59:27Z
+  stop: 2026-10-10T00:10:59Z
   title: Cartoni Animati
   subtitle: Le Video-Parabole di Gesù (ep.9)
