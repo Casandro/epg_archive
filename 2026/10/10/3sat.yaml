@@ -285,6 +285,16 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 1623787
+  start: 2026-10-10T04:13:00Z
+  stop: 2026-10-10T04:20:00Z
+  title: Leben im Regenwald
+  subtitle: Die Tiere Trinidads
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1039262
   - 1041289
@@ -305,7 +315,9 @@
 
     Moderation: Nina Mavis Brunner
     HD-Produktion
-- eventId: 1623489
+- eventId:
+  - 1623489
+  - 1623788
   start: 2026-10-10T04:24:00Z
   stop: 2026-10-10T05:00:00Z
   title: Kulturzeit
@@ -325,6 +337,8 @@
   genre:
   - '112'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1039263
   - 1041290
@@ -369,7 +383,7 @@
   - 1039280
   - 1041301
   start: 2026-10-10T07:00:00Z
-  stop: 2026-10-10T07:05:00Z
+  stop: 2026-10-10T07:06:00Z
   title: ZIB
   genre:
   - '32'
@@ -410,6 +424,21 @@
   genre:
   - '112'
   widescreen: true
+- eventId: 1623789
+  start: 2026-10-10T07:06:00Z
+  stop: 2026-10-10T07:35:00Z
+  title: Kulturplatz
+  subtitle: Das Kulturmagazin von Schweizer Radio und Fernsehen
+  description: |-
+    Hinein ins pralle Leben: "Kulturplatz" greift auf, was die Menschen beschäftigt, welche Fragen sie sich stellen. Und zeigt, dass die Kultur Antworten gibt.
+
+    "Kulturplatz" findet mitten im Leben statt: im Supermarkt, am Musikfestival, im Wald. Denn Kultur ist viel mehr als Musik, Literatur und Kunst. Kultur durchdringt unser Leben. Wo jemand nachzudenken beginnt, da entsteht Kultur.
+    HD-Produktion
+  genre:
+  - '112'
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1039282
   - 1041303
@@ -450,6 +479,26 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 1623790
+  start: 2026-10-10T07:39:00Z
+  stop: 2026-10-10T08:00:00Z
+  title: Bilder aus Südtirol
+  description: |-
+    Verkehrschaos am Pragser Wildsee - Online-Buchungssystem ausweiten
+
+    Katastrophale Apfelernte - Südtirols Sommer war viel zu heiß
+
+    KI in der Schule - Wie können Schüler zukunftsfit werden
+
+    Demenz-Botschafterin - Tipps für den richtigen Umgang
+
+    Moderation: Manuela Vontavon
+    HD-Produktion
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1039283
   - 1041304
@@ -482,6 +531,22 @@
   - '112'
   widescreen: true
   subtitled: true
+- eventId: 1623791
+  start: 2026-10-10T08:03:00Z
+  stop: 2026-10-10T08:45:00Z
+  title: Almgeschichten aus der Steiermark
+  subtitle: Film von Holger Bruckschweiger
+  description: |-
+    Die Almen in der Steiermark sind idyllische Rückzugsorte in den österreichischen Bergen. Dort treffen Besucher auf malerische Landschaften, saftige Almwiesen und traditionelle Almhütten.
+
+    Diese "Land der Berge"-Produktion begleitet steirische Almbauern und -bäuerinnen in ihrem Alltag und porträtiert ihre karge Lebenswelt oberhalb der Baumgrenze.
+    HD-Produktion
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1039284
   - 1041305
@@ -514,6 +579,22 @@
   - '144'
   widescreen: true
   subtitled: true
+- eventId: 1623792
+  start: 2026-10-10T08:49:00Z
+  stop: 2026-10-10T09:30:00Z
+  title: Die wilden Steiner Alpen
+  subtitle: Film von Leopold Fuchs und Eva Maria Berger
+  description: |-
+    Die Vellacher Kotschna ist ein Hochtal in den Steiner Alpen und bildet den südlichsten Zipfel Kärntens wie auch Österreichs im Grenzgebiet zu Slowenien.
+
+    Sie liegt auf dem Gebiet der Gemeinde Eisenkappel-Vellach und ist seit 1959 Naturschutzgebiet. Die Dokumentation erkundet wenig bekanntes Terrain in einer märchenhaften Landschaft.
+    HD-Produktion
+  genre:
+  - '144'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1039285
   - 1041315
@@ -546,6 +627,22 @@
   - '144'
   widescreen: true
   subtitled: true
+- eventId: 1623793
+  start: 2026-10-10T09:33:00Z
+  stop: 2026-10-10T10:15:00Z
+  title: Die schönsten Bergseen der Steiermark
+  subtitle: Film von Holger Bruckschweiger
+  description: |-
+    Hohe Berge und klare Wasser prägen die als "Grüne Mark" bekannte Steiermark: Fast 10.000 Seen und Teiche gibt es dort. Der Film stellt die schönsten zehn Bergseen vor.
+
+    Darunter bekannte Gewässer wie der Grundlsee, der Steirische Bodensee und die idyllische Sechs-Seen-Landschaft auf der Tauplitz. Am Spiegelsee auf der Reiteralm spiegelt sich eindrucksvoll der Dachsteingipfel wider.
+    HD-Produktion
+  genre:
+  - '144'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1039286
   - 1041316
@@ -569,7 +666,9 @@
 
     Moderation: Christoph Feurstein
     HD-Produktion
-- eventId: 1623496
+- eventId:
+  - 1623496
+  - 1623794
   start: 2026-10-10T10:18:00Z
   stop: 2026-10-10T11:00:00Z
   title: Thema
@@ -588,6 +687,8 @@
   - '32'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1039287
   - 1041317
@@ -620,7 +721,9 @@
     Monothematische, kurze Beiträge geben Einblicke in die gesellschaftliche oder politische Situation in einem Land der Welt.
     HD-Produktion
   subtitle: Kampf gegen Wohnungsnot - Neue Städte für Großbritannien
-- eventId: 1623497
+- eventId:
+  - 1623497
+  - 1623795
   start: 2026-10-10T11:11:00Z
   stop: 2026-10-10T11:18:00Z
   title: Notizen aus dem Ausland
@@ -633,6 +736,8 @@
   genre:
   - '144'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1039289
   - 1041319
@@ -671,6 +776,28 @@
   - '32'
   widescreen: true
   subtitled: true
+- eventId: 1623796
+  start: 2026-10-10T11:18:00Z
+  stop: 2026-10-10T12:00:00Z
+  title: quer
+  subtitle: '... durch die Woche mit Christoph Süß'
+  description: |-
+    Wiener-Schnitzel aus Franken? - Schock für Österreich
+
+    Dürfen Anscheinwaffen Spielzeug sein? - Täuschend echt
+
+    Solar-Anlagen abgeregelt - Verhinderter Eigenverbrauch
+
+    Igel in Not - Ehrenamtliche Stationen überlastet
+
+    Ärger im Chemie-Dreieck - Stadt verklagt Konzern wegen PFOA
+    HD-Produktion
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1039324
   - 1041323
@@ -701,6 +828,21 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 1623797
+  start: 2026-10-10T12:03:00Z
+  stop: 2026-10-10T12:30:00Z
+  title: Ländermagazin
+  subtitle: Heute aus Nordrhein-Westfalen
+  description: |-
+    Das "Ländermagazin" stellt Künstlerinnen und Künstler aus Nordrhein-Westfalen vor - Talente und Newcomer, die entdeckt werden wollen oder schon auf dem Weg nach ganz oben sind.
+
+    Eine davon ist Pascale Feitner. Die Bildhauerin wurde 1996 in Landau in der Pfalz geboren und hat ihre Kunst-Heimat in Westfalen gefunden. Eins ihrer bekanntesten Werke ist ein Vogel auf dem Dach des Landestheaters in Eisenach. Es geht also hoch hinaus.
+    HD-Produktion
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1039325
   - 1041324
@@ -733,6 +875,22 @@
   - '112'
   widescreen: true
   subtitled: true
+- eventId: 1623798
+  start: 2026-10-10T12:32:00Z
+  stop: 2026-10-10T13:00:00Z
+  title: Kunst + Krempel
+  subtitle: Familienschätze unter der Lupe
+  description: |-
+    Eine Kultsendung des Bayerischen Fernsehens, seit mehr als 30 Jahren: Bei "Kunst + Krempel" bewerten renommierte Experten aus Museum und Kunsthandel die mitgebrachten Antiquitäten der Gäste.
+
+    Das Gemälde mit passenden Schmuckstücken ist ein seltenes Kunstwerk, das in Eichstätt gezeigt wird. Außerdem: die Skulptur zweier kämpfender Männer, der "Gürtelspanner", ein Eckstuhl im altdeutschen Stil und ein Gemälde, das von Lesser Ury stammen könnte.
+    HD-Produktion
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1039326
   - 1041325
@@ -752,7 +910,9 @@
     Moderation: Karl Ploberger
 
     HD-Produktion
-- eventId: 1623501
+- eventId:
+  - 1623501
+  - 1623799
   start: 2026-10-10T13:02:00Z
   stop: 2026-10-10T13:27:00Z
   title: Natur im Garten (4/10)
@@ -767,6 +927,8 @@
   - '144'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 1623502
   start: 2026-10-10T13:27:00Z
   stop: 2026-10-10T14:01:00Z
@@ -778,6 +940,19 @@
   genre:
   - '112'
   widescreen: true
+- eventId: 1623800
+  start: 2026-10-10T13:27:00Z
+  stop: 2026-10-10T14:00:00Z
+  title: Roadtrip durch Südafrika
+  subtitle: Film von Valentin Rahmel, Benjamin Gelhaar
+  description: |-
+    Kapstadt mit seiner traumhaften Lage am Meer, wilden Tieren und atemberaubender Natur auf der "Garden Route" erleben die Freunde Sarazar, Benni und Max auf ihrem "Roadtrip durch Südafrika".
+    HD-Produktion
+  genre:
+  - '112'
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1039327
   - 1041326
@@ -822,7 +997,9 @@
     Buch/Autor: Volker Krappen
 
     HD-Produktion
-- eventId: 1623503
+- eventId:
+  - 1623503
+  - 1623801
   start: 2026-10-10T14:01:00Z
   stop: 2026-10-10T15:29:00Z
   title: Feuerwehrfrauen - Phönix aus der Asche
@@ -847,7 +1024,11 @@
   - '16'
   widescreen: true
   subtitled: true
-- eventId: 1623504
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1623504
+  - 1623802
   start: 2026-10-10T15:29:00Z
   stop: 2026-10-10T17:00:00Z
   title: Feuerwehrfrauen - Heim gesucht
@@ -872,6 +1053,8 @@
   - '16'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1039354
   - 1041336
@@ -948,7 +1131,9 @@
 
     Die dreiteilige Reihe "BÖSE" folgt den Spuren ikonischer Schurken durch Film, Literatur und Psychologie. Sie erkundet, warum uns das Böse fasziniert, welche menschlichen Bedürfnisse sich hinter diesen Figuren verbergen - und was das über uns erzählt.
     HD-Produktion
-- eventId: 1623505
+- eventId:
+  - 1623505
+  - 1623803
   start: 2026-10-10T17:21:00Z
   stop: 2026-10-10T17:22:00Z
   title: 3sat-Wetter
@@ -958,7 +1143,11 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 1623506
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1623506
+  - 1623804
   start: 2026-10-10T17:22:00Z
   stop: 2026-10-10T18:00:00Z
   title: BÖSE - Der Joker (1/3)
@@ -972,6 +1161,8 @@
   genre:
   - '112'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1039396
   - 1041346
@@ -1011,7 +1202,7 @@
   - 1039398
   - 1041348
   start: 2026-10-10T19:00:00Z
-  stop: 2026-10-10T19:45:00Z
+  stop: 2026-10-10T19:44:00Z
   title: Becoming Taylor Swift (2/2)
   subtitle: Rückkehr und Rebellion
   genre:
@@ -1025,7 +1216,9 @@
 
     Taylor Swift erfindet sich mit der "Reputation"-Ära neu: selbstbewusst und rebellisch. Sie kämpft für die Vermarktungsrechte an ihren ersten sechs Alben und schreibt Musikgeschichte: Die "Eras-Tour" 2024/2025 ist die erfolgreichste Konzerttour aller Zeiten.
     HD-Produktion
-- eventId: 1623507
+- eventId:
+  - 1623507
+  - 1623805
   start: 2026-10-10T19:44:00Z
   stop: 2026-10-10T21:35:00Z
   title: Buchzeit - Die Literaturgala
@@ -1039,6 +1232,8 @@
   genre:
   - '112'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1039399
   - 1041349
@@ -1100,7 +1295,9 @@
 
     Neue und andere Sichtweisen erleichtern den Zugang zu Literatur und Musik, Film und Theater, Architektur und Bildender Kunst. Das Kulturmagazin ist feuilletonistisch, hintergründig und reflexiv.
     HD-Produktion
-- eventId: 1623512
+- eventId:
+  - 1623512
+  - 1623806
   start: 2026-10-10T23:16:00Z
   stop: 2026-10-11T00:10:00Z
   title: lebensArt
@@ -1120,3 +1317,5 @@
   genre:
   - '112'
   widescreen: true
+  hd: true
+  audiodesc: true
