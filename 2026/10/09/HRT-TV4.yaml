@@ -3143,6 +3143,7 @@
   - 1621519
   - 1622453
   - 1623317
+  - 1624132
   start: 2026-10-09T21:55:00Z
   stop: 2026-10-09T22:00:00Z
   title: Bez komentara
@@ -3190,14 +3191,16 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 1538443
   start: 2026-10-09T22:10:00Z
-  stop: 2026-10-09T22:23:00Z
+  stop: 2026-10-09T22:17:00Z
   title: Vijesti iz kulture
   subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   ageRating: 4
   genre:
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 1538444
+- eventId:
+  - 1538444
+  - 1624133
   start: 2026-10-09T22:17:00Z
   stop: 2026-10-09T22:42:00Z
   title: Potrošački kod
@@ -3212,7 +3215,9 @@
   title: Potrošački kod
   subtitle: ' '
   description: Ako više cijene goriva potraju tijekom jeseni i zime, njihov će se učinak sve snažnije osjećati u kućnim proračunima. Jer ogrjevna sezona upravo je počela. Najpovoljniji su i dalje ogrjevno drvo i peleti, a najskuplje je grijanje na električnu energiju. Ogrjev je u prosjeku poskupio od 10 do 30 posto. Možemo li se ove sezone "isplativo" grijati? U emisiji gostuju  Dalibor Pudić, predsjednik Hrvatske stručne udruge za plin i Daniel Srb, energetski stručnjak.
-- eventId: 1538445
+- eventId:
+  - 1538445
+  - 1624134
   start: 2026-10-09T22:42:00Z
   stop: 2026-10-09T23:05:00Z
   title: Regionalni dnevnik
@@ -3227,7 +3232,9 @@
   title: Regionalni dnevnik
   subtitle: ' '
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 1538446
+- eventId:
+  - 1538446
+  - 1624135
   start: 2026-10-09T23:05:00Z
   stop: 2026-10-09T23:58:00Z
   title: Dnevnik 2
@@ -3251,6 +3258,14 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+- eventId: 1624136
+  start: 2026-10-09T23:58:00Z
+  stop: 2026-10-09T23:59:00Z
+  title: Vrijeme RH danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1538448
   - 1614095
