@@ -1,6 +1,8 @@
 - eventId:
   - 1041038
   - 1258146
+  - 556940
+  - 570794
   start: 2026-10-17T00:35:00Z
   stop: 2026-10-17T02:25:00Z
   title: Kaffee oder Tee
@@ -29,6 +31,8 @@
 - eventId:
   - 1041049
   - 1260353
+  - 557145
+  - 570846
   start: 2026-10-17T03:05:00Z
   stop: 2026-10-17T03:30:00Z
   title: SWR Aktuell Rheinland-Pfalz
@@ -40,6 +44,8 @@
 - eventId:
   - 1041050
   - 1260354
+  - 557146
+  - 570847
   start: 2026-10-17T03:30:00Z
   stop: 2026-10-17T04:00:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -51,6 +57,8 @@
 - eventId:
   - 1041051
   - 1260355
+  - 557147
+  - 570848
   start: 2026-10-17T04:00:00Z
   stop: 2026-10-17T05:55:00Z
   title: SWR3 FIT
@@ -63,6 +71,8 @@
 - eventId:
   - 1041052
   - 1260356
+  - 557148
+  - 570849
   start: 2026-10-17T05:55:00Z
   stop: 2026-10-17T07:45:00Z
   title: Panoramablick
@@ -74,6 +84,8 @@
 - eventId:
   - 1041068
   - 1258303
+  - 568818
+  - 570896
   start: 2026-10-17T07:45:00Z
   stop: 2026-10-17T08:15:00Z
   title: Sehen statt Hören - Ein Wochenmagazin für Hörgeschädigte
@@ -93,8 +105,20 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 568819
+  - 570897
+  start: 2026-10-17T08:15:00Z
+  stop: 2026-10-17T08:45:00Z
+  title: Junge Roma heute - zwischen Herkunft und Zukunft
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 1041070
   - 1258305
+  - 568820
+  - 570898
   start: 2026-10-17T08:45:00Z
   stop: 2026-10-17T09:00:00Z
   title: KlimaZeit
@@ -106,6 +130,8 @@
 - eventId:
   - 1040891
   - 1258374
+  - 557493
+  - 570940
   start: 2026-10-17T09:00:00Z
   stop: 2026-10-17T10:30:00Z
   title: Nachtcafé
@@ -117,6 +143,8 @@
 - eventId:
   - 1040892
   - 1258375
+  - 557494
+  - 570941
   start: 2026-10-17T10:30:00Z
   stop: 2026-10-17T12:00:00Z
   title: 'Pfarrer Braun: Der siebte Tempel'
@@ -143,8 +171,24 @@
   genre:
   - '16'
 - eventId:
+  - 559278
+  - 570992
+  start: 2026-10-17T12:00:00Z
+  stop: 2026-10-17T13:30:00Z
+  title: Die Nonne und der Kommissar
+  subtitle: Fernsehfilm Deutschland 2005
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 1040905
   - 1258618
+  - 559279
+  - 570993
   start: 2026-10-17T13:30:00Z
   stop: 2026-10-17T14:00:00Z
   title: Handwerkskunst
@@ -156,6 +200,8 @@
 - eventId:
   - 1040906
   - 1258619
+  - 559280
+  - 570994
   start: 2026-10-17T14:00:00Z
   stop: 2026-10-17T14:45:00Z
   title: 'Marktcheck deckt auf: Hinter den Kulissen von Google'
@@ -167,6 +213,8 @@
 - eventId:
   - 1040907
   - 1258620
+  - 559281
+  - 570995
   start: 2026-10-17T14:45:00Z
   stop: 2026-10-17T15:30:00Z
   title: Marktcheck
@@ -184,15 +232,23 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1259211
+- eventId:
+  - 1259211
+  - 569071
+  - 571047
   start: 2026-10-17T15:30:00Z
   stop: 2026-10-17T16:00:00Z
   title: Sag die Wahrheit (789)
   subtitle: Die SWR Rateshow
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1040923
   - 1259212
+  - 569072
+  - 571048
   start: 2026-10-17T16:00:00Z
   stop: 2026-10-17T16:15:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -203,6 +259,8 @@
 - eventId:
   - 1040924
   - 1259213
+  - 569073
+  - 571049
   start: 2026-10-17T16:15:00Z
   stop: 2026-10-17T16:45:00Z
   title: Flohmarkt
@@ -213,6 +271,8 @@
 - eventId:
   - 1040925
   - 1259214
+  - 569074
+  - 571050
   start: 2026-10-17T16:45:00Z
   stop: 2026-10-17T17:30:00Z
   title: Stadt - Land - Quiz
@@ -224,6 +284,8 @@
 - eventId:
   - 1040926
   - 1259215
+  - 569075
+  - 571051
   start: 2026-10-17T17:30:00Z
   stop: 2026-10-17T17:57:00Z
   title: SWR Aktuell Baden-Württemberg mit Sport
@@ -234,6 +296,8 @@
 - eventId:
   - 1040927
   - 1259216
+  - 569076
+  - 571052
   start: 2026-10-17T17:57:00Z
   stop: 2026-10-17T18:00:00Z
   title: Baden-Württemberg Wetter
@@ -244,6 +308,8 @@
 - eventId:
   - 1040941
   - 1260807
+  - 559659
+  - 571107
   start: 2026-10-17T18:00:00Z
   stop: 2026-10-17T18:15:00Z
   title: Tagesschau
@@ -254,6 +320,8 @@
 - eventId:
   - 1040942
   - 1260808
+  - 559660
+  - 571108
   start: 2026-10-17T18:15:00Z
   stop: 2026-10-17T19:45:00Z
   title: '"Lustiger wäre schöner": Hannes und der Bürgermeister - Sketche'
@@ -265,6 +333,8 @@
 - eventId:
   - 1040943
   - 1260809
+  - 559661
+  - 571109
   start: 2026-10-17T19:45:00Z
   stop: 2026-10-17T19:50:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -284,6 +354,17 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 559662
+  - 571110
+  start: 2026-10-17T19:50:00Z
+  stop: 2026-10-17T20:35:00Z
+  title: Bestes Kabarett
+  subtitle: Pisa, Panik, Pädagogen
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 1040945
   - 1260811
   start: 2026-10-17T20:35:00Z
@@ -295,8 +376,21 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 559663
+  - 571111
+  start: 2026-10-17T20:35:00Z
+  stop: 2026-10-17T21:15:00Z
+  title: Bestes Kabarett
+  subtitle: Sex Sells!
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 1040954
   - 1260211
+  - 559835
+  - 571162
   start: 2026-10-17T21:15:00Z
   stop: 2026-10-17T22:00:00Z
   title: Heißmann und Rassau
@@ -308,6 +402,8 @@
 - eventId:
   - 1040955
   - 1260212
+  - 559836
+  - 571163
   start: 2026-10-17T22:00:00Z
   stop: 2026-10-17T22:45:00Z
   title: Begge Peder - Mo gugge
@@ -318,6 +414,8 @@
 - eventId:
   - 1040956
   - 1260213
+  - 559837
+  - 571164
   start: 2026-10-17T22:45:00Z
   stop: 2026-10-18T00:15:00Z
   title: Vorsicht vor Leuten

@@ -499,6 +499,7 @@
   - 1630467
   - 1635261
   - 1635883
+  - 621526
   start: 2026-10-10T05:40:00Z
   stop: 2026-10-10T07:00:00Z
   title: BUCHAREST MARATHON 2026
@@ -546,6 +547,7 @@
   - 1630468
   - 1635262
   - 1635884
+  - 621589
   start: 2026-10-10T07:00:00Z
   stop: 2026-10-10T07:10:00Z
   title: SPORT EXPRES
@@ -861,6 +863,7 @@
   - 1635737
   - 1636683
   - 1637754
+  - 610208
   start: 2026-10-10T09:30:00Z
   stop: 2026-10-10T10:20:00Z
   title: Reportazhe
@@ -1017,6 +1020,7 @@
   - 1631774
   - 1636684
   - 1637755
+  - 610209
   start: 2026-10-10T10:20:00Z
   stop: 2026-10-10T11:05:00Z
   title: Farewell Letter
@@ -1140,6 +1144,7 @@
   - 1635739
   - 1636685
   - 1637756
+  - 610210
   start: 2026-10-10T11:05:00Z
   stop: 2026-10-10T12:15:00Z
   title: Click Plus
@@ -1251,6 +1256,7 @@
   - 1635740
   - 1636686
   - 1637757
+  - 610213
   start: 2026-10-10T12:15:00Z
   stop: 2026-10-10T13:25:00Z
   title: Reportazhe
@@ -1362,6 +1368,7 @@
   - 1635741
   - 1636687
   - 1637758
+  - 610214
   start: 2026-10-10T13:25:00Z
   stop: 2026-10-10T14:00:00Z
   title: Promo
@@ -1427,6 +1434,7 @@
   - 1635742
   - 1636688
   - 1637759
+  - 610215
   start: 2026-10-10T14:00:00Z
   stop: 2026-10-10T15:00:00Z
   title: Preferenca Muzikore
@@ -1488,6 +1496,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 610216
+  start: 2026-10-10T15:00:00Z
+  stop: 2026-10-10T15:55:00Z
+  title: Pastel
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1420055
   start: 2026-10-10T15:10:00Z
   stop: 2026-10-10T16:00:00Z
@@ -1538,7 +1554,9 @@
   stop: 2026-10-10T15:55:00Z
   title: STADION
   subtitle: ' *MAGAZIN VOLEI   (Reluare)'
-- eventId: 1564538
+- eventId:
+  - 1564538
+  - 610217
   start: 2026-10-10T15:55:00Z
   stop: 2026-10-10T16:00:00Z
   title: Promo
@@ -1551,6 +1569,14 @@
   stop: 2026-10-10T16:30:00Z
   title: MARILE MECIURI
   subtitle: ' Arhiva TVR '
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 610218
+  start: 2026-10-10T16:00:00Z
+  stop: 2026-10-10T16:30:00Z
+  title: Reportazhe
+  subtitle: ' '
   ageRating: 4
   genre:
   - '160'
@@ -1612,6 +1638,7 @@
   - 1635743
   - 1636689
   - 1637760
+  - 610219
   start: 2026-10-10T16:30:00Z
   stop: 2026-10-10T17:00:00Z
   title: Live news AL
@@ -1677,6 +1704,7 @@
   - 1635744
   - 1636690
   - 1637761
+  - 610220
   start: 2026-10-10T17:00:00Z
   stop: 2026-10-10T17:30:00Z
   title: Edhe unë jam këtu
@@ -1742,6 +1770,7 @@
   - 1635745
   - 1636691
   - 1637762
+  - 610221
   start: 2026-10-10T17:30:00Z
   stop: 2026-10-10T18:00:00Z
   title: Live News MK
@@ -1753,6 +1782,14 @@
   start: 2026-10-10T18:00:00Z
   stop: 2026-10-10T18:30:00Z
   title: SPORT EXPRES
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 610223
+  start: 2026-10-10T18:00:00Z
+  stop: 2026-10-10T18:30:00Z
+  title: Promo
   subtitle: ' '
   ageRating: 4
   genre:
@@ -1862,6 +1899,7 @@
   - 1635746
   - 1636692
   - 1637763
+  - 610224
   start: 2026-10-10T18:30:00Z
   stop: 2026-10-10T20:00:00Z
   title: Fol shqip
@@ -1914,7 +1952,9 @@
   stop: 2026-10-10T20:00:00Z
   title: Remember
   subtitle: ' Arhiva TVR   (Reluare)'
-- eventId: 1420060
+- eventId:
+  - 1420060
+  - 610225
   start: 2026-10-10T20:00:00Z
   stop: 2026-10-10T20:20:00Z
   title: Live News MK
@@ -1980,6 +2020,7 @@
   - 1635747
   - 1636693
   - 1637764
+  - 610226
   start: 2026-10-10T20:20:00Z
   stop: 2026-10-10T20:40:00Z
   title: Fc Latta
@@ -2045,6 +2086,7 @@
   - 1635748
   - 1636694
   - 1637765
+  - 610227
   start: 2026-10-10T20:40:00Z
   stop: 2026-10-10T22:25:00Z
   title: Odeon
@@ -2202,6 +2244,7 @@
   - 1631785
   - 1636695
   - 1637766
+  - 610228
   start: 2026-10-10T22:25:00Z
   stop: 2026-10-10T23:35:00Z
   title: Click Plus
@@ -2371,6 +2414,7 @@
   - 1635750
   - 1636696
   - 1637767
+  - 610229
   start: 2026-10-10T23:35:00Z
   stop: 2026-10-11T01:25:00Z
   title: Pastel

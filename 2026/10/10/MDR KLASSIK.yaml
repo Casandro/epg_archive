@@ -69,10 +69,16 @@
     10:00 Uhr Nachrichten
 
     11:00 Uhr Nachrichten
-- eventId: 985696
+- eventId:
+  - 552756
+  - 985696
   start: 2026-10-10T10:00:00Z
   stop: 2026-10-10T12:00:00Z
   title: MDR KLASSIK am Mittag
+- eventId: 553844
+  start: 2026-10-10T12:00:00Z
+  stop: 2026-10-10T17:00:00Z
+  title: MDR KLASSIK am Nachmittag
 - eventId: 985712
   start: 2026-10-10T12:00:00Z
   stop: 2026-10-10T17:00:00Z
@@ -85,7 +91,9 @@
   start: 2026-10-10T16:00:00Z
   stop: 2026-10-10T18:00:00Z
   title: MDR KLASSIK am Abend 1
-- eventId: 1525303
+- eventId:
+  - 1525303
+  - 554158
   start: 2026-10-10T17:00:00Z
   stop: 2026-10-10T22:00:00Z
   title: MDR KLASSIK am Abend
@@ -101,11 +109,15 @@
   start: 2026-10-10T21:00:00Z
   stop: 2026-10-10T22:00:00Z
   title: MDR KLASSIK - Nachtmusik
-- eventId: 985774
+- eventId:
+  - 555171
+  - 985774
   start: 2026-10-10T22:00:00Z
   stop: 2026-10-10T22:05:00Z
   title: Nachrichten
-- eventId: 985775
+- eventId:
+  - 555172
+  - 985775
   start: 2026-10-10T22:05:00Z
   stop: 2026-10-11T04:00:00Z
   title: ARD Nachtkonzert - präsentiert von BR-KLASSIK

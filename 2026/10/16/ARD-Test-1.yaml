@@ -468,6 +468,7 @@
 - eventId:
   - 1010524
   - 1153829
+  - 550215
   start: 2026-10-16T15:00:00Z
   stop: 2026-10-16T15:15:00Z
   title: Tagesschau
@@ -478,6 +479,7 @@
 - eventId:
   - 1010525
   - 1153830
+  - 550216
   start: 2026-10-16T15:15:00Z
   stop: 2026-10-16T16:00:00Z
   title: Brisant
@@ -486,7 +488,9 @@
   hd: true
   subtitle: Boulevard-Magazin
   description: 'BRISANT ist das Infotainment-Magazin der ARD und erzählt die Geschichten des Lebens aus aller Welt: Nachrichten, Hintergründe, Reportagen über den Klimawandel, Service, Trends, Lifestyle und Neuigkeiten von Prominenten.'
-- eventId: 1010526
+- eventId:
+  - 1010526
+  - 550217
   start: 2026-10-16T16:00:00Z
   stop: 2026-10-16T16:50:00Z
   title: Gefragt - Gejagt (1060)
@@ -514,6 +518,7 @@
 - eventId:
   - 1010527
   - 1153831
+  - 550218
   start: 2026-10-16T16:50:00Z
   stop: 2026-10-16T17:45:00Z
   title: Quizduell-Olymp (574/589)
@@ -533,6 +538,7 @@
 - eventId:
   - 1010528
   - 1153832
+  - 550219
   start: 2026-10-16T17:45:00Z
   stop: 2026-10-16T17:50:00Z
   title: Sportschau vor acht
@@ -544,6 +550,7 @@
 - eventId:
   - 1010529
   - 1153833
+  - 550220
   start: 2026-10-16T17:50:00Z
   stop: 2026-10-16T17:55:00Z
   title: Wetter vor acht
@@ -552,7 +559,9 @@
   hd: true
   subtitle: 'Moderation: Claudia Kleinert'
   description: Wie wird das Wetter? Sonne in Stuttgart, Nebel in Nürnberg, Bremen bewölkt? Hier gibt's die aktuellen Wetterprognosen.
-- eventId: 1010530
+- eventId:
+  - 1010530
+  - 550221
   start: 2026-10-16T17:55:00Z
   stop: 2026-10-16T18:00:00Z
   title: Wirtschaft vor acht
@@ -560,7 +569,9 @@
   subtitled: true
   hd: true
   description: '"Wirtschaft vor acht" präsentiert Ereignisse aus der Wirtschaftswelt und Aktuelles von der Frankfurter Börse. Das Team um Markus Gürne und Anja Kohl erklärt Nachrichten der Wirtschaft, neue Trends und komplexe Zusammenhänge."'
-- eventId: 1010577
+- eventId:
+  - 1010577
+  - 551567
   start: 2026-10-16T18:00:00Z
   stop: 2026-10-16T18:15:00Z
   title: Tagesschau
@@ -580,6 +591,18 @@
   subtitled: true
   hd: true
   description: Der zwölfjährige Luca bittet Dr. Talia Jahnka, seiner Mutter nach einem Autounfall zu helfen. Minderwertige Ersatzteile ihres Gebrauchtwagens führen zu einem aalglatten Autohändler. Talia und Rechtsanwaltsgehilfin Senta Kurzweg greifen zu Investigativ-Tricks à la Robert Liebling ...
+- eventId: 551568
+  start: 2026-10-16T18:15:00Z
+  stop: 2026-10-16T19:45:00Z
+  title: Kanzlei Liebling Kreuzberg - Ein Meisterstück
+  subtitle: Spielfilm Deutschland 2026
+  description: Der zwölfjährige Luca bittet Dr. Talia Jahnka, seiner Mutter nach einem Autounfall zu helfen. Minderwertige Ersatzteile ihres Gebrauchtwagens führen zu einem aalglatten Autohändler. Talia und Rechtsanwaltsgehilfin Senta Kurzweg greifen zu Investigativ-Tricks à la Robert Liebling ...
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1149278
   start: 2026-10-16T19:00:00Z
   stop: 2026-10-16T19:45:00Z
@@ -587,7 +610,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1010579
+- eventId:
+  - 1010579
+  - 551569
   start: 2026-10-16T19:45:00Z
   stop: 2026-10-16T20:20:00Z
   title: Tagesthemen
@@ -606,6 +631,7 @@
 - eventId:
   - 1010580
   - 1153244
+  - 551570
   start: 2026-10-16T20:20:00Z
   stop: 2026-10-16T21:10:00Z
   title: WaPo Bodensee (61)
@@ -617,6 +643,7 @@
 - eventId:
   - 1010604
   - 1153279
+  - 572235
   start: 2026-10-16T21:10:00Z
   stop: 2026-10-16T21:55:00Z
   title: Sportschau
@@ -633,6 +660,7 @@
 - eventId:
   - 1010605
   - 1153280
+  - 572236
   start: 2026-10-16T21:55:00Z
   stop: 2026-10-16T23:48:00Z
   title: Sonne und Beton
@@ -663,6 +691,7 @@
 - eventId:
   - 1010606
   - 1153281
+  - 572237
   start: 2026-10-16T23:48:00Z
   stop: 2026-10-16T23:50:00Z
   title: Tagesschau
@@ -673,6 +702,7 @@
 - eventId:
   - 1010607
   - 1153282
+  - 572238
   start: 2026-10-16T23:50:00Z
   stop: 2026-10-17T01:20:00Z
   title: Kanzlei Liebling Kreuzberg - Ein Meisterstück

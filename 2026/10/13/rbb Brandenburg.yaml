@@ -335,6 +335,7 @@
   - 1190221
   - 1287893
   - 1359674
+  - 550357
   start: 2026-10-13T18:00:00Z
   stop: 2026-10-13T18:15:00Z
   title: Tagesschau
@@ -344,7 +345,9 @@
   hd: true
   audiodesc: true
   description: Die Nachrichten der ARD
-- eventId: 919418
+- eventId:
+  - 550358
+  - 919418
   start: 2026-10-13T18:15:00Z
   stop: 2026-10-13T18:45:00Z
   title: 'rbb24 Reportage: Billig, gepanscht, gefährlich'
@@ -358,7 +361,9 @@
     Mephedron erobert die Berliner Partyszene. Jonas war jahrelang abhängig, Jana geriet nach vermeintlichem Mephedron in
     einen gefährlichen Rausch. Was macht die Droge so riskant - und warum steckt in den verkauften Pulvern oft etwas ganz
     anderes?
-- eventId: 919419
+- eventId:
+  - 550359
+  - 919419
   start: 2026-10-13T18:45:00Z
   stop: 2026-10-13T19:45:00Z
   title: rbb24 Talk
@@ -371,7 +376,9 @@
   description: |-
     Partydrogen sind das eine Problem. Doch auch offener Drogenkonsum und Drogenhandel prägen zunehmend das Berliner Stadtbild. Vor allem Crack breitet sich aus. Zugleich verändert sich die Situation an bekannten Hotspots. Was können Prävention, Drugchecking und Suchthilfe bewirken? Welche Hilfen und Maßnahmen der Schadensminderung brauchen Menschen, die Crack konsumieren? Wo braucht es stärkere Kontrollen? Und welche Maßnahmen helfen
     Betroffenen, Anwohnerinnen und Anwohnern sowie den Bezirken wirklich?
-- eventId: 919420
+- eventId:
+  - 550360
+  - 919420
   start: 2026-10-13T19:45:00Z
   stop: 2026-10-13T20:15:00Z
   title: rbb24 BRANDENBURG
@@ -381,7 +388,9 @@
   hd: true
   audiodesc: true
   description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Brandenburg und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
-- eventId: 919421
+- eventId:
+  - 550361
+  - 919421
   start: 2026-10-13T20:15:00Z
   stop: 2026-10-13T22:15:00Z
   title: THADEUSZ und die Beobachter
@@ -391,7 +400,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 919476
+- eventId:
+  - 550535
+  - 919476
   start: 2026-10-13T22:15:00Z
   stop: 2026-10-13T23:15:00Z
   title: Hauptstadtderby
@@ -402,6 +413,19 @@
   hd: true
   audiodesc: true
   description: Der einstündige Fußballtalk beleuchtet die blau-weißen Charlottenburger und die rot-weißen Köpenicker in allen Facetten. Unterhaltsam, aktuell und meinungsstark.
+- eventId: 550536
+  start: 2026-10-13T23:15:00Z
+  stop: 2026-10-14T00:05:00Z
+  title: Auf Achse (1)
+  subtitle: Vollgas
+  description: |-
+    Franz Meersdonk sucht für eine Terminfracht nach Teheran einen Fahrer für den zweiten LKW. Günther Willers wäre der richtige Mann, aber der hat sich in den Kopf gesetzt, sein Glück als Rennfahrer zu machen. Als Hitzkopf Willers am Vortag des großen Bergrennens seine Karriere in den Graben setzt, wird er weich. Aber er verlangt von der Chefin der Spedition Mittermann einen eigenen Wagen zu bekommen, den sie auch noch vorfinanzieren müsse. Überraschend unterstützt Meersdonk diese Forderung.
+    Buchstäblich im letzten Moment können Willers und er mit ihren Sattelschleppern termingerecht in Richtung Teheran aufbrechen.
+  episodeUri: crid://onid-1/e/6a989f5f2d07852659fe07c3
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 919477
   start: 2026-10-13T23:15:00Z
   stop: 2026-10-14T00:05:00Z

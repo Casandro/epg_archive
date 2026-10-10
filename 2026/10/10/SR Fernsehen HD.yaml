@@ -85,7 +85,9 @@
   hd: true
   audiodesc: true
   description: 'Der "aktuelle bericht" - das sind die regionalen Tagesthemen im SR Fernsehen. Was auch immer im Land passiert, der "aktuelle bericht" ist einfach dichter dran - mit Reporterberichten, Nachrichtenfilmen, Kommentaren und der Meinung unserer Zuschauerinnen und Zuschauer. Wir liefern Informationen über das Geschehen in der Region, praktischen Service und unterhaltsame Geschichten aus dem Alltag. Mit Spielberichten, Vereinsporträts und aktuellen Meldungen ist der regionale Sport fester Bestandteil der Sendung. Der "aktuelle bericht": Worüber das Saarland morgen spricht, sehen Sie heute bei uns.'
-- eventId: 832277
+- eventId:
+  - 583554
+  - 832277
   start: 2026-10-10T07:45:00Z
   stop: 2026-10-10T08:15:00Z
   title: Sehen statt Hören
@@ -95,7 +97,9 @@
   hd: true
   audiodesc: true
   description: Vera wurde als Baby aus Brasilien adoptiert und ist taub. Liebevoll aufgewachsen, bleibt die Frage nach Herkunft und Zugehörigkeit. Der Film begleitet ihre Suche nach Identität und die behutsame Kontaktaufnahme zu ihrer Familie in Brasilien.
-- eventId: 832278
+- eventId:
+  - 583555
+  - 832278
   start: 2026-10-10T08:15:00Z
   stop: 2026-10-10T08:45:00Z
   title: Ein Blinder, ein Lahmer, ein Tauber
@@ -105,7 +109,9 @@
   hd: true
   audiodesc: true
   description: 'Drei Comedians, drei Behinderungen, drei Challenges: Timur Turga, Tan Caglar und Okan Seese wollen herausfinden, wer am beschissensten dran ist. Timur ist blind und arbeitet in einer Autoreinigung, Tan sitzt im Rollstuhl und muss auf dem Bauernhof anpacken, Okan ist taub und übernimmt den Service in einem vollen Restaurant. "Ein Blinder, ein Lahmer, ein Tauber" ist Comedy-Reality mit Haltung: direkt, überraschend und respektlos gegenüber Vorurteilen.'
-- eventId: 832279
+- eventId:
+  - 583556
+  - 832279
   start: 2026-10-10T08:45:00Z
   stop: 2026-10-10T09:00:00Z
   title: KlimaZeit
@@ -115,7 +121,9 @@
   audiodesc: true
   subtitle: 'Moderation: Janina Schreiber und Katha Jansen'
   description: "Sind E-Autos klimaschädlich? Wir gehen den hartnäckigen Fakenews über Elektromobilität nach. \nE-mobilität boomt, zeigt unter anderem die Mobilität-Studie des TÜV-Verbands.\nWieviel Ladesäulen dürfen's denn sein in Deutschland, wie viele werden es? Und: stehen auch die richtigen Säulen an der richtigen Stelle? \nWir sprechen mit Kaja Imhof von der Stabsstelle Nachhaltige Urbane Mobilität in Wiesbaden über städtische E-mobilitäts-Planung konkret."
-- eventId: 832318
+- eventId:
+  - 583867
+  - 832318
   start: 2026-10-10T09:00:00Z
   stop: 2026-10-10T10:30:00Z
   title: Nachtcafé
@@ -132,6 +140,19 @@
     * Prof. Dr. Rüdiger Lange, der Chirurg bricht ein Tabu und spricht über Ärztefehler
     * Anja Kaufmann, empfindet Scham, auf einen Liebesbetrüger reingefallen zu sein
     * Dr. Christian Firus, Arzt und Psychotherapeut
+- eventId: 583868
+  start: 2026-10-10T10:30:00Z
+  stop: 2026-10-10T11:58:00Z
+  title: Der Ranger - Paradies Heimat
+  subtitle: Zusammenhalt
+  description: Die junge Marie Fechner, die allein mit ihren drei jüngeren Geschwistern auf einem Hof in der Nähe der Waldeks wohnt, rettet einen durch ein Windrad verletzten Rotmilan. Nun soll unter Beteiligung von Karl Nollau ein weiterer Windpark in unmittelbarer Nähe entstehen - eine große Bedrohung für die Natur, die Jonas und Tierfreundin Marie unbedingt verhindern wollen.
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 832319
   start: 2026-10-10T10:30:00Z
   stop: 2026-10-10T11:58:00Z
@@ -155,6 +176,15 @@
   hd: true
   audiodesc: true
   description: '* Fußball, 3. Liga live: SC Fortuna Köln - 1. FC Saarbrücken'
+- eventId: 583869
+  start: 2026-10-10T11:58:00Z
+  stop: 2026-10-10T14:00:00Z
+  title: sportarena
+  subtitle: '3. Liga live: SC Fortuna Köln - 1. FC Saarbrücken'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 832351
   start: 2026-10-10T12:00:00Z
   stop: 2026-10-10T13:30:00Z
@@ -174,6 +204,18 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 584132
+  start: 2026-10-10T14:00:00Z
+  stop: 2026-10-10T14:45:00Z
+  title: Preiswert, nützlich, gut?
+  subtitle: Wassersprudler, Filter & Co.
+  description: Welches Wasser schmeckt besser, wenn das Wasser selbst gesprudelt wird? Wie preiswert ist das Wasser aus Wassersprudlern im Vergleich zu Mineralwasser aus dem Supermarkt? Braucht man dafür zusätzlich einen Filter?
+  genre:
+  - '144'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 832353
   start: 2026-10-10T14:00:00Z
   stop: 2026-10-10T14:45:00Z
@@ -186,7 +228,9 @@
   genre:
   - '144'
   description: Welches Wasser schmeckt besser, wenn das Wasser selbst gesprudelt wird? Wie preiswert ist das Wasser aus Wassersprudlern im Vergleich zu Mineralwasser aus dem Supermarkt? Braucht man dafür zusätzlich einen Filter?
-- eventId: 832354
+- eventId:
+  - 584133
+  - 832354
   start: 2026-10-10T14:45:00Z
   stop: 2026-10-10T15:30:00Z
   title: Marktcheck
@@ -196,7 +240,9 @@
   hd: true
   audiodesc: true
   description: "Graupen, Buchweizen & Co - heimisches Getreide als genussvolle Alternative. Was kann man mit ihm alles machen und was tun Graupen, Buchweizen & Co für die Gesundheit? \nSWR Ernährungsexpertin Sabine Schütze beantwortet die wichtigsten Fragen im Studio."
-- eventId: 832395
+- eventId:
+  - 584372
+  - 832395
   start: 2026-10-10T15:30:00Z
   stop: 2026-10-10T16:00:00Z
   title: sportarena
@@ -204,7 +250,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 832396
+- eventId:
+  - 584373
+  - 832396
   start: 2026-10-10T16:00:00Z
   stop: 2026-10-10T16:15:00Z
   title: SR info
@@ -213,7 +261,9 @@
   hd: true
   audiodesc: true
   description: Das Saarland und die Welt kompakt in 15 Minuten. Regionale und überregionale Information - ein Themenmix aus internationaler Politik und den Ereignissen des Tages in der Region. Täglich im SR Fernsehen um 18.00 Uhr und um 21.45 Uhr. Kurz nach der TV-Ausstrahlung auch im Internet unter SRinfo.de und in der ARD Mediathek.
-- eventId: 832397
+- eventId:
+  - 584374
+  - 832397
   start: 2026-10-10T16:15:00Z
   stop: 2026-10-10T16:45:00Z
   title: Flohmarkt
@@ -222,7 +272,9 @@
   hd: true
   audiodesc: true
   description: Es ist ein schmaler Grat zwischen Kunst und Kitsch. Ob Alpenpanorama, Bronzebüste oder gut erhaltene Küchenmaschinen aus Großmutters Zeiten - alles findet seinen Platz und sein neues Zuhause. Ein Bummel über den Fernseh-Flohmarkt lohnt sich also immer, selbst wenn "nur" Erinnerungen an längst vergangene Kindertage wachgerufen werden - durch Zuckerzange oder Mecki-Buch.
-- eventId: 832398
+- eventId:
+  - 584375
+  - 832398
   start: 2026-10-10T16:45:00Z
   stop: 2026-10-10T17:15:00Z
   title: Mit Herz am Herd
@@ -232,7 +284,9 @@
   hd: true
   audiodesc: true
   description: In der ersten Folge der neuen Staffel hat das Team um den sympathischen Sternekoch seine mobile Kochinsel am Rande der Veranstaltung "SR vor Ort" auf einer traumhaft schönen Streuobstwiese in Bliesmengen-Bolchen aufgeschlagen. Es gibt Kässchmier mit knusprigen Kerschdscher.
-- eventId: 832399
+- eventId:
+  - 584376
+  - 832399
   start: 2026-10-10T17:15:00Z
   stop: 2026-10-10T17:45:00Z
   title: daten der woche
@@ -243,7 +297,9 @@
   description: |-
     Der Wochenrückblick fürs Saarland und für die Saar-Lor-Lux-Region mit dem Wichtigsten aus Politik, Wirtschaft, Kultur und Sport.
     Information kompakt.
-- eventId: 832400
+- eventId:
+  - 584377
+  - 832400
   start: 2026-10-10T17:45:00Z
   stop: 2026-10-10T17:59:00Z
   title: aktueller bericht
@@ -252,7 +308,9 @@
   hd: true
   audiodesc: true
   description: 'Der "aktuelle bericht" - das sind die regionalen Tagesthemen im SR Fernsehen. Was auch immer im Land passiert, der "aktuelle bericht" ist einfach dichter dran - mit Reporterberichten, Nachrichtenfilmen, Kommentaren und der Meinung unserer Zuschauerinnen und Zuschauer. Wir liefern Informationen über das Geschehen in der Region, praktischen Service und unterhaltsame Geschichten aus dem Alltag. Mit Spielberichten, Vereinsporträts und aktuellen Meldungen ist der regionale Sport fester Bestandteil der Sendung. Der "aktuelle bericht": Worüber das Saarland morgen spricht, sehen Sie heute bei uns.'
-- eventId: 832401
+- eventId:
+  - 584378
+  - 832401
   start: 2026-10-10T17:59:00Z
   stop: 2026-10-10T18:00:00Z
   title: das saarlandwetter
@@ -261,7 +319,9 @@
   hd: true
   audiodesc: true
   description: Das Wetter-Magazin des SR bietet Ihnen die besten Aussichten! Bei uns erfahren Sie nicht nur, ob Sie morgen früh den Regenschirm einpacken sollten oder doch lieber die Sommerschuhe anziehen... Wir informieren Sie selbstverständlich auch über "Ihre" Wetterlage in der Großregion, ob Luxemburg, Lothringen oder Kaiserslautern.
-- eventId: 832443
+- eventId:
+  - 585508
+  - 832443
   start: 2026-10-10T18:00:00Z
   stop: 2026-10-10T18:15:00Z
   title: Tagesschau
@@ -270,7 +330,9 @@
   hd: true
   audiodesc: true
   description: Die Nachrichten der ARD
-- eventId: 832444
+- eventId:
+  - 585509
+  - 832444
   start: 2026-10-10T18:15:00Z
   stop: 2026-10-10T19:45:00Z
   title: Nord bei Nordwest - Estonia
@@ -283,7 +345,9 @@
   genre:
   - '16'
   description: "In der Seniorenresidenz Schönblick wird ein Mann bei einem Schusswechsel tödlich verletzt. Als letzte Handlung steckt er dem zufällig hinzukommenden Tierarzt Hauke Jacobs noch ein Stück Metall zu. Für Polizistin Lona Vogt verdichten sich die Hinweise, dass der Anschlag eigentlich ihrem Vater galt. Der war anscheinend nicht der harmlose Handlungsreisende, als der er sich ausgab, sondern arbeitete vermutlich für einen Nachrichtendienst. \nNicht weniger mysteriös geht es bei der Herkunft des Opfers zu. Der Mann hatte 1994 die Identität eines Toten angenommen. Die Ermittlungen führen in die Vergangenheit und zum Mörder von Lonas Mutter."
-- eventId: 832445
+- eventId:
+  - 585510
+  - 832445
   start: 2026-10-10T19:45:00Z
   stop: 2026-10-10T19:50:00Z
   title: SR info
@@ -292,7 +356,9 @@
   hd: true
   audiodesc: true
   description: Das Saarland und die Welt kompakt. Regionale und überregionale Ereignisse des Tages auch an Wochenenden und Feiertagen im SR Fernsehen um 21.45 Uhr. Kurz nach der TV-Ausstrahlung auch im Internet unter SRinfo.de und in der ARD Mediathek.
-- eventId: 832446
+- eventId:
+  - 585511
+  - 832446
   start: 2026-10-10T19:50:00Z
   stop: 2026-10-10T21:15:00Z
   title: 'Der Zürich-Krimi: Borchert und die Stadt in Angst (1) (1/2)'
@@ -305,7 +371,9 @@
   genre:
   - '16'
   description: Von KI-basierter Fallanalyse lässt sich Thomas Borchert wenig beeindrucken. Als Hauptmann Furrer ihn und seine Chefin Dominique Kuster bei der Jagd nach einem unheimlichen Serienmörder um Hilfe bittet, vertraut der 'Anwalt ohne Lizenz' lieber auf seine Menschenkenntnis und Intuition. Zwischen den Opfern - einem Studenten, einem Koch, einer Polizistin und einer Politikerin - gibt es keine erkennbaren Verbindungen. Bei den perfekt ausgeführten Morden geht der 'Zürich-Killer' unterschiedlich vor, hinterlässt aber jedes Mal eine Pappschablone mit der Darstellung von Sonne und Mond.
-- eventId: 832474
+- eventId:
+  - 587447
+  - 832474
   start: 2026-10-10T21:15:00Z
   stop: 2026-10-10T22:45:00Z
   title: 'Der Zürich-Krimi: Borchert und die Stadt in Angst (2) (2/2)'
@@ -318,7 +386,9 @@
   genre:
   - '16'
   description: Im zweiten Teil der Doppelfolge kommt Christian Kohlund als Titelheld einer tragischen Kette von Ereignissen als Auslöser für die Morde auf die Spur und gerät dabei selbst in Lebensgefahr. Regisseur Roland Suso Richter und sein Kameramann Andrés Marder finden auch im zweiten Teil für die von Wolf Jakoby erdachte Story um die Ereignisse am Tag einer Sonnenfinsternis starke und einprägsame, teils mystische Bilder. David und Anne Bennent spielen eindringlich ein verschworenes Geschwisterpaar, dessen Geschichte immer weiter aufgeblättert wird.
-- eventId: 832475
+- eventId:
+  - 587448
+  - 832475
   start: 2026-10-10T22:45:00Z
   stop: 2026-10-11T00:15:00Z
   title: Nord bei Nordwest - Estonia

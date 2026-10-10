@@ -109,7 +109,9 @@
   stop: 2026-10-10T05:50:00Z
   title: RASSEGNA STAMPA ESTERA
   subtitle: .
-- eventId: 1618175
+- eventId:
+  - 1618175
+  - 634044
   start: 2026-10-10T05:50:00Z
   stop: 2026-10-10T05:57:00Z
   title: MATTINA 24 + ISORADIO + METEO LIVE
@@ -339,12 +341,16 @@
   start: 2026-10-10T14:56:56Z
   stop: 2026-10-10T15:00:00Z
   title: RN-POMERIGGIO 3
-- eventId: 1577070
+- eventId:
+  - 1577070
+  - 626715
   start: 2026-10-10T15:00:00Z
   stop: 2026-10-10T15:27:36Z
   title: TITOLI + TG GIORNO
   subtitle: .
-- eventId: 1618185
+- eventId:
+  - 1618185
+  - 626716
   start: 2026-10-10T15:27:36Z
   stop: 2026-10-10T15:30:00Z
   title: RN-POMERIGGIO 4
@@ -353,7 +359,14 @@
   stop: 2026-10-10T15:33:00Z
   title: LA SFIDA DELLA CURA
   subtitle: .
-- eventId: 1618186
+- eventId: 626717
+  start: 2026-10-10T15:30:00Z
+  stop: 2026-10-10T15:33:00Z
+  title: SERA 24 ANTEPRIMA
+  subtitle: .
+- eventId:
+  - 1618186
+  - 626718
   start: 2026-10-10T15:33:00Z
   stop: 2026-10-10T15:57:00Z
   title: ECONOMIA 24
@@ -362,11 +375,15 @@
   start: 2026-10-10T15:55:00Z
   stop: 2026-10-10T16:00:00Z
   title: CCIS
-- eventId: 1618187
+- eventId:
+  - 1618187
+  - 626719
   start: 2026-10-10T15:57:00Z
   stop: 2026-10-10T16:00:00Z
   title: RN-POMERIGGIO 5
-- eventId: 1577073
+- eventId:
+  - 1577073
+  - 626720
   start: 2026-10-10T16:00:00Z
   stop: 2026-10-10T16:30:00Z
   title: SERA 24
@@ -376,11 +393,20 @@
   stop: 2026-10-10T16:57:49Z
   title: SPOTLIGHT
   subtitle: .
-- eventId: 1618188
+- eventId: 626721
+  start: 2026-10-10T16:30:00Z
+  stop: 2026-10-10T16:57:49Z
+  title: SERA 24
+  subtitle: .
+- eventId:
+  - 1618188
+  - 626722
   start: 2026-10-10T16:57:49Z
   stop: 2026-10-10T17:00:00Z
   title: RN-POMERIGGIO 6
-- eventId: 1577075
+- eventId:
+  - 1577075
+  - 626723
   start: 2026-10-10T17:00:00Z
   stop: 2026-10-10T17:30:00Z
   title: TG EDIZIONE PRINCIPALE
@@ -389,6 +415,11 @@
   start: 2026-10-10T17:30:00Z
   stop: 2026-10-10T17:45:00Z
   title: NEWS SOMMARIO
+  subtitle: .
+- eventId: 626724
+  start: 2026-10-10T17:30:00Z
+  stop: 2026-10-10T17:45:00Z
+  title: SERA 24 OFF
   subtitle: .
 - eventId: 1577077
   start: 2026-10-10T17:35:00Z
@@ -399,7 +430,14 @@
   stop: 2026-10-10T17:57:00Z
   title: BASTA LA SALUTE
   subtitle: .
-- eventId: 1618189
+- eventId: 626725
+  start: 2026-10-10T17:45:00Z
+  stop: 2026-10-10T17:57:00Z
+  title: RULLO SPORT 24
+  subtitle: .
+- eventId:
+  - 1618189
+  - 626726
   start: 2026-10-10T17:57:00Z
   stop: 2026-10-10T18:00:00Z
   title: RN-ACCESS 1

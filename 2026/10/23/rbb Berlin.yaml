@@ -1,6 +1,8 @@
 - eventId:
   - 1223544
   - 1428545
+  - 554824
+  - 562724
   start: 2026-10-23T00:20:00Z
   stop: 2026-10-23T01:10:00Z
   title: Panda, Gorilla & Co. (244)
@@ -13,6 +15,8 @@
 - eventId:
   - 1223545
   - 1428546
+  - 554825
+  - 562725
   start: 2026-10-23T01:10:00Z
   stop: 2026-10-23T01:30:00Z
   title: Berliner Nächte - Herbst
@@ -24,6 +28,8 @@
 - eventId:
   - 1223546
   - 1428547
+  - 554826
+  - 562726
   start: 2026-10-23T01:30:00Z
   stop: 2026-10-23T03:00:00Z
   title: DER TAG in Berlin & Brandenburg
@@ -36,6 +42,8 @@
 - eventId:
   - 1223566
   - 1428586
+  - 555487
+  - 562899
   start: 2026-10-23T03:00:00Z
   stop: 2026-10-23T03:30:00Z
   title: rbb24 BRANDENBURG
@@ -47,6 +55,8 @@
 - eventId:
   - 1223567
   - 1428587
+  - 555488
+  - 562900
   start: 2026-10-23T03:30:00Z
   stop: 2026-10-23T04:00:00Z
   title: rbb24 BERLIN
@@ -58,6 +68,8 @@
 - eventId:
   - 1223568
   - 1428588
+  - 555489
+  - 562901
   start: 2026-10-23T04:00:00Z
   stop: 2026-10-23T06:00:00Z
   title: Guten Morgen Berlin
@@ -70,6 +82,8 @@
 - eventId:
   - 1223630
   - 1428663
+  - 558534
+  - 598388
   start: 2026-10-23T06:00:00Z
   stop: 2026-10-23T06:30:00Z
   title: rbb24 Brandenburg aktuell
@@ -81,6 +95,8 @@
 - eventId:
   - 1223631
   - 1428664
+  - 558535
+  - 598389
   start: 2026-10-23T06:30:00Z
   stop: 2026-10-23T07:00:00Z
   title: rbb24 Abendschau
@@ -92,6 +108,8 @@
 - eventId:
   - 1223632
   - 1428665
+  - 558536
+  - 598390
   start: 2026-10-23T07:00:00Z
   stop: 2026-10-23T07:45:00Z
   title: In aller Freundschaft (634)
@@ -104,6 +122,8 @@
 - eventId:
   - 1223633
   - 1428666
+  - 558537
+  - 598391
   start: 2026-10-23T07:45:00Z
   stop: 2026-10-23T08:30:00Z
   title: In aller Freundschaft (635)
@@ -116,6 +136,8 @@
 - eventId:
   - 1223634
   - 1428667
+  - 558538
+  - 598392
   start: 2026-10-23T08:30:00Z
   stop: 2026-10-23T09:15:00Z
   title: In aller Freundschaft - Die jungen Ärzte (141)
@@ -129,6 +151,7 @@
   - 1223705
   - 1428693
   - 541441
+  - 558755
   start: 2026-10-23T09:15:00Z
   stop: 2026-10-23T10:05:00Z
   title: Giraffe, Erdmännchen & Co. (244)
@@ -142,6 +165,7 @@
   - 1223706
   - 1428694
   - 541442
+  - 558756
   start: 2026-10-23T10:05:00Z
   stop: 2026-10-23T10:55:00Z
   title: WaPo Elbe (11)
@@ -164,17 +188,23 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 541443
+- eventId:
+  - 541443
+  - 558757
   start: 2026-10-23T10:55:00Z
   stop: 2026-10-23T11:40:00Z
   title: Auf Achse (4)
   subtitle: Tommys Trip
   episodeUri: crid://onid-8468/e/6aa47cdcb8535a99b88a561c
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1223708
   - 1428696
   - 541444
+  - 558758
   start: 2026-10-23T11:40:00Z
   stop: 2026-10-23T12:30:00Z
   title: WaPo Elbe (12)
@@ -189,6 +219,7 @@
   - 1223728
   - 1428776
   - 541655
+  - 558951
   start: 2026-10-23T12:30:00Z
   stop: 2026-10-23T14:00:00Z
   title: Für immer daheim
@@ -204,6 +235,7 @@
   - 1223729
   - 1428777
   - 541656
+  - 558952
   start: 2026-10-23T14:00:00Z
   stop: 2026-10-23T14:15:00Z
   title: rbb24
@@ -216,6 +248,7 @@
   - 1223730
   - 1428778
   - 541657
+  - 558953
   start: 2026-10-23T14:15:00Z
   stop: 2026-10-23T15:05:00Z
   title: In aller Freundschaft - Die jungen Ärzte (142)
@@ -229,6 +262,7 @@
   - 1223763
   - 1431627
   - 544911
+  - 570440
   start: 2026-10-23T15:05:00Z
   stop: 2026-10-23T15:53:00Z
   title: Panda, Gorilla & Co. (245)
@@ -242,6 +276,7 @@
   - 1223764
   - 1431628
   - 544912
+  - 570441
   start: 2026-10-23T15:53:00Z
   stop: 2026-10-23T16:00:00Z
   title: Unser Sandmännchen
@@ -255,6 +290,7 @@
   - 1223765
   - 1431629
   - 544913
+  - 570442
   start: 2026-10-23T16:00:00Z
   stop: 2026-10-23T17:27:00Z
   title: DER TAG in Berlin & Brandenburg
@@ -268,6 +304,7 @@
   - 1223766
   - 1431630
   - 544914
+  - 570443
   start: 2026-10-23T17:27:00Z
   stop: 2026-10-23T17:29:00Z
   title: rbb wetter
@@ -281,6 +318,7 @@
   - 1223767
   - 1431631
   - 544915
+  - 570444
   start: 2026-10-23T17:30:00Z
   stop: 2026-10-23T17:59:00Z
   title: rbb24 Abendschau
@@ -306,6 +344,7 @@
   - 1359660
   - 1428992
   - 547617
+  - 559006
   start: 2026-10-23T18:00:00Z
   stop: 2026-10-23T18:15:00Z
   title: Tagesschau
@@ -318,6 +357,7 @@
   - 1223805
   - 1428993
   - 547618
+  - 559007
   start: 2026-10-23T18:15:00Z
   stop: 2026-10-23T19:45:00Z
   title: Die 30 legendärsten Brandenburger Gasthäuser
@@ -330,6 +370,7 @@
   - 1223806
   - 1428994
   - 547619
+  - 559008
   start: 2026-10-23T19:45:00Z
   stop: 2026-10-23T20:15:00Z
   title: rbb24 BERLIN
@@ -342,6 +383,7 @@
   - 1223807
   - 1428995
   - 547620
+  - 559009
   start: 2026-10-23T20:15:00Z
   stop: 2026-10-23T22:15:00Z
   title: Die größten Pop-Kulthits der 70er (3/6)
@@ -354,6 +396,7 @@
   - 1223824
   - 1429055
   - 547871
+  - 560501
   start: 2026-10-23T22:15:00Z
   stop: 2026-10-23T23:45:00Z
   title: Die Pop Off Show von radioeins
@@ -377,6 +420,7 @@
   - 1387751
   - 1429056
   - 547872
+  - 560502
   start: 2026-10-23T23:45:00Z
   stop: 2026-10-24T01:10:00Z
   title: Sterben für Anfänger
