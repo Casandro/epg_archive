@@ -248,7 +248,9 @@
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
   genre:
   - '34'
-- eventId: 1466098
+- eventId:
+  - 1466098
+  - 625478
   start: 2026-10-10T06:14:00Z
   stop: 2026-10-10T06:17:00Z
   title: Prognoza pogody
@@ -257,13 +259,6 @@
     Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
-- eventId: 625478
-  start: 2026-10-10T06:14:00Z
-  stop: 2026-10-10T06:17:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId: 1466099
   start: 2026-10-10T06:17:00Z
   stop: 2026-10-10T06:30:00Z
@@ -280,6 +275,8 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  genre:
+  - '34'
 - eventId:
   - 1466100
   - 625480
@@ -307,6 +304,8 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  genre:
+  - '34'
 - eventId:
   - 1466102
   - 625482
@@ -348,7 +347,12 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
-- eventId: 1466105
+  subtitle: Program składa się z serwisów informacyjnych i sportowych, przeglądu prasy krajowej i zagranicznej oraz portali internetowych, prognozy pogody, informacji ekonomicznych i rozmowy z zaproszonymi gośćmi.
+  genre:
+  - '34'
+- eventId:
+  - 1466105
+  - 625485
   start: 2026-10-10T07:25:00Z
   stop: 2026-10-10T07:30:00Z
   title: Prognoza pogody
@@ -357,13 +361,6 @@
     Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
-- eventId: 625485
-  start: 2026-10-10T07:25:00Z
-  stop: 2026-10-10T07:30:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId:
   - 1466106
   - 625486
@@ -413,7 +410,7 @@
   - 1466110
   - 625490
   start: 2026-10-10T10:00:00Z
-  stop: 2026-10-10T10:27:00Z
+  stop: 2026-10-10T10:12:00Z
   title: Serwis Info Poranek
   description: |-
     program informacyjny (na żywo)
@@ -424,6 +421,7 @@
   - 1584269
   - 1633721
   - 1635647
+  - 650127
   start: 2026-10-10T10:12:00Z
   stop: 2026-10-10T10:27:00Z
   title: Polska na tak
@@ -432,7 +430,9 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 1466111
+- eventId:
+  - 1466111
+  - 625492
   start: 2026-10-10T10:27:00Z
   stop: 2026-10-10T10:30:00Z
   title: Prognoza pogody
@@ -441,18 +441,11 @@
     Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
-- eventId: 625492
-  start: 2026-10-10T10:27:00Z
-  stop: 2026-10-10T10:30:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId:
   - 1466112
   - 625493
   start: 2026-10-10T10:30:00Z
-  stop: 2026-10-10T11:00:00Z
+  stop: 2026-10-10T10:42:00Z
   title: Serwis Info Poranek
   description: |-
     program informacyjny (na żywo)
@@ -463,6 +456,7 @@
   - 1584270
   - 1633722
   - 1635648
+  - 650128
   start: 2026-10-10T10:42:00Z
   stop: 2026-10-10T11:00:00Z
   title: Polska na tak
@@ -475,7 +469,7 @@
   - 1466113
   - 625495
   start: 2026-10-10T11:00:00Z
-  stop: 2026-10-10T11:27:00Z
+  stop: 2026-10-10T11:12:00Z
   title: Serwis Info Poranek
   description: |-
     program informacyjny (na żywo)
@@ -486,6 +480,7 @@
   - 1584271
   - 1633723
   - 1635649
+  - 650129
   start: 2026-10-10T11:12:00Z
   stop: 2026-10-10T11:27:00Z
   title: Polska na tak
@@ -494,7 +489,9 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 1466114
+- eventId:
+  - 1466114
+  - 625497
   start: 2026-10-10T11:27:00Z
   stop: 2026-10-10T11:30:00Z
   title: Prognoza pogody
@@ -503,18 +500,11 @@
     Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
-- eventId: 625497
-  start: 2026-10-10T11:27:00Z
-  stop: 2026-10-10T11:30:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId:
   - 1466115
   - 625498
   start: 2026-10-10T11:30:00Z
-  stop: 2026-10-10T12:00:00Z
+  stop: 2026-10-10T11:44:00Z
   title: Serwis Info Poranek
   description: |-
     program informacyjny (na żywo)
@@ -525,6 +515,7 @@
   - 1584272
   - 1633724
   - 1635650
+  - 650130
   start: 2026-10-10T11:44:00Z
   stop: 2026-10-10T12:00:00Z
   title: Polska na tak
