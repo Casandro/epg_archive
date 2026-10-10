@@ -344,14 +344,16 @@
   - '34'
 - eventId: 1466110
   start: 2026-10-10T10:00:00Z
-  stop: 2026-10-10T10:27:00Z
+  stop: 2026-10-10T10:12:00Z
   title: Serwis Info Poranek
   description: |-
     program informacyjny (na żywo)
     Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
   genre:
   - '34'
-- eventId: 1584269
+- eventId:
+  - 1584269
+  - 1633721
   start: 2026-10-10T10:12:00Z
   stop: 2026-10-10T10:27:00Z
   title: Polska na tak
@@ -371,14 +373,16 @@
   - '32'
 - eventId: 1466112
   start: 2026-10-10T10:30:00Z
-  stop: 2026-10-10T11:00:00Z
+  stop: 2026-10-10T10:42:00Z
   title: Serwis Info Poranek
   description: |-
     program informacyjny (na żywo)
     Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
   genre:
   - '34'
-- eventId: 1584270
+- eventId:
+  - 1584270
+  - 1633722
   start: 2026-10-10T10:42:00Z
   stop: 2026-10-10T11:00:00Z
   title: Polska na tak
@@ -389,14 +393,16 @@
   - '34'
 - eventId: 1466113
   start: 2026-10-10T11:00:00Z
-  stop: 2026-10-10T11:27:00Z
+  stop: 2026-10-10T11:12:00Z
   title: Serwis Info Poranek
   description: |-
     program informacyjny (na żywo)
     Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
   genre:
   - '34'
-- eventId: 1584271
+- eventId:
+  - 1584271
+  - 1633723
   start: 2026-10-10T11:12:00Z
   stop: 2026-10-10T11:27:00Z
   title: Polska na tak
@@ -416,14 +422,16 @@
   - '32'
 - eventId: 1466115
   start: 2026-10-10T11:30:00Z
-  stop: 2026-10-10T12:00:00Z
+  stop: 2026-10-10T11:44:00Z
   title: Serwis Info Poranek
   description: |-
     program informacyjny (na żywo)
     Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
   genre:
   - '34'
-- eventId: 1584272
+- eventId:
+  - 1584272
+  - 1633724
   start: 2026-10-10T11:44:00Z
   stop: 2026-10-10T12:00:00Z
   title: Polska na tak
@@ -441,7 +449,9 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 1584273
+- eventId:
+  - 1584273
+  - 1633725
   start: 2026-10-10T12:09:00Z
   stop: 2026-10-10T12:24:00Z
   title: Polska na tak
@@ -468,7 +478,9 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 1584274
+- eventId:
+  - 1584274
+  - 1633726
   start: 2026-10-10T12:44:00Z
   stop: 2026-10-10T13:00:00Z
   title: Polska na tak
@@ -486,7 +498,9 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 1584275
+- eventId:
+  - 1584275
+  - 1633727
   start: 2026-10-10T13:12:00Z
   stop: 2026-10-10T13:27:00Z
   title: Polska na tak
@@ -513,7 +527,9 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 1584276
+- eventId:
+  - 1584276
+  - 1633728
   start: 2026-10-10T13:42:00Z
   stop: 2026-10-10T14:00:00Z
   title: Polska na tak
@@ -536,9 +552,9 @@
   start: 2026-10-10T15:00:00Z
   stop: 2026-10-10T15:15:00Z
   title: Teleexpress
-  description: |
-    Tytuł oryginalny: Teleexpress
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Dynamicznie prowadzony serwis informacyjny prezentujący aktualne wydarzenia, wiadomości kulturalne oraz ciekawostki z kraju i ze świata.
   genre:
   - '32'
 - eventId: 1466124
@@ -546,18 +562,18 @@
   stop: 2026-10-10T15:35:00Z
   title: Teleexpress Extra
   subtitle: Serwis informacyjny prezentujący bieżące wydarzenia, wiadomości kulturalne oraz ciekawostki z kraju i ze świata.
-  description: |
-    Tytuł oryginalny: Teleexpress Extra
-    PL, 2026
+  description: |-
+    magazyn informacyjny (Polska) (na żywo)
+    Prowadzący program prezentują najważniejsze tematy głównego wydania "Teleexpressu" w szerszym wymiarze.
   genre:
   - '34'
 - eventId: 1466125
   start: 2026-10-10T15:35:00Z
   stop: 2026-10-10T15:42:00Z
   title: Panorama
-  description: |
-    Tytuł oryginalny: Panorama
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Podsumowanie najważniejszych wydarzeń dnia z kraju i ze świata. W programie oprócz materiałów czysto newsowych, politycznych, społecznych, gospodarczych, medycznych, naukowych i kulturalnych znajdą się również analizy konkretnych zagadnień oraz wypowiedzi ekspertów.
   genre:
   - '32'
 - eventId: 1466126
@@ -565,9 +581,11 @@
   stop: 2026-10-10T15:59:00Z
   title: Sprawdzamy
   subtitle: Program obnaża dezinformacje, kłamstwa polityków i pseudoekspertów, a także zawiera porady, jak nie dać się oszukać.
-  description: |
-    Tytuł oryginalny: Sprawdzamy
-    PL, 2026
+  description: |-
+    magazyn (Polska, 2024)
+    Prowadzą: Juliusz Głuski-Schimmer, Witold Tabaka
+    Magazyn publicystyczny skoncentrowany na rzetelnych faktach i profesjonalnej analizie informacji ma na celu ochronę demokracji, wolności słowa oraz stabilności społecznej. Audycja ta będzie istotnym narzędziem w walce z dezinformacją i fake newsami, co przyczyni się do wzmocnienia społeczeństwa obywatelskiego.
+    Od lat: 12
   ageRating: 12
   genre:
   - '34'
@@ -586,28 +604,28 @@
   stop: 2026-10-10T16:20:00Z
   title: Panorama
   subtitle: Główny serwis informacyjny TVP Info podsumowujący dzień, wzbogacony o więcej wiadomości ze świata oraz z dziedziny gospodarki i kultury.
-  description: |
-    Tytuł oryginalny: Panorama
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Podsumowanie najważniejszych wydarzeń dnia z kraju i ze świata. W programie oprócz materiałów czysto newsowych, politycznych, społecznych, gospodarczych, medycznych, naukowych i kulturalnych znajdą się również analizy konkretnych zagadnień oraz wypowiedzi ekspertów.
   genre:
   - '32'
 - eventId: 1466129
   start: 2026-10-10T16:20:00Z
   stop: 2026-10-10T16:30:00Z
   title: Teleplotki
-  description: |
-    Tytuł oryginalny: Teleplotki
-    PL, 2026
+  description: |-
+    magazyn informacyjny (Polska, 2026)
+    Realizatorzy programu śledzą najważniejsze wydarzenia kulturalne minionego tygodnia. Informują widzów o zagranicznych i krajowych premierach kinowych oraz telewizyjnych, a także o najciekawszych zdarzeniach z życia gwiazd. Humorystyczna formuła programu pozwala spojrzeć na świat show-biznesu z przymrużeniem oka.
   genre:
   - '34'
 - eventId: 1466130
   start: 2026-10-10T16:30:00Z
   stop: 2026-10-10T17:00:00Z
-  title: Kiedyś to było
+  title: Kiedyś to było...
   subtitle: Audycja publicystyczno-rozrywkowa prezentująca materiały archiwalne z zasobów Telewizji, przybliżające wybrane tematy i wydarzenia, które miały miejsce w tym samym tygodniu kilka, kilkanaście lub kilkadziesiąt lat temu.
-  description: |
-    Tytuł oryginalny: Kiedyś to było
-    PL, 2026
+  description: |-
+    magazyn (Polska, 2024)
+    Publicystyczno-rozrywkowa audycja w formacie infotainment. Program poprowadzi dwójka dziennikarzy, mężczyzna z pokolenia w wieku średnim, z bogatym doświadczeniem radiowym i telewizyjnym oraz kobieta z pokolenia milenialsów.
   genre:
   - '34'
 - eventId: 1466131
@@ -615,28 +633,28 @@
   stop: 2026-10-10T17:22:00Z
   title: Serwis info wieczór
   subtitle: Wieczorny serwis informacyjny, prezentujący najważniejsze wydarzenia mijającego dnia.
-  description: |
-    Tytuł oryginalny: Serwis info wieczór
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
   genre:
   - '34'
 - eventId: 1466132
   start: 2026-10-10T17:22:00Z
   stop: 2026-10-10T17:30:00Z
   title: Prognoza pogody
-  description: |
-    Tytuł oryginalny: Prognoza pogody
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
 - eventId: 1466133
   start: 2026-10-10T17:30:00Z
   stop: 2026-10-10T17:58:00Z
-  title: '19.30'
+  title: Program informacyjny 19.30
   subtitle: Bieżące wydarzenia w kraju i na świecie. Informacje polityczne, gospodarcze, ważne tematy społeczne i poruszające opinię publiczną.
-  description: |
-    Tytuł oryginalny: 19.30
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.
   genre:
   - '32'
 - eventId: 1466134
@@ -644,9 +662,9 @@
   stop: 2026-10-10T18:15:00Z
   title: Pytanie dnia
   subtitle: Zaproszony do studia gość komentuje wydarzenia dnia. Emisja bezpośrednio po głównym wydaniu programu informacyjnego ma związek z charakterem problematyki poruszanej w każdym odcinku.
-  description: |
-    Tytuł oryginalny: Pytanie dnia
-    PL, 2026
+  description: |-
+    program publicystyczny (Polska, 2025) (na żywo)
+    Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.
   genre:
   - '51'
 - eventId: 1467621
