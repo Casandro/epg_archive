@@ -235,6 +235,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 1105230
   - 1322199
@@ -267,12 +268,15 @@
   - 632497
   start: 2026-10-19T13:10:00Z
   stop: 2026-10-19T14:00:00Z
-  title: WaPo Bodensee
+  title: WaPo Bodensee (29)
   subtitle: Go for Gold
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 1105233
   - 1322202
@@ -409,11 +413,12 @@
   - 632853
   start: 2026-10-19T19:00:00Z
   stop: 2026-10-19T19:45:00Z
-  title: Die Ernährungs-Docs
+  title: Die Ernährungs-Docs (93)
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Adipositas und Reflux, Fibromyalgie
 - eventId:
   - 1105301
   - 1322081
@@ -446,6 +451,7 @@
   widescreen: true
   hd: true
   audiodesc: true
+  subtitle: Die Kinder vom Bürgerzentrum
 - eventId:
   - 1105303
   - 1322083
@@ -467,11 +473,13 @@
   start: 2026-10-19T21:15:00Z
   stop: 2026-10-19T23:00:00Z
   title: Mein ewiger Sommer
-  subtitle: Dänemark 2024
+  subtitle: Spielfilm Dänemark 2024
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1105322
   - 1322102
@@ -484,3 +492,6 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Spielfilm Frankreich/Schweden/Finnland 2022
+  genre:
+  - '16'

@@ -228,6 +228,7 @@
   - 1620972
   - 1621551
   - 1630113
+  - 652164
   start: 2026-10-10T06:03:00Z
   stop: 2026-10-10T06:29:00Z
   title: Superknjiga
@@ -240,6 +241,14 @@
   start: 2026-10-10T06:29:00Z
   stop: 2026-10-10T07:00:00Z
   title: Moje vrijeme s Isusom, My time with Jesus
+  subtitle: 'Crtana serija prati zgode četvero djece, Eve, Josepha, Christine i Enriquea, koji su krenuli na put otkrića. Naši junaci putuju u prošlost kako bi oživjeli svoje omiljene priče iz Evanđelja. '
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 652165
+  start: 2026-10-10T06:29:00Z
+  stop: 2026-10-10T07:00:00Z
+  title: Moje vrijeme s Isusom
   subtitle: 'Crtana serija prati zgode četvero djece, Eve, Josepha, Christine i Enriquea, koji su krenuli na put otkrića. Naši junaci putuju u prošlost kako bi oživjeli svoje omiljene priče iz Evanđelja. '
   ageRating: 4
   genre:
@@ -263,6 +272,7 @@
   - 1620973
   - 1621552
   - 1630114
+  - 652166
   start: 2026-10-10T07:00:00Z
   stop: 2026-10-10T07:07:00Z
   title: Živa riječ
@@ -270,7 +280,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1469891
+- eventId:
+  - 1469891
+  - 652171
   start: 2026-10-10T07:07:00Z
   stop: 2026-10-10T08:30:00Z
   title: Novi život
@@ -323,7 +335,9 @@
   title: 'Sveta Misa: Solin, Sveta Misa: Solin'
   subtitle: Religijski
   description: 'U subotu, 10. listopada, s Gospina otoka u Solinu prenosimo središnje euharistijsko slavlje u povodu 1050. obljetnice smrti hrvatske kraljice Jelene i 950. obljetnice krunidbe kralja Dmitra Zvonimira. Svečanu svetu misu predslavit će splitsko-makarski nadbiskup i metropolit mons. Zdenko Križić, u zajedništvu s biskupima Hrvatske biskupske konferencije. Gospin otok, mjesto duboko povezano s počecima kršćanstva u hrvatskom narodu, bit će tako središte molitve i zahvalnosti za vjeru i kršćansku baštinu koja se kroz stoljeća prenosila s naraštaja na naraštaj. Upravo je ovdje sveti Ivan Pavao II. poručio: ,,Ovdje je vrelo vašega identiteta. Ovdje su vaši duboki kršćanski korijeni.'
-- eventId: 1630117
+- eventId:
+  - 1630117
+  - 652172
   start: 2026-10-10T08:30:00Z
   stop: 2026-10-10T10:36:00Z
   title: 'Sveta Misa: Solin'
@@ -337,6 +351,12 @@
   title: Apostoli mira - Kraljice Hrvata, Apostoli mira - Kraljice Hrvata
   subtitle: Duhovni sastav 'Apostoli mira' donosi vam pjesmu 'Kraljice Hrvata'.
   ageRating: 4
+- eventId: 652173
+  start: 2026-10-10T10:36:00Z
+  stop: 2026-10-10T10:40:00Z
+  title: Apostoli mira - Kraljice Hrvata
+  subtitle: Duhovni sastav 'Apostoli mira' donosi vam pjesmu 'Kraljice Hrvata'.
+  ageRating: 4
 - eventId: 1469902
   start: 2026-10-10T10:40:00Z
   stop: 2026-10-10T11:05:00Z
@@ -346,12 +366,28 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 652174
+  start: 2026-10-10T10:40:00Z
+  stop: 2026-10-10T11:05:00Z
+  title: Vjetar Božji
+  subtitle: Bog je Ljubav i Gospodnja Ljubav jest savršena, strastvena i bezuvjetna. Ne možemo ništa učiniti čime bi potakli Boga da nas voli više, niti možemo učiniti išta da nas voli manje.
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 1469903
   start: 2026-10-10T11:05:00Z
   stop: 2026-10-10T12:06:00Z
   title: Neka nam Bog pomogne 5, serija
   subtitle: Sestra Angela istražuje djevojku koja je spremna prodati sebe ne bi li spasila onoga koga voli. Nico se, s druge strane, želi ozbiljno pozabaviti Marijom.
   description: Sestra Angela istražuje djevojku koja je spremna prodati sebe ne bi li spasila onoga koga voli. Nico se, s druge strane, želi ozbiljno pozabaviti Marijom. U međuvremenu, Ginevru proganja vlastita prošlost i plaši je. Nico je pokušava zaštititi, pa saznaje tajnu koju je čuvala od njega. Athos i Emma otkrivaju da oboje vole čitati, a Azzurra postaje pseudo intelektualka da ne bude izostavljena iz razgovora.
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 652175
+  start: 2026-10-10T11:05:00Z
+  stop: 2026-10-10T12:06:00Z
+  title: Neka nam Bog pomogne
+  subtitle: Sestra Angela istražuje djevojku koja je spremna prodati sebe ne bi li spasila onoga koga voli. Nico se, s druge strane, želi ozbiljno pozabaviti Marijom.
   ageRating: 4
   genre:
   - '128'
@@ -782,7 +818,9 @@
   stop: 2026-10-10T22:54:00Z
   title: Generacija plus
   subtitle: Magazin
-- eventId: 1546271
+- eventId:
+  - 1546271
+  - 652186
   start: 2026-10-10T22:10:00Z
   stop: 2026-10-10T22:55:00Z
   title: Generacija plus
@@ -797,7 +835,9 @@
   title: Tolkien
   subtitle: Dokumentarni
   description: 'Tolkien''s The Lord of the Rings: A Catholic Worldview'
-- eventId: 1546272
+- eventId:
+  - 1546272
+  - 652187
   start: 2026-10-10T22:55:00Z
   stop: 2026-10-10T23:52:00Z
   title: Tolkien
@@ -812,7 +852,9 @@
   title: Blagoslovljen tek
   subtitle: Religijski
   description: Dolazak u Zagreb zbog liječenja za mnoge znači neizvjesnost, strah i udaljenost od vlastitog doma. U tim trenucima pomoć nije samo smještaj, već i osjećaj sigurnosti i podrške. Upravo to pruža Udruga fra Mladen Hrkać, koja već godinama pomaže ljudima koji su zbog liječenja primorani živjeti u Zagrebu. Upoznajemo njihove predane djelatnike i volontere koji pružaju oslonac korisnicima dok prolaze kroz teške trenutke. U kulinarskom dijelu pripremaju se francuska salata, zeljanica te hercegovački uštipci.
-- eventId: 1546273
+- eventId:
+  - 1546273
+  - 652188
   start: 2026-10-10T23:52:00Z
   stop: 2026-10-11T00:57:00Z
   title: Blagoslovljen tek
