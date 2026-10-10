@@ -62,6 +62,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId:
   - 1105120
   - 631895
@@ -167,7 +169,7 @@
   start: 2026-10-19T10:00:00Z
   stop: 2026-10-19T10:25:00Z
   title: Elefant, Tiger & Co. (964)
-  subtitle: Leipziger Fabriken
+  subtitle: Geschichten aus dem Leipziger Zoo
   widescreen: true
   subtitled: true
   hd: true
@@ -183,6 +185,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 1105184
   - 632221
@@ -194,6 +197,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 1105207
   - 632400
@@ -220,12 +224,15 @@
   - 632402
   start: 2026-10-19T13:10:00Z
   stop: 2026-10-19T14:00:00Z
-  title: WaPo Bodensee
+  title: WaPo Bodensee (29)
   subtitle: Go for Gold
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 1105210
   - 632403
@@ -335,11 +342,12 @@
   - 632730
   start: 2026-10-19T19:00:00Z
   stop: 2026-10-19T19:45:00Z
-  title: Die Ernährungs-Docs
+  title: Die Ernährungs-Docs (93)
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Adipositas und Reflux, Fibromyalgie
 - eventId:
   - 1105272
   - 632731
@@ -366,6 +374,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Die Kinder vom Bürgerzentrum
 - eventId:
   - 1105274
   - 632733
@@ -383,11 +392,13 @@
   start: 2026-10-19T21:15:00Z
   stop: 2026-10-19T23:00:00Z
   title: Mein ewiger Sommer
-  subtitle: Dänemark 2024
+  subtitle: Spielfilm Dänemark 2024
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1105311
   - 632905
@@ -398,3 +409,6 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Spielfilm Frankreich/Schweden/Finnland 2022
+  genre:
+  - '16'
