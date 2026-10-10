@@ -5,6 +5,13 @@
   description: Záznam z rokovania Národnej rady Slovenskej republiky (2026)
   genre:
   - '32'
+- eventId: 661160
+  start: 2026-10-12T00:00:00Z
+  stop: 2026-10-12T03:00:00Z
+  title: Záznam z rokovania NR SR (64)
+  description: Záznam z rokovania Národnej rady Slovenskej republiky (2026)
+  genre:
+  - '32'
 - eventId: 1621180
   start: 2026-10-12T01:45:00Z
   stop: 2026-10-12T02:05:00Z
@@ -44,6 +51,21 @@
   description: ' (2026)'
   genre:
   - '33'
+- eventId: 661161
+  start: 2026-10-12T03:00:00Z
+  stop: 2026-10-12T03:50:00Z
+  title: Správy "N" (284)
+  description: ' (2026)'
+  genre:
+  - '33'
+- eventId: 661162
+  start: 2026-10-12T03:50:00Z
+  stop: 2026-10-12T04:15:00Z
+  title: Peniaze (19)
+  subtitle: Všetko, čo potrebujete vedieť o (svojich) peniazoch.
+  description: Devätnásta časť relácie Peniaze sa venuje investovaniu a tomu, ako dnes Slováci zhodnocujú svoje úspory. Pozrie sa na rastúci záujem mladých ľudí o investovanie, základné možnosti, ale aj riziká, ktoré treba pri rozhodovaní zohľadniť. Odborníci vysvetlia význam času, inflácie a investičného horizontu a relácia sa dotkne aj investovania do nehnuteľností či využitia nových technológií. Praktické skúsenosti a konkrétne príklady ponúknu divákom základnú orientáciu vo svete investovania. (2026)
+  genre:
+  - '34'
 - eventId: 1621191
   start: 2026-10-12T03:55:00Z
   stop: 2026-10-12T04:20:00Z
@@ -52,6 +74,14 @@
   description: Devätnásta časť relácie Peniaze sa venuje investovaniu a tomu, ako dnes Slováci zhodnocujú svoje úspory. Pozrie sa na rastúci záujem mladých ľudí o investovanie, základné možnosti, ale aj riziká, ktoré treba pri rozhodovaní zohľadniť. Odborníci vysvetlia význam času, inflácie a investičného horizontu a relácia sa dotkne aj investovania do nehnuteľností či využitia nových technológií. Praktické skúsenosti a konkrétne príklady ponúknu divákom základnú orientáciu vo svete investovania. (2026)
   genre:
   - '34'
+- eventId: 661163
+  start: 2026-10-12T04:15:00Z
+  stop: 2026-10-12T05:00:00Z
+  title: Kultúra SK (28)
+  subtitle: Magazín o premiérach, vernisážach, koncertoch a ďalších aktuálnych udalostiach zo slovenskej kultúry.
+  description: Bratislava hostila festival súčasného umenia Biela noc. Do kín prišiel česko-slovenský film Posledná sezóna. Slávnostný ceremoniál z udeľovania hudobných ocenení Esprit. Rozhovor s výtvarníkom Milanom Bočkayom. SNG otvorilo výstavu Tomasa Rajlicha. V Zichyho paláci je výstava Quatro Islas. 25. ročník medzinárodného festivalu Bábkarská Bystrica. Koncert Mariky Gombitovej v Prešove. Kniha Danubea fotografa Alana Hyžu. (2026)
+  genre:
+  - '122'
 - eventId: 1621192
   start: 2026-10-12T04:20:00Z
   stop: 2026-10-12T05:00:00Z
@@ -60,7 +90,9 @@
   description: Bratislava hostila festival súčasného umenia Biela noc. Do kín prišiel česko-slovenský film Posledná sezóna. Slávnostný ceremoniál z udeľovania hudobných ocenení Esprit. Rozhovor s výtvarníkom Milanom Bočkayom. SNG otvorilo výstavu Tomasa Rajlicha. V Zichyho paláci je výstava Quatro Islas. 25. ročník medzinárodného festivalu Bábkarská Bystrica. Koncert Mariky Gombitovej v Prešove. Kniha Danubea fotografa Alana Hyžu. (2026)
   genre:
   - '122'
-- eventId: 1621193
+- eventId:
+  - 1621193
+  - 661164
   start: 2026-10-12T05:00:00Z
   stop: 2026-10-12T06:30:00Z
   title: Ranné správy (194)
@@ -68,7 +100,9 @@
   description: Spravodajská relácia Slovenskej televízie, ranný prehľad najdôležitejších udalostí doma i vo svete. (2026)
   genre:
   - '33'
-- eventId: 1621194
+- eventId:
+  - 1621194
+  - 661165
   start: 2026-10-12T06:30:00Z
   stop: 2026-10-12T07:45:00Z
   title: O 5 minút 12 (30)
@@ -76,7 +110,9 @@
   description: Politická diskusia o témach, ktoré počas týždňa rezonovali v politickom a spoločenskom dianí. (2026)
   genre:
   - '36'
-- eventId: 1621195
+- eventId:
+  - 1621195
+  - 661166
   start: 2026-10-12T07:45:00Z
   stop: 2026-10-12T08:00:00Z
   title: Téma :24 (984)
@@ -84,7 +120,9 @@
   description: Zadné svetlo alebo aj retrospektívny pohľad je výstava výtvarníka Milana Bočkaya, ktorú pripravili v najkrajšom európskom múzeu moderného umenia pri príležitosti jeho 80 tych narodenín. Gabriela Pirošková sa s umelcom pozhovárala nielen o jeho metóde tvorby... (2026)
   genre:
   - '33'
-- eventId: 1621196
+- eventId:
+  - 1621196
+  - 661167
   start: 2026-10-12T08:00:00Z
   stop: 2026-10-12T08:30:00Z
   title: Správy :24 (202)
@@ -92,7 +130,9 @@
   description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
   genre:
   - '33'
-- eventId: 1621197
+- eventId:
+  - 1621197
+  - 661168
   start: 2026-10-12T08:30:00Z
   stop: 2026-10-12T09:00:00Z
   title: Správy :24 (193)
@@ -100,7 +140,9 @@
   description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
   genre:
   - '33'
-- eventId: 1621203
+- eventId:
+  - 1621203
+  - 661169
   start: 2026-10-12T09:00:00Z
   stop: 2026-10-12T09:30:00Z
   title: Správy :24 (202)
@@ -108,7 +150,9 @@
   description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
   genre:
   - '33'
-- eventId: 1621204
+- eventId:
+  - 1621204
+  - 661170
   start: 2026-10-12T09:30:00Z
   stop: 2026-10-12T10:00:00Z
   title: Archív 24 (44)
@@ -116,7 +160,9 @@
   description: Pohľad na život na Slovensku a vo svete pred 30-timi rokmi. (2026)
   genre:
   - '35'
-- eventId: 1621205
+- eventId:
+  - 1621205
+  - 661171
   start: 2026-10-12T10:00:00Z
   stop: 2026-10-12T10:30:00Z
   title: Správy (194)
@@ -124,7 +170,9 @@
   description: Hlavná spravodajská relácia Slovenskej televízie, denný prehľad najdôležitejších udalostí doma i vo svete. (2026)
   genre:
   - '33'
-- eventId: 1621206
+- eventId:
+  - 1621206
+  - 661172
   start: 2026-10-12T10:30:00Z
   stop: 2026-10-12T11:00:00Z
   title: Z prvej ruky (156)
@@ -132,7 +180,9 @@
   description: Diskusná rozhlasová relácia o aktuálnych témach. (2026)
   genre:
   - '33'
-- eventId: 1621207
+- eventId:
+  - 1621207
+  - 661173
   start: 2026-10-12T11:00:00Z
   stop: 2026-10-12T11:30:00Z
   title: Aktuálne :24 (193)
@@ -140,7 +190,9 @@
   description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
   genre:
   - '33'
-- eventId: 1621208
+- eventId:
+  - 1621208
+  - 661174
   start: 2026-10-12T11:30:00Z
   stop: 2026-10-12T12:00:00Z
   title: Aktuálne :24 (194)
@@ -148,7 +200,9 @@
   description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
   genre:
   - '33'
-- eventId: 1621209
+- eventId:
+  - 1621209
+  - 661182
   start: 2026-10-12T12:00:00Z
   stop: 2026-10-12T12:30:00Z
   title: Aktuálne :24 (195)
@@ -156,7 +210,9 @@
   description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
   genre:
   - '33'
-- eventId: 1621210
+- eventId:
+  - 1621210
+  - 661183
   start: 2026-10-12T12:30:00Z
   stop: 2026-10-12T13:00:00Z
   title: Občan za dverami (25)
@@ -164,7 +220,9 @@
   description: Spravodlivo rozpočítať náklady na prevádzku bytového domu medzi desiatky či stovky ľudí nie je vždy jednoduché. Napríklad aj preto, že mnohí vlastníci bytov nenahlasujú či zatajujú skutočný počet osôb, ktoré v byte bývajú. Náklady za čierne duše sa tak rozpočítajú medzi ostatných susedov, ktorí platia viac, ako by mali... Oklamaní ľudia zo Záhoria dostali do ruky iba bezcenný projekt. Aby mohli stavať, museli zaplatiť druhýkrát iným projektantom. Žeby bola spravodlivosť - na projektantku bez pečiatky - naozaj prikrátka?... Stalo sa to v jednej sekunde a ďaleko od domova. Pán Lukáš z Chorvátskeho Grobu zostal po dopravnej nehode v nemeckom Hamburgu bez auta, aj bez pomoci. Prišlo iba polročné ticho, narastajúce účty a obrovská neistota... (2026)
   genre:
   - '34'
-- eventId: 1621211
+- eventId:
+  - 1621211
+  - 661184
   start: 2026-10-12T13:00:00Z
   stop: 2026-10-12T13:30:00Z
   title: Aktuálne :24 (195)
@@ -172,7 +230,9 @@
   description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
   genre:
   - '33'
-- eventId: 1621212
+- eventId:
+  - 1621212
+  - 661185
   start: 2026-10-12T13:30:00Z
   stop: 2026-10-12T14:00:00Z
   title: Aktuálne :24 (196)
@@ -180,7 +240,9 @@
   description: Aktuálne spravodajstvo z domova a zo sveta obohatené o názory odborníkov, či analytikov z rôznych oblastí spoločenského života. (2026)
   genre:
   - '33'
-- eventId: 1621213
+- eventId:
+  - 1621213
+  - 661186
   start: 2026-10-12T14:00:00Z
   stop: 2026-10-12T14:30:00Z
   title: Správy (194)
@@ -188,7 +250,9 @@
   description: Hlavná spravodajská relácia Slovenskej televízie, denný prehľad najdôležitejších udalostí doma i vo svete. (2026)
   genre:
   - '33'
-- eventId: 1621214
+- eventId:
+  - 1621214
+  - 661187
   start: 2026-10-12T14:30:00Z
   stop: 2026-10-12T15:00:00Z
   title: Ekonomika :24 (152)
@@ -196,7 +260,9 @@
   description: Všetko dôležité z oblasti ekonomiky na jednom mieste. (2026)
   genre:
   - '33'
-- eventId: 1621221
+- eventId:
+  - 1621221
+  - 661188
   start: 2026-10-12T15:00:00Z
   stop: 2026-10-12T15:30:00Z
   title: Svet :24 (199)
@@ -204,14 +270,18 @@
   description: Najdôležitejšie udalosti zo sveta doplnené názormi odborníkov. (2026)
   genre:
   - '36'
-- eventId: 1621222
+- eventId:
+  - 1621222
+  - 661189
   start: 2026-10-12T15:30:00Z
   stop: 2026-10-12T16:30:00Z
   title: Komunálne a krajské voľby 2026 - diskusie s kandidátmi na župana (1)
   description: ' (2026)'
   genre:
   - '36'
-- eventId: 1621223
+- eventId:
+  - 1621223
+  - 661190
   start: 2026-10-12T16:30:00Z
   stop: 2026-10-12T17:00:00Z
   title: Ekonomika :24 (152)
@@ -226,6 +296,13 @@
   description: ' (2026)'
   genre:
   - '33'
+- eventId: 661191
+  start: 2026-10-12T17:00:00Z
+  stop: 2026-10-12T17:55:00Z
+  title: Správy "N" (285)
+  description: ' (2026)'
+  genre:
+  - '33'
 - eventId: 1621225
   start: 2026-10-12T17:50:00Z
   stop: 2026-10-12T18:10:00Z
@@ -234,7 +311,17 @@
   description: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu. (2026)
   genre:
   - '33'
-- eventId: 1621226
+- eventId: 661192
+  start: 2026-10-12T17:55:00Z
+  stop: 2026-10-12T18:10:00Z
+  title: Góly-body-sekundy (285)
+  subtitle: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu.
+  description: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu. (2026)
+  genre:
+  - '33'
+- eventId:
+  - 1621226
+  - 661193
   start: 2026-10-12T18:10:00Z
   stop: 2026-10-12T18:20:00Z
   title: Počasie (285)
@@ -242,14 +329,18 @@
   description: Každý pracovný deň vám prinášame predpoveď počasia. (2026)
   genre:
   - '33'
-- eventId: 1621227
+- eventId:
+  - 1621227
+  - 661194
   start: 2026-10-12T18:20:00Z
   stop: 2026-10-12T19:40:00Z
   title: Komunálne a krajské voľby 2026 - diskusie s kandidátmi na primátora (1)
   description: ' (2026)'
   genre:
   - '36'
-- eventId: 1621228
+- eventId:
+  - 1621228
+  - 661195
   start: 2026-10-12T19:40:00Z
   stop: 2026-10-12T20:00:00Z
   title: Správy z regiónov (75)
@@ -257,7 +348,9 @@
   description: Novinky, ktoré rezonujú v jednotlivých regiónoch Slovenska. (2026)
   genre:
   - '33'
-- eventId: 1621229
+- eventId:
+  - 1621229
+  - 661196
   start: 2026-10-12T20:00:00Z
   stop: 2026-10-12T20:25:00Z
   title: Správy :24 (280)
@@ -265,7 +358,9 @@
   description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
   genre:
   - '33'
-- eventId: 1621230
+- eventId:
+  - 1621230
+  - 661197
   start: 2026-10-12T20:25:00Z
   stop: 2026-10-12T20:30:00Z
   title: Správy - Hírek (174)
@@ -280,6 +375,22 @@
   description: Všetko dôležité z oblasti ekonomiky na jednom mieste. (2026)
   genre:
   - '33'
+- eventId: 661198
+  start: 2026-10-12T20:30:00Z
+  stop: 2026-10-12T20:55:00Z
+  title: Ekonomika :24 (152)
+  subtitle: Všetko dôležité z oblasti ekonomiky na jednom mieste.
+  description: Všetko dôležité z oblasti ekonomiky na jednom mieste. (2026)
+  genre:
+  - '33'
+- eventId: 661199
+  start: 2026-10-12T20:55:00Z
+  stop: 2026-10-12T21:25:00Z
+  title: Svet :24 (199)
+  subtitle: Najdôležitejšie udalosti zo sveta doplnené názormi odborníkov.
+  description: Najdôležitejšie udalosti zo sveta doplnené názormi odborníkov. (2026)
+  genre:
+  - '36'
 - eventId: 1621232
   start: 2026-10-12T21:00:00Z
   stop: 2026-10-12T21:30:00Z
@@ -288,6 +399,14 @@
   description: Najdôležitejšie udalosti zo sveta doplnené názormi odborníkov. (2026)
   genre:
   - '36'
+- eventId: 661207
+  start: 2026-10-12T21:25:00Z
+  stop: 2026-10-12T21:55:00Z
+  title: Správy :24 (280)
+  subtitle: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24.
+  description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
+  genre:
+  - '33'
 - eventId: 1621233
   start: 2026-10-12T21:30:00Z
   stop: 2026-10-12T21:55:00Z
@@ -296,7 +415,9 @@
   description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
   genre:
   - '33'
-- eventId: 1621234
+- eventId:
+  - 1621234
+  - 661208
   start: 2026-10-12T21:55:00Z
   stop: 2026-10-12T22:00:00Z
   title: Hymna SR (14)
@@ -311,6 +432,22 @@
   description: Diskusná rozhlasová relácia o aktuálnych témach. (2026)
   genre:
   - '33'
+- eventId: 661209
+  start: 2026-10-12T22:00:00Z
+  stop: 2026-10-12T22:25:00Z
+  title: Z prvej ruky (156)
+  subtitle: Diskusná rozhlasová relácia o aktuálnych témach.
+  description: Diskusná rozhlasová relácia o aktuálnych témach. (2026)
+  genre:
+  - '33'
+- eventId: 661210
+  start: 2026-10-12T22:25:00Z
+  stop: 2026-10-12T22:55:00Z
+  title: Ekonomika :24 (152)
+  subtitle: Všetko dôležité z oblasti ekonomiky na jednom mieste.
+  description: Všetko dôležité z oblasti ekonomiky na jednom mieste. (2026)
+  genre:
+  - '33'
 - eventId: 1621236
   start: 2026-10-12T22:30:00Z
   stop: 2026-10-12T23:00:00Z
@@ -319,11 +456,26 @@
   description: Všetko dôležité z oblasti ekonomiky na jednom mieste. (2026)
   genre:
   - '33'
+- eventId: 661211
+  start: 2026-10-12T22:55:00Z
+  stop: 2026-10-12T23:45:00Z
+  title: Správy "N" (285)
+  description: ' (2026)'
+  genre:
+  - '33'
 - eventId: 1621237
   start: 2026-10-12T23:00:00Z
   stop: 2026-10-12T23:50:00Z
   title: Správy "N" (285)
   description: ' (2026)'
+  genre:
+  - '33'
+- eventId: 661212
+  start: 2026-10-12T23:45:00Z
+  stop: 2026-10-13T00:00:00Z
+  title: Počasie (285)
+  subtitle: Každý pracovný deň vám prinášame predpoveď počasia.
+  description: Každý pracovný deň vám prinášame predpoveď počasia. (2026)
   genre:
   - '33'
 - eventId: 1621238
