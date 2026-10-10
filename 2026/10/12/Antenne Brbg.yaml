@@ -2,7 +2,9 @@
   start: 2026-10-12T03:00:00Z
   stop: 2026-10-12T08:00:00Z
   title: Guten Morgen Brandenburg
-- eventId: 1045151
+- eventId:
+  - 1045151
+  - 540194
   start: 2026-10-12T08:00:00Z
   stop: 2026-10-12T12:00:00Z
   title: Hallo Brandenburg
@@ -10,15 +12,21 @@
   start: 2026-10-12T12:00:00Z
   stop: 2026-10-12T15:00:00Z
   title: Antenne Brandenburg am Nachmittag
-- eventId: 1045174
+- eventId:
+  - 1045174
+  - 540769
   start: 2026-10-12T15:00:00Z
   stop: 2026-10-12T18:00:00Z
   title: Antenne am Abend
-- eventId: 1045183
+- eventId:
+  - 1045183
+  - 540942
   start: 2026-10-12T18:00:00Z
   stop: 2026-10-12T21:00:00Z
   title: ARD Abend
-- eventId: 1045196
+- eventId:
+  - 1045196
+  - 541116
   start: 2026-10-12T21:00:00Z
   stop: 2026-10-13T03:00:00Z
   title: ARD Hitnacht

@@ -35,7 +35,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1556846
+- eventId:
+  - 1556846
+  - 548792
   start: 2026-10-16T00:33:00Z
   stop: 2026-10-16T00:35:00Z
   title: Tagesschau
@@ -43,7 +45,9 @@
   subtitled: true
   hd: true
   description: Die Nachrichten der ARD
-- eventId: 1556847
+- eventId:
+  - 1556847
+  - 548793
   start: 2026-10-16T00:35:00Z
   stop: 2026-10-16T02:05:00Z
   title: Mankells Wallander - Todesengel
@@ -86,7 +90,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1556848
+- eventId:
+  - 1556848
+  - 548794
   start: 2026-10-16T02:05:00Z
   stop: 2026-10-16T02:50:00Z
   title: extra 3
@@ -112,7 +118,9 @@
   subtitled: true
   hd: true
   subtitle: Boulevard-Magazin
-- eventId: 1556849
+- eventId:
+  - 1556849
+  - 548795
   start: 2026-10-16T02:50:00Z
   stop: 2026-10-16T02:58:00Z
   title: Deutschlandbilder
@@ -129,6 +137,7 @@
 - eventId:
   - 1010386
   - 1153763
+  - 548796
   start: 2026-10-16T02:58:00Z
   stop: 2026-10-16T03:00:00Z
   title: Tagesschau
@@ -139,6 +148,7 @@
 - eventId:
   - 1010415
   - 1153768
+  - 548996
   start: 2026-10-16T03:00:00Z
   stop: 2026-10-16T03:30:00Z
   title: Monitor
@@ -157,6 +167,7 @@
 - eventId:
   - 1010416
   - 1153769
+  - 548997
   start: 2026-10-16T03:30:00Z
   stop: 2026-10-16T07:00:00Z
   title: ZDF-Morgenmagazin
@@ -211,6 +222,7 @@
 - eventId:
   - 1010437
   - 1153784
+  - 549316
   start: 2026-10-16T07:00:00Z
   stop: 2026-10-16T07:05:00Z
   title: heute Xpress
@@ -220,6 +232,7 @@
 - eventId:
   - 1010438
   - 1153785
+  - 549317
   start: 2026-10-16T07:05:00Z
   stop: 2026-10-16T07:55:00Z
   title: Hubert ohne Staller (171)
@@ -247,6 +260,7 @@
 - eventId:
   - 1010439
   - 1153786
+  - 549318
   start: 2026-10-16T07:55:00Z
   stop: 2026-10-16T08:40:00Z
   title: Morden im Norden (72)
@@ -269,6 +283,7 @@
 - eventId:
   - 1010440
   - 1153787
+  - 549319
   start: 2026-10-16T08:40:00Z
   stop: 2026-10-16T08:45:00Z
   title: Tagesschau
@@ -279,6 +294,7 @@
 - eventId:
   - 1010441
   - 1153788
+  - 549320
   start: 2026-10-16T08:45:00Z
   stop: 2026-10-16T09:15:00Z
   title: Meister des Alltags (220)
@@ -298,6 +314,7 @@
 - eventId:
   - 1010457
   - 1153797
+  - 549645
   start: 2026-10-16T09:15:00Z
   stop: 2026-10-16T10:00:00Z
   title: Gefragt - Gejagt (1014)
@@ -317,6 +334,7 @@
 - eventId:
   - 1010458
   - 1153798
+  - 549646
   start: 2026-10-16T10:00:00Z
   stop: 2026-10-16T12:00:00Z
   title: ARD-Mittagsmagazin
@@ -350,6 +368,7 @@
 - eventId:
   - 1010490
   - 1153810
+  - 549915
   start: 2026-10-16T12:00:00Z
   stop: 2026-10-16T12:10:00Z
   title: Tagesschau
@@ -360,6 +379,7 @@
 - eventId:
   - 1010491
   - 1153811
+  - 549916
   start: 2026-10-16T12:10:00Z
   stop: 2026-10-16T13:00:00Z
   title: Rote Rosen (4400)
@@ -381,6 +401,7 @@
 - eventId:
   - 1010492
   - 1153812
+  - 549917
   start: 2026-10-16T13:00:00Z
   stop: 2026-10-16T13:10:00Z
   title: Tagesschau
@@ -399,6 +420,15 @@
   genre:
   - '16'
   description: Sophia muss Christoph gedemütigt ihre Anteile überschreiben. Während Leo um seine Zukunft bangt, weiß Frida endlich, was sie machen will. Fritz organisiert für Fanny und Marlon eine Hochzeitslocation. Massimon schlägt Olivia vor, sich als Hausdame zu bewerben.
+- eventId: 549918
+  start: 2026-10-16T13:10:00Z
+  stop: 2026-10-16T14:00:00Z
+  title: Sturm der Liebe (4653)
+  subtitle: Deutschland 2026
+  description: Sophia muss Christoph gedemütigt ihre Anteile überschreiben. Während Leo um seine Zukunft bangt, weiß Frida endlich, was sie machen will. Fritz organisiert für Fanny und Marlon eine Hochzeitslocation. Massimon schlägt Olivia vor, sich als Hausdame zu bewerben.
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1010494
   start: 2026-10-16T14:00:00Z
   stop: 2026-10-16T14:10:00Z
@@ -408,9 +438,18 @@
   hd: true
   subtitle: 'Moderation: Tobias Häusler'
   description: Die Nachrichten der ARD
+- eventId: 549919
+  start: 2026-10-16T14:00:00Z
+  stop: 2026-10-16T14:10:00Z
+  title: Tagesschau
+  description: Die Nachrichten der ARD
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 1010495
   - 1153813
+  - 549920
   start: 2026-10-16T14:10:00Z
   stop: 2026-10-16T15:00:00Z
   title: Seelöwe & Co. - tierisch beliebt (10/13)

@@ -6,7 +6,9 @@
   description: Die PMT-Umschaltung, auch dynamische PMT genannt, ist bei der ARD einer der wichtigsten Mechanismen zur korrekten Funktionsweise der Regionalprogramme. Dazu wechselt der Service ARD-Test-R pro Minute die Video- und Audio-PIDs zwischen den Programmen tagesschau24 und ONE hin und her.
   widescreen: true
   hd: true
-- eventId: 1609073
+- eventId:
+  - 1609073
+  - 543783
   start: 2026-10-09T22:00:00Z
   stop: 2026-10-10T10:00:00Z
   title: Dynamische Programmumschaltung (wieder aktiv seit 12.07.2023)
