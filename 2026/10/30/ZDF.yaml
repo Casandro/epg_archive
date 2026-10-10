@@ -346,14 +346,20 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1630537
+- eventId:
+  - 1630537
+  - 1631082
   start: 2026-10-30T23:00:00Z
   stop: 2026-10-30T23:15:00Z
   title: heute journal update
   genre:
   - '32'
   widescreen: true
-- eventId: 1630538
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1630538
+  - 1631083
   start: 2026-10-30T23:15:00Z
   stop: 2026-10-31T00:00:00Z
   title: hallo deutschland
@@ -362,3 +368,5 @@
   - '128'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
