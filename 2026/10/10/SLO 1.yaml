@@ -31,8 +31,8 @@
 - eventId: 1595367
   start: 2026-10-10T05:30:00Z
   stop: 2026-10-10T05:40:00Z
-  title: Brina
-  subtitle: Zdravnica Binka vsem bolnikom s hudimi poškodbami takoj zagotovi zdravniško oskrbo. Le Hanka nestrpno čaka v čakalnici. Ker ni huje poškodovana, jo tam zadržuje sprejemna sestra Brina.
+  title: Reaktivčki
+  subtitle: Zafrk igra računalniško igrico in se znajde v zagati. Za zmago mu namreč zmanjka lik piramide. Z robotki se odpravi v Egipt, kjer je piramid na pretek. Eno od njih pomanjšajo in jo hočejo odnesti.
   ageRating: 4
   genre:
   - '128'
@@ -48,21 +48,29 @@
   start: 2026-10-10T05:40:00Z
   stop: 2026-10-10T05:50:00Z
   title: Kavboj Vili
-  subtitle: K Viliju pride na obisk sestrična Oli. Vili ji želi pripraviti nepozaben konec tedna in jo pelje na vaški sejem.
+  subtitle: Zdravnica Binka vsem bolnikom s hudimi poškodbami takoj zagotovi zdravniško oskrbo. Le Hanka nestrpno čaka v čakalnici. Ker ni huje poškodovana, jo tam zadržuje sprejemna sestra Brina.
   ageRating: 4
   genre:
   - '128'
 - eventId: 1562321
   start: 2026-10-10T05:50:00Z
-  stop: 2026-10-10T06:05:00Z
+  stop: 2026-10-10T06:00:00Z
   title: Ernest in Celestinca
-  subtitle: Na obisk pride Ernestova babica. Ernest in Celestinca jo želita presenetiti z večerjo v restavraciji, ki jo ima rada. Za obisk tako finega kraja pa moraš poznati pravila lepega obnašanja!
+  subtitle: Dedi že leta in leta sestavlja imeniten avto, ki ga vsi občudujejo. Lili si zelo želi z njim na izlet v vodni park. Z bratom Hugom in očkom se res odpravijo tja. A kaj, ko dedi o tem nič ne ve ...
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 1630059
+  start: 2026-10-10T06:00:00Z
+  stop: 2026-10-10T06:05:00Z
+  title: Kocke
+  subtitle: Štiri je nova kocka v soseski in komaj čaka, da vsem pove, kako lepo je biti kvadrat. Naučite se vse o številki štiri v družbi naše kockice.
   ageRating: 4
   genre:
   - '128'
 - eventId: 1562322
   start: 2026-10-10T06:05:00Z
-  stop: 2026-10-10T06:15:00Z
+  stop: 2026-10-10T06:30:00Z
   title: Pri Pajkovih
   subtitle: Dedi že leta in leta sestavlja imeniten avto, ki ga vsi občudujejo. Lili si zelo želi z njim na izlet v vodni park. Z bratom Hugom in očkom se res odpravijo tja. A kaj, ko dedi o tem nič ne ve ...
   ageRating: 4
@@ -84,6 +92,14 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 1630060
+  start: 2026-10-10T06:30:00Z
+  stop: 2026-10-10T06:50:00Z
+  title: Z kot Zofka
+  subtitle: Gakija in njegovega novega prijatelja Teodorja je Zofka povabila v deželo ježkov. Tudi onadva sta ježka. Teodor je zelo zaskrbljen, ker je izgubil svojo srečno bodico.
+  ageRating: 4
+  genre:
+  - '80'
 - eventId: 1562325
   start: 2026-10-10T06:40:00Z
   stop: 2026-10-10T07:10:00Z
@@ -108,6 +124,12 @@
   ageRating: 4
   genre:
   - '80'
+- eventId: 1630061
+  start: 2026-10-10T06:50:00Z
+  stop: 2026-10-10T07:35:00Z
+  title: Male sive celice
+  subtitle: Pred začetkom tekmovalnega dela sezone se v posebni zabavni VIP oddaji soočijo znani televizijci.
+  ageRating: 4
 - eventId: 1568104
   start: 2026-10-10T07:05:00Z
   stop: 2026-10-10T07:45:00Z
@@ -120,6 +142,14 @@
   title: Male sive celice
   subtitle: Pred začetkom tekmovalnega dela sezone se v posebni zabavni VIP oddaji soočijo znani televizijci.
   ageRating: 4
+- eventId: 1630062
+  start: 2026-10-10T07:35:00Z
+  stop: 2026-10-10T07:50:00Z
+  title: Infodrom
+  subtitle: V tokratnem Infodromu smo se pozanimali, zakaj vedno več mladih, predvsem fantov, za boljše športne dosežke posega po prehranskih dopolnilih, kot je na primer kreatin.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1595369
   start: 2026-10-10T07:45:00Z
   stop: 2026-10-10T08:00:00Z
@@ -136,6 +166,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1630063
+  start: 2026-10-10T07:50:00Z
+  stop: 2026-10-10T08:55:00Z
+  title: Klub Slavica
+  subtitle: Klub Slavica je mladinska glasbena oddaja, ki z nastopi mladih pred polnim studiem vrstnikov v ospredje postavlja ustvarjalnost najstnikov in njihov samosvoj izraz.
+  ageRating: 4
+  genre:
+  - '80'
 - eventId: 1595370
   start: 2026-10-10T08:00:00Z
   stop: 2026-10-10T08:55:00Z
@@ -250,13 +288,15 @@
   - '128'
 - eventId: 1562340
   start: 2026-10-10T12:45:00Z
-  stop: 2026-10-10T13:25:00Z
+  stop: 2026-10-10T13:20:00Z
   title: Takšno je življenje
   subtitle: Gregor si želi družino nazaj, vendar njegova želja pri Maji ne naleti na plodna tla. Hladen sprejem doživi tudi Nadja v gostilni Pr' Vouk. V odnos med Majo in Ireno posveti bled žarek upanja.
   ageRating: 4
   genre:
   - '128'
-- eventId: 1562341
+- eventId:
+  - 1562341
+  - 1630064
   start: 2026-10-10T13:20:00Z
   stop: 2026-10-10T13:50:00Z
   title: O živalih in ljudeh
@@ -362,7 +402,7 @@
   start: 2026-10-10T18:00:00Z
   stop: 2026-10-10T19:00:00Z
   title: Kaj dogaja?
-  subtitle: Potrebujete svežo šalanalizo, vas skrbi družbena humorala ali vas samo zanima, kaj je ta teden ujel naš satiradar?
+  subtitle: Pred nami je referendumska nedelja, večer prej pa še kajdogajevska sobota, v kateri vam izdamo:§kaj sta kriminalista želela od Stevanovića, kaj je prepovedal minister Vrtovec in kakšne načrte glede.
   ageRating: 4
 - eventId: 1562357
   start: 2026-10-10T19:00:00Z
