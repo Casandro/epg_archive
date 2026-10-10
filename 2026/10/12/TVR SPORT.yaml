@@ -80,6 +80,7 @@
   - 1635771
   - 1636715
   - 1637786
+  - 641700
   start: 2026-10-12T01:15:00Z
   stop: 2026-10-12T01:45:00Z
   title: Voice of America
@@ -105,6 +106,7 @@
   - 1635772
   - 1636716
   - 1637787
+  - 641701
   start: 2026-10-12T01:45:00Z
   stop: 2026-10-12T02:25:00Z
   title: Çikat n'Trip
@@ -130,6 +132,7 @@
   - 1635773
   - 1636717
   - 1637788
+  - 641702
   start: 2026-10-12T02:25:00Z
   stop: 2026-10-12T04:30:00Z
   title: Muzike Top 10
@@ -175,6 +178,7 @@
   - 1635774
   - 1636718
   - 1637789
+  - 641703
   start: 2026-10-12T04:30:00Z
   stop: 2026-10-12T05:00:00Z
   title: Reportazhe
@@ -198,6 +202,7 @@
 - eventId:
   - 1630589
   - 1635775
+  - 641704
   start: 2026-10-12T05:00:00Z
   stop: 2026-10-12T07:00:00Z
   title: Pastel
@@ -253,6 +258,7 @@
   - 1635776
   - 1636720
   - 1637791
+  - 641705
   start: 2026-10-12T07:05:00Z
   stop: 2026-10-12T09:00:00Z
   title: Programi i mëngjesit
@@ -306,6 +312,7 @@
 - eventId:
   - 1630591
   - 1635777
+  - 641706
   start: 2026-10-12T09:00:00Z
   stop: 2026-10-12T10:10:00Z
   title: Daily Click
@@ -361,6 +368,7 @@
   - 1635778
   - 1636722
   - 1637793
+  - 641707
   start: 2026-10-12T10:15:00Z
   stop: 2026-10-12T10:35:00Z
   title: Muzikë argëtuese
@@ -384,6 +392,7 @@
 - eventId:
   - 1630593
   - 1635779
+  - 641708
   start: 2026-10-12T10:35:00Z
   stop: 2026-10-12T11:10:00Z
   title: Farewell Letter
@@ -419,6 +428,7 @@
   - 1635780
   - 1636724
   - 1637795
+  - 641709
   start: 2026-10-12T11:15:00Z
   stop: 2026-10-12T12:25:00Z
   title: Reportazhe
@@ -476,6 +486,7 @@
   - 1630529
   - 1635323
   - 1635945
+  - 640064
   start: 2026-10-12T12:59:00Z
   stop: 2026-10-12T13:00:00Z
   title: 'FILLER : Stiati ca'
@@ -488,12 +499,18 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 639540
+  start: 2026-10-12T13:00:00Z
+  stop: 2026-10-12T13:10:00Z
+  title: JURNAL SPORT
+  subtitle: ' Transmisiune directa  '
 - eventId:
   - 1615033
   - 1629842
   - 1630530
   - 1635324
   - 1635946
+  - 640065
   start: 2026-10-12T13:10:00Z
   stop: 2026-10-12T13:45:00Z
   title: RETROSPORT
@@ -519,6 +536,7 @@
   - 1630531
   - 1635325
   - 1635947
+  - 640066
   start: 2026-10-12T13:45:00Z
   stop: 2026-10-12T14:00:00Z
   title: Fillere
@@ -531,6 +549,11 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 639542
+  start: 2026-10-12T14:00:00Z
+  stop: 2026-10-12T15:30:00Z
+  title: Handbal feminin
+  subtitle: '  *LIGA FLORILOR *ET6HC ZALAU-CS RAPID BUCURESTIComentator: Dragos BocanaciuTransmisiune directa '
 - eventId:
   - 1629006
   - 1630262
@@ -556,11 +579,14 @@
   - 1630532
   - 1635326
   - 1635948
+  - 640067
   start: 2026-10-12T15:30:00Z
   stop: 2026-10-12T15:55:00Z
   title: Fillere
   subtitle: ' '
-- eventId: 1629007
+- eventId:
+  - 1629007
+  - 639544
   start: 2026-10-12T15:55:00Z
   stop: 2026-10-12T16:00:00Z
   title: Promo
@@ -576,6 +602,11 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 639545
+  start: 2026-10-12T16:00:00Z
+  stop: 2026-10-12T17:30:00Z
+  title: Handbal masculin
+  subtitle: ' *LIGA ZIMBRILOR *ET5CS Dinamo Bucure'
 - eventId:
   - 1629008
   - 1630263
@@ -636,7 +667,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1615038
+- eventId:
+  - 1615038
+  - 639550
   start: 2026-10-12T17:30:00Z
   stop: 2026-10-12T18:00:00Z
   title: SPORTS REPLAY
@@ -652,12 +685,18 @@
   ageRating: 4
   genre:
   - '16'
+- eventId: 639552
+  start: 2026-10-12T18:00:00Z
+  stop: 2026-10-12T18:10:00Z
+  title: SPORT EXPRES
+  subtitle: '  '
 - eventId:
   - 1615040
   - 1629847
   - 1630533
   - 1635327
   - 1635949
+  - 640068
   start: 2026-10-12T18:10:00Z
   stop: 2026-10-12T19:00:00Z
   title: STADION
@@ -668,6 +707,7 @@
   - 1630534
   - 1635328
   - 1635950
+  - 640069
   start: 2026-10-12T19:00:00Z
   stop: 2026-10-12T21:20:00Z
   title: RALIU
@@ -725,6 +765,11 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 639556
+  start: 2026-10-12T21:20:00Z
+  stop: 2026-10-12T22:20:00Z
+  title: In prelungiri
+  subtitle: ' *Preluare TVR Timisoara   (Reluare)'
 - eventId:
   - 1629017
   - 1630270
@@ -746,6 +791,7 @@
   - 1630535
   - 1635329
   - 1635951
+  - 640070
   start: 2026-10-12T22:20:00Z
   stop: 2026-10-13T00:00:00Z
   title: Ora de sport

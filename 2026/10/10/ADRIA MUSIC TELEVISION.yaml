@@ -86,7 +86,9 @@
   ageRating: 4
   genre:
   - '96'
-- eventId: 1469880
+- eventId:
+  - 1469880
+  - 625112
   start: 2026-10-10T06:00:00Z
   stop: 2026-10-10T09:15:00Z
   title: Adria Music TV program
@@ -94,10 +96,6 @@
   ageRating: 4
   genre:
   - '96'
-- eventId: 625112
-  start: 2026-10-10T06:00:00Z
-  stop: 2026-10-10T08:00:00Z
-  title: Adria Music TV program
 - eventId:
   - 1469881
   - 1567914
@@ -138,6 +136,7 @@
   - 1621320
   - 1622433
   - 1636740
+  - 639377
   start: 2026-10-10T09:15:00Z
   stop: 2026-10-10T10:00:00Z
   title: Kuhinjica
@@ -153,16 +152,22 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1469907
+- eventId: 639378
+  start: 2026-10-10T10:00:00Z
+  stop: 2026-10-10T12:00:00Z
+  title: Izvorno sijelo
+  subtitle: Emisija u kojoj imate priliku da slušate vaše muzičke želje i da pozdravite nekoga putem malih ekrana.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 1469907
+  - 635215
   start: 2026-10-10T12:00:00Z
   stop: 2026-10-10T13:30:00Z
   title: Adria Music TV program
   subtitle: Uživajte u izvedbama nekih od najljepših sevdalinki u interpretaciji vrsnih muzičara iz BiH i regiona.
   ageRating: 4
-- eventId: 635215
-  start: 2026-10-10T12:00:00Z
-  stop: 2026-10-10T14:00:00Z
-  title: Adria Music TV program
 - eventId:
   - 1563881
   - 1568230
@@ -185,6 +190,7 @@
   - 1621321
   - 1622434
   - 1636741
+  - 639383
   start: 2026-10-10T13:30:00Z
   stop: 2026-10-10T14:00:00Z
   title: Narodni mix
@@ -200,7 +206,9 @@
   title: Adria Music TV program
   subtitle: Emisija koja donosi zanimljive razgovore, muziku i zabavne sadržaje, savršena za uživanje u mirnom nedeljnom popodnevu.
   ageRating: 4
-- eventId: 1469920
+- eventId:
+  - 1469920
+  - 635238
   start: 2026-10-10T16:00:00Z
   stop: 2026-10-10T17:00:00Z
   title: Adria Music TV program
@@ -208,10 +216,6 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 635238
-  start: 2026-10-10T16:00:00Z
-  stop: 2026-10-10T18:00:00Z
-  title: Adria Music TV program
 - eventId:
   - 1563895
   - 1568231
@@ -234,6 +238,7 @@
   - 1622435
   - 1622618
   - 1636742
+  - 639388
   start: 2026-10-10T17:00:00Z
   stop: 2026-10-10T18:00:00Z
   title: Narodni mix
@@ -245,6 +250,12 @@
   start: 2026-10-10T18:00:00Z
   stop: 2026-10-10T20:30:00Z
   title: Adria Music TV program
+  subtitle: Zabavna emisija "Kafansko veče" u studiju uređenom poput prave balkanske kafane ugošćuje popularne izvođače iz BiH i regiona.
+  ageRating: 4
+- eventId: 639396
+  start: 2026-10-10T18:00:00Z
+  stop: 2026-10-10T20:30:00Z
+  title: Kafansko veče
   subtitle: Zabavna emisija "Kafansko veče" u studiju uređenom poput prave balkanske kafane ugošćuje popularne izvođače iz BiH i regiona.
   ageRating: 4
 - eventId:
@@ -292,6 +303,7 @@
   - 1622619
   - 1636743
   - 1637675
+  - 639397
   start: 2026-10-10T20:30:00Z
   stop: 2026-10-10T22:00:00Z
   title: Narodni mix
@@ -305,6 +317,14 @@
   start: 2026-10-10T22:00:00Z
   stop: 2026-10-11T01:00:00Z
   title: Adria Music TV program
+  subtitle: 'Saznajte šta kažu karte i šta poručuju zvijezde našim gledateljima koji su se odlučili uključiti u program sa svojim pitanjima ili problemima. '
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 639404
+  start: 2026-10-10T22:00:00Z
+  stop: 2026-10-11T01:00:00Z
+  title: Astro show
   subtitle: 'Saznajte šta kažu karte i šta poručuju zvijezde našim gledateljima koji su se odlučili uključiti u program sa svojim pitanjima ili problemima. '
   ageRating: 4
   genre:

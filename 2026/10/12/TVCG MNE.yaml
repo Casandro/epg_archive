@@ -558,7 +558,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1581199
+- eventId:
+  - 1581199
+  - 639601
   start: 2026-10-12T18:00:00Z
   stop: 2026-10-12T19:15:00Z
   title: Naglas
@@ -574,6 +576,14 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 639602
+  start: 2026-10-12T19:15:00Z
+  stop: 2026-10-12T19:45:00Z
+  title: TV arhiv
+  subtitle: 'Zavirimo u prošlost kroz ovu dokumentarnu emisiju i stare televizijske snimke iz arhive RTCG. '
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 1581201
   start: 2026-10-12T19:45:00Z
   stop: 2026-10-12T20:00:00Z
@@ -582,7 +592,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1581202
+- eventId: 639603
+  start: 2026-10-12T19:45:00Z
+  stop: 2026-10-12T20:00:00Z
+  title: Naši u svijetu
+  subtitle: Život ljudi sa naših prostora koji su isti nastavili van granica naše države.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 1581202
+  - 639604
   start: 2026-10-12T20:00:00Z
   stop: 2026-10-12T20:30:00Z
   title: Pogledi iz domovine
@@ -598,10 +618,26 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 639605
+  start: 2026-10-12T20:30:00Z
+  stop: 2026-10-12T21:05:00Z
+  title: Bijelo Polje na razmeđi vjekova
+  subtitle: Stari pisani dokumenti i fotografije iz Bijelog Polja, kao i aktivnost kulturno - prosvjetnih društava Sloga, Gajret i Sokolsko društvo na širenju naprednih ideja i formiranju građanske svijesti u...
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1581204
   start: 2026-10-12T21:05:00Z
   stop: 2026-10-12T21:15:00Z
   title: 'TV arhiv: Grad pod bedemom'
+  subtitle: Dokumentarni film prati priču nastanka i razvoja grada Nikšića.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 639606
+  start: 2026-10-12T21:05:00Z
+  stop: 2026-10-12T21:15:00Z
+  title: Grad pod bedemom
   subtitle: Dokumentarni film prati priču nastanka i razvoja grada Nikšića.
   ageRating: 4
   genre:
@@ -614,7 +650,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1581206
+- eventId: 639607
+  start: 2026-10-12T21:15:00Z
+  stop: 2026-10-12T21:45:00Z
+  title: Mreža.me
+  subtitle: Govorimo o ljudima, događajima, mjestima, problemima, o svemu što vas zanima. Vaše priče, interesantni gosti.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 1581206
+  - 639608
   start: 2026-10-12T21:45:00Z
   stop: 2026-10-12T22:00:00Z
   title: Art vijesti
@@ -622,7 +668,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1581207
+- eventId:
+  - 1581207
+  - 639609
   start: 2026-10-12T22:00:00Z
   stop: 2026-10-12T22:20:00Z
   title: Ditari
@@ -630,7 +678,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1581208
+- eventId:
+  - 1581208
+  - 639610
   start: 2026-10-12T22:20:00Z
   stop: 2026-10-12T22:50:00Z
   title: Kultura sjećanja
@@ -646,7 +696,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1581210
+- eventId: 639611
+  start: 2026-10-12T22:50:00Z
+  stop: 2026-10-12T23:20:00Z
+  title: Stare priče
+  subtitle: Priče o ljudima iz Crne Gore zanimljivih sudbina i bogatog životnog iskustva. Intervjue je vodio Radivoje Rabrenović.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 1581210
+  - 639612
   start: 2026-10-12T23:20:00Z
   stop: 2026-10-12T23:30:00Z
   title: Art vijesti
@@ -658,6 +718,14 @@
   start: 2026-10-12T23:30:00Z
   stop: 2026-10-13T00:00:00Z
   title: Naučno, obrazovni program
+  subtitle: 'Emisije obrazovnog karaktera, koje nas upoznaju sa mnogim saznanjima na raznim poljima. '
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 639613
+  start: 2026-10-12T23:30:00Z
+  stop: 2026-10-13T00:00:00Z
+  title: Naučno obrazovni program
   subtitle: 'Emisije obrazovnog karaktera, koje nas upoznaju sa mnogim saznanjima na raznim poljima. '
   ageRating: 4
   genre:
