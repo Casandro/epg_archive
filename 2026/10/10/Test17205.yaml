@@ -398,6 +398,15 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 666227
+  start: 2026-10-10T11:20:00Z
+  stop: 2026-10-10T11:40:00Z
+  title: 12h45
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 1447664
   - 610749
@@ -409,10 +418,30 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 666228
+  start: 2026-10-10T11:40:00Z
+  stop: 2026-10-10T11:50:00Z
+  title: Météo
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 1447665
   - 610750
   start: 2026-10-10T11:45:00Z
+  stop: 2026-10-10T12:00:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 666229
+  start: 2026-10-10T11:50:00Z
   stop: 2026-10-10T12:00:00Z
   title: RTS Info
   subtitle: L'actualité en continu
@@ -480,7 +509,7 @@
   hd: true
 - eventId: 610825
   start: 2026-10-10T18:05:00Z
-  stop: 2026-10-10T19:56:00Z
+  stop: 2026-10-10T19:55:00Z
   title: Les suffragettes
   description: Au début du siècle dernier, en Angleterre, des femmes de toutes conditions décident de se battre pour obtenir le droit de vote. Face à leurs revendications, les réactions du gouvernement sont de plus en plus brutales et les obligent à entrer dans la clandestinité pour une lutte de plus en plus radicale. Puisque les manifestations pacifiques n'ont rien donné, celles que l'on appelle les suffragettes finissent par avoir recours à la violence pour se faire entendre. (Grande-Bretagne-2015)
   genre:
@@ -504,6 +533,15 @@
   description: '(Inédit) L''été de la Nati ''25 Doc Portrait  L''été de la Nati ''25 suit l''équipe nationale féminine suisse durant l''été 2025, alors que le pays accueille l''Euro de football féminin. Le documentaire plonge dans les coulisses de l''équipe jouant à domicile : les doutes, la pression, les moments intimes et les émotions qui unissent les joueuses. Au-delà du sport, le film capture comment cet événement a créé un lien unique entre l''équipe et tout un pays, marquant un tournant pour le football féminin suisse. (Suisse-2026)'
   genre:
   - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 666256
+  start: 2026-10-10T19:55:00Z
+  stop: 2026-10-10T20:00:00Z
+  title: Zap RTS Sport
+  genre:
+  - '64'
   widescreen: true
   subtitled: true
   hd: true
