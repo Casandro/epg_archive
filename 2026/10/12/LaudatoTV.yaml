@@ -898,7 +898,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1620704
+- eventId:
+  - 1620704
+  - 652997
   start: 2026-10-12T21:31:00Z
   stop: 2026-10-12T21:55:00Z
   title: Krunica, Krunica Blažene Djevice Marije
@@ -907,25 +909,13 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 652997
-  start: 2026-10-12T21:31:00Z
-  stop: 2026-10-12T21:55:00Z
-  title: Krunica
-  subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 1620705
-  start: 2026-10-12T21:55:00Z
-  stop: 2026-10-12T22:02:00Z
-  title: VIS Matheus - Neka mi bude, VIS Matheus - Neka mi bude
-  subtitle: Glazbeni
 - eventId:
+  - 1620705
   - 1629642
   - 652998
   start: 2026-10-12T21:55:00Z
   stop: 2026-10-12T22:02:00Z
-  title: VIS Matheus - Neka mi bude
+  title: VIS Matheus - Neka mi bude, VIS Matheus - Neka mi bude
   subtitle: Vokalno-instrumentalni sastav "Matheus" donosi vam pjesmu 'Neka mi bude'.
   ageRating: 4
 - eventId: 1547326
@@ -981,6 +971,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: U novoj emisiji nastavljamo razgovor s istaknutim povjesničarom dr. sc. Trpimirom Vedrišem, profesorom na Odsjeku za povijest Filozofskog fakulteta u Zagrebu.
 - eventId: 1547329
   start: 2026-10-12T23:14:00Z
   stop: 2026-10-13T00:12:00Z
