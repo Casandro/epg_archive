@@ -589,9 +589,9 @@
   start: 2026-10-11T12:15:00Z
   stop: 2026-10-11T12:24:00Z
   title: Serwis info dzień
-  description: |
-    Tytuł oryginalny: Serwis info dzień
-    PL, 2026
+  description: |-
+    program informacyjny (Polska) (na żywo)
+    Wiodący magazyn informacyjny TVP Info. Dziennikarze zdają w nim relacje z wydarzeń, które miały miejsce podczas minionego dnia w poszczególnych regionach Polski. Przedstawiają również informacje dotyczące najważniejszych zdarzeń z całego świata. Uzupełnieniem tych wiadomości są reporterskie relacje.
   genre:
   - '34'
 - eventId:
@@ -600,9 +600,9 @@
   start: 2026-10-11T12:24:00Z
   stop: 2026-10-11T12:30:00Z
   title: Prognoza pogody
-  description: |
-    Tytuł oryginalny: Prognoza pogody
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
 - eventId:
@@ -610,10 +610,10 @@
   - 625596
   start: 2026-10-11T12:30:00Z
   stop: 2026-10-11T13:00:00Z
-  title: Serwis info dzień
-  description: |
-    Tytuł oryginalny: Serwis info dzień
-    PL, 2026
+  title: Serwis Info Poranek
+  description: |-
+    program informacyjny (na żywo)
+    Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
   genre:
   - '34'
 - eventId:
@@ -621,10 +621,10 @@
   - 625597
   start: 2026-10-11T13:00:00Z
   stop: 2026-10-11T13:30:00Z
-  title: Serwis info dzień
-  description: |
-    Tytuł oryginalny: Serwis info dzień
-    PL, 2026
+  title: Serwis Info Poranek
+  description: |-
+    program informacyjny (na żywo)
+    Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
   genre:
   - '34'
 - eventId:
@@ -633,9 +633,9 @@
   start: 2026-10-11T13:30:00Z
   stop: 2026-10-11T14:00:00Z
   title: Serwis info dzień
-  description: |
-    Tytuł oryginalny: Serwis info dzień
-    PL, 2026
+  description: |-
+    program informacyjny (Polska) (na żywo)
+    Wiodący magazyn informacyjny TVP Info. Dziennikarze zdają w nim relacje z wydarzeń, które miały miejsce podczas minionego dnia w poszczególnych regionach Polski. Przedstawiają również informacje dotyczące najważniejszych zdarzeń z całego świata. Uzupełnieniem tych wiadomości są reporterskie relacje.
   genre:
   - '34'
 - eventId:
@@ -645,9 +645,9 @@
   stop: 2026-10-11T15:00:00Z
   title: Dzień w godzinę
   subtitle: 'Godzinne pasmo informacyjne będące podsumowaniem dnia na jego półmetku. W programie pojawiają się relacje na żywo reporterów w kraju i za granicą, którzy każdego dnia są najbliżej najważniejszych wydarzeń. '
-  description: |
-    Tytuł oryginalny: Dzień w godzinę
-    PL, 2026
+  description: |-
+    magazyn informacyjny (Polska, 2024) (na żywo)
+    Program skupia się na dynamicznym podsumowaniu kluczowych wydarzeń politycznych, społecznych i kulturalnych. Codziennie reporterzy na żywo relacjonują najważniejsze informacje z kraju i ze świata. Prowadzą Dominika Komarnicka i Marcin Kowalski.
   genre:
   - '34'
 - eventId:
@@ -786,12 +786,10 @@
   - 1492347
   - 625611
   start: 2026-10-11T18:15:00Z
-  stop: 2026-10-11T20:00:00Z
-  title: 'Wieczór wyborczy: Przedterminowe wybory prezydenta Krakowa '
+  stop: 2026-10-11T20:10:00Z
+  title: Wieczór wyborczy - Przedterminowe wybory prezydenta Krakowa. 2 tura
   subtitle: W programie ogłoszone zostaną wstępne wyniki wyborów. Wypowiedzą się zaproszeni do studia eksperci oraz komentatorzy życia politycznego.
-  description: |
-    Tytuł oryginalny: Wieczór wyborczy
-    PL, 2026
+  description: program publicystyczny (Polska, 2026) (na żywo)
   genre:
   - '130'
 - eventId:
@@ -816,14 +814,24 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 1492349
+- eventId: 688393
+  start: 2026-10-11T20:10:00Z
+  stop: 2026-10-11T20:30:00Z
+  title: Oko na świat
+  description: |-
+    magazyn (Polska, 2024) (na żywo)
+    Prowadzą: Ernest Zozuń, Aleksandra Marchewicz, Aleksandra Rutkowska
+    Magazyn dotyczący spraw międzynarodowych, w którym prowadzący prezentuje i analizuje najważniejsze wydarzenia ze świata. Gospodarzami są Ernest Zozuń, Aleksandra Marchewicz i Aleksandra Rutkowska.
+- eventId:
+  - 1492349
+  - 688394
   start: 2026-10-11T20:30:00Z
   stop: 2026-10-11T21:00:00Z
   title: Rozmowy nocą
   subtitle: Program poświęcony sprawom społecznym. Widzowie mogą telefonować do studia i dzielić się swoimi opiniami i spostrzeżeniami.
-  description: |
-    Tytuł oryginalny: Rozmowy nocą
-    PL, 2026
+  description: |-
+    magazyn (Polska, 2025) (na żywo)
+    Program poświęcony sprawom społecznym. Widzowie mogą dzwonić do studia i dzielić się swoimi opiniami. Nie będą w nim poruszane zagadnienia polityczne.
   genre:
   - '34'
 - eventId:
