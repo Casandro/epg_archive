@@ -228,7 +228,7 @@
   - 675671
   - 675764
   start: 2026-10-11T07:06:00Z
-  stop: 2026-10-11T08:14:00Z
+  stop: 2026-10-11T08:05:00Z
   title: Warum uns Hunde glücklich machen und Wölfe weise
   description: |-
     Das Tier, mit dem der Mensch die engste Beziehung eingeht, ist der Hund. Was verdanken wir dieser Jahrtausende alten Partnerschaft, die mit dem Wolf begann?
@@ -245,6 +245,20 @@
   - 675765
   start: 2026-10-11T08:14:00Z
   stop: 2026-10-11T09:28:00Z
+  title: Literaturclub
+  description: |-
+    "Literaturclub" diskutiert die neuesten literarischen Entdeckungen und gibt Orientierungshilfe im Buchmarkt.
+
+    In der Gesprächssendung werden jeweils vier bis fünf Neuerscheinungen besprochen.
+    HD-Produktion
+  genre:
+  - '112'
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId: 690383
+  start: 2026-10-11T08:14:00Z
+  stop: 2026-10-11T09:29:00Z
   title: Literaturclub
   description: |-
     "Literaturclub" diskutiert die neuesten literarischen Entdeckungen und gibt Orientierungshilfe im Buchmarkt.
@@ -300,7 +314,9 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 690136
+- eventId:
+  - 690136
+  - 690437
   start: 2026-10-11T09:29:00Z
   stop: 2026-10-11T11:00:00Z
   title: dein buch. Das Beste von der Frankfurter Buchmesse 2026
@@ -313,6 +329,8 @@
   genre:
   - '112'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1071253
   - 1073857
