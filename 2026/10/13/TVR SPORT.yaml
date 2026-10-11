@@ -19,6 +19,7 @@
   - 674968
   - 675742
   - 681148
+  - 681714
   start: 2026-10-13T00:00:00Z
   stop: 2026-10-13T01:40:00Z
   title: Handbal masculin
@@ -35,6 +36,7 @@
   - 1615045
   - 640072
   - 681149
+  - 681715
   start: 2026-10-13T01:40:00Z
   stop: 2026-10-13T02:15:00Z
   title: RETROSPORT
@@ -51,6 +53,7 @@
   - 1615046
   - 640073
   - 681150
+  - 681716
   start: 2026-10-13T02:15:00Z
   stop: 2026-10-13T02:25:00Z
   title: Fillere
@@ -59,6 +62,7 @@
   - 1615047
   - 640074
   - 681151
+  - 681717
   start: 2026-10-13T02:25:00Z
   stop: 2026-10-13T02:55:00Z
   title: GENERATIA FIT
@@ -75,6 +79,7 @@
   - 1615048
   - 640075
   - 681152
+  - 681718
   start: 2026-10-13T02:55:00Z
   stop: 2026-10-13T03:00:00Z
   title: Imnul României
@@ -83,6 +88,7 @@
   - 1615049
   - 640076
   - 681153
+  - 681719
   start: 2026-10-13T03:00:00Z
   stop: 2026-10-13T04:00:00Z
   title: STADION
@@ -99,6 +105,7 @@
   - 1615050
   - 640077
   - 681154
+  - 681720
   start: 2026-10-13T04:00:00Z
   stop: 2026-10-13T05:30:00Z
   title: Handbal feminin
@@ -131,6 +138,7 @@
   - 1615051
   - 640078
   - 681155
+  - 681721
   start: 2026-10-13T05:30:00Z
   stop: 2026-10-13T06:00:00Z
   title: SPORTS REPLAY
@@ -139,6 +147,7 @@
   - 1615052
   - 640079
   - 681156
+  - 681722
   start: 2026-10-13T06:00:00Z
   stop: 2026-10-13T06:10:00Z
   title: SPORT EXPRES
@@ -147,6 +156,7 @@
   - 1615053
   - 640080
   - 681157
+  - 681723
   start: 2026-10-13T06:10:00Z
   stop: 2026-10-13T07:00:00Z
   title: Ora de sport
@@ -155,6 +165,7 @@
   - 1615054
   - 640081
   - 681158
+  - 681724
   start: 2026-10-13T07:00:00Z
   stop: 2026-10-13T07:10:00Z
   title: SPORT EXPRES
@@ -171,6 +182,7 @@
   - 1615055
   - 640082
   - 681159
+  - 681725
   start: 2026-10-13T07:10:00Z
   stop: 2026-10-13T08:00:00Z
   title: Ora de sport
@@ -179,6 +191,7 @@
   - 1615056
   - 640083
   - 681160
+  - 681726
   start: 2026-10-13T08:00:00Z
   stop: 2026-10-13T08:10:00Z
   title: SPORT EXPRES
@@ -187,6 +200,7 @@
   - 1615057
   - 640084
   - 681161
+  - 681727
   start: 2026-10-13T08:10:00Z
   stop: 2026-10-13T09:40:00Z
   title: Handbal masculin
@@ -231,7 +245,9 @@
   stop: 2026-10-13T11:00:00Z
   title: Ora de sport
   subtitle: ' (Partea I)   (Reluare)'
-- eventId: 676538
+- eventId:
+  - 676538
+  - 681338
   start: 2026-10-13T10:15:00Z
   stop: 2026-10-13T10:35:00Z
   title: Muzikë argëtuese
@@ -242,6 +258,14 @@
 - eventId: 676539
   start: 2026-10-13T10:35:00Z
   stop: 2026-10-13T11:15:00Z
+  title: Farewell Letter
+  subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 681339
+  start: 2026-10-13T10:35:00Z
+  stop: 2026-10-13T11:10:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -271,6 +295,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 681340
+  start: 2026-10-13T11:15:00Z
+  stop: 2026-10-13T12:30:00Z
+  title: Reportazhe
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1615064
   - 640091
@@ -291,7 +323,9 @@
   stop: 2026-10-13T12:55:00Z
   title: RETROSPORT
   subtitle: ' Arhiva TVR   (Reluare)'
-- eventId: 676541
+- eventId:
+  - 676541
+  - 681341
   start: 2026-10-13T12:35:00Z
   stop: 2026-10-13T12:55:00Z
   title: Promo
@@ -311,7 +345,7 @@
   - 1615066
   - 640093
   start: 2026-10-13T13:00:00Z
-  stop: 2026-10-13T13:10:00Z
+  stop: 2026-10-13T13:20:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -325,7 +359,9 @@
   stop: 2026-10-13T14:00:00Z
   title: Arena Premiera
   subtitle: ' Preluare TVR Iasi '
-- eventId: 676543
+- eventId:
+  - 676543
+  - 681342
   start: 2026-10-13T13:20:00Z
   stop: 2026-10-13T13:30:00Z
   title: Promo
@@ -333,7 +369,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 676544
+- eventId:
+  - 676544
+  - 681343
   start: 2026-10-13T13:30:00Z
   stop: 2026-10-13T14:00:00Z
   title: Reportazhe
@@ -355,7 +393,7 @@
   - 1615069
   - 640096
   start: 2026-10-13T15:00:00Z
-  stop: 2026-10-13T15:10:00Z
+  stop: 2026-10-13T15:55:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -369,7 +407,9 @@
   stop: 2026-10-13T16:10:00Z
   title: In prelungiri
   subtitle: ' *Preluare TVR Timisoara   (Reluare)'
-- eventId: 676545
+- eventId:
+  - 676545
+  - 681344
   start: 2026-10-13T15:55:00Z
   stop: 2026-10-13T16:00:00Z
   title: Promo
@@ -377,7 +417,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 676546
+- eventId:
+  - 676546
+  - 681345
   start: 2026-10-13T16:00:00Z
   stop: 2026-10-13T16:30:00Z
   title: Reportazhe
@@ -407,13 +449,15 @@
   - 1615073
   - 640100
   start: 2026-10-13T17:00:00Z
-  stop: 2026-10-13T18:00:00Z
+  stop: 2026-10-13T17:10:00Z
   title: CAMPION LA MICROFON Premiera
   subtitle: '  '
   ageRating: 4
   genre:
   - '160'
-- eventId: 676547
+- eventId:
+  - 676547
+  - 681346
   start: 2026-10-13T17:10:00Z
   stop: 2026-10-13T17:20:00Z
   title: 10 minuta
@@ -421,7 +465,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 676548
+- eventId:
+  - 676548
+  - 681347
   start: 2026-10-13T17:20:00Z
   stop: 2026-10-13T17:30:00Z
   title: Promo
@@ -429,7 +475,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 676549
+- eventId:
+  - 676549
+  - 681348
   start: 2026-10-13T17:30:00Z
   stop: 2026-10-13T18:00:00Z
   title: Live News MK
@@ -441,7 +489,7 @@
   - 1615074
   - 640101
   start: 2026-10-13T18:00:00Z
-  stop: 2026-10-13T18:10:00Z
+  stop: 2026-10-13T18:45:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -455,7 +503,9 @@
   stop: 2026-10-13T20:45:00Z
   title: DANS SPORTIV
   subtitle: ' *CARPHATIAN DANCE CUP 2026    (Reluare)'
-- eventId: 676550
+- eventId:
+  - 676550
+  - 681349
   start: 2026-10-13T18:45:00Z
   stop: 2026-10-13T19:30:00Z
   title: Firefly
@@ -463,7 +513,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 676551
+- eventId:
+  - 676551
+  - 681350
   start: 2026-10-13T19:30:00Z
   stop: 2026-10-13T20:55:00Z
   title: Film artistik
@@ -495,7 +547,7 @@
   - 1615077
   - 640104
   start: 2026-10-13T21:00:00Z
-  stop: 2026-10-13T22:00:00Z
+  stop: 2026-10-13T21:20:00Z
   title: Live News MK
   subtitle: ' Preluare TVR Iasi   (Reluare)'
   ageRating: 4
@@ -509,6 +561,14 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 681351
+  start: 2026-10-13T21:20:00Z
+  stop: 2026-10-13T22:00:00Z
+  title: Farewell Letter
+  subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
+  ageRating: 4
+  genre:
+  - '128'
 - eventId:
   - 1615078
   - 640105
@@ -517,7 +577,9 @@
   stop: 2026-10-13T23:40:00Z
   title: Ora de sport
   subtitle: ' (Partea I+ II )   (Reluare)'
-- eventId: 676554
+- eventId:
+  - 676554
+  - 681352
   start: 2026-10-13T22:05:00Z
   stop: 2026-10-13T23:25:00Z
   title: Click Plus
@@ -525,7 +587,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 676555
+- eventId:
+  - 676555
+  - 681353
   start: 2026-10-13T23:25:00Z
   stop: 2026-10-14T01:25:00Z
   title: Pastel
