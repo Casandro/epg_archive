@@ -46,7 +46,7 @@
   start: 2026-10-19T03:55:00Z
   stop: 2026-10-19T04:20:00Z
   title: Elefant, Tiger & Co. (964)
-  subtitle: Leipziger Fabriken
+  subtitle: Geschichten aus dem Leipziger Zoo
   widescreen: true
   subtitled: true
   hd: true
@@ -62,6 +62,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId:
   - 1130089
   - 581866
@@ -161,7 +163,7 @@
   start: 2026-10-19T10:00:00Z
   stop: 2026-10-19T10:25:00Z
   title: Elefant, Tiger & Co. (964)
-  subtitle: Leipziger Fabriken
+  subtitle: Geschichten aus dem Leipziger Zoo
   widescreen: true
   subtitled: true
   hd: true
@@ -177,6 +179,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 1130100
   - 583945
@@ -188,6 +191,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 1130101
   - 585536
@@ -214,12 +218,15 @@
   - 585538
   start: 2026-10-19T13:10:00Z
   stop: 2026-10-19T14:00:00Z
-  title: WaPo Bodensee
+  title: WaPo Bodensee (29)
   subtitle: Go for Gold
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 1130104
   - 585539
@@ -368,11 +375,12 @@
   - 574015
   start: 2026-10-19T19:00:00Z
   stop: 2026-10-19T19:45:00Z
-  title: Die Ernährungs-Docs
+  title: Die Ernährungs-Docs (93)
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Adipositas und Reflux, Fibromyalgie
 - eventId:
   - 1130113
   - 574016
@@ -399,6 +407,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Die Kinder vom Bürgerzentrum
 - eventId:
   - 1130115
   - 574018
@@ -416,11 +425,13 @@
   start: 2026-10-19T21:15:00Z
   stop: 2026-10-19T23:00:00Z
   title: Mein ewiger Sommer
-  subtitle: Dänemark 2024
+  subtitle: Spielfilm Dänemark 2024
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1130117
   - 574396
@@ -431,3 +442,6 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Spielfilm Frankreich/Schweden/Finnland 2022
+  genre:
+  - '16'
