@@ -281,7 +281,7 @@
   - 622536
   - 655674
   start: 2026-10-12T10:20:00Z
-  stop: 2026-10-12T10:30:00Z
+  stop: 2026-10-12T10:30:15Z
   title: Předpověď počasí, sportovní zprávy
   subtitle: Souhrn meteorologických informací uplynulých 24 hodin a prognóza vývoje počasí na příští dny.
   description: |-
@@ -308,6 +308,15 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 724131
+  start: 2026-10-12T10:30:15Z
+  stop: 2026-10-12T10:34:10Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
 - eventId:
   - 1485137
   - 1493066
@@ -402,7 +411,7 @@
   start: 2026-10-12T11:03:00Z
   stop: 2026-10-12T11:29:55Z
   title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  subtitle: 'Témata: Výsledky komunálních a senátních voleb (rozhovor s Janem Grolichem z KDU-ČSL); Povolební vyjednávání na jižní Moravě (příspěvek TS Brno).'
   description: |-
     HDTV
     Skryté titulky
@@ -694,6 +703,7 @@
 - eventId:
   - 718676
   - 722713
+  - 723998
   start: 2026-10-12T13:10:00Z
   stop: 2026-10-12T13:30:00Z
   title: Ekonomika ČT24
