@@ -54,7 +54,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 676132
   start: 2026-10-13T00:55:00Z
-  stop: 2026-10-13T00:59:00Z
+  stop: 2026-10-13T01:00:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
@@ -80,6 +80,7 @@
   - 703179
   - 703374
   - 704190
+  - 709240
   start: 2026-10-13T01:00:00Z
   stop: 2026-10-13T01:10:00Z
   title: Vijesti flash
@@ -107,6 +108,7 @@
   - 703180
   - 703375
   - 704191
+  - 709241
   start: 2026-10-13T01:10:00Z
   stop: 2026-10-13T01:18:00Z
   title: Vijesti na engleskom jeziku
@@ -134,6 +136,7 @@
   - 703181
   - 703376
   - 704192
+  - 709242
   start: 2026-10-13T01:18:00Z
   stop: 2026-10-13T01:20:00Z
   title: Bez komentara
@@ -161,6 +164,7 @@
   - 703182
   - 703377
   - 704193
+  - 709243
   start: 2026-10-13T01:20:00Z
   stop: 2026-10-13T01:28:00Z
   title: Vijesti na španjolskom jeziku
@@ -188,6 +192,7 @@
   - 703183
   - 703378
   - 704194
+  - 709244
   start: 2026-10-13T01:28:00Z
   stop: 2026-10-13T01:30:00Z
   title: Bez komentara
@@ -215,6 +220,7 @@
   - 703184
   - 703379
   - 704195
+  - 709245
   start: 2026-10-13T01:30:00Z
   stop: 2026-10-13T01:50:00Z
   title: 'Studio 4: Dijagnoza'
@@ -250,6 +256,7 @@
   - 703185
   - 703380
   - 704196
+  - 709246
   start: 2026-10-13T01:50:00Z
   stop: 2026-10-13T01:53:00Z
   title: '#REPORTAŽE'
@@ -276,6 +283,7 @@
   - 703186
   - 703381
   - 704197
+  - 709247
   start: 2026-10-13T01:53:00Z
   stop: 2026-10-13T01:58:00Z
   title: Bez komentara
@@ -303,6 +311,7 @@
   - 703187
   - 703382
   - 704198
+  - 709248
   start: 2026-10-13T01:58:00Z
   stop: 2026-10-13T02:43:00Z
   title: Pregled dana
@@ -330,6 +339,7 @@
   - 703188
   - 703383
   - 704199
+  - 709249
   start: 2026-10-13T02:43:00Z
   stop: 2026-10-13T02:53:00Z
   title: Vijesti flash
@@ -365,6 +375,14 @@
   genre:
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
+- eventId: 709250
+  start: 2026-10-13T02:53:00Z
+  stop: 2026-10-13T03:52:00Z
+  title: Vijesti iz kulture
+  subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 701667
   - 702158
@@ -403,8 +421,11 @@
   start: 2026-10-13T03:52:00Z
   stop: 2026-10-13T03:53:00Z
   title: Vrijeme RH danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 676145
   start: 2026-10-13T03:53:00Z
   stop: 2026-10-13T03:55:00Z
@@ -457,8 +478,11 @@
   start: 2026-10-13T03:59:00Z
   stop: 2026-10-13T04:07:00Z
   title: Vijesti na španjolskom jeziku
-  subtitle: ' '
+  subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 676149
   - 702034
@@ -484,8 +508,11 @@
   start: 2026-10-13T04:07:00Z
   stop: 2026-10-13T04:09:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 676150
   - 702035
@@ -511,8 +538,11 @@
   start: 2026-10-13T04:09:00Z
   stop: 2026-10-13T04:17:00Z
   title: Vijesti na engleskom jeziku
-  subtitle: ' '
+  subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 676151
   - 702036
@@ -538,8 +568,11 @@
   start: 2026-10-13T04:17:00Z
   stop: 2026-10-13T04:25:00Z
   title: 'Studio 4: Znanost'
-  subtitle: ' '
+  subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   description: Kratki pregled aktualnosti iz svijeta znanosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 676152
   - 702037
@@ -565,8 +598,11 @@
   start: 2026-10-13T04:25:00Z
   stop: 2026-10-13T04:55:00Z
   title: Otvoreno
-  subtitle: ' '
+  subtitle: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 676153
   - 702038
@@ -590,10 +626,13 @@
   - 703837
   - 708291
   start: 2026-10-13T04:55:00Z
-  stop: 2026-10-13T04:58:00Z
+  stop: 2026-10-13T05:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 676154
   - 702039
