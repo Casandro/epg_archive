@@ -424,7 +424,7 @@
   start: 2026-10-12T11:03:00Z
   stop: 2026-10-12T11:29:30Z
   title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  subtitle: 'Témata: Výsledky komunálních a senátních voleb (rozhovor s Janem Grolichem z KDU-ČSL); Povolební vyjednávání na jižní Moravě (příspěvek TS Brno).'
   description: |-
     HDTV
     Skryté titulky
@@ -454,7 +454,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 723881
+- eventId:
+  - 723881
+  - 724486
   start: 2026-10-12T11:29:55Z
   stop: 2026-10-12T11:32:55Z
   title: Zprávy
@@ -519,6 +521,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 724490
+  start: 2026-10-12T11:33:01Z
+  stop: 2026-10-12T11:36:56Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId: 723154
   start: 2026-10-12T11:33:15Z
   stop: 2026-10-12T11:39:10Z
@@ -528,6 +540,17 @@
     Skryté titulky
   genre:
   - '32'
+  widescreen: true
+- eventId: 724491
+  start: 2026-10-12T11:36:56Z
+  stop: 2026-10-12T12:00:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Nobelova cena za ekonomii; Senátní volby: obvod Louny (duel kandidátů).'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
   widescreen: true
 - eventId: 723155
   start: 2026-10-12T11:39:10Z
@@ -731,7 +754,7 @@
   hd: true
 - eventId: 724337
   start: 2026-10-12T13:12:00Z
-  stop: 2026-10-12T13:30:00Z
+  stop: 2026-10-12T13:31:00Z
   title: Ekonomika ČT24
   subtitle: Nobelova cena za ekonomii.
   description: |-
