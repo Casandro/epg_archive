@@ -81,6 +81,7 @@
   - 703374
   - 704190
   - 709240
+  - 709978
   start: 2026-10-13T01:00:00Z
   stop: 2026-10-13T01:10:00Z
   title: Vijesti flash
@@ -109,6 +110,7 @@
   - 703375
   - 704191
   - 709241
+  - 709979
   start: 2026-10-13T01:10:00Z
   stop: 2026-10-13T01:18:00Z
   title: Vijesti na engleskom jeziku
@@ -137,6 +139,7 @@
   - 703376
   - 704192
   - 709242
+  - 709980
   start: 2026-10-13T01:18:00Z
   stop: 2026-10-13T01:20:00Z
   title: Bez komentara
@@ -165,6 +168,7 @@
   - 703377
   - 704193
   - 709243
+  - 709981
   start: 2026-10-13T01:20:00Z
   stop: 2026-10-13T01:28:00Z
   title: Vijesti na španjolskom jeziku
@@ -193,6 +197,7 @@
   - 703378
   - 704194
   - 709244
+  - 709982
   start: 2026-10-13T01:28:00Z
   stop: 2026-10-13T01:30:00Z
   title: Bez komentara
@@ -229,6 +234,14 @@
   genre:
   - '160'
   description: Što se sve prevencijom može postići, vidi se iz konkretnih pokazatelja i rezultata, a to nam upravo nakon dva desetljeća provedbe pokazuje Nacionalni preventivni program u Hrvatskoj. Što sve možemo doznati iz evaluacije programa te koja je stvarna uloga radioloških pretraga u ranom otkrivanju i smanjenju smrtnosti, koje su sve aktualnosti u prevenciji, dijagnostici i liječenju, doznat ćemo u razgovoru s gostima prof. dr. sc. Borisom Brkljačićem i prim dr. sc. Andreom Šupe Parun.
+- eventId: 709983
+  start: 2026-10-13T01:30:00Z
+  stop: 2026-10-13T01:49:00Z
+  title: 'Studio 4: Dijagnoza'
+  subtitle: Što se sve prevencijom može postići, vidi se iz konkretnih pokazatelja i rezultata, a to nam upravo nakon dva desetljeća provedbe pokazuje Nacionalni preventivni program u Hrvatskoj.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 701662
   - 702153
@@ -257,6 +270,7 @@
   - 703380
   - 704196
   - 709246
+  - 709984
   start: 2026-10-13T01:50:00Z
   stop: 2026-10-13T01:53:00Z
   title: '#REPORTAŽE'
@@ -284,6 +298,7 @@
   - 703381
   - 704197
   - 709247
+  - 709985
   start: 2026-10-13T01:53:00Z
   stop: 2026-10-13T01:58:00Z
   title: Bez komentara
@@ -320,6 +335,14 @@
   genre:
   - '160'
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
+- eventId: 709986
+  start: 2026-10-13T01:58:00Z
+  stop: 2026-10-13T02:42:00Z
+  title: Pregled dana
+  subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 701665
   - 702156
@@ -340,6 +363,7 @@
   - 703383
   - 704199
   - 709249
+  - 709987
   start: 2026-10-13T02:43:00Z
   stop: 2026-10-13T02:53:00Z
   title: Vijesti flash
@@ -375,7 +399,9 @@
   genre:
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 709250
+- eventId:
+  - 709250
+  - 709988
   start: 2026-10-13T02:53:00Z
   stop: 2026-10-13T03:52:00Z
   title: Vijesti iz kulture
