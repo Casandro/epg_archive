@@ -172,7 +172,7 @@
   - 1289578
   - 565332
   start: 2026-10-25T08:00:00Z
-  stop: 2026-10-25T11:00:00Z
+  stop: 2026-10-25T09:30:00Z
   title: Für immer daheim
   subtitle: Fernsehfilm Deutschland 2011
   episodeUri: crid://onid-1/e/6aad1bed362a9a54f846a37b
@@ -183,6 +183,15 @@
   hd: true
   audiodesc: true
   ageRating: 6
+- eventId: 727016
+  start: 2026-10-25T09:30:00Z
+  stop: 2026-10-25T11:00:00Z
+  title: Kreuzkölln - Kiez zwischen Hype und Lässigkeit
+  episodeUri: crid://onid-1/e/6acce3a3b01388db3d5400ce
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 1289605
   start: 2026-10-25T11:00:00Z
   stop: 2026-10-25T11:25:00Z
@@ -216,13 +225,15 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1289616
   - 565720
   start: 2026-10-25T12:15:00Z
   stop: 2026-10-25T13:45:00Z
   title: 'Eltern allein zu Haus: Die Winters'
-  subtitle: Spielfilm Deutschland 2017
+  subtitle: Fernsehfilm Deutschland 2017
   episodeUri: crid://onid-1/e/6aad1bed362a9a54f846a373
   genre:
   - '16'
@@ -230,6 +241,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 1289617
   - 565721
