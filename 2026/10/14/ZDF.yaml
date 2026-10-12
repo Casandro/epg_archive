@@ -36,7 +36,7 @@
   - 546075
   - 612657
   start: 2026-10-14T02:05:00Z
-  stop: 2026-10-14T02:45:00Z
+  stop: 2026-10-14T02:35:00Z
   title: WISO
   genre:
   - '128'
@@ -52,6 +52,24 @@
 
     Moderation: Valerie Haller
     HD-Produktion
+- eventId:
+  - 726689
+  - 726809
+  start: 2026-10-14T02:35:00Z
+  stop: 2026-10-14T03:30:00Z
+  title: hallo deutschland
+  description: |-
+    Magazin, Deutschland 2026
+    Neues von David Garrett - Stargeiger bringt neues Album raus
+
+    Moderation: - Marvin Fischer
+    HD-Produktion
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1163260
   - 1163339
@@ -213,13 +231,15 @@
   - 546143
   - 612790
   start: 2026-10-14T12:00:00Z
-  stop: 2026-10-14T12:15:00Z
+  stop: 2026-10-14T13:00:00Z
   title: heute - in Deutschland
   genre:
   - '32'
   widescreen: true
   hd: true
   audiodesc: true
+  subtitle: 'Regierungserklärung von Bundeskanzler Merz - Reporter: Mathis Feldhoff'
+  subtitled: true
 - eventId:
   - 1163268
   - 1163408
