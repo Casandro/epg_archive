@@ -118,6 +118,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 1261988
   - 1455307
@@ -255,7 +257,7 @@
   - 554986
   - 633690
   start: 2026-10-24T12:00:00Z
-  stop: 2026-10-24T13:45:00Z
+  stop: 2026-10-24T14:00:00Z
   title: Blickpunkt Sport live
   subtitle: 'Fußball 3. Liga: FC Ingolstadt 04 - MSV Duisburg'
   widescreen: true
@@ -277,11 +279,17 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 723194
+- eventId:
+  - 723194
+  - 723318
   start: 2026-10-24T14:00:00Z
   stop: 2026-10-24T14:30:00Z
   title: Ländermagazin aus Bayern
   subtitle: Hotel Vier Jahreszeiten
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1262196
   - 1455396
@@ -355,7 +363,7 @@
   start: 2026-10-24T17:30:00Z
   stop: 2026-10-24T18:00:00Z
   title: Kunst + Krempel
-  subtitle: DE
+  subtitle: Deutschland 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -380,12 +388,14 @@
   start: 2026-10-24T18:15:00Z
   stop: 2026-10-24T19:45:00Z
   title: Föhnlage. Ein Alpenkrimi
-  subtitle: DE/DE
+  subtitle: Fernsehfilm Deutschland 2011
   ageRating: 12
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1263412
   - 1454919
@@ -394,13 +404,14 @@
   start: 2026-10-24T19:45:00Z
   stop: 2026-10-24T21:10:00Z
   title: Kommissar Pascha
-  subtitle: Spielfilm 2016
+  subtitle: Fernsehfilm Deutschland 2016
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 1263425
   - 1455408
@@ -422,13 +433,14 @@
   start: 2026-10-24T21:25:00Z
   stop: 2026-10-24T22:55:00Z
   title: Bierleichen. Ein Paschakrimi
-  subtitle: Spielfilm 2017
+  subtitle: Fernsehfilm Deutschland 2017
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 1263427
   - 1455410
