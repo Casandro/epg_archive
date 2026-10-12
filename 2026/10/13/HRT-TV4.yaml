@@ -54,7 +54,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 676132
   start: 2026-10-13T00:55:00Z
-  stop: 2026-10-13T01:00:00Z
+  stop: 2026-10-13T00:59:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
@@ -72,11 +72,15 @@
   - 713430
   - 718389
   - 719927
+  - 725346
   start: 2026-10-13T00:59:00Z
   stop: 2026-10-13T01:09:00Z
   title: Vijesti flash
-  subtitle: ' '
+  subtitle: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 676133
   - 702021
@@ -114,11 +118,15 @@
   - 713431
   - 718390
   - 719928
+  - 725347
   start: 2026-10-13T01:09:00Z
   stop: 2026-10-13T01:17:00Z
   title: Vijesti na engleskom jeziku
-  subtitle: ' '
+  subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 676134
   - 702022
@@ -156,11 +164,15 @@
   - 713432
   - 718391
   - 719929
+  - 725348
   start: 2026-10-13T01:17:00Z
   stop: 2026-10-13T01:19:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 676135
   - 702023
@@ -198,11 +210,15 @@
   - 713433
   - 718392
   - 719930
+  - 725349
   start: 2026-10-13T01:19:00Z
   stop: 2026-10-13T01:27:00Z
   title: Vijesti na španjolskom jeziku
-  subtitle: ' '
+  subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 676136
   - 702024
@@ -240,11 +256,15 @@
   - 713434
   - 718393
   - 719931
+  - 725350
   start: 2026-10-13T01:27:00Z
   stop: 2026-10-13T01:29:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 676137
   - 702025
@@ -282,11 +302,15 @@
   - 713435
   - 718394
   - 719932
+  - 725351
   start: 2026-10-13T01:29:00Z
   stop: 2026-10-13T01:49:00Z
   title: 'Studio 4: Dijagnoza'
-  subtitle: ' '
+  subtitle: Što se sve prevencijom može postići, vidi se iz konkretnih pokazatelja i rezultata, a to nam upravo nakon dva desetljeća provedbe pokazuje Nacionalni preventivni program u Hrvatskoj.
   description: Što se sve prevencijom može postići, vidi se iz konkretnih pokazatelja i rezultata, a to nam upravo nakon dva desetljeća provedbe pokazuje Nacionalni preventivni program u Hrvatskoj. Što sve možemo doznati iz evaluacije programa te koja je stvarna uloga radioloških pretraga u ranom otkrivanju i smanjenju smrtnosti, koje su sve aktualnosti u prevenciji, dijagnostici i liječenju, doznat ćemo u razgovoru s gostima prof. dr. sc. Borisom Brkljačićem i prim dr. sc. Andreom Šupe Parun.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 676138
   - 702026
@@ -329,6 +353,14 @@
   title: '#REPORTAŽE: Posvajanje djece'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 725352
+  start: 2026-10-13T01:49:00Z
+  stop: 2026-10-13T01:52:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 676139
   start: 2026-10-13T01:50:00Z
   stop: 2026-10-13T01:53:00Z
@@ -373,11 +405,15 @@
   - 713437
   - 718396
   - 719934
+  - 725353
   start: 2026-10-13T01:52:00Z
   stop: 2026-10-13T01:57:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 676140
   - 702028
@@ -415,11 +451,15 @@
   - 713438
   - 718397
   - 719935
+  - 725354
   start: 2026-10-13T01:57:00Z
   stop: 2026-10-13T02:42:00Z
   title: Pregled dana
-  subtitle: ' '
+  subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 676141
   - 702029
@@ -457,11 +497,15 @@
   - 713439
   - 718398
   - 719936
+  - 725355
   start: 2026-10-13T02:42:00Z
   stop: 2026-10-13T02:52:00Z
   title: Vijesti flash
-  subtitle: ' '
+  subtitle: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 676142
   - 702030
@@ -499,11 +543,15 @@
   - 713440
   - 718399
   - 719937
+  - 725356
   start: 2026-10-13T02:52:00Z
   stop: 2026-10-13T02:59:00Z
   title: Vijesti iz kulture
-  subtitle: ' '
+  subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 676143
   - 702031
@@ -549,11 +597,15 @@
   - 713441
   - 718400
   - 719938
+  - 725357
   start: 2026-10-13T02:59:00Z
   stop: 2026-10-13T03:52:00Z
   title: Dnevnik 2
-  subtitle: ' '
+  subtitle: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a.
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 676144
   start: 2026-10-13T03:00:00Z
   stop: 2026-10-13T03:53:00Z

@@ -71,9 +71,11 @@
   - 557328
   start: 2026-10-25T07:10:00Z
   stop: 2026-10-25T07:25:00Z
-  title: Tele-Gym - 1
+  title: Tele-Gym (1/8)
   subtitle: Aerobic, Bewegung, Tanz
   subtitled: true
+  genre:
+  - '144'
 - eventId:
   - 1482852
   - 557329
@@ -81,7 +83,9 @@
   stop: 2026-10-25T08:45:00Z
   title: Panoramabilder
   subtitle: Täglich von 6.00 Uhr bis 20.00 Uhr in der ARD Mediathek unter www.br.de/panoramabilder
-- eventId: 1482853
+- eventId:
+  - 1482853
+  - 557330
   start: 2026-10-25T08:45:00Z
   stop: 2026-10-25T09:30:00Z
   title: Länder - Menschen - Abenteuer
@@ -89,12 +93,6 @@
   subtitled: true
   genre:
   - '144'
-- eventId: 557330
-  start: 2026-10-25T08:45:00Z
-  stop: 2026-10-25T09:30:00Z
-  title: Länder-Menschen-Abenteuer
-  subtitle: Abenteuer Mauretanien - Zu Fuß durch die Sahara
-  subtitled: true
 - eventId:
   - 1482872
   - 557511
@@ -116,7 +114,7 @@
   - 557513
   start: 2026-10-25T11:00:00Z
   stop: 2026-10-25T11:45:00Z
-  title: Michael Martin - Mit der Kamera um die Welt
+  title: Michael Martin - Mit der Kamera um die Welt (2/4)
   subtitle: Rift Valley und Arabische Halbinsel
 - eventId:
   - 1482875
@@ -204,6 +202,8 @@
   title: RESPEKT - Demokratische Grundwerte für alle!
   subtitle: Mental Health - stark sein gegen Mobbing, Depressionen & Co
   subtitled: true
+  genre:
+  - '128'
 - eventId:
   - 1482777
   - 559686
@@ -224,13 +224,16 @@
   start: 2026-10-25T19:15:00Z
   stop: 2026-10-25T20:45:00Z
   title: 'Berlin - Schicksalsjahre einer Stadt: 2009'
+  subtitle: Das Jahr 2009
 - eventId:
   - 1482780
   - 559689
   start: 2026-10-25T20:45:00Z
   stop: 2026-10-25T21:35:00Z
-  title: Simon Rattle dirigiert Highlights der Filmmusik
+  title: 'BR-KLASSIK: Simon Rattle dirigiert Highlights der Filmmusik'
   subtitle: Das BRSO bei Klassik am Odeonsplatz 2022
+  genre:
+  - '112'
 - eventId:
   - 1482976
   - 559856

@@ -120,12 +120,14 @@
   - 605872
   start: 2026-10-25T07:10:00Z
   stop: 2026-10-25T07:25:00Z
-  title: Tele-Gym - 1
+  title: Tele-Gym (1/8)
   subtitle: Aerobic, Bewegung, Tanz
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 1291215
   - 605873
@@ -137,7 +139,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1291216
+- eventId:
+  - 1291216
+  - 605874
   start: 2026-10-25T08:45:00Z
   stop: 2026-10-25T09:30:00Z
   title: Länder - Menschen - Abenteuer
@@ -148,15 +152,6 @@
   audiodesc: true
   genre:
   - '144'
-- eventId: 605874
-  start: 2026-10-25T08:45:00Z
-  stop: 2026-10-25T09:30:00Z
-  title: Länder-Menschen-Abenteuer
-  subtitle: Abenteuer Mauretanien - Zu Fuß durch die Sahara
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
   - 1291238
   - 590319
@@ -184,7 +179,7 @@
   - 590321
   start: 2026-10-25T11:00:00Z
   stop: 2026-10-25T11:45:00Z
-  title: Michael Martin - Mit der Kamera um die Welt
+  title: Michael Martin - Mit der Kamera um die Welt (2/4)
   subtitle: Rift Valley und Arabische Halbinsel
   widescreen: true
   subtitled: true
@@ -318,6 +313,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '128'
 - eventId:
   - 1291365
   - 601376
@@ -349,17 +346,20 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Das Jahr 2009
 - eventId:
   - 1291368
   - 601379
   start: 2026-10-25T20:45:00Z
   stop: 2026-10-25T21:35:00Z
-  title: Simon Rattle dirigiert Highlights der Filmmusik
+  title: 'BR-KLASSIK: Simon Rattle dirigiert Highlights der Filmmusik'
   subtitle: Das BRSO bei Klassik am Odeonsplatz 2022
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId:
   - 1291419
   - 601916
