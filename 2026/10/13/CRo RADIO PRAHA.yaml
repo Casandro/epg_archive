@@ -140,6 +140,8 @@
   - 722273
   - 723161
   - 723221
+  - 723802
+  - 723872
   start: 2026-10-13T05:19:00Z
   stop: 2026-10-13T05:20:00Z
   title: Počasí
@@ -264,6 +266,8 @@
   - 722341
   - 723163
   - 723223
+  - 723806
+  - 723877
   start: 2026-10-13T06:32:00Z
   stop: 2026-10-13T06:33:00Z
   title: Doprava
@@ -348,6 +352,8 @@
   - 722352
   - 723165
   - 723225
+  - 723808
+  - 723879
   start: 2026-10-13T07:19:00Z
   stop: 2026-10-13T07:20:00Z
   title: Počasí
@@ -668,6 +674,8 @@
   - 722488
   - 723168
   - 723228
+  - 723575
+  - 723817
   start: 2026-10-13T11:33:00Z
   stop: 2026-10-13T11:47:00Z
   title: Odpolední Praha
@@ -766,6 +774,8 @@
   - 722601
   - 723172
   - 723232
+  - 723578
+  - 723819
   start: 2026-10-13T12:49:00Z
   stop: 2026-10-13T12:50:00Z
   title: Doprava
@@ -1033,7 +1043,7 @@
   - 707530
   - 722682
   start: 2026-10-13T16:30:00Z
-  stop: 2026-10-13T16:47:00Z
+  stop: 2026-10-13T16:40:00Z
   title: Zprávy Rádia Praha
   subtitle: Duel kandidátů postupujících do druhého kola senátních voleb.
 - eventId:
@@ -1064,6 +1074,16 @@
   stop: 2026-10-13T16:47:00Z
   title: Pražský update
   subtitle: To nej z celého dne na Rádiu Praha. Moderuje Petr Zajíček.
+- eventId: 723822
+  start: 2026-10-13T16:40:00Z
+  stop: 2026-10-13T16:45:00Z
+  title: Pražský update
+  subtitle: To nej z celého dne na Rádiu Praha. Moderuje Petr Zajíček.
+- eventId: 723823
+  start: 2026-10-13T16:45:00Z
+  stop: 2026-10-13T16:48:00Z
+  title: Perný den
+  subtitle: Historické události s Petrem Jungmannem.
 - eventId:
   - 707535
   - 722687
@@ -1074,11 +1094,14 @@
 - eventId:
   - 707536
   - 722688
+  - 723824
   start: 2026-10-13T16:48:00Z
   stop: 2026-10-13T17:00:00Z
   title: Pražský update
   subtitle: To nej z celého dne na Rádiu Praha. Moderuje Petr Zajíček.
-- eventId: 723173
+- eventId:
+  - 723173
+  - 723583
   start: 2026-10-13T16:50:00Z
   stop: 2026-10-13T17:00:00Z
   title: Pražský update
@@ -1153,27 +1176,37 @@
   stop: 2026-10-13T21:00:00Z
   title: Rádio Praha
   subtitle: HITY - DOPRAVA - INFORMACE
-- eventId: 707738
+- eventId:
+  - 707738
+  - 723596
   start: 2026-10-13T21:00:00Z
   stop: 2026-10-13T22:00:00Z
   title: Až na dřeň
   description: Hudební skladatel, zpěvák, scénárista a režisér Lukáš Daniel Pařík stojí za úspěšnou sérií fantasy pohádek Princezna zakletá v čase 1 a 2, kterou spoluvytváří. Právě v těcho dnech vzniká závěrečný díl trilogie - Princ zakletý v čase. Jak se pohádka a množstvím trikových scén natáčí, jak vzniká filmová hudba a jak může tvorba pomoci zpracovat osobní trápení? I o tom bude řeč v pořadu Až na dřeň. Moderuje Kateřina Kubalová
-- eventId: 707739
+- eventId:
+  - 707739
+  - 723597
   start: 2026-10-13T22:00:00Z
   stop: 2026-10-13T22:20:00Z
   title: Vinohradská 12
   description: Zpravodajský podcast Českého rozhlasu. Každý všední den jedno aktuální téma v souvislostech. Repríza z 13. 10. 2026 (ČRo Plus).
-- eventId: 707740
+- eventId:
+  - 707740
+  - 723598
   start: 2026-10-13T22:20:00Z
   stop: 2026-10-13T22:30:00Z
   title: Rádio Praha
   subtitle: HITY - DOPRAVA - INFORMACE
-- eventId: 707741
+- eventId:
+  - 707741
+  - 723599
   start: 2026-10-13T22:30:00Z
   stop: 2026-10-13T23:00:00Z
   title: Peníze a vliv Jany Klímové
   subtitle: Zásadní témata ze světa financí, obchodu a průmyslu Repríza z 13. 10. 2026 (ČRo Plus).
-- eventId: 707742
+- eventId:
+  - 707742
+  - 723600
   start: 2026-10-13T23:00:00Z
   stop: 2026-10-14T00:00:00Z
   title: Čistá hra Martina Procházky
