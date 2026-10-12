@@ -68,23 +68,17 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 583263
-  start: 2026-10-14T02:25:00Z
-  stop: 2026-10-14T02:55:00Z
-  title: Lokalzeit aus Dortmund
-  description: 'BRISANT ist das Infotainment-Magazin der ARD und erzählt die Geschichten des Lebens aus aller Welt: Nachrichten, Hintergründe, Reportagen über den Klimawandel, Service, Trends, Lifestyle und Neuigkeiten von Prominenten.'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 950106
+- eventId:
+  - 583263
+  - 950106
   start: 2026-10-14T02:25:00Z
   stop: 2026-10-14T02:58:00Z
   title: Lokalzeit aus Dortmund
+  description: 'BRISANT ist das Infotainment-Magazin der ARD und erzählt die Geschichten des Lebens aus aller Welt: Nachrichten, Hintergründe, Reportagen über den Klimawandel, Service, Trends, Lifestyle und Neuigkeiten von Prominenten.'
   widescreen: true
   subtitled: true
   hd: true
   subtitle: Boulevard-Magazin
-  description: 'BRISANT ist das Infotainment-Magazin der ARD und erzählt die Geschichten des Lebens aus aller Welt: Nachrichten, Hintergründe, Reportagen über den Klimawandel, Service, Trends, Lifestyle und Neuigkeiten von Prominenten.'
 - eventId:
   - 1149444
   - 717480
@@ -110,6 +104,7 @@
 - eventId:
   - 1153569
   - 583395
+  - 721010
   - 950157
   start: 2026-10-14T03:00:00Z
   stop: 2026-10-14T03:30:00Z
@@ -119,19 +114,6 @@
   subtitled: true
   hd: true
   description: '"FAKT" ist das zeitkritische gesamtdeutsche Magazin mit Themen aus Politik, Wirtschaft und Gesellschaft, aber auch mit Lifestyle und Kriminalstorys. "FAKT" schaut auch über den Tellerrand hinaus und beleuchtet die Rolle des größer gewordenen Deutschlands in Europa und der Welt.'
-- eventId: 721010
-  start: 2026-10-14T03:00:00Z
-  stop: 2026-10-14T03:25:00Z
-  title: FAKT
-  subtitle: Das MDR-Magazin
-  description: |-
-    Themen:
-    * Psychisch kranke Täter - Warum die Gefahr schwer zu erkennen ist
-    * Interne Konflikte - Warum das Demokratieverständnis beim BSW fragwürdig ist
-    * Schutzlose Mieter - Warum ein Immobilienunternehmen Mehrfamilienhäuser verfallen lässt
-  widescreen: true
-  subtitled: true
-  hd: true
 - eventId:
   - 1149462
   - 717483
@@ -324,6 +306,7 @@
 - eventId:
   - 1153591
   - 583595
+  - 721018
   - 950207
   start: 2026-10-14T08:45:00Z
   stop: 2026-10-14T09:15:00Z
@@ -333,15 +316,6 @@
   subtitled: true
   hd: true
   description: Zu Beginn jeder Spielrunde darf ein Team aus zwei Kategorien auswählen - ohne zu wissen, welche Fragen sich dahinter verbergen. Zu jeder Frage gibt es fünf Antwortoptionen, die nach richtig oder falsch sortiert werden müssen. Das jeweilig spielende Rateteam darf sich beratschlagen, aber wenn Florian Weber den Countdown auslöst, bleiben nur noch zehn Sekunden Zeit für die Entscheidung. Sind die Antworten gesetzt, löst Florian Weber Schritt für Schritt auf und erklärt die richtigen, aber auch die falschen Antworten. Pro richtig sortierte Antwort erhält das Team 100 Euro.
-- eventId: 721018
-  start: 2026-10-14T08:45:00Z
-  stop: 2026-10-14T09:10:00Z
-  title: Meister des Alltags (306)
-  subtitle: 'Moderation: Florian Weber'
-  description: Zu Beginn jeder Spielrunde darf ein Team aus zwei Kategorien auswählen - ohne zu wissen, welche Fragen sich dahinter verbergen. Zu jeder Frage gibt es fünf Antwortoptionen, die nach richtig oder falsch sortiert werden müssen. Das jeweilig spielende Rateteam darf sich beratschlagen, aber wenn Florian Weber den Countdown auslöst, bleiben nur noch zehn Sekunden Zeit für die Entscheidung. Sind die Antworten gesetzt, löst Florian Weber Schritt für Schritt auf und erklärt die richtigen, aber auch die falschen Antworten. Pro richtig sortierte Antwort erhält das Team 100 Euro.
-  widescreen: true
-  subtitled: true
-  hd: true
 - eventId:
   - 1148842
   - 717526
@@ -358,6 +332,7 @@
 - eventId:
   - 1153596
   - 583952
+  - 721051
   - 950244
   start: 2026-10-14T09:15:00Z
   stop: 2026-10-14T10:00:00Z
@@ -367,15 +342,6 @@
   subtitled: true
   hd: true
   description: Vier Kandidaten müssen in Einzelrunden eine Minute lang Fragen gegen die Uhr beantworten. Pro richtige Antwort wird ihnen Geld gutgeschrieben. In Einzelduellen gegen den "Jäger" müssen sie dann ihr Geld verteidigen. Werden sie dabei von ihm eingeholt, scheiden sie aus. Wenn die Kandidaten aber gegen den "Jäger" gewinnen, retten sie sich und ihr Geld ins Finale.
-- eventId: 721051
-  start: 2026-10-14T09:15:00Z
-  stop: 2026-10-14T09:55:00Z
-  title: Gefragt - Gejagt (1012)
-  subtitle: 'Moderation: Alexander Bommes'
-  description: Vier Kandidaten müssen in Einzelrunden eine Minute lang Fragen gegen die Uhr beantworten. Pro richtige Antwort wird ihnen Geld gutgeschrieben. In Einzelduellen gegen den "Jäger" müssen sie dann ihr Geld verteidigen. Werden sie dabei von ihm eingeholt, scheiden sie aus. Wenn die Kandidaten aber gegen den "Jäger" gewinnen, retten sie sich und ihr Geld ins Finale.
-  widescreen: true
-  subtitled: true
-  hd: true
 - eventId: 1148843
   start: 2026-10-14T09:55:00Z
   stop: 2026-10-14T10:45:00Z
@@ -584,7 +550,7 @@
   - 584553
   - 950327
   start: 2026-10-14T16:00:00Z
-  stop: 2026-10-14T16:45:00Z
+  stop: 2026-10-14T16:50:00Z
   title: Gefragt - Gejagt (1058)
   subtitle: 'Moderation: Alexander Bommes'
   widescreen: true

@@ -354,7 +354,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 722693
+- eventId:
+  - 722693
+  - 723152
   start: 2026-10-12T11:01:10Z
   stop: 2026-10-12T11:07:15Z
   title: Zprávy
@@ -381,7 +383,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 722694
+- eventId:
+  - 722694
+  - 723153
   start: 2026-10-12T11:07:15Z
   stop: 2026-10-12T11:30:00Z
   title: Studio ČT24
@@ -425,11 +429,33 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 723154
+  start: 2026-10-12T11:33:15Z
+  stop: 2026-10-12T11:39:10Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+- eventId: 723155
+  start: 2026-10-12T11:39:10Z
+  stop: 2026-10-12T12:00:00Z
+  title: Studio ČT24
+  subtitle: 'Senátní volby: obvod Louny, Ivo Trešl /nestr. za STAN/ kandidát na senátora, Jaroslav Mikoláš /nestr. za ANO/ kandidát na senátora.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1485293
   - 1493083
   - 622631
   - 655746
+  - 723192
   start: 2026-10-12T12:00:00Z
   stop: 2026-10-12T12:03:00Z
   title: Zprávy
