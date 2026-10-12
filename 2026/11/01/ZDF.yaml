@@ -402,7 +402,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 705409
+- eventId:
+  - 705409
+  - 709015
   start: 2026-11-01T22:50:00Z
   stop: 2026-11-01T23:35:00Z
   title: Terra X History
@@ -411,7 +413,11 @@
   - '128'
   widescreen: true
   subtitled: true
-- eventId: 705410
+  hd: true
+  audiodesc: true
+- eventId:
+  - 705410
+  - 709016
   start: 2026-11-01T23:35:00Z
   stop: 2026-11-01T23:40:00Z
   title: heute Xpress
@@ -419,7 +425,11 @@
   - '32'
   widescreen: true
   subtitled: true
-- eventId: 705411
+  hd: true
+  audiodesc: true
+- eventId:
+  - 705411
+  - 709017
   start: 2026-11-01T23:40:00Z
   stop: 2026-11-02T01:15:00Z
   title: Algiers Confidential - Ein paar Tage Licht (1)
@@ -428,3 +438,5 @@
   - '17'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
