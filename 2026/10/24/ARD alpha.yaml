@@ -16,7 +16,7 @@
   - 1455211
   - 548176
   start: 2026-10-24T01:45:00Z
-  stop: 2026-10-24T04:00:00Z
+  stop: 2026-10-24T02:00:00Z
   title: alpha-centauri
   subtitle: Warum betreiben wir Astronomie?
 - eventId: 1455212
@@ -24,7 +24,20 @@
   stop: 2026-10-24T03:30:00Z
   title: Space Night
   subtitle: Earth-Views
-- eventId: 1455289
+- eventId: 724560
+  start: 2026-10-24T02:00:00Z
+  stop: 2026-10-24T03:00:00Z
+  title: Space Night
+  subtitle: Earth-Views (3)
+- eventId: 724562
+  start: 2026-10-24T03:00:00Z
+  stop: 2026-10-24T03:30:00Z
+  title: 42 - Die Antwort auf fast alles
+  subtitle: Fällt uns der Weltraumschrott auf die Füße?
+  subtitled: true
+- eventId:
+  - 1455289
+  - 724563
   start: 2026-10-24T03:30:00Z
   stop: 2026-10-24T04:00:00Z
   title: Bob Ross - The Joy of Painting
@@ -34,7 +47,7 @@
   - 553192
   start: 2026-10-24T04:00:00Z
   stop: 2026-10-24T04:30:00Z
-  title: Englisch für Anfänger
+  title: Englisch für Anfänger (32/51)
   subtitle: The Helpful Neighbour
 - eventId:
   - 1455291
@@ -63,8 +76,11 @@
   - 553409
   start: 2026-10-24T06:00:00Z
   stop: 2026-10-24T06:15:00Z
-  title: Tele-Gym (5)
+  title: Tele-Gym (5/8)
   subtitle: Integrales Qi Gong
+  genre:
+  - '144'
+  subtitled: true
 - eventId:
   - 1455326
   - 553410
@@ -79,6 +95,7 @@
   stop: 2026-10-24T08:00:00Z
   title: Zwei blinde Reisende - Ohne Sicht. Volles Risiko
   subtitled: true
+  subtitle: Selbstbestimmt
 - eventId:
   - 1455328
   - 553412
@@ -110,6 +127,8 @@
   stop: 2026-10-24T10:00:00Z
   title: Streetphilosophy
   subtitle: Folge deiner Vernunft
+  genre:
+  - '112'
 - eventId:
   - 1455357
   - 553594
@@ -129,15 +148,19 @@
   - 553596
   start: 2026-10-24T11:00:00Z
   stop: 2026-10-24T11:15:00Z
-  title: Tele-Gym (8)
+  title: Tele-Gym (8/8)
   subtitle: Yoga-Pilates-50plus
+  subtitled: true
 - eventId:
   - 1455360
   - 553597
   start: 2026-10-24T11:15:00Z
   stop: 2026-10-24T11:30:00Z
-  title: Tele-Gym (5)
-  subtitle: Integrales Qi Gong
+  title: Tele-Gym (5/8)
+  subtitle: Yoga-Pilates-50plus
+  genre:
+  - '144'
+  subtitled: true
 - eventId:
   - 1455361
   - 553598
@@ -203,7 +226,7 @@
   - 556336
   start: 2026-10-24T17:00:00Z
   stop: 2026-10-24T17:30:00Z
-  title: Eisenbahn-Romantik
+  title: Eisenbahn-Romantik (1087)
   subtitle: Im Luxuszug von Neu-Delhi nach Jaipur
   subtitled: true
 - eventId:
@@ -234,12 +257,18 @@
   stop: 2026-10-24T19:15:00Z
   title: Stalin - Leben und Sterben eines Diktators
   subtitled: true
+  genre:
+  - '128'
 - eventId:
   - 1454911
   - 568791
   start: 2026-10-24T19:15:00Z
   stop: 2026-10-24T20:05:00Z
   title: Friedrich Engels - Der Unterschätzte
+  subtitle: Deutschland 2020
+  ageRating: 6
+  genre:
+  - '112'
 - eventId:
   - 1454912
   - 568792
@@ -247,13 +276,14 @@
   stop: 2026-10-24T20:50:00Z
   title: Mit dem Zug entlang der Fjordküste Norwegens
   subtitled: true
+  subtitle: Deutschland 2025
 - eventId:
   - 1454913
   - 568793
   start: 2026-10-24T20:50:00Z
   stop: 2026-10-24T21:35:00Z
   title: 'alpha-retro: Neue Welt unter 20 (1966)'
-  subtitle: Ein Bericht von Gerd Ruge und Werner Kohn
+  subtitle: Ein Bericht von Gerd Ruge und Werner Kohn aus den USA 1966
 - eventId:
   - 1455401
   - 556826
@@ -274,9 +304,15 @@
   stop: 2026-10-24T23:45:00Z
   title: Stalin - Leben und Sterben eines Diktators
   subtitled: true
+  genre:
+  - '128'
 - eventId:
   - 1455404
   - 556829
   start: 2026-10-24T23:45:00Z
   stop: 2026-10-25T00:40:00Z
   title: Friedrich Engels - Der Unterschätzte
+  subtitle: Deutschland 2020
+  ageRating: 6
+  genre:
+  - '112'
