@@ -607,6 +607,7 @@
   - 703751
   - 709730
   - 711787
+  - 712998
   start: 2026-10-12T05:30:00Z
   stop: 2026-10-12T06:00:00Z
   title: GENERATIA FIT Premiera
@@ -647,6 +648,7 @@
   - 703752
   - 709731
   - 711788
+  - 713003
   start: 2026-10-12T06:00:00Z
   stop: 2026-10-12T06:10:00Z
   title: SPORT EXPRES
@@ -687,6 +689,7 @@
   - 703753
   - 709732
   - 711789
+  - 713004
   start: 2026-10-12T06:10:00Z
   stop: 2026-10-12T07:00:00Z
   title: Ora de sport
@@ -727,6 +730,7 @@
   - 703754
   - 709733
   - 711790
+  - 713005
   start: 2026-10-12T07:00:00Z
   stop: 2026-10-12T07:10:00Z
   title: SPORT EXPRES
@@ -814,6 +818,7 @@
   - 703755
   - 709734
   - 711791
+  - 713006
   start: 2026-10-12T07:10:00Z
   stop: 2026-10-12T08:00:00Z
   title: Ora de sport
@@ -854,6 +859,7 @@
   - 703756
   - 709735
   - 711792
+  - 713007
   start: 2026-10-12T08:00:00Z
   stop: 2026-10-12T08:10:00Z
   title: SPORT EXPRES
@@ -895,6 +901,7 @@
   - 703757
   - 709736
   - 711793
+  - 713008
   start: 2026-10-12T08:10:00Z
   stop: 2026-10-12T09:45:00Z
   title: Handbal masculin
@@ -990,6 +997,7 @@
   - 703758
   - 709737
   - 711794
+  - 713009
   start: 2026-10-12T09:45:00Z
   stop: 2026-10-12T09:59:00Z
   title: Fillere
@@ -1031,6 +1039,7 @@
   - 703759
   - 709738
   - 711795
+  - 713010
   start: 2026-10-12T09:59:00Z
   stop: 2026-10-12T10:00:00Z
   title: 'FILLER : Stiati ca'
@@ -1072,6 +1081,7 @@
   - 703760
   - 709739
   - 711796
+  - 713011
   start: 2026-10-12T10:00:00Z
   stop: 2026-10-12T10:10:00Z
   title: JURNAL SPORT
@@ -1113,6 +1123,7 @@
   - 703761
   - 709740
   - 711797
+  - 713012
   start: 2026-10-12T10:10:00Z
   stop: 2026-10-12T11:00:00Z
   title: Ora de sport
@@ -1255,6 +1266,7 @@
   - 703762
   - 709741
   - 711798
+  - 713013
   start: 2026-10-12T11:00:00Z
   stop: 2026-10-12T11:10:00Z
   title: JURNAL SPORT
@@ -1296,6 +1308,7 @@
   - 703763
   - 709742
   - 711799
+  - 713014
   start: 2026-10-12T11:10:00Z
   stop: 2026-10-12T12:00:00Z
   title: Ora de sport
@@ -1387,7 +1400,9 @@
   stop: 2026-10-12T12:59:00Z
   title: In prelungiri Premiera
   subtitle: ' *Preluare TVR Timisoara '
-- eventId: 711800
+- eventId:
+  - 711800
+  - 713015
   start: 2026-10-12T12:00:00Z
   stop: 2026-10-12T12:55:00Z
   title: In prelungiri Premiera
@@ -1525,6 +1540,7 @@
   - 703765
   - 709744
   - 711801
+  - 713016
   start: 2026-10-12T12:59:00Z
   stop: 2026-10-12T13:00:00Z
   title: 'FILLER : Stiati ca'
@@ -1533,7 +1549,7 @@
   - 1615032
   - 639540
   start: 2026-10-12T13:00:00Z
-  stop: 2026-10-12T13:20:00Z
+  stop: 2026-10-12T13:10:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -1577,6 +1593,7 @@
   - 703766
   - 709745
   - 711802
+  - 713017
   start: 2026-10-12T13:10:00Z
   stop: 2026-10-12T13:45:00Z
   title: RETROSPORT
@@ -1667,6 +1684,7 @@
   - 703767
   - 709746
   - 711803
+  - 713018
   start: 2026-10-12T13:45:00Z
   stop: 2026-10-12T14:00:00Z
   title: Fillere
@@ -1676,7 +1694,7 @@
   - 639542
   - 670110
   start: 2026-10-12T14:00:00Z
-  stop: 2026-10-12T15:00:00Z
+  stop: 2026-10-12T15:30:00Z
   title: Preferenca Muzikore
   subtitle: '  *LIGA FLORILOR *ET6HC ZALAU-CS RAPID BUCURESTIComentator: Dragos BocanaciuTransmisiune directa '
   ageRating: 4
@@ -1772,6 +1790,7 @@
   - 703768
   - 709747
   - 711804
+  - 713019
   start: 2026-10-12T15:30:00Z
   stop: 2026-10-12T15:55:00Z
   title: Fillere
@@ -1790,7 +1809,7 @@
   - 1615037
   - 639545
   start: 2026-10-12T16:00:00Z
-  stop: 2026-10-12T16:30:00Z
+  stop: 2026-10-12T17:30:00Z
   title: Handbal masculin
   subtitle: ' *LIGA ZIMBRILOR *ET5CS Dinamo Bucure'
   ageRating: 4
@@ -2002,7 +2021,7 @@
   - 1615039
   - 639552
   start: 2026-10-12T18:00:00Z
-  stop: 2026-10-12T19:30:00Z
+  stop: 2026-10-12T18:10:00Z
   title: Film artistik
   subtitle: '  '
   ageRating: 4
@@ -2046,6 +2065,7 @@
   - 703769
   - 709748
   - 711805
+  - 713020
   start: 2026-10-12T18:10:00Z
   stop: 2026-10-12T19:00:00Z
   title: STADION
@@ -2088,6 +2108,7 @@
   - 703770
   - 709749
   - 711806
+  - 713021
   start: 2026-10-12T19:00:00Z
   stop: 2026-10-12T21:20:00Z
   title: RALIU
@@ -2240,7 +2261,7 @@
   - 1615042
   - 639556
   start: 2026-10-12T21:20:00Z
-  stop: 2026-10-12T22:05:00Z
+  stop: 2026-10-12T22:20:00Z
   title: In prelungiri
   subtitle: ' *Preluare TVR Timisoara   (Reluare)'
   ageRating: 4
@@ -2332,6 +2353,7 @@
   - 703771
   - 709750
   - 711807
+  - 713022
   start: 2026-10-12T22:20:00Z
   stop: 2026-10-13T00:00:00Z
   title: Ora de sport
