@@ -24,7 +24,7 @@
   - 1261196
   - 575393
   start: 2026-10-24T01:45:00Z
-  stop: 2026-10-24T04:00:00Z
+  stop: 2026-10-24T02:00:00Z
   title: alpha-centauri
   subtitle: Warum betreiben wir Astronomie?
   widescreen: true
@@ -40,7 +40,18 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1261232
+- eventId: 724637
+  start: 2026-10-24T02:00:00Z
+  stop: 2026-10-24T03:00:00Z
+  title: Space Night
+  subtitle: Earth-Views (3)
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1261232
+  - 724638
   start: 2026-10-24T03:00:00Z
   stop: 2026-10-24T03:30:00Z
   title: 42 - Die Antwort auf fast alles
@@ -49,7 +60,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1261233
+- eventId:
+  - 1261233
+  - 724639
   start: 2026-10-24T03:30:00Z
   stop: 2026-10-24T04:00:00Z
   title: Bob Ross - The Joy of Painting
@@ -63,7 +76,7 @@
   - 599315
   start: 2026-10-24T04:00:00Z
   stop: 2026-10-24T04:30:00Z
-  title: Englisch für Anfänger
+  title: Englisch für Anfänger (32/51)
   subtitle: The Helpful Neighbour
   widescreen: true
   subtitled: true
@@ -370,6 +383,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '128'
 - eventId:
   - 1261425
   - 604300
@@ -380,6 +395,10 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Deutschland 2020
+  ageRating: 6
+  genre:
+  - '112'
 - eventId:
   - 1261426
   - 604301
@@ -390,13 +409,14 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Deutschland 2025
 - eventId:
   - 1261427
   - 604302
   start: 2026-10-24T20:50:00Z
   stop: 2026-10-24T21:35:00Z
   title: 'alpha-retro: Neue Welt unter 20 (1966)'
-  subtitle: Ein Bericht von Gerd Ruge und Werner Kohn
+  subtitle: Ein Bericht von Gerd Ruge und Werner Kohn aus den USA 1966
   widescreen: true
   subtitled: true
   hd: true
