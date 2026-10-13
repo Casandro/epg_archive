@@ -333,6 +333,8 @@
   - 1520397
   - 623202
   - 655964
+  - 751428
+  - 751481
   start: 2026-10-13T10:33:00Z
   stop: 2026-10-13T11:00:00Z
   title: Studio ČT24
@@ -372,6 +374,7 @@
   - 1520398
   - 623203
   - 655965
+  - 751502
   start: 2026-10-13T11:00:00Z
   stop: 2026-10-13T11:03:00Z
   title: Zprávy
@@ -388,19 +391,7 @@
   - 1520399
   - 623204
   - 655966
-  start: 2026-10-13T11:03:00Z
-  stop: 2026-10-13T11:30:00Z
-  title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '35'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 751128
+  - 751128
   start: 2026-10-13T11:03:00Z
   stop: 2026-10-13T11:29:30Z
   title: Studio ČT24
@@ -411,6 +402,8 @@
   genre:
   - '35'
   widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 750295
   start: 2026-10-13T11:05:10Z
   stop: 2026-10-13T11:30:00Z
@@ -422,7 +415,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 751129
+- eventId:
+  - 751129
+  - 751384
   start: 2026-10-13T11:29:30Z
   stop: 2026-10-13T11:32:30Z
   title: Zprávy
@@ -448,7 +443,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 751130
+- eventId:
+  - 751130
+  - 751385
   start: 2026-10-13T11:32:30Z
   stop: 2026-10-13T12:00:00Z
   title: Studio ČT24
@@ -498,7 +495,7 @@
   - 623301
   - 654661
   start: 2026-10-13T12:03:00Z
-  stop: 2026-10-13T12:30:00Z
+  stop: 2026-10-13T12:29:35Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
   description: |-
@@ -509,7 +506,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 751301
+- eventId:
+  - 751301
+  - 751388
   start: 2026-10-13T12:29:35Z
   stop: 2026-10-13T12:32:35Z
   title: Zprávy
@@ -535,7 +534,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 751302
+- eventId:
+  - 751302
+  - 751389
   start: 2026-10-13T12:32:35Z
   stop: 2026-10-13T13:00:00Z
   title: Studio ČT24
