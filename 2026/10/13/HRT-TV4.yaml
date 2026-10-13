@@ -106,6 +106,7 @@
   - 733930
   - 734411
   - 740675
+  - 741638
   start: 2026-10-13T00:59:00Z
   stop: 2026-10-13T01:09:00Z
   title: Vijesti flash
@@ -167,6 +168,7 @@
   - 733931
   - 734412
   - 740676
+  - 741639
   start: 2026-10-13T01:09:00Z
   stop: 2026-10-13T01:17:00Z
   title: Vijesti na engleskom jeziku
@@ -295,6 +297,7 @@
   - 733932
   - 734413
   - 740677
+  - 741640
   start: 2026-10-13T01:19:00Z
   stop: 2026-10-13T01:27:00Z
   title: Vijesti na španjolskom jeziku
@@ -606,6 +609,7 @@
   - 733933
   - 734414
   - 740678
+  - 741641
   start: 2026-10-13T01:57:00Z
   stop: 2026-10-13T02:42:00Z
   title: Pregled dana
@@ -670,6 +674,7 @@
   - 733934
   - 734415
   - 740679
+  - 741642
   start: 2026-10-13T02:42:00Z
   stop: 2026-10-13T02:52:00Z
   title: Vijesti flash
@@ -743,6 +748,7 @@
   - 733935
   - 734416
   - 740680
+  - 741643
   start: 2026-10-13T02:52:00Z
   stop: 2026-10-13T02:59:00Z
   title: Vijesti iz kulture
@@ -824,6 +830,7 @@
   - 733936
   - 734417
   - 740681
+  - 741644
   start: 2026-10-13T02:59:00Z
   stop: 2026-10-13T03:52:00Z
   title: Dnevnik 2
@@ -881,6 +888,14 @@
   title: Vrijeme RH danas
   subtitle: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 741645
+  start: 2026-10-13T03:52:00Z
+  stop: 2026-10-13T03:55:00Z
+  title: Dnevnik 2
+  subtitle: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a.
   ageRating: 4
   genre:
   - '32'
@@ -949,7 +964,9 @@
   title: 'Bez komentara: Singapur - Loša kvaliteta zraka'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 740682
+- eventId:
+  - 740682
+  - 741646
   start: 2026-10-13T03:58:00Z
   stop: 2026-10-13T04:00:00Z
   title: Bez komentara
@@ -1029,6 +1046,7 @@
   - 703388
   - 704204
   - 740683
+  - 741647
   start: 2026-10-13T04:08:00Z
   stop: 2026-10-13T04:10:00Z
   title: Bez komentara
@@ -1123,6 +1141,7 @@
   - 731384
   - 733164
   - 740684
+  - 741648
   start: 2026-10-13T04:18:00Z
   stop: 2026-10-13T04:26:00Z
   title: 'Studio 4: Znanost'
@@ -1159,6 +1178,7 @@
   - 703391
   - 704207
   - 740685
+  - 741649
   start: 2026-10-13T04:26:00Z
   stop: 2026-10-13T04:56:00Z
   title: Otvoreno
@@ -1262,6 +1282,7 @@
   - 733941
   - 734422
   - 740686
+  - 741650
   start: 2026-10-13T05:15:00Z
   stop: 2026-10-13T05:22:00Z
   title: Vijesti iz kulture
@@ -1293,6 +1314,7 @@
   - 733942
   - 734423
   - 740687
+  - 741651
   start: 2026-10-13T05:23:00Z
   stop: 2026-10-13T05:24:00Z
   title: Vrijeme Europa danas
@@ -1527,7 +1549,9 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 740688
+- eventId:
+  - 740688
+  - 741652
   start: 2026-10-13T11:48:00Z
   stop: 2026-10-13T11:59:00Z
   title: 'Studio 4: Znanost'
