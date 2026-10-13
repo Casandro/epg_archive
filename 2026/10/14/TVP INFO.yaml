@@ -4,9 +4,9 @@
   start: 2026-10-14T00:10:00Z
   stop: 2026-10-14T00:25:00Z
   title: Wydarzy się jutro
-  description: |
-    Tytuł oryginalny: Wydarzy się jutro
-    PL, 2026
+  description: |-
+    program publicystyczny (Polska, 2026)
+    Program prezentuje zapowiedzi najważniejszych wydarzeń nadchodzącego dnia. Zawiera również przegląd tytułów prasowych, które ukażą się w kolejnej dobie.
   genre:
   - '34'
 - eventId: 1570853
@@ -22,18 +22,18 @@
   start: 2026-10-14T00:25:00Z
   stop: 2026-10-14T00:42:00Z
   title: Rewers - ciekawostki dnia
-  description: |
-    Tytuł oryginalny: Rewers - ciekawostki dnia
-    PL, 2026
+  description: |-
+    program informacyjny (Polska, 2026)
+    Twórcy programu zbierają i prezentują nietypowe, zaskakujące i ciekawe wydarzenia oraz materiały z prasy polskiej i zagranicznej, pokazują też mniej oczywiste fakty z różnych stron świata.
   genre:
   - '34'
 - eventId: 668811
   start: 2026-10-14T00:42:00Z
-  stop: 2026-10-14T00:55:00Z
-  title: Dekalog wg Jana Pawła II
-  description: |
-    Tytuł oryginalny: Dekalog wg Jana Pawła II
-    PL, 2026
+  stop: 2026-10-14T00:54:00Z
+  title: Dekalog według Jana Pawła II
+  description: |-
+    reportaż (Polska, 2026)
+    Dokumentalny cykl opisuje pielgrzymkę Jana Pawła II do Polski w dniach 1-9 czerwca 1991 roku, pierwszą po przemianach 1989 roku. Była to kluczowa wizyta dla demokracji, gdzie papież wskazał Dekalog jako fundament wolności i moralnego odrodzenia. TVP Info przypomina to przesłanie w 35. rocznicę wydarzeń.
   genre:
   - '35'
 - eventId: 1570854
@@ -48,6 +48,14 @@
     Zorganizowana pomoc ratownicza w Tatrach ma już ponad 100 lat! Przez ten czas zmieniali się ludzie, sprzęt i poziom wyszkolenia. Nie zmieniło się jednak jedno - nadal w Tatrzańskim Ochotniczym Pogotowiu Ratunkowym pracują ludzie, którzy ryzykują życie, aby turystyka w naszych górach była bezpieczna. Radek Kotarski sprawdza jak bardzo dawny TOPR różni się od współczesnego.
   genre:
   - '149'
+- eventId: 757961
+  start: 2026-10-14T00:54:00Z
+  stop: 2026-10-14T01:30:00Z
+  title: 'Podróże z historią: odc.26'
+  description: |-
+    serial dokumentalny (Polska, 2014) odc.26, Na ratunek w górach
+    Prowadzą: Radosław Kotarski
+    Pomoc ratownicza w Tatrach ma ponad 100 lat. Przez ten czas zmieniali się ludzie, sprzęt i poziom wyszkolenia. Radosław Kotarski bada, jak bardzo historyczny TOPR różni się od współczesnego.
 - eventId:
   - 1607518
   - 668812
@@ -100,15 +108,22 @@
     PL, 2026
   genre:
   - '34'
+- eventId: 757962
+  start: 2026-10-14T02:03:00Z
+  stop: 2026-10-14T02:48:00Z
+  title: Kwiatki polskie
+  description: |-
+    magazyn (Polska, 2024)
+    Przegląd wydarzeń. Prowadzący oraz ich goście komentują bieżące tematy, które aktualnie poruszają opinię publiczną. Uzupełnieniem audycji są rozmowy z politykami i ekspertami, sondy uliczne oraz autorskie reportaże. Program prowadzą znani ze swojego poczucia humoru dziennikarze: Grzegorz Markowski i Katarzyna Kasia.
 - eventId:
   - 1570857
   - 668815
   start: 2026-10-14T02:48:00Z
   stop: 2026-10-14T03:45:00Z
   title: 'Podcasty: Sienkiewicz, Gill-Piątek - więcej niż książka'
-  description: |
-    Tytuł oryginalny: Podcasty
-    PL, 2026
+  description: |-
+    cykl reportaży (Polska, 2026), Sienkiewicz, Gill-Piątek - więcej niż książka
+    Bartłomiej Sienkiewicz i Hanna Gill-Piątek są współautorami książki "Naród do zadań specjalnych". W swojej publikacji przyglądają się zjawisku polskiej improwizacji oraz temu, jak biurokracja potrafi hamować działania i rozwój. Najważniejsze tezy swojej pracy przedstawiają także w mediach.
   genre:
   - '34'
 - eventId:
@@ -283,9 +298,9 @@
   stop: 2026-10-14T05:30:00Z
   title: Polska o poranku
   subtitle: Blok magazynów publicystycznych zwięźle i rzeczowo podsumowujący najważniejsze wydarzenia z poprzedniego dnia oraz informujący o wydarzeniach politycznych, społecznych i kulturalnych.
-  description: |
-    Tytuł oryginalny: Polska o poranku
-    PL, 2026
+  description: |-
+    program informacyjny (Polska, 2024) (na żywo)
+    Program informacyjny, który zawiera przegląd i zapowiedzi najważniejszych wydarzeń z poszczególnych zakątków Polski. Powstaje dzięki współpracy redakcji TVP Info z reporterami z szesnastu oddziałów regionalnych TVP.
   genre:
   - '34'
 - eventId:
@@ -293,10 +308,10 @@
   - 668832
   start: 2026-10-14T05:30:00Z
   stop: 2026-10-14T05:42:00Z
-  title: Agrobiznes
-  description: |
-    Tytuł oryginalny: Agrobiznes
-    PL, 2026
+  title: Agrobiznes Info
+  description: |-
+    program informacyjny (Polska, 2024) (na żywo)
+    Dziennik informacyjny emitowany od poniedziałku do piątku. Zawiera aktualne wiadomości z branży rolno-spożywczej, notowania giełdowe oraz prognozy cenowe. Nie zabraknie w nim też informacji o krajowych i zagranicznych wydarzeniach związanych z rolnictwem.
   genre:
   - '34'
 - eventId:
@@ -304,10 +319,10 @@
   - 668833
   start: 2026-10-14T05:42:00Z
   stop: 2026-10-14T05:45:00Z
-  title: Agropogoda
-  description: |
-    Tytuł oryginalny: Agropogoda
-    PL, 2026
+  title: Agropogoda Info
+  description: |-
+    program informacyjny (Polska, 2024) (na żywo)
+    Prognoza pogody dla rolników, leśników, sadowników, producentów warzyw i kwiatów oraz alergików. Nie zabraknie również praktycznych porad dotyczących spodziewanych warunków atmosferycznych.
   genre:
   - '32'
 - eventId:
@@ -316,9 +331,10 @@
   start: 2026-10-14T05:45:00Z
   stop: 2026-10-14T06:00:00Z
   title: Gość poranka
-  description: |
-    Tytuł oryginalny: Gość poranka
-    PL, 2026
+  description: |-
+    wywiad (Polska) (na żywo)
+    Prowadzą: Roch Kowalski, Justyna Dobrosz-Oracz
+    Każdorazowo do programu zapraszana jest znana osoba ze świata polityki, kultury, biznesu itd. Na gorąco komentuje ona bieżącą sytuację w kraju.
   genre:
   - '34'
 - eventId:
