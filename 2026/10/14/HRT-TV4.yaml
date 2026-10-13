@@ -7,7 +7,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 760481
+- eventId:
+  - 760481
+  - 760660
   start: 2026-10-14T00:00:00Z
   stop: 2026-10-14T00:01:00Z
   title: Vrijeme Europa danas
@@ -143,6 +145,7 @@
   - 759144
   - 759740
   - 760482
+  - 760661
   start: 2026-10-14T00:23:00Z
   stop: 2026-10-14T00:27:00Z
   title: '#REPORTAŽE'
@@ -197,6 +200,7 @@
   - 759145
   - 759741
   - 760483
+  - 760662
   start: 2026-10-14T00:27:00Z
   stop: 2026-10-14T00:30:00Z
   title: Bez komentara
@@ -222,6 +226,7 @@
   - 757595
   - 759146
   - 759742
+  - 760292
   start: 2026-10-14T00:30:00Z
   stop: 2026-10-14T00:53:00Z
   title: Regionalni dnevnik
@@ -230,15 +235,6 @@
   genre:
   - '32'
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 760292
-  start: 2026-10-14T00:30:00Z
-  stop: 2026-10-14T00:52:00Z
-  title: Regionalni dnevnik
-  subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-  description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-  ageRating: 4
-  genre:
-  - '32'
 - eventId:
   - 756628
   - 757277
@@ -257,6 +253,7 @@
   - 759147
   - 759743
   - 760484
+  - 760663
   start: 2026-10-14T00:53:00Z
   stop: 2026-10-14T00:55:00Z
   title: Bez komentara
@@ -268,6 +265,7 @@
 - eventId:
   - 704498
   - 760485
+  - 760664
   start: 2026-10-14T00:55:00Z
   stop: 2026-10-14T01:00:00Z
   title: Poslovne vijesti
@@ -315,7 +313,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 760486
+- eventId:
+  - 760486
+  - 760665
   start: 2026-10-14T01:18:00Z
   stop: 2026-10-14T01:20:00Z
   title: Bez komentara
@@ -347,7 +347,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 760487
+- eventId:
+  - 760487
+  - 760666
   start: 2026-10-14T01:28:00Z
   stop: 2026-10-14T01:30:00Z
   title: Bez komentara
@@ -378,6 +380,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 760667
+  start: 2026-10-14T01:30:00Z
+  stop: 2026-10-14T01:50:00Z
+  title: Sportske minute
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 759867
   start: 2026-10-14T01:49:00Z
   stop: 2026-10-14T01:52:00Z
@@ -397,6 +407,7 @@
   - 759148
   - 759744
   - 760489
+  - 760668
   start: 2026-10-14T01:50:00Z
   stop: 2026-10-14T01:53:00Z
   title: '#REPORTAŽE'
@@ -423,6 +434,7 @@
   - 759149
   - 759745
   - 760490
+  - 760669
   start: 2026-10-14T01:53:00Z
   stop: 2026-10-14T01:58:00Z
   title: Bez komentara
@@ -448,6 +460,7 @@
 - eventId:
   - 704508
   - 760491
+  - 760670
   start: 2026-10-14T02:43:00Z
   stop: 2026-10-14T02:53:00Z
   title: Vijesti flash
@@ -465,6 +478,7 @@
 - eventId:
   - 704509
   - 760492
+  - 760671
   start: 2026-10-14T02:53:00Z
   stop: 2026-10-14T03:00:00Z
   title: Vijesti iz kulture
@@ -509,6 +523,7 @@
 - eventId:
   - 704512
   - 760493
+  - 760672
   start: 2026-10-14T03:54:00Z
   stop: 2026-10-14T03:55:00Z
   title: Vrijeme Europa danas
@@ -541,7 +556,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 760494
+- eventId:
+  - 760494
+  - 760673
   start: 2026-10-14T03:57:00Z
   stop: 2026-10-14T04:00:00Z
   title: Bez komentara
@@ -558,6 +575,7 @@
 - eventId:
   - 704515
   - 760495
+  - 760674
   start: 2026-10-14T04:00:00Z
   stop: 2026-10-14T04:08:00Z
   title: Vijesti na španjolskom jeziku
@@ -584,6 +602,7 @@
 - eventId:
   - 704517
   - 760496
+  - 760675
   start: 2026-10-14T04:10:00Z
   stop: 2026-10-14T04:17:00Z
   title: Vijesti na engleskom jeziku
@@ -606,6 +625,7 @@
   - 733368
   - 733768
   - 739903
+  - 760676
   start: 2026-10-14T04:17:00Z
   stop: 2026-10-14T04:28:00Z
   title: 'Studio 4: Znanost'
@@ -666,6 +686,7 @@
   - 733769
   - 739904
   - 760498
+  - 760677
   start: 2026-10-14T04:28:00Z
   stop: 2026-10-14T04:56:00Z
   title: Otvoreno
@@ -896,6 +917,7 @@
   - 759150
   - 759747
   - 760499
+  - 760678
   start: 2026-10-14T11:45:00Z
   stop: 2026-10-14T11:50:00Z
   title: Poslovne vijesti
@@ -922,6 +944,7 @@
   - 759151
   - 759748
   - 760500
+  - 760679
   start: 2026-10-14T11:50:00Z
   stop: 2026-10-14T12:00:00Z
   title: 'Studio 4: Znanost'
