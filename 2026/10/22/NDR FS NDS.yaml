@@ -244,6 +244,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId:
   - 1194773
   - 1400740
@@ -257,6 +259,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 1194774
   - 1400741
@@ -270,6 +273,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 1194430
   - 1400758
@@ -302,12 +306,15 @@
   - 631194
   start: 2026-10-22T13:10:00Z
   stop: 2026-10-22T14:00:00Z
-  title: WaPo Bodensee
+  title: WaPo Bodensee (32)
   subtitle: Echte Freunde
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 1194433
   - 1400761
@@ -353,7 +360,7 @@
   start: 2026-10-22T15:10:00Z
   stop: 2026-10-22T16:00:00Z
   title: Leopard, Seebär & Co. (99)
-  subtitle: Eine Sensation im Bärengehege
+  subtitle: Geschichten aus dem Tierpark Hagenbeck in Hamburg
   widescreen: true
   subtitled: true
   hd: true
@@ -464,11 +471,12 @@
   - 631546
   start: 2026-10-22T20:00:00Z
   stop: 2026-10-22T20:50:00Z
-  title: Morden im Norden
+  title: Morden im Norden (163)
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Nasses Grab
 - eventId:
   - 1194785
   - 1400789
@@ -476,11 +484,12 @@
   - 631547
   start: 2026-10-22T20:50:00Z
   stop: 2026-10-22T21:35:00Z
-  title: Morden im Norden
+  title: Morden im Norden (164)
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Das Ende vom Lied
 - eventId:
   - 1194530
   - 1400674
@@ -488,12 +497,14 @@
   - 631689
   start: 2026-10-22T21:35:00Z
   stop: 2026-10-22T22:25:00Z
-  title: Großstadtrevier
+  title: Großstadtrevier (501)
   subtitle: Ausflug in die Hölle
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1194531
   - 1400675
@@ -501,7 +512,7 @@
   - 631690
   start: 2026-10-22T22:25:00Z
   stop: 2026-10-22T22:50:00Z
-  title: Ein kurzes Leben lang
+  title: Ein kurzes Leben lang (5/28)
   subtitle: Putz Dir die Schuhe ab!
   widescreen: true
   subtitled: true
@@ -514,7 +525,7 @@
   - 631691
   start: 2026-10-22T22:50:00Z
   stop: 2026-10-22T23:15:00Z
-  title: Ein kurzes Leben lang
+  title: Ein kurzes Leben lang (6/28)
   subtitle: Es hätte schlimmer kommen können
   widescreen: true
   subtitled: true
