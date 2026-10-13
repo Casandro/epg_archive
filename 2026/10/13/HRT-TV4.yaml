@@ -1738,7 +1738,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 676186
+- eventId:
+  - 676186
+  - 753775
   start: 2026-10-13T13:31:00Z
   stop: 2026-10-13T13:33:00Z
   title: Vrijeme Europa danas
@@ -1747,7 +1749,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 676187
+- eventId:
+  - 676187
+  - 753776
   start: 2026-10-13T13:33:00Z
   stop: 2026-10-13T13:35:00Z
   title: Vrijeme Svijet danas
@@ -1765,6 +1769,14 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+- eventId: 753777
+  start: 2026-10-13T13:35:00Z
+  stop: 2026-10-13T13:55:00Z
+  title: Sportske minute
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 726160
   start: 2026-10-13T13:55:00Z
   stop: 2026-10-13T14:00:00Z
@@ -1878,6 +1890,7 @@
   - 733357
   - 733757
   - 739892
+  - 753778
   start: 2026-10-13T15:04:00Z
   stop: 2026-10-13T15:13:00Z
   title: 'Studio 4: Znanost'
@@ -1920,7 +1933,7 @@
   ageRating: 4
   genre:
   - '32'
-  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 676200
   - 729171
@@ -1946,6 +1959,7 @@
   - 733358
   - 733758
   - 739893
+  - 753779
   start: 2026-10-13T15:16:00Z
   stop: 2026-10-13T15:20:00Z
   title: Vrijeme RH danas
@@ -2013,6 +2027,7 @@
   - 733360
   - 733760
   - 739895
+  - 753780
   start: 2026-10-13T15:47:00Z
   stop: 2026-10-13T15:54:00Z
   title: 'Studio 4: Sport'
@@ -2054,6 +2069,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 753781
+  start: 2026-10-13T15:54:00Z
+  stop: 2026-10-13T15:56:00Z
+  title: HRT100 Vremeplov
+  subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 728630
   - 731395
@@ -2067,6 +2090,14 @@
   title: 'Studio 4: Sportske minute'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 753782
+  start: 2026-10-13T15:56:00Z
+  stop: 2026-10-13T16:16:00Z
+  title: Sportske minute
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
   genre:
   - '160'
@@ -2126,6 +2157,7 @@
   - 733363
   - 733763
   - 739898
+  - 753783
   start: 2026-10-13T16:16:00Z
   stop: 2026-10-13T16:30:00Z
   title: 'Studio 4: Znanost'
@@ -2196,7 +2228,9 @@
   genre:
   - '32'
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
-- eventId: 676213
+- eventId:
+  - 676213
+  - 753784
   start: 2026-10-13T17:53:00Z
   stop: 2026-10-13T17:54:00Z
   title: Vrijeme RH sutra
@@ -2241,6 +2275,14 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 753785
+  start: 2026-10-13T18:00:00Z
+  stop: 2026-10-13T18:03:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 676218
   start: 2026-10-13T18:03:00Z
   stop: 2026-10-13T18:05:00Z
@@ -2259,7 +2301,9 @@
   genre:
   - '160'
   description: 'S gostom Ivanom Marovićem razgovaramo o današnjoj Srbiji i usporedbi Vučićeva i Miloševićeva režima, iskustvu Otpora i odnosu prema današnjem studentskom pokretu, izborima i mogućnostima političke promjene. Razgovaramo o takozvanim obojenim revolucijama u Ukrajini i Gruziji, njihovim različitim ishodima, vezi s ratom u Ukrajini te o globalnoj krizi demokracije i povratku autoritarnih sustava. Govorimo i o Americi pod Donaldom Trumpom, umjetnoj inteligenciji, podatkovnim centrima i nastanku tehnološke oligarhije, a završni dio razgovora posvećen je teoriji i praksi revolucija i prevrata - od La Boétiea, Machiavellija i Malapartea do 1968., propasti socijalističke alternative i Fukuyamine teze o liberalnoj demokraciji. Ivan Marović jedan je od nekadašnjih čelnika pokreta Otpor, studentskog i građanskog pokreta koji je imao važnu ulogu u rušenju režima Slobodana Miloševića 2000. godine. Kao jedan od najistaknutijih članova Otpora i njegov predstavnik u koaliciji Demokratska opozicija Srbije, sudjelovao je na sastancima vodstva DOS-a te u pripremama za izbore i prosvjede koji su uslijedili nakon Miloševićeva pokušaja osporavanja izbornog rezultata. Nakon demokratskih promjena u Srbiji Marović se posvetio proučavanju i praktičnoj primjeni strategija nenasilnog političkog otpora. Radio je s prodemokratskim pokretima i aktivistima u brojnim zemljama, među ostalima u Ukrajini, Gruziji, Iranu, Egiptu, Zimbabveu, Siriji i Sudanu, te je sudjelovao u obrazovanju i savjetovanju organizacija koje se bave građanskom mobilizacijom, nenasilnim otporom i demokratskim promjenama. Danas živi u Washingtonu i od lipnja 2025. predsjednik je Centra za istraživanje nenasilnih konflikata. Diplomirao je procesno inženjerstvo na Sveučilištu u Beogradu, a magistrirao međunarodne odnose na Fletcher School of Law and Diplomacy Sveučilišta Tufts. Autor je priručnika The Path of Most Resistance: A Step-by-Step Guide to Planning Nonviolent Campaigns te je sudjelovao u stvaranju dviju edukativnih videoigara posvećenih građanskom otporu i društvenim promjenama: A Force More Powerful i People Power.'
-- eventId: 676220
+- eventId:
+  - 676220
+  - 753786
   start: 2026-10-13T18:57:00Z
   stop: 2026-10-13T19:00:00Z
   title: Bez komentara
@@ -2277,7 +2321,9 @@
   genre:
   - '160'
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
-- eventId: 676222
+- eventId:
+  - 676222
+  - 753787
   start: 2026-10-13T19:45:00Z
   stop: 2026-10-13T20:11:00Z
   title: 'DW: U dobroj formi'
@@ -2286,7 +2332,9 @@
   genre:
   - '160'
   description: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
-- eventId: 676223
+- eventId:
+  - 676223
+  - 753788
   start: 2026-10-13T20:11:00Z
   stop: 2026-10-13T20:16:00Z
   title: Bez komentara
@@ -2331,7 +2379,9 @@
   genre:
   - '32'
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 676228
+- eventId:
+  - 676228
+  - 753789
   start: 2026-10-13T21:20:00Z
   stop: 2026-10-13T21:30:00Z
   title: Vijesti na španjolskom jeziku
@@ -2340,7 +2390,9 @@
   genre:
   - '32'
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 676229
+- eventId:
+  - 676229
+  - 753790
   start: 2026-10-13T21:30:00Z
   stop: 2026-10-13T21:50:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -2358,7 +2410,17 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 676231
+- eventId: 753791
+  start: 2026-10-13T21:50:00Z
+  stop: 2026-10-13T21:55:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 676231
+  - 753792
   start: 2026-10-13T21:55:00Z
   stop: 2026-10-13T22:00:00Z
   title: Bez komentara
@@ -2376,7 +2438,9 @@
   genre:
   - '32'
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
-- eventId: 676233
+- eventId:
+  - 676233
+  - 753793
   start: 2026-10-13T22:10:00Z
   stop: 2026-10-13T22:17:00Z
   title: Vijesti iz kulture
@@ -2385,7 +2449,9 @@
   genre:
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 676234
+- eventId:
+  - 676234
+  - 753794
   start: 2026-10-13T22:17:00Z
   stop: 2026-10-13T22:42:00Z
   title: Glas domovine
