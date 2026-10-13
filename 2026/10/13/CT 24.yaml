@@ -1412,9 +1412,11 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 760207
+- eventId:
+  - 760207
+  - 760284
   start: 2026-10-13T21:05:00Z
-  stop: 2026-10-13T21:32:36Z
+  stop: 2026-10-13T21:31:06Z
   title: Zprávy ve 23
   subtitle: Nejdůležitější události dne v ČR i ve světě.
   description: |-
@@ -1435,6 +1437,19 @@
     Skryté titulky
   genre:
   - '32'
+  widescreen: true
+- eventId:
+  - 760280
+  - 760283
+  start: 2026-10-13T21:31:06Z
+  stop: 2026-10-13T22:00:00Z
+  title: Interview ČT24
+  subtitle: 'Host: Radek Vondráček  /ANO/, předseda sněmovního zahraničního výboru, místopředseda poslaneckého klubu, místopředseda hnutí. Moderuje: Daniel Takáč.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
   widescreen: true
 - eventId:
   - 759157
