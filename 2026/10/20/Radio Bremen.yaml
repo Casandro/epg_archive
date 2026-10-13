@@ -194,6 +194,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 1131801
   - 576242
@@ -205,6 +207,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 1131802
   - 576243
@@ -216,6 +219,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 1131824
   - 603532
@@ -242,12 +246,15 @@
   - 603534
   start: 2026-10-20T13:10:00Z
   stop: 2026-10-20T14:00:00Z
-  title: WaPo Bodensee
+  title: WaPo Bodensee (30)
   subtitle: Konstanzer Kwitte
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 1131827
   - 603535
@@ -410,7 +417,7 @@
   start: 2026-10-20T20:00:00Z
   stop: 2026-10-20T21:30:00Z
   title: 'Tatort: Zurück ins Licht'
-  subtitle: Spielfilm
+  subtitle: Fernsehfilm Deutschland 2017
   genre:
   - '16'
   widescreen: true
@@ -444,7 +451,7 @@
   start: 2026-10-20T23:30:00Z
   stop: 2026-10-21T01:00:00Z
   title: 'Tatort: Zurück ins Licht'
-  subtitle: Spielfilm
+  subtitle: Fernsehfilm Deutschland 2017
   genre:
   - '16'
   widescreen: true
