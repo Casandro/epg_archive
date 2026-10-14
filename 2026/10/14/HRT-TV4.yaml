@@ -979,7 +979,9 @@
   genre:
   - '32'
   description: Kratki pregled vijesti iz Hrvatske i svijeta.
-- eventId: 774565
+- eventId:
+  - 774565
+  - 776910
   start: 2026-10-14T07:20:00Z
   stop: 2026-10-14T10:50:00Z
   title: Prijenos sjednice Hrvatskog sabora
@@ -998,7 +1000,9 @@
   genre:
   - '160'
   description: Prijenos sjednice Hrvatskog sabora.
-- eventId: 774566
+- eventId:
+  - 774566
+  - 776911
   start: 2026-10-14T10:50:00Z
   stop: 2026-10-14T11:00:00Z
   title: Sjednica Vlade, prijenos
@@ -1056,7 +1060,7 @@
   - 761242
   - 766342
   start: 2026-10-14T11:43:00Z
-  stop: 2026-10-14T11:48:00Z
+  stop: 2026-10-14T11:47:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
@@ -1082,7 +1086,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 774567
+- eventId:
+  - 774567
+  - 776912
   start: 2026-10-14T11:47:00Z
   stop: 2026-10-14T11:55:00Z
   title: 'Studio 4: Znanost'
@@ -1124,7 +1130,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 774568
+- eventId:
+  - 774568
+  - 776913
   start: 2026-10-14T11:55:00Z
   stop: 2026-10-14T12:00:00Z
   title: Bez komentara
@@ -1392,7 +1400,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 704570
   start: 2026-10-14T15:43:00Z
-  stop: 2026-10-14T15:48:00Z
+  stop: 2026-10-14T15:47:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
