@@ -261,7 +261,7 @@
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
 - eventId: 735926
   start: 2026-10-15T04:56:00Z
-  stop: 2026-10-15T04:58:00Z
+  stop: 2026-10-15T05:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -481,7 +481,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 735947
   start: 2026-10-15T11:35:00Z
-  stop: 2026-10-15T11:43:00Z
+  stop: 2026-10-15T11:45:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -494,7 +494,9 @@
   title: Poslovne vijesti
   subtitle: ' '
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 735948
+- eventId:
+  - 735948
+  - 780085
   start: 2026-10-15T11:45:00Z
   stop: 2026-10-15T11:50:00Z
   title: Poslovne vijesti
@@ -509,7 +511,9 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 735949
+- eventId:
+  - 735949
+  - 780086
   start: 2026-10-15T11:50:00Z
   stop: 2026-10-15T12:00:00Z
   title: 'Studio 4: Znanost'
