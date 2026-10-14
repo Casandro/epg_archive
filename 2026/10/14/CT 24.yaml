@@ -1277,7 +1277,7 @@
   hd: true
 - eventId: 784374
   start: 2026-10-14T18:07:00Z
-  stop: 2026-10-14T19:30:12Z
+  stop: 2026-10-14T19:31:05Z
   title: 90' ČT24
   subtitle: 'Téma: Koalice čekané i nečekané - krajská města po volbách. Moderuje: Nikola Reindlová.'
   description: |-
@@ -1327,6 +1327,17 @@
   hd: true
 - eventId: 784375
   start: 2026-10-14T19:30:12Z
+  stop: 2026-10-14T20:00:00Z
+  title: Horizont ČT24
+  subtitle: Pořad zahraniční redakce o dění ve světě. Klade důraz na původní tvorbu vlastních zpravodajů a bohaté agenturní zpravodajství, využívá nejmodernější postupy, televizní žánry i technologie.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 784645
+  start: 2026-10-14T19:31:05Z
   stop: 2026-10-14T20:00:00Z
   title: Horizont ČT24
   subtitle: Pořad zahraniční redakce o dění ve světě. Klade důraz na původní tvorbu vlastních zpravodajů a bohaté agenturní zpravodajství, využívá nejmodernější postupy, televizní žánry i technologie.
@@ -1387,11 +1398,23 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 784674
+  start: 2026-10-14T21:06:52Z
+  stop: 2026-10-14T21:32:00Z
+  title: Zprávy ve 23
+  subtitle: Nejdůležitější události dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 1537222
   - 1542965
   - 625022
   - 642274
+  - 784675
   start: 2026-10-14T21:32:00Z
   stop: 2026-10-14T22:00:00Z
   title: Interview ČT24
@@ -1409,6 +1432,7 @@
   - 1542966
   - 625023
   - 642275
+  - 784676
   start: 2026-10-14T22:00:00Z
   stop: 2026-10-14T22:10:00Z
   title: Zprávy
@@ -1437,6 +1461,27 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 784677
+  start: 2026-10-14T22:10:00Z
+  stop: 2026-10-14T22:59:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 784678
+  start: 2026-10-14T22:59:00Z
+  stop: 2026-10-14T23:09:00Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 1537225
   - 1542968
@@ -1453,6 +1498,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 784679
+  start: 2026-10-14T23:09:00Z
+  stop: 2026-10-15T00:00:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1537226
   - 1542969
