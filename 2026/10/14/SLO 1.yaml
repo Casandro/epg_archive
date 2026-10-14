@@ -78,9 +78,17 @@
   ageRating: 4
 - eventId: 704649
   start: 2026-10-14T08:40:00Z
-  stop: 2026-10-14T09:10:00Z
+  stop: 2026-10-14T09:05:00Z
   title: Na vrtu
   subtitle: V najstarejši vrtnarski oddaji pri nas vam vsak petek svetujejo, kako gojiti vrtnine na ekološki način, z ekološkimi in bio-dinamičnimi pripravki, kako pravilno saditi sadno drevje in ga na začetku.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 766300
+  start: 2026-10-14T09:05:00Z
+  stop: 2026-10-14T09:25:00Z
+  title: Televizijsko prodajno okno
+  subtitle: TV izložba.
   ageRating: 4
   genre:
   - '160'
@@ -162,6 +170,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 766301
+  start: 2026-10-14T12:20:00Z
+  stop: 2026-10-14T12:45:00Z
+  title: Osmi dan
+  subtitle: Predstavljamo mednarodni lutkovni projekt šestih evropskih gledališč Transport režiserja Tina Grabnarja.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 704663
   start: 2026-10-14T12:45:00Z
   stop: 2026-10-14T13:00:00Z
@@ -180,12 +196,20 @@
   - '160'
 - eventId: 704665
   start: 2026-10-14T13:15:00Z
-  stop: 2026-10-14T13:50:00Z
+  stop: 2026-10-14T13:45:00Z
   title: Mostovi/Hidak
   subtitle: V oddaji Mostovi so na ogled aktualni dogodki predvsem z dvojezičnega območja Prekmurja, s posebnim poudarkom na narodnostni tematiki.
   ageRating: 4
   genre:
   - '160'
+- eventId: 766302
+  start: 2026-10-14T13:45:00Z
+  stop: 2026-10-14T14:05:00Z
+  title: Mini papirni dol
+  subtitle: Skokec pripravlja veliko čarovniško predstavo, vendar si sploh ne predstavlja, za kaj vse mora poskrbeti. Zdi se, da mu ne gre nič po načrtu. Mu bo na koncu le uspelo navdušiti občinstvo s triki?
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 704666
   start: 2026-10-14T13:50:00Z
   stop: 2026-10-14T14:05:00Z
@@ -304,13 +328,15 @@
   - '32'
 - eventId: 704684
   start: 2026-10-14T18:05:00Z
-  stop: 2026-10-14T19:55:00Z
+  stop: 2026-10-14T19:50:00Z
   title: 'Film tedna: Romantična komedija'
   subtitle: Komična romanca. Cesar je nepoboljšljiv lažnivec, propadli ulični umetnik in postopač. Brezciljno se potika po pariških montmartrskih ulicah, kjer predstavlja svojo glasbo.
   ageRating: 4
   genre:
   - '16'
-- eventId: 704685
+- eventId:
+  - 704685
+  - 766328
   start: 2026-10-14T19:50:00Z
   stop: 2026-10-14T20:05:00Z
   title: Televizorka
@@ -350,6 +376,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 766329
+  start: 2026-10-14T20:45:00Z
+  stop: 2026-10-14T21:00:00Z
+  title: Kultura
+  subtitle: Kultura je kratka aktualna informativna oddaja o kulturi in umetnosti, v kateri se praviloma izpostavljajo osrednji dogodki dneva. V njej najdejo prostor tudi mednarodne novice in problemske teme.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 704692
   start: 2026-10-14T21:00:00Z
   stop: 2026-10-14T21:10:00Z
@@ -374,6 +408,22 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 766330
+  start: 2026-10-14T22:00:00Z
+  stop: 2026-10-14T22:30:00Z
+  title: Dnevnik Slovencev v Italiji
+  subtitle: Dnevnik Slovencev v Italiji je informativna oddaja, v kateri novinarji poročajo predvsem o dnevnih dogodkih med Slovenci v Italiji.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 766331
+  start: 2026-10-14T22:30:00Z
+  stop: 2026-10-15T04:00:00Z
+  title: Napovedujemo
+  subtitle: Napovednik programa.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 704695
   start: 2026-10-14T22:35:00Z
   stop: 2026-10-15T04:00:00Z

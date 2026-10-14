@@ -306,7 +306,7 @@
   - '32'
 - eventId: 759715
   start: 2026-10-16T05:23:00Z
-  stop: 2026-10-16T05:25:00Z
+  stop: 2026-10-16T05:24:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
@@ -319,6 +319,14 @@
   title: Vrijeme svijet danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 766345
+  start: 2026-10-16T05:24:00Z
+  stop: 2026-10-16T05:26:00Z
+  title: Vrijeme Svijet danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 765261
   start: 2026-10-16T05:25:00Z
   stop: 2026-10-16T05:30:00Z
@@ -327,12 +335,17 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 759717
+- eventId:
+  - 759717
+  - 766346
   start: 2026-10-16T05:26:00Z
   stop: 2026-10-16T05:30:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 759718
   start: 2026-10-16T05:30:00Z
   stop: 2026-10-16T05:59:00Z
@@ -560,12 +573,36 @@
   - '32'
 - eventId: 765284
   start: 2026-10-16T14:15:00Z
-  stop: 2026-10-16T14:25:00Z
+  stop: 2026-10-16T14:22:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
   genre:
   - '160'
+- eventId: 766347
+  start: 2026-10-16T14:22:00Z
+  stop: 2026-10-16T14:23:00Z
+  title: Vrijeme RH danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 766348
+  start: 2026-10-16T14:23:00Z
+  stop: 2026-10-16T14:24:00Z
+  title: Vrijeme Europa danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 766349
+  start: 2026-10-16T14:24:00Z
+  stop: 2026-10-16T14:26:00Z
+  title: Vrijeme Svijet danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 765285
   start: 2026-10-16T14:25:00Z
   stop: 2026-10-16T14:26:00Z
@@ -576,7 +613,7 @@
   - '32'
 - eventId: 765286
   start: 2026-10-16T14:26:00Z
-  stop: 2026-10-16T14:28:00Z
+  stop: 2026-10-16T14:30:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -600,9 +637,17 @@
   - '160'
 - eventId: 765289
   start: 2026-10-16T14:55:00Z
-  stop: 2026-10-16T15:05:00Z
+  stop: 2026-10-16T15:03:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 766350
+  start: 2026-10-16T15:03:00Z
+  stop: 2026-10-16T15:11:00Z
+  title: 'Studio 4: Znanost'
+  subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
   genre:
   - '160'
@@ -614,6 +659,22 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 766351
+  start: 2026-10-16T15:11:00Z
+  stop: 2026-10-16T15:12:00Z
+  title: Vrijeme RH danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 766352
+  start: 2026-10-16T15:12:00Z
+  stop: 2026-10-16T15:14:00Z
+  title: Vrijeme Europa danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 765291
   start: 2026-10-16T15:13:00Z
   stop: 2026-10-16T15:14:00Z
@@ -648,7 +709,15 @@
   - '160'
 - eventId: 765295
   start: 2026-10-16T15:40:00Z
-  stop: 2026-10-16T15:45:00Z
+  stop: 2026-10-16T15:43:00Z
+  title: Poslovne vijesti
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 766353
+  start: 2026-10-16T15:43:00Z
+  stop: 2026-10-16T15:48:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
@@ -656,6 +725,14 @@
   - '32'
 - eventId: 765296
   start: 2026-10-16T15:45:00Z
+  stop: 2026-10-16T15:57:00Z
+  title: 'Studio 4: Sport'
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 766354
+  start: 2026-10-16T15:48:00Z
   stop: 2026-10-16T15:57:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
@@ -672,9 +749,17 @@
   - '160'
 - eventId: 765298
   start: 2026-10-16T16:00:00Z
-  stop: 2026-10-16T16:22:00Z
+  stop: 2026-10-16T16:20:00Z
   title: Sportske minute
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 766355
+  start: 2026-10-16T16:20:00Z
+  stop: 2026-10-16T16:30:00Z
+  title: 'Studio 4: Kultura'
+  subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
   genre:
   - '160'
@@ -704,9 +789,17 @@
   - '32'
 - eventId: 765302
   start: 2026-10-16T16:54:00Z
-  stop: 2026-10-16T16:56:00Z
+  stop: 2026-10-16T16:55:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 766356
+  start: 2026-10-16T16:55:00Z
+  stop: 2026-10-16T17:00:00Z
+  title: Vrijeme Svijet sutra
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
@@ -736,9 +829,17 @@
   - '32'
 - eventId: 765306
   start: 2026-10-16T17:54:00Z
-  stop: 2026-10-16T17:56:00Z
+  stop: 2026-10-16T17:55:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 766357
+  start: 2026-10-16T17:55:00Z
+  stop: 2026-10-16T18:00:00Z
+  title: Vrijeme Svijet sutra
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
@@ -760,6 +861,14 @@
   - '160'
 - eventId: 765310
   start: 2026-10-16T18:00:00Z
+  stop: 2026-10-16T18:01:00Z
+  title: HAK - promet info
+  subtitle: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 766358
+  start: 2026-10-16T18:01:00Z
   stop: 2026-10-16T18:05:00Z
   title: '#REPORTAŽE'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
@@ -776,9 +885,17 @@
   - '160'
 - eventId: 765312
   start: 2026-10-16T18:30:00Z
-  stop: 2026-10-16T18:57:00Z
+  stop: 2026-10-16T18:55:00Z
   title: Eko zona
   subtitle: Već smo se nekoliko puta u Eko zoni bavili problematikom opasnog otpada u jami Sovjak u općini Viškovo.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 766359
+  start: 2026-10-16T18:55:00Z
+  stop: 2026-10-16T19:00:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
@@ -824,9 +941,17 @@
   - '160'
 - eventId: 765318
   start: 2026-10-16T21:05:00Z
-  stop: 2026-10-16T21:10:00Z
+  stop: 2026-10-16T21:08:00Z
   title: '#REPORTAŽE'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 766360
+  start: 2026-10-16T21:08:00Z
+  stop: 2026-10-16T21:10:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
@@ -856,9 +981,17 @@
   - '160'
 - eventId: 765322
   start: 2026-10-16T21:50:00Z
-  stop: 2026-10-16T21:57:00Z
+  stop: 2026-10-16T21:55:00Z
   title: '#REPORTAŽE'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 766361
+  start: 2026-10-16T21:55:00Z
+  stop: 2026-10-16T22:00:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
@@ -920,7 +1053,7 @@
   - '32'
 - eventId: 765330
   start: 2026-10-16T23:59:00Z
-  stop: 2026-10-17T00:01:00Z
+  stop: 2026-10-17T00:00:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
