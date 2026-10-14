@@ -281,7 +281,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 705640
+- eventId:
+  - 705640
+  - 773801
   start: 2026-11-08T18:59:00Z
   stop: 2026-11-08T19:15:00Z
   title: Tagesschau
@@ -332,7 +334,7 @@
   start: 2026-11-08T21:00:00Z
   stop: 2026-11-08T21:45:00Z
   title: Nuhr im Ersten
-  subtitle: Nur aus Berlin
+  subtitle: 'Moderation: Dieter Nuhr'
   episodeUri: crid://onid-1/e/6abc37d089b7b90920d865ce
   ageRating: 12
   widescreen: true
