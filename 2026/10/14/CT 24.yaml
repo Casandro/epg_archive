@@ -1400,7 +1400,7 @@
   hd: true
 - eventId: 784674
   start: 2026-10-14T21:06:52Z
-  stop: 2026-10-14T21:32:00Z
+  stop: 2026-10-14T21:31:52Z
   title: Zprávy ve 23
   subtitle: Nejdůležitější události dne v ČR i ve světě.
   description: |-
@@ -1408,6 +1408,17 @@
     Skryté titulky
   genre:
   - '32'
+  widescreen: true
+- eventId: 784741
+  start: 2026-10-14T21:31:52Z
+  stop: 2026-10-14T22:00:00Z
+  title: Interview ČT24
+  subtitle: 'Host: Karel Dvořák /STAN/, místopředseda sněmovního ústavně-právního výboru, místopředseda hnutí. Moderuje: Jiří Václavek.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
   widescreen: true
 - eventId:
   - 1537222
@@ -1449,6 +1460,7 @@
   - 1542967
   - 625024
   - 642276
+  - 784677
   start: 2026-10-14T22:10:00Z
   stop: 2026-10-14T23:00:00Z
   title: Studio ČT24
@@ -1461,17 +1473,6 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 784677
-  start: 2026-10-14T22:10:00Z
-  stop: 2026-10-14T22:59:00Z
-  title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '35'
-  widescreen: true
 - eventId: 784678
   start: 2026-10-14T22:59:00Z
   stop: 2026-10-14T23:09:00Z
@@ -1487,6 +1488,7 @@
   - 1542968
   - 625025
   - 642277
+  - 784758
   start: 2026-10-14T23:00:00Z
   stop: 2026-10-14T23:10:00Z
   title: Zprávy
@@ -1514,6 +1516,7 @@
   - 1542969
   - 625026
   - 642278
+  - 784759
   start: 2026-10-14T23:10:00Z
   stop: 2026-10-15T00:00:00Z
   title: Studio ČT24
