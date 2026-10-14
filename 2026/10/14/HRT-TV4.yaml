@@ -1799,7 +1799,9 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 785830
+- eventId:
+  - 785830
+  - 785914
   start: 2026-10-14T21:50:00Z
   stop: 2026-10-14T21:54:00Z
   title: '#REPORTAŽE'
@@ -1818,6 +1820,7 @@
 - eventId:
   - 704603
   - 785831
+  - 785915
   start: 2026-10-14T21:54:00Z
   stop: 2026-10-14T22:00:00Z
   title: Bez komentara
@@ -1836,7 +1839,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 704604
   start: 2026-10-14T22:00:00Z
-  stop: 2026-10-14T22:09:00Z
+  stop: 2026-10-14T22:10:00Z
   title: Vijesti flash
   subtitle: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   ageRating: 4
@@ -1854,6 +1857,7 @@
 - eventId:
   - 704605
   - 785832
+  - 785916
   start: 2026-10-14T22:10:00Z
   stop: 2026-10-14T22:17:00Z
   title: Vijesti iz kulture
@@ -1879,7 +1883,9 @@
   genre:
   - '160'
   description: 'Tržište stanova i građevinarstvo su, načelno, dvije spojene posude. Kad jednom omrkne, drugom ne osvane. I obrnuto. A gdje smo sada? Isplati li se po ovim cijenama uopće promišljati o kupnji? Ili je na djelu balon koji će se brzo ispuhati pa je trenutačni trend samo klopka za lakovjerne? Cijene stanova rastu dvoznamenkasto četvrtu godinu zaredom, a građevinarstvo je udjelom u gospodarstvu na razini vrha iz 2008. Rekli bismo da prodavači i graditelji zadovoljno trljaju ruke, a po nekoj tržišnoj logici stvari stoje ovako: cijene stanova financiraju gradnju, gradnja stvara ponudu koja bi trebala hladiti cijene stanova, a obje strane dijele isti ciklus i iste rizike. Je li tome baš tako? Zašto Hrvati imaju najniže kamate na stambene kredite u EU i zašto se mladim ljudima isplati kupovati stan na kredit, bez obzira na trenutačne cijene? Priuštivost stana se počela blago pogoršavati jer cijene stanova rastu brže od rasta plaća. Dokle taj rast može ići? Zašto trenutačna situacija nije identična onoj iz 2008? I, jeste li znali da rast kamata od 1% u prosjeku podiže ukupnu cijenu stana za 13%? Koliki je to rizik za financijski sustav, a koliki za građane? I zadnje, ali ne manje važno: turistička sezona je završila, rentijeri kreću u shopping? Umjesto nagađanja, upravo objavljenu znanstvenu analizu nudi gost Nenad Bakić, ovlašteni financijski analitičar, CFA.'
-- eventId: 785833
+- eventId:
+  - 785833
+  - 785917
   start: 2026-10-14T22:17:00Z
   stop: 2026-10-14T22:41:00Z
   title: Druga strana
@@ -1898,6 +1904,7 @@
 - eventId:
   - 704607
   - 785834
+  - 785918
   start: 2026-10-14T22:42:00Z
   stop: 2026-10-14T23:05:00Z
   title: Regionalni dnevnik
@@ -1923,7 +1930,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 704609
   start: 2026-10-14T23:58:00Z
-  stop: 2026-10-15T00:00:00Z
+  stop: 2026-10-14T23:59:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -1933,6 +1940,7 @@
 - eventId:
   - 704610
   - 785835
+  - 785919
   start: 2026-10-14T23:59:00Z
   stop: 2026-10-15T00:00:00Z
   title: Vrijeme Europa danas
