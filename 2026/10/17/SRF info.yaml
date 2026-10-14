@@ -163,8 +163,20 @@
   hd: true
 - eventId: 610683
   start: 2026-10-17T03:25:00Z
-  stop: 2026-10-17T03:50:00Z
+  stop: 2026-10-17T03:45:00Z
   title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 783455
+  start: 2026-10-17T03:45:00Z
+  stop: 2026-10-17T03:50:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
   genre:
   - '32'
   widescreen: true
@@ -172,11 +184,21 @@
   hd: true
 - eventId: 610684
   start: 2026-10-17T03:50:00Z
-  stop: 2026-10-17T04:00:00Z
+  stop: 2026-10-17T03:55:00Z
   title: Telesguard
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
     Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Spätausgabe
+- eventId: 783456
+  start: 2026-10-17T03:55:00Z
+  stop: 2026-10-17T04:15:00Z
+  title: Schweiz aktuell
   genre:
   - '32'
   widescreen: true
@@ -191,6 +213,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 783457
+  start: 2026-10-17T04:15:00Z
+  stop: 2026-10-17T04:25:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 610686
   start: 2026-10-17T04:20:00Z
   stop: 2026-10-17T04:30:00Z
@@ -198,6 +232,18 @@
   subtitle: Die Sportnews des Tages
   description: |-
     Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 783458
+  start: 2026-10-17T04:25:00Z
+  stop: 2026-10-17T04:55:00Z
+  title: Schweizer Cup - Highlights Männer
+  subtitle: Die besten Spiele, Szenen und Tore
+  description: |-
+    Runde für Runde schreibt der Schweizer Fussballcup seine eigenen Geschichten. Eine Sensation liegt in der Luft, wenn ein unterklassiger Verein einem Super-Ligisten ein Bein zu stellen versucht. Das Magazin bietet den Rundumservice mit den besten Spielen, Szenen und Toren der aktuellen Cup-Runde.
     Schweiz 2026
   genre:
   - '64'
@@ -215,6 +261,15 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 783459
+  start: 2026-10-17T04:55:00Z
+  stop: 2026-10-17T05:15:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 610688
   start: 2026-10-17T05:00:00Z
   stop: 2026-10-17T05:20:00Z
@@ -224,6 +279,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 783460
+  start: 2026-10-17T05:15:00Z
+  stop: 2026-10-17T05:25:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 610689
   start: 2026-10-17T05:20:00Z
   stop: 2026-10-17T05:30:00Z
@@ -231,6 +298,18 @@
   subtitle: Die Sportnews des Tages
   description: |-
     Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 783461
+  start: 2026-10-17T05:25:00Z
+  stop: 2026-10-17T05:55:00Z
+  title: Schweizer Cup - Highlights Männer
+  subtitle: Die besten Spiele, Szenen und Tore
+  description: |-
+    Runde für Runde schreibt der Schweizer Fussballcup seine eigenen Geschichten. Eine Sensation liegt in der Luft, wenn ein unterklassiger Verein einem Super-Ligisten ein Bein zu stellen versucht. Das Magazin bietet den Rundumservice mit den besten Spielen, Szenen und Toren der aktuellen Cup-Runde.
     Schweiz 2026
   genre:
   - '64'
@@ -247,6 +326,19 @@
   genre:
   - '64'
   widescreen: true
+  hd: true
+- eventId: 783462
+  start: 2026-10-17T05:55:00Z
+  stop: 2026-10-17T06:45:00Z
+  title: Sternstunde Religion
+  subtitle: Aby Warburg - Was Bilder erzählen
+  description: |-
+    Eigentlich müssten ihn alle kennen. Aby Warburg war ein weit gereister deutscher Kunsthistoriker und Kulturtheoretiker, der die Bildbetrachtung revolutionierte. Sein grosses Vermächtnis ist das Warburg Institute, das seine Nachfahren 1933 vor den Nazis nach London retteten.
+    Frankreich 2026
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 656988
   start: 2026-10-17T06:00:00Z
@@ -273,6 +365,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 783480
+  start: 2026-10-17T06:45:00Z
+  stop: 2026-10-17T07:45:00Z
+  title: Sternstunde Philosophie
+  subtitle: '100 Jahre Michel Foucault: Der Wahnsinn der Freiheit'
+  description: "Denkikone, Jahrhundertgenie, Skandalfigur. Der 1926 geborene Philosoph Michel Foucault ist der bis heute einflussreichste Denker der Gegenwart. Was macht den besonderen Reiz seines Denkens aus? Und wie können seine Einsichten den Menschen befreien? \nSchweiz 2026"
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 656990
   start: 2026-10-17T07:00:00Z
   stop: 2026-10-17T08:00:00Z
@@ -284,10 +387,32 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 783481
+  start: 2026-10-17T07:45:00Z
+  stop: 2026-10-17T09:00:00Z
+  title: Arena
+  subtitle: Parteispitzen zu Parmelin-Nachfolge und Wahljahr 2027
+  description: |-
+    Im Dezember wählt das Parlament ein neues Bundesratsmitglied. Und bereits im Oktober 2027 wählt die Bevölkerung ein neues Parlament. Wie gut stehen die Parteien ein Jahr vor den eidgenössischen Wahlen da? Das neue SRG-Wahlbarometer gibt Aufschluss - und die Parteispitzen nehmen Stellung.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 666265
   start: 2026-10-17T08:00:00Z
   stop: 2026-10-17T09:10:00Z
   title: Arena
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 783492
+  start: 2026-10-17T09:00:00Z
+  stop: 2026-10-17T09:35:00Z
+  title: Gredig direkt
+  subtitle: 'Nina Ruge: Wie wird man gut alt?'
+  description: |-
+    Longevity boomt. Nina Ruge sieht sich als «Bullshit-Filter» in einem Milliardenmarkt zwischen Wissenschaft und Selbstoptimierung. Bei «Gredig direkt» spricht sie über Prävention, Eigenverantwortung und die Frage, was wirklich hilft, um gesund älter zu werden.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -302,6 +427,17 @@
   description: |-
     Longevity boomt. Nina Ruge sieht sich als «Bullshit-Filter» in einem Milliardenmarkt zwischen Wissenschaft und Selbstoptimierung. Bei «Gredig direkt» spricht sie über Prävention, Eigenverantwortung und die Frage, was wirklich hilft, um gesund älter zu werden.
     Schweiz 2026
+- eventId: 783493
+  start: 2026-10-17T09:35:00Z
+  stop: 2026-10-17T10:35:00Z
+  title: 'Club: America, let''s talk'
+  subtitle: Halten die Christen zu Trump?
+  description: |-
+    Donald Trump hat die evangelikalen Christen zurück ins Zentrum der Macht geführt.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 666272
   start: 2026-10-17T09:45:00Z
   stop: 2026-10-17T10:45:00Z
@@ -313,10 +449,32 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 783494
+  start: 2026-10-17T10:35:00Z
+  stop: 2026-10-17T11:50:00Z
+  title: Arena
+  subtitle: Parteispitzen zu Parmelin-Nachfolge und Wahljahr 2027
+  description: |-
+    Im Dezember wählt das Parlament ein neues Bundesratsmitglied. Und bereits im Oktober 2027 wählt die Bevölkerung ein neues Parlament. Wie gut stehen die Parteien ein Jahr vor den eidgenössischen Wahlen da? Das neue SRG-Wahlbarometer gibt Aufschluss - und die Parteispitzen nehmen Stellung.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 666273
   start: 2026-10-17T10:45:00Z
   stop: 2026-10-17T11:55:00Z
   title: Arena
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 783495
+  start: 2026-10-17T11:50:00Z
+  stop: 2026-10-17T12:25:00Z
+  title: Gredig direkt
+  subtitle: 'Nina Ruge: Wie wird man gut alt?'
+  description: |-
+    Longevity boomt. Nina Ruge sieht sich als «Bullshit-Filter» in einem Milliardenmarkt zwischen Wissenschaft und Selbstoptimierung. Bei «Gredig direkt» spricht sie über Prävention, Eigenverantwortung und die Frage, was wirklich hilft, um gesund älter zu werden.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -331,6 +489,17 @@
   description: |-
     Longevity boomt. Nina Ruge sieht sich als «Bullshit-Filter» in einem Milliardenmarkt zwischen Wissenschaft und Selbstoptimierung. Bei «Gredig direkt» spricht sie über Prävention, Eigenverantwortung und die Frage, was wirklich hilft, um gesund älter zu werden.
     Schweiz 2026
+- eventId: 783497
+  start: 2026-10-17T12:25:00Z
+  stop: 2026-10-17T13:25:00Z
+  title: 'Club: America, let''s talk'
+  subtitle: Halten die Christen zu Trump?
+  description: |-
+    Donald Trump hat die evangelikalen Christen zurück ins Zentrum der Macht geführt.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 687818
   start: 2026-10-17T12:30:00Z
   stop: 2026-10-17T13:30:00Z
@@ -338,6 +507,17 @@
   subtitle: Halten die Christen zu Trump?
   description: |-
     Donald Trump hat die evangelikalen Christen zurück ins Zentrum der Macht geführt.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 783498
+  start: 2026-10-17T13:25:00Z
+  stop: 2026-10-17T14:40:00Z
+  title: Arena
+  subtitle: Parteispitzen zu Parmelin-Nachfolge und Wahljahr 2027
+  description: |-
+    Im Dezember wählt das Parlament ein neues Bundesratsmitglied. Und bereits im Oktober 2027 wählt die Bevölkerung ein neues Parlament. Wie gut stehen die Parteien ein Jahr vor den eidgenössischen Wahlen da? Das neue SRG-Wahlbarometer gibt Aufschluss - und die Parteispitzen nehmen Stellung.
     Schweiz 2026
   widescreen: true
   subtitled: true
@@ -502,6 +682,10 @@
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: Parteispitzen zu Parmelin-Nachfolge und Wahljahr 2027
+  description: |-
+    Im Dezember wählt das Parlament ein neues Bundesratsmitglied. Und bereits im Oktober 2027 wählt die Bevölkerung ein neues Parlament. Wie gut stehen die Parteien ein Jahr vor den eidgenössischen Wahlen da? Das neue SRG-Wahlbarometer gibt Aufschluss - und die Parteispitzen nehmen Stellung.
+    Schweiz 2026
 - eventId: 687846
   start: 2026-10-17T19:20:00Z
   stop: 2026-10-17T20:15:00Z
