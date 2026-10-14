@@ -68,8 +68,8 @@
   - 1616951
   - 610709
   start: 2026-10-14T02:10:00Z
-  stop: 2026-10-14T02:40:00Z
-  title: 19h30 - Signé
+  stop: 2026-10-14T02:30:00Z
+  title: Couleurs locales
   description: (Rediffusion)  "Langue des signes"
   genre:
   - '33'
@@ -86,11 +86,31 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 768454
+  start: 2026-10-14T02:30:00Z
+  stop: 2026-10-14T03:00:00Z
+  title: 19h30 - Signé
+  description: (Rediffusion)  "Langue des signes"
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 1616952
   - 610710
   start: 2026-10-14T02:40:00Z
   stop: 2026-10-14T03:15:00Z
+  title: A bon entendeur
+  description: '(Rediffusion) TARDOC : comment certains médecins gonflent la facture Au mois de janvier, le système TARDOC succédait à TARMED pour régir la facturation des prestations médicales ambulatoires. Neuf mois plus tard le système provoque des effets secondaires. Alors que les primes maladie continuent de grimper, certains spécialistes profitent du nouveau système tarifaire pour augmenter leurs revenus, au détriment du confort des patients et des coûts de la santé. (Suisse Romande-2026)'
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 768461
+  start: 2026-10-14T03:00:00Z
+  stop: 2026-10-14T03:35:00Z
   title: A bon entendeur
   description: '(Rediffusion) TARDOC : comment certains médecins gonflent la facture Au mois de janvier, le système TARDOC succédait à TARMED pour régir la facturation des prestations médicales ambulatoires. Neuf mois plus tard le système provoque des effets secondaires. Alors que les primes maladie continuent de grimper, certains spécialistes profitent du nouveau système tarifaire pour augmenter leurs revenus, au détriment du confort des patients et des coûts de la santé. (Suisse Romande-2026)'
   genre:
@@ -122,6 +142,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 768462
+  start: 2026-10-14T03:40:00Z
+  stop: 2026-10-14T03:55:00Z
+  title: Couleurs locales
+  description: (Rediffusion)
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 1550030
   start: 2026-10-14T03:55:00Z
   stop: 2026-10-14T05:00:00Z
@@ -130,6 +160,16 @@
   description: En direct.
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 768463
+  start: 2026-10-14T03:55:00Z
+  stop: 2026-10-14T04:25:00Z
+  title: 19h30 - Signé
+  description: (Rediffusion)  "Langue des signes"
+  genre:
+  - '33'
   widescreen: true
   subtitled: true
   hd: true
@@ -142,6 +182,17 @@
   description: '(Rediffusion) TARDOC : comment certains médecins gonflent la facture Au mois de janvier, le système TARDOC succédait à TARMED pour régir la facturation des prestations médicales ambulatoires. Neuf mois plus tard le système provoque des effets secondaires. Alors que les primes maladie continuent de grimper, certains spécialistes profitent du nouveau système tarifaire pour augmenter leurs revenus, au détriment du confort des patients et des coûts de la santé. (Suisse Romande-2026)'
   genre:
   - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 768464
+  start: 2026-10-14T04:25:00Z
+  stop: 2026-10-14T05:00:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
   widescreen: true
   subtitled: true
   hd: true
@@ -170,7 +221,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 729630
+- eventId:
+  - 729630
+  - 768465
   start: 2026-10-14T05:00:00Z
   stop: 2026-10-14T06:00:00Z
   title: RTS Info
