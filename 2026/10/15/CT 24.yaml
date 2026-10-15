@@ -805,7 +805,7 @@
   hd: true
 - eventId: 805707
   start: 2026-10-15T13:03:00Z
-  stop: 2026-10-15T13:29:10Z
+  stop: 2026-10-15T13:29:57Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
   description: |-
@@ -840,6 +840,16 @@
 - eventId: 805708
   start: 2026-10-15T13:29:50Z
   stop: 2026-10-15T13:32:50Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+- eventId: 806977
+  start: 2026-10-15T13:29:57Z
+  stop: 2026-10-15T13:32:57Z
   title: Zprávy
   description: |-
     HDTV
@@ -902,6 +912,17 @@
   genre:
   - '35'
   widescreen: true
+- eventId: 806979
+  start: 2026-10-15T13:32:57Z
+  stop: 2026-10-15T13:39:57Z
+  title: Studio ČT24
+  subtitle: 'Téma: Povolební vyjednávání na severu Čech (příspěvek TS Ústí nad Labem).'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 783747
   - 783774
@@ -953,6 +974,17 @@
   stop: 2026-10-15T14:00:00Z
   title: Ekonomika ČT24
   subtitle: Nejdůležitější zprávy ze světa peněz každý všední den.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '128'
+  widescreen: true
+- eventId: 806980
+  start: 2026-10-15T13:39:57Z
+  stop: 2026-10-15T14:00:00Z
+  title: Ekonomika ČT24
+  subtitle: 'Témata: Summit EU o dlouhodobém rozpočtu; Druhá emise Dluhopisů Republiky.'
   description: |-
     HDTV
     Skryté titulky
@@ -1023,6 +1055,17 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 806986
+  start: 2026-10-15T14:29:10Z
+  stop: 2026-10-15T14:32:10Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Znakový jazyk
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 1567778
   - 1575397
@@ -1042,6 +1085,17 @@
   hd: true
 - eventId: 806633
   start: 2026-10-15T14:31:50Z
+  stop: 2026-10-15T15:00:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Povolební vyjednávání na Vysočině; Kulturní přehled (tipy, nabídky, upoutávky).'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 806987
+  start: 2026-10-15T14:32:10Z
   stop: 2026-10-15T15:00:00Z
   title: Studio ČT24
   subtitle: 'Témata: Povolební vyjednávání na Vysočině; Kulturní přehled (tipy, nabídky, upoutávky).'
@@ -1139,6 +1193,7 @@
   - 1575448
   - 625082
   - 654800
+  - 806981
   start: 2026-10-15T15:33:00Z
   stop: 2026-10-15T15:55:00Z
   title: Studio ČT24
@@ -1167,6 +1222,7 @@
   - 1575449
   - 625083
   - 654801
+  - 806988
   start: 2026-10-15T15:55:00Z
   stop: 2026-10-15T16:00:00Z
   title: Předpověď počasí
@@ -1188,6 +1244,7 @@
   - 625084
   - 654802
   - 806929
+  - 806985
   start: 2026-10-15T16:00:00Z
   stop: 2026-10-15T16:03:00Z
   title: Zprávy
@@ -1205,6 +1262,7 @@
   - 625085
   - 654803
   - 806930
+  - 806957
   start: 2026-10-15T16:03:00Z
   stop: 2026-10-15T16:27:50Z
   title: Studio ČT24
