@@ -1636,6 +1636,27 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 815984
+  start: 2026-10-15T21:05:00Z
+  stop: 2026-10-15T21:33:44Z
+  title: Zprávy ve 23
+  subtitle: Nejdůležitější události dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+- eventId: 816009
+  start: 2026-10-15T21:05:00Z
+  stop: 2026-10-15T21:32:13Z
+  title: Zprávy ve 23
+  subtitle: Nejdůležitější události dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
 - eventId: 814956
   start: 2026-10-15T21:07:43Z
   stop: 2026-10-15T21:32:13Z
@@ -1666,6 +1687,19 @@
   hd: true
 - eventId: 815045
   start: 2026-10-15T21:32:13Z
+  stop: 2026-10-15T22:00:00Z
+  title: Interview ČT24
+  subtitle: 'Host: Jiří Barták /Motoristé/, místopředseda Poslanecké sněmovny a strany. Moderuje: Jiří Václavek.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId:
+  - 815987
+  - 816010
+  start: 2026-10-15T21:33:44Z
   stop: 2026-10-15T22:00:00Z
   title: Interview ČT24
   subtitle: 'Host: Jiří Barták /Motoristé/, místopředseda Poslanecké sněmovny a strany. Moderuje: Jiří Václavek.'
@@ -1718,7 +1752,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 815087
+- eventId:
+  - 815087
+  - 815935
   start: 2026-10-15T22:10:41Z
   stop: 2026-10-15T23:00:00Z
   title: Studio ČT24
@@ -1772,7 +1808,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 815102
+- eventId:
+  - 815102
+  - 815936
   start: 2026-10-15T23:10:24Z
   stop: 2026-10-16T00:00:00Z
   title: Studio ČT24
