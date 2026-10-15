@@ -149,16 +149,12 @@
   start: 2026-10-30T12:30:00Z
   stop: 2026-10-30T13:00:00Z
   title: nano
-- eventId: 1625584
+- eventId:
+  - 1625584
+  - 553288
   start: 2026-10-30T13:00:00Z
   stop: 2026-10-30T13:45:00Z
   title: 'Quarks: Die Zukunft der Kartoffel - Pommes-Boom oder Klimastress?'
-  subtitle: Die Zukunft der Kartoffel - Pommes-Boom oder Klimastress?
-  subtitled: true
-- eventId: 553288
-  start: 2026-10-30T13:00:00Z
-  stop: 2026-10-30T13:45:00Z
-  title: Quarks
   subtitle: Die Zukunft der Kartoffel - Pommes-Boom oder Klimastress?
   subtitled: true
 - eventId:
@@ -244,6 +240,8 @@
   stop: 2026-10-30T19:15:00Z
   title: Tagesschau
   subtitled: true
+  genre:
+  - '32'
 - eventId:
   - 1625695
   - 557047
