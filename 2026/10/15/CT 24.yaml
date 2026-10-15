@@ -1014,10 +1014,11 @@
   - 785335
   - 785344
   - 785372
+  - 809272
   start: 2026-10-15T13:40:00Z
   stop: 2026-10-15T14:00:00Z
   title: Ekonomika ČT24
-  subtitle: Nejdůležitější zprávy ze světa peněz každý všední den.
+  subtitle: 'Témata: Summit EU o dlouhodobém rozpočtu; Druhá emise Dluhopisů Republiky.'
   description: |-
     HDTV
     Skryté titulky
@@ -1079,6 +1080,17 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 809282
+  start: 2026-10-15T14:29:30Z
+  stop: 2026-10-15T14:32:30Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Znakový jazyk
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 1567778
   - 1575397
@@ -1111,6 +1123,17 @@
   - 806987
   - 807331
   start: 2026-10-15T14:32:10Z
+  stop: 2026-10-15T15:00:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Povolební vyjednávání na Vysočině; Kulturní přehled (tipy, nabídky, upoutávky).'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 809283
+  start: 2026-10-15T14:32:30Z
   stop: 2026-10-15T15:00:00Z
   title: Studio ČT24
   subtitle: 'Témata: Povolební vyjednávání na Vysočině; Kulturní přehled (tipy, nabídky, upoutávky).'
@@ -1307,7 +1330,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 807335
+- eventId:
+  - 807335
+  - 809286
   start: 2026-10-15T16:28:00Z
   stop: 2026-10-15T16:55:00Z
   title: Interview ČT24
