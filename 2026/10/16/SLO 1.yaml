@@ -142,7 +142,7 @@
   - '32'
 - eventId: 765367
   start: 2026-10-16T11:20:00Z
-  stop: 2026-10-16T12:20:00Z
+  stop: 2026-10-16T11:30:00Z
   title: Šport
   subtitle: 'Prvi pregled športnega dogajanja v dnevu je namenjen svežim športnim novicam: v oddajo strnemo najpomembnejše rezultate in dogodke prejšnjega večera, noči in jutra.'
   ageRating: 4
@@ -153,6 +153,22 @@
   stop: 2026-10-16T12:25:00Z
   title: 'Gordon Buchanan: Moja epska pustolovščina z.'
   subtitle: Gordon Buchanan se na epsko potovanje čez puščavo Gobi odpravi z dvogrbima velblodoma - vrsto, ki je zelo ikonična, vendar najmanj razumljena.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 806646
+  start: 2026-10-16T11:30:00Z
+  stop: 2026-10-16T12:05:00Z
+  title: NZZ
+  subtitle: Prebivalstvo Zemlje bo do leta 2050 naraslo za 25 odstotkov, obdelovalnih površin je vse manj, prst je iztrošena, primanjkuje vode, intenzivne metode pridelave hrane v sodobnem kmetijstvu pa.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 806647
+  start: 2026-10-16T12:05:00Z
+  stop: 2026-10-16T12:20:00Z
+  title: Televizijsko prodajno okno
+  subtitle: TV izložba.
   ageRating: 4
   genre:
   - '160'
@@ -190,7 +206,7 @@
   - '160'
 - eventId: 790742
   start: 2026-10-16T13:05:00Z
-  stop: 2026-10-16T13:35:00Z
+  stop: 2026-10-16T13:40:00Z
   title: Mostovi/Hidak
   subtitle: V oddaji Mostovi so na ogled aktualni dogodki predvsem z dvojezičnega območja Prekmurja, s posebnim poudarkom na narodnostni tematiki.
   ageRating: 4
@@ -220,6 +236,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 806648
+  start: 2026-10-16T13:40:00Z
+  stop: 2026-10-16T13:55:00Z
+  title: Kaj govoriš? = So vakeres?
+  subtitle: Trije ministri ter župani jugovzhodne Slovenije in Posavja so se v Novem mestu zavzeli za sistemske spremembe pri reševanju romskih vprašanj, predvsem na področjih socialne politike, zaposlovanja in.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 790744
   start: 2026-10-16T13:55:00Z
   stop: 2026-10-16T14:00:00Z
@@ -230,13 +254,15 @@
   - '128'
 - eventId: 765373
   start: 2026-10-16T14:00:00Z
-  stop: 2026-10-16T14:25:00Z
+  stop: 2026-10-16T14:05:00Z
   title: Dobrodošli pri Jonu
   subtitle: Potem, ko se reševanje pobeglega papirnatega zmaja konča boleče, je Jon tisti, ki se zadnji smeje.
   ageRating: 4
   genre:
   - '128'
-- eventId: 765374
+- eventId:
+  - 765374
+  - 806649
   start: 2026-10-16T14:05:00Z
   stop: 2026-10-16T14:25:00Z
   title: Infodrom

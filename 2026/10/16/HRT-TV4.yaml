@@ -261,7 +261,7 @@
   - '160'
 - eventId: 759710
   start: 2026-10-16T04:56:00Z
-  stop: 2026-10-16T04:58:00Z
+  stop: 2026-10-16T05:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -472,7 +472,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 765268
   start: 2026-10-16T11:35:00Z
-  stop: 2026-10-16T11:43:00Z
+  stop: 2026-10-16T11:45:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -485,7 +485,9 @@
   title: Poslovne vijesti
   subtitle: ' '
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 765269
+- eventId:
+  - 765269
+  - 806801
   start: 2026-10-16T11:45:00Z
   stop: 2026-10-16T11:50:00Z
   title: Poslovne vijesti
@@ -500,7 +502,9 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 765270
+- eventId:
+  - 765270
+  - 806802
   start: 2026-10-16T11:50:00Z
   stop: 2026-10-16T12:00:00Z
   title: 'Studio 4: Znanost'
@@ -1036,6 +1040,14 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+- eventId: 806803
+  start: 2026-10-16T20:45:00Z
+  stop: 2026-10-16T21:03:00Z
+  title: Sportske minute
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 806119
   start: 2026-10-16T21:03:00Z
   stop: 2026-10-16T21:06:00Z
@@ -1051,13 +1063,23 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 806804
+  start: 2026-10-16T21:05:00Z
+  stop: 2026-10-16T21:08:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 806120
   start: 2026-10-16T21:06:00Z
   stop: 2026-10-16T21:10:00Z
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 766360
+- eventId:
+  - 766360
+  - 806805
   start: 2026-10-16T21:08:00Z
   stop: 2026-10-16T21:10:00Z
   title: Bez komentara
