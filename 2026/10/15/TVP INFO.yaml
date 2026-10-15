@@ -942,7 +942,7 @@
   - 1600004
   - 668497
   start: 2026-10-15T23:28:00Z
-  stop: 2026-10-15T23:57:00Z
+  stop: 2026-10-15T23:51:00Z
   title: Pytanie dnia
   subtitle: Zaproszony do studia gość komentuje wydarzenia dnia. Emisja bezpośrednio po głównym wydaniu programu informacyjnego ma związek z charakterem problematyki poruszanej w każdym odcinku.
   description: |-
@@ -959,6 +959,13 @@
     Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
+- eventId: 812705
+  start: 2026-10-15T23:51:00Z
+  stop: 2026-10-15T23:58:00Z
+  title: Pogoda Info
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId:
   - 1600005
   - 668498
@@ -979,7 +986,9 @@
     PL, 2026
   genre:
   - '129'
-- eventId: 780802
+- eventId:
+  - 780802
+  - 812706
   start: 2026-10-15T23:58:00Z
   stop: 2026-10-16T00:13:00Z
   title: 112. Magazyn kryminalny
