@@ -164,7 +164,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 787616
+- eventId:
+  - 787616
+  - 789523
   start: 2026-11-04T18:00:00Z
   stop: 2026-11-04T18:20:00Z
   title: heute
@@ -172,7 +174,11 @@
   - '32'
   widescreen: true
   subtitled: true
-- eventId: 787617
+  hd: true
+  audiodesc: true
+- eventId:
+  - 787617
+  - 789524
   start: 2026-11-04T18:20:00Z
   stop: 2026-11-04T18:25:00Z
   title: Wetter
@@ -180,7 +186,11 @@
   - '32'
   widescreen: true
   subtitled: true
-- eventId: 787618
+  hd: true
+  audiodesc: true
+- eventId:
+  - 787618
+  - 789525
   start: 2026-11-04T18:25:00Z
   stop: 2026-11-04T19:15:00Z
   title: ZDF spezial
@@ -189,7 +199,11 @@
   - '128'
   widescreen: true
   subtitled: true
-- eventId: 787619
+  hd: true
+  audiodesc: true
+- eventId:
+  - 787619
+  - 789526
   start: 2026-11-04T19:15:00Z
   stop: 2026-11-04T20:45:00Z
   title: Aktenzeichen XY... Ungelöst
@@ -198,7 +212,11 @@
   - '128'
   widescreen: true
   subtitled: true
-- eventId: 787620
+  hd: true
+  audiodesc: true
+- eventId:
+  - 787620
+  - 789527
   start: 2026-11-04T20:45:00Z
   stop: 2026-11-04T21:15:00Z
   title: heute journal
@@ -207,7 +225,11 @@
   - '32'
   widescreen: true
   subtitled: true
-- eventId: 787659
+  hd: true
+  audiodesc: true
+- eventId:
+  - 787659
+  - 789528
   start: 2026-11-04T21:15:00Z
   stop: 2026-11-04T22:00:00Z
   title: 'auslandsjournal spezial: Midterms - Amerika hat gewählt'
@@ -215,7 +237,11 @@
   - '128'
   widescreen: true
   subtitled: true
-- eventId: 787660
+  hd: true
+  audiodesc: true
+- eventId:
+  - 787660
+  - 789529
   start: 2026-11-04T22:00:00Z
   stop: 2026-11-04T23:00:00Z
   title: ZDFsportstudio UEFA Champions League
@@ -224,7 +250,11 @@
   - '64'
   widescreen: true
   subtitled: true
-- eventId: 787661
+  hd: true
+  audiodesc: true
+- eventId:
+  - 787661
+  - 789530
   start: 2026-11-04T23:00:00Z
   stop: 2026-11-04T23:45:00Z
   title: Markus Lanz
@@ -232,3 +262,5 @@
   - '128'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true

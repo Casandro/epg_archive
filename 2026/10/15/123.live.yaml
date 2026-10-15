@@ -23,6 +23,7 @@
 - eventId:
   - 767265
   - 779584
+  - 790839
   start: 2026-10-15T01:00:00Z
   stop: 2026-10-15T02:00:00Z
   title: Zauberhose
@@ -32,7 +33,7 @@
   - '166'
 - eventId: 767266
   start: 2026-10-15T02:00:00Z
-  stop: 2026-10-15T03:00:00Z
+  stop: 2026-10-15T02:15:00Z
   title: Haus und raus mit Walter Blum
   subtitle: 1-2-3.tv Programmvorschau 15.10.2026, 4-5 Uhr
   description: In dieser Stunde erwarten Sie diverse Highlights.
@@ -43,6 +44,13 @@
   stop: 2026-10-15T02:20:00Z
   title: Teleshopping
   subtitle: Teleshopping
+- eventId: 789957
+  start: 2026-10-15T02:15:00Z
+  stop: 2026-10-15T04:00:00Z
+  title: Frau Wirtin hat auch einen Grafen
+  subtitle: Frau Wirtin hat auch einen Grafen
+  description: 'Die verkannte Wirtin Susanne taucht, anno 1809 in Gießen, mit ihrem Schauspieler Ferdinand wieder auf und hat viel durchzumachen, bis es ihr gelingt, sogar Napoleon zum Lachen zu bringen. Denn: Als die aufrührerischen Bürger an der Lahn Majestät auf dem Weg nach Westfalen umbringen wollen, treten ihnen Susannes friedliebende Weibsleute unversehens nackend entgegen. Ge 1968'
+  ageRating: 16
 - eventId: 741092
   start: 2026-10-15T02:20:00Z
   stop: 2026-10-15T04:00:00Z
@@ -68,7 +76,7 @@
   - '166'
 - eventId: 741126
   start: 2026-10-15T04:00:00Z
-  stop: 2026-10-15T05:00:00Z
+  stop: 2026-10-15T04:55:00Z
   title: Unvergessene Legenden - Heintje
   subtitle: 1-2-3.tv Programmvorschau 15.10.2026, 6-7 Uhr
   description: Die einzigartige Karriere des Kinderstars Heintje steht im Mittelpunkt dieser Ausgabe. Der 12-jährige Heintje wurde zum Weltstar mit seiner Musik als Europas berühmtester Kinderstar. Als Heintje ersang er unerreichte Erfolge. Seine Fan-Clubs sind nach wie vor aktiv. Auf vielen Kontinenten ist er bis heute berühmt. Seine Hits von damals und die Story seines Lebens stehen heute im Mittelpunkt. Mit Heintjes Stimmbruch 1973 endete seine Karriere als Kinderstar. Heute ist er als Hein Simons ein gefragter Sänger. Ge 2020
@@ -84,12 +92,16 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 741127
+- eventId:
+  - 741127
+  - 789958
   start: 2026-10-15T05:05:00Z
   stop: 2026-10-15T05:25:00Z
   title: Teleshopping
   subtitle: Teleshopping
-- eventId: 741128
+- eventId:
+  - 741128
+  - 789959
   start: 2026-10-15T05:25:00Z
   stop: 2026-10-15T10:00:00Z
   title: Teleshopping
@@ -136,7 +148,7 @@
   - '166'
 - eventId: 741215
   start: 2026-10-15T10:00:00Z
-  stop: 2026-10-15T11:00:00Z
+  stop: 2026-10-15T12:00:00Z
   title: Gitarren klingen leise durch die Nacht
   subtitle: 1-2-3.tv Programmvorschau 15.10.2026, 12-13 Uhr
   description: Der erfolgreiche Sänger Fred plant, seine Freundin Ninon zu heiraten, doch ihr gemeinsames Glück wird von einer Tragödie überschattet. Auf der Suche nach Ablenkung lernt er das Fischermädchen Marina kennen. Als Ninon nach Sizilien reist, um sich mit Fred auszusöhnen, scheitert der Versuch. Fred folgt ihr nach Deutschland, wo sie gemeinsam ein Bühnencomeback feiern. Trotzdem bleibt ihre Beziehung turbulent, besonders als Marina Fred nachreist und die Situation kompliziert macht. Ge 1959
@@ -154,7 +166,7 @@
   - '166'
 - eventId: 741256
   start: 2026-10-15T12:00:00Z
-  stop: 2026-10-15T13:00:00Z
+  stop: 2026-10-15T15:25:00Z
   title: Teleshopping
   subtitle: 1-2-3.tv Programmvorschau 15.10.2026, 14-15 Uhr
   description: In dieser Stunde erwarten Sie diverse Highlights.
@@ -190,7 +202,9 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 741301
+- eventId:
+  - 741301
+  - 789961
   start: 2026-10-15T15:25:00Z
   stop: 2026-10-15T16:35:00Z
   title: Unvergessene Legenden - Roy Black und seine Filmhits
@@ -211,6 +225,11 @@
   stop: 2026-10-15T17:05:00Z
   title: Teleshopping
   subtitle: Teleshopping
+- eventId: 789962
+  start: 2026-10-15T16:35:00Z
+  stop: 2026-10-15T17:00:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
 - eventId:
   - 767434
   - 779566
@@ -221,13 +240,17 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 741303
+- eventId:
+  - 741303
+  - 789963
   start: 2026-10-15T17:05:00Z
   stop: 2026-10-15T17:40:00Z
   title: Das große Amigos-Wunschkonzert
   subtitle: Das große Amigos-Wunschkonzert
   description: Sie feiern ihr 50-jähriges Bühnenjubiläum, sie feiern unzählige Musik-Auszeichnungen, ausverkaufte Konzerthäuser und Platz-1-Hitparadenerfolge. Und nun werden sie hier in der beliebten Sende-Reihe "das große Wunschkonzert" von Ingo Blenn geehrt. Er zeigt ihre größten Erfolge und spricht über ihr legendäres Leben. Das dürfen Sie nicht verpassen. Das ist unser TV-Tipp für jeden Amigos-Fan! Ge
-- eventId: 741304
+- eventId:
+  - 741304
+  - 789964
   start: 2026-10-15T17:40:00Z
   stop: 2026-10-15T18:15:00Z
   title: Teleshopping
@@ -245,6 +268,12 @@
 - eventId: 741344
   start: 2026-10-15T18:15:00Z
   stop: 2026-10-15T20:15:00Z
+  title: Die ultimative Deutsche Hitparade - Schlagerpiloten
+  subtitle: Die ultimative Deutsche Hitparade - Schlagerpiloten
+  description: 'Heute möchten wir Ihnen zwei der talentiertesten Köpfe des deutschen Schlagers vorstellen: Stefan Pössnicker und Kevin Marx, besser bekannt als die Schlagerpiloten. Sie sind nicht nur talentierte Musiker, sondern auch erfolgreiche Produzenten und Songwriter. Gemeinsam haben sie mit ihrem einzigartigen Sound und ihren mitreißenden Melodien die Herzen der Schlagerfans im Sturm erobert und sich einen festen Platz in der deutschen Musiklandschaft gesichert. Ge 2021'
+- eventId: 789966
+  start: 2026-10-15T18:15:00Z
+  stop: 2026-10-15T20:10:00Z
   title: Die ultimative Deutsche Hitparade - Schlagerpiloten
   subtitle: Die ultimative Deutsche Hitparade - Schlagerpiloten
   description: 'Heute möchten wir Ihnen zwei der talentiertesten Köpfe des deutschen Schlagers vorstellen: Stefan Pössnicker und Kevin Marx, besser bekannt als die Schlagerpiloten. Sie sind nicht nur talentierte Musiker, sondern auch erfolgreiche Produzenten und Songwriter. Gemeinsam haben sie mit ihrem einzigartigen Sound und ihren mitreißenden Melodien die Herzen der Schlagerfans im Sturm erobert und sich einen festen Platz in der deutschen Musiklandschaft gesichert. Ge 2021'
@@ -268,6 +297,11 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
+- eventId: 789967
+  start: 2026-10-15T20:10:00Z
+  stop: 2026-10-15T21:20:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
 - eventId: 741345
   start: 2026-10-15T20:15:00Z
   stop: 2026-10-15T22:15:00Z
@@ -283,6 +317,17 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
+- eventId: 789969
+  start: 2026-10-15T21:20:00Z
+  stop: 2026-10-15T21:40:00Z
+  title: Schlager Gold - Daniela Alfinito
+  subtitle: Schlager Gold - Daniela Alfinito
+  description: Seit vielen Jahren stürmt sie die Hitparaden mit ihren Hits. Deshalb ist es uns eine besondere Ehre in der Musikreihe "Schlager Gold" die Künstlerin Daniela Alfinito, auf ganz besondere Weise, zu Ehren. Ingo Blenn berichtet über die großen Erfolge, die Lebensetappen und besonderen Hintergrund-Informationen zur Künstlerin Daniela Alfinito. Die ganz großen Hits werden per Video gespielt. Freuen Sie sich auf diese besondere Sendung. Ein Hit-Feuerwerk ist garantiert! Ge 2020
+- eventId: 789970
+  start: 2026-10-15T21:40:00Z
+  stop: 2026-10-15T22:15:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
 - eventId: 741382
   start: 2026-10-15T22:15:00Z
   stop: 2026-10-16T00:00:00Z
