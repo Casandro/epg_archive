@@ -9,14 +9,16 @@
   - '32'
 - eventId: 739929
   start: 2026-10-16T00:02:00Z
-  stop: 2026-10-16T00:05:00Z
+  stop: 2026-10-16T00:04:00Z
   title: Bez komentara- Hong Kong slika
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
-- eventId: 739930
+- eventId:
+  - 739930
+  - 816577
   start: 2026-10-16T00:04:00Z
   stop: 2026-10-16T00:24:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -40,7 +42,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 739932
+- eventId:
+  - 739932
+  - 816578
   start: 2026-10-16T00:27:00Z
   stop: 2026-10-16T00:30:00Z
   title: Bez komentara
@@ -55,7 +59,9 @@
   title: '#REPORTAŽE: Josipa Kusić'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 739933
+- eventId:
+  - 739933
+  - 816579
   start: 2026-10-16T00:30:00Z
   stop: 2026-10-16T00:53:00Z
   title: Regionalni dnevnik
@@ -81,7 +87,7 @@
   - '160'
 - eventId: 739935
   start: 2026-10-16T00:55:00Z
-  stop: 2026-10-16T00:57:00Z
+  stop: 2026-10-16T01:00:00Z
   title: Bez komentara- otvoren most u Kini
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -94,7 +100,9 @@
   title: Poslovne vijesti
   subtitle: ' '
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 739936
+- eventId:
+  - 739936
+  - 816580
   start: 2026-10-16T01:00:00Z
   stop: 2026-10-16T01:10:00Z
   title: Vijesti flash
@@ -109,7 +117,9 @@
   title: Vijesti flash
   subtitle: ' '
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
-- eventId: 739937
+- eventId:
+  - 739937
+  - 816581
   start: 2026-10-16T01:10:00Z
   stop: 2026-10-16T01:18:00Z
   title: Vijesti na engleskom jeziku
@@ -124,7 +134,9 @@
   title: Vijesti na engleskom jeziku
   subtitle: ' '
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 739938
+- eventId:
+  - 739938
+  - 816582
   start: 2026-10-16T01:18:00Z
   stop: 2026-10-16T01:20:00Z
   title: Bez komentara
@@ -139,7 +151,9 @@
   title: Bez komentara- Kapibare
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 739939
+- eventId:
+  - 739939
+  - 816583
   start: 2026-10-16T01:20:00Z
   stop: 2026-10-16T01:28:00Z
   title: Vijesti na španjolskom jeziku
@@ -154,7 +168,9 @@
   title: Vijesti na španjolskom jeziku
   subtitle: ' '
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 739940
+- eventId:
+  - 739940
+  - 816584
   start: 2026-10-16T01:28:00Z
   stop: 2026-10-16T01:30:00Z
   title: Bez komentara
@@ -165,7 +181,7 @@
   - '160'
 - eventId: 739941
   start: 2026-10-16T01:30:00Z
-  stop: 2026-10-16T01:32:00Z
+  stop: 2026-10-16T01:50:00Z
   title: Bez komentara- otvoren most u Kini
   subtitle: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
@@ -187,13 +203,23 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 816585
+  start: 2026-10-16T01:50:00Z
+  stop: 2026-10-16T01:55:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 816199
   start: 2026-10-16T01:51:00Z
   stop: 2026-10-16T01:56:00Z
   title: '#REPORTAŽE: Mućke tikve'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 739943
+- eventId:
+  - 739943
+  - 816586
   start: 2026-10-16T01:55:00Z
   stop: 2026-10-16T01:58:00Z
   title: Bez komentara
@@ -208,7 +234,9 @@
   title: Bez komentara- Božićne igračke
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 739944
+- eventId:
+  - 739944
+  - 816587
   start: 2026-10-16T01:58:00Z
   stop: 2026-10-16T02:43:00Z
   title: Pregled dana
@@ -223,7 +251,9 @@
   title: Pregled dana
   subtitle: ' '
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
-- eventId: 739945
+- eventId:
+  - 739945
+  - 816588
   start: 2026-10-16T02:43:00Z
   stop: 2026-10-16T02:53:00Z
   title: Vijesti flash
@@ -238,7 +268,9 @@
   title: Vijesti flash
   subtitle: ' '
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
-- eventId: 739946
+- eventId:
+  - 739946
+  - 816589
   start: 2026-10-16T02:53:00Z
   stop: 2026-10-16T03:00:00Z
   title: Vijesti iz kulture
@@ -253,7 +285,9 @@
   title: Vijesti iz kulture
   subtitle: ' '
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 759700
+- eventId:
+  - 759700
+  - 816590
   start: 2026-10-16T03:00:00Z
   stop: 2026-10-16T03:53:00Z
   title: Dnevnik 2
@@ -288,7 +322,7 @@
   - '32'
 - eventId: 759703
   start: 2026-10-16T03:55:00Z
-  stop: 2026-10-16T03:56:00Z
+  stop: 2026-10-16T03:57:00Z
   title: Vrijeme svijet danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
@@ -301,7 +335,9 @@
   title: Vrijeme svijet danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 759704
+- eventId:
+  - 759704
+  - 816591
   start: 2026-10-16T03:57:00Z
   stop: 2026-10-16T04:00:00Z
   title: Bez komentara
@@ -316,7 +352,9 @@
   title: Bez komentara -Kapibare
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 759705
+- eventId:
+  - 759705
+  - 816592
   start: 2026-10-16T04:00:00Z
   stop: 2026-10-16T04:08:00Z
   title: Vijesti na španjolskom jeziku
@@ -331,7 +369,9 @@
   title: Vijesti na španjolskom jeziku
   subtitle: ' '
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 759706
+- eventId:
+  - 759706
+  - 816593
   start: 2026-10-16T04:08:00Z
   stop: 2026-10-16T04:10:00Z
   title: Bez komentara
@@ -342,7 +382,7 @@
   - '160'
 - eventId: 759707
   start: 2026-10-16T04:10:00Z
-  stop: 2026-10-16T04:12:00Z
+  stop: 2026-10-16T04:18:00Z
   title: Bez komentara - otvoren most u Kini
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -355,7 +395,9 @@
   title: Vijesti na engleskom jeziku
   subtitle: ' '
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 759708
+- eventId:
+  - 759708
+  - 816594
   start: 2026-10-16T04:18:00Z
   stop: 2026-10-16T04:26:00Z
   title: 'Studio 4: Znanost'
@@ -381,7 +423,7 @@
   - '160'
 - eventId: 759710
   start: 2026-10-16T04:56:00Z
-  stop: 2026-10-16T04:58:00Z
+  stop: 2026-10-16T05:00:00Z
   title: Bez komentara - Papa oporavak
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -592,7 +634,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 765268
   start: 2026-10-16T11:35:00Z
-  stop: 2026-10-16T11:43:00Z
+  stop: 2026-10-16T11:45:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -622,6 +664,7 @@
   - 814984
   - 815440
   - 815829
+  - 816595
   start: 2026-10-16T11:45:00Z
   stop: 2026-10-16T11:50:00Z
   title: Poslovne vijesti
@@ -653,6 +696,7 @@
   - 814985
   - 815441
   - 815830
+  - 816596
   start: 2026-10-16T11:50:00Z
   stop: 2026-10-16T12:00:00Z
   title: 'Studio 4: Znanost'
@@ -1219,6 +1263,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 816597
+  start: 2026-10-16T20:45:00Z
+  stop: 2026-10-16T21:03:00Z
+  title: Sportske minute
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 806119
   - 807557
@@ -1250,6 +1302,7 @@
   - 815033
   - 815443
   - 815832
+  - 816598
   start: 2026-10-16T21:05:00Z
   stop: 2026-10-16T21:08:00Z
   title: '#REPORTAŽE'
@@ -1280,6 +1333,7 @@
   - 815034
   - 815444
   - 815833
+  - 816599
   start: 2026-10-16T21:08:00Z
   stop: 2026-10-16T21:10:00Z
   title: Bez komentara
