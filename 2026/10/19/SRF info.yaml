@@ -1,6 +1,6 @@
 - eventId: 783547
   start: 2026-10-19T00:00:00Z
-  stop: 2026-10-19T00:10:00Z
+  stop: 2026-10-19T00:05:00Z
   title: Tagesschau
   subtitle: Spätausgabe
   genre:
@@ -15,6 +15,20 @@
   genre:
   - '32'
   widescreen: true
+  hd: true
+- eventId: 811845
+  start: 2026-10-19T00:05:00Z
+  stop: 2026-10-19T00:55:00Z
+  title: Sportpanorama
+  subtitle: Studiogast - Loïc Meillard, Skirennfahrer
+  description: |-
+    «Sportpanorama» mit Skirennfahrer Loïc Meillard
+    Zu Gast bei SRF Sport spricht Slalom-Olympiasieger Loïc Meillard am Sonntag über seine Vorbereitung und seine Ziele für den neuen Weltcupwinter
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 714308
   start: 2026-10-19T00:10:00Z
@@ -36,6 +50,19 @@
   subtitle: Studiogast - Loïc Meillard, Skirennfahrer
   description: |-
     Das Magazin zur nationalen und internationalen Sportaktualität des Wochenendes.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 811846
+  start: 2026-10-19T00:55:00Z
+  stop: 2026-10-19T01:50:00Z
+  title: Schweizer Cup - Highlights Männer
+  subtitle: Die besten Spiele, Szenen und Tore
+  description: |-
+    Runde für Runde schreibt der Schweizer Fussballcup seine eigenen Geschichten. Eine Sensation liegt in der Luft, wenn ein unterklassiger Verein einem Super-Ligisten ein Bein zu stellen versucht. Das Magazin bietet den Rundumservice mit den besten Spielen, Szenen und Toren der aktuellen Cup-Runde.
     Schweiz 2026
   genre:
   - '64'
@@ -68,6 +95,15 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 811847
+  start: 2026-10-19T01:50:00Z
+  stop: 2026-10-19T02:00:00Z
+  title: Tagesschau
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
 - eventId: 714310
   start: 2026-10-19T02:00:00Z
   stop: 2026-10-19T02:10:00Z
@@ -77,15 +113,29 @@
   - '32'
   widescreen: true
   hd: true
-- eventId: 783550
-  start: 2026-10-19T02:05:00Z
-  stop: 2026-10-19T02:15:00Z
-  title: Tagesschau
+- eventId: 811848
+  start: 2026-10-19T02:00:00Z
+  stop: 2026-10-19T02:05:00Z
+  title: Meteo
   subtitle: Spätausgabe
   genre:
   - '32'
   widescreen: true
   hd: true
+- eventId: 783550
+  start: 2026-10-19T02:05:00Z
+  stop: 2026-10-19T03:00:00Z
+  title: Sportpanorama
+  subtitle: Studiogast - Loïc Meillard, Skirennfahrer
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+  description: |-
+    «Sportpanorama» mit Skirennfahrer Loïc Meillard
+    Zu Gast bei SRF Sport spricht Slalom-Olympiasieger Loïc Meillard am Sonntag über seine Vorbereitung und seine Ziele für den neuen Weltcupwinter
+    Schweiz 2026
+  subtitled: true
 - eventId: 714311
   start: 2026-10-19T02:10:00Z
   stop: 2026-10-19T02:15:00Z
@@ -115,6 +165,19 @@
   subtitle: Studiogast - Loïc Meillard, Skirennfahrer
   description: |-
     Das Magazin zur nationalen und internationalen Sportaktualität des Wochenendes.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 811852
+  start: 2026-10-19T03:00:00Z
+  stop: 2026-10-19T04:00:00Z
+  title: Schweizer Cup - Highlights Männer
+  subtitle: Die besten Spiele, Szenen und Tore
+  description: |-
+    Runde für Runde schreibt der Schweizer Fussballcup seine eigenen Geschichten. Eine Sensation liegt in der Luft, wenn ein unterklassiger Verein einem Super-Ligisten ein Bein zu stellen versucht. Das Magazin bietet den Rundumservice mit den besten Spielen, Szenen und Toren der aktuellen Cup-Runde.
     Schweiz 2026
   genre:
   - '64'
@@ -166,7 +229,8 @@
   title: Sportpanorama
   subtitle: Studiogast - Loïc Meillard, Skirennfahrer
   description: |-
-    Das Magazin zur nationalen und internationalen Sportaktualität des Wochenendes.
+    «Sportpanorama» mit Skirennfahrer Loïc Meillard
+    Zu Gast bei SRF Sport spricht Slalom-Olympiasieger Loïc Meillard am Sonntag über seine Vorbereitung und seine Ziele für den neuen Weltcupwinter
     Schweiz 2026
   genre:
   - '64'
@@ -380,7 +444,8 @@
   title: Sportpanorama
   subtitle: Studiogast - Loïc Meillard, Skirennfahrer
   description: |-
-    Das Magazin zur nationalen und internationalen Sportaktualität des Wochenendes.
+    «Sportpanorama» mit Skirennfahrer Loïc Meillard
+    Zu Gast bei SRF Sport spricht Slalom-Olympiasieger Loïc Meillard am Sonntag über seine Vorbereitung und seine Ziele für den neuen Weltcupwinter
     Schweiz 2026
   genre:
   - '64'
