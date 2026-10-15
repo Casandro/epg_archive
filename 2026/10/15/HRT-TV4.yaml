@@ -1584,7 +1584,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 736003
   start: 2026-10-15T22:10:00Z
-  stop: 2026-10-15T22:18:00Z
+  stop: 2026-10-15T22:17:00Z
   title: Vijesti iz kulture
   subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   ageRating: 4
@@ -1600,7 +1600,9 @@
   genre:
   - '160'
   description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
-- eventId: 816574
+- eventId:
+  - 816574
+  - 816737
   start: 2026-10-15T22:17:00Z
   stop: 2026-10-15T22:43:00Z
   title: Global 3000
@@ -1627,6 +1629,7 @@
 - eventId:
   - 739926
   - 816575
+  - 816738
   start: 2026-10-15T22:43:00Z
   stop: 2026-10-15T23:06:00Z
   title: Regionalni dnevnik
@@ -1660,7 +1663,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 816576
+- eventId:
+  - 816576
+  - 816739
   start: 2026-10-15T23:06:00Z
   stop: 2026-10-15T23:57:00Z
   title: Dnevnik 2
