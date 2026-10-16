@@ -4,9 +4,9 @@
   start: 2026-10-17T00:05:00Z
   stop: 2026-10-17T00:10:00Z
   title: Sport
-  description: |
-    Tytuł oryginalny: Sport
-    PL, 2026
+  description: |-
+    magazyn
+    Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.
   genre:
   - '66'
 - eventId:
@@ -15,9 +15,9 @@
   start: 2026-10-17T00:10:00Z
   stop: 2026-10-17T00:15:00Z
   title: Pogoda
-  description: |
-    Tytuł oryginalny: Pogoda
-    PL, 2025
+  description: |-
+    program informacyjny
+    Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.
   genre:
   - '32'
 - eventId:
@@ -41,7 +41,7 @@
   - 626459
   start: 2026-10-17T01:10:00Z
   stop: 2026-10-17T01:40:00Z
-  title: Tańcząca ze światem - Tunezja - Beduini
+  title: 'Tańcząca ze światem - Tunezja: Beduini: odc.7'
   description: |-
     Tytuł oryginalny: Tańcząca ze światem
     PL, 2023
@@ -74,11 +74,11 @@
   stop: 2026-10-17T03:05:00Z
   title: Na sygnale - odc. 673 "Rodzinne klątwy"
   description: |-
-    Tytuł oryginalny: Na sygnale
-    PL, 2025
-    Reżyseria: Milena Dutkowska
-    Występują: Hubert Jarczak, Wojciech Kuliński, Dariusz Wieteska, Tomasz Piątkowski, Paulina Zwierz, Adam Turczyk
-    Benio jedzie razem z Romkiem do "pralni", dla której pracował Czarek i udaje przedstawiciela kolumbijskiej mafii. W pracy pacjentem doktora Vicka zostaje starsza kobieta, która ma objawy udaru i problemy z sercem - po ćwiczeniach jogi. Tymczasem zespół doktor Reiter walczy o życie dziecka z niewydolnością oddechową. A Zdzisio - jako komik - szykuje się do swojego debiutu na scenie...
+    serial fabularno-dokumentalny (Polska, 2025) odc.673, Rodzinne klątwy
+    Występują: Tomasz Piątkowski, Henryk Gołębiewski, Lea Oleksiak, Krystian Kostow, Dariusz Wieteska, Kamil Wodka, Edyta Bełza, Anna Wysocka-Jaworska, Wojciech Zygmunt, Anna Wysocka
+    Benio i Romek jadą razem do "pralni", dla której pracował Czarek. Vick wciela się w... przedstawiciela kolumbijskiej mafii. Podczas dyżuru lekarz musi zająć się seniorką. która ma objawy udaru i problemy z sercem. Ekipa dr Reiter walczy o życie dziecka z niewydolnością oddechową. Zdzisia czeka sceniczny debiut.
+    Reżyser: Milena Dutkowska
+    Od lat: 12
   ageRating: 12
   genre:
   - '23'
@@ -90,11 +90,11 @@
   stop: 2026-10-17T03:35:00Z
   title: Na sygnale - odc. 674 "Zdziś i miś"
   description: |-
-    Tytuł oryginalny: Na sygnale
-    PL, 2025
-    Reżyseria: Dorota Lamparska
-    Występują: Hubert Jarczak, Wojciech Kuliński, Dariusz Wieteska, Tomasz Piątkowski, Paulina Zwierz, Adam Turczyk
-    Na kolejnym dyżurze zespół Basi i Alka próbuje pomóc 9 - latce, która nagle źle się poczuła i straciła przytomność. Doktor Góra wpada przypadkiem na mężczyznę, któremu przed laty uratował życie i odkrywa, że dawny pacjent może mieć poważnie chorego syna, więc znów potrzebuje jego pomocy... Poza tym lekarz na nowo spotyka się z Katią, nieświadomy, że dziewczyna może nim sprytnie manipulować.
+    serial fabularno-dokumentalny (Polska, 2025) odc.674, Zdziś i miś
+    Występują: Tomasz Piątkowski, Alicja Chmielewska, Lea Oleksiak, Artur Gotz, Dariusz Wieteska, Kamil Wodka, Edyta Bełza, Anna Wysocka-Jaworska, Wojciech Zygmunt, Anna Wysocka
+    Basia i Alek pomagają dziewięciolatce, która straciła przytomność. Doktor Góra trafia na mężczyznę, któremu przed laty uratował życie. Spotyka się również z Katią. Nie jest świadomy prawdziwych zamiarów dziewczyny. Zdzisio nie jest zadowolony ze wspólnego występu z Bronkiem. W końcu odkrywa swoje powołanie.
+    Reżyser: Dorota Lamparska
+    Od lat: 12
   ageRating: 12
   genre:
   - '23'
@@ -103,8 +103,8 @@
   - 1635419
   - 645405
   start: 2026-10-17T03:35:00Z
-  stop: 2026-10-17T04:00:00Z
-  title: Gra słów. Krzyżówka - /1160/
+  stop: 2026-10-17T03:55:00Z
+  title: 'Gra słów. Krzyżówka: odc.1160'
   description: |-
     Tytuł oryginalny: Gra słów. Krzyżówka
     PL, 2026
@@ -114,15 +114,20 @@
   genre:
   - '112'
   subtitle: Codzienny teleturniej sprawdzający wiedzę, oparty na formule krzyżówki. Czworo uczestników zmierzy się ze sobą, by zdobyć tytuł finalisty dnia i uzyskać możliwość wzięcia udziału w finale tygodnia.
+- eventId: 836847
+  start: 2026-10-17T03:55:00Z
+  stop: 2026-10-17T04:00:00Z
+  title: Zakończenie programu
+  description: .
 - eventId:
   - 1635420
   - 645406
   start: 2026-10-17T04:00:00Z
   stop: 2026-10-17T04:30:00Z
   title: Panorama
-  description: |
-    Tytuł oryginalny: Panorama
-    PL, 2026
+  description: |-
+    program informacyjny
+    Podsumowanie najważniejszych wydarzeń dnia z kraju i ze świata. W programie oprócz materiałów czysto newsowych, politycznych, społecznych, gospodarczych, medycznych, naukowych i kulturalnych znajdą się również analizy konkretnych zagadnień oraz wypowiedzi ekspertów.
   genre:
   - '149'
   subtitle: Główny program informacyjny telewizyjnej Dwójki, podsumowujący najważniejsze wydarzenia minionego dnia w kraju i na świecie.
@@ -131,8 +136,11 @@
   - 645407
   start: 2026-10-17T04:30:00Z
   stop: 2026-10-17T05:15:00Z
-  title: Kulturalni - /40/
-  description: Kulturalni to program o polskiej kulturze, tworzony przez pasjonatów, dla których kultura jest codzienną potrzebą, zaprasza widzów do świata literatury, teatru, kina, muzyki i sztuk wizualnych.
+  title: 'Kulturalni: odc.40'
+  description: |-
+    magazyn odc.40
+    Prowadzą: Piotr Szygalski, Bodo Kox
+    Piotr Szygalski i Bodo Kox przedstawiają informacje z różnych dziedzin kultury. W magazynie m.in. recenzje premier kinowych i teatralnych. Autorzy polecają również warte uwagi lektury oraz omawiają ważne wydarzenia na scenie muzycznej.
   genre:
   - '112'
   subtitle: Program prezentuje najciekawsze wydarzenia kulturalne, artystyczne, sportowe i społeczne z życia Polonii.
@@ -141,8 +149,11 @@
   - 645408
   start: 2026-10-17T05:15:00Z
   stop: 2026-10-17T05:30:00Z
-  title: 'Turystyczna Jazda - Trentino: Valsugana'
-  description: Kolejny etap podróży po północno - wschodniej części Włoch. Odwiedzamy dolinę Valsugana, która przyciąga miłośników aktywnego wypoczynku. Poznamy trasy rowerowe w otoczeniu górskiego krajobrazu i wybierzemy się na plantację
+  title: 'Turystyczna jazda: Trentino: Valsugana: odc.201'
+  description: |-
+    magazyn (2026) odc.201, Trentino: Valsugana
+    Tym razem prowadzące zajrzą do doliny Valsugana - miejsca, które zachwyca nie tylko entuzjastów aktywnego wypoczynku. Odkryją tam malownicze trasy rowerowe prowadzące przez górskie krajobrazy i odwiedzą plantację truskawek, by poznać lokalne smaki regionu.
+    Od lat: 12
   genre:
   - '161'
   ageRating: 12
@@ -152,7 +163,10 @@
   start: 2026-10-17T05:30:00Z
   stop: 2026-10-17T05:55:00Z
   title: Pytanie na śniadanie - pobudka
-  description: Program służy pogłębianiu znajomości i upowszechnianiu kultury w zakresie muzyki, literatury, teatru i tańca. Jest źródłem wiedzy na temat wydarzeń także natury ekonomicznej i społecznej.
+  description: |-
+    magazyn (Polska, 2026) (na żywo)
+    Poranny program telewizyjnej Dwójki, w którym eksperci odpowiadają na ważne pytania, analizują codzienne sprawy i dzielą się praktycznymi poradami.
+    Od lat: 12
   ageRating: 12
   genre:
   - '149'
@@ -163,7 +177,10 @@
   start: 2026-10-17T05:55:00Z
   stop: 2026-10-17T08:45:00Z
   title: Pytanie na śniadanie
-  description: Program służy pogłębianiu znajomości i upowszechnianiu kultury w zakresie muzyki, literatury, teatru i tańca. Jest źródłem wiedzy na temat wydarzeń także natury ekonomicznej i społecznej.
+  description: |-
+    magazyn (Polska, 2026) (na żywo)
+    Każdy program poświęcony jest innej kwestii. Na pytania związane z konkretnym tematem odpowiadają zaproszeni do studia specjaliści, eksperci z różnych dziedzin, polskie i zagraniczne gwiazdy.
+    Od lat: 12
   ageRating: 12
   genre:
   - '149'
@@ -194,6 +211,7 @@
   start: 2026-10-17T08:55:00Z
   stop: 2026-10-17T10:00:00Z
   title: Skoki Narciarskie - Letnie Mistrzostwa Polski, Zakopane, Średnia Krokiew - konkurs duetów mężczyzn (1 seria)
+  description: (na żywo)
 - eventId:
   - 1635438
   - 638167
@@ -209,6 +227,9 @@
   start: 2026-10-17T10:00:00Z
   stop: 2026-10-17T10:10:00Z
   title: Skoki Narciarskie - Letnie Mistrzostwa Polski, Zakopane, Średnia Krokiew - konkurs duetów mężczyzn (studio)
+  description: |-
+    (na żywo)
+    Studio
 - eventId:
   - 1635439
   - 638168
@@ -224,6 +245,7 @@
   start: 2026-10-17T10:10:00Z
   stop: 2026-10-17T10:45:00Z
   title: Skoki Narciarskie - Letnie Mistrzostwa Polski, Zakopane, Średnia Krokiew - konkurs duetów mężczyzn (2 seria)
+  description: (na żywo)
 - eventId:
   - 1635440
   - 638169
@@ -239,6 +261,9 @@
   start: 2026-10-17T10:45:00Z
   stop: 2026-10-17T10:55:00Z
   title: Skoki Narciarskie - Letnie Mistrzostwa Polski, Zakopane, Średnia Krokiew - konkurs duetów mężczyzn (studio)
+  description: |-
+    (na żywo)
+    Studio
 - eventId:
   - 1635441
   - 638170
@@ -258,6 +283,7 @@
   start: 2026-10-17T10:55:00Z
   stop: 2026-10-17T11:20:00Z
   title: Skoki Narciarskie - Letnie Mistrzostwa Polski, Zakopane, Średnia Krokiew - konkurs duetów mężczyzn (3 seria)
+  description: (na żywo)
 - eventId:
   - 812100
   - 813105
@@ -277,6 +303,13 @@
   start: 2026-10-17T11:25:00Z
   stop: 2026-10-17T11:45:00Z
   title: Skoki Narciarskie - Letnie Mistrzostwa Polski, Zakopane, Średnia Krokiew - konkurs duetów mężczyzn (studio)
+- eventId: 836897
+  start: 2026-10-17T11:25:00Z
+  stop: 2026-10-17T11:45:00Z
+  title: 'Skoki narciarskie: Letnie mistrzostwa Polski - Zakopane 2026'
+  description: |-
+    (na żywo)
+    Studio
 - eventId:
   - 1635443
   - 638172
