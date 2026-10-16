@@ -2018,6 +2018,7 @@
   - 766361
   - 845152
   - 845488
+  - 846232
   start: 2026-10-16T21:55:00Z
   stop: 2026-10-16T22:00:00Z
   title: Bez komentara
@@ -2053,14 +2054,16 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 765325
   start: 2026-10-16T22:10:00Z
-  stop: 2026-10-16T22:19:00Z
+  stop: 2026-10-16T22:17:00Z
   title: Vijesti iz kulture
   subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   ageRating: 4
   genre:
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 765326
+- eventId:
+  - 765326
+  - 846233
   start: 2026-10-16T22:17:00Z
   stop: 2026-10-16T22:42:00Z
   title: Potrošački kod
@@ -2090,7 +2093,9 @@
   title: Regionalni dnevnik
   subtitle: ' '
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 765328
+- eventId:
+  - 765328
+  - 846235
   start: 2026-10-16T23:05:00Z
   stop: 2026-10-16T23:58:00Z
   title: Dnevnik 2
