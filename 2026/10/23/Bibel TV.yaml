@@ -232,7 +232,9 @@
   - '51'
   widescreen: true
   hd: true
-- eventId: 1419773
+- eventId:
+  - 1419773
+  - 834994
   start: 2026-10-23T09:55:00Z
   stop: 2026-10-23T10:00:00Z
   title: IDEA TV
@@ -240,7 +242,11 @@
   description: 'BIBELTV: CHRISTLICH MEISTGESEHEN LEBENSVERÄNDERND Tägliche Neuigkeiten aus der christlichen Welt.'
   genre:
   - '115'
-- eventId: 1419774
+  widescreen: true
+  hd: true
+- eventId:
+  - 1419774
+  - 834995
   start: 2026-10-23T10:00:00Z
   stop: 2026-10-23T10:30:00Z
   title: Die Faszination der Ölmalerei
@@ -248,6 +254,8 @@
   description: 'BIBELTV: CHRISTLICH MEISTGESEHEN LEBENSVERÄNDERND Heute zeigt Gary Jenkins, mit welchen Techniken ein Rosenspalier gemalt werden kann. In der Mitte des Spaliers entsteht auf schwarzem Hintergrund eine wunderschöne Rose in Magenta.'
   genre:
   - '112'
+  widescreen: true
+  hd: true
 - eventId: 1419775
   start: 2026-10-23T10:30:00Z
   stop: 2026-10-23T10:55:00Z
