@@ -266,7 +266,9 @@
   audiodesc: true
   genre:
   - '32'
-- eventId: 762126
+- eventId:
+  - 762126
+  - 832289
   start: 2026-11-10T19:00:00Z
   stop: 2026-11-10T19:15:00Z
   title: Tagesschau
@@ -275,6 +277,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '32'
 - eventId: 762127
   start: 2026-11-10T19:15:00Z
   stop: 2026-11-10T20:15:00Z
