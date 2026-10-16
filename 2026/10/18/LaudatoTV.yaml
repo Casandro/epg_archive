@@ -98,24 +98,37 @@
   subtitle: Religijski
 - eventId: 773940
   start: 2026-10-18T05:55:00Z
-  stop: 2026-10-18T07:00:00Z
+  stop: 2026-10-18T06:00:00Z
   title: Pod smokvom
   subtitle: YouTube kanal Pod Smokvom svakodnevno donosi Evanđelje dana s razmatranjem svećenika, koji brojnim pratiteljima pomaže u duhovnom životu.
   ageRating: 4
   genre:
   - '160'
-- eventId: 811130
+- eventId:
+  - 811130
+  - 820345
   start: 2026-10-18T06:00:00Z
   stop: 2026-10-18T06:08:00Z
   title: Katolički kalendar
-  subtitle: Religijski
+  subtitle: '"Katolički kalendar" emisija je informativno-edukativnog karaktera, kojoj je cilj gledateljima kroz riječ i sliku približiti svetice, svetce, blaženice i blaženike Katoličke Crkve, te određene...'
   description: Katolički kalendar' emisija je informativno-edukativnog karaktera, kojoj je cilj gledateljima kroz riječ i sliku približiti svetice, svetce, blaženice i blaženike Katoličke Crkve, te određene blagdane i liturgijsko vrijeme.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 811131
   start: 2026-10-18T06:08:00Z
   stop: 2026-10-18T07:00:00Z
   title: Novo srce
   subtitle: Religijski
   description: Ma Misijsku nedjelju donosimo inspirativno svjedočanstvo vjere i misionarskog poziva. U ovoj epizodi fra Ivan Matić razgovara sa sestrom Marijom Veronikom Ćibarić, redovnicom Družbe sestara milosrdnica Vinka Paulskog i misionarkom na Salomonskim Otocima. Rođena je u Janjevu, a potom se s obitelji preselila u Kistanje gdje se počinje buditi njezin poziv na redovnički život. Iako su je misije oduvijek privlačile, ističe da je Bog odredio pravi trenutak za taj korak. Kako ona voli reći, misijski poziv je ,,poziv u pozivu. Pridružite nam se i saznajte kako izgleda život jedne misionarke, te otkrijte više o misijama na Salomonskim Otocima.
+- eventId: 820346
+  start: 2026-10-18T06:08:00Z
+  stop: 2026-10-18T07:00:00Z
+  title: Novo srce - fra Ivan Matić
+  subtitle: Ma Misijsku nedjelju donosimo inspirativno svjedočanstvo vjere i misionarskog poziva.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 716659
   start: 2026-10-18T07:00:00Z
   stop: 2026-10-18T07:10:00Z
@@ -126,7 +139,7 @@
   - '160'
 - eventId: 794919
   start: 2026-10-18T07:10:00Z
-  stop: 2026-10-18T07:35:00Z
+  stop: 2026-10-18T07:20:00Z
   title: Vijesti iz Vatikana
   subtitle: Donosimo najnovije vijesti iz Vatikana, koji predstavlja sjedište Rimokatoličke Crkve. Saznajte sve najvažnije novosti i informirajte se o najbitnijim događajima vezanim uz Crkvu.
   ageRating: 4
@@ -136,6 +149,14 @@
   start: 2026-10-18T07:20:00Z
   stop: 2026-10-18T07:38:00Z
   title: Stihom kroz dušu - Svjetlost je tvoja sjena, Stihom kroz dušu
+- eventId: 820347
+  start: 2026-10-18T07:20:00Z
+  stop: 2026-10-18T07:38:00Z
+  title: Stihom kroz dušu
+  subtitle: Zaronite u svijet duhovne poezije i upoznajte opća mjesta duhovne lirike. S Robertom Kurbašom oživljavamo koloplet domaćih i svjetskih stihova koji dotiču sve generacije.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 794920
   - 818706
@@ -146,11 +167,16 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 811133
+- eventId:
+  - 811133
+  - 820348
   start: 2026-10-18T07:38:00Z
   stop: 2026-10-18T08:30:00Z
   title: Čovjek prije svega
-  subtitle: Magazin
+  subtitle: Oni su tu u najvažnijim trenucima naših života - na Misi, ispovijedi. Na krštenjima, vjenčanjima, sprovodima. U radosti i teškoćama. Kroz novi serijal ''ČOVJEK PRIJE SVEGA'' svećenike upoznajemo iz...
+  ageRating: 4
+  genre:
+  - '128'
 - eventId:
   - 794921
   - 818707
@@ -161,11 +187,16 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 811134
+- eventId:
+  - 811134
+  - 820349
   start: 2026-10-18T08:30:00Z
   stop: 2026-10-18T09:00:00Z
   title: Vjera i nada
-  subtitle: Religijski
+  subtitle: Televizijska emisija "Vjera i nada" vezana je uglavnom uz vjerske teme, a proizvodi je Ured za pastoral u medijima Varaždinske biskupije.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 716676
   start: 2026-10-18T09:00:00Z
   stop: 2026-10-18T10:30:00Z
@@ -342,7 +373,7 @@
   - '160'
 - eventId: 802528
   start: 2026-10-18T22:01:00Z
-  stop: 2026-10-19T04:01:00Z
+  stop: 2026-10-18T22:09:00Z
   title: Vijesti iz Vatikana
   subtitle: Donosimo najnovije vijesti iz Vatikana, koji predstavlja sjedište Rimokatoličke Crkve. Saznajte sve najvažnije novosti i informirajte se o najbitnijim događajima vezanim uz Crkvu.
   ageRating: 4
@@ -353,13 +384,31 @@
   stop: 2026-10-18T23:09:00Z
   title: Izdvojeno
   subtitle: Religijski
-- eventId: 811216
+- eventId: 820350
+  start: 2026-10-18T22:09:00Z
+  stop: 2026-10-18T23:09:00Z
+  title: Izdvojeno - tjedni pregled
+  subtitle: Emisija "Izdvojeno" pet dana u tjednu donosi aktualne teme iz života Crkve, priča neispričane priče o ljudima, zajednicama i brojnim drugim primjerima koji potiču na dobro i u čovjeku bude nadu.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 811216
+  - 820351
   start: 2026-10-18T23:09:00Z
   stop: 2026-10-18T23:34:00Z
   title: Vjera i nada
-  subtitle: Religijski
-- eventId: 811217
+  subtitle: Televizijska emisija "Vjera i nada" vezana je uglavnom uz vjerske teme, a proizvodi je Ured za pastoral u medijima Varaždinske biskupije.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 811217
+  - 820352
   start: 2026-10-18T23:34:00Z
   stop: 2026-10-19T00:24:00Z
   title: In Familia Dei
-  subtitle: Religijski
+  subtitle: Donosimo istinite priče bračnih parova i obitelji koje pokazuju kako odluka za kršćanski put i vrijednosti u vezi, braku i obitelji donosi mnoštvo divnih plodova.
+  ageRating: 4
+  genre:
+  - '160'
