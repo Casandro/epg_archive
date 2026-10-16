@@ -294,7 +294,9 @@
   audiodesc: true
   genre:
   - '32'
-- eventId: 754099
+- eventId:
+  - 754099
+  - 832293
   start: 2026-11-08T19:00:00Z
   stop: 2026-11-08T19:15:00Z
   title: Tagesschau
@@ -303,6 +305,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '32'
 - eventId: 705634
   start: 2026-11-08T19:15:00Z
   stop: 2026-11-08T20:00:00Z
