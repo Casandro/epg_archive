@@ -40,7 +40,7 @@
   hd: true
 - eventId: 871373
   start: 2026-10-18T00:10:00Z
-  stop: 2026-10-18T00:33:30Z
+  stop: 2026-10-18T00:33:00Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
   description: |-
@@ -59,6 +59,17 @@
     Skryté titulky
   genre:
   - '32'
+  widescreen: true
+- eventId: 871858
+  start: 2026-10-18T00:33:00Z
+  stop: 2026-10-18T00:58:59Z
+  title: Týden v regionech
+  subtitle: Pomůžeme ti vyřešit právní těžkosti ohledně dávek, diskriminace, dluhů, rodiny, soudů nebo školy. Přesně to slibuje dětem na stránkách dětského ombudsmana M. Beneš. Před půl rokem se stal prvním v Česku.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
   widescreen: true
 - eventId: 871691
   start: 2026-10-18T00:33:30Z
@@ -191,7 +202,7 @@
   hd: true
 - eventId: 871702
   start: 2026-10-18T02:10:00Z
-  stop: 2026-10-18T02:33:30Z
+  stop: 2026-10-18T02:33:00Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
   description: |-
@@ -210,6 +221,17 @@
     Skryté titulky
   genre:
   - '32'
+  widescreen: true
+- eventId: 871859
+  start: 2026-10-18T02:33:00Z
+  stop: 2026-10-18T02:59:03Z
+  title: Týden v regionech
+  subtitle: Nejdůležitější události týdne v Moravskoslezském a Olomouckém kraji.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
   widescreen: true
 - eventId: 871712
   start: 2026-10-18T02:33:30Z
@@ -261,6 +283,7 @@
 - eventId:
   - 678910
   - 689338
+  - 871860
   start: 2026-10-18T03:00:00Z
   stop: 2026-10-18T03:10:00Z
   title: Zprávy
@@ -296,6 +319,7 @@
 - eventId:
   - 678911
   - 689339
+  - 871861
   start: 2026-10-18T03:10:00Z
   stop: 2026-10-18T04:00:00Z
   title: Studio ČT24
@@ -342,6 +366,7 @@
 - eventId:
   - 678912
   - 689340
+  - 871862
   start: 2026-10-18T04:00:00Z
   stop: 2026-10-18T04:10:00Z
   title: Zprávy
@@ -378,6 +403,7 @@
 - eventId:
   - 678913
   - 689341
+  - 871863
   start: 2026-10-18T04:10:00Z
   stop: 2026-10-18T05:00:00Z
   title: Studio ČT24
@@ -437,6 +463,7 @@
 - eventId:
   - 678923
   - 689346
+  - 871864
   start: 2026-10-18T06:31:00Z
   stop: 2026-10-18T07:00:00Z
   title: Věda 24
