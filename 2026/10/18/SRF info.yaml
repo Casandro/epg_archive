@@ -94,7 +94,31 @@
   hd: true
 - eventId: 687860
   start: 2026-10-18T03:00:00Z
-  stop: 2026-10-18T03:30:00Z
+  stop: 2026-10-18T03:05:00Z
+  title: Schweizer Cup - Highlights Männer
+  subtitle: Die besten Spiele, Szenen und Tore
+  description: |-
+    Runde für Runde schreibt der Schweizer Fussballcup seine eigenen Geschichten. Eine Sensation liegt in der Luft, wenn ein unterklassiger Verein einem Super-Ligisten ein Bein zu stellen versucht. Das Magazin bietet den Rundumservice mit den besten Spielen, Szenen und Toren der aktuellen Cup-Runde.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 847160
+  start: 2026-10-18T03:05:00Z
+  stop: 2026-10-18T03:15:00Z
+  title: Sportheute
+  subtitle: Der Sport des Tages
+  description: |-
+    Grosse Erfolge, starke Emotionen und packende Bilder - «Sportheute» offeriert die wichtigsten News aus dem nationalen und internationalen Sport. An Spieltagen der National League steht das Schweizer Eishockey im Fokus.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 847161
+  start: 2026-10-18T03:15:00Z
+  stop: 2026-10-18T03:45:00Z
   title: Schweizer Cup - Highlights Männer
   subtitle: Die besten Spiele, Szenen und Tore
   description: |-
@@ -187,7 +211,7 @@
   hd: true
 - eventId: 811779
   start: 2026-10-18T04:25:00Z
-  stop: 2026-10-18T05:40:00Z
+  stop: 2026-10-18T05:50:00Z
   title: Arena
   subtitle: Parteispitzen zu Parmelin-Nachfolge und Wahljahr 2027
   description: |-
@@ -237,6 +261,17 @@
   genre:
   - '64'
   widescreen: true
+  hd: true
+- eventId: 847162
+  start: 2026-10-18T05:50:00Z
+  stop: 2026-10-18T06:25:00Z
+  title: Gredig direkt
+  subtitle: 'Nina Ruge: Wie wird man gut alt?'
+  description: |-
+    Longevity boomt. Nina Ruge sieht sich als «Bullshit-Filter» in einem Milliardenmarkt zwischen Wissenschaft und Selbstoptimierung. Bei «Gredig direkt» spricht sie über Prävention, Eigenverantwortung und die Frage, was wirklich hilft, um gesund älter zu werden.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 697420
   start: 2026-10-18T05:55:00Z
@@ -759,7 +794,7 @@
   hd: true
 - eventId: 811839
   start: 2026-10-18T22:10:00Z
-  stop: 2026-10-18T23:20:00Z
+  stop: 2026-10-18T23:30:00Z
   title: Arena
   subtitle: Parteispitzen zu Parmelin-Nachfolge und Wahljahr 2027
   description: |-
@@ -814,6 +849,19 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 847164
+  start: 2026-10-18T23:30:00Z
+  stop: 2026-10-18T23:50:00Z
+  title: Kulturplatz
+  subtitle: Vergessene Primadonna - Auf den Spuren von Emilie Herzog
+  description: |-
+    Alles fängt an mit einer Schellackplatte aus dem Brockenhaus. Als Reto Knöpfel von der Aufnahme der Opernsängerin Emilie Herzog erfährt, beginnt eine jahrelange Spurensuche - sie führt ihn zu einer aussergewöhnlichen Karriere und einer unerwarteten Freundschaft.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 783542
   start: 2026-10-18T23:35:00Z
   stop: 2026-10-19T00:00:00Z
@@ -836,7 +884,9 @@
   - '32'
   widescreen: true
   hd: true
-- eventId: 714304
+- eventId:
+  - 714304
+  - 847165
   start: 2026-10-18T23:55:00Z
   stop: 2026-10-19T00:05:00Z
   title: Tagesschau

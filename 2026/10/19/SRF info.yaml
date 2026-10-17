@@ -30,6 +30,29 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 847170
+  start: 2026-10-19T00:07:00Z
+  stop: 2026-10-19T00:08:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 847171
+  start: 2026-10-19T00:08:00Z
+  stop: 2026-10-19T00:55:00Z
+  title: Sportpanorama
+  subtitle: Studiogast - Loïc Meillard, Skirennfahrer
+  description: |-
+    «Sportpanorama» mit Skirennfahrer Loïc Meillard
+    Zu Gast bei SRF Sport spricht Slalom-Olympiasieger Loïc Meillard am Sonntag über seine Vorbereitung und seine Ziele für den neuen Weltcupwinter
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 714308
   start: 2026-10-19T00:10:00Z
   stop: 2026-10-19T00:15:00Z
@@ -59,6 +82,19 @@
 - eventId: 811846
   start: 2026-10-19T00:55:00Z
   stop: 2026-10-19T01:50:00Z
+  title: Schweizer Cup - Highlights Männer
+  subtitle: Die besten Spiele, Szenen und Tore
+  description: |-
+    Runde für Runde schreibt der Schweizer Fussballcup seine eigenen Geschichten. Eine Sensation liegt in der Luft, wenn ein unterklassiger Verein einem Super-Ligisten ein Bein zu stellen versucht. Das Magazin bietet den Rundumservice mit den besten Spielen, Szenen und Toren der aktuellen Cup-Runde.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 847172
+  start: 2026-10-19T01:00:00Z
+  stop: 2026-10-19T02:00:00Z
   title: Schweizer Cup - Highlights Männer
   subtitle: Die besten Spiele, Szenen und Tore
   description: |-
@@ -115,8 +151,8 @@
   hd: true
 - eventId: 811848
   start: 2026-10-19T02:00:00Z
-  stop: 2026-10-19T02:05:00Z
-  title: Meteo
+  stop: 2026-10-19T02:09:00Z
+  title: Tagesschau
   subtitle: Spätausgabe
   genre:
   - '32'
@@ -136,6 +172,15 @@
     Zu Gast bei SRF Sport spricht Slalom-Olympiasieger Loïc Meillard am Sonntag über seine Vorbereitung und seine Ziele für den neuen Weltcupwinter
     Schweiz 2026
   subtitled: true
+- eventId: 847173
+  start: 2026-10-19T02:09:00Z
+  stop: 2026-10-19T02:10:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
 - eventId: 714311
   start: 2026-10-19T02:10:00Z
   stop: 2026-10-19T02:15:00Z
@@ -144,6 +189,20 @@
   genre:
   - '32'
   widescreen: true
+  hd: true
+- eventId: 847174
+  start: 2026-10-19T02:10:00Z
+  stop: 2026-10-19T03:00:00Z
+  title: Sportpanorama
+  subtitle: Studiogast - Loïc Meillard, Skirennfahrer
+  description: |-
+    «Sportpanorama» mit Skirennfahrer Loïc Meillard
+    Zu Gast bei SRF Sport spricht Slalom-Olympiasieger Loïc Meillard am Sonntag über seine Vorbereitung und seine Ziele für den neuen Weltcupwinter
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 714312
   start: 2026-10-19T02:15:00Z
@@ -184,6 +243,19 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 847195
+  start: 2026-10-19T03:05:00Z
+  stop: 2026-10-19T03:55:00Z
+  title: Schweizer Cup - Highlights Männer
+  subtitle: Die besten Spiele, Szenen und Tore
+  description: |-
+    Runde für Runde schreibt der Schweizer Fussballcup seine eigenen Geschichten. Eine Sensation liegt in der Luft, wenn ein unterklassiger Verein einem Super-Ligisten ein Bein zu stellen versucht. Das Magazin bietet den Rundumservice mit den besten Spielen, Szenen und Toren der aktuellen Cup-Runde.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 714331
   start: 2026-10-19T03:10:00Z
   stop: 2026-10-19T03:55:00Z
@@ -210,12 +282,15 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 714332
+- eventId:
+  - 714332
+  - 847196
   start: 2026-10-19T03:55:00Z
   stop: 2026-10-19T04:50:00Z
   title: Sportpanorama
   description: |-
-    Das Magazin zur nationalen und internationalen Sportaktualität des Wochenendes.
+    «Sportpanorama» mit Skirennfahrer Loïc Meillard
+    Zu Gast bei SRF Sport spricht Slalom-Olympiasieger Loïc Meillard am Sonntag über seine Vorbereitung und seine Ziele für den neuen Weltcupwinter
     Schweiz 2026
   genre:
   - '64'
@@ -237,7 +312,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 727375
+- eventId:
+  - 727375
+  - 847197
   start: 2026-10-19T04:50:00Z
   stop: 2026-10-19T05:45:00Z
   title: Schweizer Cup - Highlights Männer
@@ -263,7 +340,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 727376
+- eventId:
+  - 727376
+  - 847198
   start: 2026-10-19T05:45:00Z
   stop: 2026-10-19T06:35:00Z
   title: BILANZ Standpunkte
@@ -282,6 +361,17 @@
 - eventId: 727381
   start: 2026-10-19T06:35:00Z
   stop: 2026-10-19T06:55:00Z
+  title: GESUNDHEITHEUTE - Die Gesundheitssendung mit Dr. Jeanne Fürst
+  subtitle: Ja zum Leben - auch im Alter
+  description: |-
+    Wir möchten alle alt werden, doch wie gelingt ein erfülltes und sinnvolles Leben im Alter? Sängerin Maja Brunner und weitere Senioren erzählen, was ihnen dabei hilft und was ihnen Mut macht.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 847204
+  start: 2026-10-19T06:35:00Z
+  stop: 2026-10-19T07:00:00Z
   title: GESUNDHEITHEUTE - Die Gesundheitssendung mit Dr. Jeanne Fürst
   subtitle: Ja zum Leben - auch im Alter
   description: |-
@@ -484,11 +574,24 @@
   hd: true
 - eventId: 727406
   start: 2026-10-19T12:15:00Z
-  stop: 2026-10-19T12:20:00Z
+  stop: 2026-10-19T12:16:00Z
   title: Meteo
   subtitle: Mittagsausgabe
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 847233
+  start: 2026-10-19T12:16:00Z
+  stop: 2026-10-19T12:40:00Z
+  title: Kulturplatz
+  subtitle: Vergessene Primadonna - Auf den Spuren von Emilie Herzog
+  description: |-
+    Alles fängt an mit einer Schellackplatte aus dem Brockenhaus. Als Reto Knöpfel von der Aufnahme der Opernsängerin Emilie Herzog erfährt, beginnt eine jahrelange Spurensuche - sie führt ihn zu einer aussergewöhnlichen Karriere und einer unerwarteten Freundschaft.
+    Schweiz 2026
+  genre:
+  - '112'
   widescreen: true
   subtitled: true
   hd: true
@@ -525,6 +628,27 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 847234
+  start: 2026-10-19T12:40:00Z
+  stop: 2026-10-19T12:45:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 847235
+  start: 2026-10-19T12:45:00Z
+  stop: 2026-10-19T14:20:00Z
+  title: DOK x Einstein
+  subtitle: Der Wolf in der Schweiz - Wie viele Wölfe verträgt das Land?
+  description: |-
+    Seit 2012 breitet sich der Wolf in der Schweiz rasant aus. Heute leben hier rund 350 Tiere. Seit 2023 dürfen Wölfe unter bestimmten Bedingungen reguliert werden. Doch was bringt das neue Wolfsmanagement - und wie gelingt das Zusammenleben?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 727410
   start: 2026-10-19T12:55:00Z
   stop: 2026-10-19T13:00:00Z
@@ -552,6 +676,27 @@
   subtitle: Der Wolf in der Schweiz - Wie viele Wölfe verträgt das Land?
   description: |-
     Seit 2012 breitet sich der Wolf in der Schweiz rasant aus. Heute leben hier rund 350 Tiere. Seit 2023 dürfen Wölfe unter bestimmten Bedingungen reguliert werden. Doch was bringt das neue Wolfsmanagement - und wie gelingt das Zusammenleben?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 847236
+  start: 2026-10-19T14:20:00Z
+  stop: 2026-10-19T14:30:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 847237
+  start: 2026-10-19T14:30:00Z
+  stop: 2026-10-19T16:00:00Z
+  title: Arena
+  subtitle: Parteispitzen zu Parmelin-Nachfolge und Wahljahr 2027
+  description: |-
+    Im Dezember wählt das Parlament ein neues Bundesratsmitglied. Und bereits im Oktober 2027 wählt die Bevölkerung ein neues Parlament. Wie gut stehen die Parteien ein Jahr vor den eidgenössischen Wahlen da? Das neue SRG-Wahlbarometer gibt Aufschluss - und die Parteispitzen nehmen Stellung.
     Schweiz 2026
   widescreen: true
   subtitled: true

@@ -74,7 +74,7 @@
   hd: true
 - eventId: 811850
   start: 2026-10-19T04:00:00Z
-  stop: 2026-10-19T04:50:00Z
+  stop: 2026-10-19T05:00:00Z
   title: Mise au point
   description: |-
     (Rediffusion) (Suisse Romande-2026)  - Guy Parmelin : Succession story Qui remplacera le conseiller fédéral vaudois ? À l'UDC, les Romands se mobilisent et la genevoise Céline Amaudruz se prépare, reste encore à prouver à l'échelle nationale que la question romande est vraiment d'importance, c'est le reportage de la semaine.
@@ -96,7 +96,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 727373
+- eventId:
+  - 727373
+  - 847166
   start: 2026-10-19T05:00:00Z
   stop: 2026-10-19T06:00:00Z
   title: La Matinale
@@ -118,6 +120,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 847186
+  start: 2026-10-19T06:00:00Z
+  stop: 2026-10-19T06:40:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 811671
   start: 2026-10-19T06:10:00Z
   stop: 2026-10-19T07:00:00Z
@@ -128,6 +141,16 @@
      - GTA : le jeu vidéo qui change les règles C'est le poids lourd de l'industrie du jeu vidéo qui elle-même explose les économies du divertissement, GTA est aussi le premier jeu qu'on ne pourra pas posséder physiquement. Une dématérialisation qui fâche le public et risque de s'étendre à tous les domaines, reportage.
   genre:
   - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 847187
+  start: 2026-10-19T06:40:00Z
+  stop: 2026-10-19T07:40:00Z
+  title: Forum
+  description: Forum en différé  du 18.10.2026
+  genre:
+  - '32'
   widescreen: true
   subtitled: true
   hd: true
@@ -161,11 +184,31 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 847188
+  start: 2026-10-19T07:40:00Z
+  stop: 2026-10-19T08:10:00Z
+  title: basik - Signé
+  description: Villa à tout prix - Signé basik explore et explique l'économie. Modes de vie, pouvoir d'achat, rapport à l'argent... Salarié ou patron, accro au boulot ou adepte du temps partiel, basik raconte les romand.e.s qui façonnent l'économie et cherchent des solutions face aux défis sociétaux et environnementaux. Chaque lundi, la rédaction investit les rues, les usines et les commerces. Avec un grand reportage, un feuilleton, une interview et une chronique un peu décalée, jamais l'économie n'a été aussi proche de vous !  "Langue des signes"
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 727379
   start: 2026-10-19T07:50:00Z
   stop: 2026-10-19T08:20:00Z
   title: basik - Signé
   description: Villa à tout prix - Signé basik explore et explique l'économie. Modes de vie, pouvoir d'achat, rapport à l'argent... Salarié ou patron, accro au boulot ou adepte du temps partiel, basik raconte les romand.e.s qui façonnent l'économie et cherchent des solutions face aux défis sociétaux et environnementaux. Chaque lundi, la rédaction investit les rues, les usines et les commerces. Avec un grand reportage, un feuilleton, une interview et une chronique un peu décalée, jamais l'économie n'a été aussi proche de vous !  "Langue des signes"
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 847189
+  start: 2026-10-19T08:10:00Z
+  stop: 2026-10-19T08:50:00Z
+  title: A bon entendeur - Signé
+  description: 'TARDOC : comment certains médecins gonflent la facture - Signé Au mois de janvier, le système TARDOC succédait à TARMED pour régir la facturation des prestations médicales ambulatoires. Neuf mois plus tard le système provoque des effets secondaires. Alors que les primes maladie continuent de grimper, certains spécialistes profitent du nouveau système tarifaire pour augmenter leurs revenus, au détriment du confort des patients et des coûts de la santé. (Suisse Romande-2026)  "Langue des signes"'
   genre:
   - '128'
   widescreen: true
@@ -192,6 +235,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 847190
+  start: 2026-10-19T08:50:00Z
+  stop: 2026-10-19T09:40:00Z
+  title: Caravane FM - Signé
+  description: (Suisse-2025)  "Langue des signes"
+  genre:
+  - '131'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 727387
   start: 2026-10-19T09:00:00Z
   stop: 2026-10-19T09:45:00Z
@@ -199,6 +252,17 @@
   description: (Suisse-2025)  "Langue des signes"
   genre:
   - '131'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 847203
+  start: 2026-10-19T09:40:00Z
+  stop: 2026-10-19T09:55:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
   widescreen: true
   subtitled: true
   hd: true
@@ -274,7 +338,10 @@
   start: 2026-10-19T12:55:00Z
   stop: 2026-10-19T13:45:00Z
   title: Mise au point
-  description: '(Suisse Romande-2026)  - GTA : le jeu vidéo qui change les règles C''est le poids lourd de l''industrie du jeu vidéo qui elle-même explose les économies du divertissement, GTA est aussi le premier jeu qu''on ne pourra pas posséder physiquement. Une dématérialisation qui fâche le public et risque de s''étendre à tous les domaines, reportage.'
+  description: |-
+    (Suisse Romande-2026)  - Guy Parmelin : Succession story Qui remplacera le conseiller fédéral vaudois ? À l'UDC, les Romands se mobilisent et la genevoise Céline Amaudruz se prépare, reste encore à prouver à l'échelle nationale que la question romande est vraiment d'importance, c'est le reportage de la semaine.
+     - USA : point de bascule L'équilibrisme des élections de mi-mandat qui pourraient faire basculer le congrès, à 2 semaines d'un scrutin qui divise toujours plus les Américaines et Américains, avec de nombreuses incidences pour le monde entier, nous irons dans le Colorado où certains Républicains regrettent d'avoir voté Trump
+     - GTA : le jeu vidéo qui change les règles C'est le poids lourd de l'industrie du jeu vidéo qui elle-même explose les économies du divertissement, GTA est aussi le premier jeu qu'on ne pourra pas posséder physiquement. Une dématérialisation qui fâche le public et risque de s'étendre à tous les domaines, reportage.
   genre:
   - '128'
   widescreen: true
@@ -295,7 +362,7 @@
   start: 2026-10-19T14:10:00Z
   stop: 2026-10-19T14:50:00Z
   title: Cash
-  description: 'Cash est un quiz on the road qui permet à des concurrents, choisis au hasard, de pouvoir gagner 1000 francs avec 10 questions en 10 minutes. Cette semaine rendez-vous au Marché de Carouge. Présentation : Garance La Fata (Suisse Romande-2026)'
+  description: 'Cash est un quiz on the road qui permet à des concurrents, choisis au hasard, de pouvoir gagner 1000 francs avec 10 questions en 10 minutes. Cette semaine rendez-vous au Marché de Carouge. Présentation : Garance La Fata (Suisse Romande-2026)  "Audio description"'
   genre:
   - '48'
   widescreen: true
@@ -378,6 +445,7 @@
   - '128'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 744868
   start: 2026-10-19T19:40:00Z
   stop: 2026-10-19T20:35:00Z
@@ -430,9 +498,48 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 847267
+  start: 2026-10-19T22:36:00Z
+  stop: 2026-10-19T22:37:00Z
+  title: Zap RTS Sport
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 847268
+  start: 2026-10-19T22:37:00Z
+  stop: 2026-10-19T22:55:00Z
+  title: Couleurs locales
+  description: (Rediffusion)
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 744892
   start: 2026-10-19T22:55:00Z
-  stop: 2026-10-20T03:55:00Z
+  stop: 2026-10-19T23:25:00Z
+  title: 19h30 - Signé
+  description: (Rediffusion)  "Langue des signes"
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 847269
+  start: 2026-10-19T23:25:00Z
+  stop: 2026-10-19T23:40:00Z
+  title: Couleurs locales
+  description: (Rediffusion)
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 847270
+  start: 2026-10-19T23:40:00Z
+  stop: 2026-10-20T00:15:00Z
   title: 19h30 - Signé
   description: (Rediffusion)  "Langue des signes"
   genre:
