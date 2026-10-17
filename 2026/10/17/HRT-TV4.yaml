@@ -2390,6 +2390,7 @@
   - 872430
   - 872655
   - 872936
+  - 873158
   start: 2026-10-17T21:56:00Z
   stop: 2026-10-17T22:00:00Z
   title: '#REPORTAŽE: Prirodne boje'
@@ -2427,14 +2428,16 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 789427
   start: 2026-10-17T22:10:00Z
-  stop: 2026-10-17T22:19:00Z
+  stop: 2026-10-17T22:17:00Z
   title: Vijesti iz kulture
   subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   ageRating: 4
   genre:
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 789428
+- eventId:
+  - 789428
+  - 873110
   start: 2026-10-17T22:17:00Z
   stop: 2026-10-17T22:46:00Z
   title: Auto Market Magazin
@@ -2467,6 +2470,7 @@
   - 805795
   - 822251
   - 872868
+  - 873111
   start: 2026-10-17T22:46:00Z
   stop: 2026-10-17T23:04:00Z
   title: Regionalni dnevnik
@@ -2528,7 +2532,9 @@
   title: 'Bez komentara: Singapur, smog'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 789431
+- eventId:
+  - 789431
+  - 873112
   start: 2026-10-17T23:07:00Z
   stop: 2026-10-18T00:00:00Z
   title: Dnevnik 2
