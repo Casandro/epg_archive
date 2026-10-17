@@ -150,7 +150,9 @@
   description: 'Pres: Linda Bourget. Le matØ en canette s''est imposØ comma la boisson tendance. Son succŁs repose sur une promesse : un coup de boost, pas trop de sucre et une image naturelle synonyme de bien-Œtre. Une rØputation mØritØe ?.  '
   genre:
   - '47'
-- eventId: 780572
+- eventId:
+  - 780572
+  - 860568
   start: 2026-10-17T04:05:00Z
   stop: 2026-10-17T04:32:00Z
   title: 'Maté : boisson saine ou soda ? '
@@ -164,7 +166,9 @@
   subtitle: 'Le maté en canette s''est imposé comma la boisson tendance. Son succès repose sur une promesse : un coup de boost, pas trop de sucr '
   description: "Maté : boisson saine ou soda ?\n\nLe maté en canette s'est imposé comma la boisson tendance. Son succès repose sur une promesse : un coup de boost, pas trop de sucre et une image naturelle synonyme de bien-être. Une réputation méritée ?\n\nPrésentation : Viviane Gabriel\n "
   ageRating: 7
-- eventId: 829920
+- eventId:
+  - 829920
+  - 860567
   start: 2026-10-17T04:32:00Z
   stop: 2026-10-17T04:59:00Z
   title: 'Quand l''IA recrute '
@@ -367,7 +371,7 @@
 - eventId: 829930
   start: 2026-10-17T07:59:00Z
   stop: 2026-10-17T08:02:00Z
-  title: 'Casquette '
+  title: 'Les cartes à devinette '
   subtitle: ' '
   ageRating: 7
 - eventId:
@@ -383,10 +387,11 @@
   ageRating: 7
 - eventId: 829931
   start: 2026-10-17T08:02:00Z
-  stop: 2026-10-17T08:05:00Z
+  stop: 2026-10-17T08:28:00Z
   title: 'Les cartes à devinette '
-  subtitle: ' '
+  subtitle: 'Les instruments de surveillance et de simulation nous permettent de mieux observer le monde qui nous entoure. Mathieu, Yoan et Luc '
   ageRating: 7
+  description: "Sous observation\n\nLes instruments de surveillance et de simulation nous permettent de mieux observer le monde qui nous entoure. Mathieu, Yoan et Luc testent une caméra intelligente dans un enclos de lynx et de grizzlis. \n\nRéalisation : Mathieu Pichette, François Lachapelle (saison 2, Canada, 2023)\nPrésentation : Luc Langevin\n "
 - eventId:
   - 1635066
   - 641531
@@ -411,6 +416,12 @@
   subtitle: 'Les instruments de surveillance et de simulation nous permettent de mieux observer le monde qui nous entoure. Mathieu, Yoan et Luc '
   description: "Sous observation\n\nLes instruments de surveillance et de simulation nous permettent de mieux observer le monde qui nous entoure. Mathieu, Yoan et Luc testent une caméra intelligente dans un enclos de lynx et de grizzlis. \n\nRéalisation : Mathieu Pichette, François Lachapelle (saison 2, Canada, 2023)\nPrésentation : Luc Langevin\n "
   ageRating: 7
+- eventId: 860570
+  start: 2026-10-17T08:28:00Z
+  stop: 2026-10-17T08:35:00Z
+  title: 'Le petit cabri de M. Payet '
+  subtitle: ' '
+  ageRating: 7
 - eventId: 829933
   start: 2026-10-17T08:31:00Z
   stop: 2026-10-17T08:39:00Z
@@ -425,12 +436,24 @@
   title: 'Le petit cabri de M. Payet '
   subtitle: ' '
   ageRating: 7
+- eventId: 860571
+  start: 2026-10-17T08:35:00Z
+  stop: 2026-10-17T08:42:00Z
+  title: 'Un étranger '
+  subtitle: ' '
+  ageRating: 7
 - eventId:
   - 1635069
   - 641534
   start: 2026-10-17T08:39:00Z
   stop: 2026-10-17T08:46:00Z
   title: 'Un étranger '
+  subtitle: ' '
+  ageRating: 7
+- eventId: 860572
+  start: 2026-10-17T08:42:00Z
+  stop: 2026-10-17T08:50:00Z
+  title: 'La guêpe '
   subtitle: ' '
   ageRating: 7
 - eventId:
@@ -440,6 +463,13 @@
   stop: 2026-10-17T08:53:00Z
   title: 'La guêpe '
   subtitle: ' '
+  ageRating: 7
+- eventId: 860573
+  start: 2026-10-17T08:50:00Z
+  stop: 2026-10-17T09:11:00Z
+  title: 'L''école secondaire de Mirabel contre le collège de L''Assomption '
+  subtitle: 'Les élèves de l''école secondaire de Mirabel et du collège de L''Assomption s''affrontent aux jeux « questions givrées » et « tirs de '
+  description: "L'école secondaire de Mirabel contre le collège de L'Assomption \n\nLes élèves de l'école secondaire de Mirabel et du collège de L'Assomption s'affrontent aux jeux « questions givrées » et « tirs de barrage ». \n\nPrésentation : Émilie Fournier\n "
   ageRating: 7
 - eventId:
   - 1635071
@@ -467,11 +497,24 @@
   title: 'Beau-Papa (1) '
   subtitle: ' '
   ageRating: 7
+- eventId: 860575
+  start: 2026-10-17T09:19:00Z
+  stop: 2026-10-17T09:30:00Z
+  title: 'Beau-Papa (2) '
+  subtitle: ' '
+  ageRating: 7
 - eventId: 741953
   start: 2026-10-17T09:23:00Z
   stop: 2026-10-17T09:33:00Z
   title: 'Beau-Papa (2) '
   subtitle: ' '
+  ageRating: 7
+- eventId: 860576
+  start: 2026-10-17T09:30:00Z
+  stop: 2026-10-17T09:41:00Z
+  title: 'Comment faire quand tout devient cher ? '
+  subtitle: "Myriam, Raphäl et Élise s'intéressent à la hausse des prix et à ses conséquences sur le quotidien des familles.\n "
+  description: "Comment faire quand tout devient cher ?\n\nMyriam, Raphäl et Élise s'intéressent à la hausse des prix et à ses conséquences sur le quotidien des familles.\n\nPrésentation : Myriam Bounafaa, Raphäl Yem, Élise Lambert\n "
   ageRating: 7
 - eventId: 741954
   start: 2026-10-17T09:33:00Z
@@ -480,12 +523,32 @@
   subtitle: "Myriam, Raphäl et Élise s'intéressent à la hausse des prix et à ses conséquences sur le quotidien des familles.\n "
   ageRating: 7
   description: "Comment faire quand tout devient cher ?\n\nMyriam, Raphäl et Élise s'intéressent à la hausse des prix et à ses conséquences sur le quotidien des familles.\n\nPrésentation : Myriam Bounafaa, Raphäl Yem, Élise Lambert\n "
+- eventId: 860577
+  start: 2026-10-17T09:41:00Z
+  stop: 2026-10-17T09:42:00Z
+  title: 'Respecte la flore et la faune '
+  subtitle: ' '
+  ageRating: 7
+- eventId: 860578
+  start: 2026-10-17T09:42:00Z
+  stop: 2026-10-17T10:09:00Z
+  title: 'Tunisie / Italie '
+  subtitle: 'En Tunisie, la filière piscicole marine est en plein développement. Au sud de l''Italie, la mafia locale, la Camorra, exploite un v '
+  description: 'En Tunisie, la filière piscicole marine est en plein développement. Au sud de l''Italie, la mafia locale, la Camorra, exploite un vaste trafic de déchets au mépris de l''environnement. Enfin, découverte de Villanova, quartier historique emblématique de la ville de Cagliari, en Sardaigne.  '
+  ageRating: 7
 - eventId: 741955
   start: 2026-10-17T09:44:00Z
   stop: 2026-10-17T10:10:00Z
   title: 'Tunisie / Italie '
   subtitle: 'En Tunisie, la filière piscicole marine est en plein développement. Au sud de l''Italie, la mafia locale, la Camorra, exploite un v '
   description: 'En Tunisie, la filière piscicole marine est en plein développement. Au sud de l''Italie, la mafia locale, la Camorra, exploite un vaste trafic de déchets au mépris de l''environnement. Enfin, découverte de Villanova, quartier historique emblématique de la ville de Cagliari, en Sardaigne.  '
+  ageRating: 7
+- eventId: 860579
+  start: 2026-10-17T10:09:00Z
+  stop: 2026-10-17T10:36:00Z
+  title: 'Quand l''IA recrute '
+  subtitle: 'Plus de 100 candidatures et aucun retour. CV optimisés, tri automatisé, entretiens virtuels : avec l''intelligence artificielle, le '
+  description: "Quand l'IA recrute\n\nPlus de 100 candidatures et aucun retour. CV optimisés, tri automatisé, entretiens virtuels : avec l'intelligence artificielle, le recrutement change de visage. Nécessité pour certaines entreprises, opportunités commerciales pour d'autres... Mais à quel prix ?\n\nPrésentation : Loïs Siggen Lopez\n "
   ageRating: 7
 - eventId: 741956
   start: 2026-10-17T10:10:00Z
@@ -499,6 +562,13 @@
   - 641484
   start: 2026-10-17T10:32:00Z
   stop: 2026-10-17T11:00:00Z
+- eventId: 860580
+  start: 2026-10-17T10:36:00Z
+  stop: 2026-10-17T11:03:00Z
+  title: 'Próspera, l''eldorado des super-riches '
+  subtitle: 'Ville privée quasi autonome située sur l''île de Roátan, au large du Honduras, Próspera incarne l''utopie libertarienne des milliard '
+  description: "Próspera, l'eldorado des super-riches\n\nVille privée quasi autonome située sur l'île de Roátan, au large du Honduras, Próspera incarne l'utopie libertarienne des milliardaires : un espace affranchi du contrôle de l'État, bâti grâce à une loi hondurienne exploitée par des investisseurs. La cité se veut un laboratoire de gouvernance ; le projet divise fortement.\nUn reportage de « Mise au point », le magazine de la RTS.\n\nInvités : Jérôme Galichet, journaliste à la RTS ; Pascal Saint-Aman, ex-directeur de l'OCDE, professeur de politique fiscale à HEC\n\nPrésentation : Dominique Laresche\n "
+  ageRating: 7
 - eventId: 741957
   start: 2026-10-17T10:37:00Z
   stop: 2026-10-17T11:04:00Z
@@ -511,6 +581,13 @@
   - 641485
   start: 2026-10-17T11:00:00Z
   stop: 2026-10-17T11:30:00Z
+- eventId: 860581
+  start: 2026-10-17T11:03:00Z
+  stop: 2026-10-17T11:30:00Z
+  title: 'Wassyla Tamzali, Xavier Le Clerc, Nicolas Wadimoff '
+  subtitle: 'Après « Un homme sans titre » et « Le Pain des Français », Xavier Le Clerc poursuit son exploration de l''héritage colonial avec «  '
+  description: "Wassyla Tamzali, Xavier Le Clerc, Nicolas Wadimoff\n\nAprès « Un homme sans titre » et « Le Pain des Français », Xavier Le Clerc poursuit son exploration de l'héritage colonial avec « Le Garçon ébloui » (éditions Gallimard). 1959, un jeune instituteur, Sébastien, est appelé sous les drapeaux et envoyé en Algérie. Dans un village abandonné, il découvre Idir, qu'il adopte. \n  \nNicolas Wadimoff veut encore et toujours leur donner la parole. Dans son documentaire « Qui vit encore », il écoute et enregistre le témoignage de neuf Palestiniennes et Palestiniens réfugiés. Le film, qui traite de la perte, de la préservation de l'identité et de la vie malgré tout, représente la Suisse aux Oscars 2027.\n \nL'art contemporain algérien est à l'honneur de la Menart Fair de Paris (23-25 octobre 2026). À travers les oeuvres de douze artistes, la « Project Room » révèle une génération qui interroge son époque et son territoire. Wassyla Tamzali témoigne de la vitalité d'une scène artistique encore trop peu visible à l'international. \n \nLe Salon du livre de Beyrouth retrouve un format unifié et accueille plus de quarante écrivains et artistes venus de différents pays. Un reportage de Sophie Guignon et Wissam Charaf. \n\n#Atmosphère avec les coups de coeur des invités. \n\nInvités : Wassyla Tamzali, écrivaine, fondatrice et directrice des Ateliers sauvages ; Xavier Le Clerc, romancier ; Nicolas Wadimoff, réalisateur et scénariste\n\nPrésentation : Mohamed Kaci\nwww.tv5monde.com/MOE\n "
+  ageRating: 7
 - eventId: 741958
   start: 2026-10-17T11:04:00Z
   stop: 2026-10-17T11:30:00Z
@@ -678,8 +755,9 @@
   start: 2026-10-17T18:30:00Z
   stop: 2026-10-17T18:40:00Z
   title: 'L''INVITE TV5MONDE DU 17/10/26 '
-  subtitle: ' '
+  subtitle: 'Il est délégué général du Festival de Cannes mais aussi patron du Festival Lumière, qui se déroule à Lyon du 10 au 18 octobre 2026 '
   ageRating: 7
+  description: "Invité : Thierry Frémaux\n\nIl est délégué général du Festival de Cannes mais aussi patron du Festival Lumière, qui se déroule à Lyon du 10 au 18 octobre 2026. Thierry Frémaux rend un vibrant hommage aux inventeurs du cinéma, les frères Lumière, avec le film-montage « Lumière, l'aventure continue » : une plongée émouvante aux origines du 7e art. \nUne émission enregistrée au 19e Festival du film francophone d'Angoulême. \n\nPrésentation : Patrick Simonin\n "
 - eventId:
   - 1635089
   - 638610
