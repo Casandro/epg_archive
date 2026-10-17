@@ -13,7 +13,9 @@
   hd: true
   audiodesc: true
   description: "Sportmagazin, Deutschland 2026\nFußball-Bundesliga, 6. Spieltag - Abendspiel: \nBayern München - RB Leipzig\n\nUnion Berlin - Bor. Dortmund\nHamburger SV - VfB Stuttgart\nWerder Bremen - SC Paderborn \nFC Schalke 04 - 1. FSV Mainz 05\nSV Elversberg - FC Augsburg\n\nFußball: Zweite Liga, 8. Spieltag - Abendspiel: \nHannover 96 - FC St. Pauli\n\nVfL Wolfsburg - 1. FC Heidenheim\n1.FC K'lautern - VfL Bochum \nGreuther Fürth - Braunschweig\n\nGast: Jule Behrens - Triathletin\n\nGast: Hennes Behrens - FC Augsburg, Fußballnationalspieler\n\nModeration: Jochen Breyer\nHD-Produktion"
-- eventId: 873578
+- eventId:
+  - 873578
+  - 873755
   start: 2026-10-18T00:00:00Z
   stop: 2026-10-18T01:24:00Z
   title: das aktuelle sportstudio
@@ -21,6 +23,8 @@
   genre:
   - '32'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 861846
   - 861887
@@ -34,7 +38,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 873579
+- eventId:
+  - 873579
+  - 873756
   start: 2026-10-18T01:24:00Z
   stop: 2026-10-18T02:54:00Z
   title: Expedition Oder - Der unbekannte Fluss
@@ -48,6 +54,8 @@
   - '144'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1289789
   - 1290016
@@ -68,7 +76,9 @@
 
     Von der Quelle im mährischen Odergebirge führt die Reise durch Schlesien, vorbei an Hochwasserschutzanlagen, alten Häfen und Breslau. Dabei zeigt sich die Oder als historischer Kulturraum und Verbindung zwischen Polen und Deutschland.
     HD-Produktion
-- eventId: 873580
+- eventId:
+  - 873580
+  - 873757
   start: 2026-10-18T02:54:00Z
   stop: 2026-10-18T03:25:00Z
   title: Die Zackenbahn von Tschechien nach Polen - Ein Zug verbindet
@@ -82,6 +92,8 @@
   - '144'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1289790
   - 1290017
@@ -108,7 +120,7 @@
   - 557871
   - 609194
   start: 2026-10-18T03:25:00Z
-  stop: 2026-10-18T04:00:00Z
+  stop: 2026-10-18T03:55:00Z
   title: Ländermagazin
   subtitle: Heute aus Mecklenburg-Vorpommern
   genre:
@@ -121,7 +133,9 @@
 
     Die Themen reichen von politischen über kulturelle bis hin zu kuriosen Ereignissen.
     HD-Produktion
-- eventId: 873574
+- eventId:
+  - 873574
+  - 873758
   start: 2026-10-18T03:55:00Z
   stop: 2026-10-18T04:02:00Z
   title: Notizen aus dem Ausland
@@ -129,6 +143,8 @@
   genre:
   - '32'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1289827
   - 1290068
@@ -161,6 +177,21 @@
   genre:
   - '112'
   widescreen: true
+- eventId: 873759
+  start: 2026-10-18T04:02:00Z
+  stop: 2026-10-18T04:30:00Z
+  title: Andalusien - Spaniens maurischer Süden
+  subtitle: Film von Julien Bur
+  description: |-
+    Umgeben vom Atlantischen Ozean und dem Mittelmeer, bildet Andalusien mit dem Felsen von Gibraltar die südlichste Region der Iberischen Halbinsel und des europäischen Festlands.
+
+    Seine vielfältigen Landschaften, die reiche Kultur und die schönen Städte, in denen lebendige Geschichte und altes Handwerk blühen, machen Andalusien zu einem der attraktivsten Reiseziele Europas.
+    HD-Produktion
+  genre:
+  - '112'
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1289828
   - 1290069
@@ -182,7 +213,9 @@
 
     Je nach Region und Ort variieren in Sardinien die religiösen Bräuche, Musik, kulinarischen Spezialitäten und sogar die Sprache der Menschen stark - bis heute geprägt von einer meist einfachen und typisch mediterranen Lebensweise zwischen Meer und Bergen.
     HD-Produktion
-- eventId: 873589
+- eventId:
+  - 873589
+  - 873760
   start: 2026-10-18T04:31:00Z
   stop: 2026-10-18T05:15:00Z
   title: Traumorte - Sardinien
@@ -197,6 +230,8 @@
   - '112'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1289829
   - 1290070
@@ -306,6 +341,21 @@
   genre:
   - '112'
   widescreen: true
+- eventId: 873761
+  start: 2026-10-18T08:17:00Z
+  stop: 2026-10-18T09:20:00Z
+  title: Offene Türen - Architekturgeschichten aus Graubünden
+  subtitle: Film von Livio Chistell und Martina Werro
+  description: |-
+    Graubünden gilt als Labor der Gegenwartsarchitektur. Zwischen Berglandschaften, historischen Dorfkernen und alpinen Traditionen entstehen immer wieder innovative Bauten.
+
+    Diese finden weit über die Kantonsgrenzen hinaus Beachtung. Doch was macht diese Häuser besonders? Welche Ideen stecken hinter ihrer Gestaltung? Und wie leben die Menschen darin?
+    HD-Produktion
+  genre:
+  - '112'
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1289854
   - 1290105
@@ -326,7 +376,9 @@
 
     Historische Ereignisse, politische Debatten und literarische Texte treten in Dialog. Von 1969 bis ins Jahr 2004 begleitet der Film die Autorin und macht ihren künstlerischen Schaffensprozess nachvollziehbar. Biografie und Werk werden eng miteinander verwoben.
     HD-Produktion
-- eventId: 873591
+- eventId:
+  - 873591
+  - 873762
   start: 2026-10-18T09:22:00Z
   stop: 2026-10-18T11:00:00Z
   title: Elfriede Jelinek - Die Sprache von der Leine lassen
@@ -340,6 +392,8 @@
   - '112'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1289855
   - 1290106
@@ -377,7 +431,9 @@
 
     Die Wachau ist mit 36 Kilometern nur ein kurzer Abschnitt der 2800 Kilometer langen Donau - und zählt zum UNESCO-Welterbe. Die Dokumentation zeigt die Reize dieser österreichischen Kultur- und Naturlandschaft im Wechsel der Jahreszeiten.
     HD-Produktion
-- eventId: 873592
+- eventId:
+  - 873592
+  - 873763
   start: 2026-10-18T11:18:00Z
   stop: 2026-10-18T12:04:00Z
   title: Wachau - Land am Strome
@@ -391,6 +447,8 @@
   - '144'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 873593
   start: 2026-10-18T12:04:00Z
   stop: 2026-10-18T12:48:00Z
@@ -404,6 +462,21 @@
   genre:
   - '112'
   widescreen: true
+- eventId: 873764
+  start: 2026-10-18T12:04:00Z
+  stop: 2026-10-18T12:45:00Z
+  title: Argentinien (1/4)
+  subtitle: Feuerland und Patagonien
+  description: |-
+    Ushuaia ist die Hauptstadt der Provinz Feuerland und zugleich die südlichste Stadt der Welt. In den Gewässern des Beagle-Kanals spiegeln sich Gletscher, geformt von uralten Eisschilden.
+
+    Mit einer Fläche von 630 Quadratkilometern beherbergt der Nationalpark Tierra del Fuego die südlichsten Wälder der Welt sowie einige der tiefsten Fjorde Argentiniens. Dort stellt sich die Königskrabbenfischerin Liz Consentino den Herausforderungen der stürmischen See.
+    HD-Produktion
+  genre:
+  - '112'
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1289857
   - 1290139
@@ -455,6 +528,21 @@
   genre:
   - '112'
   widescreen: true
+- eventId: 873765
+  start: 2026-10-18T12:48:00Z
+  stop: 2026-10-18T13:30:00Z
+  title: Argentinien (2/4)
+  subtitle: Pampa und Buenos Aires
+  description: |-
+    Die gesamte Pamparegion erstreckt sich über 750.000 Quadratkilometer. Es ist ein einzigartiges Ökosystem mit extrem trockenen und sehr fruchtbaren Gebieten.
+
+    In General Acha, mitten in der Pampa Seca, führt Gabriela Iturrioz einen Auktionshandel. Sie gehört zu den wenigen Frauen im Land, die Viehauktionen leiten. In Capitán Sarmiento, im fruchtbaren Teil der Pampa, liegt eine Hochburg für edle Pferderassen.
+    HD-Produktion
+  genre:
+  - '112'
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1289859
   - 1290141
@@ -474,7 +562,9 @@
 
     Ornithologin Rebecca Lobo beobachtet die Tiere und setzt sich für den Schutz von Natur und Vögeln ein. Bis zu 310 sternenklare Nächte gibt es im Nationalpark El Leoncito. Beste Bedingungen für das Observatorium Casleo, das sich dort angesiedelt hat.
     HD-Produktion
-- eventId: 873595
+- eventId:
+  - 873595
+  - 873766
   start: 2026-10-18T13:31:00Z
   stop: 2026-10-18T14:15:00Z
   title: Argentinien (3/4)
@@ -487,13 +577,15 @@
   genre:
   - '112'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1289860
   - 1290142
   - 558097
   - 609625
   start: 2026-10-18T14:15:00Z
-  stop: 2026-10-18T15:00:00Z
+  stop: 2026-10-18T14:59:00Z
   title: Argentinien (4/4)
   subtitle: Chaco und Anden
   genre:
@@ -506,7 +598,9 @@
 
     Dort leben Menschen, die Traditionen mit Leidenschaft bewahren. Inmitten des Regenwalds stürzen die gewaltigen Iguazú-Wasserfälle auf fast drei Kilometern Breite in die Tiefe. Weiter südlich, in Misiones, baut die Familie Kraus nachhaltig Yerba Mate an.
     HD-Produktion
-- eventId: 873596
+- eventId:
+  - 873596
+  - 873767
   start: 2026-10-18T14:59:00Z
   stop: 2026-10-18T16:29:00Z
   title: Zwei verlorene Schafe
@@ -531,6 +625,8 @@
   - '16'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1289888
   - 1290143
@@ -562,7 +658,9 @@
     Buch/Autor: Edda Leesch
 
     HD-Produktion
-- eventId: 873597
+- eventId:
+  - 873597
+  - 873768
   start: 2026-10-18T16:29:00Z
   stop: 2026-10-18T17:00:00Z
   title: Museums-Check mit Markus Brock
@@ -576,6 +674,8 @@
   - '112'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1289889
   - 1290144
@@ -602,7 +702,7 @@
   - 558100
   - 609632
   start: 2026-10-18T17:00:00Z
-  stop: 2026-10-18T17:08:00Z
+  stop: 2026-10-18T17:10:00Z
   title: heute
   genre:
   - '32'
@@ -635,7 +735,7 @@
   - 558102
   - 609634
   start: 2026-10-18T17:10:00Z
-  stop: 2026-10-18T17:40:00Z
+  stop: 2026-10-18T17:11:00Z
   title: Europas neue Kokain-Front - Wie Drogenbanden
   subtitle: Spaniens Küstenorte unterwandern - Film von Nicole Ris und Jan-Philipp Scholz
   genre:
@@ -662,6 +762,21 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 873769
+  start: 2026-10-18T17:11:00Z
+  stop: 2026-10-18T17:40:00Z
+  title: Europas neue Kokain-Front - Wie Drogenbanden
+  subtitle: Spaniens Küstenorte unterwandern - Film von Nicole Ris und Jan-Philipp Scholz
+  description: |-
+    Seit Jahren steigt der Kokainkonsum in Europa und beschert kriminellen Banden einträgliche Geschäfte. Nun wird Spaniens Süden zu einem immer wichtigeren Umschlagsort für die Schmuggler.
+
+    Für die Menschen in den beschaulichen Küstenorten hat das zum Teil dramatische Folgen. Die Dokumentation dringt tief in Andalusiens Schmuggler-Business ein.
+    HD-Produktion
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1289893
   - 1290148
@@ -681,7 +796,9 @@
 
     Die antike Stadt, heute UNESCO-Welterbe, wurde "im Dschungel" vergessen, bis sie um 1820 durch eine britische Expedition wiederentdeckt wurde. Im 4. Jahrhundert vor Christus gegründet, entwickelte sie sich zum religiösen und politischen Zentrum von Sri Lanka.
     HD-Produktion
-- eventId: 873599
+- eventId:
+  - 873599
+  - 873770
   start: 2026-10-18T17:41:00Z
   stop: 2026-10-18T18:00:00Z
   title: Schätze der Welt - Erbe der Menschheit
@@ -694,6 +811,8 @@
   genre:
   - '112'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1290018
   - 1290170
@@ -767,6 +886,22 @@
   - '112'
   widescreen: true
   subtitled: true
+- eventId: 873771
+  start: 2026-10-18T19:01:00Z
+  stop: 2026-10-18T20:00:00Z
+  title: Mitternachtsspitzen
+  subtitle: Mit den Gästen Nicole Jäger, Florian Schroeder und
+  description: |-
+    Deutschland im Herbst, das sind Ängste und Sorgen, gleichzeitig aber auch Mut und Optimismus, Verteidigung der geltenden Verfassung, Zufriedenheit mit dem Erreichten.
+
+    Mit den Gästen Nicole Jäger, Florian Schroeder und Ralf Senkel sowie natürlich mit Gastgeber Christoph Sieber, mit Karen Dahmen und Philip Simon.
+    HD-Produktion
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1290021
   - 1290173
@@ -821,6 +956,32 @@
   - '16'
   widescreen: true
   subtitled: true
+- eventId: 873772
+  start: 2026-10-18T20:02:00Z
+  stop: 2026-10-18T21:30:00Z
+  title: Der Fall der Gerti B.
+  subtitle: Komödie, Österreich 2019
+  description: |-
+    Drei Freunde aus Floridsdorf - 40 Jahre getrennt und mit Lebenswegen, die unterschiedlicher nicht sein könnten - kommen an einem Abend zusammen, der ihr Schicksal für immer verändern wird.
+
+    Gerti B., Kriminalpolizistin, hat für ihren Beruf fast alles gegeben. Bekommen hat sie dafür eine neue Vorgesetzte, die aussieht wie 18 und alles besser weiß. Franz A. sollte eigentlich Bestatter werden, hat sich aber für eine andere Karriere entschieden.
+    Darsteller:
+    Gerti Bruckner - Susi Stach
+    Franz Aigner - Karl Fischer
+    Jonas Lipansky - Cornelius Obonya
+    Herbert Bruckner - Johannes Silberschneider
+    Gerti Bruckner (jung) - Alice Prosser
+    Franz Aigner (jung) - Lino Gaier
+    Regie: Sascha Bigler
+    Buch/Autor: Sascha Bigler, Axel Götz
+
+    HD-Produktion
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1290051
   - 1290178
@@ -853,6 +1014,30 @@
     HD-Produktion
 - eventId: 873602
   start: 2026-10-18T21:32:00Z
+  stop: 2026-10-18T23:18:00Z
+  title: Die Rache des Tanzlehrers
+  subtitle: Fernsehfilm, Schweden/Deutschland 2004
+  description: |-
+    Kommissar Stefan Lindman hat gerade seinen Vater zu Grabe getragen und will sich bei dem pensionierten Ex-Kollegen Herbert Molin für dessen Kranz bedanken, doch Molin wurde ermordet.
+
+    Markante Blutspuren auf seinem Dielenboden erinnern an eine Reihe von Tanzschritten. Zuständig für diesen Fall ist der hiesige Polizeichef Rundström, der sich jedoch als schlampiger Kriminalist erweist. Lindman nimmt eigene Ermittlungen auf.
+    Darsteller:
+    Stefan Lindman - Jonas Karlsson
+    David Andersson - Göran Graffman
+    Herbert Molin - Peter Kneip
+    Veronica Molin - Lia Boysen
+    Giuseppe Larsson - Douglas Johansson
+    Ingvar Rundström - Mats Bergman
+    Regie: Stephan Apelgren
+    Buch/Autor: Cilla Börjlind, Rolf Börjlind
+
+    HD-Produktion
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+- eventId: 873773
+  start: 2026-10-18T21:32:00Z
   stop: 2026-10-18T23:15:00Z
   title: Die Rache des Tanzlehrers
   subtitle: Fernsehfilm, Schweden/Deutschland 2004
@@ -875,6 +1060,8 @@
   - '16'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1295275
   - 1295993
@@ -896,6 +1083,19 @@
     HD-Produktion
 - eventId: 873608
   start: 2026-10-18T23:18:00Z
+  stop: 2026-10-19T00:01:00Z
+  title: Argentinien (1/4)
+  subtitle: Feuerland und Patagonien
+  description: |-
+    Ushuaia ist die Hauptstadt der Provinz Feuerland und zugleich die südlichste Stadt der Welt. In den Gewässern des Beagle-Kanals spiegeln sich Gletscher, geformt von uralten Eisschilden.
+
+    Mit einer Fläche von 630 Quadratkilometern beherbergt der Nationalpark Tierra del Fuego die südlichsten Wälder der Welt sowie einige der tiefsten Fjorde Argentiniens. Dort stellt sich die Königskrabbenfischerin Liz Consentino den Herausforderungen der stürmischen See.
+    HD-Produktion
+  genre:
+  - '112'
+  widescreen: true
+- eventId: 873774
+  start: 2026-10-18T23:18:00Z
   stop: 2026-10-19T00:00:00Z
   title: Argentinien (1/4)
   subtitle: Feuerland und Patagonien
@@ -907,3 +1107,5 @@
   genre:
   - '112'
   widescreen: true
+  hd: true
+  audiodesc: true
