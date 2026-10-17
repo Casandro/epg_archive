@@ -204,7 +204,7 @@
   description: Ma Misijsku nedjelju donosimo inspirativno svjedočanstvo vjere i misionarskog poziva. U ovoj epizodi fra Ivan Matić razgovara sa sestrom Marijom Veronikom Ćibarić, redovnicom Družbe sestara milosrdnica Vinka Paulskog i misionarkom na Salomonskim Otocima. Rođena je u Janjevu, a potom se s obitelji preselila u Kistanje gdje se počinje buditi njezin poziv na redovnički život. Iako su je misije oduvijek privlačile, ističe da je Bog odredio pravi trenutak za taj korak. Kako ona voli reći, misijski poziv je ,,poziv u pozivu. Pridružite nam se i saznajte kako izgleda život jedne misionarke, te otkrijte više o misijama na Salomonskim Otocima.
 - eventId: 716659
   start: 2026-10-18T07:00:00Z
-  stop: 2026-10-18T07:09:00Z
+  stop: 2026-10-18T07:10:00Z
   title: Živa riječ
   subtitle: Dnevna emisija, kratkog formata, koju vodi i uređuje duhovnik Laudato TV-a, p. Ivan Raljušić, CPPS, pratit će svakoga dana ohrabrujućim mislima odabrani citat nedjeljnog Evanđelja. Emisija će se...
   ageRating: 4
@@ -218,7 +218,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 794919
+- eventId:
+  - 794919
+  - 851619
   start: 2026-10-18T07:10:00Z
   stop: 2026-10-18T07:20:00Z
   title: Vijesti iz Vatikana
@@ -240,6 +242,14 @@
   start: 2026-10-18T07:20:00Z
   stop: 2026-10-18T07:38:00Z
   title: Stihom kroz dušu - Svjetlost je tvoja sjena, Stihom kroz dušu
+  subtitle: Zaronite u svijet duhovne poezije i upoznajte opća mjesta duhovne lirike. S Robertom Kurbašom oživljavamo koloplet domaćih i svjetskih stihova koji dotiču sve generacije.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 851620
+  start: 2026-10-18T07:20:00Z
+  stop: 2026-10-18T07:38:00Z
+  title: Stihom kroz dušu
   subtitle: Zaronite u svijet duhovne poezije i upoznajte opća mjesta duhovne lirike. S Robertom Kurbašom oživljavamo koloplet domaćih i svjetskih stihova koji dotiču sve generacije.
   ageRating: 4
   genre:
@@ -278,9 +288,17 @@
   - 811134
   - 820349
   start: 2026-10-18T08:30:00Z
-  stop: 2026-10-18T09:00:00Z
+  stop: 2026-10-18T08:59:00Z
   title: Vjera i nada
   subtitle: Televizijska emisija "Vjera i nada" vezana je uglavnom uz vjerske teme, a proizvodi je Ured za pastoral u medijima Varaždinske biskupije.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 851621
+  start: 2026-10-18T08:59:00Z
+  stop: 2026-10-18T10:29:00Z
+  title: 'Sveta Misa: Bokšić'
+  subtitle: Pratimo uživo proslavu 100. obljetnice osnutka Župe sv. Petra Apostola u Bokšiću. Svečano euharistijsko slavlje predslavit će požeški biskup mons.
   ageRating: 4
   genre:
   - '160'
@@ -290,6 +308,14 @@
   title: 'Sveta Misa: Bokšić, Sveta Misa: Bokšić'
   subtitle: Pratimo uživo proslavu 100. obljetnice osnutka Župe sv. Petra Apostola u Bokšiću. Svečano euharistijsko slavlje predslavit će požeški biskup mons.
   description: Pratimo uživo proslavu 100. obljetnice osnutka Župe sv. Petra Apostola u Bokšiću. Svečano euharistijsko slavlje predslavit će požeški biskup mons. Ivo Martinović, koji će tom prigodom pohoditi župnu zajednicu i zajedno s vjernicima proslaviti vrijedan jubilej stoljeća života i djelovanja Župe sv. Petra Apostola.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 851622
+  start: 2026-10-18T10:29:00Z
+  stop: 2026-10-18T10:43:00Z
+  title: Devetnica Ivanu Pavlu II.
+  subtitle: Devetnica Ivanu Pavlu II. - molitva
   ageRating: 4
   genre:
   - '160'
@@ -364,20 +390,34 @@
   - '160'
 - eventId: 795007
   start: 2026-10-18T14:55:00Z
-  stop: 2026-10-18T15:50:00Z
+  stop: 2026-10-18T15:47:00Z
   title: In Familia Dei
   subtitle: Donosimo istinite priče bračnih parova i obitelji koje pokazuju kako odluka za kršćanski put i vrijednosti u vezi, braku i obitelji donosi mnoštvo divnih plodova.
   ageRating: 4
   genre:
   - '160'
+- eventId: 851623
+  start: 2026-10-18T15:47:00Z
+  stop: 2026-10-18T15:50:00Z
+  title: Ivona i Marko - Tvoj Trag
+  subtitle: Pjesmu 'Tvoj Trag' donose vam mladi kantautori Ivona i Marko.
+  ageRating: 4
 - eventId: 795008
   start: 2026-10-18T15:50:00Z
-  stop: 2026-10-18T16:30:00Z
+  stop: 2026-10-18T16:29:00Z
   title: Borba se nastavlja, priča o don Danku Litriću
   subtitle: Na Misijsku nedjelju pogledajte film Jakova Sedlara snimljen u Ruandi i Hrvatskoj koji govori o životu i djelovanju najstarijeg hrvatskog misionara u svijetu, don Danka Litrića koji u Ruandi djeluje.
   description: |-
     Borba se nastavlja, priča o don Danku Litriću
     Ususret Misijskoj nedjelji pogledajte film Jakova Sedlara snimljen u Ruandi i Hrvatskoj koji govori o životu i djelovanju najstarijeg hrvatskog misionara u svijetu, don Danka Litrića koji u Ruandi djeluje od 1981. godine. Priča prati njegov ukupan život: od djetinjstva u Žeževici kraj Omiša, preko školovanja, djelovanja u Lijepoj našoj te na kraju o radu u Ruandi gdje postaje legendarnom osobom. Mnogi u toj zemlji smatraju ga živim svecem, jer se radi o osobi koja je ostavila neizbrisiv trag u toj siromašnoj afričkoj zemlji.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 851624
+  start: 2026-10-18T16:29:00Z
+  stop: 2026-10-18T17:25:00Z
+  title: 'Sveta Misa: Karlovac'
+  subtitle: Sveta Misa iz Nacionalnog svetišta svetog Josipa u Karlovcu.
   ageRating: 4
   genre:
   - '160'
@@ -401,12 +441,18 @@
   - '160'
 - eventId: 802481
   start: 2026-10-18T18:15:00Z
-  stop: 2026-10-18T18:30:00Z
+  stop: 2026-10-18T18:26:00Z
   title: Vijesti iz Vatikana
   subtitle: Donosimo najnovije vijesti iz Vatikana, koji predstavlja sjedište Rimokatoličke Crkve. Saznajte sve najvažnije novosti i informirajte se o najbitnijim događajima vezanim uz Crkvu.
   ageRating: 4
   genre:
   - '32'
+- eventId: 851625
+  start: 2026-10-18T18:26:00Z
+  stop: 2026-10-18T18:30:00Z
+  title: Stijepo Gleđ Markos - Hvalospjev Bogu
+  subtitle: Donosimo pjesmu 'Hvalospjev Bogu' u izvedbi hrvatskog tenora Stijepe Gleđa Markosa.
+  ageRating: 4
 - eventId: 713113
   start: 2026-10-18T18:30:00Z
   stop: 2026-10-18T19:35:00Z
@@ -424,6 +470,20 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 851626
+  start: 2026-10-18T19:36:00Z
+  stop: 2026-10-18T19:56:00Z
+  title: Čujte i počujte
+  subtitle: Glazbeno stvaralaštvo Zvjezdana Ružića dobiva novu dimenziju - nakon albuma "A Storm in a Tea Cup" slijedi velika turneja koja objedinjuje njegova tri glazbena projekta.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 851627
+  start: 2026-10-18T19:56:00Z
+  stop: 2026-10-18T20:00:00Z
+  title: Sestre Halužan feat.
+  subtitle: Pjesmu 'Bog će imati zadnju riječ' donose vam Sestre Halužan i bend Cobus.
+  ageRating: 4
 - eventId: 802483
   start: 2026-10-18T20:00:00Z
   stop: 2026-10-18T20:20:00Z
@@ -472,12 +532,26 @@
   - '160'
 - eventId: 837646
   start: 2026-10-18T21:31:00Z
-  stop: 2026-10-18T22:02:00Z
+  stop: 2026-10-18T21:32:00Z
+  title: Osobna posveta Bezgrješnom Srcu Marijinu
+  subtitle: Moliti znači razgovarati s Bogom. Zajedno uz program Laudato TV dodatno osnažite vezu sa svojim Ocem.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 851628
+  start: 2026-10-18T21:32:00Z
+  stop: 2026-10-18T21:56:00Z
   title: Krunica
   subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
   ageRating: 4
   genre:
   - '160'
+- eventId: 851629
+  start: 2026-10-18T21:56:00Z
+  stop: 2026-10-18T22:02:00Z
+  title: Apostoli mira - Majko Božjega sjaja
+  subtitle: Apostoli mira - Majko Božjega sjaja.
+  ageRating: 4
 - eventId: 802528
   start: 2026-10-18T22:01:00Z
   stop: 2026-10-18T22:09:00Z
