@@ -120,13 +120,15 @@
   - '128'
 - eventId: 818550
   start: 2026-10-18T06:30:00Z
-  stop: 2026-10-18T06:40:00Z
+  stop: 2026-10-18T06:35:00Z
   title: Lenina kmetija
   subtitle: Petelin uživa v pozornosti svojih kokoši. A ko Lena posadi lepo rožo, se vse kokoši zagledajo vanjo. Petelin ima novega tekmeca.
   ageRating: 4
   genre:
   - '128'
-- eventId: 818551
+- eventId:
+  - 818551
+  - 852938
   start: 2026-10-18T06:35:00Z
   stop: 2026-10-18T06:50:00Z
   title: Kavboj Vili
@@ -250,7 +252,7 @@
   start: 2026-10-18T10:00:00Z
   stop: 2026-10-18T10:55:00Z
   title: Ljudje in zemlja
-  subtitle: Izobraževalno-svetovalna oddaja Ljudje in zemlja spada med najstarejše na TV Slovenija, namenjena je vsem, ki jih zanimajo kmetijske vsebine.
+  subtitle: Združenje kmečka iniciativa je na Gorenjskem pripravilo protestni shod, na katerem je nekaj deset kmetov zahtevalo pravično razdelitev državnih kmetijskih zemljišč in gozdov.
   ageRating: 4
   genre:
   - '160'
@@ -286,7 +288,9 @@
   ageRating: 4
   genre:
   - '96'
-- eventId: 818567
+- eventId:
+  - 818567
+  - 852939
   start: 2026-10-18T11:30:00Z
   stop: 2026-10-18T13:00:00Z
   title: Nedelja po domače
@@ -310,7 +314,9 @@
   ageRating: 4
   genre:
   - '16'
-- eventId: 818569
+- eventId:
+  - 818569
+  - 852940
   start: 2026-10-18T13:30:00Z
   stop: 2026-10-18T14:55:00Z
   title: Zadnji ples
