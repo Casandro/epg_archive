@@ -3,6 +3,11 @@
   stop: 2026-10-18T00:30:00Z
   title: Jamia Ahmadiyya Sierra Leone
   subtitle: An English documentary about Jamia Ahmadiyya Sierra Leone. Presentation of MTA studios Sierra Leone.
+- eventId: 872395
+  start: 2026-10-18T00:05:00Z
+  stop: 2026-10-18T00:30:01Z
+  title: Jamia Ahmadiyya Sierra Leone
+  subtitle: An English documentary about Jamia Ahmadiyya Sierra Leone. Presentation of MTA studios Sierra Leone.
 - eventId: 857254
   start: 2026-10-18T00:05:01Z
   stop: 2026-10-18T00:30:01Z
@@ -13,7 +18,9 @@
   stop: 2026-10-18T00:50:00Z
   title: World News
   subtitle: MTA International brings you the latest news from around the world.
-- eventId: 857255
+- eventId:
+  - 857255
+  - 872396
   start: 2026-10-18T00:30:01Z
   stop: 2026-10-18T00:50:01Z
   title: World News
@@ -23,7 +30,9 @@
   stop: 2026-10-18T01:04:59Z
   title: Tilawat
   subtitle: Recitation of the Holy Qur'an by Aiman Almaliki. Verses 85-124 of Surah Hood and verses 1-7 of Surah Yoosuf.
-- eventId: 857256
+- eventId:
+  - 857256
+  - 872397
   start: 2026-10-18T00:50:01Z
   stop: 2026-10-18T01:05:01Z
   title: Tilawat
@@ -38,9 +47,19 @@
   stop: 2026-10-18T01:20:02Z
   title: Virtues of Ahmad
   subtitle: An English programme presented by Shakeel Nazir, with panelists explores the remarkable hospitality of the Promised Messiah (as).
+- eventId: 872398
+  start: 2026-10-18T01:05:01Z
+  stop: 2026-10-18T01:20:01Z
+  title: Virtues of Ahmad
+  subtitle: An English programme presented by Shakeel Nazir, with panelists explores the remarkable hospitality of the Promised Messiah (as).
 - eventId: 869014
   start: 2026-10-18T01:20:00Z
   stop: 2026-10-18T01:29:59Z
+  title: Noor-e-Furqan
+  subtitle: An Urdu Tarjumatul Qur'an filler teaching split-word translation and correct pronunciation of the Holy Qur'an, covering the verse 107 of Surah Al-Baqarah.
+- eventId: 872399
+  start: 2026-10-18T01:20:01Z
+  stop: 2026-10-18T01:30:01Z
   title: Noor-e-Furqan
   subtitle: An Urdu Tarjumatul Qur'an filler teaching split-word translation and correct pronunciation of the Holy Qur'an, covering the verse 107 of Surah Al-Baqarah.
 - eventId: 857258
@@ -53,7 +72,9 @@
   stop: 2026-10-18T02:04:59Z
   title: The Golden Age of Islam
   subtitle: A series of English discussion programmes on the life of the Holy Prophet Muhammad (saw). Presentation of MTA International.
-- eventId: 857259
+- eventId:
+  - 857259
+  - 872400
   start: 2026-10-18T01:30:01Z
   stop: 2026-10-18T02:05:01Z
   title: The Golden Age of Islam
@@ -63,7 +84,9 @@
   stop: 2026-10-18T03:04:59Z
   title: Gulshan-e-Waqifaat-e-Nau
   subtitle: An educational class with Hazrat Mirza Masroor Ahmad (may Allah be his Helper) and Lajna members of the Waqfe Nau scheme from Mauritius. Recorded on December 20, 2020.
-- eventId: 857260
+- eventId:
+  - 857260
+  - 872401
   start: 2026-10-18T02:05:01Z
   stop: 2026-10-18T03:05:01Z
   title: Gulshan-e-Waqifaat-e-Nau
@@ -73,7 +96,9 @@
   stop: 2026-10-18T03:51:30Z
   title: Horizons d'Islam
   subtitle: A French programme on issues related to Islam and Ahmadiyyat. Presented by Asif Arif with guests Muhammad Basharat and Hafiz Ehsan Sikandar. Programme no. 16.
-- eventId: 857261
+- eventId:
+  - 857261
+  - 872402
   start: 2026-10-18T03:05:01Z
   stop: 2026-10-18T03:51:32Z
   title: Horizons d'Islam
@@ -83,7 +108,9 @@
   stop: 2026-10-18T04:04:59Z
   title: Nazm
   subtitle: '''Aye Shahe Makki-o-Madani''. An Urdu poem written by Hazrat Mirza Tahir Ahmad, Khalifatul-Masih IV (ra), with the voice of Afshan Malik.'
-- eventId: 857262
+- eventId:
+  - 857262
+  - 872403
   start: 2026-10-18T03:51:32Z
   stop: 2026-10-18T04:05:01Z
   title: Nazm
@@ -93,7 +120,9 @@
   stop: 2026-10-18T04:14:59Z
   title: Al Asma'ul Husna
   subtitle: A series of programmes about the attributes of Allah, based on Friday Sermons by Hazrat Mirza Masroor Ahmad (may Allah be his Helper). This episode is about the attribute 'Al-Bari'.
-- eventId: 857263
+- eventId:
+  - 857263
+  - 872404
   start: 2026-10-18T04:05:01Z
   stop: 2026-10-18T04:15:01Z
   title: Al Asma'ul Husna
@@ -103,7 +132,9 @@
   stop: 2026-10-18T05:11:29Z
   title: Friday Sermon
   subtitle: Friday sermon delivered on October 16, 2026 by the Head of the Ahmadiyya Muslim Community, Hazrat Mirza Masroor Ahmad (may Allah be his Helper), from Masjid Mubarak in Islamabad, Tilford, UK.
-- eventId: 857264
+- eventId:
+  - 857264
+  - 872405
   start: 2026-10-18T04:15:01Z
   stop: 2026-10-18T05:11:31Z
   title: Friday Sermon
@@ -113,7 +144,9 @@
   stop: 2026-10-18T05:19:59Z
   title: Nazm
   subtitle: '''Teri Muhabbat Mein''. An Urdu poem written by Hazrat Musleh Ma''ood (ra), with the voice of Saboor Bhatti.'
-- eventId: 857265
+- eventId:
+  - 857265
+  - 872406
   start: 2026-10-18T05:11:31Z
   stop: 2026-10-18T05:20:00Z
   title: Nazm
@@ -128,8 +161,18 @@
   stop: 2026-10-18T05:34:22Z
   title: Wildlife of Pakistan
   subtitle: An Urdu programme about the wildlife of Pakistan. Today's episode is about lizards.
+- eventId: 872407
+  start: 2026-10-18T05:20:00Z
+  stop: 2026-10-18T05:34:21Z
+  title: Wildlife of Pakistan
+  subtitle: An Urdu programme about the wildlife of Pakistan. Today's episode is about lizards.
 - eventId: 869023
   start: 2026-10-18T05:34:20Z
+  stop: 2026-10-18T06:00:45Z
+  title: Nos Enfants en Islam
+  subtitle: A series of French discussion programme focusing on the Islamic perspective on the upbringing of children. Today?s episode is on how to balance religious and secular education for our children.
+- eventId: 872408
+  start: 2026-10-18T05:34:21Z
   stop: 2026-10-18T06:00:45Z
   title: Nos Enfants en Islam
   subtitle: A series of French discussion programme focusing on the Islamic perspective on the upbringing of children. Today?s episode is on how to balance religious and secular education for our children.
