@@ -296,9 +296,17 @@
   - '33'
 - eventId: 801885
   start: 2026-10-22T17:00:00Z
-  stop: 2026-10-22T17:55:00Z
+  stop: 2026-10-22T17:50:00Z
   title: Správy "N" (295)
   description: ' (2026)'
+  genre:
+  - '33'
+- eventId: 892100
+  start: 2026-10-22T17:50:00Z
+  stop: 2026-10-22T18:10:00Z
+  title: Góly-body-sekundy (295)
+  subtitle: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu.
+  description: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu. (2026)
   genre:
   - '33'
 - eventId: 801886
@@ -311,10 +319,18 @@
   - '33'
 - eventId: 801887
   start: 2026-10-22T18:10:00Z
-  stop: 2026-10-22T18:20:00Z
+  stop: 2026-10-22T18:15:00Z
   title: Počasie (295)
   subtitle: Každý pracovný deň vám prinášame predpoveď počasia.
   description: Každý pracovný deň vám prinášame predpoveď počasia. (2026)
+  genre:
+  - '33'
+- eventId: 892104
+  start: 2026-10-22T18:15:00Z
+  stop: 2026-10-22T19:05:00Z
+  title: Komentáre dňa (120)
+  subtitle: Aktuálne témy z rôznych uhlov pohľadu. Moderovaná diskusia so zaujímavými hosťami.
+  description: Aktuálne témy z rôznych uhlov pohľadu. Moderovaná diskusia so zaujímavými hosťami. (2026)
   genre:
   - '33'
 - eventId: 801888
@@ -343,25 +359,41 @@
   - '33'
 - eventId: 801891
   start: 2026-10-22T20:00:00Z
-  stop: 2026-10-22T20:30:00Z
+  stop: 2026-10-22T20:25:00Z
   title: Správy :24 (289)
   subtitle: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24.
   description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
   genre:
   - '33'
-- eventId: 801892
-  start: 2026-10-22T20:30:00Z
-  stop: 2026-10-22T20:35:00Z
+- eventId: 892105
+  start: 2026-10-22T20:25:00Z
+  stop: 2026-10-22T20:30:00Z
   title: Správy - Hírek (182)
   description: ' (2026)'
   genre:
   - '33'
+- eventId: 801892
+  start: 2026-10-22T20:30:00Z
+  stop: 2026-10-22T20:55:00Z
+  title: Správy - Hírek (182)
+  description: Najdôležitejšie udalosti zo sveta doplnené názormi odborníkov. (2026)
+  genre:
+  - '33'
+  subtitle: Najdôležitejšie udalosti zo sveta doplnené názormi odborníkov.
 - eventId: 801893
   start: 2026-10-22T20:35:00Z
   stop: 2026-10-22T21:05:00Z
   title: Svet :24 (207)
   subtitle: Najdôležitejšie udalosti zo sveta doplnené názormi odborníkov.
   description: Najdôležitejšie udalosti zo sveta doplnené názormi odborníkov. (2026)
+  genre:
+  - '36'
+- eventId: 892106
+  start: 2026-10-22T20:55:00Z
+  stop: 2026-10-22T21:20:00Z
+  title: Interview :24 (195)
+  subtitle: Peter Navrátil. Relácia reaguje na aktuálne alebo nadčasové témy rezonujúce vo verejnom priestore, v politike, na sociálnych sieťach, v médiách. Približuje zaujímavých hostí, osobnosti, ich myšlienky, život.
+  description: Relácia reaguje na aktuálne alebo nadčasové témy rezonujúce vo verejnom priestore, v politike, na sociálnych sieťach, v médiách. Približuje zaujímavých hostí, osobnosti, ich myšlienky, život. Relevantní respondenti tiež môžu hovoriť o najrôznejších spoločensko-politických otázkach. (2026)
   genre:
   - '36'
 - eventId: 802035
@@ -372,6 +404,14 @@
   description: Relácia reaguje na aktuálne alebo nadčasové témy rezonujúce vo verejnom priestore, v politike, na sociálnych sieťach, v médiách. Približuje zaujímavých hostí, osobnosti, ich myšlienky, život. Relevantní respondenti tiež môžu hovoriť o najrôznejších spoločensko-politických otázkach. (2026)
   genre:
   - '36'
+- eventId: 892113
+  start: 2026-10-22T21:20:00Z
+  stop: 2026-10-22T21:50:00Z
+  title: Správy :24 (289)
+  subtitle: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24.
+  description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
+  genre:
+  - '33'
 - eventId: 802036
   start: 2026-10-22T21:30:00Z
   stop: 2026-10-22T22:00:00Z
@@ -380,6 +420,13 @@
   description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
   genre:
   - '33'
+- eventId: 892114
+  start: 2026-10-22T21:50:00Z
+  stop: 2026-10-22T22:00:00Z
+  title: Hymna SR (14)
+  description: ' (2025)'
+  genre:
+  - '32'
 - eventId: 802037
   start: 2026-10-22T22:00:00Z
   stop: 2026-10-22T22:04:00Z
@@ -389,10 +436,17 @@
   - '32'
 - eventId: 802038
   start: 2026-10-22T22:04:00Z
-  stop: 2026-10-22T22:55:00Z
+  stop: 2026-10-22T22:40:00Z
   title: Komentáre dňa (120)
   subtitle: Aktuálne témy z rôznych uhlov pohľadu. Moderovaná diskusia so zaujímavými hosťami.
   description: Aktuálne témy z rôznych uhlov pohľadu. Moderovaná diskusia so zaujímavými hosťami. (2026)
+  genre:
+  - '33'
+- eventId: 892115
+  start: 2026-10-22T22:40:00Z
+  stop: 2026-10-22T23:30:00Z
+  title: Správy "N" (295)
+  description: ' (2026)'
   genre:
   - '33'
 - eventId: 802039
@@ -400,6 +454,14 @@
   stop: 2026-10-22T23:45:00Z
   title: Správy "N" (295)
   description: ' (2026)'
+  genre:
+  - '33'
+- eventId: 892116
+  start: 2026-10-22T23:30:00Z
+  stop: 2026-10-22T23:55:00Z
+  title: Ekonomika :24 (159)
+  subtitle: Všetko dôležité z oblasti ekonomiky na jednom mieste.
+  description: Všetko dôležité z oblasti ekonomiky na jednom mieste. (2026)
   genre:
   - '33'
 - eventId: 802040
@@ -410,3 +472,11 @@
   description: Všetko dôležité z oblasti ekonomiky na jednom mieste. (2026)
   genre:
   - '33'
+- eventId: 892117
+  start: 2026-10-22T23:55:00Z
+  stop: 2026-10-23T00:20:00Z
+  title: Svet :24 (207)
+  subtitle: Najdôležitejšie udalosti zo sveta doplnené názormi odborníkov.
+  description: Najdôležitejšie udalosti zo sveta doplnené názormi odborníkov. (2026)
+  genre:
+  - '36'
