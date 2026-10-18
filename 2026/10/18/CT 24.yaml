@@ -947,7 +947,7 @@
   - 678944
   - 685954
   start: 2026-10-18T17:00:00Z
-  stop: 2026-10-18T17:50:00Z
+  stop: 2026-10-18T17:50:05Z
   title: Události
   subtitle: Hlavní zpravodajská relace České televize. Souhrn nejdůležitějších událostí dne v ČR i ve světě.
   description: |-
@@ -972,6 +972,14 @@
   - '33'
   widescreen: true
   hd: true
+- eventId: 897812
+  start: 2026-10-18T17:50:05Z
+  stop: 2026-10-18T17:52:00Z
+  title: Počasí v evropských metropolích
+  description: HDTV
+  genre:
+  - '33'
+  widescreen: true
 - eventId:
   - 678946
   - 685956
@@ -1003,7 +1011,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 897536
+- eventId:
+  - 897536
+  - 897779
   start: 2026-10-18T18:05:01Z
   stop: 2026-10-18T18:10:05Z
   title: Předpověď počasí
@@ -1030,7 +1040,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 897537
+- eventId:
+  - 897537
+  - 897780
   start: 2026-10-18T18:10:05Z
   stop: 2026-10-18T19:30:00Z
   title: 'Speciál ČT24: Česká politika po volbách'
@@ -1057,7 +1069,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 897552
+- eventId:
+  - 897552
+  - 897781
   start: 2026-10-18T19:30:05Z
   stop: 2026-10-18T20:00:00Z
   title: Newsroom ČT24
@@ -1116,6 +1130,7 @@
 - eventId:
   - 890133
   - 897554
+  - 897789
   start: 2026-10-18T21:05:00Z
   stop: 2026-10-18T21:31:00Z
   title: Zprávy ve 23
@@ -1147,6 +1162,7 @@
   - 889703
   - 889793
   - 890119
+  - 897790
   start: 2026-10-18T21:31:00Z
   stop: 2026-10-18T22:00:00Z
   title: Interview ČT24
