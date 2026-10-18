@@ -110,7 +110,9 @@
   genre:
   - '144'
   subtitled: true
-- eventId: 901015
+- eventId:
+  - 901015
+  - 901266
   start: 2026-10-18T22:00:00Z
   stop: 2026-10-18T22:30:00Z
   title: NEWS LIVE
@@ -118,4 +120,13 @@
   description: EN DIRECT.  Journal - 2026. 19 Oct 2026 show. Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
   genre:
   - '144'
+  subtitled: true
+- eventId: 901271
+  start: 2026-10-18T22:30:00Z
+  stop: 2026-10-18T23:00:00Z
+  title: ECHOES OF A LOST GAZA
+  subtitle: Doc. Histoire - 2024 - Qatar. Shattered Dreams.
+  description: Doc. Histoire - 2024 - Qatar. Shattered Dreams. Documentary filmmaker Mariam Shahin looks back at how the blockade and successive conflicts have reduced the hopes and dreams of people in Gaza to rubble.
+  genre:
+  - '71'
   subtitled: true
