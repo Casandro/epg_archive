@@ -1890,7 +1890,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 901048
+- eventId:
+  - 901048
+  - 901953
   start: 2026-10-18T23:07:00Z
   stop: 2026-10-18T23:55:00Z
   title: Dnevnik 2
@@ -1906,6 +1908,12 @@
   start: 2026-10-18T23:57:00Z
   stop: 2026-10-18T23:59:00Z
   title: Vrijeme Europa danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+- eventId: 901954
+  start: 2026-10-18T23:57:00Z
+  stop: 2026-10-18T23:59:00Z
+  title: Vrijeme RH danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 852586
