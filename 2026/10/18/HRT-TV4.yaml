@@ -1664,6 +1664,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 899606
+  start: 2026-10-18T20:02:00Z
+  stop: 2026-10-18T20:43:00Z
+  title: Intervju tjedna
+  subtitle: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 899201
   start: 2026-10-18T20:03:00Z
   stop: 2026-10-18T20:43:00Z
@@ -1672,7 +1680,7 @@
   description: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
 - eventId: 820316
   start: 2026-10-18T20:43:00Z
-  stop: 2026-10-18T21:04:00Z
+  stop: 2026-10-18T21:03:00Z
   title: 'Studio 4: U fokusu'
   subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
@@ -1688,13 +1696,23 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 899607
+  start: 2026-10-18T21:03:00Z
+  stop: 2026-10-18T21:06:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 899202
   start: 2026-10-18T21:04:00Z
   stop: 2026-10-18T21:07:00Z
   title: '#REPORTAŽE: Tata i kćer umjetnici'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 824490
+- eventId:
+  - 824490
+  - 899608
   start: 2026-10-18T21:06:00Z
   stop: 2026-10-18T21:10:00Z
   title: Bez komentara
@@ -1711,7 +1729,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 822042
   start: 2026-10-18T21:10:00Z
-  stop: 2026-10-18T21:19:00Z
+  stop: 2026-10-18T21:20:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -1724,7 +1742,9 @@
   title: Vijesti na španjolskom jeziku
   subtitle: ' '
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 822043
+- eventId:
+  - 822043
+  - 899609
   start: 2026-10-18T21:20:00Z
   stop: 2026-10-18T21:30:00Z
   title: Vijesti na španjolskom jeziku
@@ -1739,7 +1759,9 @@
   title: 'Studio 4: Jutarnji intervju'
   subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 822044
+- eventId:
+  - 822044
+  - 899610
   start: 2026-10-18T21:30:00Z
   stop: 2026-10-18T21:50:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -1757,13 +1779,23 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 899611
+  start: 2026-10-18T21:50:00Z
+  stop: 2026-10-18T21:55:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 899206
   start: 2026-10-18T21:53:00Z
   stop: 2026-10-18T21:59:00Z
   title: '#REPORTAŽE: ADHD'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 824491
+- eventId:
+  - 824491
+  - 899612
   start: 2026-10-18T21:55:00Z
   stop: 2026-10-18T22:00:00Z
   title: Bez komentara
@@ -1844,14 +1876,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 852586
   start: 2026-10-18T23:58:00Z
-  stop: 2026-10-19T00:00:00Z
+  stop: 2026-10-18T23:59:00Z
   title: Vrijeme svijet danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
-- eventId: 852587
+- eventId:
+  - 852587
+  - 899613
   start: 2026-10-18T23:59:00Z
   stop: 2026-10-19T00:00:00Z
   title: Vrijeme Europa danas
