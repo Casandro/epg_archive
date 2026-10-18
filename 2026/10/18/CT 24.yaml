@@ -736,6 +736,7 @@
 - eventId:
   - 678937
   - 685842
+  - 890112
   start: 2026-10-18T14:03:00Z
   stop: 2026-10-18T15:00:00Z
   title: Studio ČT24
@@ -790,6 +791,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 890131
+  start: 2026-10-18T15:05:00Z
+  stop: 2026-10-18T15:55:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 678940
   - 685950
@@ -824,6 +836,20 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 890132
+  start: 2026-10-18T16:00:00Z
+  stop: 2026-10-18T16:28:00Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 678942
   - 685952
@@ -842,6 +868,7 @@
 - eventId:
   - 889700
   - 889790
+  - 890115
   start: 2026-10-18T16:28:00Z
   stop: 2026-10-18T16:55:00Z
   title: Interview ČT24
@@ -1007,6 +1034,19 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 890133
+  start: 2026-10-18T21:05:00Z
+  stop: 2026-10-18T21:31:00Z
+  title: Zprávy ve 23
+  subtitle: Nejdůležitější události dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 678953
   - 686080
@@ -1025,6 +1065,7 @@
 - eventId:
   - 889703
   - 889793
+  - 890119
   start: 2026-10-18T21:31:00Z
   stop: 2026-10-18T22:00:00Z
   title: Interview ČT24
