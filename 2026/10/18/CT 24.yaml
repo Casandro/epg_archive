@@ -635,7 +635,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 889214
+- eventId:
+  - 889214
+  - 889313
   start: 2026-10-18T11:00:03Z
   stop: 2026-10-18T12:00:00Z
   title: Nedělní debata
@@ -703,6 +705,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 889318
+  start: 2026-10-18T13:05:00Z
+  stop: 2026-10-18T14:00:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 678936
   - 685841
