@@ -86,6 +86,7 @@
   - 927316
   - 928544
   - 929093
+  - 929677
   start: 2026-10-20T00:30:00Z
   stop: 2026-10-20T02:00:00Z
   title: Pastel
@@ -174,6 +175,7 @@
   - 927317
   - 928545
   - 929094
+  - 929678
   start: 2026-10-20T02:30:00Z
   stop: 2026-10-20T03:30:00Z
   title: Reportazhe
@@ -290,6 +292,7 @@
   - 927318
   - 928546
   - 929095
+  - 929679
   start: 2026-10-20T03:30:00Z
   stop: 2026-10-20T04:10:00Z
   title: Çikat n'Trip
@@ -370,6 +373,7 @@
   - 927319
   - 928547
   - 929096
+  - 929680
   start: 2026-10-20T04:10:00Z
   stop: 2026-10-20T04:40:00Z
   title: Muzike Top 10
@@ -414,6 +418,7 @@
   - 927320
   - 928548
   - 929097
+  - 929681
   start: 2026-10-20T04:40:00Z
   stop: 2026-10-20T05:00:00Z
   title: Muzikë për fëmijë
@@ -464,7 +469,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 928549
+- eventId:
+  - 928549
+  - 929682
   start: 2026-10-20T05:00:00Z
   stop: 2026-10-20T07:00:00Z
   title: Pastel
@@ -653,6 +660,7 @@
   - 927322
   - 928550
   - 929099
+  - 929683
   start: 2026-10-20T07:05:00Z
   stop: 2026-10-20T09:00:00Z
   title: Programi i mëngjesit
@@ -811,7 +819,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 928551
+- eventId:
+  - 928551
+  - 929684
   start: 2026-10-20T09:00:00Z
   stop: 2026-10-20T10:10:00Z
   title: Daily Click
@@ -1000,6 +1010,7 @@
   - 927324
   - 928552
   - 929101
+  - 929685
   start: 2026-10-20T10:15:00Z
   stop: 2026-10-20T10:35:00Z
   title: Muzikë argëtuese
@@ -1050,7 +1061,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 928553
+- eventId:
+  - 928553
+  - 929686
   start: 2026-10-20T10:35:00Z
   stop: 2026-10-20T11:10:00Z
   title: Farewell Letter
@@ -1173,7 +1186,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 928554
+- eventId:
+  - 928554
+  - 929687
   start: 2026-10-20T11:15:00Z
   stop: 2026-10-20T12:30:00Z
   title: Reportazhe
@@ -1295,6 +1310,7 @@
   - 927327
   - 928555
   - 929104
+  - 929688
   start: 2026-10-20T12:35:00Z
   stop: 2026-10-20T12:55:00Z
   title: Promo
@@ -1339,6 +1355,7 @@
   - 927328
   - 928556
   - 929105
+  - 929689
   start: 2026-10-20T12:55:00Z
   stop: 2026-10-20T13:00:00Z
   title: Promo
@@ -1384,7 +1401,7 @@
   subtitle: ' ... '
 - eventId: 836186
   start: 2026-10-20T13:00:00Z
-  stop: 2026-10-20T13:10:00Z
+  stop: 2026-10-20T13:20:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -1463,6 +1480,7 @@
   - 927329
   - 928557
   - 929106
+  - 929690
   start: 2026-10-20T13:20:00Z
   stop: 2026-10-20T13:30:00Z
   title: Promo
@@ -1507,6 +1525,7 @@
   - 927330
   - 928558
   - 929107
+  - 929691
   start: 2026-10-20T13:30:00Z
   stop: 2026-10-20T14:00:00Z
   title: Reportazhe
@@ -1529,7 +1548,7 @@
   subtitle: ' ... '
 - eventId: 836190
   start: 2026-10-20T15:00:00Z
-  stop: 2026-10-20T15:10:00Z
+  stop: 2026-10-20T15:55:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -1610,6 +1629,7 @@
   - 927194
   - 928559
   - 929108
+  - 929692
   start: 2026-10-20T15:55:00Z
   stop: 2026-10-20T16:00:00Z
   title: Promo
@@ -1655,6 +1675,7 @@
   - 927195
   - 928560
   - 929109
+  - 929693
   start: 2026-10-20T16:00:00Z
   stop: 2026-10-20T16:30:00Z
   title: Reportazhe
@@ -1709,7 +1730,7 @@
   - '32'
 - eventId: 836194
   start: 2026-10-20T17:00:00Z
-  stop: 2026-10-20T18:00:00Z
+  stop: 2026-10-20T17:10:00Z
   title: CAMPION LA MICROFON
   subtitle: '  '
   ageRating: 4
@@ -1753,6 +1774,7 @@
   - 927196
   - 928561
   - 929110
+  - 929694
   start: 2026-10-20T17:10:00Z
   stop: 2026-10-20T17:20:00Z
   title: 10 minuta
@@ -1798,6 +1820,7 @@
   - 927197
   - 928562
   - 929111
+  - 929695
   start: 2026-10-20T17:20:00Z
   stop: 2026-10-20T17:30:00Z
   title: Promo
@@ -1843,6 +1866,7 @@
   - 927198
   - 928563
   - 929112
+  - 929696
   start: 2026-10-20T17:30:00Z
   stop: 2026-10-20T18:00:00Z
   title: Live News MK
@@ -1852,7 +1876,7 @@
   - '32'
 - eventId: 836195
   start: 2026-10-20T18:00:00Z
-  stop: 2026-10-20T18:10:00Z
+  stop: 2026-10-20T18:45:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -1933,6 +1957,7 @@
   - 927199
   - 928564
   - 929113
+  - 929697
   start: 2026-10-20T18:45:00Z
   stop: 2026-10-20T19:30:00Z
   title: Firefly
@@ -2019,6 +2044,7 @@
   - 927200
   - 928565
   - 929114
+  - 929698
   start: 2026-10-20T19:30:00Z
   stop: 2026-10-20T20:55:00Z
   title: Film artistik
@@ -2036,7 +2062,7 @@
   - '160'
 - eventId: 836198
   start: 2026-10-20T21:00:00Z
-  stop: 2026-10-20T22:00:00Z
+  stop: 2026-10-20T21:20:00Z
   title: Live News MK
   subtitle: ' Preluare TVR Iasi   (Reluare)'
   ageRating: 4
@@ -2081,6 +2107,14 @@
   - 929115
   start: 2026-10-20T21:20:00Z
   stop: 2026-10-20T22:05:00Z
+  title: Farewell Letter
+  subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 929699
+  start: 2026-10-20T21:20:00Z
+  stop: 2026-10-20T22:00:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -2160,6 +2194,7 @@
   - 926288
   - 927202
   - 929116
+  - 929700
   start: 2026-10-20T22:05:00Z
   stop: 2026-10-20T23:25:00Z
   title: Click Plus
@@ -2204,6 +2239,7 @@
   - 926289
   - 927203
   - 929117
+  - 929701
   start: 2026-10-20T23:25:00Z
   stop: 2026-10-21T01:25:00Z
   title: Pastel
