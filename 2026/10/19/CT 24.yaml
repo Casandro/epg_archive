@@ -1027,7 +1027,7 @@
   - 709202
   - 728353
   start: 2026-10-19T17:00:00Z
-  stop: 2026-10-19T17:54:00Z
+  stop: 2026-10-19T17:54:07Z
   title: Události
   subtitle: Hlavní zpravodajská relace České televize. Souhrn nejdůležitějších událostí dne v ČR i ve světě.
   description: |-
@@ -1052,7 +1052,9 @@
   - '33'
   widescreen: true
   hd: true
-- eventId: 926180
+- eventId:
+  - 926180
+  - 926220
   start: 2026-10-19T17:54:07Z
   stop: 2026-10-19T17:56:00Z
   title: Počasí v evropských metropolích
@@ -1064,7 +1066,7 @@
   - 709204
   - 728355
   start: 2026-10-19T17:56:00Z
-  stop: 2026-10-19T18:07:00Z
+  stop: 2026-10-19T18:06:57Z
   title: Branky, body, vteřiny
   description: |-
     HDTV
@@ -1089,6 +1091,18 @@
   - '35'
   widescreen: true
 - eventId: 926181
+  start: 2026-10-19T18:06:57Z
+  stop: 2026-10-19T19:29:57Z
+  title: 90' ČT24
+  subtitle: 'Témata: Výsledky Senátních voleb; Vzestup STAN; Byly volby referendum o vládě?; Masivní víkendové protesty ve Francii; Míla Fürstová - Wings of Whisper. Hosté: P. Kamberský, O. Leinert, P. Honzejk, K. Jelínková,'
+  description: |-
+    P. Koubská, M. Fürstová. Moderuje: J. Musil.
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 926221
   start: 2026-10-19T18:06:57Z
   stop: 2026-10-19T19:30:00Z
   title: 90' ČT24
@@ -1116,6 +1130,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 926397
+  start: 2026-10-19T19:29:57Z
+  stop: 2026-10-19T20:00:00Z
+  title: Horizont ČT24
+  subtitle: Pořad zahraniční redakce o dění ve světě. Klade důraz na původní tvorbu vlastních zpravodajů a bohaté agenturní zpravodajství, využívá nejmodernější postupy, televizní žánry i technologie.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 709206
   - 728357
