@@ -236,7 +236,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 920312
+- eventId:
+  - 920312
+  - 920425
   start: 2026-10-31T15:00:00Z
   stop: 2026-10-31T15:30:00Z
   title: Ländermagazin
@@ -245,6 +247,9 @@
   genre:
   - '32'
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1456624
   - 632718
@@ -337,12 +342,14 @@
   start: 2026-10-31T19:15:00Z
   stop: 2026-10-31T20:50:00Z
   title: Die Geschichte vom Brandner Kaspar
-  subtitle: DE
+  subtitle: Spielfilm Deutschland 2008
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
   ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 1456652
   - 632897
@@ -350,12 +357,14 @@
   start: 2026-10-31T20:50:00Z
   stop: 2026-10-31T22:10:00Z
   title: Der Boandlkramer und die ewige Liebe
-  subtitle: DE/DE
+  subtitle: Spielfilm Deutschland 2020
   ageRating: 6
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1456661
   - 632990
@@ -363,11 +372,13 @@
   start: 2026-10-31T22:10:00Z
   stop: 2026-10-31T23:45:00Z
   title: Die große Schlacht des Don Camillo
-  subtitle: IT
+  subtitle: Spielfilm Italien 1955
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1456662
   - 632991
@@ -375,10 +386,11 @@
   start: 2026-10-31T23:45:00Z
   stop: 2026-11-01T01:15:00Z
   title: Manche mögen's glücklich
-  subtitle: Spielfilm Deutschland 2011
+  subtitle: Fernsehfilm Deutschland 2011
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6

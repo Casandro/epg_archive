@@ -5,12 +5,14 @@
   start: 2026-11-01T01:15:00Z
   stop: 2026-11-01T02:40:00Z
   title: Lucia und der Weihnachtsmann
-  subtitle: Dänemark
+  subtitle: Fernsehfilm Dänemark 2018
   ageRating: 6
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1483015
   - 633102
@@ -88,7 +90,7 @@
   - 704849
   start: 2026-11-01T06:30:00Z
   stop: 2026-11-01T06:45:00Z
-  title: Tele-Gym (7)
+  title: Tele-Gym (7/8)
   subtitle: Yoga-Pilates-50plus
   widescreen: true
   subtitled: true
@@ -113,7 +115,7 @@
   start: 2026-11-01T07:25:00Z
   stop: 2026-11-01T09:00:00Z
   title: Das Blubbern von Glück
-  subtitle: AU
+  subtitle: Spielfilm Australien 2019
   ageRating: 6
   widescreen: true
   subtitled: true
@@ -133,21 +135,13 @@
   hd: true
   audiodesc: true
   subtitle: Bach-Motette mit dem BR-Chor
-- eventId: 1530875
-  start: 2026-11-01T09:20:00Z
-  stop: 2026-11-01T09:45:00Z
-  title: 'Solomon''s Knot: Bach-Kantate "Es erhub sich ein Streit" BWV 19'
-  subtitle: Große Nürnberger Musiknacht von BR Klassik und Musikfest ION
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
+  - 1530875
   - 633555
   - 704924
   start: 2026-11-01T09:20:00Z
   stop: 2026-11-01T09:45:00Z
-  title: 'Solomon''s Knot: Bach-Kantate "Es erhub sich ein Streit" BWV'
+  title: 'Solomon''s Knot: Bach-Kantate "Es erhub sich ein Streit" BWV 19'
   subtitle: Große Nürnberger Musiknacht von BR Klassik und Musikfest ION
   widescreen: true
   subtitled: true
@@ -374,9 +368,11 @@
   start: 2026-11-01T22:25:00Z
   stop: 2026-11-02T00:00:00Z
   title: Die Geschichte vom Brandner Kaspar
-  subtitle: DE
+  subtitle: Spielfilm Deutschland 2008
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
   ageRating: 6
+  genre:
+  - '16'

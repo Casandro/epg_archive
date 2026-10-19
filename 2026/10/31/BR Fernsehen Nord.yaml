@@ -11,6 +11,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1456466
   - 631845
@@ -95,6 +97,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 1456524
   - 632157
@@ -195,6 +199,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 1456587
   - 632489
@@ -212,7 +217,7 @@
   - 632490
   - 676854
   start: 2026-10-31T13:00:00Z
-  stop: 2026-10-31T14:45:00Z
+  stop: 2026-10-31T15:00:00Z
   title: Blickpunkt Sport live
   subtitle: 'Fußball 3. Liga: SSV Jahn Regensburg - FC Hansa Rostock'
   widescreen: true
@@ -231,11 +236,20 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 920313
+- eventId:
+  - 920313
+  - 920424
   start: 2026-10-31T15:00:00Z
   stop: 2026-10-31T15:30:00Z
   title: Ländermagazin
   subtitle: Nationalpark Bayerischer Wald
+  ageRating: 6
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1456614
   - 632662
@@ -328,12 +342,14 @@
   start: 2026-10-31T19:15:00Z
   stop: 2026-10-31T20:50:00Z
   title: Die Geschichte vom Brandner Kaspar
-  subtitle: DE
+  subtitle: Spielfilm Deutschland 2008
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
   ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 1456645
   - 632844
@@ -341,12 +357,14 @@
   start: 2026-10-31T20:50:00Z
   stop: 2026-10-31T22:10:00Z
   title: Der Boandlkramer und die ewige Liebe
-  subtitle: DE/DE
+  subtitle: Spielfilm Deutschland 2020
   ageRating: 6
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1456658
   - 632966
@@ -354,11 +372,13 @@
   start: 2026-10-31T22:10:00Z
   stop: 2026-10-31T23:45:00Z
   title: Die große Schlacht des Don Camillo
-  subtitle: IT
+  subtitle: Spielfilm Italien 1955
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1456659
   - 632967
@@ -366,10 +386,11 @@
   start: 2026-10-31T23:45:00Z
   stop: 2026-11-01T01:15:00Z
   title: Manche mögen's glücklich
-  subtitle: Spielfilm Deutschland 2011
+  subtitle: Fernsehfilm Deutschland 2011
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
