@@ -1117,6 +1117,7 @@
 - eventId:
   - 709205
   - 728356
+  - 927682
   start: 2026-10-19T18:07:00Z
   stop: 2026-10-19T19:30:00Z
   title: 90' ČT24
@@ -1144,6 +1145,7 @@
 - eventId:
   - 709206
   - 728357
+  - 927685
   start: 2026-10-19T19:30:00Z
   stop: 2026-10-19T20:00:00Z
   title: Horizont ČT24
@@ -1201,6 +1203,28 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 927695
+  start: 2026-10-19T21:07:26Z
+  stop: 2026-10-19T21:30:23Z
+  title: Zprávy ve 23
+  subtitle: Nejdůležitější události dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+- eventId: 927696
+  start: 2026-10-19T21:30:23Z
+  stop: 2026-10-19T22:00:00Z
+  title: Interview ČT24
+  subtitle: Profilový rozhovor s významnou osobností, která má co říci k aktuálnímu dění v ČR nebo ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 709210
   - 728361
