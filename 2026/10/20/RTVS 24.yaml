@@ -372,7 +372,7 @@
   - '33'
 - eventId: 750240
   start: 2026-10-20T17:00:00Z
-  stop: 2026-10-20T17:50:00Z
+  stop: 2026-10-20T17:55:00Z
   title: Správy "N" (293)
   description: ' (2026)'
   genre:
@@ -385,17 +385,11 @@
   description: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu. (2026)
   genre:
   - '33'
-- eventId: 750241
+- eventId:
+  - 750241
+  - 923390
   start: 2026-10-20T17:55:00Z
   stop: 2026-10-20T18:10:00Z
-  title: Góly-body-sekundy (293)
-  subtitle: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu.
-  description: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu. (2026)
-  genre:
-  - '33'
-- eventId: 923390
-  start: 2026-10-20T17:55:00Z
-  stop: 2026-10-20T18:15:00Z
   title: Góly-body-sekundy (293)
   subtitle: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu.
   description: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu. (2026)
@@ -409,7 +403,9 @@
   description: Každý pracovný deň vám prinášame predpoveď počasia. (2026)
   genre:
   - '33'
-- eventId: 752357
+- eventId:
+  - 752357
+  - 925563
   start: 2026-10-20T18:10:00Z
   stop: 2026-10-20T18:20:00Z
   title: Počasie (293)
@@ -479,6 +475,14 @@
   description: OSEMDESIATROČNÝ ÚČET:Pred osemdesiatimi rokmi zaplatili vyše pol milióna korún za les, aby mali kde hospodáriť. Dnes doň nemôžu pomaly ani vstúpiť. Lesy SR totiž zažalovali Lesné spoločenstvo Zohor, ktoré združuje 150 podielnikov. Vyhlasujú, že lesy im nikdy nepatrili. Odvolávajú sa na povojnové Benešove dekréty a tvrdia, že kúpna zmluva z roku 1945 mala formálne chyby. Ako je možné, že štát po 80-tich rokoch spochybňuje list vlastníctva a občanov vyháňa z pozemkov? (2026)
   genre:
   - '32'
+- eventId: 925564
+  start: 2026-10-20T21:00:00Z
+  stop: 2026-10-20T21:25:00Z
+  title: Reportéri (26)
+  subtitle: Aktuálna, analytická a investigatívna publicistika. Zaujímavé témy, kauzy, príbehy, exkluzívne rozhovory.
+  description: OSEMDESIATROČNÝ ÚČET:Pred osemdesiatimi rokmi zaplatili vyše pol milióna korún za les, aby mali kde hospodáriť. Dnes doň nemôžu pomaly ani vstúpiť. Lesy SR totiž zažalovali Lesné spoločenstvo Zohor, ktoré združuje 150 podielnikov. Vyhlasujú, že lesy im nikdy nepatrili. Odvolávajú sa na povojnové Benešove dekréty a tvrdia, že kúpna zmluva z roku 1945 mala formálne chyby. Ako je možné, že štát po 80-tich rokoch spochybňuje list vlastníctva a občanov vyháňa z pozemkov? (2026)
+  genre:
+  - '32'
 - eventId: 801845
   start: 2026-10-20T21:25:00Z
   stop: 2026-10-20T21:50:00Z
@@ -518,6 +522,14 @@
   description: Diskusná rozhlasová relácia o aktuálnych témach. (2026)
   genre:
   - '33'
+- eventId: 925565
+  start: 2026-10-20T21:55:00Z
+  stop: 2026-10-20T22:02:00Z
+  title: Počasie (293)
+  subtitle: Každý pracovný deň vám prinášame predpoveď počasia.
+  description: Každý pracovný deň vám prinášame predpoveď počasia. (2026)
+  genre:
+  - '33'
 - eventId: 752366
   start: 2026-10-20T22:00:00Z
   stop: 2026-10-20T22:03:00Z
@@ -533,9 +545,24 @@
   description: Diskusná rozhlasová relácia o aktuálnych témach. (2026)
   genre:
   - '33'
+- eventId: 925566
+  start: 2026-10-20T22:02:00Z
+  stop: 2026-10-20T22:04:00Z
+  title: Hymna SR (14)
+  description: ' (2025)'
+  genre:
+  - '32'
 - eventId: 752367
   start: 2026-10-20T22:03:00Z
   stop: 2026-10-20T22:30:00Z
+  title: Z prvej ruky (162)
+  subtitle: Diskusná rozhlasová relácia o aktuálnych témach.
+  description: Diskusná rozhlasová relácia o aktuálnych témach. (2026)
+  genre:
+  - '33'
+- eventId: 925567
+  start: 2026-10-20T22:04:00Z
+  stop: 2026-10-20T22:25:00Z
   title: Z prvej ruky (162)
   subtitle: Diskusná rozhlasová relácia o aktuálnych témach.
   description: Diskusná rozhlasová relácia o aktuálnych témach. (2026)
@@ -557,6 +584,14 @@
   description: Interview :24 reaguje na aktuálne alebo nadčasové témy rezonujúce vo verejnom priestore, v politike, na sociálnych sieťach, v médiách. Približuje zaujímavých hostí, osobnosti, ich myšlienky, život. Relevantní respondenti tiež môžu hovoriť o najrôznejších spoločensko-politických otázkach. (2025)
   genre:
   - '36'
+- eventId: 925568
+  start: 2026-10-20T22:30:00Z
+  stop: 2026-10-20T23:00:00Z
+  title: Ekonomika :24 (157)
+  subtitle: Všetko dôležité z oblasti ekonomiky na jednom mieste.
+  description: Všetko dôležité z oblasti ekonomiky na jednom mieste. (2026)
+  genre:
+  - '33'
 - eventId: 801849
   start: 2026-10-20T22:50:00Z
   stop: 2026-10-20T23:40:00Z
