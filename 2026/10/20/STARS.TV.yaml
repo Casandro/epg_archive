@@ -1,6 +1,6 @@
 - eventId: 773834
   start: 2026-10-20T01:00:00Z
-  stop: 2026-10-20T05:00:00Z
+  stop: 2026-10-20T04:00:00Z
   title: Best polish
   subtitle: Program prezentuje zestawienie najlepszych przebojów w wykonaniu artystów i zespołów polskiej sceny muzycznej.
   description: |-
@@ -10,7 +10,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 773835
+- eventId:
+  - 773835
+  - 925248
   start: 2026-10-20T04:00:00Z
   stop: 2026-10-20T05:00:00Z
   title: Best polish
