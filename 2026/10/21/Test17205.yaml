@@ -91,7 +91,7 @@
   hd: true
 - eventId: 847094
   start: 2026-10-21T04:05:00Z
-  stop: 2026-10-21T04:35:00Z
+  stop: 2026-10-21T05:00:00Z
   title: 19h30 - Signé
   description: (Rediffusion)  "Langue des signes"
   genre:
@@ -110,7 +110,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 783468
+- eventId:
+  - 783468
+  - 923581
   start: 2026-10-21T05:00:00Z
   stop: 2026-10-21T06:00:00Z
   title: La Matinale
@@ -258,12 +260,22 @@
   hd: true
 - eventId: 783508
   start: 2026-10-21T14:45:00Z
-  stop: 2026-10-21T15:30:00Z
+  stop: 2026-10-21T15:25:00Z
   title: RTS Info
   subtitle: L'actualité en continu
   description: En direct.
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 923658
+  start: 2026-10-21T15:25:00Z
+  stop: 2026-10-21T16:00:00Z
+  title: Geopolitis
+  description: Espagne, le pari de Sánchez En Espagne, l'importante crise du logement provoque la tenue d'élections législatives anticipées, nouveau coup de poker d'un Premier ministre fragilisé. A l'international, Pedro Sánchez représente pour ses alliés une voix affirmée et courageuse mais de quelle manière porte-t-elle ?  (Suisse Romande-2026)
+  genre:
+  - '128'
   widescreen: true
   subtitled: true
   hd: true
@@ -328,9 +340,19 @@
   hd: true
 - eventId: 811742
   start: 2026-10-21T21:37:00Z
-  stop: 2026-10-21T21:45:00Z
+  stop: 2026-10-21T21:40:00Z
   title: Swiss Loto
   widescreen: true
+  hd: true
+- eventId: 923582
+  start: 2026-10-21T21:40:00Z
+  stop: 2026-10-21T23:01:00Z
+  title: Documentaires
+  description: 'Moi-même en mieux Dans une salle de fitness, des corps en effort, des destins qui se croisent. Ce film plonge dans l''intimité d''un club où se reflètent nos obsessions contemporaines : culte du corps, bien-être et peur de vieillir. Une exploration de la résilience humaine. (Suisse Romande-2026)'
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 811743
   start: 2026-10-21T21:45:00Z
