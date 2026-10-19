@@ -4,7 +4,9 @@
   title: Vrijeme Europa danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 928731
+- eventId:
+  - 928731
+  - 928855
   start: 2026-10-20T00:00:00Z
   stop: 2026-10-20T00:01:00Z
   title: Vrijeme RH danas
@@ -31,7 +33,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 928732
+- eventId:
+  - 928732
+  - 928856
   start: 2026-10-20T00:03:00Z
   stop: 2026-10-20T00:05:00Z
   title: Vrijeme svijet danas
@@ -46,7 +50,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 928733
+- eventId:
+  - 928733
+  - 928857
   start: 2026-10-20T00:05:00Z
   stop: 2026-10-20T00:24:00Z
   title: 'Studio 4: Intervju'
@@ -77,7 +83,9 @@
   title: '#REPORTAŽE: Amerikanka u Zagrebu'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 928734
+- eventId:
+  - 928734
+  - 928858
   start: 2026-10-20T00:26:00Z
   stop: 2026-10-20T00:30:00Z
   title: '#REPORTAŽE: Amerikanka u Zagrebu'
@@ -122,7 +130,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 928735
+- eventId:
+  - 928735
+  - 928859
   start: 2026-10-20T00:54:00Z
   stop: 2026-10-20T00:55:00Z
   title: 'Bez komentara: New York, leptiri'
@@ -182,7 +192,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 928736
+- eventId:
+  - 928736
+  - 928860
   start: 2026-10-20T01:29:00Z
   stop: 2026-10-20T01:30:00Z
   title: 'Bez komentara: Milano, neredi'
@@ -239,6 +251,7 @@
 - eventId:
   - 928173
   - 928737
+  - 928861
   start: 2026-10-20T02:41:00Z
   stop: 2026-10-20T02:51:00Z
   title: Vijesti flash
@@ -259,6 +272,7 @@
 - eventId:
   - 928174
   - 928738
+  - 928862
   start: 2026-10-20T02:51:00Z
   stop: 2026-10-20T02:58:00Z
   title: Vijesti iz kulture
@@ -279,6 +293,7 @@
 - eventId:
   - 928175
   - 928739
+  - 928863
   start: 2026-10-20T02:58:00Z
   stop: 2026-10-20T03:00:00Z
   title: 'Bez komentara: Jazavčari'
@@ -356,7 +371,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 928740
+- eventId:
+  - 928740
+  - 928864
   start: 2026-10-20T04:09:00Z
   stop: 2026-10-20T04:10:00Z
   title: 'Bez komentara: Čile, zombiji'
@@ -371,7 +388,9 @@
   genre:
   - '32'
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 928741
+- eventId:
+  - 928741
+  - 928865
   start: 2026-10-20T04:17:00Z
   stop: 2026-10-20T04:26:00Z
   title: 'Studio 4: Znanost'
@@ -419,6 +438,7 @@
 - eventId:
   - 928178
   - 928742
+  - 928866
   start: 2026-10-20T04:57:00Z
   stop: 2026-10-20T04:58:00Z
   title: 'Bez komentara: Hong Kong, Van Gogh'
@@ -442,7 +462,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 928743
+- eventId:
+  - 928743
+  - 928867
   start: 2026-10-20T05:14:00Z
   stop: 2026-10-20T05:21:00Z
   title: Vijesti iz kulture
@@ -457,7 +479,9 @@
   genre:
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 928744
+- eventId:
+  - 928744
+  - 928868
   start: 2026-10-20T05:21:00Z
   stop: 2026-10-20T05:22:00Z
   title: Vrijeme RH danas
@@ -650,7 +674,9 @@
   title: Poslovne vijesti
   subtitle: ' '
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 928745
+- eventId:
+  - 928745
+  - 928869
   start: 2026-10-20T11:43:00Z
   stop: 2026-10-20T11:47:00Z
   title: Poslovne vijesti
@@ -672,7 +698,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 928746
+- eventId:
+  - 928746
+  - 928870
   start: 2026-10-20T11:47:00Z
   stop: 2026-10-20T11:56:00Z
   title: 'Studio 4: Znanost'
@@ -710,6 +738,7 @@
   - 925251
   - 928181
   - 928747
+  - 928871
   start: 2026-10-20T11:56:00Z
   stop: 2026-10-20T12:00:00Z
   title: Bez komentara
@@ -916,7 +945,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 928748
+- eventId:
+  - 928748
+  - 928872
   start: 2026-10-20T15:15:00Z
   stop: 2026-10-20T15:17:00Z
   title: Vrijeme Europa danas
@@ -931,7 +962,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 928749
+- eventId:
+  - 928749
+  - 928873
   start: 2026-10-20T15:17:00Z
   stop: 2026-10-20T15:21:00Z
   title: Vrijeme svijet danas
@@ -946,7 +979,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 928750
+- eventId:
+  - 928750
+  - 928874
   start: 2026-10-20T15:21:00Z
   stop: 2026-10-20T15:40:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -961,7 +996,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 928751
+- eventId:
+  - 928751
+  - 928875
   start: 2026-10-20T15:41:00Z
   stop: 2026-10-20T15:45:00Z
   title: Poslovne vijesti
@@ -1021,7 +1058,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 928752
+- eventId:
+  - 928752
+  - 928876
   start: 2026-10-20T16:31:00Z
   stop: 2026-10-20T16:53:00Z
   title: Regionalni dnevnik
@@ -1054,7 +1093,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 928753
+- eventId:
+  - 928753
+  - 928877
   start: 2026-10-20T16:57:00Z
   stop: 2026-10-20T17:00:00Z
   title: Vrijeme svijet sutra

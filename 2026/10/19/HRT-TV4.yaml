@@ -1741,7 +1741,7 @@
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
 - eventId: 848492
   start: 2026-10-19T22:17:00Z
-  stop: 2026-10-19T22:43:00Z
+  stop: 2026-10-19T22:44:00Z
   title: Pogled preko granice - Hrvati u BiH
   subtitle: Tjedna emisija, donosi kratke reportaže o svakodnevici Hrvata u BiH, prati tamošnju političku scenu, događaje u hrvatskoj zajednici, podsjeća na velikane hrvatske kulture, znanosti i povijesti.
   ageRating: 4
@@ -1763,6 +1763,12 @@
   title: Regionalni dnevnik
   subtitle: ' '
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+- eventId: 928853
+  start: 2026-10-19T22:44:00Z
+  stop: 2026-10-19T23:08:00Z
+  title: Regionalni dnevnik
+  subtitle: ' '
+  description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
 - eventId:
   - 848494
   - 928245
@@ -1781,7 +1787,9 @@
   title: Dnevnik 2
   subtitle: ' '
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
-- eventId: 928730
+- eventId:
+  - 928730
+  - 928854
   start: 2026-10-19T23:08:00Z
   stop: 2026-10-19T23:59:00Z
   title: Dnevnik 2
