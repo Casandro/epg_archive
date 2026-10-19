@@ -1687,7 +1687,9 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 928243
+- eventId:
+  - 928243
+  - 928525
   start: 2026-10-19T21:50:00Z
   stop: 2026-10-19T21:54:00Z
   title: '#REPORTAŽE'
@@ -1704,6 +1706,7 @@
 - eventId:
   - 848489
   - 928244
+  - 928526
   start: 2026-10-19T21:54:00Z
   stop: 2026-10-19T22:00:00Z
   title: Bez komentara
@@ -1757,6 +1760,7 @@
 - eventId:
   - 848494
   - 928245
+  - 928527
   start: 2026-10-19T23:06:00Z
   stop: 2026-10-19T23:59:00Z
   title: Dnevnik 2
