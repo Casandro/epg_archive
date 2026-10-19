@@ -474,14 +474,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 875956
   start: 2026-10-20T11:35:00Z
-  stop: 2026-10-20T11:45:00Z
+  stop: 2026-10-20T11:43:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 922562
+- eventId:
+  - 922562
+  - 924000
   start: 2026-10-20T11:43:00Z
   stop: 2026-10-20T11:48:00Z
   title: Poslovne vijesti
@@ -498,7 +500,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 922563
+- eventId:
+  - 922563
+  - 924001
   start: 2026-10-20T11:48:00Z
   stop: 2026-10-20T11:56:00Z
   title: 'Studio 4: Znanost'
@@ -515,7 +519,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 922564
+- eventId:
+  - 922564
+  - 924002
   start: 2026-10-20T11:56:00Z
   stop: 2026-10-20T12:00:00Z
   title: Bez komentara
