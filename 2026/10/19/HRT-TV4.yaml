@@ -53,6 +53,7 @@
   - 852588
   - 899615
   - 899841
+  - 904645
   start: 2026-10-19T00:22:00Z
   stop: 2026-10-19T00:54:00Z
   title: Fino i vino
@@ -99,6 +100,7 @@
 - eventId:
   - 899616
   - 899842
+  - 904646
   start: 2026-10-19T00:54:00Z
   stop: 2026-10-19T00:57:00Z
   title: '#REPORTAŽE'
@@ -127,6 +129,7 @@
   - 852590
   - 899617
   - 899843
+  - 904647
   start: 2026-10-19T00:57:00Z
   stop: 2026-10-19T01:00:00Z
   title: Bez komentara
@@ -157,7 +160,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 848328
+- eventId:
+  - 848328
+  - 904648
   start: 2026-10-19T01:00:00Z
   stop: 2026-10-19T01:10:00Z
   title: Vijesti flash
@@ -174,7 +179,9 @@
   title: Vijesti na engleskom jeziku
   subtitle: ' '
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 848329
+- eventId:
+  - 848329
+  - 904649
   start: 2026-10-19T01:10:00Z
   stop: 2026-10-19T01:18:00Z
   title: Vijesti na engleskom jeziku
@@ -200,7 +207,17 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 848331
+- eventId: 904650
+  start: 2026-10-19T01:18:00Z
+  stop: 2026-10-19T01:20:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 848331
+  - 904651
   start: 2026-10-19T01:20:00Z
   stop: 2026-10-19T01:28:00Z
   title: Vijesti na španjolskom jeziku
@@ -211,14 +228,16 @@
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 848332
   start: 2026-10-19T01:28:00Z
-  stop: 2026-10-19T01:50:00Z
+  stop: 2026-10-19T01:30:00Z
   title: 'Bez komentara: Čile, zombiji'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
-- eventId: 848333
+- eventId:
+  - 848333
+  - 904652
   start: 2026-10-19T01:30:00Z
   stop: 2026-10-19T01:50:00Z
   title: 'Studio 4: U fokusu'
@@ -250,7 +269,7 @@
   - 899619
   - 899845
   start: 2026-10-19T01:53:00Z
-  stop: 2026-10-19T01:55:00Z
+  stop: 2026-10-19T01:58:00Z
   title: 'Bez komentara: Pariz, prosvjedi'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -281,6 +300,7 @@
   - 848336
   - 899620
   - 899846
+  - 904653
   start: 2026-10-19T01:58:00Z
   stop: 2026-10-19T02:43:00Z
   title: Pregled dana
@@ -297,7 +317,9 @@
   title: Vijesti flash
   subtitle: ' '
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
-- eventId: 848337
+- eventId:
+  - 848337
+  - 904654
   start: 2026-10-19T02:43:00Z
   stop: 2026-10-19T02:53:00Z
   title: Vijesti flash
@@ -314,7 +336,9 @@
   title: Vijesti iz kulture
   subtitle: ' '
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 848338
+- eventId:
+  - 848338
+  - 904655
   start: 2026-10-19T02:53:00Z
   stop: 2026-10-19T03:00:00Z
   title: Vijesti iz kulture
@@ -361,12 +385,20 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+- eventId: 904659
+  start: 2026-10-19T03:53:00Z
+  stop: 2026-10-19T03:54:00Z
+  title: Vrijeme RH danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 848341
   - 899621
   - 899847
   start: 2026-10-19T03:54:00Z
-  stop: 2026-10-19T03:56:00Z
+  stop: 2026-10-19T03:55:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -382,6 +414,14 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 904660
+  start: 2026-10-19T03:55:00Z
+  stop: 2026-10-19T03:57:00Z
+  title: Vrijeme Svijet danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 901058
   - 901964
@@ -394,6 +434,7 @@
   - 848343
   - 899622
   - 899848
+  - 904661
   start: 2026-10-19T03:57:00Z
   stop: 2026-10-19T04:00:00Z
   title: Bez komentara
@@ -414,7 +455,9 @@
   title: Vijesti na španjolskom jeziku
   subtitle: ' '
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 848344
+- eventId:
+  - 848344
+  - 904662
   start: 2026-10-19T04:00:00Z
   stop: 2026-10-19T04:08:00Z
   title: Vijesti na španjolskom jeziku
@@ -432,6 +475,14 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 904663
+  start: 2026-10-19T04:08:00Z
+  stop: 2026-10-19T04:10:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 901060
   - 901966
@@ -440,7 +491,9 @@
   title: Vijesti na engleskom jeziku
   subtitle: ' '
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 848346
+- eventId:
+  - 848346
+  - 904664
   start: 2026-10-19T04:10:00Z
   stop: 2026-10-19T04:18:00Z
   title: Vijesti na engleskom jeziku
@@ -460,14 +513,16 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 852591
   start: 2026-10-19T04:20:00Z
-  stop: 2026-10-19T04:27:00Z
+  stop: 2026-10-19T04:26:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   description: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
   genre:
   - '160'
-- eventId: 848348
+- eventId:
+  - 848348
+  - 904665
   start: 2026-10-19T04:26:00Z
   stop: 2026-10-19T04:56:00Z
   title: TV student
@@ -495,7 +550,7 @@
   - 899623
   - 899849
   start: 2026-10-19T04:56:00Z
-  stop: 2026-10-19T04:58:00Z
+  stop: 2026-10-19T05:00:00Z
   title: 'Bez komentara: New York, izložba leptira'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
