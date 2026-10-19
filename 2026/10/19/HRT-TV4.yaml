@@ -295,6 +295,7 @@
   - 901054
   - 901960
   - 907650
+  - 909346
   start: 2026-10-19T01:55:00Z
   stop: 2026-10-19T02:41:00Z
   title: Pregled dana
@@ -324,6 +325,7 @@
   - 901055
   - 901961
   - 907651
+  - 909347
   start: 2026-10-19T02:41:00Z
   stop: 2026-10-19T02:52:00Z
   title: Vijesti flash
@@ -345,6 +347,7 @@
   - 901056
   - 901962
   - 907652
+  - 909348
   start: 2026-10-19T02:52:00Z
   stop: 2026-10-19T03:00:00Z
   title: Vijesti iz kulture
@@ -382,7 +385,7 @@
   - '32'
 - eventId: 899218
   start: 2026-10-19T03:51:00Z
-  stop: 2026-10-19T03:53:00Z
+  stop: 2026-10-19T03:52:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
@@ -393,6 +396,7 @@
   - 901057
   - 901963
   - 907653
+  - 909349
   start: 2026-10-19T03:52:00Z
   stop: 2026-10-19T03:54:00Z
   title: Vrijeme Europa danas
@@ -435,7 +439,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 907654
+- eventId:
+  - 907654
+  - 909350
   start: 2026-10-19T03:54:00Z
   stop: 2026-10-19T03:56:00Z
   title: Vrijeme svijet danas
@@ -470,6 +476,7 @@
   - 901058
   - 901964
   - 907655
+  - 909351
   start: 2026-10-19T03:56:00Z
   stop: 2026-10-19T03:58:00Z
   title: 'Bez komentara: Braazil smog'
@@ -494,6 +501,12 @@
   - 907656
   start: 2026-10-19T03:58:00Z
   stop: 2026-10-19T04:09:00Z
+  title: Vijesti na španjolskom jeziku
+  subtitle: ' '
+  description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
+- eventId: 909352
+  start: 2026-10-19T03:58:00Z
+  stop: 2026-10-19T04:08:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: ' '
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
@@ -532,6 +545,7 @@
   - 901060
   - 901966
   - 907657
+  - 909353
   start: 2026-10-19T04:09:00Z
   stop: 2026-10-19T04:18:00Z
   title: Vijesti na engleskom jeziku
@@ -560,7 +574,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 852591
   start: 2026-10-19T04:20:00Z
-  stop: 2026-10-19T04:26:00Z
+  stop: 2026-10-19T04:27:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   description: Kratki pregled aktualnosti iz svijeta znanosti.
@@ -595,6 +609,12 @@
   title: TV student
   subtitle: ' '
   description: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
+- eventId: 909354
+  start: 2026-10-19T04:27:00Z
+  stop: 2026-10-19T04:55:00Z
+  title: TV student
+  subtitle: ' '
+  description: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
 - eventId: 899219
   start: 2026-10-19T04:55:00Z
   stop: 2026-10-19T04:58:00Z
@@ -621,7 +641,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 907659
+- eventId:
+  - 907659
+  - 909355
   start: 2026-10-19T04:56:00Z
   stop: 2026-10-19T04:58:00Z
   title: 'Bez komentara: New York, izložba leptira'
