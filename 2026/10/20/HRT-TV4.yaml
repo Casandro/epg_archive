@@ -519,6 +519,7 @@
   - 937953
   - 940804
   - 941635
+  - 941975
   start: 2026-10-20T04:27:00Z
   stop: 2026-10-20T04:57:00Z
   title: Otvoreno
@@ -591,6 +592,7 @@
   - 937954
   - 940805
   - 941636
+  - 941976
   start: 2026-10-20T05:15:00Z
   stop: 2026-10-20T05:22:00Z
   title: Vijesti iz kulture
@@ -628,6 +630,7 @@
   - 937955
   - 940806
   - 941637
+  - 941977
   start: 2026-10-20T05:23:00Z
   stop: 2026-10-20T05:24:00Z
   title: Vrijeme Europa danas
@@ -853,6 +856,7 @@
   - 937956
   - 940807
   - 941638
+  - 941978
   start: 2026-10-20T11:48:00Z
   stop: 2026-10-20T11:56:00Z
   title: 'Studio 4: Znanost'
@@ -1065,7 +1069,17 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 874644
+- eventId: 941979
+  start: 2026-10-20T14:31:00Z
+  stop: 2026-10-20T14:56:00Z
+  title: 'DW: Sutrašnjica danas'
+  subtitle: Emisija Deutsche Wellea o europskom načinu života, donosi zanimljivosti iz europskih gradova.
+  ageRating: 4
+  genre:
+  - '128'
+- eventId:
+  - 874644
+  - 941980
   start: 2026-10-20T14:57:00Z
   stop: 2026-10-20T15:05:00Z
   title: 'Studio 4: Kultura'
@@ -1074,7 +1088,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 874645
+- eventId:
+  - 874645
+  - 941981
   start: 2026-10-20T15:05:00Z
   stop: 2026-10-20T15:13:00Z
   title: 'Studio 4: Znanost'
@@ -1217,7 +1233,9 @@
   title: Poslovne vijesti
   subtitle: ' '
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 874651
+- eventId:
+  - 874651
+  - 941982
   start: 2026-10-20T15:45:00Z
   stop: 2026-10-20T15:52:00Z
   title: 'Studio 4: Sport'
@@ -1226,7 +1244,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 874652
+- eventId:
+  - 874652
+  - 941983
   start: 2026-10-20T15:52:00Z
   stop: 2026-10-20T15:57:00Z
   title: Bez komentara
@@ -1314,6 +1334,14 @@
   title: Vrijeme svijet sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 941984
+  start: 2026-10-20T16:55:00Z
+  stop: 2026-10-20T17:00:00Z
+  title: Vrijeme Svijet sutra
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
