@@ -986,6 +986,7 @@
   - 738448
   - 742757
   - 948585
+  - 951649
   start: 2026-10-20T15:33:00Z
   stop: 2026-10-20T15:55:00Z
   title: Studio ČT24
@@ -998,6 +999,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 951521
+  start: 2026-10-20T15:34:17Z
+  stop: 2026-10-20T15:55:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Putin navrhl Trumpovi americko-čínsko-ruský summit o Ukrajině; Co přinesou Události, komentáře (upoutávka na pořad).'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId: 947056
   start: 2026-10-20T15:35:05Z
   stop: 2026-10-20T15:55:05Z
@@ -1029,10 +1041,25 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 951670
+  start: 2026-10-20T15:55:00Z
+  stop: 2026-10-20T16:00:19Z
+  title: Předpověď počasí
+  subtitle: Ve středu bude zataženo až oblačno, zejména ve východní polovině území čekáme místy i polojasno. V jihozápadní polovině Čech ráno místy i mlhy. Během odpoledne a večera se od jihozápadu postupně zatáhne
+  description: |-
+    na celém území a v Čechách se místy vyskytne déšť, večer už bude pršet na většině území s výjimkou krajního východu. Nejvyšší teploty 16 až 21 °C, v západní polovině Čech většinou kolem 13 °C. Maxima v 1000 m na horách kolem 14 °C, v Krušných horách 10 °C. V západní polovině Čech vítr slabý proměnlivý, později mírný západní
+    až severozápadní 11 až 25 km/h, jinak většinou čerstvý jihovýchodní až jižní vítr 14 až 32 km/h, místy s nárazy 55 až 70 km/h. Večer bude částečně slábnout.
+    HDTV
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '33'
+  widescreen: true
 - eventId:
   - 738450
   - 742759
   - 948084
+  - 951522
   start: 2026-10-20T16:00:00Z
   stop: 2026-10-20T16:03:00Z
   title: Zprávy
@@ -1075,7 +1102,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 948587
+- eventId:
+  - 948587
+  - 951523
   start: 2026-10-20T16:28:00Z
   stop: 2026-10-20T16:55:00Z
   title: Interview ČT24
