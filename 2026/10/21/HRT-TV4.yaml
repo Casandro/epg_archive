@@ -53,7 +53,7 @@
   - 945129
   - 946891
   start: 2026-10-21T00:03:00Z
-  stop: 2026-10-21T00:22:00Z
+  stop: 2026-10-21T00:23:00Z
   title: 'Studio 4: Jutarnji intervju'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -633,7 +633,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 904727
   start: 2026-10-21T11:35:00Z
-  stop: 2026-10-21T11:43:00Z
+  stop: 2026-10-21T11:45:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -646,7 +646,9 @@
   title: Poslovne vijesti
   subtitle: ' '
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 904728
+- eventId:
+  - 904728
+  - 947114
   start: 2026-10-21T11:45:00Z
   stop: 2026-10-21T11:50:00Z
   title: Poslovne vijesti
@@ -661,7 +663,9 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 904729
+- eventId:
+  - 904729
+  - 947115
   start: 2026-10-21T11:50:00Z
   stop: 2026-10-21T12:00:00Z
   title: 'Studio 4: Znanost'
@@ -924,7 +928,7 @@
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
 - eventId: 904756
   start: 2026-10-21T15:48:00Z
-  stop: 2026-10-21T15:55:00Z
+  stop: 2026-10-21T15:57:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
@@ -937,7 +941,9 @@
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 904757
+- eventId:
+  - 904757
+  - 947116
   start: 2026-10-21T15:57:00Z
   stop: 2026-10-21T16:00:00Z
   title: Bez komentara
@@ -1064,7 +1070,7 @@
   start: 2026-10-21T18:05:00Z
   stop: 2026-10-21T18:30:00Z
   title: Druga strana
-  subtitle: Tjedna emisija o gospodarstvu koja govori o onome što drugi prešućuju. Je li sve onakvo kakvim se na prvi pogled čini?
+  subtitle: Je li globalna automobilska industrija u krizi? Ili samo europska? Ili samo njemačka? Ili nas Nijemci hoće uvjeriti da je njihov "problem" svjetski? Ili samo traže ispriku za svoje dioničare?
   ageRating: 4
   genre:
   - '160'
