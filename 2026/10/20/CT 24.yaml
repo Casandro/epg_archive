@@ -820,20 +820,7 @@
 - eventId:
   - 738252
   - 742600
-  start: 2026-10-20T14:00:00Z
-  stop: 2026-10-20T14:30:00Z
-  title: Zprávy v 16
-  subtitle: Nejdůležitější události dne v ČR i ve světě.
-  description: |-
-    HDTV
-    Znakový jazyk
-    Skryté titulky
-  genre:
-  - '32'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 947039
+  - 947039
   start: 2026-10-20T14:00:00Z
   stop: 2026-10-20T14:29:10Z
   title: Zprávy v 16
@@ -845,6 +832,8 @@
   genre:
   - '32'
   widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 945932
   start: 2026-10-20T14:00:55Z
   stop: 2026-10-20T14:30:00Z
@@ -857,7 +846,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 947040
+- eventId:
+  - 947040
+  - 949449
   start: 2026-10-20T14:29:10Z
   stop: 2026-10-20T14:32:10Z
   title: Zprávy

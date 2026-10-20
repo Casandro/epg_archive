@@ -126,7 +126,7 @@
   hd: true
 - eventId: 783471
   start: 2026-10-21T03:10:00Z
-  stop: 2026-10-21T03:50:00Z
+  stop: 2026-10-21T04:00:00Z
   title: UEFA Champions League - Highlights Männer
   subtitle: Alle Spiele, alle Tore
   description: |-
@@ -151,7 +151,7 @@
 - eventId: 783473
   start: 2026-10-21T04:00:00Z
   stop: 2026-10-21T04:10:00Z
-  title: Sportflash
+  title: Newsflash SRF 1
   subtitle: Die Sportnews des Tages
   description: |-
     Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
@@ -160,18 +160,22 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 783474
   start: 2026-10-21T04:10:00Z
-  stop: 2026-10-21T04:30:00Z
+  stop: 2026-10-21T04:20:00Z
   title: Schweiz aktuell
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 783475
-  start: 2026-10-21T04:30:00Z
-  stop: 2026-10-21T04:40:00Z
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+- eventId: 949676
+  start: 2026-10-21T04:20:00Z
+  stop: 2026-10-21T04:30:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -181,9 +185,46 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 783475
+  start: 2026-10-21T04:30:00Z
+  stop: 2026-10-21T04:50:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 783476
   start: 2026-10-21T04:40:00Z
   stop: 2026-10-21T05:30:00Z
+  title: UEFA Champions League - Highlights Männer
+  subtitle: Alle Spiele, alle Tore
+  description: |-
+    Die besten Fussballer und Teams Europas im Fokus - mit dem Komplettservice zur Königsklasse. Im Programm sind alle Spiele und alle Tore des Tages. Reaktionen aus den Fussballstadien und vertiefende Analysen ergänzen die Matchberichte. Ein besonderes Augenmerk gilt den Schweizer Vertretern.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 949677
+  start: 2026-10-21T04:50:00Z
+  stop: 2026-10-21T05:00:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 949678
+  start: 2026-10-21T05:00:00Z
+  stop: 2026-10-21T05:50:00Z
   title: UEFA Champions League - Highlights Männer
   subtitle: Alle Spiele, alle Tore
   description: |-
@@ -204,7 +245,17 @@
   hd: true
 - eventId: 783478
   start: 2026-10-21T05:50:00Z
-  stop: 2026-10-21T06:25:00Z
+  stop: 2026-10-21T06:10:00Z
+  title: Kassensturz in Gebärdensprache
+  subtitle: Hochverarbeitete Lebensmittel und die gesundheitlichen Folgen
+  widescreen: true
+  subtitled: true
+  hd: true
+  genre:
+  - '32'
+- eventId: 949693
+  start: 2026-10-21T06:10:00Z
+  stop: 2026-10-21T06:40:00Z
   title: Kassensturz in Gebärdensprache
   subtitle: Hochverarbeitete Lebensmittel und die gesundheitlichen Folgen
   widescreen: true
@@ -213,6 +264,17 @@
 - eventId: 783487
   start: 2026-10-21T06:25:00Z
   stop: 2026-10-21T06:55:00Z
+  title: Puls in Gebärdensprache
+  subtitle: 'Organspende: Hoffnung zwischen Leben und Tod'
+  description: |-
+    Was passiert, wenn ein fremdes Organ über Leben und Tod entscheidet? «Puls» begleitet einen Leberpatienten auf dem langen Weg zur Transplantation, erzählt die Geschichte einer Familie nach einem tödlichen Unfall - und zeigt, was sich bei der Organspende in der Schweiz verändert.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 949694
+  start: 2026-10-21T06:40:00Z
+  stop: 2026-10-21T07:15:00Z
   title: Puls in Gebärdensprache
   subtitle: 'Organspende: Hoffnung zwischen Leben und Tod'
   description: |-
@@ -232,6 +294,17 @@
   description: |-
     Boden ist ein knappes Gut. Vor allem in der Schweiz. Doch wem sollen das Land und die Immobilien eigentlich gehören dürfen? Nur hier Ansässigen oder auch Personen mit Wohnsitz im Ausland? Das Regelwerk, die sogenannte Lex Koller, soll nun verschärft werden. Die Debatte dazu im nächsten «Eco Talk».
     Schweiz 2026
+- eventId: 949695
+  start: 2026-10-21T07:15:00Z
+  stop: 2026-10-21T09:00:00Z
+  title: Eco Talk
+  subtitle: 'Schweizer Immobilien: Wer darf noch kaufen?'
+  description: |-
+    Boden ist ein knappes Gut. Vor allem in der Schweiz. Doch wem sollen das Land und die Immobilien eigentlich gehören dürfen? Nur hier Ansässigen oder auch Personen mit Wohnsitz im Ausland? Das Regelwerk, die sogenannte Lex Koller, soll nun verschärft werden. Die Debatte dazu im nächsten «Eco Talk».
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 783489
   start: 2026-10-21T07:30:00Z
   stop: 2026-10-21T08:00:00Z
@@ -269,7 +342,31 @@
   hd: true
 - eventId: 783500
   start: 2026-10-21T09:00:00Z
-  stop: 2026-10-21T10:05:00Z
+  stop: 2026-10-21T09:30:00Z
+  title: 'Club: America, let''s talk'
+  subtitle: Wer macht Cash, wenn Trump regiert?
+  description: |-
+    Seit mehr als zwei Jahrzehnten beobachtet Peter A. Dettling Wölfe und beschäftigt sich intensiv mit ihrem Verhalten. Seine Spurensuche führt von den verschneiten Bergen der Surselva bis in den Yellowstone-Nationalpark in den USA.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+  genre:
+  - '112'
+- eventId: 949703
+  start: 2026-10-21T09:30:00Z
+  stop: 2026-10-21T10:00:00Z
+  title: Kassensturz
+  subtitle: Hochverarbeitete Lebensmittel und die gesundheitlichen Folgen
+  description: |-
+    Bis zu 80 Prozent der Lebensmittel sind industriell hergestellt und enthalten Zusatzstoffe. «Kassensturz» fragt: Wie gesundheitsschädlich sind sie? Macht die Industrie Geld auf Kosten unserer Gesundheit? Weitere Themen: Lohnt sich teurer Orangensaft aus dem Kühlregal?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 949704
+  start: 2026-10-21T10:00:00Z
+  stop: 2026-10-21T11:10:00Z
   title: 'Club: America, let''s talk'
   subtitle: Wer macht Cash, wenn Trump regiert?
   description: |-
@@ -300,6 +397,18 @@
     Schweiz 2026
   genre:
   - '112'
+  widescreen: true
+  hd: true
+- eventId: 949705
+  start: 2026-10-21T11:10:00Z
+  stop: 2026-10-21T12:00:00Z
+  title: UEFA Champions League - Highlights Männer
+  subtitle: Alle Spiele, alle Tore
+  description: |-
+    Die besten Fussballer und Teams Europas im Fokus - mit dem Komplettservice zur Königsklasse. Im Programm sind alle Spiele und alle Tore des Tages. Reaktionen aus den Fussballstadien und vertiefende Analysen ergänzen die Matchberichte. Ein besonderes Augenmerk gilt den Schweizer Vertretern.
+    Schweiz 2026
+  genre:
+  - '64'
   widescreen: true
   hd: true
 - eventId: 783503
@@ -335,7 +444,7 @@
   hd: true
 - eventId: 783511
   start: 2026-10-21T12:10:00Z
-  stop: 2026-10-21T12:50:00Z
+  stop: 2026-10-21T12:45:00Z
   title: Puls
   subtitle: 'Organspende: Hoffnung zwischen Leben und Tod'
   description: |-
@@ -351,6 +460,17 @@
   subtitle: Mittagsausgabe
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 949723
+  start: 2026-10-21T12:45:00Z
+  stop: 2026-10-21T13:10:00Z
+  title: Tagesgespräch
+  subtitle: 'Daniel Lampart: Der Vordenker des Gewerkschaftsbundes geht'
+  description: |-
+    «Tagesgespräch» ist der tägliche News Talk zu Themen aus Politik, Wirtschaft, Gesellschaft und Kultur. Bundesrät:innen, Politiker:innen, Expert:innen und weitere Persönlichkeiten analysieren aktuelle Ereignisse, ordnen ein und diskutieren relevante Entwicklungen in der Schweiz und international.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -374,9 +494,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 783515
-  start: 2026-10-21T13:20:00Z
-  stop: 2026-10-21T13:25:00Z
+- eventId: 949724
+  start: 2026-10-21T13:10:00Z
+  stop: 2026-10-21T13:15:00Z
   title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
@@ -384,6 +504,29 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 949725
+  start: 2026-10-21T13:15:00Z
+  stop: 2026-10-21T13:20:00Z
+  title: Meteo
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 783515
+  start: 2026-10-21T13:20:00Z
+  stop: 2026-10-21T13:55:00Z
+  title: Tagesschau kompakt
+  subtitle: 'Nina Ruge: Wie wird man gut alt?'
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Longevity boomt. Nina Ruge sieht sich als «Bullshit-Filter» in einem Milliardenmarkt zwischen Wissenschaft und Selbstoptimierung. Bei «Gredig direkt» spricht sie über Prävention, Eigenverantwortung und die Frage, was wirklich hilft, um gesund älter zu werden.
+    Schweiz 2026
 - eventId: 783516
   start: 2026-10-21T13:25:00Z
   stop: 2026-10-21T13:30:00Z
@@ -405,6 +548,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 949726
+  start: 2026-10-21T13:55:00Z
+  stop: 2026-10-21T14:00:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 783518
   start: 2026-10-21T14:00:00Z
   stop: 2026-10-21T14:05:00Z
@@ -417,14 +570,17 @@
   hd: true
 - eventId: 783519
   start: 2026-10-21T14:05:00Z
-  stop: 2026-10-21T14:10:00Z
-  title: Meteo
-  subtitle: Mittagsausgabe
+  stop: 2026-10-21T14:35:00Z
+  title: Kassensturz
+  subtitle: Hochverarbeitete Lebensmittel und die gesundheitlichen Folgen
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Bis zu 80 Prozent der Lebensmittel sind industriell hergestellt und enthalten Zusatzstoffe. «Kassensturz» fragt: Wie gesundheitsschädlich sind sie? Macht die Industrie Geld auf Kosten unserer Gesundheit? Weitere Themen: Lohnt sich teurer Orangensaft aus dem Kühlregal?
+    Schweiz 2026
 - eventId: 783520
   start: 2026-10-21T14:10:00Z
   stop: 2026-10-21T14:45:00Z
@@ -436,9 +592,9 @@
   description: |-
     Bis zu 80 Prozent der Lebensmittel sind industriell hergestellt und enthalten Zusatzstoffe. «Kassensturz» fragt: Wie gesundheitsschädlich sind sie? Macht die Industrie Geld auf Kosten unserer Gesundheit? Weitere Themen: Lohnt sich teurer Orangensaft aus dem Kühlregal?
     Schweiz 2026
-- eventId: 783521
-  start: 2026-10-21T14:45:00Z
-  stop: 2026-10-21T14:50:00Z
+- eventId: 949727
+  start: 2026-10-21T14:35:00Z
+  stop: 2026-10-21T14:45:00Z
   title: Meteo
   subtitle: Mittagsausgabe
   genre:
@@ -446,6 +602,19 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 783521
+  start: 2026-10-21T14:45:00Z
+  stop: 2026-10-21T16:00:00Z
+  title: 'Club: America, let''s talk'
+  subtitle: Wer macht Cash, wenn Trump regiert?
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Donald Trump verspricht den USA einen neuen Wirtschaftsboom: weniger Regulierung, mehr Investitionen, neue Technologien und neue Jobs. Milliarden fliessen in künstliche Intelligenz, Rechenzentren und Kryptowährungen.
+    Schweiz 2026
 - eventId: 783522
   start: 2026-10-21T14:50:00Z
   stop: 2026-10-21T16:00:00Z

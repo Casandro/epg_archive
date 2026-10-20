@@ -101,7 +101,7 @@
   hd: true
 - eventId: 923589
   start: 2026-10-22T04:15:00Z
-  stop: 2026-10-22T04:35:00Z
+  stop: 2026-10-22T05:00:00Z
   title: Couleurs locales
   description: (Rediffusion)
   genre:
@@ -120,7 +120,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 811858
+- eventId:
+  - 811858
+  - 949733
   start: 2026-10-22T05:00:00Z
   stop: 2026-10-22T06:00:00Z
   title: La Matinale
@@ -218,7 +220,7 @@
   start: 2026-10-22T10:30:00Z
   stop: 2026-10-22T11:25:00Z
   title: Passe-moi les jumelles
-  description: "- Le boisselier des Bois Dans son atelier centenaire des Franches-Montagnes, Philippe Boichat fait renaître les gestes oubliés des boisseliers, ces artisans qui façonnaient seilles, cuves et cercles à fromage. \n - Solex un jour, Solex toujours On l'appelait « le vélo qui roule tout seul»! 80 ans après sa création, le mythique Solex a toujours ses afficionados fidèles et enthousiastes. «Les K'Bolés du Solex » sont les véritables gardiens de ce patrimoine mécanique à la frontière franco-suisse."
+  description: "\"Audio description\"  - Le boisselier des Bois Dans son atelier centenaire des Franches-Montagnes, Philippe Boichat fait renaître les gestes oubliés des boisseliers, ces artisans qui façonnaient seilles, cuves et cercles à fromage. \n - Solex un jour, Solex toujours On l'appelait « le vélo qui roule tout seul»! 80 ans après sa création, le mythique Solex a toujours ses afficionados fidèles et enthousiastes. «Les K'Bolés du Solex » sont les véritables gardiens de ce patrimoine mécanique à la frontière franco-suisse."
   genre:
   - '128'
   widescreen: true
@@ -307,7 +309,7 @@
   hd: true
 - eventId: 816349
   start: 2026-10-22T18:40:00Z
-  stop: 2026-10-22T20:00:00Z
+  stop: 2026-10-22T19:55:00Z
   title: Gymnastique artistique
   subtitle: Championnats du monde
   description: En direct. Concours Général Messieurs Finale En direct de Rotterdam (NED)
@@ -316,11 +318,38 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 949735
+  start: 2026-10-22T19:55:00Z
+  stop: 2026-10-22T20:04:00Z
+  title: PMU
+  widescreen: true
+  hd: true
 - eventId: 816350
   start: 2026-10-22T20:00:00Z
   stop: 2026-10-22T20:06:00Z
   title: PMU
   widescreen: true
+  hd: true
+- eventId: 949736
+  start: 2026-10-22T20:04:00Z
+  stop: 2026-10-22T20:05:00Z
+  title: Zap RTS Sport
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 949737
+  start: 2026-10-22T20:05:00Z
+  stop: 2026-10-22T20:50:00Z
+  title: Chicago Fire
+  subtitle: Bloqué dans le métro Partie 1
+  description: "In the Trenches: Part I - Saison 13 (11/22) (1/3 DU TRIPLE CROSSOVER) \nLes premiers intervenants de Chicago s'unissent à la suite d'une explosion de gaz et d'un incendie catastrophiques qui menacent un bâtiment du gouvernement de la ville. Herrmann suit Pascal à contrec_ur tandis que Violet, Novak et le Dr Frost prennent en charge les efforts de triage sur place. (Etats-Unis d'Amérique-2025)"
+  ageRating: 10
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 816351
   start: 2026-10-22T20:06:00Z
@@ -345,10 +374,22 @@
   hd: true
 - eventId: 816353
   start: 2026-10-22T20:50:00Z
-  stop: 2026-10-22T21:40:00Z
+  stop: 2026-10-22T21:35:00Z
   title: Chicago Med
   subtitle: Bloqués dans le métro Partie 2
   description: "In the Trenches: Part II - Saison 10 (11/22) (2/3 DU TRIPLE CROSSOVER) \nLe chaos continue à Gaffney lorsque le sergent Trudy Platt est grièvement blessé après avoir poursuivi un délinquant responsable d'une explosion de gaz dans un immeuble. Pendant ce temps, le lieutenant Kelly Severide et le chef de bataillon Don Pascal élaborent un plan pour sauver le lieutenant Stella Kidd et l'officier Adam Ruzek coincés dans un wagon de métro.\n (Etats-Unis d'Amérique-2025)"
+  ageRating: 10
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 949738
+  start: 2026-10-22T21:35:00Z
+  stop: 2026-10-22T22:20:00Z
+  title: Chicago Police
+  subtitle: Bloqué dans le métro Partie 3
+  description: "In the Trenches: Part III - Saison 12 (11/22) (3/3 DU TRIPLE CROSSOVER) \nTandis que les suspects sont toujours en fuite, les conditions se dégradent pour les passagers du métro piégés sous la terre. Les sauveteurs font tout leur possible pour les secourir le plus rapidement possible. (Etats-Unis d'Amérique-2025)"
   ageRating: 10
   genre:
   - '16'
@@ -369,7 +410,7 @@
   hd: true
 - eventId: 827045
   start: 2026-10-22T22:20:00Z
-  stop: 2026-10-23T00:10:00Z
+  stop: 2026-10-23T00:05:00Z
   title: Total recall
   description: 'Simple ouvrier de l''an 2048, Douglas Quaid est hanté par un rêve qui revient chaque nuit : il se voit sur la planète Mars. Pourtant la vie sur Mars est agitée et dangereuse. Un jour, il trouve un moyen de satisfaire sa curiosité sans danger : une agence de voyages qui "greffe" des souvenirs de vacances. Mais l''opération se passe mal... (Etats-Unis d''Amérique-1990)'
   ageRating: 16
