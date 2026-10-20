@@ -28,6 +28,7 @@
 - eventId:
   - 934283
   - 937222
+  - 938019
   start: 2026-10-22T01:25:00Z
   stop: 2026-10-22T02:00:00Z
   title: Çikat n'Trip
@@ -37,7 +38,7 @@
   - '160'
 - eventId: 836239
   start: 2026-10-22T02:00:00Z
-  stop: 2026-10-22T02:30:00Z
+  stop: 2026-10-22T03:30:00Z
   title: RETROSPORT
   subtitle: ' Arhiva TVR   (Reluare)'
   ageRating: 4
@@ -70,7 +71,9 @@
   stop: 2026-10-22T04:00:00Z
   title: Lumea vitezei
   subtitle: '    (Reluare)'
-- eventId: 934284
+- eventId:
+  - 934284
+  - 938020
   start: 2026-10-22T03:30:00Z
   stop: 2026-10-22T04:30:00Z
   title: Muzike Top 10
@@ -87,7 +90,9 @@
   stop: 2026-10-22T06:00:00Z
   title: CALARIE
   subtitle: '  *ARGINT + AUR   (Reluare)'
-- eventId: 934285
+- eventId:
+  - 934285
+  - 938021
   start: 2026-10-22T04:30:00Z
   stop: 2026-10-22T05:00:00Z
   title: Muzikë për fëmijë
@@ -98,6 +103,14 @@
 - eventId: 934286
   start: 2026-10-22T05:00:00Z
   stop: 2026-10-22T07:05:00Z
+  title: Pastel
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 938022
+  start: 2026-10-22T05:00:00Z
+  stop: 2026-10-22T07:00:00Z
   title: Pastel
   subtitle: ' '
   ageRating: 4
@@ -130,7 +143,9 @@
   stop: 2026-10-22T07:10:00Z
   title: SPORT EXPRES
   subtitle: '  '
-- eventId: 934288
+- eventId:
+  - 934288
+  - 938023
   start: 2026-10-22T07:05:00Z
   stop: 2026-10-22T09:00:00Z
   title: Programi i mëngjesit
@@ -173,6 +188,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 938024
+  start: 2026-10-22T09:00:00Z
+  stop: 2026-10-22T10:10:00Z
+  title: Daily Click
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 836250
   - 935249
@@ -209,7 +232,9 @@
   stop: 2026-10-22T11:00:00Z
   title: Ora de sport
   subtitle: ' (Partea I)   (Reluare)'
-- eventId: 934290
+- eventId:
+  - 934290
+  - 938025
   start: 2026-10-22T10:15:00Z
   stop: 2026-10-22T10:35:00Z
   title: Çka ka me honger
@@ -220,6 +245,14 @@
 - eventId: 934291
   start: 2026-10-22T10:35:00Z
   stop: 2026-10-22T12:35:00Z
+  title: Farewell Letter
+  subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 938026
+  start: 2026-10-22T10:35:00Z
+  stop: 2026-10-22T12:30:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -261,7 +294,9 @@
   stop: 2026-10-22T12:59:00Z
   title: RETROSPORT
   subtitle: ' Arhiva TVR   (Reluare)'
-- eventId: 934292
+- eventId:
+  - 934292
+  - 938027
   start: 2026-10-22T12:35:00Z
   stop: 2026-10-22T12:59:00Z
   title: Reportazhe
@@ -276,7 +311,7 @@
   subtitle: ' ... '
 - eventId: 836259
   start: 2026-10-22T13:00:00Z
-  stop: 2026-10-22T13:10:00Z
+  stop: 2026-10-22T13:20:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -291,7 +326,9 @@
   stop: 2026-10-22T14:00:00Z
   title: LUMEA VITEZEI  Premiera
   subtitle: '  '
-- eventId: 934293
+- eventId:
+  - 934293
+  - 938028
   start: 2026-10-22T13:20:00Z
   stop: 2026-10-22T13:30:00Z
   title: Promo
@@ -299,7 +336,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 934294
+- eventId:
+  - 934294
+  - 938029
   start: 2026-10-22T13:30:00Z
   stop: 2026-10-22T14:00:00Z
   title: Reportazhe
@@ -322,7 +361,7 @@
   subtitle: ' ... '
 - eventId: 836263
   start: 2026-10-22T15:00:00Z
-  stop: 2026-10-22T15:10:00Z
+  stop: 2026-10-22T15:55:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -337,7 +376,9 @@
   stop: 2026-10-22T16:10:00Z
   title: MARILE MECIURI
   subtitle: ' Arhiva TVR '
-- eventId: 934295
+- eventId:
+  - 934295
+  - 938030
   start: 2026-10-22T15:55:00Z
   stop: 2026-10-22T16:00:00Z
   title: Promo
@@ -345,7 +386,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 934296
+- eventId:
+  - 934296
+  - 938031
   start: 2026-10-22T16:00:00Z
   stop: 2026-10-22T16:30:00Z
   title: Reportazhe
@@ -372,13 +415,15 @@
   - '32'
 - eventId: 836267
   start: 2026-10-22T17:00:00Z
-  stop: 2026-10-22T18:00:00Z
+  stop: 2026-10-22T17:30:00Z
   title: HANDBAL ZOOM Premiera
   subtitle: '  '
   ageRating: 4
   genre:
   - '160'
-- eventId: 934297
+- eventId:
+  - 934297
+  - 938032
   start: 2026-10-22T17:30:00Z
   stop: 2026-10-22T18:00:00Z
   title: Live News MK
@@ -388,7 +433,7 @@
   - '32'
 - eventId: 836268
   start: 2026-10-22T18:00:00Z
-  stop: 2026-10-22T18:10:00Z
+  stop: 2026-10-22T18:45:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -403,7 +448,9 @@
   stop: 2026-10-22T20:40:00Z
   title: Volei masculin
   subtitle: '  *SUPERCUPA Comentator: Narcis SelaruProducator: Daniela Enachescu  (Reluare)'
-- eventId: 934298
+- eventId:
+  - 934298
+  - 938033
   start: 2026-10-22T18:45:00Z
   stop: 2026-10-22T19:30:00Z
   title: Firefly
@@ -411,7 +458,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 934299
+- eventId:
+  - 934299
+  - 938034
   start: 2026-10-22T19:30:00Z
   stop: 2026-10-22T20:55:00Z
   title: Film artistik
@@ -442,7 +491,7 @@
   - '160'
 - eventId: 836271
   start: 2026-10-22T21:00:00Z
-  stop: 2026-10-22T22:00:00Z
+  stop: 2026-10-22T21:20:00Z
   title: Lumea vitezei
   subtitle: '    (Reluare)'
   ageRating: 4
@@ -451,6 +500,14 @@
 - eventId: 934301
   start: 2026-10-22T21:20:00Z
   stop: 2026-10-22T22:05:00Z
+  title: Farewell Letter
+  subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 938035
+  start: 2026-10-22T21:20:00Z
+  stop: 2026-10-22T22:00:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -465,7 +522,9 @@
   stop: 2026-10-22T23:40:00Z
   title: Ora de sport
   subtitle: ' (Partea I+ II )   (Reluare)'
-- eventId: 934302
+- eventId:
+  - 934302
+  - 938036
   start: 2026-10-22T22:05:00Z
   stop: 2026-10-22T23:25:00Z
   title: Click Plus
@@ -473,7 +532,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 934303
+- eventId:
+  - 934303
+  - 938037
   start: 2026-10-22T23:25:00Z
   stop: 2026-10-23T01:20:00Z
   title: Pastel
