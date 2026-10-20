@@ -1170,6 +1170,14 @@
   - '33'
   widescreen: true
   hd: true
+- eventId: 952638
+  start: 2026-10-20T17:54:04Z
+  stop: 2026-10-20T17:56:00Z
+  title: Počasí v evropských metropolích
+  description: HDTV
+  genre:
+  - '33'
+  widescreen: true
 - eventId:
   - 738456
   - 742765
@@ -1198,6 +1206,18 @@
   genre:
   - '35'
   widescreen: true
+- eventId: 952639
+  start: 2026-10-20T18:06:55Z
+  stop: 2026-10-20T19:29:55Z
+  title: 90' ČT24
+  subtitle: 'Témata: Jednání o ruské válce proti Ukrajině; Bezpečnostní rada státu - bezpečnost ČR a Evropy; Koncert velmocí. Hosté: V. Zelenskyj, S. Witkoff, M. Mikulecký, J. Šedivý, M. Heranová, R. Joch, V. Votápek, M. Hála.'
+  description: |-
+    Moderuje: J. Musil.
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 738646
   - 743032
@@ -1216,6 +1236,17 @@
   hd: true
 - eventId: 952534
   start: 2026-10-20T19:29:51Z
+  stop: 2026-10-20T20:00:00Z
+  title: Horizont ČT24
+  subtitle: Pořad zahraniční redakce o dění ve světě. Klade důraz na původní tvorbu vlastních zpravodajů a bohaté agenturní zpravodajství, využívá nejmodernější postupy, televizní žánry i technologie.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 952640
+  start: 2026-10-20T19:29:55Z
   stop: 2026-10-20T20:00:00Z
   title: Horizont ČT24
   subtitle: Pořad zahraniční redakce o dění ve světě. Klade důraz na původní tvorbu vlastních zpravodajů a bohaté agenturní zpravodajství, využívá nejmodernější postupy, televizní žánry i technologie.
@@ -1294,12 +1325,14 @@
   subtitle: Profilový rozhovor s významnou osobností, která má co říci k aktuálnímu dění v ČR nebo ve světě.
   description: |-
     HDTV
+    Zvukový popis
     Skryté titulky
   genre:
   - '35'
   widescreen: true
   subtitled: true
   hd: true
+  audiodesc: true
 - eventId:
   - 738721
   - 743138
