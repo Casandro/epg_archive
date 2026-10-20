@@ -136,7 +136,7 @@
   - '36'
 - eventId: 829755
   start: 2026-10-21T03:50:00Z
-  stop: 2026-10-21T04:15:00Z
+  stop: 2026-10-21T04:20:00Z
   title: Ekonomika :24 (157)
   subtitle: Všetko dôležité z oblasti ekonomiky na jednom mieste.
   description: Všetko dôležité z oblasti ekonomiky na jednom mieste. (2026)
@@ -375,7 +375,7 @@
   - '33'
 - eventId: 829758
   start: 2026-10-21T17:50:00Z
-  stop: 2026-10-21T18:05:00Z
+  stop: 2026-10-21T18:10:00Z
   title: Góly-body-sekundy (294)
   subtitle: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu.
   description: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu. (2026)
@@ -397,7 +397,9 @@
   description: Každý pracovný deň vám prinášame predpoveď počasia. (2026)
   genre:
   - '33'
-- eventId: 781474
+- eventId:
+  - 781474
+  - 940680
   start: 2026-10-21T18:10:00Z
   stop: 2026-10-21T18:20:00Z
   title: Počasie (294)
@@ -463,7 +465,7 @@
   - 781481
   - 866119
   start: 2026-10-21T21:00:00Z
-  stop: 2026-10-21T21:25:00Z
+  stop: 2026-10-21T21:30:00Z
   title: Správy :24 (288)
   subtitle: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24.
   description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
@@ -482,6 +484,14 @@
   - 866120
   start: 2026-10-21T21:25:00Z
   stop: 2026-10-21T21:50:00Z
+  title: Svet :24 (206)
+  subtitle: Najdôležitejšie udalosti zo sveta doplnené názormi odborníkov.
+  description: Najdôležitejšie udalosti zo sveta doplnené názormi odborníkov. (2026)
+  genre:
+  - '36'
+- eventId: 940681
+  start: 2026-10-21T21:30:00Z
+  stop: 2026-10-21T21:55:00Z
   title: Svet :24 (206)
   subtitle: Najdôležitejšie udalosti zo sveta doplnené názormi odborníkov.
   description: Najdôležitejšie udalosti zo sveta doplnené názormi odborníkov. (2026)
@@ -513,6 +523,14 @@
   description: Všetko dôležité z oblasti ekonomiky na jednom mieste. (2026)
   genre:
   - '33'
+- eventId: 940682
+  start: 2026-10-21T21:55:00Z
+  stop: 2026-10-21T22:03:00Z
+  title: Počasie (294)
+  subtitle: Každý pracovný deň vám prinášame predpoveď počasia.
+  description: Každý pracovný deň vám prinášame predpoveď počasia. (2026)
+  genre:
+  - '33'
 - eventId: 781484
   start: 2026-10-21T22:00:00Z
   stop: 2026-10-21T22:18:00Z
@@ -524,6 +542,14 @@
 - eventId: 866122
   start: 2026-10-21T22:00:00Z
   stop: 2026-10-21T22:23:00Z
+  title: Ekonomika :24 (158)
+  subtitle: Všetko dôležité z oblasti ekonomiky na jednom mieste.
+  description: Všetko dôležité z oblasti ekonomiky na jednom mieste. (2026)
+  genre:
+  - '33'
+- eventId: 940683
+  start: 2026-10-21T22:03:00Z
+  stop: 2026-10-21T22:29:00Z
   title: Ekonomika :24 (158)
   subtitle: Všetko dôležité z oblasti ekonomiky na jednom mieste.
   description: Všetko dôležité z oblasti ekonomiky na jednom mieste. (2026)
@@ -559,6 +585,21 @@
   genre:
   - '32'
   subtitle: Magazín o premiérach, vernisážach, koncertoch a ďalších aktuálnych udalostiach zo slovenskej kultúry.
+- eventId: 940684
+  start: 2026-10-21T22:29:00Z
+  stop: 2026-10-21T22:30:00Z
+  title: Hymna SR (14)
+  description: ' (2025)'
+  genre:
+  - '32'
+- eventId: 940685
+  start: 2026-10-21T22:30:00Z
+  stop: 2026-10-21T23:00:00Z
+  title: Kultúra SK (29)
+  subtitle: Magazín o premiérach, vernisážach, koncertoch a ďalších aktuálnych udalostiach zo slovenskej kultúry.
+  description: Záverečný koncert 61. ročníka Bratislavských hudobných slávností. Feldek 90 - večer v Slovenskom národnom divadle venovaný oslave celoživotnej tvorby básnika a dramatika Ľubomíra Feldeka. Hudobné ceny SOZA 2025 majú svojich laureátov. Rozhovor s režisérkou Yvonne Vavrovou. Sochár Ján Ťapák vystavuje v Berlíne. Múzeum mesta Bratislavy otvorilo výstavu Medzi eufóriou a vyčerpaním. Bratislavské módne dni. (2026)
+  genre:
+  - '122'
 - eventId: 829689
   start: 2026-10-21T22:50:00Z
   stop: 2026-10-21T23:40:00Z

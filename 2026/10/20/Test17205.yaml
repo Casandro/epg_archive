@@ -111,7 +111,7 @@
   hd: true
 - eventId: 847295
   start: 2026-10-20T04:15:00Z
-  stop: 2026-10-20T04:30:00Z
+  stop: 2026-10-20T05:00:00Z
   title: Couleurs locales
   description: (Rediffusion)
   genre:
@@ -130,7 +130,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 758362
+- eventId:
+  - 758362
+  - 940630
   start: 2026-10-20T05:00:00Z
   stop: 2026-10-20T06:00:00Z
   title: La Matinale
