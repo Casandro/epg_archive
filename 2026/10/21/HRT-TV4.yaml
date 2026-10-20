@@ -1,4 +1,6 @@
-- eventId: 904678
+- eventId:
+  - 904678
+  - 942401
   start: 2026-10-21T00:00:00Z
   stop: 2026-10-21T00:02:00Z
   title: Vrijeme Svijet danas
@@ -13,7 +15,9 @@
   title: Vrijeme svijet danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 904679
+- eventId:
+  - 904679
+  - 942402
   start: 2026-10-21T00:02:00Z
   stop: 2026-10-21T00:22:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -37,6 +41,14 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 942403
+  start: 2026-10-21T00:22:00Z
+  stop: 2026-10-21T00:26:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 942317
   start: 2026-10-21T00:23:00Z
   stop: 2026-10-21T00:27:00Z
@@ -52,6 +64,7 @@
   - 928754
   - 928878
   - 934561
+  - 942404
   start: 2026-10-21T00:26:00Z
   stop: 2026-10-21T00:30:00Z
   title: Bez komentara
@@ -279,7 +292,7 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 904704
   start: 2026-10-21T04:18:00Z
-  stop: 2026-10-21T04:27:00Z
+  stop: 2026-10-21T04:26:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
@@ -295,6 +308,7 @@
   - 940813
   - 941644
   - 941985
+  - 942405
   start: 2026-10-21T04:26:00Z
   stop: 2026-10-21T04:56:00Z
   title: Otvoreno
@@ -330,6 +344,7 @@
   - 940814
   - 941645
   - 941986
+  - 942406
   start: 2026-10-21T04:56:00Z
   stop: 2026-10-21T05:00:00Z
   title: Bez komentara
