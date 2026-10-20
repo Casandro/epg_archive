@@ -435,19 +435,7 @@
 - eventId:
   - 738073
   - 742448
-  start: 2026-10-20T11:03:00Z
-  stop: 2026-10-20T11:30:00Z
-  title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '35'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 945366
+  - 945366
   start: 2026-10-20T11:03:00Z
   stop: 2026-10-20T11:29:30Z
   title: Studio ČT24
@@ -458,6 +446,8 @@
   genre:
   - '35'
   widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 944011
   start: 2026-10-20T11:05:00Z
   stop: 2026-10-20T11:31:00Z
@@ -469,7 +459,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 945367
+- eventId:
+  - 945367
+  - 945880
   start: 2026-10-20T11:29:30Z
   stop: 2026-10-20T11:32:30Z
   title: Zprávy
@@ -503,7 +495,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 945368
+- eventId:
+  - 945368
+  - 945911
   start: 2026-10-20T11:32:30Z
   stop: 2026-10-20T11:59:30Z
   title: Studio ČT24
@@ -540,7 +534,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 945369
+- eventId:
+  - 945369
+  - 945912
   start: 2026-10-20T11:59:30Z
   stop: 2026-10-20T12:02:30Z
   title: Zprávy
@@ -564,7 +560,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 945370
+- eventId:
+  - 945370
+  - 945915
   start: 2026-10-20T12:02:30Z
   stop: 2026-10-20T12:29:20Z
   title: Studio ČT24
@@ -590,7 +588,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 945371
+- eventId:
+  - 945371
+  - 945916
   start: 2026-10-20T12:29:20Z
   stop: 2026-10-20T12:32:20Z
   title: Zprávy
@@ -614,7 +614,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 945372
+- eventId:
+  - 945372
+  - 945917
   start: 2026-10-20T12:32:20Z
   stop: 2026-10-20T13:00:00Z
   title: Studio ČT24
@@ -674,7 +676,7 @@
   - 738249
   - 742597
   start: 2026-10-20T13:30:00Z
-  stop: 2026-10-20T13:33:00Z
+  stop: 2026-10-20T13:34:55Z
   title: Zprávy
   description: |-
     HDTV
@@ -699,7 +701,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 945672
+- eventId:
+  - 945672
+  - 945918
   start: 2026-10-20T13:34:55Z
   stop: 2026-10-20T13:41:55Z
   title: Studio ČT24
@@ -727,6 +731,17 @@
   hd: true
 - eventId: 945673
   start: 2026-10-20T13:41:55Z
+  stop: 2026-10-20T14:00:55Z
+  title: Ekonomika ČT24
+  subtitle: Nejdůležitější zprávy ze světa peněz každý všední den.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '128'
+  widescreen: true
+- eventId: 945919
+  start: 2026-10-20T13:41:55Z
   stop: 2026-10-20T14:00:00Z
   title: Ekonomika ČT24
   subtitle: Nejdůležitější zprávy ze světa peněz každý všední den.
@@ -752,6 +767,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 945932
+  start: 2026-10-20T14:00:55Z
+  stop: 2026-10-20T14:30:00Z
+  title: Zprávy v 16
+  subtitle: Nejdůležitější události dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Znakový jazyk
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 738253
   - 742601
