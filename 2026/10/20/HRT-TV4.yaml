@@ -1707,7 +1707,7 @@
   description: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
 - eventId: 875965
   start: 2026-10-20T20:13:00Z
-  stop: 2026-10-20T20:43:00Z
+  stop: 2026-10-20T20:42:00Z
   title: 'Zadar: More'
   subtitle: Mozaična informativna emisija posvećena bogatstvu našeg Jadranskog mora, obale i priobalja. Donosi zanimljive reportaže o temama vezanim za život na moru i uz njega.
   ageRating: 4
@@ -1728,6 +1728,14 @@
   title: 'Studio 4: Sportske minute'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 954066
+  start: 2026-10-20T20:42:00Z
+  stop: 2026-10-20T21:02:00Z
+  title: Sportske minute
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
   genre:
   - '160'
@@ -1777,6 +1785,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 954067
+  start: 2026-10-20T21:02:00Z
+  stop: 2026-10-20T21:06:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 875967
   start: 2026-10-20T21:03:00Z
   stop: 2026-10-20T21:06:00Z
@@ -1806,7 +1822,9 @@
   title: '#REPORTAŽE: Koturaljkanje'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 875968
+- eventId:
+  - 875968
+  - 954068
   start: 2026-10-20T21:06:00Z
   stop: 2026-10-20T21:10:00Z
   title: Bez komentara
@@ -1889,6 +1907,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 954069
+  start: 2026-10-20T21:49:00Z
+  stop: 2026-10-20T21:55:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 875972
   start: 2026-10-20T21:50:00Z
   stop: 2026-10-20T21:55:00Z
@@ -1924,7 +1950,9 @@
   title: 'Bez komentara: Sao Paulo, Brazil - Prosvjed protiv Mete zbog navodnog upletanja u izbore'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 875973
+- eventId:
+  - 875973
+  - 954070
   start: 2026-10-20T21:55:00Z
   stop: 2026-10-20T22:00:00Z
   title: Bez komentara
@@ -1986,14 +2014,16 @@
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
 - eventId: 875979
   start: 2026-10-20T23:58:00Z
-  stop: 2026-10-21T00:00:00Z
+  stop: 2026-10-20T23:59:00Z
   title: Vrijeme RH danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 875980
+- eventId:
+  - 875980
+  - 954071
   start: 2026-10-20T23:59:00Z
   stop: 2026-10-21T00:01:00Z
   title: Vrijeme Europa danas
