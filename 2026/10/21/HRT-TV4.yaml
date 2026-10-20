@@ -12,6 +12,12 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 948322
+  start: 2026-10-21T00:00:00Z
+  stop: 2026-10-21T00:02:00Z
+  title: Vrijeme svijet danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 942315
   - 942799
@@ -37,6 +43,7 @@
   - 943688
   - 944033
   - 945174
+  - 948323
   start: 2026-10-21T00:02:00Z
   stop: 2026-10-21T00:22:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -66,6 +73,7 @@
   - 943689
   - 944034
   - 945175
+  - 948324
   start: 2026-10-21T00:22:00Z
   stop: 2026-10-21T00:26:00Z
   title: '#REPORTAŽE: Koturaljkanje'
@@ -106,6 +114,7 @@
   - 943690
   - 944035
   - 945176
+  - 948325
   start: 2026-10-21T00:26:00Z
   stop: 2026-10-21T00:30:00Z
   title: Bez komentara
@@ -376,7 +385,7 @@
   stop: 2026-10-21T04:57:00Z
   title: Otvoreno
   subtitle: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
-  description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
+  description: 'Europa pod pritiskom nasilnih prosvjeda. Francuska uvodi policijski sat, Italija na ulice šalje vojsku, a u albanskoj prijestolnici Tirani prosvjedi traju već sedam dana. Pljačke, sukobi s policijom i uništavanje imovine potaknuli su vlasti na izvanredne sigurnosne mjere. Mogu li strože mjere zaustaviti nasilje ili će nezadovoljstvo građana ponovno eskalirati? Što se događa na europskim ulicama i kako vlasti odgovaraju na krizu? Gosti: Davor Ivo Stier, zastupnik u Europskom parlamentu (HDZ) prof. dr. sc. Goran Bandov, Sveučilište u Zagrebu Denis Avdagić, politički analitičar'
   ageRating: 4
   genre:
   - '160'
@@ -432,16 +441,12 @@
   - 945133
   - 945342
   - 946459
+  - 946807
   start: 2026-10-21T04:57:00Z
   stop: 2026-10-21T04:58:00Z
   title: Bez komentara
-  subtitle: ' '
-  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 946807
-  start: 2026-10-21T04:57:00Z
-  stop: 2026-10-21T05:00:00Z
-  title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
@@ -588,12 +593,24 @@
   description: Kratki pregled vijesti iz Hrvatske i svijeta.
 - eventId: 904722
   start: 2026-10-21T07:30:00Z
-  stop: 2026-10-21T11:00:00Z
+  stop: 2026-10-21T08:00:00Z
   title: Prijenos sjednice Hrvatskog sabora
   subtitle: Prijenos sjednice Hrvatskog sabora.
   ageRating: 4
   genre:
   - '160'
+  description: Prijenos sjednice Hrvatskog sabora.
+- eventId: 948326
+  start: 2026-10-21T08:00:00Z
+  stop: 2026-10-21T09:00:00Z
+  title: Sjednica Vlade RH, prijenos
+  subtitle: ' '
+  description: Sjednica Vlade RH
+- eventId: 948327
+  start: 2026-10-21T09:00:00Z
+  stop: 2026-10-21T11:00:00Z
+  title: Prijenos sjednice Hrvatskog sabora
+  subtitle: ' '
   description: Prijenos sjednice Hrvatskog sabora.
 - eventId: 904723
   start: 2026-10-21T11:00:00Z
@@ -633,14 +650,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 904727
   start: 2026-10-21T11:35:00Z
-  stop: 2026-10-21T11:45:00Z
+  stop: 2026-10-21T11:43:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 946811
+- eventId:
+  - 946811
+  - 948328
   start: 2026-10-21T11:43:00Z
   stop: 2026-10-21T11:48:00Z
   title: Poslovne vijesti
@@ -657,7 +676,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 946812
+- eventId:
+  - 946812
+  - 948329
   start: 2026-10-21T11:48:00Z
   stop: 2026-10-21T11:56:00Z
   title: 'Studio 4: Znanost'
@@ -674,7 +695,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 946813
+- eventId:
+  - 946813
+  - 948330
   start: 2026-10-21T11:56:00Z
   stop: 2026-10-21T12:00:00Z
   title: Bez komentara
@@ -928,14 +951,16 @@
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
 - eventId: 904756
   start: 2026-10-21T15:48:00Z
-  stop: 2026-10-21T15:57:00Z
+  stop: 2026-10-21T15:55:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 946816
+- eventId:
+  - 946816
+  - 948331
   start: 2026-10-21T15:55:00Z
   stop: 2026-10-21T16:00:00Z
   title: Bez komentara
