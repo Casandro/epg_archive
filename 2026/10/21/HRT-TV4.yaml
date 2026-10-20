@@ -20,6 +20,12 @@
   title: Vrijeme svijet danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 953988
+  start: 2026-10-21T00:00:00Z
+  stop: 2026-10-21T00:01:00Z
+  title: Vrijeme Europa danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 942315
   - 942799
@@ -43,6 +49,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 904679
   - 942402
@@ -116,6 +123,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 953989
+  start: 2026-10-21T00:25:00Z
+  stop: 2026-10-21T00:28:00Z
+  title: '#REPORTAŽE: Koturaljkanje'
+  subtitle: ' '
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 922567
   - 923413
@@ -166,6 +179,12 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 953990
+  start: 2026-10-21T00:28:00Z
+  stop: 2026-10-21T00:30:00Z
+  title: 'Bez komentara: Dubrovnik - Održana gastronomska humanitarna manifestacija Dubrovačka trpeza'
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 904682
   start: 2026-10-21T00:30:00Z
   stop: 2026-10-21T00:53:00Z
@@ -178,7 +197,7 @@
 - eventId: 904683
   start: 2026-10-21T00:53:00Z
   stop: 2026-10-21T00:55:00Z
-  title: Bez komentara
+  title: 'Bez komentara: Dubrovnik - Održan Festival svjetlosti Lumiart posvećen Marinu Getaldiću na 400. godišnjicu njegove smrti'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
@@ -214,7 +233,7 @@
 - eventId: 904687
   start: 2026-10-21T01:18:00Z
   stop: 2026-10-21T01:20:00Z
-  title: Bez komentara
+  title: 'Bez komentara: Libija - 15 godina od ubojstva predsjednika Moamara Gadafija'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
@@ -232,7 +251,7 @@
 - eventId: 904689
   start: 2026-10-21T01:28:00Z
   stop: 2026-10-21T01:30:00Z
-  title: Bez komentara
+  title: 'Bez komentara: Santiago, Čile - Sve u znaku Noći vještica'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
@@ -258,13 +277,19 @@
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 904692
   start: 2026-10-21T01:53:00Z
-  stop: 2026-10-21T01:58:00Z
-  title: Bez komentara
+  stop: 2026-10-21T01:57:00Z
+  title: 'Bez komentara: New York, SAD - Leptiri monarsi u središtu pozornosti u njujorškom muzeju'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 953991
+  start: 2026-10-21T01:57:00Z
+  stop: 2026-10-21T02:43:00Z
+  title: Pregled dana
+  subtitle: ' '
+  description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
 - eventId: 904693
   start: 2026-10-21T01:58:00Z
   stop: 2026-10-21T02:43:00Z
@@ -349,7 +374,7 @@
 - eventId: 904702
   start: 2026-10-21T04:08:00Z
   stop: 2026-10-21T04:10:00Z
-  title: Bez komentara
+  title: 'Bez komentara: München, Njemačka - Kratke noge, veliko srce - jazavčari pokazali da mogu biti brzi'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
@@ -462,8 +487,8 @@
   - 946459
   - 946807
   start: 2026-10-21T04:57:00Z
-  stop: 2026-10-21T05:00:00Z
-  title: Bez komentara
+  stop: 2026-10-21T04:58:00Z
+  title: 'Bez komentara: Sao Paulo, Brazil - Prosvjed protiv Mete zbog navodnog upletanja u izbore'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -637,7 +662,9 @@
   title: Studio 4
   subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 952105
+- eventId:
+  - 952105
+  - 953997
   start: 2026-10-21T07:55:00Z
   stop: 2026-10-21T08:00:00Z
   title: Bez komentara
@@ -646,6 +673,7 @@
 - eventId:
   - 948326
   - 952106
+  - 953998
   start: 2026-10-21T08:00:00Z
   stop: 2026-10-21T09:00:00Z
   title: Sjednica Vlade RH, prijenos
@@ -654,6 +682,7 @@
 - eventId:
   - 948327
   - 952107
+  - 953999
   start: 2026-10-21T09:00:00Z
   stop: 2026-10-21T11:00:00Z
   title: Prijenos sjednice Hrvatskog sabora
@@ -697,7 +726,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 904727
   start: 2026-10-21T11:35:00Z
-  stop: 2026-10-21T11:45:00Z
+  stop: 2026-10-21T11:43:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -708,6 +737,7 @@
   - 946811
   - 948328
   - 952108
+  - 954000
   start: 2026-10-21T11:43:00Z
   stop: 2026-10-21T11:48:00Z
   title: Poslovne vijesti
@@ -731,6 +761,7 @@
   - 946812
   - 948329
   - 952109
+  - 954001
   start: 2026-10-21T11:48:00Z
   stop: 2026-10-21T11:56:00Z
   title: 'Studio 4: Znanost'
@@ -754,6 +785,7 @@
   - 946813
   - 948330
   - 952110
+  - 954002
   start: 2026-10-21T11:56:00Z
   stop: 2026-10-21T12:00:00Z
   title: Bez komentara
@@ -890,7 +922,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 904743
   start: 2026-10-21T14:23:00Z
-  stop: 2026-10-21T14:24:00Z
+  stop: 2026-10-21T14:25:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -909,7 +941,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 952111
+- eventId:
+  - 952111
+  - 954003
   start: 2026-10-21T14:25:00Z
   stop: 2026-10-21T14:27:00Z
   title: Vrijeme svijet danas
@@ -927,7 +961,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 952112
+- eventId:
+  - 952112
+  - 954004
   start: 2026-10-21T14:27:00Z
   stop: 2026-10-21T14:30:00Z
   title: Bez komentara
@@ -971,7 +1007,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 904750
   start: 2026-10-21T15:12:00Z
-  stop: 2026-10-21T15:13:00Z
+  stop: 2026-10-21T15:14:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -990,7 +1026,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 952113
+- eventId:
+  - 952113
+  - 954005
   start: 2026-10-21T15:14:00Z
   stop: 2026-10-21T15:16:00Z
   title: Vrijeme svijet danas
@@ -1008,7 +1046,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 952114
+- eventId:
+  - 952114
+  - 954006
   start: 2026-10-21T15:16:00Z
   stop: 2026-10-21T15:20:00Z
   title: Bez komentara
@@ -1043,7 +1083,7 @@
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
 - eventId: 904756
   start: 2026-10-21T15:48:00Z
-  stop: 2026-10-21T15:57:00Z
+  stop: 2026-10-21T15:55:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
@@ -1054,6 +1094,7 @@
   - 946816
   - 948331
   - 952115
+  - 954007
   start: 2026-10-21T15:55:00Z
   stop: 2026-10-21T16:00:00Z
   title: Bez komentara
@@ -1117,7 +1158,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 904762
   start: 2026-10-21T16:54:00Z
-  stop: 2026-10-21T16:55:00Z
+  stop: 2026-10-21T16:56:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -1136,7 +1177,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 952116
+- eventId:
+  - 952116
+  - 954008
   start: 2026-10-21T16:56:00Z
   stop: 2026-10-21T17:00:00Z
   title: Vrijeme svijet sutra
@@ -1162,7 +1205,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 904766
   start: 2026-10-21T17:54:00Z
-  stop: 2026-10-21T17:55:00Z
+  stop: 2026-10-21T17:56:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -1181,7 +1224,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 952117
+- eventId:
+  - 952117
+  - 954009
   start: 2026-10-21T17:56:00Z
   stop: 2026-10-21T18:00:00Z
   title: Vrijeme svijet sutra
@@ -1396,7 +1441,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 904791
   start: 2026-10-21T23:59:00Z
-  stop: 2026-10-22T00:00:00Z
+  stop: 2026-10-22T00:01:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4

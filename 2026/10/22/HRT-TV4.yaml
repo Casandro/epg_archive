@@ -10,7 +10,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 952118
+- eventId:
+  - 952118
+  - 954010
   start: 2026-10-22T00:01:00Z
   stop: 2026-10-22T00:03:00Z
   title: Vrijeme svijet danas
@@ -34,6 +36,12 @@
   title: 'Studio 4: Jutarnji intervju'
   subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+- eventId: 954011
+  start: 2026-10-22T00:03:00Z
+  stop: 2026-10-22T00:22:00Z
+  title: 'Studio 4: Jutarnji intervju'
+  subtitle: ' '
+  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId: 933366
   start: 2026-10-22T00:22:00Z
   stop: 2026-10-22T00:26:00Z
@@ -53,7 +61,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 952120
+- eventId:
+  - 952120
+  - 954012
   start: 2026-10-22T00:23:00Z
   stop: 2026-10-22T00:26:00Z
   title: '#REPORTAŽE: Melisa'
@@ -214,7 +224,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 933384
   start: 2026-10-22T03:54:00Z
-  stop: 2026-10-22T03:55:00Z
+  stop: 2026-10-22T03:56:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -233,7 +243,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 952121
+- eventId:
+  - 952121
+  - 954013
   start: 2026-10-22T03:56:00Z
   stop: 2026-10-22T03:58:00Z
   title: Vrijeme svijet danas
@@ -251,7 +263,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 952122
+- eventId:
+  - 952122
+  - 954014
   start: 2026-10-22T03:58:00Z
   stop: 2026-10-22T04:00:00Z
   title: Bez komentara
@@ -304,7 +318,7 @@
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
 - eventId: 933392
   start: 2026-10-22T04:56:00Z
-  stop: 2026-10-22T05:00:00Z
+  stop: 2026-10-22T04:58:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
