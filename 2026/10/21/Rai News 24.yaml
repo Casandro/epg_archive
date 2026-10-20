@@ -150,7 +150,7 @@
 - eventId: 924277
   start: 2026-10-21T09:00:00Z
   stop: 2026-10-21T09:30:00Z
-  title: TITOLI + NEWS
+  title: TITOLI + TG GIORNI
   subtitle: NOTIZIARIO.
 - eventId: 924278
   start: 2026-10-21T09:30:00Z
@@ -161,18 +161,22 @@
   start: 2026-10-21T09:35:00Z
   stop: 2026-10-21T09:50:00Z
   title: CRONACHE DALL'ITALIA
+  subtitle: .
 - eventId: 924280
   start: 2026-10-21T09:50:00Z
   stop: 2026-10-21T10:00:00Z
   title: FOCUS 24
+  subtitle: .
 - eventId: 924281
   start: 2026-10-21T10:00:00Z
   stop: 2026-10-21T10:30:00Z
-  title: NEWS
+  title: TG EDIZIONE PRINCIPALE
+  subtitle: .
 - eventId: 924282
   start: 2026-10-21T10:30:00Z
-  stop: 2026-10-21T10:45:00Z
+  stop: 2026-10-21T11:00:00Z
   title: SPORT 24
+  subtitle: .
 - eventId: 924283
   start: 2026-10-21T10:45:00Z
   stop: 2026-10-21T11:00:00Z
@@ -180,11 +184,13 @@
 - eventId: 924284
   start: 2026-10-21T11:00:00Z
   stop: 2026-10-21T11:28:00Z
-  title: NEWS + TITOLI
+  title: TITOLI + TG GIORNO
+  subtitle: .
 - eventId: 924285
   start: 2026-10-21T11:28:00Z
   stop: 2026-10-21T11:30:00Z
   title: METEO
+  subtitle: .
 - eventId: 924286
   start: 2026-10-21T11:30:00Z
   stop: 2026-10-21T11:40:00Z
@@ -194,39 +200,51 @@
   start: 2026-10-21T11:40:00Z
   stop: 2026-10-21T12:00:00Z
   title: BASTA LA SALUTE PRIMA EMISSIONE
+  subtitle: .
 - eventId: 924320
   start: 2026-10-21T12:00:00Z
   stop: 2026-10-21T12:30:00Z
-  title: NEWS + TITOLI
+  title: TITOLI + TG GIORNO
+  subtitle: .
 - eventId: 924321
   start: 2026-10-21T12:30:00Z
   stop: 2026-10-21T12:45:00Z
   title: NEWS + SPAZIO RAINEWS.IT
+  subtitle: .
 - eventId: 924322
   start: 2026-10-21T12:45:00Z
   stop: 2026-10-21T13:00:00Z
   title: FOCUS 24
+  subtitle: .
 - eventId: 924323
   start: 2026-10-21T13:00:00Z
   stop: 2026-10-21T13:30:00Z
   title: POMERIGGIO 24
+  subtitle: .
 - eventId: 924324
   start: 2026-10-21T13:30:00Z
   stop: 2026-10-21T14:00:00Z
   title: POMERIGGIO 24
+  subtitle: .
 - eventId: 924325
   start: 2026-10-21T14:00:00Z
   stop: 2026-10-21T14:26:55Z
-  title: NEWS + TITOLI
+  title: TITOLI + TG GIORNO
+  subtitle: .
 - eventId: 924326
   start: 2026-10-21T14:26:55Z
   stop: 2026-10-21T14:30:00Z
   title: METEO
+- eventId: 944563
+  start: 2026-10-21T14:27:00Z
+  stop: 2026-10-21T14:30:00Z
+  title: METEO
+  subtitle: .
 - eventId: 924327
   start: 2026-10-21T14:30:00Z
-  stop: 2026-10-21T14:33:00Z
-  title: TG UCRAINO
-  subtitle: NOTIZIARIO.
+  stop: 2026-10-21T15:00:00Z
+  title: POMERIGGIO 24 + RUBR. LIVE + RUBR. SOCIA
+  subtitle: POMERIGGIO 24 + RUBR. LIVE + RUBR. SOCIAL ROOM - ,
 - eventId: 924328
   start: 2026-10-21T14:33:00Z
   stop: 2026-10-21T15:00:00Z
@@ -234,93 +252,113 @@
 - eventId: 924338
   start: 2026-10-21T15:00:00Z
   stop: 2026-10-21T15:30:00Z
-  title: NEWS + TITOLI
+  title: TITOLI + TG GIORNO
+  subtitle: .
 - eventId: 924339
   start: 2026-10-21T15:30:00Z
   stop: 2026-10-21T15:33:00Z
   title: SERA 24 ANTEPRIMA
+  subtitle: .
 - eventId: 924340
   start: 2026-10-21T15:33:00Z
   stop: 2026-10-21T16:00:00Z
   title: ECONOMIA 24
+  subtitle: .
 - eventId: 924341
   start: 2026-10-21T16:00:00Z
   stop: 2026-10-21T16:30:00Z
   title: SERA 24
+  subtitle: .
 - eventId: 924342
   start: 2026-10-21T16:30:00Z
   stop: 2026-10-21T17:00:00Z
   title: SERA 24
+  subtitle: .
 - eventId: 924343
   start: 2026-10-21T17:00:00Z
   stop: 2026-10-21T17:30:00Z
-  title: NEWS
+  title: TG EDIZIONE PRINCIPALE
+  subtitle: .
 - eventId: 924344
   start: 2026-10-21T17:30:00Z
   stop: 2026-10-21T17:45:00Z
-  title: SPORT 24
+  title: SERA 24 OFF
+  subtitle: .
 - eventId: 924345
   start: 2026-10-21T17:45:00Z
   stop: 2026-10-21T18:00:00Z
-  title: FOCUS 24
+  title: RULLO SPORT 24
+  subtitle: .
 - eventId: 924366
   start: 2026-10-21T18:00:00Z
   stop: 2026-10-21T18:26:55Z
-  title: TG LIS + NEWS
+  title: TG LIS + TG SERA
   subtitle: NOTIZIARIO.
 - eventId: 924367
   start: 2026-10-21T18:26:55Z
   stop: 2026-10-21T18:30:00Z
   title: METEO
+  subtitle: .
 - eventId: 924368
   start: 2026-10-21T18:30:00Z
   stop: 2026-10-21T18:45:00Z
-  title: NEWS + SOMMARIO
+  title: SOMMARIO + TG SERA
   subtitle: NOTIZIARIO.
 - eventId: 924369
   start: 2026-10-21T18:45:00Z
   stop: 2026-10-21T19:00:00Z
   title: FOCUS 24
+  subtitle: .
 - eventId: 924370
   start: 2026-10-21T19:00:00Z
   stop: 2026-10-21T19:30:00Z
-  title: NEWS
+  title: TITOLI + TG SERA
+  subtitle: .
 - eventId: 924371
   start: 2026-10-21T19:30:00Z
   stop: 2026-10-21T19:45:00Z
-  title: FOCUS ESTERI
+  title: FOCUS ESTERI DIRETTA
+  subtitle: .
 - eventId: 924372
   start: 2026-10-21T19:45:00Z
   stop: 2026-10-21T20:00:00Z
   title: BASTA LA SALUTE
+  subtitle: .
 - eventId: 924373
   start: 2026-10-21T20:00:00Z
   stop: 2026-10-21T20:30:00Z
-  title: NEWS + TITOLI
+  title: TITOLI + TG SERA
+  subtitle: .
 - eventId: 924374
   start: 2026-10-21T20:30:00Z
   stop: 2026-10-21T21:00:00Z
   title: FACCIA A FACCIA
+  subtitle: .
 - eventId: 924391
   start: 2026-10-21T21:00:00Z
   stop: 2026-10-21T21:30:00Z
   title: NOTTE 24 - RASSEGNA STAMPA
+  subtitle: .
 - eventId: 924392
   start: 2026-10-21T21:30:00Z
   stop: 2026-10-21T22:00:00Z
   title: NOTTE 24 - RASSEGNA STAMPA
+  subtitle: .
 - eventId: 924393
   start: 2026-10-21T22:00:00Z
   stop: 2026-10-21T22:25:00Z
-  title: NEWS
+  title: TG NOTTE
+  subtitle: .
 - eventId: 924394
   start: 2026-10-21T22:25:00Z
   stop: 2026-10-21T22:30:00Z
   title: METEO
+  subtitle: .
 - eventId: 924395
   start: 2026-10-21T22:30:00Z
   stop: 2026-10-21T23:00:00Z
   title: FACCIA A FACCIA
+  subtitle: .
 - eventId: 924396
   start: 2026-10-21T23:00:00Z
   stop: 2026-10-21T23:30:00Z
@@ -330,3 +368,4 @@
   start: 2026-10-21T23:30:00Z
   stop: 2026-10-22T00:00:00Z
   title: REPLICA RASSEGNA STAMPA
+  subtitle: .
