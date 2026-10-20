@@ -293,6 +293,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 1430386
   - 1625605
@@ -315,12 +316,14 @@
   start: 2026-10-30T16:53:00Z
   stop: 2026-10-30T17:00:00Z
   title: Unser Sandmännchen
-  subtitle: 'Moffellieder: Hopsetag'
+  subtitle: Moffellieder - Hopsetag
   episodeUri: crid://onid-8468/e/6aad1d4f2e0e22a5d49ca3d2
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1430388
   - 1625607
@@ -432,6 +435,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '97'
 - eventId:
   - 1430452
   - 1625727
