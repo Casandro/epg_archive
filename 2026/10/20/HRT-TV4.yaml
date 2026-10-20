@@ -1022,6 +1022,7 @@
   - 922565
   - 945290
   - 945544
+  - 946886
   start: 2026-10-20T12:55:00Z
   stop: 2026-10-20T13:00:00Z
   title: Bez komentara
@@ -1147,7 +1148,7 @@
   - '32'
 - eventId: 874642
   start: 2026-10-20T14:26:00Z
-  stop: 2026-10-20T14:30:00Z
+  stop: 2026-10-20T14:31:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -1184,6 +1185,14 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 946887
+  start: 2026-10-20T14:31:00Z
+  stop: 2026-10-20T14:56:00Z
+  title: 'DW: Sutrašnjica danas'
+  subtitle: Emisija Deutsche Wellea o europskom načinu života, donosi zanimljivosti iz europskih gradova.
+  ageRating: 4
+  genre:
+  - '128'
 - eventId:
   - 942305
   - 942788
@@ -1206,6 +1215,7 @@
   - 945163
   - 945292
   - 945546
+  - 946888
   start: 2026-10-20T14:57:00Z
   stop: 2026-10-20T15:05:00Z
   title: 'Studio 4: Kultura'
@@ -1236,6 +1246,7 @@
   - 945164
   - 945293
   - 945547
+  - 946889
   start: 2026-10-20T15:05:00Z
   stop: 2026-10-20T15:13:00Z
   title: 'Studio 4: Znanost'
@@ -1387,11 +1398,15 @@
   - 945120
   - 945333
   - 946450
+  - 946798
   start: 2026-10-20T15:44:00Z
   stop: 2026-10-20T15:51:00Z
   title: 'Studio 4: Sport'
-  subtitle: ' '
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 874651
   - 941982
@@ -1417,11 +1432,15 @@
   - 945121
   - 945334
   - 946451
+  - 946799
   start: 2026-10-20T15:51:00Z
   stop: 2026-10-20T15:57:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 874652
   - 941983
@@ -1549,6 +1568,14 @@
   title: Vrijeme svijet sutra
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 946800
+  start: 2026-10-20T16:56:00Z
+  stop: 2026-10-20T17:00:00Z
+  title: Vrijeme Svijet sutra
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 928753
   - 928877
@@ -1632,11 +1659,15 @@
   - 945123
   - 945336
   - 946453
+  - 946801
   start: 2026-10-20T18:56:00Z
   stop: 2026-10-20T19:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 875962
   - 942396
@@ -1693,6 +1724,14 @@
   title: 'Studio 4: Sportske minute'
   subtitle: ' '
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+- eventId: 946802
+  start: 2026-10-20T20:42:00Z
+  stop: 2026-10-20T21:02:00Z
+  title: Sportske minute
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 875966
   start: 2026-10-20T20:43:00Z
   stop: 2026-10-20T21:03:00Z
@@ -1729,6 +1768,14 @@
   title: '#REPORTAŽE: Koturaljkanje'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 946803
+  start: 2026-10-20T21:02:00Z
+  stop: 2026-10-20T21:06:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 875967
   start: 2026-10-20T21:03:00Z
   stop: 2026-10-20T21:06:00Z
@@ -1787,11 +1834,15 @@
   - 945126
   - 945339
   - 946456
+  - 946804
   start: 2026-10-20T21:29:00Z
   stop: 2026-10-20T21:49:00Z
   title: 'Studio 4: Jutarnji intervju'
-  subtitle: ' '
+  subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 875971
   - 942399
@@ -1821,6 +1872,14 @@
   title: '#REPORTAŽE: Urar'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 946805
+  start: 2026-10-20T21:49:00Z
+  stop: 2026-10-20T21:55:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 875972
   start: 2026-10-20T21:50:00Z
   stop: 2026-10-20T21:55:00Z
@@ -1909,7 +1968,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 875980
   start: 2026-10-20T23:59:00Z
-  stop: 2026-10-21T00:00:00Z
+  stop: 2026-10-21T00:01:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
