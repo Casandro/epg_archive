@@ -198,13 +198,15 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1482599
   - 606124
   start: 2026-11-01T13:45:00Z
   stop: 2026-11-01T15:15:00Z
   title: Hochzeit in Rom
-  subtitle: Spielfilm Deutschland 2017
+  subtitle: Fernsehfilm Deutschland 2017
   episodeUri: crid://onid-1/e/6ab44ed4290752916871f347
   genre:
   - '16'
@@ -212,6 +214,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 1482619
   - 598634
@@ -348,7 +351,7 @@
   start: 2026-11-01T19:15:00Z
   stop: 2026-11-01T20:00:00Z
   title: Wildes Venedig
-  subtitle: Film von Klaus Steindl
+  subtitle: Deutschland/Österreich 2014
   episodeUri: crid://onid-1/e/6ab44ed4290752916871f333
   widescreen: true
   subtitled: true
@@ -360,7 +363,7 @@
   start: 2026-11-01T20:00:00Z
   stop: 2026-11-01T20:45:00Z
   title: Wildes Prag
-  subtitle: Film von Jan Hosek
+  subtitle: Tschechische Republik 2022
   episodeUri: crid://onid-1/e/6ab44ed4290752916871f331
   widescreen: true
   subtitled: true
@@ -381,7 +384,7 @@
   - 1482702
   - 564612
   start: 2026-11-01T21:00:00Z
-  stop: 2026-11-01T23:45:00Z
+  stop: 2026-11-01T23:00:00Z
   title: Der radioeins Kommentatoren Talk
   subtitle: Live aus dem Tipi am Kanzleramt
   episodeUri: crid://onid-1/e/6ab44ed4290752916871f32d
@@ -392,6 +395,7 @@
 - eventId:
   - 1482703
   - 564613
+  - 950322
   start: 2026-11-01T23:00:00Z
   stop: 2026-11-01T23:30:00Z
   title: rbbKultur - Das Magazin
@@ -404,6 +408,7 @@
 - eventId:
   - 1482704
   - 564614
+  - 950323
   start: 2026-11-01T23:30:00Z
   stop: 2026-11-02T00:15:00Z
   title: 'rbb Story: Windkraft vor der Tür'
