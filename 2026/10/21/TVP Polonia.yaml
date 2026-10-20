@@ -2,18 +2,18 @@
   start: 2026-10-21T00:05:00Z
   stop: 2026-10-21T00:10:00Z
   title: Sport
-  description: |
-    Tytuł oryginalny: Sport
-    PL, 2026
+  description: |-
+    magazyn
+    Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.
   genre:
   - '66'
 - eventId: 768145
   start: 2026-10-21T00:10:00Z
   stop: 2026-10-21T00:15:00Z
   title: Pogoda
-  description: |
-    Tytuł oryginalny: Pogoda
-    PL, 2025
+  description: |-
+    program informacyjny
+    Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.
   genre:
   - '32'
 - eventId: 768146
@@ -47,8 +47,12 @@
 - eventId: 768148
   start: 2026-10-21T02:45:00Z
   stop: 2026-10-21T03:05:00Z
-  title: Polscy szpiedzy - Płk Wojciech Martynowicz
-  description: Wioletta Firlej rozmawia z byłymi oficerami polskiego wywiadu. Przez lata działali w cieniu, tam gdzie stawką były państwowe tajemnice, bezpieczeństwo i ludzkie życie.
+  title: 'Polscy szpiedzy: Pułkownik Wojciech Martynowicz'
+  description: |-
+    program publicystyczny, dysk./wywiad/debata (Polska, 2026), Pułkownik Wojciech Martynowicz
+    Prowadzą: Wioleta Firlej
+    Praca wywiadu zazwyczaj pozostaje w cieniu. Więcej światła na tę tematykę rzucają byli funkcjonariusze, którzy po zakończeniu kariery mogą swobodniej mówić o swoich doświadczeniach. Wioleta Firlej rozmawia z przedstawicielami elity polskiego wywiadu. Jej goście odsłaniają kulisy wybranych akcji i pracy tajnych służb.
+    Od lat: 12
   ageRating: 12
   genre:
   - '36'
@@ -69,8 +73,8 @@
   subtitle: Rawiczowa odkrywa, że łączy ją z Basią wiele wspólnych tematów, a jej relacja z Tolkiem ulega wyraźnemu zacieśnieniu. Klemens uświadamia Dominice powagę sytuacji i ryzyko, jakie niesie za sobą dalsza współpraca z Renatą.
 - eventId: 768163
   start: 2026-10-21T03:35:00Z
-  stop: 2026-10-21T04:00:00Z
-  title: Gra słów. Krzyżówka - /1162/
+  stop: 2026-10-21T03:55:00Z
+  title: 'Gra słów. Krzyżówka: odc.1162'
   description: |-
     Tytuł oryginalny: Gra słów. Krzyżówka
     PL, 2026
@@ -80,13 +84,18 @@
   genre:
   - '112'
   subtitle: Codzienny teleturniej sprawdzający wiedzę, oparty na formule krzyżówki. Czworo uczestników zmierzy się ze sobą, by zdobyć tytuł finalisty dnia i uzyskać możliwość wzięcia udziału w finale tygodnia.
+- eventId: 950096
+  start: 2026-10-21T03:55:00Z
+  stop: 2026-10-21T04:00:00Z
+  title: Zakończenie programu
+  description: .
 - eventId: 768164
   start: 2026-10-21T04:00:00Z
   stop: 2026-10-21T04:30:00Z
   title: Panorama
-  description: |
-    Tytuł oryginalny: Panorama
-    PL, 2026
+  description: |-
+    program informacyjny
+    Podsumowanie najważniejszych wydarzeń dnia z kraju i ze świata. W programie oprócz materiałów czysto newsowych, politycznych, społecznych, gospodarczych, medycznych, naukowych i kulturalnych znajdą się również analizy konkretnych zagadnień oraz wypowiedzi ekspertów.
   genre:
   - '149'
   subtitle: Główny program informacyjny telewizyjnej Dwójki, podsumowujący najważniejsze wydarzenia minionego dnia w kraju i na świecie.
@@ -119,7 +128,10 @@
   start: 2026-10-21T05:30:00Z
   stop: 2026-10-21T05:55:00Z
   title: Pytanie na śniadanie - pobudka
-  description: Program służy pogłębianiu znajomości i upowszechnianiu kultury w zakresie muzyki, literatury, teatru i tańca. Jest źródłem wiedzy na temat wydarzeń także natury ekonomicznej i społecznej.
+  description: |-
+    magazyn (Polska, 2026) (na żywo)
+    Poranny program telewizyjnej Dwójki, w którym eksperci odpowiadają na ważne pytania, analizują codzienne sprawy i dzielą się praktycznymi poradami.
+    Od lat: 12
   ageRating: 12
   genre:
   - '149'
@@ -128,7 +140,10 @@
   start: 2026-10-21T05:55:00Z
   stop: 2026-10-21T09:35:00Z
   title: Pytanie na śniadanie
-  description: Program służy pogłębianiu znajomości i upowszechnianiu kultury w zakresie muzyki, literatury, teatru i tańca. Jest źródłem wiedzy na temat wydarzeń także natury ekonomicznej i społecznej.
+  description: |-
+    magazyn (Polska, 2026) (na żywo)
+    Każdy program poświęcony jest innej kwestii. Na pytania związane z konkretnym tematem odpowiadają zaproszeni do studia specjaliści, eksperci z różnych dziedzin, polskie i zagraniczne gwiazdy.
+    Od lat: 12
   ageRating: 12
   genre:
   - '149'
