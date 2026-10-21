@@ -76,11 +76,22 @@
   title: Weather
 - eventId: 799145
   start: 2026-10-22T03:00:00Z
-  stop: 2026-10-22T03:15:00Z
+  stop: 2026-10-22T03:10:00Z
   title: World News Flash
   description: Summary of the most important information. The programme provides the most important information in an accessible way.
   genre:
   - '149'
+- eventId: 975315
+  start: 2026-10-22T03:10:00Z
+  stop: 2026-10-22T03:11:00Z
+  title: Weather
+- eventId: 975316
+  start: 2026-10-22T03:11:00Z
+  stop: 2026-10-22T03:55:00Z
+  title: 'Bones of Contention: The Global Dinosaur Skeleton Trade'
+  ageRating: 12
+  genre:
+  - '145'
 - eventId: 799146
   start: 2026-10-22T03:15:00Z
   stop: 2026-10-22T03:55:00Z
@@ -484,9 +495,10 @@
 - eventId: 799653
   start: 2026-10-22T17:45:00Z
   stop: 2026-10-22T18:00:00Z
-  title: World Talks - Rozmowa Wybrana
+  title: TVP World Special Report - Serbia - after collapse
   genre:
   - '149'
+  ageRating: 12
 - eventId: 799418
   start: 2026-10-22T18:00:00Z
   stop: 2026-10-22T18:30:00Z
