@@ -2123,7 +2123,9 @@
   genre:
   - '32'
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 904789
+- eventId:
+  - 904789
+  - 978845
   start: 2026-10-21T23:05:00Z
   stop: 2026-10-21T23:58:00Z
   title: Dnevnik 2
@@ -2150,6 +2152,7 @@
 - eventId:
   - 904791
   - 954628
+  - 978846
   start: 2026-10-21T23:59:00Z
   stop: 2026-10-22T00:01:00Z
   title: Vrijeme Europa danas
