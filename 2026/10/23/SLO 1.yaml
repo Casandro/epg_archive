@@ -8,12 +8,20 @@
   - '32'
 - eventId: 956843
   start: 2026-10-23T04:35:00Z
-  stop: 2026-10-23T04:50:00Z
+  stop: 2026-10-23T04:45:00Z
   title: Kultura
   subtitle: Kultura je kratka aktualna informativna oddaja o kulturi in umetnosti, v kateri se praviloma izpostavljajo osrednji dogodki dneva. V njej najdejo prostor tudi mednarodne novice in problemske teme.
   ageRating: 4
   genre:
   - '160'
+- eventId: 959844
+  start: 2026-10-23T04:45:00Z
+  stop: 2026-10-23T05:00:00Z
+  title: Šport
+  subtitle: Zadnji pregled športnega dogajanja v dnevu je prelet dneva z vsemi najpomembnejšimi novicami, zlasti popoldanskimi in svežimi večernimi, ter napoved novega tekmovalnega dne.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 956844
   start: 2026-10-23T04:50:00Z
   stop: 2026-10-23T05:00:00Z
@@ -92,6 +100,12 @@
   title: Vem!
   subtitle: V zabavnem kvizu trije tekmovalci odgovarjajo na enostavna vprašanja.
   ageRating: 4
+- eventId: 959845
+  start: 2026-10-23T08:55:00Z
+  stop: 2026-10-23T09:30:00Z
+  title: Vem!
+  subtitle: V zabavnem kvizu trije tekmovalci odgovarjajo na enostavna vprašanja.
+  ageRating: 4
 - eventId: 956854
   start: 2026-10-23T09:30:00Z
   stop: 2026-10-23T09:45:00Z
@@ -166,6 +180,14 @@
   - '160'
 - eventId: 956863
   start: 2026-10-23T13:45:00Z
+  stop: 2026-10-23T14:10:00Z
+  title: NaGlas!
+  subtitle: V Sloveniji študira skoraj 12 tisoč tujih študentov. Velika večina, približno 80 odstotkov oziroma 9500, jih je iz držav nekdanje Jugoslavije.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 959846
+  start: 2026-10-23T13:50:00Z
   stop: 2026-10-23T14:10:00Z
   title: NaGlas!
   subtitle: V Sloveniji študira skoraj 12 tisoč tujih študentov. Velika večina, približno 80 odstotkov oziroma 9500, jih je iz držav nekdanje Jugoslavije.
@@ -352,7 +374,7 @@
   - '160'
 - eventId: 956891
   start: 2026-10-23T21:05:00Z
-  stop: 2026-10-23T22:55:00Z
+  stop: 2026-10-23T23:05:00Z
   title: 'Kinoteka: Pred dežjem'
   subtitle: Mednarodni preboj makedonskega filma§§Mladi ortodoksni menih Kiril, ki se je zavezal k molčečnosti, spozna mlado Albanko Zamiro, ki je obtožena umora in je na begu.
   ageRating: 4
@@ -366,8 +388,24 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 959847
+  start: 2026-10-23T23:05:00Z
+  stop: 2026-10-23T23:30:00Z
+  title: Dnevnik Slovencev v Italiji
+  subtitle: Dnevnik Slovencev v Italiji je informativna oddaja, v kateri novinarji poročajo predvsem o dnevnih dogodkih med Slovenci v Italiji.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 956893
   start: 2026-10-23T23:20:00Z
+  stop: 2026-10-24T04:10:00Z
+  title: Napovedujemo
+  subtitle: Napovednik programa.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 959848
+  start: 2026-10-23T23:30:00Z
   stop: 2026-10-24T04:10:00Z
   title: Napovedujemo
   subtitle: Napovednik programa.
