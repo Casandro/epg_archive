@@ -196,6 +196,11 @@
   stop: 2026-10-22T12:00:50Z
   title: Dobré odpoledne s ČRo Olomouc
   description: Každé odpoledne s námi je prozářené pohodou! Aktuální reportáže, rozhovory, pozvánkový servis a dobrá muzika. Moderuje Zora Ježková.
+- eventId: 962485
+  start: 2026-10-22T12:00:00Z
+  stop: 2026-10-22T12:04:00Z
+  title: Zprávy ČRo Olomouc
+  subtitle: Přehled toho nejdůležitějšího, co se právě odehrává nejen v Olomouckém kraji.
 - eventId: 957786
   start: 2026-10-22T12:04:00Z
   stop: 2026-10-22T12:10:00Z
@@ -241,7 +246,9 @@
   stop: 2026-10-22T14:59:50Z
   title: Humoriáda
   description: Vybírejte si scénky v hodině plné humoru na přání. Scénky vám nabízí Petr Salava a moderuje Patrik Rozehnal. Hlasujte formou SMS ve tvaru HUMOR A nebo B na číslo 90 011 04 nebo volejte 731 800 900.
-- eventId: 957926
+- eventId:
+  - 957926
+  - 962487
   start: 2026-10-22T15:00:00Z
   stop: 2026-10-22T15:04:00Z
   title: Zprávy ČRo Olomouc
