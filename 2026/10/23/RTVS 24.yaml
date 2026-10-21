@@ -104,7 +104,7 @@
   - '33'
 - eventId: 965131
   start: 2026-10-23T02:15:00Z
-  stop: 2026-10-23T03:00:00Z
+  stop: 2026-10-23T03:05:00Z
   title: Komentáre dňa (120)
   subtitle: Aktuálne témy z rôznych uhlov pohľadu. Moderovaná diskusia so zaujímavými hosťami.
   description: Aktuálne témy z rôznych uhlov pohľadu. Moderovaná diskusia so zaujímavými hosťami. (2026)
@@ -489,10 +489,10 @@
   - '33'
 - eventId: 940733
   start: 2026-10-23T22:40:00Z
-  stop: 2026-10-23T23:00:00Z
-  title: Počasie (296)
-  subtitle: Každý pracovný deň vám prinášame predpoveď počasia.
-  description: Každý pracovný deň vám prinášame predpoveď počasia. (2026)
+  stop: 2026-10-23T22:55:00Z
+  title: Góly-body-sekundy (296)
+  subtitle: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu.
+  description: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu. (2026)
   genre:
   - '33'
 - eventId: 829744
@@ -501,6 +501,14 @@
   title: Góly-body-sekundy (296)
   subtitle: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu.
   description: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu. (2026)
+  genre:
+  - '33'
+- eventId: 965366
+  start: 2026-10-23T22:55:00Z
+  stop: 2026-10-23T23:05:00Z
+  title: Počasie (296)
+  subtitle: Každý pracovný deň vám prinášame predpoveď počasia.
+  description: Každý pracovný deň vám prinášame predpoveď počasia. (2026)
   genre:
   - '33'
 - eventId: 940734
@@ -518,6 +526,14 @@
   description: Každý pracovný deň vám prinášame predpoveď počasia. (2026)
   genre:
   - '33'
+- eventId: 965367
+  start: 2026-10-23T23:05:00Z
+  stop: 2026-10-23T23:30:00Z
+  title: Správy z regiónov (79)
+  subtitle: Novinky, ktoré rezonujú v jednotlivých regiónoch Slovenska.
+  description: Novinky, ktoré rezonujú v jednotlivých regiónoch Slovenska. (2026)
+  genre:
+  - '33'
 - eventId: 829746
   start: 2026-10-23T23:15:00Z
   stop: 2026-10-23T23:40:00Z
@@ -526,6 +542,14 @@
   description: Novinky, ktoré rezonujú v jednotlivých regiónoch Slovenska. (2026)
   genre:
   - '33'
+- eventId: 965368
+  start: 2026-10-23T23:30:00Z
+  stop: 2026-10-23T23:55:00Z
+  title: Svet :24 (208)
+  subtitle: Najdôležitejšie udalosti zo sveta doplnené názormi odborníkov.
+  description: Najdôležitejšie udalosti zo sveta doplnené názormi odborníkov. (2026)
+  genre:
+  - '36'
 - eventId: 829747
   start: 2026-10-23T23:40:00Z
   stop: 2026-10-24T00:05:00Z
@@ -534,3 +558,11 @@
   description: Prehľad najdôležitejších udalostí vo svete ekonomiky a hospodárstva doplnený názormi špičkových ekonómov, analytikov a odborníkov v danej oblasti. (2026)
   genre:
   - '34'
+- eventId: 965369
+  start: 2026-10-23T23:55:00Z
+  stop: 2026-10-24T00:20:00Z
+  title: Správy :24 (289)
+  subtitle: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24.
+  description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
+  genre:
+  - '33'
