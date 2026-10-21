@@ -1223,7 +1223,7 @@
   - 764335
   - 771123
   start: 2026-10-21T17:00:00Z
-  stop: 2026-10-21T17:54:00Z
+  stop: 2026-10-21T17:54:08Z
   title: Události
   subtitle: Hlavní zpravodajská relace České televize. Souhrn nejdůležitějších událostí dne v ČR i ve světě.
   description: |-
@@ -1248,7 +1248,9 @@
   - '33'
   widescreen: true
   hd: true
-- eventId: 975914
+- eventId:
+  - 975914
+  - 976608
   start: 2026-10-21T17:54:08Z
   stop: 2026-10-21T17:56:00Z
   title: Počasí v evropských metropolích
@@ -1354,12 +1356,14 @@
   subtitle: Souhrn meteorologických informací.
   description: |-
     HDTV
+    Zvukový popis
     Skryté titulky
   genre:
   - '33'
   widescreen: true
   subtitled: true
   hd: true
+  audiodesc: true
 - eventId:
   - 764630
   - 771387
