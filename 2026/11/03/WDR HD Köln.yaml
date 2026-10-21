@@ -27,6 +27,15 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 969799
+  start: 2026-11-03T00:15:00Z
+  stop: 2026-11-03T00:55:00Z
+  title: Werwölfe - Das Spiel von List und Täuschung
+  subtitle: Abschied & Neubeginn
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 731459
   start: 2026-11-03T00:35:00Z
   stop: 2026-11-03T00:40:00Z
@@ -50,6 +59,14 @@
   stop: 2026-11-03T01:30:00Z
   title: Quizduell-Olymp (523)
   subtitle: 'Gäste: Friedrich Mücke und Emilia Schüle'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 969800
+  start: 2026-11-03T00:55:00Z
+  stop: 2026-11-03T01:30:00Z
+  title: Erlebnisreisen
   widescreen: true
   subtitled: true
   hd: true
@@ -192,7 +209,7 @@
   start: 2026-11-03T07:25:00Z
   stop: 2026-11-03T08:10:00Z
   title: In aller Freundschaft - 1036. Zwischen allen Stühlen
-  subtitle: Deutschland 2023
+  subtitle: Zwischen allen Stühlen
   widescreen: true
   subtitled: true
   hd: true
@@ -224,12 +241,14 @@
   - 593488
   start: 2026-11-03T09:25:00Z
   stop: 2026-11-03T10:10:00Z
-  title: Mittendrin - Flughafen Frankfurt
+  title: Mittendrin - Flughafen Frankfurt (60)
   subtitle: 60. Alina fliegt A330neo
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId:
   - 1537451
   - 593489
@@ -246,7 +265,7 @@
   - 593490
   start: 2026-11-03T10:55:00Z
   stop: 2026-11-03T11:45:00Z
-  title: Elefant, Tiger & Co.
+  title: Elefant, Tiger & Co. (445)
   subtitle: Geschichten aus dem Leipziger Zoo
   widescreen: true
   subtitled: true
@@ -268,8 +287,8 @@
   - 593728
   start: 2026-11-03T12:00:00Z
   stop: 2026-11-03T12:50:00Z
-  title: Seehund, Puma & Co.
-  subtitle: Pappkameraden
+  title: Seehund, Puma & Co. (177)
+  subtitle: Zoogeschichten von der Küste
   widescreen: true
   subtitled: true
   hd: true
@@ -279,7 +298,7 @@
   - 593729
   start: 2026-11-03T12:50:00Z
   stop: 2026-11-03T13:20:00Z
-  title: Neues aus dem Münchner Tierpark Hellabrunn
+  title: Neues aus dem Münchner Tierpark Hellabrunn (16)
   subtitle: Rapti ist schwanger
   widescreen: true
   subtitled: true
@@ -296,6 +315,9 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
+  genre:
+  - '16'
 - eventId:
   - 1537497
   - 593731
@@ -307,6 +329,9 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
+  genre:
+  - '16'
 - eventId:
   - 1537547
   - 593993
@@ -389,13 +414,14 @@
   start: 2026-11-03T19:15:00Z
   stop: 2026-11-03T20:45:00Z
   title: Tatort - Der Mörder in mir
-  subtitle: Spielfilm Deutschland 2022
+  subtitle: Fernsehfilm Deutschland 2022
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 1537596
   - 594285
@@ -413,7 +439,7 @@
   start: 2026-11-03T21:15:00Z
   stop: 2026-11-03T22:45:00Z
   title: Zeit zu beten. Ein Krimi aus Passau
-  subtitle: Spielfilm Deutschland 2024
+  subtitle: Fernsehfilm Deutschland 2023
   ageRating: 12
   genre:
   - '16'
@@ -427,7 +453,7 @@
   start: 2026-11-03T22:45:00Z
   stop: 2026-11-04T00:15:00Z
   title: Gier nach Gold. Ein Krimi aus Passau
-  subtitle: Spielfilm Deutschland 2024
+  subtitle: Fernsehfilm Deutschland 2024
   ageRating: 12
   genre:
   - '16'
