@@ -1294,7 +1294,7 @@
   - 771275
   - 975915
   start: 2026-10-21T18:07:00Z
-  stop: 2026-10-21T19:30:29Z
+  stop: 2026-10-21T19:32:18Z
   title: 90' ČT24
   subtitle: Podstatná témata, hlavní události dne a jejich aktéři debatují a odpovídají na otázky moderátora a diváků.
   description: |-
@@ -1334,6 +1334,17 @@
   hd: true
 - eventId: 976893
   start: 2026-10-21T19:30:29Z
+  stop: 2026-10-21T20:00:00Z
+  title: Horizont ČT24
+  subtitle: "I přes americký tlak Ukrajina neustupuje\nVědci kvůli nejistému funancování univerzit opouští USA \nKrádeže mobilů - jedno z témat prezidentských voleb v Brazílii\n\nModeruje: Hana Scharfová."
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 977093
+  start: 2026-10-21T19:32:18Z
   stop: 2026-10-21T20:00:00Z
   title: Horizont ČT24
   subtitle: "I přes americký tlak Ukrajina neustupuje\nVědci kvůli nejistému funancování univerzit opouští USA \nKrádeže mobilů - jedno z témat prezidentských voleb v Brazílii\n\nModeruje: Hana Scharfová."
@@ -1390,6 +1401,31 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 977094
+  start: 2026-10-21T21:07:44Z
+  stop: 2026-10-21T21:29:44Z
+  title: Zprávy ve 23
+  subtitle: Nejdůležitější události dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+- eventId: 977188
+  start: 2026-10-21T21:29:44Z
+  stop: 2026-10-21T22:00:00Z
+  title: Interview ČT24
+  subtitle: |-
+    Host: Martin Kuba /NČ/, předseda hnutí, hejtman Jihočeského kraje
+    Moderuje: Jiří Václavek.
+  description: |-
+    HDTV
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 764631
   - 771388
@@ -1410,6 +1446,7 @@
 - eventId:
   - 764632
   - 771389
+  - 977147
   start: 2026-10-21T22:00:00Z
   stop: 2026-10-21T22:10:00Z
   title: Zprávy
@@ -1424,6 +1461,7 @@
 - eventId:
   - 764633
   - 771390
+  - 977148
   start: 2026-10-21T22:10:00Z
   stop: 2026-10-21T23:00:00Z
   title: Studio ČT24
@@ -1439,6 +1477,7 @@
 - eventId:
   - 764634
   - 771391
+  - 977299
   start: 2026-10-21T23:00:00Z
   stop: 2026-10-21T23:10:00Z
   title: Zprávy
@@ -1453,6 +1492,7 @@
 - eventId:
   - 764635
   - 771392
+  - 977300
   start: 2026-10-21T23:10:00Z
   stop: 2026-10-22T00:00:00Z
   title: Studio ČT24
