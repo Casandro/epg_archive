@@ -1248,6 +1248,14 @@
   - '33'
   widescreen: true
   hd: true
+- eventId: 975914
+  start: 2026-10-21T17:54:08Z
+  stop: 2026-10-21T17:56:00Z
+  title: Počasí v evropských metropolích
+  description: HDTV
+  genre:
+  - '33'
+  widescreen: true
 - eventId:
   - 764337
   - 771125
@@ -1282,6 +1290,7 @@
 - eventId:
   - 764560
   - 771275
+  - 975915
   start: 2026-10-21T18:07:00Z
   stop: 2026-10-21T19:30:00Z
   title: 90' ČT24
@@ -1308,6 +1317,7 @@
 - eventId:
   - 764561
   - 771276
+  - 975916
   start: 2026-10-21T19:30:00Z
   stop: 2026-10-21T20:00:00Z
   title: Horizont ČT24
@@ -1374,12 +1384,14 @@
   subtitle: Profilový rozhovor s významnou osobností, která má co říci k aktuálnímu dění v ČR nebo ve světě.
   description: |-
     HDTV
+    Zvukový popis
     Skryté titulky
   genre:
   - '35'
   widescreen: true
   subtitled: true
   hd: true
+  audiodesc: true
 - eventId:
   - 764632
   - 771389
