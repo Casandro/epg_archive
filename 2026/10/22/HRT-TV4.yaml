@@ -409,8 +409,11 @@
   start: 2026-10-22T04:27:00Z
   stop: 2026-10-22T04:57:00Z
   title: Otvoreno
-  subtitle: ' '
+  subtitle: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 933392
   start: 2026-10-22T04:56:00Z
   stop: 2026-10-22T04:58:00Z
@@ -454,10 +457,13 @@
   - 969869
   - 970780
   start: 2026-10-22T04:57:00Z
-  stop: 2026-10-22T04:58:00Z
+  stop: 2026-10-22T05:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 933393
   start: 2026-10-22T05:00:00Z
   stop: 2026-10-22T05:10:00Z
@@ -655,7 +661,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 933414
   start: 2026-10-22T11:35:00Z
-  stop: 2026-10-22T11:43:00Z
+  stop: 2026-10-22T11:45:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -670,7 +676,9 @@
   title: Poslovne vijesti
   subtitle: ' '
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 933415
+- eventId:
+  - 933415
+  - 971831
   start: 2026-10-22T11:45:00Z
   stop: 2026-10-22T11:50:00Z
   title: Poslovne vijesti
@@ -687,7 +695,9 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 933416
+- eventId:
+  - 933416
+  - 971832
   start: 2026-10-22T11:50:00Z
   stop: 2026-10-22T12:00:00Z
   title: 'Studio 4: Znanost'
@@ -1087,7 +1097,7 @@
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 934574
   start: 2026-10-22T18:02:00Z
-  stop: 2026-10-22T18:03:00Z
+  stop: 2026-10-22T18:05:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -1111,6 +1121,14 @@
   genre:
   - '160'
   description: Tjedni vanjskopolitički magazin koji informira, približava i analizira svjetske događaje, procese, izazove i prijetnje.
+- eventId: 971833
+  start: 2026-10-22T18:05:00Z
+  stop: 2026-10-22T18:28:00Z
+  title: 'Agenda: Svijet'
+  subtitle: Tjedni vanjskopolitički magazin koji informira, približava i analizira svjetske događaje, procese, izazove i prijetnje.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 970788
   - 971482
@@ -1128,6 +1146,14 @@
   genre:
   - '160'
   description: Podaci su alarmantni! Kad je riječ o liječnicima obiteljske medicine, odavno smo u crvenom. U Hrvatskoj ih nedostaje 288, u sljedećih pet godina njih gotovo 900 odlazi u mirovinu. U manjim sredinama i na otocima zdravstvena skrb bi teško funkcionirala bez liječnika koji su u Hrvatsku stigli iz susjednih zemalja. Labirint donosi priče o onima koji su došli i postali dio zajednice u kojoj rade i žive, naši ljudi u bijelom, oni koji liječe, ali i slušaju. Na Veli Iž stigao je iskusni kirurg, Sarajlija Luka Pirnat, a na Cres mladi liječnik Driton Zeneli iz Tetova u Sjevernoj Makedoniji. Kako su prihvaćeni i što znače za otočane?
+- eventId: 971834
+  start: 2026-10-22T18:30:00Z
+  stop: 2026-10-22T18:55:00Z
+  title: Labirint
+  subtitle: Podaci su alarmantni! Kad je riječ o liječnicima obiteljske medicine, odavno smo u crvenom. U Hrvatskoj ih nedostaje 288, u sljedećih pet godina njih gotovo 900 odlazi u mirovinu.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 934575
   start: 2026-10-22T18:55:00Z
   stop: 2026-10-22T19:00:00Z
@@ -1163,7 +1189,9 @@
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 934576
+- eventId:
+  - 934576
+  - 971835
   start: 2026-10-22T20:13:00Z
   stop: 2026-10-22T20:44:00Z
   title: Svijet znanosti
