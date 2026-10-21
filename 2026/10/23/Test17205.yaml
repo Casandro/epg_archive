@@ -121,7 +121,7 @@
   hd: true
 - eventId: 949747
   start: 2026-10-23T04:05:00Z
-  stop: 2026-10-23T04:40:00Z
+  stop: 2026-10-23T05:00:00Z
   title: 19h30 - Signé
   description: (Rediffusion)  "Langue des signes"
   genre:
@@ -140,7 +140,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 847168
+- eventId:
+  - 847168
+  - 974769
   start: 2026-10-23T05:00:00Z
   stop: 2026-10-23T06:00:00Z
   title: La Matinale
@@ -174,7 +176,7 @@
   hd: true
 - eventId: 847193
   start: 2026-10-23T08:00:00Z
-  stop: 2026-10-23T08:15:00Z
+  stop: 2026-10-23T08:25:00Z
   title: Ramdam
   description: Ras le job! La vie de bureau, les relations avec ses chefs et même le jargon pour parler des plans de licenciements, de fusion et d'acquisition... Cela inspire les comiques, dans des séries, dans des films drôles... La vie de bureau, les relations avec ses chefs ou entre collègues devant la machine à café, enfin s'il en reste une... On vous emmène découvrir des humoristes qui ont choisi d'en rire plutôt que d'en pleurer.
   genre:
@@ -193,11 +195,22 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 974773
+  start: 2026-10-23T08:25:00Z
+  stop: 2026-10-23T09:15:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 847205
   start: 2026-10-23T09:15:00Z
   stop: 2026-10-23T09:40:00Z
   title: Geopolitis
-  description: Géopolitis 1810 (Suisse Romande-2026)
+  description: Espagne, le pari de Sánchez En Espagne, l'importante crise du logement provoque la tenue d'élections législatives anticipées, nouveau coup de poker d'un Premier ministre fragilisé. A l'international, Pedro Sánchez représente pour ses alliés une voix affirmée et courageuse mais de quelle manière porte-t-elle ?  (Suisse Romande-2026)
   genre:
   - '128'
   widescreen: true
@@ -227,7 +240,10 @@
   start: 2026-10-23T10:20:00Z
   stop: 2026-10-23T11:15:00Z
   title: Mise au point
-  description: (Suisse Romande-2026)
+  description: |-
+    (Suisse Romande-2026)  - Guy Parmelin : Succession story Qui remplacera le conseiller fédéral vaudois ? À l'UDC, les Romands se mobilisent et la genevoise Céline Amaudruz se prépare, reste encore à prouver à l'échelle nationale que la question romande est vraiment d'importance, c'est le reportage de la semaine.
+     - USA : point de bascule L'équilibrisme des élections de mi-mandat qui pourraient faire basculer le congrès, à 2 semaines d'un scrutin qui divise toujours plus les Américaines et Américains, avec de nombreuses incidences pour le monde entier, nous irons dans le Colorado où certains Républicains regrettent d'avoir voté Trump
+     - GTA : le jeu vidéo qui change les règles C'est le poids lourd de l'industrie du jeu vidéo qui elle-même explose les économies du divertissement, GTA est aussi le premier jeu qu'on ne pourra pas posséder physiquement. Une dématérialisation qui fâche le public et risque de s'étendre à tous les domaines, reportage.
   genre:
   - '128'
   widescreen: true
@@ -287,7 +303,7 @@
   start: 2026-10-23T14:05:00Z
   stop: 2026-10-23T14:55:00Z
   title: Passe-moi les jumelles
-  description: "- Le boisselier des Bois Dans son atelier centenaire des Franches-Montagnes, Philippe Boichat fait renaître les gestes oubliés des boisseliers, ces artisans qui façonnaient seilles, cuves et cercles à fromage. \n - Solex un jour, Solex toujours On l'appelait « le vélo qui roule tout seul»! 80 ans après sa création, le mythique Solex a toujours ses afficionados fidèles et enthousiastes. «Les K'Bolés du Solex » sont les véritables gardiens de ce patrimoine mécanique à la frontière franco-suisse."
+  description: "\"Audio description\"  - Le boisselier des Bois Dans son atelier centenaire des Franches-Montagnes, Philippe Boichat fait renaître les gestes oubliés des boisseliers, ces artisans qui façonnaient seilles, cuves et cercles à fromage. \n - Solex un jour, Solex toujours On l'appelait « le vélo qui roule tout seul»! 80 ans après sa création, le mythique Solex a toujours ses afficionados fidèles et enthousiastes. «Les K'Bolés du Solex » sont les véritables gardiens de ce patrimoine mécanique à la frontière franco-suisse."
   genre:
   - '128'
   widescreen: true
