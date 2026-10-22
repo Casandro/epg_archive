@@ -8,7 +8,7 @@
   - '36'
 - eventId: 965370
   start: 2026-10-24T00:20:00Z
-  stop: 2026-10-24T00:45:00Z
+  stop: 2026-10-24T00:50:00Z
   title: Týždeň v ekonomike (37)
   subtitle: Prehľad najdôležitejších udalostí vo svete ekonomiky a hospodárstva doplnený názormi špičkových ekonómov, analytikov a odborníkov v danej oblasti.
   description: Prehľad najdôležitejších udalostí vo svete ekonomiky a hospodárstva doplnený názormi špičkových ekonómov, analytikov a odborníkov v danej oblasti. (2026)
@@ -30,6 +30,14 @@
   description: Novinky zo sveta športu. (2026)
   genre:
   - '33'
+- eventId: 989444
+  start: 2026-10-24T00:50:00Z
+  stop: 2026-10-24T01:10:00Z
+  title: Šport :24 (32)
+  subtitle: Novinky zo sveta športu.
+  description: Novinky zo sveta športu. (2026)
+  genre:
+  - '33'
 - eventId: 854313
   start: 2026-10-24T01:00:00Z
   stop: 2026-10-24T01:25:00Z
@@ -40,7 +48,7 @@
   - '36'
 - eventId: 965372
   start: 2026-10-24T01:10:00Z
-  stop: 2026-10-24T02:00:00Z
+  stop: 2026-10-24T02:05:00Z
   title: Správy "N" (296)
   description: ' (2026)'
   genre:
@@ -69,7 +77,9 @@
   description: Novinky, ktoré rezonujú v jednotlivých regiónoch Slovenska. (2026)
   genre:
   - '33'
-- eventId: 872930
+- eventId:
+  - 872930
+  - 989445
   start: 2026-10-24T02:05:00Z
   stop: 2026-10-24T02:30:00Z
   title: Správy z regiónov (79)
@@ -181,7 +191,7 @@
   - '33'
 - eventId: 940746
   start: 2026-10-24T03:50:00Z
-  stop: 2026-10-24T04:15:00Z
+  stop: 2026-10-24T03:55:00Z
   title: Týždeň v ekonomike (37)
   subtitle: Prehľad najdôležitejších udalostí vo svete ekonomiky a hospodárstva doplnený názormi špičkových ekonómov, analytikov a odborníkov v danej oblasti.
   description: Prehľad najdôležitejších udalostí vo svete ekonomiky a hospodárstva doplnený názormi špičkových ekonómov, analytikov a odborníkov v danej oblasti. (2026)
@@ -190,6 +200,7 @@
 - eventId:
   - 854321
   - 940747
+  - 989446
   start: 2026-10-24T03:55:00Z
   stop: 2026-10-24T04:20:00Z
   title: Týždeň v ekonomike (37)
@@ -216,6 +227,7 @@
 - eventId:
   - 854322
   - 940748
+  - 989447
   start: 2026-10-24T04:20:00Z
   stop: 2026-10-24T05:00:00Z
   title: Svet :24 (208)

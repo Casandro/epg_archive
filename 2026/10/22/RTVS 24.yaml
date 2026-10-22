@@ -515,7 +515,7 @@
   - '33'
 - eventId: 965120
   start: 2026-10-22T21:30:00Z
-  stop: 2026-10-22T21:55:00Z
+  stop: 2026-10-22T21:57:00Z
   title: Správy :24 (288)
   subtitle: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24.
   description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
@@ -569,7 +569,7 @@
   - '33'
 - eventId: 972504
   start: 2026-10-22T22:04:00Z
-  stop: 2026-10-22T22:50:00Z
+  stop: 2026-10-22T22:55:00Z
   title: Komentáre dňa (120)
   subtitle: Aktuálne témy z rôznych uhlov pohľadu. Moderovaná diskusia so zaujímavými hosťami.
   description: Aktuálne témy z rôznych uhlov pohľadu. Moderovaná diskusia so zaujímavými hosťami. (2026)
@@ -604,16 +604,11 @@
   description: ' (2026)'
   genre:
   - '33'
-- eventId: 802039
+- eventId:
+  - 802039
+  - 972505
   start: 2026-10-22T22:55:00Z
   stop: 2026-10-22T23:45:00Z
-  title: Správy "N" (295)
-  description: ' (2026)'
-  genre:
-  - '33'
-- eventId: 972505
-  start: 2026-10-22T22:55:00Z
-  stop: 2026-10-22T23:40:00Z
   title: Správy "N" (295)
   description: ' (2026)'
   genre:
@@ -651,7 +646,7 @@
   - '33'
 - eventId: 972506
   start: 2026-10-22T23:45:00Z
-  stop: 2026-10-23T00:00:00Z
+  stop: 2026-10-23T00:02:00Z
   title: Góly-body-sekundy (295)
   subtitle: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu.
   description: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu. (2026)
