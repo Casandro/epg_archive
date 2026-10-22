@@ -1351,7 +1351,9 @@
   title: 'Studio 4: Zelena linija'
   subtitle: ' '
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
-- eventId: 933445
+- eventId:
+  - 1001067
+  - 933445
   start: 2026-10-22T16:00:00Z
   stop: 2026-10-22T16:20:00Z
   title: 'Studio 4: Zelena linija'
@@ -1366,7 +1368,9 @@
   title: '#REPORTAŽE: Australski nogomet'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 933446
+- eventId:
+  - 933446
+  - 997358
   start: 2026-10-22T16:20:00Z
   stop: 2026-10-22T16:22:00Z
   title: '#REPORTAŽE: Australski nogomet'
@@ -1375,15 +1379,14 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 997358
-  start: 2026-10-22T16:20:00Z
-  stop: 2026-10-22T16:23:00Z
-  title: '#REPORTAŽE: Australski nogomet'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1001068
+  start: 2026-10-22T16:22:00Z
+  stop: 2026-10-22T16:30:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
-  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 934571
   start: 2026-10-22T16:22:00Z
   stop: 2026-10-22T16:30:00Z
@@ -1465,6 +1468,7 @@
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId:
+  - 1001069
   - 933453
   - 997359
   start: 2026-10-22T17:53:00Z
@@ -1762,6 +1766,16 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+- eventId:
+  - 1001070
+  - 997360
+  start: 2026-10-22T21:50:00Z
+  stop: 2026-10-22T21:54:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 933471
   start: 2026-10-22T21:50:00Z
   stop: 2026-10-22T21:54:00Z
@@ -1771,14 +1785,6 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 997360
-  start: 2026-10-22T21:50:00Z
-  stop: 2026-10-22T21:54:00Z
-  title: '#REPORTAŽE'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
 - eventId:
   - 997320
   - 998728
@@ -1788,6 +1794,7 @@
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
+  - 1001071
   - 934579
   - 997361
   start: 2026-10-22T21:54:00Z
