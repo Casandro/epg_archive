@@ -1198,14 +1198,16 @@
   description: Je li globalna automobilska industrija u krizi? Ili samo europska? Ili samo njemačka? Ili nas Nijemci hoće uvjeriti da je njihov "problem" svjetski? Ili samo traže ispriku za svoje dioničare? Što je istina, a što laž, ekskluzivno, samo za Drugu stranu, analizira najviše ikad rangirani Hrvat u najvećem svjetskom proizvođaču automobila Goran Krizmanić.
 - eventId: 933434
   start: 2026-10-22T14:55:00Z
-  stop: 2026-10-22T15:03:00Z
+  stop: 2026-10-22T15:02:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 997312
+- eventId:
+  - 997312
+  - 998684
   start: 2026-10-22T15:02:00Z
   stop: 2026-10-22T15:10:00Z
   title: 'Studio 4: Znanost'
@@ -1222,7 +1224,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 997313
+- eventId:
+  - 997313
+  - 998685
   start: 2026-10-22T15:10:00Z
   stop: 2026-10-22T15:11:00Z
   title: Vrijeme RH danas
@@ -1230,7 +1234,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 934568
   start: 2026-10-22T15:11:00Z
-  stop: 2026-10-22T15:12:00Z
+  stop: 2026-10-22T15:13:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -1286,7 +1290,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 997314
+- eventId:
+  - 997314
+  - 998686
   start: 2026-10-22T15:42:00Z
   stop: 2026-10-22T15:46:00Z
   title: Poslovne vijesti
@@ -1303,7 +1309,9 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 997315
+- eventId:
+  - 997315
+  - 998687
   start: 2026-10-22T15:46:00Z
   stop: 2026-10-22T15:53:00Z
   title: 'Studio 4: Sport'
@@ -1320,7 +1328,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 997316
+- eventId:
+  - 997316
+  - 998688
   start: 2026-10-22T15:53:00Z
   stop: 2026-10-22T15:57:00Z
   title: 'Bez komentara: Sudan - Napad na tržnicu'
@@ -1328,13 +1338,19 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 933444
   start: 2026-10-22T15:57:00Z
-  stop: 2026-10-22T16:00:00Z
+  stop: 2026-10-22T15:59:00Z
   title: 'HRT100 Vremeplov: Proslava dana državne sigurnosti 1979.'
   subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
   ageRating: 4
   genre:
   - '160'
   description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
+- eventId: 998689
+  start: 2026-10-22T15:59:00Z
+  stop: 2026-10-22T16:20:00Z
+  title: 'Studio 4: Zelena linija'
+  subtitle: ' '
+  description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
 - eventId: 933445
   start: 2026-10-22T16:00:00Z
   stop: 2026-10-22T16:20:00Z
@@ -1361,12 +1377,13 @@
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 997358
   start: 2026-10-22T16:20:00Z
-  stop: 2026-10-22T16:22:00Z
-  title: '#REPORTAŽE'
+  stop: 2026-10-22T16:23:00Z
+  title: '#REPORTAŽE: Australski nogomet'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 934571
   start: 2026-10-22T16:22:00Z
   stop: 2026-10-22T16:30:00Z
@@ -1376,8 +1393,20 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 998690
+  start: 2026-10-22T16:23:00Z
+  stop: 2026-10-22T16:28:00Z
+  title: 'Bez komentara: Kina - Natjecanje u skakanju padobranom'
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 997318
   start: 2026-10-22T16:26:00Z
+  stop: 2026-10-22T16:30:00Z
+  title: 'Bez komentara: UK - Noć vještica'
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 998691
+  start: 2026-10-22T16:28:00Z
   stop: 2026-10-22T16:30:00Z
   title: 'Bez komentara: UK - Noć vještica'
   subtitle: ' '
@@ -1420,14 +1449,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 933452
   start: 2026-10-22T17:00:00Z
-  stop: 2026-10-22T17:53:00Z
+  stop: 2026-10-22T17:52:00Z
   title: Dnevnik 2
   subtitle: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a.
   ageRating: 4
   genre:
   - '32'
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
-- eventId: 997319
+- eventId:
+  - 997319
+  - 998692
   start: 2026-10-22T17:52:00Z
   stop: 2026-10-22T17:54:00Z
   title: Vrijeme RH sutra
@@ -1748,7 +1779,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 997320
+- eventId:
+  - 997320
+  - 998728
   start: 2026-10-22T21:52:00Z
   stop: 2026-10-22T21:56:00Z
   title: '#REPORTAŽE: Portreti na lišću'
@@ -1765,7 +1798,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 997321
+- eventId:
+  - 997321
+  - 998729
   start: 2026-10-22T21:56:00Z
   stop: 2026-10-22T22:00:00Z
   title: 'Bez komentara: Albanija - Prosvjedi'
