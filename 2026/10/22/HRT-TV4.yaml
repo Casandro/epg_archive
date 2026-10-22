@@ -1715,13 +1715,21 @@
   - '160'
 - eventId: 934577
   start: 2026-10-22T20:44:00Z
-  stop: 2026-10-22T21:05:00Z
+  stop: 2026-10-22T21:04:00Z
   title: 'Studio 4: Zelena linija'
   subtitle: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
   ageRating: 4
   genre:
   - '160'
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
+- eventId: 1003940
+  start: 2026-10-22T21:04:00Z
+  stop: 2026-10-22T21:07:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 934578
   start: 2026-10-22T21:04:00Z
   stop: 2026-10-22T21:07:00Z
@@ -1739,6 +1747,14 @@
   title: '#REPORTAŽE: Australski nogomet'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1003941
+  start: 2026-10-22T21:07:00Z
+  stop: 2026-10-22T21:10:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 933467
   start: 2026-10-22T21:07:00Z
   stop: 2026-10-22T21:10:00Z
@@ -1776,7 +1792,7 @@
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 933470
   start: 2026-10-22T21:30:00Z
-  stop: 2026-10-22T21:52:00Z
+  stop: 2026-10-22T21:50:00Z
   title: 'Studio 4: Jutarnji intervju'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -1786,6 +1802,7 @@
 - eventId:
   - 1001070
   - 1002948
+  - 1003942
   - 997360
   start: 2026-10-22T21:50:00Z
   stop: 2026-10-22T21:54:00Z
@@ -1817,6 +1834,7 @@
 - eventId:
   - 1001071
   - 1002949
+  - 1003943
   - 934579
   - 997361
   start: 2026-10-22T21:54:00Z
@@ -1840,7 +1858,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 933473
   start: 2026-10-22T22:00:00Z
-  stop: 2026-10-22T22:09:00Z
+  stop: 2026-10-22T22:10:00Z
   title: Vijesti flash
   subtitle: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   ageRating: 4
@@ -1855,7 +1873,9 @@
   title: Vijesti iz kulture
   subtitle: ' '
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 933474
+- eventId:
+  - 1003944
+  - 933474
   start: 2026-10-22T22:10:00Z
   stop: 2026-10-22T22:17:00Z
   title: Vijesti iz kulture
@@ -1872,6 +1892,14 @@
   title: 'DW: Global Us'
   subtitle: ' '
   description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
+- eventId: 1003945
+  start: 2026-10-22T22:17:00Z
+  stop: 2026-10-22T22:43:00Z
+  title: Global 3000
+  subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 933475
   start: 2026-10-22T22:17:00Z
   stop: 2026-10-22T22:43:00Z
@@ -1889,7 +1917,9 @@
   title: Regionalni dnevnik
   subtitle: ' '
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 934580
+- eventId:
+  - 1003946
+  - 934580
   start: 2026-10-22T22:43:00Z
   stop: 2026-10-22T23:06:00Z
   title: Regionalni dnevnik

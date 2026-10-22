@@ -37,6 +37,7 @@
 - eventId:
   - 1001072
   - 1002950
+  - 1003947
   - 933483
   - 997362
   start: 2026-10-23T00:26:00Z
@@ -69,7 +70,7 @@
   - '32'
 - eventId: 933485
   start: 2026-10-23T00:53:00Z
-  stop: 2026-10-23T00:56:00Z
+  stop: 2026-10-23T00:55:00Z
   title: 'Bez komentara: NY - Leptiri monarsi'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -79,6 +80,7 @@
 - eventId:
   - 1001073
   - 1002951
+  - 1003948
   - 933486
   - 997363
   start: 2026-10-23T00:55:00Z
@@ -147,10 +149,18 @@
   - '160'
 - eventId: 933492
   start: 2026-10-23T01:30:00Z
-  stop: 2026-10-23T01:51:00Z
+  stop: 2026-10-23T01:50:00Z
   title: 'Studio 4: Zelena linija'
   subtitle: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1003949
+  start: 2026-10-23T01:50:00Z
+  stop: 2026-10-23T01:52:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
@@ -171,6 +181,14 @@
   title: '#REPORTAŽE: Portreti na lišću'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1003950
+  start: 2026-10-23T01:52:00Z
+  stop: 2026-10-23T01:55:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 933494
   start: 2026-10-23T01:52:00Z
   stop: 2026-10-23T01:55:00Z
@@ -298,7 +316,7 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 956758
   start: 2026-10-23T04:18:00Z
-  stop: 2026-10-23T04:25:00Z
+  stop: 2026-10-23T04:26:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
@@ -319,6 +337,7 @@
 - eventId:
   - 1001074
   - 1002952
+  - 1003951
   - 956759
   - 997364
   start: 2026-10-23T04:26:00Z
@@ -343,6 +362,7 @@
 - eventId:
   - 1001075
   - 1002953
+  - 1003952
   - 997365
   start: 2026-10-23T04:56:00Z
   stop: 2026-10-23T05:00:00Z
@@ -556,7 +576,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 956780
   start: 2026-10-23T11:35:00Z
-  stop: 2026-10-23T11:43:00Z
+  stop: 2026-10-23T11:45:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -578,6 +598,7 @@
 - eventId:
   - 1001076
   - 1002954
+  - 1003953
   - 956781
   - 995162
   - 997366
@@ -604,6 +625,7 @@
 - eventId:
   - 1001077
   - 1002955
+  - 1003954
   - 956782
   - 995163
   - 997367
@@ -845,7 +867,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 959902
   start: 2026-10-23T15:12:00Z
-  stop: 2026-10-23T15:14:00Z
+  stop: 2026-10-23T15:13:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -854,6 +876,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 1002956
+  - 1003995
   - 956802
   - 995164
   - 997368
@@ -888,6 +911,7 @@
   - '32'
 - eventId:
   - 1002957
+  - 1003996
   - 959903
   - 995165
   - 997369
