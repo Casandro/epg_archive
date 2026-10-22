@@ -78,6 +78,7 @@
   - 993245
   - 994176
   - 994788
+  - 995860
   start: 2026-10-24T02:00:00Z
   stop: 2026-10-24T05:00:00Z
   title: Pastel
@@ -146,6 +147,7 @@
   - 993246
   - 994177
   - 994789
+  - 995861
   start: 2026-10-24T05:00:00Z
   stop: 2026-10-24T05:30:00Z
   title: Pastel
@@ -168,7 +170,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 994790
+- eventId:
+  - 994790
+  - 995862
   start: 2026-10-24T05:30:00Z
   stop: 2026-10-24T07:00:00Z
   title: Live News MK
@@ -224,6 +228,7 @@
   - 993248
   - 994179
   - 994791
+  - 995863
   start: 2026-10-24T07:05:00Z
   stop: 2026-10-24T09:30:00Z
   title: Programi i mëngjesit
@@ -266,6 +271,7 @@
   - 993249
   - 994180
   - 994792
+  - 995864
   start: 2026-10-24T09:30:00Z
   stop: 2026-10-24T10:20:00Z
   title: Reportazhe
@@ -314,7 +320,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 994793
+- eventId:
+  - 994793
+  - 995865
   start: 2026-10-24T10:20:00Z
   stop: 2026-10-24T11:00:00Z
   title: Farewell Letter
@@ -344,6 +352,7 @@
   - 993251
   - 994182
   - 994794
+  - 995866
   start: 2026-10-24T11:05:00Z
   stop: 2026-10-24T12:15:00Z
   title: Click Plus
@@ -373,6 +382,7 @@
   - 993252
   - 994183
   - 994795
+  - 995867
   start: 2026-10-24T12:15:00Z
   stop: 2026-10-24T13:25:00Z
   title: Reportazhe
@@ -415,6 +425,7 @@
   - 993253
   - 994184
   - 994796
+  - 995868
   start: 2026-10-24T13:25:00Z
   stop: 2026-10-24T14:00:00Z
   title: Promo
@@ -431,6 +442,7 @@
   - 993254
   - 994185
   - 994797
+  - 995869
   start: 2026-10-24T14:00:00Z
   stop: 2026-10-24T15:00:00Z
   title: Preferenca Muzikore
@@ -440,7 +452,7 @@
   - '160'
 - eventId: 836325
   start: 2026-10-24T15:00:00Z
-  stop: 2026-10-24T17:00:00Z
+  stop: 2026-10-24T15:55:00Z
   title: Pastel
   subtitle: '  Cupa '
   ageRating: 4
@@ -455,6 +467,7 @@
   - 993255
   - 994186
   - 994798
+  - 995870
   start: 2026-10-24T15:55:00Z
   stop: 2026-10-24T16:00:00Z
   title: Promo
@@ -471,6 +484,7 @@
   - 993256
   - 994187
   - 994799
+  - 995871
   start: 2026-10-24T16:00:00Z
   stop: 2026-10-24T16:30:00Z
   title: Reportazhe
@@ -487,6 +501,7 @@
   - 993257
   - 994188
   - 994800
+  - 995872
   start: 2026-10-24T16:30:00Z
   stop: 2026-10-24T17:00:00Z
   title: Live news AL
@@ -496,7 +511,7 @@
   - '32'
 - eventId: 836326
   start: 2026-10-24T17:00:00Z
-  stop: 2026-10-24T18:00:00Z
+  stop: 2026-10-24T17:30:00Z
   title: CAMPION LA MICROFON Premiera
   subtitle: '  '
   ageRating: 4
@@ -511,6 +526,7 @@
   - 993258
   - 994189
   - 994801
+  - 995873
   start: 2026-10-24T17:30:00Z
   stop: 2026-10-24T18:00:00Z
   title: Live News MK
@@ -520,7 +536,7 @@
   - '32'
 - eventId: 836327
   start: 2026-10-24T18:00:00Z
-  stop: 2026-10-24T18:10:00Z
+  stop: 2026-10-24T18:30:00Z
   title: SPORT EXPRES
   subtitle: ' '
   ageRating: 4
@@ -552,6 +568,7 @@
   - 993259
   - 994190
   - 994802
+  - 995874
   start: 2026-10-24T18:30:00Z
   stop: 2026-10-24T20:00:00Z
   title: Fol shqip
@@ -559,7 +576,7 @@
   ageRating: 4
 - eventId: 836329
   start: 2026-10-24T20:00:00Z
-  stop: 2026-10-24T22:00:00Z
+  stop: 2026-10-24T20:20:00Z
   title: Live News MK
   subtitle: '  * SUPER CUP Lusitanos-Romanian WolvesComentator: Dragos Bocanaciu   (Reluare)'
   ageRating: 4
@@ -574,6 +591,7 @@
   - 993260
   - 994191
   - 994803
+  - 995875
   start: 2026-10-24T20:20:00Z
   stop: 2026-10-24T20:40:00Z
   title: Fc Latta
@@ -590,6 +608,7 @@
   - 993261
   - 994192
   - 994804
+  - 995876
   start: 2026-10-24T20:40:00Z
   stop: 2026-10-24T22:25:00Z
   title: Odeon
@@ -619,6 +638,7 @@
   - 993262
   - 994193
   - 994805
+  - 995877
   start: 2026-10-24T22:25:00Z
   stop: 2026-10-24T23:35:00Z
   title: Click Plus
@@ -635,6 +655,7 @@
   - 993263
   - 994194
   - 994806
+  - 995878
   start: 2026-10-24T23:35:00Z
   stop: 2026-10-25T02:25:00Z
   title: Pastel
