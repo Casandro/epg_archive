@@ -41,8 +41,8 @@
   - 569500
   - 575360
   start: 2026-10-24T01:00:00Z
-  stop: 2026-10-24T01:02:00Z
-  title: Tagesschau
+  stop: 2026-10-24T02:20:00Z
+  title: Landesschau Rheinland-Pfalz
   widescreen: true
   hd: true
   audiodesc: true
@@ -59,6 +59,11 @@
   hd: true
   audiodesc: true
   subtitle: 'Moderation: Martin Seidler'
+- eventId: 995150
+  start: 2026-10-24T02:20:00Z
+  stop: 2026-10-24T02:30:00Z
+  title: Extra
+  description: Extra wird täglich aktuell im Programm von tagesschau24 eingesetzt. Extra schließt Lücken und informiert den Zuschauer in kurzen aktuellen Filmen aus den Bereichen Politik, Wirtschaft und Gesellschaft. Extra gibt es nur bei tagesschau24.
 - eventId:
   - 1261192
   - 1452478
@@ -90,12 +95,13 @@
   - 569582
   - 599275
   start: 2026-10-24T03:00:00Z
-  stop: 2026-10-24T03:02:00Z
-  title: Tagesschau
+  stop: 2026-10-24T03:30:00Z
+  title: hessenschau
   widescreen: true
   hd: true
   audiodesc: true
   description: Die Nachrichten der ARD
+  subtitled: true
 - eventId:
   - 1261220
   - 1452510
@@ -127,12 +133,13 @@
   - 569585
   - 599278
   start: 2026-10-24T04:00:00Z
-  stop: 2026-10-24T04:02:00Z
-  title: Tagesschau
+  stop: 2026-10-24T04:17:00Z
+  title: Schleswig-Holstein 18:00
   widescreen: true
   hd: true
   audiodesc: true
-  description: Die Nachrichten der ARD
+  description: Neben den neuesten Nachrichten und dem aktuellen Wetter ist das Thema des Tages Schwerpunkt der Sendung.
+  subtitle: 'Moderation: Henrik Hanses'
 - eventId:
   - 1261223
   - 1452513
