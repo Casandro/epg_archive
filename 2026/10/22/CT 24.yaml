@@ -644,6 +644,17 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 998891
+  start: 2026-10-22T15:02:53Z
+  stop: 2026-10-22T15:29:53Z
+  title: Studio ČT24
+  subtitle: 'Téma: Sněmovna o zákazu používání mobilních telefonů ve školách.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 792801
   - 800476
@@ -671,6 +682,18 @@
   genre:
   - '35'
   widescreen: true
+- eventId: 998869
+  start: 2026-10-22T15:29:53Z
+  stop: 2026-10-22T15:32:53Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Znakový jazyk
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 792802
   - 800477
@@ -688,6 +711,17 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 998910
+  start: 2026-10-22T15:32:53Z
+  stop: 2026-10-22T15:55:00Z
+  title: Studio ČT24
+  subtitle: 'Téma: Ruská agrese na Ukrajině, Konflikt mezi Trumpem a Zelenským, Co přinesou Události, komentáře.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 792803
   - 800478
@@ -769,7 +803,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 997285
+- eventId:
+  - 997285
+  - 998911
   start: 2026-10-22T16:28:00Z
   stop: 2026-10-22T16:55:00Z
   title: Interview ČT24

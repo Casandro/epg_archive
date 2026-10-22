@@ -705,7 +705,7 @@
   - 932343
   - 939603
   start: 2026-10-27T19:07:00Z
-  stop: 2026-10-27T20:30:00Z
+  stop: 2026-10-27T20:00:00Z
   title: 90' ČT24
   subtitle: Podstatná témata, hlavní události dne a jejich aktéři debatují a odpovídají na otázky moderátora a diváků.
   description: |-
@@ -716,7 +716,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 998204
+- eventId:
+  - 998204
+  - 998978
   start: 2026-10-27T20:00:00Z
   stop: 2026-10-27T21:00:00Z
   title: Horizont ČT24
