@@ -1111,6 +1111,20 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 1005356
+  start: 2026-10-22T21:30:00Z
+  stop: 2026-10-22T22:00:00Z
+  title: Interview ČT24
+  subtitle: |-
+    HOST: Vladimír Pikora /Motoristé/, předseda rozpočtového výboru, Poslanecká sněmovna
+    MODERUJE: Daniel Takáč.
+  description: |-
+    HDTV
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 792825
   - 800492
@@ -1144,7 +1158,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 1005087
+- eventId:
+  - 1005087
+  - 1005240
   start: 2026-10-22T21:32:44Z
   stop: 2026-10-22T22:00:00Z
   title: Interview ČT24
