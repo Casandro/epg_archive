@@ -32,6 +32,15 @@
   ageRating: 12
   genre:
   - '96'
+- eventId: 630706
+  start: 2026-10-24T05:00:00Z
+  stop: 2026-10-24T06:00:00Z
+  title: Best Hits
+  description: |-
+    program muzyczny
+    Zestawienie największych hitów muzycznych, które niezmiennie cieszą się dużą popularnością w Polsce i na świecie.
+    Od lat: 12
+  ageRating: 12
 - eventId: 881884
   start: 2026-10-24T05:00:00Z
   stop: 2026-10-24T06:00:00Z
@@ -44,7 +53,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 881885
+- eventId:
+  - 630743
+  - 881885
   start: 2026-10-24T06:00:00Z
   stop: 2026-10-24T22:00:00Z
   title: Party 80's Day

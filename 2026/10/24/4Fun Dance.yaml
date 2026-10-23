@@ -12,6 +12,15 @@
   ageRating: 12
   genre:
   - '96'
+- eventId: 630729
+  start: 2026-10-24T03:00:00Z
+  stop: 2026-10-24T04:00:00Z
+  title: Karaoke w 4FUN DANCE
+  description: |-
+    program muzyczny
+    Ulubione piosenki widzów prezentowane razem z tekstem, który umożliwia ich śpiewanie. Doskonała zabawa gwarantowana.
+    Od lat: 18
+  ageRating: 18
 - eventId: 881955
   start: 2026-10-24T03:00:00Z
   stop: 2026-10-24T04:00:00Z
@@ -24,6 +33,15 @@
   ageRating: 12
   genre:
   - '96'
+- eventId: 630730
+  start: 2026-10-24T04:00:00Z
+  stop: 2026-10-24T06:00:00Z
+  title: Karaoke w 4FUN DANCE
+  description: |-
+    program muzyczny
+    Ulubione piosenki widzów prezentowane razem z tekstem, który umożliwia ich śpiewanie. Doskonała zabawa gwarantowana.
+    Od lat: 12
+  ageRating: 12
 - eventId: 881956
   start: 2026-10-24T04:00:00Z
   stop: 2026-10-24T06:00:00Z
@@ -36,7 +54,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 881957
+- eventId:
+  - 630748
+  - 881957
   start: 2026-10-24T06:00:00Z
   stop: 2026-10-24T09:00:00Z
   title: Dance na dzień dobry
@@ -47,7 +67,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 881958
+- eventId:
+  - 630522
+  - 881958
   start: 2026-10-24T09:00:00Z
   stop: 2026-10-24T12:00:00Z
   title: Najwięcej muzyki na imprezę

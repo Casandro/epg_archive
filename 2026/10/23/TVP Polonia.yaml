@@ -498,14 +498,9 @@
   genre:
   - '112'
   subtitle: 'W tym odcinku: Biskupin, Gniezno i Kórnik. Biskupin to przypadkowo odkryta drewniana osada, tętniąca życiem między VII a IV wiekiem p.n.e.'
-- eventId: 601869
-  start: 2026-10-23T23:30:00Z
-  stop: 2026-10-23T23:55:00Z
-  title: Program informacyjny
-  description: (N) Główne wydanie codziennego programu informacyjnego.
-  genre:
-  - '36'
-- eventId: 826908
+- eventId:
+  - 601869
+  - 826908
   start: 2026-10-23T23:30:00Z
   stop: 2026-10-23T23:55:00Z
   title: Program informacyjny 19.30
@@ -515,7 +510,9 @@
   genre:
   - '36'
   subtitle: Bieżące wydarzenia w kraju i na świecie. Informacje polityczne, gospodarcze, ważne tematy społeczne i poruszające opinię publiczną.
-- eventId: 826909
+- eventId:
+  - 630495
+  - 826909
   start: 2026-10-23T23:55:00Z
   stop: 2026-10-24T00:05:00Z
   title: Pytanie dnia
