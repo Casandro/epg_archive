@@ -189,7 +189,7 @@
   - '160'
 - eventId: 1009574
   start: 2026-10-25T03:58:00Z
-  stop: 2026-10-25T04:00:00Z
+  stop: 2026-10-25T04:43:00Z
   title: 03:58 Pregled dana
   subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
@@ -215,7 +215,7 @@
   - '32'
 - eventId: 1009576
   start: 2026-10-25T04:53:00Z
-  stop: 2026-10-25T04:54:00Z
+  stop: 2026-10-25T05:00:00Z
   title: 04:53 Vijesti iz kulture
   subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
@@ -232,7 +232,7 @@
   - '32'
 - eventId: 1009577
   start: 2026-10-25T05:00:00Z
-  stop: 2026-10-25T05:08:00Z
+  stop: 2026-10-25T05:53:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
@@ -289,14 +289,16 @@
   - '160'
 - eventId: 1009578
   start: 2026-10-25T05:53:00Z
-  stop: 2026-10-25T05:55:00Z
+  stop: 2026-10-25T05:54:00Z
   title: 05:53 Vrijeme RH danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
-- eventId: 1009579
+- eventId:
+  - 1009579
+  - 1011358
   start: 2026-10-25T05:54:00Z
   stop: 2026-10-25T05:55:00Z
   title: 05:54 Vrijeme Europa danas
@@ -304,7 +306,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 1009580
   start: 2026-10-25T05:55:00Z
-  stop: 2026-10-25T05:56:00Z
+  stop: 2026-10-25T05:57:00Z
   title: 05:56 Vrijeme svijet danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
@@ -336,7 +338,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1009582
+- eventId:
+  - 1009582
+  - 1011359
   start: 2026-10-25T06:08:00Z
   stop: 2026-10-25T06:10:00Z
   title: 06:08 Bez komentara
@@ -359,7 +363,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1009584
+- eventId:
+  - 1009584
+  - 1011360
   start: 2026-10-25T06:18:00Z
   stop: 2026-10-25T06:20:00Z
   title: 06:18 Bez komentara
@@ -418,7 +424,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1009590
+- eventId:
+  - 1009590
+  - 1011361
   start: 2026-10-25T06:56:00Z
   stop: 2026-10-25T06:58:00Z
   title: 06:56 Bez komentara
