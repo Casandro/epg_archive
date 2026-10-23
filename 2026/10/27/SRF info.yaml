@@ -292,8 +292,20 @@
   hd: true
 - eventId: 944324
   start: 2026-10-27T04:45:00Z
-  stop: 2026-10-27T04:55:00Z
+  stop: 2026-10-27T04:50:00Z
   title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1013449
+  start: 2026-10-27T04:50:00Z
+  stop: 2026-10-27T05:00:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
   genre:
   - '32'
   widescreen: true
@@ -311,6 +323,15 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1013450
+  start: 2026-10-27T05:00:00Z
+  stop: 2026-10-27T05:20:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 944326
   start: 2026-10-27T05:05:00Z
   stop: 2026-10-27T05:25:00Z
@@ -320,9 +341,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 944327
-  start: 2026-10-27T05:25:00Z
-  stop: 2026-10-27T05:30:00Z
+- eventId: 1013451
+  start: 2026-10-27T05:20:00Z
+  stop: 2026-10-27T05:25:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -332,6 +353,19 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 944327
+  start: 2026-10-27T05:25:00Z
+  stop: 2026-10-27T05:45:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 944328
   start: 2026-10-27T05:30:00Z
   stop: 2026-10-27T05:50:00Z
@@ -341,9 +375,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 944329
-  start: 2026-10-27T05:50:00Z
-  stop: 2026-10-27T05:55:00Z
+- eventId: 1013452
+  start: 2026-10-27T05:45:00Z
+  stop: 2026-10-27T05:50:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -353,6 +387,19 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 944329
+  start: 2026-10-27T05:50:00Z
+  stop: 2026-10-27T06:10:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 944331
   start: 2026-10-27T05:55:00Z
   stop: 2026-10-27T06:15:00Z
@@ -362,9 +409,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 944336
-  start: 2026-10-27T06:15:00Z
-  stop: 2026-10-27T06:20:00Z
+- eventId: 1013455
+  start: 2026-10-27T06:10:00Z
+  stop: 2026-10-27T06:15:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -374,6 +421,19 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 944336
+  start: 2026-10-27T06:15:00Z
+  stop: 2026-10-27T06:35:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 944337
   start: 2026-10-27T06:20:00Z
   stop: 2026-10-27T06:40:00Z
@@ -383,14 +443,36 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1013456
+  start: 2026-10-27T06:35:00Z
+  stop: 2026-10-27T06:40:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 944338
   start: 2026-10-27T06:40:00Z
-  stop: 2026-10-27T07:15:00Z
-  title: Eco Talk
+  stop: 2026-10-27T07:00:00Z
+  title: Schweiz aktuell
   widescreen: true
   subtitled: true
   hd: true
   subtitle: 'Wut und Zerstörung in Frankreich: Welche Rolle spielt die Wirtschaft?'
+  genre:
+  - '32'
+- eventId: 1013457
+  start: 2026-10-27T07:00:00Z
+  stop: 2026-10-27T07:35:00Z
+  title: Eco Talk
+  subtitle: 'Wut und Zerstörung in Frankreich: Welche Rolle spielt die Wirtschaft?'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 944339
   start: 2026-10-27T07:15:00Z
   stop: 2026-10-27T07:45:00Z
@@ -402,6 +484,17 @@
   description: |-
     Harald Schmidt brachte Late Night nach Deutschland und wurde damit zum Star. Heute ist der 69-Jährige zurück beim Schauspiel und auf dem «Traumschiff» unterwegs. Bei «Gredig direkt» erzählt er, warum er im Kopf noch täglich eine Late-Night-Show produziert und warum er sich keine Sorgen machen will.
     Schweiz 2026
+- eventId: 1013458
+  start: 2026-10-27T07:35:00Z
+  stop: 2026-10-27T08:10:00Z
+  title: Puls
+  subtitle: Umstrittene Therapie - Kann man Long Covid wegdenken?
+  description: |-
+    Für Long Covid gibt es nach wie vor keine heilende Therapie. Betroffene müssen sich mit der Krankheit abfinden und mit ihr leben. Nun verspricht ein Therapiekonzept Heilung durch Hirntraining. Von den einen wird es gefeiert, andere warnen deutlich.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 944340
   start: 2026-10-27T07:45:00Z
   stop: 2026-10-27T08:20:00Z
@@ -413,6 +506,14 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1013459
+  start: 2026-10-27T08:10:00Z
+  stop: 2026-10-27T08:45:00Z
+  title: Eco Talk
+  subtitle: 'Wut und Zerstörung in Frankreich: Welche Rolle spielt die Wirtschaft?'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 944341
   start: 2026-10-27T08:20:00Z
   stop: 2026-10-27T08:55:00Z
@@ -421,6 +522,17 @@
   subtitled: true
   hd: true
   subtitle: 'Wut und Zerstörung in Frankreich: Welche Rolle spielt die Wirtschaft?'
+- eventId: 1013460
+  start: 2026-10-27T08:45:00Z
+  stop: 2026-10-27T09:25:00Z
+  title: Gredig direkt
+  subtitle: 'Harald Schmidt: Warum können Sie nicht aufhören?'
+  description: |-
+    Harald Schmidt brachte Late Night nach Deutschland und wurde damit zum Star. Heute ist der 69-Jährige zurück beim Schauspiel und auf dem «Traumschiff» unterwegs. Bei «Gredig direkt» erzählt er, warum er im Kopf noch täglich eine Late-Night-Show produziert und warum er sich keine Sorgen machen will.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 944344
   start: 2026-10-27T08:55:00Z
   stop: 2026-10-27T09:25:00Z
@@ -482,7 +594,7 @@
 - eventId: 949759
   start: 2026-10-27T12:55:00Z
   stop: 2026-10-27T13:00:00Z
-  title: Meteo
+  title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
   - '32'
@@ -502,7 +614,7 @@
 - eventId: 949761
   start: 2026-10-27T13:05:00Z
   stop: 2026-10-27T13:10:00Z
-  title: Meteo
+  title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
   - '32'
@@ -521,14 +633,17 @@
   hd: true
 - eventId: 949763
   start: 2026-10-27T13:15:00Z
-  stop: 2026-10-27T13:20:00Z
-  title: Meteo
-  subtitle: Mittagsausgabe
+  stop: 2026-10-27T13:55:00Z
+  title: Hoch hinaus
+  subtitle: Vom tiefsten zum höchsten Punkt der Schweiz
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Sechs Personen aus allen Landesteilen der Schweiz sind unterwegs auf ihrem grossen Abenteuer - von den Brissago-Inseln im Lago Maggiore bis zur Dufourspitze in zehn Tagen. Insgesamt gilt es 207 Kilometer und 4443 Höhenmeter zu bewältigen.
+    Schweiz 2026
 - eventId: 949764
   start: 2026-10-27T13:20:00Z
   stop: 2026-10-27T14:00:00Z
@@ -537,6 +652,15 @@
   description: |-
     Sechs Personen aus allen Landesteilen der Schweiz sind unterwegs auf ihrem grossen Abenteuer - von den Brissago-Inseln im Lago Maggiore bis zur Dufourspitze in zehn Tagen. Insgesamt gilt es 207 Kilometer und 4443 Höhenmeter zu bewältigen.
     Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1013461
+  start: 2026-10-27T13:55:00Z
+  stop: 2026-10-27T14:40:00Z
+  title: Hoch hinaus
+  subtitle: Vom tiefsten zum höchsten Punkt der Schweiz
+  description: "Sechs Personen aus allen Landesteilen der Schweiz, unterwegs vom tiefsten zum höchsten Punkt der Schweiz. Das Team rückt immer näher zusammen. Carmen und Victoria sinnieren über ihre Lebensträume, und eine Mountainbikeabfahrt bringt die Gruppe an ihre Grenzen. \nSchweiz 2026"
   widescreen: true
   subtitled: true
   hd: true

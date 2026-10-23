@@ -587,6 +587,7 @@
     Schweiz 2026
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 974747
   start: 2026-10-28T14:00:00Z
   stop: 2026-10-28T14:05:00Z
@@ -654,6 +655,16 @@
 - eventId: 997512
   start: 2026-10-28T14:50:00Z
   stop: 2026-10-28T14:55:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1013467
+  start: 2026-10-28T14:55:00Z
+  stop: 2026-10-28T15:00:00Z
   title: Meteo
   subtitle: Mittagsausgabe
   genre:
@@ -668,6 +679,14 @@
   subtitle: Die Sendung über Konsum, Geld und Arbeit
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1013280
+  start: 2026-10-28T15:00:00Z
+  stop: 2026-10-28T15:30:00Z
+  title: Kassensturz
+  subtitle: Die Sendung über Konsum, Geld und Arbeit
   widescreen: true
   subtitled: true
   hd: true
