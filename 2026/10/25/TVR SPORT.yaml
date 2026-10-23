@@ -50,7 +50,9 @@
   stop: 2026-10-25T02:25:00Z
   title: MARILE MECIURI
   subtitle: '   (Reluare)'
-- eventId: 1010223
+- eventId:
+  - 1010223
+  - 1012156
   start: 2026-10-25T02:25:00Z
   stop: 2026-10-25T03:50:00Z
   title: Çikat n'Trip
@@ -80,7 +82,9 @@
   stop: 2026-10-25T03:55:00Z
   title: LIFE STYLE
   subtitle: ' Prezinta: Eda Marcusep 2   (Reluare)'
-- eventId: 1010224
+- eventId:
+  - 1010224
+  - 1012157
   start: 2026-10-25T03:50:00Z
   stop: 2026-10-25T04:20:00Z
   title: Voice of America
@@ -102,7 +106,9 @@
   stop: 2026-10-25T05:00:00Z
   title: Remember
   subtitle: ' Arhiva TVR   (Reluare)'
-- eventId: 1010225
+- eventId:
+  - 1010225
+  - 1012158
   start: 2026-10-25T04:20:00Z
   stop: 2026-10-25T05:00:00Z
   title: Reportazhe
@@ -112,7 +118,7 @@
   - '160'
 - eventId: 836336
   start: 2026-10-25T05:00:00Z
-  stop: 2026-10-25T07:00:00Z
+  stop: 2026-10-25T06:00:00Z
   title: Muzika zbavitëse (klipe)
   subtitle: ' * VECTRA HORSE CLUB Premiera '
   ageRating: 4
@@ -121,6 +127,14 @@
 - eventId: 1010226
   start: 2026-10-25T06:00:00Z
   stop: 2026-10-25T08:05:00Z
+  title: Pastel
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1012159
+  start: 2026-10-25T06:00:00Z
+  stop: 2026-10-25T08:00:00Z
   title: Pastel
   subtitle: ' '
   ageRating: 4
@@ -155,6 +169,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1012160
+  start: 2026-10-25T08:05:00Z
+  stop: 2026-10-25T09:10:00Z
+  title: Emision I mengjesit
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1011205
   - 836340
@@ -176,7 +198,9 @@
   stop: 2026-10-25T11:00:00Z
   title: CALARIE
   subtitle: ' * VECTRA HORSE CLUB Premiera '
-- eventId: 1010228
+- eventId:
+  - 1010228
+  - 1012161
   start: 2026-10-25T09:15:00Z
   stop: 2026-10-25T10:00:00Z
   title: Reportazhe
@@ -184,7 +208,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1010229
+- eventId:
+  - 1010229
+  - 1012162
   start: 2026-10-25T10:00:00Z
   stop: 2026-10-25T11:30:00Z
   title: N'maje t'gjuhës
@@ -206,7 +232,9 @@
   stop: 2026-10-25T12:00:00Z
   title: Lumea vitezei
   subtitle: '   (Reluare)'
-- eventId: 1010230
+- eventId:
+  - 1010230
+  - 1012163
   start: 2026-10-25T11:30:00Z
   stop: 2026-10-25T12:25:00Z
   title: Muzikë popullore
@@ -226,7 +254,9 @@
   stop: 2026-10-25T14:00:00Z
   title: CALARIE
   subtitle: ' * VECTRA HORSE CLUB Premiera '
-- eventId: 1010232
+- eventId:
+  - 1010232
+  - 1012164
   start: 2026-10-25T12:25:00Z
   stop: 2026-10-25T13:15:00Z
   title: Çikat n'Trip
@@ -237,6 +267,14 @@
 - eventId: 1010233
   start: 2026-10-25T13:15:00Z
   stop: 2026-10-25T14:15:00Z
+  title: Pastel
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1012165
+  start: 2026-10-25T13:15:00Z
+  stop: 2026-10-25T14:10:00Z
   title: Pastel
   subtitle: ' '
   ageRating: 4
@@ -256,7 +294,9 @@
   stop: 2026-10-25T14:40:00Z
   title: POVESTILE LU
   subtitle: ' '
-- eventId: 1010234
+- eventId:
+  - 1010234
+  - 1012166
   start: 2026-10-25T14:15:00Z
   stop: 2026-10-25T15:10:00Z
   title: Ftoft N'xeht
@@ -278,7 +318,9 @@
   stop: 2026-10-25T18:00:00Z
   title: Inot
   subtitle: '  Cupa '
-- eventId: 1010235
+- eventId:
+  - 1010235
+  - 1012167
   start: 2026-10-25T15:10:00Z
   stop: 2026-10-25T17:00:00Z
   title: Promo
@@ -286,7 +328,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1010236
+- eventId:
+  - 1010236
+  - 1012168
   start: 2026-10-25T17:00:00Z
   stop: 2026-10-25T17:30:00Z
   title: Reportazhe
@@ -294,7 +338,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1010237
+- eventId:
+  - 1010237
+  - 1012169
   start: 2026-10-25T17:30:00Z
   stop: 2026-10-25T18:00:00Z
   title: Live news AL
@@ -304,13 +350,15 @@
   - '32'
 - eventId: 836351
   start: 2026-10-25T18:00:00Z
-  stop: 2026-10-25T19:00:00Z
+  stop: 2026-10-25T18:30:00Z
   title: CAMPION LA MICROFON Premiera
   subtitle: '  '
   ageRating: 4
   genre:
   - '32'
-- eventId: 1010240
+- eventId:
+  - 1010240
+  - 1012170
   start: 2026-10-25T18:30:00Z
   stop: 2026-10-25T20:00:00Z
   title: N'Maje t'Gjuhës me Xherin
@@ -334,7 +382,7 @@
   subtitle: '  '
 - eventId: 836354
   start: 2026-10-25T20:00:00Z
-  stop: 2026-10-25T21:00:00Z
+  stop: 2026-10-25T21:30:00Z
   title: Nje kafe me Labin
   subtitle: ' Arhiva TVR  (Reluare)'
   ageRating: 4
@@ -347,7 +395,9 @@
   stop: 2026-10-26T01:00:00Z
   title: CALARIE
   subtitle: ' * VECTRA HORSE CLUB   (Reluare)'
-- eventId: 1010241
+- eventId:
+  - 1010241
+  - 1012171
   start: 2026-10-25T21:30:00Z
   stop: 2026-10-25T22:20:00Z
   title: Muzikë argëtuese
@@ -355,7 +405,9 @@
   ageRating: 4
   genre:
   - '96'
-- eventId: 1010242
+- eventId:
+  - 1010242
+  - 1012172
   start: 2026-10-25T22:20:00Z
   stop: 2026-10-25T22:50:00Z
   title: Live News MK
@@ -363,7 +415,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1010243
+- eventId:
+  - 1010243
+  - 1012173
   start: 2026-10-25T22:50:00Z
   stop: 2026-10-25T23:15:00Z
   title: Farewell Letter
@@ -371,7 +425,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1010244
+- eventId:
+  - 1010244
+  - 1012174
   start: 2026-10-25T23:15:00Z
   stop: 2026-10-26T00:25:00Z
   title: Click Plus
