@@ -276,6 +276,7 @@
   hd: true
 - eventId:
   - 1027492
+  - 1027901
   - 821867
   - 828890
   start: 2026-10-23T10:33:00Z
@@ -321,7 +322,7 @@
   - 821869
   - 828892
   start: 2026-10-23T11:03:00Z
-  stop: 2026-10-23T11:30:00Z
+  stop: 2026-10-23T11:29:50Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
   description: |-
@@ -332,7 +333,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1026028
+- eventId:
+  - 1026028
+  - 1027905
   start: 2026-10-23T11:29:50Z
   stop: 2026-10-23T11:32:50Z
   title: Zprávy
@@ -356,7 +359,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1026029
+- eventId:
+  - 1026029
+  - 1027906
   start: 2026-10-23T11:32:50Z
   stop: 2026-10-23T12:00:00Z
   title: Studio ČT24
@@ -425,7 +430,7 @@
   - 821873
   - 828775
   start: 2026-10-23T12:03:00Z
-  stop: 2026-10-23T12:30:00Z
+  stop: 2026-10-23T12:29:50Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
   description: |-
@@ -447,7 +452,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 1027503
+- eventId:
+  - 1027503
+  - 1027908
   start: 2026-10-23T12:29:50Z
   stop: 2026-10-23T12:32:50Z
   title: Zprávy
@@ -471,7 +478,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1027504
+- eventId:
+  - 1027504
+  - 1027909
   start: 2026-10-23T12:32:50Z
   stop: 2026-10-23T13:00:00Z
   title: Studio ČT24
@@ -526,7 +535,7 @@
   - 821877
   - 828779
   start: 2026-10-23T13:03:00Z
-  stop: 2026-10-23T13:30:00Z
+  stop: 2026-10-23T13:29:50Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
   description: |-
@@ -537,11 +546,21 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1027910
+  start: 2026-10-23T13:29:50Z
+  stop: 2026-10-23T13:32:50Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 821878
   - 828780
   start: 2026-10-23T13:30:00Z
-  stop: 2026-10-23T13:33:00Z
+  stop: 2026-10-23T13:34:55Z
   title: Zprávy
   description: |-
     HDTV
@@ -551,6 +570,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1027911
+  start: 2026-10-23T13:32:50Z
+  stop: 2026-10-23T13:39:50Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 821879
   - 828781
@@ -576,6 +606,17 @@
     Skryté titulky
   genre:
   - '35'
+  widescreen: true
+- eventId: 1027912
+  start: 2026-10-23T13:39:50Z
+  stop: 2026-10-23T14:00:00Z
+  title: Ekonomika ČT24
+  subtitle: Nejdůležitější zprávy ze světa peněz každý všední den.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '128'
   widescreen: true
 - eventId:
   - 821880
