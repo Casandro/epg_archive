@@ -190,13 +190,15 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1590009
   - 598425
   start: 2026-11-05T13:30:00Z
   stop: 2026-11-05T15:00:00Z
   title: Alles Chefsache!
-  subtitle: Spielfilm Deutschland 2013
+  subtitle: Fernsehfilm Deutschland 2013
   episodeUri: crid://onid-1/e/6ab5a053b05f26aabb7785d7
   genre:
   - '16'
@@ -204,6 +206,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 1590253
   - 598640
@@ -227,6 +230,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 1590255
   - 598642
@@ -359,6 +363,9 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 1590228
   - 564616
@@ -371,13 +378,16 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 1590229
   - 564617
   start: 2026-11-05T23:00:00Z
   stop: 2026-11-06T00:30:00Z
   title: Zielfahnder - Blutiger Tango
-  subtitle: Spielfilm Deutschland 2019
+  subtitle: Fernsehfilm Deutschland 2019
   episodeUri: crid://onid-1/e/6ab6f1d78cd1f60a55a2d579
   ageRating: 12
   genre:
