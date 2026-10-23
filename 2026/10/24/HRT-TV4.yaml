@@ -1,6 +1,6 @@
 - eventId: 960638
   start: 2026-10-24T00:00:00Z
-  stop: 2026-10-24T00:22:00Z
+  stop: 2026-10-24T00:02:00Z
   title: 'Studio 4: Jutarnji intervju'
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -10,6 +10,7 @@
 - eventId:
   - 1037666
   - 1037871
+  - 1038358
   - 960639
   start: 2026-10-24T00:02:00Z
   stop: 2026-10-24T00:22:00Z
@@ -22,6 +23,7 @@
 - eventId:
   - 1037667
   - 1037872
+  - 1038359
   start: 2026-10-24T00:22:00Z
   stop: 2026-10-24T00:26:00Z
   title: '#REPORTAŽE'
@@ -55,6 +57,7 @@
 - eventId:
   - 1037668
   - 1037873
+  - 1038360
   - 960641
   start: 2026-10-24T00:26:00Z
   stop: 2026-10-24T00:30:00Z
@@ -99,6 +102,7 @@
 - eventId:
   - 1037669
   - 1037874
+  - 1038361
   - 960643
   start: 2026-10-24T00:53:00Z
   stop: 2026-10-24T00:55:00Z
@@ -128,7 +132,7 @@
   - '32'
 - eventId: 960646
   start: 2026-10-24T01:10:00Z
-  stop: 2026-10-24T01:17:00Z
+  stop: 2026-10-24T01:18:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
@@ -141,6 +145,14 @@
   title: 'Bez komentara: Bolivija - Pijetao Martin'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 1038362
+  start: 2026-10-24T01:18:00Z
+  stop: 2026-10-24T01:20:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 960647
   start: 2026-10-24T01:18:00Z
   stop: 2026-10-24T01:20:00Z
@@ -152,7 +164,7 @@
   - '160'
 - eventId: 960648
   start: 2026-10-24T01:20:00Z
-  stop: 2026-10-24T01:27:00Z
+  stop: 2026-10-24T01:28:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
@@ -165,6 +177,14 @@
   title: 'Bez komentara: Sjeverna Koreja - Modna izložba'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 1038363
+  start: 2026-10-24T01:28:00Z
+  stop: 2026-10-24T01:30:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 960649
   start: 2026-10-24T01:28:00Z
   stop: 2026-10-24T01:30:00Z
@@ -180,6 +200,14 @@
   title: 'Studio 4: Sportske minute'
   subtitle: ' '
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+- eventId: 1038364
+  start: 2026-10-24T01:30:00Z
+  stop: 2026-10-24T01:48:00Z
+  title: Sportske minute
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 960650
   start: 2026-10-24T01:30:00Z
   stop: 2026-10-24T01:50:00Z
@@ -206,6 +234,7 @@
 - eventId:
   - 1037670
   - 1037875
+  - 1038365
   start: 2026-10-24T01:50:00Z
   stop: 2026-10-24T01:53:00Z
   title: '#REPORTAŽE'
@@ -228,6 +257,14 @@
   title: 'Bez komentara: Kanada - Vojne vježbe'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 1038366
+  start: 2026-10-24T01:53:00Z
+  stop: 2026-10-24T01:58:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 960652
   start: 2026-10-24T01:53:00Z
   stop: 2026-10-24T01:58:00Z
@@ -243,7 +280,9 @@
   title: Pregled dana
   subtitle: ' '
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
-- eventId: 960653
+- eventId:
+  - 1038367
+  - 960653
   start: 2026-10-24T01:58:00Z
   stop: 2026-10-24T02:43:00Z
   title: Pregled dana
@@ -261,7 +300,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 960655
+- eventId:
+  - 1038368
+  - 960655
   start: 2026-10-24T02:53:00Z
   stop: 2026-10-24T03:00:00Z
   title: Vijesti iz kulture
@@ -276,7 +317,9 @@
   title: Vijesti iz kulture
   subtitle: ' '
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 983125
+- eventId:
+  - 1038369
+  - 983125
   start: 2026-10-24T03:00:00Z
   stop: 2026-10-24T03:51:00Z
   title: Dnevnik 2
@@ -319,7 +362,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 983127
   start: 2026-10-24T03:54:00Z
-  stop: 2026-10-24T03:56:00Z
+  stop: 2026-10-24T03:55:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -329,6 +372,7 @@
 - eventId:
   - 1037672
   - 1037877
+  - 1038370
   start: 2026-10-24T03:55:00Z
   stop: 2026-10-24T03:57:00Z
   title: Vrijeme Svijet danas
@@ -365,6 +409,7 @@
 - eventId:
   - 1037673
   - 1037878
+  - 1038371
   - 984226
   start: 2026-10-24T03:57:00Z
   stop: 2026-10-24T04:00:00Z
@@ -384,7 +429,7 @@
   - '160'
 - eventId: 983130
   start: 2026-10-24T04:00:00Z
-  stop: 2026-10-24T04:07:00Z
+  stop: 2026-10-24T04:08:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -397,6 +442,14 @@
   title: 'Bez komentara: Meksiko - Bijeli nosorog'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 1038372
+  start: 2026-10-24T04:08:00Z
+  stop: 2026-10-24T04:10:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 983131
   start: 2026-10-24T04:08:00Z
   stop: 2026-10-24T04:10:00Z
@@ -412,7 +465,9 @@
   title: Vijesti na engleskom jeziku
   subtitle: ' '
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 983132
+- eventId:
+  - 1038373
+  - 983132
   start: 2026-10-24T04:10:00Z
   stop: 2026-10-24T04:18:00Z
   title: Vijesti na engleskom jeziku
@@ -427,6 +482,14 @@
   title: 'Bez komentara: Bolivija - Pijetao Martin'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 1038374
+  start: 2026-10-24T04:18:00Z
+  stop: 2026-10-24T04:20:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 983133
   start: 2026-10-24T04:18:00Z
   stop: 2026-10-24T04:20:00Z
@@ -442,7 +505,9 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 983134
+- eventId:
+  - 1038375
+  - 983134
   start: 2026-10-24T04:20:00Z
   stop: 2026-10-24T04:28:00Z
   title: 'Studio 4: Znanost'
@@ -484,7 +549,7 @@
   - 1037880
   - 984227
   start: 2026-10-24T04:55:00Z
-  stop: 2026-10-24T04:58:00Z
+  stop: 2026-10-24T05:00:00Z
   title: 'Bez komentara: NY - Leptiri monarsi'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -510,7 +575,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 983138
   start: 2026-10-24T05:10:00Z
-  stop: 2026-10-24T05:13:00Z
+  stop: 2026-10-24T05:15:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
@@ -529,6 +594,7 @@
 - eventId:
   - 1037676
   - 1037881
+  - 1038376
   - 983139
   start: 2026-10-24T05:15:00Z
   stop: 2026-10-24T05:22:00Z
@@ -559,6 +625,7 @@
 - eventId:
   - 1037677
   - 1037882
+  - 1038377
   - 983140
   start: 2026-10-24T05:22:00Z
   stop: 2026-10-24T05:23:00Z
