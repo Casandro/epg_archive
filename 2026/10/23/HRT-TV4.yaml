@@ -1,13 +1,15 @@
 - eventId: 936526
   start: 2026-10-23T00:00:00Z
-  stop: 2026-10-23T00:02:00Z
+  stop: 2026-10-23T00:01:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
-- eventId: 1006036
+- eventId:
+  - 1006036
+  - 1006455
   start: 2026-10-23T00:01:00Z
   stop: 2026-10-23T00:03:00Z
   title: Vrijeme svijet danas
@@ -32,7 +34,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1006037
+- eventId:
+  - 1006037
+  - 1006456
   start: 2026-10-23T00:03:00Z
   stop: 2026-10-23T00:24:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -68,7 +72,7 @@
   - 933483
   - 997362
   start: 2026-10-23T00:26:00Z
-  stop: 2026-10-23T00:30:00Z
+  stop: 2026-10-23T00:29:00Z
   title: '#REPORTAŽE: Australski nogomet'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -87,7 +91,9 @@
   title: '#REPORTAŽE: Australski nogomet'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 1006038
+- eventId:
+  - 1006038
+  - 1006457
   start: 2026-10-23T00:29:00Z
   stop: 2026-10-23T00:53:00Z
   title: Regionalni dnevnik
@@ -107,7 +113,7 @@
   - '32'
 - eventId: 933485
   start: 2026-10-23T00:53:00Z
-  stop: 2026-10-23T00:55:00Z
+  stop: 2026-10-23T00:56:00Z
   title: 'Bez komentara: NY - Leptiri monarsi'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -138,6 +144,7 @@
   - 1003545
   - 1004190
   - 1006039
+  - 1006458
   - 997323
   - 998731
   start: 2026-10-23T00:56:00Z
@@ -156,14 +163,16 @@
   - '32'
 - eventId: 933488
   start: 2026-10-23T01:10:00Z
-  stop: 2026-10-23T01:18:00Z
+  stop: 2026-10-23T01:17:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
   genre:
   - '32'
-- eventId: 1006040
+- eventId:
+  - 1006040
+  - 1006459
   start: 2026-10-23T01:17:00Z
   stop: 2026-10-23T01:19:00Z
   title: 'Bez komentara: Kina - Natjecanje u skakanju padobranom'
@@ -188,7 +197,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1006041
+- eventId:
+  - 1006041
+  - 1006460
   start: 2026-10-23T01:19:00Z
   stop: 2026-10-23T01:26:00Z
   title: Vijesti na španjolskom jeziku
@@ -206,7 +217,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1006042
+- eventId:
+  - 1006042
+  - 1006461
   start: 2026-10-23T01:26:00Z
   stop: 2026-10-23T01:28:00Z
   title: 'Bez komentara: Sjeverna Koreja - Modna izložba'
@@ -214,7 +227,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 933491
   start: 2026-10-23T01:28:00Z
-  stop: 2026-10-23T01:30:00Z
+  stop: 2026-10-23T01:49:00Z
   title: 'Bez komentara: Sjeverna Koreja - Modna izložba'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
@@ -233,7 +246,9 @@
   genre:
   - '160'
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
-- eventId: 1006043
+- eventId:
+  - 1006043
+  - 1006462
   start: 2026-10-23T01:49:00Z
   stop: 2026-10-23T01:52:00Z
   title: '#REPORTAŽE: Portreti na lišću'
@@ -313,7 +328,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1006044
+- eventId:
+  - 1006044
+  - 1006463
   start: 2026-10-23T02:41:00Z
   stop: 2026-10-23T02:51:00Z
   title: Vijesti flash
@@ -331,7 +348,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1006045
+- eventId:
+  - 1006045
+  - 1006464
   start: 2026-10-23T02:51:00Z
   stop: 2026-10-23T02:58:00Z
   title: Vijesti iz kulture
@@ -356,7 +375,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1006046
+- eventId:
+  - 1006046
+  - 1006465
   start: 2026-10-23T02:58:00Z
   stop: 2026-10-23T03:02:00Z
   title: 'Bez komentara: Dubrovnik - Festival svjetlosti'
@@ -374,7 +395,9 @@
   genre:
   - '32'
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
-- eventId: 1006047
+- eventId:
+  - 1006047
+  - 1006466
   start: 2026-10-23T03:02:00Z
   stop: 2026-10-23T03:53:00Z
   title: Dnevnik 2
@@ -391,7 +414,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 956752
   start: 2026-10-23T03:54:00Z
-  stop: 2026-10-23T03:55:00Z
+  stop: 2026-10-23T03:56:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -410,7 +433,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 1006048
+- eventId:
+  - 1006048
+  - 1006467
   start: 2026-10-23T03:56:00Z
   stop: 2026-10-23T03:58:00Z
   title: Vrijeme svijet danas
@@ -435,7 +460,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1006049
+- eventId:
+  - 1006049
+  - 1006468
   start: 2026-10-23T03:58:00Z
   stop: 2026-10-23T04:00:00Z
   title: 'Bez komentara: Južna Koreja - Spašavane morskog psa'
@@ -443,14 +470,16 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 956755
   start: 2026-10-23T04:00:00Z
-  stop: 2026-10-23T04:08:00Z
+  stop: 2026-10-23T04:07:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
   genre:
   - '32'
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 1006050
+- eventId:
+  - 1006050
+  - 1006469
   start: 2026-10-23T04:07:00Z
   stop: 2026-10-23T04:09:00Z
   title: 'Bez komentara: Engleska - Pubovi za učenje i druženje'
@@ -475,7 +504,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1006051
+- eventId:
+  - 1006051
+  - 1006470
   start: 2026-10-23T04:09:00Z
   stop: 2026-10-23T04:17:00Z
   title: Vijesti na engleskom jeziku
@@ -493,7 +524,9 @@
   genre:
   - '32'
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 1006052
+- eventId:
+  - 1006052
+  - 1006471
   start: 2026-10-23T04:17:00Z
   stop: 2026-10-23T04:24:00Z
   title: 'Studio 4: Znanost'
@@ -511,7 +544,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 1006053
+- eventId:
+  - 1006053
+  - 1006472
   start: 2026-10-23T04:24:00Z
   stop: 2026-10-23T04:54:00Z
   title: Otvoreno
@@ -547,7 +582,9 @@
   genre:
   - '160'
   description: 'Dok Europska unija poručuje zemljama zapadnog Balkana da nastave svoj europski put, Moskva traži da se odabere strana. Na koji način Bruxelles može zaštititi kandidatkinje za članstvo u Uniji od posljedica ruskih upozorenja? U kontekstu globalnih nesigurnosti, integracija zapadnog Balkana više nije samo administrativno pitanje proširenja nego strateški interes Europske unije. Najdalje je odmaknula Crna Gora čije odnose s Hrvatskom opterećuje više otvorenih pitanja, među kojima su razgraničenje na Prevlaci, povrat imovine oduzete Hrvatima, odšteta bivšim zatočenicima logora Morinj, sudbina nestalih hrvatskih državljana i vlasništvo nad školskim brodom "Jadran". Gosti su: Joško Klisović, međunarodni tajnik SDP-a, Aleksandar Musić, politički analitičar, Željana Zovko, zastupnica u Europskom parlamentu (HDZ).'
-- eventId: 1006054
+- eventId:
+  - 1006054
+  - 1006473
   start: 2026-10-23T04:54:00Z
   stop: 2026-10-23T04:58:00Z
   title: 'Bez komentara: UK - Noć vještica'
@@ -786,7 +823,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 956780
   start: 2026-10-23T11:35:00Z
-  stop: 2026-10-23T11:45:00Z
+  stop: 2026-10-23T11:43:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -800,6 +837,7 @@
   - 1004195
   - 1005364
   - 1006055
+  - 1006474
   - 995904
   - 997326
   - 998734
@@ -834,6 +872,7 @@
   - 1004196
   - 1005365
   - 1006056
+  - 1006475
   - 995905
   - 997327
   - 998735
@@ -868,6 +907,7 @@
   - 1004197
   - 1005366
   - 1006057
+  - 1006476
   - 995906
   - 997328
   - 998736
@@ -1094,7 +1134,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 959902
   start: 2026-10-23T15:12:00Z
-  stop: 2026-10-23T15:13:00Z
+  stop: 2026-10-23T15:14:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -1127,6 +1167,7 @@
   - 1004040
   - 1005367
   - 1006058
+  - 1006480
   - 995907
   - 997329
   - 998737
@@ -1169,6 +1210,7 @@
   - 1004041
   - 1005368
   - 1006059
+  - 1006481
   - 995908
   - 997330
   - 998738
