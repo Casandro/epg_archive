@@ -61,7 +61,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1029735
+- eventId:
+  - 1029735
+  - 1030053
   start: 2026-10-25T01:32:00Z
   stop: 2026-10-25T01:48:00Z
   title: Regionalni dnevnik
@@ -76,7 +78,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1029736
+- eventId:
+  - 1029736
+  - 1030054
   start: 2026-10-25T01:50:00Z
   stop: 2026-10-25T01:55:00Z
   title: Bez komentara
@@ -91,7 +95,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1029737
+- eventId:
+  - 1029737
+  - 1030055
   start: 2026-10-25T01:55:00Z
   stop: 2026-10-25T02:19:00Z
   title: 'DW: Sutrašnjica danas'
@@ -106,7 +112,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1029738
+- eventId:
+  - 1029738
+  - 1030056
   start: 2026-10-25T02:21:00Z
   stop: 2026-10-25T02:47:00Z
   title: '02:21 DW: Global Us'
@@ -121,7 +129,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1029739
+- eventId:
+  - 1029739
+  - 1030057
   start: 2026-10-25T02:47:00Z
   stop: 2026-10-25T02:52:00Z
   title: 02:47 Bez komentara
@@ -136,7 +146,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1029740
+- eventId:
+  - 1029740
+  - 1030058
   start: 2026-10-25T02:52:00Z
   stop: 2026-10-25T02:57:00Z
   title: 02:52 Poslovne vijesti
@@ -151,7 +163,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1029741
+- eventId:
+  - 1029741
+  - 1030059
   start: 2026-10-25T02:57:00Z
   stop: 2026-10-25T03:00:00Z
   title: 02:55 Bez komentara
@@ -435,6 +449,7 @@
   - 1021851
   - 1027248
   - 1029742
+  - 1030060
   start: 2026-10-25T05:54:00Z
   stop: 2026-10-25T05:55:00Z
   title: 05:54 Vrijeme Europa danas
@@ -505,6 +520,7 @@
   - 1021852
   - 1027636
   - 1029743
+  - 1030061
   start: 2026-10-25T06:08:00Z
   stop: 2026-10-25T06:10:00Z
   title: 06:08 Bez komentara
@@ -547,6 +563,7 @@
   - 1021853
   - 1027637
   - 1029744
+  - 1030062
   start: 2026-10-25T06:18:00Z
   stop: 2026-10-25T06:20:00Z
   title: 06:18 Bez komentara
@@ -625,6 +642,7 @@
   - 1021854
   - 1027638
   - 1029745
+  - 1030063
   start: 2026-10-25T06:56:00Z
   stop: 2026-10-25T06:58:00Z
   title: 06:56 Bez komentara
@@ -668,13 +686,19 @@
   - '32'
 - eventId: 1009595
   start: 2026-10-25T07:35:00Z
-  stop: 2026-10-25T08:00:00Z
+  stop: 2026-10-25T07:55:00Z
   title: Studio 4
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
   ageRating: 4
   genre:
   - '160'
+- eventId: 1030064
+  start: 2026-10-25T07:55:00Z
+  stop: 2026-10-25T08:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1009596
   start: 2026-10-25T08:00:00Z
   stop: 2026-10-25T08:30:00Z
@@ -713,13 +737,19 @@
   - '32'
 - eventId: 1009600
   start: 2026-10-25T08:35:00Z
-  stop: 2026-10-25T09:00:00Z
+  stop: 2026-10-25T08:55:00Z
   title: Studio 4
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
   ageRating: 4
   genre:
   - '160'
+- eventId: 1030065
+  start: 2026-10-25T08:55:00Z
+  stop: 2026-10-25T09:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1009601
   start: 2026-10-25T09:00:00Z
   stop: 2026-10-25T09:30:00Z
@@ -758,13 +788,19 @@
   - '32'
 - eventId: 1009605
   start: 2026-10-25T09:35:00Z
-  stop: 2026-10-25T09:45:00Z
+  stop: 2026-10-25T09:42:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
   genre:
   - '160'
+- eventId: 1030066
+  start: 2026-10-25T09:42:00Z
+  stop: 2026-10-25T09:47:00Z
+  title: Poslovne vijesti
+  subtitle: ' '
+  description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
 - eventId: 1009606
   start: 2026-10-25T09:45:00Z
   stop: 2026-10-25T09:50:00Z
@@ -774,6 +810,12 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 1030067
+  start: 2026-10-25T09:47:00Z
+  stop: 2026-10-25T09:55:00Z
+  title: 'Studio 4: Znanost'
+  subtitle: ' '
+  description: Kratki pregled aktualnosti iz svijeta znanosti.
 - eventId: 1009607
   start: 2026-10-25T09:50:00Z
   stop: 2026-10-25T10:00:00Z
@@ -783,6 +825,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1030068
+  start: 2026-10-25T09:55:00Z
+  stop: 2026-10-25T10:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1009608
   start: 2026-10-25T10:00:00Z
   stop: 2026-10-25T10:30:00Z
@@ -821,13 +869,19 @@
   - '32'
 - eventId: 1009612
   start: 2026-10-25T10:35:00Z
-  stop: 2026-10-25T11:00:00Z
+  stop: 2026-10-25T10:55:00Z
   title: Studio 4
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
   ageRating: 4
   genre:
   - '160'
+- eventId: 1030069
+  start: 2026-10-25T10:55:00Z
+  stop: 2026-10-25T11:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1009613
   start: 2026-10-25T11:00:00Z
   stop: 2026-10-25T11:15:00Z
@@ -866,22 +920,34 @@
   - '32'
 - eventId: 1009617
   start: 2026-10-25T11:20:00Z
-  stop: 2026-10-25T11:30:00Z
+  stop: 2026-10-25T11:28:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
   ageRating: 4
   genre:
   - '160'
+- eventId: 1030070
+  start: 2026-10-25T11:28:00Z
+  stop: 2026-10-25T11:30:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1009618
   start: 2026-10-25T11:30:00Z
-  stop: 2026-10-25T12:00:00Z
+  stop: 2026-10-25T11:55:00Z
   title: Studio 4
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
   ageRating: 4
   genre:
   - '160'
+- eventId: 1030071
+  start: 2026-10-25T11:55:00Z
+  stop: 2026-10-25T12:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1009619
   start: 2026-10-25T12:00:00Z
   stop: 2026-10-25T12:30:00Z
@@ -920,13 +986,19 @@
   - '32'
 - eventId: 1009623
   start: 2026-10-25T12:35:00Z
-  stop: 2026-10-25T13:00:00Z
+  stop: 2026-10-25T12:55:00Z
   title: Studio 4
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
   ageRating: 4
   genre:
   - '160'
+- eventId: 1030072
+  start: 2026-10-25T12:55:00Z
+  stop: 2026-10-25T13:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1009624
   start: 2026-10-25T13:00:00Z
   stop: 2026-10-25T13:30:00Z
@@ -965,13 +1037,19 @@
   - '32'
 - eventId: 1009628
   start: 2026-10-25T13:35:00Z
-  stop: 2026-10-25T14:00:00Z
+  stop: 2026-10-25T13:55:00Z
   title: Studio 4
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
   ageRating: 4
   genre:
   - '160'
+- eventId: 1030073
+  start: 2026-10-25T13:55:00Z
+  stop: 2026-10-25T14:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1009629
   start: 2026-10-25T14:00:00Z
   stop: 2026-10-25T14:30:00Z
@@ -1010,13 +1088,19 @@
   - '32'
 - eventId: 1009633
   start: 2026-10-25T14:35:00Z
-  stop: 2026-10-25T15:00:00Z
+  stop: 2026-10-25T14:55:00Z
   title: 'Studio 4: U fokusu'
   subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
   ageRating: 4
   genre:
   - '160'
+- eventId: 1030074
+  start: 2026-10-25T14:55:00Z
+  stop: 2026-10-25T15:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1009634
   start: 2026-10-25T15:00:00Z
   stop: 2026-10-25T15:15:00Z
@@ -1049,7 +1133,7 @@
   stop: 2026-10-25T15:50:00Z
   title: Potrošački kod
   subtitle: Tjedna emisija namijenjena potrošačima. Otkriva probleme s kojima se svakodnevno susreću pri kupnji robe i usluga, donosi savjete i upute.
-  description: Tjedna emisija namijenjena potrošačima. Otkriva probleme s kojima se svakodnevno susreću pri kupnji robe i usluga, donosi savjete i upute.
+  description: 'U Ministarstvu gospodarstva održani su sastanci s obrtnicima, poduzetnicima i predstavnicima potrošačkih udruga o primjeni baznih cijena u svakodnevnom životu. Do 13. studenog u javnoj su raspravi Pravilnik o načinu isticanja bazne cijene proizvoda i Pravilnik o sadržaju i načinu objave cjenika proizvoda. Kako će pravilnici biti primljeni u praksi te mogu li utjecati na suzbijanje inflatornih pritisaka i stabilizaciju cijena usluga? Gosti: Branka Augustinović, ovlaštena za obavljanje poslova ravnatelja Uprave za trgovinu i unutarnje tržište pri Ministarstvu gospodarstva Igoro Vujović predsjednik udruge Potrošač Urednica i voditeljica: Sanja Smiljanić Grubišić'
   ageRating: 4
   genre:
   - '160'
