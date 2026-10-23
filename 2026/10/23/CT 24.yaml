@@ -846,6 +846,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1032875
+  start: 2026-10-23T14:32:25Z
+  stop: 2026-10-23T15:00:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Jednání ministrů zahraničí Česka a Slovenska; Jednání ministrů zahraničí Česka a Slovenska.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId: 1030613
   start: 2026-10-23T14:32:30Z
   stop: 2026-10-23T15:00:00Z
@@ -1021,7 +1032,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030977
+- eventId:
+  - 1030977
+  - 1032932
   start: 2026-10-23T16:28:00Z
   stop: 2026-10-23T16:55:00Z
   title: Interview ČT24
