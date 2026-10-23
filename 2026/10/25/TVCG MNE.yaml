@@ -1,3 +1,11 @@
+- eventId: 594785
+  start: 2026-10-25T01:00:00Z
+  stop: 2026-10-25T01:30:00Z
+  title: Portret
+  subtitle: Serijal u kojem će poznate ličnosti, kao i one u usponu govoriti o svom životu i stvaralaštvu.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 963410
   start: 2026-10-25T01:00:00Z
   stop: 2026-10-25T01:30:00Z
@@ -6,7 +14,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 963411
+- eventId:
+  - 594786
+  - 963411
   start: 2026-10-25T01:30:00Z
   stop: 2026-10-25T02:00:00Z
   title: Zapis
@@ -14,7 +24,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 963412
+- eventId:
+  - 594787
+  - 963412
   start: 2026-10-25T02:00:00Z
   stop: 2026-10-25T02:45:00Z
   title: Muzika
@@ -22,6 +34,14 @@
   ageRating: 4
   genre:
   - '96'
+- eventId: 594788
+  start: 2026-10-25T02:45:00Z
+  stop: 2026-10-25T03:15:00Z
+  title: Naš Anto Gvozdenović
+  subtitle: General Anto Gvozdenović, istaknuta je ličnost istorije Crne Gore iz perioda Balkanskih ratova i Prvog svjetskog rata. Tokom svoje bogate vojne i političke karijere, general Anto, inače školovani...
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 963413
   start: 2026-10-25T02:45:00Z
   stop: 2026-10-25T03:15:00Z
@@ -30,7 +50,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 963414
+- eventId:
+  - 594790
+  - 963414
   start: 2026-10-25T03:15:00Z
   stop: 2026-10-25T03:30:00Z
   title: Mladi i svijet
@@ -38,6 +60,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 594791
+  start: 2026-10-25T03:30:00Z
+  stop: 2026-10-25T04:00:00Z
+  title: Crnogorci u Južnoj Americi
+  subtitle: Serijal istražuje višeslojnu istoriju i savremeni život crnogorske dijaspore u Latinskoj Americi. Kroz intimne porodične priče, društveno-političke prekretnice i kulturnu baštinu, otkrivamo kako su...
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 963415
   start: 2026-10-25T03:30:00Z
   stop: 2026-10-25T04:00:00Z
@@ -46,11 +76,27 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 594792
+  start: 2026-10-25T04:00:00Z
+  stop: 2026-10-25T04:35:00Z
+  title: Pravednik
+  subtitle: U kući u kojoj je prije sedam i po decenija rođena, u gradu u kojem se na tri ista jezika i četiri načina moli Bogu, jedna žena pokušava sastaviti mozaik prošlosti. Oslanja se na sjećanje, jedinog,...
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 973260
   start: 2026-10-25T04:00:00Z
   stop: 2026-10-25T04:35:00Z
   title: 'TV arhiv: Pravednik I dio, r nagrađena dokumentarna emisija'
   subtitle: U kući u kojoj je prije sedam i po decenija rođena, u gradu u kojem se na tri ista jezika i četiri načina moli Bogu, jedna žena pokušava sastaviti mozaik prošlosti. Oslanja se na sjećanje, jedinog,...
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 594793
+  start: 2026-10-25T04:35:00Z
+  stop: 2026-10-25T05:05:00Z
+  title: Vasos Crnogorac i crnogorska četa
+  subtitle: Drugi dio dokumentarne emisije o znamenitom grčkom vojskovođi i nacionalnom heroju crnogorskog porijekla iz Bjelopavlića - Vasosu Mavrovouniotisu poznatijem kao Vasos Crnogorac.
   ageRating: 4
   genre:
   - '160'
@@ -62,7 +108,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 973262
+- eventId:
+  - 594794
+  - 973262
   start: 2026-10-25T05:05:00Z
   stop: 2026-10-25T05:15:00Z
   title: Crnogorski pjesnici
@@ -70,11 +118,21 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 973263
+- eventId:
+  - 594795
+  - 973263
   start: 2026-10-25T05:15:00Z
   stop: 2026-10-25T05:30:00Z
   title: Blic biznis
   subtitle: 'Pratite emisiju posvećenu pitanjima vezanim za dijasporu i iseljenike, kao i o značaju očuvanja veze sa pripadnicima našeg naroda širom svijeta. '
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 594796
+  start: 2026-10-25T05:30:00Z
+  stop: 2026-10-25T06:30:00Z
+  title: Dobro jutro Crna Goro
+  subtitle: Počnite dan sa nama! Savršen spoj za dobro jutro!
   ageRating: 4
   genre:
   - '160'
@@ -86,11 +144,21 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 973266
+- eventId:
+  - 594798
+  - 973266
   start: 2026-10-25T06:30:00Z
   stop: 2026-10-25T07:00:00Z
   title: Pogledi iz domovine
   subtitle: Pogledi iz domovine emisija koja promoviše ruralna područja, prikazuje životne i iskrene ljudske priče. Vraća u prošlost, podsjećajući nas na tradiciju, običaje, korijene i zavičaj.
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 594799
+  start: 2026-10-25T07:00:00Z
+  stop: 2026-10-25T08:00:00Z
+  title: Gradovi
+  subtitle: Emisija o gradovima Crne Gore. Saznajte brojne zanimljive činjenice o istoriji, tradiciji i kulturi gradova u kojima živimo!
   ageRating: 4
   genre:
   - '128'
@@ -102,6 +170,14 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 594800
+  start: 2026-10-25T08:00:00Z
+  stop: 2026-10-25T08:20:00Z
+  title: Teatar poezije
+  subtitle: Emisija u kojoj slušamo pjesme i odlomke iz djela naših najvećih pjesnika. Uvjerite se u moć riječi i doživite najsnažnije emocije.
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 973268
   start: 2026-10-25T08:00:00Z
   stop: 2026-10-25T08:20:00Z
@@ -110,11 +186,21 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 973269
+- eventId:
+  - 594801
+  - 973269
   start: 2026-10-25T08:20:00Z
   stop: 2026-10-25T08:30:00Z
   title: Mladi i svijet
   subtitle: 'Emisija posvećena našim učenicima i studentima širom svijeta koja se realizuje posredstvom modernih tehnologija (skajp, snimci sa mobilnih telefona...). '
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 594802
+  start: 2026-10-25T08:30:00Z
+  stop: 2026-10-25T09:00:00Z
+  title: Stare priče
+  subtitle: Priče o ljudima iz Crne Gore zanimljivih sudbina i bogatog životnog iskustva. Intervjue je vodio Radivoje Rabrenović.
   ageRating: 4
   genre:
   - '160'
@@ -126,7 +212,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 973272
+- eventId:
+  - 594803
+  - 973272
   start: 2026-10-25T09:00:00Z
   stop: 2026-10-25T09:05:00Z
   title: Vijesti
@@ -134,7 +222,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 973273
+- eventId:
+  - 594804
+  - 973273
   start: 2026-10-25T09:05:00Z
   stop: 2026-10-25T11:00:00Z
   title: Naša baština
@@ -142,7 +232,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 973274
+- eventId:
+  - 594805
+  - 973274
   start: 2026-10-25T11:00:00Z
   stop: 2026-10-25T11:10:00Z
   title: Vijesti
@@ -150,7 +242,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 973275
+- eventId:
+  - 594806
+  - 973275
   start: 2026-10-25T11:10:00Z
   stop: 2026-10-25T11:12:00Z
   title: Meteo
@@ -158,11 +252,21 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 973276
+- eventId:
+  - 594807
+  - 973276
   start: 2026-10-25T11:12:00Z
   stop: 2026-10-25T12:00:00Z
   title: Agrosaznanje
   subtitle: Saznajte ono što želite o poljoprivredi.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 594808
+  start: 2026-10-25T12:00:00Z
+  stop: 2026-10-25T13:00:00Z
+  title: Dobro jutro Crna Goro
+  subtitle: Počnite dan sa nama! Savršen spoj za dobro jutro!
   ageRating: 4
   genre:
   - '160'
@@ -174,6 +278,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 594809
+  start: 2026-10-25T13:00:00Z
+  stop: 2026-10-25T13:30:00Z
+  title: Sedma sila i njena sloboda
+  subtitle: Lična karta crnogorskkog društva kroz medijsku prizmu. U vremenu koje obuhvata kraj jednog monolitnog sistema, početak pluralizma, i novinarstva sa više mogućnosti, sve do danas. Medijski put na...
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 973280
   start: 2026-10-25T13:00:00Z
   stop: 2026-10-25T13:30:00Z
@@ -182,7 +294,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 973281
+- eventId:
+  - 594810
+  - 973281
   start: 2026-10-25T13:30:00Z
   stop: 2026-10-25T14:00:00Z
   title: Kultura sjećanja
@@ -190,6 +304,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 594811
+  start: 2026-10-25T14:00:00Z
+  stop: 2026-10-25T14:25:00Z
+  title: Čudom živ
+  subtitle: Život ponekad prospe tovar sreće na čovjeka. I kad su svi uveliko uvjereni da je neko zauvijek otišao žalost se iznenada okrene na radost.
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 973282
   start: 2026-10-25T14:00:00Z
   stop: 2026-10-25T14:25:00Z
@@ -198,7 +320,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 973283
+- eventId:
+  - 594812
+  - 973283
   start: 2026-10-25T14:25:00Z
   stop: 2026-10-25T14:30:00Z
   title: Kulturno nasljeđe Crne Gore
@@ -206,7 +330,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 973284
+- eventId:
+  - 594813
+  - 973284
   start: 2026-10-25T14:30:00Z
   stop: 2026-10-25T14:50:00Z
   title: Dnevnik 1
@@ -214,6 +340,14 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 594814
+  start: 2026-10-25T14:50:00Z
+  stop: 2026-10-25T15:30:00Z
+  title: Naš Anto Gvozdenović
+  subtitle: General Anto Gvozdenović, istaknuta je ličnost istorije Crne Gore iz perioda Balkanskih ratova i Prvog svjetskog rata. Tokom svoje bogate vojne i političke karijere, general Anto, inače školovani...
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 973285
   start: 2026-10-25T14:50:00Z
   stop: 2026-10-25T15:30:00Z
@@ -222,11 +356,27 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 594815
+  start: 2026-10-25T15:30:00Z
+  stop: 2026-10-25T16:00:00Z
+  title: Zapisana CG
+  subtitle: Ova emisija predstavlja svojevrsnu razglednicu Crne Gore. Autor i voditelj Miomir Maroš, ideje za emisiju dobija od gledalaca koji žele da predstave svoje krajeve i zanimljive ljude koji u njima žive,...
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 973286
   start: 2026-10-25T15:30:00Z
   stop: 2026-10-25T16:00:00Z
   title: 'Zapisana CG: Etno grupa Durmitorke'
   subtitle: Ova emisija predstavlja svojevrsnu razglednicu Crne Gore. Autor i voditelj Miomir Maroš, ideje za emisiju dobija od gledalaca koji žele da predstave svoje krajeve i zanimljive ljude koji u njima žive,...
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 594816
+  start: 2026-10-25T16:00:00Z
+  stop: 2026-10-25T16:15:00Z
+  title: TV arhiv
+  subtitle: 'Zavirimo u prošlost kroz ovu dokumentarnu emisiju i stare televizijske snimke iz arhive RTCG. '
   ageRating: 4
   genre:
   - '128'
@@ -238,6 +388,14 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 594817
+  start: 2026-10-25T16:15:00Z
+  stop: 2026-10-25T16:45:00Z
+  title: Sedma sila i njena sloboda
+  subtitle: Lična karta crnogorskkog društva kroz medijsku prizmu. U vremenu koje obuhvata kraj jednog monolitnog sistema, početak pluralizma, i novinarstva sa više mogućnosti, sve do danas. Medijski put na...
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 973288
   start: 2026-10-25T16:15:00Z
   stop: 2026-10-25T16:45:00Z
@@ -246,6 +404,14 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 594818
+  start: 2026-10-25T16:45:00Z
+  stop: 2026-10-25T17:15:00Z
+  title: Stare priče
+  subtitle: Priče o ljudima iz Crne Gore zanimljivih sudbina i bogatog životnog iskustva. Intervjue je vodio Radivoje Rabrenović.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 973289
   start: 2026-10-25T16:45:00Z
   stop: 2026-10-25T17:15:00Z
@@ -254,7 +420,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 973290
+- eventId:
+  - 594819
+  - 973290
   start: 2026-10-25T17:15:00Z
   stop: 2026-10-25T17:45:00Z
   title: Oko svijeta sa Edinom Krnićem
@@ -262,7 +430,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 973291
+- eventId:
+  - 594820
+  - 973291
   start: 2026-10-25T17:45:00Z
   stop: 2026-10-25T18:15:00Z
   title: Pogledi iz domovine
@@ -270,7 +440,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 973292
+- eventId:
+  - 594821
+  - 973292
   start: 2026-10-25T18:15:00Z
   stop: 2026-10-25T18:30:00Z
   title: Blic biznis
@@ -278,7 +450,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 973293
+- eventId:
+  - 594822
+  - 973293
   start: 2026-10-25T18:30:00Z
   stop: 2026-10-25T19:00:00Z
   title: Dnevnik 2
@@ -286,7 +460,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 973294
+- eventId:
+  - 594823
+  - 973294
   start: 2026-10-25T19:00:00Z
   stop: 2026-10-25T19:25:00Z
   title: Austrougarske tvrđave u Crnoj Gori - Blago koje.
@@ -294,7 +470,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1036597
+- eventId:
+  - 1036597
+  - 594824
   start: 2026-10-25T19:25:00Z
   stop: 2026-10-25T19:50:00Z
   title: Čudom živ
@@ -312,11 +490,20 @@
   - '128'
 - eventId:
   - 1036598
+  - 594825
   - 973296
   start: 2026-10-25T19:50:00Z
   stop: 2026-10-25T20:50:00Z
   title: Pod naponom
   subtitle: Crna Gora je svakog dana pod naponom, između humora i ozbiljnosti, između stvarnosti i satire, muzike i priče. Zato stiže šou koji hvata taj ritam. Crnogorske i regionalne zvijezde podjeliće nedjeljne...
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 594826
+  start: 2026-10-25T20:50:00Z
+  stop: 2026-10-25T21:25:00Z
+  title: Stare i rijetke knjige u Crnoj Gori
+  subtitle: Ova emisija edukativnog karaktera predstaviće nam neka od najstarijih, danas jako rijetkih knjiga o istoriji Crne Gore.
   ageRating: 4
   genre:
   - '160'
@@ -328,11 +515,21 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 973300
+- eventId:
+  - 594827
+  - 973300
   start: 2026-10-25T21:25:00Z
   stop: 2026-10-25T21:30:00Z
   title: Crnogorski pjesnici
   subtitle: Predstavljamo vam najveća imena naše umjetnosti, najveće pjesnike koji su stvarali na ovim prostorima i na našem jeziku.
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 594828
+  start: 2026-10-25T21:30:00Z
+  stop: 2026-10-25T21:50:00Z
+  title: Teatar poezije
+  subtitle: Emisija u kojoj slušamo pjesme i odlomke iz djela naših najvećih pjesnika. Uvjerite se u moć riječi i doživite najsnažnije emocije.
   ageRating: 4
   genre:
   - '128'
@@ -344,6 +541,14 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 594829
+  start: 2026-10-25T21:50:00Z
+  stop: 2026-10-25T22:15:00Z
+  title: Vasos Crnogorac i crnogorska četa
+  subtitle: Drugi dio dokumentarne emisije o znamenitom grčkom vojskovođi i nacionalnom heroju crnogorskog porijekla iz Bjelopavlića - Vasosu Mavrovouniotisu poznatijem kao Vasos Crnogorac.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 973302
   start: 2026-10-25T21:50:00Z
   stop: 2026-10-25T22:15:00Z
@@ -363,6 +568,14 @@
   stop: 2026-10-25T22:15:00Z
   title: Pogledi iz domovine
   subtitle: Magazin
+- eventId: 594830
+  start: 2026-10-25T22:15:00Z
+  stop: 2026-10-25T22:50:00Z
+  title: Pravednik
+  subtitle: U kući u kojoj je prije sedam i po decenija rođena, u gradu u kojem se na tri ista jezika i četiri načina moli Bogu, jedna žena pokušava sastaviti mozaik prošlosti. Oslanja se na sjećanje, jedinog,...
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 973304
   start: 2026-10-25T22:15:00Z
   stop: 2026-10-25T22:50:00Z
@@ -371,7 +584,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 973305
+- eventId:
+  - 594831
+  - 973305
   start: 2026-10-25T22:50:00Z
   stop: 2026-10-25T23:00:00Z
   title: Mladi i svijet
@@ -389,6 +604,7 @@
   - 1022382
   - 1029125
   - 1036599
+  - 594832
   start: 2026-10-25T23:00:00Z
   stop: 2026-10-25T23:30:00Z
   title: Pogledi iz domovine
@@ -396,6 +612,14 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 594833
+  start: 2026-10-25T23:30:00Z
+  stop: 2026-10-26T00:00:00Z
+  title: Stare priče
+  subtitle: Priče o ljudima iz Crne Gore zanimljivih sudbina i bogatog životnog iskustva. Intervjue je vodio Radivoje Rabrenović.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 973306
   start: 2026-10-25T23:30:00Z
   stop: 2026-10-26T00:00:00Z

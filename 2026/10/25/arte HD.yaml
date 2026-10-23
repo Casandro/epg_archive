@@ -19,6 +19,7 @@
   - 1038303
   - 1290446
   - 570804
+  - 599319
   start: 2026-10-25T00:30:00Z
   stop: 2026-10-25T02:15:00Z
   title: Stille Wasser
@@ -49,6 +50,7 @@
   - 1038304
   - 1290447
   - 570805
+  - 599320
   start: 2026-10-25T02:15:00Z
   stop: 2026-10-25T02:55:00Z
   title: Im Schatten der Wälder
@@ -93,6 +95,7 @@
   - 1037609
   - 1037962
   - 1038305
+  - 599321
   - 780674
   start: 2026-10-25T02:55:00Z
   stop: 2026-10-25T04:25:00Z
@@ -124,6 +127,7 @@
   - 1038306
   - 1290457
   - 571000
+  - 599365
   start: 2026-10-25T04:25:00Z
   stop: 2026-10-25T05:20:00Z
   title: Europa. Kontinent im Umbruch
@@ -144,7 +148,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 571001
+- eventId:
+  - 571001
+  - 599366
   start: 2026-10-25T05:20:00Z
   stop: 2026-10-25T06:05:00Z
   title: Franco Zeffirellis "La Bohème"
@@ -159,6 +165,7 @@
 - eventId:
   - 1290477
   - 571203
+  - 599405
   start: 2026-10-25T06:05:00Z
   stop: 2026-10-25T07:35:00Z
   title: Denkmäler der Ewigkeit
@@ -173,6 +180,7 @@
 - eventId:
   - 1290478
   - 571204
+  - 599406
   start: 2026-10-25T07:35:00Z
   stop: 2026-10-25T08:30:00Z
   title: Gene Tierney - Hollywoods vergessener Star
@@ -187,6 +195,7 @@
 - eventId:
   - 1290479
   - 571205
+  - 599407
   start: 2026-10-25T08:30:00Z
   stop: 2026-10-25T08:55:00Z
   title: Alt wird Neu - Neues Leben für historische Gebäude
@@ -201,6 +210,7 @@
 - eventId:
   - 1290480
   - 571206
+  - 599408
   start: 2026-10-25T08:55:00Z
   stop: 2026-10-25T09:30:00Z
   title: Twist
@@ -213,6 +223,7 @@
 - eventId:
   - 1290491
   - 571272
+  - 599451
   start: 2026-10-25T09:30:00Z
   stop: 2026-10-25T10:15:00Z
   title: Britische Gärten und ihre wilden Bewohner
@@ -225,6 +236,7 @@
 - eventId:
   - 1290492
   - 571273
+  - 599452
   start: 2026-10-25T10:15:00Z
   stop: 2026-10-25T11:10:00Z
   title: Harry vs. William - Der royale Bruderzwist
@@ -239,6 +251,7 @@
 - eventId:
   - 1290493
   - 571274
+  - 599453
   start: 2026-10-25T11:10:00Z
   stop: 2026-10-25T11:55:00Z
   title: 'Edward vs. George: Die Windsors im Krieg (1/2)'
@@ -253,6 +266,7 @@
 - eventId:
   - 1290494
   - 571275
+  - 599454
   start: 2026-10-25T11:55:00Z
   stop: 2026-10-25T12:45:00Z
   title: 'Edward vs. George: Die Windsors im Krieg (2/2)'
@@ -267,6 +281,7 @@
 - eventId:
   - 1290503
   - 571354
+  - 599495
   start: 2026-10-25T12:45:00Z
   stop: 2026-10-25T14:25:00Z
   title: Der Graf von Monte Christo (1/2)
@@ -281,6 +296,7 @@
 - eventId:
   - 1290504
   - 571355
+  - 599496
   start: 2026-10-25T14:25:00Z
   stop: 2026-10-25T15:50:00Z
   title: Der Graf von Monte Christo (2/2)
@@ -296,6 +312,7 @@
 - eventId:
   - 1290513
   - 571491
+  - 599555
   start: 2026-10-25T15:50:00Z
   stop: 2026-10-25T16:45:00Z
   title: Fondation Beyeler - Museum anders gedacht
@@ -308,6 +325,7 @@
 - eventId:
   - 1290514
   - 571492
+  - 599556
   start: 2026-10-25T16:45:00Z
   stop: 2026-10-25T17:35:00Z
   title: Die Filmmusik von John Williams
@@ -320,6 +338,7 @@
 - eventId:
   - 1290515
   - 571493
+  - 599557
   start: 2026-10-25T17:35:00Z
   stop: 2026-10-25T17:45:00Z
   title: Karambolage
@@ -332,6 +351,7 @@
 - eventId:
   - 1290516
   - 571494
+  - 599558
   start: 2026-10-25T17:45:00Z
   stop: 2026-10-25T18:20:00Z
   title: Köstliches Ligurien
@@ -344,6 +364,7 @@
 - eventId:
   - 1290529
   - 572954
+  - 599630
   start: 2026-10-25T18:20:00Z
   stop: 2026-10-25T18:40:00Z
   title: ARTE Journal
@@ -356,6 +377,7 @@
 - eventId:
   - 1290530
   - 572955
+  - 599631
   start: 2026-10-25T18:40:00Z
   stop: 2026-10-25T19:15:00Z
   title: 360° Reportage
@@ -381,9 +403,22 @@
   hd: true
   audiodesc: true
   description: Die junge Constance Petersen ist Ärztin in einer Nervenheilanstalt. Sie bemerkt, dass der neue Chefarzt Dr. Edwardes gar kein Arzt, sondern ein Psychotiker ist, der unter Amnesie leidet. Constance geht der Sache nach und findet heraus, dass der echte Dr. Edwardes ermordet wurde ... Ein Psychothriller im Stil des Film noir von 1945, unter der Regie von Alfred Hitchcock.
+- eventId: 599632
+  start: 2026-10-25T19:15:00Z
+  stop: 2026-10-25T21:00:00Z
+  title: Ich kämpfe um Dich
+  subtitle: Spielfilm USA 1945
+  description: Die junge Constance Petersen ist Ärztin in einer Nervenheilanstalt. Sie bemerkt, dass der neue Chefarzt Dr. Edwardes gar kein Arzt, sondern ein Psychotiker ist, der unter Amnesie leidet. Constance geht der Sache nach und findet heraus, dass der echte Dr. Edwardes ermordet wurde ... Ein Psychothriller im Stil des Film noir von 1945, unter der Regie von Alfred Hitchcock.
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1290544
   - 573152
+  - 599683
   start: 2026-10-25T21:00:00Z
   stop: 2026-10-25T21:55:00Z
   title: Legendäre Liebespaare des Kinos
@@ -396,6 +431,7 @@
 - eventId:
   - 1290545
   - 573153
+  - 599684
   start: 2026-10-25T21:55:00Z
   stop: 2026-10-25T22:55:00Z
   title: Roberto Rossellini - Leben ohne Drehbuch
@@ -408,6 +444,7 @@
 - eventId:
   - 1290546
   - 573154
+  - 599685
   start: 2026-10-25T22:55:00Z
   stop: 2026-10-25T23:55:00Z
   title: 'Endspiele: Die Musik Ungarns zwischen Repression und Aufbruch'
@@ -422,6 +459,7 @@
 - eventId:
   - 1290547
   - 573155
+  - 599686
   start: 2026-10-25T23:55:00Z
   stop: 2026-10-26T00:30:00Z
   title: Ruhe, wir schließen!

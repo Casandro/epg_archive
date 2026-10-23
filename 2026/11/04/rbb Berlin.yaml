@@ -1,5 +1,7 @@
 - eventId:
   - 1000409
+  - 560420
+  - 560822
   - 999486
   start: 2026-11-04T00:05:00Z
   stop: 2026-11-04T01:05:00Z
@@ -25,6 +27,8 @@
   audiodesc: true
 - eventId:
   - 1000410
+  - 560421
+  - 560823
   - 999487
   start: 2026-11-04T01:05:00Z
   stop: 2026-11-04T01:55:00Z
@@ -50,6 +54,8 @@
   audiodesc: true
 - eventId:
   - 1000411
+  - 560422
+  - 560824
   - 999488
   start: 2026-11-04T01:55:00Z
   stop: 2026-11-04T02:40:00Z
@@ -75,6 +81,8 @@
   audiodesc: true
 - eventId:
   - 1000412
+  - 560423
+  - 560825
   - 999489
   start: 2026-11-04T02:40:00Z
   stop: 2026-11-04T03:25:00Z
@@ -100,6 +108,8 @@
   audiodesc: true
 - eventId:
   - 1000417
+  - 562662
+  - 565592
   - 999490
   start: 2026-11-04T03:25:00Z
   stop: 2026-11-04T03:40:00Z
@@ -122,6 +132,17 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 562663
+  - 565593
+  start: 2026-11-04T03:40:00Z
+  stop: 2026-11-04T04:00:00Z
+  title: Berliner Nächte - Herbst
+  episodeUri: crid://onid-8468/e/6ab44ed72fe0720356f98374
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 1563671
   - 555506
   - 787702
@@ -136,6 +157,8 @@
 - eventId:
   - 1563672
   - 555507
+  - 562664
+  - 565594
   - 787703
   start: 2026-11-04T04:00:00Z
   stop: 2026-11-04T04:30:00Z
@@ -148,6 +171,8 @@
 - eventId:
   - 1563673
   - 555508
+  - 562665
+  - 565595
   - 787704
   start: 2026-11-04T04:30:00Z
   stop: 2026-11-04T05:00:00Z
@@ -160,6 +185,8 @@
 - eventId:
   - 1563674
   - 555509
+  - 562666
+  - 565596
   - 787705
   start: 2026-11-04T05:00:00Z
   stop: 2026-11-04T07:00:00Z
@@ -173,6 +200,8 @@
 - eventId:
   - 1563707
   - 558551
+  - 564624
+  - 565742
   - 787809
   start: 2026-11-04T07:00:00Z
   stop: 2026-11-04T07:30:00Z
@@ -185,6 +214,8 @@
 - eventId:
   - 1563708
   - 558552
+  - 564625
+  - 565743
   - 787810
   start: 2026-11-04T07:30:00Z
   stop: 2026-11-04T08:00:00Z
@@ -197,6 +228,8 @@
 - eventId:
   - 1563709
   - 558553
+  - 564626
+  - 565744
   - 787811
   start: 2026-11-04T08:00:00Z
   stop: 2026-11-04T08:45:00Z
@@ -211,6 +244,8 @@
 - eventId:
   - 1563710
   - 558554
+  - 564627
+  - 565745
   - 787812
   start: 2026-11-04T08:45:00Z
   stop: 2026-11-04T09:30:00Z
@@ -223,58 +258,54 @@
   audiodesc: true
   ageRating: 6
 - eventId:
-  - 1563739
-  - 558766
-  - 788365
+  - 564838
+  - 565902
   start: 2026-11-04T09:30:00Z
   stop: 2026-11-04T10:15:00Z
   title: In aller Freundschaft - Die jungen Ärzte (149)
   subtitle: Keine Kompromisse
   episodeUri: crid://onid-8468/e/6ab44ed72fe0720356f98364
-  widescreen: true
   subtitled: true
+  widescreen: true
   hd: true
   audiodesc: true
 - eventId:
-  - 1563740
-  - 558767
-  - 788366
+  - 564839
+  - 565903
   start: 2026-11-04T10:15:00Z
   stop: 2026-11-04T11:05:00Z
   title: Giraffe, Erdmännchen & Co. (252)
   subtitle: Zoogeschichten aus Frankfurt und Kronberg
   episodeUri: crid://onid-8468/e/6ab44ed72fe0720356f98362
-  widescreen: true
   subtitled: true
+  widescreen: true
   hd: true
   audiodesc: true
 - eventId:
-  - 1563741
-  - 558768
-  - 788367
+  - 564840
+  - 565904
   start: 2026-11-04T11:05:00Z
   stop: 2026-11-04T11:55:00Z
-  title: WaPo Duisburg (3/8)
+  title: WaPo Duisburg (3)
   subtitle: In der Falle
   episodeUri: crid://onid-8468/e/6ab44ed72fe0720356f98360
   ageRating: 6
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   genre:
   - '16'
+  subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
-  - 1563742
-  - 558769
-  - 788368
+  - 564841
+  - 565905
   start: 2026-11-04T11:55:00Z
   stop: 2026-11-04T12:40:00Z
   title: SUPER.MARKT
   subtitle: Neues für Verbraucher
   episodeUri: crid://onid-8468/e/6ab44ed72fe0720356f9835e
-  widescreen: true
   subtitled: true
+  widescreen: true
   hd: true
   audiodesc: true
 - eventId:
@@ -294,8 +325,25 @@
   genre:
   - '16'
 - eventId:
+  - 565046
+  - 566065
+  start: 2026-11-04T12:40:00Z
+  stop: 2026-11-04T13:30:00Z
+  title: WaPo Duisburg (4)
+  subtitle: Auf der Straße
+  episodeUri: crid://onid-8468/e/6ab44ed72fe0720356f9835c
+  ageRating: 6
+  genre:
+  - '16'
+  subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 1563773
   - 558961
+  - 565047
+  - 566066
   - 788092
   start: 2026-11-04T13:30:00Z
   stop: 2026-11-04T15:00:00Z
@@ -310,7 +358,22 @@
   audiodesc: true
   ageRating: 6
 - eventId:
+  - 1403537
+  - 1590843
+  - 559655
+  - 566200
+  start: 2026-11-04T15:00:00Z
+  stop: 2026-11-04T15:15:00Z
+  title: rbb24 Abendschau
+  episodeUri: crid://onid-8468/e/6aac67a37017c698eda6e844
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: 'Jeden Abend gibt es von uns das Wichtigste aus Politik, Kultur, Wirtschaft und Sport, die Szene-Trends und die Kiezgeschichten. Kurz: "Wir sind ein Berliner" - Die rbb24 Abendschau hat den Berlin-Blick: Nah an den Menschen und ihren Geschichten, rau aber herzlich. Immer um 19:30 Uhr. Egal wann etwas passiert, die rbb24 Abendschau ist dabei.'
+- eventId:
   - 1563802
+  - 565236
   - 570456
   - 788118
   start: 2026-11-04T15:00:00Z
@@ -322,7 +385,24 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1481600
+  - 1614798
+  - 1614813
+  - 559656
+  - 566201
+  start: 2026-11-04T15:15:00Z
+  stop: 2026-11-04T16:05:00Z
+  title: In aller Freundschaft - Die jungen Ärzte (150)
+  episodeUri: crid://onid-8468/e/6aad1d4e95b51568a372930a
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die Nachrichten der ARD
+  subtitle: Große und kleine Helden
+- eventId:
   - 1563803
+  - 565237
   - 570457
   - 788119
   start: 2026-11-04T15:15:00Z
@@ -335,7 +415,26 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1403540
+  - 1590845
+  - 559657
+  - 566202
+  start: 2026-11-04T16:05:00Z
+  stop: 2026-11-04T16:53:00Z
+  title: Panda, Gorilla & Co. (253)
+  subtitle: Geschichten aus dem Zoo Berlin und dem Tierpark Berlin
+  episodeUri: crid://onid-8468/e/6aad1d4e95b51568a3729306
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Hollywood, im Jahr 1959. Der britische Regisseur Alfred Hitchcock steht nach dem Erfolg des Agententhrillers "Der unsichtbare Dritte" auf dem Höhepunkt seines Ruhms. Einziger Wermutstropfen ist, dass für den 60-Jährigen das Ende seiner Karriere näher rückt. Fasziniert von dem frisch erschienenen Roman "Psycho", den niemand in Hollywood anfassen will, findet er den Stoff für ein gewagtes Projekt. Trotz Hitchcocks Erfolgen ist kein Studio bereit, seinen Film über einen Frauenmörder zu produzieren, der auf einem realen Fall basiert und die Zensur auf den Plan rufen wird.
+- eventId:
   - 1563804
+  - 565238
   - 570458
   - 788120
   start: 2026-11-04T16:05:00Z
@@ -348,7 +447,23 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1403541
+  - 1590846
+  - 559658
+  - 566203
+  start: 2026-11-04T16:53:00Z
+  stop: 2026-11-04T17:00:00Z
+  title: Unser Sandmännchen
+  episodeUri: crid://onid-8468/e/6aac67a37017c698eda6e842
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Berlin und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
+  subtitle: Jan und Henry
+- eventId:
   - 1563805
+  - 565239
   - 570459
   - 788121
   start: 2026-11-04T16:53:00Z
@@ -362,6 +477,8 @@
   audiodesc: true
 - eventId:
   - 1563806
+  - 565240
+  - 566204
   - 570460
   - 788122
   start: 2026-11-04T17:00:00Z
@@ -374,7 +491,23 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1403395
+  - 1590754
+  - 557490
+  - 565513
+  start: 2026-11-04T18:27:00Z
+  stop: 2026-11-04T18:29:00Z
+  title: Giraffe, Erdmännchen & Co. (248)
+  subtitle: Eine Überraschung für die Erdmännchen - Zoogeschichten aus Frankfurt und Kronberg
+  episodeUri: crid://onid-8468/e/6aad1d4e95b51568a3729320
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die flinken Erdmännchen im Kronberger Opel-Zoo langweilen sich schnell. Das weiß auch ihr Pfleger Stefan von Gemünden. Aus diesem Grund denkt er sich immer wieder neue Beschäftigungen aus. Diesmal hat er ein Katzenspielzeug mitgebracht, gefüllt mit Leckerlis. Werden die Erdmännchen es knacken? In Frankfurt soll heute  eine Urlaubsvertretung im Schlangenrevier eingearbeitet werden. Doch die gefährlichen Tiere sind eine echte  Herausforderung für die neue Pflegerin.
+- eventId:
   - 1563854
+  - 544260
   - 559024
   - 788160
   start: 2026-11-04T18:27:00Z
@@ -387,7 +520,24 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1403396
+  - 1590755
+  - 557491
+  - 565514
+  start: 2026-11-04T18:30:00Z
+  stop: 2026-11-04T18:59:00Z
+  title: rbb24 Abendschau
+  subtitle: Gipfelstürmer - Deutschland, 2023
+  episodeUri: crid://onid-8468/e/6aad1d4e95b51568a372931e
+  ageRating: 6
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: 'Am Ufer der Elbe findet die WaPo einen toten Kletterer. Die Spurensicherung ergibt, dass Toni Stadler abstürzte, weil seine Ausrüstung manipuliert wurde. Scheinbar hat Dr. Jaschki Recht: Sport ist Mord. Stadler war ein erfahrener Kletterlehrer, hatte aber vor der letzten Tour Stress mit seiner Freundin Angie und seinem Kumpel Ben, der auch Vorsitzender des Klettervereins ist. Hat einer der beiden Toni aus dem Weg geräumt?'
+- eventId:
   - 1563855
+  - 544261
   - 559025
   - 788161
   start: 2026-11-04T18:30:00Z
@@ -412,6 +562,24 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1403397
+  - 1590756
+  - 557492
+  - 565515
+  start: 2026-11-04T19:00:00Z
+  stop: 2026-11-04T19:15:00Z
+  title: Auf Achse (5/13)
+  subtitle: Ganoven unter sich
+  episodeUri: crid://onid-8468/e/6aad1d4e95b51568a372931c
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  genre:
+  - '16'
+  description: Willers und einige Fahrerkollegen werden nachts überfallen und ausgeraubt. Der Anführer der Bande nimmt Willers das Geld aus einem Geheimversteck, von dem eigentlich nur einer wissen konnte, der ihn genau kennt. Nach einigen anderen Hinweisen fällt der Verdacht auf den ehemaligen Kollegen Horst Volkers. Doch ehe Willers und Meersdonk im Flughafen zur Selbstjustiz greifen und Volkers schnappen können, werden sie von der einheimischen Polizei eingebuchtet. Schani, ein undurchsichtiger Exil-Österreicher, will gleichfalls an die ansehnliche Beute ran.
+- eventId:
+  - 544262
   - 754098
   - 803652
   - 803974
@@ -426,7 +594,22 @@
   genre:
   - '32'
 - eventId:
+  - 1510647
+  - 565516
+  - 735684
+  start: 2026-11-04T19:15:00Z
+  stop: 2026-11-04T19:45:00Z
+  title: In aller Freundschaft - Die jungen Ärzte (147)
+  subtitle: Frauen von früher
+  episodeUri: crid://onid-8468/e/6ab44ed513fd5b728f5519e5
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  ageRating: 12
+- eventId:
   - 1563857
+  - 544263
   - 559027
   - 788163
   start: 2026-11-04T19:15:00Z
@@ -438,7 +621,21 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1510648
+  - 565517
+  - 735685
+  start: 2026-11-04T19:45:00Z
+  stop: 2026-11-04T20:45:00Z
+  title: Giraffe, Erdmännchen & Co. (250)
+  subtitle: Zoogeschichten aus Frankfurt und Kronberg
+  episodeUri: crid://onid-8468/e/6ab44ed513fd5b728f5519e3
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 1563858
+  - 544264
   - 559028
   - 788164
   start: 2026-11-04T19:45:00Z
@@ -451,7 +648,24 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1510649
+  - 565518
+  - 735686
+  start: 2026-11-04T20:45:00Z
+  stop: 2026-11-04T21:15:00Z
+  title: WaPo Duisburg (1/8)
+  subtitle: Sprung ins kalte Wasser
+  episodeUri: crid://onid-8468/e/6ab44ed513fd5b728f5519e1
+  ageRating: 6
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  genre:
+  - '16'
+- eventId:
   - 1563859
+  - 544265
   - 559029
   - 788165
   start: 2026-11-04T20:45:00Z
@@ -464,7 +678,9 @@
   audiodesc: true
 - eventId:
   - 1563956
+  - 544463
   - 560508
+  - 568892
   - 788242
   start: 2026-11-04T21:15:00Z
   stop: 2026-11-04T21:45:00Z
@@ -479,7 +695,9 @@
   - '112'
 - eventId:
   - 1563957
+  - 544464
   - 560509
+  - 568893
   - 788243
   start: 2026-11-04T21:45:00Z
   stop: 2026-11-04T23:40:00Z
@@ -492,7 +710,9 @@
   audiodesc: true
 - eventId:
   - 1563958
+  - 544465
   - 560510
+  - 568894
   - 788244
   start: 2026-11-04T23:40:00Z
   stop: 2026-11-05T01:05:00Z

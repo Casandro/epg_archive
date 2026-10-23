@@ -15,6 +15,7 @@
   - 1020569
   - 1028868
   - 1036590
+  - 597150
   start: 2026-10-25T02:00:00Z
   stop: 2026-10-25T03:00:00Z
   title: Nedjeljno popodne
@@ -28,10 +29,19 @@
   - 1020570
   - 1028729
   - 1036591
+  - 597151
   start: 2026-10-25T03:00:00Z
   stop: 2026-10-25T05:00:00Z
   title: Narodni mix
   subtitle: 'U našem muzičkom programu donosimo najbolji izbor narodnih pjesama. Ostanite uz naš program i opustite se u zabavnim minutama! '
+  ageRating: 4
+  genre:
+  - '96'
+- eventId: 597152
+  start: 2026-10-25T05:00:00Z
+  stop: 2026-10-25T07:00:00Z
+  title: Domaći mix
+  subtitle: 'Miks najvećih hitova domaće pop muzike. Uživajte i opustite se uz naš muzički program! '
   ageRating: 4
   genre:
   - '96'
@@ -43,12 +53,26 @@
   ageRating: 4
   genre:
   - '96'
+- eventId: 597153
+  start: 2026-10-25T07:00:00Z
+  stop: 2026-10-25T09:00:00Z
+  title: Nedjeljno popodne
+  subtitle: Emisija koja donosi zanimljive razgovore, muziku i zabavne sadržaje, savršena za uživanje u mirnom nedeljnom popodnevu.
+  ageRating: 4
 - eventId: 917049
   start: 2026-10-25T07:00:00Z
   stop: 2026-10-25T09:00:00Z
   title: Adria Music TV program
   subtitle: Emisija koja donosi zanimljive razgovore, muziku i zabavne sadržaje, savršena za uživanje u mirnom nedeljnom popodnevu.
   ageRating: 4
+- eventId: 597154
+  start: 2026-10-25T09:00:00Z
+  stop: 2026-10-25T10:00:00Z
+  title: Domaći mix
+  subtitle: 'Miks najvećih hitova domaće pop muzike. Uživajte i opustite se uz naš muzički program! '
+  ageRating: 4
+  genre:
+  - '96'
 - eventId: 917069
   start: 2026-10-25T09:00:00Z
   stop: 2026-10-25T10:00:00Z
@@ -64,6 +88,7 @@
   - 1020987
   - 1027601
   - 1036592
+  - 597155
   start: 2026-10-25T10:00:00Z
   stop: 2026-10-25T10:20:00Z
   title: Kuhinjica
@@ -78,6 +103,7 @@
   - 1020988
   - 1027602
   - 1036593
+  - 597156
   start: 2026-10-25T10:20:00Z
   stop: 2026-10-25T11:10:00Z
   title: Domaći mix
@@ -101,6 +127,7 @@
   - 1028869
   - 1033819
   - 1036594
+  - 597157
   start: 2026-10-25T11:10:00Z
   stop: 2026-10-25T13:10:00Z
   title: Astro show
@@ -123,6 +150,7 @@
   - 1028870
   - 1033820
   - 1036595
+  - 597158
   start: 2026-10-25T13:10:00Z
   stop: 2026-10-25T16:00:00Z
   title: Narodni mix
@@ -145,11 +173,20 @@
   - 1028871
   - 1033821
   - 1036596
+  - 597164
   start: 2026-10-25T16:00:00Z
   stop: 2026-10-25T17:00:00Z
   title: Kviz
   subtitle: 'Ljubitelji dobre zabave uz kvizove, na pravom ste mjestu. Uživajte sa nama uz još jednu razbibrigu! '
   ageRating: 4
+- eventId: 597165
+  start: 2026-10-25T17:00:00Z
+  stop: 2026-10-25T19:00:00Z
+  title: Narodni mix
+  subtitle: 'U našem muzičkom programu donosimo najbolji izbor narodnih pjesama. Ostanite uz naš program i opustite se u zabavnim minutama! '
+  ageRating: 4
+  genre:
+  - '96'
 - eventId: 917094
   start: 2026-10-25T17:00:00Z
   stop: 2026-10-25T19:00:00Z
@@ -158,6 +195,14 @@
   ageRating: 4
   genre:
   - '96'
+- eventId: 597166
+  start: 2026-10-25T19:00:00Z
+  stop: 2026-10-25T21:00:00Z
+  title: Večeras sa vama
+  subtitle: Uživajte uz dobru priču i još bolju muziku naših cijenjenih i dragih gostiju koji rado svoje vrijeme provode i sa nama i sa vama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 917108
   start: 2026-10-25T19:00:00Z
   stop: 2026-10-25T21:00:00Z
@@ -166,6 +211,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 597206
+  start: 2026-10-25T21:00:00Z
+  stop: 2026-10-25T23:00:00Z
+  title: Narodni mix
+  subtitle: 'U našem muzičkom programu donosimo najbolji izbor narodnih pjesama. Ostanite uz naš program i opustite se u zabavnim minutama! '
+  ageRating: 4
+  genre:
+  - '96'
 - eventId: 917117
   start: 2026-10-25T21:00:00Z
   stop: 2026-10-25T23:00:00Z
@@ -174,6 +227,14 @@
   ageRating: 4
   genre:
   - '96'
+- eventId: 597207
+  start: 2026-10-25T23:00:00Z
+  stop: 2026-10-26T01:00:00Z
+  title: Astro show
+  subtitle: 'Saznajte šta kažu karte i šta poručuju zvijezde našim gledateljima koji su se odlučili uključiti u program sa svojim pitanjima ili problemima. '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 917118
   start: 2026-10-25T23:00:00Z
   stop: 2026-10-26T01:00:00Z

@@ -1,6 +1,7 @@
 - eventId:
   - 1589883
   - 561478
+  - 569118
   start: 2026-11-05T01:05:00Z
   stop: 2026-11-05T01:35:00Z
   title: rbb24 Reportage
@@ -12,6 +13,7 @@
 - eventId:
   - 1589884
   - 561479
+  - 569119
   start: 2026-11-05T01:35:00Z
   stop: 2026-11-05T02:20:00Z
   title: Die Frauensauna (1)
@@ -24,6 +26,7 @@
 - eventId:
   - 1589885
   - 561480
+  - 569120
   start: 2026-11-05T02:20:00Z
   stop: 2026-11-05T02:30:00Z
   title: Berliner Nächte - Herbst
@@ -35,6 +38,7 @@
 - eventId:
   - 1589886
   - 561481
+  - 569121
   start: 2026-11-05T02:30:00Z
   stop: 2026-11-05T04:00:00Z
   title: DER TAG in Berlin & Brandenburg
@@ -46,6 +50,7 @@
   audiodesc: true
 - eventId:
   - 1589914
+  - 569292
   - 571778
   start: 2026-11-05T04:00:00Z
   stop: 2026-11-05T04:30:00Z
@@ -57,6 +62,7 @@
   audiodesc: true
 - eventId:
   - 1589915
+  - 569293
   - 571779
   start: 2026-11-05T04:30:00Z
   stop: 2026-11-05T05:00:00Z
@@ -68,6 +74,7 @@
   audiodesc: true
 - eventId:
   - 1589916
+  - 569294
   - 571780
   start: 2026-11-05T05:00:00Z
   stop: 2026-11-05T07:00:00Z
@@ -81,6 +88,7 @@
 - eventId:
   - 1589939
   - 561916
+  - 592763
   start: 2026-11-05T07:00:00Z
   stop: 2026-11-05T07:30:00Z
   title: rbb24 Brandenburg aktuell
@@ -92,6 +100,7 @@
 - eventId:
   - 1589940
   - 561917
+  - 592764
   start: 2026-11-05T07:30:00Z
   stop: 2026-11-05T08:00:00Z
   title: rbb24 Abendschau
@@ -103,6 +112,7 @@
 - eventId:
   - 1589941
   - 561918
+  - 592765
   start: 2026-11-05T08:00:00Z
   stop: 2026-11-05T08:45:00Z
   title: In aller Freundschaft (652)
@@ -116,6 +126,7 @@
 - eventId:
   - 1589942
   - 561919
+  - 592766
   start: 2026-11-05T08:45:00Z
   stop: 2026-11-05T09:30:00Z
   title: In aller Freundschaft (653)
@@ -129,6 +140,7 @@
 - eventId:
   - 1589984
   - 562129
+  - 592964
   start: 2026-11-05T09:30:00Z
   stop: 2026-11-05T10:15:00Z
   title: In aller Freundschaft - Die jungen Ärzte (150)
@@ -141,6 +153,7 @@
 - eventId:
   - 1589985
   - 562130
+  - 592965
   start: 2026-11-05T10:15:00Z
   stop: 2026-11-05T11:05:00Z
   title: Giraffe, Erdmännchen & Co. (253)
@@ -165,12 +178,35 @@
   audiodesc: true
   genre:
   - '16'
+- eventId: 592966
+  start: 2026-11-05T11:05:00Z
+  stop: 2026-11-05T11:55:00Z
+  title: WaPo Duisburg (4)
+  subtitle: Auf der Straße
+  episodeUri: crid://onid-1/e/6ab5a053b05f26aabb7785dd
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1589987
   - 562132
   start: 2026-11-05T11:55:00Z
   stop: 2026-11-05T12:40:00Z
   title: Auf Achse (7/13)
+  subtitle: Fliegender Start
+  episodeUri: crid://onid-1/e/6ab5a053b05f26aabb7785db
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 592967
+  start: 2026-11-05T11:55:00Z
+  stop: 2026-11-05T12:40:00Z
+  title: Auf Achse (7)
   subtitle: Fliegender Start
   episodeUri: crid://onid-1/e/6ab5a053b05f26aabb7785db
   widescreen: true
@@ -192,8 +228,22 @@
   audiodesc: true
   genre:
   - '16'
+- eventId: 569555
+  start: 2026-11-05T12:40:00Z
+  stop: 2026-11-05T13:30:00Z
+  title: WaPo Duisburg (5)
+  subtitle: Juwelenräuber
+  episodeUri: crid://onid-1/e/6ab5a053b05f26aabb7785d9
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1590009
+  - 569556
   - 598425
   start: 2026-11-05T13:30:00Z
   stop: 2026-11-05T15:00:00Z
@@ -209,6 +259,7 @@
   ageRating: 6
 - eventId:
   - 1590253
+  - 572439
   - 598640
   start: 2026-11-05T15:00:00Z
   stop: 2026-11-05T15:15:00Z
@@ -220,6 +271,7 @@
   audiodesc: true
 - eventId:
   - 1590254
+  - 572440
   - 598641
   start: 2026-11-05T15:15:00Z
   stop: 2026-11-05T16:05:00Z
@@ -233,6 +285,7 @@
   ageRating: 12
 - eventId:
   - 1590255
+  - 572441
   - 598642
   start: 2026-11-05T16:05:00Z
   stop: 2026-11-05T16:53:00Z
@@ -245,6 +298,7 @@
   audiodesc: true
 - eventId:
   - 1590256
+  - 572442
   - 598643
   start: 2026-11-05T16:53:00Z
   stop: 2026-11-05T17:00:00Z
@@ -257,6 +311,7 @@
   audiodesc: true
 - eventId:
   - 1590257
+  - 572443
   - 598644
   start: 2026-11-05T17:00:00Z
   stop: 2026-11-05T18:27:00Z
@@ -270,6 +325,7 @@
 - eventId:
   - 1590188
   - 564396
+  - 572881
   start: 2026-11-05T18:27:00Z
   stop: 2026-11-05T18:29:00Z
   title: rbb wetter
@@ -282,6 +338,7 @@
 - eventId:
   - 1590189
   - 564397
+  - 572882
   start: 2026-11-05T18:30:00Z
   stop: 2026-11-05T18:59:00Z
   title: rbb24 Brandenburg aktuell
@@ -296,6 +353,15 @@
   - 773781
   start: 2026-11-05T18:59:00Z
   stop: 2026-11-05T19:14:00Z
+  title: Tagesschau
+  episodeUri: crid://onid-1/e/6ab5a053b05f26aabb7785c9
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 572883
+  start: 2026-11-05T19:00:00Z
+  stop: 2026-11-05T19:15:00Z
   title: Tagesschau
   episodeUri: crid://onid-1/e/6ab5a053b05f26aabb7785c9
   widescreen: true
@@ -328,6 +394,7 @@
 - eventId:
   - 1590191
   - 564399
+  - 572884
   start: 2026-11-05T19:15:00Z
   stop: 2026-11-05T20:50:00Z
   title: Hör auf zu lügen
@@ -343,6 +410,7 @@
 - eventId:
   - 1590192
   - 564400
+  - 572885
   start: 2026-11-05T20:50:00Z
   stop: 2026-11-05T21:20:00Z
   title: rbb24 BRANDENBURG
@@ -354,6 +422,7 @@
 - eventId:
   - 1590227
   - 564615
+  - 573132
   start: 2026-11-05T21:20:00Z
   stop: 2026-11-05T22:10:00Z
   title: Mord mit Aussicht (23/39)
@@ -369,6 +438,7 @@
 - eventId:
   - 1590228
   - 564616
+  - 573133
   start: 2026-11-05T22:10:00Z
   stop: 2026-11-05T23:00:00Z
   title: Mord mit Aussicht (24/39)
@@ -384,6 +454,7 @@
 - eventId:
   - 1590229
   - 564617
+  - 573134
   start: 2026-11-05T23:00:00Z
   stop: 2026-11-06T00:30:00Z
   title: Zielfahnder - Blutiger Tango

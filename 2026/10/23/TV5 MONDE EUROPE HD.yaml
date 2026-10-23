@@ -825,6 +825,13 @@
   title: 'METEO DU 23/10/2026 '
   subtitle: ' '
   ageRating: 7
+- eventId: 598289
+  start: 2026-10-23T22:53:00Z
+  stop: 2026-10-23T23:40:00Z
+  title: AU BOUT DE L'ENQUE, LA FIN DU...
+  description: '''Affaire Rachel Autrand : emprise familiale'' A AlŁs dans le Gard, dans la nuit du 5 au 6 avril 2013, un homme surgit dans la chambre parentale de la famille Autrand et tire sur la mŁre, Rachel. Le pŁre, Ω ses cħtØs, reste immobile. Retour sur cette affaire sordide.  '
+  genre:
+  - '63'
 - eventId: 829908
   start: 2026-10-23T22:53:00Z
   stop: 2026-10-23T23:40:00Z
@@ -834,7 +841,9 @@
   ageRating: 7
   genre:
   - '63'
-- eventId: 1039451
+- eventId:
+  - 1039451
+  - 599257
   start: 2026-10-23T23:40:00Z
   stop: 2026-10-24T00:30:00Z
   title: AU BOUT DE L'ENQUE, LA FIN DU...

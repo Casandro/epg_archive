@@ -1,6 +1,7 @@
 - eventId:
   - 1456705
   - 554898
+  - 562500
   start: 2026-10-31T00:00:00Z
   stop: 2026-10-31T01:30:00Z
   title: Hitchcock
@@ -16,6 +17,7 @@
 - eventId:
   - 1456706
   - 554899
+  - 562501
   start: 2026-10-31T01:30:00Z
   stop: 2026-10-31T02:20:00Z
   title: Mord mit Aussicht (21/39)
@@ -42,9 +44,22 @@
   audiodesc: true
   genre:
   - '16'
+- eventId: 562502
+  start: 2026-10-31T02:20:00Z
+  stop: 2026-10-31T03:10:00Z
+  title: Mord mit Aussicht (22)
+  subtitle: Tod am 18. Loch
+  episodeUri: crid://onid-1/e/6aaf08d83ffc44e63368a21e
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1456744
   - 555526
+  - 562684
   start: 2026-10-31T03:10:00Z
   stop: 2026-10-31T04:05:00Z
   title: Chat with a DJ
@@ -57,6 +72,7 @@
 - eventId:
   - 1456745
   - 555527
+  - 562685
   start: 2026-10-31T04:05:00Z
   stop: 2026-10-31T04:35:00Z
   title: rbb Gartenzeit
@@ -69,6 +85,7 @@
 - eventId:
   - 1456746
   - 555528
+  - 562686
   start: 2026-10-31T04:35:00Z
   stop: 2026-10-31T04:45:00Z
   title: Berliner Nächte - Herbst
@@ -80,6 +97,7 @@
 - eventId:
   - 1456747
   - 555529
+  - 562687
   start: 2026-10-31T04:45:00Z
   stop: 2026-10-31T05:10:00Z
   title: Schloss Einstein (745)
@@ -92,6 +110,7 @@
 - eventId:
   - 1456748
   - 555530
+  - 562688
   start: 2026-10-31T05:10:00Z
   stop: 2026-10-31T05:35:00Z
   title: Schloss Einstein (746)
@@ -101,23 +120,21 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 1456749
-  - 555531
+- eventId: 562689
   start: 2026-10-31T05:35:00Z
   stop: 2026-10-31T06:00:00Z
   title: Zakayo und Timmy - Zwischen Krokodilen und dem Paradies
-  subtitle: Film von Frank Feustle
   episodeUri: crid://onid-1/e/6ab3ddcd3d902b8d51bf3685
+  genre:
+  - '112'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  genre:
-  - '112'
 - eventId:
   - 1456786
   - 558572
+  - 564640
   start: 2026-10-31T06:00:00Z
   stop: 2026-10-31T06:30:00Z
   title: Panda, Gorilla & Co. (20)
@@ -139,9 +156,20 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 564641
+  start: 2026-10-31T06:30:00Z
+  stop: 2026-10-31T07:00:00Z
+  title: Sehen statt Hören
+  subtitle: Fernsehen in Gebärdensprache
+  episodeUri: crid://onid-1/e/6ab3ddcd3d902b8d51bf3681
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1456788
   - 558574
+  - 564642
   start: 2026-10-31T07:00:00Z
   stop: 2026-10-31T07:30:00Z
   title: rbb24 Brandenburg aktuell
@@ -153,6 +181,7 @@
 - eventId:
   - 1456789
   - 558575
+  - 564643
   start: 2026-10-31T07:30:00Z
   stop: 2026-10-31T08:00:00Z
   title: rbb24 Abendschau
@@ -164,6 +193,7 @@
 - eventId:
   - 1456790
   - 558576
+  - 564644
   start: 2026-10-31T08:00:00Z
   stop: 2026-10-31T09:30:00Z
   title: Sportabzeichen für Anfänger
@@ -176,9 +206,7 @@
   hd: true
   audiodesc: true
   ageRating: 6
-- eventId:
-  - 1456824
-  - 558782
+- eventId: 564853
   start: 2026-10-31T09:30:00Z
   stop: 2026-10-31T11:00:00Z
   title: Checker Tobi und die Reise zu den fliegenden Flüssen
@@ -190,35 +218,32 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 1456825
-  - 558783
+- eventId: 564854
   start: 2026-10-31T11:00:00Z
   stop: 2026-10-31T11:30:00Z
   title: Hallo Nachbarn!
   subtitle: Ein Dorf im Glück - Garlitz im Havelland
   episodeUri: crid://onid-1/e/6ab3ddcd3d902b8d51bf3677
+  genre:
+  - '112'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  genre:
-  - '112'
-- eventId:
-  - 1456826
-  - 558784
+- eventId: 564855
   start: 2026-10-31T11:30:00Z
   stop: 2026-10-31T12:15:00Z
   title: Gefragt-Gejagt (633)
+  subtitle: 'Moderation: Alexander Bommes'
   episodeUri: crid://onid-1/e/6ab3ddcd3d902b8d51bf3675
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  subtitle: 'Moderation: Alexander Bommes'
 - eventId:
   - 1456855
   - 558972
+  - 565055
   start: 2026-10-31T12:15:00Z
   stop: 2026-10-31T13:00:00Z
   title: Gefragt-Gejagt (634)
@@ -231,6 +256,7 @@
 - eventId:
   - 1456856
   - 558973
+  - 565056
   start: 2026-10-31T13:00:00Z
   stop: 2026-10-31T13:45:00Z
   title: Mittendrin - Flughafen Frankfurt (38)
@@ -245,6 +271,7 @@
 - eventId:
   - 1456857
   - 558974
+  - 565057
   start: 2026-10-31T13:45:00Z
   stop: 2026-10-31T14:30:00Z
   title: Mittendrin - Flughafen Frankfurt (39)
@@ -268,6 +295,16 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 565058
+  start: 2026-10-31T14:30:00Z
+  stop: 2026-10-31T15:20:00Z
+  title: Auf Achse (7)
+  subtitle: Fliegender Start
+  episodeUri: crid://onid-1/e/6ab3ddcd3d902b8d51bf366d
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1456896
   - 570478
@@ -280,8 +317,19 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 565261
+  start: 2026-10-31T15:20:00Z
+  stop: 2026-10-31T16:10:00Z
+  title: Auf Achse (8)
+  subtitle: Eine Frau in der Koje
+  episodeUri: crid://onid-1/e/6ab3ddcd3d902b8d51bf366b
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1456897
+  - 565262
   - 570479
   start: 2026-10-31T16:10:00Z
   stop: 2026-10-31T16:53:00Z
@@ -294,6 +342,7 @@
   audiodesc: true
 - eventId:
   - 1456898
+  - 565263
   - 570480
   start: 2026-10-31T16:53:00Z
   stop: 2026-10-31T17:00:00Z
@@ -308,6 +357,7 @@
   - '16'
 - eventId:
   - 1456899
+  - 565264
   - 570481
   start: 2026-10-31T17:00:00Z
   stop: 2026-10-31T17:28:00Z
@@ -320,6 +370,7 @@
   audiodesc: true
 - eventId:
   - 1456900
+  - 565265
   - 570482
   start: 2026-10-31T17:28:00Z
   stop: 2026-10-31T17:30:00Z
@@ -332,6 +383,7 @@
   audiodesc: true
 - eventId:
   - 1456901
+  - 565266
   - 570483
   start: 2026-10-31T17:30:00Z
   stop: 2026-10-31T18:00:00Z
@@ -355,6 +407,18 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1625171
+  - 565537
+  start: 2026-10-31T18:00:00Z
+  stop: 2026-10-31T18:27:00Z
+  title: Giraffe, Erdmännchen & Co. (254)
+  subtitle: Zoogeschichten aus Frankfurt und Kronberg
+  episodeUri: crid://onid-1/e/6ab6f1d78cd1f60a55a2d55d
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 1456947
   - 559047
   start: 2026-10-31T18:27:00Z
@@ -367,12 +431,39 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1625172
+  - 565538
+  start: 2026-10-31T18:27:00Z
+  stop: 2026-10-31T18:30:00Z
+  title: WaPo Duisburg (5/8)
+  subtitle: Die Wetteraussichten für Berlin und Brandenburg
+  episodeUri: crid://onid-1/e/6ab6f1d78cd1f60a55a2d55b
+  ageRating: 6
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  genre:
+  - '16'
+- eventId:
   - 1456948
   - 559048
   start: 2026-10-31T18:30:00Z
   stop: 2026-10-31T19:00:00Z
   title: rbb24 Brandenburg aktuell
   episodeUri: crid://onid-1/e/6ab452fa68fa009f467ba9fe
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1625173
+  - 565539
+  start: 2026-10-31T18:30:00Z
+  stop: 2026-10-31T19:00:00Z
+  title: rbb24 Brandenburg aktuell
+  subtitle: Eine Frau in der Koje
+  episodeUri: crid://onid-1/e/6ab6f1d78cd1f60a55a2d559
   widescreen: true
   subtitled: true
   hd: true
@@ -394,6 +485,7 @@
 - eventId:
   - 1481610
   - 1497849
+  - 565540
   - 754100
   - 777058
   start: 2026-10-31T19:00:00Z
@@ -409,6 +501,7 @@
 - eventId:
   - 1456950
   - 559050
+  - 565541
   start: 2026-10-31T19:15:00Z
   stop: 2026-10-31T20:00:00Z
   title: Liebling Kreuzberg (7)
@@ -424,6 +517,7 @@
 - eventId:
   - 1456951
   - 559051
+  - 565542
   start: 2026-10-31T20:00:00Z
   stop: 2026-10-31T20:45:00Z
   title: Liebling Kreuzberg (8/58)
@@ -439,6 +533,7 @@
 - eventId:
   - 1456952
   - 559052
+  - 565543
   start: 2026-10-31T20:45:00Z
   stop: 2026-10-31T21:00:00Z
   title: rbb24 mit Sport
@@ -450,6 +545,7 @@
 - eventId:
   - 1497851
   - 560519
+  - 568904
   start: 2026-10-31T21:00:00Z
   stop: 2026-10-31T22:00:00Z
   title: Die Helle Nacht - mit Volker Wieprecht
@@ -462,6 +558,7 @@
 - eventId:
   - 1456984
   - 560520
+  - 568905
   start: 2026-10-31T22:00:00Z
   stop: 2026-11-01T00:20:00Z
   title: Carlito's Way
