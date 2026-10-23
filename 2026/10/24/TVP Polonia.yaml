@@ -2,18 +2,18 @@
   start: 2026-10-24T00:05:00Z
   stop: 2026-10-24T00:10:00Z
   title: Sport
-  description: |
-    Tytuł oryginalny: Sport
-    PL, 2026
+  description: |-
+    magazyn
+    Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.
   genre:
   - '66'
 - eventId: 854633
   start: 2026-10-24T00:10:00Z
   stop: 2026-10-24T00:15:00Z
   title: Pogoda
-  description: |
-    Tytuł oryginalny: Pogoda
-    PL, 2025
+  description: |-
+    program informacyjny
+    Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.
   genre:
   - '32'
 - eventId: 854634
@@ -33,7 +33,7 @@
 - eventId: 854635
   start: 2026-10-24T01:10:00Z
   stop: 2026-10-24T01:40:00Z
-  title: Tańcząca ze światem - Tunezja - Sidi Bou Said
+  title: 'Tańcząca ze światem - Tunezja: Sidi Bou Said: odc.8'
   description: |-
     Tytuł oryginalny: Tańcząca ze światem
     PL, 2023
@@ -48,11 +48,11 @@
   stop: 2026-10-24T02:40:00Z
   title: Ekstradycja 2 - odc. 6/9
   description: |-
-    Tytuł oryginalny: Ekstradycja
-    PL, 1996
-    Reżyseria: Wojciech Wójcik
-    Występują: Marek Kondrat, Maria Pakulnis, Paweł Wilczak, Witold Dębicki, Henryk Bista, Piotr Fronczewski
-    Basia pomału dochodzi do zdrowia. W obawie o bezpieczeństwo córki Olgierd wysyła ją i Beatę do strzeżonego domu w górach. Sam ukrywa się w willi p. Henia, którego niegdyś wysłał za kratki. Między przestępcą a policjantem rodzi się przyjaźń.
+    serial sensacyjny (Polska, 1996) odc.6/9
+    Występują: Marek Kondrat, Małgorzata Pieczyńska, Maria Pakulnis, Witold Dębicki, Renata Dancewicz, Paweł Wilczak, Karol Strasburger, Piotr Fronczewski, Olaf Lubaszenko, Jerzy Trela
+    Basia wraca do zdrowia. Olgierd wysyła ją i Beatę do strzeżonego domu w górach. Sam ukrywa się w willi pana Henia, włamywacza, którego kiedyś aresztował. Kulski stawia w stan gotowości posterunki na wschodniej granicy.
+    Reżyser: Wojciech Wójcik
+    Od lat: 16
   ageRating: 16
   genre:
   - '18'
@@ -87,8 +87,8 @@
   subtitle: Pacjentką Lisickiego zostaje rowerzystka po wypadku. Cierpi na amnezję Lekarz próbuje zabrać chorą na przyjęcie swojego ojca. Artur znów spotyka się z Katią. Górska przyłapuje go w końcu na kłamstwie.
 - eventId: 854650
   start: 2026-10-24T03:35:00Z
-  stop: 2026-10-24T04:00:00Z
-  title: Gra słów. Krzyżówka - /1165/
+  stop: 2026-10-24T03:55:00Z
+  title: 'Gra słów. Krzyżówka: odc.1165'
   description: |-
     Tytuł oryginalny: Gra słów. Krzyżówka
     PL, 2026
@@ -98,21 +98,29 @@
   genre:
   - '112'
   subtitle: Codzienny teleturniej sprawdzający wiedzę, oparty na formule krzyżówki. Czworo uczestników zmierzy się ze sobą, by zdobyć tytuł finalisty dnia i uzyskać możliwość wzięcia udziału w finale tygodnia.
+- eventId: 1034359
+  start: 2026-10-24T03:55:00Z
+  stop: 2026-10-24T04:00:00Z
+  title: Zakończenie programu
+  description: .
 - eventId: 854651
   start: 2026-10-24T04:00:00Z
   stop: 2026-10-24T04:30:00Z
   title: Panorama
-  description: |
-    Tytuł oryginalny: Panorama
-    PL, 2026
+  description: |-
+    program informacyjny
+    Podsumowanie najważniejszych wydarzeń dnia z kraju i ze świata. W programie oprócz materiałów czysto newsowych, politycznych, społecznych, gospodarczych, medycznych, naukowych i kulturalnych znajdą się również analizy konkretnych zagadnień oraz wypowiedzi ekspertów.
   genre:
   - '149'
   subtitle: Główny program informacyjny telewizyjnej Dwójki, podsumowujący najważniejsze wydarzenia minionego dnia w kraju i na świecie.
 - eventId: 854652
   start: 2026-10-24T04:30:00Z
   stop: 2026-10-24T05:15:00Z
-  title: Kulturalni - /41/
-  description: Jest to kontynuacja dotychczasowego cyklu emitowanego na antenie TVP Polonia. Kulturalni to program o polskiej kulturze, tworzony przez pasjonatów, dla których kultura jest codzienną potrzebą, zaprasza widzów do świata literatury, teatru.
+  title: 'Kulturalni: odc.41'
+  description: |-
+    magazyn odc.41
+    Prowadzą: Piotr Szygalski, Bodo Kox
+    Piotr Szygalski i Bodo Kox przedstawiają informacje z różnych dziedzin kultury. W magazynie m.in. recenzje premier kinowych i teatralnych. Autorzy polecają również warte uwagi lektury oraz omawiają ważne wydarzenia na scenie muzycznej.
   genre:
   - '112'
   subtitle: Program prezentuje najciekawsze wydarzenia kulturalne, artystyczne, sportowe i społeczne z życia Polonii.
@@ -120,7 +128,10 @@
   start: 2026-10-24T05:15:00Z
   stop: 2026-10-24T05:30:00Z
   title: Turystyczna Jazda - Słowacja - Dolny Liptów, Rużomberok
-  description: W podróży po północnej Słowacji odkrywamy urokliwe miejsca regionu Liptów. Odwiedzimy miasto Rużomberok i wybierzemy się na rowerową wyprawę w tamtejsze doliny. Trafimy nawet do...dawnego, zapomnianego uzdrowiska.
+  description: |-
+    magazyn (2026) odc.202
+    Tym razem prowadzący wyruszają w podróż przez północną Słowację. W odcinku autorzy odkrywają urokliwe zakątki regionu Liptów, odwiedzają Rużomberok i wybierają się na rowerową wyprawę po okolicznych dolinach. Docierają nawet do dawnego, zapomnianego uzdrowiska.
+    Od lat: 12
   genre:
   - '161'
   ageRating: 12
@@ -128,7 +139,10 @@
   start: 2026-10-24T05:30:00Z
   stop: 2026-10-24T05:55:00Z
   title: Pytanie na śniadanie - pobudka
-  description: Program służy pogłębianiu znajomości i upowszechnianiu kultury w zakresie muzyki, literatury, teatru i tańca. Jest źródłem wiedzy na temat wydarzeń także natury ekonomicznej i społecznej.
+  description: |-
+    magazyn (Polska, 2026) (na żywo)
+    Poranny program telewizyjnej Dwójki, w którym eksperci odpowiadają na ważne pytania, analizują codzienne sprawy i dzielą się praktycznymi poradami.
+    Od lat: 12
   ageRating: 12
   genre:
   - '149'
@@ -137,7 +151,10 @@
   start: 2026-10-24T05:55:00Z
   stop: 2026-10-24T09:20:00Z
   title: Pytanie na śniadanie
-  description: Program służy pogłębianiu znajomości i upowszechnianiu kultury w zakresie muzyki, literatury, teatru i tańca. Jest źródłem wiedzy na temat wydarzeń także natury ekonomicznej i społecznej.
+  description: |-
+    magazyn (Polska, 2026) (na żywo)
+    Każdy program poświęcony jest innej kwestii. Na pytania związane z konkretnym tematem odpowiadają zaproszeni do studia specjaliści, eksperci z różnych dziedzin, polskie i zagraniczne gwiazdy.
+    Od lat: 12
   ageRating: 12
   genre:
   - '149'
