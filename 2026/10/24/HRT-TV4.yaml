@@ -1,6 +1,6 @@
 - eventId: 960638
   start: 2026-10-24T00:00:00Z
-  stop: 2026-10-24T00:22:00Z
+  stop: 2026-10-24T00:02:00Z
   title: 'Studio 4: Jutarnji intervju'
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -9,6 +9,7 @@
   - '32'
 - eventId:
   - 1037666
+  - 1037871
   - 960639
   start: 2026-10-24T00:02:00Z
   stop: 2026-10-24T00:22:00Z
@@ -18,7 +19,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1037667
+- eventId:
+  - 1037667
+  - 1037872
   start: 2026-10-24T00:22:00Z
   stop: 2026-10-24T00:26:00Z
   title: '#REPORTAŽE'
@@ -45,6 +48,7 @@
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 1037668
+  - 1037873
   - 960641
   start: 2026-10-24T00:26:00Z
   stop: 2026-10-24T00:30:00Z
@@ -81,6 +85,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 1037669
+  - 1037874
   - 960643
   start: 2026-10-24T00:53:00Z
   stop: 2026-10-24T00:55:00Z
@@ -161,7 +166,9 @@
   title: '#REPORTAŽE: Dušan Jelić kapljica vode'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 1037670
+- eventId:
+  - 1037670
+  - 1037875
   start: 2026-10-24T01:50:00Z
   stop: 2026-10-24T01:53:00Z
   title: '#REPORTAŽE'
@@ -239,6 +246,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 1037671
+  - 1037876
   - 983126
   start: 2026-10-24T03:53:00Z
   stop: 2026-10-24T03:54:00Z
@@ -250,14 +258,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 983127
   start: 2026-10-24T03:54:00Z
-  stop: 2026-10-24T03:56:00Z
+  stop: 2026-10-24T03:55:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 1037672
+- eventId:
+  - 1037672
+  - 1037877
   start: 2026-10-24T03:55:00Z
   stop: 2026-10-24T03:57:00Z
   title: Vrijeme Svijet danas
@@ -292,6 +302,7 @@
   - '32'
 - eventId:
   - 1037673
+  - 1037878
   - 984226
   start: 2026-10-24T03:57:00Z
   stop: 2026-10-24T04:00:00Z
@@ -347,7 +358,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 983134
   start: 2026-10-24T04:20:00Z
-  stop: 2026-10-24T04:29:00Z
+  stop: 2026-10-24T04:28:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
@@ -356,6 +367,7 @@
   description: Kratki pregled aktualnosti iz svijeta znanosti.
 - eventId:
   - 1037674
+  - 1037879
   - 983135
   start: 2026-10-24T04:28:00Z
   stop: 2026-10-24T04:55:00Z
@@ -383,6 +395,7 @@
   - '128'
 - eventId:
   - 1037675
+  - 1037880
   - 984227
   start: 2026-10-24T04:55:00Z
   stop: 2026-10-24T05:00:00Z
@@ -411,7 +424,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 983138
   start: 2026-10-24T05:10:00Z
-  stop: 2026-10-24T05:13:00Z
+  stop: 2026-10-24T05:15:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
@@ -428,6 +441,7 @@
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
 - eventId:
   - 1037676
+  - 1037881
   - 983139
   start: 2026-10-24T05:15:00Z
   stop: 2026-10-24T05:22:00Z
@@ -455,6 +469,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 1037677
+  - 1037882
   - 983140
   start: 2026-10-24T05:22:00Z
   stop: 2026-10-24T05:23:00Z
@@ -640,7 +655,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 983159
   start: 2026-10-24T08:35:00Z
-  stop: 2026-10-24T08:42:00Z
+  stop: 2026-10-24T08:45:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
@@ -677,7 +692,7 @@
   - 1037038
   - 983160
   start: 2026-10-24T08:45:00Z
-  stop: 2026-10-24T08:47:00Z
+  stop: 2026-10-24T08:50:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
@@ -713,6 +728,7 @@
   - 1036610
   - 1037039
   - 1037678
+  - 1037883
   - 983161
   start: 2026-10-24T08:50:00Z
   stop: 2026-10-24T09:00:00Z
@@ -831,7 +847,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 983171
   start: 2026-10-24T10:20:00Z
-  stop: 2026-10-24T10:28:00Z
+  stop: 2026-10-24T10:30:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -1126,6 +1142,7 @@
   - 1036611
   - 1037040
   - 1037679
+  - 1037884
   - 983196
   start: 2026-10-24T16:00:00Z
   stop: 2026-10-24T16:30:00Z
@@ -1158,6 +1175,7 @@
   - 1036612
   - 1037041
   - 1037680
+  - 1037885
   - 983197
   start: 2026-10-24T16:30:00Z
   stop: 2026-10-24T16:49:00Z
@@ -1183,6 +1201,7 @@
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
 - eventId:
   - 1037681
+  - 1037886
   - 984231
   start: 2026-10-24T16:49:00Z
   stop: 2026-10-24T16:53:00Z
@@ -1210,6 +1229,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 1037682
+  - 1037887
   - 983199
   start: 2026-10-24T16:53:00Z
   stop: 2026-10-24T16:54:00Z
