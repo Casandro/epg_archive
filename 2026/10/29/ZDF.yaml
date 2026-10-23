@@ -3,6 +3,7 @@
   - 1589667
   - 540867
   - 557638
+  - 612310
   - 612389
   start: 2026-10-29T00:15:00Z
   stop: 2026-10-29T01:00:00Z
@@ -27,6 +28,7 @@
   - 1589668
   - 540868
   - 557639
+  - 612311
   - 612390
   start: 2026-10-29T01:00:00Z
   stop: 2026-10-29T01:45:00Z
@@ -51,6 +53,7 @@
   - 1589669
   - 540869
   - 557640
+  - 612312
   - 612391
   start: 2026-10-29T01:45:00Z
   stop: 2026-10-29T02:15:00Z
@@ -75,6 +78,7 @@
   - 1589670
   - 540870
   - 557641
+  - 612313
   - 612392
   start: 2026-10-29T02:15:00Z
   stop: 2026-10-29T02:45:00Z
@@ -98,6 +102,7 @@
   - 1589671
   - 540871
   - 557642
+  - 612314
   - 612393
   start: 2026-10-29T02:45:00Z
   stop: 2026-10-29T03:15:00Z
@@ -121,6 +126,7 @@
   - 541093
   - 557785
   - 612440
+  - 612523
   start: 2026-10-29T03:15:00Z
   stop: 2026-10-29T04:00:00Z
   title: Meeresschildkröten - Wächter der Ozeane
@@ -143,6 +149,7 @@
   - 541094
   - 557786
   - 612441
+  - 612524
   start: 2026-10-29T04:00:00Z
   stop: 2026-10-29T04:30:00Z
   title: hallo deutschland
@@ -164,6 +171,7 @@
   - 541095
   - 557787
   - 612442
+  - 612525
   start: 2026-10-29T04:30:00Z
   stop: 2026-10-29T08:00:00Z
   title: ZDF-Morgenmagazin
@@ -183,6 +191,7 @@
   - 1589715
   - 544078
   - 557822
+  - 612536
   - 612552
   start: 2026-10-29T08:00:00Z
   stop: 2026-10-29T08:05:00Z
@@ -198,6 +207,7 @@
   - 1589716
   - 544079
   - 557823
+  - 612537
   - 612553
   start: 2026-10-29T08:05:00Z
   stop: 2026-10-29T09:30:00Z
@@ -213,22 +223,11 @@
 
     Moderation: Nadine Krüger
     HD-Produktion
-- eventId:
-  - 1589364
-  - 1589745
-  - 544092
-  - 557828
-  - 612597
+- eventId: 612554
   start: 2026-10-29T09:30:00Z
   stop: 2026-10-29T10:15:00Z
   title: Notruf Hafenkante
   subtitle: Du gehörst mir
-  genre:
-  - '21'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   description: |-
     Krimiserie, Deutschland 2018
     Tischlermeister Gerd Reimann liegt mit Herzinfarkt in seiner Werkstatt und konnte gerade noch den Notruf wählen. Den Polizisten erzählt er, sein Schwiegersohn Jan Keller habe ihn bestohlen.
@@ -245,22 +244,17 @@
     Buch/Autor: Fabian Thaesler
 
     HD-Produktion
-- eventId:
-  - 1589365
-  - 1589746
-  - 544093
-  - 557829
-  - 612598
-  start: 2026-10-29T10:15:00Z
-  stop: 2026-10-29T11:00:00Z
-  title: SOKO Wismar
-  subtitle: Kurzschluss
   genre:
-  - '17'
+  - '21'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 612555
+  start: 2026-10-29T10:15:00Z
+  stop: 2026-10-29T11:00:00Z
+  title: SOKO Wismar
+  subtitle: Kurzschluss
   description: |-
     Krimiserie, Deutschland 2010
     Die Leiche des Rentners Hugo Benning wird aus der Mülltonne vor seinem Haus geborgen. Nachbarin Fräulein Hansen ist die Letzte, die ihn lebend gesehen hat. Den Mord habe sie nicht bemerkt.
@@ -277,12 +271,13 @@
     Buch/Autor: Wolf Jakoby
 
     HD-Produktion
-- eventId:
-  - 1589366
-  - 1589747
-  - 544094
-  - 557830
-  - 612599
+  genre:
+  - '17'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 612556
   start: 2026-10-29T11:00:00Z
   stop: 2026-10-29T13:00:00Z
   title: ARD-Mittagsmagazin
@@ -298,6 +293,7 @@
   - 1589763
   - 544110
   - 557967
+  - 612578
   - 612611
   start: 2026-10-29T13:00:00Z
   stop: 2026-10-29T13:15:00Z
@@ -312,6 +308,7 @@
   - 1589764
   - 544111
   - 557968
+  - 612579
   - 612612
   start: 2026-10-29T13:15:00Z
   stop: 2026-10-29T14:00:00Z
@@ -328,6 +325,20 @@
 
     Der Weg führt über den Wochensieg in eine Qualifikationswoche und dann in die große Finalwoche. Wer wird Hobbykoch des Jahres und gewinnt 25 000 Euro?
     HD-Produktion
+- eventId:
+  - 1428619
+  - 1431171
+  - 556053
+  - 612580
+  start: 2026-10-29T14:00:00Z
+  stop: 2026-10-29T14:05:00Z
+  title: ARD-Morgenmagazin
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1589369
   - 1589765
@@ -348,6 +359,7 @@
   - 1589766
   - 544113
   - 557970
+  - 612581
   - 612614
   start: 2026-10-29T14:05:00Z
   stop: 2026-10-29T15:00:00Z
@@ -381,6 +393,37 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1428623
+  - 1431175
+  - 556115
+  - 612628
+  start: 2026-10-29T15:10:00Z
+  stop: 2026-10-29T16:00:00Z
+  title: Die Rosenheim-Cops
+  subtitle: Tod auf zwei Rädern
+  genre:
+  - '17'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Krimiserie, Deutschland 2023
+    Bei einem Notfalleinsatz in einem Wohngebiet parkt Jürgen Bloch den Rettungswagen zu. Der Rettungssanitäter Dennis Köhnle konfrontiert den sturen Anwohner - schnell eskaliert die Situation.
+
+    Kommissar Jo Stoll ist zufällig vor Ort und parkt das Auto kurzerhand um. Der Sanitäter hat die Situation gefilmt und veröffentlicht das Handyvideo im Netz. Als bekannt wird, dass die Patientin aus dem RTW gestorben ist, kennt man in den sozialen Netzwerken keine Gnade.
+    Darsteller:
+    Martina Seiffert - Astrid M. Fünderich
+    Joachim Stoll - Peter Ketnath
+    Lea Gomez - Jasmin Gassmann
+    Rico Sander - Benjamin Strecker
+    Michael Kaiser - Karl Kranzkowski
+    Jan Arnaud - Mike Zaka Sommerfeldt
+    Regie: Cornel Krizsan
+    Buch/Autor: Andreas Quetsch, Frank Weller
+
+    HD-Produktion
+- eventId:
   - 1589403
   - 1589853
   - 546449
@@ -413,6 +456,28 @@
 
     HD-Produktion
 - eventId:
+  - 1428624
+  - 1431176
+  - 556116
+  - 612629
+  start: 2026-10-29T16:00:00Z
+  stop: 2026-10-29T16:10:00Z
+  title: ZDF-Mittagsmagazin
+  subtitle: mit heute Xpress
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Das "ZDF-Mittagsmagazin" informiert über das Wichtigste des Tages und liefert Hintergründe aus Deutschland und der ganzen Welt.
+
+    Aktuelle Berichte, berührende Geschichten und Live-Interviews mit prominenten Gästen aus Politik, Wirtschaft und Kultur sind Teil der Sendung, genauso wie Sport, Service und Wetter.
+
+    Moderation: Mirjam Meinhardt
+    HD-Produktion
+- eventId:
   - 1589404
   - 1589854
   - 546450
@@ -433,6 +498,7 @@
   - 546451
   - 558055
   - 612626
+  - 612630
   start: 2026-10-29T16:10:00Z
   stop: 2026-10-29T17:00:00Z
   title: hallo deutschland
@@ -455,7 +521,7 @@
   - 612627
   start: 2026-10-29T17:00:00Z
   stop: 2026-10-29T18:00:00Z
-  title: SOKO Stuttgart
+  title: heute - in Europa
   subtitle: Eine milde Gabe
   genre:
   - '17'
@@ -481,6 +547,56 @@
     Schnitt: Helmar Jungmann
     Musik: Uwe Schenk
     HD-Produktion
+- eventId: 612631
+  start: 2026-10-29T17:00:00Z
+  stop: 2026-10-29T18:00:00Z
+  title: SOKO Stuttgart
+  subtitle: Eine milde Gabe
+  description: |-
+    Krimiserie, Deutschland 2026
+    Als Schrotti erneut beim gemeinnützigen Herzenstisch aushilft, macht er im Inneren eines Transporters eine schreckliche Entdeckung: Der Vereinsleiter Frank Ebert ist tot.
+
+    Doch wer würde einen Mann umbringen, der sein Leben der ehrenamtlichen Arbeit widmete? Die Aufgabe der Organisation besteht daraus, Lebensmittel für armutsbetroffene Menschen bereitzustellen. Katja Winter vom Herzenstisch gilt als verdächtig.
+    Darsteller:
+    Martina Seiffert - Astrid M. Fünderich
+    Jo Stoll - Peter Ketnath
+    Toni Kidane - Iman Tekle
+    Michael Kaiser - Karl Kranzkowski
+    Karl "Schrotti" Schrothmann - Michael Gaedt
+    Jan Arnaud - Mike Zaka Sommerfeldt
+    Regie: Patrick Winczewski
+    Buch/Autor: Frank Kayan, Colin Zech
+    Kamera: Matthias Papenmeier
+    Schnitt: Helmar Jungmann
+    Musik: Uwe Schenk
+    HD-Produktion
+  genre:
+  - '17'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1428628
+  - 1431180
+  - 556245
+  - 612637
+  start: 2026-10-29T18:00:00Z
+  stop: 2026-10-29T18:20:00Z
+  title: Bares für Rares
+  subtitle: Die Trödel-Show mit Horst Lichter
+  genre:
+  - '48'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Trödel-Show, Deutschland 2026
+    Wertvoll oder wertlos? Ob alter Krimskrams oder edle Rarität: In Horst Lichters Trödel-Show kann jeder seltene Fundstücke aus Keller oder Garage schätzen lassen.
+
+    Die Geschichte der Kuriositäten, viele Schätze und noch mehr Raritäten, hammerhartes Verhandeln mit Lachen, Tränen und manchen Überraschungen - das alles bietet Horst Lichter in "Bares für Rares".
+    HD-Produktion
 - eventId:
   - 1589407
   - 1589943
@@ -502,6 +618,29 @@
     Moderation: Barbara Hahlweg
     HD-Produktion
 - eventId:
+  - 1428629
+  - 1431181
+  - 556246
+  - 612638
+  start: 2026-10-29T18:20:00Z
+  stop: 2026-10-29T18:25:00Z
+  title: heute - in Europa
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Serbien vor Richtungswahl - Studenten fordern Vucic heraus
+
+    Russland nimmt Japaner fest - Journalist als Faustpfand?
+
+    Portugals Erdbeerbaum - Hochprozentiger Brandschutz
+
+    Moderation: - Andreas Klinner
+    HD-Produktion
+- eventId:
   - 1589408
   - 1589944
   - 546632
@@ -519,6 +658,39 @@
   description: |-
     Wetter, Deutschland 2026
 
+    HD-Produktion
+- eventId:
+  - 1428630
+  - 1431182
+  - 556247
+  - 612639
+  start: 2026-10-29T18:25:00Z
+  stop: 2026-10-29T19:15:00Z
+  title: Die Rosenheim-Cops
+  subtitle: Betriebsausflug in den Tod
+  genre:
+  - '21'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Krimiserie, Deutschland 2026
+    Kaum wird der Ex-Schwimmtrainer Bernd Grundmann trotz Missbrauchsvorwürfen gegen ihn aus der U-Haft entlassen, wird er in seinem Heimat-Schwimmbad niedergeschlagen und ertrinkt beinahe.
+
+    Eine seiner Schülerinnen, Ella Pichler, hatte ihn des sexuellen Missbrauchs bezichtigt. Wieder frei, kann sich Grundmann nun ungehindert dem Opfer und dem einzigen Zeugen, dem Vereinsvorsitzenden Norbert Hamp, nähern. Ellas Vater Jan kocht vor Wut. Wer ist der Täter?
+    Darsteller:
+    Franzi Jung - Rhea Harder-Vennewald
+    Nick Brandt - Raúl Richter
+    Isa Nowak - Lilli Hollunder
+    Kris Freiberg - Marc Barthel
+    Melanie Hansen - Sanna Englund
+    Dr. Lee Evans - Tino Führer
+    Regie: Felix Ahrens
+    Buch/Autor: Sören Hüper, Christian Prettin
+    Kamera: Marius von Felbert, Roland Fritzenschaft
+    Schnitt: Mark Broszeit
+    Musik: Michael Soltau
     HD-Produktion
 - eventId:
   - 1589409
@@ -555,6 +727,39 @@
     Musik: Michael Soltau
     HD-Produktion
 - eventId:
+  - 1348905
+  - 1349279
+  - 557933
+  - 612640
+  start: 2026-10-29T19:15:00Z
+  stop: 2026-10-29T20:45:00Z
+  title: Die Bergretter
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Actionserie, Deutschland / Österreich 2026
+    Beim Austausch einer Relaisbox finden die Bergretter eine Tonaufzeichnung von emotionaler Sprengkraft: Es sind die letzten Worte des verunglückten Bergsteigers Anton Höller.
+
+    Isa Höller und ihren Sohn Elias hoffen, durch die gefundenen Aufnahmen mehr über den tragischen Tod ihres Ehemanns und Vaters zu erfahren. Als eine weitere Aufnahme auftaucht, ist klar: Dem Unfall ging anscheinend ein Streit voraus - doch mit wem?
+    Darsteller:
+    Markus Kofler - Sebastian Ströbel
+    Katharina Strasser - Luise Bähr
+    Tobias Herbrechter - Markus Brandl
+    Rudi - Michael Pascher
+    Michael Dörfler - Robert Lohr
+    Emilie Hofer - Stefanie von Poser
+    Regie: Carolin Otterbach
+    Buch/Autor: Marc Hillefeld, Christiane Rousseau (Head-Aut)
+    Kamera: Tobias Platow, Daniel Blaum
+    Schnitt: Biljana Grafwallner-Brezovska
+    Musik: Eike Hosenfeld, Tim Stanzel
+    HD-Produktion
+  subtitle: Stimmen der Vergangenheit
+- eventId:
   - 1589410
   - 1589946
   - 546634
@@ -589,6 +794,30 @@
     Musik: Eike Hosenfeld, Tim Stanzel
     HD-Produktion
 - eventId:
+  - 1348906
+  - 1349280
+  - 557934
+  - 612641
+  start: 2026-10-29T20:45:00Z
+  stop: 2026-10-29T21:15:00Z
+  title: heute journal update
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Bund wirbt um Unternehmen - Welche Investitionen nötig sind
+
+    Neue Strategie für die Arktis - Warum die EU jetzt Eisbrecher braucht
+
+    CL: Stuttgart gegen Atletico - Was der VfB nach Porto gelernt hat
+
+    Moderation: Barbara Parente
+    HD-Produktion
+  subtitle: Wetter
+  subtitled: true
+- eventId:
   - 1589411
   - 1589947
   - 546635
@@ -609,51 +838,42 @@
 
     Moderation: Anne Gellinek
     HD-Produktion
-- eventId:
-  - 1589415
-  - 1590010
-  - 546638
-  - 558195
-  - 612961
+- eventId: 612738
   start: 2026-10-29T21:15:00Z
   stop: 2026-10-29T22:15:00Z
   title: maybrit illner
   subtitle: Der Polit-Talk im ZDF
-  genre:
-  - '128'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   description: |-
     Einmal pro Woche führt Maybrit Illner durch ihren gleichnamigen Polittalk. Mit Gästen aus Gesellschaft, Politik und Wirtschaft diskutiert sie live aus Berlin das "Thema der Woche".
 
     Ukrainekrieg, Wirtschaftskrise oder Klimawandel - es wird kontrovers debattiert und leidenschaftlich um Lösungen gerungen. Intelligent, scharfzüngig und rasant geht es bei "maybrit illner" vor allem um die Frage, was Politik für die Menschen bedeutet.
     HD-Produktion
-- eventId:
-  - 1589416
-  - 1590011
-  - 546639
-  - 558196
-  - 612962
-  start: 2026-10-29T22:15:00Z
-  stop: 2026-10-29T23:30:00Z
-  title: Markus Lanz
   genre:
   - '128'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 612739
+  start: 2026-10-29T22:15:00Z
+  stop: 2026-10-29T23:30:00Z
+  title: Markus Lanz
   description: |-
     Talkshow, Deutschland 2026
     Markus Lanz spricht in seiner Talkshow mit seinen Gästen über aktuelle und gesellschaftlich relevante Themen - unterhaltend und journalistisch hintergründig.
     HD-Produktion
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1596387
   - 1596673
   - 546640
   - 558197
+  - 612740
   - 612963
   start: 2026-10-29T23:30:00Z
   stop: 2026-10-29T23:45:00Z
@@ -673,6 +893,7 @@
   - 1596674
   - 546641
   - 558198
+  - 612741
   - 612964
   start: 2026-10-29T23:45:00Z
   stop: 2026-10-30T00:15:00Z

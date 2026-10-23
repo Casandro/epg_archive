@@ -1,12 +1,5 @@
-- eventId: 1006690
-  start: 2026-11-19T00:10:00Z
-  stop: 2026-11-19T01:40:00Z
-  title: Billy Kuckuck - Aber bitte mit Sahne!
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
+  - 1006690
   - 1012179
   - 1223510
   - 553265
@@ -14,21 +7,14 @@
   start: 2026-11-19T00:10:00Z
   stop: 2026-11-19T01:40:00Z
   title: Billy Kuckuck - Aber bitte mit Sahne!
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
   subtitle: Aktuelle Informationen zu Wetter und Klima
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   description: Bei Thomas Ranft und Fridolin Frosch - dem Maskottchen von "alle wetter!" - erfahren Sie, wie sich das Wetter bei uns in Hessen und in der Welt entwickelt.
-- eventId: 1006691
-  start: 2026-11-19T01:40:00Z
-  stop: 2026-11-19T01:50:00Z
-  title: Bilder aus Hessen
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
+  - 1006691
   - 1012180
   - 1223511
   - 553266
@@ -36,21 +22,14 @@
   start: 2026-11-19T01:40:00Z
   stop: 2026-11-19T01:50:00Z
   title: Bilder aus Hessen
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
   subtitle: News & Boulevard
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   description: 'In Gießen heißt es heute Zittern angesichts einer möglichen Evakuierung. Bei Bauarbeiten kam der Verdacht auf Kampfmittelreste auf, weshalb im schlimmsten Fall bis zu 6.000 Menschen ihre Häuser verlassen müssen. Wer nicht flüchten muss, kann sich im Garten zurücklehnen: Wir zeigen Ihnen, warum nichts zu tun im Herbstgarten biologisch wertvoll ist. Tierisch wird es im Frankfurter Zoo: Pflegerin Rebecca Müllen nimmt uns mit zu den Blaukronenpapageien. Noch mehr Minitiere gibt es im Wildpark Gersfeld in der Rhön: Dort sind fünf Ouessant-Schafe eingezogen.'
-- eventId: 1006692
-  start: 2026-11-19T01:50:00Z
-  stop: 2026-11-19T02:35:00Z
-  title: mex. das marktmagazin
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
+  - 1006692
   - 1012181
   - 1223512
   - 553267
@@ -72,18 +51,8 @@
     * Dolles Dorf
     * Comics aus Hessen: Naaman Wakim
   subtitle: 'Moderation: Kristin Gesang'
-- eventId: 1006693
-  start: 2026-11-19T02:35:00Z
-  stop: 2026-11-19T04:05:00Z
-  title: 'Brokenwood - Mord in Neuseeland: Fang des Tages'
-  subtitle: Spielfilm Neuseeland 2015
-  genre:
-  - '16'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
+  - 1006693
   - 1563655
   - 555319
   - 787640
@@ -91,12 +60,12 @@
   stop: 2026-11-19T04:05:00Z
   title: 'Brokenwood - Mord in Neuseeland: Fang des Tages'
   subtitle: Der Filmstar, seine Frau Susan, zwei Hessen, eine Kamera
+  genre:
+  - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  genre:
-  - '16'
 - eventId:
   - 1006752
   - 555719
@@ -269,15 +238,8 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1006937
-  start: 2026-11-19T14:15:00Z
-  stop: 2026-11-19T15:00:00Z
-  title: Quizduell-Olymp
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
+  - 1006937
   - 1012336
   - 1224067
   - 540847
@@ -492,7 +454,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1007252
+- eventId:
+  - 1007252
+  - 560670
   start: 2026-11-19T23:05:00Z
   stop: 2026-11-20T00:35:00Z
   title: Billy Kuckuck - Angezählt

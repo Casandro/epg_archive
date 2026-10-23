@@ -28,7 +28,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030194
+- eventId:
+  - 1030194
+  - 609878
   start: 2026-10-27T00:20:00Z
   stop: 2026-10-27T00:25:00Z
   title: Meteo
@@ -38,7 +40,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030195
+- eventId:
+  - 1030195
+  - 609879
   start: 2026-10-27T00:25:00Z
   stop: 2026-10-27T00:30:00Z
   title: Sportflash
@@ -50,7 +54,9 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 1030196
+- eventId:
+  - 1030196
+  - 609880
   start: 2026-10-27T00:30:00Z
   stop: 2026-10-27T00:35:00Z
   title: Newsflash SRF 1
@@ -59,7 +65,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 940607
+- eventId:
+  - 609881
+  - 940607
   start: 2026-10-27T00:35:00Z
   stop: 2026-10-27T01:00:00Z
   title: 10 vor 10
@@ -99,7 +107,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030197
+- eventId:
+  - 1030197
+  - 609882
   start: 2026-10-27T01:00:00Z
   stop: 2026-10-27T01:02:00Z
   title: Meteo
@@ -109,7 +119,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030198
+- eventId:
+  - 1030198
+  - 609883
   start: 2026-10-27T01:02:00Z
   stop: 2026-10-27T01:05:00Z
   title: Sportflash
@@ -121,7 +133,9 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 1030199
+- eventId:
+  - 1030199
+  - 609884
   start: 2026-10-27T01:05:00Z
   stop: 2026-10-27T01:10:00Z
   title: Newsflash SRF 1
@@ -130,7 +144,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030200
+- eventId:
+  - 1030200
+  - 609885
   start: 2026-10-27T01:10:00Z
   stop: 2026-10-27T01:35:00Z
   title: 10 vor 10
@@ -179,7 +195,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030201
+- eventId:
+  - 1030201
+  - 609886
   start: 2026-10-27T01:35:00Z
   stop: 2026-10-27T01:40:00Z
   title: Meteo
@@ -189,7 +207,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030202
+- eventId:
+  - 1030202
+  - 609887
   start: 2026-10-27T01:40:00Z
   stop: 2026-10-27T01:45:00Z
   title: Sportflash
@@ -201,7 +221,9 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 1030203
+- eventId:
+  - 1030203
+  - 609888
   start: 2026-10-27T01:45:00Z
   stop: 2026-10-27T01:50:00Z
   title: Newsflash SRF 1
@@ -210,7 +232,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030204
+- eventId:
+  - 1030204
+  - 609889
   start: 2026-10-27T01:50:00Z
   stop: 2026-10-27T02:15:00Z
   title: 10 vor 10
@@ -259,7 +283,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030205
+- eventId:
+  - 1030205
+  - 609890
   start: 2026-10-27T02:15:00Z
   stop: 2026-10-27T02:17:00Z
   title: Meteo
@@ -269,7 +295,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030206
+- eventId:
+  - 1030206
+  - 609891
   start: 2026-10-27T02:17:00Z
   stop: 2026-10-27T02:20:00Z
   title: Sportflash
@@ -281,7 +309,9 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 1030207
+- eventId:
+  - 1030207
+  - 609892
   start: 2026-10-27T02:20:00Z
   stop: 2026-10-27T02:25:00Z
   title: Newsflash SRF 1
@@ -293,6 +323,15 @@
 - eventId: 1030208
   start: 2026-10-27T02:25:00Z
   stop: 2026-10-27T02:45:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 609893
+  start: 2026-10-27T02:25:00Z
+  stop: 2026-10-27T02:50:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -330,6 +369,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 609894
+  start: 2026-10-27T02:50:00Z
+  stop: 2026-10-27T02:55:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 940633
   start: 2026-10-27T02:50:00Z
   stop: 2026-10-27T02:55:00Z
@@ -340,7 +389,9 @@
   subtitled: true
   hd: true
   subtitle: Spätausgabe
-- eventId: 1030209
+- eventId:
+  - 1030209
+  - 609895
   start: 2026-10-27T02:55:00Z
   stop: 2026-10-27T03:00:00Z
   title: Sportflash
@@ -352,7 +403,9 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 1030210
+- eventId:
+  - 1030210
+  - 609900
   start: 2026-10-27T03:00:00Z
   stop: 2026-10-27T03:05:00Z
   title: Newsflash SRF 1
@@ -364,6 +417,15 @@
 - eventId: 1030211
   start: 2026-10-27T03:05:00Z
   stop: 2026-10-27T03:25:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 609901
+  start: 2026-10-27T03:05:00Z
+  stop: 2026-10-27T03:30:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -401,6 +463,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 609902
+  start: 2026-10-27T03:30:00Z
+  stop: 2026-10-27T03:32:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 940629
   start: 2026-10-27T03:30:00Z
   stop: 2026-10-27T03:32:00Z
@@ -411,7 +483,9 @@
   subtitled: true
   hd: true
   subtitle: Spätausgabe
-- eventId: 1030212
+- eventId:
+  - 1030212
+  - 609903
   start: 2026-10-27T03:32:00Z
   stop: 2026-10-27T03:35:00Z
   title: Sportflash
@@ -423,7 +497,9 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 1030213
+- eventId:
+  - 1030213
+  - 609904
   start: 2026-10-27T03:35:00Z
   stop: 2026-10-27T03:40:00Z
   title: Newsflash SRF 1
@@ -435,6 +511,15 @@
 - eventId: 1030214
   start: 2026-10-27T03:40:00Z
   stop: 2026-10-27T04:00:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 609905
+  start: 2026-10-27T03:40:00Z
+  stop: 2026-10-27T04:05:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -463,6 +548,16 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 609906
+  start: 2026-10-27T04:05:00Z
+  stop: 2026-10-27T04:09:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 944320
   start: 2026-10-27T04:05:00Z
   stop: 2026-10-27T04:09:00Z
@@ -473,7 +568,9 @@
   subtitled: true
   hd: true
   subtitle: Spätausgabe
-- eventId: 1030215
+- eventId:
+  - 1030215
+  - 609907
   start: 2026-10-27T04:09:00Z
   stop: 2026-10-27T04:10:00Z
   title: Sportflash
@@ -485,7 +582,9 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 944321
+- eventId:
+  - 609908
+  - 944321
   start: 2026-10-27T04:10:00Z
   stop: 2026-10-27T04:20:00Z
   title: Newsflash SRF 1
@@ -497,6 +596,15 @@
 - eventId: 1030216
   start: 2026-10-27T04:20:00Z
   stop: 2026-10-27T04:40:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 609909
+  start: 2026-10-27T04:20:00Z
+  stop: 2026-10-27T04:45:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -525,6 +633,16 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 609910
+  start: 2026-10-27T04:45:00Z
+  stop: 2026-10-27T04:47:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 944324
   start: 2026-10-27T04:45:00Z
   stop: 2026-10-27T04:47:00Z
@@ -535,7 +653,9 @@
   subtitled: true
   hd: true
   subtitle: Spätausgabe
-- eventId: 1030217
+- eventId:
+  - 1030217
+  - 609911
   start: 2026-10-27T04:47:00Z
   stop: 2026-10-27T04:50:00Z
   title: Sportflash
@@ -547,7 +667,9 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 1013449
+- eventId:
+  - 1013449
+  - 609912
   start: 2026-10-27T04:50:00Z
   stop: 2026-10-27T05:00:00Z
   title: Telesguard
@@ -571,7 +693,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1013450
+- eventId:
+  - 1013450
+  - 609913
   start: 2026-10-27T05:00:00Z
   stop: 2026-10-27T05:20:00Z
   title: Schweiz aktuell
@@ -589,7 +713,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1013451
+- eventId:
+  - 1013451
+  - 609914
   start: 2026-10-27T05:20:00Z
   stop: 2026-10-27T05:25:00Z
   title: Sportflash
@@ -601,7 +727,9 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 944327
+- eventId:
+  - 609915
+  - 944327
   start: 2026-10-27T05:25:00Z
   stop: 2026-10-27T05:45:00Z
   title: Schweiz aktuell
@@ -623,7 +751,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1013452
+- eventId:
+  - 1013452
+  - 609923
   start: 2026-10-27T05:45:00Z
   stop: 2026-10-27T05:50:00Z
   title: Sportflash
@@ -635,7 +765,9 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 944329
+- eventId:
+  - 609924
+  - 944329
   start: 2026-10-27T05:50:00Z
   stop: 2026-10-27T06:10:00Z
   title: Schweiz aktuell
@@ -657,7 +789,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1013455
+- eventId:
+  - 1013455
+  - 609929
   start: 2026-10-27T06:10:00Z
   stop: 2026-10-27T06:15:00Z
   title: Sportflash
@@ -669,7 +803,9 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 944336
+- eventId:
+  - 609930
+  - 944336
   start: 2026-10-27T06:15:00Z
   stop: 2026-10-27T06:35:00Z
   title: Schweiz aktuell
@@ -691,7 +827,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1013456
+- eventId:
+  - 1013456
+  - 609931
   start: 2026-10-27T06:35:00Z
   stop: 2026-10-27T06:40:00Z
   title: Sportflash
@@ -703,7 +841,9 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 944338
+- eventId:
+  - 609932
+  - 944338
   start: 2026-10-27T06:40:00Z
   stop: 2026-10-27T07:00:00Z
   title: Schweiz aktuell
@@ -713,7 +853,9 @@
   subtitle: 'Wut und Zerstörung in Frankreich: Welche Rolle spielt die Wirtschaft?'
   genre:
   - '32'
-- eventId: 1013457
+- eventId:
+  - 1013457
+  - 609933
   start: 2026-10-27T07:00:00Z
   stop: 2026-10-27T07:35:00Z
   title: Eco Talk
@@ -721,6 +863,7 @@
   widescreen: true
   subtitled: true
   hd: true
+  description: "Wütende Protestierende auf der einen, ein hoch verschuldeter Staat auf der anderen Seite: Die Ausgangslage in Frankreich ist explosiv. Könnte es zu einer grösseren Protestwelle in Europa kommen und was hiesse das für die Schweiz? \nSchweiz 2026"
 - eventId: 944339
   start: 2026-10-27T07:15:00Z
   stop: 2026-10-27T07:45:00Z
@@ -732,7 +875,9 @@
   description: |-
     Harald Schmidt brachte Late Night nach Deutschland und wurde damit zum Star. Heute ist der 69-Jährige zurück beim Schauspiel und auf dem «Traumschiff» unterwegs. Bei «Gredig direkt» erzählt er, warum er im Kopf noch täglich eine Late-Night-Show produziert und warum er sich keine Sorgen machen will.
     Schweiz 2026
-- eventId: 1013458
+- eventId:
+  - 1013458
+  - 609934
   start: 2026-10-27T07:35:00Z
   stop: 2026-10-27T08:10:00Z
   title: Puls
@@ -754,7 +899,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1013459
+- eventId:
+  - 1013459
+  - 609935
   start: 2026-10-27T08:10:00Z
   stop: 2026-10-27T08:45:00Z
   title: Eco Talk
@@ -762,6 +909,7 @@
   widescreen: true
   subtitled: true
   hd: true
+  description: "Wütende Protestierende auf der einen, ein hoch verschuldeter Staat auf der anderen Seite: Die Ausgangslage in Frankreich ist explosiv. Könnte es zu einer grösseren Protestwelle in Europa kommen und was hiesse das für die Schweiz? \nSchweiz 2026"
 - eventId: 944341
   start: 2026-10-27T08:20:00Z
   stop: 2026-10-27T08:55:00Z
@@ -770,7 +918,9 @@
   subtitled: true
   hd: true
   subtitle: 'Wut und Zerstörung in Frankreich: Welche Rolle spielt die Wirtschaft?'
-- eventId: 1013460
+- eventId:
+  - 1013460
+  - 609936
   start: 2026-10-27T08:45:00Z
   stop: 2026-10-27T09:25:00Z
   title: Gredig direkt
@@ -792,7 +942,9 @@
   description: |-
     Harald Schmidt brachte Late Night nach Deutschland und wurde damit zum Star. Heute ist der 69-Jährige zurück beim Schauspiel und auf dem «Traumschiff» unterwegs. Bei «Gredig direkt» erzählt er, warum er im Kopf noch täglich eine Late-Night-Show produziert und warum er sich keine Sorgen machen will.
     Schweiz 2026
-- eventId: 949755
+- eventId:
+  - 609944
+  - 949755
   start: 2026-10-27T09:25:00Z
   stop: 2026-10-27T10:00:00Z
   title: Puls
@@ -803,7 +955,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 949756
+- eventId:
+  - 609945
+  - 949756
   start: 2026-10-27T10:00:00Z
   stop: 2026-10-27T11:00:00Z
   title: Sternstunde Religion
@@ -815,7 +969,9 @@
   - '112'
   widescreen: true
   hd: true
-- eventId: 949757
+- eventId:
+  - 609946
+  - 949757
   start: 2026-10-27T11:00:00Z
   stop: 2026-10-27T12:00:00Z
   title: Sternstunde Philosophie
@@ -826,7 +982,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 949758
+- eventId:
+  - 610067
+  - 949758
   start: 2026-10-27T12:00:00Z
   stop: 2026-10-27T12:50:00Z
   title: Sternstunde Kunst
@@ -839,10 +997,22 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030227
+- eventId:
+  - 1030227
+  - 610068
   start: 2026-10-27T12:50:00Z
   stop: 2026-10-27T12:55:00Z
   title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 610069
+  start: 2026-10-27T12:55:00Z
+  stop: 2026-10-27T12:56:00Z
+  title: Meteo
   subtitle: Mittagsausgabe
   genre:
   - '32'
@@ -859,7 +1029,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030228
+- eventId:
+  - 1030228
+  - 610070
   start: 2026-10-27T12:56:00Z
   stop: 2026-10-27T13:04:00Z
   title: Tagesschau kompakt
@@ -879,13 +1051,26 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030229
+- eventId:
+  - 1030229
+  - 610071
   start: 2026-10-27T13:04:00Z
   stop: 2026-10-27T13:05:00Z
   title: Meteo
   subtitle: Mittagsausgabe
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 610072
+  start: 2026-10-27T13:05:00Z
+  stop: 2026-10-27T13:50:00Z
+  title: Hoch hinaus
+  subtitle: Vom tiefsten zum höchsten Punkt der Schweiz
+  description: |-
+    Sechs Personen aus allen Landesteilen der Schweiz sind unterwegs auf ihrem grossen Abenteuer - von den Brissago-Inseln im Lago Maggiore bis zur Dufourspitze in zehn Tagen. Insgesamt gilt es 207 Kilometer und 4443 Höhenmeter zu bewältigen.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -936,7 +1121,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030230
+- eventId:
+  - 1030230
+  - 610073
   start: 2026-10-27T13:50:00Z
   stop: 2026-10-27T14:30:00Z
   title: Hoch hinaus
@@ -963,7 +1150,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030231
+- eventId:
+  - 1030231
+  - 610074
   start: 2026-10-27T14:30:00Z
   stop: 2026-10-27T14:38:00Z
   title: Tagesschau kompakt
@@ -973,13 +1162,26 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030232
+- eventId:
+  - 1030232
+  - 610075
   start: 2026-10-27T14:38:00Z
   stop: 2026-10-27T14:40:00Z
   title: Meteo
   subtitle: Mittagsausgabe
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 610076
+  start: 2026-10-27T14:40:00Z
+  stop: 2026-10-27T15:15:00Z
+  title: Puls
+  subtitle: Umstrittene Therapie - Kann man Long Covid wegdenken?
+  description: |-
+    Für Long Covid gibt es nach wie vor keine heilende Therapie. Betroffene müssen sich mit der Krankheit abfinden und mit ihr leben. Nun verspricht ein Therapiekonzept Heilung durch Hirntraining. Von den einen wird es gefeiert, andere warnen deutlich.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -1017,7 +1219,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030233
+- eventId:
+  - 1030233
+  - 610077
   start: 2026-10-27T15:15:00Z
   stop: 2026-10-27T15:20:00Z
   title: Tagesschau kompakt
@@ -1027,7 +1231,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030234
+- eventId:
+  - 1030234
+  - 610078
   start: 2026-10-27T15:20:00Z
   stop: 2026-10-27T15:30:00Z
   title: Meteo
@@ -1047,7 +1253,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 953709
+- eventId:
+  - 610079
+  - 953709
   start: 2026-10-27T15:30:00Z
   stop: 2026-10-27T16:05:00Z
   title: Eco Talk
@@ -1057,6 +1265,7 @@
   widescreen: true
   subtitled: true
   hd: true
+  description: "Wütende Protestierende auf der einen, ein hoch verschuldeter Staat auf der anderen Seite: Die Ausgangslage in Frankreich ist explosiv. Könnte es zu einer grösseren Protestwelle in Europa kommen und was hiesse das für die Schweiz? \nSchweiz 2026"
 - eventId: 953710
   start: 2026-10-27T15:35:00Z
   stop: 2026-10-27T16:10:00Z
@@ -1065,13 +1274,26 @@
   subtitled: true
   hd: true
   subtitle: 'Wut und Zerstörung in Frankreich: Welche Rolle spielt die Wirtschaft?'
-- eventId: 1030235
+- eventId:
+  - 1030235
+  - 610080
   start: 2026-10-27T16:05:00Z
   stop: 2026-10-27T16:10:00Z
   title: Meteo
   subtitle: Mittagsausgabe
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 610081
+  start: 2026-10-27T16:10:00Z
+  stop: 2026-10-27T17:00:00Z
+  title: Gredig direkt
+  subtitle: 'Harald Schmidt: Warum können Sie nicht aufhören?'
+  description: |-
+    Harald Schmidt brachte Late Night nach Deutschland und wurde damit zum Star. Heute ist der 69-Jährige zurück beim Schauspiel und auf dem «Traumschiff» unterwegs. Bei «Gredig direkt» erzählt er, warum er im Kopf noch täglich eine Late-Night-Show produziert und warum er sich keine Sorgen machen will.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -1109,7 +1331,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 953714
+- eventId:
+  - 610082
+  - 953714
   start: 2026-10-27T17:00:00Z
   stop: 2026-10-27T17:10:00Z
   title: Telesguard
@@ -1121,7 +1345,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 953715
+- eventId:
+  - 610083
+  - 953715
   start: 2026-10-27T17:10:00Z
   stop: 2026-10-27T17:15:00Z
   title: Tagesschau kompakt
@@ -1131,7 +1357,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 953716
+- eventId:
+  - 610084
+  - 953716
   start: 2026-10-27T17:15:00Z
   stop: 2026-10-27T17:20:00Z
   title: Meteo
@@ -1141,7 +1369,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 953717
+- eventId:
+  - 610085
+  - 953717
   start: 2026-10-27T17:20:00Z
   stop: 2026-10-27T17:30:00Z
   title: Telesguard
@@ -1153,7 +1383,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 953718
+- eventId:
+  - 610086
+  - 953718
   start: 2026-10-27T17:30:00Z
   stop: 2026-10-27T17:35:00Z
   title: Tagesschau kompakt
@@ -1163,7 +1395,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 953719
+- eventId:
+  - 610087
+  - 953719
   start: 2026-10-27T17:35:00Z
   stop: 2026-10-27T17:40:00Z
   title: Meteo
@@ -1173,7 +1407,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 953720
+- eventId:
+  - 610088
+  - 953720
   start: 2026-10-27T17:40:00Z
   stop: 2026-10-27T17:50:00Z
   title: Telesguard
@@ -1185,7 +1421,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 953721
+- eventId:
+  - 610089
+  - 953721
   start: 2026-10-27T17:50:00Z
   stop: 2026-10-27T18:00:00Z
   title: Meteo
@@ -1195,7 +1433,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 953726
+- eventId:
+  - 610094
+  - 953726
   start: 2026-10-27T18:00:00Z
   stop: 2026-10-27T18:25:00Z
   title: Schweiz aktuell in Gebärdensprache
@@ -1204,7 +1444,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 953727
+- eventId:
+  - 610095
+  - 953727
   start: 2026-10-27T18:25:00Z
   stop: 2026-10-27T18:30:00Z
   title: SRF Börse in Gebärdensprache
@@ -1213,7 +1455,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 953728
+- eventId:
+  - 610096
+  - 953728
   start: 2026-10-27T18:30:00Z
   stop: 2026-10-27T18:55:00Z
   title: Tagesschau in Gebärdensprache
@@ -1223,7 +1467,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 953729
+- eventId:
+  - 610097
+  - 953729
   start: 2026-10-27T18:55:00Z
   stop: 2026-10-27T19:05:00Z
   title: Meteo in Gebärdensprache
@@ -1233,7 +1479,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 954417
+- eventId:
+  - 610098
+  - 954417
   start: 2026-10-27T19:05:00Z
   stop: 2026-10-27T19:45:00Z
   title: Eco Talk
@@ -1241,7 +1489,10 @@
   subtitled: true
   hd: true
   subtitle: 'Wut und Zerstörung in Frankreich: Welche Rolle spielt die Wirtschaft?'
-- eventId: 954418
+  description: "Wütende Protestierende auf der einen, ein hoch verschuldeter Staat auf der anderen Seite: Die Ausgangslage in Frankreich ist explosiv. Könnte es zu einer grösseren Protestwelle in Europa kommen und was hiesse das für die Schweiz? \nSchweiz 2026"
+- eventId:
+  - 610099
+  - 954418
   start: 2026-10-27T19:45:00Z
   stop: 2026-10-27T21:20:00Z
   title: SRF DOK
@@ -1252,7 +1503,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 954849
+- eventId:
+  - 610103
+  - 954849
   start: 2026-10-27T21:20:00Z
   stop: 2026-10-27T21:40:00Z
   title: Schweiz aktuell
@@ -1261,7 +1514,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 954850
+- eventId:
+  - 610104
+  - 954850
   start: 2026-10-27T21:40:00Z
   stop: 2026-10-27T21:45:00Z
   title: Meteo
@@ -1271,7 +1526,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 954851
+- eventId:
+  - 610105
+  - 954851
   start: 2026-10-27T21:45:00Z
   stop: 2026-10-27T21:50:00Z
   title: SRF Börse
@@ -1280,7 +1537,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 954852
+- eventId:
+  - 610106
+  - 954852
   start: 2026-10-27T21:50:00Z
   stop: 2026-10-27T22:15:00Z
   title: 10 vor 10
@@ -1289,7 +1548,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 954853
+- eventId:
+  - 610107
+  - 954853
   start: 2026-10-27T22:15:00Z
   stop: 2026-10-27T22:20:00Z
   title: Meteo
@@ -1299,7 +1560,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 964921
+- eventId:
+  - 610108
+  - 964921
   start: 2026-10-27T22:20:00Z
   stop: 2026-10-27T22:30:00Z
   title: Telesguard
@@ -1311,7 +1574,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 964922
+- eventId:
+  - 610109
+  - 964922
   start: 2026-10-27T22:30:00Z
   stop: 2026-10-27T22:50:00Z
   title: Schweiz aktuell
@@ -1320,7 +1585,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 964923
+- eventId:
+  - 610110
+  - 964923
   start: 2026-10-27T22:50:00Z
   stop: 2026-10-27T23:00:00Z
   title: Sportflash
@@ -1332,7 +1599,9 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 964924
+- eventId:
+  - 610111
+  - 964924
   start: 2026-10-27T23:00:00Z
   stop: 2026-10-27T23:05:00Z
   title: SRF Börse
@@ -1341,7 +1610,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 964925
+- eventId:
+  - 610112
+  - 964925
   start: 2026-10-27T23:05:00Z
   stop: 2026-10-27T23:30:00Z
   title: 10 vor 10
@@ -1350,7 +1621,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 964926
+- eventId:
+  - 610113
+  - 964926
   start: 2026-10-27T23:30:00Z
   stop: 2026-10-27T23:35:00Z
   title: Meteo
@@ -1360,7 +1633,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 964927
+- eventId:
+  - 610114
+  - 964927
   start: 2026-10-27T23:35:00Z
   stop: 2026-10-27T23:40:00Z
   title: Sportflash
@@ -1372,7 +1647,9 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 964928
+- eventId:
+  - 610115
+  - 964928
   start: 2026-10-27T23:40:00Z
   stop: 2026-10-27T23:45:00Z
   title: Newsflash SRF 1
@@ -1381,7 +1658,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 964929
+- eventId:
+  - 610116
+  - 964929
   start: 2026-10-27T23:45:00Z
   stop: 2026-10-28T00:10:00Z
   title: 10 vor 10

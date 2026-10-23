@@ -27,7 +27,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 805566
+- eventId:
+  - 618038
+  - 805566
   start: 2026-10-27T00:40:00Z
   stop: 2026-10-27T01:30:00Z
   title: Quizduell-Olymp
@@ -60,6 +62,7 @@
 - eventId:
   - 1348404
   - 594687
+  - 618039
   start: 2026-10-27T01:30:00Z
   stop: 2026-10-27T02:00:00Z
   title: Lokalzeit aus Aachen
@@ -71,6 +74,7 @@
 - eventId:
   - 1348405
   - 594688
+  - 618040
   start: 2026-10-27T02:00:00Z
   stop: 2026-10-27T02:25:00Z
   title: Lokalzeit aus Düsseldorf
@@ -82,6 +86,7 @@
 - eventId:
   - 1348406
   - 594689
+  - 618041
   start: 2026-10-27T02:25:00Z
   stop: 2026-10-27T02:55:00Z
   title: Lokalzeit Bergisches Land
@@ -93,6 +98,7 @@
 - eventId:
   - 1348407
   - 594690
+  - 618042
   start: 2026-10-27T02:55:00Z
   stop: 2026-10-27T03:25:00Z
   title: Lokalzeit Ruhr
@@ -104,6 +110,7 @@
 - eventId:
   - 1348462
   - 595002
+  - 618200
   start: 2026-10-27T03:25:00Z
   stop: 2026-10-27T03:55:00Z
   title: Lokalzeit aus Dortmund
@@ -115,6 +122,7 @@
 - eventId:
   - 1348463
   - 595003
+  - 618201
   start: 2026-10-27T03:55:00Z
   stop: 2026-10-27T04:25:00Z
   title: Lokalzeit Münsterland
@@ -126,6 +134,7 @@
 - eventId:
   - 1348464
   - 595004
+  - 618202
   start: 2026-10-27T04:25:00Z
   stop: 2026-10-27T04:50:00Z
   title: Lokalzeit OWL
@@ -137,6 +146,7 @@
 - eventId:
   - 1348465
   - 595005
+  - 618203
   start: 2026-10-27T04:50:00Z
   stop: 2026-10-27T05:20:00Z
   title: Lokalzeit Südwestfalen
@@ -148,6 +158,7 @@
 - eventId:
   - 1348466
   - 595006
+  - 618204
   start: 2026-10-27T05:20:00Z
   stop: 2026-10-27T05:50:00Z
   title: Lokalzeit aus Bonn
@@ -159,6 +170,7 @@
 - eventId:
   - 1348467
   - 595007
+  - 618205
   start: 2026-10-27T05:50:00Z
   stop: 2026-10-27T06:20:00Z
   title: Lokalzeit aus Duisburg
@@ -170,6 +182,7 @@
 - eventId:
   - 1348542
   - 595307
+  - 621804
   start: 2026-10-27T06:20:00Z
   stop: 2026-10-27T06:30:00Z
   title: Erlebnisreisen
@@ -181,6 +194,7 @@
 - eventId:
   - 1348543
   - 595308
+  - 621805
   start: 2026-10-27T06:30:00Z
   stop: 2026-10-27T06:45:00Z
   title: Glow (11)
@@ -193,6 +207,7 @@
 - eventId:
   - 1348544
   - 595309
+  - 621806
   start: 2026-10-27T06:45:00Z
   stop: 2026-10-27T07:00:00Z
   title: Glow (12)
@@ -205,6 +220,7 @@
 - eventId:
   - 1348545
   - 595310
+  - 621807
   start: 2026-10-27T07:00:00Z
   stop: 2026-10-27T07:20:00Z
   title: Durch die Wildnis - Das Abenteuer Deines Lebens (11/20)
@@ -217,6 +233,7 @@
 - eventId:
   - 1348546
   - 595311
+  - 621808
   start: 2026-10-27T07:20:00Z
   stop: 2026-10-27T07:45:00Z
   title: Durch die Wildnis - Das Abenteuer Deines Lebens (12/20)
@@ -229,6 +246,7 @@
 - eventId:
   - 1348547
   - 595312
+  - 618395
   start: 2026-10-27T07:45:00Z
   stop: 2026-10-27T08:10:00Z
   title: Durch die Wildnis - Das Abenteuer Deines Lebens (13/20)
@@ -241,6 +259,7 @@
 - eventId:
   - 1348548
   - 595313
+  - 618396
   start: 2026-10-27T08:10:00Z
   stop: 2026-10-27T08:40:00Z
   title: Lokalzeit OWL
@@ -252,6 +271,7 @@
 - eventId:
   - 1348549
   - 595314
+  - 618397
   start: 2026-10-27T08:40:00Z
   stop: 2026-10-27T09:25:00Z
   title: Wer weiß denn sowas?
@@ -264,6 +284,7 @@
 - eventId:
   - 1348598
   - 595594
+  - 618463
   start: 2026-10-27T09:25:00Z
   stop: 2026-10-27T10:10:00Z
   title: Mittendrin - Flughafen Frankfurt
@@ -285,9 +306,20 @@
   hd: true
   audiodesc: true
   description: Der letzte wilde Fluss der Alpen. Das ist der Lech in Tirol. Für viele Wanderer:innen und Urlauber:innen aus dem Südwesten ein Sehnsuchtsziel. Annette Krause erkundet das Lechtal und zeigt, was es dort alles zu entdecken gibt.
+- eventId: 618464
+  start: 2026-10-27T10:10:00Z
+  stop: 2026-10-27T10:55:00Z
+  title: Expedition in die Heimat
+  subtitle: Wilder Fluss in Tirol
+  description: Der letzte wilde Fluss der Alpen. Das ist der Lech in Tirol. Für viele Wanderer:innen und Urlauber:innen aus dem Südwesten ein Sehnsuchtsziel. Annette Krause erkundet das Lechtal und zeigt, was es dort alles zu entdecken gibt.
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1348600
   - 595596
+  - 618465
   start: 2026-10-27T10:55:00Z
   stop: 2026-10-27T11:45:00Z
   title: Elefant, Tiger & Co. (440)
@@ -300,6 +332,7 @@
 - eventId:
   - 1348601
   - 595597
+  - 618466
   start: 2026-10-27T11:45:00Z
   stop: 2026-10-27T12:00:00Z
   title: WDR aktuell
@@ -311,6 +344,7 @@
 - eventId:
   - 1348642
   - 595831
+  - 618545
   start: 2026-10-27T12:00:00Z
   stop: 2026-10-27T12:50:00Z
   title: Seehund, Puma & Co. (172)
@@ -323,6 +357,7 @@
 - eventId:
   - 1348643
   - 595832
+  - 618546
   start: 2026-10-27T12:50:00Z
   stop: 2026-10-27T13:20:00Z
   title: Neues aus dem Münchner Tierpark Hellabrunn
@@ -347,6 +382,19 @@
   genre:
   - '16'
   description: "Mechatroniker Timo Asmus wird bei seiner Spritztour mit einem schicken Sportwagen jäh ausgebremst. Eine Kugel trifft ihn tödlich. Das kommt Klaus gar nicht so unrecht, denn jetzt hat er einen Grund, sich nicht als Umzugshelfer von Ehefrau Francesca engagieren zu lassen. \nDie Ermittler erfahren von Corinna, der Mitbewohnerin des Ermordeten, dass ihr Freund Navid extrem eifersüchtig ist. Doch so einfach ist die Sache nicht. Dr. Lara Krüger findet heraus, dass der Täter einen Schalldämpfer verwendet haben muss. Hier war ein Profi am Werk!"
+- eventId: 618547
+  start: 2026-10-27T13:20:00Z
+  stop: 2026-10-27T14:10:00Z
+  title: Rentnercops (66)
+  subtitle: Geschmackssache
+  description: "Mechatroniker Timo Asmus wird bei seiner Spritztour mit einem schicken Sportwagen jäh ausgebremst. Eine Kugel trifft ihn tödlich. Das kommt Klaus gar nicht so unrecht, denn jetzt hat er einen Grund, sich nicht als Umzugshelfer von Ehefrau Francesca engagieren zu lassen. \nDie Ermittler erfahren von Corinna, der Mitbewohnerin des Ermordeten, dass ihr Freund Navid extrem eifersüchtig ist. Doch so einfach ist die Sache nicht. Dr. Lara Krüger findet heraus, dass der Täter einen Schalldämpfer verwendet haben muss. Hier war ein Profi am Werk!"
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1348645
   - 595834
@@ -362,9 +410,23 @@
   genre:
   - '16'
   description: 'Die Camping-Saison ist eröffnet. Platzwart Dieter dreht seine Runde mit dem Rasenmäher, als er eine offene Tür an einem teuren Wohnmobil bemerkt. Dort entdeckt er ein eher ungewöhnliches Interieur: die Leiche von Elektriker Mario Matteses. Auch im Haus von Familie Schmitz sprühen die Funken. Hobbyhandwerker Klaus will eigentlich eine Wasserleitung reparieren, sorgt aber für einen Stromausfall. Gerichtsmedizinerin Dr. Krüger entdeckt in der Zwischenzeit Hinweise auf einen Sturz des Opfers: ein Unfall oder Absicht?'
+- eventId: 618548
+  start: 2026-10-27T14:10:00Z
+  stop: 2026-10-27T15:00:00Z
+  title: Rentnercops (67)
+  subtitle: Glamping
+  description: 'Die Camping-Saison ist eröffnet. Platzwart Dieter dreht seine Runde mit dem Rasenmäher, als er eine offene Tür an einem teuren Wohnmobil bemerkt. Dort entdeckt er ein eher ungewöhnliches Interieur: die Leiche von Elektriker Mario Matteses. Auch im Haus von Familie Schmitz sprühen die Funken. Hobbyhandwerker Klaus will eigentlich eine Wasserleitung reparieren, sorgt aber für einen Stromausfall. Gerichtsmedizinerin Dr. Krüger entdeckt in der Zwischenzeit Hinweise auf einen Sturz des Opfers: ein Unfall oder Absicht?'
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1348693
   - 596089
+  - 618640
   start: 2026-10-27T15:00:00Z
   stop: 2026-10-27T15:15:00Z
   title: WDR aktuell
@@ -376,6 +438,7 @@
 - eventId:
   - 1348694
   - 596090
+  - 618641
   start: 2026-10-27T15:15:00Z
   stop: 2026-10-27T17:00:00Z
   title: Hier und heute
@@ -386,6 +449,7 @@
 - eventId:
   - 1348695
   - 596091
+  - 618642
   start: 2026-10-27T17:00:00Z
   stop: 2026-10-27T17:15:00Z
   title: WDR aktuell / Lokalzeit
@@ -399,6 +463,7 @@
 - eventId:
   - 1348696
   - 596092
+  - 618643
   start: 2026-10-27T17:15:00Z
   stop: 2026-10-27T17:45:00Z
   title: Servicezeit
@@ -411,6 +476,7 @@
 - eventId:
   - 1348697
   - 596093
+  - 618644
   start: 2026-10-27T17:45:00Z
   stop: 2026-10-27T18:30:00Z
   title: Aktuelle Stunde
@@ -422,6 +488,7 @@
 - eventId:
   - 1348732
   - 596384
+  - 618718
   start: 2026-10-27T18:30:00Z
   stop: 2026-10-27T19:00:00Z
   title: Lokalzeit OWL
@@ -433,6 +500,7 @@
 - eventId:
   - 1348733
   - 596385
+  - 618719
   start: 2026-10-27T19:00:00Z
   stop: 2026-10-27T19:15:00Z
   title: Tagesschau
@@ -456,9 +524,23 @@
   audiodesc: true
   ageRating: 12
   description: Die Reporterin Brigitte Burkhard wird in Dresden auf offener Straße verschleppt. Ihr Entführer, der sein Gesicht hinter einer Maske versteckt, wendet sich mit einer Videobotschaft an die Polizei. Die Kommissarinnen Karin Gorniak, Leonie Winkler und ihr Chef Peter Michael Schnabel werden mit der Behauptung konfrontiert, 150 in Sachsen entführte Kinder würden in einem Dresdner Keller gefangen gehalten. Werden sie nicht innerhalb von 24 Stunden befreit, muss Brigitte Burkhard sterben.
+- eventId: 618720
+  start: 2026-10-27T19:15:00Z
+  stop: 2026-10-27T20:45:00Z
+  title: 'Tatort: Katz und Maus'
+  subtitle: Fernsehfilm Deutschland 2022
+  description: Die Reporterin Brigitte Burkhard wird in Dresden auf offener Straße verschleppt. Ihr Entführer, der sein Gesicht hinter einer Maske versteckt, wendet sich mit einer Videobotschaft an die Polizei. Die Kommissarinnen Karin Gorniak, Leonie Winkler und ihr Chef Peter Michael Schnabel werden mit der Behauptung konfrontiert, 150 in Sachsen entführte Kinder würden in einem Dresdner Keller gefangen gehalten. Werden sie nicht innerhalb von 24 Stunden befreit, muss Brigitte Burkhard sterben.
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1348735
   - 596387
+  - 618721
   start: 2026-10-27T20:45:00Z
   stop: 2026-10-27T21:15:00Z
   title: WDR aktuell
@@ -470,6 +552,7 @@
 - eventId:
   - 1348758
   - 596574
+  - 618801
   start: 2026-10-27T21:15:00Z
   stop: 2026-10-27T22:40:00Z
   title: 'Der Barcelona-Krimi: Wächter der Stadt'
@@ -485,6 +568,7 @@
 - eventId:
   - 1348759
   - 596575
+  - 618802
   start: 2026-10-27T22:40:00Z
   stop: 2026-10-28T00:10:00Z
   title: 'Der Barcelona-Krimi: Brennendes Land'

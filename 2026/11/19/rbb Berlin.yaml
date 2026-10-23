@@ -45,16 +45,8 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1006736
-  start: 2026-11-19T04:00:00Z
-  stop: 2026-11-19T04:30:00Z
-  title: rbb24 BRANDENBURG
-  episodeUri: crid://onid-1/e/6ac81571b3a2d1c1a35ec01f
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
+  - 1006736
   - 1347818
   - 1535484
   - 555491
@@ -68,16 +60,8 @@
   hd: true
   audiodesc: true
   description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Brandenburg und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
-- eventId: 1006737
-  start: 2026-11-19T04:30:00Z
-  stop: 2026-11-19T05:00:00Z
-  title: rbb24 BERLIN
-  episodeUri: crid://onid-1/e/6ac81571b3a2d1c1a35ec01d
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
+  - 1006737
   - 1347819
   - 1535485
   - 555492
@@ -91,17 +75,8 @@
   hd: true
   audiodesc: true
   description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Berlin und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
-- eventId: 1006738
-  start: 2026-11-19T05:00:00Z
-  stop: 2026-11-19T07:00:00Z
-  title: Guten Morgen Berlin
-  subtitle: rbb 88.8 und mehr
-  episodeUri: crid://onid-1/e/6ac817233c403d68b20db45d
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
+  - 1006738
   - 1347820
   - 1535486
   - 555493
@@ -211,18 +186,8 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1006907
-  start: 2026-11-19T12:40:00Z
-  stop: 2026-11-19T13:30:00Z
-  title: WaPo Duisburg (15)
-  subtitle: Flitterwochen
-  episodeUri: crid://onid-1/e/6ac81571b3a2d1c1a35ec009
-  ageRating: 6
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
+  - 1006907
   - 1130618
   - 1346921
   - 556615
@@ -230,27 +195,16 @@
   start: 2026-11-19T12:40:00Z
   stop: 2026-11-19T13:30:00Z
   title: WaPo Duisburg (15)
+  subtitle: Flitterwochen
   episodeUri: crid://onid-8468/e/6aa08a23c0a6a6386204e5a2
+  ageRating: 6
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
   description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Berlin und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
-  subtitle: Flitterwochen
-  ageRating: 6
-- eventId: 1006908
-  start: 2026-11-19T13:30:00Z
-  stop: 2026-11-19T15:00:00Z
-  title: Die Diebin & der General
-  subtitle: Spielfilm Deutschland 2005
-  episodeUri: crid://onid-1/e/6ac81571b3a2d1c1a35ec007
-  genre:
-  - '16'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
+  - 1006908
   - 1130619
   - 1346922
   - 556616
@@ -260,13 +214,13 @@
   title: Die Diebin & der General
   subtitle: 'Gast: Stephan Thome, Schriftsteller und Taiwan-Experte'
   episodeUri: crid://onid-8468/e/6aa2ac310646e348f653d715
+  genre:
+  - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
   description: Blackfacing - sich das Gesicht schwärzen - gilt heute als rassistische Diskriminierung. Doch es gibt Menschen, die an solchen Bräuchen festhalten, wie z. B. auf dem Fest "Grenzgang", das im hessischen Biedenkopf stattfindet. Der Schriftsteller Dr. Stephan Thome nimmt sich in seinem aktuellen Roman "Besser als nie" dieses Konflikts zwischen Tradition und Moderne an. Er hat seit seinem 5. Lebensjahr fast alle Grenzgänge - und das, obwohl er seit rund 20 Jahren in Taiwan lebt. In "Thadeusz lang & breit" spricht Jörg Thadeusz mit Stephan Thome über die großen Streitfragen unserer Zeit und warum der Taiwan-Konflikt uns alle angeht.
-  genre:
-  - '16'
 - eventId:
   - 1007048
   - 557395
@@ -436,7 +390,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1007237
+- eventId:
+  - 1007237
+  - 575007
   start: 2026-11-19T23:25:00Z
   stop: 2026-11-20T00:55:00Z
   title: Das Geheimnis des Totenwaldes (1)
