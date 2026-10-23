@@ -1642,6 +1642,14 @@
   genre:
   - '128'
   description: U Pričama iz Hrvatske pogledajte - kakav planet ostavljamo budućim generacijama? Klimatske promjene čine svoje, sve se mijenja, brišu se granice između godišnjih doba. Doznajemo što možemo očekivati u skoroj budućnosti. Družimo se s gospođom Đurđom koju nazivaju ženom zmajem. Njezinu priču donosi Maja Sever.
+- eventId: 1037660
+  start: 2026-10-23T20:44:00Z
+  stop: 2026-10-23T21:04:00Z
+  title: Sportske minute
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 959912
   start: 2026-10-23T20:44:00Z
   stop: 2026-10-23T21:04:00Z
@@ -1667,7 +1675,7 @@
   - '160'
 - eventId: 959914
   start: 2026-10-23T21:04:00Z
-  stop: 2026-10-23T21:08:00Z
+  stop: 2026-10-23T21:07:00Z
   title: '#REPORTAŽE: Kamene kućice'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
@@ -1682,7 +1690,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 959915
+- eventId:
+  - 1037661
+  - 959915
   start: 2026-10-23T21:07:00Z
   stop: 2026-10-23T21:10:00Z
   title: Bez komentara
@@ -1724,6 +1734,14 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+- eventId: 1037662
+  start: 2026-10-23T21:50:00Z
+  stop: 2026-10-23T21:55:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 956833
   start: 2026-10-23T21:50:00Z
   stop: 2026-10-23T21:55:00Z
@@ -1739,7 +1757,9 @@
   title: '#REPORTAŽE: Dušan Jelić kapljica vode'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 959916
+- eventId:
+  - 1037663
+  - 959916
   start: 2026-10-23T21:55:00Z
   stop: 2026-10-23T22:00:00Z
   title: Bez komentara
@@ -1776,7 +1796,7 @@
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
 - eventId: 956837
   start: 2026-10-23T22:17:00Z
-  stop: 2026-10-23T22:41:00Z
+  stop: 2026-10-23T22:42:00Z
   title: Potrošački kod
   subtitle: Tjedna emisija namijenjena potrošačima. Otkriva probleme s kojima se svakodnevno susreću pri kupnji robe i usluga, donosi savjete i upute.
   ageRating: 4
@@ -1789,6 +1809,14 @@
   title: Regionalni dnevnik
   subtitle: ' '
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+- eventId: 1037664
+  start: 2026-10-23T22:42:00Z
+  stop: 2026-10-23T23:03:00Z
+  title: Regionalni dnevnik
+  subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 956838
   start: 2026-10-23T22:42:00Z
   stop: 2026-10-23T23:05:00Z
@@ -1827,14 +1855,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 956840
   start: 2026-10-23T23:58:00Z
-  stop: 2026-10-24T00:00:00Z
+  stop: 2026-10-23T23:59:00Z
   title: Vrijeme svijet danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 956841
+- eventId:
+  - 1037665
+  - 956841
   start: 2026-10-23T23:59:00Z
   stop: 2026-10-24T00:00:00Z
   title: Vrijeme Europa danas
