@@ -2,7 +2,7 @@
   - 583065
   - 960638
   start: 2026-10-24T00:00:00Z
-  stop: 2026-10-24T00:22:00Z
+  stop: 2026-10-24T00:02:00Z
   title: 'Studio 4: Jutarnji intervju'
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -13,6 +13,7 @@
   - 1037666
   - 1037871
   - 1038358
+  - 626150
   - 960639
   start: 2026-10-24T00:02:00Z
   stop: 2026-10-24T00:22:00Z
@@ -26,6 +27,7 @@
   - 1037667
   - 1037872
   - 1038359
+  - 626151
   start: 2026-10-24T00:22:00Z
   stop: 2026-10-24T00:26:00Z
   title: '#REPORTAŽE'
@@ -64,6 +66,7 @@
   - 1037668
   - 1037873
   - 1038360
+  - 626152
   - 960641
   start: 2026-10-24T00:26:00Z
   stop: 2026-10-24T00:30:00Z
@@ -118,6 +121,7 @@
   - 1037669
   - 1037874
   - 1038361
+  - 626153
   - 960643
   start: 2026-10-24T00:53:00Z
   stop: 2026-10-24T00:55:00Z
@@ -153,7 +157,7 @@
   - 583072
   - 960646
   start: 2026-10-24T01:10:00Z
-  stop: 2026-10-24T01:17:00Z
+  stop: 2026-10-24T01:18:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
@@ -170,7 +174,9 @@
   title: 'Bez komentara: Bolivija - Pijetao Martin'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1038362
+- eventId:
+  - 1038362
+  - 626154
   start: 2026-10-24T01:18:00Z
   stop: 2026-10-24T01:20:00Z
   title: Bez komentara
@@ -191,7 +197,7 @@
   - 583074
   - 960648
   start: 2026-10-24T01:20:00Z
-  stop: 2026-10-24T01:27:00Z
+  stop: 2026-10-24T01:28:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
@@ -208,7 +214,9 @@
   title: 'Bez komentara: Sjeverna Koreja - Modna izložba'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1038363
+- eventId:
+  - 1038363
+  - 626155
   start: 2026-10-24T01:28:00Z
   stop: 2026-10-24T01:30:00Z
   title: Bez komentara
@@ -235,7 +243,9 @@
   title: 'Studio 4: Sportske minute'
   subtitle: ' '
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 1038364
+- eventId:
+  - 1038364
+  - 626156
   start: 2026-10-24T01:30:00Z
   stop: 2026-10-24T01:48:00Z
   title: Sportske minute
@@ -274,6 +284,7 @@
   - 1037670
   - 1037875
   - 1038365
+  - 626157
   start: 2026-10-24T01:50:00Z
   stop: 2026-10-24T01:53:00Z
   title: '#REPORTAŽE'
@@ -300,7 +311,9 @@
   title: 'Bez komentara: Kanada - Vojne vježbe'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1038366
+- eventId:
+  - 1038366
+  - 626158
   start: 2026-10-24T01:53:00Z
   stop: 2026-10-24T01:58:00Z
   title: Bez komentara
@@ -329,6 +342,7 @@
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
 - eventId:
   - 1038367
+  - 626159
   - 960653
   start: 2026-10-24T01:58:00Z
   stop: 2026-10-24T02:43:00Z
@@ -351,6 +365,7 @@
   - '32'
 - eventId:
   - 1038368
+  - 626160
   - 960655
   start: 2026-10-24T02:53:00Z
   stop: 2026-10-24T03:00:00Z
@@ -381,6 +396,14 @@
   genre:
   - '32'
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
+- eventId: 626161
+  start: 2026-10-24T03:00:00Z
+  stop: 2026-10-24T03:53:00Z
+  title: Dnevnik 2
+  subtitle: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1038125
   - 1039400
@@ -428,7 +451,7 @@
   - 583084
   - 983127
   start: 2026-10-24T03:54:00Z
-  stop: 2026-10-24T03:56:00Z
+  stop: 2026-10-24T03:55:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -439,6 +462,7 @@
   - 1037672
   - 1037877
   - 1038370
+  - 626162
   start: 2026-10-24T03:55:00Z
   stop: 2026-10-24T03:57:00Z
   title: Vrijeme Svijet danas
@@ -479,6 +503,7 @@
   - 1037673
   - 1037878
   - 1038371
+  - 626163
   - 984226
   start: 2026-10-24T03:57:00Z
   stop: 2026-10-24T04:00:00Z
@@ -500,7 +525,7 @@
   - 583086
   - 983130
   start: 2026-10-24T04:00:00Z
-  stop: 2026-10-24T04:07:00Z
+  stop: 2026-10-24T04:08:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -517,7 +542,9 @@
   title: 'Bez komentara: Meksiko - Bijeli nosorog'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1038372
+- eventId:
+  - 1038372
+  - 626164
   start: 2026-10-24T04:08:00Z
   stop: 2026-10-24T04:10:00Z
   title: Bez komentara
@@ -546,6 +573,7 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId:
   - 1038373
+  - 626165
   - 983132
   start: 2026-10-24T04:10:00Z
   stop: 2026-10-24T04:18:00Z
@@ -565,7 +593,9 @@
   title: 'Bez komentara: Bolivija - Pijetao Martin'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1038374
+- eventId:
+  - 1038374
+  - 626166
   start: 2026-10-24T04:18:00Z
   stop: 2026-10-24T04:20:00Z
   title: Bez komentara
@@ -594,6 +624,7 @@
   description: Kratki pregled aktualnosti iz svijeta znanosti.
 - eventId:
   - 1038375
+  - 626167
   - 983134
   start: 2026-10-24T04:20:00Z
   stop: 2026-10-24T04:28:00Z
@@ -638,7 +669,7 @@
   - 583092
   - 984227
   start: 2026-10-24T04:55:00Z
-  stop: 2026-10-24T04:58:00Z
+  stop: 2026-10-24T05:00:00Z
   title: 'Bez komentara: NY - Leptiri monarsi'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -668,7 +699,7 @@
   - 583094
   - 983138
   start: 2026-10-24T05:10:00Z
-  stop: 2026-10-24T05:13:00Z
+  stop: 2026-10-24T05:15:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
@@ -691,6 +722,7 @@
   - 1037676
   - 1037881
   - 1038376
+  - 626168
   - 983139
   start: 2026-10-24T05:15:00Z
   stop: 2026-10-24T05:22:00Z
@@ -728,6 +760,7 @@
   - 1037677
   - 1037882
   - 1038377
+  - 626169
   - 983140
   start: 2026-10-24T05:22:00Z
   stop: 2026-10-24T05:23:00Z
@@ -741,8 +774,11 @@
   start: 2026-10-24T05:23:00Z
   stop: 2026-10-24T05:25:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 983141
   start: 2026-10-24T05:23:00Z
   stop: 2026-10-24T05:25:00Z
@@ -752,21 +788,17 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 583099
-  start: 2026-10-24T05:25:00Z
-  stop: 2026-10-24T05:30:00Z
-  title: Bez komentara
-  subtitle: ' '
-  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 983142
+- eventId:
+  - 583099
+  - 983142
   start: 2026-10-24T05:25:00Z
   stop: 2026-10-24T05:30:00Z
   title: Vrijeme Svijet danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
-  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 583100
   - 983143
@@ -826,8 +858,11 @@
   start: 2026-10-24T06:33:00Z
   stop: 2026-10-24T06:35:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 983148
   start: 2026-10-24T06:33:00Z
   stop: 2026-10-24T06:35:00Z
@@ -893,8 +928,11 @@
   start: 2026-10-24T07:33:00Z
   stop: 2026-10-24T07:35:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 983153
   start: 2026-10-24T07:33:00Z
   stop: 2026-10-24T07:35:00Z
@@ -960,8 +998,11 @@
   start: 2026-10-24T08:33:00Z
   stop: 2026-10-24T08:35:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 983158
   start: 2026-10-24T08:33:00Z
   stop: 2026-10-24T08:35:00Z
@@ -975,7 +1016,7 @@
   - 583118
   - 983159
   start: 2026-10-24T08:35:00Z
-  stop: 2026-10-24T08:42:00Z
+  stop: 2026-10-24T08:45:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
@@ -1024,10 +1065,13 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 583120
   start: 2026-10-24T08:45:00Z
-  stop: 2026-10-24T08:47:00Z
-  title: Bez komentara
-  subtitle: ' '
+  stop: 2026-10-24T08:50:00Z
+  title: Poslovne vijesti
+  subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1029725
   - 1030048
@@ -1062,6 +1106,7 @@
   - 1037678
   - 1037883
   - 1038307
+  - 626170
   - 983161
   start: 2026-10-24T08:50:00Z
   stop: 2026-10-24T09:00:00Z
@@ -1131,8 +1176,11 @@
   start: 2026-10-24T09:33:00Z
   stop: 2026-10-24T09:35:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 983165
   start: 2026-10-24T09:33:00Z
   stop: 2026-10-24T09:35:00Z
@@ -1198,8 +1246,11 @@
   start: 2026-10-24T10:18:00Z
   stop: 2026-10-24T10:20:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 983170
   start: 2026-10-24T10:18:00Z
   stop: 2026-10-24T10:20:00Z
@@ -1213,7 +1264,7 @@
   - 583133
   - 983171
   start: 2026-10-24T10:20:00Z
-  stop: 2026-10-24T10:28:00Z
+  stop: 2026-10-24T10:30:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -1293,8 +1344,11 @@
   start: 2026-10-24T11:33:00Z
   stop: 2026-10-24T11:35:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 983176
   start: 2026-10-24T11:33:00Z
   stop: 2026-10-24T11:35:00Z
@@ -1360,8 +1414,11 @@
   start: 2026-10-24T12:33:00Z
   stop: 2026-10-24T12:35:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 983181
   start: 2026-10-24T12:33:00Z
   stop: 2026-10-24T12:35:00Z
@@ -1427,8 +1484,11 @@
   start: 2026-10-24T13:33:00Z
   stop: 2026-10-24T13:35:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 983186
   start: 2026-10-24T13:33:00Z
   stop: 2026-10-24T13:35:00Z
@@ -1524,8 +1584,11 @@
   start: 2026-10-24T14:26:00Z
   stop: 2026-10-24T14:30:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 983191
   start: 2026-10-24T14:26:00Z
   stop: 2026-10-24T14:30:00Z
@@ -1588,6 +1651,7 @@
   - 1037884
   - 1038308
   - 597433
+  - 626171
   - 983196
   start: 2026-10-24T16:00:00Z
   stop: 2026-10-24T16:30:00Z
@@ -1625,6 +1689,7 @@
   - 1037885
   - 1038309
   - 597434
+  - 626172
   - 983197
   start: 2026-10-24T16:30:00Z
   stop: 2026-10-24T16:49:00Z
@@ -1655,6 +1720,7 @@
   - 1037886
   - 1038310
   - 597435
+  - 626173
   - 984231
   start: 2026-10-24T16:49:00Z
   stop: 2026-10-24T16:53:00Z
@@ -1687,6 +1753,7 @@
   - 1037887
   - 1038311
   - 597436
+  - 626174
   - 983199
   start: 2026-10-24T16:53:00Z
   stop: 2026-10-24T16:54:00Z
