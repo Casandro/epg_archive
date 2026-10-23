@@ -359,7 +359,7 @@
   - 556508
   - 612665
   start: 2026-10-23T15:10:00Z
-  stop: 2026-10-23T16:00:00Z
+  stop: 2026-10-23T16:10:00Z
   title: hallo deutschland
   genre:
   - '32'
@@ -405,7 +405,9 @@
     Schnitt: Ingrid Koller
     Musik: Bob Gutdeutsch
     HD-Produktion
-- eventId: 1016985
+- eventId:
+  - 1016985
+  - 1017411
   start: 2026-10-23T16:10:00Z
   stop: 2026-10-23T17:00:00Z
   title: SOKO Wien
@@ -432,6 +434,8 @@
   - '17'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1428644
   - 1431186
