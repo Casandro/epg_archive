@@ -314,7 +314,7 @@
   - 595483
   start: 2026-10-25T09:00:00Z
   stop: 2026-10-25T10:01:00Z
-  title: 'Sveta misa: Sinj'
+  title: 'Sveta misa: Sinj, Sveta Misa: Sinj'
   subtitle: Uživo - prijenos svete Mise na Laudato televiziji.
   ageRating: 4
   genre:
@@ -329,7 +329,7 @@
   - 595484
   start: 2026-10-25T10:01:00Z
   stop: 2026-10-25T10:05:00Z
-  title: VA Lipe - Kraljice možna
+  title: VA Lipe - Kraljice možna, VA Lipe - Kraljice možna
   subtitle: Vokalni ansambl Lipe donosi vam pjesmu 'Kraljice možna'.
   ageRating: 4
 - eventId:
@@ -361,15 +361,10 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 595487
-  start: 2026-10-25T11:00:00Z
-  stop: 2026-10-25T11:15:00Z
-  title: 'Angelus: Vatikan'
-  subtitle: Uživo iz Vatikana pratimo prijenos Papinog nagovora s Trga sv. Petra u Vatikanu uz molitvu Anđeo Gospodnji.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 917078
+  description: 'Istražujemo misionarsko srce Crkve: od povijesnog sjedišta Kongregacije za širenje vjere u Rimu do misionarskih zajednica diljem svijeta. Susrećemo Misionare Afrike - upoznajemo biskupa koji služi u Papui Novoj Gvineji. Inovativna inicijativa u Austriji povezuje vjeru i djelovanje izvana i iznutra.'
+- eventId:
+  - 595487
+  - 917078
   start: 2026-10-25T11:00:00Z
   stop: 2026-10-25T11:15:00Z
   title: 'Angelus: Vatikan, Angelus: Vatikan'
@@ -377,23 +372,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 595492
-  start: 2026-10-25T11:15:00Z
-  stop: 2026-10-25T12:52:00Z
-  title: The Messengers - S(w)inging with the Messengers.
-  subtitle: Koncert gospel sastava koji glazbom prenosi Radosnu vijest.
-  ageRating: 4
-  genre:
-  - '112'
-- eventId: 917079
+- eventId:
+  - 595492
+  - 917079
   start: 2026-10-25T11:15:00Z
   stop: 2026-10-25T12:52:00Z
   title: Koncert The Messengers - S(w)inging with The Messengers (Kazalište Komedija...
-  description: Koncert The Messengers - S(w)inging with The Messengers (Kazalište Komedija 2017.)
   subtitle: Koncert gospel sastava koji glazbom prenosi Radosnu vijest.
   ageRating: 4
   genre:
   - '112'
+  description: Koncert The Messengers - S(w)inging with The Messengers (Kazalište Komedija 2017.)
 - eventId: 917088
   start: 2026-10-25T12:50:00Z
   stop: 2026-10-25T14:00:00Z
@@ -468,7 +457,7 @@
   - 595507
   start: 2026-10-25T14:26:00Z
   stop: 2026-10-25T14:30:00Z
-  title: Alan Hržica - Onaj koji voli
+  title: Alan Hržica - Onaj koji voli, Alan Hržica - Onaj koji voli
   subtitle: Alan Hržica - Onaj koji voli.
   ageRating: 4
 - eventId:
@@ -503,7 +492,7 @@
   - 595514
   start: 2026-10-25T15:17:00Z
   stop: 2026-10-25T16:11:00Z
-  title: Dudo i prijatelji
+  title: Dudo i prijatelji, talk-show
   subtitle: Dubravko Šimenc - Dudo predstavlja mlade i talentirane hrvatske sportaše te razgovara s onima koji su ispisali i dalje pišu velike stranice hrvatske i svjetske sportske povijesti.
   ageRating: 4
   genre:
@@ -535,18 +524,19 @@
   - 595515
   start: 2026-10-25T16:11:00Z
   stop: 2026-10-25T17:20:00Z
-  title: Svi za stol
+  title: Svi za stol, Svi za stol
   subtitle: Novi gosti emisije su Ivica i Viktor Kolmar, otac i sin koje povezuju ljubav prema glazbi, sceni i stvaranju za najmlađe.
   ageRating: 4
   genre:
   - '160'
+  description: Novi gosti emisije su Ivica i Viktor Kolmar, otac i sin koje povezuju ljubav prema glazbi, sceni i stvaranju za najmlađe. U kuhinji ih očekuje chef Tomislav Varga koji priprema kanelone punjene kozicama, punjeni pileći zabatak s plavim krumpirom te knedle od šljiva.
 - eventId:
   - 1029887
   - 1033809
   - 595516
   start: 2026-10-25T17:20:00Z
   stop: 2026-10-25T17:29:00Z
-  title: Amorose - Kralj Isus
+  title: Amorose - Kralj Isus, Amorose - Kralj Isus
   subtitle: Amorose - Kralj Isus.
   ageRating: 4
 - eventId:
@@ -555,11 +545,12 @@
   - 595517
   start: 2026-10-25T17:29:00Z
   stop: 2026-10-25T18:24:00Z
-  title: 'Sveta Misa: Karlovac'
+  title: 'Sveta Misa: Karlovac, Sveta Misa: Karlovac'
   subtitle: Sveta Misa iz Nacionalnog svetišta svetog Josipa u Karlovcu.
   ageRating: 4
   genre:
   - '160'
+  description: Sveta Misa iz Nacionalnog svetišta svetog Josipa u Karlovcu.
 - eventId: 1033599
   start: 2026-10-25T17:30:00Z
   stop: 2026-10-25T18:24:00Z
@@ -586,6 +577,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Klanjanje Presvetom Oltarskom Sakramentu
 - eventId: 1033600
   start: 2026-10-25T18:25:00Z
   stop: 2026-10-25T19:14:00Z
@@ -629,7 +621,7 @@
   - 595526
   start: 2026-10-25T19:26:00Z
   stop: 2026-10-25T19:30:00Z
-  title: Didak - Oče naš
+  title: Didak - Oče naš, Didak - Oče naš
   subtitle: Didak - Oče naš.
   ageRating: 4
 - eventId: 595527
@@ -640,6 +632,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Ako je cijeli naš život sveden na ispit iz dvije zapovijedi - Ljubi Boga i bližnjega - prolazimo li ili padamo na tom ispitu? Kako se ljubi srcem, dušom i umom? Ima li ljubav veze s razumom? Je li dovoljno u vjeri samo se dobro osjećati? Kakav odnos imati prema sebi da ne upadnemu u zamku sebeljublja? Koga je najteže, a koga najlakše ljubiti? U ,,Odazivu 25. listopada govorimo o dva lica jedne ljubavi. Evanđelje 30. nedjelje kroz godinu tumači vlč. Marko Vuković.
 - eventId: 917114
   start: 2026-10-25T19:30:00Z
   stop: 2026-10-25T20:35:00Z
@@ -665,7 +658,7 @@
   - 595532
   start: 2026-10-25T20:56:00Z
   stop: 2026-10-25T20:59:00Z
-  title: Božja pobjeda - Ništa osim krvi
+  title: Božja pobjeda - Ništa osim krvi, Božja pobjeda - Ništa osim krvi
   subtitle: Katolička karizmatska zajednica "Božja pobjeda" donosi svoju verziju pjesme "Ništa osim krvi".
   ageRating: 4
 - eventId:
@@ -704,18 +697,14 @@
   - 1029894
   - 1033814
   - 595540
+  - 917124
   start: 2026-10-25T21:20:00Z
   stop: 2026-10-25T22:16:00Z
-  title: Neka nam Bog pomogne
+  title: Neka nam Bog pomogne 5, serija
   subtitle: Teodora, majka blizanaca, vraća se u samostan sa šokantnim vijestima za Gabriele. Dok Marie nema u samostanu, Ginevra i Nico provode dosta vremena zajedno...
   ageRating: 4
   genre:
   - '128'
-- eventId: 917124
-  start: 2026-10-25T21:20:00Z
-  stop: 2026-10-25T22:16:00Z
-  title: Neka nam Bog pomogne 5, serija
-  subtitle: Komedija/Drama
   description: 'Teodora, majka blizanaca, vraća se u samostan sa šokantnim vijestima za Gabriele. Dok Marie nema u samostanu, Ginevra i Nico provode dosta vremena zajedno... U međuvremenu, Valentina je zauzeta pomaganjem Eugeniji da ispuni svoj san o susretu s Benjijem i Fedeom. Uz pomoć sestre Costanze, Azzurra čini sve što je u njenoj moći da izbjegne iskušenje: da ne koristi kreditnu karticu koju je Athos zaboravio u samostanu.'
 - eventId:
   - 1033604
@@ -741,11 +730,12 @@
 - eventId: 595541
   start: 2026-10-25T22:16:00Z
   stop: 2026-10-25T22:31:00Z
-  title: Uđi u Arku
+  title: Uđi u Arku, Uđi u Arku
   subtitle: U društvu postoje predrasude o tome da su osobe s intelektualnim teškoćama teret, često i sramota.
   ageRating: 4
   genre:
   - '160'
+  description: U društvu postoje predrasude o tome da su osobe s intelektualnim teškoćama teret, često i sramota. Zajednica Arka ruši te predrasude tvrdeći da oni nisu samo ranjiva skupina u društvu koja treba pomoć, nego da i oni svijetu mogu mnogo toga pružiti- radost, autentičnost, ljubav, najtopliju podršku potrebnu svakom od nas i prijateljstvo koje nas mijenja. Uđi u arku poziv je svima da zajedno gradimo čovječnije društvo za svakog njegovog člana.
 - eventId: 917125
   start: 2026-10-25T22:16:00Z
   stop: 2026-10-25T22:30:00Z
@@ -788,6 +778,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Osobna posveta Bezgrješnom Srcu Marijinu
 - eventId: 963504
   start: 2026-10-25T22:31:00Z
   stop: 2026-10-25T23:02:00Z
@@ -803,18 +794,19 @@
   - 595543
   start: 2026-10-25T22:32:00Z
   stop: 2026-10-25T22:56:00Z
-  title: Krunica
+  title: Krunica, Krunica Blažene Djevice Marije
   subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
   ageRating: 4
   genre:
   - '160'
+  description: Molimo zajedno molitvu Krunice Blažene Djevice Marije.
 - eventId:
   - 1029897
   - 1033818
   - 595544
   start: 2026-10-25T22:56:00Z
   stop: 2026-10-25T23:02:00Z
-  title: Lacrima - Tebi Gospo Pleternice
+  title: Lacrima - Tebi Gospo Pleternice, Lacrima - Tebi Gospo Pleternice
   subtitle: Lacrima - Tebi Gospo Pleternice.
   ageRating: 4
 - eventId: 917127
