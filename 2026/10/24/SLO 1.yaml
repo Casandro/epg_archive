@@ -1,3 +1,11 @@
+- eventId: 1010828
+  start: 2026-10-24T04:05:00Z
+  stop: 2026-10-24T04:35:00Z
+  title: Odmevi
+  subtitle: Odmevi vsak delavnik ob 22.10 ponudijo sveže večerne novice ter analize najpomembnejših dogodkov dneva.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 979811
   start: 2026-10-24T04:10:00Z
   stop: 2026-10-24T04:35:00Z
@@ -8,12 +16,20 @@
   - '32'
 - eventId: 979812
   start: 2026-10-24T04:35:00Z
-  stop: 2026-10-24T04:50:00Z
+  stop: 2026-10-24T04:45:00Z
   title: Kultura
   subtitle: Kultura je kratka aktualna informativna oddaja o kulturi in umetnosti, v kateri se praviloma izpostavljajo osrednji dogodki dneva. V njej najdejo prostor tudi mednarodne novice in problemske teme.
   ageRating: 4
   genre:
   - '160'
+- eventId: 1010829
+  start: 2026-10-24T04:45:00Z
+  stop: 2026-10-24T05:00:00Z
+  title: Šport
+  subtitle: Zadnji pregled športnega dogajanja v dnevu je prelet dneva z vsemi najpomembnejšimi novicami, zlasti popoldanskimi in svežimi večernimi, ter napoved novega tekmovalnega dne.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 979813
   start: 2026-10-24T04:50:00Z
   stop: 2026-10-24T05:00:00Z
@@ -32,7 +48,7 @@
   - '80'
 - eventId: 979815
   start: 2026-10-24T05:20:00Z
-  stop: 2026-10-24T05:30:00Z
+  stop: 2026-10-24T05:35:00Z
   title: Reaktivčki
   subtitle: Vesoljska ladja Reaktivčkov mora hitro napolniti akumulator. Za to potrebuje električno energijo.
   ageRating: 4
@@ -46,10 +62,18 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 1010830
+  start: 2026-10-24T05:35:00Z
+  stop: 2026-10-24T05:40:00Z
+  title: Brina
+  subtitle: Inja in Rjavko se igrata mamice in očije. Prerekata se, kdo od njiju bo šel v službo in kdo bo pazil dojenčico Pijo. Zato se gre Rjavko raje igrat z Brino, Inja pa mrzlično išče varuško za Pijo.
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 979817
   start: 2026-10-24T05:40:00Z
-  stop: 2026-10-24T05:45:00Z
-  title: Brina
+  stop: 2026-10-24T05:55:00Z
+  title: Ernest in Celestinca
   subtitle: Inja in Rjavko se igrata mamice in očije. Prerekata se, kdo od njiju bo šel v službo in kdo bo pazil dojenčico Pijo. Zato se gre Rjavko raje igrat z Brino, Inja pa mrzlično išče varuško za Pijo.
   ageRating: 4
   genre:
@@ -62,6 +86,14 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 1010831
+  start: 2026-10-24T05:55:00Z
+  stop: 2026-10-24T06:05:00Z
+  title: Pri Pajkovih
+  subtitle: Pajčji dan je praznik, ko se pajki pomerijo, kateri par čim bolj usklajeno splete čim lepšo in čim pravilnejšo mrežo. Vsak si zaželi koga drugega za svoj par in vse kaže, da bo prav Lili ostala sama.
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 979819
   start: 2026-10-24T06:00:00Z
   stop: 2026-10-24T06:10:00Z
@@ -70,22 +102,38 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 1010832
+  start: 2026-10-24T06:05:00Z
+  stop: 2026-10-24T06:10:00Z
+  title: Kocke
+  subtitle: Kocke predstavijo svojo številsko različico znane pravljice o treh prašičkih in strašnem kvadratu. Naučite se seštevati s številko ena in preprostega štetja z našimi kockami.
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 979820
   start: 2026-10-24T06:10:00Z
   stop: 2026-10-24T06:15:00Z
-  title: Kocke
+  title: Svetko
   subtitle: Kocke predstavijo svojo številsko različico znane pravljice o treh prašičkih in strašnem kvadratu. Naučite se seštevati s številko ena in preprostega štetja z našimi kockami.
   ageRating: 4
   genre:
   - '128'
 - eventId: 979821
   start: 2026-10-24T06:15:00Z
-  stop: 2026-10-24T06:40:00Z
-  title: Svetko
+  stop: 2026-10-24T06:35:00Z
+  title: Šampion Jon
   subtitle: Pozdravljeni prijatelji Svetka, našega edinstvenega planeta! Danes bomo govorili o snegu. Mučtimudin iz Mongolije posluša zvoke snega. Levi iz Švedske dela snežaka.
   ageRating: 4
   genre:
   - '128'
+- eventId: 1010833
+  start: 2026-10-24T06:35:00Z
+  stop: 2026-10-24T06:55:00Z
+  title: Z kot Zofka
+  subtitle: Dobrodošli v medvedji deželi! Anka in Adrijana se kot vsi pravi medvedi pripravljata na zimski počitek.
+  ageRating: 4
+  genre:
+  - '80'
 - eventId: 979822
   start: 2026-10-24T06:40:00Z
   stop: 2026-10-24T07:00:00Z
@@ -94,12 +142,26 @@
   ageRating: 4
   genre:
   - '80'
+- eventId: 1010834
+  start: 2026-10-24T06:55:00Z
+  stop: 2026-10-24T07:40:00Z
+  title: Male sive celice
+  subtitle: V 4. oddaji s plesalci iz Plesnega mesta zaplešemo v tekmovalni del letošnje sezone.
+  ageRating: 4
 - eventId: 979823
   start: 2026-10-24T07:00:00Z
   stop: 2026-10-24T07:45:00Z
   title: Male sive celice
   subtitle: V 4. oddaji s plesalci iz Plesnega mesta zaplešemo v tekmovalni del letošnje sezone.
   ageRating: 4
+- eventId: 1010835
+  start: 2026-10-24T07:40:00Z
+  stop: 2026-10-24T07:55:00Z
+  title: Infodrom
+  subtitle: Infodrom je informativna oddaja za mlade.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 979824
   start: 2026-10-24T07:45:00Z
   stop: 2026-10-24T08:00:00Z
@@ -108,6 +170,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1010836
+  start: 2026-10-24T07:55:00Z
+  stop: 2026-10-24T08:55:00Z
+  title: Klub Slavica
+  subtitle: Klub Slavica je mladinska glasbena oddaja, ki z nastopi mladih pred polnim studiem vrstnikov v ospredje postavlja ustvarjalnost najstnikov in njihov samosvoj izraz.
+  ageRating: 4
+  genre:
+  - '80'
 - eventId: 979825
   start: 2026-10-24T08:00:00Z
   stop: 2026-10-24T08:50:00Z
@@ -118,6 +188,14 @@
   - '80'
 - eventId: 979826
   start: 2026-10-24T08:50:00Z
+  stop: 2026-10-24T09:20:00Z
+  title: Ugriznimo znanost
+  subtitle: 12. avgusta letos se je v ozkem pasu nad severno Rusijo, Grenlandijo, Islandijo, severno in vzhodno Španijo ter skrajnim severozahodom Portugalske videl popolni sončni mrk.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1010837
+  start: 2026-10-24T08:55:00Z
   stop: 2026-10-24T09:20:00Z
   title: Ugriznimo znanost
   subtitle: 12. avgusta letos se je v ozkem pasu nad severno Rusijo, Grenlandijo, Islandijo, severno in vzhodno Španijo ter skrajnim severozahodom Portugalske videl popolni sončni mrk.
@@ -346,7 +424,7 @@
   - '32'
 - eventId: 979855
   start: 2026-10-24T20:25:00Z
-  stop: 2026-10-24T21:20:00Z
+  stop: 2026-10-24T21:35:00Z
   title: Kaj ima ljubezen s tem
   subtitle: Kaj se zgodi, če kot deček začutiš, da si se rodil v napačnem telesu in si vse življenje želiš, da bi postal to, kar v resnici si - ženska?
   ageRating: 4
@@ -360,6 +438,14 @@
   ageRating: 4
   genre:
   - '16'
+- eventId: 1010838
+  start: 2026-10-24T21:35:00Z
+  stop: 2026-10-24T23:05:00Z
+  title: 'Sedmi pečat: Naš dom'
+  subtitle: Film o enem od najbolj zapostavljenih krajev na planetu je vizualno osupljiva pripoved o starem paru, ki se v prostranstvih bolivijskega višavja spopada z usodnimi posledicami dolgotrajne suše.
+  ageRating: 4
+  genre:
+  - '16'
 - eventId: 979857
   start: 2026-10-24T23:00:00Z
   stop: 2026-10-24T23:25:00Z
@@ -368,9 +454,25 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 1010839
+  start: 2026-10-24T23:05:00Z
+  stop: 2026-10-24T23:30:00Z
+  title: Dnevnik Slovencev v Italiji
+  subtitle: Dnevnik Slovencev v Italiji je informativna oddaja, v kateri novinarji poročajo predvsem o dnevnih dogodkih med Slovenci v Italiji.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 979858
   start: 2026-10-24T23:25:00Z
   stop: 2026-10-25T05:25:00Z
+  title: Napovedujemo
+  subtitle: Napovednik programa.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1010840
+  start: 2026-10-24T23:30:00Z
+  stop: 2026-10-25T05:30:00Z
   title: Napovedujemo
   subtitle: Napovednik programa.
   ageRating: 4

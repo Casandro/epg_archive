@@ -16,8 +16,8 @@
   - '96'
 - eventId: 984609
   start: 2026-10-23T03:55:00Z
-  stop: 2026-10-23T04:00:00Z
-  title: Videonoč
+  stop: 2026-10-23T07:30:00Z
+  title: Napovedujemo
   subtitle: V okviru Videonoči si boste lahko ogledali široko ponudbo slovenskih glasbenih videospotov vseh zvrsti. Z njimi noč ne bo tako dolga ...
   ageRating: 4
   genre:
@@ -72,7 +72,7 @@
   - '160'
 - eventId: 956931
   start: 2026-10-23T12:10:00Z
-  stop: 2026-10-23T12:40:00Z
+  stop: 2026-10-23T12:45:00Z
   title: Dnevna soba
   subtitle: V udobju Dnevne sobe gostimo znane osebnosti in cenjene strokovnjake, se z njimi pogovarjamo o dilemah vsakdanjega življenja, svetujemo o različnih življenjskih temah, komentiramo trende in družbene.
   ageRating: 4
@@ -86,7 +86,9 @@
   ageRating: 4
   genre:
   - '96'
-- eventId: 956932
+- eventId:
+  - 1010790
+  - 956932
   start: 2026-10-23T12:45:00Z
   stop: 2026-10-23T14:20:00Z
   title: Nedelja po domače
@@ -102,7 +104,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 956933
+- eventId:
+  - 1010791
+  - 956933
   start: 2026-10-23T14:20:00Z
   stop: 2026-10-23T15:00:00Z
   title: Avtomobilnost
@@ -176,7 +180,7 @@
   - '16'
 - eventId: 956941
   start: 2026-10-23T20:55:00Z
-  stop: 2026-10-23T21:50:00Z
+  stop: 2026-10-23T21:55:00Z
   title: Verstva sveta
   subtitle: Oddaja nas popelje v večplastni svet hinduizma, ene izmed najstarejših in najbolj pisanih religij.
   ageRating: 4
@@ -185,6 +189,14 @@
 - eventId: 956942
   start: 2026-10-23T21:50:00Z
   stop: 2026-10-23T23:00:00Z
+  title: RTV Cirkus
+  subtitle: Katarina Grabnar Apostolides ne nabira jurčkov, ker so v gozdu "veliko zanimivejše gobe".
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1010792
+  start: 2026-10-23T21:55:00Z
+  stop: 2026-10-23T23:35:00Z
   title: RTV Cirkus
   subtitle: Katarina Grabnar Apostolides ne nabira jurčkov, ker so v gozdu "veliko zanimivejše gobe".
   ageRating: 4
@@ -202,6 +214,14 @@
   - '96'
 - eventId: 959866
   start: 2026-10-23T23:10:00Z
+  stop: 2026-10-24T04:00:00Z
+  title: Videonoč
+  subtitle: V okviru Videonoči si boste lahko ogledali široko ponudbo slovenskih glasbenih videospotov vseh zvrsti. Z njimi noč ne bo tako dolga ...
+  ageRating: 4
+  genre:
+  - '96'
+- eventId: 1010793
+  start: 2026-10-23T23:35:00Z
   stop: 2026-10-24T04:00:00Z
   title: Videonoč
   subtitle: V okviru Videonoči si boste lahko ogledali široko ponudbo slovenskih glasbenih videospotov vseh zvrsti. Z njimi noč ne bo tako dolga ...
