@@ -294,6 +294,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1036597
+  start: 2026-10-25T19:25:00Z
+  stop: 2026-10-25T19:50:00Z
+  title: Čudom živ
+  subtitle: Život ponekad prospe tovar sreće na čovjeka. I kad su svi uveliko uvjereni da je neko zauvijek otišao žalost se iznenada okrene na radost.
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 973295
   start: 2026-10-25T19:25:00Z
   stop: 2026-10-25T19:50:00Z
@@ -302,7 +310,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 973296
+- eventId:
+  - 1036598
+  - 973296
   start: 2026-10-25T19:50:00Z
   stop: 2026-10-25T20:50:00Z
   title: Pod naponom
@@ -378,6 +388,7 @@
   - 1021986
   - 1022382
   - 1029125
+  - 1036599
   start: 2026-10-25T23:00:00Z
   stop: 2026-10-25T23:30:00Z
   title: Pogledi iz domovine
