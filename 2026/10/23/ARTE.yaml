@@ -66,6 +66,7 @@
   ageRating: 6
   genre:
   - '32'
+  description: 'Carl Schurz a fait partie des nombreux Allemands qui ont émigré vers les États-Unis pour des raisons politiques. Il a fui son pays après l''échec de la révolution de 1848, au cours de laquelle les étudiants avaient exigé la tenue d''élections libres. Si son destin s''est révélé extraordinaire - il deviendra membre du cabinet du président américain Rutherford B. Hayes -, il est aussi unique. La plupart des migrants ayant tenté leur chance dans le Nouveau Monde connaîtront en effet une vie difficile, économisant pour acquérir des terres arables vendues par le gouvernement et mourant souvent sans le sou. La découverte d''or en Californie, qui attirera beaucoup de ces misérables, ne fera qu''empirer leur situation générale. Le rêve américain "L''homme est un animal migrateur", résume Drew Keeling, l''un des historiens interrogés dans cette ambitieuse fresque documentaire. Entre 1840 et 1939, 55 millions d''Européens quittent leurs patries d''origine pour gagner le continent américain, du nord au sud. Certains feront fortune, d''autres perdront tout ce qu''ils possèdent. Kai Christiansen raconte ce siècle fondateur en retraçant le destin d''une vingtaine de femmes et d''hommes partis à la poursuite du rêve américain, à travers des scènes de reconstitution soignées et d''émouvantes archives. Réalisateur: Kai Christiansen. Des acteurs: Isabelle Barth (Margarethe Schurz), Fabian Busch (Carl Schurz), Samia Muriel Chancrin (Victoire Lacasse), Nicola Chapman (Eliza P. Heaton), Francis Fulton-Smith (Richard Roberts) (2016)'
 - eventId: 846761
   start: 2026-10-23T04:00:00Z
   stop: 2026-10-23T04:55:00Z
@@ -74,6 +75,7 @@
   ageRating: 6
   genre:
   - '32'
+  description: 'En 1838, le navire anglais Sirius est le premier à franchir l''Atlantique à la vapeur, sans jamais utiliser ses voiles. La modernisation des bateaux accélère l''émigration vers les États-Unis, d''autant qu''en parallèle l''apparition du chemin de fer et l''industrialisation des villes provoquent dans un pays comme l''Allemagne d''importants mouvements de population, qui annoncent l''exode rural. Profitant de l''essor de l''industrie, les paysans deviennent ouvriers, sans pour autant jouir d''avancées sociales. Le rêve américain "L''homme est un animal migrateur", résume Drew Keeling, l''un des historiens interrogés dans cette ambitieuse fresque documentaire. Entre 1840 et 1939, 55 millions d''Européens quittent leurs patries d''origine pour gagner le continent américain, du nord au sud. Certains feront fortune, d''autres perdront tout ce qu''ils possèdent. Kai Christiansen raconte ce siècle fondateur en retraçant le destin d''une vingtaine de femmes et d''hommes partis à la poursuite du rêve américain, à travers des scènes de reconstitution soignées et d''émouvantes archives. Réalisateur: Kai Christiansen. Des acteurs: Isabelle Barth (Margarethe Schurz), Fabian Busch (Carl Schurz), Samia Muriel Chancrin (Victoire Lacasse), Nicola Chapman (Eliza P. Heaton), Francis Fulton-Smith (Richard Roberts) (2016)'
 - eventId: 846762
   start: 2026-10-23T04:55:00Z
   stop: 2026-10-23T05:50:00Z
@@ -109,7 +111,9 @@
   subtitle: Le récit de la construction de l'opéra Garnier, oeuvre d'art édifiée par l'architecte qui lui donna son nom, au cours d'un tumultueux chantier de quinze ans.
   genre:
   - '116'
-- eventId: 846767
+- eventId:
+  - 1015868
+  - 846767
   start: 2026-10-23T09:25:00Z
   stop: 2026-10-23T10:10:00Z
   title: Madagascar, l'île rouge
@@ -126,7 +130,9 @@
     AUDIO 1 : FRANÇAIS / AUDIO 2 : ALLEMAND
   genre:
   - '145'
-- eventId: 846768
+- eventId:
+  - 1015869
+  - 846768
   start: 2026-10-23T10:10:00Z
   stop: 2026-10-23T11:00:00Z
   title: Madagascar, l'île rouge
@@ -143,7 +149,9 @@
     AUDIO 1 : FRANÇAIS / AUDIO 2 : ALLEMAND
   genre:
   - '145'
-- eventId: 846769
+- eventId:
+  - 1015870
+  - 846769
   start: 2026-10-23T11:00:00Z
   stop: 2026-10-23T11:35:00Z
   title: Les Américains vont-ils nous laisser tomber ?
@@ -159,6 +167,14 @@
     AUDIO 1 : FRANÇAIS / AUDIO 2 : ALLEMAND
   genre:
   - '35'
+- eventId: 1015871
+  start: 2026-10-23T11:35:00Z
+  stop: 2026-10-23T13:24:47Z
+  title: Arabesque
+  subtitle: Alors qu'il séjourne dans un pays du Moyen-Orient, un professeur de langues anciennes se trouve mêlé à un inextricable complot organisé par un homme politique.
+  ageRating: 15
+  genre:
+  - '17'
 - eventId: 846770
   start: 2026-10-23T11:35:00Z
   stop: 2026-10-23T13:25:00Z
@@ -188,14 +204,18 @@
     Sous-titres pour sourds et malentendants disponibles pour ce programme
   genre:
   - '130'
-- eventId: 846771
+- eventId:
+  - 1015872
+  - 846771
   start: 2026-10-23T13:25:00Z
   stop: 2026-10-23T13:50:00Z
   title: Nomade des mers, les escales de l'innovation
   subtitle: Mexique, Tzimol S02 E10. L'ingénieur Corentin de Chatelperron reprend la mer sur son catamaran pour dix nouvelles escales, de l'Asie à l'Amérique, à la découverte des perspectives de la low-tech.
   genre:
   - '146'
-- eventId: 846772
+- eventId:
+  - 1015873
+  - 846772
   start: 2026-10-23T13:50:00Z
   stop: 2026-10-23T14:35:00Z
   title: Hantés !
@@ -212,7 +232,9 @@
     AUDIO 1 : FRANÇAIS / AUDIO 2 : ALLEMAND
   genre:
   - '145'
-- eventId: 846773
+- eventId:
+  - 1015874
+  - 846773
   start: 2026-10-23T14:35:00Z
   stop: 2026-10-23T15:20:00Z
   title: Hantés !
@@ -229,7 +251,9 @@
     AUDIO 1 : FRANÇAIS / AUDIO 2 : ALLEMAND
   genre:
   - '145'
-- eventId: 846774
+- eventId:
+  - 1015875
+  - 846774
   start: 2026-10-23T15:20:00Z
   stop: 2026-10-23T16:05:00Z
   title: Invitation au voyage
@@ -249,7 +273,9 @@
     Sous-titres pour sourds et malentendants disponibles pour ce programme
   genre:
   - '112'
-- eventId: 846775
+- eventId:
+  - 1015876
+  - 846775
   start: 2026-10-23T16:05:00Z
   stop: 2026-10-23T16:50:00Z
   title: Invitation au voyage
@@ -267,7 +293,9 @@
     Sous-titres pour sourds et malentendants disponibles pour ce programme
   genre:
   - '112'
-- eventId: 846776
+- eventId:
+  - 1015877
+  - 846776
   start: 2026-10-23T16:50:00Z
   stop: 2026-10-23T17:30:00Z
   title: Voyage gourmand
@@ -283,7 +311,9 @@
     AUDIO 1 : FRANÇAIS / AUDIO 2 : ALLEMAND
   genre:
   - '130'
-- eventId: 846777
+- eventId:
+  - 1015878
+  - 846777
   start: 2026-10-23T17:30:00Z
   stop: 2026-10-23T17:45:00Z
   title: Le dessous des cartes
@@ -299,7 +329,7 @@
   - '148'
 - eventId: 846778
   start: 2026-10-23T17:45:00Z
-  stop: 2026-10-23T18:06:55Z
+  stop: 2026-10-23T18:05:00Z
   title: Arte journal
   subtitle: Chaque jour à 19h45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité. Un regard original sur le monde.
   genre:
@@ -307,7 +337,9 @@
   description: |-
     (2026, 21mn) Chaque jour à 19h45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité. Un regard original sur le monde.
     AUDIO 1 : FRANÇAIS
-- eventId: 846779
+- eventId:
+  - 1015879
+  - 846779
   start: 2026-10-23T18:05:00Z
   stop: 2026-10-23T18:52:00Z
   title: 28 minutes
@@ -324,7 +356,9 @@
     AUDIO 1 : FRANÇAIS
   genre:
   - '34'
-- eventId: 846780
+- eventId:
+  - 1015880
+  - 846780
   start: 2026-10-23T18:52:00Z
   stop: 2026-10-23T18:55:00Z
   title: 50 nuances de Grecs
@@ -342,7 +376,9 @@
     Sous-titres pour sourds et malentendants disponibles pour ce programme
   genre:
   - '16'
-- eventId: 846781
+- eventId:
+  - 1015881
+  - 846781
   start: 2026-10-23T18:55:00Z
   stop: 2026-10-23T20:40:00Z
   title: Impossible
@@ -360,7 +396,9 @@
     Sous-titres pour sourds et malentendants disponibles pour ce programme
   genre:
   - '16'
-- eventId: 846782
+- eventId:
+  - 1015882
+  - 846782
   start: 2026-10-23T20:40:00Z
   stop: 2026-10-23T22:10:00Z
   title: 'L''amour secret de John Lennon : May Pang'
@@ -378,7 +416,9 @@
     Sous-titres pour sourds et malentendants disponibles pour ce programme
   genre:
   - '112'
-- eventId: 846783
+- eventId:
+  - 1015883
+  - 846783
   start: 2026-10-23T22:10:00Z
   stop: 2026-10-23T23:25:00Z
   title: 'Supertramp : Hammersmith Odeon, 1975'
@@ -395,7 +435,9 @@
     AUDIO 1 : MUSICAL
   genre:
   - '97'
-- eventId: 846784
+- eventId:
+  - 1015884
+  - 846784
   start: 2026-10-23T23:25:00Z
   stop: 2026-10-24T00:20:00Z
   title: Le rêve du Nouveau Monde
