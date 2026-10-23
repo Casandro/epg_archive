@@ -1154,7 +1154,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 1035187
+- eventId:
+  - 1035187
+  - 1035223
   start: 2026-10-23T17:41:47Z
   stop: 2026-10-23T18:35:47Z
   title: Mimořádný pořad 2026
@@ -1216,6 +1218,36 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1035209
+  start: 2026-10-23T18:35:47Z
+  stop: 2026-10-23T18:39:01Z
+  title: Počasí v evropských metropolích
+  description: HDTV
+  genre:
+  - '33'
+  widescreen: true
+- eventId: 1035210
+  start: 2026-10-23T18:39:01Z
+  stop: 2026-10-23T18:50:02Z
+  title: Branky, body, vteřiny
+  description: |-
+    HDTV
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+- eventId: 1035211
+  start: 2026-10-23T18:50:02Z
+  stop: 2026-10-23T20:13:52Z
+  title: 90' ČT24
+  subtitle: 'Téma: Koalice ve sněmovně prosadila jednání o zrušení poplatků ČT a ČRo. Moderuje. Nikola Reindlová.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId: 1035186
   start: 2026-10-23T19:24:52Z
   stop: 2026-10-23T20:00:00Z
@@ -1257,6 +1289,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1035212
+  start: 2026-10-23T20:13:52Z
+  stop: 2026-10-23T20:41:52Z
+  title: Horizont ČT24
+  subtitle: Pořad zahraniční redakce o dění ve světě. Klade důraz na původní tvorbu vlastních zpravodajů a bohaté agenturní zpravodajství, využívá nejmodernější postupy, televizní žánry i technologie.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 821899
   - 825238
