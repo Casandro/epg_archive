@@ -305,27 +305,22 @@
   audiodesc: true
   genre:
   - '32'
-- eventId: 568669
-  start: 2026-11-12T19:00:00Z
-  stop: 2026-11-12T19:15:00Z
-  title: Tagesschau
-  episodeUri: crid://onid-1/e/6abedad6aa95fd45011608c3
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId: 832296
+- eventId:
+  - 568669
+  - 832296
   start: 2026-11-12T19:00:00Z
   stop: 2026-11-12T19:14:00Z
   title: Tagesschau
   episodeUri: crid://onid-1/e/6abedad6aa95fd45011608c3
-  genre:
-  - '32'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 830035
+  genre:
+  - '32'
+- eventId:
+  - 653525
+  - 830035
   start: 2026-11-12T19:14:00Z
   stop: 2026-11-12T19:15:00Z
   title: Anmoderation Kino ist King
