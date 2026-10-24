@@ -1893,7 +1893,7 @@
   - 610576
   - 637579
   start: 2026-10-24T16:33:00Z
-  stop: 2026-10-24T16:52:00Z
+  stop: 2026-10-24T16:53:00Z
   title: Regionalni dnevnik
   subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
@@ -1967,6 +1967,7 @@
   - 659388
   - 660672
   - 665012
+  - 674112
   - 983199
   start: 2026-10-24T16:53:00Z
   stop: 2026-10-24T16:54:00Z
@@ -1980,7 +1981,7 @@
   - 583167
   - 983200
   start: 2026-10-24T16:54:00Z
-  stop: 2026-10-24T16:55:00Z
+  stop: 2026-10-24T16:56:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -2008,7 +2009,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 665013
+- eventId:
+  - 665013
+  - 674113
   start: 2026-10-24T16:56:00Z
   stop: 2026-10-24T17:00:00Z
   title: Vrijeme svijet sutra
@@ -2151,7 +2154,7 @@
   - 583179
   - 983211
   start: 2026-10-24T19:45:00Z
-  stop: 2026-10-24T20:10:00Z
+  stop: 2026-10-24T20:11:00Z
   title: Veterani mira
   subtitle: Kad govorimo o Domovinskom ratu, vrlo se često prisjećamo važnih bitaka i poginulih branitelja, a nerijetko zaboravljamo na one koji su u borbi za slobodu izgubili članove obitelji bez kojih su.
   ageRating: 4
@@ -2179,7 +2182,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 665014
+- eventId:
+  - 665014
+  - 674114
   start: 2026-10-24T20:11:00Z
   stop: 2026-10-24T20:38:00Z
   title: 'Naši ljudi, njihova mjesta: La Plata'
@@ -2208,14 +2213,16 @@
   - 583182
   - 984237
   start: 2026-10-24T20:40:00Z
-  stop: 2026-10-24T20:44:00Z
+  stop: 2026-10-24T20:42:00Z
   title: 'HRT100 Vremeplov: Antiizraelski prosvjedi 1967.'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
-- eventId: 665015
+- eventId:
+  - 665015
+  - 674115
   start: 2026-10-24T20:42:00Z
   stop: 2026-10-24T20:45:00Z
   title: Bez komentara
@@ -2248,7 +2255,9 @@
   title: 'Studio 4: U fokusu'
   subtitle: ' '
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
-- eventId: 983214
+- eventId:
+  - 674116
+  - 983214
   start: 2026-10-24T20:45:00Z
   stop: 2026-10-24T21:05:00Z
   title: 'Studio 4: U fokusu'
@@ -2256,6 +2265,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
 - eventId:
   - 583184
   - 984239
@@ -2277,7 +2287,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 665017
+- eventId:
+  - 665017
+  - 674117
   start: 2026-10-24T21:05:00Z
   stop: 2026-10-24T21:08:00Z
   title: '#REPORTAŽE: Dijana Viljevac'
@@ -2304,7 +2316,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 665018
+- eventId:
+  - 665018
+  - 674118
   start: 2026-10-24T21:08:00Z
   stop: 2026-10-24T21:10:00Z
   title: Bez komentara
@@ -2314,14 +2328,16 @@
   - 583186
   - 983217
   start: 2026-10-24T21:10:00Z
-  stop: 2026-10-24T21:20:00Z
+  stop: 2026-10-24T21:19:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
   genre:
   - '32'
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 665019
+- eventId:
+  - 665019
+  - 674119
   start: 2026-10-24T21:19:00Z
   stop: 2026-10-24T21:29:00Z
   title: Vijesti na španjolskom jeziku
@@ -2343,6 +2359,12 @@
 - eventId: 665020
   start: 2026-10-24T21:29:00Z
   stop: 2026-10-24T21:50:00Z
+  title: 'Studio 4: Jutarnji intervju'
+  subtitle: ' '
+  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+- eventId: 674120
+  start: 2026-10-24T21:29:00Z
+  stop: 2026-10-24T21:52:00Z
   title: 'Studio 4: Jutarnji intervju'
   subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -2380,7 +2402,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 665021
+- eventId:
+  - 665021
+  - 674121
   start: 2026-10-24T21:52:00Z
   stop: 2026-10-24T21:57:00Z
   title: '#REPORTAŽE: Ivan Baran'
@@ -2401,6 +2425,7 @@
   - '160'
 - eventId:
   - 665022
+  - 674122
   - 983221
   start: 2026-10-24T21:57:00Z
   stop: 2026-10-24T22:00:00Z
