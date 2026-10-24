@@ -65,30 +65,21 @@
     PL, 2021
   genre:
   - '35'
-- eventId: 630671
-  start: 2026-10-24T01:50:00Z
-  stop: 2026-10-24T02:20:00Z
-  title: Perły Bałtyku
-  description: |-
-    serial dokumentalny (Polska, 2023), Półwysep Helski
-    Prowadzą: Andrzej Kruszewicz
-    Mierzeja Helska to jeden z najbardziej zdumiewających półwyspów na świecie. Ta ogromna ściana piasku odchodzi od lądu i wbija się w głąb morza. Z lotu ptaka przypomina kosę. Oddziela ona wzburzony Bałtyk od Zatoki Gdańskiej i spokojnej Zatoki Puckiej.
-    Reżyser: Joanna Pawlikowska, Joanna Pawlikowska
-    Od lat: 7
-  ageRating: 7
-- eventId: 945732
+- eventId:
+  - 630671
+  - 945732
   start: 2026-10-24T01:50:00Z
   stop: 2026-10-24T02:20:00Z
   title: Perły Bałtyku 1 (odc. 3)
-  subtitle: Mierzeja Helska to jeden z najbardziej zdumiewających półwyspów na świecie. Ta ogromna ściana piasku odchodzi od lądu i wbija się w głąb morza. Z lotu ptaka przypomina kosę.
   description: |-
     Tytuł oryginalny: Perły Bałtyku
     PL, 2023
     Reżyseria: Joanna Pawlikowska
     Bałtyk jest pełen tajemnic. Te najciekawsze ukrywa głęboko w swojej toni i wysoko ponad nią. To najmłodsze morze świata, które nieustannie się zmienia. W jednym milimetrze bałtyckiej wody żyje ponad 5 milionów organizmów. Bo Bałtyk, wbrew wszystkiemu - nie umiera. Życie w nim dopiero nabiera rozpędu. Dr Andrzej Kruszewicz postanawia przyjrzeć się mu z bliska. Odc. 3 Mierzeja Helska to jeden z najbardziej zdumiewających półwyspów na świecie.
+  ageRating: 7
+  subtitle: Mierzeja Helska to jeden z najbardziej zdumiewających półwyspów na świecie. Ta ogromna ściana piasku odchodzi od lądu i wbija się w głąb morza. Z lotu ptaka przypomina kosę.
   genre:
   - '35'
-  ageRating: 7
 - eventId: 879153
   start: 2026-10-24T02:00:00Z
   stop: 2026-10-24T02:46:00Z
@@ -154,6 +145,8 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  genre:
+  - '34'
 - eventId: 879157
   start: 2026-10-24T03:58:00Z
   stop: 2026-10-24T04:00:00Z
@@ -181,6 +174,8 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  genre:
+  - '34'
 - eventId: 879159
   start: 2026-10-24T04:05:00Z
   stop: 2026-10-24T04:13:00Z
@@ -190,14 +185,9 @@
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
   genre:
   - '34'
-- eventId: 630696
-  start: 2026-10-24T04:13:00Z
-  stop: 2026-10-24T04:15:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
-- eventId: 879160
+- eventId:
+  - 630696
+  - 879160
   start: 2026-10-24T04:13:00Z
   stop: 2026-10-24T04:15:00Z
   title: Prognoza pogody
@@ -213,6 +203,8 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  genre:
+  - '34'
 - eventId: 879161
   start: 2026-10-24T04:15:00Z
   stop: 2026-10-24T04:30:00Z
@@ -240,6 +232,8 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  genre:
+  - '34'
 - eventId: 879163
   start: 2026-10-24T04:35:00Z
   stop: 2026-10-24T04:40:00Z
@@ -249,14 +243,9 @@
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
   genre:
   - '34'
-- eventId: 630700
-  start: 2026-10-24T04:40:00Z
-  stop: 2026-10-24T04:42:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
-- eventId: 879164
+- eventId:
+  - 630700
+  - 879164
   start: 2026-10-24T04:40:00Z
   stop: 2026-10-24T04:42:00Z
   title: Prognoza pogody
@@ -272,6 +261,9 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  subtitle: Program składa się z serwisów informacyjnych i sportowych, przeglądu prasy krajowej i zagranicznej oraz portali internetowych, prognozy pogody, informacji ekonomicznych i rozmowy z zaproszonymi gośćmi.
+  genre:
+  - '34'
 - eventId: 879165
   start: 2026-10-24T04:42:00Z
   stop: 2026-10-24T04:59:00Z
@@ -314,14 +306,9 @@
     Program informacyjny, który zawiera przegląd i zapowiedzi najważniejszych wydarzeń z poszczególnych zakątków Polski. Powstaje dzięki współpracy redakcji TVP Info z reporterami z szesnastu oddziałów regionalnych TVP.
   genre:
   - '34'
-- eventId: 630704
-  start: 2026-10-24T05:14:00Z
-  stop: 2026-10-24T05:16:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
-- eventId: 976683
+- eventId:
+  - 630704
+  - 976683
   start: 2026-10-24T05:14:00Z
   stop: 2026-10-24T05:16:00Z
   title: Prognoza pogody
@@ -397,6 +384,8 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  genre:
+  - '34'
 - eventId: 976686
   start: 2026-10-24T05:48:00Z
   stop: 2026-10-24T06:00:00Z
@@ -424,6 +413,8 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  genre:
+  - '34'
 - eventId: 879174
   start: 2026-10-24T06:05:00Z
   stop: 2026-10-24T06:14:00Z
@@ -433,14 +424,9 @@
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
   genre:
   - '34'
-- eventId: 630733
-  start: 2026-10-24T06:14:00Z
-  stop: 2026-10-24T06:17:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
-- eventId: 879175
+- eventId:
+  - 630733
+  - 879175
   start: 2026-10-24T06:14:00Z
   stop: 2026-10-24T06:17:00Z
   title: Prognoza pogody
@@ -456,6 +442,8 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  genre:
+  - '34'
 - eventId: 879176
   start: 2026-10-24T06:17:00Z
   stop: 2026-10-24T06:30:00Z
@@ -483,6 +471,8 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  genre:
+  - '34'
 - eventId: 879178
   start: 2026-10-24T06:35:00Z
   stop: 2026-10-24T06:38:00Z
@@ -523,6 +513,9 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  subtitle: Program składa się z serwisów informacyjnych i sportowych, przeglądu prasy krajowej i zagranicznej oraz portali internetowych, prognozy pogody, informacji ekonomicznych i rozmowy z zaproszonymi gośćmi.
+  genre:
+  - '34'
 - eventId: 879181
   start: 2026-10-24T07:05:00Z
   stop: 2026-10-24T07:25:00Z
@@ -533,14 +526,9 @@
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
   genre:
   - '34'
-- eventId: 630740
-  start: 2026-10-24T07:25:00Z
-  stop: 2026-10-24T07:30:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
-- eventId: 879182
+- eventId:
+  - 630740
+  - 879182
   start: 2026-10-24T07:25:00Z
   stop: 2026-10-24T07:30:00Z
   title: Prognoza pogody
@@ -568,6 +556,8 @@
   description: |-
     program informacyjny (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
+  genre:
+  - '34'
 - eventId: 879184
   start: 2026-10-24T08:30:00Z
   stop: 2026-10-24T09:00:00Z
@@ -595,6 +585,8 @@
   description: |-
     program informacyjny (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
+  genre:
+  - '34'
 - eventId: 879186
   start: 2026-10-24T09:45:00Z
   stop: 2026-10-24T10:00:00Z
@@ -611,6 +603,8 @@
   description: |-
     program informacyjny (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
+  genre:
+  - '34'
 - eventId: 879187
   start: 2026-10-24T10:00:00Z
   stop: 2026-10-24T10:27:00Z
@@ -620,14 +614,9 @@
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
   genre:
   - '34'
-- eventId: 630508
-  start: 2026-10-24T10:27:00Z
-  stop: 2026-10-24T10:30:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
-- eventId: 879188
+- eventId:
+  - 630508
+  - 879188
   start: 2026-10-24T10:27:00Z
   stop: 2026-10-24T10:30:00Z
   title: Prognoza pogody
@@ -643,6 +632,8 @@
   description: |-
     program informacyjny (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
+  genre:
+  - '34'
 - eventId: 879189
   start: 2026-10-24T10:30:00Z
   stop: 2026-10-24T11:00:00Z
@@ -659,6 +650,8 @@
   description: |-
     program informacyjny (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
+  genre:
+  - '34'
 - eventId: 879190
   start: 2026-10-24T11:00:00Z
   stop: 2026-10-24T11:27:00Z
@@ -668,14 +661,9 @@
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
   genre:
   - '34'
-- eventId: 630511
-  start: 2026-10-24T11:27:00Z
-  stop: 2026-10-24T11:30:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
-- eventId: 879191
+- eventId:
+  - 630511
+  - 879191
   start: 2026-10-24T11:27:00Z
   stop: 2026-10-24T11:30:00Z
   title: Prognoza pogody
@@ -691,6 +679,8 @@
   description: |-
     program informacyjny (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
+  genre:
+  - '34'
 - eventId: 879192
   start: 2026-10-24T11:30:00Z
   stop: 2026-10-24T12:00:00Z
@@ -707,6 +697,8 @@
   description: |-
     program informacyjny (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
+  genre:
+  - '34'
 - eventId: 879193
   start: 2026-10-24T12:00:00Z
   stop: 2026-10-24T12:24:00Z
@@ -716,20 +708,15 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 638243
-  start: 2026-10-24T12:24:00Z
-  stop: 2026-10-24T12:30:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
-- eventId: 879194
+- eventId:
+  - 638243
+  - 879194
   start: 2026-10-24T12:24:00Z
   stop: 2026-10-24T12:30:00Z
   title: Prognoza pogody
-  description: |
-    Tytuł oryginalny: Prognoza pogody
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
 - eventId: 638244
@@ -739,6 +726,8 @@
   description: |-
     program informacyjny (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
+  genre:
+  - '34'
 - eventId: 879195
   start: 2026-10-24T12:30:00Z
   stop: 2026-10-24T13:00:00Z
@@ -755,6 +744,8 @@
   description: |-
     program informacyjny (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
+  genre:
+  - '34'
 - eventId: 879196
   start: 2026-10-24T13:00:00Z
   stop: 2026-10-24T13:27:00Z
@@ -764,20 +755,15 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 638246
-  start: 2026-10-24T13:27:00Z
-  stop: 2026-10-24T13:30:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
-- eventId: 879197
+- eventId:
+  - 638246
+  - 879197
   start: 2026-10-24T13:27:00Z
   stop: 2026-10-24T13:30:00Z
   title: Prognoza pogody
-  description: |
-    Tytuł oryginalny: Prognoza pogody
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
 - eventId: 638247
@@ -787,6 +773,8 @@
   description: |-
     program informacyjny (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
+  genre:
+  - '34'
 - eventId: 879198
   start: 2026-10-24T13:30:00Z
   stop: 2026-10-24T14:00:00Z
@@ -864,6 +852,8 @@
   description: |-
     program publicystyczny (Polska, 2026)
     Program publicystyczny, którego autorzy koncentrują się na sprawdzaniu wiarygodności informacji. Prezentowane w nim wiadomości stanowią rozwinięcie treści publikowanych na portalu Sprawdzam.to, a głównym celem magazynu jest wspólna z mediami publicznymi walka z fake newsami.
+  genre:
+  - '34'
 - eventId: 879204
   start: 2026-10-24T15:59:00Z
   stop: 2026-10-24T16:00:00Z
@@ -903,6 +893,9 @@
   description: |-
     magazyn (Polska, 2024)
     Publicystyczno-rozrywkowa audycja w formacie infotainment. Program poprowadzi dwójka dziennikarzy, mężczyzna z pokolenia w wieku średnim, z bogatym doświadczeniem radiowym i telewizyjnym oraz kobieta z pokolenia milenialsów.
+  subtitle: Prowadzący wspominają, jak wyglądały Polska i świat oraz porównują, jak w danej dziedzinie wygląda to teraz. Do jednego lub dwóch tematów zostają zaproszeni goście z nim związani, którzy ocenią go z dzisiejszej perspektywy.
+  genre:
+  - '34'
 - eventId: 879207
   start: 2026-10-24T16:30:00Z
   stop: 2026-10-24T17:00:00Z
@@ -920,6 +913,9 @@
   description: |-
     program informacyjny (Polska) (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
+  subtitle: Wieczorny serwis informacyjny, prezentujący najważniejsze wydarzenia mijającego dnia.
+  genre:
+  - '34'
 - eventId: 879208
   start: 2026-10-24T17:00:00Z
   stop: 2026-10-24T17:22:00Z
@@ -930,20 +926,15 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 638296
-  start: 2026-10-24T17:22:00Z
-  stop: 2026-10-24T17:30:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
-- eventId: 879209
+- eventId:
+  - 638296
+  - 879209
   start: 2026-10-24T17:22:00Z
   stop: 2026-10-24T17:30:00Z
   title: Prognoza pogody
-  description: |
-    Tytuł oryginalny: Prognoza pogody
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
 - eventId: 638297
@@ -953,6 +944,9 @@
   description: |-
     program informacyjny (na żywo)
     Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.
+  subtitle: Bieżące wydarzenia w kraju i na świecie. Informacje polityczne, gospodarcze, ważne tematy społeczne i poruszające opinię publiczną.
+  genre:
+  - '32'
 - eventId: 879210
   start: 2026-10-24T17:30:00Z
   stop: 2026-10-24T17:58:00Z
@@ -994,6 +988,8 @@
   description: |-
     program informacyjny (Polska) (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
+  genre:
+  - '34'
 - eventId: 879213
   start: 2026-10-24T18:56:00Z
   stop: 2026-10-24T19:00:00Z
@@ -1115,6 +1111,9 @@
   description: |-
     program informacyjny
     Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.
+  subtitle: Bieżące wydarzenia w kraju i na świecie. Informacje polityczne, gospodarcze, ważne tematy społeczne i poruszające opinię publiczną.
+  genre:
+  - '32'
 - eventId: 879223
   start: 2026-10-24T23:10:00Z
   stop: 2026-10-24T23:38:00Z
@@ -1125,20 +1124,15 @@
     PL, 2026
   genre:
   - '32'
-- eventId: 638061
+- eventId:
+  - 638061
+  - 879224
   start: 2026-10-24T23:38:00Z
-  stop: 2026-10-25T00:05:00Z
+  stop: 2026-10-25T01:05:00Z
   title: Pytanie dnia
   description: |-
     program publicystyczny (Polska, 2025)
     Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.
-- eventId: 879224
-  start: 2026-10-24T23:38:00Z
-  stop: 2026-10-25T01:05:00Z
-  title: Pytanie dnia
   subtitle: Zaproszony do studia gość komentuje wydarzenia dnia. Emisja bezpośrednio po głównym wydaniu programu informacyjnego ma związek z charakterem problematyki poruszanej w każdym odcinku.
-  description: |
-    Tytuł oryginalny: Pytanie dnia
-    PL, 2026
   genre:
   - '51'
