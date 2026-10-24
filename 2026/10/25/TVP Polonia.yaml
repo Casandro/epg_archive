@@ -4,9 +4,9 @@
   start: 2026-10-25T00:00:00Z
   stop: 2026-10-25T00:04:00Z
   title: Sport
-  description: |
-    Tytuł oryginalny: Sport
-    PL, 2026
+  description: |-
+    magazyn
+    Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.
   genre:
   - '66'
 - eventId:
@@ -15,9 +15,9 @@
   start: 2026-10-25T00:04:00Z
   stop: 2026-10-25T00:10:00Z
   title: Pogoda
-  description: |
-    Tytuł oryginalny: Pogoda
-    PL, 2025
+  description: |-
+    program informacyjny
+    Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.
   genre:
   - '32'
 - eventId:
@@ -118,7 +118,7 @@
   - 879312
   start: 2026-10-25T02:50:00Z
   stop: 2026-10-25T03:40:00Z
-  title: Europa da się lubić - nowe pokolenie
+  title: 'Europa da się lubić - nowe pokolenie: odc.7'
   subtitle: Program rozrywkowy o współczesnej Europie. W każdym odcinku sześcioro uczestników z różnych krajów, którzy związali swoje życie z Polską, rywalizuje w konkurencjach sprawdzających wiedzę.
   description: |-
     Tytuł oryginalny: Europa da się lubić - nowe pokolenie
@@ -149,11 +149,10 @@
   stop: 2026-10-25T04:50:00Z
   title: The Best of Kabaret Moralnego Niepokoju
   subtitle: Program prezentujący najciekawsze i najzabawniejsze skecze Kabaretu Moralnego Niepokoju.
-  description: |
-    Tytuł oryginalny: The Best of Kabaret Moralnego Niepokoju
-    PL, 2016
-    Reżyseria: Beata Harasimowicz
-    Występują: Kabaret Moralnego Niepokoju
+  description: |-
+    program rozrywkowy (Polska, 2016)
+    Magdalena Stużyńska, Robert Górski, Przemysław Borkowski, Mikołaj Cieślak i Rafał Zbieć jak zwykle rozbawią do łez. Miłośnicy twórczości Kabaretu Moralnego Niepokoju na pewno nie będą zawiedzeni. Artyści zaprezentują najciekawsze i najzabawniejsze skecze.
+    Od lat: 12
   ageRating: 12
   genre:
   - '50'
@@ -183,7 +182,7 @@
   - 639648
   - 914101
   start: 2026-10-25T04:50:00Z
-  stop: 2026-10-25T05:00:00Z
+  stop: 2026-10-25T04:55:00Z
   title: 'Lato z Radiem i Telewizją Polską: Poddębice'
   description: |-
     Tytuł oryginalny: Lato z Radiem i Telewizją Polską 2026
@@ -193,15 +192,20 @@
   ageRating: 12
   genre:
   - '101'
+- eventId: 676321
+  start: 2026-10-25T04:55:00Z
+  stop: 2026-10-25T05:00:00Z
+  title: Zakończenie programu
+  description: .
 - eventId:
   - 639649
   - 879314
   start: 2026-10-25T05:00:00Z
   stop: 2026-10-25T05:30:00Z
   title: Panorama
-  description: |
-    Tytuł oryginalny: Panorama
-    PL, 2026
+  description: |-
+    program informacyjny
+    Podsumowanie najważniejszych wydarzeń dnia z kraju i ze świata. W programie oprócz materiałów czysto newsowych, politycznych, społecznych, gospodarczych, medycznych, naukowych i kulturalnych znajdą się również analizy konkretnych zagadnień oraz wypowiedzi ekspertów.
   genre:
   - '149'
   subtitle: Główny program informacyjny telewizyjnej Dwójki, podsumowujący najważniejsze wydarzenia minionego dnia w kraju i na świecie.
