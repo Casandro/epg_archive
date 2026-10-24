@@ -1965,6 +1965,7 @@
   - 659119
   - 659388
   - 660672
+  - 665012
   - 983199
   start: 2026-10-24T16:53:00Z
   stop: 2026-10-24T16:54:00Z
@@ -1978,7 +1979,7 @@
   - 583167
   - 983200
   start: 2026-10-24T16:54:00Z
-  stop: 2026-10-24T16:55:00Z
+  stop: 2026-10-24T16:56:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -2005,6 +2006,12 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 665013
+  start: 2026-10-24T16:56:00Z
+  stop: 2026-10-24T17:00:00Z
+  title: Vrijeme svijet sutra
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 983201
   start: 2026-10-24T16:56:00Z
   stop: 2026-10-24T17:00:00Z
@@ -2168,6 +2175,12 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 665014
+  start: 2026-10-24T20:11:00Z
+  stop: 2026-10-24T20:38:00Z
+  title: 'Naši ljudi, njihova mjesta: La Plata'
+  subtitle: ' '
+  description: La Plata, glavni grad Provincije Buenos Aires, nastala je krajem 19. stoljeća kao planski grad i simbol napretka tadašnje Argentine. Upravo je u tom novom gradu svoj dom pronašao mladi Hvaranin Ivan Vučetić. U argentinskoj policiji Vučetić je razvio sustav identifikacije pomoću otisaka prstiju, koji će ga proslaviti diljem svijeta. Njegov uspon pratio je optimizam zemlje koja je privlačila milijune doseljenika, no njegov život donio je i razočaranja, sukobe i gotovo zaborav. Tragovima Ivana Vučetića prolazimo kroz La Platu i s Juanom Pablom Caparrom otkrivamo manje poznate strane njegova života. S Horacijem Riggijem, urednikom gospodarske redakcije lista Clarín, razgovaramo o tome kako je uspio obnoviti kontakt s obitelji Josipović u Hrvatskoj te o Argentini u koju je Vučetić stigao, njezinim velikim očekivanjima, ali i gospodarskim krizama.
 - eventId: 983212
   start: 2026-10-24T20:15:00Z
   stop: 2026-10-24T20:42:00Z
@@ -2191,13 +2204,19 @@
   - 583182
   - 984237
   start: 2026-10-24T20:40:00Z
-  stop: 2026-10-24T20:44:00Z
-  title: Bez komentara
+  stop: 2026-10-24T20:42:00Z
+  title: 'HRT100 Vremeplov: Antiizraelski prosvjedi 1967.'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
+- eventId: 665015
+  start: 2026-10-24T20:42:00Z
+  stop: 2026-10-24T20:45:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 983213
   start: 2026-10-24T20:42:00Z
   stop: 2026-10-24T20:45:00Z
@@ -2218,6 +2237,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 665016
+  start: 2026-10-24T20:45:00Z
+  stop: 2026-10-24T21:04:00Z
+  title: 'Studio 4: U fokusu'
+  subtitle: ' '
+  description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
 - eventId: 983214
   start: 2026-10-24T20:45:00Z
   stop: 2026-10-24T21:05:00Z
@@ -2245,6 +2270,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 665017
+  start: 2026-10-24T21:05:00Z
+  stop: 2026-10-24T21:08:00Z
+  title: '#REPORTAŽE: Dijana Viljevac'
+  subtitle: ' '
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 983216
   start: 2026-10-24T21:05:00Z
   stop: 2026-10-24T21:10:00Z
@@ -2265,17 +2296,29 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 665018
+  start: 2026-10-24T21:08:00Z
+  stop: 2026-10-24T21:10:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 583186
   - 983217
   start: 2026-10-24T21:10:00Z
-  stop: 2026-10-24T21:20:00Z
+  stop: 2026-10-24T21:19:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
   genre:
   - '32'
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
+- eventId: 665019
+  start: 2026-10-24T21:19:00Z
+  stop: 2026-10-24T21:29:00Z
+  title: Vijesti na španjolskom jeziku
+  subtitle: ' '
+  description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId:
   - 583187
   - 663014
@@ -2288,6 +2331,12 @@
   genre:
   - '32'
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
+- eventId: 665020
+  start: 2026-10-24T21:29:00Z
+  stop: 2026-10-24T21:50:00Z
+  title: 'Studio 4: Jutarnji intervju'
+  subtitle: ' '
+  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId:
   - 583188
   - 663015
@@ -2319,6 +2368,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 665021
+  start: 2026-10-24T21:52:00Z
+  stop: 2026-10-24T21:57:00Z
+  title: '#REPORTAŽE: Ivan Baran'
+  subtitle: ' '
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 583190
   - 663017
@@ -2331,7 +2386,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 983221
+- eventId:
+  - 665022
+  - 983221
   start: 2026-10-24T21:57:00Z
   stop: 2026-10-24T22:00:00Z
   title: Bez komentara
@@ -2339,6 +2396,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 583191
   - 983222
