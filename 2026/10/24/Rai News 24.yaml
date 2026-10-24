@@ -13,42 +13,61 @@
   stop: 2026-10-24T01:00:00Z
   title: TUTTIFRUTTI BREVE
   subtitle: .
-- eventId: 986726
+- eventId:
+  - 638872
+  - 986726
   start: 2026-10-24T01:00:00Z
   stop: 2026-10-24T01:15:00Z
   title: TG NOTTE
+  subtitle: .
+- eventId: 638873
+  start: 2026-10-24T01:15:00Z
+  stop: 2026-10-24T01:30:00Z
+  title: RASSEGNA STAMPA
   subtitle: .
 - eventId: 986727
   start: 2026-10-24T01:15:00Z
   stop: 2026-10-24T01:30:00Z
   title: RASSEGNA STAMPA LUNGA - REPLICA DELLE 23
   subtitle: .
-- eventId: 1014484
+- eventId:
+  - 1014484
+  - 638874
   start: 2026-10-24T01:30:00Z
   stop: 2026-10-24T02:00:00Z
   title: RASSEGNA STAMPA
   subtitle: .
-- eventId: 986728
+- eventId:
+  - 638875
+  - 986728
   start: 2026-10-24T02:00:00Z
   stop: 2026-10-24T02:30:00Z
   title: TG NOTTE
   subtitle: .
-- eventId: 986729
+- eventId:
+  - 638876
+  - 986729
   start: 2026-10-24T02:30:00Z
   stop: 2026-10-24T03:00:00Z
   title: RASSEGNA STAMPA + FOCUS
   subtitle: .
-- eventId: 986732
+- eventId:
+  - 638893
+  - 986732
   start: 2026-10-24T03:00:00Z
   stop: 2026-10-24T03:30:00Z
   title: TG ALBA
   subtitle: .
-- eventId: 986733
+- eventId:
+  - 638894
+  - 986733
   start: 2026-10-24T03:30:00Z
   stop: 2026-10-24T03:54:00Z
   title: RASSEGNA STAMPA
   subtitle: .
-- eventId: 1014485
+- eventId:
+  - 1014485
+  - 638895
   start: 2026-10-24T03:54:00Z
   stop: 2026-10-24T04:00:00Z
   title: MATTINA 24 - ANTICIPAZIONI + METEO STUDI
@@ -58,9 +77,19 @@
   stop: 2026-10-24T04:15:00Z
   title: TITOLI + TG GIORNO
   subtitle: .
+- eventId: 638896
+  start: 2026-10-24T04:00:00Z
+  stop: 2026-10-24T04:15:00Z
+  title: TG PRIMO GIORNO
+  subtitle: .
 - eventId: 1038977
   start: 2026-10-24T04:15:00Z
   stop: 2026-10-24T04:25:00Z
+  title: MATTINA 24 + METEO IN DIRETTA
+  subtitle: .
+- eventId: 638897
+  start: 2026-10-24T04:15:00Z
+  stop: 2026-10-24T04:30:00Z
   title: MATTINA 24 + METEO IN DIRETTA
   subtitle: .
 - eventId: 1014487
@@ -73,6 +102,11 @@
   stop: 2026-10-24T04:43:00Z
   title: SOMMARIO + TG GIORNO
   subtitle: .
+- eventId: 638898
+  start: 2026-10-24T04:30:00Z
+  stop: 2026-10-24T04:45:00Z
+  title: TG PRIMO GIORNO
+  subtitle: .
 - eventId: 1014489
   start: 2026-10-24T04:43:00Z
   stop: 2026-10-24T04:55:00Z
@@ -83,22 +117,33 @@
   stop: 2026-10-24T04:55:00Z
   title: MATTINA 24
   subtitle: .
+- eventId: 638899
+  start: 2026-10-24T04:45:00Z
+  stop: 2026-10-24T04:57:00Z
+  title: MATTINA 24
+  subtitle: .
 - eventId: 1014490
   start: 2026-10-24T04:55:00Z
   stop: 2026-10-24T05:00:00Z
   title: METEO 24
   subtitle: .
-- eventId: 1038979
+- eventId:
+  - 1038979
+  - 638900
   start: 2026-10-24T04:57:00Z
   stop: 2026-10-24T05:00:00Z
   title: METEO
   subtitle: .
-- eventId: 1014491
+- eventId:
+  - 1014491
+  - 638901
   start: 2026-10-24T05:00:00Z
   stop: 2026-10-24T05:27:11Z
   title: TITOLI + RASSEGNA STAMPA
   subtitle: .
-- eventId: 1038980
+- eventId:
+  - 1038980
+  - 638902
   start: 2026-10-24T05:27:11Z
   stop: 2026-10-24T05:30:00Z
   title: RN-BUONGIORNO NEWS 1
@@ -107,17 +152,28 @@
   stop: 2026-10-24T05:40:06Z
   title: RASSEGNA STAMPA
   subtitle: .
-- eventId: 1038981
+- eventId: 638903
+  start: 2026-10-24T05:30:00Z
+  stop: 2026-10-24T05:40:06Z
+  title: MATTINA 24
+  subtitle: .
+- eventId:
+  - 1038981
+  - 638904
   start: 2026-10-24T05:40:06Z
   stop: 2026-10-24T05:50:06Z
   title: RASSEGNA STAMPA ESTERA
   subtitle: .
-- eventId: 1038982
+- eventId:
+  - 1038982
+  - 638905
   start: 2026-10-24T05:50:06Z
   stop: 2026-10-24T05:57:06Z
   title: MATTINA 24 + ISORADIO + METEO LIVE
   subtitle: .
-- eventId: 1038983
+- eventId:
+  - 1038983
+  - 638906
   start: 2026-10-24T05:57:06Z
   stop: 2026-10-24T06:00:00Z
   title: RN-BUONGIORNO NEWS 2
@@ -126,26 +182,41 @@
   stop: 2026-10-24T06:24:58Z
   title: TITOLI + TG EDIZIONE PRINCIPALE
   subtitle: .
-- eventId: 1038984
+- eventId: 638925
+  start: 2026-10-24T06:00:00Z
+  stop: 2026-10-24T06:24:58Z
+  title: TG EDIZIONE PRINCIPALE
+  subtitle: .
+- eventId:
+  - 1038984
+  - 638926
   start: 2026-10-24T06:24:58Z
   stop: 2026-10-24T06:26:58Z
   title: CISS
   subtitle: .
-- eventId: 1038985
+- eventId:
+  - 1038985
+  - 638927
   start: 2026-10-24T06:26:58Z
   stop: 2026-10-24T06:30:00Z
   title: RN-BUONGIORNO NEWS 3
-- eventId: 1014494
+- eventId:
+  - 1014494
+  - 638928
   start: 2026-10-24T06:30:00Z
   stop: 2026-10-24T06:53:43Z
   title: RASSEGNA STAMPA + OSPITE
   subtitle: .
-- eventId: 1038986
+- eventId:
+  - 1038986
+  - 638929
   start: 2026-10-24T06:53:43Z
   stop: 2026-10-24T06:56:43Z
   title: METEO 24
   subtitle: .
-- eventId: 1038987
+- eventId:
+  - 1038987
+  - 638930
   start: 2026-10-24T06:56:43Z
   stop: 2026-10-24T07:00:00Z
   title: RN-BUONGIORNO NEWS 4
@@ -154,12 +225,16 @@
   stop: 2026-10-24T07:00:00Z
   title: METEO
   subtitle: .
-- eventId: 1014496
+- eventId:
+  - 1014496
+  - 638931
   start: 2026-10-24T07:00:00Z
   stop: 2026-10-24T07:27:21Z
   title: TITOLI + TG GIORNO
   subtitle: .
-- eventId: 1038988
+- eventId:
+  - 1038988
+  - 638932
   start: 2026-10-24T07:27:21Z
   stop: 2026-10-24T07:30:00Z
   title: RN-MATTINA 1
@@ -168,12 +243,21 @@
   stop: 2026-10-24T07:47:00Z
   title: TUTTI I FRUTTI EXTRA LARGE
   subtitle: .
-- eventId: 1038989
+- eventId: 638933
+  start: 2026-10-24T07:30:00Z
+  stop: 2026-10-24T07:47:00Z
+  title: CRONACHE DALL'ITALIA
+  subtitle: .
+- eventId:
+  - 1038989
+  - 638934
   start: 2026-10-24T07:47:00Z
   stop: 2026-10-24T07:57:26Z
   title: REPLICA RASSEGNA ESTERA
   subtitle: .
-- eventId: 1038990
+- eventId:
+  - 1038990
+  - 638935
   start: 2026-10-24T07:57:26Z
   stop: 2026-10-24T08:00:00Z
   title: RN-MATTINA 2
@@ -181,6 +265,11 @@
   start: 2026-10-24T08:00:00Z
   stop: 2026-10-24T08:30:00Z
   title: TITOLI + TG GIORNO
+  subtitle: .
+- eventId: 638936
+  start: 2026-10-24T08:00:00Z
+  stop: 2026-10-24T08:30:00Z
+  title: INSIDE 24
   subtitle: .
 - eventId: 1014499
   start: 2026-10-24T08:23:00Z
@@ -192,7 +281,14 @@
   stop: 2026-10-24T08:57:13Z
   title: SULLA STRADA
   subtitle: .
-- eventId: 1038991
+- eventId: 638937
+  start: 2026-10-24T08:30:00Z
+  stop: 2026-10-24T08:57:13Z
+  title: INSIDE 24
+  subtitle: .
+- eventId:
+  - 1038991
+  - 638938
   start: 2026-10-24T08:57:13Z
   stop: 2026-10-24T09:00:00Z
   title: RN-MATTINA 3
@@ -201,12 +297,19 @@
   stop: 2026-10-24T09:27:34Z
   title: TITOLI + LIS + TG GIORNO
   subtitle: .
+- eventId: 638956
+  start: 2026-10-24T09:00:00Z
+  stop: 2026-10-24T09:27:34Z
+  title: TITOLI + TG GIORNO
+  subtitle: .
 - eventId: 1014502
   start: 2026-10-24T09:10:00Z
   stop: 2026-10-24T09:30:00Z
   title: SAPORI E COLORI
   subtitle: .
-- eventId: 1034153
+- eventId:
+  - 1034153
+  - 638957
   start: 2026-10-24T09:27:34Z
   stop: 2026-10-24T09:30:00Z
   title: RN-MATTINA 4
@@ -215,45 +318,68 @@
   stop: 2026-10-24T09:35:00Z
   title: IL PUNTO
   subtitle: .
-- eventId: 1034154
+- eventId: 638958
+  start: 2026-10-24T09:30:00Z
+  stop: 2026-10-24T09:35:00Z
+  title: TG LIS
+  subtitle: .
+- eventId:
+  - 1034154
+  - 638959
   start: 2026-10-24T09:35:00Z
   stop: 2026-10-24T09:50:00Z
   title: CRONACHE DALL'ITALIA
   subtitle: .
-- eventId: 1034155
+- eventId:
+  - 1034155
+  - 638960
   start: 2026-10-24T09:50:00Z
   stop: 2026-10-24T10:00:00Z
   title: FOCUS 24
   subtitle: .
-- eventId: 1014504
+- eventId:
+  - 1014504
+  - 638961
   start: 2026-10-24T10:00:00Z
   stop: 2026-10-24T10:27:04Z
   title: TG EDIZIONE PRINCIPALE
   subtitle: .
-- eventId: 1034156
+- eventId:
+  - 1034156
+  - 638962
   start: 2026-10-24T10:27:04Z
   stop: 2026-10-24T10:30:00Z
   title: RN-MERIDIANA 1
-- eventId: 1014505
+- eventId:
+  - 1014505
+  - 638963
   start: 2026-10-24T10:30:00Z
   stop: 2026-10-24T10:56:56Z
   title: SPORT 24
   subtitle: .
-- eventId: 1034157
+- eventId:
+  - 1034157
+  - 638964
   start: 2026-10-24T10:56:56Z
   stop: 2026-10-24T11:00:00Z
   title: RN-MERIDIANA 2
-- eventId: 1014506
+- eventId:
+  - 1014506
+  - 638965
   start: 2026-10-24T11:00:00Z
   stop: 2026-10-24T11:25:38Z
   title: TITOLI + TG GIORNO
   subtitle: .
-- eventId: 1034158
+- eventId:
+  - 1034158
+  - 638966
   start: 2026-10-24T11:25:38Z
   stop: 2026-10-24T11:26:43Z
   title: METEO
   subtitle: .
-- eventId: 1034159
+- eventId:
+  - 1034159
+  - 638967
   start: 2026-10-24T11:26:43Z
   stop: 2026-10-24T11:30:00Z
   title: RN-MERIDIANA 3
@@ -267,7 +393,14 @@
   stop: 2026-10-24T11:40:08Z
   title: SOMMARIO + TG GIORNO BREVE
   subtitle: .
-- eventId: 1034160
+- eventId: 638968
+  start: 2026-10-24T11:30:00Z
+  stop: 2026-10-24T11:40:08Z
+  title: TG IN INGLESE
+  subtitle: .
+- eventId:
+  - 1034160
+  - 638969
   start: 2026-10-24T11:40:08Z
   stop: 2026-10-24T11:57:08Z
   title: TUTTIFRUTTI
@@ -277,7 +410,9 @@
   stop: 2026-10-24T12:00:00Z
   title: AR
   subtitle: .
-- eventId: 1034161
+- eventId:
+  - 1034161
+  - 638970
   start: 2026-10-24T11:57:08Z
   stop: 2026-10-24T12:00:00Z
   title: RN-MERIDIANA 4
@@ -286,17 +421,26 @@
   stop: 2026-10-24T12:25:00Z
   title: TITOLI + TG GIORNO
   subtitle: .
+- eventId: 638992
+  start: 2026-10-24T12:00:00Z
+  stop: 2026-10-24T12:30:00Z
+  title: TITOLI + TG GIORNO
+  subtitle: .
 - eventId: 1014515
   start: 2026-10-24T12:25:00Z
   stop: 2026-10-24T12:30:00Z
   title: NON SOLO 8 MARZO
   subtitle: .
-- eventId: 1014516
+- eventId:
+  - 1014516
+  - 638993
   start: 2026-10-24T12:30:00Z
   stop: 2026-10-24T12:44:58Z
   title: SOMMARIO + TG GIORNO BREVE
   subtitle: .
-- eventId: 1031974
+- eventId:
+  - 1031974
+  - 638994
   start: 2026-10-24T12:44:58Z
   stop: 2026-10-24T12:56:58Z
   title: RUBRICA SUPERCINEMA + LA VIA DEI LIBRI
@@ -306,7 +450,9 @@
   stop: 2026-10-24T13:00:00Z
   title: BASTA LA SALUTE
   subtitle: .
-- eventId: 1031975
+- eventId:
+  - 1031975
+  - 638995
   start: 2026-10-24T12:56:58Z
   stop: 2026-10-24T13:00:00Z
   title: RN-MERIDIANA 5
@@ -315,31 +461,46 @@
   stop: 2026-10-24T13:26:46Z
   title: TITOLI + TG GIORNO
   subtitle: .
+- eventId: 638996
+  start: 2026-10-24T13:00:00Z
+  stop: 2026-10-24T13:26:46Z
+  title: POMERIGGIO 24
+  subtitle: .
 - eventId: 1014519
   start: 2026-10-24T13:21:00Z
   stop: 2026-10-24T13:30:00Z
   title: SUPERCINEMA
   subtitle: .
-- eventId: 1031976
+- eventId:
+  - 1031976
+  - 638997
   start: 2026-10-24T13:26:46Z
   stop: 2026-10-24T13:30:00Z
   title: RN-POMERIGGIO 1
-- eventId: 1014520
+- eventId:
+  - 1014520
+  - 638998
   start: 2026-10-24T13:30:00Z
   stop: 2026-10-24T13:53:00Z
   title: POMERIGGIO 24
   subtitle: .
-- eventId: 1031977
+- eventId:
+  - 1031977
+  - 638999
   start: 2026-10-24T13:53:00Z
   stop: 2026-10-24T14:00:00Z
   title: NON SOLO 8 MARZO
   subtitle: .
-- eventId: 1014521
+- eventId:
+  - 1014521
+  - 639000
   start: 2026-10-24T14:00:00Z
   stop: 2026-10-24T14:23:06Z
   title: TITOLI + TG GIORNO
   subtitle: .
-- eventId: 1031978
+- eventId:
+  - 1031978
+  - 639001
   start: 2026-10-24T14:23:06Z
   stop: 2026-10-24T14:26:06Z
   title: TG UCRAINO
@@ -349,16 +510,22 @@
   stop: 2026-10-24T14:30:00Z
   title: METEO
   subtitle: .
-- eventId: 1031979
+- eventId:
+  - 1031979
+  - 639002
   start: 2026-10-24T14:26:06Z
   stop: 2026-10-24T14:27:11Z
   title: METEO
   subtitle: .
-- eventId: 1031980
+- eventId:
+  - 1031980
+  - 639003
   start: 2026-10-24T14:27:11Z
   stop: 2026-10-24T14:30:00Z
   title: RN-POMERIGGIO 2
-- eventId: 1014523
+- eventId:
+  - 1014523
+  - 639004
   start: 2026-10-24T14:30:00Z
   stop: 2026-10-24T14:56:23Z
   title: POMERIGGIO 24 + RUBR. LIVE + RUBR. SOCIA
@@ -368,20 +535,28 @@
   stop: 2026-10-24T15:00:00Z
   title: ALTRI MONDI
   subtitle: .
-- eventId: 1031981
+- eventId:
+  - 1031981
+  - 639005
   start: 2026-10-24T14:56:23Z
   stop: 2026-10-24T15:00:00Z
   title: RN-POMERIGGIO 3
-- eventId: 1014551
+- eventId:
+  - 1014551
+  - 639019
   start: 2026-10-24T15:00:00Z
   stop: 2026-10-24T15:27:02Z
   title: TITOLI + TG GIORNO
   subtitle: .
-- eventId: 1031982
+- eventId:
+  - 1031982
+  - 639020
   start: 2026-10-24T15:27:02Z
   stop: 2026-10-24T15:30:00Z
   title: RN-POMERIGGIO 4
-- eventId: 1014552
+- eventId:
+  - 1014552
+  - 639021
   start: 2026-10-24T15:30:00Z
   stop: 2026-10-24T15:33:00Z
   title: SERA 24 ANTEPRIMA
@@ -389,6 +564,11 @@
 - eventId: 1031983
   start: 2026-10-24T15:33:00Z
   stop: 2026-10-24T15:55:00Z
+  title: ECONOMIA 24
+  subtitle: .
+- eventId: 639022
+  start: 2026-10-24T15:33:00Z
+  stop: 2026-10-24T16:00:00Z
   title: ECONOMIA 24
   subtitle: .
 - eventId: 1014553
@@ -401,12 +581,19 @@
   stop: 2026-10-24T16:27:24Z
   title: TG EDIZIONE PRINCIPALE
   subtitle: .
+- eventId: 639023
+  start: 2026-10-24T16:00:00Z
+  stop: 2026-10-24T16:27:24Z
+  title: SERA 24
+  subtitle: .
 - eventId: 1014555
   start: 2026-10-24T16:27:00Z
   stop: 2026-10-24T16:30:00Z
   title: METEO
   subtitle: .
-- eventId: 1031984
+- eventId:
+  - 1031984
+  - 639024
   start: 2026-10-24T16:27:24Z
   stop: 2026-10-24T16:30:00Z
   title: RN-POMERIGGIO 5
@@ -415,11 +602,20 @@
   stop: 2026-10-24T16:58:08Z
   title: SPOTLIGHT
   subtitle: .
-- eventId: 1031985
+- eventId: 639025
+  start: 2026-10-24T16:30:00Z
+  stop: 2026-10-24T16:58:08Z
+  title: SERA 24
+  subtitle: .
+- eventId:
+  - 1031985
+  - 639026
   start: 2026-10-24T16:58:08Z
   stop: 2026-10-24T17:00:00Z
   title: RN-POMERIGGIO 6
-- eventId: 1014557
+- eventId:
+  - 1014557
+  - 639027
   start: 2026-10-24T17:00:00Z
   stop: 2026-10-24T17:30:00Z
   title: TG EDIZIONE PRINCIPALE
@@ -429,31 +625,46 @@
   stop: 2026-10-24T17:45:28Z
   title: RULLO SPORT 24
   subtitle: .
+- eventId: 639028
+  start: 2026-10-24T17:30:00Z
+  stop: 2026-10-24T17:45:28Z
+  title: SERA 24 OFF
+  subtitle: .
 - eventId: 1014559
   start: 2026-10-24T17:45:00Z
   stop: 2026-10-24T18:00:00Z
   title: CENTRAL PARK WEST
   subtitle: .
-- eventId: 1031986
+- eventId:
+  - 1031986
+  - 639029
   start: 2026-10-24T17:45:28Z
   stop: 2026-10-24T17:57:28Z
   title: RULLO SPORT 24
   subtitle: .
-- eventId: 1031987
+- eventId:
+  - 1031987
+  - 639030
   start: 2026-10-24T17:57:28Z
   stop: 2026-10-24T18:00:00Z
   title: RN-ACCESS 1
-- eventId: 1014580
+- eventId:
+  - 1014580
+  - 639086
   start: 2026-10-24T18:00:00Z
   stop: 2026-10-24T18:26:02Z
   title: TG LIS + TG SERA
   subtitle: .
-- eventId: 1031989
+- eventId:
+  - 1031989
+  - 639087
   start: 2026-10-24T18:26:02Z
   stop: 2026-10-24T18:27:07Z
   title: METEO
   subtitle: .
-- eventId: 1031990
+- eventId:
+  - 1031990
+  - 639088
   start: 2026-10-24T18:27:07Z
   stop: 2026-10-24T18:30:00Z
   title: RN-ACCESS 2
@@ -462,16 +673,27 @@
   stop: 2026-10-24T18:44:42Z
   title: TUTTI I FRUTTI EXTRA LARGE
   subtitle: .
-- eventId: 1031991
+- eventId: 639089
+  start: 2026-10-24T18:30:00Z
+  stop: 2026-10-24T18:44:42Z
+  title: SOMMARIO + TG SERA
+  subtitle: .
+- eventId:
+  - 1031991
+  - 639090
   start: 2026-10-24T18:44:42Z
   stop: 2026-10-24T18:57:42Z
   title: RUBRICA SUPERCINEMA + LA VIA DEI LIBRI
   subtitle: .
-- eventId: 1031992
+- eventId:
+  - 1031992
+  - 639091
   start: 2026-10-24T18:57:42Z
   stop: 2026-10-24T19:00:00Z
   title: RN-ACCESS 3
-- eventId: 1014582
+- eventId:
+  - 1014582
+  - 639092
   start: 2026-10-24T19:00:00Z
   stop: 2026-10-24T19:26:51Z
   title: TITOLI + TG SERA
@@ -481,25 +703,35 @@
   stop: 2026-10-24T19:30:00Z
   title: GLI IMPERDIBILI
   subtitle: .
-- eventId: 1031993
+- eventId:
+  - 1031993
+  - 639093
   start: 2026-10-24T19:26:51Z
   stop: 2026-10-24T19:30:00Z
   title: RN-PRIME TIME 1
-- eventId: 1014584
+- eventId:
+  - 1014584
+  - 639094
   start: 2026-10-24T19:30:00Z
   stop: 2026-10-24T19:45:01Z
   title: WORLD 24 - I REPORTAGE DI RAINEWS24
   subtitle: .
-- eventId: 1031994
+- eventId:
+  - 1031994
+  - 639095
   start: 2026-10-24T19:45:01Z
   stop: 2026-10-24T19:57:01Z
   title: TUTTIFRUTTI
   subtitle: .
-- eventId: 1031995
+- eventId:
+  - 1031995
+  - 639096
   start: 2026-10-24T19:57:01Z
   stop: 2026-10-24T20:00:00Z
   title: RN-PRIME TIME 2
-- eventId: 1014585
+- eventId:
+  - 1014585
+  - 639097
   start: 2026-10-24T20:00:00Z
   stop: 2026-10-24T20:26:58Z
   title: TITOLI + TG SERA
@@ -509,7 +741,9 @@
   stop: 2026-10-24T20:30:00Z
   title: DOCUMENTARIO
   subtitle: .
-- eventId: 1031996
+- eventId:
+  - 1031996
+  - 639098
   start: 2026-10-24T20:26:58Z
   stop: 2026-10-24T20:30:00Z
   title: RN-PRIME TIME 3
@@ -518,11 +752,20 @@
   stop: 2026-10-24T20:57:08Z
   title: DOCUMENTARIO
   subtitle: .
-- eventId: 1031997
+- eventId: 639099
+  start: 2026-10-24T20:30:00Z
+  stop: 2026-10-24T20:57:08Z
+  title: AMARCORD
+  subtitle: .
+- eventId:
+  - 1031997
+  - 639100
   start: 2026-10-24T20:57:08Z
   stop: 2026-10-24T21:00:00Z
   title: RN-PRIME TIME 4
-- eventId: 1014598
+- eventId:
+  - 1014598
+  - 639168
   start: 2026-10-24T21:00:00Z
   stop: 2026-10-24T21:30:00Z
   title: NOTTE 24 - RASSEGNA STAMPA
@@ -532,12 +775,16 @@
   stop: 2026-10-24T21:30:00Z
   title: RASSEGNA STAMPA
   subtitle: .
-- eventId: 1014600
+- eventId:
+  - 1014600
+  - 639169
   start: 2026-10-24T21:30:00Z
   stop: 2026-10-24T22:00:00Z
   title: NOTTE 24 - RASSEGNA STAMPA
   subtitle: .
-- eventId: 1014601
+- eventId:
+  - 1014601
+  - 639170
   start: 2026-10-24T22:00:00Z
   stop: 2026-10-24T22:27:00Z
   title: TG EDIZIONE PRINCIPALE CON GERENZA
@@ -546,7 +793,9 @@
   start: 2026-10-24T22:26:00Z
   stop: 2026-10-24T22:30:00Z
   title: METEO AM
-- eventId: 1032002
+- eventId:
+  - 1032002
+  - 639171
   start: 2026-10-24T22:27:00Z
   stop: 2026-10-24T22:30:00Z
   title: METEO
@@ -556,6 +805,11 @@
   stop: 2026-10-24T23:00:00Z
   title: TG NOTTE
   subtitle: NOTIZIARIO.
+- eventId: 639172
+  start: 2026-10-24T22:30:00Z
+  stop: 2026-10-24T23:00:00Z
+  title: AMARCORD
+  subtitle: .
 - eventId: 1014604
   start: 2026-10-24T22:45:00Z
   stop: 2026-10-24T23:00:00Z
@@ -565,8 +819,18 @@
   stop: 2026-10-24T23:30:00Z
   title: TG NOTTE + RASSEGNA STAMPA (6 minuti)
   subtitle: NOTIZIARIO.
+- eventId: 639173
+  start: 2026-10-24T23:00:00Z
+  stop: 2026-10-24T23:30:00Z
+  title: TG NOTTE + RASSEGNA STAMPA BREVE
+  subtitle: .
 - eventId: 1014606
   start: 2026-10-24T23:30:00Z
   stop: 2026-10-25T01:00:00Z
   title: TUTTI I FRUTTI EXTRALARGE
+  subtitle: .
+- eventId: 639174
+  start: 2026-10-24T23:30:00Z
+  stop: 2026-10-25T01:00:00Z
+  title: FOCUS 24
   subtitle: .

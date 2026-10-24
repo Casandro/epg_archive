@@ -125,14 +125,9 @@
   genre:
   - '115'
   subtitle: Świat przyrody to dla nich dzieło Boga i zobowiązanie do jego zachowania i właściwego użytkowania. Jak być zaangażowanym społecznie chrześcijaninem i właściwie odnosić się do darów i zasobów naszej planety?
-- eventId: 608450
-  start: 2026-10-26T06:00:00Z
-  stop: 2026-10-26T06:30:00Z
-  title: Gwiazdorska kuchnia Ani s.IV
-  description: '"Gwiazdorska kuchnia Ani" to program telewizyjny prowadzony przez Annę Strażyńską i doskonała okazja, aby zanurzyć się w świat kulinarnych inspiracji, a także poznać tajniki wyjątkowej kuchni.'
-  genre:
-  - '165'
-- eventId: 907727
+- eventId:
+  - 608450
+  - 907727
   start: 2026-10-26T06:00:00Z
   stop: 2026-10-26T06:30:00Z
   title: Gwiazdorska kuchnia Ani 4 (odc. 9)
@@ -379,6 +374,16 @@
   genre:
   - '149'
   subtitle: Główny program informacyjny telewizyjnej Dwójki, podsumowujący najważniejsze wydarzenia minionego dnia w kraju i na świecie.
+- eventId: 639654
+  start: 2026-10-26T18:20:00Z
+  stop: 2026-10-26T18:30:00Z
+  title: Niezwykłe miejsca 1 (odc. 7)
+  description: |
+    Tytuł oryginalny: Niezwykłe miejsca
+    PL, 2023
+  ageRating: 7
+  genre:
+  - '35'
 - eventId: 907842
   start: 2026-10-26T18:20:00Z
   stop: 2026-10-26T18:30:00Z
@@ -387,6 +392,16 @@
   ageRating: 7
   genre:
   - '112'
+- eventId: 639655
+  start: 2026-10-26T18:30:00Z
+  stop: 2026-10-26T18:55:00Z
+  title: '19.30'
+  subtitle: Bieżące wydarzenia w kraju i na świecie. Informacje polityczne, gospodarcze, ważne tematy społeczne i poruszające opinię publiczną.
+  description: |
+    Tytuł oryginalny: 19.30
+    PL, 2026
+  genre:
+  - '32'
 - eventId: 907843
   start: 2026-10-26T18:30:00Z
   stop: 2026-10-26T18:55:00Z
@@ -395,14 +410,18 @@
   genre:
   - '36'
   subtitle: Bieżące wydarzenia w kraju i na świecie. Informacje polityczne, gospodarcze, ważne tematy społeczne i poruszające opinię publiczną.
-- eventId: 907844
+- eventId:
+  - 639656
+  - 907844
   start: 2026-10-26T18:55:00Z
   stop: 2026-10-26T19:10:00Z
   title: Pytanie dnia
   description: (N) "Pytanie dnia" to rozmowa i prośba o skomentowanie aktualnych wydarzeń dnia przez zaproszonego gościa. Emisja bezpośrednio po głównym wydaniu programu informacyjnego ma związek z charakterem problematyki poruszanej w każdym odcinku.
   genre:
   - '36'
-- eventId: 907845
+- eventId:
+  - 639657
+  - 907845
   start: 2026-10-26T19:10:00Z
   stop: 2026-10-26T19:15:00Z
   title: Sport
@@ -411,7 +430,9 @@
     PL, 2026
   genre:
   - '66'
-- eventId: 907846
+- eventId:
+  - 639658
+  - 907846
   start: 2026-10-26T19:15:00Z
   stop: 2026-10-26T19:25:00Z
   title: Pogoda
@@ -420,6 +441,18 @@
     PL, 2025
   genre:
   - '32'
+- eventId: 639659
+  start: 2026-10-26T19:25:00Z
+  stop: 2026-10-26T20:15:00Z
+  title: Wojenne dziewczyny 1 (odc. 11)
+  subtitle: Malina zabiera Marysię do getta na spotkanie z ojcem i siostrą. Marysia jest przerażona, widząc warunki, w jakich żyją jej bliscy. Do Warszawy przyjeżdża siostra Dietricha, Margarethe von Losein.
+  description: |-
+    Tytuł oryginalny: Wojenne dziewczyny
+    PL, 2016
+    Reżyseria: Michał Rogalski
+    Występują: Marta Mazurek, Vanessa Aleksander, Aleksandra Pisula, Michał Czernecki, Danuta Stenka, Detlef Bothe
+    odc. 11 Malina zabiera Marysię do getta, aby spotkała się z ojcem i siostrą. Na miejscu Marysia z przerażeniem obserwuje nieludzkie warunki, w jakich żyją. Kiedy wychodzą z getta, trafiają na szmalcowników. Marysi udaje się zbiec, dzięki pomocy Franka, który wpuszcza ją do swojego mieszkania, aby przeczekała obławę. Ewa idzie na spotkanie do fotografa, czyli skrzynki kontaktowej. Zastaje tam Witka, który wyznaje jej miłość. Dziewczyny stają na odprawie przed majorem Alfą.
+  ageRating: 12
 - eventId: 907847
   start: 2026-10-26T19:25:00Z
   stop: 2026-10-26T20:15:00Z
@@ -434,6 +467,18 @@
   genre:
   - '23'
   subtitle: Malina zabiera Marysię do getta na spotkanie z ojcem i siostrą. Marysia jest przerażona, widząc warunki, w jakich żyją jej bliscy. Do Warszawy przyjeżdża siostra Dietricha, Margarethe von Losein.
+- eventId: 639660
+  start: 2026-10-26T20:15:00Z
+  stop: 2026-10-26T21:55:00Z
+  title: Dom 1 (odc. 7)
+  subtitle: Przyjazd Łukasza z Kanady burzy spokój Andrzeja i Basi, ich małżeństwo przechodzi kryzys. Basia obwinia Andrzeja, że przyczynił się do aresztowania Łukasza. W końcu dochodzi do rozstania.
+  description: |-
+    Tytuł oryginalny: Dom
+    PL, 1980
+    Reżyseria: Jan Łomnicki
+    Występują: Tomasz Borkowy, Jolanta Żółkowska, Anna Ciepielewska, Wacław Kowalski, Stefania Iwińska, Bożena Dykiel
+    (N) Przyjazd Łukasza z Kanady burzy spokój Andrzeja i Basi, ich małżeństwo przechodzi kryzys. Inżyniera Talara nie cieszą sukcesy zawodowe, związane z produkcją nowego auta marki Syrena. Przybiera też na sile jego konflikt z ojcem i Leszkiem.
+  ageRating: 12
 - eventId: 907848
   start: 2026-10-26T20:15:00Z
   stop: 2026-10-26T21:55:00Z

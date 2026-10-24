@@ -42,16 +42,9 @@
   ageRating: 12
   genre:
   - '35'
-- eventId: 630670
-  start: 2026-10-24T01:00:00Z
-  stop: 2026-10-24T01:50:00Z
-  title: Po drugiej stronie
-  description: |-
-    serial dokumentalny (Polska, 2024), Warszawa - okupacja
-    Reżyser: Mirosław Basaj
-    Od lat: 12
-  ageRating: 12
-- eventId: 945731
+- eventId:
+  - 630670
+  - 945731
   start: 2026-10-24T01:00:00Z
   stop: 2026-10-24T01:50:00Z
   title: 'Po drugiej stronie: Warszawa - okupacja'
@@ -707,6 +700,13 @@
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
   genre:
   - '34'
+- eventId: 638242
+  start: 2026-10-24T12:00:00Z
+  stop: 2026-10-24T12:24:00Z
+  title: Serwis Info Dzień
+  description: |-
+    program informacyjny (na żywo)
+    Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
 - eventId: 879193
   start: 2026-10-24T12:00:00Z
   stop: 2026-10-24T12:24:00Z
@@ -716,6 +716,13 @@
     PL, 2026
   genre:
   - '34'
+- eventId: 638243
+  start: 2026-10-24T12:24:00Z
+  stop: 2026-10-24T12:30:00Z
+  title: Pogoda Info
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId: 879194
   start: 2026-10-24T12:24:00Z
   stop: 2026-10-24T12:30:00Z
@@ -725,6 +732,13 @@
     PL, 2026
   genre:
   - '32'
+- eventId: 638244
+  start: 2026-10-24T12:30:00Z
+  stop: 2026-10-24T13:00:00Z
+  title: Serwis Info Dzień
+  description: |-
+    program informacyjny (na żywo)
+    Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
 - eventId: 879195
   start: 2026-10-24T12:30:00Z
   stop: 2026-10-24T13:00:00Z
@@ -734,6 +748,13 @@
     PL, 2026
   genre:
   - '34'
+- eventId: 638245
+  start: 2026-10-24T13:00:00Z
+  stop: 2026-10-24T13:27:00Z
+  title: Serwis Info Dzień
+  description: |-
+    program informacyjny (na żywo)
+    Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
 - eventId: 879196
   start: 2026-10-24T13:00:00Z
   stop: 2026-10-24T13:27:00Z
@@ -743,6 +764,13 @@
     PL, 2026
   genre:
   - '34'
+- eventId: 638246
+  start: 2026-10-24T13:27:00Z
+  stop: 2026-10-24T13:30:00Z
+  title: Pogoda Info
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId: 879197
   start: 2026-10-24T13:27:00Z
   stop: 2026-10-24T13:30:00Z
@@ -752,6 +780,13 @@
     PL, 2026
   genre:
   - '32'
+- eventId: 638247
+  start: 2026-10-24T13:30:00Z
+  stop: 2026-10-24T14:00:00Z
+  title: Serwis Info Dzień
+  description: |-
+    program informacyjny (na żywo)
+    Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
 - eventId: 879198
   start: 2026-10-24T13:30:00Z
   stop: 2026-10-24T14:00:00Z
@@ -761,55 +796,74 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 879199
+- eventId:
+  - 638248
+  - 879199
   start: 2026-10-24T14:00:00Z
   stop: 2026-10-24T15:00:00Z
   title: Dzień w godzinę
   subtitle: 'Godzinne pasmo informacyjne będące podsumowaniem dnia na jego półmetku. W programie pojawiają się relacje na żywo reporterów w kraju i za granicą, którzy każdego dnia są najbliżej najważniejszych wydarzeń. '
-  description: |
-    Tytuł oryginalny: Dzień w godzinę
-    PL, 2026
+  description: |-
+    magazyn informacyjny (Polska, 2024) (na żywo)
+    Program skupia się na dynamicznym podsumowaniu kluczowych wydarzeń politycznych, społecznych i kulturalnych. Codziennie reporterzy na żywo relacjonują najważniejsze informacje z kraju i ze świata. Prowadzą Dominika Komarnicka i Marcin Kowalski.
   genre:
   - '34'
-- eventId: 879200
+- eventId:
+  - 638287
+  - 879200
   start: 2026-10-24T15:00:00Z
   stop: 2026-10-24T15:15:00Z
   title: Teleexpress
-  description: |
-    Tytuł oryginalny: Teleexpress
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Dynamicznie prowadzony serwis informacyjny prezentujący aktualne wydarzenia, wiadomości kulturalne oraz ciekawostki z kraju i ze świata.
   genre:
   - '32'
-- eventId: 879201
+- eventId:
+  - 638288
+  - 879201
   start: 2026-10-24T15:15:00Z
   stop: 2026-10-24T15:35:00Z
   title: Teleexpress Extra
   subtitle: Serwis informacyjny prezentujący bieżące wydarzenia, wiadomości kulturalne oraz ciekawostki z kraju i ze świata.
-  description: |
-    Tytuł oryginalny: Teleexpress Extra
-    PL, 2026
+  description: |-
+    magazyn informacyjny (Polska) (na żywo)
+    Prowadzący program prezentują najważniejsze tematy głównego wydania "Teleexpressu" w szerszym wymiarze.
   genre:
   - '34'
-- eventId: 879202
+- eventId:
+  - 638289
+  - 879202
   start: 2026-10-24T15:35:00Z
   stop: 2026-10-24T15:42:00Z
   title: Panorama
-  description: |
-    Tytuł oryginalny: Panorama
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Podsumowanie najważniejszych wydarzeń dnia z kraju i ze świata. W programie oprócz materiałów czysto newsowych, politycznych, społecznych, gospodarczych, medycznych, naukowych i kulturalnych znajdą się również analizy konkretnych zagadnień oraz wypowiedzi ekspertów.
   genre:
   - '32'
-- eventId: 879203
+- eventId:
+  - 638290
+  - 879203
   start: 2026-10-24T15:42:00Z
   stop: 2026-10-24T15:59:00Z
   title: Sprawdzamy
   subtitle: Program obnaża dezinformacje, kłamstwa polityków i pseudoekspertów, a także zawiera porady, jak nie dać się oszukać.
-  description: |
-    Tytuł oryginalny: Sprawdzamy
-    PL, 2026
+  description: |-
+    magazyn (Polska, 2024)
+    Prowadzą: Juliusz Głuski-Schimmer, Witold Tabaka
+    Magazyn publicystyczny skoncentrowany na rzetelnych faktach i profesjonalnej analizie informacji ma na celu ochronę demokracji, wolności słowa oraz stabilności społecznej. Audycja ta będzie istotnym narzędziem w walce z dezinformacją i fake newsami, co przyczyni się do wzmocnienia społeczeństwa obywatelskiego.
+    Od lat: 12
   ageRating: 12
   genre:
   - '34'
+- eventId: 638291
+  start: 2026-10-24T15:59:00Z
+  stop: 2026-10-24T16:00:00Z
+  title: Sprawdzam to extra
+  description: |-
+    program publicystyczny (Polska, 2026)
+    Program publicystyczny, którego autorzy koncentrują się na sprawdzaniu wiarygodności informacji. Prezentowane w nim wiadomości stanowią rozwinięcie treści publikowanych na portalu Sprawdzam.to, a głównym celem magazynu jest wspólna z mediami publicznymi walka z fake newsami.
 - eventId: 879204
   start: 2026-10-24T15:59:00Z
   stop: 2026-10-24T16:00:00Z
@@ -819,25 +873,36 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 879205
+- eventId:
+  - 638292
+  - 879205
   start: 2026-10-24T16:00:00Z
   stop: 2026-10-24T16:20:00Z
   title: Panorama
   subtitle: Główny serwis informacyjny TVP Info podsumowujący dzień, wzbogacony o więcej wiadomości ze świata oraz z dziedziny gospodarki i kultury.
-  description: |
-    Tytuł oryginalny: Panorama
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Podsumowanie najważniejszych wydarzeń dnia z kraju i ze świata. W programie oprócz materiałów czysto newsowych, politycznych, społecznych, gospodarczych, medycznych, naukowych i kulturalnych znajdą się również analizy konkretnych zagadnień oraz wypowiedzi ekspertów.
   genre:
   - '32'
-- eventId: 879206
+- eventId:
+  - 638293
+  - 879206
   start: 2026-10-24T16:20:00Z
   stop: 2026-10-24T16:30:00Z
   title: Teleplotki
-  description: |
-    Tytuł oryginalny: Teleplotki
-    PL, 2026
+  description: |-
+    magazyn informacyjny (Polska, 2026)
+    Realizatorzy programu śledzą najważniejsze wydarzenia kulturalne minionego tygodnia. Informują widzów o zagranicznych i krajowych premierach kinowych oraz telewizyjnych, a także o najciekawszych zdarzeniach z życia gwiazd. Humorystyczna formuła programu pozwala spojrzeć na świat show-biznesu z przymrużeniem oka.
   genre:
   - '34'
+- eventId: 638294
+  start: 2026-10-24T16:30:00Z
+  stop: 2026-10-24T17:00:00Z
+  title: Kiedyś to było...
+  description: |-
+    magazyn (Polska, 2024)
+    Publicystyczno-rozrywkowa audycja w formacie infotainment. Program poprowadzi dwójka dziennikarzy, mężczyzna z pokolenia w wieku średnim, z bogatym doświadczeniem radiowym i telewizyjnym oraz kobieta z pokolenia milenialsów.
 - eventId: 879207
   start: 2026-10-24T16:30:00Z
   stop: 2026-10-24T17:00:00Z
@@ -848,6 +913,13 @@
     PL, 2026
   genre:
   - '34'
+- eventId: 638295
+  start: 2026-10-24T17:00:00Z
+  stop: 2026-10-24T17:22:00Z
+  title: Serwis Info Wieczór
+  description: |-
+    program informacyjny (Polska) (na żywo)
+    Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
 - eventId: 879208
   start: 2026-10-24T17:00:00Z
   stop: 2026-10-24T17:22:00Z
@@ -858,6 +930,13 @@
     PL, 2026
   genre:
   - '34'
+- eventId: 638296
+  start: 2026-10-24T17:22:00Z
+  stop: 2026-10-24T17:30:00Z
+  title: Pogoda Info
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId: 879209
   start: 2026-10-24T17:22:00Z
   stop: 2026-10-24T17:30:00Z
@@ -867,6 +946,13 @@
     PL, 2026
   genre:
   - '32'
+- eventId: 638297
+  start: 2026-10-24T17:30:00Z
+  stop: 2026-10-24T17:58:00Z
+  title: Program informacyjny 19.30
+  description: |-
+    program informacyjny (na żywo)
+    Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.
 - eventId: 879210
   start: 2026-10-24T17:30:00Z
   stop: 2026-10-24T17:58:00Z
@@ -877,25 +963,37 @@
     PL, 2026
   genre:
   - '32'
-- eventId: 879211
+- eventId:
+  - 638298
+  - 879211
   start: 2026-10-24T17:58:00Z
   stop: 2026-10-24T18:15:00Z
   title: Pytanie dnia
   subtitle: Zaproszony do studia gość komentuje wydarzenia dnia. Emisja bezpośrednio po głównym wydaniu programu informacyjnego ma związek z charakterem problematyki poruszanej w każdym odcinku.
-  description: |
-    Tytuł oryginalny: Pytanie dnia
-    PL, 2026
+  description: |-
+    program publicystyczny (Polska, 2025) (na żywo)
+    Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.
   genre:
   - '51'
-- eventId: 879212
+- eventId:
+  - 638454
+  - 879212
   start: 2026-10-24T18:15:00Z
   stop: 2026-10-24T18:56:00Z
   title: Co ludzie powiedzą?
-  description: |
-    Tytuł oryginalny: Co ludzie powiedzą?
-    PL, 2026
+  description: |-
+    program publicystyczny (Polska, 2025) (na żywo)
+    Prowadzą: Wojciech Szeląg
+    Program stanowi przestrzeń do rozmów na istotne tematy społeczne, które zazwyczaj nie są podejmowane w dominującej debacie politycznej. Jego główną ideą jest angażowanie do dyskusji ekspertów niezwiązanych z polityką, co pozwala na prowadzenie rzeczowych i obiektywnych analiz, wolnych od partyjnych sporów.
   genre:
   - '51'
+- eventId: 638455
+  start: 2026-10-24T18:56:00Z
+  stop: 2026-10-24T19:00:00Z
+  title: Serwis Info Wieczór
+  description: |-
+    program informacyjny (Polska) (na żywo)
+    Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
 - eventId: 879213
   start: 2026-10-24T18:56:00Z
   stop: 2026-10-24T19:00:00Z
@@ -905,65 +1003,79 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 879214
+- eventId:
+  - 638456
+  - 879214
   start: 2026-10-24T19:00:00Z
   stop: 2026-10-24T19:45:00Z
   title: 100 pytań do...
   subtitle: W programie na pytania zgromadzonych w studiu dziennikarzy odpowiada znana osoba ze świata polityki, kultury, sportu, ekspert w danej dziedzinie.
-  description: |
-    Tytuł oryginalny: 100 pytań do...
-    PL, 2026
+  description: |-
+    wywiad (Polska)
+    Program publicystyczny, w którym gość - znana osobowość świata polityki, kultury, sportu lub ekspert w danej dziedzinie - mierzy się z pytaniami gospodarza oraz dziennikarzy, zajmujących się różnymi dziedzinami życia.
   genre:
   - '34'
-- eventId: 879215
+- eventId:
+  - 638457
+  - 879215
   start: 2026-10-24T19:45:00Z
   stop: 2026-10-24T20:10:00Z
   title: Panorama
   subtitle: Główny serwis informacyjny TVP Info podsumowujący dzień, wzbogacony o więcej wiadomości ze świata oraz z dziedziny gospodarki i kultury.
-  description: |
-    Tytuł oryginalny: Panorama
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Podsumowanie najważniejszych wydarzeń dnia z kraju i ze świata. W programie oprócz materiałów czysto newsowych, politycznych, społecznych, gospodarczych, medycznych, naukowych i kulturalnych znajdą się również analizy konkretnych zagadnień oraz wypowiedzi ekspertów.
   genre:
   - '32'
-- eventId: 879216
+- eventId:
+  - 638458
+  - 879216
   start: 2026-10-24T20:10:00Z
   stop: 2026-10-24T20:30:00Z
   title: Oko na Wschód
   subtitle: '"Oko na Wschód" to nowa edycja programu "Akcent wschodni", który ukazuje najważniejsze i najciekawsze wydarzenia m.in. w Ukrainie, Białorusi, Rosji i Gruzji. Prowadzą go dziennikarze Biełsatu.'
-  description: |
-    Tytuł oryginalny: Oko na Wschód
-    PL, 2026
+  description: |-
+    program publicystyczny (Polska) (na żywo)
+    Program poświęcony analizie i omówieniu wydarzeń z regionu wschodniego, skupiający się na ich wpływie na Polskę. Prowadzą go dziennikarze z BELSAT TV: Michał Kacewicz, Masza Makrarowa, Sergiej Pelesa i Igor Kulej. Do studia zapraszani są też eksperci, którzy pomagają analizować bieżące wyzwania i możliwości.
   genre:
   - '34'
-- eventId: 879217
+- eventId:
+  - 638459
+  - 879217
   start: 2026-10-24T20:30:00Z
   stop: 2026-10-24T21:00:00Z
   title: Rozmowy nocą
   subtitle: Program poświęcony sprawom społecznym. Widzowie mogą telefonować do studia i dzielić się swoimi opiniami i spostrzeżeniami.
-  description: |
-    Tytuł oryginalny: Rozmowy nocą
-    PL, 2026
+  description: |-
+    magazyn (Polska, 2025) (na żywo)
+    Program poświęcony sprawom społecznym. Widzowie mogą dzwonić do studia i dzielić się swoimi opiniami. Nie będą w nim poruszane zagadnienia polityczne.
   genre:
   - '34'
-- eventId: 879218
+- eventId:
+  - 638055
+  - 879218
   start: 2026-10-24T21:00:00Z
   stop: 2026-10-24T21:15:00Z
   title: Wydarzy się jutro
-  description: |
-    Tytuł oryginalny: Wydarzy się jutro
-    PL, 2026
+  description: |-
+    program publicystyczny (Polska, 2026) (na żywo)
+    Program prezentuje zapowiedzi najważniejszych wydarzeń nadchodzącego dnia. Zawiera również przegląd tytułów prasowych, które ukażą się w kolejnej dobie.
   genre:
   - '34'
-- eventId: 879219
+- eventId:
+  - 638056
+  - 879219
   start: 2026-10-24T21:15:00Z
   stop: 2026-10-24T21:30:00Z
   title: Rewers - ciekawostki dnia
-  description: |
-    Tytuł oryginalny: Rewers - ciekawostki dnia
-    PL, 2026
+  description: |-
+    program informacyjny (Polska, 2026) (na żywo)
+    Twórcy programu zbierają i prezentują nietypowe, zaskakujące i ciekawe wydarzenia oraz materiały z prasy polskiej i zagranicznej, pokazują też mniej oczywiste fakty z różnych stron świata.
   genre:
   - '34'
-- eventId: 879220
+- eventId:
+  - 638057
+  - 879220
   start: 2026-10-24T21:30:00Z
   stop: 2026-10-24T21:45:00Z
   title: Wydarzy się w pogodzie
@@ -972,26 +1084,37 @@
     PL, 2026
   genre:
   - '32'
-- eventId: 879221
+- eventId:
+  - 638058
+  - 879221
   start: 2026-10-24T21:45:00Z
   stop: 2026-10-24T22:03:00Z
   title: Panorama dnia
   subtitle: Główny serwis informacyjny TVP Info podsumowujący dzień, wzbogacony o więcej wiadomości ze świata oraz z dziedziny gospodarki i kultury.
-  description: |
-    Tytuł oryginalny: Panorama dnia
-    PL, 2026
+  description: |-
+    program informacyjny (Polska, 2025) (na żywo)
+    Program podsumowujący najważniejsze wiadomości z kraju i ze świata, jakie miały miejsce minionego dnia. Ponadto dziennikarze zapowiadają widzom przyszłe tematy audycji.
   genre:
   - '32'
-- eventId: 879222
+- eventId:
+  - 638059
+  - 879222
   start: 2026-10-24T22:03:00Z
   stop: 2026-10-24T23:10:00Z
   title: Salonowiec
   subtitle: Prowadzący gości osoby znane m.in. z mediów, które komentują bieżące wydarzenia.
-  description: |
-    Tytuł oryginalny: Salonowiec
-    PL, 2026
+  description: |-
+    program z udziałem mieczysława franaszka
+    Audycja propagująca wzorce kulturalnego zachowania w życiu codziennym. Podstawę stanowią fragmenty tekstu z przedwojennego poradnika savoire vivre'u, które czyta Mieczysław Franaszek.
   genre:
   - '34'
+- eventId: 638060
+  start: 2026-10-24T23:10:00Z
+  stop: 2026-10-24T23:38:00Z
+  title: Program informacyjny 19.30
+  description: |-
+    program informacyjny
+    Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.
 - eventId: 879223
   start: 2026-10-24T23:10:00Z
   stop: 2026-10-24T23:38:00Z
@@ -1002,6 +1125,13 @@
     PL, 2026
   genre:
   - '32'
+- eventId: 638061
+  start: 2026-10-24T23:38:00Z
+  stop: 2026-10-25T00:05:00Z
+  title: Pytanie dnia
+  description: |-
+    program publicystyczny (Polska, 2025)
+    Program to rozmowa i komentarz do aktualnych wydarzeń. Tematyka związana jest z problemami poruszanymi w głównym wydaniu programu informacyjnego o 19.30.
 - eventId: 879224
   start: 2026-10-24T23:38:00Z
   stop: 2026-10-25T01:05:00Z
