@@ -56,6 +56,15 @@
   subtitle: Schlacht um die Midwayinseln
   description: 'Der Überraschungsangriff der Japaner auf den US-Marinestützpunkt Pearl Harbor war ein voller Erfolg: Die Pazifikflotte der Vereinigten Staaten liegt in Trümmern. Admiral Chester Nimitz der US Navy wird beauftragt, das Blatt der Amerikaner wieder zu wenden, da die Japaner es auf die für den Nachschub wichtigen Midwayinseln abgesehen haben. Schließlich kommt es dort zum entscheidenden Showdown der beiden Streitkräfte.'
   widescreen: true
+- eventId: 667857
+  start: 2026-10-25T03:00:00Z
+  stop: 2026-10-25T03:45:00Z
+  title: Wendepunkte des zweiten Weltkrieges
+  subtitle: Wendepunkte des zweiten Weltkrieges - Schlacht um die Midwayinseln
+  description: 'Der Überraschungsangriff der Japaner auf den US-Marinestützpunkt Pearl Harbor war ein voller Erfolg: Die Pazifikflotte der Vereinigten Staaten liegt in Trümmern. Admiral Chester Nimitz der US Navy wird beauftragt, das Blatt der Amerikaner wieder zu wenden, da die Japaner es auf die für den Nachschub wichtigen Midwayinseln abgesehen haben. Schließlich kommt es dort zum entscheidenden Showdown der beiden Streitkräfte.'
+  genre:
+  - '129'
+  widescreen: true
 - eventId: 885506
   start: 2026-10-25T03:40:00Z
   stop: 2026-10-25T03:45:00Z
@@ -65,7 +74,9 @@
   genre:
   - '129'
   widescreen: true
-- eventId: 885507
+- eventId:
+  - 667858
+  - 885507
   start: 2026-10-25T03:45:00Z
   stop: 2026-10-25T05:00:00Z
   title: Hitler abgehört
@@ -74,7 +85,9 @@
   genre:
   - '129'
   widescreen: true
-- eventId: 913488
+- eventId:
+  - 667859
+  - 913488
   start: 2026-10-25T05:00:00Z
   stop: 2026-10-25T15:15:00Z
   title: Teleshopping
