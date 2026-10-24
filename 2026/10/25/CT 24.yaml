@@ -302,7 +302,7 @@
   - 878804
   - 881113
   start: 2026-10-25T06:00:00Z
-  stop: 2026-10-25T06:05:00Z
+  stop: 2026-10-25T06:06:00Z
   title: Zprávy
   description: |-
     HDTV
@@ -348,6 +348,18 @@
 - eventId: 677175
   start: 2026-10-25T06:06:00Z
   stop: 2026-10-25T06:32:15Z
+  title: Regiony ČT24
+  subtitle: Pořad, zaměřený na důležité a zajímavé dění ve všech regionech ČR. Pořad se věnuje tématům společným pro více regionů, kde existují různé způsoby řešení určitého problému, více názorů a úhlů pohledu
+  description: |-
+    na dané téma. Chybět nebudou vstupy, stejně tak práce iReportérů a regionální dění na sociálních sítích.
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+- eventId: 677852
+  start: 2026-10-25T06:06:00Z
+  stop: 2026-10-25T06:32:00Z
   title: Regiony ČT24
   subtitle: Pořad, zaměřený na důležité a zajímavé dění ve všech regionech ČR. Pořad se věnuje tématům společným pro více regionů, kde existují různé způsoby řešení určitého problému, více názorů a úhlů pohledu
   description: |-
@@ -409,7 +421,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 677176
+- eventId:
+  - 677176
+  - 677853
   start: 2026-10-25T06:32:15Z
   stop: 2026-10-25T07:00:00Z
   title: Týden v kultuře
@@ -460,7 +474,7 @@
   - 626703
   - 676993
   start: 2026-10-25T08:00:00Z
-  stop: 2026-10-25T08:58:42Z
+  stop: 2026-10-25T08:58:52Z
   title: Zkraje
   subtitle: První podzimní díl pořadu Zkraje se zaměří na investice do sportu. Hosté budou debatovat o plánech na stavbu nového fotbalového stadionu v Brně. Zástupce FC Zbrojovky Brno čeká jednání s novým vedením města. Zároveň
   description: |-
