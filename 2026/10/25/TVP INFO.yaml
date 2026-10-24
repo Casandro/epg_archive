@@ -73,14 +73,24 @@
   - 647890
   - 948921
   start: 2026-10-25T03:02:00Z
-  stop: 2026-10-25T03:30:00Z
-  title: Kiedyś to było
+  stop: 2026-10-25T03:25:00Z
+  title: Kiedyś to było...
   subtitle: Prowadzący wspominają, jak wyglądały Polska i świat oraz porównują, jak w danej dziedzinie wygląda to teraz. Do jednego lub dwóch tematów zostają zaproszeni goście z nim związani, którzy ocenią go z dzisiejszej perspektywy.
-  description: |
-    Tytuł oryginalny: Kiedyś to było
-    PL, 2026
+  description: |-
+    magazyn (Polska, 2024)
+    Publicystyczno-rozrywkowa audycja w formacie infotainment. Program poprowadzi dwójka dziennikarzy, mężczyzna z pokolenia w wieku średnim, z bogatym doświadczeniem radiowym i telewizyjnym oraz kobieta z pokolenia milenialsów.
   genre:
   - '34'
+- eventId: 674652
+  start: 2026-10-25T03:25:00Z
+  stop: 2026-10-25T03:30:00Z
+  title: Tajemnica grobu Kopernika
+  description: |-
+    film dokumentalny (Polska, 2009)
+    Dokument ukazuje historię poszukiwań oraz identyfikacji grobu Mikołaja Kopernika. To pięć lat badań prowadzonych pod kierownictwem prof. Jerzego Gąssowskiego przez zespół naukowców z Polski i Szwecji. Ekipa filmowa towarzyszy badaczom podczas wszystkich etapów poszukiwań oraz identyfikacji pochówku polskiego astronoma.
+    Reżyser: Michał Juszczakiewicz
+    Od lat: 7
+  ageRating: 7
 - eventId: 913965
   start: 2026-10-25T03:25:00Z
   stop: 2026-10-25T04:25:00Z
@@ -99,7 +109,7 @@
   - 647891
   - 948922
   start: 2026-10-25T03:30:00Z
-  stop: 2026-10-25T04:29:00Z
+  stop: 2026-10-25T04:23:00Z
   title: Powstania śląskie... Muzyczne historie
   subtitle: Autorzy rejestrują, jakie opowieści, historie, dokumenty i pamiątki zostały po powstańcach śląskich.
   description: |-
@@ -111,6 +121,14 @@
   ageRating: 12
   genre:
   - '35'
+- eventId: 674653
+  start: 2026-10-25T04:23:00Z
+  stop: 2026-10-25T04:44:00Z
+  title: Rok w ogrodzie
+  description: |-
+    magazyn
+    Prowadzą: Witold Czuksanow, Marek Jezierski
+    Program poradnikowy przeznaczony dla wszystkich miłośników uprawy roślin i ogrodnictwa.
 - eventId: 913966
   start: 2026-10-25T04:25:00Z
   stop: 2026-10-25T04:58:00Z
@@ -139,15 +157,27 @@
   ageRating: 7
   genre:
   - '35'
+- eventId: 674654
+  start: 2026-10-25T04:44:00Z
+  stop: 2026-10-25T04:54:00Z
+  title: Rok w ogrodzie extra
+  description: |-
+    magazyn
+    Twórcy odwiedzą najpiękniejsze ogrody widzów, aby rozwiązać ich problemy związane z pielęgnacją, glebą i szkodnikami.
+- eventId: 674655
+  start: 2026-10-25T04:54:00Z
+  stop: 2026-10-25T04:58:00Z
+  title: Zakończenie programu
+  description: .
 - eventId:
   - 647893
   - 913967
   start: 2026-10-25T04:58:00Z
   stop: 2026-10-25T05:00:00Z
   title: Info Poranek
-  description: |
-    Tytuł oryginalny: Info Poranek
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
   genre:
   - '34'
 - eventId:
@@ -155,10 +185,10 @@
   - 913968
   start: 2026-10-25T05:00:00Z
   stop: 2026-10-25T05:05:00Z
-  title: Serwis Info
-  description: |
-    Tytuł oryginalny: Serwis Info
-    PL, 2026
+  title: Serwis Info Poranek
+  description: |-
+    program informacyjny (na żywo)
+    Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
   genre:
   - '34'
 - eventId:
@@ -167,9 +197,9 @@
   start: 2026-10-25T05:05:00Z
   stop: 2026-10-25T05:13:00Z
   title: Info Poranek
-  description: |
-    Tytuł oryginalny: Info Poranek
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
   genre:
   - '34'
 - eventId:
@@ -178,9 +208,9 @@
   start: 2026-10-25T05:13:00Z
   stop: 2026-10-25T05:15:00Z
   title: Prognoza pogody
-  description: |
-    Tytuł oryginalny: Prognoza pogody
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
 - eventId:
@@ -189,9 +219,9 @@
   start: 2026-10-25T05:15:00Z
   stop: 2026-10-25T05:30:00Z
   title: Info Poranek
-  description: |
-    Tytuł oryginalny: Info Poranek
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
   genre:
   - '34'
 - eventId:
@@ -199,10 +229,10 @@
   - 913972
   start: 2026-10-25T05:30:00Z
   stop: 2026-10-25T05:35:00Z
-  title: Serwis Info
-  description: |
-    Tytuł oryginalny: Serwis Info
-    PL, 2026
+  title: Serwis Info Poranek
+  description: |-
+    program informacyjny (na żywo)
+    Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
   genre:
   - '34'
 - eventId:
@@ -211,9 +241,9 @@
   start: 2026-10-25T05:35:00Z
   stop: 2026-10-25T05:40:00Z
   title: Info Poranek
-  description: |
-    Tytuł oryginalny: Info Poranek
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
   genre:
   - '34'
 - eventId:
@@ -222,9 +252,9 @@
   start: 2026-10-25T05:40:00Z
   stop: 2026-10-25T05:42:00Z
   title: Prognoza pogody
-  description: |
-    Tytuł oryginalny: Prognoza pogody
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
 - eventId:
