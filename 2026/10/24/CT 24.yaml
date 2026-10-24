@@ -630,6 +630,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 669171
+  start: 2026-10-24T14:02:24Z
+  stop: 2026-10-24T15:00:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 603160
   - 626311
@@ -697,6 +708,7 @@
 - eventId:
   - 603200
   - 626397
+  - 669232
   - 850752
   - 859266
   start: 2026-10-24T15:55:00Z
@@ -753,7 +765,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 666106
+- eventId:
+  - 666106
+  - 669233
   start: 2026-10-24T16:28:00Z
   stop: 2026-10-24T16:55:00Z
   title: Interview ČT24
