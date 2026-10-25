@@ -1452,7 +1452,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 709674
+- eventId:
+  - 709674
+  - 709831
   start: 2026-10-25T20:05:43Z
   stop: 2026-10-25T21:00:00Z
   title: Newsroom ČT24
@@ -1525,6 +1527,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 709838
+  start: 2026-10-25T22:00:00Z
+  stop: 2026-10-25T22:06:50Z
+  title: Předpověď počasí
+  subtitle: Souhrn meteorologických informací.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '33'
+  widescreen: true
 - eventId:
   - 603835
   - 626956
@@ -1544,6 +1557,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 709839
+  start: 2026-10-25T22:06:50Z
+  stop: 2026-10-25T22:18:00Z
+  title: Zprávy ve 23
+  subtitle: Nejdůležitější události dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 603836
   - 626957
@@ -1561,6 +1585,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 709840
+  start: 2026-10-25T22:18:50Z
+  stop: 2026-10-25T23:00:00Z
+  title: Duel ČT24
+  subtitle: 'Pozvání do Duelu přijali: Michaela Šebelová  /STAN/ a Boris Šťastný /Motoristé/.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 603837
   - 626958
