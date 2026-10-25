@@ -3,8 +3,10 @@
   - 907692
   start: 2026-10-26T00:30:00Z
   stop: 2026-10-26T01:00:00Z
-  title: Program informacyjny
-  description: (N) Główne wydanie codziennego programu informacyjnego.
+  title: Program informacyjny 19.30
+  description: |-
+    program informacyjny
+    Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.
   genre:
   - '36'
   subtitle: Bieżące wydarzenia w kraju i na świecie. Informacje polityczne, gospodarcze, ważne tematy społeczne i poruszające opinię publiczną.
@@ -14,9 +16,9 @@
   start: 2026-10-26T01:00:00Z
   stop: 2026-10-26T01:04:00Z
   title: Sport
-  description: |
-    Tytuł oryginalny: Sport
-    PL, 2026
+  description: |-
+    magazyn
+    Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.
   genre:
   - '66'
 - eventId:
@@ -25,9 +27,9 @@
   start: 2026-10-26T01:04:00Z
   stop: 2026-10-26T01:10:00Z
   title: Pogoda
-  description: |
-    Tytuł oryginalny: Pogoda
-    PL, 2025
+  description: |-
+    program informacyjny
+    Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.
   genre:
   - '32'
 - eventId:
@@ -53,10 +55,11 @@
   stop: 2026-10-26T02:50:00Z
   title: Kabaretowa Noc pod Gwiazdami - Kogo tu nie było! cz. I
   description: |-
-    Tytuł oryginalny: Kabaretowa Noc pod Gwiazdami - Kogo tu nie było!
-    PL, 2026
-    Reżyseria: Marcin Kołaczkowski
-    Jubileuszowy, pięćdziesiąty Lidzbarski Wieczór Humoru i Satyry. Organizatorzy wydarzenia wracają do tradycji kultowych "Kabaretonów". W widowisku gościnnie wezmą udział znani aktorzy i wokaliści. Wystąpią m.in.: Artur Andrus, Marzena Rogalska, Andrzej Poniedzielski, kabaret Hrabi, Wojtek Kamiński, Czesław Mozil i Paweł Domagała.
+    widowisko (Polska, 2026) odc.1
+    Występują: Artur Andrus, Marzena Rogalska, Andrzej Poniedzielski, kabaret Hrabi, Czesław Mozil, Michał Zabłocki, Szymon Majewski, Adam Nowak, Katarzyna Pakosińska, Wojciech Kamiński
+    Prowadzą: Marzena Rogalska, Artur Andrus
+    W trakcie wyjątkowego wydarzenia obok legendarnych satyryków wystąpili gościnnie giganci polskiej estrady - aktorzy i wokaliści. Wśród nich byli m.in. Czesław Mozil, Michał Zabłocki, Szymon Majewski, Adam Nowak, Katarzyna Pakosińska i Paweł Domagała.
+    Od lat: 12
   ageRating: 12
   genre:
   - '50'
@@ -68,10 +71,11 @@
   stop: 2026-10-26T03:45:00Z
   title: Kabaretowa Noc pod Gwiazdami - Kogo tu nie było! cz. II
   description: |-
-    Tytuł oryginalny: Kabaretowa Noc pod Gwiazdami - Kogo tu nie było!
-    PL, 2026
-    Reżyseria: Marcin Kołaczkowski
-    Jubileusz 50-lecia powstania Lidzbarskich Wieczorów Humoru i Satyry ma szansę stać się wydarzeniem wyjątkowym. To powrót do tradycji stylowych, kultowych Kabaretonów, które w wakacyjne wieczory gromadziły przed telewizorami miliony widzów, powrót absolutnych mistrzów kabaretu, którzy od kilkunastu lat nigdy nie spotkali się razem na jednej scenie.
+    widowisko (Polska, 2026) odc.2
+    Występują: Artur Andrus, Marzena Rogalska, Andrzej Poniedzielski, kabaret Hrabi, Czesław Mozil, Michał Zabłocki, Szymon Majewski, Adam Nowak, Katarzyna Pakosińska, Wojciech Kamiński
+    Prowadzą: Artur Andrus, Andrzej Poniedzielski
+    Jubileusz 50-lecia powstania Lidzbarskich Wieczorów Humoru i Satyry. Na scenie pojawią się m.in.: Marzena Rogalska, Andrzej Poniedzielski, Kabaret hrAbi, Wojtek Kamiński, Czesław Mozil, Michał Zabłocki, Szymon Majewski i Katarzyna Pakosińska. Wydarzenie poprowadzą Marzena Rogalska, Artur Andrus i Andrzej Poniedzielski.
+    Od lat: 12
   ageRating: 12
   genre:
   - '50'
@@ -96,22 +100,27 @@
   - 608405
   - 907699
   start: 2026-10-26T04:30:00Z
-  stop: 2026-10-26T05:00:00Z
-  title: Moje Przeboje
+  stop: 2026-10-26T04:55:00Z
+  title: 'Moje przeboje: odc.5'
   description: '"Moje przeboje" to swoista muzyczna podróż w czasie, umożliwiająca powrót do wyjątkowych wydarzeń na rodzimej scenie rozrywkowej, czyli przełomowych momentów, w których rodziły się wielkie gwiazdy i powstawały nieśmiertelne przeboje.'
   ageRating: 7
   subtitle: '"Moje przeboje" to swoista muzyczna podróż w czasie, umożliwiająca powrót do wyjątkowych wydarzeń na rodzimej scenie rozrywkowej, czyli przełomowych momentów, w których rodziły się wielkie gwiazdy i powstawały nieśmierteln'
   genre:
   - '96'
+- eventId: 703830
+  start: 2026-10-26T04:55:00Z
+  stop: 2026-10-26T05:00:00Z
+  title: Zakończenie programu
+  description: .
 - eventId:
   - 608406
   - 907700
   start: 2026-10-26T05:00:00Z
   stop: 2026-10-26T05:30:00Z
   title: Panorama
-  description: |
-    Tytuł oryginalny: Panorama
-    PL, 2026
+  description: |-
+    program informacyjny
+    Podsumowanie najważniejszych wydarzeń dnia z kraju i ze świata. W programie oprócz materiałów czysto newsowych, politycznych, społecznych, gospodarczych, medycznych, naukowych i kulturalnych znajdą się również analizy konkretnych zagadnień oraz wypowiedzi ekspertów.
   genre:
   - '149'
   subtitle: Główny program informacyjny telewizyjnej Dwójki, podsumowujący najważniejsze wydarzenia minionego dnia w kraju i na świecie.
@@ -121,7 +130,10 @@
   start: 2026-10-26T05:30:00Z
   stop: 2026-10-26T06:00:00Z
   title: Czyńcie sobie ziemię poddaną
-  description: Świat przyrody to dla nich dzieło Boga i zobowiązanie do jego zachowania i właściwego użytkowania. Jak być zaangażowanym społecznie chrześcijaninem i właściwie odnosić się do darów i zasobów naszej planety?
+  description: |-
+    reportaż (Polska, 2026)
+    Dla metodyzmu świat przyrody jest darem Boga, a człowiek ma obowiązek troszczyć się o niego odpowiedzialnie i z umiarem. Zaangażowanie społeczne chrześcijanina wyraża się tu w codziennych wyborach: ograniczaniu marnotrawstwa, szacunku dla zasobów i solidarności z tymi, którzy najbardziej odczuwają skutki degradacji.
+    Reżyser: Dorota Petrus
   genre:
   - '115'
   subtitle: Świat przyrody to dla nich dzieło Boga i zobowiązanie do jego zachowania i właściwego użytkowania. Jak być zaangażowanym społecznie chrześcijaninem i właściwie odnosić się do darów i zasobów naszej planety?
@@ -131,7 +143,10 @@
   start: 2026-10-26T06:00:00Z
   stop: 2026-10-26T06:30:00Z
   title: Gwiazdorska kuchnia Ani 4 (odc. 9)
-  description: '"Gwiazdorska kuchnia Ani" to program telewizyjny prowadzony przez Annę Strażyńską i doskonała okazja, aby zanurzyć się w świat kulinarnych inspiracji, a także poznać tajniki wyjątkowej kuchni.'
+  description: |-
+    magazyn kulinarny (Polska, 2026) odc.45
+    Prowadzą: Anna Strażyńska
+    Anna Strażyńska odwiedza gwiazdy i przyjaciół, którzy potrzebują jej kulinarnego wsparcia. W każdym odcinku staje przed nowym wyzwaniem - przygotowuje elegancką kolację lub ratuje przyjęcie w ostatniej chwili. Z zaangażowaniem i doświadczeniem pomaga gospodarzom uporządkować pracę w kuchni i wydobyć pełnię smaków.
   genre:
   - '165'
   subtitle: Program prowadzony przez Annę Strażyńską daje okazję do zanurzenia się w świat kulinarnych inspiracji.
@@ -141,7 +156,10 @@
   start: 2026-10-26T06:30:00Z
   stop: 2026-10-26T06:55:00Z
   title: Pytanie na śniadanie - pobudka
-  description: Program służy pogłębianiu znajomości i upowszechnianiu kultury w zakresie muzyki, literatury, teatru i tańca. Jest źródłem wiedzy na temat wydarzeń także natury ekonomicznej i społecznej.
+  description: |-
+    magazyn (Polska, 2026) (na żywo)
+    Poranny program telewizyjnej Dwójki, w którym eksperci odpowiadają na ważne pytania, analizują codzienne sprawy i dzielą się praktycznymi poradami.
+    Od lat: 12
   ageRating: 12
   genre:
   - '149'
@@ -152,7 +170,10 @@
   start: 2026-10-26T06:55:00Z
   stop: 2026-10-26T10:35:00Z
   title: Pytanie na śniadanie
-  description: Program służy pogłębianiu znajomości i upowszechnianiu kultury w zakresie muzyki, literatury, teatru i tańca. Jest źródłem wiedzy na temat wydarzeń także natury ekonomicznej i społecznej.
+  description: |-
+    magazyn (Polska, 2026) (na żywo)
+    Każdy program poświęcony jest innej kwestii. Na pytania związane z konkretnym tematem odpowiadają zaproszeni do studia specjaliści, eksperci z różnych dziedzin, polskie i zagraniczne gwiazdy.
+    Od lat: 12
   ageRating: 12
   genre:
   - '149'
@@ -195,7 +216,7 @@
   - 997457
   start: 2026-10-26T10:35:00Z
   stop: 2026-10-26T11:00:00Z
-  title: Zaginione? Ocalone? Historie zawodów różnych - Wikliniarz
+  title: 'Zaginione? Ocalone? Historie zawodów różnych: Wikliniarz: odc.4'
   description: |-
     Tytuł oryginalny: Zaginione? Ocalone? Historie zawodów różnych
     PL, 2022
@@ -211,9 +232,9 @@
   start: 2026-10-26T11:00:00Z
   stop: 2026-10-26T11:10:00Z
   title: Serwis Info
-  description: |
-    Tytuł oryginalny: Serwis Info
-    PL, 2026
+  description: |-
+    program informacyjny (Polska) (na żywo)
+    Wiodący magazyn informacyjny TVP Info. Dziennikarze zdają w nim relacje z wydarzeń, które miały miejsce podczas minionego dnia w poszczególnych regionach Polski. Przedstawiają również informacje dotyczące najważniejszych zdarzeń z całego świata. Uzupełnieniem tych wiadomości są reporterskie relacje.
   genre:
   - '149'
 - eventId:
@@ -223,11 +244,11 @@
   stop: 2026-10-26T12:00:00Z
   title: Blondynka s.VII - odc. 83 (seria VII, odc. 5) - Starzy przyjaciele
   description: |-
-    Tytuł oryginalny: Blondynka
-    PL, 2018
-    Reżyseria: Mirosław Gronowski
-    Występują: Natalia Rybicka, Grzegorz Małecki, Izabela Dąbrowska, Krzysztof Gosztyła, Andrzej Grabowski, Olga Sumskaya
-    Sylwia musi zająć się Dżekiem, pieskiem Kozyrów. Okazuje się, że po skaleczeniu w lesie jego łapa nie chce się goić, wdała się martwica. Sylwia robi wszystko, żeby uratować kończynę. Doktor czuje się coraz gorzej. Dawid jest świadkiem jego zasłabnięcia. Kolejny dzień w Majakach rozpoczyna wiec wyborczy Traczyka, na który prawie nikt nie przychodzi.
+    serial obyczajowy (Polska, 2018) odc.83, Starzy przyjaciele
+    Występują: Natalia Rybicka, Grzegorz Małecki, Katarzyna Ankudowicz, Izabela Dąbrowska, Andrzej Grabowski, Tomasz Borkowski, Witold Dębicki, Anna Smołowik, Olaf Lubaszenko, Sławomir Zapała
+    Dawid i ksiądz Błażejczyk namawiają Sylwię do spotkania z Karolem. Dziewczyna ulega presji otoczenia. Jasiunia wypytuje męża o jego ostatnie podróże do Białegostoku. Sylwia bada rannego psa Kozyrów. Fus przyznaje się Dawidowi, że jest śmiertelnie chory. Muzyk w tajemnicy przed doktorem postanawia reaktywować zespół.
+    Reżyser: Mirosław Gronowski
+    Od lat: 12
   ageRating: 12
   genre:
   - '23'
