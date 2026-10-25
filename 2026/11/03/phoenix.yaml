@@ -44,21 +44,30 @@
     ca. 14:00 Uhr:
 
     u.a. Aktuelles
-- eventId: 700527
+- eventId:
+  - 700527
+  - 700672
   start: 2026-11-03T02:45:00Z
   stop: 2026-11-03T03:30:00Z
   title: ZDF-History
   subtitle: Heldinnen der Leinwand - Die großen Filmstars
-- eventId: 700528
+  widescreen: true
+  hd: true
+- eventId:
+  - 700528
+  - 700673
   start: 2026-11-03T03:30:00Z
-  stop: 2026-11-03T04:30:00Z
+  stop: 2026-11-03T04:15:00Z
   title: 'Terra X-History: Romy und Magda Schneider'
   subtitle: Mutter, Tochter, Rivalinnen?
+  widescreen: true
+  hd: true
 - eventId:
   - 1546791
   - 577288
   - 592448
   - 616789
+  - 700614
   - 761684
   start: 2026-11-03T04:15:00Z
   stop: 2026-11-03T04:30:00Z
@@ -239,7 +248,7 @@
   - 761952
   start: 2026-11-03T17:00:00Z
   stop: 2026-11-03T17:30:00Z
-  title: Dokumentation
+  title: Aktuelle Reportage
   widescreen: true
   hd: true
 - eventId:
