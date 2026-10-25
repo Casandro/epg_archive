@@ -13,13 +13,16 @@
   - '96'
 - eventId: 674651
   start: 2026-10-25T02:00:00Z
-  stop: 2026-10-25T06:00:00Z
+  stop: 2026-10-25T05:00:00Z
   title: Best Polish
   description: |-
     program muzyczny
     Zestawienie największych polskich przebojów. Zaprezentowane zostaną zarówno hity sprzed lat, jak te i współczesne.
     Od lat: 12
   ageRating: 12
+  subtitle: Program prezentuje zestawienie najlepszych przebojów w wykonaniu artystów i zespołów polskiej sceny muzycznej.
+  genre:
+  - '96'
 - eventId: 913950
   start: 2026-10-25T02:00:00Z
   stop: 2026-10-25T05:00:00Z
@@ -81,7 +84,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 913954
+- eventId:
+  - 687757
+  - 913954
   start: 2026-10-25T10:00:00Z
   stop: 2026-10-25T13:00:00Z
   title: Dzień polskiej muzyki
@@ -91,7 +96,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 913955
+- eventId:
+  - 687758
+  - 913955
   start: 2026-10-25T13:00:00Z
   stop: 2026-10-25T16:00:00Z
   title: Dzień polskiej muzyki
@@ -101,7 +108,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 913956
+- eventId:
+  - 687759
+  - 913956
   start: 2026-10-25T16:00:00Z
   stop: 2026-10-25T19:00:00Z
   title: Dzień polskiej muzyki
@@ -111,7 +120,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 913957
+- eventId:
+  - 687760
+  - 913957
   start: 2026-10-25T19:00:00Z
   stop: 2026-10-25T22:00:00Z
   title: Dzień polskiej muzyki
@@ -121,7 +132,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 913958
+- eventId:
+  - 687761
+  - 913958
   start: 2026-10-25T22:00:00Z
   stop: 2026-10-25T23:00:00Z
   title: Dzień polskiej muzyki
@@ -131,7 +144,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 913959
+- eventId:
+  - 687762
+  - 913959
   start: 2026-10-25T23:00:00Z
   stop: 2026-10-26T02:00:00Z
   title: Best hits
