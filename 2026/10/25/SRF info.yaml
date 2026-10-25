@@ -263,7 +263,7 @@
   - 1013312
   - 609425
   start: 2026-10-25T04:25:00Z
-  stop: 2026-10-25T04:35:00Z
+  stop: 2026-10-25T04:30:00Z
   title: Sportheute
   subtitle: Der Sport des Tages
   description: |-
@@ -272,6 +272,17 @@
   genre:
   - '64'
   widescreen: true
+  hd: true
+- eventId: 692416
+  start: 2026-10-25T04:30:00Z
+  stop: 2026-10-25T05:40:00Z
+  title: Arena
+  subtitle: «Abstimmungs-Arena» zur Feuerwerksinitiative
+  description: |-
+    Die Initiative will den Verkauf und die Verwendung von Feuerwerk einschränken - und damit Tiere, Menschen und die Natur schützen. Für die Gegenseite geht die Initiative zu weit: Sie sieht Schweizer Traditionen gefährdet. Am 29. November entscheidet die Stimmbevölkerung.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 887642
   start: 2026-10-25T04:30:00Z
@@ -313,6 +324,19 @@
   subtitled: true
   hd: true
   subtitle: «Abstimmungs-Arena» zur Feuerwerksinitiative
+- eventId: 692417
+  start: 2026-10-25T05:40:00Z
+  stop: 2026-10-25T06:20:00Z
+  title: Super League - Highlights
+  subtitle: Alle Spiele, alle Tore
+  description: |-
+    Das Magazin bietet den Komplettservice zur höchsten Schweizer Fussballliga mit den Matchberichten zur aktuellen Runde. Dazu: ausgewählte Highlights aus der Women's Super League, der Challenge League und von Schweizer Akteuren in ausländischen Ligen.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 1013314
   - 609427
@@ -439,6 +463,17 @@
     Schweiz 2026
   genre:
   - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 692419
+  start: 2026-10-25T07:32:00Z
+  stop: 2026-10-25T07:35:00Z
+  title: mitenand in Gebärdensprache
+  subtitle: Integration durch Fussball und kulturellen Austausch
+  description: |-
+    Einmal pro Woche nehmen Ali, Mahdi und ihre Freunde am Fussballtraining von «Unter derselben Sonne» teil, einem Projekt von SOS Ticino. Dieses und weitere Projekte sollen die Beziehungen zwischen Migrant:innen und Bewohner:innen in der Region fördern. Ein Bericht von Resy Canonica.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -645,7 +680,7 @@
   - 1013342
   - 609488
   start: 2026-10-25T11:05:00Z
-  stop: 2026-10-25T11:55:00Z
+  stop: 2026-10-25T11:50:00Z
   title: Rundschau
   subtitle: Ukrainer im Dilemma - Kämpfen oder fliehen?
   description: |-
@@ -665,6 +700,17 @@
   description: |-
     Der Krieg in der Ukraine stellt viele Männer vor eine schwierige Frage: Soll ich kämpfen oder das Land verlassen? Und: Das Geschäft mit illegalen Sportwetten. Weiter: Die USA vor den Zwischenwahlen. Zudem: Wie in Rom die Einheimischen unter dem Food-Tourismus leiden.
     Schweiz 2026
+- eventId: 692420
+  start: 2026-10-25T11:50:00Z
+  stop: 2026-10-25T12:30:00Z
+  title: Puls
+  subtitle: 'Organspende: Hoffnung zwischen Leben und Tod'
+  description: |-
+    Was passiert, wenn ein fremdes Organ über Leben und Tod entscheidet? «Puls» begleitet einen Leberpatienten auf dem langen Weg zur Transplantation, erzählt die Geschichte einer Familie nach einem tödlichen Unfall - und zeigt, was sich bei der Organspende in der Schweiz verändert.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 1013343
   - 609489
@@ -693,7 +739,7 @@
   - 1013352
   - 609518
   start: 2026-10-25T12:30:00Z
-  stop: 2026-10-25T13:05:00Z
+  stop: 2026-10-25T13:00:00Z
   title: Kassensturz
   subtitle: Hochverarbeitete Lebensmittel und die gesundheitlichen Folgen
   description: |-
@@ -713,6 +759,17 @@
   description: |-
     Bis zu 80 Prozent der Lebensmittel sind industriell hergestellt und enthalten Zusatzstoffe. «Kassensturz» fragt: Wie gesundheitsschädlich sind sie? Macht die Industrie Geld auf Kosten unserer Gesundheit? Weitere Themen: Lohnt sich teurer Orangensaft aus dem Kühlregal?
     Schweiz 2026
+- eventId: 692421
+  start: 2026-10-25T13:00:00Z
+  stop: 2026-10-25T13:40:00Z
+  title: Eco Talk
+  subtitle: 'Schweizer Immobilien: Wer darf noch kaufen?'
+  description: |-
+    Boden ist ein knappes Gut. Vor allem in der Schweiz. Doch wem sollen das Land und die Immobilien eigentlich gehören dürfen? Nur hier Ansässigen oder auch Personen mit Wohnsitz im Ausland? Das Regelwerk, die sogenannte Lex Koller, soll nun verschärft werden. Die Debatte dazu im nächsten «Eco Talk».
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 1013353
   - 609519
@@ -862,7 +919,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 897695
+- eventId:
+  - 692422
+  - 897695
   start: 2026-10-25T16:15:00Z
   stop: 2026-10-25T16:45:00Z
   title: NZZ Format
