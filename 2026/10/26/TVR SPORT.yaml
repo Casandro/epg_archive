@@ -26,6 +26,7 @@
   - 679069
   - 683500
   - 687172
+  - 688620
   start: 2026-10-26T00:25:00Z
   stop: 2026-10-26T02:15:00Z
   title: Pastel
@@ -107,6 +108,7 @@
   - 679070
   - 683501
   - 687173
+  - 688621
   start: 2026-10-26T02:15:00Z
   stop: 2026-10-26T02:45:00Z
   title: Voice of America
@@ -165,6 +167,7 @@
   - 679071
   - 683502
   - 687174
+  - 688622
   start: 2026-10-26T02:45:00Z
   stop: 2026-10-26T03:25:00Z
   title: Çikat n'Trip
@@ -223,6 +226,7 @@
   - 679072
   - 683503
   - 687175
+  - 688623
   start: 2026-10-26T03:25:00Z
   stop: 2026-10-26T05:30:00Z
   title: Muzike Top 10
@@ -330,6 +334,7 @@
   - 679073
   - 683504
   - 687176
+  - 688624
   start: 2026-10-26T05:30:00Z
   stop: 2026-10-26T06:00:00Z
   title: Reportazhe
@@ -367,6 +372,14 @@
   - 687177
   start: 2026-10-26T06:00:00Z
   stop: 2026-10-26T08:05:00Z
+  title: Pastel
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 688625
+  start: 2026-10-26T06:00:00Z
+  stop: 2026-10-26T08:00:00Z
   title: Pastel
   subtitle: ' '
   ageRating: 4
@@ -520,6 +533,7 @@
   - 679075
   - 683506
   - 687178
+  - 688626
   start: 2026-10-26T08:05:00Z
   stop: 2026-10-26T10:00:00Z
   title: Programi i mëngjesit
@@ -633,7 +647,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 685809
+- eventId:
+  - 685809
+  - 688627
   start: 2026-10-26T10:00:00Z
   stop: 2026-10-26T11:10:00Z
   title: Daily Click
@@ -741,6 +757,7 @@
   - 679077
   - 685810
   - 687180
+  - 688628
   start: 2026-10-26T11:15:00Z
   stop: 2026-10-26T11:35:00Z
   title: Muzikë argëtuese
@@ -782,7 +799,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 685811
+- eventId:
+  - 685811
+  - 688629
   start: 2026-10-26T11:35:00Z
   stop: 2026-10-26T12:10:00Z
   title: Farewell Letter
@@ -866,6 +885,7 @@
   - 679079
   - 685812
   - 687182
+  - 688630
   start: 2026-10-26T12:15:00Z
   stop: 2026-10-26T13:25:00Z
   title: Reportazhe
@@ -930,6 +950,7 @@
   - 679080
   - 685813
   - 687183
+  - 688631
   start: 2026-10-26T13:25:00Z
   stop: 2026-10-26T13:55:00Z
   title: Muzikë argëtuese
@@ -994,6 +1015,7 @@
   - 679081
   - 685814
   - 687184
+  - 688632
   start: 2026-10-26T13:55:00Z
   stop: 2026-10-26T14:00:00Z
   title: Promo
@@ -1029,7 +1051,7 @@
   - 1028409
   - 586790
   start: 2026-10-26T14:00:00Z
-  stop: 2026-10-26T14:10:00Z
+  stop: 2026-10-26T14:20:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -1087,6 +1109,7 @@
   - 679082
   - 685815
   - 687185
+  - 688633
   start: 2026-10-26T14:20:00Z
   stop: 2026-10-26T15:00:00Z
   title: Promo
@@ -1122,6 +1145,7 @@
   - 679083
   - 685816
   - 687186
+  - 688634
   start: 2026-10-26T15:00:00Z
   stop: 2026-10-26T16:00:00Z
   title: Preferenca Muzikore
@@ -1182,7 +1206,7 @@
   - 586794
   - 648661
   start: 2026-10-26T16:00:00Z
-  stop: 2026-10-26T18:30:00Z
+  stop: 2026-10-26T16:55:00Z
   title: Volei masculin
   subtitle: '  * ET1 CS U CLUJ-CS UNIREA DEJComentator: Vlad BucurescuTransmisiune directa '
   ageRating: 4
@@ -1216,6 +1240,7 @@
   - 679084
   - 685817
   - 687187
+  - 688635
   start: 2026-10-26T16:55:00Z
   stop: 2026-10-26T17:00:00Z
   title: Promo
@@ -1251,6 +1276,7 @@
   - 679085
   - 685818
   - 687188
+  - 688636
   start: 2026-10-26T17:00:00Z
   stop: 2026-10-26T17:30:00Z
   title: Reportazhe
@@ -1286,6 +1312,7 @@
   - 679086
   - 685819
   - 687189
+  - 688637
   start: 2026-10-26T17:30:00Z
   stop: 2026-10-26T18:00:00Z
   title: Live news AL
@@ -1321,6 +1348,7 @@
   - 679087
   - 685820
   - 687190
+  - 688638
   start: 2026-10-26T18:00:00Z
   stop: 2026-10-26T18:10:00Z
   title: Promo
@@ -1356,6 +1384,7 @@
   - 679088
   - 685821
   - 687191
+  - 688639
   start: 2026-10-26T18:10:00Z
   stop: 2026-10-26T18:20:00Z
   title: 10 minuta
@@ -1391,6 +1420,7 @@
   - 679089
   - 685822
   - 687192
+  - 688640
   start: 2026-10-26T18:20:00Z
   stop: 2026-10-26T18:30:00Z
   title: Promo
@@ -1412,7 +1442,7 @@
   - 1028415
   - 586796
   start: 2026-10-26T19:00:00Z
-  stop: 2026-10-26T19:10:00Z
+  stop: 2026-10-26T20:30:00Z
   title: Film artistik
   subtitle: '  '
   ageRating: 4
@@ -1492,6 +1522,7 @@
   - 679090
   - 685823
   - 687193
+  - 688641
   start: 2026-10-26T20:30:00Z
   stop: 2026-10-26T21:55:00Z
   title: Click Plus
@@ -1527,6 +1558,7 @@
   - 679091
   - 685824
   - 687194
+  - 688642
   start: 2026-10-26T21:55:00Z
   stop: 2026-10-26T22:00:00Z
   title: Promo
@@ -1562,6 +1594,7 @@
   - 679092
   - 685825
   - 687195
+  - 688643
   start: 2026-10-26T22:00:00Z
   stop: 2026-10-26T22:20:00Z
   title: Live News MK
@@ -1599,6 +1632,14 @@
   - 687196
   start: 2026-10-26T22:20:00Z
   stop: 2026-10-26T23:05:00Z
+  title: Reportazhe
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 688644
+  start: 2026-10-26T22:20:00Z
+  stop: 2026-10-26T23:00:00Z
   title: Reportazhe
   subtitle: ' '
   ageRating: 4
@@ -1655,6 +1696,7 @@
   - 679094
   - 685827
   - 687197
+  - 688645
   start: 2026-10-26T23:05:00Z
   stop: 2026-10-27T00:25:00Z
   title: Click Plus
