@@ -1403,7 +1403,7 @@
   hd: true
 - eventId: 706153
   start: 2026-10-25T19:35:27Z
-  stop: 2026-10-25T20:00:00Z
+  stop: 2026-10-25T20:03:27Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
   description: |-
@@ -1430,6 +1430,17 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 706233
+  start: 2026-10-25T20:03:27Z
+  stop: 2026-10-25T20:14:22Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 603772
   - 626866
@@ -1447,6 +1458,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 706234
+  start: 2026-10-25T20:14:22Z
+  stop: 2026-10-25T21:00:00Z
+  title: Newsroom ČT24
+  subtitle: Týdeník o nejdůležitějších událostech českých i zahraničních médií. Názory přímých aktérů událostí a mediálních odborníků, analýzy nových trendů i pohledy do zákulisí médií.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 603833
   - 626954
@@ -1485,6 +1507,7 @@
   - 603835
   - 626956
   - 706229
+  - 706244
   - 878837
   - 881687
   start: 2026-10-25T22:05:00Z
