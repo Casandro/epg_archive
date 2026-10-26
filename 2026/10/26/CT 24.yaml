@@ -351,7 +351,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 728389
+- eventId:
+  - 728389
+  - 728769
   start: 2026-10-26T11:33:10Z
   stop: 2026-10-26T12:00:00Z
   title: Studio ČT24
@@ -389,7 +391,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 728390
+- eventId:
+  - 728390
+  - 728770
   start: 2026-10-26T12:00:00Z
   stop: 2026-10-26T12:03:10Z
   title: Zprávy
@@ -416,7 +420,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 728391
+- eventId:
+  - 728391
+  - 728771
   start: 2026-10-26T12:03:10Z
   stop: 2026-10-26T12:30:00Z
   title: Studio ČT24
@@ -443,6 +449,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 728772
+  start: 2026-10-26T12:30:00Z
+  stop: 2026-10-26T12:35:05Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 604062
   - 627146
@@ -460,7 +476,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 728681
+- eventId:
+  - 728681
+  - 728773
   start: 2026-10-26T12:35:05Z
   stop: 2026-10-26T13:01:05Z
   title: Studio ČT24
@@ -487,7 +505,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 728683
+- eventId:
+  - 728683
+  - 728774
   start: 2026-10-26T13:01:05Z
   stop: 2026-10-26T13:07:05Z
   title: Zprávy
@@ -514,7 +534,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 728684
+- eventId:
+  - 728684
+  - 728775
   start: 2026-10-26T13:07:05Z
   stop: 2026-10-26T13:30:00Z
   title: Studio ČT24
@@ -528,6 +550,7 @@
 - eventId:
   - 604065
   - 627149
+  - 728767
   - 905679
   - 915511
   start: 2026-10-26T13:30:00Z
@@ -544,6 +567,7 @@
 - eventId:
   - 604066
   - 627150
+  - 728768
   - 905680
   - 915512
   start: 2026-10-26T13:33:00Z
