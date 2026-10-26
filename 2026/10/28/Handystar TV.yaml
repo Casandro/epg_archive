@@ -97,7 +97,7 @@
   widescreen: true
 - eventId: 720874
   start: 2026-10-28T00:34:00Z
-  stop: 2026-10-28T00:43:00Z
+  stop: 2026-10-28T00:48:00Z
   title: Xiaomi Redmi 17 5G
   subtitle: Werbung
   description: |-
@@ -178,7 +178,7 @@
   widescreen: true
 - eventId: 697934
   start: 2026-10-28T01:06:00Z
-  stop: 2026-10-28T01:19:00Z
+  stop: 2026-10-28T01:23:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB + REDMI Pad 2
   subtitle: Werbung
   description: |-
@@ -636,7 +636,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 697958
+- eventId:
+  - 697958
+  - 721211
   start: 2026-10-28T04:10:00Z
   stop: 2026-10-28T04:13:00Z
   title: Tarif mit Beigabe Teaser
@@ -656,7 +658,9 @@
     Speichergröße: 128 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 697959
+- eventId:
+  - 697959
+  - 721212
   start: 2026-10-28T04:13:00Z
   stop: 2026-10-28T04:20:00Z
   title: Sim-Only + Router
@@ -681,6 +685,19 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
+- eventId: 721213
+  start: 2026-10-28T04:20:00Z
+  stop: 2026-10-28T04:32:00Z
+  title: Samsung Galaxy A17
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 10.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Blau, Silbergrau
+
+    Display: 6,7"" (16,91cm) Full HD Plus 90Hz
+    Speichergröße: 128 GB
+    Akku: 5000 mAh
 - eventId: 720906
   start: 2026-10-28T04:27:00Z
   stop: 2026-10-28T04:32:00Z
@@ -713,6 +730,21 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
+- eventId: 721214
+  start: 2026-10-28T04:33:00Z
+  stop: 2026-10-28T04:45:00Z
+  title: Xiaomi REDMI Note 17 Pro 5G 256GB + Funkkopfhörer
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 17.50 ¤
+    - Allnet Flat 200GB LTE / 5G im Vodafone Netz mtl. 22.50 ¤
+
+
+    Aktuell lieferbare Farben: Schwarz, Lila, Blau
+
+    Display: 6,83"" (17,34cm) Full HD Plus Hz
+    Speichergröße: 256 GB
+    Akku: 8340 mAh
 - eventId: 720908
   start: 2026-10-28T04:34:00Z
   stop: 2026-10-28T04:45:00Z
@@ -741,7 +773,9 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 697962
+- eventId:
+  - 697962
+  - 721215
   start: 2026-10-28T04:50:00Z
   stop: 2026-10-28T04:54:00Z
   title: Sim-Only
@@ -751,7 +785,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 697963
+- eventId:
+  - 697963
+  - 721216
   start: 2026-10-28T04:54:00Z
   stop: 2026-10-28T05:04:00Z
   title: Samsung Galaxy A27 5G 128GB
@@ -779,7 +815,7 @@
   widescreen: true
 - eventId: 697964
   start: 2026-10-28T05:04:00Z
-  stop: 2026-10-28T05:05:00Z
+  stop: 2026-10-28T05:06:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
@@ -791,7 +827,7 @@
   widescreen: true
 - eventId: 697965
   start: 2026-10-28T05:06:00Z
-  stop: 2026-10-28T05:10:00Z
+  stop: 2026-10-28T05:11:00Z
   title: Sim-Only + E-Scooter 6
   subtitle: Werbung
   description: |-
@@ -825,6 +861,19 @@
     Speichergröße: 128 GB
     Akku: 7700 mAh
   widescreen: true
+- eventId: 721217
+  start: 2026-10-28T05:32:00Z
+  stop: 2026-10-28T05:44:00Z
+  title: Xiaomi REDMI Note 17 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 12.50 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Lila, Blau
+
+    Display: 6,99"" (17,75cm) Full HD Plus Hz
+    Speichergröße: 128 GB
+    Akku: 7700 mAh
 - eventId: 720914
   start: 2026-10-28T05:39:00Z
   stop: 2026-10-28T05:44:00Z
@@ -843,7 +892,7 @@
   widescreen: true
 - eventId: 697968
   start: 2026-10-28T05:46:00Z
-  stop: 2026-10-28T05:55:00Z
+  stop: 2026-10-28T05:48:00Z
   title: Samsung Galaxy A27 5G 128GB
   subtitle: Werbung
   widescreen: true
@@ -855,7 +904,9 @@
     Display: 6,7"" (16,91cm) Full HD Plus 120Hz
     Speichergröße: 128 GB
     Akku: 5000 mAh
-- eventId: 697969
+- eventId:
+  - 697969
+  - 721218
   start: 2026-10-28T05:48:00Z
   stop: 2026-10-28T05:55:00Z
   title: Sim-Only + Router
@@ -866,7 +917,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 697970
+- eventId:
+  - 697970
+  - 721219
   start: 2026-10-28T05:55:00Z
   stop: 2026-10-28T06:08:00Z
   title: Samsung Galaxy A17
@@ -910,6 +963,21 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
+- eventId: 721220
+  start: 2026-10-28T06:08:00Z
+  stop: 2026-10-28T06:20:00Z
+  title: Xiaomi REDMI Note 17 Pro 5G 256GB + Funkkopfhörer
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 17.50 ¤
+    - Allnet Flat 200GB LTE / 5G im Vodafone Netz mtl. 22.50 ¤
+
+
+    Aktuell lieferbare Farben: Schwarz, Lila, Blau
+
+    Display: 6,83"" (17,34cm) Full HD Plus Hz
+    Speichergröße: 256 GB
+    Akku: 8340 mAh
 - eventId: 720917
   start: 2026-10-28T06:14:00Z
   stop: 2026-10-28T06:16:00Z
@@ -952,7 +1020,9 @@
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 697974
+- eventId:
+  - 697974
+  - 721221
   start: 2026-10-28T06:25:00Z
   stop: 2026-10-28T06:29:00Z
   title: Sim-Only
@@ -990,6 +1060,19 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
+- eventId: 721222
+  start: 2026-10-28T06:29:00Z
+  stop: 2026-10-28T06:39:00Z
+  title: Samsung Galaxy A27 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 12.50 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Blau, Rosa
+
+    Display: 6,7"" (16,91cm) Full HD Plus 120Hz
+    Speichergröße: 128 GB
+    Akku: 5000 mAh
 - eventId: 720925
   start: 2026-10-28T06:31:00Z
   stop: 2026-10-28T06:39:00Z
@@ -1015,13 +1098,17 @@
     Speichergröße: 128 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 697976
+- eventId:
+  - 697976
+  - 721223
   start: 2026-10-28T06:40:00Z
   stop: 2026-10-28T06:42:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 697977
+- eventId:
+  - 697977
+  - 721224
   start: 2026-10-28T06:42:00Z
   stop: 2026-10-28T06:47:00Z
   title: Sim-Only + E-Scooter 6
@@ -1047,6 +1134,21 @@
     Speichergröße: 128 GB
     Akku: 5.200 mAh
   widescreen: true
+- eventId: 721225
+  start: 2026-10-28T06:47:00Z
+  stop: 2026-10-28T06:58:00Z
+  title: Motorola Moto G67 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 10.00 ¤
+    - Allnet Flat 125 GB LTE / 5G im Vodafone Netz mtl. 15.00 ¤
+
+
+    Aktuell lieferbare Farben: Grün
+
+    Display: 6,78"" (17,22cm) 120Hz
+    Speichergröße: 128 GB
+    Akku: 5.200 mAh
 - eventId: 720927
   start: 2026-10-28T06:53:00Z
   stop: 2026-10-28T06:58:00Z
@@ -1071,7 +1173,7 @@
   widescreen: true
 - eventId: 720929
   start: 2026-10-28T07:11:00Z
-  stop: 2026-10-28T07:24:00Z
+  stop: 2026-10-28T07:22:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB + REDMI Pad 2
   subtitle: Werbung
   description: |-
@@ -1083,13 +1185,17 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 697980
+- eventId:
+  - 697980
+  - 721226
   start: 2026-10-28T07:22:00Z
   stop: 2026-10-28T07:24:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 697981
+- eventId:
+  - 697981
+  - 721227
   start: 2026-10-28T07:24:00Z
   stop: 2026-10-28T07:31:00Z
   title: Sim-Only + Router
@@ -1120,7 +1226,7 @@
   widescreen: true
 - eventId: 697982
   start: 2026-10-28T07:31:00Z
-  stop: 2026-10-28T07:32:00Z
+  stop: 2026-10-28T07:44:00Z
   title: Samsung Galaxy A17
   subtitle: Werbung
   description: |-
@@ -1160,7 +1266,7 @@
   widescreen: true
 - eventId: 697983
   start: 2026-10-28T08:05:00Z
-  stop: 2026-10-28T08:10:00Z
+  stop: 2026-10-28T08:15:00Z
   title: Samsung Galaxy A27 5G 128GB
   subtitle: Werbung
   description: |-
@@ -1192,7 +1298,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 697984
+- eventId:
+  - 697984
+  - 721228
   start: 2026-10-28T08:15:00Z
   stop: 2026-10-28T08:18:00Z
   title: Tarif mit Beigabe Teaser
@@ -1230,7 +1338,9 @@
   title: Handystar Service
   subtitle: Werbung
   widescreen: true
-- eventId: 697988
+- eventId:
+  - 697988
+  - 721229
   start: 2026-10-28T08:38:00Z
   stop: 2026-10-28T08:42:00Z
   title: Programmvorschau
@@ -1250,7 +1360,7 @@
   widescreen: true
 - eventId: 697989
   start: 2026-10-28T08:42:00Z
-  stop: 2026-10-28T08:43:00Z
+  stop: 2026-10-28T08:46:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
@@ -1280,6 +1390,19 @@
     Speichergröße: 128 GB
     Akku: 7700 mAh
   widescreen: true
+- eventId: 721230
+  start: 2026-10-28T08:46:00Z
+  stop: 2026-10-28T08:55:00Z
+  title: Xiaomi REDMI Note 17 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 12.50 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Lila, Blau
+
+    Display: 6,99"" (17,75cm) Full HD Plus Hz
+    Speichergröße: 128 GB
+    Akku: 7700 mAh
 - eventId: 720942
   start: 2026-10-28T08:48:00Z
   stop: 2026-10-28T08:50:00Z
@@ -1311,7 +1434,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 697996
+- eventId:
+  - 697996
+  - 721231
   start: 2026-10-28T09:00:00Z
   stop: 2026-10-28T09:02:00Z
   title: Tarif mit Beigabe Teaser
@@ -1319,7 +1444,7 @@
   widescreen: true
 - eventId: 697997
   start: 2026-10-28T09:22:00Z
-  stop: 2026-10-28T09:24:00Z
+  stop: 2026-10-28T09:35:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB + Funkkopfhörer
   subtitle: Werbung
   description: |-
@@ -1361,7 +1486,9 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 697998
+- eventId:
+  - 697998
+  - 721232
   start: 2026-10-28T09:39:00Z
   stop: 2026-10-28T09:43:00Z
   title: Sim-Only
@@ -1385,6 +1512,19 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
+- eventId: 721233
+  start: 2026-10-28T09:43:00Z
+  stop: 2026-10-28T09:52:00Z
+  title: Samsung Galaxy A27 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 12.50 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Blau, Rosa
+
+    Display: 6,7"" (16,91cm) Full HD Plus 120Hz
+    Speichergröße: 128 GB
+    Akku: 5000 mAh
 - eventId: 720947
   start: 2026-10-28T09:52:00Z
   stop: 2026-10-28T09:54:00Z
@@ -1393,7 +1533,7 @@
   widescreen: true
 - eventId: 698000
   start: 2026-10-28T09:54:00Z
-  stop: 2026-10-28T09:55:00Z
+  stop: 2026-10-28T09:56:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
@@ -1405,7 +1545,7 @@
   widescreen: true
 - eventId: 698001
   start: 2026-10-28T09:56:00Z
-  stop: 2026-10-28T09:57:00Z
+  stop: 2026-10-28T10:01:00Z
   title: Sim-Only + E-Scooter 6
   subtitle: Werbung
   description: |-
@@ -1441,6 +1581,21 @@
     Speichergröße: 128 GB
     Akku: 5.200 mAh
   widescreen: true
+- eventId: 721234
+  start: 2026-10-28T10:01:00Z
+  stop: 2026-10-28T10:10:00Z
+  title: Motorola Moto G67 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 10.00 ¤
+    - Allnet Flat 125 GB LTE / 5G im Vodafone Netz mtl. 15.00 ¤
+
+
+    Aktuell lieferbare Farben: Grün
+
+    Display: 6,78"" (17,22cm) 120Hz
+    Speichergröße: 128 GB
+    Akku: 5.200 mAh
 - eventId: 720951
   start: 2026-10-28T10:02:00Z
   stop: 2026-10-28T10:05:00Z
@@ -1472,7 +1627,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 698003
+- eventId:
+  - 698003
+  - 721235
   start: 2026-10-28T10:14:00Z
   stop: 2026-10-28T10:18:00Z
   title: Programmvorschau
@@ -1484,7 +1641,9 @@
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 698005
+- eventId:
+  - 698005
+  - 721236
   start: 2026-10-28T10:38:00Z
   stop: 2026-10-28T10:45:00Z
   title: Sim-Only + Router
@@ -1509,7 +1668,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 698006
+- eventId:
+  - 698006
+  - 721237
   start: 2026-10-28T10:45:00Z
   stop: 2026-10-28T10:58:00Z
   title: Samsung Galaxy A17
@@ -1553,6 +1714,21 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
+- eventId: 721238
+  start: 2026-10-28T10:58:00Z
+  stop: 2026-10-28T11:10:00Z
+  title: Xiaomi REDMI Note 17 Pro 5G 256GB + Funkkopfhörer
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 17.50 ¤
+    - Allnet Flat 200GB LTE / 5G im Vodafone Netz mtl. 22.50 ¤
+
+
+    Aktuell lieferbare Farben: Schwarz, Lila, Blau
+
+    Display: 6,83"" (17,34cm) Full HD Plus Hz
+    Speichergröße: 256 GB
+    Akku: 8340 mAh
 - eventId: 720956
   start: 2026-10-28T11:06:00Z
   stop: 2026-10-28T11:07:00Z
@@ -1589,7 +1765,9 @@
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 698008
+- eventId:
+  - 698008
+  - 721239
   start: 2026-10-28T11:15:00Z
   stop: 2026-10-28T11:19:00Z
   title: Sim-Only
@@ -1613,7 +1791,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 698009
+- eventId:
+  - 698009
+  - 721240
   start: 2026-10-28T11:19:00Z
   stop: 2026-10-28T11:29:00Z
   title: Samsung Galaxy A27 5G 128GB
@@ -1640,7 +1820,7 @@
   widescreen: true
 - eventId: 698010
   start: 2026-10-28T11:29:00Z
-  stop: 2026-10-28T11:43:00Z
+  stop: 2026-10-28T11:31:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
@@ -1652,7 +1832,9 @@
     Display: 6,9"" (17,52cm) Full HD 120Hz
     Speichergröße: 128 GB
     Akku: 7500 mAh
-- eventId: 698011
+- eventId:
+  - 698011
+  - 721241
   start: 2026-10-28T11:31:00Z
   stop: 2026-10-28T11:36:00Z
   title: Sim-Only + E-Scooter 6
@@ -1664,7 +1846,7 @@
   widescreen: true
 - eventId: 720964
   start: 2026-10-28T12:01:00Z
-  stop: 2026-10-28T12:13:00Z
+  stop: 2026-10-28T12:11:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB + REDMI Pad 2
   subtitle: Werbung
   description: |-
@@ -1676,13 +1858,17 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 698015
+- eventId:
+  - 698015
+  - 721242
   start: 2026-10-28T12:11:00Z
   stop: 2026-10-28T12:13:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 698016
+- eventId:
+  - 698016
+  - 721243
   start: 2026-10-28T12:13:00Z
   stop: 2026-10-28T12:20:00Z
   title: Sim-Only + Router
@@ -1707,7 +1893,7 @@
   widescreen: true
 - eventId: 698017
   start: 2026-10-28T12:20:00Z
-  stop: 2026-10-28T12:21:00Z
+  stop: 2026-10-28T12:29:00Z
   title: Samsung Galaxy A17
   subtitle: Werbung
   description: |-
@@ -1751,7 +1937,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 698018
+- eventId:
+  - 698018
+  - 721244
   start: 2026-10-28T12:33:00Z
   stop: 2026-10-28T12:50:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB + Funkkopfhörer
@@ -1818,7 +2006,9 @@
   title: Handystar Service
   subtitle: Werbung
   widescreen: true
-- eventId: 698021
+- eventId:
+  - 698021
+  - 721245
   start: 2026-10-28T13:28:00Z
   stop: 2026-10-28T13:31:00Z
   title: Programmvorschau
@@ -1830,13 +2020,17 @@
   title: Handystar Service
   subtitle: Werbung
   widescreen: true
-- eventId: 698022
+- eventId:
+  - 698022
+  - 721246
   start: 2026-10-28T13:31:00Z
   stop: 2026-10-28T13:32:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 698023
+- eventId:
+  - 698023
+  - 721247
   start: 2026-10-28T13:32:00Z
   stop: 2026-10-28T13:35:00Z
   title: Sim-Only
@@ -1860,7 +2054,7 @@
   widescreen: true
 - eventId: 698024
   start: 2026-10-28T13:35:00Z
-  stop: 2026-10-28T13:36:00Z
+  stop: 2026-10-28T13:48:00Z
   title: Xiaomi REDMI Note 17 5G 128GB
   subtitle: Werbung
   description: |-
@@ -1915,13 +2109,17 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 698025
+- eventId:
+  - 698025
+  - 721248
   start: 2026-10-28T13:49:00Z
   stop: 2026-10-28T13:51:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 698026
+- eventId:
+  - 698026
+  - 721249
   start: 2026-10-28T13:51:00Z
   stop: 2026-10-28T13:59:00Z
   title: Sim-Only + Router
@@ -1960,6 +2158,19 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
+- eventId: 721250
+  start: 2026-10-28T13:59:00Z
+  stop: 2026-10-28T14:10:00Z
+  title: Samsung Galaxy A17
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 10.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Blau, Silbergrau
+
+    Display: 6,7"" (16,91cm) Full HD Plus 90Hz
+    Speichergröße: 128 GB
+    Akku: 5000 mAh
 - eventId: 720983
   start: 2026-10-28T14:10:00Z
   stop: 2026-10-28T14:15:00Z
@@ -2007,7 +2218,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 698031
+- eventId:
+  - 698031
+  - 721251
   start: 2026-10-28T15:03:00Z
   stop: 2026-10-28T15:07:00Z
   title: Programmvorschau
@@ -2015,7 +2228,7 @@
   widescreen: true
 - eventId: 698032
   start: 2026-10-28T15:07:00Z
-  stop: 2026-10-28T15:22:00Z
+  stop: 2026-10-28T15:11:00Z
   title: Xiaomi Redmi 17 5G
   subtitle: Werbung
   widescreen: true
@@ -2041,6 +2254,19 @@
     Speichergröße: 128 GB
     Akku: 7700 mAh
   widescreen: true
+- eventId: 721252
+  start: 2026-10-28T15:11:00Z
+  stop: 2026-10-28T15:22:00Z
+  title: Xiaomi REDMI Note 17 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 12.50 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Lila, Blau
+
+    Display: 6,99"" (17,75cm) Full HD Plus Hz
+    Speichergröße: 128 GB
+    Akku: 7700 mAh
 - eventId: 720988
   start: 2026-10-28T15:22:00Z
   stop: 2026-10-28T15:27:00Z
@@ -2051,7 +2277,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 698034
+- eventId:
+  - 698034
+  - 721253
   start: 2026-10-28T15:25:00Z
   stop: 2026-10-28T15:27:00Z
   title: Tarif mit Beigabe Teaser
@@ -2059,7 +2287,7 @@
   widescreen: true
 - eventId: 698035
   start: 2026-10-28T15:27:00Z
-  stop: 2026-10-28T15:29:00Z
+  stop: 2026-10-28T15:34:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   description: |-
@@ -2102,7 +2330,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 698036
+- eventId:
+  - 698036
+  - 721254
   start: 2026-10-28T16:04:00Z
   stop: 2026-10-28T16:08:00Z
   title: Sim-Only
@@ -2132,7 +2362,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 698037
+- eventId:
+  - 698037
+  - 721255
   start: 2026-10-28T16:08:00Z
   stop: 2026-10-28T16:19:00Z
   title: Samsung Galaxy A27 5G 128GB
@@ -2159,7 +2391,7 @@
   widescreen: true
 - eventId: 698038
   start: 2026-10-28T16:19:00Z
-  stop: 2026-10-28T16:34:00Z
+  stop: 2026-10-28T16:21:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
@@ -2171,7 +2403,9 @@
     Display: 6,9"" (17,52cm) Full HD 120Hz
     Speichergröße: 128 GB
     Akku: 7500 mAh
-- eventId: 698039
+- eventId:
+  - 698039
+  - 721256
   start: 2026-10-28T16:21:00Z
   stop: 2026-10-28T16:26:00Z
   title: Sim-Only + E-Scooter 6
@@ -2197,6 +2431,21 @@
     Speichergröße: 128 GB
     Akku: 5.200 mAh
   widescreen: true
+- eventId: 721257
+  start: 2026-10-28T16:26:00Z
+  stop: 2026-10-28T16:34:00Z
+  title: Motorola Moto G67 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 10.00 ¤
+    - Allnet Flat 125 GB LTE / 5G im Vodafone Netz mtl. 15.00 ¤
+
+
+    Aktuell lieferbare Farben: Grün
+
+    Display: 6,78"" (17,22cm) 120Hz
+    Speichergröße: 128 GB
+    Akku: 5.200 mAh
 - eventId: 720997
   start: 2026-10-28T16:34:00Z
   stop: 2026-10-28T16:39:00Z
@@ -2209,7 +2458,7 @@
   widescreen: true
 - eventId: 698041
   start: 2026-10-28T16:39:00Z
-  stop: 2026-10-28T16:41:00Z
+  stop: 2026-10-28T16:43:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
@@ -2227,13 +2476,17 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 698042
+- eventId:
+  - 698042
+  - 721258
   start: 2026-10-28T16:43:00Z
   stop: 2026-10-28T16:47:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 698043
+- eventId:
+  - 698043
+  - 721259
   start: 2026-10-28T16:47:00Z
   stop: 2026-10-28T17:00:00Z
   title: Xiaomi REDMI Note 17 5G 128GB
@@ -2261,13 +2514,17 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 698044
+- eventId:
+  - 698044
+  - 721260
   start: 2026-10-28T17:00:00Z
   stop: 2026-10-28T17:03:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 698045
+- eventId:
+  - 698045
+  - 721261
   start: 2026-10-28T17:03:00Z
   stop: 2026-10-28T17:10:00Z
   title: Sim-Only + Router
@@ -2298,6 +2555,19 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
+- eventId: 721262
+  start: 2026-10-28T17:10:00Z
+  stop: 2026-10-28T17:19:00Z
+  title: Samsung Galaxy A17
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 10.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Blau, Silbergrau
+
+    Display: 6,7"" (16,91cm) Full HD Plus 90Hz
+    Speichergröße: 128 GB
+    Akku: 5000 mAh
 - eventId: 721001
   start: 2026-10-28T17:11:00Z
   stop: 2026-10-28T17:12:00Z
@@ -2348,7 +2618,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 698047
+- eventId:
+  - 698047
+  - 721263
   start: 2026-10-28T17:23:00Z
   stop: 2026-10-28T17:40:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB + Funkkopfhörer
@@ -2389,7 +2661,9 @@
     Speichergröße: 128 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 698048
+- eventId:
+  - 698048
+  - 721264
   start: 2026-10-28T17:40:00Z
   stop: 2026-10-28T17:44:00Z
   title: Sim-Only
@@ -2399,7 +2673,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 698049
+- eventId:
+  - 698049
+  - 721265
   start: 2026-10-28T17:44:00Z
   stop: 2026-10-28T17:54:00Z
   title: Samsung Galaxy A27 5G 128GB
@@ -2429,7 +2705,9 @@
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 698050
+- eventId:
+  - 698050
+  - 721266
   start: 2026-10-28T17:54:00Z
   stop: 2026-10-28T17:56:00Z
   title: Tarif mit Beigabe Teaser
@@ -2449,7 +2727,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 698051
+- eventId:
+  - 698051
+  - 721267
   start: 2026-10-28T17:56:00Z
   stop: 2026-10-28T18:01:00Z
   title: Sim-Only + E-Scooter 6
@@ -2459,7 +2739,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 698058
+- eventId:
+  - 698058
+  - 721268
   start: 2026-10-28T18:01:00Z
   stop: 2026-10-28T18:15:00Z
   title: Motorola Moto G67 5G 128GB
@@ -2489,19 +2771,25 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 698059
+- eventId:
+  - 698059
+  - 721269
   start: 2026-10-28T18:15:00Z
   stop: 2026-10-28T18:17:00Z
   title: Handystar Service
   subtitle: Werbung
   widescreen: true
-- eventId: 698060
+- eventId:
+  - 698060
+  - 721270
   start: 2026-10-28T18:17:00Z
   stop: 2026-10-28T18:21:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 698061
+- eventId:
+  - 698061
+  - 721271
   start: 2026-10-28T18:21:00Z
   stop: 2026-10-28T18:25:00Z
   title: Programmvorschau
@@ -2521,7 +2809,7 @@
   widescreen: true
 - eventId: 698062
   start: 2026-10-28T18:25:00Z
-  stop: 2026-10-28T18:26:00Z
+  stop: 2026-10-28T18:33:00Z
   title: Xiaomi REDMI Note 17 5G 128GB
   subtitle: Werbung
   description: |-
@@ -2567,7 +2855,7 @@
   widescreen: true
 - eventId: 698063
   start: 2026-10-28T18:38:00Z
-  stop: 2026-10-28T18:46:00Z
+  stop: 2026-10-28T18:41:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
@@ -2576,7 +2864,9 @@
 
 
     Sim-Only Angebot
-- eventId: 698064
+- eventId:
+  - 698064
+  - 721272
   start: 2026-10-28T18:41:00Z
   stop: 2026-10-28T18:48:00Z
   title: Sim-Only + Router
@@ -2615,6 +2905,19 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
+- eventId: 721273
+  start: 2026-10-28T18:48:00Z
+  stop: 2026-10-28T19:00:00Z
+  title: Samsung Galaxy A17
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 10.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Blau, Silbergrau
+
+    Display: 6,7"" (16,91cm) Full HD Plus 90Hz
+    Speichergröße: 128 GB
+    Akku: 5000 mAh
 - eventId: 721021
   start: 2026-10-28T19:00:00Z
   stop: 2026-10-28T19:05:00Z
@@ -2625,7 +2928,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 698066
+- eventId:
+  - 698066
+  - 721274
   start: 2026-10-28T19:01:00Z
   stop: 2026-10-28T19:18:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB + Funkkopfhörer
@@ -2696,13 +3001,17 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 698068
+- eventId:
+  - 698068
+  - 721275
   start: 2026-10-28T19:53:00Z
   stop: 2026-10-28T19:56:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 698069
+- eventId:
+  - 698069
+  - 721276
   start: 2026-10-28T19:56:00Z
   stop: 2026-10-28T19:57:00Z
   title: Programmvorschau
@@ -2710,7 +3019,7 @@
   widescreen: true
 - eventId: 698070
   start: 2026-10-28T19:57:00Z
-  stop: 2026-10-28T20:12:00Z
+  stop: 2026-10-28T20:01:00Z
   title: Xiaomi Redmi 17 5G
   subtitle: Werbung
   description: |-
@@ -2736,6 +3045,19 @@
     Speichergröße: 128 GB
     Akku: 7700 mAh
   widescreen: true
+- eventId: 721277
+  start: 2026-10-28T20:01:00Z
+  stop: 2026-10-28T20:12:00Z
+  title: Xiaomi REDMI Note 17 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 12.50 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Lila, Blau
+
+    Display: 6,99"" (17,75cm) Full HD Plus Hz
+    Speichergröße: 128 GB
+    Akku: 7700 mAh
 - eventId: 721026
   start: 2026-10-28T20:12:00Z
   stop: 2026-10-28T20:17:00Z
@@ -2746,13 +3068,17 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 698072
+- eventId:
+  - 698072
+  - 721278
   start: 2026-10-28T20:14:00Z
   stop: 2026-10-28T20:16:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 698073
+- eventId:
+  - 698073
+  - 721279
   start: 2026-10-28T20:16:00Z
   stop: 2026-10-28T20:24:00Z
   title: Sim-Only + Router
@@ -2783,7 +3109,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 698074
+- eventId:
+  - 698074
+  - 721280
   start: 2026-10-28T20:24:00Z
   stop: 2026-10-28T20:36:00Z
   title: Samsung Galaxy A17
@@ -2822,13 +3150,17 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 698078
+- eventId:
+  - 698078
+  - 721281
   start: 2026-10-28T21:08:00Z
   stop: 2026-10-28T21:10:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 698079
+- eventId:
+  - 698079
+  - 721282
   start: 2026-10-28T21:10:00Z
   stop: 2026-10-28T21:15:00Z
   title: Sim-Only + E-Scooter 6
@@ -2868,6 +3200,21 @@
     Speichergröße: 128 GB
     Akku: 5.200 mAh
   widescreen: true
+- eventId: 721283
+  start: 2026-10-28T21:15:00Z
+  stop: 2026-10-28T21:27:00Z
+  title: Motorola Moto G67 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 10.00 ¤
+    - Allnet Flat 125 GB LTE / 5G im Vodafone Netz mtl. 15.00 ¤
+
+
+    Aktuell lieferbare Farben: Grün
+
+    Display: 6,78"" (17,22cm) 120Hz
+    Speichergröße: 128 GB
+    Akku: 5.200 mAh
 - eventId: 721032
   start: 2026-10-28T21:27:00Z
   stop: 2026-10-28T21:32:00Z
@@ -2878,7 +3225,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 698081
+- eventId:
+  - 698081
+  - 721284
   start: 2026-10-28T21:28:00Z
   stop: 2026-10-28T21:32:00Z
   title: Programmvorschau
@@ -2886,7 +3235,7 @@
   widescreen: true
 - eventId: 698082
   start: 2026-10-28T21:32:00Z
-  stop: 2026-10-28T21:34:00Z
+  stop: 2026-10-28T21:36:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
@@ -2904,7 +3253,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 698083
+- eventId:
+  - 698083
+  - 721285
   start: 2026-10-28T21:36:00Z
   stop: 2026-10-28T21:50:00Z
   title: Xiaomi REDMI Note 17 5G 128GB
@@ -2932,13 +3283,17 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 698084
+- eventId:
+  - 698084
+  - 721286
   start: 2026-10-28T21:50:00Z
   stop: 2026-10-28T21:52:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 698085
+- eventId:
+  - 698085
+  - 721287
   start: 2026-10-28T21:52:00Z
   stop: 2026-10-28T21:59:00Z
   title: Sim-Only + Router
@@ -2987,7 +3342,9 @@
     Speichergröße: 128 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 698086
+- eventId:
+  - 698086
+  - 721288
   start: 2026-10-28T22:29:00Z
   stop: 2026-10-28T22:33:00Z
   title: Sim-Only
@@ -3011,6 +3368,19 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
+- eventId: 721289
+  start: 2026-10-28T22:33:00Z
+  stop: 2026-10-28T22:43:00Z
+  title: Samsung Galaxy A27 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 12.50 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Blau, Rosa
+
+    Display: 6,7"" (16,91cm) Full HD Plus 120Hz
+    Speichergröße: 128 GB
+    Akku: 5000 mAh
 - eventId: 721040
   start: 2026-10-28T22:38:00Z
   stop: 2026-10-28T22:43:00Z
@@ -3027,7 +3397,9 @@
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 698088
+- eventId:
+  - 698088
+  - 721290
   start: 2026-10-28T22:44:00Z
   stop: 2026-10-28T22:46:00Z
   title: Tarif mit Beigabe Teaser
@@ -3035,7 +3407,7 @@
   widescreen: true
 - eventId: 698089
   start: 2026-10-28T22:46:00Z
-  stop: 2026-10-28T22:56:00Z
+  stop: 2026-10-28T22:51:00Z
   title: Samsung Galaxy A27 5G 128GB
   subtitle: Werbung
   description: |-
@@ -3047,7 +3419,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 698090
+- eventId:
+  - 698090
+  - 721291
   start: 2026-10-28T22:51:00Z
   stop: 2026-10-28T23:00:00Z
   title: Motorola Moto G67 5G 128GB
@@ -3079,7 +3453,7 @@
   widescreen: true
 - eventId: 698091
   start: 2026-10-28T23:00:00Z
-  stop: 2026-10-28T23:01:00Z
+  stop: 2026-10-28T23:03:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
@@ -3097,11 +3471,13 @@
   widescreen: true
 - eventId: 698092
   start: 2026-10-28T23:03:00Z
-  stop: 2026-10-28T23:07:00Z
+  stop: 2026-10-28T23:04:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 698093
+- eventId:
+  - 698093
+  - 721292
   start: 2026-10-28T23:04:00Z
   stop: 2026-10-28T23:07:00Z
   title: Programmvorschau
@@ -3135,7 +3511,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 698095
+- eventId:
+  - 698095
+  - 721293
   start: 2026-10-28T23:12:00Z
   stop: 2026-10-28T23:21:00Z
   title: Tarif mit Beigabe Teaser
@@ -3152,7 +3530,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 698096
+- eventId:
+  - 698096
+  - 721294
   start: 2026-10-28T23:21:00Z
   stop: 2026-10-28T23:23:00Z
   title: Tarif mit Beigabe Teaser
@@ -3172,7 +3552,9 @@
     Speichergröße: 128 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 698097
+- eventId:
+  - 698097
+  - 721295
   start: 2026-10-28T23:23:00Z
   stop: 2026-10-28T23:30:00Z
   title: Sim-Only + Router
@@ -3197,6 +3579,19 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
+- eventId: 721296
+  start: 2026-10-28T23:30:00Z
+  stop: 2026-10-28T23:42:00Z
+  title: Samsung Galaxy A17
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 50 GB LTE / 5G im Vodafone Netz mtl. 10.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Blau, Silbergrau
+
+    Display: 6,7"" (16,91cm) Full HD Plus 90Hz
+    Speichergröße: 128 GB
+    Akku: 5000 mAh
 - eventId: 721048
   start: 2026-10-28T23:37:00Z
   stop: 2026-10-28T23:42:00Z
@@ -3213,7 +3608,9 @@
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 698099
+- eventId:
+  - 698099
+  - 721297
   start: 2026-10-28T23:43:00Z
   stop: 2026-10-29T00:00:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB + Funkkopfhörer
