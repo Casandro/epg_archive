@@ -237,8 +237,10 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 1563456
+  - 586643
   - 632452
   start: 2026-11-04T12:10:00Z
   stop: 2026-11-04T13:00:00Z
@@ -248,15 +250,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 586643
-  start: 2026-11-04T12:10:00Z
-  stop: 2026-11-04T13:00:00Z
-  title: In aller Freundschaft - Die jungen Ärzte
-  subtitle: Helfen
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
+  ageRating: 6
 - eventId:
   - 1563457
   - 586644
@@ -269,6 +263,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId:
   - 1563458
   - 586645
@@ -304,19 +300,12 @@
   audiodesc: true
 - eventId:
   - 1563482
+  - 587209
   - 632610
   start: 2026-11-04T15:15:00Z
   stop: 2026-11-04T16:00:00Z
   title: Gefragt - Gejagt (752)
   subtitle: 'Moderation: Alexander Bommes'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId: 587209
-  start: 2026-11-04T15:15:00Z
-  stop: 2026-11-04T16:00:00Z
-  title: Gefragt - Gejagt
   widescreen: true
   subtitled: true
   hd: true
@@ -361,7 +350,7 @@
   - 632614
   start: 2026-11-04T17:15:00Z
   stop: 2026-11-04T17:45:00Z
-  title: 'Die Nordreportage: Im Einsatz für die Uniklinik (1/2)'
+  title: 'Die Nordreportage: Im Einsatz für die Uniklinik (1/2) (1/2)'
   subtitle: Blut, Besteck und schnelle Wege
   widescreen: true
   subtitled: true
