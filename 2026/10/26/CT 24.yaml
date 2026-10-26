@@ -906,6 +906,7 @@
 - eventId:
   - 731651
   - 731991
+  - 734697
   start: 2026-10-26T15:29:00Z
   stop: 2026-10-26T15:32:00Z
   title: Zprávy
@@ -947,6 +948,7 @@
 - eventId:
   - 729843
   - 731992
+  - 734698
   start: 2026-10-26T15:32:00Z
   stop: 2026-10-26T16:00:00Z
   title: Studio ČT24
@@ -1040,7 +1042,7 @@
   start: 2026-10-26T16:03:00Z
   stop: 2026-10-26T16:29:10Z
   title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  subtitle: 'Témata: Reakce na Jednání o koncesionářských poplatcích ve sněmovně; Zítra budou Izraelci hlasovat o novém parlamentu; Výsledky voleb v Brazílii.'
   description: |-
     HDTV
     Skryté titulky
@@ -1179,7 +1181,7 @@
   start: 2026-10-26T17:03:00Z
   stop: 2026-10-26T17:27:50Z
   title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  subtitle: 'Témata: Reakce na Jednání o koncesionářských poplatcích ve sněmovně; Víkendové protesty na podporu veřejnoprávních médií (komentář).'
   description: |-
     HDTV
     Skryté titulky
@@ -1216,6 +1218,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 734671
+  start: 2026-10-26T17:28:00Z
+  stop: 2026-10-26T17:55:00Z
+  title: Interview ČT24
+  subtitle: Profilový rozhovor s významnou osobností, která má co říci k aktuálnímu dění v ČR nebo ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 604142
   - 627208
