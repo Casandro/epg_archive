@@ -757,6 +757,7 @@
 - eventId:
   - 1021391
   - 663844
+  - 735557
   start: 2026-10-26T16:25:00Z
   stop: 2026-10-26T17:05:00Z
   title: Tijd voor MAX
@@ -773,6 +774,7 @@
 - eventId:
   - 1021392
   - 663845
+  - 735556
   start: 2026-10-26T17:05:00Z
   stop: 2026-10-26T17:20:00Z
   title: NOS Journaal
@@ -791,6 +793,7 @@
 - eventId:
   - 1021393
   - 663846
+  - 735565
   start: 2026-10-26T17:20:00Z
   stop: 2026-10-26T17:55:00Z
   title: Binnenstebuiten
@@ -813,7 +816,7 @@
   stop: 2026-10-26T18:20:00Z
   title: EenVandaag
   subtitle: S13 E255. Het laatste nieuws en achtergronden uit binnen- en buitenland. Via het EenVandaag Opiniepanel kunnen 50.000 leden hun stem laten horen en reageren op actuele thema's.
-  description: Het laatste nieuws en achtergronden uit binnen- en buitenland. Via het EenVandaag Opiniepanel kunnen 50.000 leden hun stem laten horen en reageren op actuele thema's. (2026)
+  description: 'Schade na explosies is moeilijk te verhalen: waarom een noodfonds slachtoffers kan helpen * Familie heeft nog veel vragen na dodelijk verkeersongeluk Sam (26): verplicht bloedonderzoek zou helpen * Kabinet wil duizenden ambtenaren minder, maar hoe haalbaar is het? * Gasprijs stijgt opnieuw, moeten we ons zorgen maken? (2026)'
   genre:
   - '32'
 - eventId:
@@ -892,12 +895,20 @@
   - 1021399
   - 663858
   start: 2026-10-26T20:35:00Z
-  stop: 2026-10-26T21:20:00Z
+  stop: 2026-10-26T21:15:00Z
   title: De slimste mens
   subtitle: 'Uitdager: Marjolein Moorman S28 E26. De kennisquiz met een knipoog, waarbij het niet alleen gaat om kennis en algemene ontwikkeling, maar ook om associatief denken. Herman wordt bijgestaan door juryvoorzitter Paulien Cornelisse.'
   description: De kennisquiz met een knipoog, waarbij het niet alleen gaat om kennis en algemene ontwikkeling, maar ook om associatief denken. Herman van der Zandt wordt bijgestaan door juryvoorzitter Paulien Cornelisse. (2026)
   genre:
   - '49'
+- eventId: 735568
+  start: 2026-10-26T21:15:00Z
+  stop: 2026-10-26T21:55:00Z
+  title: Nieuwsuur
+  subtitle: S18 E289. Nieuwsuur brengt onafhankelijk, onpartijdig en ongebonden achtergronden bij het nieuws.
+  description: Nieuwsuur brengt onafhankelijk, onpartijdig en ongebonden achtergronden bij het nieuws. (2026)
+  genre:
+  - '33'
 - eventId: 918486
   start: 2026-10-26T21:15:00Z
   stop: 2026-10-26T21:50:00Z
@@ -928,14 +939,16 @@
   - 1021403
   - 663866
   start: 2026-10-26T21:55:00Z
-  stop: 2026-10-26T22:45:00Z
+  stop: 2026-10-26T22:40:00Z
   title: Pauw & De Wit
   subtitle: S02 E135. Talkshow over de actualiteit. Aan tafel voeren afwisselend Jeroen Pauw en Tim de Wit het gesprek van de dag. Er is ruimte voor debat en actuele duiding met de hoofdrolspelers uit de politiek en het nieuws.
   description: Talkshow over de actualiteit. Aan tafel voeren afwisselend Jeroen Pauw en Tim de Wit het gesprek van de dag. Er is ruimte voor debat en actuele duiding met de hoofdrolspelers uit de politiek en het nieuws. (2026)
   genre:
   - '51'
   ageRating: 9
-- eventId: 918488
+- eventId:
+  - 735569
+  - 918488
   start: 2026-10-26T22:40:00Z
   stop: 2026-10-26T23:00:00Z
   title: NOS Journaal
@@ -953,6 +966,15 @@
   description: Met het laatste nieuws, gebeurtenissen van het nationale en internationale belang en de weersverwachting. (2026)
   genre:
   - '33'
+- eventId: 735570
+  start: 2026-10-26T23:00:00Z
+  stop: 2026-10-26T23:40:00Z
+  title: Zembla
+  subtitle: Doden op de Noordzee S35 E14. In oktober 2023 spoelen op het strand van Texel twee lichaamsdelen aan. Samen met NH Media reconstrueren we hoe het onderzoek naar de identiteit van de slachtoffers is gegaan.
+  description: 'In oktober 2023 spoelen op het strand van Texel twee lichaamsdelen aan. Deze zomer, na bijna drie jaar politieonderzoek, zijn de lichaamsdelen eindelijk geïdentificeerd. Het gaat om twee Afghaanse mannen die om het leven zijn gekomen terwijl ze Het Kanaal probeerden over te steken naar Engeland. Jaarlijks maken tienduizenden vluchtelingen deze levensgevaarlijke oversteek in de hoop op een betere toekomst. Zembla reconstrueert samen met NH Media hoe het onderzoek naar de identiteit van de slachtoffers is gegaan, hoe ze zijn verongelukt en welke handel er achter hun dood schuilgaat. Regisseur: Bart Nijpels (2026)'
+  ageRating: 9
+  genre:
+  - '32'
 - eventId: 918489
   start: 2026-10-26T23:00:00Z
   stop: 2026-10-26T23:35:00Z
@@ -987,7 +1009,7 @@
   start: 2026-10-26T23:40:00Z
   stop: 2026-10-27T00:00:00Z
   title: Per seconde wijzer
-  subtitle: S64 E49. Kennisquiz waarin slimme spelers pittige vragen beantwoorden terwijl de seconden wegtikken. Wordt het een mooi geldbedrag of een klokje?
+  subtitle: S64 E49. In deze kennisquiz beantwoorden slimme spelers pittige vragen, terwijl de seconden wegtikken. Wordt het een mooi geldbedrag of een klokje?
   description: Twee kandidaten testen onder hoge druk hun kennis in verschillende categorieën. Hoe zetten zij hun jokers in, hoeveel rondes zullen de spelers het volhouden en met welk bedrag gaan de spelers uiteindelijk naar huis? Met elke dag aan het begin van de uitzending de kijkersvraag. Met de Per Seconde Wijzer app kun je een toernooi spelen en in meerdere rondes laten zien dat jij de beste bent. Zorg er voor dat je de Per Seconde Wijzer app op je smartphone hebt, want dan maak je kans op mooie prijzen. (2026)
   genre:
   - '49'
