@@ -719,6 +719,16 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 733681
+  start: 2026-10-26T14:29:11Z
+  stop: 2026-10-26T14:32:11Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 604069
   - 627153
@@ -740,6 +750,17 @@
   - 731989
   start: 2026-10-26T14:32:10Z
   stop: 2026-10-26T14:39:10Z
+  title: Studio ČT24
+  subtitle: 'Téma: Spor o poplatky (přímý přenos brífinku ODS k jednání vlády).'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 733701
+  start: 2026-10-26T14:32:11Z
+  stop: 2026-10-26T14:39:11Z
   title: Studio ČT24
   subtitle: 'Téma: Spor o poplatky (přímý přenos brífinku ODS k jednání vlády).'
   description: |-
@@ -780,6 +801,17 @@
   - 731649
   - 731990
   start: 2026-10-26T14:39:10Z
+  stop: 2026-10-26T15:00:00Z
+  title: Ekonomika ČT24
+  subtitle: 'Témata: Pokračování regulace cen PHM?; Počet exekucí klesá.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '128'
+  widescreen: true
+- eventId: 733702
+  start: 2026-10-26T14:39:11Z
   stop: 2026-10-26T15:00:00Z
   title: Ekonomika ČT24
   subtitle: 'Témata: Pokračování regulace cen PHM?; Počet exekucí klesá.'
@@ -957,7 +989,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 733239
+- eventId:
+  - 733239
+  - 733705
   start: 2026-10-26T16:03:00Z
   stop: 2026-10-26T16:29:10Z
   title: Studio ČT24
@@ -979,7 +1013,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 733240
+- eventId:
+  - 733240
+  - 733706
   start: 2026-10-26T16:29:10Z
   stop: 2026-10-26T16:32:10Z
   title: Zprávy
@@ -1010,7 +1046,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 733241
+- eventId:
+  - 733241
+  - 733707
   start: 2026-10-26T16:32:10Z
   stop: 2026-10-26T16:55:00Z
   title: Studio ČT24
@@ -1061,6 +1099,7 @@
 - eventId:
   - 604139
   - 627205
+  - 733708
   - 905694
   - 915582
   start: 2026-10-26T17:00:00Z
