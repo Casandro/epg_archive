@@ -658,6 +658,8 @@
   - 604066
   - 627150
   - 728768
+  - 732742
+  - 732900
   - 905680
   - 915512
   start: 2026-10-26T13:33:00Z
@@ -694,7 +696,7 @@
   - 905682
   - 915514
   start: 2026-10-26T14:03:00Z
-  stop: 2026-10-26T14:30:00Z
+  stop: 2026-10-26T14:29:10Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
   description: |-
@@ -705,6 +707,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId:
+  - 731647
+  - 731988
+  start: 2026-10-26T14:29:10Z
+  stop: 2026-10-26T14:32:10Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 604069
   - 627153
@@ -721,6 +735,19 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId:
+  - 731648
+  - 731989
+  start: 2026-10-26T14:32:10Z
+  stop: 2026-10-26T14:39:10Z
+  title: Studio ČT24
+  subtitle: 'Téma: Spor o poplatky (přímý přenos brífinku ODS k jednání vlády).'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 604070
   - 627154
@@ -748,6 +775,19 @@
     Skryté titulky
   genre:
   - '35'
+  widescreen: true
+- eventId:
+  - 731649
+  - 731990
+  start: 2026-10-26T14:39:10Z
+  stop: 2026-10-26T15:00:00Z
+  title: Ekonomika ČT24
+  subtitle: 'Témata: Pokračování regulace cen PHM?; Počet exekucí klesá.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '128'
   widescreen: true
 - eventId:
   - 604071
@@ -780,10 +820,11 @@
 - eventId:
   - 604131
   - 627197
+  - 731650
   - 905686
   - 915574
   start: 2026-10-26T15:00:00Z
-  stop: 2026-10-26T15:30:00Z
+  stop: 2026-10-26T15:29:00Z
   title: Zprávy v 16
   subtitle: Nejdůležitější události dne v ČR i ve světě.
   description: |-
@@ -808,6 +849,19 @@
   - '32'
   widescreen: true
 - eventId:
+  - 731651
+  - 731991
+  start: 2026-10-26T15:29:00Z
+  stop: 2026-10-26T15:32:00Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Znakový jazyk
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+- eventId:
   - 604132
   - 627198
   - 905687
@@ -824,10 +878,12 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 729843
+- eventId:
+  - 729843
+  - 731992
   start: 2026-10-26T15:32:00Z
-  stop: 2026-10-26T15:39:05Z
-  title: Zprávy
+  stop: 2026-10-26T16:00:00Z
+  title: Studio ČT24
   description: |-
     HDTV
     Znakový jazyk
@@ -835,6 +891,7 @@
   genre:
   - '32'
   widescreen: true
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
 - eventId:
   - 604133
   - 627199
@@ -900,6 +957,40 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 733239
+  start: 2026-10-26T16:03:00Z
+  stop: 2026-10-26T16:29:10Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 731652
+  start: 2026-10-26T16:05:05Z
+  stop: 2026-10-26T16:30:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 733240
+  start: 2026-10-26T16:29:10Z
+  stop: 2026-10-26T16:32:10Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Znakový jazyk
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 604136
   - 627202
@@ -919,6 +1010,17 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 733241
+  start: 2026-10-26T16:32:10Z
+  stop: 2026-10-26T16:55:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 604137
   - 627203
