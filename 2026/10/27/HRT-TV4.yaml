@@ -1,3 +1,9 @@
+- eventId: 738258
+  start: 2026-10-27T00:04:00Z
+  stop: 2026-10-27T00:05:00Z
+  title: 'Bez komentara: Huaihua, Kina: Srušen Guinnessov rekord - motociklom prešao više od 40 kilometara po vodi'
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 679140
   start: 2026-10-27T00:05:00Z
   stop: 2026-10-27T00:58:00Z
@@ -25,7 +31,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 679143
+- eventId:
+  - 679143
+  - 738327
   start: 2026-10-27T01:01:00Z
   stop: 2026-10-27T01:03:00Z
   title: Vrijeme Svijet danas
@@ -43,6 +51,14 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+- eventId: 738328
+  start: 2026-10-27T01:03:00Z
+  stop: 2026-10-27T01:22:00Z
+  title: 'Studio 4: Intervju'
+  subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 679145
   start: 2026-10-27T01:23:00Z
   stop: 2026-10-27T01:27:00Z
@@ -52,7 +68,17 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 679146
+- eventId: 738329
+  start: 2026-10-27T01:23:00Z
+  stop: 2026-10-27T01:27:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 679146
+  - 738330
   start: 2026-10-27T01:27:00Z
   stop: 2026-10-27T01:30:00Z
   title: Bez komentara
@@ -63,14 +89,16 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 679147
   start: 2026-10-27T01:30:00Z
-  stop: 2026-10-27T01:53:00Z
+  stop: 2026-10-27T01:52:00Z
   title: Regionalni dnevnik
   subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
   ageRating: 4
   genre:
   - '32'
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 679148
+- eventId:
+  - 679148
+  - 738331
   start: 2026-10-27T01:53:00Z
   stop: 2026-10-27T01:55:00Z
   title: Bez komentara
@@ -79,7 +107,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 679149
+- eventId:
+  - 679149
+  - 738332
   start: 2026-10-27T01:55:00Z
   stop: 2026-10-27T02:00:00Z
   title: Poslovne vijesti
@@ -106,7 +136,9 @@
   genre:
   - '32'
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 679152
+- eventId:
+  - 679152
+  - 738333
   start: 2026-10-27T02:18:00Z
   stop: 2026-10-27T02:20:00Z
   title: Bez komentara
@@ -135,7 +167,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 679155
   start: 2026-10-27T02:30:00Z
-  stop: 2026-10-27T02:50:00Z
+  stop: 2026-10-27T02:49:00Z
   title: 'Studio 4: Dijagnoza'
   subtitle: U razgovoru s liječnicima i reportažama otkrivaju se istine i zablude vezane za određenu dijagnozu, potiče na aktivnosti koje preveniraju bolest te na pravodobnu terapiju nakon postavljanja dijagnoze
   ageRating: 4
@@ -151,6 +183,14 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 738334
+  start: 2026-10-27T02:50:00Z
+  stop: 2026-10-27T02:53:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 679157
   start: 2026-10-27T02:53:00Z
   stop: 2026-10-27T02:58:00Z
@@ -160,7 +200,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 679158
+- eventId:
+  - 679158
+  - 738335
   start: 2026-10-27T02:58:00Z
   stop: 2026-10-27T03:43:00Z
   title: Pregled dana
@@ -205,7 +247,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 679163
+- eventId:
+  - 679163
+  - 738336
   start: 2026-10-27T04:54:00Z
   stop: 2026-10-27T04:55:00Z
   title: Vrijeme Europa danas
@@ -223,7 +267,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 679165
+- eventId:
+  - 679165
+  - 738337
   start: 2026-10-27T04:57:00Z
   stop: 2026-10-27T05:00:00Z
   title: Bez komentara
@@ -268,7 +314,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 679170
+- eventId:
+  - 679170
+  - 738338
   start: 2026-10-27T05:26:00Z
   stop: 2026-10-27T05:56:00Z
   title: Otvoreno
@@ -277,7 +325,9 @@
   genre:
   - '160'
   description: 'Dvije su ga godine lomili i na kraju slomili. Studentski pokret šalje Aleksandra Vučića u oporbu, a srbijanski politički sustav stavlja na kušnju. Hoće li se promijeniti način na koji država funkcionira ili samo ljudi na vlasti? Što poraz znači za dugogodišnjeg političkog lidera Vučića, SNS i njihovu interesnu mrežu? Je li studentska lista nova demokratska alternativa ili tek savez vrlo različitih ljudi koje je ujedinio cilj rušenja Vučićeve vlasti? Znači li promjena vlasti i zaokret Srbije prema Europskoj uniji, drukčiju politiku prema Rusiji i Kini te bolje odnose sa susjedima, uključujući Hrvatsku? Gosti: Jerko Trogrlić, politički analitičar i komunikacijski savjetnik Krešimir Macan, komunikacijski stručnjak prof. dr. sc. Pero Maldini, politolog sa Sveučilišta u Dubrovniku'
-- eventId: 679171
+- eventId:
+  - 679171
+  - 738339
   start: 2026-10-27T05:56:00Z
   stop: 2026-10-27T06:00:00Z
   title: Bez komentara
@@ -520,6 +570,7 @@
   - 737070
   - 737277
   - 738028
+  - 738340
   start: 2026-10-27T12:45:00Z
   stop: 2026-10-27T12:50:00Z
   title: Poslovne vijesti
@@ -552,6 +603,7 @@
   - 737071
   - 737278
   - 738029
+  - 738341
   start: 2026-10-27T12:50:00Z
   stop: 2026-10-27T13:00:00Z
   title: 'Studio 4: Znanost'
