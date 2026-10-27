@@ -155,7 +155,7 @@
   - 787605
   - 790702
   start: 2026-11-04T08:00:00Z
-  stop: 2026-11-04T08:25:00Z
+  stop: 2026-11-04T08:10:00Z
   title: ZIB
   genre:
   - '32'
@@ -163,7 +163,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 754803
+- eventId:
+  - 754803
+  - 754895
   start: 2026-11-04T08:10:00Z
   stop: 2026-11-04T09:05:00Z
   title: Kulturzeit
@@ -171,6 +173,8 @@
   genre:
   - '112'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 569688
   - 586044
