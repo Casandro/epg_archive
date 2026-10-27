@@ -36,14 +36,16 @@
   audiodesc: true
 - eventId: 686469
   start: 2026-11-21T04:40:00Z
-  stop: 2026-11-21T06:00:00Z
+  stop: 2026-11-21T05:00:00Z
   title: Space Night
   subtitle: The Blue Planet
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 686470
+- eventId:
+  - 686470
+  - 752482
   start: 2026-11-21T05:00:00Z
   stop: 2026-11-21T05:30:00Z
   title: STATIONEN
@@ -52,7 +54,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 686471
+- eventId:
+  - 686471
+  - 752483
   start: 2026-11-21T05:30:00Z
   stop: 2026-11-21T06:00:00Z
   title: Dahoam is Dahoam (3830)
@@ -117,19 +121,50 @@
   audiodesc: true
 - eventId: 686486
   start: 2026-11-21T08:55:00Z
-  stop: 2026-11-21T09:40:00Z
+  stop: 2026-11-21T09:25:00Z
   title: Abenteuer Wildnis
   subtitle: Jenseits der Wildnis - Tiere in unserer Nähe
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 686494
-  start: 2026-11-21T09:40:00Z
-  stop: 2026-11-21T11:10:00Z
+- eventId: 752487
+  start: 2026-11-21T09:25:00Z
+  stop: 2026-11-21T09:40:00Z
   title: Eine Mutter für Anna
   subtitle: Spielfilm Deutschland 2005
   ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 686494
+  start: 2026-11-21T09:40:00Z
+  stop: 2026-11-21T10:55:00Z
+  title: Eine Mutter für Anna
+  subtitle: Spielfilm Deutschland 2005
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 752488
+  start: 2026-11-21T10:55:00Z
+  stop: 2026-11-21T11:00:00Z
+  title: Glockenläuten aus der Pfarrkirche in Wallerstein
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 752489
+  start: 2026-11-21T11:00:00Z
+  stop: 2026-11-21T11:10:00Z
+  title: Ich leih' mir eine Familie
+  subtitle: Spielfilm Deutschland 2007
   genre:
   - '16'
   widescreen: true
@@ -146,7 +181,7 @@
   audiodesc: true
 - eventId: 686496
   start: 2026-11-21T11:15:00Z
-  stop: 2026-11-21T12:45:00Z
+  stop: 2026-11-21T12:30:00Z
   title: Ich leih' mir eine Familie
   subtitle: Spielfilm Deutschland 2007
   genre:
@@ -155,11 +190,29 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 686502
-  start: 2026-11-21T12:45:00Z
-  stop: 2026-11-21T13:15:00Z
+- eventId: 752493
+  start: 2026-11-21T12:30:00Z
+  stop: 2026-11-21T12:45:00Z
   title: Einfach & köstlich
   subtitle: Björn Freitag kocht mit Rico Birndt
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 686502
+  start: 2026-11-21T12:45:00Z
+  stop: 2026-11-21T13:00:00Z
+  title: Einfach & köstlich
+  subtitle: Björn Freitag kocht mit Rico Birndt
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 752494
+  start: 2026-11-21T13:00:00Z
+  stop: 2026-11-21T13:15:00Z
+  title: Blickpunkt Sport live
+  subtitle: 'Fußball 3. Liga: SSV Jahn Regensburg - Würzburger Kickers'
   widescreen: true
   subtitled: true
   hd: true
