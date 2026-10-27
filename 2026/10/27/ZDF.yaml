@@ -391,7 +391,7 @@
   - 613544
   - 613647
   start: 2026-10-27T16:10:00Z
-  stop: 2026-10-27T17:00:00Z
+  stop: 2026-10-27T17:10:00Z
   title: hallo deutschland
   genre:
   - '32'
@@ -439,7 +439,9 @@
     Schnitt: Ulrike Leipold
     Musik: Hansjörg Kohli
     HD-Produktion
-- eventId: 755227
+- eventId:
+  - 755227
+  - 755308
   start: 2026-10-27T17:10:00Z
   stop: 2026-10-27T18:00:00Z
   title: SOKO Köln
@@ -466,6 +468,8 @@
   - '17'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1482376
   - 1482441
