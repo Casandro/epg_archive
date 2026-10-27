@@ -192,10 +192,21 @@
   audiodesc: true
 - eventId: 679560
   start: 2026-11-21T14:45:00Z
-  stop: 2026-11-21T16:53:00Z
+  stop: 2026-11-21T15:35:00Z
   title: Auf Achse (13/13)
   subtitle: Wüstenkoller
   episodeUri: crid://onid-1/e/6aceace48a89b3feb693a879
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 757926
+  start: 2026-11-21T15:35:00Z
+  stop: 2026-11-21T16:53:00Z
+  title: Die Prinzessin mit dem goldenen Stern
+  subtitle: Spielfilm CSSR 1959
+  genre:
+  - '16'
   widescreen: true
   subtitled: true
   hd: true
@@ -204,7 +215,7 @@
   start: 2026-11-21T16:53:00Z
   stop: 2026-11-21T17:00:00Z
   title: Unser Sandmännchen
-  subtitle: Fuchs und Elster
+  subtitle: 'Fuchs und Elster: Herr Fuchs und seine Vogelscheuche'
   episodeUri: crid://onid-1/e/6aceace48a89b3feb693a877
   widescreen: true
   subtitled: true
@@ -281,7 +292,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 725275
+- eventId:
+  - 725275
+  - 757928
   start: 2026-11-21T19:00:00Z
   stop: 2026-11-21T19:15:00Z
   title: Tagesschau
