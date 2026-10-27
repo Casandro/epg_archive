@@ -207,7 +207,7 @@
   - '166'
 - eventId: 664539
   start: 2026-10-27T13:00:00Z
-  stop: 2026-10-27T14:00:00Z
+  stop: 2026-10-27T16:25:00Z
   title: Du bist schön!
   subtitle: 1-2-3.tv Programmvorschau 27.10.2026, 14-15 Uhr
   description: In dieser Stunde erwarten Sie diverse Highlights.
@@ -246,7 +246,9 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 664569
+- eventId:
+  - 664569
+  - 757463
   start: 2026-10-27T16:25:00Z
   stop: 2026-10-27T17:35:00Z
   title: Unvergessene Legenden - Roy Black und seine Filmhits
@@ -268,6 +270,11 @@
   stop: 2026-10-27T18:05:00Z
   title: Teleshopping
   subtitle: Teleshopping
+- eventId: 757544
+  start: 2026-10-27T17:35:00Z
+  stop: 2026-10-27T18:00:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
 - eventId:
   - 721414
   - 733025
@@ -279,13 +286,17 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 664599
+- eventId:
+  - 664599
+  - 757545
   start: 2026-10-27T18:05:00Z
   stop: 2026-10-27T18:40:00Z
   title: Das große Rudy-Giovannini-Wunschkonzert
   subtitle: Das große Rudy-Giovannini-Wunschkonzert
   description: Die beliebtesten Wunsch-Hits des Tenors aus Südtirol, Rudy Giovannini, werden in dieser Sendung erfüllt. Mit strahlenden Tönen, die Rudy mit Leichtigkeit auch ohne technische Unterstützung singt, begeistert er seit über 20 Jahren seine Fans in ganz Europa. Aber auch Rudys große Liebe, mit leisen zärtlichen Tönen, mit Herz und Gefühl Emotionen zu wecken, kommt in dieser Sendung nicht zu kurz. Erfahren Sie viel Wissenswertes über Privates sowie die Karriere des Ausnahme-Interpreten Rudy Giovannini. Ge 2021
-- eventId: 664600
+- eventId:
+  - 664600
+  - 757546
   start: 2026-10-27T18:40:00Z
   stop: 2026-10-27T19:15:00Z
   title: Teleshopping
@@ -301,7 +312,9 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 664601
+- eventId:
+  - 664601
+  - 757547
   start: 2026-10-27T19:15:00Z
   stop: 2026-10-27T21:15:00Z
   title: Legenden der Volksmusik - Andy Borg
@@ -329,7 +342,9 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 664622
+- eventId:
+  - 664622
+  - 757548
   start: 2026-10-27T21:15:00Z
   stop: 2026-10-27T23:15:00Z
   title: Teleshopping
@@ -353,7 +368,9 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 664623
+- eventId:
+  - 664623
+  - 757549
   start: 2026-10-27T23:15:00Z
   stop: 2026-10-28T01:00:00Z
   title: Wenn Mädchen zum Manöver blasen

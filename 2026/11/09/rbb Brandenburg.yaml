@@ -149,6 +149,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 592775
   - 735303
@@ -161,6 +162,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 592969
   - 735368
@@ -212,6 +214,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 569557
   - 735398
@@ -225,13 +229,15 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 569558
   - 735399
   start: 2026-11-09T13:30:00Z
   stop: 2026-11-09T15:00:00Z
   title: Einspruch für die Liebe
-  subtitle: Spielfilm Deutschland 2002
+  subtitle: Fernsehfilm Deutschland 2002
   episodeUri: crid://onid-1/e/6abc37d1fc05f9b364d145df
   genre:
   - '16'
@@ -239,6 +245,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 572444
   - 735489
@@ -262,6 +269,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 572446
   - 735491
@@ -286,6 +294,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 572448
   - 735493
@@ -404,7 +414,7 @@
   start: 2026-11-09T22:45:00Z
   stop: 2026-11-10T00:15:00Z
   title: 'Tatort: Das Verhör'
-  subtitle: Spielfilm Deutschland 2022
+  subtitle: Fernsehfilm Deutschland 2022
   episodeUri: crid://onid-1/e/6abc37d1fc05f9b364d145c7
   ageRating: 12
   genre:
