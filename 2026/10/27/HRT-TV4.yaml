@@ -1,3 +1,11 @@
+- eventId: 739245
+  start: 2026-10-27T00:00:00Z
+  stop: 2026-10-27T00:05:00Z
+  title: Regionalni dnevnik
+  subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 738258
   start: 2026-10-27T00:04:00Z
   stop: 2026-10-27T00:05:00Z
@@ -42,7 +50,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 679144
+- eventId:
+  - 679144
+  - 738328
   start: 2026-10-27T01:03:00Z
   stop: 2026-10-27T01:23:00Z
   title: 'Studio 4: Intervju'
@@ -51,14 +61,6 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 738328
-  start: 2026-10-27T01:03:00Z
-  stop: 2026-10-27T01:22:00Z
-  title: 'Studio 4: Intervju'
-  subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
-  ageRating: 4
-  genre:
-  - '160'
 - eventId: 679145
   start: 2026-10-27T01:23:00Z
   stop: 2026-10-27T01:27:00Z
@@ -89,7 +91,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 679147
   start: 2026-10-27T01:30:00Z
-  stop: 2026-10-27T01:52:00Z
+  stop: 2026-10-27T01:53:00Z
   title: Regionalni dnevnik
   subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
   ageRating: 4
@@ -167,7 +169,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 679155
   start: 2026-10-27T02:30:00Z
-  stop: 2026-10-27T02:49:00Z
+  stop: 2026-10-27T02:50:00Z
   title: 'Studio 4: Dijagnoza'
   subtitle: U razgovoru s liječnicima i reportažama otkrivaju se istine i zablude vezane za određenu dijagnozu, potiče na aktivnosti koje preveniraju bolest te na pravodobnu terapiju nakon postavljanja dijagnoze
   ageRating: 4
