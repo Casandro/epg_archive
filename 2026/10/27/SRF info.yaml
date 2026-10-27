@@ -593,18 +593,11 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1030216
+- eventId:
+  - 1030216
+  - 609909
   start: 2026-10-27T04:20:00Z
   stop: 2026-10-27T04:40:00Z
-  title: 10 vor 10
-  genre:
-  - '32'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 609909
-  start: 2026-10-27T04:20:00Z
-  stop: 2026-10-27T04:45:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -616,6 +609,18 @@
   stop: 2026-10-27T04:40:00Z
   title: Meteo
   subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 751171
+  start: 2026-10-27T04:40:00Z
+  stop: 2026-10-27T04:50:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
   genre:
   - '32'
   widescreen: true
@@ -671,8 +676,8 @@
   - 1013449
   - 609912
   start: 2026-10-27T04:50:00Z
-  stop: 2026-10-27T05:00:00Z
-  title: Telesguard
+  stop: 2026-10-27T05:10:00Z
+  title: Schweiz aktuell
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
     Schweiz 2026
@@ -707,6 +712,27 @@
 - eventId: 944326
   start: 2026-10-27T05:05:00Z
   stop: 2026-10-27T05:25:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 751172
+  start: 2026-10-27T05:10:00Z
+  stop: 2026-10-27T05:15:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 751173
+  start: 2026-10-27T05:15:00Z
+  stop: 2026-10-27T05:35:00Z
   title: Schweiz aktuell
   genre:
   - '32'
@@ -751,6 +777,27 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 751174
+  start: 2026-10-27T05:35:00Z
+  stop: 2026-10-27T05:40:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 751175
+  start: 2026-10-27T05:40:00Z
+  stop: 2026-10-27T06:00:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 1013452
   - 609923
@@ -783,6 +830,27 @@
 - eventId: 944331
   start: 2026-10-27T05:55:00Z
   stop: 2026-10-27T06:15:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 751176
+  start: 2026-10-27T06:00:00Z
+  stop: 2026-10-27T06:05:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 751177
+  start: 2026-10-27T06:05:00Z
+  stop: 2026-10-27T06:25:00Z
   title: Schweiz aktuell
   genre:
   - '32'
@@ -827,6 +895,27 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 751178
+  start: 2026-10-27T06:25:00Z
+  stop: 2026-10-27T06:30:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 751179
+  start: 2026-10-27T06:30:00Z
+  stop: 2026-10-27T06:50:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 1013456
   - 609931
@@ -853,6 +942,15 @@
   subtitle: 'Wut und Zerstörung in Frankreich: Welche Rolle spielt die Wirtschaft?'
   genre:
   - '32'
+- eventId: 751180
+  start: 2026-10-27T06:50:00Z
+  stop: 2026-10-27T07:30:00Z
+  title: Eco Talk
+  subtitle: 'Wut und Zerstörung in Frankreich: Welche Rolle spielt die Wirtschaft?'
+  description: "Wütende Protestierende auf der einen, ein hoch verschuldeter Staat auf der anderen Seite: Die Ausgangslage in Frankreich ist explosiv. Könnte es zu einer grösseren Protestwelle in Europa kommen und was hiesse das für die Schweiz? \nSchweiz 2026"
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 1013457
   - 609933
@@ -875,6 +973,17 @@
   description: |-
     Harald Schmidt brachte Late Night nach Deutschland und wurde damit zum Star. Heute ist der 69-Jährige zurück beim Schauspiel und auf dem «Traumschiff» unterwegs. Bei «Gredig direkt» erzählt er, warum er im Kopf noch täglich eine Late-Night-Show produziert und warum er sich keine Sorgen machen will.
     Schweiz 2026
+- eventId: 751181
+  start: 2026-10-27T07:30:00Z
+  stop: 2026-10-27T08:05:00Z
+  title: Puls
+  subtitle: Umstrittene Therapie - Kann man Long Covid wegdenken?
+  description: |-
+    Für Long Covid gibt es nach wie vor keine heilende Therapie. Betroffene müssen sich mit der Krankheit abfinden und mit ihr leben. Nun verspricht ein Therapiekonzept Heilung durch Hirntraining. Von den einen wird es gefeiert, andere warnen deutlich.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 1013458
   - 609934
@@ -899,6 +1008,15 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 751182
+  start: 2026-10-27T08:05:00Z
+  stop: 2026-10-27T08:40:00Z
+  title: Eco Talk
+  subtitle: 'Wut und Zerstörung in Frankreich: Welche Rolle spielt die Wirtschaft?'
+  description: "Wütende Protestierende auf der einen, ein hoch verschuldeter Staat auf der anderen Seite: Die Ausgangslage in Frankreich ist explosiv. Könnte es zu einer grösseren Protestwelle in Europa kommen und was hiesse das für die Schweiz? \nSchweiz 2026"
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 1013459
   - 609935
@@ -918,6 +1036,17 @@
   subtitled: true
   hd: true
   subtitle: 'Wut und Zerstörung in Frankreich: Welche Rolle spielt die Wirtschaft?'
+- eventId: 751183
+  start: 2026-10-27T08:40:00Z
+  stop: 2026-10-27T09:25:00Z
+  title: Gredig direkt
+  subtitle: 'Harald Schmidt: Warum können Sie nicht aufhören?'
+  description: |-
+    Harald Schmidt brachte Late Night nach Deutschland und wurde damit zum Star. Heute ist der 69-Jährige zurück beim Schauspiel und auf dem «Traumschiff» unterwegs. Bei «Gredig direkt» erzählt er, warum er im Kopf noch täglich eine Late-Night-Show produziert und warum er sich keine Sorgen machen will.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 1013460
   - 609936

@@ -133,7 +133,7 @@
   - 1033148
   - 609922
   start: 2026-10-27T05:25:00Z
-  stop: 2026-10-27T07:00:00Z
+  stop: 2026-10-27T06:00:00Z
   title: RTS Info
   subtitle: L'actualité en continu
   description: En direct.
@@ -144,6 +144,7 @@
   hd: true
 - eventId:
   - 609925
+  - 751184
   - 944332
   start: 2026-10-27T06:00:00Z
   stop: 2026-10-27T07:00:00Z
@@ -414,10 +415,10 @@
   - 652368
   - 954395
   start: 2026-10-27T17:00:00Z
-  stop: 2026-10-27T18:30:00Z
+  stop: 2026-10-27T20:00:00Z
   title: Tennis
   subtitle: Swiss Indoors
-  description: En direct. 1e tour En direct de Bâle
+  description: En direct. B. Shelton (USA) - A. Kovacevic (USA), suivi de S. Wawrinka (SUI) - J. Lehecka (TCH) 1e tour En direct de Bâle
   genre:
   - '64'
   widescreen: true
@@ -455,11 +456,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 751185
+  start: 2026-10-27T20:00:00Z
+  stop: 2026-10-27T20:10:00Z
+  title: PMU
+  widescreen: true
+  hd: true
 - eventId:
   - 610093
   - 954403
   start: 2026-10-27T20:10:00Z
-  stop: 2026-10-27T21:45:00Z
+  stop: 2026-10-27T21:40:00Z
   title: La forêt de mon père
   description: |-
     Gina, 15 ans, grandit dans une famille aimante en lisière de forêt. Elle admire son père Jimmy, imprévisible et fantasque dont elle est prête à pardonner tous les excès.  Jusqu'au jour où la situation devient intenable : Jimmy bascule et le fragile équilibre familial est rompu. Dans l'incompréhension et la révolte, Gina s'allie avec un adolescent de son quartier pour sauver son père.
@@ -467,6 +474,15 @@
   ageRating: 10
   genre:
   - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 751186
+  start: 2026-10-27T21:40:00Z
+  stop: 2026-10-27T21:50:00Z
+  title: Zap RTS Sport
+  genre:
+  - '64'
   widescreen: true
   subtitled: true
   hd: true
@@ -485,11 +501,21 @@
   - 610118
   - 954843
   start: 2026-10-27T21:50:00Z
-  stop: 2026-10-27T23:30:00Z
+  stop: 2026-10-27T23:25:00Z
   title: Nocturne
   description: '(Inédit) Vous ne désirez que moi Compagnon de Marguerite Duras depuis deux ans, Yann Andréa éprouve le besoin de parler : sa relation passionnelle avec l''écrivaine ne lui laisse plus aucune liberté, il doit mettre les mots sur ce qui l''enchante et le torture. (France-2022)'
   genre:
   - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 751187
+  start: 2026-10-27T23:25:00Z
+  stop: 2026-10-28T00:00:00Z
+  title: 19h30 - Signé
+  description: '"Langue des signes"'
+  genre:
+  - '33'
   widescreen: true
   subtitled: true
   hd: true
