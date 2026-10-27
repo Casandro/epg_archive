@@ -421,7 +421,9 @@
   description: '(SC) Chaque jour, le point sur l''actualitØ sportive, de la Ligue des champions, Ω la NBA, en passant par le tennis, le cyclisme ou encore le cricket.  '
   genre:
   - '79'
-- eventId: 760989
+- eventId:
+  - 760989
+  - 761188
   start: 2026-10-27T19:30:00Z
   stop: 2026-10-27T20:00:00Z
   title: ON VA PLUS LOIN
@@ -444,3 +446,10 @@
   description: Every day, Focus offers exclusive reports filed by France 24 correspondents, looking at diverse and varied newsworthy topics from around the world. (2026)
   genre:
   - '34'
+- eventId: 761180
+  start: 2026-10-27T20:00:00Z
+  stop: 2026-10-27T20:20:00Z
+  title: 'L''ESSENTIEL : LE JOURNAL'
+  description: 'L''essentiel de l''info : grand journal, Øconomie, sport, dØcryptages et analyses des ØvØnements majeurs du moment. Pour tout savoir, pour mieux comprendre.  '
+  genre:
+  - '47'
