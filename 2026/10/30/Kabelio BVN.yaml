@@ -3,7 +3,7 @@
   - 689912
   - 730987
   start: 2026-10-30T00:00:00Z
-  stop: 2026-10-30T00:14:59Z
+  stop: 2026-10-30T00:15:00Z
   title: NOS Journaal
 - eventId: 651231
   start: 2026-10-30T00:00:00Z
@@ -20,6 +20,10 @@
   start: 2026-10-30T00:20:00Z
   stop: 2026-10-30T00:34:59Z
   title: Nederland in Beweging
+- eventId: 652284
+  start: 2026-10-30T00:20:00Z
+  stop: 2026-10-30T00:30:00Z
+  title: Nederland in Beweging
 - eventId:
   - 633043
   - 689914
@@ -27,7 +31,9 @@
   start: 2026-10-30T00:30:00Z
   stop: 2026-10-30T00:44:59Z
   title: MAX Geheugentrainer
-- eventId: 651233
+- eventId:
+  - 651233
+  - 652285
   start: 2026-10-30T00:35:00Z
   stop: 2026-10-30T00:54:59Z
   title: MAX Geheugentrainer
@@ -42,6 +48,10 @@
   start: 2026-10-30T00:55:00Z
   stop: 2026-10-30T01:09:59Z
   title: Goedemorgen Nederland
+- eventId: 652286
+  start: 2026-10-30T00:55:00Z
+  stop: 2026-10-30T01:05:00Z
+  title: Goedemorgen Nederland
 - eventId:
   - 633045
   - 689916
@@ -49,7 +59,9 @@
   start: 2026-10-30T01:05:00Z
   stop: 2026-10-30T01:14:59Z
   title: NOS Journaal
-- eventId: 651235
+- eventId:
+  - 651235
+  - 652287
   start: 2026-10-30T01:10:00Z
   stop: 2026-10-30T01:24:59Z
   title: NOS Journaal
@@ -64,6 +76,10 @@
   start: 2026-10-30T01:25:00Z
   stop: 2026-10-30T01:39:59Z
   title: Goedemorgen Nederland
+- eventId: 652288
+  start: 2026-10-30T01:25:00Z
+  stop: 2026-10-30T01:35:00Z
+  title: Goedemorgen Nederland
 - eventId:
   - 633047
   - 689918
@@ -71,7 +87,9 @@
   start: 2026-10-30T01:35:00Z
   stop: 2026-10-30T01:44:59Z
   title: Kook mee met MAX
-- eventId: 651237
+- eventId:
+  - 651237
+  - 652289
   start: 2026-10-30T01:40:00Z
   stop: 2026-10-30T01:54:59Z
   title: Kook mee met MAX
@@ -86,6 +104,10 @@
   start: 2026-10-30T01:55:00Z
   stop: 2026-10-30T02:09:59Z
   title: Goedemorgen Nederland
+- eventId: 652290
+  start: 2026-10-30T01:55:00Z
+  stop: 2026-10-30T02:05:00Z
+  title: Goedemorgen Nederland
 - eventId:
   - 633049
   - 689920
@@ -96,6 +118,10 @@
 - eventId: 651239
   start: 2026-10-30T02:10:00Z
   stop: 2026-10-30T02:24:59Z
+  title: NOS Journaal
+- eventId: 652291
+  start: 2026-10-30T02:10:00Z
+  stop: 2026-10-30T02:20:00Z
   title: NOS Journaal
 - eventId:
   - 633050
@@ -108,6 +134,10 @@
   start: 2026-10-30T02:25:00Z
   stop: 2026-10-30T03:04:59Z
   title: Ongehoord Nieuws
+- eventId: 652292
+  start: 2026-10-30T02:25:00Z
+  stop: 2026-10-30T03:00:00Z
+  title: Ongehoord Nieuws
 - eventId:
   - 633051
   - 724765
@@ -119,6 +149,10 @@
   start: 2026-10-30T03:05:00Z
   stop: 2026-10-30T03:19:59Z
   title: Sesamstraat
+- eventId: 652293
+  start: 2026-10-30T03:05:00Z
+  stop: 2026-10-30T03:15:00Z
+  title: Sesamstraat
 - eventId:
   - 633052
   - 724766
@@ -129,6 +163,10 @@
 - eventId: 651242
   start: 2026-10-30T03:20:00Z
   stop: 2026-10-30T03:34:59Z
+  title: 'Sesamstraat: 10 voor...'
+- eventId: 652294
+  start: 2026-10-30T03:20:00Z
+  stop: 2026-10-30T03:30:00Z
   title: 'Sesamstraat: 10 voor...'
 - eventId:
   - 633053
@@ -142,13 +180,15 @@
   - 724768
   - 731000
   start: 2026-10-30T03:35:00Z
-  stop: 2026-10-30T03:49:59Z
+  stop: 2026-10-30T03:39:59Z
   title: Het Klokhuis
 - eventId: 651243
   start: 2026-10-30T03:35:00Z
   stop: 2026-10-30T03:39:59Z
   title: Kindertijd
-- eventId: 651244
+- eventId:
+  - 651244
+  - 652295
   start: 2026-10-30T03:40:00Z
   stop: 2026-10-30T03:59:59Z
   title: Het Klokhuis
@@ -163,6 +203,10 @@
   start: 2026-10-30T04:00:00Z
   stop: 2026-10-30T04:19:59Z
   title: NOS Jeugdjournaal
+- eventId: 652296
+  start: 2026-10-30T04:00:00Z
+  stop: 2026-10-30T04:15:00Z
+  title: NOS Jeugdjournaal
 - eventId:
   - 633056
   - 724770
@@ -172,18 +216,19 @@
   title: NOS Journaal in Makkelijke Taal
 - eventId:
   - 633057
+  - 651246
   - 724771
   - 731003
-  start: 2026-10-30T04:20:00Z
-  stop: 2026-10-30T04:59:59Z
-  title: Tijd voor Max
-- eventId: 651246
   start: 2026-10-30T04:20:00Z
   stop: 2026-10-30T04:24:59Z
   title: NOS Journaal in Makkelijke Taal
 - eventId: 651247
   start: 2026-10-30T04:25:00Z
   stop: 2026-10-30T05:04:59Z
+  title: Tijd voor Max
+- eventId: 652297
+  start: 2026-10-30T04:25:00Z
+  stop: 2026-10-30T05:00:00Z
   title: Tijd voor Max
 - eventId:
   - 633058
@@ -192,7 +237,9 @@
   start: 2026-10-30T05:00:00Z
   stop: 2026-10-30T05:14:59Z
   title: NOS Journaal
-- eventId: 651248
+- eventId:
+  - 651248
+  - 652298
   start: 2026-10-30T05:05:00Z
   stop: 2026-10-30T05:24:59Z
   title: NOS Journaal
@@ -207,6 +254,10 @@
   start: 2026-10-30T05:25:00Z
   stop: 2026-10-30T05:54:59Z
   title: BinnensteBuiten
+- eventId: 652299
+  start: 2026-10-30T05:25:00Z
+  stop: 2026-10-30T05:50:00Z
+  title: BinnensteBuiten
 - eventId:
   - 633060
   - 724774
@@ -217,6 +268,10 @@
 - eventId: 651250
   start: 2026-10-30T05:55:00Z
   stop: 2026-10-30T06:24:59Z
+  title: EenVandaag
+- eventId: 652300
+  start: 2026-10-30T05:55:00Z
+  stop: 2026-10-30T06:20:00Z
   title: EenVandaag
 - eventId:
   - 633061
@@ -229,6 +284,10 @@
   start: 2026-10-30T06:25:00Z
   stop: 2026-10-30T07:09:59Z
   title: Eva
+- eventId: 652301
+  start: 2026-10-30T06:25:00Z
+  stop: 2026-10-30T07:05:00Z
+  title: Eva
 - eventId:
   - 633062
   - 724776
@@ -240,6 +299,10 @@
   start: 2026-10-30T07:10:00Z
   stop: 2026-10-30T07:34:59Z
   title: NOS Journaal
+- eventId: 652302
+  start: 2026-10-30T07:10:00Z
+  stop: 2026-10-30T07:30:00Z
+  title: NOS Journaal
 - eventId:
   - 633063
   - 724777
@@ -247,7 +310,9 @@
   start: 2026-10-30T07:30:00Z
   stop: 2026-10-30T07:39:59Z
   title: NOS Journaal Regio
-- eventId: 651253
+- eventId:
+  - 651253
+  - 652303
   start: 2026-10-30T07:35:00Z
   stop: 2026-10-30T07:44:59Z
   title: NOS Journaal Regio
@@ -258,7 +323,9 @@
   start: 2026-10-30T07:40:00Z
   stop: 2026-10-30T08:24:59Z
   title: Zussen
-- eventId: 651254
+- eventId:
+  - 651254
+  - 652304
   start: 2026-10-30T07:45:00Z
   stop: 2026-10-30T08:34:59Z
   title: Zussen
@@ -273,6 +340,10 @@
   start: 2026-10-30T08:35:00Z
   stop: 2026-10-30T09:14:59Z
   title: De slimste mens
+- eventId: 652305
+  start: 2026-10-30T08:35:00Z
+  stop: 2026-10-30T09:10:00Z
+  title: De slimste mens
 - eventId:
   - 633066
   - 724780
@@ -280,7 +351,9 @@
   start: 2026-10-30T09:10:00Z
   stop: 2026-10-30T09:44:59Z
   title: Nieuwsuur
-- eventId: 651256
+- eventId:
+  - 651256
+  - 652306
   start: 2026-10-30T09:15:00Z
   stop: 2026-10-30T09:54:59Z
   title: Nieuwsuur
@@ -295,6 +368,10 @@
   start: 2026-10-30T09:55:00Z
   stop: 2026-10-30T10:39:59Z
   title: Pauw & De Wit
+- eventId: 652307
+  start: 2026-10-30T09:55:00Z
+  stop: 2026-10-30T10:35:00Z
+  title: Pauw & De Wit
 - eventId:
   - 633068
   - 724782
@@ -302,7 +379,9 @@
   start: 2026-10-30T10:35:00Z
   stop: 2026-10-30T10:54:59Z
   title: NOS Journaal
-- eventId: 651258
+- eventId:
+  - 651258
+  - 652308
   start: 2026-10-30T10:40:00Z
   stop: 2026-10-30T11:04:59Z
   title: NOS Journaal
@@ -313,7 +392,9 @@
   start: 2026-10-30T10:55:00Z
   stop: 2026-10-30T11:19:59Z
   title: De Joodse Wereld
-- eventId: 651259
+- eventId:
+  - 651259
+  - 652309
   start: 2026-10-30T11:05:00Z
   stop: 2026-10-30T11:29:59Z
   title: De Joodse Wereld
@@ -324,7 +405,9 @@
   start: 2026-10-30T11:20:00Z
   stop: 2026-10-30T11:44:59Z
   title: Per Seconde Wijzer
-- eventId: 651260
+- eventId:
+  - 651260
+  - 652310
   start: 2026-10-30T11:30:00Z
   stop: 2026-10-30T11:59:59Z
   title: Per Seconde Wijzer
