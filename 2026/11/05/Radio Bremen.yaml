@@ -278,6 +278,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId:
   - 1591652
   - 581580
@@ -290,6 +292,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 1590968
   - 588489
@@ -302,6 +305,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 1590969
   - 588490
@@ -331,11 +335,14 @@
   - 603804
   start: 2026-11-05T14:10:00Z
   stop: 2026-11-05T15:00:00Z
-  title: Watzmann ermittelt
+  title: Watzmann ermittelt (40)
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Zweimal gestorben
+  genre:
+  - '16'
 - eventId:
   - 1228501
   - 588886
@@ -387,7 +394,7 @@
   start: 2026-11-05T16:10:00Z
   stop: 2026-11-05T17:00:00Z
   title: Leopard, Seebär & Co. (109)
-  subtitle: Eine Jungs-WG für Kamel Kalif
+  subtitle: Geschichten aus dem Tierpark Hagenbeck in Hamburg
   widescreen: true
   subtitled: true
   hd: true
@@ -524,22 +531,24 @@
   - 605218
   start: 2026-11-05T21:00:00Z
   stop: 2026-11-05T21:50:00Z
-  title: Morden im Norden
+  title: Morden im Norden (167)
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Vergebung
 - eventId:
   - 1591101
   - 553944
   - 605219
   start: 2026-11-05T21:50:00Z
   stop: 2026-11-05T22:35:00Z
-  title: Morden im Norden
+  title: Morden im Norden (168)
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Gefallene Götter
 - eventId:
   - 1591102
   - 553945
@@ -551,3 +560,4 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: 'Moderation: Caren Miosga'
