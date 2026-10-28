@@ -10,8 +10,18 @@
   hd: true
   audiodesc: true
   subtitle: Das Städteduell im Südwesten
+- eventId: 628727
+  start: 2026-11-10T00:15:00Z
+  stop: 2026-11-10T01:00:00Z
+  title: Stadt - Land - Quiz
+  subtitle: Das Städteduell im Südwesten
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 599788
+  - 628728
   - 634398
   - 848785
   start: 2026-11-10T01:00:00Z
@@ -36,10 +46,20 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 628729
+  start: 2026-11-10T01:35:00Z
+  stop: 2026-11-10T03:25:00Z
+  title: Kaffee oder Tee
+  subtitle: Der SWR Nachmittag
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 552032
   - 599868
   - 600174
+  - 628802
   - 762632
   - 955727
   start: 2026-11-10T03:25:00Z
@@ -53,6 +73,7 @@
   - 552033
   - 599869
   - 600175
+  - 628803
   - 762633
   - 955728
   start: 2026-11-10T04:05:00Z
@@ -66,6 +87,7 @@
   - 552034
   - 599870
   - 600176
+  - 628804
   - 762634
   - 955729
   start: 2026-11-10T04:30:00Z
@@ -79,6 +101,7 @@
   - 552035
   - 599871
   - 600177
+  - 628805
   - 762635
   - 955730
   start: 2026-11-10T05:00:00Z
@@ -93,6 +116,7 @@
   - 552194
   - 599968
   - 600246
+  - 628879
   - 762645
   - 955756
   start: 2026-11-10T06:55:00Z
@@ -106,6 +130,7 @@
   - 552195
   - 599969
   - 600247
+  - 628880
   - 762646
   - 955757
   start: 2026-11-10T08:00:00Z
@@ -122,6 +147,7 @@
   - 570870
   - 600099
   - 600326
+  - 628956
   - 762655
   - 851470
   - 955784
@@ -150,6 +176,7 @@
 - eventId:
   - 552368
   - 600327
+  - 628957
   - 762656
   - 955785
   start: 2026-11-10T09:50:00Z
@@ -177,6 +204,7 @@
 - eventId:
   - 552369
   - 600328
+  - 628958
   - 762657
   - 955786
   start: 2026-11-10T10:40:00Z
@@ -204,6 +232,7 @@
 - eventId:
   - 552370
   - 600329
+  - 628959
   - 762658
   - 955787
   start: 2026-11-10T11:10:00Z
@@ -218,6 +247,7 @@
   - 552371
   - 600103
   - 600330
+  - 628960
   - 762619
   - 762659
   - 955701
@@ -236,6 +266,7 @@
 - eventId:
   - 552509
   - 600386
+  - 629013
   - 762668
   - 955809
   start: 2026-11-10T13:25:00Z
@@ -262,6 +293,7 @@
   - 552510
   - 600181
   - 600387
+  - 629014
   - 685228
   - 762669
   - 874792
@@ -279,6 +311,7 @@
   - 552684
   - 600274
   - 600480
+  - 629102
   - 762685
   - 955839
   start: 2026-11-10T15:00:00Z
@@ -292,6 +325,7 @@
   - 552685
   - 600275
   - 600481
+  - 629103
   - 762686
   - 955840
   start: 2026-11-10T15:04:00Z
@@ -305,6 +339,7 @@
   - 552686
   - 600276
   - 600482
+  - 629104
   - 762687
   - 955841
   start: 2026-11-10T15:05:00Z
@@ -319,6 +354,7 @@
   - 552687
   - 600277
   - 600483
+  - 629105
   - 762688
   - 955842
   start: 2026-11-10T16:00:00Z
@@ -332,6 +368,7 @@
   - 552688
   - 600278
   - 600484
+  - 629106
   - 762689
   - 955843
   start: 2026-11-10T16:05:00Z
@@ -346,6 +383,7 @@
   - 552689
   - 600279
   - 600485
+  - 629107
   - 762690
   - 955844
   start: 2026-11-10T17:00:00Z
@@ -359,6 +397,7 @@
   - 552690
   - 600280
   - 600486
+  - 629108
   - 762691
   - 955845
   start: 2026-11-10T17:10:00Z
@@ -368,15 +407,21 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 600404
+- eventId:
+  - 600404
+  - 629202
   start: 2026-11-10T18:30:00Z
   stop: 2026-11-10T18:57:00Z
   title: SWR Aktuell Baden-Württemberg
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 552888
   - 600405
   - 600597
+  - 629203
   - 762710
   - 956088
   start: 2026-11-10T18:57:00Z
@@ -390,6 +435,7 @@
   - 552889
   - 600406
   - 600598
+  - 629204
   - 762711
   - 956089
   start: 2026-11-10T19:00:00Z
@@ -405,6 +451,7 @@
   - 552890
   - 600407
   - 600599
+  - 629205
   - 762712
   - 956090
   start: 2026-11-10T19:15:00Z
@@ -419,6 +466,7 @@
   - 552891
   - 600408
   - 600600
+  - 629206
   - 762713
   - 956091
   start: 2026-11-10T20:00:00Z
@@ -432,11 +480,57 @@
   - 552892
   - 600409
   - 600601
+  - 629207
   - 762714
   - 956092
   start: 2026-11-10T20:45:00Z
   stop: 2026-11-10T21:00:00Z
   title: SWR Aktuell Baden-Württemberg
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 629280
+  start: 2026-11-10T21:00:00Z
+  stop: 2026-11-10T21:30:00Z
+  title: Hannes und der Bürgermeister (62)
+  subtitle: Gnau gnomma / Der Fernseh
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 629281
+  start: 2026-11-10T21:30:00Z
+  stop: 2026-11-10T22:00:00Z
+  title: Heinrich del Core live
+  subtitle: Mütter und andere Probleme
+  ageRating: 6
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 629282
+  start: 2026-11-10T22:00:00Z
+  stop: 2026-11-10T22:45:00Z
+  title: Samuel Kilian in kabarett.com
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 629283
+  start: 2026-11-10T22:45:00Z
+  stop: 2026-11-10T23:30:00Z
+  title: Nuhr im Ersten
+  subtitle: 'Moderation: Dieter Nuhr'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 629284
+  start: 2026-11-10T23:30:00Z
+  stop: 2026-11-11T00:00:00Z
+  title: Hannes und der Bürgermeister (62)
+  subtitle: Gnau gnomma / Der Fernseh
   widescreen: true
   subtitled: true
   hd: true

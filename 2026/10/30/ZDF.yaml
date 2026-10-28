@@ -6,6 +6,7 @@
   - 555783
   - 612760
   - 612849
+  - 630430
   start: 2026-10-30T00:15:00Z
   stop: 2026-10-30T02:30:00Z
   title: Midsommar
@@ -40,6 +41,7 @@
   - 555784
   - 612761
   - 612850
+  - 630431
   start: 2026-10-30T02:30:00Z
   stop: 2026-10-30T03:15:00Z
   title: Hamilton - Undercover in Stockholm
@@ -76,6 +78,7 @@
   - 556022
   - 612796
   - 612977
+  - 630435
   start: 2026-10-30T03:15:00Z
   stop: 2026-10-30T04:00:00Z
   title: Hamilton - Undercover in Stockholm
@@ -112,6 +115,7 @@
   - 556023
   - 612797
   - 612978
+  - 630436
   start: 2026-10-30T04:00:00Z
   stop: 2026-10-30T04:30:00Z
   title: hallo deutschland
@@ -135,6 +139,7 @@
   - 556024
   - 612798
   - 612979
+  - 630437
   start: 2026-10-30T04:30:00Z
   stop: 2026-10-30T08:00:00Z
   title: ZDF-Morgenmagazin
@@ -157,6 +162,7 @@
   - 556275
   - 612987
   - 613000
+  - 630508
   start: 2026-10-30T08:00:00Z
   stop: 2026-10-30T08:05:00Z
   title: heute Xpress
@@ -174,6 +180,7 @@
   - 556276
   - 612988
   - 613001
+  - 630509
   start: 2026-10-30T08:05:00Z
   stop: 2026-10-30T09:30:00Z
   title: Volle Kanne - Service täglich
@@ -202,6 +209,7 @@
   - 557705
   - 612995
   - 613328
+  - 630531
   start: 2026-10-30T09:30:00Z
   stop: 2026-10-30T10:15:00Z
   title: Notruf Hafenkante
@@ -236,6 +244,7 @@
   - 557706
   - 612996
   - 613329
+  - 630532
   start: 2026-10-30T10:15:00Z
   stop: 2026-10-30T11:00:00Z
   title: SOKO Wismar
@@ -270,6 +279,7 @@
   - 557707
   - 612997
   - 613330
+  - 630533
   start: 2026-10-30T11:00:00Z
   stop: 2026-10-30T13:00:00Z
   title: ARD-Mittagsmagazin
@@ -292,6 +302,7 @@
   - 557963
   - 613016
   - 613504
+  - 630598
   start: 2026-10-30T13:00:00Z
   stop: 2026-10-30T13:15:00Z
   title: heute - in Deutschland
@@ -332,6 +343,7 @@
   - 557964
   - 613017
   - 613505
+  - 630599
   start: 2026-10-30T13:15:00Z
   stop: 2026-10-30T14:00:00Z
   title: Die Küchenschlacht
@@ -383,6 +395,7 @@
   - 546856
   - 557965
   - 613506
+  - 630600
   start: 2026-10-30T14:00:00Z
   stop: 2026-10-30T14:05:00Z
   title: heute Xpress
@@ -425,6 +438,7 @@
   - 546857
   - 557966
   - 613507
+  - 630601
   start: 2026-10-30T14:05:00Z
   stop: 2026-10-30T15:00:00Z
   title: Bares für Rares
@@ -449,6 +463,7 @@
   - 558258
   - 613078
   - 613766
+  - 630604
   start: 2026-10-30T15:00:00Z
   stop: 2026-10-30T15:10:00Z
   title: heute - in Europa
@@ -466,6 +481,7 @@
   - 558259
   - 613079
   - 613767
+  - 630605
   start: 2026-10-30T15:10:00Z
   stop: 2026-10-30T16:00:00Z
   title: Die Rosenheim-Cops
@@ -500,6 +516,7 @@
   - 558260
   - 613080
   - 613768
+  - 630606
   start: 2026-10-30T16:00:00Z
   stop: 2026-10-30T16:10:00Z
   title: heute
@@ -517,6 +534,7 @@
   - 558261
   - 613081
   - 613769
+  - 630607
   start: 2026-10-30T16:10:00Z
   stop: 2026-10-30T17:00:00Z
   title: hallo deutschland
@@ -539,6 +557,7 @@
   - 558262
   - 613082
   - 613770
+  - 630608
   start: 2026-10-30T17:00:00Z
   stop: 2026-10-30T18:00:00Z
   title: SOKO Wien
@@ -575,6 +594,7 @@
   - 546971
   - 612033
   - 613091
+  - 630624
   start: 2026-10-30T18:00:00Z
   stop: 2026-10-30T18:20:00Z
   title: heute
@@ -597,6 +617,7 @@
   - 546972
   - 612034
   - 613092
+  - 630625
   start: 2026-10-30T18:20:00Z
   stop: 2026-10-30T18:25:00Z
   title: Wetter
@@ -618,6 +639,7 @@
   - 546973
   - 612035
   - 613093
+  - 630626
   start: 2026-10-30T18:25:00Z
   stop: 2026-10-30T19:15:00Z
   title: Bettys Diagnose
@@ -653,6 +675,7 @@
   - 551343
   - 558459
   - 613094
+  - 630627
   start: 2026-10-30T19:15:00Z
   stop: 2026-10-30T20:15:00Z
   title: Jenseits der Spree
@@ -698,7 +721,9 @@
     Schnitt: Sebastian Hänel
     Musik: Philipp E. Kümpel, Andreas Moisa
     HD-Produktion
-- eventId: 544345
+- eventId:
+  - 544345
+  - 630628
   start: 2026-10-30T20:15:00Z
   stop: 2026-10-30T21:00:00Z
   title: SOKO Leipzig
@@ -707,6 +732,26 @@
   - '17'
   widescreen: true
   subtitled: true
+  description: |-
+    Krimiserie, Deutschland 2026
+    Ein Steinwurf durch das Fenster bringt Oberstaatsanwalt Binz' Leben ins Wanken. Seine Tochter wird verletzt, und die Drohung ist eindeutig: "Pass gut auf dich auf - und auf deine Lieben!"
+
+    Der Verdacht fällt auf Mike, einen jungen Mann, mit dem Binz eine Affäre hatte. Als ein enger Freund von Binz ermordet aufgefunden wird und kurz darauf ein weiterer Anschlag nur knapp misslingt, wird der Druck, Mike ausfindig zu machen, immer größer.
+    Darsteller:
+    Ina Zimmermann - Melanie Marschke
+    Dirk Trebbe - Simon Böer
+    Lorenz Rettig - Daniel Steiner
+    Prof. Dr. Sabine Rossi - Anna Stieblich
+    Oberstaatsanwalt Binz - Michael Rotschopf
+    Awa - Naomi Michaela Douo
+    Regie: Eline Gehring
+    Buch/Autor: Ulf Tschauder
+    Kamera: Julia Schlingmann
+    Schnitt: Sebastian Hänel
+    Musik: Philipp E. Kümpel, Andreas Moisa
+    HD-Produktion
+  hd: true
+  audiodesc: true
 - eventId:
   - 1289434
   - 1289469
@@ -746,6 +791,7 @@
   - 546543
   - 547061
   - 612213
+  - 630783
   start: 2026-10-30T21:00:00Z
   stop: 2026-10-30T21:30:00Z
   title: heute journal
@@ -769,6 +815,7 @@
   - 547062
   - 612214
   - 613274
+  - 630784
   start: 2026-10-30T21:30:00Z
   stop: 2026-10-30T22:00:00Z
   title: heute-show
@@ -788,6 +835,7 @@
 - eventId:
   - 544351
   - 613275
+  - 630785
   start: 2026-10-30T22:00:00Z
   stop: 2026-10-30T22:30:00Z
   title: ZDF Magazin vor Ort
@@ -811,6 +859,7 @@
   - 544352
   - 547064
   - 613276
+  - 630786
   start: 2026-10-30T22:30:00Z
   stop: 2026-10-30T23:00:00Z
   title: 'aspekte extra: Take That'
@@ -836,6 +885,7 @@
   - 542748
   - 544353
   - 613277
+  - 630787
   start: 2026-10-30T23:00:00Z
   stop: 2026-10-30T23:15:00Z
   title: heute journal update
@@ -857,6 +907,7 @@
   - 542749
   - 544354
   - 613278
+  - 630788
   start: 2026-10-30T23:15:00Z
   stop: 2026-10-31T00:00:00Z
   title: hallo deutschland

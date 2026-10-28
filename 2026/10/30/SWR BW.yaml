@@ -6,6 +6,7 @@
   - 560964
   - 573384
   - 599724
+  - 627235
   start: 2026-10-30T00:25:00Z
   stop: 2026-10-30T00:55:00Z
   title: Treffpunkt
@@ -23,6 +24,7 @@
   - 560965
   - 573385
   - 599725
+  - 627236
   start: 2026-10-30T00:55:00Z
   stop: 2026-10-30T01:25:00Z
   title: Einfach & köstlich
@@ -40,6 +42,7 @@
   - 560966
   - 573386
   - 599726
+  - 627237
   start: 2026-10-30T01:25:00Z
   stop: 2026-10-30T01:50:00Z
   title: Almania (1/8)
@@ -58,6 +61,7 @@
   - 560967
   - 573387
   - 599727
+  - 627238
   start: 2026-10-30T01:50:00Z
   stop: 2026-10-30T02:15:00Z
   title: Almania (2/8)
@@ -76,6 +80,7 @@
   - 560968
   - 573388
   - 599728
+  - 627239
   start: 2026-10-30T02:15:00Z
   stop: 2026-10-30T02:45:00Z
   title: Almania (3/8)
@@ -94,6 +99,7 @@
   - 560969
   - 573389
   - 599782
+  - 627275
   start: 2026-10-30T02:45:00Z
   stop: 2026-10-30T03:15:00Z
   title: Almania (4/8)
@@ -112,6 +118,7 @@
   - 562475
   - 573506
   - 599820
+  - 627319
   start: 2026-10-30T03:15:00Z
   stop: 2026-10-30T03:30:00Z
   title: ARD Room Tour
@@ -129,6 +136,7 @@
   - 562476
   - 573507
   - 599821
+  - 627320
   start: 2026-10-30T03:30:00Z
   stop: 2026-10-30T04:05:00Z
   title: aktueller bericht
@@ -145,6 +153,7 @@
   - 562477
   - 573508
   - 599822
+  - 627321
   start: 2026-10-30T04:05:00Z
   stop: 2026-10-30T04:30:00Z
   title: SWR Aktuell Rheinland-Pfalz
@@ -161,6 +170,7 @@
   - 562478
   - 573509
   - 599823
+  - 627322
   start: 2026-10-30T04:30:00Z
   stop: 2026-10-30T05:00:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -177,6 +187,7 @@
   - 562479
   - 573510
   - 599824
+  - 627323
   start: 2026-10-30T05:00:00Z
   stop: 2026-10-30T06:55:00Z
   title: SWR3 Morningshow
@@ -199,16 +210,27 @@
   hd: true
   audiodesc: true
   description: Die Sendung zeigt live an rund 40 Standorten, wie das Wetter an den schönsten Orten in Baden-Württemberg, Rheinland-Pfalz, dem Saarland und angrenzenden Nachbarländern ist. Scheint auf den Gipfeln die Sonne? Sind im Winter die Pisten präpariert und laufen die Lifte? Regnet es am Zielort und muss die Wanderung dem Museumsbesuch weichen? Ist für den Einkauf eine Jacke notwendig? Die Wetterbilder helfen bei der Freizeitgestaltung genauso wie bei der Planung des geeigneten Verkehrsmittels zur Arbeit.
-- eventId: 551364
+- eventId:
+  - 551364
+  - 627376
   start: 2026-10-30T06:55:00Z
   stop: 2026-10-30T08:00:00Z
   title: Panoramablick
   description: Die Sendung zeigt live an rund 40 Standorten, wie das Wetter an den schönsten Orten in Baden-Württemberg, Rheinland-Pfalz, dem Saarland und angrenzenden Nachbarländern ist. Scheint auf den Gipfeln die Sonne? Sind im Winter die Pisten präpariert und laufen die Lifte? Regnet es am Zielort und muss die Wanderung dem Museumsbesuch weichen? Ist für den Einkauf eine Jacke notwendig? Die Wetterbilder helfen bei der Freizeitgestaltung genauso wie bei der Planung des geeigneten Verkehrsmittels zur Arbeit.
-- eventId: 551365
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 551365
+  - 627377
   start: 2026-10-30T08:00:00Z
   stop: 2026-10-30T09:20:00Z
   title: Landesschau Baden-Württemberg
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1429434
   - 1625550
@@ -217,6 +239,7 @@
   - 559632
   - 573644
   - 599916
+  - 627417
   start: 2026-10-30T09:20:00Z
   stop: 2026-10-30T09:50:00Z
   title: Eisenbahn-Romantik (822)
@@ -234,6 +257,7 @@
   - 559633
   - 573645
   - 599917
+  - 627418
   start: 2026-10-30T09:50:00Z
   stop: 2026-10-30T10:40:00Z
   title: Sturm der Liebe (4662)
@@ -251,6 +275,7 @@
   - 559634
   - 573646
   - 599918
+  - 627419
   start: 2026-10-30T10:40:00Z
   stop: 2026-10-30T11:10:00Z
   title: aktiv und gesund
@@ -277,6 +302,7 @@
   - 559635
   - 573647
   - 599919
+  - 627420
   start: 2026-10-30T11:10:00Z
   stop: 2026-10-30T11:55:00Z
   title: ARD-Buffet
@@ -298,6 +324,7 @@
   - 559636
   - 573648
   - 599920
+  - 627421
   start: 2026-10-30T11:55:00Z
   stop: 2026-10-30T13:25:00Z
   title: Wer aufgibt ist tot
@@ -318,6 +345,7 @@
   - 559809
   - 574433
   - 599958
+  - 627474
   start: 2026-10-30T13:25:00Z
   stop: 2026-10-30T14:10:00Z
   title: Wer weiß denn sowas? (1162)
@@ -335,6 +363,7 @@
   - 559810
   - 574434
   - 599959
+  - 627475
   start: 2026-10-30T14:10:00Z
   stop: 2026-10-30T15:00:00Z
   title: Hubert und Staller (87)
@@ -355,6 +384,7 @@
   - 559951
   - 574529
   - 600024
+  - 627533
   start: 2026-10-30T15:00:00Z
   stop: 2026-10-30T15:04:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -371,6 +401,7 @@
   - 559952
   - 574530
   - 600025
+  - 627534
   start: 2026-10-30T15:04:00Z
   stop: 2026-10-30T15:05:00Z
   title: Baden-Württemberg Wetter
@@ -386,6 +417,7 @@
   - 559953
   - 574531
   - 600026
+  - 627535
   start: 2026-10-30T15:05:00Z
   stop: 2026-10-30T16:00:00Z
   title: Kaffee oder Tee
@@ -407,6 +439,7 @@
   - 559954
   - 574532
   - 600027
+  - 627536
   start: 2026-10-30T16:00:00Z
   stop: 2026-10-30T16:05:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -423,6 +456,7 @@
   - 559955
   - 574533
   - 600028
+  - 627537
   start: 2026-10-30T16:05:00Z
   stop: 2026-10-30T17:00:00Z
   title: Kaffee oder Tee
@@ -444,6 +478,7 @@
   - 559956
   - 574534
   - 600029
+  - 627538
   start: 2026-10-30T17:00:00Z
   stop: 2026-10-30T17:10:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -460,6 +495,7 @@
   - 559957
   - 574535
   - 600030
+  - 627539
   start: 2026-10-30T17:10:00Z
   stop: 2026-10-30T18:30:00Z
   title: Landesschau Baden-Württemberg
@@ -475,6 +511,7 @@
   - 560150
   - 574634
   - 598355
+  - 627593
   start: 2026-10-30T18:30:00Z
   stop: 2026-10-30T18:57:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -491,6 +528,7 @@
   - 560151
   - 574635
   - 598356
+  - 627594
   start: 2026-10-30T18:57:00Z
   stop: 2026-10-30T19:00:00Z
   title: Baden-Württemberg Wetter
@@ -506,6 +544,7 @@
   - 560152
   - 574636
   - 598357
+  - 627595
   start: 2026-10-30T19:00:00Z
   stop: 2026-10-30T19:15:00Z
   title: Tagesschau
@@ -524,6 +563,7 @@
   - 560153
   - 574637
   - 598358
+  - 627596
   start: 2026-10-30T19:15:00Z
   stop: 2026-10-30T20:45:00Z
   title: Wunderschön!
@@ -541,6 +581,7 @@
   - 560154
   - 574638
   - 598359
+  - 627597
   start: 2026-10-30T20:45:00Z
   stop: 2026-10-30T21:00:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -557,6 +598,7 @@
   - 560320
   - 574717
   - 598419
+  - 628723
   start: 2026-10-30T21:00:00Z
   stop: 2026-10-30T22:30:00Z
   title: Nachtcafé
@@ -573,6 +615,7 @@
   - 560321
   - 574718
   - 598420
+  - 628724
   start: 2026-10-30T22:30:00Z
   stop: 2026-10-30T22:55:00Z
   title: Kurzstrecke mit Pierre M. Krause
@@ -591,6 +634,7 @@
   - 560322
   - 574719
   - 598421
+  - 628725
   start: 2026-10-30T22:55:00Z
   stop: 2026-10-30T23:35:00Z
   title: Kurzstrecke mit Pierre M. Krause
@@ -609,6 +653,7 @@
   - 560323
   - 574720
   - 598422
+  - 628726
   start: 2026-10-30T23:35:00Z
   stop: 2026-10-31T01:15:00Z
   title: Rodeo

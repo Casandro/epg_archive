@@ -10,15 +10,30 @@
   hd: true
   audiodesc: true
   subtitle: Wie gefährlich ist er wirklich?
-- eventId: 599791
+- eventId: 628730
+  start: 2026-11-14T00:50:00Z
+  stop: 2026-11-14T01:35:00Z
+  title: Risiko Wolf
+  subtitle: Wie gefährlich ist er wirklich?
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 599791
+  - 628731
   start: 2026-11-14T01:35:00Z
   stop: 2026-11-14T03:25:00Z
   title: Kaffee oder Tee
   subtitle: Der SWR Nachmittag
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 599872
   - 600178
+  - 628810
   - 685225
   - 874789
   start: 2026-11-14T03:25:00Z
@@ -31,6 +46,7 @@
 - eventId:
   - 599873
   - 600179
+  - 628811
   - 685226
   - 874790
   start: 2026-11-14T04:05:00Z
@@ -40,19 +56,31 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 599874
+- eventId:
+  - 599874
+  - 628812
   start: 2026-11-14T04:30:00Z
   stop: 2026-11-14T05:00:00Z
   title: SWR Aktuell Baden-Württemberg
   subtitled: true
-- eventId: 599875
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 599875
+  - 628813
   start: 2026-11-14T05:00:00Z
   stop: 2026-11-14T06:55:00Z
   title: SWR3 FIT
   subtitle: Visual Radio
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 599970
   - 600248
+  - 628881
   - 685261
   - 874807
   start: 2026-11-14T06:55:00Z
@@ -88,6 +116,15 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 628882
+  start: 2026-11-14T08:45:00Z
+  stop: 2026-11-14T09:15:00Z
+  title: Sehen statt Hören
+  subtitle: Fernsehen in Gebärdensprache
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 550312
   - 600104
@@ -103,6 +140,7 @@
   audiodesc: true
 - eventId:
   - 600331
+  - 628961
   - 685295
   - 874826
   start: 2026-11-14T09:15:00Z
@@ -128,6 +166,7 @@
   audiodesc: true
 - eventId:
   - 600332
+  - 628962
   - 685296
   - 874827
   start: 2026-11-14T09:45:00Z
@@ -152,6 +191,7 @@
   audiodesc: true
 - eventId:
   - 600333
+  - 628963
   - 685297
   - 874828
   start: 2026-11-14T10:00:00Z
@@ -165,6 +205,7 @@
 - eventId:
   - 600107
   - 600334
+  - 628964
   - 685202
   - 685298
   - 874776
@@ -181,6 +222,7 @@
 - eventId:
   - 600182
   - 600388
+  - 629015
   - 685323
   - 874839
   - 980187
@@ -208,6 +250,7 @@
   subtitle: Wie man eine Motorrad-Lederkombi macht
 - eventId:
   - 600389
+  - 629016
   - 685324
   - 874840
   start: 2026-11-14T14:30:00Z
@@ -221,6 +264,7 @@
 - eventId:
   - 600281
   - 600487
+  - 629109
   - 685345
   - 874856
   start: 2026-11-14T15:00:00Z
@@ -233,6 +277,7 @@
 - eventId:
   - 600282
   - 600488
+  - 629110
   - 685346
   - 874857
   start: 2026-11-14T15:45:00Z
@@ -246,6 +291,7 @@
 - eventId:
   - 600283
   - 600489
+  - 629111
   - 685347
   - 874858
   start: 2026-11-14T16:30:00Z
@@ -259,6 +305,7 @@
 - eventId:
   - 600284
   - 600490
+  - 629112
   - 685348
   - 874859
   start: 2026-11-14T17:00:00Z
@@ -271,6 +318,7 @@
 - eventId:
   - 600285
   - 600491
+  - 629113
   - 685349
   - 874860
   start: 2026-11-14T17:15:00Z
@@ -284,6 +332,7 @@
 - eventId:
   - 600286
   - 600492
+  - 629114
   - 685350
   - 874861
   start: 2026-11-14T17:45:00Z
@@ -297,6 +346,7 @@
 - eventId:
   - 600410
   - 600602
+  - 629208
   - 681606
   - 874874
   start: 2026-11-14T18:30:00Z
@@ -309,6 +359,7 @@
 - eventId:
   - 600411
   - 600603
+  - 629209
   - 681607
   - 874875
   start: 2026-11-14T18:57:00Z
@@ -321,6 +372,7 @@
 - eventId:
   - 600412
   - 600604
+  - 629210
   - 681608
   - 874876
   start: 2026-11-14T19:00:00Z
@@ -335,6 +387,7 @@
 - eventId:
   - 600413
   - 600605
+  - 629211
   - 681609
   - 874877
   start: 2026-11-14T19:15:00Z
@@ -347,6 +400,7 @@
 - eventId:
   - 600414
   - 600606
+  - 629212
   - 681610
   - 874878
   start: 2026-11-14T20:45:00Z
@@ -359,11 +413,21 @@
 - eventId:
   - 600415
   - 600607
+  - 629213
   - 681611
   - 874879
   start: 2026-11-14T20:50:00Z
   stop: 2026-11-14T22:50:00Z
   title: Die größten Schlager-Kulthits der 70er (5)
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 629285
+  start: 2026-11-14T22:50:00Z
+  stop: 2026-11-15T01:20:00Z
+  title: HOLIDAY JUMP - 75 Jahre SWR Big Band
+  subtitle: Konzert vom 29.7.2026 am Stuttgarter Killesberg
   widescreen: true
   subtitled: true
   hd: true

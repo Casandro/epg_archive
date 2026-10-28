@@ -2,6 +2,7 @@
   - 540745
   - 543753
   - 611958
+  - 629824
   - 734610
   - 737422
   start: 2026-11-02T01:15:00Z
@@ -36,6 +37,7 @@
   - 540746
   - 543754
   - 611959
+  - 629825
   - 734611
   - 737423
   start: 2026-11-02T02:50:00Z
@@ -70,6 +72,7 @@
   - 540749
   - 543776
   - 612068
+  - 629835
   - 734616
   - 737424
   start: 2026-11-02T03:35:00Z
@@ -92,6 +95,7 @@
   - 540750
   - 543777
   - 612069
+  - 629836
   - 734617
   - 737425
   start: 2026-11-02T04:00:00Z
@@ -114,6 +118,7 @@
   - 540751
   - 543778
   - 612070
+  - 629837
   - 734618
   - 737426
   start: 2026-11-02T04:30:00Z
@@ -129,6 +134,7 @@
   - 541103
   - 543877
   - 612152
+  - 629842
   - 734620
   - 737427
   start: 2026-11-02T08:00:00Z
@@ -144,6 +150,7 @@
   - 541104
   - 543878
   - 612153
+  - 629843
   - 734621
   - 737428
   start: 2026-11-02T08:05:00Z
@@ -164,6 +171,7 @@
   - 541113
   - 543950
   - 612198
+  - 629850
   - 734730
   - 737431
   start: 2026-11-02T09:30:00Z
@@ -196,6 +204,7 @@
   - 541114
   - 543951
   - 612199
+  - 629851
   - 734731
   - 737432
   start: 2026-11-02T10:15:00Z
@@ -228,6 +237,7 @@
   - 541115
   - 543952
   - 612200
+  - 629852
   - 734732
   - 737433
   start: 2026-11-02T11:00:00Z
@@ -251,6 +261,7 @@
   - 543961
   - 546616
   - 612205
+  - 629945
   - 734742
   - 737434
   start: 2026-11-02T13:00:00Z
@@ -261,7 +272,9 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 543962
+- eventId:
+  - 543962
+  - 629946
   start: 2026-11-02T13:15:00Z
   stop: 2026-11-02T14:00:00Z
   title: Die Küchenschlacht
@@ -269,7 +282,17 @@
   genre:
   - '48'
   widescreen: true
-- eventId: 543963
+  description: |-
+    Kochshow, Deutschland 2026
+    Jede Woche treten sechs Hobbyköche gegeneinander an. Von diesen bleiben zwei übrig, die sich am Freitag im Finale ein Kochduell liefern. Ein prominenter Kochprofi steht ihnen zur Seite.
+
+    Der Weg führt über den Wochensieg in eine Qualifikationswoche und dann in die große Finalwoche. Wer wird Hobbykoch des Jahres und gewinnt 25 000 Euro?
+    HD-Produktion
+  hd: true
+  audiodesc: true
+- eventId:
+  - 543963
+  - 629947
   start: 2026-11-02T14:00:00Z
   stop: 2026-11-02T14:05:00Z
   title: heute Xpress
@@ -277,7 +300,11 @@
   - '32'
   widescreen: true
   subtitled: true
-- eventId: 543964
+  hd: true
+  audiodesc: true
+- eventId:
+  - 543964
+  - 629948
   start: 2026-11-02T14:05:00Z
   stop: 2026-11-02T15:00:00Z
   title: Bares für Rares
@@ -286,10 +313,19 @@
   - '48'
   widescreen: true
   subtitled: true
+  description: |-
+    Trödel-Show, Deutschland 2026
+    Wertvoll oder wertlos? Ob alter Krimskrams oder edle Rarität: In Horst Lichters Trödel-Show kann jeder seltene Fundstücke aus Keller oder Garage schätzen lassen.
+
+    Die Geschichte der Kuriositäten, viele Schätze und noch mehr Raritäten, hammerhartes Verhandeln mit Lachen, Tränen und manchen Überraschungen - das alles bietet Horst Lichter in "Bares für Rares".
+    HD-Produktion
+  hd: true
+  audiodesc: true
 - eventId:
   - 543977
   - 546795
   - 612223
+  - 630001
   - 734746
   - 737438
   start: 2026-11-02T15:00:00Z
@@ -305,6 +341,7 @@
   - 543978
   - 546796
   - 612224
+  - 630002
   - 734747
   - 737439
   start: 2026-11-02T15:10:00Z
@@ -337,6 +374,7 @@
   - 543979
   - 546797
   - 612225
+  - 630003
   - 734748
   - 737440
   start: 2026-11-02T16:00:00Z
@@ -352,6 +390,7 @@
   - 543980
   - 546798
   - 612226
+  - 630004
   - 734749
   - 737441
   start: 2026-11-02T16:10:00Z
@@ -372,6 +411,7 @@
   - 543981
   - 546799
   - 612227
+  - 630005
   - 734750
   - 737442
   start: 2026-11-02T17:00:00Z
@@ -406,6 +446,7 @@
   - 544127
   - 547029
   - 612345
+  - 630013
   - 734930
   - 737443
   start: 2026-11-02T18:00:00Z
@@ -426,6 +467,7 @@
   - 544128
   - 547030
   - 612346
+  - 630014
   - 734931
   - 737444
   start: 2026-11-02T18:20:00Z
@@ -445,6 +487,7 @@
   - 544129
   - 547031
   - 612347
+  - 630015
   - 734932
   - 737445
   start: 2026-11-02T18:25:00Z
@@ -472,6 +515,7 @@
   - 612348
   - 613396
   - 613633
+  - 630016
   - 734933
   - 737446
   start: 2026-11-02T19:15:00Z
@@ -571,6 +615,7 @@
   subtitle: Wetter
 - eventId:
   - 612349
+  - 630017
   - 734934
   - 737447
   start: 2026-11-02T20:45:00Z
@@ -621,6 +666,7 @@
 - eventId:
   - 547145
   - 612478
+  - 630091
   - 735014
   - 737596
   start: 2026-11-02T21:15:00Z
@@ -653,6 +699,7 @@
   - 544137
   - 547146
   - 612479
+  - 630092
   - 736023
   - 737597
   start: 2026-11-02T23:00:00Z
@@ -675,6 +722,7 @@
   - 547147
   - 556542
   - 612480
+  - 630093
   - 736024
   - 737598
   start: 2026-11-02T23:15:00Z

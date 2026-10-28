@@ -6,6 +6,7 @@
   - 573023
   - 600589
   - 600749
+  - 629338
   - 677062
   - 735827
   - 874389
@@ -38,6 +39,7 @@
 - eventId:
   - 559146
   - 600750
+  - 629339
   - 677063
   - 874390
   start: 2026-11-07T01:35:00Z
@@ -55,6 +57,7 @@
   - 573225
   - 600682
   - 600820
+  - 629405
   - 677076
   - 851445
   - 874424
@@ -84,6 +87,7 @@
 - eventId:
   - 559316
   - 600821
+  - 629406
   - 677077
   - 874425
   start: 2026-11-07T04:05:00Z
@@ -111,6 +115,7 @@
 - eventId:
   - 559317
   - 600822
+  - 629407
   - 677078
   - 874426
   start: 2026-11-07T04:30:00Z
@@ -140,6 +145,7 @@
 - eventId:
   - 559318
   - 600823
+  - 629408
   - 677079
   - 874427
   start: 2026-11-07T05:00:00Z
@@ -163,20 +169,32 @@
   hd: true
   audiodesc: true
   description: SWR Aktuell liefert von Montag bis Samstag im SWR Fernsehen Themen, Hintergründe, Erklärungen und Analysen zum politischen und gesellschaftlichen Geschehen.
-- eventId: 600785
+- eventId:
+  - 600785
+  - 629477
   start: 2026-11-07T06:55:00Z
   stop: 2026-11-07T08:45:00Z
   title: Panoramablick
-- eventId: 600786
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 600786
+  - 629478
   start: 2026-11-07T08:45:00Z
   stop: 2026-11-07T09:15:00Z
   title: Sehen statt Hören
   subtitle: Fernsehen in Gebärdensprache
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 559642
   - 600882
   - 600968
+  - 629551
   - 677114
   - 874576
   start: 2026-11-07T09:15:00Z
@@ -190,6 +208,7 @@
   - 559643
   - 600883
   - 600969
+  - 629552
   - 677115
   - 874577
   start: 2026-11-07T09:45:00Z
@@ -200,13 +219,20 @@
   hd: true
   audiodesc: true
   subtitle: 'Moderation: Janina Schreiber und Katha Jansen'
-- eventId: 600884
+- eventId:
+  - 600884
+  - 629553
   start: 2026-11-07T10:00:00Z
   stop: 2026-11-07T11:30:00Z
   title: Nachtcafé
   subtitle: 'Moderation: Michael Steinbrecher'
   subtitled: true
-- eventId: 600885
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 600885
+  - 629554
   start: 2026-11-07T11:30:00Z
   stop: 2026-11-07T13:00:00Z
   title: 'Pfarrer Braun: Der Fluch der Pröbstin'
@@ -215,11 +241,15 @@
   genre:
   - '16'
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 559644
   - 559813
   - 600970
   - 601033
+  - 629611
   - 677116
   - 677127
   - 874578
@@ -254,6 +284,7 @@
 - eventId:
   - 559814
   - 601034
+  - 629612
   - 677128
   - 874611
   start: 2026-11-07T14:30:00Z
@@ -279,7 +310,9 @@
   subtitle: Wärmepumpen
   genre:
   - '144'
-- eventId: 601078
+- eventId:
+  - 601078
+  - 629692
   start: 2026-11-07T15:00:00Z
   stop: 2026-11-07T15:45:00Z
   title: Preiswert, nützlich, gut?
@@ -287,10 +320,14 @@
   genre:
   - '144'
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 559966
   - 601079
   - 601117
+  - 629693
   - 677139
   - 874694
   start: 2026-11-07T15:45:00Z
@@ -305,6 +342,7 @@
   - 559967
   - 601080
   - 601118
+  - 629694
   - 677140
   - 874695
   start: 2026-11-07T16:30:00Z
@@ -319,6 +357,7 @@
   - 559968
   - 601081
   - 601119
+  - 629695
   - 677141
   - 874696
   start: 2026-11-07T17:00:00Z
@@ -332,6 +371,7 @@
   - 559969
   - 601082
   - 601120
+  - 629696
   - 677142
   - 874697
   start: 2026-11-07T17:15:00Z
@@ -345,6 +385,7 @@
   - 559970
   - 601083
   - 601121
+  - 629697
   - 677143
   - 874698
   start: 2026-11-07T17:45:00Z
@@ -359,6 +400,7 @@
   - 560161
   - 601196
   - 601224
+  - 626399
   - 677159
   - 874726
   start: 2026-11-07T18:30:00Z
@@ -372,6 +414,7 @@
   - 560162
   - 601197
   - 601225
+  - 626400
   - 677160
   - 874727
   start: 2026-11-07T18:57:00Z
@@ -385,6 +428,7 @@
   - 560163
   - 601198
   - 601226
+  - 626401
   - 677161
   - 874728
   start: 2026-11-07T19:00:00Z
@@ -400,6 +444,7 @@
   - 560164
   - 601199
   - 601227
+  - 626402
   - 677162
   - 874729
   start: 2026-11-07T19:15:00Z
@@ -417,6 +462,7 @@
   - 560165
   - 601200
   - 601228
+  - 626403
   - 677163
   - 874730
   start: 2026-11-07T20:40:00Z
@@ -430,6 +476,7 @@
   - 560166
   - 601201
   - 601229
+  - 626404
   - 677164
   - 874731
   start: 2026-11-07T20:45:00Z
@@ -447,6 +494,7 @@
   - 560329
   - 601287
   - 601308
+  - 626495
   - 677173
   - 874755
   start: 2026-11-07T22:05:00Z
@@ -464,6 +512,7 @@
   - 560330
   - 601288
   - 601309
+  - 626496
   - 677174
   - 874756
   start: 2026-11-07T23:35:00Z
