@@ -357,11 +357,15 @@
   stop: 2026-10-28T16:27:22Z
   title: TITOLI + TG GIORNO
   subtitle: .
-- eventId: 759682
+- eventId:
+  - 618164
+  - 759682
   start: 2026-10-28T16:27:22Z
   stop: 2026-10-28T16:30:00Z
   title: RN-POMERIGGIO 3
-- eventId: 733482
+- eventId:
+  - 618165
+  - 733482
   start: 2026-10-28T16:30:00Z
   stop: 2026-10-28T16:33:34Z
   title: SERA 24 ANTEPRIMA
@@ -371,39 +375,55 @@
   stop: 2026-10-28T17:00:00Z
   title: ECONOMIA 24
   subtitle: .
-- eventId: 759683
+- eventId:
+  - 618166
+  - 759683
   start: 2026-10-28T16:33:34Z
   stop: 2026-10-28T16:57:34Z
   title: ECONOMIA 24
   subtitle: .
-- eventId: 759684
+- eventId:
+  - 618167
+  - 759684
   start: 2026-10-28T16:57:34Z
   stop: 2026-10-28T17:00:00Z
   title: RN-POMERIGGIO 4
-- eventId: 733484
+- eventId:
+  - 618168
+  - 733484
   start: 2026-10-28T17:00:00Z
   stop: 2026-10-28T17:27:35Z
   title: SERA 24
   subtitle: .
-- eventId: 759685
+- eventId:
+  - 618169
+  - 759685
   start: 2026-10-28T17:27:35Z
   stop: 2026-10-28T17:30:00Z
   title: RN-POMERIGGIO 5
-- eventId: 733485
+- eventId:
+  - 618170
+  - 733485
   start: 2026-10-28T17:30:00Z
   stop: 2026-10-28T17:58:10Z
   title: SERA 24
   subtitle: .
-- eventId: 759686
+- eventId:
+  - 618171
+  - 759686
   start: 2026-10-28T17:58:10Z
   stop: 2026-10-28T18:00:00Z
   title: RN-POMERIGGIO 6
-- eventId: 733486
+- eventId:
+  - 618188
+  - 733486
   start: 2026-10-28T18:00:00Z
   stop: 2026-10-28T18:30:00Z
   title: TG EDIZIONE PRINCIPALE
   subtitle: .
-- eventId: 733487
+- eventId:
+  - 618189
+  - 733487
   start: 2026-10-28T18:30:00Z
   stop: 2026-10-28T18:45:34Z
   title: SERA 24 OFF
@@ -413,15 +433,24 @@
   stop: 2026-10-28T19:00:00Z
   title: RULLO SPORT 24
   subtitle: .
-- eventId: 759687
+- eventId:
+  - 618190
+  - 759687
   start: 2026-10-28T18:45:34Z
   stop: 2026-10-28T18:57:34Z
   title: RULLO SPORT 24
   subtitle: .
-- eventId: 759688
+- eventId:
+  - 618191
+  - 759688
   start: 2026-10-28T18:57:34Z
   stop: 2026-10-28T19:00:00Z
   title: RN-ACCESS 1
+- eventId: 618192
+  start: 2026-10-28T19:00:00Z
+  stop: 2026-10-28T19:27:09Z
+  title: TG LIS + SERA 24
+  subtitle: .
 - eventId: 733489
   start: 2026-10-28T19:00:00Z
   stop: 2026-10-28T19:27:09Z
@@ -432,16 +461,22 @@
   stop: 2026-10-28T19:30:00Z
   title: METEO
   subtitle: .
-- eventId: 759689
+- eventId:
+  - 618193
+  - 759689
   start: 2026-10-28T19:27:09Z
   stop: 2026-10-28T19:28:14Z
   title: METEO
   subtitle: .
-- eventId: 759690
+- eventId:
+  - 618194
+  - 759690
   start: 2026-10-28T19:28:14Z
   stop: 2026-10-28T19:30:00Z
   title: RN-ACCESS 2
-- eventId: 733491
+- eventId:
+  - 618195
+  - 733491
   start: 2026-10-28T19:30:00Z
   stop: 2026-10-28T19:45:12Z
   title: SOMMARIO + TG SERA
@@ -451,25 +486,35 @@
   stop: 2026-10-28T20:00:00Z
   title: FOCUS 24
   subtitle: .
-- eventId: 759691
+- eventId:
+  - 618196
+  - 759691
   start: 2026-10-28T19:45:12Z
   stop: 2026-10-28T19:58:12Z
   title: FUTURO 24
   subtitle: .
-- eventId: 759692
+- eventId:
+  - 618197
+  - 759692
   start: 2026-10-28T19:58:12Z
   stop: 2026-10-28T20:00:00Z
   title: RN-ACCESS 3
-- eventId: 733493
+- eventId:
+  - 618198
+  - 733493
   start: 2026-10-28T20:00:00Z
   stop: 2026-10-28T20:27:47Z
   title: TITOLI + TG SERA
   subtitle: .
-- eventId: 759693
+- eventId:
+  - 618199
+  - 759693
   start: 2026-10-28T20:27:47Z
   stop: 2026-10-28T20:30:00Z
   title: RN-PRIME TIME 1
-- eventId: 733494
+- eventId:
+  - 618200
+  - 733494
   start: 2026-10-28T20:30:00Z
   stop: 2026-10-28T20:57:01Z
   title: speciale WORLD24 - ELEZIONI ISRAELE
@@ -479,47 +524,73 @@
   stop: 2026-10-28T21:00:00Z
   title: BASTA LA SALUTE
   subtitle: .
-- eventId: 759694
+- eventId:
+  - 618201
+  - 759694
   start: 2026-10-28T20:57:01Z
   stop: 2026-10-28T21:00:00Z
   title: RN-PRIME TIME 2
-- eventId: 733506
+- eventId:
+  - 618211
+  - 733506
   start: 2026-10-28T21:00:00Z
   stop: 2026-10-28T21:27:23Z
   title: speciale WORLD24 - ELEZIONI ISRAELE
   subtitle: .
-- eventId: 759695
+- eventId:
+  - 618212
+  - 759695
   start: 2026-10-28T21:27:23Z
   stop: 2026-10-28T21:30:00Z
   title: RN-PRIME TIME 3
+- eventId: 618213
+  start: 2026-10-28T21:30:00Z
+  stop: 2026-10-28T21:57:12Z
+  title: SPOTLIVE STORIE
+  subtitle: .
 - eventId: 733507
   start: 2026-10-28T21:30:00Z
   stop: 2026-10-28T21:57:12Z
   title: FACCIA A FACCIA
   subtitle: .
-- eventId: 759696
+- eventId:
+  - 618214
+  - 759696
   start: 2026-10-28T21:57:12Z
   stop: 2026-10-28T22:00:00Z
   title: RN-PRIME TIME 4
-- eventId: 733508
+- eventId:
+  - 618215
+  - 733508
   start: 2026-10-28T22:00:00Z
   stop: 2026-10-28T22:30:00Z
   title: NOTTE 24 - RASSEGNA STAMPA
   subtitle: .
-- eventId: 733509
+- eventId:
+  - 618216
+  - 733509
   start: 2026-10-28T22:30:00Z
   stop: 2026-10-28T23:00:00Z
   title: NOTTE 24 - RASSEGNA STAMPA
   subtitle: .
-- eventId: 733510
+- eventId:
+  - 618217
+  - 733510
   start: 2026-10-28T23:00:00Z
   stop: 2026-10-28T23:25:00Z
   title: TG NOTTE
   subtitle: .
-- eventId: 733511
+- eventId:
+  - 618218
+  - 733511
   start: 2026-10-28T23:25:00Z
   stop: 2026-10-28T23:30:00Z
   title: METEO
+  subtitle: .
+- eventId: 618219
+  start: 2026-10-28T23:30:00Z
+  stop: 2026-10-29T00:00:00Z
+  title: SPOTLIVE
   subtitle: .
 - eventId: 733512
   start: 2026-10-28T23:30:00Z

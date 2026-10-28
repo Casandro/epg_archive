@@ -1588,7 +1588,9 @@
   stop: 2026-10-28T15:59:00Z
   title: REMEMBER Premiera
   subtitle: ' Arhiva TVR '
-- eventId: 586859
+- eventId:
+  - 586859
+  - 599373
   start: 2026-10-28T15:00:00Z
   stop: 2026-10-28T16:00:00Z
   title: Preferenca Muzikore
@@ -1596,11 +1598,6 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 599373
-  start: 2026-10-28T15:00:00Z
-  stop: 2026-10-28T16:00:00Z
-  title: Remember
-  subtitle: '  * PremieraArhiva TVR '
 - eventId: 1028473
   start: 2026-10-28T15:30:00Z
   stop: 2026-10-28T15:59:00Z
@@ -1621,7 +1618,16 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 618801
+  start: 2026-10-28T16:00:00Z
+  stop: 2026-10-28T16:55:00Z
+  title: Pastel
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
+  - 618802
   - 717034
   - 721535
   - 723908
@@ -1676,6 +1682,7 @@
   genre:
   - '160'
 - eventId:
+  - 618803
   - 717035
   - 721536
   - 723909
@@ -1739,6 +1746,14 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 618804
+  start: 2026-10-28T17:30:00Z
+  stop: 2026-10-28T18:00:00Z
+  title: Live news AL
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1028960
   - 586862
@@ -1749,7 +1764,16 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 618805
+  start: 2026-10-28T18:00:00Z
+  stop: 2026-10-28T18:10:00Z
+  title: Promo
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
+  - 618806
   - 717036
   - 721537
   - 723910
@@ -1804,6 +1828,7 @@
   genre:
   - '160'
 - eventId:
+  - 618807
   - 717037
   - 721538
   - 723911
@@ -1860,6 +1885,7 @@
 - eventId:
   - 1028961
   - 586863
+  - 618808
   start: 2026-10-28T18:30:00Z
   stop: 2026-10-28T19:00:00Z
   title: Live News MK
@@ -1872,6 +1898,14 @@
   - 586864
   start: 2026-10-28T19:00:00Z
   stop: 2026-10-28T19:10:00Z
+  title: Farewell Letter
+  subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 618809
+  start: 2026-10-28T19:00:00Z
+  stop: 2026-10-28T19:45:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -1921,6 +1955,7 @@
   title: LEGENDELE GIMNASTICII ROMANESTI
   subtitle: '    (Reluare)'
 - eventId:
+  - 618810
   - 717038
   - 721539
   - 723912
@@ -2028,6 +2063,7 @@
   title: BASCHET MASCULIN
   subtitle: '  * PremieraSCM Universitatea Craiova-Rilski Sportist  '
 - eventId:
+  - 618811
   - 717039
   - 721540
   - 723913
@@ -2081,7 +2117,9 @@
   ageRating: 4
   genre:
   - '16'
-- eventId: 717040
+- eventId:
+  - 618814
+  - 717040
   start: 2026-10-28T21:55:00Z
   stop: 2026-10-28T22:00:00Z
   title: Promo
@@ -2099,7 +2137,16 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 618815
+  start: 2026-10-28T22:00:00Z
+  stop: 2026-10-28T22:20:00Z
+  title: Live News MK
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
+  - 618816
   - 717041
   - 721541
   - 723914
@@ -2205,6 +2252,7 @@
   title: Ora de sport
   subtitle: ' (Partea I+ II )   (Reluare)'
 - eventId:
+  - 618817
   - 717042
   - 721542
   - 723915
