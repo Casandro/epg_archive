@@ -138,6 +138,7 @@
   - '96'
 - eventId:
   - 1002924
+  - 617136
   - 694917
   start: 2026-10-28T15:00:00Z
   stop: 2026-10-28T16:00:00Z
@@ -152,6 +153,7 @@
   - '96'
 - eventId:
   - 1002925
+  - 617110
   - 694918
   start: 2026-10-28T16:00:00Z
   stop: 2026-10-28T17:00:00Z
@@ -165,6 +167,7 @@
   - '96'
 - eventId:
   - 1002926
+  - 617322
   - 694919
   start: 2026-10-28T17:00:00Z
   stop: 2026-10-28T18:00:00Z
@@ -190,8 +193,18 @@
   ageRating: 12
   genre:
   - '96'
+- eventId: 617360
+  start: 2026-10-28T18:00:00Z
+  stop: 2026-10-28T19:00:00Z
+  title: Best Rock
+  description: |-
+    program muzyczny
+    Program dla fanów cięższych gitarowych brzmień, w którym przedstawiane są teledyski najpopularniejszych grup grających różne odmiany rocka.
+    Od lat: 12
+  ageRating: 12
 - eventId:
   - 1002928
+  - 617361
   - 694921
   start: 2026-10-28T19:00:00Z
   stop: 2026-10-28T20:00:00Z
@@ -205,6 +218,7 @@
   - '96'
 - eventId:
   - 1002929
+  - 617362
   - 694922
   start: 2026-10-28T20:00:00Z
   stop: 2026-10-28T22:00:00Z
@@ -230,6 +244,15 @@
   ageRating: 12
   genre:
   - '96'
+- eventId: 617433
+  start: 2026-10-28T22:00:00Z
+  stop: 2026-10-28T23:00:00Z
+  title: Best Ballads
+  description: |-
+    program muzyczny
+    Zbiór utworów dla miłośników nastrojowych klimatów. Twórcy prezentują najpiękniejsze ballady z całego świata.
+    Od lat: 12
+  ageRating: 12
 - eventId:
   - 1002931
   - 694924
@@ -244,3 +267,12 @@
   ageRating: 12
   genre:
   - '96'
+- eventId: 617434
+  start: 2026-10-28T23:00:00Z
+  stop: 2026-10-29T02:00:00Z
+  title: Best Hits
+  description: |-
+    program muzyczny
+    Zestawienie największych hitów muzycznych, które niezmiennie cieszą się dużą popularnością w Polsce i na świecie.
+    Od lat: 12
+  ageRating: 12
