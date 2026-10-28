@@ -265,7 +265,7 @@
   - 546967
   - 805309
   start: 2026-10-29T09:30:00Z
-  stop: 2026-10-29T10:20:00Z
+  stop: 2026-10-29T10:15:00Z
   title: Die Schätze der Erde
   subtitle: Diamanten und Smaragde
   genre:
@@ -277,7 +277,9 @@
 
     Edelsteine entstanden vor Milliarden Jahren und Hunderte Kilometer tief in der Erde. Hinter ihrer grazilen Schönheit verbergen sich erstaunliche chemische Geheimnisse. Doch Edelsteine geben auch Aufschluss über die Entstehung unseres Planeten.
     HD-Produktion
-- eventId: 805310
+- eventId:
+  - 777586
+  - 805310
   start: 2026-10-29T10:15:00Z
   stop: 2026-10-29T11:00:00Z
   title: Die Schätze der Erde
@@ -285,6 +287,12 @@
   genre:
   - '128'
   widescreen: true
+  description: |-
+    USA 2017
+    Metalle sind wichtige Bausteine unserer Kultur. Gold, Kupfer, Bronze, Eisen und Stahl - jedes dieser Metalle hat das Leben der Menschen beeinflusst. Wie sind diese Materialien entstanden?
+
+    Kupfer und Bronze prägten Alltag und Kriegsführung, Eisen die industrielle Revolution, Stahl und Aluminium unsere moderne Welt. Doch Metalle können noch ganz anders genutzt werden: Kupfer kann gefährliche Keime töten, Gold Unsichtbares sichtbar machen.
+    HD-Produktion
 - eventId:
   - 546968
   - 836567
@@ -321,7 +329,7 @@
   - 546970
   - 806722
   start: 2026-10-29T11:45:00Z
-  stop: 2026-10-29T12:35:00Z
+  stop: 2026-10-29T12:30:00Z
   title: Terra X
   subtitle: Giganten der Kunst - Rembrandt
   genre:
@@ -334,15 +342,23 @@
 
     Rembrandt ist begehrt: bei Dieben und Museen. Eines seiner Gemälde, "Porträt von Jacob de Gheyn III", zählt zu den am häufigsten geraubten Kunstobjekten der Welt. Die Dokumentation lüftet das Geheimnis des barocken Genies, das mit seinen Werken die Menschen verzaubert.
     HD-Produktion
-- eventId: 806723
+- eventId:
+  - 777587
+  - 806723
   start: 2026-10-29T12:30:00Z
   stop: 2026-10-29T13:15:00Z
   title: Terra X
-  subtitle: Giganten der Kunst - Frida Kahlo
+  subtitle: Alexander der Große - Auf dem Weg zur Macht
   genre:
   - '112'
   widescreen: true
   subtitled: true
+  description: |-
+    Deutschland 2014
+    Alexander der Große gilt als der Vorzeige-Weltherrscher der Geschichte. Kein Superlativ scheint dem jungen Makedonenkönig gerecht zu werden.
+
+    In nur elf Jahren erobert er ein Gebiet, das sich von Griechenland über den Orient hinaus bis nach Indien erstreckt. 19 Staaten, drei Kontinente und unzählige Volksgruppen unterwirft er in einem einzigen gigantischen Feldzug.
+    HD-Produktion
 - eventId:
   - 547120
   - 836568
@@ -436,7 +452,7 @@
   - 551028
   - 813003
   start: 2026-10-29T16:15:00Z
-  stop: 2026-10-29T17:00:00Z
+  stop: 2026-10-29T16:55:00Z
   title: Die Deutschen II
   subtitle: Karl der Große und die Sachsen
   genre:
@@ -452,6 +468,23 @@
     Karl der Große - Jens Schäfer
     Widukind - Zoltan Butuc
     HD-Produktion
+- eventId: 777588
+  start: 2026-10-29T16:55:00Z
+  stop: 2026-10-29T17:40:00Z
+  title: Die Deutschen II
+  subtitle: Ludwig II. und die Bayern
+  description: |-
+    Deutschland 2010
+    Mythen und Legenden ranken sich um die Gestalt Ludwigs II. von Bayern (1845 bis 1886), der als "Märchenkönig" in die Geschichte eingegangen ist.
+
+    Er habe die Politik gescheut und sich vor allem seinen schwärmerischen Leidenschaften hingegeben: den Opern Richard Wagners und dem Bau prunkvoller Schlösser wie Neuschwanstein, Linderhof und Herrenchiemsee.
+    Darsteller:
+    Ludwig II. - André Kaczmarczyk
+    HD-Produktion
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
 - eventId:
   - 551029
   - 815291
@@ -471,6 +504,21 @@
     Darsteller:
     Ludwig II. - André Kaczmarczyk
     HD-Produktion
+- eventId: 777589
+  start: 2026-10-29T17:40:00Z
+  stop: 2026-10-29T18:30:00Z
+  title: Tschernobyl - Die Katastrophe
+  subtitle: Paradies
+  description: |-
+    Deutschland 2023
+    1970 beginnt die Sowjetunion mit dem Bau des Atomkraftwerkes Tschernobyl. Ein Prestigeprojekt, denn es soll das größte Atomkraftwerk der Welt werden - dank des Superreaktors RBMK.
+
+    Der sowjetische Reaktor RBMK ist eine schwer zu kontrollierende Anlage. Ingenieure und KGB-Agenten warnen die Regierung in Moskau vor tödlichen Risiken. 1983 kommt es zu einem ernsten Störfall in Tschernobyl, doch er wird totgeschwiegen.
+    HD-Produktion
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
 - eventId:
   - 551030
   - 815292
@@ -583,7 +631,7 @@
   - 551040
   - 836588
   start: 2026-10-29T22:55:00Z
-  stop: 2026-10-29T23:40:00Z
+  stop: 2026-10-29T23:35:00Z
   title: Terra X History
   subtitle: Illusionen des Atomzeitalters - Strahlende Zukunftsträume
   genre:
@@ -603,6 +651,17 @@
   subtitle: Illusionen des Atomzeitalters - Strahlende Zukunftsträume
   genre:
   - '128'
+  widescreen: true
+  subtitled: true
+- eventId: 777604
+  start: 2026-10-29T23:35:00Z
+  stop: 2026-10-30T00:05:00Z
+  title: heute journal
+  description: |-
+    Informativ, hintergründig, analytisch: die Nachrichten des Tages aus Deutschland und der Welt. Mit Berichten, Reportagen und Interviews aus Politik, Gesellschaft und Kultur.
+    HD-Produktion
+  genre:
+  - '32'
   widescreen: true
   subtitled: true
 - eventId:
