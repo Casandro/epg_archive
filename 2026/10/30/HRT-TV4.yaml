@@ -39,6 +39,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 742749
   start: 2026-10-30T01:02:00Z
   stop: 2026-10-30T01:04:00Z
@@ -59,23 +60,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 596127
-  start: 2026-10-30T01:24:00Z
-  stop: 2026-10-30T01:26:00Z
-  title: '#REPORTAŽE'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 742751
+- eventId:
+  - 596127
+  - 742751
   start: 2026-10-30T01:24:00Z
   stop: 2026-10-30T01:26:00Z
   title: '#REPORTAŽE: Nikolina Žabčić'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 596128
   - 742752
@@ -186,23 +181,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 596138
-  start: 2026-10-30T02:50:00Z
-  stop: 2026-10-30T02:53:00Z
-  title: '#REPORTAŽE'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 742762
+- eventId:
+  - 596138
+  - 742762
   start: 2026-10-30T02:50:00Z
   stop: 2026-10-30T02:53:00Z
   title: '#REPORTAŽE: Umirovljenici i mobiteli'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 596139
   - 742763
@@ -368,15 +357,9 @@
   genre:
   - '160'
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
-- eventId: 596158
-  start: 2026-10-30T05:56:00Z
-  stop: 2026-10-30T06:00:00Z
-  title: Bez komentara
-  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 764807
+- eventId:
+  - 596158
+  - 764807
   start: 2026-10-30T05:56:00Z
   stop: 2026-10-30T05:58:00Z
   title: Bez komentara
@@ -737,15 +720,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 596270
-  start: 2026-10-30T14:35:00Z
-  stop: 2026-10-30T15:00:00Z
-  title: Sportske minute
-  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 764840
+- eventId:
+  - 596270
+  - 764840
   start: 2026-10-30T14:35:00Z
   stop: 2026-10-30T15:00:00Z
   title: 'Studio 4: Sportske minute'
@@ -952,15 +929,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 596315
-  start: 2026-10-30T17:00:00Z
-  stop: 2026-10-30T17:20:00Z
-  title: Sportske minute
-  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 764859
+- eventId:
+  - 596315
+  - 764859
   start: 2026-10-30T17:00:00Z
   stop: 2026-10-30T17:20:00Z
   title: 'Studio 4: Sportske minute'
@@ -1079,15 +1050,9 @@
   genre:
   - '160'
   description: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
-- eventId: 596395
-  start: 2026-10-30T19:01:00Z
-  stop: 2026-10-30T19:05:00Z
-  title: '#REPORTAŽE'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 764870
+- eventId:
+  - 596395
+  - 764870
   start: 2026-10-30T19:01:00Z
   stop: 2026-10-30T19:05:00Z
   title: '#REPORTAŽE: Mila design'
@@ -1162,15 +1127,9 @@
   genre:
   - '128'
   description: Emisija donosi priloge o ljudima, njihovim interesima, podvizima i inspirativnim životnim trenucima. Kroz intimne i poticajne priče otkriva bogatstvo svakodnevice koje se često izgubi u buci dana.
-- eventId: 596432
-  start: 2026-10-30T21:45:00Z
-  stop: 2026-10-30T22:05:00Z
-  title: Sportske minute
-  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 764877
+- eventId:
+  - 596432
+  - 764877
   start: 2026-10-30T21:45:00Z
   stop: 2026-10-30T22:05:00Z
   title: 'Studio 4: Sportske minute'
@@ -1179,15 +1138,9 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 596433
-  start: 2026-10-30T22:05:00Z
-  stop: 2026-10-30T22:08:00Z
-  title: '#REPORTAŽE'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 764878
+- eventId:
+  - 596433
+  - 764878
   start: 2026-10-30T22:05:00Z
   stop: 2026-10-30T22:08:00Z
   title: '#REPORTAŽE: Contessa'
@@ -1240,15 +1193,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 596438
-  start: 2026-10-30T22:50:00Z
-  stop: 2026-10-30T22:55:00Z
-  title: '#REPORTAŽE'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 764883
+- eventId:
+  - 596438
+  - 764883
   start: 2026-10-30T22:50:00Z
   stop: 2026-10-30T22:55:00Z
   title: '#REPORTAŽE: Mila design'

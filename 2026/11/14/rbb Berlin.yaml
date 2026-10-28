@@ -122,6 +122,7 @@
 - eventId:
   - 545834
   - 599961
+  - 615747
   - 685256
   - 877019
   start: 2026-11-14T06:00:00Z
@@ -146,15 +147,21 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 599962
+- eventId:
+  - 599962
+  - 615748
   start: 2026-11-14T06:30:00Z
   stop: 2026-11-14T07:00:00Z
   title: Sehen statt Hören
   subtitle: Fernsehen in Gebärdensprache
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 545836
   - 599963
+  - 615749
   - 685258
   - 877021
   start: 2026-11-14T07:00:00Z
@@ -168,6 +175,7 @@
 - eventId:
   - 545837
   - 599964
+  - 615750
   - 685259
   - 877022
   start: 2026-11-14T07:30:00Z
@@ -181,6 +189,7 @@
 - eventId:
   - 545838
   - 599965
+  - 615751
   - 685260
   - 877023
   start: 2026-11-14T08:00:00Z
@@ -417,8 +426,12 @@
   - 1537083
   - 544250
   - 547625
+  - 549023
   - 555170
   - 559014
+  - 600392
+  - 681599
+  - 877592
   start: 2026-11-14T18:00:00Z
   stop: 2026-11-14T18:27:00Z
   title: HEIMATJOURNAL
@@ -434,20 +447,6 @@
     * Katja Karger, Vorsitzende des DGB Bezirks Berlin-Brandenburg
     * Carina Knie-Nürnberg, Regionaldirektion Berlin-Brandenburg der Arbeitsagentur
     * Prof. Katharina Hölzle, Institut für Arbeitswissenschaft und Technologiemanagement der Universität Stuttgart
-- eventId:
-  - 549023
-  - 600392
-  - 681599
-  - 877592
-  start: 2026-11-14T18:00:00Z
-  stop: 2026-11-14T18:27:00Z
-  title: HEIMATJOURNAL
-  subtitle: Heute aus Berlin - Prinzenviertel
-  episodeUri: crid://onid-8468/e/6ac5724e55a7c79709f508aa
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
   - 1348135
   - 1537084

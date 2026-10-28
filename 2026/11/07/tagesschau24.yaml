@@ -26,9 +26,12 @@
   audiodesc: true
 - eventId:
   - 553207
+  - 562121
   - 568203
   - 577241
   - 679212
+  - 679924
+  - 875134
   - 875342
   start: 2026-11-07T01:00:00Z
   stop: 2026-11-07T01:15:00Z
@@ -37,20 +40,13 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 562121
-  - 679924
-  - 875134
-  start: 2026-11-07T01:00:00Z
-  stop: 2026-11-07T01:15:00Z
-  title: Tagesschau-Nachrichten
-  widescreen: true
-  hd: true
-  audiodesc: true
-- eventId:
   - 553208
+  - 562122
   - 568204
   - 577242
   - 679213
+  - 679925
+  - 875135
   - 875343
   start: 2026-11-07T01:15:00Z
   stop: 2026-11-07T01:45:00Z
@@ -60,21 +56,13 @@
   audiodesc: true
   subtitled: true
 - eventId:
-  - 562122
-  - 679925
-  - 875135
-  start: 2026-11-07T01:15:00Z
-  stop: 2026-11-07T01:45:00Z
-  title: MDR SACHSEN-ANHALT HEUTE
-  widescreen: true
-  hd: true
-  audiodesc: true
-  subtitled: true
-- eventId:
   - 553209
+  - 562123
   - 568205
   - 577243
   - 679214
+  - 679926
+  - 875136
   - 875344
   start: 2026-11-07T01:45:00Z
   stop: 2026-11-07T02:00:00Z
@@ -86,23 +74,13 @@
   genre:
   - '112'
 - eventId:
-  - 562123
-  - 679926
-  - 875136
-  start: 2026-11-07T01:45:00Z
-  stop: 2026-11-07T02:00:00Z
-  title: Schätze der Welt - Erbe der Menschheit
-  widescreen: true
-  hd: true
-  audiodesc: true
-  subtitle: Die Rhätische Bahn (Schweiz) - Lebensader der Bündner Täler
-  genre:
-  - '112'
-- eventId:
   - 553210
+  - 562124
   - 568206
   - 577244
   - 679215
+  - 679927
+  - 875137
   - 875345
   start: 2026-11-07T02:00:00Z
   stop: 2026-11-07T02:02:00Z
@@ -110,34 +88,16 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId:
-  - 562124
-  - 679927
-  - 875137
-  start: 2026-11-07T02:00:00Z
-  stop: 2026-11-07T02:02:00Z
-  title: Tagesschau
   subtitle: 'Moderation: Lena Ganschow'
-  widescreen: true
-  hd: true
-  audiodesc: true
 - eventId:
   - 553211
+  - 562125
   - 568207
   - 577245
   - 679216
-  - 875346
-  start: 2026-11-07T02:02:00Z
-  stop: 2026-11-07T03:22:00Z
-  title: Landesschau Baden-Württemberg
-  widescreen: true
-  hd: true
-  audiodesc: true
-  subtitled: true
-- eventId:
-  - 562125
   - 679928
   - 875138
+  - 875346
   start: 2026-11-07T02:02:00Z
   stop: 2026-11-07T03:22:00Z
   title: Landesschau Baden-Württemberg
@@ -266,24 +226,19 @@
   hd: true
   audiodesc: true
   subtitle: 'Moderation: Claudia Schick'
-- eventId: 556516
-  start: 2026-11-07T06:15:00Z
-  stop: 2026-11-07T07:15:00Z
-  title: die nordstory - Grüfte, Glocken, großer Ausblick
-  subtitle: Der Michel und sein Drumherum
-  subtitled: true
 - eventId:
+  - 556516
   - 563762
   - 565746
   start: 2026-11-07T06:15:00Z
   stop: 2026-11-07T07:15:00Z
   title: die nordstory - Grüfte, Glocken, großer Ausblick
+  subtitle: Der Michel und sein Drumherum
+  subtitled: true
   description: "Das Wichtigste aus Politik, Wirtschaft, Kultur, Sport und Wissenschaft. Korrespondenten der ARD sorgen für schnelle und präzise News. \n\nDie Tagesschau-Ausgaben zur vollen Stunde werden teilweise mit Videotext-Untertiteln ausgestrahlt."
   widescreen: true
-  subtitled: true
   hd: true
   audiodesc: true
-  subtitle: Der Michel und sein Drumherum
 - eventId:
   - 556517
   - 563763
@@ -567,10 +522,13 @@
   subtitled: true
 - eventId:
   - 557077
+  - 568217
   - 576376
   - 578395
   - 679131
+  - 788432
   - 875284
+  - 979437
   start: 2026-11-07T19:15:00Z
   stop: 2026-11-07T20:08:00Z
   title: Europa glüht
@@ -579,31 +537,13 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 568217
-  - 788432
-  - 979437
-  start: 2026-11-07T19:15:00Z
-  stop: 2026-11-07T20:08:00Z
-  title: Europa glüht
-  subtitle: Wie Hitzewellen unser Leben verändern
-  widescreen: true
-  hd: true
-  audiodesc: true
-- eventId:
   - 557078
+  - 568218
   - 576377
   - 578396
   - 679132
-  - 875285
-  start: 2026-11-07T20:08:00Z
-  stop: 2026-11-07T20:10:00Z
-  title: Tagesschau
-  widescreen: true
-  hd: true
-  audiodesc: true
-- eventId:
-  - 568218
   - 788433
+  - 875285
   - 979438
   start: 2026-11-07T20:08:00Z
   stop: 2026-11-07T20:10:00Z
@@ -611,22 +551,18 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 557079
-  start: 2026-11-07T20:10:00Z
-  stop: 2026-11-07T20:40:00Z
-  title: Ulrich Timm im Gespräch
-  subtitle: mit Gregor Gysi (letzter Vorsitzender SED-PDS) und Walter Momper (ehemaliger Regierender Bürgermeister von Berlin)
 - eventId:
+  - 557079
   - 568219
   - 788434
   - 979439
   start: 2026-11-07T20:10:00Z
   stop: 2026-11-07T20:40:00Z
   title: Ulrich Timm im Gespräch
+  subtitle: mit Gregor Gysi (letzter Vorsitzender SED-PDS) und Walter Momper (ehemaliger Regierender Bürgermeister von Berlin)
   widescreen: true
   hd: true
   audiodesc: true
-  subtitle: mit Gregor Gysi (letzter Vorsitzender SED-PDS) und Walter Momper (ehemaliger Regierender Bürgermeister von Berlin)
 - eventId:
   - 576378
   - 578397

@@ -4,6 +4,7 @@
   - 550265
   - 554020
   - 565042
+  - 603175
   - 851461
   start: 2026-11-06T00:20:00Z
   stop: 2026-11-06T00:50:00Z
@@ -19,6 +20,7 @@
   - 550266
   - 554021
   - 565043
+  - 603176
   - 851462
   start: 2026-11-06T00:50:00Z
   stop: 2026-11-06T02:10:00Z
@@ -36,6 +38,7 @@
   - 550267
   - 554022
   - 565044
+  - 603177
   - 851463
   start: 2026-11-06T02:10:00Z
   stop: 2026-11-06T02:35:00Z
@@ -51,6 +54,7 @@
   - 550268
   - 554023
   - 565045
+  - 603178
   - 851464
   start: 2026-11-06T02:35:00Z
   stop: 2026-11-06T03:05:00Z
@@ -335,6 +339,7 @@
   - 552474
   - 554804
   - 565817
+  - 600163
   - 851587
   start: 2026-11-06T14:15:00Z
   stop: 2026-11-06T15:00:00Z
@@ -360,6 +365,12 @@
   audiodesc: true
   subtitle: Neues von hier
   description: '"Unser Dorf hat Wochenende" zeigt Menschen, die mit Kreativität, handwerklichem Geschick und viel Herzblut dafür sorgen, dass Bahren bei Grimma weit mehr ist als nur ein hübsches Dorf in der Muldeschleife.'
+- eventId: 600225
+  start: 2026-11-06T15:00:00Z
+  stop: 2026-11-06T15:30:00Z
+  title: MDR um 4
+  subtitle: Neues von hier
+  subtitled: true
 - eventId:
   - 1376576
   - 1562780
@@ -367,6 +378,7 @@
   - 555062
   - 556214
   - 564259
+  - 600226
   start: 2026-11-06T15:30:00Z
   stop: 2026-11-06T16:00:00Z
   title: MDR um 4
@@ -383,6 +395,7 @@
   - 555063
   - 556215
   - 564260
+  - 600227
   start: 2026-11-06T16:00:00Z
   stop: 2026-11-06T16:45:00Z
   title: MDR um 4
@@ -399,6 +412,7 @@
   - 555064
   - 556216
   - 564261
+  - 600228
   start: 2026-11-06T16:45:00Z
   stop: 2026-11-06T17:05:00Z
   title: MDR aktuell
@@ -415,6 +429,7 @@
   - 555065
   - 556217
   - 564262
+  - 600229
   start: 2026-11-06T17:05:00Z
   stop: 2026-11-06T17:10:00Z
   title: Wetter für 3
@@ -445,6 +460,7 @@
   - 548730
   - 552626
   - 566105
+  - 600230
   - 851361
   start: 2026-11-06T17:10:00Z
   stop: 2026-11-06T17:54:00Z
@@ -456,10 +472,16 @@
 - eventId:
   - 1376581
   - 1562785
+  - 1625276
+  - 548731
   - 549747
+  - 552627
   - 555067
   - 556219
   - 564264
+  - 566106
+  - 600231
+  - 851362
   start: 2026-11-06T17:54:00Z
   stop: 2026-11-06T18:00:00Z
   title: Unser Sandmännchen
@@ -469,20 +491,6 @@
   audiodesc: true
   description: "Die Themen u.a.:\n\nTote und Verletzte bei Zugunglück                                                                                                                   \nHochgeschwindigkeitszüge kollidieren in Spanien\n\nGefangen in luftiger Höhe                                                                                                                                    \nNach Stromausfall sitzen Fahrgäste in Wuppertaler Schwebebahn fest"
   subtitle: 'Moderation: Kamilla Senjo'
-- eventId:
-  - 1625276
-  - 548731
-  - 552627
-  - 566106
-  - 851362
-  start: 2026-11-06T17:54:00Z
-  stop: 2026-11-06T18:00:00Z
-  title: Unser Sandmännchen
-  subtitle: Moffellieder - Märchentag
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
   - 1320837
   - 1514135
@@ -502,6 +510,7 @@
   - 1540651
   - 552826
   - 555319
+  - 600356
   - 671571
   - 762269
   - 851400
@@ -537,6 +546,7 @@
   - 540098
   - 552827
   - 555320
+  - 600357
   - 762270
   - 851401
   start: 2026-11-06T18:30:00Z
@@ -549,10 +559,18 @@
   audiodesc: true
 - eventId:
   - 1540451
+  - 1540653
+  - 1625301
+  - 540099
   - 541348
+  - 550554
+  - 552828
   - 555321
   - 559094
+  - 600358
   - 761726
+  - 762271
+  - 851402
   start: 2026-11-06T18:50:00Z
   stop: 2026-11-06T19:15:00Z
   title: Elefant, Tiger & Co. (1203)
@@ -564,31 +582,23 @@
   audiodesc: true
   description: Während Lukas Petersen seiner Ex-Partnerin Nina Sieveking nachtrauert, sucht das PK 14 ihre Nachfolgerin. Drei Bewerberinnen stehen zur Wahl, doch am Ende muss Frau Küppers ausgerechnet die Kandidatin einstelle, die sie für am wenigsten geeignet hält. Parallel ermitteln Lukas und Helmut Husmann in einem Fall von illegalem Hundehandel und forschen ausgerechnet in einer Tierpension, die Helmuts Jugendliebe Johanna betreibt.
 - eventId:
-  - 1540653
-  - 1625301
-  - 540099
-  - 550554
-  - 552828
-  - 762271
-  - 851402
-  start: 2026-11-06T18:50:00Z
-  stop: 2026-11-06T19:15:00Z
-  title: Elefant, Tiger & Co. (1203)
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  subtitle: Geschichten aus dem Leipziger Zoo
-- eventId:
   - 1540452
+  - 1540654
+  - 1625302
+  - 540100
   - 541349
+  - 550555
+  - 552829
   - 555322
   - 559095
+  - 600359
   - 761727
+  - 762272
+  - 851403
   start: 2026-11-06T19:15:00Z
   stop: 2026-11-06T20:45:00Z
   title: Wiedersehen macht Freude
-  subtitle: Axel Bulthaupt und seine Gäste
+  subtitle: Die Wetterschau für Mitteldeutschland
   genre:
   - '16'
   widescreen: true
@@ -597,22 +607,6 @@
   audiodesc: true
   ageRating: 12
   description: Der Erfolgsbanker Andy Brettschneider muss sich in "Für immer Sommer 90" auf eine Reise in die Vergangenheit machen, um herauszufinden, wer hinter einer anonym verfassten Nachricht steht, in der ihm eine Vergewaltigung vorgeworfen wird. Eine geschäftliche Intrige, eine perfide Erpressung oder ein später Racheakt?
-- eventId:
-  - 1540654
-  - 1625302
-  - 540100
-  - 550555
-  - 552829
-  - 762272
-  - 851403
-  start: 2026-11-06T19:15:00Z
-  stop: 2026-11-06T20:45:00Z
-  title: Wiedersehen macht Freude
-  subtitle: Die Wetterschau für Mitteldeutschland
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
   - 1540453
   - 541350
@@ -634,6 +628,7 @@
   - 540101
   - 550556
   - 552830
+  - 600360
   - 762273
   - 851404
   start: 2026-11-06T20:45:00Z
@@ -644,7 +639,9 @@
   hd: true
   audiodesc: true
   subtitle: 'anschließend: das MDR-Wetter'
-- eventId: 555574
+- eventId:
+  - 555574
+  - 600493
   start: 2026-11-06T21:00:00Z
   stop: 2026-11-06T23:00:00Z
   title: Riverboat
@@ -659,6 +656,7 @@
   - 550911
   - 553019
   - 555575
+  - 600494
   - 851441
   start: 2026-11-06T23:00:00Z
   stop: 2026-11-07T00:45:00Z

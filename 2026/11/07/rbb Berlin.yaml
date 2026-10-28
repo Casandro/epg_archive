@@ -2,6 +2,7 @@
   - 553106
   - 555846
   - 559129
+  - 600569
   - 680219
   - 874386
   start: 2026-11-07T00:15:00Z
@@ -20,6 +21,7 @@
   - 553107
   - 555847
   - 559130
+  - 600570
   - 680220
   - 874387
   start: 2026-11-07T01:50:00Z
@@ -38,6 +40,7 @@
   - 553108
   - 555848
   - 559131
+  - 600571
   - 680221
   - 874388
   start: 2026-11-07T02:40:00Z
@@ -52,39 +55,20 @@
   ageRating: 6
   genre:
   - '16'
-- eventId:
-  - 555441
-  - 556245
-  - 559290
-  - 680253
-  - 874418
+- eventId: 600656
   start: 2026-11-07T03:30:00Z
   stop: 2026-11-07T04:30:00Z
   title: Chat with a DJ
   subtitle: Answer Code Request
-  episodeUri: crid://onid-8468/e/6ab84356f1bc0065289d07db
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
-  - 555442
-  - 556246
-  - 559291
-  - 680254
-  - 874419
+- eventId: 600657
   start: 2026-11-07T04:30:00Z
   stop: 2026-11-07T04:40:00Z
   title: Berliner Nächte - Herbst
-  episodeUri: crid://onid-8468/e/6ab84356f1bc0065289d07d9
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
   - 555443
   - 556247
   - 559292
+  - 600658
   - 680255
   - 874420
   start: 2026-11-07T04:40:00Z
@@ -100,6 +84,7 @@
   - 555444
   - 556248
   - 559293
+  - 600659
   - 680256
   - 874421
   start: 2026-11-07T04:50:00Z
@@ -129,6 +114,7 @@
 - eventId:
   - 556249
   - 559294
+  - 600660
   - 680257
   - 874422
   start: 2026-11-07T05:15:00Z
@@ -147,6 +133,7 @@
   - 555446
   - 556250
   - 559295
+  - 600661
   - 680258
   - 874423
   start: 2026-11-07T05:40:00Z
@@ -166,6 +153,7 @@
   - 555988
   - 559450
   - 565917
+  - 600771
   - 680291
   - 874479
   start: 2026-11-07T06:05:00Z
@@ -185,6 +173,7 @@
   - 550284
   - 556936
   - 564931
+  - 600772
   start: 2026-11-07T06:30:00Z
   stop: 2026-11-07T07:00:00Z
   title: Sehen statt Hören
@@ -227,6 +216,11 @@
   hd: true
   audiodesc: true
   description: Wie lebt es sich mit, in und nach den Wechseljahren? Über mehrere Monate haben wir die Frauen erneut begleitet. Was hilft, wenn immer noch Hormonchaos herrscht? Wie lindert man endlich ständigen nächtlichen Harndrang oder Schlafmangel? Und wie versöhnt man sich vielleicht mit diesem Umbruch im Leben jeder Frau? Offen und persönlich lassen uns die Frauen an ihren Erfahrungen teilhaben.
+- eventId: 600773
+  start: 2026-11-07T07:00:00Z
+  stop: 2026-11-07T07:30:00Z
+  title: rbb24 Brandenburg aktuell
+  subtitled: true
 - eventId:
   - 1289638
   - 1482916
@@ -258,6 +252,11 @@
   hd: true
   audiodesc: true
   description: Stimmungsvolle Bilder von nächtlichen Fahrten durch Berlin bis hin zum Morgengrauen, untermalt vom Klang der erwachenden Großstadt.
+- eventId: 600774
+  start: 2026-11-07T07:30:00Z
+  stop: 2026-11-07T08:00:00Z
+  title: rbb24 Abendschau
+  subtitled: true
 - eventId:
   - 1403287
   - 1590652
@@ -265,6 +264,7 @@
   - 550287
   - 556939
   - 564934
+  - 600775
   start: 2026-11-07T08:00:00Z
   stop: 2026-11-07T09:30:00Z
   title: Gloria, die schönste Kuh meiner Schwester
@@ -289,6 +289,7 @@
   - 540804
   - 556397
   - 559613
+  - 600873
   - 680328
   - 874894
   start: 2026-11-07T09:30:00Z
@@ -306,6 +307,7 @@
   - 540805
   - 556398
   - 559614
+  - 600874
   - 680329
   - 874895
   start: 2026-11-07T11:00:00Z
@@ -321,6 +323,7 @@
   - 540806
   - 556399
   - 559615
+  - 600875
   - 680330
   - 874896
   start: 2026-11-07T11:50:00Z
@@ -336,6 +339,7 @@
   - 541288
   - 556606
   - 559771
+  - 600962
   - 680356
   - 874606
   start: 2026-11-07T12:35:00Z
@@ -351,6 +355,7 @@
   - 541289
   - 556607
   - 559772
+  - 600963
   - 680357
   - 874607
   start: 2026-11-07T13:20:00Z
@@ -377,6 +382,7 @@
   - 541290
   - 556608
   - 559773
+  - 600964
   - 680358
   - 874608
   start: 2026-11-07T14:05:00Z
@@ -410,7 +416,9 @@
   audiodesc: true
   description: Eine Reise durch Brandenburg, die viele überraschen wird. An unserer Route liegen der malerische Grabowsee bei Oranienburg, die kleine Fischerstube in Stolzenhagen oder die alte Kunstschmiede von Angermünde. Eine Tour zum Nacherleben.
   subtitle: Landjäger
-- eventId: 541291
+- eventId:
+  - 541291
+  - 600965
   start: 2026-11-07T14:50:00Z
   stop: 2026-11-07T15:40:00Z
   title: Auf Achse (9/26)
@@ -432,7 +440,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 541781
+- eventId:
+  - 541781
+  - 603216
   start: 2026-11-07T15:40:00Z
   stop: 2026-11-07T16:30:00Z
   title: Auf Achse (10/26)
@@ -459,6 +469,7 @@
   - 541782
   - 557378
   - 559936
+  - 603217
   - 680397
   - 874688
   start: 2026-11-07T16:30:00Z
@@ -474,6 +485,7 @@
   - 541783
   - 557379
   - 559937
+  - 603218
   - 680398
   - 874689
   start: 2026-11-07T16:53:00Z
@@ -489,6 +501,7 @@
   - 541784
   - 557380
   - 559938
+  - 603219
   - 680399
   - 874690
   start: 2026-11-07T17:00:00Z
@@ -504,6 +517,7 @@
   - 541785
   - 557381
   - 559939
+  - 603220
   - 680400
   - 874691
   start: 2026-11-07T17:28:00Z
@@ -519,6 +533,7 @@
   - 541786
   - 557382
   - 559940
+  - 603221
   - 680401
   - 874692
   start: 2026-11-07T17:30:00Z
@@ -551,6 +566,7 @@
 - eventId:
   - 546696
   - 560138
+  - 601177
   - 680444
   - 874719
   start: 2026-11-07T18:00:00Z
@@ -580,6 +596,7 @@
 - eventId:
   - 546697
   - 560139
+  - 601178
   - 680445
   - 874720
   start: 2026-11-07T18:27:00Z
@@ -598,6 +615,7 @@
   - 546698
   - 558756
   - 560140
+  - 601179
   - 680446
   - 874721
   start: 2026-11-07T18:30:00Z
@@ -638,6 +656,7 @@
 - eventId:
   - 546699
   - 560141
+  - 601180
   - 754093
   - 805670
   - 874722
@@ -658,6 +677,7 @@
   - 546700
   - 558758
   - 560142
+  - 601181
   - 680448
   - 874723
   start: 2026-11-07T19:15:00Z
@@ -695,6 +715,7 @@
 - eventId:
   - 546701
   - 560143
+  - 601182
   - 680449
   - 874724
   start: 2026-11-07T20:00:00Z
@@ -726,6 +747,7 @@
 - eventId:
   - 546702
   - 560144
+  - 601183
   - 680450
   - 874725
   start: 2026-11-07T20:45:00Z
@@ -736,7 +758,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 547346
+- eventId:
+  - 547346
+  - 601279
   start: 2026-11-07T21:00:00Z
   stop: 2026-11-07T22:50:00Z
   title: Coming out
@@ -769,6 +793,7 @@
   - 547347
   - 560316
   - 560599
+  - 601280
   - 680485
   - 874754
   start: 2026-11-07T22:50:00Z

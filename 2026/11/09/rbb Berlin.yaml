@@ -2,6 +2,7 @@
   - 544602
   - 551620
   - 592555
+  - 602400
   - 735164
   - 929997
   start: 2026-11-09T00:15:00Z
@@ -17,6 +18,7 @@
   - 544603
   - 551621
   - 592556
+  - 602401
   - 735165
   - 929998
   start: 2026-11-09T00:45:00Z
@@ -42,7 +44,9 @@
   audiodesc: true
   subtitle: Auf Streife mit der Polizei
   ageRating: 12
-- eventId: 551622
+- eventId:
+  - 551622
+  - 602402
   start: 2026-11-09T01:15:00Z
   stop: 2026-11-09T01:45:00Z
   title: Reportage
@@ -65,7 +69,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 551623
+- eventId:
+  - 551623
+  - 602403
   start: 2026-11-09T01:45:00Z
   stop: 2026-11-09T02:35:00Z
   title: Das Waisenhaus für wilde Tiere
@@ -78,6 +84,7 @@
   - 544606
   - 551624
   - 592559
+  - 602404
   - 735168
   - 930001
   start: 2026-11-09T02:35:00Z
@@ -93,6 +100,7 @@
   - 544727
   - 551824
   - 569277
+  - 602474
   - 735227
   - 930030
   start: 2026-11-09T03:05:00Z
@@ -107,6 +115,7 @@
   - 544728
   - 551825
   - 569278
+  - 602475
   - 735228
   - 930031
   start: 2026-11-09T03:30:00Z
@@ -122,6 +131,7 @@
   - 544729
   - 551826
   - 569279
+  - 602476
   - 735229
   - 930032
   start: 2026-11-09T04:00:00Z
@@ -136,6 +146,7 @@
   - 544730
   - 551827
   - 569280
+  - 602477
   - 735230
   - 930033
   start: 2026-11-09T04:30:00Z
@@ -150,6 +161,7 @@
   - 544731
   - 551828
   - 569281
+  - 602478
   - 735231
   - 930034
   start: 2026-11-09T05:00:00Z
@@ -165,6 +177,7 @@
   - 552100
   - 571747
   - 592746
+  - 602563
   - 735296
   - 930058
   start: 2026-11-09T07:00:00Z
@@ -179,6 +192,7 @@
   - 552101
   - 571748
   - 592747
+  - 602564
   - 735297
   - 930059
   start: 2026-11-09T07:30:00Z
@@ -193,6 +207,7 @@
   - 552102
   - 571749
   - 592748
+  - 602565
   - 735298
   - 930060
   start: 2026-11-09T08:00:00Z
@@ -209,6 +224,7 @@
   - 552103
   - 571750
   - 592749
+  - 602566
   - 735299
   - 930061
   start: 2026-11-09T08:45:00Z
@@ -225,6 +241,7 @@
   - 549514
   - 552302
   - 592948
+  - 602668
   - 735356
   - 930094
   start: 2026-11-09T09:30:00Z
@@ -240,6 +257,7 @@
   - 549515
   - 552303
   - 592949
+  - 602669
   - 735357
   - 930095
   start: 2026-11-09T10:15:00Z
@@ -268,7 +286,9 @@
   audiodesc: true
   genre:
   - '16'
-- eventId: 552304
+- eventId:
+  - 552304
+  - 602670
   start: 2026-11-09T11:05:00Z
   stop: 2026-11-09T11:55:00Z
   title: WaPo Duisburg (6)
@@ -284,6 +304,7 @@
   - 549517
   - 552305
   - 592951
+  - 602671
   - 735359
   - 930097
   start: 2026-11-09T11:55:00Z
@@ -314,7 +335,9 @@
   audiodesc: true
   genre:
   - '16'
-- eventId: 552563
+- eventId:
+  - 552563
+  - 602776
   start: 2026-11-09T12:40:00Z
   stop: 2026-11-09T13:30:00Z
   title: WaPo Duisburg (7)
@@ -330,6 +353,7 @@
   - 549647
   - 552564
   - 569545
+  - 602777
   - 735397
   - 930125
   start: 2026-11-09T13:30:00Z
@@ -345,8 +369,67 @@
   audiodesc: true
   ageRating: 6
 - eventId:
+  - 602860
+  - 614060
+  start: 2026-11-09T15:00:00Z
+  stop: 2026-11-09T15:15:00Z
+  title: rbb24
+  subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 602861
+  - 614061
+  start: 2026-11-09T15:15:00Z
+  stop: 2026-11-09T16:05:00Z
+  title: In aller Freundschaft - Die jungen Ärzte (153)
+  subtitle: Wunschträume
+  ageRating: 12
+  subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 602862
+  - 614062
+  start: 2026-11-09T16:05:00Z
+  stop: 2026-11-09T16:53:00Z
+  title: Panda, Gorilla & Co. (256)
+  subtitle: Geschichten aus dem Zoo Berlin und dem Tierpark Berlin
+  subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 602863
+  - 614063
+  start: 2026-11-09T16:53:00Z
+  stop: 2026-11-09T17:00:00Z
+  title: Unser Sandmännchen
+  subtitle: 'Fieps: Fieps und das Katzenbaby'
+  genre:
+  - '16'
+  subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 602864
+  - 614064
+  start: 2026-11-09T17:00:00Z
+  stop: 2026-11-09T18:27:00Z
+  title: DER TAG in Berlin & Brandenburg
+  subtitle: mit rbb24, Sport und Wetter
+  subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 549991
   - 572854
+  - 602975
+  - 614663
   - 735617
   - 930221
   start: 2026-11-09T18:27:00Z
@@ -361,6 +444,8 @@
 - eventId:
   - 549992
   - 572855
+  - 602976
+  - 614664
   - 735618
   - 930222
   start: 2026-11-09T18:30:00Z
@@ -387,6 +472,8 @@
 - eventId:
   - 549993
   - 572856
+  - 602977
+  - 614665
   - 754106
   - 832287
   - 930223
@@ -403,6 +490,8 @@
 - eventId:
   - 549994
   - 572857
+  - 602978
+  - 614666
   - 735620
   - 930224
   start: 2026-11-09T19:15:00Z
@@ -417,6 +506,8 @@
 - eventId:
   - 549995
   - 572858
+  - 602979
+  - 614667
   - 735621
   - 930225
   start: 2026-11-09T20:00:00Z
@@ -431,6 +522,8 @@
 - eventId:
   - 549996
   - 572859
+  - 602980
+  - 614668
   - 735622
   - 930226
   start: 2026-11-09T20:45:00Z
@@ -445,6 +538,7 @@
   - 550160
   - 553675
   - 573120
+  - 603077
   - 735656
   - 930324
   start: 2026-11-09T21:15:00Z
@@ -463,6 +557,7 @@
   - 550161
   - 553676
   - 573121
+  - 603078
   - 735657
   - 930325
   start: 2026-11-09T22:45:00Z

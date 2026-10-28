@@ -235,14 +235,6 @@
 - eventId:
   - 560093
   - 586950
-  start: 2026-11-10T07:10:00Z
-  stop: 2026-11-10T08:00:00Z
-  title: Sturm der Liebe
-  subtitled: true
-  widescreen: true
-  hd: true
-  audiodesc: true
-- eventId:
   - 591419
   - 596500
   - 763285
@@ -250,8 +242,8 @@
   start: 2026-11-10T07:10:00Z
   stop: 2026-11-10T08:00:00Z
   title: Sturm der Liebe (4669)
-  widescreen: true
   subtitled: true
+  widescreen: true
   hd: true
   audiodesc: true
   subtitle: Deutschland 2026
@@ -381,10 +373,15 @@
 - eventId:
   - 1380120
   - 1564154
+  - 549617
   - 571669
   - 587254
+  - 591745
   - 594853
+  - 596603
   - 627791
+  - 763342
+  - 956083
   start: 2026-11-10T12:10:00Z
   stop: 2026-11-10T13:00:00Z
   title: In aller Freundschaft - Die jungen Ärzte (287)
@@ -395,48 +392,25 @@
   audiodesc: true
   description: "Rudi und Petra leben in Wacken in Schleswig-Hostein - Rudis Heimat. Petra hingegen ist auf Rügen geboren und aufgewachsen, und dort zieht es sie nun auch wieder hin! Zumindest für diesen Urlaub. \nDie ersten 20 Jahre ihres Lebens hat Petra auf Rügen verbracht, seitdem plagt sie das Heimweh nach der \"schönsten Insel Deutschlands\", wie sie sie nennt. Bei Familienbesuchen blieb bis jetzt nur wenig Zeit für einen richtigen Urlaub in der alten Heimat. Das soll dieses Mal anders werden. Petra möchte ihrem Rudi Orte ihrer Kindheit zeigen und mit ihm zusammen Neues entdecken."
 - eventId:
-  - 549617
-  - 591745
-  - 596603
-  - 763342
-  - 956083
-  start: 2026-11-10T12:10:00Z
-  stop: 2026-11-10T13:00:00Z
-  title: In aller Freundschaft - Die jungen Ärzte (287)
-  subtitle: Tabu
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
   - 1380121
   - 1564155
+  - 549618
   - 571670
   - 587255
-  - 594854
-  - 627792
-  start: 2026-11-10T13:00:00Z
-  stop: 2026-11-10T14:00:00Z
-  title: die nordstory - Planten un Blomen
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  subtitle: Das grüne Herz von Hamburg
-- eventId:
-  - 549618
   - 591746
+  - 594854
   - 596604
+  - 627792
   - 763343
   - 956084
   start: 2026-11-10T13:00:00Z
   stop: 2026-11-10T14:00:00Z
   title: die nordstory - Planten un Blomen
-  subtitle: Das grüne Herz von Hamburg
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Das grüne Herz von Hamburg
 - eventId:
   - 549619
   - 587256
@@ -536,9 +510,13 @@
   description: Die "Eilbek" soll schnellstmöglich auf eine Werft nach Finkenwerder gebracht werden. Die Werft wird den alten Motor ausbauen und den neuen Batterieantrieb einbauen. Was sicher leichter klingt als getan. Denn häufig passieren unerwartete Dinge, wenn man so einen alten Kahn anpackt. Was sie jetzt schon wissen ist, dass es sehr eng wird im Bauch des Schiffes. Alle Komponenten unterzubringen, ist die größte Herausforderung. Die Passage auf der breiten Elbe zur Werft Cölln wird für den kleinen Alsterdampfer zur Reise in die Zukunft.
 - eventId:
   - 549754
+  - 587520
   - 591941
+  - 596296
   - 596706
   - 763378
+  - 860235
+  - 860244
   - 956110
   start: 2026-11-10T16:10:00Z
   stop: 2026-11-10T17:00:00Z
@@ -548,20 +526,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 587520
-  - 596296
-  - 860235
-  - 860244
-  start: 2026-11-10T16:10:00Z
-  stop: 2026-11-10T17:00:00Z
-  title: Leopard, Seebär & Co. (112)
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   description: Wie vielseitig und faszinierend Norddeutschland aussehen kann, zeigt Ihnen das NDR Fernsehen immer mal wieder zwischendurch in seinen kleinen, aber feinen "Mein Norden"-Filmen. Wir entführen Sie mit beeindruckenden und berührenden Bildern in die schönsten Ecken von Hamburg, Niedersachsen, Schleswig-Holstein und Mecklenburg-Vorpommern. Wir zeigen Großstadtleben und Natur. Wir stellen Ihnen die unterschiedlichsten menschlichen und tierischen Bewohner Norddeutschlands vor. Und manchmal nehmen wir auch einfach nur eine Kameraperspektive ein - in der Bahn, im Sessellift oder auf einer Barkasse.
-  subtitle: Volker Friedrich und sein lieber Schwan
 - eventId:
   - 1401585
   - 1589579
@@ -597,10 +562,15 @@
 - eventId:
   - 1401586
   - 1589580
+  - 549756
   - 572006
   - 587522
+  - 591943
   - 596298
+  - 596708
   - 628175
+  - 763380
+  - 956112
   start: 2026-11-10T17:15:00Z
   stop: 2026-11-10T17:45:00Z
   title: 'Die Nordreportage: Bienes Schlemmergrill'
@@ -617,20 +587,6 @@
     * Modellprojekt: Gemeinschaftsgarten im Plattenbaugebiet
     * Clublegenden: Diskotheken, die Geschichte schrieben
     * Nachrichten & Wetter
-  subtitle: 'Die Nordreportage: Bienes Schlemmergrill - Imbiss auf sieben Quadratmetern'
-- eventId:
-  - 549756
-  - 591943
-  - 596708
-  - 763380
-  - 956112
-  start: 2026-11-10T17:15:00Z
-  stop: 2026-11-10T17:45:00Z
-  title: 'Die Nordreportage: Bienes Schlemmergrill'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   subtitle: 'Die Nordreportage: Bienes Schlemmergrill - Imbiss auf sieben Quadratmetern'
 - eventId:
   - 1401587

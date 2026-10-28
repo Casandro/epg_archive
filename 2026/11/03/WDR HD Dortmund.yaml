@@ -28,6 +28,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 605602
   - 624779
   - 969791
   start: 2026-11-03T00:15:00Z
@@ -69,6 +70,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 605603
   - 624780
   - 969792
   start: 2026-11-03T00:55:00Z
@@ -82,6 +84,7 @@
 - eventId:
   - 1537258
   - 591613
+  - 605604
   - 624781
   - 994747
   start: 2026-11-03T01:00:00Z
@@ -96,6 +99,7 @@
 - eventId:
   - 1537259
   - 591614
+  - 605605
   - 624782
   start: 2026-11-03T01:30:00Z
   stop: 2026-11-03T02:00:00Z
@@ -108,6 +112,7 @@
 - eventId:
   - 1537260
   - 591615
+  - 605606
   - 624783
   start: 2026-11-03T02:00:00Z
   stop: 2026-11-03T02:25:00Z
@@ -120,6 +125,7 @@
 - eventId:
   - 1537261
   - 591616
+  - 605607
   - 624784
   start: 2026-11-03T02:25:00Z
   stop: 2026-11-03T02:55:00Z
@@ -132,6 +138,7 @@
 - eventId:
   - 1537262
   - 591617
+  - 605608
   - 624785
   start: 2026-11-03T02:55:00Z
   stop: 2026-11-03T03:25:00Z
@@ -144,6 +151,7 @@
 - eventId:
   - 1537323
   - 592187
+  - 605933
   - 615446
   start: 2026-11-03T03:25:00Z
   stop: 2026-11-03T03:55:00Z
@@ -156,6 +164,7 @@
 - eventId:
   - 1537324
   - 592188
+  - 605934
   - 615447
   start: 2026-11-03T03:55:00Z
   stop: 2026-11-03T04:25:00Z
@@ -168,6 +177,7 @@
 - eventId:
   - 1537325
   - 592189
+  - 605935
   - 615448
   start: 2026-11-03T04:25:00Z
   stop: 2026-11-03T04:50:00Z
@@ -180,6 +190,7 @@
 - eventId:
   - 1537326
   - 592190
+  - 605936
   - 615449
   start: 2026-11-03T04:50:00Z
   stop: 2026-11-03T05:20:00Z
@@ -192,10 +203,23 @@
 - eventId:
   - 1537327
   - 592191
+  - 605937
   - 615450
   start: 2026-11-03T05:20:00Z
   stop: 2026-11-03T05:50:00Z
   title: Lokalzeit aus Bonn
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
+- eventId:
+  - 1313698
+  - 605938
+  - 619973
+  start: 2026-11-03T05:50:00Z
+  stop: 2026-11-03T06:20:00Z
+  title: Lokalzeit aus Duisburg
   widescreen: true
   subtitled: true
   hd: true
@@ -216,6 +240,7 @@
 - eventId:
   - 1537384
   - 593048
+  - 606181
   - 615985
   start: 2026-11-03T06:20:00Z
   stop: 2026-11-03T06:40:00Z
@@ -236,7 +261,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 615986
+- eventId:
+  - 606182
+  - 615986
   start: 2026-11-03T06:40:00Z
   stop: 2026-11-03T07:25:00Z
   title: In aller Freundschaft (1035)
@@ -260,7 +287,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 615987
+- eventId:
+  - 606183
+  - 615987
   start: 2026-11-03T07:25:00Z
   stop: 2026-11-03T08:10:00Z
   title: In aller Freundschaft (1036)
@@ -273,6 +302,7 @@
 - eventId:
   - 1537387
   - 593051
+  - 606184
   - 615988
   start: 2026-11-03T08:10:00Z
   stop: 2026-11-03T08:40:00Z
@@ -285,6 +315,7 @@
 - eventId:
   - 1537388
   - 593052
+  - 606185
   - 615989
   start: 2026-11-03T08:40:00Z
   stop: 2026-11-03T09:25:00Z
@@ -298,6 +329,7 @@
 - eventId:
   - 1537434
   - 593387
+  - 606296
   - 616440
   start: 2026-11-03T09:25:00Z
   stop: 2026-11-03T10:10:00Z
@@ -313,6 +345,7 @@
 - eventId:
   - 1537435
   - 593388
+  - 606297
   - 616441
   start: 2026-11-03T10:10:00Z
   stop: 2026-11-03T10:55:00Z
@@ -326,6 +359,7 @@
 - eventId:
   - 1537436
   - 593389
+  - 606298
   - 616442
   start: 2026-11-03T10:55:00Z
   stop: 2026-11-03T11:45:00Z
@@ -345,6 +379,7 @@
 - eventId:
   - 1537437
   - 593390
+  - 606299
   - 616443
   start: 2026-11-03T11:45:00Z
   stop: 2026-11-03T12:00:00Z
@@ -358,6 +393,7 @@
   - 1537478
   - 582350
   - 593642
+  - 606468
   start: 2026-11-03T12:00:00Z
   stop: 2026-11-03T12:50:00Z
   title: Seehund, Puma & Co. (177)
@@ -371,6 +407,7 @@
   - 1537479
   - 582351
   - 593643
+  - 606469
   start: 2026-11-03T12:50:00Z
   stop: 2026-11-03T13:20:00Z
   title: Neues aus dem Münchner Tierpark Hellabrunn (16)
@@ -394,7 +431,9 @@
   ageRating: 12
   genre:
   - '16'
-- eventId: 582352
+- eventId:
+  - 582352
+  - 606470
   start: 2026-11-03T13:20:00Z
   stop: 2026-11-03T14:10:00Z
   title: Rentnercops (76)
@@ -421,7 +460,9 @@
   ageRating: 12
   genre:
   - '16'
-- eventId: 582353
+- eventId:
+  - 582353
+  - 606471
   start: 2026-11-03T14:10:00Z
   stop: 2026-11-03T15:00:00Z
   title: Rentnercops (77)
@@ -438,6 +479,7 @@
   - 1537527
   - 582845
   - 593883
+  - 606622
   start: 2026-11-03T15:00:00Z
   stop: 2026-11-03T15:15:00Z
   title: WDR aktuell
@@ -450,6 +492,7 @@
   - 1537528
   - 582846
   - 593884
+  - 606623
   start: 2026-11-03T15:15:00Z
   stop: 2026-11-03T17:00:00Z
   title: Hier und heute
@@ -461,6 +504,7 @@
   - 1537529
   - 582847
   - 593885
+  - 606624
   start: 2026-11-03T17:00:00Z
   stop: 2026-11-03T17:15:00Z
   title: WDR aktuell / Lokalzeit
@@ -475,6 +519,7 @@
   - 1537530
   - 582848
   - 593886
+  - 606625
   start: 2026-11-03T17:15:00Z
   stop: 2026-11-03T17:45:00Z
   title: Servicezeit
@@ -488,6 +533,7 @@
   - 1537531
   - 582849
   - 593887
+  - 606626
   start: 2026-11-03T17:45:00Z
   stop: 2026-11-03T18:30:00Z
   title: Aktuelle Stunde
@@ -499,6 +545,7 @@
 - eventId:
   - 1537577
   - 594157
+  - 606796
   - 617486
   start: 2026-11-03T18:30:00Z
   stop: 2026-11-03T19:00:00Z
@@ -511,6 +558,7 @@
 - eventId:
   - 1537578
   - 594158
+  - 606797
   - 617487
   start: 2026-11-03T19:00:00Z
   stop: 2026-11-03T19:15:00Z
@@ -536,7 +584,9 @@
   hd: true
   audiodesc: true
   ageRating: 12
-- eventId: 617488
+- eventId:
+  - 606798
+  - 617488
   start: 2026-11-03T19:15:00Z
   stop: 2026-11-03T20:45:00Z
   title: 'Tatort: Der Mörder in mir'
@@ -552,6 +602,7 @@
 - eventId:
   - 1537580
   - 594160
+  - 606799
   - 617489
   start: 2026-11-03T20:45:00Z
   stop: 2026-11-03T21:15:00Z
@@ -564,6 +615,7 @@
 - eventId:
   - 1537611
   - 594399
+  - 606952
   - 617677
   start: 2026-11-03T21:15:00Z
   stop: 2026-11-03T22:45:00Z
@@ -580,6 +632,7 @@
 - eventId:
   - 1537612
   - 594400
+  - 606953
   - 617678
   start: 2026-11-03T22:45:00Z
   stop: 2026-11-04T00:15:00Z

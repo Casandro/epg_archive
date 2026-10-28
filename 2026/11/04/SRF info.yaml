@@ -204,7 +204,9 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 780707
+- eventId:
+  - 603461
+  - 780707
   start: 2026-11-04T06:15:00Z
   stop: 2026-11-04T06:35:00Z
   title: Schweiz aktuell
@@ -213,7 +215,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 780708
+- eventId:
+  - 603462
+  - 780708
   start: 2026-11-04T06:35:00Z
   stop: 2026-11-04T06:40:00Z
   title: Sportflash
@@ -225,7 +229,9 @@
   - '64'
   widescreen: true
   hd: true
-- eventId: 780709
+- eventId:
+  - 603463
+  - 780709
   start: 2026-11-04T06:40:00Z
   stop: 2026-11-04T07:00:00Z
   title: Schweiz aktuell
@@ -234,7 +240,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 780710
+- eventId:
+  - 603464
+  - 780710
   start: 2026-11-04T07:00:00Z
   stop: 2026-11-04T07:35:00Z
   title: Kassensturz in Gebärdensprache
@@ -242,7 +250,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 780711
+- eventId:
+  - 603465
+  - 780711
   start: 2026-11-04T07:35:00Z
   stop: 2026-11-04T08:05:00Z
   title: Puls in Gebärdensprache
@@ -250,7 +260,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 780712
+- eventId:
+  - 603466
+  - 780712
   start: 2026-11-04T08:05:00Z
   stop: 2026-11-04T08:40:00Z
   title: Eco Talk
@@ -261,7 +273,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 780713
+- eventId:
+  - 603467
+  - 780713
   start: 2026-11-04T08:40:00Z
   stop: 2026-11-04T09:05:00Z
   title: Cuntrasts
@@ -273,7 +287,9 @@
   - '112'
   widescreen: true
   hd: true
-- eventId: 780715
+- eventId:
+  - 603508
+  - 780715
   start: 2026-11-04T09:05:00Z
   stop: 2026-11-04T09:40:00Z
   title: Kassensturz
@@ -281,7 +297,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 780716
+- eventId:
+  - 603509
+  - 780716
   start: 2026-11-04T09:40:00Z
   stop: 2026-11-04T10:05:00Z
   title: Cuntrasts
@@ -293,14 +311,18 @@
   - '112'
   widescreen: true
   hd: true
-- eventId: 780717
+- eventId:
+  - 603510
+  - 780717
   start: 2026-11-04T10:05:00Z
   stop: 2026-11-04T11:10:00Z
   title: Club
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 780718
+- eventId:
+  - 603511
+  - 780718
   start: 2026-11-04T11:10:00Z
   stop: 2026-11-04T12:00:00Z
   title: UEFA Champions League - Highlights Männer
@@ -311,4 +333,87 @@
   genre:
   - '64'
   widescreen: true
+  hd: true
+- eventId: 603536
+  start: 2026-11-04T12:00:00Z
+  stop: 2026-11-04T12:25:00Z
+  title: Cuntrasts
+  subtitle: Tu was Gutes!
+  description: |-
+    Eine zufällige Begegnung wird für Ignaz Derungs zum Wendepunkt: Was als persönliche Hilfe für eine ukrainische Flüchtlingsfamilie beginnt, wächst zu einer beeindruckenden Hilfsorganisation.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  hd: true
+- eventId: 603537
+  start: 2026-11-04T12:25:00Z
+  stop: 2026-11-04T13:00:00Z
+  title: Kassensturz
+  subtitle: Die Sendung über Konsum, Geld und Arbeit
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 603538
+  start: 2026-11-04T13:00:00Z
+  stop: 2026-11-04T13:30:00Z
+  title: SRF News Spezial 2026
+  subtitle: US-Midterms 2026 - Resultate und Einschätzungen
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 603539
+  start: 2026-11-04T13:30:00Z
+  stop: 2026-11-04T13:35:00Z
+  title: Meteo
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 603540
+  start: 2026-11-04T13:35:00Z
+  stop: 2026-11-04T14:05:00Z
+  title: Puls
+  subtitle: Dement mit 55
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 603541
+  start: 2026-11-04T14:05:00Z
+  stop: 2026-11-04T14:35:00Z
+  title: SRF News Spezial 2026
+  subtitle: US-Midterms 2026 - Resultate und Einschätzungen
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 603542
+  start: 2026-11-04T14:35:00Z
+  stop: 2026-11-04T14:40:00Z
+  title: Meteo
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 603543
+  start: 2026-11-04T14:40:00Z
+  stop: 2026-11-04T15:10:00Z
+  title: Gredig direkt
+  subtitle: 'Tobias Endler: Wird Amerika zur Gefahr für Europa?'
+  description: |-
+    Wenige Tage vor den Midterms steht Donald Trump unter Druck. Doch unabhängig vom Wahlausgang stellt sich für Europa eine grössere Frage: Wie verlässlich sind die USA noch? Darüber spricht Amerika-Experte Tobias Endler bei «Gredig direkt».
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 603570
+  start: 2026-11-04T15:10:00Z
+  stop: 2026-11-04T15:40:00Z
+  title: SRF News Spezial 2026
+  subtitle: US-Midterms 2026 - Resultate und Einschätzungen
+  widescreen: true
+  subtitled: true
   hd: true

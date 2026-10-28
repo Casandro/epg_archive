@@ -882,14 +882,17 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1013280
+- eventId:
+  - 1013280
+  - 603583
   start: 2026-10-28T15:00:00Z
   stop: 2026-10-28T15:30:00Z
   title: Kassensturz
-  subtitle: Die Sendung über Konsum, Geld und Arbeit
+  subtitle: Teurer Bettenanbieter raubt Kunden den Schlaf
   widescreen: true
   subtitled: true
   hd: true
+  description: "Ein Bettenanbieter sorgt bei der Kundschaft für schlaflose Nächte: Sie bezahlen tausende Franken und erhalten schlechte Qualität und schlechten Kundenservice. Weitere Themen in «Kassensturz»: das Geschäft mit der Schlaflosigkeit. Und: Nassrasierer im Test. \nSchweiz 2026"
 - eventId: 610259
   start: 2026-10-28T15:00:00Z
   stop: 2026-10-28T15:35:00Z
@@ -917,6 +920,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 603475
+  start: 2026-10-28T15:30:00Z
+  stop: 2026-10-28T15:40:00Z
+  title: Meteo
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 997516
   start: 2026-10-28T15:30:00Z
   stop: 2026-10-28T15:35:00Z
@@ -940,6 +953,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603648
   - 610261
   - 984411
   start: 2026-10-28T15:40:00Z
@@ -976,6 +990,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603649
   - 610262
   - 984414
   start: 2026-10-28T17:00:00Z
@@ -990,6 +1005,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603650
   - 610263
   - 984415
   start: 2026-10-28T17:10:00Z
@@ -1002,6 +1018,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603651
   - 610264
   - 984416
   start: 2026-10-28T17:15:00Z
@@ -1014,6 +1031,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603652
   - 610265
   - 984417
   start: 2026-10-28T17:20:00Z
@@ -1028,6 +1046,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603653
   - 610266
   - 984418
   start: 2026-10-28T17:30:00Z
@@ -1040,6 +1059,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603654
   - 610267
   - 984419
   start: 2026-10-28T17:35:00Z
@@ -1052,6 +1072,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603655
   - 610268
   - 984420
   start: 2026-10-28T17:40:00Z
@@ -1066,6 +1087,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603656
   - 610269
   - 984421
   start: 2026-10-28T17:50:00Z
@@ -1078,6 +1100,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603668
   - 610292
   - 984426
   start: 2026-10-28T18:00:00Z
@@ -1089,6 +1112,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603669
   - 610293
   - 984427
   start: 2026-10-28T18:25:00Z
@@ -1100,6 +1124,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603670
   - 610294
   - 984428
   start: 2026-10-28T18:30:00Z
@@ -1112,6 +1137,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603671
   - 610295
   - 984429
   start: 2026-10-28T18:55:00Z
@@ -1124,6 +1150,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603672
   - 610296
   - 984430
   start: 2026-10-28T19:05:00Z
@@ -1137,6 +1164,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603673
   - 610297
   - 984431
   start: 2026-10-28T20:10:00Z
@@ -1152,6 +1180,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603674
   - 610298
   - 984432
   start: 2026-10-28T20:50:00Z
@@ -1164,6 +1193,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603675
   - 610299
   - 984433
   start: 2026-10-28T20:55:00Z
@@ -1178,6 +1208,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603687
   - 610314
   - 984437
   start: 2026-10-28T21:05:00Z
@@ -1189,6 +1220,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603688
   - 610315
   - 984438
   start: 2026-10-28T21:10:00Z
@@ -1203,6 +1235,7 @@
   widescreen: true
   hd: true
 - eventId:
+  - 603689
   - 610316
   - 984439
   start: 2026-10-28T21:15:00Z
@@ -1214,6 +1247,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603690
   - 610317
   - 984440
   start: 2026-10-28T21:35:00Z
@@ -1226,6 +1260,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603691
   - 610318
   - 984441
   start: 2026-10-28T21:40:00Z
@@ -1237,6 +1272,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603692
   - 610319
   - 984442
   start: 2026-10-28T21:45:00Z
@@ -1251,6 +1287,7 @@
   widescreen: true
   hd: true
 - eventId:
+  - 603693
   - 610320
   - 984443
   start: 2026-10-28T21:50:00Z
@@ -1262,6 +1299,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603694
   - 610321
   - 984444
   start: 2026-10-28T22:15:00Z
@@ -1274,6 +1312,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603695
   - 610322
   - 984445
   start: 2026-10-28T22:20:00Z
@@ -1288,6 +1327,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603696
   - 610323
   - 984446
   start: 2026-10-28T22:30:00Z
@@ -1299,6 +1339,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603697
   - 610324
   - 984447
   start: 2026-10-28T22:50:00Z
@@ -1310,6 +1351,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603698
   - 610325
   - 984448
   start: 2026-10-28T22:55:00Z
@@ -1321,6 +1363,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603699
   - 610326
   - 984449
   start: 2026-10-28T23:20:00Z
@@ -1333,6 +1376,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603700
   - 610327
   - 984450
   start: 2026-10-28T23:25:00Z
@@ -1347,6 +1391,7 @@
   widescreen: true
   hd: true
 - eventId:
+  - 603701
   - 610328
   - 984451
   start: 2026-10-28T23:30:00Z
@@ -1358,6 +1403,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 603702
   - 610329
   - 984452
   start: 2026-10-28T23:55:00Z
