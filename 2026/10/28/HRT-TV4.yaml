@@ -1494,7 +1494,7 @@
   - 595738
   - 713552
   start: 2026-10-28T22:30:00Z
-  stop: 2026-10-28T22:50:00Z
+  stop: 2026-10-28T22:53:00Z
   title: 'Studio 4: Jutarnji intervju'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -1520,7 +1520,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 656972
+- eventId:
+  - 656972
+  - 657604
   start: 2026-10-28T22:53:00Z
   stop: 2026-10-28T23:00:00Z
   title: '#REPORTAŽE: Žensko hrvanje'
@@ -1560,6 +1562,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 657605
+  start: 2026-10-28T23:11:00Z
+  stop: 2026-10-28T23:19:00Z
+  title: Vijesti iz kulture
+  subtitle: ' '
+  description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
 - eventId:
   - 595743
   - 713557
@@ -1571,6 +1579,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 657606
+  start: 2026-10-28T23:19:00Z
+  stop: 2026-10-28T23:42:00Z
+  title: Druga strana
+  subtitle: ' '
+  description: 'U Drugoj strani govorimo o ruskom gospodarskom paradoksu. Međunarodne sankcije nisu bacile Rusiju na koljena nego potakle najveći zabilježeni rast gospodarstva još od raspada Sovjetskog Saveza. Kako je to moguće? Što je istina, a što ruska propaganda? Nakon raspada Sovjetskog Saveza, Rusija je bila odlično mjesto za stjecanje, ali ne i za čuvanje novca. Bogatstvo zgrnuto na nafti, plinu, rudama i bankama uvijek je našlo svoj put do londonskih nekretnina, švicarskih bankovnih računa i offshore kompanija. Imovina u inozemstvu pružala je bogatim Rusima ono što je kod kuće bilo upitno: sigurnost i vlasništvo. Zapadne sankcije to su potpuno preokrenule. Ruska imovina može biti zamrznuta, transakcije blokirane, a ulaganja u inozemstvo teška za upravljanje. Ekonomske posljedice neočekivane. Više nije trebalo uvjeravati domaće investitore da ulažu lokalno i ne iznose novac iz zemlje. Domaća ulaganja u dugotrajnu imovinu rasla su od 2022.-2024. po stopi od 9% godišnje! Poduzetnici su silom prilika gradili tvornice, gradove, ulagali u razvoj usluga i razvoj domaćeg tržišta i domaćih kupaca. Malo im je pomogla i državna vojna potrošnja, i statistički uspjeh nije izostao. Za vrijeme Putinove vlasti ruska ekonomija prosječno rasla je 6-7% godišnje, siromaštvo se smanjilo za 50%, a prosječna plaća je sa 80 skočila na 750 dolara. Ako je vjerovati podacima Svjetske banke, ruski BDP po glavi stanovnika nikad nije bio veći... još od raspada Sovjetskog Saveza. Rusko gospodarsko čudo analizira filozof, sociolog, političar i bivši hrvatski veleposlanik u Rusiji, Božo Kovačević.'
 - eventId:
   - 595744
   - 713558
@@ -1582,3 +1596,9 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 657607
+  start: 2026-10-28T23:44:00Z
+  stop: 2026-10-29T00:05:00Z
+  title: Regionalni dnevnik
+  subtitle: ' '
+  description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
