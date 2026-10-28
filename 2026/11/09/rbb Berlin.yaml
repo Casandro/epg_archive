@@ -1,5 +1,6 @@
 - eventId:
   - 544602
+  - 551620
   - 592555
   - 735164
   - 929997
@@ -14,6 +15,7 @@
   audiodesc: true
 - eventId:
   - 544603
+  - 551621
   - 592556
   - 735165
   - 929998
@@ -40,6 +42,15 @@
   audiodesc: true
   subtitle: Auf Streife mit der Polizei
   ageRating: 12
+- eventId: 551622
+  start: 2026-11-09T01:15:00Z
+  stop: 2026-11-09T01:45:00Z
+  title: Reportage
+  ageRating: 12
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 544605
   - 592558
@@ -54,8 +65,18 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 551623
+  start: 2026-11-09T01:45:00Z
+  stop: 2026-11-09T02:35:00Z
+  title: Das Waisenhaus für wilde Tiere
+  subtitle: Abenteuer Afrika
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 544606
+  - 551624
   - 592559
   - 735168
   - 930001
@@ -70,6 +91,7 @@
   audiodesc: true
 - eventId:
   - 544727
+  - 551824
   - 569277
   - 735227
   - 930030
@@ -83,6 +105,7 @@
   audiodesc: true
 - eventId:
   - 544728
+  - 551825
   - 569278
   - 735228
   - 930031
@@ -97,6 +120,7 @@
   audiodesc: true
 - eventId:
   - 544729
+  - 551826
   - 569279
   - 735229
   - 930032
@@ -110,6 +134,7 @@
   audiodesc: true
 - eventId:
   - 544730
+  - 551827
   - 569280
   - 735230
   - 930033
@@ -123,6 +148,7 @@
   audiodesc: true
 - eventId:
   - 544731
+  - 551828
   - 569281
   - 735231
   - 930034
@@ -136,6 +162,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 552100
   - 571747
   - 592746
   - 735296
@@ -149,6 +176,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 552101
   - 571748
   - 592747
   - 735297
@@ -162,6 +190,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 552102
   - 571749
   - 592748
   - 735298
@@ -177,6 +206,7 @@
   audiodesc: true
   ageRating: 12
 - eventId:
+  - 552103
   - 571750
   - 592749
   - 735299
@@ -193,6 +223,7 @@
   ageRating: 12
 - eventId:
   - 549514
+  - 552302
   - 592948
   - 735356
   - 930094
@@ -207,6 +238,7 @@
   audiodesc: true
 - eventId:
   - 549515
+  - 552303
   - 592949
   - 735357
   - 930095
@@ -236,8 +268,21 @@
   audiodesc: true
   genre:
   - '16'
+- eventId: 552304
+  start: 2026-11-09T11:05:00Z
+  stop: 2026-11-09T11:55:00Z
+  title: WaPo Duisburg (6)
+  subtitle: Helgas Albtraum
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 549517
+  - 552305
   - 592951
   - 735359
   - 930097
@@ -269,8 +314,21 @@
   audiodesc: true
   genre:
   - '16'
+- eventId: 552563
+  start: 2026-11-09T12:40:00Z
+  stop: 2026-11-09T13:30:00Z
+  title: WaPo Duisburg (7)
+  subtitle: Der tote Taucher
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 549647
+  - 552564
   - 569545
   - 735397
   - 930125
@@ -286,78 +344,6 @@
   hd: true
   audiodesc: true
   ageRating: 6
-- eventId:
-  - 549791
-  - 572418
-  - 735463
-  - 930160
-  start: 2026-11-09T15:00:00Z
-  stop: 2026-11-09T15:15:00Z
-  title: rbb24
-  episodeUri: crid://onid-8468/e/6abc37d1fc05f9b364d145dd
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
-  - 549792
-  - 572419
-  - 735464
-  - 930161
-  start: 2026-11-09T15:15:00Z
-  stop: 2026-11-09T16:05:00Z
-  title: In aller Freundschaft - Die jungen Ärzte (153)
-  subtitle: Wunschträume
-  episodeUri: crid://onid-8468/e/6abc37d1fc05f9b364d145db
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  ageRating: 12
-- eventId:
-  - 549793
-  - 572420
-  - 735465
-  - 930162
-  start: 2026-11-09T16:05:00Z
-  stop: 2026-11-09T16:53:00Z
-  title: Panda, Gorilla & Co. (256)
-  subtitle: Geschichten aus dem Zoo Berlin und dem Tierpark Berlin
-  episodeUri: crid://onid-8468/e/6abc37d1fc05f9b364d145d9
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
-  - 549794
-  - 572421
-  - 735466
-  - 930163
-  start: 2026-11-09T16:53:00Z
-  stop: 2026-11-09T17:00:00Z
-  title: Unser Sandmännchen
-  subtitle: 'Fieps: Fieps und das Katzenbaby'
-  episodeUri: crid://onid-8468/e/6abc37d1fc05f9b364d145d7
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  genre:
-  - '16'
-- eventId:
-  - 549795
-  - 572422
-  - 735467
-  - 930164
-  start: 2026-11-09T17:00:00Z
-  stop: 2026-11-09T18:27:00Z
-  title: DER TAG in Berlin & Brandenburg
-  subtitle: mit rbb24, Sport und Wetter
-  episodeUri: crid://onid-8468/e/6abc37d1fc05f9b364d145d5
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
   - 549991
   - 572854
@@ -457,6 +443,7 @@
   audiodesc: true
 - eventId:
   - 550160
+  - 553675
   - 573120
   - 735656
   - 930324
@@ -474,6 +461,7 @@
   audiodesc: true
 - eventId:
   - 550161
+  - 553676
   - 573121
   - 735657
   - 930325

@@ -1,6 +1,7 @@
 - eventId:
   - 1625080
   - 539986
+  - 553922
   - 564959
   start: 2026-11-06T00:30:00Z
   stop: 2026-11-06T01:00:00Z
@@ -14,6 +15,7 @@
 - eventId:
   - 1625081
   - 539987
+  - 553923
   - 564960
   start: 2026-11-06T01:00:00Z
   stop: 2026-11-06T01:50:00Z
@@ -27,6 +29,7 @@
 - eventId:
   - 1625082
   - 539988
+  - 553924
   - 564961
   start: 2026-11-06T01:50:00Z
   stop: 2026-11-06T02:20:00Z
@@ -40,6 +43,7 @@
 - eventId:
   - 1625083
   - 539989
+  - 553925
   - 564962
   start: 2026-11-06T02:20:00Z
   stop: 2026-11-06T02:30:00Z
@@ -52,6 +56,7 @@
 - eventId:
   - 1625084
   - 539990
+  - 553926
   - 564963
   start: 2026-11-06T02:30:00Z
   stop: 2026-11-06T04:00:00Z
@@ -65,6 +70,7 @@
 - eventId:
   - 1625128
   - 545331
+  - 554105
   - 562291
   start: 2026-11-06T04:00:00Z
   stop: 2026-11-06T04:30:00Z
@@ -77,6 +83,7 @@
 - eventId:
   - 1625129
   - 545332
+  - 554106
   - 562292
   start: 2026-11-06T04:30:00Z
   stop: 2026-11-06T05:00:00Z
@@ -89,6 +96,7 @@
 - eventId:
   - 1625130
   - 545333
+  - 554107
   - 562293
   start: 2026-11-06T05:00:00Z
   stop: 2026-11-06T07:00:00Z
@@ -102,6 +110,7 @@
 - eventId:
   - 1625150
   - 545862
+  - 554339
   - 565341
   start: 2026-11-06T07:00:00Z
   stop: 2026-11-06T07:30:00Z
@@ -114,6 +123,7 @@
 - eventId:
   - 1625151
   - 545863
+  - 554340
   - 565342
   start: 2026-11-06T07:30:00Z
   stop: 2026-11-06T08:00:00Z
@@ -126,6 +136,7 @@
 - eventId:
   - 1625152
   - 545864
+  - 554341
   - 565343
   start: 2026-11-06T08:00:00Z
   stop: 2026-11-06T08:45:00Z
@@ -140,6 +151,7 @@
 - eventId:
   - 1625153
   - 545865
+  - 554342
   - 565344
   start: 2026-11-06T08:45:00Z
   stop: 2026-11-06T09:30:00Z
@@ -151,36 +163,30 @@
   hd: true
   audiodesc: true
   ageRating: 6
-- eventId:
-  - 1625170
-  - 547467
-  - 565536
+- eventId: 554516
   start: 2026-11-06T09:30:00Z
   stop: 2026-11-06T10:15:00Z
   title: In aller Freundschaft - Die jungen Ärzte (151)
   subtitle: Zweite Chancen
-  episodeUri: crid://onid-1/e/6ab6f1d78cd1f60a55a2d55f
+  ageRating: 12
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  ageRating: 12
-- eventId: 547468
+- eventId: 554517
   start: 2026-11-06T10:15:00Z
   stop: 2026-11-06T11:05:00Z
   title: Giraffe, Erdmännchen & Co. (254)
   subtitle: Zoogeschichten aus Frankfurt und Kronberg
-  episodeUri: crid://onid-1/e/6ab6f1d78cd1f60a55a2d55d
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 547469
+- eventId: 554518
   start: 2026-11-06T11:05:00Z
   stop: 2026-11-06T11:55:00Z
   title: WaPo Duisburg (5)
   subtitle: Juwelenräuber
-  episodeUri: crid://onid-1/e/6ab6f1d78cd1f60a55a2d55b
   ageRating: 6
   genre:
   - '16'
@@ -188,7 +194,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 547470
+- eventId:
+  - 547470
+  - 554519
   start: 2026-11-06T11:55:00Z
   stop: 2026-11-06T12:40:00Z
   title: Auf Achse (8)
@@ -214,6 +222,18 @@
   audiodesc: true
   genre:
   - '16'
+- eventId: 554735
+  start: 2026-11-06T12:40:00Z
+  stop: 2026-11-06T13:30:00Z
+  title: WaPo Duisburg (6)
+  subtitle: Helgas Albtraum
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1625216
   - 547981
@@ -232,6 +252,7 @@
   audiodesc: true
 - eventId:
   - 1625251
+  - 554930
   - 565960
   - 573523
   start: 2026-11-06T15:00:00Z
@@ -244,6 +265,7 @@
   audiodesc: true
 - eventId:
   - 1625252
+  - 554931
   - 565961
   - 573524
   start: 2026-11-06T15:15:00Z
@@ -257,6 +279,7 @@
   audiodesc: true
 - eventId:
   - 1625253
+  - 554932
   - 565962
   - 573525
   start: 2026-11-06T16:05:00Z
@@ -270,6 +293,7 @@
   audiodesc: true
 - eventId:
   - 1625254
+  - 554933
   - 565963
   - 573526
   start: 2026-11-06T16:53:00Z
@@ -283,6 +307,7 @@
   audiodesc: true
 - eventId:
   - 1625255
+  - 554934
   - 565964
   - 573527
   start: 2026-11-06T17:00:00Z
@@ -290,6 +315,18 @@
   title: DER TAG in Berlin & Brandenburg
   subtitle: mit rbb24, Sport und Wetter
   episodeUri: crid://onid-1/e/6ab6f1d78cd1f60a55a2d54b
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1006676
+  - 555192
+  start: 2026-11-06T18:27:00Z
+  stop: 2026-11-06T18:30:00Z
+  title: SUPER.MARKT
+  subtitle: Die Wetteraussichten für Berlin und Brandenburg
+  episodeUri: crid://onid-1/e/6ac81571b3a2d1c1a35ec027
   widescreen: true
   subtitled: true
   hd: true
@@ -303,6 +340,18 @@
   title: rbb wetter
   subtitle: Die Wetteraussichten für Berlin und Brandenburg
   episodeUri: crid://onid-1/e/6ab6f5f9e111c223b1772d13
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1006677
+  - 555193
+  start: 2026-11-06T18:30:00Z
+  stop: 2026-11-06T19:00:00Z
+  title: rbb24 Brandenburg aktuell
+  subtitle: Plötzlich Wechseljahre!
+  episodeUri: crid://onid-1/e/6ac81571b3a2d1c1a35ec025
   widescreen: true
   subtitled: true
   hd: true
@@ -332,6 +381,17 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1006678
+  - 555194
+  start: 2026-11-06T19:00:00Z
+  stop: 2026-11-06T19:15:00Z
+  title: Berliner Nächte - Herbst
+  episodeUri: crid://onid-1/e/6ac81571b3a2d1c1a35ec023
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 549051
   - 754091
   - 805675
@@ -345,6 +405,18 @@
   audiodesc: true
   genre:
   - '32'
+- eventId:
+  - 1006679
+  - 555195
+  start: 2026-11-06T19:15:00Z
+  stop: 2026-11-06T20:45:00Z
+  title: Kreuzkölln - Kiez zwischen Hype und Lässigkeit
+  subtitle: mit rbb24, Sport und Wetter
+  episodeUri: crid://onid-1/e/6ac81571b3a2d1c1a35ec021
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1625290
   - 549052
@@ -360,6 +432,7 @@
 - eventId:
   - 1625291
   - 549053
+  - 555196
   - 567441
   start: 2026-11-06T20:45:00Z
   stop: 2026-11-06T21:15:00Z
@@ -373,6 +446,7 @@
   - 1625309
   - 540505
   - 550806
+  - 555445
   start: 2026-11-06T21:15:00Z
   stop: 2026-11-06T22:45:00Z
   title: Die größten Schlager-Kulthits der 80er
@@ -385,6 +459,7 @@
   - 1625310
   - 540506
   - 550807
+  - 555446
   start: 2026-11-06T22:45:00Z
   stop: 2026-11-06T23:30:00Z
   title: Kulthits (1)
@@ -398,6 +473,7 @@
   - 1625311
   - 540507
   - 550808
+  - 555447
   start: 2026-11-06T23:30:00Z
   stop: 2026-11-07T00:15:00Z
   title: Kim & Klaus

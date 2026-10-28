@@ -32,11 +32,26 @@
   genre:
   - '16'
   description: 'Weil ein Zeuge trotz Vorladung nicht auf dem Polizeirevier erschienen ist, wollen Hubert und Girwidz den Mann suchen. Zu spät, er treibt tot im Klärbecken, seinem Arbeitsplatz. Kläranlagenchefin Ulrike Mettmann geht von einem tragischen Unfall aus. Doch schnell wird klar: Hier hat jemand nachgeholfen.'
-- eventId: 733781
+- eventId:
+  - 566429
+  - 733781
   start: 2026-10-29T01:28:00Z
   stop: 2026-10-29T01:30:00Z
   title: Tagesschau
   description: Die Nachrichten der ARD
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId:
+  - 566430
+  - 733782
+  start: 2026-10-29T01:30:00Z
+  stop: 2026-10-29T02:20:00Z
+  title: Hubert ohne Staller (179)
+  subtitle: Eine ungeklärte Leiche
+  description: 'Weil ein Zeuge trotz Vorladung nicht auf dem Polizeirevier erschienen ist, wollen Hubert und Girwidz den Mann suchen. Zu spät, er treibt tot im Klärbecken, seinem Arbeitsplatz. Kläranlagenchefin Ulrike Mettmann geht von einem tragischen Unfall aus. Doch schnell wird klar: Hier hat jemand nachgeholfen.'
+  genre:
+  - '16'
   widescreen: true
   subtitled: true
   hd: true
@@ -45,17 +60,6 @@
   stop: 2026-10-29T02:00:00Z
   title: Lokalzeit aus Köln
   subtitle: Der Blick in die Region
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 733782
-  start: 2026-10-29T01:30:00Z
-  stop: 2026-10-29T02:20:00Z
-  title: Hubert ohne Staller (179)
-  subtitle: Eine ungeklärte Leiche
-  description: 'Weil ein Zeuge trotz Vorladung nicht auf dem Polizeirevier erschienen ist, wollen Hubert und Girwidz den Mann suchen. Zu spät, er treibt tot im Klärbecken, seinem Arbeitsplatz. Kläranlagenchefin Ulrike Mettmann geht von einem tragischen Unfall aus. Doch schnell wird klar: Hier hat jemand nachgeholfen.'
-  genre:
-  - '16'
   widescreen: true
   subtitled: true
   hd: true
@@ -82,7 +86,9 @@
   genre:
   - '16'
   description: 'Der Fischverkäufer Helge Hinrichs wird von einem Auto erfasst. Der Unfallwagen rast davon, Hinrichs stirbt in den Armen seiner hochschwangeren Frau. Da die Fahrerin des Wagens kurze Zeit später in einer Radarfalle geblitzt wird, scheint der Fall für das Lübecker Kripoteam klar. Doch als sie den Halter des Wagens ermitteln, sind die Ermittler geschockt: Es ist ihre Vorgesetzte, Staatsanwältin Dr. Zobel. Finn Kiesewetter ist sich sicher: Das muss ein Fehler sein. Unmöglich, dass Frau Zobel so etwas macht!'
-- eventId: 733783
+- eventId:
+  - 566431
+  - 733783
   start: 2026-10-29T02:20:00Z
   stop: 2026-10-29T02:50:00Z
   title: Being Sebastian Vettel (1/4)
@@ -98,7 +104,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 733784
+- eventId:
+  - 566432
+  - 733784
   start: 2026-10-29T02:50:00Z
   stop: 2026-10-29T03:20:00Z
   title: Being Sebastian Vettel (2/4)
@@ -123,6 +131,21 @@
   stop: 2026-10-29T03:38:00Z
   title: Brisant
   description: 'BRISANT ist das Infotainment-Magazin der ARD und erzählt die Geschichten des Lebens aus aller Welt: Nachrichten, Hintergründe, Reportagen über den Klimawandel, Service, Trends, Lifestyle und Neuigkeiten von Prominenten.'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 566583
+  start: 2026-10-29T03:20:00Z
+  stop: 2026-10-29T03:43:00Z
+  title: Brisant
+  subtitle: 'Moderation: Kamilla Senjo'
+  description: |-
+    Themen:
+    * Tote und Verletzte bei Zugunglück: Hochgeschwindigkeitszüge kollidieren in Spanien
+    * Gefangen in luftiger Höhe: Nach Stromausfall sitzen Fahrgäste in Wuppertaler Schwebebahn fest
+    * Nach dem "Sackerl fürs Gackerl": Wiener Initiative ruft mit "Flascherl fürs Bacherl" zur Verdünnung von Hunde-Urin auf
+    * Auf schwieriger Mission: König Charles auf Karibik-Reise
+    * Hommage an George Michael: Konzertfilm "The Faith Tour" in den Kinos
   widescreen: true
   subtitled: true
   hd: true
@@ -173,7 +196,9 @@
   subtitled: true
   hd: true
   description: "Die Dokumentation zeichnet das außergewöhnliche Leben eines der erfolgreichsten Formel-1-Fahrer nach. In vier Episoden beleuchtet sie nicht nur Vettels Weg vom motorsportbegeisterten Jungen zum vierfachen Weltmeister, sondern auch die persönlichen Konflikte und Wendepunkte seiner Karriere. \n\nMit exklusiven Interviews, seltenem Archivmaterial und sehr persönlichen Einblicken des Protagonisten zeigt \"Being Sebastian Vettel\" einen Menschen, der sich immer wieder neu hinterfragt."
-- eventId: 733786
+- eventId:
+  - 566584
+  - 733786
   start: 2026-10-29T03:43:00Z
   stop: 2026-10-29T03:45:00Z
   title: Tagesschau
@@ -181,7 +206,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 733787
+- eventId:
+  - 566585
+  - 733787
   start: 2026-10-29T03:45:00Z
   stop: 2026-10-29T04:30:00Z
   title: Morden im Norden (80)
@@ -223,6 +250,7 @@
 - eventId:
   - 1401123
   - 562438
+  - 566586
   - 576898
   - 721220
   start: 2026-10-29T04:30:00Z
@@ -302,6 +330,7 @@
 - eventId:
   - 1401176
   - 563113
+  - 566918
   - 590077
   - 721242
   start: 2026-10-29T08:00:00Z
@@ -313,6 +342,7 @@
 - eventId:
   - 1401177
   - 563114
+  - 566919
   - 590078
   - 721243
   start: 2026-10-29T08:05:00Z
@@ -344,6 +374,7 @@
 - eventId:
   - 1401178
   - 563115
+  - 566920
   - 590079
   - 721244
   start: 2026-10-29T08:55:00Z
@@ -368,6 +399,7 @@
 - eventId:
   - 1401220
   - 563446
+  - 567116
   - 590464
   - 721252
   start: 2026-10-29T09:40:00Z
@@ -380,6 +412,7 @@
 - eventId:
   - 1401221
   - 563447
+  - 567117
   - 590465
   - 721253
   start: 2026-10-29T09:45:00Z
@@ -401,6 +434,7 @@
 - eventId:
   - 1401222
   - 563448
+  - 567118
   - 590466
   - 721254
   start: 2026-10-29T10:15:00Z
@@ -422,6 +456,7 @@
 - eventId:
   - 1401223
   - 563449
+  - 567119
   - 590467
   - 721255
   start: 2026-10-29T11:00:00Z
@@ -430,6 +465,14 @@
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: 'Moderation: Wiebke Binder und Stephanie Müller-Spirra'
+  description: |-
+    Themen:
+    * Polizei warnt: Urlaubsfotos auf Social Media erhöhen Einbruchsgefahr.
+    * Vier Wochen Tankrabatt: So fällt die Bilanz aus.
+    * Hightech-Diagnose auf Rädern: Modellprojekt versorgt Pflegeheime im Saarland.
+    * Seiffen im Erzgebirge: Zu Besuch im Spielzeugmacher- und Weihnachtsdorf.
+    * Zu Gast auf der MIMA-Couch: Schauspielerin Ann-Kathrin Kramer.
 - eventId: 718032
   start: 2026-10-29T11:45:00Z
   stop: 2026-10-29T12:00:00Z
@@ -457,6 +500,7 @@
 - eventId:
   - 1401253
   - 563795
+  - 567388
   - 590816
   - 721268
   start: 2026-10-29T13:00:00Z
@@ -469,6 +513,7 @@
 - eventId:
   - 1401254
   - 563796
+  - 567389
   - 590817
   - 721269
   start: 2026-10-29T13:10:00Z
@@ -490,6 +535,7 @@
 - eventId:
   - 1401255
   - 563797
+  - 567390
   - 590818
   - 721270
   start: 2026-10-29T14:00:00Z
@@ -510,7 +556,9 @@
   subtitled: true
   hd: true
   description: Emilia ist fassungslos, als sie ihrer ehemals großen Liebe Massimo gegenübersteht. Frida fotografiert heimlich einen berühmten DJ. Fanny und Hildegard helfen tatkräftig mit, um Kilians Traum zu ermöglichen.
-- eventId: 563798
+- eventId:
+  - 563798
+  - 567391
   start: 2026-10-29T14:10:00Z
   stop: 2026-10-29T15:00:00Z
   title: Sturm der Liebe (4662)
@@ -530,7 +578,9 @@
   hd: true
   subtitle: 'Moderation: Tom Schachtsiek'
   description: Die Nachrichten der ARD
-- eventId: 566461
+- eventId:
+  - 566461
+  - 567909
   start: 2026-10-29T15:00:00Z
   stop: 2026-10-29T15:10:00Z
   title: Tagesschau
@@ -550,7 +600,9 @@
   subtitled: true
   hd: true
   description: Die Rentiere müssen für einen Großputz ihren Stall räumen, Eisbärin Vera bekommt einen Verband aus Fischhaut, die Kattas ziehen um ins grüne Paradies, zwei junge Seelöwen trainieren den Ringsprung und Familie Fuchsmanguste hat knurrigen Nachwuchs - im Erlebniszoo Hannover ist wieder tierisch viel los.
-- eventId: 566462
+- eventId:
+  - 566462
+  - 567910
   start: 2026-10-29T15:10:00Z
   stop: 2026-10-29T16:00:00Z
   title: Seelöwe & Co. - tierisch beliebt (38)
@@ -569,6 +621,7 @@
 - eventId:
   - 1401319
   - 566463
+  - 567911
   - 600893
   - 721288
   start: 2026-10-29T16:00:00Z
@@ -581,6 +634,7 @@
 - eventId:
   - 1401320
   - 566464
+  - 567912
   - 600894
   - 721289
   start: 2026-10-29T16:15:00Z
@@ -593,6 +647,7 @@
 - eventId:
   - 1401321
   - 566465
+  - 567913
   - 600895
   start: 2026-10-29T17:00:00Z
   stop: 2026-10-29T17:50:00Z
@@ -630,7 +685,9 @@
   subtitled: true
   hd: true
   description: "Prof. Dr. Karin Patzelt und Assistenzarzt Oliver Probst nehmen Anthony Karg auf, der beim Frühsport im Steigerwald bewusstlos geworden ist. Begleitet wird der junge Deutsch-Kanadier von seinem dominanten Vater Garry Karg. Olli findet Garry und dessen Umgang mit seinem Sohn sofort unsympathisch. \nChefärztin Dr. Leyla Sherbaz wird von Rückenschmerzen geplagt. Ausgerechnet heute ist ihr Sofia Galura als Assistenz zugeteilt, vor der sie keine Schwäche zeigen will. Leyla gelingt es allerdings nicht lange, die Schmerzen vor ihrer jungen Kollegin zu verbergen."
-- eventId: 566466
+- eventId:
+  - 566466
+  - 567914
   start: 2026-10-29T17:50:00Z
   stop: 2026-10-29T18:45:00Z
   title: In aller Freundschaft - Die jungen Ärzte (471)
@@ -650,6 +707,7 @@
 - eventId:
   - 1401379
   - 566862
+  - 568291
   - 601475
   - 721301
   start: 2026-10-29T18:45:00Z
@@ -663,6 +721,7 @@
 - eventId:
   - 1401380
   - 566863
+  - 568292
   - 601476
   - 721302
   start: 2026-10-29T18:50:00Z
@@ -676,6 +735,7 @@
 - eventId:
   - 1401381
   - 566864
+  - 568293
   - 601477
   start: 2026-10-29T18:55:00Z
   stop: 2026-10-29T19:00:00Z
@@ -687,6 +747,7 @@
 - eventId:
   - 1401382
   - 566865
+  - 568294
   - 601478
   start: 2026-10-29T19:00:00Z
   stop: 2026-10-29T19:15:00Z
@@ -709,7 +770,9 @@
   subtitled: true
   hd: true
   description: 'Eine große Blutlache an der Ahlbecker Promenade versetzt Usedom in Alarm. Während die Einsatzkräfte nach einer Person suchen, die allem Anschein nach lebensgefährlich viel Blut verloren hat, entfachen in der Bevölkerung wilde Spekulationen über Tat und Täter - angeheizt von einer ehrgeizigen Reporterin des Nord-Kuriers. Als auch noch eine zweite Blutlache auftaucht, verfällt die Insel endgültig in Panik: Treibt hier ein Serienmörder sein Unwesen?'
-- eventId: 566866
+- eventId:
+  - 566866
+  - 568295
   start: 2026-10-29T19:15:00Z
   stop: 2026-10-29T20:45:00Z
   title: Mörder unter uns - Der Usedom-Krimi
@@ -738,7 +801,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 566867
+- eventId:
+  - 566867
+  - 568296
   start: 2026-10-29T20:45:00Z
   stop: 2026-10-29T21:15:00Z
   title: Panorama
@@ -750,6 +815,18 @@
     Themen voraussichtlich:
     * Rechte Gewalt: Wenn aus Jugendlichen Terroristen werden
     * Macht und Missbrauch im OP
+- eventId:
+  - 1195451
+  - 568679
+  - 721363
+  start: 2026-10-29T21:15:00Z
+  stop: 2026-10-29T21:50:00Z
+  title: Tagesthemen
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: Die Nachrichten der ARD
+  subtitle: mit Wetter
 - eventId:
   - 1401449
   - 567286
@@ -770,6 +847,18 @@
   subtitled: true
   hd: true
 - eventId:
+  - 1195452
+  - 568680
+  - 721364
+  start: 2026-10-29T21:50:00Z
+  stop: 2026-10-29T22:35:00Z
+  title: Meister des Alltags (224)
+  subtitle: 'Moderation: Florian Weber'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: Christian Ehring zeigt den Irrsinn der Woche.
+- eventId:
   - 1401450
   - 567287
   - 601998
@@ -785,6 +874,7 @@
 - eventId:
   - 1401451
   - 567288
+  - 568681
   - 601999
   start: 2026-10-29T22:35:00Z
   stop: 2026-10-29T23:05:00Z
@@ -797,6 +887,7 @@
 - eventId:
   - 1401452
   - 567289
+  - 568682
   - 602000
   - 721317
   start: 2026-10-29T23:05:00Z
@@ -809,6 +900,7 @@
 - eventId:
   - 1401453
   - 567290
+  - 568683
   - 602001
   - 721318
   start: 2026-10-29T23:15:00Z

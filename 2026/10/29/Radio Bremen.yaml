@@ -1,4 +1,6 @@
-- eventId: 758372
+- eventId:
+  - 566752
+  - 758372
   start: 2026-10-29T00:10:00Z
   stop: 2026-10-29T00:40:00Z
   title: 'Die Nordreportage: Unter Norderney durch'
@@ -20,18 +22,8 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 562957
-  - 884989
-  start: 2026-10-29T00:25:00Z
-  stop: 2026-10-29T00:55:00Z
-  title: 'Die Nordreportage: Operation Windrad-Bau'
-  subtitle: Hightech und große Hürden
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: '"Die Nordreportage" zeigt den Bau einer Windkraftanlage: vom massiven Betonturm bis zur finalen Montage der Rotorblätter und den Problemen, die auf dem Weg dorthin entstehen. Tonnenschwere Hightechteile in schwindelerregender Höhe: Der Bau von Windkrafträdern stellt Monteure und Bauleiter vor große Herausforderungen. Gerade in Zeiten der Energiewende. Und oft läuft es anders als geplant.'
-- eventId: 758373
+  - 566753
+  - 758373
   start: 2026-10-29T00:40:00Z
   stop: 2026-10-29T01:10:00Z
   title: 'Die Nordreportage: Operation Windrad-Bau'
@@ -52,18 +44,16 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 562958
-  - 884990
-  start: 2026-10-29T00:55:00Z
-  stop: 2026-10-29T01:25:00Z
+- eventId: 566754
+  start: 2026-10-29T01:10:00Z
+  stop: 2026-10-29T01:45:00Z
   title: Die Nordreportage
   subtitle: Elektro statt Diesel - Neue Energie für Hamburgs Alsterschiffe
+  description: Die "Eilbek" soll schnellstmöglich auf eine Werft nach Finkenwerder gebracht werden. Die Werft wird den alten Motor ausbauen und den neuen Batterieantrieb einbauen. Was sicher leichter klingt als getan. Denn häufig passieren unerwartete Dinge, wenn man so einen alten Kahn anpackt. Was sie jetzt schon wissen ist, dass es sehr eng wird im Bauch des Schiffes. Alle Komponenten unterzubringen, ist die größte Herausforderung. Die Passage auf der breiten Elbe zur Werft Cölln wird für den kleinen Alsterdampfer zur Reise in die Zukunft.
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Die "Eilbek" soll schnellstmöglich auf eine Werft nach Finkenwerder gebracht werden. Die Werft wird den alten Motor ausbauen und den neuen Batterieantrieb einbauen. Was sicher leichter klingt als getan. Denn häufig passieren unerwartete Dinge, wenn man so einen alten Kahn anpackt. Was sie jetzt schon wissen ist, dass es sehr eng wird im Bauch des Schiffes. Alle Komponenten unterzubringen, ist die größte Herausforderung. Die Passage auf der breiten Elbe zur Werft Cölln wird für den kleinen Alsterdampfer zur Reise in die Zukunft.
 - eventId: 758374
   start: 2026-10-29T01:10:00Z
   stop: 2026-10-29T01:40:00Z
@@ -84,17 +74,6 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 562959
-  - 884991
-  start: 2026-10-29T01:25:00Z
-  stop: 2026-10-29T01:40:00Z
-  title: Mein Norden
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: Wie vielseitig und faszinierend Norddeutschland aussehen kann, zeigt Ihnen das NDR Fernsehen immer mal wieder zwischendurch in seinen kleinen, aber feinen "Mein Norden"-Filmen. Wir entführen Sie mit beeindruckenden und berührenden Bildern in die schönsten Ecken von Hamburg, Niedersachsen, Schleswig-Holstein und Mecklenburg-Vorpommern. Wir zeigen Großstadtleben und Natur. Wir stellen Ihnen die unterschiedlichsten menschlichen und tierischen Bewohner Norddeutschlands vor. Und manchmal nehmen wir auch einfach nur eine Kameraperspektive ein - in der Bahn, im Sessellift oder auf einer Barkasse.
 - eventId: 757270
   start: 2026-10-29T01:40:00Z
   stop: 2026-10-29T01:45:00Z
@@ -104,25 +83,23 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 1401054
-  - 562960
-  - 605323
+- eventId: 566755
   start: 2026-10-29T01:45:00Z
   stop: 2026-10-29T02:15:00Z
   title: Hallo Niedersachsen
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   description: |-
     Themen u.a.:
     * Nach Auto-Attacke in Neustadt: Wie sind die Reaktionen?
     * Kündigung nach AfD-Kandidatur - Hospiz-Mitarbeiterin klagt
     * Festival of Lights: Letzte Vorbereitungen in Braunschweig
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1401055
   - 562961
+  - 566756
   - 605324
   start: 2026-10-29T02:15:00Z
   stop: 2026-10-29T02:45:00Z
@@ -131,10 +108,19 @@
   subtitled: true
   hd: true
   audiodesc: true
-  description: 30 Minuten regionale Information und Unterhaltung aus dem Land - für das Land.
+  description: |-
+    Themen:
+    * Zwischen Schließung und Neuanfang: Gastronomiesterben auf Usedom
+    * Rostocker Werft-Kran gesichert: Reparatur folgt
+    * Schließung: KI ersetzt Callcenter-Mitarbeiter in Rostock
+    * Handwerk: Neue Bäckerei entsteht in Wolgast
+    * Modellprojekt: Gemeinschaftsgarten im Plattenbaugebiet
+    * Clublegenden: Diskotheken, die Geschichte schrieben
+    * Nachrichten & Wetter
 - eventId:
   - 1401056
   - 562962
+  - 566757
   - 605325
   start: 2026-10-29T02:45:00Z
   stop: 2026-10-29T03:15:00Z
@@ -156,6 +142,7 @@
 - eventId:
   - 1401109
   - 563244
+  - 567019
   - 605583
   start: 2026-10-29T03:15:00Z
   stop: 2026-10-29T03:45:00Z
@@ -175,6 +162,7 @@
 - eventId:
   - 1401110
   - 563245
+  - 567020
   - 605584
   start: 2026-10-29T03:45:00Z
   stop: 2026-10-29T04:15:00Z
@@ -188,6 +176,7 @@
 - eventId:
   - 1401111
   - 563246
+  - 567021
   - 605585
   start: 2026-10-29T04:15:00Z
   stop: 2026-10-29T05:00:00Z
@@ -201,6 +190,7 @@
 - eventId:
   - 1401112
   - 563247
+  - 567022
   - 605586
   start: 2026-10-29T05:00:00Z
   stop: 2026-10-29T05:20:00Z
@@ -215,6 +205,7 @@
 - eventId:
   - 1401113
   - 563248
+  - 567023
   - 605587
   start: 2026-10-29T05:20:00Z
   stop: 2026-10-29T05:35:00Z
@@ -228,6 +219,7 @@
 - eventId:
   - 1401114
   - 563249
+  - 567024
   - 605588
   start: 2026-10-29T05:35:00Z
   stop: 2026-10-29T06:20:00Z
@@ -241,6 +233,7 @@
 - eventId:
   - 1401161
   - 563580
+  - 571813
   - 590021
   start: 2026-10-29T06:20:00Z
   stop: 2026-10-29T07:10:00Z
@@ -254,6 +247,7 @@
 - eventId:
   - 1401162
   - 563581
+  - 571814
   - 590022
   start: 2026-10-29T07:10:00Z
   stop: 2026-10-29T08:00:00Z
@@ -267,6 +261,7 @@
 - eventId:
   - 1401163
   - 563582
+  - 571815
   - 590023
   start: 2026-10-29T08:00:00Z
   stop: 2026-10-29T08:30:00Z
@@ -275,10 +270,19 @@
   subtitled: true
   hd: true
   audiodesc: true
-  description: 30 Minuten regionale Information und Unterhaltung aus dem Land - für das Land.
+  description: |-
+    Themen:
+    * Zwischen Schließung und Neuanfang: Gastronomiesterben auf Usedom
+    * Rostocker Werft-Kran gesichert: Reparatur folgt
+    * Schließung: KI ersetzt Callcenter-Mitarbeiter in Rostock
+    * Handwerk: Neue Bäckerei entsteht in Wolgast
+    * Modellprojekt: Gemeinschaftsgarten im Plattenbaugebiet
+    * Clublegenden: Diskotheken, die Geschichte schrieben
+    * Nachrichten & Wetter
 - eventId:
   - 1401164
   - 563583
+  - 571816
   - 590024
   start: 2026-10-29T08:30:00Z
   stop: 2026-10-29T09:00:00Z
@@ -298,6 +302,7 @@
 - eventId:
   - 1401204
   - 563875
+  - 567747
   - 590412
   start: 2026-10-29T09:00:00Z
   stop: 2026-10-29T09:30:00Z
@@ -319,6 +324,7 @@
 - eventId:
   - 1401205
   - 563876
+  - 567748
   - 590413
   start: 2026-10-29T09:30:00Z
   stop: 2026-10-29T10:00:00Z
@@ -332,6 +338,7 @@
 - eventId:
   - 1401206
   - 563877
+  - 567749
   - 590414
   start: 2026-10-29T10:00:00Z
   stop: 2026-10-29T10:30:00Z
@@ -348,6 +355,7 @@
 - eventId:
   - 1401207
   - 563878
+  - 567750
   - 590415
   start: 2026-10-29T10:30:00Z
   stop: 2026-10-29T10:55:00Z
@@ -367,6 +375,7 @@
 - eventId:
   - 1401208
   - 563879
+  - 567751
   - 590416
   start: 2026-10-29T10:55:00Z
   stop: 2026-10-29T11:25:00Z
@@ -382,6 +391,7 @@
 - eventId:
   - 1401209
   - 563880
+  - 567752
   - 590417
   start: 2026-10-29T11:25:00Z
   stop: 2026-10-29T12:10:00Z
@@ -396,6 +406,7 @@
 - eventId:
   - 1401247
   - 566485
+  - 568078
   - 590785
   start: 2026-10-29T12:10:00Z
   stop: 2026-10-29T13:00:00Z
@@ -410,6 +421,7 @@
 - eventId:
   - 1401248
   - 566486
+  - 568079
   - 590786
   start: 2026-10-29T13:00:00Z
   stop: 2026-10-29T14:00:00Z
@@ -425,6 +437,7 @@
 - eventId:
   - 1401249
   - 566487
+  - 568080
   - 590787
   start: 2026-10-29T14:00:00Z
   stop: 2026-10-29T14:10:00Z
@@ -437,6 +450,7 @@
 - eventId:
   - 1401250
   - 566488
+  - 568081
   - 590788
   start: 2026-10-29T14:10:00Z
   stop: 2026-10-29T15:00:00Z
@@ -453,6 +467,7 @@
 - eventId:
   - 1401300
   - 566845
+  - 568454
   - 600822
   start: 2026-10-29T15:00:00Z
   stop: 2026-10-29T15:15:00Z
@@ -465,6 +480,7 @@
 - eventId:
   - 1401301
   - 566846
+  - 568455
   - 600823
   start: 2026-10-29T15:15:00Z
   stop: 2026-10-29T16:00:00Z
@@ -481,6 +497,7 @@
 - eventId:
   - 1401302
   - 566847
+  - 568456
   - 600824
   start: 2026-10-29T16:00:00Z
   stop: 2026-10-29T16:10:00Z
@@ -493,6 +510,7 @@
 - eventId:
   - 1401303
   - 566848
+  - 568457
   - 600825
   start: 2026-10-29T16:10:00Z
   stop: 2026-10-29T17:00:00Z
@@ -506,6 +524,7 @@
 - eventId:
   - 1401304
   - 566849
+  - 568458
   - 600826
   start: 2026-10-29T17:00:00Z
   stop: 2026-10-29T17:06:00Z
@@ -518,6 +537,7 @@
 - eventId:
   - 1401305
   - 566850
+  - 568459
   - 600827
   start: 2026-10-29T17:06:00Z
   stop: 2026-10-29T17:13:00Z
@@ -532,6 +552,7 @@
 - eventId:
   - 1401306
   - 566851
+  - 568460
   - 600828
   start: 2026-10-29T17:13:00Z
   stop: 2026-10-29T17:15:00Z
@@ -544,6 +565,7 @@
 - eventId:
   - 1401307
   - 567266
+  - 568819
   - 600829
   start: 2026-10-29T17:15:00Z
   stop: 2026-10-29T17:45:00Z
@@ -557,6 +579,7 @@
 - eventId:
   - 1401308
   - 567267
+  - 568820
   - 600830
   start: 2026-10-29T17:45:00Z
   stop: 2026-10-29T18:30:00Z
@@ -570,6 +593,7 @@
 - eventId:
   - 1401366
   - 567639
+  - 569174
   - 601424
   start: 2026-10-29T18:30:00Z
   stop: 2026-10-29T18:58:00Z
@@ -582,6 +606,7 @@
 - eventId:
   - 1401367
   - 567640
+  - 569175
   - 601425
   start: 2026-10-29T18:58:00Z
   stop: 2026-10-29T19:00:00Z
@@ -594,6 +619,7 @@
 - eventId:
   - 1401368
   - 567641
+  - 569176
   - 601426
   start: 2026-10-29T19:00:00Z
   stop: 2026-10-29T19:15:00Z
@@ -606,6 +632,7 @@
 - eventId:
   - 1401369
   - 567642
+  - 569177
   - 601427
   start: 2026-10-29T19:15:00Z
   stop: 2026-10-29T20:00:00Z
@@ -619,6 +646,7 @@
 - eventId:
   - 1401370
   - 567643
+  - 569178
   - 601428
   start: 2026-10-29T20:00:00Z
   stop: 2026-10-29T20:45:00Z
@@ -632,6 +660,7 @@
 - eventId:
   - 1401371
   - 567644
+  - 569179
   - 601429
   start: 2026-10-29T20:45:00Z
   stop: 2026-10-29T21:00:00Z
@@ -644,6 +673,7 @@
 - eventId:
   - 1401442
   - 567795
+  - 569317
   - 601958
   start: 2026-10-29T21:00:00Z
   stop: 2026-10-29T21:50:00Z
@@ -657,6 +687,7 @@
 - eventId:
   - 1401443
   - 567796
+  - 569318
   - 601959
   start: 2026-10-29T21:50:00Z
   stop: 2026-10-29T22:35:00Z
@@ -670,6 +701,7 @@
 - eventId:
   - 1401444
   - 567797
+  - 569319
   - 601960
   start: 2026-10-29T22:35:00Z
   stop: 2026-10-29T23:25:00Z
@@ -685,6 +717,7 @@
 - eventId:
   - 1433691
   - 567798
+  - 569320
   - 601961
   start: 2026-10-29T23:25:00Z
   stop: 2026-10-29T23:50:00Z
@@ -698,6 +731,7 @@
 - eventId:
   - 1433692
   - 567799
+  - 569321
   - 601962
   start: 2026-10-29T23:50:00Z
   stop: 2026-10-30T00:15:00Z

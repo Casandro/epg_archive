@@ -2,6 +2,7 @@
   - 1539181
   - 568028
   - 568591
+  - 569540
   start: 2026-10-30T04:00:00Z
   stop: 2026-10-30T04:03:00Z
   title: Nachrichten
@@ -9,6 +10,7 @@
   - 1539182
   - 568029
   - 568592
+  - 569541
   start: 2026-10-30T04:03:00Z
   stop: 2026-10-30T08:00:00Z
   title: SR 3 Guten Morgen
@@ -18,6 +20,7 @@
   - 1566746
   - 543947
   - 568289
+  - 569778
   start: 2026-10-30T08:00:00Z
   stop: 2026-10-30T08:04:00Z
   title: SR info Nachrichten
@@ -25,6 +28,7 @@
   - 1566747
   - 543948
   - 568290
+  - 569779
   start: 2026-10-30T08:04:00Z
   stop: 2026-10-30T11:00:00Z
   title: SR 3 am Vormittag
@@ -46,6 +50,7 @@
   - 1566777
   - 545700
   - 568536
+  - 570069
   start: 2026-10-30T11:00:00Z
   stop: 2026-10-30T11:04:00Z
   title: SR info Nachrichten
@@ -53,6 +58,7 @@
   - 1566778
   - 545701
   - 568537
+  - 570070
   start: 2026-10-30T11:04:00Z
   stop: 2026-10-30T12:00:00Z
   title: SR 3 Region am Mittag
@@ -62,6 +68,7 @@
   - 1566846
   - 569692
   - 570103
+  - 570334
   start: 2026-10-30T12:00:00Z
   stop: 2026-10-30T12:10:00Z
   title: SR info Rundschau
@@ -69,6 +76,7 @@
   - 1566847
   - 569693
   - 570104
+  - 570335
   start: 2026-10-30T12:10:00Z
   stop: 2026-10-30T15:00:00Z
   title: SR 3 Kiosk
@@ -91,6 +99,12 @@
   stop: 2026-10-30T15:04:00Z
   title: SR info Nachrichten
 - eventId:
+  - 570715
+  - 935323
+  start: 2026-10-30T15:00:00Z
+  stop: 2026-10-30T15:04:00Z
+  title: SR info Nachrichten
+- eventId:
   - 1566922
   - 553388
   - 572152
@@ -100,8 +114,26 @@
   description: 16:30 - 16:31 SR info Nachrichten um halb
   subtitle: mit Lukas Baumann
 - eventId:
+  - 570716
+  - 935324
+  start: 2026-10-30T15:04:00Z
+  stop: 2026-10-30T16:00:00Z
+  title: SR 3 Region am Nachmittag
+  description: |-
+    9:30 - 9:31 SR info Nachrichten um halb
+
+    10:00 - 10:04 SR info Nachrichten
+
+    10:30 - 10:31 SR info Nachrichten um halb
+
+    11:00 - 11:04 SR info Nachrichten
+
+    11:30 - 11:31 SR info Nachrichten um halb
+  subtitle: mit Lukas Baumann
+- eventId:
   - 1566923
   - 553389
+  - 570717
   - 572153
   start: 2026-10-30T16:00:00Z
   stop: 2026-10-30T16:04:00Z
@@ -109,6 +141,7 @@
 - eventId:
   - 1566924
   - 553390
+  - 570718
   - 572154
   start: 2026-10-30T16:04:00Z
   stop: 2026-10-30T19:00:00Z
@@ -125,6 +158,7 @@
 - eventId:
   - 1567020
   - 553813
+  - 573672
   - 581437
   start: 2026-10-30T19:00:00Z
   stop: 2026-10-30T19:03:00Z
@@ -132,6 +166,7 @@
 - eventId:
   - 1567021
   - 553814
+  - 573673
   - 581438
   start: 2026-10-30T19:03:00Z
   stop: 2026-10-30T22:00:00Z
@@ -143,6 +178,7 @@
 - eventId:
   - 1567100
   - 541512
+  - 574076
   - 582169
   start: 2026-10-30T22:00:00Z
   stop: 2026-10-30T22:03:00Z
@@ -150,6 +186,7 @@
 - eventId:
   - 1567101
   - 541513
+  - 574077
   - 582170
   start: 2026-10-30T22:03:00Z
   stop: 2026-10-30T23:00:00Z
@@ -157,6 +194,7 @@
 - eventId:
   - 1567102
   - 541514
+  - 574078
   - 582171
   start: 2026-10-30T23:00:00Z
   stop: 2026-10-30T23:03:00Z
@@ -164,6 +202,7 @@
 - eventId:
   - 1567103
   - 541515
+  - 574079
   - 582172
   start: 2026-10-30T23:03:00Z
   stop: 2026-10-31T04:00:00Z

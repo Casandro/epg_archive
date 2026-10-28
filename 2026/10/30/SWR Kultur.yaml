@@ -1,6 +1,7 @@
 - eventId:
   - 1539107
   - 567731
+  - 569234
   - 591214
   start: 2026-10-30T01:00:00Z
   stop: 2026-10-30T01:03:00Z
@@ -8,6 +9,7 @@
 - eventId:
   - 1539108
   - 567732
+  - 569235
   - 591215
   start: 2026-10-30T01:03:00Z
   stop: 2026-10-30T03:00:00Z
@@ -17,6 +19,7 @@
   - 1539185
   - 568042
   - 568613
+  - 569554
   start: 2026-10-30T03:00:00Z
   stop: 2026-10-30T03:03:00Z
   title: Nachrichten, Wetter
@@ -24,6 +27,7 @@
   - 1539186
   - 568043
   - 568614
+  - 569555
   start: 2026-10-30T03:03:00Z
   stop: 2026-10-30T04:00:00Z
   title: ARD-Nachtkonzert
@@ -32,15 +36,20 @@
   - 1539187
   - 568044
   - 568615
+  - 569556
   start: 2026-10-30T04:00:00Z
   stop: 2026-10-30T04:03:00Z
   title: Nachrichten, Wetter
-- eventId: 568045
+- eventId:
+  - 568045
+  - 569557
   start: 2026-10-30T04:03:00Z
   stop: 2026-10-30T05:00:00Z
   title: ARD-Nachtkonzert
   description: "Henry Litolff: \n\"Une fleur du bal\" op. 77 \nTingyue Jiang (Klavier)\nCarl Philipp Emanuel Bach: \nSinfonie Es-Dur Wq 179 \nOrchestre de Chambre de Lausanne\nLeitung: Christian Zacharias\nJohan Severin Svendsen: \n\"Voriges Jahr hütete ich die Ziegen\" op. 31 \nLettisches Nationales Sinfonieorchester\nLeitung: Terje Mikkelsen\nLorenzo Gaetano Zavateri: \nViolinkonzert G-Dur op. 1 Nr. 12 \"Tempesta di mare\" \nFreiburger Barockorchester\nVioline und Leitung: Gottfried von der Goltz\nEmmanuel Chabrier: \n\"Souvenir de Munich\" \nAlexandre Tharaud, Aleksandar Madzar (Klavier)\nErmanno Wolf-Ferrari: \nFinale aus der Streicherserenade Es-Dur \nNuova Orchestra da camera Ferruccio Busoni\nLeitung: Massimo Belli"
-- eventId: 568046
+- eventId:
+  - 568046
+  - 569558
   start: 2026-10-30T05:00:00Z
   stop: 2026-10-30T07:30:00Z
   title: SWR Kultur am Morgen
@@ -65,6 +74,7 @@
   - 1566748
   - 543953
   - 568295
+  - 569811
   start: 2026-10-30T07:30:00Z
   stop: 2026-10-30T08:00:00Z
   title: Das Wissen
@@ -74,6 +84,7 @@
   - 1566749
   - 543954
   - 568296
+  - 569812
   start: 2026-10-30T08:00:00Z
   stop: 2026-10-30T08:05:00Z
   title: Nachrichten, Wetter
@@ -81,6 +92,7 @@
   - 1566750
   - 543955
   - 568297
+  - 569813
   start: 2026-10-30T08:05:00Z
   stop: 2026-10-30T09:00:00Z
   title: Musikstunde
@@ -149,6 +161,7 @@
   - 1566782
   - 545706
   - 568549
+  - 572921
   start: 2026-10-30T09:00:00Z
   stop: 2026-10-30T09:05:00Z
   title: Nachrichten, Wetter
@@ -156,6 +169,7 @@
   - 1566783
   - 545707
   - 568550
+  - 572922
   start: 2026-10-30T09:05:00Z
   stop: 2026-10-30T10:57:00Z
   title: Treffpunkt Klassik
@@ -164,6 +178,7 @@
   - 1566784
   - 545708
   - 568551
+  - 572923
   start: 2026-10-30T10:57:00Z
   stop: 2026-10-30T11:00:00Z
   title: Kulturtipps
@@ -171,6 +186,7 @@
   - 1566785
   - 545709
   - 568552
+  - 572924
   start: 2026-10-30T11:00:00Z
   stop: 2026-10-30T11:05:00Z
   title: Nachrichten, Wetter
@@ -178,6 +194,7 @@
   - 1566786
   - 545710
   - 568553
+  - 572925
   start: 2026-10-30T11:05:00Z
   stop: 2026-10-30T11:30:00Z
   title: Aktuell
@@ -185,24 +202,20 @@
   - 1566787
   - 545711
   - 568554
+  - 572926
   start: 2026-10-30T11:30:00Z
   stop: 2026-10-30T12:00:00Z
   title: SWR Kultur am Mittag
   description: Das Magazin für Kultur und Gesellschaft
-- eventId:
-  - 1566853
-  - 549402
-  - 570109
+- eventId: 570348
   start: 2026-10-30T12:00:00Z
   stop: 2026-10-30T12:05:00Z
   title: Nachrichten, Wetter
-- eventId:
-  - 1566854
-  - 549403
-  - 570110
+- eventId: 570349
   start: 2026-10-30T12:05:00Z
   stop: 2026-10-30T14:00:00Z
   title: Mittagskonzert
+  subtitle: mit Monja Sobottka
   description: |-
     Antonio Vivaldi:
     Concerto für Mandoline, Streichorchester und Basso continuo C-Dur RV 425
@@ -226,11 +239,7 @@
     Sinfonie Nr. 26 d-Moll "Lamentatione"
     Deutsche Radio Philharmonie Saarbrücken Kaiserslautern
     Leitung: Masato Suzuki
-  subtitle: mit Monja Sobottka
-- eventId:
-  - 1566855
-  - 549404
-  - 570111
+- eventId: 570350
   start: 2026-10-30T14:00:00Z
   stop: 2026-10-30T14:05:00Z
   title: Nachrichten, Wetter
@@ -238,6 +247,7 @@
   - 1566856
   - 549405
   - 570112
+  - 570351
   start: 2026-10-30T14:05:00Z
   stop: 2026-10-30T15:00:00Z
   title: Feature
@@ -248,6 +258,7 @@
 - eventId:
   - 1566934
   - 553397
+  - 570736
   - 572174
   start: 2026-10-30T15:00:00Z
   stop: 2026-10-30T15:05:00Z
@@ -255,6 +266,7 @@
 - eventId:
   - 1566935
   - 553398
+  - 570737
   - 572175
   start: 2026-10-30T15:05:00Z
   stop: 2026-10-30T16:00:00Z
@@ -263,6 +275,7 @@
 - eventId:
   - 1566936
   - 553399
+  - 570738
   - 572176
   start: 2026-10-30T16:00:00Z
   stop: 2026-10-30T16:05:00Z
@@ -270,6 +283,7 @@
 - eventId:
   - 1566937
   - 553400
+  - 570739
   - 572177
   start: 2026-10-30T16:05:00Z
   stop: 2026-10-30T16:50:00Z
@@ -279,6 +293,7 @@
 - eventId:
   - 1566938
   - 553401
+  - 570740
   - 572178
   start: 2026-10-30T16:50:00Z
   stop: 2026-10-30T17:00:00Z
@@ -291,6 +306,7 @@
 - eventId:
   - 1566939
   - 553402
+  - 570741
   - 572179
   start: 2026-10-30T17:00:00Z
   stop: 2026-10-30T17:05:00Z
@@ -298,6 +314,7 @@
 - eventId:
   - 1566940
   - 553403
+  - 570742
   - 572180
   start: 2026-10-30T17:05:00Z
   stop: 2026-10-30T17:30:00Z
@@ -305,6 +322,7 @@
 - eventId:
   - 1566941
   - 553404
+  - 570743
   - 572181
   start: 2026-10-30T17:30:00Z
   stop: 2026-10-30T18:57:00Z
@@ -314,6 +332,7 @@
 - eventId:
   - 1567024
   - 553821
+  - 573684
   - 581449
   start: 2026-10-30T18:57:00Z
   stop: 2026-10-30T19:00:00Z
@@ -322,6 +341,7 @@
 - eventId:
   - 1567025
   - 553822
+  - 573685
   - 581450
   start: 2026-10-30T19:00:00Z
   stop: 2026-10-30T19:03:00Z
@@ -329,6 +349,7 @@
 - eventId:
   - 1567026
   - 553823
+  - 573686
   - 581451
   start: 2026-10-30T19:03:00Z
   stop: 2026-10-30T21:00:00Z
@@ -349,16 +370,14 @@
     Joseph Haydn:
     Messe B-Dur Hob. XXII:14 "Harmoniemesse"
     (Konzert vom 18. September 2026 in der Stuttgarter Liederhalle)
-- eventId:
-  - 1567106
-  - 541528
-  - 583010
+- eventId: 574092
   start: 2026-10-30T21:00:00Z
   stop: 2026-10-30T21:03:00Z
   title: Nachrichten, Wetter
 - eventId:
   - 1567107
   - 541529
+  - 574093
   - 583011
   start: 2026-10-30T21:03:00Z
   stop: 2026-10-30T22:00:00Z
@@ -370,17 +389,11 @@
     Musik: Sascha Bendiks
     Moderation: Jess Jochimsen
     (Aufnahme vom 22. Oktober 2026 in der Kapfenburg)
-- eventId:
-  - 1567108
-  - 541530
-  - 583012
+- eventId: 574094
   start: 2026-10-30T22:00:00Z
   stop: 2026-10-30T22:03:00Z
   title: Nachrichten, Wetter
-- eventId:
-  - 1567109
-  - 541531
-  - 583013
+- eventId: 574095
   start: 2026-10-30T22:03:00Z
   stop: 2026-10-30T23:00:00Z
   title: Musikstunde
@@ -391,6 +404,7 @@
 - eventId:
   - 1567110
   - 541532
+  - 574096
   - 583014
   start: 2026-10-30T23:00:00Z
   stop: 2026-10-30T23:03:00Z
@@ -398,6 +412,7 @@
 - eventId:
   - 1567111
   - 541533
+  - 574097
   - 583015
   start: 2026-10-30T23:03:00Z
   stop: 2026-10-31T01:00:00Z

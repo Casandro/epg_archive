@@ -1,6 +1,7 @@
 - eventId:
   - 1430572
   - 567705
+  - 569049
   - 591116
   - 721334
   start: 2026-10-30T00:48:00Z
@@ -13,6 +14,7 @@
 - eventId:
   - 1430573
   - 567706
+  - 569050
   - 591117
   - 721335
   start: 2026-10-30T00:50:00Z
@@ -36,6 +38,7 @@
 - eventId:
   - 1430574
   - 567707
+  - 569051
   - 591118
   - 721336
   start: 2026-10-30T02:20:00Z
@@ -64,6 +67,7 @@
 - eventId:
   - 1430611
   - 567886
+  - 569249
   - 602350
   - 721344
   start: 2026-10-30T03:05:00Z
@@ -84,6 +88,7 @@
 - eventId:
   - 1430612
   - 567887
+  - 569250
   - 602351
   - 721345
   start: 2026-10-30T03:35:00Z
@@ -103,6 +108,7 @@
 - eventId:
   - 1430613
   - 567888
+  - 569251
   - 602352
   - 721346
   start: 2026-10-30T03:58:00Z
@@ -115,6 +121,7 @@
 - eventId:
   - 1430614
   - 567889
+  - 569252
   - 602353
   - 721347
   start: 2026-10-30T04:00:00Z
@@ -138,6 +145,7 @@
 - eventId:
   - 1430615
   - 567890
+  - 569253
   - 602354
   - 721348
   start: 2026-10-30T04:30:00Z
@@ -218,6 +226,7 @@
   - 1430640
   - 568198
   - 568693
+  - 569564
   - 721367
   start: 2026-10-30T08:00:00Z
   stop: 2026-10-30T08:05:00Z
@@ -229,6 +238,7 @@
   - 1430641
   - 568199
   - 568694
+  - 569565
   - 721368
   start: 2026-10-30T08:05:00Z
   stop: 2026-10-30T08:55:00Z
@@ -260,6 +270,7 @@
   - 1430642
   - 568200
   - 568695
+  - 569566
   - 721369
   start: 2026-10-30T08:55:00Z
   stop: 2026-10-30T09:40:00Z
@@ -284,6 +295,7 @@
   - 1430676
   - 543879
   - 568411
+  - 569801
   - 721386
   start: 2026-10-30T09:40:00Z
   stop: 2026-10-30T09:45:00Z
@@ -296,6 +308,7 @@
   - 1430677
   - 543880
   - 568412
+  - 569802
   - 721387
   start: 2026-10-30T09:45:00Z
   stop: 2026-10-30T10:15:00Z
@@ -313,7 +326,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 568413
+- eventId:
+  - 568413
+  - 569803
   start: 2026-10-30T10:15:00Z
   stop: 2026-10-30T11:00:00Z
   title: Gefragt - Gejagt (1024)
@@ -330,7 +345,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 568414
+- eventId:
+  - 568414
+  - 569804
   start: 2026-10-30T11:00:00Z
   stop: 2026-10-30T13:00:00Z
   title: ARD-Mittagsmagazin
@@ -362,31 +379,23 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 1430697
-  - 544829
-  - 569936
-  - 721404
+- eventId: 570082
   start: 2026-10-30T13:00:00Z
   stop: 2026-10-30T13:10:00Z
   title: Tagesschau
+  description: Die Nachrichten der ARD
   widescreen: true
   subtitled: true
   hd: true
-  description: Die Nachrichten der ARD
-- eventId:
-  - 1430698
-  - 544830
-  - 569937
-  - 721405
+- eventId: 570083
   start: 2026-10-30T13:10:00Z
   stop: 2026-10-30T14:00:00Z
   title: Rote Rosen (4410)
   subtitle: Deutschland 2026
+  description: Toni taucht überraschend in Lüneburg auf, doch Ellie empfängt sie alles andere als herzlich. Richard wirft Victoria an den Kopf, er wünschte, sie wäre anstatt seines Vaters gestorben. Daniel gewinnt eine Ausschreibung für ein Museum in Warschau.
   widescreen: true
   subtitled: true
   hd: true
-  description: Toni taucht überraschend in Lüneburg auf, doch Ellie empfängt sie alles andere als herzlich. Richard wirft Victoria an den Kopf, er wünschte, sie wäre anstatt seines Vaters gestorben. Daniel gewinnt eine Ausschreibung für ein Museum in Warschau.
 - eventId: 718209
   start: 2026-10-30T13:20:00Z
   stop: 2026-10-30T14:10:00Z
@@ -395,22 +404,19 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 1430699
-  - 544831
-  - 569938
-  - 721406
+- eventId: 570084
   start: 2026-10-30T14:00:00Z
   stop: 2026-10-30T14:10:00Z
   title: Tagesschau
+  description: Die Nachrichten der ARD
   widescreen: true
   subtitled: true
   hd: true
-  description: Die Nachrichten der ARD
 - eventId:
   - 1430700
   - 544832
   - 569939
+  - 570085
   start: 2026-10-30T14:10:00Z
   stop: 2026-10-30T15:00:00Z
   title: Sturm der Liebe (4663)
@@ -430,7 +436,9 @@
   hd: true
   subtitle: 'Moderation: Tom Schachtsiek'
   description: Die Nachrichten der ARD
-- eventId: 553245
+- eventId:
+  - 553245
+  - 570309
   start: 2026-10-30T15:00:00Z
   stop: 2026-10-30T15:10:00Z
   title: Tagesschau
@@ -442,6 +450,7 @@
   - 1430744
   - 548840
   - 553246
+  - 570310
   - 721422
   start: 2026-10-30T15:10:00Z
   stop: 2026-10-30T16:00:00Z
@@ -462,6 +471,7 @@
   - 1430745
   - 548841
   - 553247
+  - 570311
   - 721423
   start: 2026-10-30T16:00:00Z
   stop: 2026-10-30T16:15:00Z
@@ -474,6 +484,7 @@
   - 1430746
   - 548842
   - 553248
+  - 570312
   - 721424
   start: 2026-10-30T16:15:00Z
   stop: 2026-10-30T17:00:00Z
@@ -487,6 +498,7 @@
   - 1430747
   - 548843
   - 553249
+  - 570313
   start: 2026-10-30T17:00:00Z
   stop: 2026-10-30T17:50:00Z
   title: Gefragt - Gejagt (1070)
@@ -527,6 +539,15 @@
     Hier treten Prominente zu einem außergewöhnlichen Duell an. Um zu gewinnen, müssen die Stars die superschlauen "Quizduell"-Profis schlagen. Ein Wissenswettkampf David gegen Goliath - die Stars gegen den "Quizduell-Olymp". Es geht um Wissen und Nervenstärke, aber auch um die Einschätzung der Gegner und die Bereitschaft zu zocken. Und es geht um viel Geld. Doch Vorsicht! Im packenden Finale am Ende jeder Show heißt es entweder Sieg für den Olymp und somit Team Deutschland oder Sieg für die Promis.
 
     Gäste: Jutta Speidel und Antonia Feuerstein
+- eventId: 570314
+  start: 2026-10-30T17:50:00Z
+  stop: 2026-10-30T18:45:00Z
+  title: Quizduell-Olymp (576)
+  subtitle: 'Gäste: Jutta Speidel und Antonia Feuerstein'
+  description: Hier treten Prominente zu einem außergewöhnlichen Duell an. Um zu gewinnen, müssen die Stars die superschlauen "Quizduell"-Profis schlagen. Ein Wissenswettkampf David gegen Goliath - die Stars gegen den "Quizduell-Olymp". Es geht um Wissen und Nervenstärke, aber auch um die Einschätzung der Gegner und die Bereitschaft zu zocken. Und es geht um viel Geld. Doch Vorsicht! Im packenden Finale am Ende jeder Show heißt es entweder Sieg für den Olymp und somit Team Deutschland oder Sieg für die Promis.
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 718235
   start: 2026-10-30T18:30:00Z
   stop: 2026-10-30T18:55:00Z
@@ -539,6 +560,7 @@
   - 1430791
   - 549933
   - 553601
+  - 570666
   - 721437
   start: 2026-10-30T18:45:00Z
   stop: 2026-10-30T18:50:00Z
@@ -552,6 +574,7 @@
   - 1430792
   - 549934
   - 553602
+  - 570667
   - 721438
   start: 2026-10-30T18:50:00Z
   stop: 2026-10-30T18:55:00Z
@@ -565,6 +588,7 @@
   - 1430793
   - 549935
   - 553603
+  - 570668
   start: 2026-10-30T18:55:00Z
   stop: 2026-10-30T19:00:00Z
   title: Wirtschaft vor acht
@@ -576,6 +600,7 @@
   - 1430794
   - 549936
   - 553604
+  - 570669
   start: 2026-10-30T19:00:00Z
   stop: 2026-10-30T19:15:00Z
   title: Tagesschau
@@ -589,6 +614,7 @@
   - 1430795
   - 549937
   - 553605
+  - 570670
   start: 2026-10-30T19:15:00Z
   stop: 2026-10-30T20:45:00Z
   title: Amore mio - Niemand ist wie Du
@@ -611,6 +637,7 @@
   - 1430796
   - 549938
   - 553606
+  - 570671
   start: 2026-10-30T20:45:00Z
   stop: 2026-10-30T21:20:00Z
   title: Tagesthemen
@@ -638,6 +665,7 @@
   - 1430827
   - 541327
   - 572460
+  - 573495
   - 721462
   start: 2026-10-30T21:20:00Z
   stop: 2026-10-30T22:10:00Z
@@ -651,6 +679,7 @@
   - 1430828
   - 541328
   - 572461
+  - 573496
   - 721463
   start: 2026-10-30T22:10:00Z
   stop: 2026-10-30T22:55:00Z
@@ -666,6 +695,7 @@
   - 1430829
   - 541329
   - 572462
+  - 573497
   - 721464
   start: 2026-10-30T22:55:00Z
   stop: 2026-10-30T23:40:00Z
@@ -699,6 +729,7 @@
   - 1430830
   - 541330
   - 572463
+  - 573498
   - 721465
   start: 2026-10-30T23:40:00Z
   stop: 2026-10-31T00:25:00Z
