@@ -279,7 +279,7 @@
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
 - eventId: 739427
   start: 2026-10-29T05:56:00Z
-  stop: 2026-10-29T05:58:00Z
+  stop: 2026-10-29T06:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -504,7 +504,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 739520
   start: 2026-10-29T12:35:00Z
-  stop: 2026-10-29T12:43:00Z
+  stop: 2026-10-29T12:45:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -517,7 +517,9 @@
   title: Poslovne vijesti
   subtitle: ' '
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 739521
+- eventId:
+  - 739521
+  - 780262
   start: 2026-10-29T12:45:00Z
   stop: 2026-10-29T12:50:00Z
   title: Poslovne vijesti
@@ -532,7 +534,9 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 739522
+- eventId:
+  - 739522
+  - 780263
   start: 2026-10-29T12:50:00Z
   stop: 2026-10-29T13:00:00Z
   title: 'Studio 4: Znanost'
@@ -1243,6 +1247,14 @@
   genre:
   - '160'
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
+- eventId: 780264
+  start: 2026-10-29T21:44:00Z
+  stop: 2026-10-29T22:03:00Z
+  title: 'Studio 4: Zelena linija'
+  subtitle: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 739568
   - 743750
@@ -1271,13 +1283,23 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 780265
+  start: 2026-10-29T22:04:00Z
+  stop: 2026-10-29T22:07:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 780111
   start: 2026-10-29T22:06:00Z
   stop: 2026-10-29T22:10:00Z
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 739569
+- eventId:
+  - 739569
+  - 780266
   start: 2026-10-29T22:07:00Z
   stop: 2026-10-29T22:10:00Z
   title: Bez komentara
