@@ -1,6 +1,7 @@
 - eventId:
   - 1028110
   - 632685
+  - 632800
   start: 2026-10-29T00:18:00Z
   stop: 2026-10-29T00:40:00Z
   title: Glazbena noć
@@ -9,6 +10,7 @@
 - eventId:
   - 1028111
   - 632686
+  - 632801
   start: 2026-10-29T00:40:00Z
   stop: 2026-10-29T00:47:00Z
   title: Life and Holiday
@@ -17,6 +19,7 @@
 - eventId:
   - 1028112
   - 632687
+  - 632802
   start: 2026-10-29T00:47:00Z
   stop: 2026-10-29T00:52:00Z
   title: Five to five
@@ -24,6 +27,7 @@
 - eventId:
   - 1028113
   - 632688
+  - 632803
   start: 2026-10-29T00:52:00Z
   stop: 2026-10-29T01:00:00Z
   title: Vremenska prognoza
@@ -32,6 +36,7 @@
 - eventId:
   - 1028114
   - 632689
+  - 632804
   start: 2026-10-29T01:00:00Z
   stop: 2026-10-29T01:30:00Z
   title: Aviondžije 15, ep. 3. serija
@@ -40,6 +45,7 @@
 - eventId:
   - 1028115
   - 632690
+  - 632805
   start: 2026-10-29T01:30:00Z
   stop: 2026-10-29T04:00:00Z
   title: Glazbena noć
@@ -48,6 +54,7 @@
 - eventId:
   - 1028121
   - 632731
+  - 632811
   start: 2026-10-29T04:00:00Z
   stop: 2026-10-29T04:25:00Z
   title: Zanatlije
@@ -56,6 +63,7 @@
 - eventId:
   - 1028122
   - 632732
+  - 632812
   start: 2026-10-29T04:25:00Z
   stop: 2026-10-29T05:00:00Z
   title: Glazbeno jutro
@@ -64,47 +72,38 @@
 - eventId:
   - 1028123
   - 632733
+  - 632813
   start: 2026-10-29T05:00:00Z
   stop: 2026-10-29T06:05:00Z
   title: Male stvari
   subtitle: Magazin
   description: Sreću čine male stvari. A često ih nismo ni svjesni. Također, skloni smo velikim stvarima umanjivati značaj, poricati ih. Zato smo često nezadovoljni ili anksiozni, čak i kada imamo sve...
-- eventId:
-  - 1028129
-  - 632842
+- eventId: 632815
   start: 2026-10-29T06:05:00Z
   stop: 2026-10-29T07:00:00Z
   title: Glazbeno jutro
   subtitle: Glazbeni
   description: Najveći hitovi s Balkana i svijeta.
-- eventId:
-  - 1028130
-  - 632843
+- eventId: 632816
   start: 2026-10-29T07:00:00Z
   stop: 2026-10-29T07:30:00Z
   title: City Hype
   subtitle: Magazin
   description: Vaš detaljni vodič kroz gradska događanja. Što rade poznati, koja su najvažnija događanja u gradu i još pregršt zabavnih sadržaja.
-- eventId:
-  - 1028131
-  - 632844
+- eventId: 632817
   start: 2026-10-29T07:30:00Z
   stop: 2026-10-29T08:24:00Z
   title: Tajne vinove loze 2, ep. 36. serija
   subtitle: Drama
   description: Vuk Tomović i Vera Smiljanić susreću se nakon dvadeset godina, obnavljajući svoju romansu i suočavajući se s izazovima koji stvaraju napetost u njihovim obiteljima. 'Tajne vinove loze' prati njihovu borbu za oživljavanje zajedničkog sna o vinogradu, unatoč protivljenju njihovih obitelji. Serija isprepliće elemente drame, strasti i obiteljskih konflikata, prikazujući bogatu tapiseriju ljudskih odnosa u kontekstu vinogradarstva te istražuje duboke osobne i obiteljske dileme, te kako ljubav može prevladati dugogodišnje sukobe i razdore.
   ageRating: 15
-- eventId:
-  - 1028132
-  - 632845
+- eventId: 632818
   start: 2026-10-29T08:24:00Z
   stop: 2026-10-29T08:30:00Z
   title: Horoskop
   subtitle: Zabava
   description: Dnevni horoskop.
-- eventId:
-  - 1028133
-  - 632846
+- eventId: 632819
   start: 2026-10-29T08:30:00Z
   stop: 2026-10-29T09:00:00Z
   title: Aviondžije 15, ep. 3. serija
@@ -112,6 +111,7 @@
   description: Ovaj sitcom prati avanture buntovnih stjuarda i pilota imaginarne aviokompanije. Macan, Ceger, Nina i Medena kažnjeni su premještajem u istu nebesku posadu, a za glavnu stjuardesu određena im je najstroža Dana, ne bi li ih napokon dovela u red.
 - eventId:
   - 1028142
+  - 632841
   - 633052
   start: 2026-10-29T09:00:00Z
   stop: 2026-10-29T09:30:00Z
@@ -119,13 +119,23 @@
   subtitle: Glazbeni
   description: Najveći hitovi s Balkana i svijeta.
 - eventId:
+  - 1028129
   - 1028143
+  - 632842
   - 633053
   start: 2026-10-29T09:30:00Z
   stop: 2026-10-29T10:00:00Z
   title: Life and Holiday
-  subtitle: Magazin
+  subtitle: Glazbeni
   description: Life and holiday Magazin je emisija turističkog karaktera koja vas vodi na najljepše destinacije svijeta.
+- eventId:
+  - 1028130
+  - 632843
+  start: 2026-10-29T10:00:00Z
+  stop: 2026-10-29T10:25:00Z
+  title: City Hype
+  subtitle: Magazin
+  description: U svijetu modernih tehnologija, stari zanati i dalje žive zahvaljujući ljudima koji čuvaju tradiciju i ne odustaju od svog poziva. Kako uspijevaju opstati i sačuvati svoje umijeće od zaborava, otkrivamo u emisiji na Hype TV-u.
 - eventId:
   - 1028144
   - 633054
@@ -135,6 +145,15 @@
   subtitle: Magazin
   description: U svijetu modernih tehnologija, stari zanati i dalje žive zahvaljujući ljudima koji čuvaju tradiciju i ne odustaju od svog poziva. Kako uspijevaju opstati i sačuvati svoje umijeće od zaborava, otkrivamo u emisiji na Hype TV-u.
 - eventId:
+  - 1028131
+  - 632844
+  start: 2026-10-29T10:25:00Z
+  stop: 2026-10-29T10:30:00Z
+  title: Tajne vinove loze 2, ep. 36. serija
+  subtitle: Drama
+  description: Vuk Tomović i Vera Smiljanić susreću se nakon dvadeset godina, obnavljajući svoju romansu i suočavajući se s izazovima koji stvaraju napetost u njihovim obiteljima. 'Tajne vinove loze' prati njihovu borbu za oživljavanje zajedničkog sna o vinogradu, unatoč protivljenju njihovih obitelji. Serija isprepliće elemente drame, strasti i obiteljskih konflikata, prikazujući bogatu tapiseriju ljudskih odnosa u kontekstu vinogradarstva te istražuje duboke osobne i obiteljske dileme, te kako ljubav može prevladati dugogodišnje sukobe i razdore.
+  ageRating: 15
+- eventId:
   - 1028145
   - 633055
   start: 2026-10-29T10:25:00Z
@@ -142,13 +161,23 @@
   title: Five to five
   description: Zanimljiv vodič kroz pet najzanimljivijih osoba, fenomena i pojava. Pogledajte što smo izdvojili za vas!
 - eventId:
+  - 1028132
   - 1028146
+  - 632845
   - 633056
   start: 2026-10-29T10:30:00Z
   stop: 2026-10-29T10:47:00Z
   title: Život uživo
   subtitle: Magazin
   description: Reportažno - dokumentarna emisija o jedinstvenim ljudima, znanstvenim dostignućima i pričama koje inspiriraju. "Život uživo" traga za humanošću i zaboravljenim vrijednostima u kaotičnoj svakodnevnici, donoseći priče o trudu i ustrajnosti koji pomiču granice.
+- eventId:
+  - 1028133
+  - 632846
+  start: 2026-10-29T10:47:00Z
+  stop: 2026-10-29T10:54:00Z
+  title: Aviondžije 15, ep. 3. serija
+  subtitle: Informativni
+  description: Ovaj sitcom prati avanture buntovnih stjuarda i pilota imaginarne aviokompanije. Macan, Ceger, Nina i Medena kažnjeni su premještajem u istu nebesku posadu, a za glavnu stjuardesu određena im je najstroža Dana, ne bi li ih napokon dovela u red.
 - eventId:
   - 1028147
   - 633057
@@ -159,6 +188,7 @@
   description: Vremenska prognoza.
 - eventId:
   - 1028148
+  - 632847
   - 633058
   start: 2026-10-29T10:54:00Z
   stop: 2026-10-29T11:00:00Z
@@ -166,6 +196,7 @@
   description: Hype style kratka je televizijska forma edukativnog karaktera koja se u svakoj epizodi bavi novom temom. Bilo da je riječ o svjetskim metropolama, modi, automobilima ili svemu što čini životni stil, Hype style provest će vas kroz najvažnije činjenice koje trebate znati o svakoj od tih tema.
 - eventId:
   - 1028149
+  - 632848
   - 633059
   start: 2026-10-29T11:00:00Z
   stop: 2026-10-29T11:40:00Z
@@ -174,6 +205,7 @@
   description: Vaš detaljni vodič kroz gradska događanja. Što rade poznati, koja su najvažnija događanja u gradu i još pregršt zabavnih sadržaja.
 - eventId:
   - 1028150
+  - 632849
   - 633060
   start: 2026-10-29T11:40:00Z
   stop: 2026-10-29T11:55:00Z
@@ -182,6 +214,7 @@
   description: Najveći hitovi s Balkana i svijeta.
 - eventId:
   - 1028151
+  - 632850
   - 633061
   start: 2026-10-29T11:55:00Z
   stop: 2026-10-29T12:30:00Z
@@ -190,6 +223,7 @@
   description: Emisija koja na male ekrane donosi aktualnosti i događanja iz svijeta automobila i automobilističkog sporta.
 - eventId:
   - 1028156
+  - 632864
   - 633080
   start: 2026-10-29T12:30:00Z
   stop: 2026-10-29T13:00:00Z
@@ -198,6 +232,7 @@
   description: Prvi CarCast na našim prostorima. Influencerica Va Vana u svom ružičastom autu provozat će najzvučnija imena društvenih mreža i s njima pričati o najaktualnijim temama.
 - eventId:
   - 1028157
+  - 632865
   - 633081
   start: 2026-10-29T13:00:00Z
   stop: 2026-10-29T14:08:00Z
@@ -206,6 +241,7 @@
   description: Prime time s Cigijem je dinamična večernja emisija koja donosi tri najaktualnije teme dana, bez uljepšavanja i bez kalkuliranja. Voditelj Neven Ciganović Cigi zajedno s dvoje brutalno direktnih komentatora secira društvene, medijske i showbiz teme koje su obilježile dan. Tri teme, tri potpuno različita pogleda i komentari koji se ne boje reći ono što drugi prešućuju. Od najvažnijih događaja do tema koje pune društvene mreže, "Prime time s Cigijem" donosi stav, argument i provokaciju. Tri aktualne teme. Dva beskompromisna komentatora. Jedan Cigi. Bez rukavica. Bez autocenzure. Bez dosadnih odgovora.
 - eventId:
   - 1028158
+  - 632866
   - 633082
   start: 2026-10-29T14:08:00Z
   stop: 2026-10-29T14:16:00Z
@@ -214,6 +250,7 @@
   description: Life and holiday destinacija je emisija turističkog karaktera koja vas vodi na najljepše destinacije svijeta.
 - eventId:
   - 1028159
+  - 632867
   - 633083
   start: 2026-10-29T14:16:00Z
   stop: 2026-10-29T14:21:00Z
@@ -222,6 +259,7 @@
   description: Dnevni horoskop.
 - eventId:
   - 1028160
+  - 632868
   - 633084
   start: 2026-10-29T14:21:00Z
   stop: 2026-10-29T14:26:00Z
@@ -229,6 +267,7 @@
   description: Zanimljiv vodič kroz pet najzanimljivijih osoba, fenomena i pojava. Pogledajte što smo izdvojili za vas!
 - eventId:
   - 1028161
+  - 632869
   - 633085
   start: 2026-10-29T14:26:00Z
   stop: 2026-10-29T14:30:00Z
@@ -237,6 +276,7 @@
   description: Vremenska prognoza.
 - eventId:
   - 1028162
+  - 632870
   - 633086
   start: 2026-10-29T14:30:00Z
   stop: 2026-10-29T15:00:00Z
@@ -245,6 +285,7 @@
   description: '"Leto bez mrlje" humoristička je serija u formi sitcoma s elementima telenovele, smještena na otok Rab, koji svojom ljepotom i šarmom postaje neizostavan lik ove tople, duhovite i vizualno atraktivne priče. Radnja prati brata i sestru iz Beograda, Luku i Anđelu, kojima je njihova ekscentrična baka obećala u nasljedstvo ostaviti kuću na Rabu.No uvjet je jednostavan samo na papiru: tijekom cijelog ljeta moraju uspješno iznajmljivati kuću turistima bez ijedne negativne recenzije. U praksi to znači svakodnevno suočavanje s nizom nepredvidivih gostiju, kulturoloških razlika, ljubavnih zavrzlama, tajni, podvala i urnebesnih nesporazuma. Uz sve to, tu je i bakin dodatni "dar", strogi batler Stipe, koji dolazi u paketu s kućom i čija prisutnost unosi dodatnu napetost i humor u svakodnevnicu mladih domaćina. Uz obilje humora, serija je prožeta emocijama i empatijom jer likovi, unatoč nesporazumima i razlikama, u svakoj epizodi pronalaze zajednički jezik, otkrivajući važnost međusobnog razumijevanja, solidarnosti i obitelji. "Leto bez mrlje" serija je o obitelji, ambiciji, snalažljivosti i izazovima ljeta. Glavne uloge: Andrej Jemcov, Maša Đorđević, Asim Ugljen...'
 - eventId:
   - 1028200
+  - 632879
   - 633122
   start: 2026-10-29T15:00:00Z
   stop: 2026-10-29T15:15:00Z
@@ -253,6 +294,7 @@
   description: Reportažno - dokumentarna emisija o jedinstvenim ljudima, znanstvenim dostignućima i pričama koje inspiriraju. "Život uživo" traga za humanošću i zaboravljenim vrijednostima u kaotičnoj svakodnevnici, donoseći priče o trudu i ustrajnosti koji pomiču granice.
 - eventId:
   - 1028201
+  - 632880
   - 633123
   start: 2026-10-29T15:15:00Z
   stop: 2026-10-29T15:35:00Z
@@ -261,6 +303,7 @@
   description: Najveći hitovi s Balkana i svijeta.
 - eventId:
   - 1028202
+  - 632881
   - 633124
   start: 2026-10-29T15:35:00Z
   stop: 2026-10-29T16:00:00Z
@@ -269,6 +312,7 @@
   description: Emisija Blockbuster upoznat će vas s nadolazećim premijerama filmova koje nas uskoro očekuju u kinima.
 - eventId:
   - 1028203
+  - 632882
   - 633125
   start: 2026-10-29T16:00:00Z
   stop: 2026-10-29T16:55:00Z
@@ -278,6 +322,7 @@
   ageRating: 15
 - eventId:
   - 1028204
+  - 632883
   - 633126
   start: 2026-10-29T16:55:00Z
   stop: 2026-10-29T17:00:00Z
@@ -286,6 +331,7 @@
   description: Dnevni horoskop.
 - eventId:
   - 1028205
+  - 632884
   - 633127
   start: 2026-10-29T17:00:00Z
   stop: 2026-10-29T17:38:00Z
@@ -302,6 +348,7 @@
   description: Life and holiday destinacija je emisija turističkog karaktera koja vas vodi na najljepše destinacije svijeta.
 - eventId:
   - 1028207
+  - 632886
   - 633129
   start: 2026-10-29T17:46:00Z
   stop: 2026-10-29T17:49:00Z
@@ -310,6 +357,7 @@
   description: Vremenska prognoza.
 - eventId:
   - 1028208
+  - 632887
   - 633130
   start: 2026-10-29T17:49:00Z
   stop: 2026-10-29T17:54:00Z
@@ -317,6 +365,7 @@
   description: Zanimljiv vodič kroz pet najzanimljivijih osoba, fenomena i pojava. Pogledajte što smo izdvojili za vas!
 - eventId:
   - 1028209
+  - 632888
   - 633131
   start: 2026-10-29T17:54:00Z
   stop: 2026-10-29T18:00:00Z
@@ -324,6 +373,7 @@
   description: Hype style kratka je televizijska forma edukativnog karaktera koja se u svakoj epizodi bavi novom temom. Bilo da je riječ o svjetskim metropolama, modi, automobilima ili svemu što čini životni stil, Hype style provest će vas kroz najvažnije činjenice koje trebate znati o svakoj od tih tema.
 - eventId:
   - 1028249
+  - 632899
   - 633210
   start: 2026-10-29T18:00:00Z
   stop: 2026-10-29T18:30:00Z
@@ -332,6 +382,7 @@
   description: Ovaj sitcom prati avanture buntovnih stjuarda i pilota imaginarne aviokompanije. Macan, Ceger, Nina i Medena kažnjeni su premještajem u istu nebesku posadu, a za glavnu stjuardesu određena im je najstroža Dana, ne bi li ih napokon dovela u red.
 - eventId:
   - 1028250
+  - 632900
   - 633211
   start: 2026-10-29T18:30:00Z
   stop: 2026-10-29T19:00:00Z
@@ -346,8 +397,15 @@
   title: 'Emisija: Ekskluzivno s Hanom'
   description: '"Ekskluzivno s Hanom"emisija je koja donosi drugačiji pogled na svijet poznatih i slavnih. U svakoj epizodi Hana ugošćuje poznata imena s domaće i regionalne scena, otvarajući s njima iskrene, intrigantne i dosad možda neispričane priče iz njihova privatnog i javnog života. Bez zadrške, uz zanimljiva pitanja i opuštene razgovore, otkrivamo što se krije iza javne scene, reflektora i medijskih naslova. Od ljubavi, obitelji i životnih prekretnica do karijere, uspjeha, izazova i trenutaka koji su ih oblikovali "Ekskluzivno s Hanom" donosi razgovore koji izlaze iz okvira uobičajenih intervjua. Jer iza svakog poznatog lica krije se priča koju javnost još nije čula. a Hana je tu da je otkrije, iskreno, neposredno i bez uljepšavanja.'
   subtitle: Ekskluzivno s Hanom Magazin
+- eventId: 632901
+  start: 2026-10-29T19:00:00Z
+  stop: 2026-10-29T20:00:00Z
+  title: Ekskluzivno s Hanom
+  subtitle: Ekskluzivno s Hanom Magazin
+  description: Emisija koja donosi drugačiji pogled na svijet poznatih i slavnih. U svakoj epizodi Hana ugošćuje poznata imena s domaće i regionalne scena, otvarajući s njima iskrene, intrigantne i dosad možda neispričane priče iz njihova privatnog i javnog života. Bez zadrške, uz zanimljiva pitanja i opuštene razgovore, otkrivamo što se krije iza javne scene, reflektora i medijskih naslova. Od ljubavi, obitelji i životnih prekretnica do karijere, uspjeha, izazova i trenutaka koji su ih oblikovali "Ekskluzivno s Hanom" donosi razgovore koji izlaze iz okvira uobičajenih intervjua. Jer iza svakog poznatog lica krije se priča koju javnost još nije čula. a Hana je tu da je otkrije, iskreno, neposredno i bez uljepšavanja.
 - eventId:
   - 1028252
+  - 632902
   - 633213
   start: 2026-10-29T20:00:00Z
   stop: 2026-10-29T21:30:00Z
@@ -356,6 +414,7 @@
   description: SADA I OVDE je podcast o osobnom razvoju koji će nam pomoći da prepoznamo svoje osjećaje, da što bolje upoznamo sebe, pa time i druge ljude, a to će nam unaprijediti život.
 - eventId:
   - 1028257
+  - 632912
   - 633341
   start: 2026-10-29T21:30:00Z
   stop: 2026-10-29T22:00:00Z
@@ -364,6 +423,7 @@
   description: '"Leto bez mrlje" humoristička je serija u formi sitcoma s elementima telenovele, smještena na otok Rab, koji svojom ljepotom i šarmom postaje neizostavan lik ove tople, duhovite i vizualno atraktivne priče. Radnja prati brata i sestru iz Beograda, Luku i Anđelu, kojima je njihova ekscentrična baka obećala u nasljedstvo ostaviti kuću na Rabu.No uvjet je jednostavan samo na papiru: tijekom cijelog ljeta moraju uspješno iznajmljivati kuću turistima bez ijedne negativne recenzije. U praksi to znači svakodnevno suočavanje s nizom nepredvidivih gostiju, kulturoloških razlika, ljubavnih zavrzlama, tajni, podvala i urnebesnih nesporazuma. Uz sve to, tu je i bakin dodatni "dar", strogi batler Stipe, koji dolazi u paketu s kućom i čija prisutnost unosi dodatnu napetost i humor u svakodnevnicu mladih domaćina. Uz obilje humora, serija je prožeta emocijama i empatijom jer likovi, unatoč nesporazumima i razlikama, u svakoj epizodi pronalaze zajednički jezik, otkrivajući važnost međusobnog razumijevanja, solidarnosti i obitelji. "Leto bez mrlje" serija je o obitelji, ambiciji, snalažljivosti i izazovima ljeta. Glavne uloge: Andrej Jemcov, Maša Đorđević, Asim Ugljen...'
 - eventId:
   - 1028258
+  - 632913
   - 633342
   start: 2026-10-29T22:00:00Z
   stop: 2026-10-29T22:25:00Z
@@ -372,6 +432,7 @@
   description: Rikošet je emisija koja ulazi izravno u srž priča iz crne kronike, tamo gdje su se događaji doista dogodili. Kroz terenske reportaže i autentične zapise s mjesta događaja vraćamo se na slučajeve koji su privukli pozornost javnosti, bilježimo atmosferu, tragove priče i svjedočanstva ljudi koji su bili blizu događaja. Pratimo aktualne slučajeve, ali vraćamo se i zločinima koji su ostali duboko urezani u javno sjećanje. ,,Rikošet donosi kratke intervjue, analize, dokumentiranje slučajeva i dokumentarne rekonstrukcije najtežih zločina, s ciljem da svaka priča bude ispričana što potpunije i vjerodostojnije. Ne donosimo samo vijest o onome što se dogodilo, mi odlazimo na mjesto događaja, bilježimo priču i ostavljamo zapis o slučajevima koji su obilježili crnu kroniku.
 - eventId:
   - 1028259
+  - 632914
   - 633343
   start: 2026-10-29T22:25:00Z
   stop: 2026-10-29T23:00:00Z
@@ -380,6 +441,7 @@
   description: Vaš detaljni vodič kroz gradska događanja. Što rade poznati, koja su najvažnija događanja u gradu i još pregršt zabavnih sadržaja.
 - eventId:
   - 1028260
+  - 632915
   - 633344
   start: 2026-10-29T23:00:00Z
   stop: 2026-10-29T23:30:00Z
@@ -388,6 +450,7 @@
   description: '"Hype intervju" je format koji prati aktualne osobe s javne scene i događanja u njihovim životima koja su trenutačno glavna tema u medijima.'
 - eventId:
   - 1028261
+  - 632916
   - 633345
   start: 2026-10-29T23:30:00Z
   stop: 2026-10-30T00:20:00Z
