@@ -196,6 +196,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 1590394
   - 549595
@@ -205,7 +207,7 @@
   start: 2026-11-05T11:20:00Z
   stop: 2026-11-05T11:50:00Z
   title: Schnittgut. Alles aus dem Garten
-  subtitle: Winterquartier - Blütenräume für den Frühling - Laub entfern
+  subtitle: Winterquartier - Blütenräume für den Frühling - Laub entfernen
   widescreen: true
   subtitled: true
   hd: true
@@ -247,8 +249,8 @@
   - 818133
   start: 2026-11-05T13:25:00Z
   stop: 2026-11-05T14:10:00Z
-  title: Gefragt - Gejagt
-  subtitle: DE
+  title: Gefragt - Gejagt (931)
+  subtitle: 'Moderation: Alexander Bommes'
   widescreen: true
   subtitled: true
   hd: true
@@ -261,8 +263,8 @@
   - 818134
   start: 2026-11-05T14:10:00Z
   stop: 2026-11-05T15:00:00Z
-  title: Quizduell-Olymp
-  subtitle: DE
+  title: Quizduell-Olymp (390)
+  subtitle: 'Gäste: Ute Lemper und Isabel Edvardsson'
   widescreen: true
   subtitled: true
   hd: true
@@ -401,7 +403,7 @@
   start: 2026-11-05T20:00:00Z
   stop: 2026-11-05T20:45:00Z
   title: Kabarett aus Franken
-  subtitle: DE
+  subtitle: 'Moderation: Markus Barth'
   widescreen: true
   subtitled: true
   hd: true
@@ -455,12 +457,14 @@
   - 818359
   start: 2026-11-05T22:45:00Z
   stop: 2026-11-05T23:30:00Z
-  title: Alles finster
-  subtitle: AT/DE
+  title: Alles finster (1/6)
+  subtitle: Österreich/Deutschland 2022
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1590507
   - 550222
@@ -469,9 +473,11 @@
   - 818360
   start: 2026-11-05T23:30:00Z
   stop: 2026-11-06T00:15:00Z
-  title: Alles finster
-  subtitle: AT/DE
+  title: Alles finster (2/6)
+  subtitle: Österreich/Deutschland 2022
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
