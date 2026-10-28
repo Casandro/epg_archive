@@ -556,7 +556,7 @@
   - '128'
 - eventId: 595538
   start: 2026-10-29T21:30:00Z
-  stop: 2026-10-29T21:50:00Z
+  stop: 2026-10-29T22:00:00Z
   title: 'SAT tv: Tata i sin'
   subtitle: Emisija u kojoj slušamo pjesme i odlomke iz djela naših najvećih pjesnika. Uvjerite se u moć riječi i doživite najsnažnije emocije.
   ageRating: 4
@@ -575,7 +575,9 @@
   stop: 2026-10-29T22:15:00Z
   title: 'TV arhiv: Teatar poezije - Gojko Janjušević'
   subtitle: Dokumentarni
-- eventId: 595539
+- eventId:
+  - 595539
+  - 634031
   start: 2026-10-29T22:00:00Z
   stop: 2026-10-29T22:15:00Z
   title: Naši u svijetu
