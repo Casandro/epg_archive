@@ -1,14 +1,6 @@
-- eventId: 603782
-  start: 2026-11-02T00:05:00Z
-  stop: 2026-11-02T01:00:00Z
-  title: Documentaires
-  description: Brics + les nouveaux maîtres du monde ? Alors que le bloc occidental se fragmente, les BRICS s'imposent comme une nouvelle force mondiale. Brésil, Russie, Inde, Chine et Afrique du Sud représentent plus de la moitié de la population mondiale et 40% des richesses. Du sommet de Rio 2025 à la naissance d'un ordre post-occidental, ce film retrace leur ascension. (France-2026)
-  genre:
-  - '128'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 722512
+- eventId:
+  - 603782
+  - 722512
   start: 2026-11-02T00:05:00Z
   stop: 2026-11-02T00:55:00Z
   title: Documentaires
@@ -18,11 +10,13 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 722513
+- eventId:
+  - 681010
+  - 722513
   start: 2026-11-02T00:55:00Z
   stop: 2026-11-02T01:25:00Z
   title: Geopolitis
-  description: (Rediffusion) Geopolitis 0111 (Suisse Romande-2026)
+  description: (Rediffusion) Animaux, trafic mondial Ecailles de pangolins au kilo, tigres dépecés pour leurs os, girafes abattues pour leur viande ou servals vendus comme animaux de « compagnie », le trafic d'animaux sauvages figure au quatrième rang des commerces illégaux les plus lucratifs du monde. (Suisse Romande-2026)
   genre:
   - '128'
   widescreen: true
@@ -44,7 +38,7 @@
   start: 2026-11-02T01:25:00Z
   stop: 2026-11-02T02:10:00Z
   title: Mise au point
-  description: (Rediffusion) (Suisse Romande-2026)
+  description: "(Rediffusion) (Suisse Romande-2026)  - Hooligans : le drame de trop ? À Lausanne, deux personnes ont été grièvement blessées après une agression en marge du match de hockey entre le LHC et Fribourg-Gottéron. Un drame qui pourrait marquer un tournant en Suisse, où les autorités cantonales cherchent en vain, depuis des années, à mettre fin à la violence des ultras. \n - La grande peur des data centers L'essor de l'IA provoque une multiplication des centres de données, qui consomment énormément d'énergie et de ressources. Ils suscitent la controverse aux Etats-Unis, et désormais en Europe aussi. À Schaffhouse, un projet va plus que doubler la consommation d'électricité du canton. Reportage. \n - Micro-brasseries : la fin de l'eldorado Après un essor spectaculaire ces dernières années, le nombre de micro-brasseries commence à diminuer en Suisse. Les petits brasseurs indépendants souffrent notamment du prix des matières premières et des nouvelles habitudes de consommation. Reportage."
   genre:
   - '128'
   widescreen: true
@@ -74,11 +68,72 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 681011
+  start: 2026-11-02T02:45:00Z
+  stop: 2026-11-02T03:35:00Z
+  title: Sport dimanche
+  description: (Rediffusion)
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 681013
+  start: 2026-11-02T03:35:00Z
+  stop: 2026-11-02T04:05:00Z
+  title: Geopolitis
+  description: (Rediffusion) Animaux, trafic mondial Ecailles de pangolins au kilo, tigres dépecés pour leurs os, girafes abattues pour leur viande ou servals vendus comme animaux de « compagnie », le trafic d'animaux sauvages figure au quatrième rang des commerces illégaux les plus lucratifs du monde. (Suisse Romande-2026)
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 681014
+  start: 2026-11-02T04:05:00Z
+  stop: 2026-11-02T04:50:00Z
+  title: Mise au point
+  description: "(Rediffusion) (Suisse Romande-2026)  - Hooligans : le drame de trop ? À Lausanne, deux personnes ont été grièvement blessées après une agression en marge du match de hockey entre le LHC et Fribourg-Gottéron. Un drame qui pourrait marquer un tournant en Suisse, où les autorités cantonales cherchent en vain, depuis des années, à mettre fin à la violence des ultras. \n - La grande peur des data centers L'essor de l'IA provoque une multiplication des centres de données, qui consomment énormément d'énergie et de ressources. Ils suscitent la controverse aux Etats-Unis, et désormais en Europe aussi. À Schaffhouse, un projet va plus que doubler la consommation d'électricité du canton. Reportage. \n - Micro-brasseries : la fin de l'eldorado Après un essor spectaculaire ces dernières années, le nombre de micro-brasseries commence à diminuer en Suisse. Les petits brasseurs indépendants souffrent notamment du prix des matières premières et des nouvelles habitudes de consommation. Reportage."
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 681015
+  start: 2026-11-02T04:50:00Z
+  stop: 2026-11-02T05:20:00Z
+  title: 19h30 - Signé
+  description: (Rediffusion)  "Langue des signes"
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 603801
   - 731595
   start: 2026-11-02T04:55:00Z
   stop: 2026-11-02T06:00:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 681016
+  start: 2026-11-02T05:20:00Z
+  stop: 2026-11-02T05:50:00Z
+  title: Geopolitis
+  description: (Rediffusion) Animaux, trafic mondial Ecailles de pangolins au kilo, tigres dépecés pour leurs os, girafes abattues pour leur viande ou servals vendus comme animaux de « compagnie », le trafic d'animaux sauvages figure au quatrième rang des commerces illégaux les plus lucratifs du monde. (Suisse Romande-2026)
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 681017
+  start: 2026-11-02T05:50:00Z
+  stop: 2026-11-02T07:00:00Z
   title: RTS Info
   subtitle: L'actualité en continu
   description: En direct.

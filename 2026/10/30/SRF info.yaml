@@ -355,8 +355,20 @@
   - 609681
   - 667787
   start: 2026-10-30T04:35:00Z
-  stop: 2026-10-30T04:50:00Z
+  stop: 2026-10-30T04:45:00Z
   title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 681067
+  start: 2026-10-30T04:45:00Z
+  stop: 2026-10-30T04:55:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
   genre:
   - '32'
   widescreen: true
@@ -377,12 +389,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 1020633
-  - 609683
-  - 667789
-  start: 2026-10-30T05:00:00Z
-  stop: 2026-10-30T05:20:00Z
+- eventId: 681068
+  start: 2026-10-30T04:55:00Z
+  stop: 2026-10-30T05:00:00Z
   title: Schweiz aktuell
   genre:
   - '32'
@@ -390,11 +399,21 @@
   subtitled: true
   hd: true
 - eventId:
-  - 1020634
-  - 609684
-  - 667790
-  start: 2026-10-30T05:20:00Z
-  stop: 2026-10-30T05:25:00Z
+  - 1020633
+  - 609683
+  - 667789
+  start: 2026-10-30T05:00:00Z
+  stop: 2026-10-30T05:15:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Spätausgabe
+- eventId: 681069
+  start: 2026-10-30T05:15:00Z
+  stop: 2026-10-30T05:20:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -404,6 +423,22 @@
   - '64'
   widescreen: true
   hd: true
+- eventId:
+  - 1020634
+  - 609684
+  - 667790
+  start: 2026-10-30T05:20:00Z
+  stop: 2026-10-30T05:45:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId:
   - 1020635
   - 609685
@@ -848,23 +883,11 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 609824
+- eventId:
+  - 609824
+  - 667919
   start: 2026-10-30T15:50:00Z
   stop: 2026-10-30T16:25:00Z
-  title: Einstein
-  subtitle: 'Bomben im Berg: Das Jahrhundertprojekt «Mitholz»'
-  description: |-
-    Bald 80 Jahre nach der Explosion muss in und ausserhalb der Mitholz-Stollen noch immer massenhaft Explosivmaterial geborgen, analysiert und vernichtet werden. Wie bringt man 3000 Tonnen Munition und Granaten sicher aus dem Berg? Einstein mit ersten Einblicken in das Jahrhundertprojekt.
-
-    Schweiz 2026
-  genre:
-  - '112'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 667919
-  start: 2026-10-30T15:50:00Z
-  stop: 2026-10-30T16:30:00Z
   title: Einstein
   subtitle: 'Bomben im Berg: Das Jahrhundertprojekt «Mitholz»'
   description: |-
@@ -883,6 +906,19 @@
   subtitle: Mittagsausgabe
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 681070
+  start: 2026-10-30T16:25:00Z
+  stop: 2026-10-30T17:00:00Z
+  title: Kulturplatz
+  subtitle: 'Kleines Dorf, viel Kultur: Das Geheimnis von Oltingen'
+  description: |-
+    Ein schmuckes, aber entlegenes Dorf im Oberbaselbiet glänzt mit ganz viel Kultur. Auf engstem Raum liegen in Oltingen die Kulturbeiz Ochsen und die Obere Mühle in einem fruchtbaren Wettstreit. «Kulturplatz» über engagierte Menschen und die besondere Magie eines Kulturortes an der Peripherie.
+    Schweiz 2026
+  genre:
+  - '112'
   widescreen: true
   subtitled: true
   hd: true
