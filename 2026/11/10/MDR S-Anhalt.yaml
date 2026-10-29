@@ -383,7 +383,7 @@
   - 555235
   - 762138
   start: 2026-11-10T19:15:00Z
-  stop: 2026-11-10T20:00:00Z
+  stop: 2026-11-10T20:20:00Z
   title: Helden oder Verräter - Der große Stasi-Leak
   subtitle: Film von Melissa Müller, Ulrike Schwerdtner und Bettina Wobst
   widescreen: true
@@ -401,11 +401,28 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 675261
+  start: 2026-11-10T20:20:00Z
+  stop: 2026-11-10T20:45:00Z
+  title: Das letzte Geheimnis von Bautzen II
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 550445
   - 555237
   - 762140
   start: 2026-11-10T20:45:00Z
+  stop: 2026-11-10T21:10:00Z
+  title: MDR aktuell
+  subtitle: 'anschließend: das MDR-Wetter'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 675262
+  start: 2026-11-10T20:50:00Z
   stop: 2026-11-10T21:10:00Z
   title: MDR aktuell
   subtitle: 'anschließend: das MDR-Wetter'
@@ -427,6 +444,17 @@
   audiodesc: true
   genre:
   - '112'
+- eventId: 675267
+  start: 2026-11-10T21:15:00Z
+  stop: 2026-11-10T22:50:00Z
+  title: Als Mutti in den Westen ging
+  subtitle: Film von Adrian-Basil Müller und Udo Müller
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 550835
   - 555470
@@ -435,6 +463,18 @@
   stop: 2026-11-11T01:00:00Z
   title: Rosemaries Baby
   subtitle: Spielfilm USA 1968 (Rosemary's Baby)
+  ageRating: 16
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 675268
+  start: 2026-11-10T22:55:00Z
+  stop: 2026-11-11T01:00:00Z
+  title: Rosemaries Baby
+  subtitle: Spielfilm USA 1968
   ageRating: 16
   genre:
   - '16'
