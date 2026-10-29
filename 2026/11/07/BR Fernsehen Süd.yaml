@@ -390,7 +390,7 @@
   start: 2026-11-07T11:00:00Z
   stop: 2026-11-07T12:30:00Z
   title: Schlaflos in Schwabing
-  subtitle: Spielfilm Deutschland 2012
+  subtitle: Fernsehfilm Deutschland 2012
   ageRating: 6
   genre:
   - '16'
@@ -450,7 +450,7 @@
   - 751151
   - 874619
   start: 2026-11-07T13:00:00Z
-  stop: 2026-11-07T14:45:00Z
+  stop: 2026-11-07T15:00:00Z
   title: Blickpunkt Sport live
   widescreen: true
   subtitled: true
@@ -491,7 +491,10 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 751153
+- eventId:
+  - 675762
+  - 675763
+  - 751153
   start: 2026-11-07T15:00:00Z
   stop: 2026-11-07T15:30:00Z
   title: Ländermagazin aus Bayern
