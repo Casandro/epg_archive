@@ -105,7 +105,7 @@
   - 661004
   - 768184
   start: 2026-10-31T01:55:00Z
-  stop: 2026-10-31T01:59:00Z
+  stop: 2026-10-31T02:00:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
@@ -121,6 +121,7 @@
 - eventId:
   - 661005
   - 687116
+  - 687472
   - 768185
   start: 2026-10-31T02:00:00Z
   stop: 2026-10-31T02:10:00Z
@@ -139,6 +140,7 @@
 - eventId:
   - 661006
   - 687117
+  - 687473
   - 768186
   start: 2026-10-31T02:10:00Z
   stop: 2026-10-31T02:18:00Z
@@ -157,6 +159,7 @@
 - eventId:
   - 661007
   - 687118
+  - 687474
   - 768187
   start: 2026-10-31T02:18:00Z
   stop: 2026-10-31T02:20:00Z
@@ -175,6 +178,7 @@
 - eventId:
   - 661008
   - 687119
+  - 687475
   - 768188
   start: 2026-10-31T02:20:00Z
   stop: 2026-10-31T02:28:00Z
@@ -193,6 +197,7 @@
 - eventId:
   - 661009
   - 687120
+  - 687476
   - 768189
   start: 2026-10-31T02:28:00Z
   stop: 2026-10-31T02:30:00Z
@@ -219,7 +224,9 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 687121
+- eventId:
+  - 687121
+  - 687477
   start: 2026-10-31T02:30:00Z
   stop: 2026-10-31T02:49:00Z
   title: Sportske minute
@@ -259,6 +266,7 @@
   - 678883
   - 683448
   - 687122
+  - 687478
   start: 2026-10-31T02:50:00Z
   stop: 2026-10-31T02:53:00Z
   title: '#REPORTAŽE'
@@ -289,6 +297,7 @@
   - 678884
   - 683449
   - 687123
+  - 687479
   - 768192
   - 984247
   start: 2026-10-31T02:53:00Z
@@ -341,6 +350,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 687480
+  start: 2026-10-31T02:55:00Z
+  stop: 2026-10-31T03:39:00Z
+  title: Pregled dana
+  subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 687303
   start: 2026-10-31T03:39:00Z
   stop: 2026-10-31T03:49:00Z
@@ -374,6 +391,7 @@
   - '160'
 - eventId:
   - 661014
+  - 687481
   - 763791
   start: 2026-10-31T03:40:00Z
   stop: 2026-10-31T03:50:00Z
@@ -416,6 +434,7 @@
   - '128'
 - eventId:
   - 661015
+  - 687482
   - 763792
   start: 2026-10-31T03:50:00Z
   stop: 2026-10-31T03:57:00Z
@@ -433,6 +452,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 661016
+  - 687483
   - 763793
   start: 2026-10-31T03:57:00Z
   stop: 2026-10-31T04:00:00Z
@@ -489,6 +509,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 687484
+  start: 2026-10-31T04:00:00Z
+  stop: 2026-10-31T04:52:00Z
+  title: Dnevnik 2
+  subtitle: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 687093
   start: 2026-10-31T04:52:00Z
   stop: 2026-10-31T04:53:00Z
@@ -499,7 +527,7 @@
   - 661018
   - 763795
   start: 2026-10-31T04:53:00Z
-  stop: 2026-10-31T04:55:00Z
+  stop: 2026-10-31T04:54:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
@@ -514,6 +542,7 @@
   - 678890
   - 683455
   - 687129
+  - 687485
   - 688681
   - 763796
   start: 2026-10-31T04:54:00Z
@@ -543,7 +572,7 @@
   - 661021
   - 763798
   start: 2026-10-31T04:57:00Z
-  stop: 2026-10-31T04:59:00Z
+  stop: 2026-10-31T05:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -564,6 +593,7 @@
   - 678891
   - 683456
   - 687130
+  - 687486
   - 688682
   - 763799
   start: 2026-10-31T05:00:00Z
@@ -582,6 +612,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 661023
+  - 687487
   - 763800
   start: 2026-10-31T05:08:00Z
   stop: 2026-10-31T05:10:00Z
@@ -620,6 +651,7 @@
   - 678893
   - 683458
   - 687132
+  - 687488
   - 688684
   - 763801
   start: 2026-10-31T05:10:00Z
@@ -638,6 +670,7 @@
   description: Kratki pregled aktualnosti iz svijeta znanosti.
 - eventId:
   - 661025
+  - 687489
   - 763802
   start: 2026-10-31T05:18:00Z
   stop: 2026-10-31T05:26:00Z
@@ -676,6 +709,7 @@
   - 678895
   - 683460
   - 687134
+  - 687490
   - 688686
   - 763803
   start: 2026-10-31T05:26:00Z
@@ -734,6 +768,7 @@
   - 686546
   - 686721
   - 686949
+  - 687491
   - 763804
   start: 2026-10-31T05:56:00Z
   stop: 2026-10-31T06:00:00Z
@@ -862,6 +897,7 @@
   - 686722
   - 686950
   - 687136
+  - 687492
   - 688688
   start: 2026-10-31T06:56:00Z
   stop: 2026-10-31T07:00:00Z
@@ -1491,7 +1527,7 @@
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
 - eventId: 661106
   start: 2026-10-31T20:45:00Z
-  stop: 2026-10-31T21:10:00Z
+  stop: 2026-10-31T21:15:00Z
   title: Veterani mira
   subtitle: Tjedna emisija, u razgovoru u studiju i reportažama rasvjetljava i nastoji riješiti probleme s kojima se susreću branitelji te senzibilizirati javnost.
   ageRating: 4
