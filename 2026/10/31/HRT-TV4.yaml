@@ -941,7 +941,7 @@
   - 694051
   - 696224
   start: 2026-10-31T05:55:00Z
-  stop: 2026-10-31T06:00:00Z
+  stop: 2026-10-31T05:58:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -1252,14 +1252,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 661051
   start: 2026-10-31T09:35:00Z
-  stop: 2026-10-31T09:45:00Z
+  stop: 2026-10-31T09:42:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 704711
+- eventId:
+  - 704711
+  - 705285
   start: 2026-10-31T09:42:00Z
   stop: 2026-10-31T09:47:00Z
   title: Poslovne vijesti
@@ -1276,7 +1278,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 704712
+- eventId:
+  - 704712
+  - 705286
   start: 2026-10-31T09:47:00Z
   stop: 2026-10-31T09:55:00Z
   title: 'Studio 4: Znanost'
@@ -1293,7 +1297,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 704713
+- eventId:
+  - 704713
+  - 705287
   start: 2026-10-31T09:55:00Z
   stop: 2026-10-31T10:00:00Z
   title: Bez komentara
@@ -1388,14 +1394,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 661063
   start: 2026-10-31T11:20:00Z
-  stop: 2026-10-31T11:30:00Z
+  stop: 2026-10-31T11:28:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 704715
+- eventId:
+  - 704715
+  - 705288
   start: 2026-10-31T11:28:00Z
   stop: 2026-10-31T11:30:00Z
   title: Bez komentara
@@ -1661,7 +1669,9 @@
   genre:
   - '160'
   description: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
-- eventId: 704720
+- eventId:
+  - 704720
+  - 705289
   start: 2026-10-31T17:01:00Z
   stop: 2026-10-31T17:30:00Z
   title: TV student
@@ -1678,7 +1688,9 @@
   genre:
   - '32'
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 704721
+- eventId:
+  - 704721
+  - 705290
   start: 2026-10-31T17:31:00Z
   stop: 2026-10-31T17:50:00Z
   title: Regionalni dnevnik
@@ -1695,7 +1707,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 704722
+- eventId:
+  - 704722
+  - 705291
   start: 2026-10-31T17:51:00Z
   stop: 2026-10-31T17:53:00Z
   title: Bez komentara
@@ -1847,7 +1861,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 704723
+- eventId:
+  - 704723
+  - 705292
   start: 2026-10-31T21:11:00Z
   stop: 2026-10-31T21:15:00Z
   title: Bez komentara
