@@ -192,13 +192,15 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId:
   - 606731
   - 623733
   - 765911
   start: 2026-11-10T10:10:00Z
   stop: 2026-11-10T10:55:00Z
-  title: WILDER WILDER WESTEN
+  title: WILDER WILDER WESTEN (9/15)
   subtitle: Die besten Zoogeschichten aus NRW
   widescreen: true
   subtitled: true
@@ -210,7 +212,7 @@
   - 765912
   start: 2026-11-10T10:55:00Z
   stop: 2026-11-10T11:45:00Z
-  title: Elefant, Tiger & Co.
+  title: Elefant, Tiger & Co. (450)
   subtitle: Geschichten aus dem Leipziger Zoo
   widescreen: true
   subtitled: true
@@ -234,8 +236,8 @@
   - 765954
   start: 2026-11-10T12:00:00Z
   stop: 2026-11-10T12:50:00Z
-  title: Seehund, Puma & Co.
-  subtitle: Bunte Runde
+  title: Seehund, Puma & Co. (182)
+  subtitle: Zoogeschichten von der Küste
   widescreen: true
   subtitled: true
   hd: true
@@ -259,11 +261,14 @@
   start: 2026-11-10T13:20:00Z
   stop: 2026-11-10T14:10:00Z
   title: Watzmann ermittelt - 4. Kalkül oder Liebe
-  subtitle: Deutschland 2019
+  subtitle: Kalkül oder Liebe
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 607247
   - 623942
@@ -271,11 +276,14 @@
   start: 2026-11-10T14:10:00Z
   stop: 2026-11-10T15:00:00Z
   title: Watzmann ermittelt - 5. Fluch am Eckstein
-  subtitle: Deutschland 2019
+  subtitle: Fluch am Eckstein
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
+  genre:
+  - '16'
 - eventId:
   - 616782
   - 624205
@@ -366,13 +374,14 @@
   start: 2026-11-10T19:15:00Z
   stop: 2026-11-10T20:45:00Z
   title: Tatort - Die Kalten und die Toten
-  subtitle: Spielfilm Deutschland 2021
+  subtitle: Fernsehfilm Deutschland 2021
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 608427
   - 624449
@@ -392,7 +401,7 @@
   start: 2026-11-10T21:15:00Z
   stop: 2026-11-10T22:40:00Z
   title: Die Toten am Meer
-  subtitle: Spielfilm Deutschland 2020
+  subtitle: Fernsehfilm Deutschland 2020
   ageRating: 12
   genre:
   - '16'
@@ -407,7 +416,7 @@
   start: 2026-11-10T22:40:00Z
   stop: 2026-11-11T00:10:00Z
   title: Die Toten am Meer - Der Wikinger
-  subtitle: Spielfilm Deutschland 2022
+  subtitle: Fernsehfilm Deutschland 2022
   ageRating: 12
   genre:
   - '16'
