@@ -260,6 +260,7 @@
   - 693819
   - 697186
   - 699714
+  - 700367
   start: 2026-10-31T03:00:00Z
   stop: 2026-10-31T06:00:00Z
   title: Pastel
@@ -456,6 +457,7 @@
   - 693820
   - 697187
   - 699715
+  - 700368
   start: 2026-10-31T06:00:00Z
   stop: 2026-10-31T06:30:00Z
   title: Pastel
@@ -581,7 +583,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 697188
+- eventId:
+  - 697188
+  - 700369
   start: 2026-10-31T06:30:00Z
   stop: 2026-10-31T08:00:00Z
   title: Live News MK
@@ -721,6 +725,7 @@
   - 699118
   - 699717
   - 700251
+  - 700370
   - 700422
   - 700843
   - 701255
@@ -863,6 +868,7 @@
   - 693823
   - 697190
   - 699718
+  - 700371
   start: 2026-10-31T10:30:00Z
   stop: 2026-10-31T11:20:00Z
   title: Reportazhe
@@ -1031,6 +1037,14 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 700372
+  start: 2026-10-31T11:20:00Z
+  stop: 2026-10-31T12:00:00Z
+  title: Farewell Letter
+  subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
+  ageRating: 4
+  genre:
+  - '128'
 - eventId:
   - 1029201
   - 586959
@@ -1077,6 +1091,7 @@
   - 693825
   - 697192
   - 699720
+  - 700373
   start: 2026-10-31T12:05:00Z
   stop: 2026-10-31T13:15:00Z
   title: Click Plus
@@ -1169,6 +1184,7 @@
   - 699122
   - 699721
   - 700255
+  - 700374
   - 700426
   - 700847
   - 701259
@@ -1280,6 +1296,7 @@
   - 693827
   - 697194
   - 699722
+  - 700375
   start: 2026-10-31T14:25:00Z
   stop: 2026-10-31T15:00:00Z
   title: Promo
@@ -1350,6 +1367,7 @@
   - 699124
   - 699733
   - 700257
+  - 700376
   - 700428
   - 700849
   - 701261
@@ -1393,7 +1411,7 @@
   - 586963
   - 647850
   start: 2026-10-31T16:00:00Z
-  stop: 2026-10-31T16:10:00Z
+  stop: 2026-10-31T16:55:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -1442,7 +1460,7 @@
   - 647852
   - 663760
   start: 2026-10-31T17:00:00Z
-  stop: 2026-10-31T18:30:00Z
+  stop: 2026-10-31T17:30:00Z
   title: DANS SPORTIV
   subtitle: '  *TRANSYLVANIAN GRAND PRIX Comentator: Florin MihocProducator: Daniela EnachescuTransmisiune directa '
   ageRating: 4
@@ -1470,6 +1488,7 @@
   - 693829
   - 697196
   - 699734
+  - 700377
   start: 2026-10-31T17:30:00Z
   stop: 2026-10-31T18:00:00Z
   title: Live news AL
@@ -1541,6 +1560,7 @@
   - 699126
   - 699735
   - 700259
+  - 700378
   - 700430
   - 700851
   - 701263
@@ -1584,7 +1604,7 @@
   - 586966
   - 647853
   start: 2026-10-31T18:30:00Z
-  stop: 2026-10-31T20:00:00Z
+  stop: 2026-10-31T19:00:00Z
   title: JOCURILE OLIMPICE PENTRU TINERET-DAKAR 2026
   subtitle: '  * CEREMONIE DESCHIDEREProducator Daniela EnachescuTransmisiune directa '
   ageRating: 4
@@ -1611,6 +1631,7 @@
   - 693831
   - 697198
   - 699736
+  - 700379
   start: 2026-10-31T19:00:00Z
   stop: 2026-10-31T19:30:00Z
   title: Promo
@@ -1692,6 +1713,7 @@
   - 693832
   - 697199
   - 699737
+  - 700380
   start: 2026-10-31T19:30:00Z
   stop: 2026-10-31T21:00:00Z
   title: Fol shqip
@@ -1780,7 +1802,7 @@
   - 586968
   - 647855
   start: 2026-10-31T21:00:00Z
-  stop: 2026-10-31T23:00:00Z
+  stop: 2026-10-31T21:20:00Z
   title: Volei masculin
   subtitle: '  *ET2 CS RAPID BUCURESTI-CSA STEAUA BUCURESTIComentator: Narcis SelaruProducator: Mihai Dionise   (Reluare)'
   ageRating: 4
@@ -1808,6 +1830,7 @@
   - 693833
   - 697200
   - 699738
+  - 700381
   start: 2026-10-31T21:20:00Z
   stop: 2026-10-31T21:40:00Z
   title: Fc Latta
@@ -1891,6 +1914,7 @@
   - 693834
   - 697201
   - 699739
+  - 700382
   start: 2026-10-31T21:40:00Z
   stop: 2026-10-31T23:25:00Z
   title: Odeon
@@ -1977,6 +2001,75 @@
   stop: 2026-11-01T00:40:00Z
   title: Handbal masculin
   subtitle: '  *LIGA ZIMBRILOR *ET6  CSM Bucuresti-CSM ConstantaComentator: Dragos CojocaruProducator: Daniela Enachescu   (Reluare)'
+- eventId:
+  - 1010228
+  - 1012161
+  - 1012383
+  - 1013807
+  - 1016686
+  - 1017101
+  - 1017593
+  - 1018081
+  - 1022364
+  - 1024425
+  - 1025816
+  - 1026270
+  - 1028022
+  - 1028715
+  - 1029077
+  - 1029699
+  - 1030692
+  - 1033548
+  - 1034771
+  - 1036088
+  - 1036787
+  - 1037646
+  - 1038097
+  - 597080
+  - 634591
+  - 644604
+  - 648616
+  - 650986
+  - 652846
+  - 655853
+  - 656338
+  - 656824
+  - 658343
+  - 658579
+  - 659152
+  - 659411
+  - 660985
+  - 662951
+  - 665843
+  - 666353
+  - 674366
+  - 676114
+  - 676616
+  - 677410
+  - 677684
+  - 678112
+  - 678244
+  - 678365
+  - 679055
+  - 683486
+  - 687158
+  - 688606
+  - 694116
+  - 695800
+  - 696360
+  - 696849
+  - 697616
+  - 698504
+  - 699079
+  - 700212
+  - 700383
+  start: 2026-10-31T23:25:00Z
+  stop: 2026-11-01T00:35:00Z
+  title: Reportazhe
+  subtitle: '  '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 662863
   - 668369
