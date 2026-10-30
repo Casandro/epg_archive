@@ -57,16 +57,18 @@
   title: 'LE 6H00 DU 04/11/2026 '
   subtitle: ' '
   ageRating: 7
-- eventId: 633851
-  start: 2026-11-04T04:59:00Z
-  stop: 2026-11-04T05:26:00Z
-  title: 'LE 6H00 DU 04/11/2026 '
-  subtitle: ' '
-  ageRating: 7
-- eventId: 783072
+- eventId:
+  - 633851
+  - 783072
   start: 2026-11-04T04:59:00Z
   stop: 2026-11-04T05:24:00Z
   title: 'LE 6H00 DU 04/11/2026 '
+  subtitle: ' '
+  ageRating: 7
+- eventId: 711017
+  start: 2026-11-04T05:24:00Z
+  stop: 2026-11-04T05:27:00Z
+  title: 'METEO DU 03/11/26 '
   subtitle: ' '
   ageRating: 7
 - eventId: 771836
@@ -84,6 +86,12 @@
 - eventId: 771837
   start: 2026-11-04T05:26:00Z
   stop: 2026-11-04T05:28:00Z
+  title: 'Anita s''en va (partie 1) '
+  subtitle: ' '
+  ageRating: 7
+- eventId: 711018
+  start: 2026-11-04T05:27:00Z
+  stop: 2026-11-04T05:39:00Z
   title: 'Anita s''en va (partie 1) '
   subtitle: ' '
   ageRating: 7
@@ -105,6 +113,12 @@
   title: 'Le grand jour de Cactusse '
   subtitle: 'Cactusse doit partir, pour la toute première fois, farfouiller en solo. Pendant ce temps, Stradivarius cherche de nouveaux sons po '
   ageRating: 7
+- eventId: 711019
+  start: 2026-11-04T05:39:00Z
+  stop: 2026-11-04T06:03:00Z
+  title: 'Le grand jour de Cactusse '
+  subtitle: 'Cactusse doit partir, pour la toute première fois, farfouiller en solo. Pendant ce temps, Stradivarius cherche de nouveaux sons po '
+  ageRating: 7
 - eventId: 633854
   start: 2026-11-04T05:40:00Z
   stop: 2026-11-04T06:04:00Z
@@ -123,6 +137,12 @@
   title: 'Fripouille, embrouille et  gribouillis ! '
   subtitle: 'Munie d''une nouvelle invention de son amie, Alix veut aider Lapin à capter l''image d''un animal fabuleux qui ne passe que très rare '
   ageRating: 7
+- eventId: 711020
+  start: 2026-11-04T06:03:00Z
+  stop: 2026-11-04T06:27:00Z
+  title: 'Fripouille, embrouille et  gribouillis ! '
+  subtitle: 'Munie d''une nouvelle invention de son amie, Alix veut aider Lapin à capter l''image d''un animal fabuleux qui ne passe que très rare '
+  ageRating: 7
 - eventId: 633863
   start: 2026-11-04T06:04:00Z
   stop: 2026-11-04T06:28:00Z
@@ -135,7 +155,9 @@
   title: 'Fripouille, embrouille et  gribouillis ! '
   subtitle: 'Munie d''une nouvelle invention de son amie, Alix veut aider Lapin à capter l''image d''un animal fabuleux qui ne passe que très rare '
   ageRating: 7
-- eventId: 771840
+- eventId:
+  - 711021
+  - 771840
   start: 2026-11-04T06:27:00Z
   stop: 2026-11-04T06:30:00Z
   title: 'LA P''TITE LIBRAIRIE-CHIEN BLEU '
@@ -177,7 +199,7 @@
   - 633868
   - 771844
   start: 2026-11-04T07:38:00Z
-  stop: 2026-11-04T07:46:00Z
+  stop: 2026-11-04T07:47:00Z
   title: 'L''INVITE TV5MONDE DU 03/11/26 '
   subtitle: ' '
   ageRating: 7
@@ -189,12 +211,30 @@
   title: 'Maxime Goléo, designer et ébéniste d''art '
   subtitle: ' '
   ageRating: 7
+- eventId: 711022
+  start: 2026-11-04T07:47:00Z
+  stop: 2026-11-04T07:52:00Z
+  title: 'Maxime Goléo, designer et ébéniste d''art '
+  subtitle: ' '
+  ageRating: 7
 - eventId:
   - 633870
   - 771846
   start: 2026-11-04T07:51:00Z
   stop: 2026-11-04T07:58:00Z
   title: 'Le musée national Picasso-Paris '
+  subtitle: ' '
+  ageRating: 7
+- eventId: 711023
+  start: 2026-11-04T07:52:00Z
+  stop: 2026-11-04T07:57:00Z
+  title: 'Le musée national Picasso-Paris '
+  subtitle: ' '
+  ageRating: 7
+- eventId: 711024
+  start: 2026-11-04T07:57:00Z
+  stop: 2026-11-04T08:00:00Z
+  title: 'EP023 -PAGAIE DES AUSTRALES '
   subtitle: ' '
   ageRating: 7
 - eventId:
@@ -209,9 +249,16 @@
   - 633872
   - 771848
   start: 2026-11-04T08:00:00Z
-  stop: 2026-11-04T08:29:00Z
+  stop: 2026-11-04T08:27:00Z
   title: 'EDITION DU 04/11/2026 '
   subtitle: ' '
+  ageRating: 7
+- eventId: 711025
+  start: 2026-11-04T08:27:00Z
+  stop: 2026-11-04T08:51:00Z
+  title: 'Transformation et extension d''une maison villageoise dans la région de Malmedy '
+  subtitle: 'Cette semaine, Cédric et Virginie sont à Malmedy pour découvrir la rénovation et l''extension d''une ancienne maison familiale ; foc '
+  description: "Transformation et extension d'une maison villageoise dans la région de Malmedy\n\nCette semaine, Cédric et Virginie sont à Malmedy pour découvrir la rénovation et l'extension d'une ancienne maison familiale ; focus à Gand sur la réaffectation d'une ancienne caserne militaire du XIXe siècle en hôtel contemporain ; rencontre avec Quentin Halflants, fabricant de tiny houses ; carreler un miroir sur pied.\n\nPrésentation : Cédric Wautier, Virginie Jacobs\n "
   ageRating: 7
 - eventId:
   - 633873
@@ -222,6 +269,13 @@
   subtitle: 'Cette semaine, Cédric et Virginie sont à Malmedy pour découvrir la rénovation et l''extension d''une ancienne maison familiale ; foc '
   description: "Transformation et extension d'une maison villageoise dans la région de Malmedy\n\nCette semaine, Cédric et Virginie sont à Malmedy pour découvrir la rénovation et l'extension d'une ancienne maison familiale ; focus à Gand sur la réaffectation d'une ancienne caserne militaire du XIXe siècle en hôtel contemporain ; rencontre avec Quentin Halflants, fabricant de tiny houses ; carreler un miroir sur pied.\n\nPrésentation : Cédric Wautier, Virginie Jacobs\n "
   ageRating: 7
+- eventId: 711026
+  start: 2026-11-04T08:51:00Z
+  stop: 2026-11-04T09:17:00Z
+  title: 'Les amoureux du Queyras '
+  subtitle: 'Intime, sauvage et préservé, le Queyras garde encore précieusement son authenticité montagnarde. À Saint-Véran, focus sur celles e '
+  description: "Les amoureux du Queyras\n\nIntime, sauvage et préservé, le Queyras garde encore précieusement son authenticité montagnarde. À Saint-Véran, focus sur celles et ceux qui, unis par une passion commune pour leur territoire, font tout pour l'entretenir et le protéger. \n\nPrésentation : Laurent Guillaume\n "
+  ageRating: 7
 - eventId:
   - 633874
   - 771850
@@ -231,14 +285,21 @@
   subtitle: 'Intime, sauvage et préservé, le Queyras garde encore précieusement son authenticité montagnarde. À Saint-Véran, focus sur celles e '
   description: "Les amoureux du Queyras\n\nIntime, sauvage et préservé, le Queyras garde encore précieusement son authenticité montagnarde. À Saint-Véran, focus sur celles et ceux qui, unis par une passion commune pour leur territoire, font tout pour l'entretenir et le protéger. \n\nPrésentation : Laurent Guillaume\n "
   ageRating: 7
+- eventId: 711028
+  start: 2026-11-04T09:17:00Z
+  stop: 2026-11-04T09:21:00Z
+  title: 'Des plantes d''intérieur dans votre jardin '
+  subtitle: ' '
+  ageRating: 7
 - eventId:
   - 633886
   - 771851
   start: 2026-11-04T09:21:00Z
-  stop: 2026-11-04T09:24:00Z
+  stop: 2026-11-04T09:46:00Z
   title: 'JARDINS ET LOISIRS -EP014-DES PLANTES D''INTERIEUR DANS VOTRE JARDIN '
-  subtitle: ' '
+  subtitle: 'L''explosion des rappels de pistaches iraniennes contaminées à la salmonelle secoue particulièrement le Canada depuis plusieurs moi '
   ageRating: 7
+  description: "Pistaches en crise\n\nL'explosion des rappels de pistaches iraniennes contaminées à la salmonelle secoue particulièrement le Canada depuis plusieurs mois ; on répond à vos questions ; du très local dans votre coupe de vin ; le retour du suif.\n\nPrésentation : Myriam Fehmiu, Caroline Lacroix\n "
 - eventId:
   - 633887
   - 771852
@@ -247,6 +308,13 @@
   title: 'Pistaches en crise '
   subtitle: 'L''explosion des rappels de pistaches iraniennes contaminées à la salmonelle secoue particulièrement le Canada depuis plusieurs moi '
   description: "Pistaches en crise\n\nL'explosion des rappels de pistaches iraniennes contaminées à la salmonelle secoue particulièrement le Canada depuis plusieurs mois ; on répond à vos questions ; du très local dans votre coupe de vin ; le retour du suif.\n\nPrésentation : Myriam Fehmiu, Caroline Lacroix\n "
+  ageRating: 7
+- eventId: 711029
+  start: 2026-11-04T09:46:00Z
+  stop: 2026-11-04T10:20:00Z
+  title: 'Le safari du minuscule '
+  subtitle: 'Plongée au coeur de nos espaces verts à la rencontre de créatures microscopiques et fabuleuses. Pour observer ce monde fascinant,  '
+  description: "Le safari du minuscule\n\nPlongée au coeur de nos espaces verts à la rencontre de créatures microscopiques et fabuleuses. Pour observer ce monde fascinant, nul besoin de parcourir des milliers de kilomètres : il suffit de s'agenouiller, de se coucher à ras de terre. À travers la Belgique francophone, des passionnés partagent leurs découvertes.\n\nPrésentation : Tanguy Dumortier\n "
   ageRating: 7
 - eventId:
   - 633888
@@ -257,6 +325,13 @@
   subtitle: 'Plongée au coeur de nos espaces verts à la rencontre de créatures microscopiques et fabuleuses. Pour observer ce monde fascinant,  '
   description: "Le safari du minuscule\n\nPlongée au coeur de nos espaces verts à la rencontre de créatures microscopiques et fabuleuses. Pour observer ce monde fascinant, nul besoin de parcourir des milliers de kilomètres : il suffit de s'agenouiller, de se coucher à ras de terre. À travers la Belgique francophone, des passionnés partagent leurs découvertes.\n\nPrésentation : Tanguy Dumortier\n "
   ageRating: 7
+- eventId: 711030
+  start: 2026-11-04T10:20:00Z
+  stop: 2026-11-04T11:02:00Z
+  title: 'Se peindre nu '
+  subtitle: 'Édouard ne se remet pas de ce que lui a dévoilé Marlène. Le mystère autour de l''hospitalisation de Tomas quelques mois auparavant  '
+  description: "Se peindre nu\n\nÉdouard ne se remet pas de ce que lui a dévoilé Marlène. Le mystère autour de l'hospitalisation de Tomas quelques mois auparavant est levé : tout le monde tombe des nues. \n\nRéalisation : Claude Desrosiers (Canada, 2022)\nScénario : Serge Boucher\nDistribution : Céline Bonier (Marlène), René Richard Cyr (Paul-André), James Hyndman (François), Luc Guérin (Renaud), Schelby Jean-Baptiste (Céleste), Irdens Exantus (Édouard), France Castel (Simone), Dominique Leduc (Sylvie), Camille Felton (Jacynthe), Félix-Antoine Duval (Tomas)\nGenre : drame\nSignalétique : déconseillé aux moins de 10 ans (-10) "
+  ageRating: 13
 - eventId:
   - 633889
   - 771854
@@ -266,6 +341,13 @@
   subtitle: 'Édouard ne se remet pas de ce que lui a dévoilé Marlène. Le mystère autour de l''hospitalisation de Tomas quelques mois auparavant  '
   description: "Se peindre nu\n\nÉdouard ne se remet pas de ce que lui a dévoilé Marlène. Le mystère autour de l'hospitalisation de Tomas quelques mois auparavant est levé : tout le monde tombe des nues. \n\nRéalisation : Claude Desrosiers (Canada, 2022)\nScénario : Serge Boucher\nDistribution : Céline Bonier (Marlène), René Richard Cyr (Paul-André), James Hyndman (François), Luc Guérin (Renaud), Schelby Jean-Baptiste (Céleste), Irdens Exantus (Édouard), France Castel (Simone), Dominique Leduc (Sylvie), Camille Felton (Jacynthe), Félix-Antoine Duval (Tomas)\nGenre : drame\nSignalétique : déconseillé aux moins de 10 ans (-10) "
   ageRating: 13
+- eventId: 711031
+  start: 2026-11-04T11:02:00Z
+  stop: 2026-11-04T11:16:00Z
+  title: 'Saumur '
+  subtitle: 'Saumur : une forteresse devenue palais puis prison, surplombant la Loire et dont le style gothique flamboyant a même inspiré certa '
+  description: "Saumur \n\nSaumur : une forteresse devenue palais puis prison, surplombant la Loire et dont le style gothique flamboyant a même inspiré certains des châteaux des films Disney. \n\nPrésentation : André Manoukian\n "
+  ageRating: 7
 - eventId:
   - 633890
   - 771855
@@ -274,6 +356,13 @@
   title: 'Saumur '
   subtitle: 'Saumur : une forteresse devenue palais puis prison, surplombant la Loire et dont le style gothique flamboyant a même inspiré certa '
   description: "Saumur \n\nSaumur : une forteresse devenue palais puis prison, surplombant la Loire et dont le style gothique flamboyant a même inspiré certains des châteaux des films Disney. \n\nPrésentation : André Manoukian\n "
+  ageRating: 7
+- eventId: 711032
+  start: 2026-11-04T11:16:00Z
+  stop: 2026-11-04T11:40:00Z
+  title: 'Épisode 1933 '
+  subtitle: 'Eve ne raconte pas tout à Manu à propos de ses cours en prison. Claudine, elle, regrette son histoire avec Becker. '
+  description: "Épisode 1933\n\nEve ne raconte pas tout à Manu à propos de ses cours en prison. Claudine, elle, regrette son histoire avec Becker.\n\nRéalisation : Guila Braoudé, Chris Nahon, Christophe Reichert, Astrid Veillon (saison 8, France, 2025)\nDistribution : Chrystelle Labaude (Élizabeth), Mélanie Maudran (Claire), Emma Colberti (Ève), Tonya Kinzinger (Janet), Yvon Back (Becker), Benjamin Bourgeois (Alex), Moïse Santamaria (Manu), Bertrand Farge (Victor)\nGenre : comédie dramatique\n "
   ageRating: 7
 - eventId:
   - 633891
@@ -284,6 +373,13 @@
   subtitle: 'Eve ne raconte pas tout à Manu à propos de ses cours en prison. Claudine, elle, regrette son histoire avec Becker. '
   description: "Épisode 1933\n\nEve ne raconte pas tout à Manu à propos de ses cours en prison. Claudine, elle, regrette son histoire avec Becker.\n\nRéalisation : Guila Braoudé, Chris Nahon, Christophe Reichert, Astrid Veillon (saison 8, France, 2025)\nDistribution : Chrystelle Labaude (Élizabeth), Mélanie Maudran (Claire), Emma Colberti (Ève), Tonya Kinzinger (Janet), Yvon Back (Becker), Benjamin Bourgeois (Alex), Moïse Santamaria (Manu), Bertrand Farge (Victor)\nGenre : comédie dramatique\n "
   ageRating: 7
+- eventId: 711033
+  start: 2026-11-04T11:40:00Z
+  stop: 2026-11-04T11:42:00Z
+  title: '« La Chambre sans murs » (Morgane Ortin) '
+  subtitle: '« La Chambre sans murs » (Morgane Ortin), par Morgane Ortin '
+  description: '« La Chambre sans murs » (Morgane Ortin), par Morgane Ortin '
+  ageRating: 7
 - eventId:
   - 633892
   - 771857
@@ -293,6 +389,12 @@
   subtitle: '« La Chambre sans murs » (Morgane Ortin), par Morgane Ortin '
   description: '« La Chambre sans murs » (Morgane Ortin), par Morgane Ortin '
   ageRating: 7
+- eventId: 711034
+  start: 2026-11-04T11:42:00Z
+  stop: 2026-11-04T12:26:00Z
+  title: 'TLMVPSP 2026/2027 -EP012- 12/09/2026 '
+  subtitle: ' '
+  ageRating: 7
 - eventId:
   - 633893
   - 771858
@@ -300,6 +402,13 @@
   stop: 2026-11-04T12:30:00Z
   title: 'TLMVPSP 2026/2027 -EP012- 12/09/2026 '
   subtitle: ' '
+  ageRating: 7
+- eventId: 711036
+  start: 2026-11-04T12:26:00Z
+  stop: 2026-11-04T12:30:00Z
+  title: 'Roumanie '
+  subtitle: '« De l''inconvénient d''être né » d''Emil Cioran '
+  description: "Roumanie\n\n« De l'inconvénient d'être né » d'Emil Cioran\n\nPrésentation : Augustin Trapenard\n "
   ageRating: 7
 - eventId:
   - 633905
@@ -327,6 +436,13 @@
   subtitle: 'Clara a 17 ans aujourd''hui. En vue d''une surprise et pour faire diversion, son père, Gilles, l''entraîne sur un parking au milieu d '
   description: "Clara a 17 ans aujourd'hui. En vue d'une surprise et pour faire diversion, son père, Gilles, l'entraîne sur un parking au milieu de nulle part pour une leçon de conduite. Rien ne se passera comme prévu.\n\nRéalisation, scénario : Sara Dufossé (Belgique, 2025)\nDistribution : Enola Bourgeois (Clara), Gaël Soudron (Gilles), Louise Manteau (Annette), Eliot Petit (Eliot), Nathan Petit (Nathan)\nGenre : comédie\nPalmarès : sélectionné au Brussels Short Film Festival (Belgique, 2025)\n "
   ageRating: 7
+- eventId: 711037
+  start: 2026-11-04T14:41:00Z
+  stop: 2026-11-04T14:54:00Z
+  title: 'En voiture Clara '
+  subtitle: 'Clara a 17 ans aujourd''hui. En vue d''une surprise et pour faire diversion, son père, Gilles, l''entraîne sur un parking au milieu d '
+  description: "Clara a 17 ans aujourd'hui. En vue d'une surprise et pour faire diversion, son père, Gilles, l'entraîne sur un parking au milieu de nulle part pour une leçon de conduite. Rien ne se passera comme prévu.\n\nRéalisation, scénario : Sara Dufossé (Belgique, 2025)\nDistribution : Enola Bourgeois (Clara), Gaël Soudron (Gilles), Louise Manteau (Annette), Eliot Petit (Eliot), Nathan Petit (Nathan)\nGenre : comédie\nPalmarès : sélectionné au Brussels Short Film Festival (Belgique, 2025)\n "
+  ageRating: 7
 - eventId:
   - 633908
   - 771862
@@ -335,10 +451,22 @@
   title: 'La céramiste Yuko Kuramatsu '
   subtitle: ' '
   ageRating: 7
+- eventId: 711038
+  start: 2026-11-04T14:57:00Z
+  stop: 2026-11-04T15:03:00Z
+  title: 'La céramiste Yuko Kuramatsu '
+  subtitle: ' '
+  ageRating: 7
 - eventId:
   - 633915
   - 771863
   start: 2026-11-04T15:00:00Z
+  stop: 2026-11-04T15:11:00Z
+  title: 'Le maxi courant d''air '
+  subtitle: ' '
+  ageRating: 7
+- eventId: 711039
+  start: 2026-11-04T15:03:00Z
   stop: 2026-11-04T15:11:00Z
   title: 'Le maxi courant d''air '
   subtitle: ' '
@@ -351,10 +479,22 @@
   title: 'Ça déménage '
   subtitle: ' '
   ageRating: 7
+- eventId: 711040
+  start: 2026-11-04T15:14:00Z
+  stop: 2026-11-04T15:22:00Z
+  title: 'Ça déménage '
+  subtitle: ' '
+  ageRating: 7
 - eventId:
   - 633917
   - 771865
   start: 2026-11-04T15:22:00Z
+  stop: 2026-11-04T15:33:00Z
+  title: 'Hibou truffier '
+  subtitle: ' '
+  ageRating: 7
+- eventId: 711041
+  start: 2026-11-04T15:25:00Z
   stop: 2026-11-04T15:33:00Z
   title: 'Hibou truffier '
   subtitle: ' '
@@ -367,6 +507,12 @@
   title: 'La colère de Bélénos '
   subtitle: ' '
   ageRating: 7
+- eventId: 711042
+  start: 2026-11-04T15:36:00Z
+  stop: 2026-11-04T15:44:00Z
+  title: 'La colère de Bélénos '
+  subtitle: ' '
+  ageRating: 7
 - eventId:
   - 633919
   - 771867
@@ -375,14 +521,34 @@
   title: 'Fête médiévale '
   subtitle: ' '
   ageRating: 7
+- eventId: 711043
+  start: 2026-11-04T15:47:00Z
+  stop: 2026-11-04T16:00:00Z
+  title: 'Fête médiévale '
+  subtitle: ' '
+  ageRating: 7
 - eventId:
   - 633920
   - 771868
   start: 2026-11-04T16:00:00Z
-  stop: 2026-11-04T16:51:00Z
+  stop: 2026-11-04T16:03:00Z
   title: 'Manifestations / Pénurie de foin / Élections en Israël / Gypaète '
   subtitle: 'La Suisse peine à nourrir ses bêtes après un été caniculaire et le foin s''arrache à prix d''or. Plus de 600 000 jeunes Israéliens v '
   description: "Au sommaire : \n\nC'est que le début : la contestation\nLa contestation enfle dans toute l'Europe. En France, la journée de mobilisation du 24 octobre s'est déroulée sans incident majeur mais les violences et les pillages de la semaine précédente ont marqué les esprits.\n\nL'histoire sans foin\nLa Suisse peine à nourrir ses bêtes après un été caniculaire et trop sec pour les pâturages. Les pluies automnales n'y changent pas grand-chose, le foin s'arrache à prix d'or et crée des tensions frontalières.\n\nGénération 7 octobre\nIls sont plus de 600 000 jeunes à voter pour la première fois aux élections législatives ; une grande partie d'entre eux ne croit plus à la paix et veut la sécurité par-dessus tout. Dans une société polarisée à l'extrême, ce virage à droite divise aussi les familles. \nInvitée : Béatrice Guelpa, journaliste, envoyée spéciale en Israël\n\nLe grand oiseau va sortir\nC'est le retour en force d'un géant des Alpes : naguère estampillé oiseau de mauvais augure, soi-disant kidnappeur de mouton ou d'enfants, il avait disparu pendant plus d'un siècle. Nous avons suivi la réintroduction de jeunes gypaètes, du nid à l'air libre, avec les dangers, les deuils mais aussi les victoires. \n\nPrésentation : Catherine Sommer\n "
+  ageRating: 7
+- eventId: 711044
+  start: 2026-11-04T16:03:00Z
+  stop: 2026-11-04T16:50:00Z
+  title: 'Manifestations / Pénurie de foin / Élections en Israël / Gypaète '
+  subtitle: 'La Suisse peine à nourrir ses bêtes après un été caniculaire et le foin s''arrache à prix d''or. Plus de 600 000 jeunes Israéliens v '
+  description: "Au sommaire : \n\nC'est que le début : la contestation\nLa contestation enfle dans toute l'Europe. En France, la journée de mobilisation du 24 octobre s'est déroulée sans incident majeur mais les violences et les pillages de la semaine précédente ont marqué les esprits.\n\nL'histoire sans foin\nLa Suisse peine à nourrir ses bêtes après un été caniculaire et trop sec pour les pâturages. Les pluies automnales n'y changent pas grand-chose, le foin s'arrache à prix d'or et crée des tensions frontalières.\n\nGénération 7 octobre\nIls sont plus de 600 000 jeunes à voter pour la première fois aux élections législatives ; une grande partie d'entre eux ne croit plus à la paix et veut la sécurité par-dessus tout. Dans une société polarisée à l'extrême, ce virage à droite divise aussi les familles. \nInvitée : Béatrice Guelpa, journaliste, envoyée spéciale en Israël\n\nLe grand oiseau va sortir\nC'est le retour en force d'un géant des Alpes : naguère estampillé oiseau de mauvais augure, soi-disant kidnappeur de mouton ou d'enfants, il avait disparu pendant plus d'un siècle. Nous avons suivi la réintroduction de jeunes gypaètes, du nid à l'air libre, avec les dangers, les deuils mais aussi les victoires. \n\nPrésentation : Catherine Sommer\n "
+  ageRating: 7
+- eventId: 711045
+  start: 2026-11-04T16:50:00Z
+  stop: 2026-11-04T16:57:00Z
+  title: 'Repas récup'' avec vue '
+  subtitle: 'Anouck fait une halte aux Rochers de Naye et prépare une recette à partir des restes du repas de la veille. Avec finesse, elle all '
+  description: "Repas récup' avec vue\n\nAnouck fait une halte aux Rochers de Naye et prépare une recette à partir des restes du repas de la veille. Avec finesse, elle allie aliments cuits et crus et présente le chou kale.\n\nRéalisation : Maxime Von der Mühll (Suisse, 2023)\n "
   ageRating: 7
 - eventId:
   - 633921
@@ -397,6 +563,13 @@
   - 633922
   - 771870
   start: 2026-11-04T16:56:00Z
+  stop: 2026-11-04T17:00:00Z
+  title: 'Roumanie '
+  subtitle: '« De l''inconvénient d''être né » d''Emil Cioran '
+  description: "Roumanie\n\n« De l'inconvénient d'être né » d'Emil Cioran\n\nPrésentation : Augustin Trapenard\n "
+  ageRating: 7
+- eventId: 711046
+  start: 2026-11-04T16:57:00Z
   stop: 2026-11-04T17:00:00Z
   title: 'Roumanie '
   subtitle: '« De l''inconvénient d''être né » d''Emil Cioran '
@@ -460,6 +633,12 @@
   title: 'TENDANCE XXI EXPRESS SAISON 11-EP005-AMI '
   subtitle: ' '
   ageRating: 7
+- eventId: 711002
+  start: 2026-11-04T18:47:00Z
+  stop: 2026-11-04T19:00:00Z
+  title: 'TENDANCE XXI EXPRESS SAISON 11-EP005-AMI '
+  subtitle: ' '
+  ageRating: 7
 - eventId:
   - 633939
   - 771878
@@ -476,6 +655,12 @@
   title: '« Mémoires d''outre-tombe » (François-René de Chateaubriand) '
   subtitle: ' '
   ageRating: 7
+- eventId: 711003
+  start: 2026-11-04T19:27:00Z
+  stop: 2026-11-04T19:30:00Z
+  title: '« Mémoires d''outre-tombe » (François-René de Chateaubriand) '
+  subtitle: ' '
+  ageRating: 7
 - eventId:
   - 633941
   - 771880
@@ -488,7 +673,7 @@
   - 633942
   - 771881
   start: 2026-11-04T20:00:00Z
-  stop: 2026-11-04T20:03:00Z
+  stop: 2026-11-04T20:04:00Z
   title: 'ROUTE DU RHUM - 04/11/2026 '
   subtitle: ' '
   ageRating: 7
@@ -496,6 +681,13 @@
   - 633943
   - 771882
   start: 2026-11-04T20:03:00Z
+  stop: 2026-11-04T21:33:00Z
+  title: 'Un nuage entre les dents '
+  subtitle: 'Malisard et Prévot, reporters pour la presse à sensation, sillonnent Paris à la recherche d''un scoop. Ce jour-là, les deux compère '
+  description: "Malisard et Prévot, reporters pour la presse à sensation, sillonnent Paris à la recherche d'un scoop. Ce jour-là, les deux compères doivent récupérer les garçons de Prévot à l'école, lesquels profitent d'un moment d'inattention de leur père pour s'esquiver. Croyant à un enlèvement, Malisard et Prévot alertent les médias...\n\nRéalisation : Marco Pico (France, 1974)\nScénario : Edgar de Bresson, Marco Pico\nDistribution : Philippe Noiret (Malisard), Pierre Richard (Prévot), Claude Piéplu (le directeur du journal), Jacques Denis (un journaliste)\nGenre : comédie\n "
+  ageRating: 7
+- eventId: 711004
+  start: 2026-11-04T20:04:00Z
   stop: 2026-11-04T21:33:00Z
   title: 'Un nuage entre les dents '
   subtitle: 'Malisard et Prévot, reporters pour la presse à sensation, sillonnent Paris à la recherche d''un scoop. Ce jour-là, les deux compère '
@@ -509,6 +701,12 @@
   title: 'EDITION DU 04/11/2026 - JT MONACO '
   subtitle: ' '
   ageRating: 7
+- eventId: 711005
+  start: 2026-11-04T21:35:00Z
+  stop: 2026-11-04T22:03:00Z
+  title: 'EDITION DU 04/11/2026 - JT MONACO '
+  subtitle: ' '
+  ageRating: 7
 - eventId:
   - 633952
   - 771884
@@ -518,10 +716,23 @@
   subtitle: 'Marie-Line, dynamique et joyeuse, mène une vie précaire au Havre et s''occupe de son père dépressif. Après une dispute avec son pet '
   description: "Marie-Line, dynamique et joyeuse, mène une vie précaire au Havre et s'occupe de son père dépressif. Après une dispute avec son petit ami, elle doit verser des dommages et intérêts et perd son emploi. Le juge du tribunal, sans permis de conduire, lui propose de devenir son chauffeur. \n\nRéalisation : Jean-Pierre Améris (France, 2023)\nScénario : Marion Michau, Jean-Pierre Améris\nDistribution : Louane Emera (Marie-Line), Michel Blanc (le juge), Victor Belmondo (Alexandre), Philippe Rebbot (le père), Nathalie Richard (Evelyne), Alexandra Gentil (Johanna), Ekatarina Rusnak (Gala)\nGenre : comédie dramatique "
   ageRating: 7
+- eventId: 711006
+  start: 2026-11-04T22:07:00Z
+  stop: 2026-11-04T23:43:00Z
+  title: 'Marie-Line et son juge '
+  subtitle: 'Marie-Line, dynamique et joyeuse, mène une vie précaire au Havre et s''occupe de son père dépressif. Après une dispute avec son pet '
+  description: "Marie-Line, dynamique et joyeuse, mène une vie précaire au Havre et s'occupe de son père dépressif. Après une dispute avec son petit ami, elle doit verser des dommages et intérêts et perd son emploi. Le juge du tribunal, sans permis de conduire, lui propose de devenir son chauffeur. \n\nRéalisation : Jean-Pierre Améris (France, 2023)\nScénario : Marion Michau, Jean-Pierre Améris\nDistribution : Louane Emera (Marie-Line), Michel Blanc (le juge), Victor Belmondo (Alexandre), Philippe Rebbot (le père), Nathalie Richard (Evelyne), Alexandra Gentil (Johanna), Ekatarina Rusnak (Gala)\nGenre : comédie dramatique "
+  ageRating: 7
 - eventId:
   - 633953
   - 771885
   start: 2026-11-04T23:43:00Z
+  stop: 2026-11-05T00:09:00Z
+  title: 'EDITION DU 04/11/2026 '
+  subtitle: ' '
+  ageRating: 7
+- eventId: 711007
+  start: 2026-11-04T23:47:00Z
   stop: 2026-11-05T00:09:00Z
   title: 'EDITION DU 04/11/2026 '
   subtitle: ' '
