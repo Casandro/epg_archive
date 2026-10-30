@@ -7,9 +7,17 @@
 - eventId: 680364
   start: 2026-11-04T00:02:00Z
   stop: 2026-11-04T00:30:00Z
-  title: The Day
-  subtitle: News in Review
+  title: Close up
+  subtitle: |-
+    When ICE Comes Knocking
+
+    The Fight Against Trump's Deportations
   widescreen: true
+  description: |-
+    Rodney Taylor was just two years old when he arrived in the US from Liberia on a medical visa. By the age of 10, both his legs had been amputated. Georgia became his home, where he raised a family and worked as a barber. But his immigration status remained unresolved.
+    In early 2025, Rodney was arrested by officers from U.S. Immigration and Customs Enforcement (ICE). The arrest was based on a burglary conviction from his youth. The state of Georgia had already pardoned him for that offence in 2010.
+    Rodney spent 15 months behind bars at the Stewart Detention Center in southern Georgia. Today, he's back with his family. But he faces deportation. And his future in the country he has called home for almost his entire life hangs in the balance.
+    Meanwhile, some 200 kilometers (125 miles) north, the Trump administration was planning a massive new ICE detention center to hold up to 10,000 people. But in Social Circle, a small town in the heart of Trump country, the plans sparked an unexpected backlash. A progressive activist and a Trump supporter found themselves on the same side of a political battle, united by one goal: to stop the detention center from being built.
 - eventId: 680365
   start: 2026-11-04T00:30:00Z
   stop: 2026-11-04T01:00:00Z
@@ -22,7 +30,9 @@
   title: DW News
   subtitle: News
   widescreen: true
-- eventId: 680367
+- eventId:
+  - 680367
+  - 709459
   start: 2026-11-04T01:02:00Z
   stop: 2026-11-04T01:15:00Z
   title: DW News Focus
@@ -43,37 +53,58 @@
 
     At the same time, the state continues to crack down hard on any form of undesirable behavior. Archival footage and reports from refugee organizations document public trials of young people caught consuming South Korean pop culture. International experts emphasize that a change in the country's public image by no means signifies an end to surveillance, punishment and censorship.
   widescreen: true
-- eventId: 680369
+- eventId: 709460
+  start: 2026-11-04T01:15:00Z
+  stop: 2026-11-04T02:00:00Z
+  title: Homelessness in Los Angeles
+  subtitle: The Gap Between the Rich and the Poor
+  description: |-
+    Even before the devastating fires of January 2025, affordable housing was in short supply in Los Angeles. Even people earning an average full-time salary are at risk of ending up on the streets. In 2024, the number of homeless people in Los Angeles County was well over 75,000. The chronic housing shortage is driving residents to get creative, while also giving rise to new business ideas: Gregory sells camper vans to working people who can't afford to rent an apartment. He came up with the idea after he himself had to live in a camper van for a while. Car mechanic Roy also lives in a mobile home. The 64-year-old has to supplement his modest pension by working at an auto repair shop.
+    Since 2012, Elvina, who immigrated to the US, has been renting out beds in large communal dorms for 55 dollars a night. It's a popular solution, and many long-term residents enjoy the social atmosphere. Elvina now operates seven of these facilities throughout California. Meanwhile Shelton, a real estate agent, is living a picture-perfect American dream. She sells luxury homes and lives with her husband and children in the upscale Brentwood neighborhood. It took more than just hard work to achieve her success: the 42-year-old also had to overcome her alcohol addiction. James has now made it off the streets after living for a time in the notorious Skid Row district in the heart of downtown L.A. He wants to give something back, so once a week he offers free haircuts to those who need them. This documentary looks at varying lifestyles and living conditions in a city where the gap between rich and poor is growing ever wider.
+  widescreen: true
+- eventId:
+  - 680369
+  - 709461
   start: 2026-11-04T02:00:00Z
   stop: 2026-11-04T02:02:00Z
   title: DW News
   subtitle: News
   widescreen: true
-- eventId: 680370
+- eventId:
+  - 680370
+  - 709462
   start: 2026-11-04T02:02:00Z
   stop: 2026-11-04T02:30:00Z
   title: The Day
   subtitle: News in Review
   widescreen: true
-- eventId: 680371
+- eventId:
+  - 680371
+  - 709463
   start: 2026-11-04T02:30:00Z
   stop: 2026-11-04T03:00:00Z
   title: Global Us
   subtitle: 'China Tourism Boom: Growth, Control and Crisis'
   description: China’s tourism is surging—yet crisis and control are slowing growth. Kruger National Park celebrates 100 years of safari. Florida sees fewer international tourists—are politics playing a role?
   widescreen: true
-- eventId: 680372
+- eventId:
+  - 680372
+  - 709464
   start: 2026-11-04T03:00:00Z
   stop: 2026-11-04T03:02:00Z
   title: DW News
   subtitle: News
   widescreen: true
-- eventId: 680373
+- eventId:
+  - 680373
+  - 709465
   start: 2026-11-04T03:02:00Z
   stop: 2026-11-04T03:15:00Z
   title: DW News Focus
   widescreen: true
-- eventId: 680374
+- eventId:
+  - 680374
+  - 709466
   start: 2026-11-04T03:15:00Z
   stop: 2026-11-04T03:30:00Z
   title: Best of DW-online Content
@@ -100,7 +131,7 @@
   start: 2026-11-04T04:15:00Z
   stop: 2026-11-04T05:00:00Z
   title: 'North Korea: Propaganda and the Next Generation'
-  subtitle: The Kim Dynasty
+  subtitle: The Gap Between the Rich and the Poor
   description: |-
     Luxury resorts, an international marathon in the capital and a ruling family portrayed in a surprisingly approachable light: Recently, North Korea has been showing the world a very different face. Is the country, up until now known primarily for repression and isolation, undergoing an image change? This documentary looks behind the scenes and reveals the contradictions of a country caught between cautious openness and unrelenting control.
 
@@ -191,7 +222,9 @@
   title: DW News
   subtitle: News
   widescreen: true
-- eventId: 669977
+- eventId:
+  - 669977
+  - 709467
   start: 2026-11-04T08:02:00Z
   stop: 2026-11-04T08:30:00Z
   title: The 77 Percent
@@ -204,6 +237,12 @@
   title: Eco India
   subtitle: 'Invisible Poisons: How can we stay safe?'
   description: From heavy metals in Kashmir lakes to arsenic in Bihar drinking water - and polluted farmland across continents - how can we address the toxic threat?
+  widescreen: true
+- eventId: 709468
+  start: 2026-11-04T08:30:00Z
+  stop: 2026-11-04T08:45:00Z
+  title: Business
+  description: We take an inside look at how Americans view the economy, politics, and their financial future.
   widescreen: true
 - eventId: 669931
   start: 2026-11-04T09:00:00Z
@@ -251,6 +290,16 @@
   stop: 2026-11-04T10:45:00Z
   title: Close up
   widescreen: true
+  subtitle: |-
+    Decoding Conflicts
+
+    Sudan: The Forgotten War
+  description: |-
+    War has raged in Sudan since April 2023, when the paramilitary Rapid Support Forces began fighting the Sudanese army. Civilians have paid the price for this power struggle. The situation in Darfur is particularly dire, where experts and the United Nations have long warned of signs of genocide.
+
+    Why is this war receiving so little international attention? What impact will cuts to international aid have on a country facing such an immense humanitarian crisis? And what role are outside powers such as the United Arab Emirates, Egypt, Russia and the United States playing in the conflict? What interests drive these governments to support one side or the other with weapons and funding?
+
+    Accounts from those affected reveal the devastating impact of the war on the people of Sudan. A journalist from El Fasher, forced to flee the city, discovers videos of murdered family members and friends circulating on social media. A young doctor spent years performing surgery in trenches or amid bombardment. Experts had warned of a looming humanitarian catastrophe for years. Yet the crisis has continued to escalate. Meanwhile, young Sudanese people are fighting to draw the world's attention to what is happening in their country. This film traces the origins of the conflict, who is fueling it, and what responsibility Europe shares.
 - eventId: 669936
   start: 2026-11-04T10:45:00Z
   stop: 2026-11-04T11:00:00Z
@@ -289,7 +338,7 @@
   widescreen: true
 - eventId: 669979
   start: 2026-11-04T12:00:00Z
-  stop: 2026-11-04T12:02:00Z
+  stop: 2026-11-04T12:45:00Z
   title: DW News
   subtitle: News
   widescreen: true
@@ -307,6 +356,12 @@
     Even before the devastating fires of January 2025, affordable housing was in short supply in Los Angeles. Even people earning an average full-time salary are at risk of ending up on the streets. In 2024, the number of homeless people in Los Angeles County was well over 75,000. The chronic housing shortage is driving residents to get creative, while also giving rise to new business ideas: Gregory sells camper vans to working people who can't afford to rent an apartment. He came up with the idea after he himself had to live in a camper van for a while. Car mechanic Roy also lives in a mobile home. The 64-year-old has to supplement his modest pension by working at an auto repair shop.
     Since 2012, Elvina, who immigrated to the US, has been renting out beds in large communal dorms for 55 dollars a night. It's a popular solution, and many long-term residents enjoy the social atmosphere. Elvina now operates seven of these facilities throughout California. Meanwhile Shelton, a real estate agent, is living a picture-perfect American dream. She sells luxury homes and lives with her husband and children in the upscale Brentwood neighborhood. It took more than just hard work to achieve her success: the 42-year-old also had to overcome her alcohol addiction. James has now made it off the streets after living for a time in the notorious Skid Row district in the heart of downtown L.A. He wants to give something back, so once a week he offers free haircuts to those who need them. This documentary looks at varying lifestyles and living conditions in a city where the gap between rich and poor is growing ever wider.
   widescreen: true
+- eventId: 709469
+  start: 2026-11-04T12:45:00Z
+  stop: 2026-11-04T13:00:00Z
+  title: Reporter
+  subtitle: On Location
+  widescreen: true
 - eventId: 669982
   start: 2026-11-04T13:00:00Z
   stop: 2026-11-04T13:02:00Z
@@ -321,7 +376,7 @@
 - eventId: 669984
   start: 2026-11-04T13:15:00Z
   stop: 2026-11-04T13:30:00Z
-  title: REV
+  title: Interview
   description: 'This report traces Africa’s mobility journey from the era of Mansa Musa and colonial transport networks to Japanese cars, Indian motorcycles, and today’s electric revolution. As Chinese companies bring batteries, manufacturing expertise and investment to the continent, a bigger question emerges: will Africa simply adopt these technologies, or help build and shape them? Can Uganda become a blueprint for Africa’s e-mobility future?'
   widescreen: true
 - eventId: 669985
@@ -333,7 +388,7 @@
   widescreen: true
 - eventId: 669986
   start: 2026-11-04T14:00:00Z
-  stop: 2026-11-04T14:03:00Z
+  stop: 2026-11-04T14:15:00Z
   title: DW News
   subtitle: News
   widescreen: true
@@ -358,6 +413,15 @@
     One of the film's protagonists is Dr Lou Ortenzio, who was himself part of this machinery: he brought the drug to his town of Clarksburg before becoming addicted himself. Former sales representatives, now whistleblowers, report how they lied to doctors and claimed that Oxy was not addictive.
     A perfectly oiled machine got millions of Americans hooked - and deceived an entire country. Prosecutors like Maura Healey describe their fight to stop Purdue and bring the Sacklers to justice. The investigations reveal a network of power and influence: Purdue secretly received support from McKinsey, consulting firm to the powerful, and from Publicis, a major advertising agency.
     Through exclusive interviews, insider accounts and previously unpublished archive material, this two-part documentary reveals how the Sacklers bribed regulators, pushed Oxy and evaded justice despite overwhelming evidence. The two-part documentary tells the story of a crisis that continues to devastate parts of American society to this day.
+  widescreen: true
+- eventId: 709470
+  start: 2026-11-04T14:15:00Z
+  stop: 2026-11-04T15:00:00Z
+  title: Homelessness in Los Angeles
+  subtitle: The Gap Between the Rich and the Poor
+  description: |-
+    Even before the devastating fires of January 2025, affordable housing was in short supply in Los Angeles. Even people earning an average full-time salary are at risk of ending up on the streets. In 2024, the number of homeless people in Los Angeles County was well over 75,000. The chronic housing shortage is driving residents to get creative, while also giving rise to new business ideas: Gregory sells camper vans to working people who can't afford to rent an apartment. He came up with the idea after he himself had to live in a camper van for a while. Car mechanic Roy also lives in a mobile home. The 64-year-old has to supplement his modest pension by working at an auto repair shop.
+    Since 2012, Elvina, who immigrated to the US, has been renting out beds in large communal dorms for 55 dollars a night. It's a popular solution, and many long-term residents enjoy the social atmosphere. Elvina now operates seven of these facilities throughout California. Meanwhile Shelton, a real estate agent, is living a picture-perfect American dream. She sells luxury homes and lives with her husband and children in the upscale Brentwood neighborhood. It took more than just hard work to achieve her success: the 42-year-old also had to overcome her alcohol addiction. James has now made it off the streets after living for a time in the notorious Skid Row district in the heart of downtown L.A. He wants to give something back, so once a week he offers free haircuts to those who need them. This documentary looks at varying lifestyles and living conditions in a city where the gap between rich and poor is growing ever wider.
   widescreen: true
 - eventId: 669940
   start: 2026-11-04T15:00:00Z
@@ -393,7 +457,7 @@
 - eventId: 669945
   start: 2026-11-04T17:15:00Z
   stop: 2026-11-04T17:30:00Z
-  title: REV
+  title: Interview
   description: 'This report traces Africa’s mobility journey from the era of Mansa Musa and colonial transport networks to Japanese cars, Indian motorcycles, and today’s electric revolution. As Chinese companies bring batteries, manufacturing expertise and investment to the continent, a bigger question emerges: will Africa simply adopt these technologies, or help build and shape them? Can Uganda become a blueprint for Africa’s e-mobility future?'
   widescreen: true
 - eventId: 669946
@@ -401,6 +465,16 @@
   stop: 2026-11-04T18:00:00Z
   title: Close up
   widescreen: true
+  subtitle: |-
+    Decoding Conflicts
+
+    Sudan: The Forgotten War
+  description: |-
+    War has raged in Sudan since April 2023, when the paramilitary Rapid Support Forces began fighting the Sudanese army. Civilians have paid the price for this power struggle. The situation in Darfur is particularly dire, where experts and the United Nations have long warned of signs of genocide.
+
+    Why is this war receiving so little international attention? What impact will cuts to international aid have on a country facing such an immense humanitarian crisis? And what role are outside powers such as the United Arab Emirates, Egypt, Russia and the United States playing in the conflict? What interests drive these governments to support one side or the other with weapons and funding?
+
+    Accounts from those affected reveal the devastating impact of the war on the people of Sudan. A journalist from El Fasher, forced to flee the city, discovers videos of murdered family members and friends circulating on social media. A young doctor spent years performing surgery in trenches or amid bombardment. Experts had warned of a looming humanitarian catastrophe for years. Yet the crisis has continued to escalate. Meanwhile, young Sudanese people are fighting to draw the world's attention to what is happening in their country. This film traces the origins of the conflict, who is fueling it, and what responsibility Europe shares.
 - eventId: 680382
   start: 2026-11-04T18:00:00Z
   stop: 2026-11-04T18:30:00Z
@@ -435,7 +509,7 @@
 - eventId: 680386
   start: 2026-11-04T19:15:00Z
   stop: 2026-11-04T19:30:00Z
-  title: REV
+  title: Interview
   description: 'This report traces Africa’s mobility journey from the era of Mansa Musa and colonial transport networks to Japanese cars, Indian motorcycles, and today’s electric revolution. As Chinese companies bring batteries, manufacturing expertise and investment to the continent, a bigger question emerges: will Africa simply adopt these technologies, or help build and shape them? Can Uganda become a blueprint for Africa’s e-mobility future?'
   widescreen: true
 - eventId: 680387
@@ -504,7 +578,7 @@
 - eventId: 670035
   start: 2026-11-04T23:15:00Z
   stop: 2026-11-04T23:30:00Z
-  title: REV
+  title: Interview
   description: 'This report traces Africa’s mobility journey from the era of Mansa Musa and colonial transport networks to Japanese cars, Indian motorcycles, and today’s electric revolution. As Chinese companies bring batteries, manufacturing expertise and investment to the continent, a bigger question emerges: will Africa simply adopt these technologies, or help build and shape them? Can Uganda become a blueprint for Africa’s e-mobility future?'
   widescreen: true
 - eventId: 670036
