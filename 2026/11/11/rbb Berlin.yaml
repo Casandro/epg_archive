@@ -209,6 +209,7 @@
   audiodesc: true
   description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Berlin und Brandenburg und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
   subtitle: Böses Blut
+  ageRating: 12
 - eventId:
   - 1403482
   - 1590806
@@ -240,6 +241,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 540812
   - 556400
@@ -328,6 +330,8 @@
   audiodesc: true
   description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Berlin und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
   subtitle: Die Kranführerin
+  genre:
+  - '16'
 - eventId:
   - 1012326
   - 1224043
@@ -362,6 +366,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 541800
   - 557383
@@ -393,6 +398,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 541802
   - 557385
@@ -425,6 +431,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 541804
   - 557387
@@ -617,13 +625,15 @@
   - 980089
   start: 2026-11-11T22:45:00Z
   stop: 2026-11-11T23:30:00Z
-  title: Adolf Kanter - Der Spion, der zuviel wusste
+  title: Adolf Kanter - Der Spion, der zu viel wusste
   subtitle: Film von Claus Räfle
   episodeUri: crid://onid-8468/e/6abd895a09d986e343dd1b4a
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId:
   - 547358
   - 560319
