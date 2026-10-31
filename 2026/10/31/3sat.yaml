@@ -843,6 +843,7 @@
 - eventId:
   - 730836
   - 730862
+  - 735306
   start: 2026-10-31T13:03:00Z
   stop: 2026-10-31T13:32:00Z
   title: Ländermagazin
@@ -857,6 +858,19 @@
   widescreen: true
   hd: true
   audiodesc: true
+- eventId: 735283
+  start: 2026-10-31T13:04:00Z
+  stop: 2026-10-31T13:32:00Z
+  title: Ländermagazin
+  subtitle: Heute aus Hessen
+  description: |-
+    Offline sein, nicht auf dem Handy erreichbar: Darauf freut sich Theaterregisseur Jan-Christoph Gockel, wenn er für seine Inszenierungen probt.
+
+    Etwa für das Anti-Kriegsstück "Die Abenteuer des braven Soldaten Schwejk" am Schauspiel Frankfurt. Theater als "Offline-Club"! Das "Ländermagazin" aus Hessen stellt den Regisseur und seine Arbeit vor.
+    HD-Produktion
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 543772
   - 571909
@@ -939,7 +953,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 735285
+- eventId:
+  - 735285
+  - 735301
   start: 2026-10-31T14:02:00Z
   stop: 2026-10-31T14:28:00Z
   title: Natur im Garten (6/10)
@@ -954,7 +970,11 @@
   - '144'
   widescreen: true
   subtitled: true
-- eventId: 735286
+  hd: true
+  audiodesc: true
+- eventId:
+  - 735286
+  - 735302
   start: 2026-10-31T14:28:00Z
   stop: 2026-10-31T14:48:00Z
   title: Im Flug über Nordfrankreich
@@ -968,7 +988,11 @@
   genre:
   - '144'
   widescreen: true
-- eventId: 735287
+  hd: true
+  audiodesc: true
+- eventId:
+  - 735287
+  - 735303
   start: 2026-10-31T14:48:00Z
   stop: 2026-10-31T15:33:00Z
   title: Die Farben der Tierwelt (1/2)
@@ -982,6 +1006,8 @@
   genre:
   - '112'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 730839
   - 730865
@@ -1000,7 +1026,9 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 735288
+- eventId:
+  - 735288
+  - 735304
   start: 2026-10-31T15:33:00Z
   stop: 2026-10-31T16:17:00Z
   title: Die Farben der Tierwelt (2/2)
@@ -1014,6 +1042,8 @@
   genre:
   - '112'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 730840
   - 730866
@@ -1032,7 +1062,9 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 735289
+- eventId:
+  - 735289
+  - 735305
   start: 2026-10-31T16:17:00Z
   stop: 2026-10-31T18:00:00Z
   title: Uli, der Pächter
@@ -1055,6 +1087,8 @@
   genre:
   - '16'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 730841
   - 730867
