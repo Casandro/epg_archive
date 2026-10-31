@@ -211,7 +211,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 671024
+- eventId:
+  - 671024
+  - 728463
   start: 2026-11-25T18:59:00Z
   stop: 2026-11-25T19:15:00Z
   title: Tagesschau
@@ -219,6 +221,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '32'
 - eventId:
   - 659110
   - 700219
