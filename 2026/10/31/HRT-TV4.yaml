@@ -2372,7 +2372,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 740751
+- eventId:
+  - 740751
+  - 740836
   start: 2026-10-31T21:13:00Z
   stop: 2026-10-31T21:40:00Z
   title: 'Naši ljudi, njihova mjesta: Buenos Aires'
@@ -2412,12 +2414,13 @@
   description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
 - eventId: 739594
   start: 2026-10-31T21:42:00Z
-  stop: 2026-10-31T21:44:00Z
-  title: HRT100 Vremeplov
+  stop: 2026-10-31T22:04:00Z
+  title: 'Studio 4: U fokusu'
   subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
   ageRating: 4
   genre:
   - '160'
+  description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
 - eventId: 739053
   start: 2026-10-31T21:43:00Z
   stop: 2026-10-31T21:45:00Z
@@ -2479,7 +2482,7 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 661113
   start: 2026-10-31T22:20:00Z
-  stop: 2026-10-31T22:30:00Z
+  stop: 2026-10-31T22:29:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -2490,6 +2493,7 @@
   - 736958
   - 738047
   - 739055
+  - 740837
   start: 2026-10-31T22:29:00Z
   stop: 2026-10-31T22:50:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -2540,6 +2544,7 @@
   - 736959
   - 738048
   - 739056
+  - 740838
   start: 2026-10-31T22:51:00Z
   stop: 2026-10-31T22:57:00Z
   title: '#REPORTAŽE: Sencatle'
@@ -2566,6 +2571,7 @@
   - 736960
   - 738049
   - 739057
+  - 740839
   start: 2026-10-31T22:57:00Z
   stop: 2026-10-31T23:00:00Z
   title: 'Bez komentara: Meksiko - Investicijski plan za čistu vodu'
@@ -2573,7 +2579,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 661117
   start: 2026-10-31T23:00:00Z
-  stop: 2026-10-31T23:10:00Z
+  stop: 2026-10-31T23:09:00Z
   title: Vijesti flash
   subtitle: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   ageRating: 4
@@ -2584,6 +2590,7 @@
   - 736961
   - 738050
   - 739058
+  - 740840
   start: 2026-10-31T23:09:00Z
   stop: 2026-10-31T23:16:00Z
   title: Vijesti iz kulture
@@ -2610,6 +2617,7 @@
   - 736962
   - 738051
   - 739059
+  - 740841
   start: 2026-10-31T23:16:00Z
   stop: 2026-10-31T23:19:00Z
   title: 'Bez komentara: Češka - Bundeve u ZOOu'
