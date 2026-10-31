@@ -2036,7 +2036,7 @@
   - 715631
   - 722119
   start: 2026-10-31T17:01:00Z
-  stop: 2026-10-31T17:31:00Z
+  stop: 2026-10-31T17:32:00Z
   title: TV student
   subtitle: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
   description: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
@@ -2086,7 +2086,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 736953
+- eventId:
+  - 736953
+  - 738042
   start: 2026-10-31T17:32:00Z
   stop: 2026-10-31T17:51:00Z
   title: Regionalni dnevnik
@@ -2152,7 +2154,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 661094
   start: 2026-10-31T17:54:00Z
-  stop: 2026-10-31T17:55:00Z
+  stop: 2026-10-31T17:56:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -2169,6 +2171,12 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 738043
+  start: 2026-10-31T17:56:00Z
+  stop: 2026-10-31T18:00:00Z
+  title: Vrijeme svijet sutra
+  subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 661096
   start: 2026-10-31T18:00:00Z
@@ -2255,7 +2263,9 @@
   genre:
   - '160'
   description: Emisija Deutsche Wellea donosi odgovore na pitanje kako živjeti u digitalno doba.
-- eventId: 736955
+- eventId:
+  - 736955
+  - 738044
   start: 2026-10-31T19:46:00Z
   stop: 2026-10-31T19:57:00Z
   title: 'DW: Shift'
@@ -2274,7 +2284,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 736956
+- eventId:
+  - 736956
+  - 738045
   start: 2026-10-31T19:58:00Z
   stop: 2026-10-31T20:00:00Z
   title: 'Bez komentara: London - Bundeve u ZOOu'
@@ -2349,7 +2361,7 @@
   description: Buenos Aires je desetljećima bio prvo odredište tisuća hrvatskih iseljenika koji su stizali u Argentinu. Njih su pratili hrvatski svećenici i redovnice, pomažući im da sačuvaju vjeru, ali i da se snađu u novoj zemlji. Gotovo stoljeće poslije mnogo se toga promijenilo, ali tragove povezanosti s Hrvatskom i dalje je moguće pronaći. Vidljivi su u sačuvanim spomenicima, ali i u živom djelovanju pojedinaca hrvatskog podrijetla unutar Katoličke Crkve. S velečasnim Máximom Jurcinovicem, glasnogovornikom Argentinske biskupske konferencije, ulazimo u njezino sjedište i razgovaramo o papi Franji te izazovima suvremene Crkve. U Dock Sudu upoznajemo sestre Editu i Samuelu te otkrivamo kako je neumorno djelovanje Družbe sestara milosrdnica pridonijelo razvoju ove četvrti.
 - eventId: 661108
   start: 2026-10-31T21:42:00Z
-  stop: 2026-10-31T21:44:00Z
+  stop: 2026-10-31T21:45:00Z
   title: 'HRT100 Vremeplov: Antikomunistička zbivanja u Matici Hrvatskoj 1971.'
   subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
   ageRating: 4
@@ -2369,7 +2381,9 @@
   genre:
   - '160'
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
-- eventId: 736957
+- eventId:
+  - 736957
+  - 738046
   start: 2026-10-31T21:45:00Z
   stop: 2026-10-31T22:04:00Z
   title: 'Studio 4: U fokusu'
@@ -2404,14 +2418,16 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 661113
   start: 2026-10-31T22:20:00Z
-  stop: 2026-10-31T22:30:00Z
+  stop: 2026-10-31T22:29:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
   genre:
   - '32'
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 736958
+- eventId:
+  - 736958
+  - 738047
   start: 2026-10-31T22:29:00Z
   stop: 2026-10-31T22:50:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -2450,7 +2466,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 736959
+- eventId:
+  - 736959
+  - 738048
   start: 2026-10-31T22:51:00Z
   stop: 2026-10-31T22:57:00Z
   title: '#REPORTAŽE: Sencatle'
@@ -2469,7 +2487,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 736960
+- eventId:
+  - 736960
+  - 738049
   start: 2026-10-31T22:57:00Z
   stop: 2026-10-31T23:00:00Z
   title: 'Bez komentara: Meksiko - Investicijski plan za čistu vodu'
@@ -2477,14 +2497,16 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 661117
   start: 2026-10-31T23:00:00Z
-  stop: 2026-10-31T23:10:00Z
+  stop: 2026-10-31T23:09:00Z
   title: Vijesti flash
   subtitle: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   ageRating: 4
   genre:
   - '32'
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
-- eventId: 736961
+- eventId:
+  - 736961
+  - 738050
   start: 2026-10-31T23:09:00Z
   stop: 2026-10-31T23:16:00Z
   title: Vijesti iz kulture
@@ -2503,7 +2525,9 @@
   genre:
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 736962
+- eventId:
+  - 736962
+  - 738051
   start: 2026-10-31T23:16:00Z
   stop: 2026-10-31T23:19:00Z
   title: 'Bez komentara: Češka - Bundeve u ZOOu'
