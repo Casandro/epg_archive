@@ -170,6 +170,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: 'Moderation: Evelin König'
 - eventId:
   - 600935
   - 629518
@@ -177,32 +178,26 @@
   start: 2026-11-11T11:55:00Z
   stop: 2026-11-11T13:25:00Z
   title: Mit einem Rutsch ins Glück
-  subtitle: Spielfilm Deutschland 2003
+  subtitle: Fernsehfilm Deutschland 2003
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 601010
   - 629591
-  start: 2026-11-11T13:25:00Z
-  stop: 2026-11-11T14:10:00Z
-  title: Gefragt - Gejagt 980
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId: 788272
+  - 788272
   start: 2026-11-11T13:25:00Z
   stop: 2026-11-11T14:10:00Z
   title: Gefragt - Gejagt (980)
-  subtitle: 'Moderation: Alexander Bommes'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: 'Moderation: Alexander Bommes'
 - eventId:
   - 601011
   - 629592
@@ -216,6 +211,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 601076
   - 629649
@@ -349,8 +346,8 @@
   - 788310
   start: 2026-11-11T20:00:00Z
   stop: 2026-11-11T20:45:00Z
-  title: Die Ernährungs-Docs
-  subtitle: Fibromyalgie, Adipositas
+  title: Die Ernährungs-Docs (93)
+  subtitle: Adipositas und Reflux, Fibromyalgie
   widescreen: true
   subtitled: true
   hd: true
