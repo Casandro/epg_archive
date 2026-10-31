@@ -68,6 +68,26 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 723538
+  start: 2026-10-31T02:45:00Z
+  stop: 2026-10-31T03:00:00Z
+  title: Couleurs locales
+  description: (Rediffusion)
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 723555
+  start: 2026-10-31T03:00:00Z
+  stop: 2026-10-31T03:35:00Z
+  title: 19h30 - Signé
+  description: '"Langue des signes"'
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 667928
   start: 2026-10-31T03:05:00Z
   stop: 2026-10-31T03:20:00Z
@@ -88,11 +108,21 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 667930
-  start: 2026-10-31T03:50:00Z
-  stop: 2026-10-31T04:10:00Z
+- eventId: 723556
+  start: 2026-10-31T03:35:00Z
+  stop: 2026-10-31T03:50:00Z
   title: Couleurs locales
   description: (Rediffusion)
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 667930
+  start: 2026-10-31T03:50:00Z
+  stop: 2026-10-31T04:20:00Z
+  title: Couleurs locales
+  description: '"Langue des signes"'
   genre:
   - '33'
   widescreen: true
@@ -108,11 +138,21 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 667932
-  start: 2026-10-31T04:40:00Z
-  stop: 2026-10-31T04:55:00Z
+- eventId: 723557
+  start: 2026-10-31T04:20:00Z
+  stop: 2026-10-31T04:40:00Z
   title: Couleurs locales
   description: (Rediffusion)
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 667932
+  start: 2026-10-31T04:40:00Z
+  stop: 2026-10-31T05:10:00Z
+  title: Couleurs locales
+  description: '"Langue des signes"'
   genre:
   - '33'
   widescreen: true
@@ -139,11 +179,21 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 667934
-  start: 2026-10-31T05:25:00Z
-  stop: 2026-10-31T05:45:00Z
+- eventId: 723558
+  start: 2026-10-31T05:10:00Z
+  stop: 2026-10-31T05:25:00Z
   title: Couleurs locales
   description: (Rediffusion)
+  genre:
+  - '33'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 667934
+  start: 2026-10-31T05:25:00Z
+  stop: 2026-10-31T06:00:00Z
+  title: Couleurs locales
+  description: '"Langue des signes"'
   genre:
   - '33'
   widescreen: true
@@ -160,7 +210,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 658196
+- eventId:
+  - 658196
+  - 723560
   start: 2026-10-31T06:00:00Z
   stop: 2026-10-31T06:55:00Z
   title: RTS Info
