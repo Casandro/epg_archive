@@ -56,6 +56,7 @@
   - 735739
   - 737405
   - 738016
+  - 738277
   start: 2026-11-01T01:24:00Z
   stop: 2026-11-01T01:29:00Z
   title: '#REPORTAŽE'
@@ -76,6 +77,7 @@
   - 735740
   - 737406
   - 738017
+  - 738278
   start: 2026-11-01T01:29:00Z
   stop: 2026-11-01T01:33:00Z
   title: Bez komentara
@@ -103,7 +105,7 @@
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
 - eventId: 691857
   start: 2026-11-01T01:51:00Z
-  stop: 2026-11-01T01:56:00Z
+  stop: 2026-11-01T01:55:00Z
   title: 'Bez komentara: NY - Parada kostimiranih pasa uoči Noći vještica'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -115,6 +117,7 @@
   - 735741
   - 737407
   - 738018
+  - 738279
   start: 2026-11-01T01:55:00Z
   stop: 2026-11-01T02:00:00Z
   title: Poslovne vijesti
@@ -194,7 +197,9 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 738019
+- eventId:
+  - 738019
+  - 738280
   start: 2026-11-01T02:50:00Z
   stop: 2026-11-01T02:53:00Z
   title: '#REPORTAŽE'
@@ -217,7 +222,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 738020
+- eventId:
+  - 738020
+  - 738281
   start: 2026-11-01T02:53:00Z
   stop: 2026-11-01T02:55:00Z
   title: Bez komentara
@@ -281,7 +288,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 691873
   start: 2026-11-01T04:54:00Z
-  stop: 2026-11-01T04:56:00Z
+  stop: 2026-11-01T04:55:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -292,6 +299,7 @@
   - 691874
   - 735742
   - 737408
+  - 738282
   start: 2026-11-01T04:55:00Z
   stop: 2026-11-01T04:57:00Z
   title: Vrijeme Svijet danas
@@ -312,6 +320,7 @@
   - 691875
   - 735743
   - 737409
+  - 738283
   start: 2026-11-01T04:57:00Z
   stop: 2026-11-01T05:00:00Z
   title: Bez komentara
@@ -357,7 +366,7 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 691879
   start: 2026-11-01T05:18:00Z
-  stop: 2026-11-01T05:21:00Z
+  stop: 2026-11-01T05:20:00Z
   title: 'Bez komentara: Danska - Izrezbarene bundeve za Noć vještica'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -368,6 +377,7 @@
   - 691880
   - 735744
   - 737410
+  - 738284
   start: 2026-11-01T05:20:00Z
   stop: 2026-11-01T05:28:00Z
   title: 'Studio 4: Znanost'
@@ -388,6 +398,7 @@
   - 691881
   - 735745
   - 737411
+  - 738285
   start: 2026-11-01T05:28:00Z
   stop: 2026-11-01T05:30:00Z
   title: Bez komentara
@@ -408,6 +419,7 @@
   - 691882
   - 735746
   - 737412
+  - 738286
   start: 2026-11-01T05:30:00Z
   stop: 2026-11-01T05:56:00Z
   title: 'DW: U dobroj formi'
@@ -436,6 +448,7 @@
 - eventId:
   - 735747
   - 737413
+  - 738287
   start: 2026-11-01T05:56:00Z
   stop: 2026-11-01T06:00:00Z
   title: Bez komentara
@@ -1203,7 +1216,7 @@
   description: 'U ovotjednoj emisiji govorimo o uvođenju nove naknade na rukovanje malim paketima. Od 1. srpnja naplaćuje se fiksna carina na male pošiljke iz zemalja izvan EU-a, i to po vrsti robe. Ako su vam već i tri eura carine na male pakete iz Kine bila previše, dobro je znati da stiže novi trošak. Od 1. studenog uvodi se i naknada za rukovanje paketima. Iznosit će dva eura. O tome razgovaramo s Melitom Buljan, savjetnicom u Sektoru za carinski sustav u Carinskoj upravi. Urednica i voditeljica: Sanja Smiljanić Grubišić'
 - eventId: 691940
   start: 2026-11-01T15:48:00Z
-  stop: 2026-11-01T16:32:00Z
+  stop: 2026-11-01T16:33:00Z
   title: Prizma - multinacionalni magazin
   subtitle: Multinacionalni magazin, donosi aktualnosti o manjinama i ljudskim pravima.
   ageRating: 4
@@ -1237,6 +1250,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 738288
+  start: 2026-11-01T16:33:00Z
+  stop: 2026-11-01T16:59:00Z
+  title: Global 3000
+  subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 736973
   - 738063
@@ -1264,6 +1285,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 738289
+  start: 2026-11-01T16:59:00Z
+  stop: 2026-11-01T17:53:00Z
+  title: Romano Bolković - 1 na 1
+  subtitle: S ministrom vanjskih i europskih poslova Gordanom Grlićem Radmanom razgovaramo o svijetu u kojem se stari međunarodni poredak urušava, a obrisi novoga još nisu jasni.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 736974
   - 738064
@@ -1276,6 +1305,7 @@
   - 691943
   - 737416
   - 738023
+  - 738290
   start: 2026-11-01T17:53:00Z
   stop: 2026-11-01T17:54:00Z
   title: Vrijeme RH sutra
@@ -1286,7 +1316,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 691944
   start: 2026-11-01T17:54:00Z
-  stop: 2026-11-01T17:55:00Z
+  stop: 2026-11-01T17:56:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -1305,6 +1335,7 @@
   - 691945
   - 737417
   - 738024
+  - 738291
   start: 2026-11-01T17:56:00Z
   stop: 2026-11-01T18:00:00Z
   title: Vrijeme Svijet sutra
