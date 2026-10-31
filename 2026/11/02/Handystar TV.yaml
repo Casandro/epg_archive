@@ -86,7 +86,7 @@
   widescreen: true
 - eventId: 739305
   start: 2026-11-02T00:38:00Z
-  stop: 2026-11-02T00:47:00Z
+  stop: 2026-11-02T00:52:00Z
   title: Xiaomi Redmi 17 5G
   subtitle: Werbung
   description: |-
@@ -581,7 +581,7 @@
     Sim-Only Angebot
 - eventId: 739330
   start: 2026-11-02T03:30:00Z
-  stop: 2026-11-02T03:37:00Z
+  stop: 2026-11-02T03:41:00Z
   title: Samsung Galaxy A27 5G 128GB
   subtitle: Werbung
   description: |-
@@ -856,7 +856,7 @@
   widescreen: true
 - eventId: 739345
   start: 2026-11-02T05:04:00Z
-  stop: 2026-11-02T05:20:00Z
+  stop: 2026-11-02T05:21:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB + REDMI Pad 2
   subtitle: Werbung
   description: |-
@@ -972,7 +972,7 @@
   widescreen: true
 - eventId: 701738
   start: 2026-11-02T05:43:00Z
-  stop: 2026-11-02T05:54:00Z
+  stop: 2026-11-02T05:58:00Z
   title: Samsung Galaxy A27 5G 128GB
   subtitle: Werbung
   description: |-
@@ -2108,7 +2108,7 @@
   widescreen: true
 - eventId: 701804
   start: 2026-11-02T12:43:00Z
-  stop: 2026-11-02T12:56:00Z
+  stop: 2026-11-02T13:00:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB + REDMI Pad 2
   subtitle: Werbung
   widescreen: true
@@ -2204,7 +2204,7 @@
     Sim-Only Angebot
 - eventId: 701812
   start: 2026-11-02T13:23:00Z
-  stop: 2026-11-02T13:32:00Z
+  stop: 2026-11-02T13:37:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
@@ -2493,7 +2493,7 @@
   widescreen: true
 - eventId: 739432
   start: 2026-11-02T14:59:00Z
-  stop: 2026-11-02T15:09:00Z
+  stop: 2026-11-02T15:10:00Z
   title: Samsung Galaxy A27 5G 128GB
   subtitle: Werbung
   description: |-
@@ -2721,7 +2721,7 @@
   widescreen: true
 - eventId: 739444
   start: 2026-11-02T16:15:00Z
-  stop: 2026-11-02T16:22:00Z
+  stop: 2026-11-02T16:26:00Z
   title: Samsung Galaxy A27 5G 128GB
   subtitle: Werbung
   description: |-
@@ -2919,7 +2919,9 @@
   stop: 2026-11-02T17:44:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
-- eventId: 739454
+- eventId:
+  - 739454
+  - 739938
   start: 2026-11-02T17:44:00Z
   stop: 2026-11-02T17:49:00Z
   title: Sim-Only + E-Scooter 6
@@ -2942,7 +2944,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 739455
+- eventId:
+  - 739455
+  - 739939
   start: 2026-11-02T17:49:00Z
   stop: 2026-11-02T18:06:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB + REDMI Pad 2
@@ -2971,17 +2975,23 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 739456
+- eventId:
+  - 739456
+  - 739940
   start: 2026-11-02T18:06:00Z
   stop: 2026-11-02T18:08:00Z
   title: Handystar Service
   subtitle: Werbung
-- eventId: 739457
+- eventId:
+  - 739457
+  - 739941
   start: 2026-11-02T18:08:00Z
   stop: 2026-11-02T18:09:00Z
   title: Programmvorschau
   subtitle: Werbung
-- eventId: 739458
+- eventId:
+  - 739458
+  - 739942
   start: 2026-11-02T18:09:00Z
   stop: 2026-11-02T18:10:00Z
   title: Programmvorschau
@@ -3026,7 +3036,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 739461
+- eventId:
+  - 739461
+  - 739943
   start: 2026-11-02T18:23:00Z
   stop: 2026-11-02T18:30:00Z
   title: Sim-Only + Router
@@ -3036,7 +3048,9 @@
 
 
     Sim-Only Angebot
-- eventId: 739462
+- eventId:
+  - 739462
+  - 739944
   start: 2026-11-02T18:30:00Z
   stop: 2026-11-02T18:40:00Z
   title: Xiaomi Redmi 17 5G
@@ -3097,7 +3111,9 @@
     Speichergröße: 128 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 739463
+- eventId:
+  - 739463
+  - 739945
   start: 2026-11-02T18:45:00Z
   stop: 2026-11-02T18:49:00Z
   title: Sim-Only
@@ -3106,7 +3122,9 @@
     - HIGH Allnet Flat 30 GB 5G im Telekom Netz mtl. 8.99 ¤
 
     Sim-Only Angebot
-- eventId: 739464
+- eventId:
+  - 739464
+  - 739946
   start: 2026-11-02T18:49:00Z
   stop: 2026-11-02T18:59:00Z
   title: Samsung Galaxy A27 5G 128GB
@@ -3125,7 +3143,9 @@
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 739465
+- eventId:
+  - 739465
+  - 739947
   start: 2026-11-02T19:00:00Z
   stop: 2026-11-02T19:02:00Z
   title: Tarif mit Beigabe Teaser
@@ -3141,7 +3161,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 739466
+- eventId:
+  - 739466
+  - 739948
   start: 2026-11-02T19:02:00Z
   stop: 2026-11-02T19:07:00Z
   title: Sim-Only + E-Scooter 6
@@ -3150,7 +3172,9 @@
     - Allnet Flat 200GB LTE / 5G im Vodafone Netz mtl. 25.00 ¤
 
     Sim-Only Angebot
-- eventId: 739467
+- eventId:
+  - 739467
+  - 739949
   start: 2026-11-02T19:07:00Z
   stop: 2026-11-02T19:21:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB + REDMI Pad 2
@@ -3193,32 +3217,44 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 739468
+- eventId:
+  - 739468
+  - 739950
   start: 2026-11-02T19:24:00Z
   stop: 2026-11-02T19:25:00Z
   title: Programmvorschau
   subtitle: Werbung
-- eventId: 739469
+- eventId:
+  - 739469
+  - 739951
   start: 2026-11-02T19:25:00Z
   stop: 2026-11-02T19:26:00Z
   title: Programmvorschau
   subtitle: Werbung
-- eventId: 739470
+- eventId:
+  - 739470
+  - 739952
   start: 2026-11-02T19:26:00Z
   stop: 2026-11-02T19:27:00Z
   title: Programmvorschau
   subtitle: Werbung
-- eventId: 739471
+- eventId:
+  - 739471
+  - 739953
   start: 2026-11-02T19:27:00Z
   stop: 2026-11-02T19:28:00Z
   title: Programmvorschau
   subtitle: Werbung
-- eventId: 739472
+- eventId:
+  - 739472
+  - 739954
   start: 2026-11-02T19:28:00Z
   stop: 2026-11-02T19:32:00Z
   title: Programmvorschau
   subtitle: Werbung
-- eventId: 739473
+- eventId:
+  - 739473
+  - 739955
   start: 2026-11-02T19:32:00Z
   stop: 2026-11-02T19:37:00Z
   title: Samsung Galaxy A17
@@ -3231,7 +3267,9 @@
     Display: 6,7"" (16,91cm) Full HD Plus 90Hz
     Speichergröße: 128 GB
     Akku: 5000 mAh
-- eventId: 739474
+- eventId:
+  - 739474
+  - 739956
   start: 2026-11-02T19:37:00Z
   stop: 2026-11-02T19:39:00Z
   title: Tarif mit Beigabe Teaser
@@ -3246,7 +3284,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 739475
+- eventId:
+  - 739475
+  - 739957
   start: 2026-11-02T19:39:00Z
   stop: 2026-11-02T19:46:00Z
   title: Sim-Only + Router
@@ -3276,7 +3316,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 739476
+- eventId:
+  - 739476
+  - 739958
   start: 2026-11-02T19:46:00Z
   stop: 2026-11-02T20:00:00Z
   title: Xiaomi Redmi 17 5G
@@ -3305,7 +3347,9 @@
   title: Handystar Service
   subtitle: Werbung
   widescreen: true
-- eventId: 739477
+- eventId:
+  - 739477
+  - 739959
   start: 2026-11-02T20:01:00Z
   stop: 2026-11-02T20:05:00Z
   title: Sim-Only
@@ -3360,12 +3404,16 @@
     Speichergröße: 128 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 739478
+- eventId:
+  - 739478
+  - 739960
   start: 2026-11-02T20:15:00Z
   stop: 2026-11-02T20:18:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
-- eventId: 739479
+- eventId:
+  - 739479
+  - 739961
   start: 2026-11-02T20:18:00Z
   stop: 2026-11-02T20:23:00Z
   title: Sim-Only + E-Scooter 6
@@ -3374,7 +3422,9 @@
     - Allnet Flat 200GB LTE / 5G im Vodafone Netz mtl. 25.00 ¤
 
     Sim-Only Angebot
-- eventId: 739480
+- eventId:
+  - 739480
+  - 739962
   start: 2026-11-02T20:23:00Z
   stop: 2026-11-02T20:40:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB + REDMI Pad 2
@@ -3418,12 +3468,16 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 739481
+- eventId:
+  - 739481
+  - 739963
   start: 2026-11-02T20:40:00Z
   stop: 2026-11-02T20:41:00Z
   title: Programmvorschau
   subtitle: Werbung
-- eventId: 739482
+- eventId:
+  - 739482
+  - 739964
   start: 2026-11-02T20:41:00Z
   stop: 2026-11-02T20:42:00Z
   title: Programmvorschau
@@ -3572,7 +3626,7 @@
   widescreen: true
 - eventId: 739489
   start: 2026-11-02T21:38:00Z
-  stop: 2026-11-02T21:50:00Z
+  stop: 2026-11-02T21:55:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB + REDMI Pad 2
   subtitle: Werbung
   description: |-
@@ -3675,7 +3729,7 @@
   subtitle: Werbung
 - eventId: 739497
   start: 2026-11-02T22:13:00Z
-  stop: 2026-11-02T22:27:00Z
+  stop: 2026-11-02T22:28:00Z
   title: Xiaomi Redmi 17 5G
   subtitle: Werbung
   description: |-
@@ -3847,7 +3901,7 @@
     Sim-Only Angebot
 - eventId: 701977
   start: 2026-11-02T23:22:00Z
-  stop: 2026-11-02T23:31:00Z
+  stop: 2026-11-02T23:36:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
