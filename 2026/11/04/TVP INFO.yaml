@@ -10,7 +10,7 @@
   - '32'
 - eventId: 668761
   start: 2026-11-04T00:28:00Z
-  stop: 2026-11-04T00:55:00Z
+  stop: 2026-11-04T00:50:00Z
   title: Pytanie dnia
   subtitle: Zaproszony do studia gość komentuje wydarzenia dnia. Emisja bezpośrednio po głównym wydaniu programu informacyjnego ma związek z charakterem problematyki poruszanej w każdym odcinku.
   description: |
@@ -18,6 +18,15 @@
     PL, 2026
   genre:
   - '51'
+- eventId: 725022
+  start: 2026-11-04T00:50:00Z
+  stop: 2026-11-04T00:55:00Z
+  title: Prognoza pogody
+  description: |
+    Tytuł oryginalny: Prognoza pogody
+    PL, 2026
+  genre:
+  - '32'
 - eventId: 668762
   start: 2026-11-04T00:55:00Z
   stop: 2026-11-04T01:10:00Z
@@ -47,16 +56,38 @@
   - '34'
 - eventId: 668765
   start: 2026-11-04T01:40:00Z
-  stop: 2026-11-04T02:00:00Z
+  stop: 2026-11-04T01:55:00Z
   title: Wydarzy się w pogodzie
   description: |
     Tytuł oryginalny: Wydarzy się w pogodzie
     PL, 2026
   genre:
   - '32'
+- eventId: 725023
+  start: 2026-11-04T01:55:00Z
+  stop: 2026-11-04T02:12:00Z
+  title: Panorama dnia
+  subtitle: Główny serwis informacyjny TVP Info podsumowujący dzień, wzbogacony o więcej wiadomości ze świata oraz z dziedziny gospodarki i kultury.
+  description: |
+    Tytuł oryginalny: Panorama dnia
+    PL, 2026
+  genre:
+  - '32'
 - eventId: 668766
   start: 2026-11-04T02:00:00Z
   stop: 2026-11-04T02:35:00Z
+  title: Podróże z historią 2 (odc. 1)
+  subtitle: Radosław Kotarski wyrusza do Tarnowskich Gór, by się przekonać, jak trudna i niebezpieczna była praca górników, którzy z narażeniem życia wydobywali srebro.
+  description: |-
+    Tytuł oryginalny: Podróże z historią
+    PL, 2016
+    Reżyseria: Radosław Kotarski
+    Czy grudki srebra odłupuje się kilofami prosto ze skał? Nic bardziej mylnego! Radosław Kotarski wyrusza do Tarnowskich Gór, aby przekonać się, jak trudna i niebezpieczna była praca dawnych górników, którzy z narażeniem życia walczyli o to, aby uzyskać trochę srebra. Przekonuje się, dlaczego w podziemiach używano materiałów wybuchowych i... odpala własne ładunki prochu, będąc 40 metrów pod ziemią!
+  genre:
+  - '149'
+- eventId: 725024
+  start: 2026-11-04T02:12:00Z
+  stop: 2026-11-04T02:42:00Z
   title: Podróże z historią 2 (odc. 1)
   subtitle: Radosław Kotarski wyrusza do Tarnowskich Gór, by się przekonać, jak trudna i niebezpieczna była praca górników, którzy z narażeniem życia wydobywali srebro.
   description: |-
@@ -78,8 +109,30 @@
     Dariusz Gross, dziennikarz zafascynowany przyrodą, pokazuje parki narodowe, które znamy jako turyści, z innej, zaskakującej strony, przez pryzmat pracy naukowców zgłębiających sekrety ekosystemów i pracujących nad ich zachowaniem. To program pokazujący osobliwości przyrody i ukazujący wyjątkowość poszczególnych parków narodowych w Polsce, w którym spotykają się nowoczesne technologie badawcze z odwiecznym dziełem natury.
   genre:
   - '35'
+- eventId: 725025
+  start: 2026-11-04T02:42:00Z
+  stop: 2026-11-04T03:09:00Z
+  title: Polskie parki narodowe 1 (odc. 2)
+  subtitle: Tematem programu będzie Wigierski Park Narodowy, jeden z najcenniejszych obszarów przyrodniczych Polski, słynący z jezior, lasów i bogatej fauny.
+  description: |-
+    Tytuł oryginalny: Polskie parki narodowe
+    PL, 2022
+    Reżyseria: Rafał Kołodziej
+    Dariusz Gross, dziennikarz zafascynowany przyrodą, pokazuje parki narodowe, które znamy jako turyści, z innej, zaskakującej strony, przez pryzmat pracy naukowców zgłębiających sekrety ekosystemów i pracujących nad ich zachowaniem. To program pokazujący osobliwości przyrody i ukazujący wyjątkowość poszczególnych parków narodowych w Polsce, w którym spotykają się nowoczesne technologie badawcze z odwiecznym dziełem natury.
+  genre:
+  - '35'
 - eventId: 668768
   start: 2026-11-04T03:09:00Z
+  stop: 2026-11-04T03:54:00Z
+  title: Kwiatki polskie
+  subtitle: Prowadzący wraz z innymi dziennikarzami komentują poruszające opinię publiczną tematy, zachowując zdrowy rozsądek i trzeźwość oceny wobec wszystkich stron życia społecznego w Polsce.
+  description: |
+    Tytuł oryginalny: Kwiatki polskie
+    PL, 2026
+  genre:
+  - '34'
+- eventId: 725026
+  start: 2026-11-04T03:11:00Z
   stop: 2026-11-04T03:54:00Z
   title: Kwiatki polskie
   subtitle: Prowadzący wraz z innymi dziennikarzami komentują poruszające opinię publiczną tematy, zachowując zdrowy rozsądek i trzeźwość oceny wobec wszystkich stron życia społecznego w Polsce.
@@ -99,8 +152,8 @@
   - '34'
 - eventId: 668770
   start: 2026-11-04T04:45:00Z
-  stop: 2026-11-04T04:47:00Z
-  title: Info Poranek
+  stop: 2026-11-04T05:00:00Z
+  title: 'Info Poranek: Poranek po wyborach w USA'
   description: |
     Tytuł oryginalny: Info Poranek
     PL, 2026
@@ -144,13 +197,14 @@
   - '34'
 - eventId: 668775
   start: 2026-11-04T05:05:00Z
-  stop: 2026-11-04T05:13:00Z
-  title: Info Poranek
+  stop: 2026-11-04T05:30:00Z
+  title: 'Info Poranek: Poranek po wyborach w USA'
   description: |
     Tytuł oryginalny: Info Poranek
     PL, 2026
   genre:
   - '34'
+  subtitle: Program składa się z serwisów informacyjnych i sportowych, przeglądu prasy krajowej i zagranicznej oraz portali internetowych, prognozy pogody, informacji ekonomicznych i rozmowy z zaproszonymi gośćmi.
 - eventId: 668776
   start: 2026-11-04T05:13:00Z
   stop: 2026-11-04T05:15:00Z
@@ -180,13 +234,14 @@
   - '34'
 - eventId: 668779
   start: 2026-11-04T05:35:00Z
-  stop: 2026-11-04T05:40:00Z
-  title: Info Poranek
+  stop: 2026-11-04T05:55:00Z
+  title: 'Info Poranek: Poranek po wyborach w USA'
   description: |
     Tytuł oryginalny: Info Poranek
     PL, 2026
   genre:
   - '34'
+  subtitle: Program składa się z serwisów informacyjnych i sportowych, przeglądu prasy krajowej i zagranicznej oraz portali internetowych, prognozy pogody, informacji ekonomicznych i rozmowy z zaproszonymi gośćmi.
 - eventId: 668780
   start: 2026-11-04T05:40:00Z
   stop: 2026-11-04T05:42:00Z
@@ -281,7 +336,7 @@
 - eventId: 668790
   start: 2026-11-04T07:05:00Z
   stop: 2026-11-04T07:30:00Z
-  title: Info Poranek
+  title: 'Oko na świat: Podsumowanie wyborów w USA'
   subtitle: Program składa się z serwisów informacyjnych i sportowych, przeglądu prasy krajowej i zagranicznej oraz portali internetowych, prognozy pogody, informacji ekonomicznych i rozmowy z zaproszonymi gośćmi.
   description: |
     Tytuł oryginalny: Info Poranek
@@ -300,7 +355,7 @@
 - eventId: 668792
   start: 2026-11-04T07:35:00Z
   stop: 2026-11-04T08:00:00Z
-  title: Info Poranek
+  title: 'Oko na świat: Podsumowanie wyborów w USA'
   subtitle: Program składa się z serwisów informacyjnych i sportowych, przeglądu prasy krajowej i zagranicznej oraz portali internetowych, prognozy pogody, informacji ekonomicznych i rozmowy z zaproszonymi gośćmi.
   description: |
     Tytuł oryginalny: Info Poranek
