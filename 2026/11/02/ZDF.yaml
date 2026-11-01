@@ -734,7 +734,7 @@
   - 736023
   - 737597
   start: 2026-11-02T23:00:00Z
-  stop: 2026-11-03T01:05:00Z
+  stop: 2026-11-02T23:15:00Z
   title: heute journal update
   genre:
   - '32'
@@ -783,7 +783,9 @@
     HD-Produktion
   subtitle: Dokumentarischer Spielfilm
   subtitled: true
-- eventId: 764528
+- eventId:
+  - 764528
+  - 764632
   start: 2026-11-02T23:15:00Z
   stop: 2026-11-03T01:05:00Z
   title: Fabian
@@ -800,3 +802,5 @@
   genre:
   - '16'
   widescreen: true
+  hd: true
+  audiodesc: true
