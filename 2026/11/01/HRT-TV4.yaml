@@ -380,6 +380,7 @@
 - eventId:
   - 744224
   - 748585
+  - 752941
   start: 2026-11-01T02:54:00Z
   stop: 2026-11-01T03:40:00Z
   title: Pregled dana
@@ -399,7 +400,7 @@
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
 - eventId: 691868
   start: 2026-11-01T03:40:00Z
-  stop: 2026-11-01T03:50:00Z
+  stop: 2026-11-01T03:51:00Z
   title: Vijesti flash
   subtitle: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   ageRating: 4
@@ -421,6 +422,7 @@
 - eventId:
   - 744225
   - 748586
+  - 752942
   start: 2026-11-01T03:51:00Z
   stop: 2026-11-01T03:58:00Z
   title: Vijesti iz kulture
@@ -448,6 +450,7 @@
 - eventId:
   - 744226
   - 748587
+  - 752943
   start: 2026-11-01T03:58:00Z
   stop: 2026-11-01T04:00:00Z
   title: 'Bez komentara: London - Duhovi Towera'
@@ -521,6 +524,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 691875
   - 735743
@@ -549,22 +553,18 @@
   - 741060
   - 744228
   - 748589
+  - 748972
   start: 2026-11-01T04:58:00Z
   stop: 2026-11-01T05:00:00Z
   title: 'Bez komentara: Kuba - UN pozvao SAD da se ukine embargo Kubi'
-  subtitle: ' '
-  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 748972
-  start: 2026-11-01T04:58:00Z
-  stop: 2026-11-01T05:00:00Z
-  title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
 - eventId: 691876
   start: 2026-11-01T05:00:00Z
-  stop: 2026-11-01T05:08:00Z
+  stop: 2026-11-01T05:07:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -574,6 +574,7 @@
 - eventId:
   - 744229
   - 748590
+  - 752944
   start: 2026-11-01T05:07:00Z
   stop: 2026-11-01T05:09:00Z
   title: 'Bez komentara: Svijet - Oštar pad kriptovaluta'
@@ -601,6 +602,7 @@
 - eventId:
   - 744230
   - 748591
+  - 752945
   start: 2026-11-01T05:09:00Z
   stop: 2026-11-01T05:17:00Z
   title: Vijesti na engleskom jeziku
@@ -621,6 +623,7 @@
 - eventId:
   - 744231
   - 748592
+  - 752946
   start: 2026-11-01T05:17:00Z
   stop: 2026-11-01T05:20:00Z
   title: 'Bez komentara: Danska - Izrezbarene bundeve za Noć vještica'
@@ -655,6 +658,7 @@
   - 740203
   - 740931
   - 741139
+  - 752947
   start: 2026-11-01T05:20:00Z
   stop: 2026-11-01T05:28:00Z
   title: 'Studio 4: Znanost'
@@ -688,6 +692,7 @@
   - 740204
   - 740932
   - 741140
+  - 752948
   start: 2026-11-01T05:28:00Z
   stop: 2026-11-01T05:30:00Z
   title: 'Bez komentara: Lisabon - Prosvjed zbog stambene krize'
@@ -725,6 +730,7 @@
   - 740205
   - 740933
   - 741141
+  - 752949
   start: 2026-11-01T05:30:00Z
   stop: 2026-11-01T05:56:00Z
   title: 'DW: U dobroj formi'
@@ -777,6 +783,12 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 752950
+  start: 2026-11-01T05:56:00Z
+  stop: 2026-11-01T05:58:00Z
+  title: 'Bez komentara: Kina - Humanoidni roboti'
+  subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 736971
@@ -1565,16 +1577,12 @@
   - 741065
   - 744232
   - 748593
+  - 748977
   start: 2026-11-01T16:32:00Z
   stop: 2026-11-01T16:58:00Z
   title: 'DW: Global Us'
-  subtitle: ' '
-  description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
-- eventId: 748977
-  start: 2026-11-01T16:32:00Z
-  stop: 2026-11-01T16:58:00Z
-  title: Global 3000
   subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
+  description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
   ageRating: 4
   genre:
   - '160'
@@ -1623,16 +1631,12 @@
   - 741066
   - 744233
   - 748594
+  - 748978
   start: 2026-11-01T16:58:00Z
   stop: 2026-11-01T17:52:00Z
   title: 'Romano Bolković - 1 na 1: Gordan Grlić Radman, talk show'
-  subtitle: ' '
-  description: 'S ministrom vanjskih i europskih poslova Gordanom Grlićem Radmanom razgovaramo o svijetu u kojem se stari međunarodni poredak urušava, a obrisi novoga još nisu jasni. O odnosima velikih sila, sve snažnijoj ulozi Kine, budućnosti transatlantskog savezništva i sposobnosti Europe da postane samostalan geopolitički čimbenik. Kakav je mir moguć u Ukrajini, kakvu politiku Europa vodi na Bliskom istoku i gdje je u tim globalnim preslagivanjima mjesto Hrvatske? Posebnu pozornost posvećujemo hrvatskom susjedstvu: izborima u Srbiji, europskoj perspektivi Crne Gore, položaju Hrvata u Bosni i Hercegovini te otvorenim pitanjima koja opterećuju odnose među državama regije. Razgovaramo i o hrvatskoj mediteranskoj politici, energetskom i prometnom povezivanju Europe te novim diplomatskim i gospodarskim mogućnostima koje se otvaraju izvan tradicionalnog europskog prostora. Naposljetku, nakon deset godina vlade Andreja Plenkovića, pokušavamo podvući vanjskopolitičku bilancu jednoga desetljeća. Hrvatska je ostvarila gotovo sve strateške ciljeve postavljene nakon osamostaljenja, ali koliko je time doista porastao njezin međunarodni utjecaj? Što je obilježilo Plenkovićev način vođenja vanjske politike i, možda najvažnije, koja bi trebala biti sljedeća velika nacionalna ambicija Hrvatske?'
-- eventId: 748978
-  start: 2026-11-01T16:58:00Z
-  stop: 2026-11-01T17:52:00Z
-  title: Romano Bolković - 1 na 1
   subtitle: S ministrom vanjskih i europskih poslova Gordanom Grlićem Radmanom razgovaramo o svijetu u kojem se stari međunarodni poredak urušava, a obrisi novoga još nisu jasni.
+  description: 'S ministrom vanjskih i europskih poslova Gordanom Grlićem Radmanom razgovaramo o svijetu u kojem se stari međunarodni poredak urušava, a obrisi novoga još nisu jasni. O odnosima velikih sila, sve snažnijoj ulozi Kine, budućnosti transatlantskog savezništva i sposobnosti Europe da postane samostalan geopolitički čimbenik. Kakav je mir moguć u Ukrajini, kakvu politiku Europa vodi na Bliskom istoku i gdje je u tim globalnim preslagivanjima mjesto Hrvatske? Posebnu pozornost posvećujemo hrvatskom susjedstvu: izborima u Srbiji, europskoj perspektivi Crne Gore, položaju Hrvata u Bosni i Hercegovini te otvorenim pitanjima koja opterećuju odnose među državama regije. Razgovaramo i o hrvatskoj mediteranskoj politici, energetskom i prometnom povezivanju Europe te novim diplomatskim i gospodarskim mogućnostima koje se otvaraju izvan tradicionalnog europskog prostora. Naposljetku, nakon deset godina vlade Andreja Plenkovića, pokušavamo podvući vanjskopolitičku bilancu jednoga desetljeća. Hrvatska je ostvarila gotovo sve strateške ciljeve postavljene nakon osamostaljenja, ali koliko je time doista porastao njezin međunarodni utjecaj? Što je obilježilo Plenkovićev način vođenja vanjske politike i, možda najvažnije, koja bi trebala biti sljedeća velika nacionalna ambicija Hrvatske?'
   ageRating: 4
   genre:
   - '160'
@@ -1742,6 +1746,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 691945
   - 737417
