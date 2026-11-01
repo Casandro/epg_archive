@@ -1175,7 +1175,7 @@
   hd: true
 - eventId: 765942
   start: 2026-11-01T19:32:27Z
-  stop: 2026-11-01T20:00:00Z
+  stop: 2026-11-01T20:00:27Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
   description: |-
@@ -1202,6 +1202,17 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 766084
+  start: 2026-11-01T20:00:27Z
+  stop: 2026-11-01T20:13:27Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 620079
   - 636101
@@ -1224,6 +1235,7 @@
   - 636350
   - 685178
   - 690975
+  - 766091
   start: 2026-11-01T21:00:00Z
   stop: 2026-11-01T22:00:00Z
   title: Události, komentáře týdne
@@ -1270,7 +1282,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 765959
+- eventId:
+  - 765959
+  - 766093
   start: 2026-11-01T22:05:00Z
   stop: 2026-11-01T22:30:00Z
   title: Zprávy ve 23
