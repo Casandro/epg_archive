@@ -545,7 +545,9 @@
   description: 'Tous les jours, le JT de 19h30 informe de l''actualitØ et des faits de sociØtØ, politiques, Øconomiques, culturels et sportifs.  '
   genre:
   - '47'
-- eventId: 758936
+- eventId:
+  - 758936
+  - 760454
   start: 2026-11-01T12:59:00Z
   stop: 2026-11-01T14:32:00Z
   title: ECHAPPS BELLES
@@ -633,9 +635,16 @@
   ageRating: 7
 - eventId: 681418
   start: 2026-11-01T16:00:00Z
-  stop: 2026-11-01T16:41:00Z
+  stop: 2026-11-01T16:40:00Z
   title: 'FRANC-JEU -01/11/2026 '
   subtitle: ' '
+  ageRating: 7
+- eventId: 760435
+  start: 2026-11-01T16:40:00Z
+  stop: 2026-11-01T16:55:00Z
+  title: 'Démographie : un monde de vieux ? '
+  subtitle: 'La Chine, qui avait longtemps imposé une politique de l''enfant unique, cherche aujourd''hui à inverser la tendance. Un cas qui n''es '
+  description: "Démographie : un monde de vieux ? \n\nLa Chine, qui avait longtemps imposé une politique de l'enfant unique, cherche aujourd'hui à inverser la tendance. Un cas qui n'est pas isolé, à l'exception de l'Afrique. Tour du monde des sociétés vieillissantes, afin de prendre conscience d'un phénomène démographique qui aura de lourdes répercussions dans les décennies à venir.\n\nPrésentation : Émilie Aubry\n "
   ageRating: 7
 - eventId:
   - 633578
@@ -649,6 +658,7 @@
 - eventId:
   - 633579
   - 692180
+  - 760436
   start: 2026-11-01T16:55:00Z
   stop: 2026-11-01T17:00:00Z
   title: 'Tchad '
@@ -721,6 +731,12 @@
   ageRating: 7
 - eventId: 681421
   start: 2026-11-01T18:56:00Z
+  stop: 2026-11-01T19:00:00Z
+  title: 'Leroux Million '
+  subtitle: ' '
+  ageRating: 7
+- eventId: 760439
+  start: 2026-11-01T18:57:00Z
   stop: 2026-11-01T19:00:00Z
   title: 'Leroux Million '
   subtitle: ' '
