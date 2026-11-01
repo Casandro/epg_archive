@@ -1137,7 +1137,7 @@
   - 690824
   - 767254
   start: 2026-11-01T18:52:00Z
-  stop: 2026-11-01T19:05:00Z
+  stop: 2026-11-01T19:05:18Z
   title: Branky, body, vteřiny
   description: |-
     HDTV
@@ -1179,6 +1179,18 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 767589
+  start: 2026-11-01T19:05:18Z
+  stop: 2026-11-01T19:31:56Z
+  title: 'Galerie Selfie: Tereza Nová a Pavel Nový'
+  subtitle: 'Portréty inspirativních osobností. Oba se podruhé narodili: herec Pavel Nový v roce 2007, kdy se nakazil nilskou horečkou, lyžařka Tereza Nová v lednu 2025, když upadla na tréninku a silně'
+  description: |-
+    krvácela do mozku.
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 620077
   - 636099
@@ -1196,6 +1208,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 767598
+  start: 2026-11-01T19:31:56Z
+  stop: 2026-11-01T20:00:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId: 765942
   start: 2026-11-01T19:32:27Z
   stop: 2026-11-01T20:00:00Z
@@ -1347,7 +1370,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 767259
+- eventId:
+  - 767259
+  - 767602
   start: 2026-11-01T22:05:00Z
   stop: 2026-11-01T22:32:00Z
   title: Zprávy ve 23
