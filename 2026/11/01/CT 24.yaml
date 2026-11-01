@@ -934,6 +934,17 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 765000
+  start: 2026-11-01T16:02:57Z
+  stop: 2026-11-01T16:55:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 619814
   - 635891
@@ -991,7 +1002,7 @@
   - 690582
   - 760343
   start: 2026-11-01T17:00:00Z
-  stop: 2026-11-01T17:15:00Z
+  stop: 2026-11-01T17:27:00Z
   title: Zprávy
   description: |-
     HDTV
@@ -1020,6 +1031,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 765011
+  start: 2026-11-01T17:27:00Z
+  stop: 2026-11-01T17:54:00Z
+  title: Interview ČT24
+  subtitle: 'Host: Matěj Ondřej Havel předseda TOP09.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 619818
   - 635895
@@ -1067,13 +1089,24 @@
   - 685172
   - 690823
   start: 2026-11-01T18:50:00Z
-  stop: 2026-11-01T18:52:00Z
+  stop: 2026-11-01T18:51:59Z
   title: Počasí v evropských metropolích
   description: HDTV
   genre:
   - '33'
   widescreen: true
   hd: true
+- eventId: 765012
+  start: 2026-11-01T18:51:59Z
+  stop: 2026-11-01T19:05:00Z
+  title: Branky, body, vteřiny
+  description: |-
+    HDTV
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 620075
   - 636097
@@ -1218,6 +1251,7 @@
   - 636353
   - 685181
   - 690978
+  - 765013
   start: 2026-11-01T22:18:00Z
   stop: 2026-11-01T23:00:00Z
   title: Duel ČT24
