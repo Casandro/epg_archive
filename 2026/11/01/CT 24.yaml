@@ -1345,19 +1345,7 @@
   - 636351
   - 685179
   - 690976
-  start: 2026-11-01T22:00:00Z
-  stop: 2026-11-01T22:05:00Z
-  title: Předpověď počasí
-  subtitle: Souhrn meteorologických informací.
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '33'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 768029
+  - 768029
   start: 2026-11-01T22:00:00Z
   stop: 2026-11-01T22:07:12Z
   title: Předpověď počasí
@@ -1369,6 +1357,8 @@
   genre:
   - '33'
   widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 620379
   - 636352
@@ -1419,7 +1409,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 768030
+- eventId:
+  - 768030
+  - 768229
   start: 2026-11-01T22:07:12Z
   stop: 2026-11-01T22:31:02Z
   title: Zprávy ve 23
@@ -1448,7 +1440,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 768031
+- eventId:
+  - 768031
+  - 768230
   start: 2026-11-01T22:31:02Z
   stop: 2026-11-01T23:00:00Z
   title: Interview ČT24
