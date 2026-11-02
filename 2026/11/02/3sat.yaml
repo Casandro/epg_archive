@@ -888,23 +888,11 @@
 
     Doch an anderen Tagen hängt düsterer Nebel zwischen den Bäumen, und die Regentage häufen sich. Der erste Frost stellt sich ein. Die Tage werden kürzer, es gibt weniger Sonnenstunden, und eine melancholische Stimmung breitet sich über das Land aus.
     HD-Produktion
-- eventId: 664917
+- eventId:
+  - 664917
+  - 665043
   start: 2026-11-02T16:46:00Z
   stop: 2026-11-02T17:31:00Z
-  title: Herbstwelten
-  subtitle: Film von Annette Scheurich
-  description: |-
-    Herbst in Deutschland: Noch ein letztes Mal zeigt sich die Natur in aller Pracht, wenn sich die Blätter verfärben und die tief stehende Sonne Wiesen und Wälder golden erstrahlen lässt.
-
-    Doch an anderen Tagen hängt düsterer Nebel zwischen den Bäumen, und die Regentage häufen sich. Der erste Frost stellt sich ein. Die Tage werden kürzer, es gibt weniger Sonnenstunden, und eine melancholische Stimmung breitet sich über das Land aus.
-    HD-Produktion
-  genre:
-  - '112'
-  widescreen: true
-  subtitled: true
-- eventId: 665043
-  start: 2026-11-02T16:46:00Z
-  stop: 2026-11-02T17:30:00Z
   title: Herbstwelten
   subtitle: Film von Annette Scheurich
   description: |-
@@ -944,7 +932,9 @@
 
     Moderation: Ingolf Baur
     HD-Produktion
-- eventId: 664918
+- eventId:
+  - 664918
+  - 666516
   start: 2026-11-02T17:31:00Z
   stop: 2026-11-02T18:00:00Z
   title: nano
@@ -960,6 +950,8 @@
   genre:
   - '144'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 543884
   - 620743
