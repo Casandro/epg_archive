@@ -645,6 +645,7 @@
   - 638975
   - 658619
   - 658902
+  - 658958
   - 740901
   - 747298
   start: 2026-11-03T11:20:00Z
@@ -703,7 +704,9 @@
   genre:
   - '151'
   subtitled: true
-- eventId: 658904
+- eventId:
+  - 658904
+  - 658960
   start: 2026-11-03T11:34:00Z
   stop: 2026-11-03T12:00:00Z
   title: Archiv ČT24
@@ -760,7 +763,9 @@
   genre:
   - '151'
   subtitled: true
-- eventId: 658906
+- eventId:
+  - 658906
+  - 658962
   start: 2026-11-03T12:05:00Z
   stop: 2026-11-03T12:30:00Z
   title: Archiv ČT24
@@ -798,6 +803,7 @@
   - 639091
   - 658626
   - 658909
+  - 658965
   - 740907
   - 747397
   start: 2026-11-03T12:33:00Z
@@ -856,7 +862,9 @@
   genre:
   - '151'
   subtitled: true
-- eventId: 658911
+- eventId:
+  - 658911
+  - 658967
   start: 2026-11-03T13:05:00Z
   stop: 2026-11-03T13:30:00Z
   title: Archiv ČT24
@@ -893,6 +901,7 @@
   - 639095
   - 658631
   - 658914
+  - 658970
   - 740911
   - 747401
   start: 2026-11-03T13:33:00Z
@@ -951,7 +960,9 @@
   genre:
   - '151'
   subtitled: true
-- eventId: 658916
+- eventId:
+  - 658916
+  - 658972
   start: 2026-11-03T14:05:00Z
   stop: 2026-11-03T14:30:00Z
   title: Archiv ČT24
@@ -989,6 +1000,7 @@
   - 639099
   - 658636
   - 658919
+  - 658975
   - 740915
   - 747405
   start: 2026-11-03T14:33:00Z
@@ -1010,6 +1022,7 @@
   - 639100
   - 658637
   - 658920
+  - 658976
   - 740916
   - 747406
   start: 2026-11-03T14:40:00Z
@@ -1047,6 +1060,7 @@
 - eventId:
   - 658639
   - 658922
+  - 658978
   start: 2026-11-03T15:05:00Z
   stop: 2026-11-03T15:30:00Z
   description: |-
@@ -1083,6 +1097,7 @@
   - 639189
   - 658642
   - 658925
+  - 658981
   - 740919
   - 747618
   start: 2026-11-03T15:33:00Z
@@ -1140,6 +1155,7 @@
 - eventId:
   - 658644
   - 658927
+  - 658983
   start: 2026-11-03T16:05:00Z
   stop: 2026-11-03T16:30:00Z
   description: Skryté titulky
@@ -1170,6 +1186,7 @@
   - 639193
   - 658647
   - 658930
+  - 658986
   - 740429
   - 740679
   start: 2026-11-03T16:33:00Z
@@ -1239,6 +1256,7 @@
 - eventId:
   - 658649
   - 658932
+  - 658988
   start: 2026-11-03T17:05:00Z
   stop: 2026-11-03T17:27:50Z
   description: Skryté titulky
@@ -1279,7 +1297,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 658651
+- eventId:
+  - 658651
+  - 658990
   start: 2026-11-03T17:32:00Z
   stop: 2026-11-03T17:55:00Z
   description: Skryté titulky
@@ -1342,7 +1362,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 658653
+- eventId:
+  - 658653
+  - 658992
   start: 2026-11-03T18:08:00Z
   stop: 2026-11-03T18:34:00Z
   description: Skryté titulky
@@ -1351,23 +1373,15 @@
   subtitled: true
 - eventId:
   - 611363
-  - 639830
-  - 658655
-  - 740441
-  - 740688
-  start: 2026-11-03T18:54:00Z
-  stop: 2026-11-03T18:56:00Z
-  title: Počasí v evropských metropolích
-  description: HDTV
-  genre:
-  - '33'
-  widescreen: true
-  hd: true
-- eventId:
   - 621098
   - 635832
+  - 639830
   - 643239
+  - 658655
   - 658938
+  - 658994
+  - 740441
+  - 740688
   start: 2026-11-03T18:54:00Z
   stop: 2026-11-03T18:56:00Z
   title: Počasí v evropských metropolích
@@ -1377,8 +1391,8 @@
   genre:
   - '33'
   widescreen: true
-  subtitled: true
   hd: true
+  subtitled: true
 - eventId:
   - 611364
   - 639831
@@ -1400,6 +1414,7 @@
 - eventId:
   - 658657
   - 658940
+  - 658996
   start: 2026-11-03T19:00:00Z
   stop: 2026-11-03T19:05:00Z
   genre:
@@ -1427,6 +1442,7 @@
 - eventId:
   - 658660
   - 658943
+  - 658999
   start: 2026-11-03T19:32:00Z
   stop: 2026-11-03T20:00:00Z
   description: Skryté titulky
@@ -1436,6 +1452,7 @@
 - eventId:
   - 658661
   - 658944
+  - 659000
   start: 2026-11-03T20:00:00Z
   stop: 2026-11-03T20:05:00Z
   description: Zvukový popis
@@ -1445,6 +1462,7 @@
 - eventId:
   - 658662
   - 658945
+  - 659001
   start: 2026-11-03T20:05:00Z
   stop: 2026-11-03T20:30:00Z
   description: Skryté titulky
@@ -1471,6 +1489,7 @@
 - eventId:
   - 658664
   - 658947
+  - 659003
   start: 2026-11-03T20:32:00Z
   stop: 2026-11-03T21:00:00Z
   description: Skryté titulky
@@ -1497,6 +1516,7 @@
 - eventId:
   - 658666
   - 658949
+  - 659006
   start: 2026-11-03T21:05:00Z
   stop: 2026-11-03T21:32:00Z
   description: Skryté titulky
@@ -1506,6 +1526,7 @@
 - eventId:
   - 658667
   - 658950
+  - 659007
   start: 2026-11-03T21:32:00Z
   stop: 2026-11-03T22:00:00Z
   description: Skryté titulky
