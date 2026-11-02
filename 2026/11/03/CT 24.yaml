@@ -551,7 +551,7 @@
   hd: true
 - eventId: 658294
   start: 2026-11-03T05:32:00Z
-  stop: 2026-11-03T06:00:16Z
+  stop: 2026-11-03T06:00:00Z
   title: Archiv ČT24
   subtitle: Budujeme, pracujeme, stavíme. Jak se u nás řešila výstavba bydlení v poválečných desetiletích.
   description: |-
@@ -562,7 +562,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 658297
+- eventId:
+  - 658297
+  - 672547
   start: 2026-11-03T06:00:00Z
   stop: 2026-11-03T06:05:00Z
   title: Zprávy
@@ -597,11 +599,33 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 672548
+  start: 2026-11-03T06:05:00Z
+  stop: 2026-11-03T06:31:52Z
+  title: Archiv ČT24
+  subtitle: Tunely pod Prahou. Jak se stavěla pražská podzemní dráha.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '151'
+  widescreen: true
 - eventId: 671630
   start: 2026-11-03T06:08:11Z
   stop: 2026-11-03T06:34:18Z
   title: Archiv ČT24
   subtitle: Tunely pod Prahou. Jak se stavěla pražská podzemní dráha.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '151'
+  widescreen: true
+- eventId: 672549
+  start: 2026-11-03T06:31:52Z
+  stop: 2026-11-03T07:00:00Z
+  title: Archiv ČT24
+  subtitle: Co zažilo pražské metro. Provoz pražského metra byl zahájen 9. května 1974.
   description: |-
     HDTV
     Skryté titulky
@@ -632,7 +656,9 @@
   genre:
   - '151'
   widescreen: true
-- eventId: 658300
+- eventId:
+  - 658300
+  - 672550
   start: 2026-11-03T07:00:00Z
   stop: 2026-11-03T07:05:00Z
   title: Zprávy
@@ -667,11 +693,33 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 672551
+  start: 2026-11-03T07:05:00Z
+  stop: 2026-11-03T07:31:13Z
+  title: Archiv ČT24
+  subtitle: Pomocníci v domácnosti. Jaké spotřebiče jsme používali v domácnostech v druhé polovině 20. století.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '151'
+  widescreen: true
 - eventId: 671633
   start: 2026-11-03T07:11:16Z
   stop: 2026-11-03T07:36:44Z
   title: Archiv ČT24
   subtitle: Pomocníci v domácnosti. Jaké spotřebiče jsme používali v domácnostech v druhé polovině 20. století.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '151'
+  widescreen: true
+- eventId: 672552
+  start: 2026-11-03T07:31:13Z
+  stop: 2026-11-03T08:00:00Z
+  title: Archiv ČT24
+  subtitle: Byt jak má být. Jakým nábytkem bylo možné si u nás zařídit byt v druhé polovině 20. století.
   description: |-
     HDTV
     Skryté titulky
@@ -721,7 +769,19 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 658303
+- eventId: 672553
+  start: 2026-11-03T08:00:00Z
+  stop: 2026-11-03T08:05:00Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+- eventId:
+  - 658303
+  - 672554
   start: 2026-11-03T08:05:00Z
   stop: 2026-11-03T08:32:00Z
   title: Archiv ČT24
