@@ -1787,7 +1787,7 @@
   - 740440
   - 740687
   start: 2026-11-03T18:00:00Z
-  stop: 2026-11-03T18:54:00Z
+  stop: 2026-11-03T18:08:00Z
   title: Události
   subtitle: Hlavní zpravodajská relace České televize. Souhrn nejdůležitějších událostí dne v ČR i ve světě.
   description: |-
@@ -1824,6 +1824,7 @@
   - 662233
   - 662798
   - 662934
+  - 672492
   start: 2026-11-03T18:08:00Z
   stop: 2026-11-03T18:34:00Z
   title: Archiv ČT24
@@ -1868,6 +1869,19 @@
 - eventId: 666592
   start: 2026-11-03T18:34:00Z
   stop: 2026-11-03T19:00:00Z
+  title: Archiv ČT24
+  subtitle: Když se knihy vrátily z trezorů. Sametová revoluce přinesla svobodu nejen lidem, ale také knihám.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '151'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 672493
+  start: 2026-11-03T18:34:00Z
+  stop: 2026-11-03T18:56:00Z
   title: Archiv ČT24
   subtitle: Když se knihy vrátily z trezorů. Sametová revoluce přinesla svobodu nejen lidem, ale také knihám.
   description: |-
@@ -1966,6 +1980,7 @@
   - 662237
   - 662802
   - 662938
+  - 672494
   start: 2026-11-03T19:00:00Z
   stop: 2026-11-03T19:05:00Z
   title: Zprávy
@@ -1977,7 +1992,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 666593
+- eventId:
+  - 666593
+  - 672495
   start: 2026-11-03T19:05:00Z
   stop: 2026-11-03T19:32:00Z
   title: Archiv ČT24
@@ -2025,6 +2042,7 @@
   - 662240
   - 662805
   - 662941
+  - 672496
   start: 2026-11-03T19:32:00Z
   stop: 2026-11-03T20:00:00Z
   title: Archiv ČT24
@@ -2055,6 +2073,7 @@
   - 662241
   - 662806
   - 662942
+  - 672497
   start: 2026-11-03T20:00:00Z
   stop: 2026-11-03T20:05:00Z
   title: Zprávy
@@ -2088,6 +2107,19 @@
   - 662943
   start: 2026-11-03T20:05:00Z
   stop: 2026-11-03T20:32:00Z
+  title: Archiv ČT24
+  subtitle: Sochy a sochaři. Jak se z hmoty stává umění.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '151'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 672498
+  start: 2026-11-03T20:05:00Z
+  stop: 2026-11-03T20:30:00Z
   title: Archiv ČT24
   subtitle: Sochy a sochaři. Jak se z hmoty stává umění.
   description: |-
@@ -2133,6 +2165,7 @@
   - 662244
   - 662809
   - 662945
+  - 672499
   start: 2026-11-03T20:32:00Z
   stop: 2026-11-03T21:00:00Z
   title: Archiv ČT24
@@ -2151,7 +2184,7 @@
   - 740445
   - 740696
   start: 2026-11-03T21:00:00Z
-  stop: 2026-11-03T22:00:00Z
+  stop: 2026-11-03T21:05:00Z
   title: Události, komentáře
   subtitle: Komentované zpravodajství České televize. Aktéři klíčových událostí odpovídají na aktuální otázky.
   description: |-
@@ -2192,6 +2225,7 @@
   - 662246
   - 662811
   - 662947
+  - 672501
   start: 2026-11-03T21:05:00Z
   stop: 2026-11-03T21:32:00Z
   title: Archiv ČT24
@@ -2222,6 +2256,7 @@
   - 662247
   - 662812
   - 662948
+  - 672502
   start: 2026-11-03T21:32:00Z
   stop: 2026-11-03T22:00:00Z
   title: Archiv ČT24
@@ -2240,7 +2275,7 @@
   - 740446
   - 740697
   start: 2026-11-03T22:00:00Z
-  stop: 2026-11-04T04:59:00Z
+  stop: 2026-11-03T22:05:00Z
   title: 'Speciál ČT24: Americká volební noc'
   subtitle: Americký Kongres v novém složení. Co o něm rozhodne a jak se proměna Sněmovny reprezentantů a Senátu otiskne do světové politiky i ekonomiky? Témata kampaní, analýzy i data - v rozhovorech z
   description: |-
@@ -2252,7 +2287,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 658481
+- eventId:
+  - 658481
+  - 672503
   start: 2026-11-03T22:05:00Z
   stop: 2026-11-03T22:32:00Z
   description: |-
@@ -2265,7 +2302,9 @@
   subtitle: Vojenské přehlídky. Jaké vojenské přehlídky se u nás konaly od konce druhé světové války do dnešní doby.
   widescreen: true
   hd: true
-- eventId: 658482
+- eventId:
+  - 658482
+  - 672504
   start: 2026-11-03T22:32:00Z
   stop: 2026-11-03T23:00:00Z
   description: |-
@@ -2278,7 +2317,9 @@
   subtitle: Symboly doby. Jaké pomníky a památníky se u nás budovaly v druhé polovině 20. století.
   widescreen: true
   hd: true
-- eventId: 658825
+- eventId:
+  - 658825
+  - 672505
   start: 2026-11-03T23:00:00Z
   stop: 2026-11-04T04:59:00Z
   title: 'Speciál ČT24: Americká volební noc'
