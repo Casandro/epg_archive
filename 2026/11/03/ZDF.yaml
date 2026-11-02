@@ -1,4 +1,6 @@
-- eventId: 662001
+- eventId:
+  - 662001
+  - 662344
   start: 2026-11-03T01:00:00Z
   stop: 2026-11-03T02:25:00Z
   title: Hamilton
@@ -25,6 +27,7 @@
   - '17'
   widescreen: true
   subtitled: true
+  hd: true
 - eventId:
   - 1348836
   - 1349245
@@ -88,7 +91,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 662002
+- eventId:
+  - 662002
+  - 662345
   start: 2026-11-03T02:25:00Z
   stop: 2026-11-03T03:50:00Z
   title: Hamilton
@@ -115,6 +120,7 @@
   - '17'
   widescreen: true
   subtitled: true
+  hd: true
 - eventId: 783830
   start: 2026-11-03T02:30:00Z
   stop: 2026-11-03T04:00:00Z
@@ -172,7 +178,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 662003
+- eventId:
+  - 662003
+  - 662346
   start: 2026-11-03T03:50:00Z
   stop: 2026-11-03T04:30:00Z
   title: hallo deutschland
@@ -190,6 +198,8 @@
   - '32'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 543037
   - 611547
