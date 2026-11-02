@@ -42,8 +42,17 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 660274
+  start: 2026-11-04T01:00:00Z
+  stop: 2026-11-04T01:02:00Z
+  title: Vrijeme Svijet danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 606286
+  - 660275
   - 774043
   start: 2026-11-04T01:02:00Z
   stop: 2026-11-04T01:22:00Z
@@ -61,6 +70,14 @@
   title: '#REPORTAŽE: Divić Putnica'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 660276
+  start: 2026-11-04T01:22:00Z
+  stop: 2026-11-04T01:26:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
@@ -354,7 +371,7 @@
   - 606315
   - 774071
   start: 2026-11-04T05:56:00Z
-  stop: 2026-11-04T05:58:00Z
+  stop: 2026-11-04T06:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -1357,8 +1374,8 @@
   - 629763
   - 774167
   start: 2026-11-04T20:00:00Z
-  stop: 2026-11-04T20:45:00Z
-  title: Pregled dana
+  stop: 2026-11-04T20:55:00Z
+  title: Nedjeljom u 2
   subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
   genre:
@@ -1370,6 +1387,14 @@
   stop: 2026-11-04T21:13:00Z
   title: turizam.hrt
   subtitle: Ovoga tjedna istražujemo rezultate velikog TOMAS istraživanja o turistima u Hrvatskoj - njihovim navikama, ponašanju, željama i potrošnji.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 660204
+  start: 2026-11-04T20:55:00Z
+  stop: 2026-11-04T21:40:00Z
+  title: Pregled dana
+  subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
   genre:
   - '160'
@@ -1393,11 +1418,27 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 660205
+  start: 2026-11-04T21:40:00Z
+  stop: 2026-11-04T21:52:00Z
+  title: 'DW: Shift'
+  subtitle: Emisija Deutsche Wellea donosi odgovore na pitanje kako živjeti u digitalno doba.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 629767
   - 774171
   start: 2026-11-04T21:43:00Z
   stop: 2026-11-04T22:03:00Z
+  title: 'Studio 4: U fokusu'
+  subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 660206
+  start: 2026-11-04T21:52:00Z
+  stop: 2026-11-04T22:12:00Z
   title: 'Studio 4: U fokusu'
   subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
   ageRating: 4
@@ -1433,10 +1474,26 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 660207
+  start: 2026-11-04T22:12:00Z
+  stop: 2026-11-04T22:22:00Z
+  title: Vijesti na engleskom jeziku
+  subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 629771
   - 774175
   start: 2026-11-04T22:20:00Z
+  stop: 2026-11-04T22:30:00Z
+  title: Vijesti na španjolskom jeziku
+  subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 660208
+  start: 2026-11-04T22:22:00Z
   stop: 2026-11-04T22:30:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
