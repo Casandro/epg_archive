@@ -365,9 +365,13 @@
     Saalbestuhlung statt Schlammparade
 - eventId:
   - 1166204
+  - 1289725
   - 1377873
+  - 1482992
+  - 540587
   - 556275
   - 559567
+  - 559894
   - 566039
   - 600855
   - 787894
@@ -379,26 +383,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-  subtitle: Zoogeschichten aus Stuttgart
-  description: |-
-    Themen:
-    * Beitrag I: Garantie und Gewährleistung
-    * Schalte mit Kai Fischer
-    * Serie: WH Campervan Roadtrip Südschweden (2024)
-    * Kochaktion: Pilz-Kürbis-Pfanne mit Griechischem Joghurt & Hot Honey
-- eventId:
-  - 1289725
-  - 1482992
-  - 540587
-  - 559894
-  start: 2026-11-11T07:50:00Z
-  stop: 2026-11-11T08:40:00Z
-  title: strassenstars - HISTORY
   subtitle: Comedy-Quiz rund um Menschenkenntnis zum Mitraten mit Roberto Cappelluti.
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   description: 'Schmeiß'' Deine Vorurteile weg und prüfe Deine Menschenkenntnis. Roberto Cappelluti hat drei Menschen getroffen und allen die gleichen Fragen gestellt: Wissensfragen und auch sehr persönliche Fragen. Wie gut kannst Du und wie gut können unsere drei Gäste sie einschätzen? Rateteam: Bodo Bach, Susanne Fröhlich, Jörg Thadeusz'
 - eventId:
   - 1166205
@@ -490,12 +475,14 @@
   - 980342
   start: 2026-11-11T12:35:00Z
   stop: 2026-11-11T13:20:00Z
-  title: WaPo Berlin
-  subtitle: Endlich frei
+  title: WaPo Berlin (33)
+  subtitle: Endlich frei sein
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 541515
   - 556690
@@ -505,12 +492,14 @@
   - 980343
   start: 2026-11-11T13:20:00Z
   stop: 2026-11-11T14:10:00Z
-  title: Hubert ohne Staller
+  title: Hubert ohne Staller (176)
   subtitle: Bitte recht freundlich
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 541516
   - 556691
@@ -825,6 +814,7 @@
   description: Bei Thomas Ranft und Fridolin Frosch - dem Maskottchen von "alle wetter!" - erfahren Sie, wie sich das Wetter bei uns in Hessen und in der Welt entwickelt.
   genre:
   - '16'
+  ageRating: 12
 - eventId:
   - 1223796
   - 1428875
@@ -842,7 +832,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-  subtitle: 'Moderation: Kristin Gesang'
+  subtitle: Fernsehfilm Deutschland 2009
   description: |-
     Themen u.a.:
     * Energiewendebarometer: Wie zufrieden sind die hessischen Unternehmen?
@@ -851,3 +841,4 @@
     * Narben sichtbar machen: Eine Ausstellung über Brustkrebs in Darmstadt
   genre:
   - '16'
+  ageRating: 6
