@@ -27,6 +27,7 @@
   - 577184
   - 600763
   - 627248
+  - 634201
   - 997200
   - 997697
   start: 2026-11-03T00:53:00Z
@@ -43,6 +44,7 @@
   - 577185
   - 600764
   - 627249
+  - 634202
   - 997201
   - 997698
   start: 2026-11-03T00:55:00Z
@@ -73,6 +75,7 @@
   - 577186
   - 600765
   - 627250
+  - 634203
   - 997202
   - 997699
   start: 2026-11-03T01:25:00Z
@@ -104,6 +107,7 @@
   - 577187
   - 600766
   - 627251
+  - 634204
   - 997203
   - 997700
   start: 2026-11-03T02:00:00Z
@@ -138,6 +142,7 @@
   - 577188
   - 600767
   - 627252
+  - 634205
   - 997204
   - 997701
   start: 2026-11-03T02:50:00Z
@@ -170,6 +175,7 @@
   - 577316
   - 600834
   - 627283
+  - 634254
   - 997207
   - 997220
   start: 2026-11-03T03:35:00Z
@@ -188,6 +194,7 @@
   - 577317
   - 600835
   - 627284
+  - 634255
   - 761690
   start: 2026-11-03T03:43:00Z
   stop: 2026-11-03T03:45:00Z
@@ -205,6 +212,7 @@
   - 577318
   - 600836
   - 627285
+  - 634256
   - 761691
   start: 2026-11-03T03:45:00Z
   stop: 2026-11-03T04:30:00Z
@@ -223,6 +231,7 @@
   - 577319
   - 600837
   - 627286
+  - 634257
   - 761692
   start: 2026-11-03T04:30:00Z
   stop: 2026-11-03T08:00:00Z
@@ -241,6 +250,7 @@
   - 577415
   - 600899
   - 627334
+  - 634292
   - 761714
   start: 2026-11-03T08:00:00Z
   stop: 2026-11-03T08:05:00Z
@@ -258,6 +268,7 @@
   - 577416
   - 600900
   - 627335
+  - 634293
   - 761715
   start: 2026-11-03T08:05:00Z
   stop: 2026-11-03T08:55:00Z
@@ -278,6 +289,7 @@
   - 577417
   - 600901
   - 627336
+  - 634294
   - 761716
   start: 2026-11-03T08:55:00Z
   stop: 2026-11-03T09:40:00Z
@@ -299,6 +311,7 @@
   - 577506
   - 600984
   - 627386
+  - 634359
   - 761807
   start: 2026-11-03T09:40:00Z
   stop: 2026-11-03T09:45:00Z
@@ -316,6 +329,7 @@
   - 577507
   - 600985
   - 627387
+  - 634360
   - 761808
   start: 2026-11-03T09:45:00Z
   stop: 2026-11-03T10:15:00Z
@@ -334,6 +348,7 @@
   - 577508
   - 600986
   - 627388
+  - 634361
   - 761809
   start: 2026-11-03T10:15:00Z
   stop: 2026-11-03T11:00:00Z
@@ -352,6 +367,7 @@
   - 577509
   - 600987
   - 627389
+  - 634362
   - 761810
   start: 2026-11-03T11:00:00Z
   stop: 2026-11-03T13:00:00Z
@@ -361,12 +377,17 @@
   hd: true
   audiodesc: true
   description: Gut informiert zur Mittagszeit
-- eventId: 575852
+- eventId:
+  - 575852
+  - 634389
   start: 2026-11-03T13:00:00Z
   stop: 2026-11-03T13:10:00Z
   title: Tagesschau
   description: Die Nachrichten der ARD
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1537686
   - 556718
@@ -375,6 +396,7 @@
   - 577596
   - 601043
   - 627429
+  - 634390
   - 761858
   start: 2026-11-03T13:10:00Z
   stop: 2026-11-03T14:00:00Z
@@ -393,6 +415,7 @@
   - 577597
   - 601044
   - 627430
+  - 634391
   - 761859
   start: 2026-11-03T14:00:00Z
   stop: 2026-11-03T14:10:00Z
@@ -410,6 +433,7 @@
   - 577598
   - 601045
   - 627431
+  - 634392
   - 761860
   start: 2026-11-03T14:10:00Z
   stop: 2026-11-03T15:00:00Z
@@ -428,6 +452,7 @@
   - 578229
   - 601140
   - 627494
+  - 634449
   - 761985
   start: 2026-11-03T15:00:00Z
   stop: 2026-11-03T15:10:00Z
@@ -455,6 +480,7 @@
   - 578230
   - 601141
   - 627495
+  - 634450
   start: 2026-11-03T15:10:00Z
   stop: 2026-11-03T16:00:00Z
   title: Seelöwe & Co. - tierisch beliebt
@@ -472,6 +498,7 @@
   - 578231
   - 601142
   - 627496
+  - 634451
   - 761987
   start: 2026-11-03T16:00:00Z
   stop: 2026-11-03T16:15:00Z
@@ -489,6 +516,7 @@
   - 578232
   - 601143
   - 627497
+  - 634452
   - 761988
   start: 2026-11-03T16:15:00Z
   stop: 2026-11-03T17:00:00Z
@@ -507,6 +535,7 @@
   - 578233
   - 601144
   - 627498
+  - 634453
   - 761989
   start: 2026-11-03T17:00:00Z
   stop: 2026-11-03T17:50:00Z
@@ -524,6 +553,7 @@
   - 578234
   - 601145
   - 627499
+  - 634454
   - 761990
   start: 2026-11-03T17:50:00Z
   stop: 2026-11-03T18:45:00Z
@@ -542,6 +572,7 @@
   - 578345
   - 601250
   - 627555
+  - 635502
   - 762086
   start: 2026-11-03T18:45:00Z
   stop: 2026-11-03T18:50:00Z
@@ -562,6 +593,7 @@
   - 578346
   - 601251
   - 627556
+  - 635503
   - 762087
   start: 2026-11-03T18:50:00Z
   stop: 2026-11-03T18:55:00Z
@@ -580,6 +612,7 @@
   - 578347
   - 601252
   - 627557
+  - 635504
   - 762088
   start: 2026-11-03T18:55:00Z
   stop: 2026-11-03T19:00:00Z
@@ -597,6 +630,7 @@
   - 578348
   - 601253
   - 627558
+  - 635505
   - 762089
   start: 2026-11-03T19:00:00Z
   stop: 2026-11-03T19:15:00Z
@@ -616,6 +650,7 @@
   - 578349
   - 601254
   - 627559
+  - 635506
   - 762090
   start: 2026-11-03T19:15:00Z
   stop: 2026-11-03T20:00:00Z
@@ -635,6 +670,7 @@
   - 578350
   - 601255
   - 627560
+  - 635507
   - 762091
   start: 2026-11-03T20:00:00Z
   stop: 2026-11-03T20:45:00Z
@@ -653,6 +689,7 @@
   - 578351
   - 601256
   - 627561
+  - 635508
   - 762092
   start: 2026-11-03T20:45:00Z
   stop: 2026-11-03T21:15:00Z
@@ -673,6 +710,7 @@
   - 578635
   - 601318
   - 627616
+  - 634557
   - 762223
   start: 2026-11-03T21:15:00Z
   stop: 2026-11-03T21:50:00Z
@@ -688,6 +726,7 @@
   - 578636
   - 601319
   - 627617
+  - 634558
   start: 2026-11-03T21:50:00Z
   stop: 2026-11-03T23:05:00Z
   title: maischberger
@@ -701,6 +740,7 @@
   - 578637
   - 601320
   - 627618
+  - 634559
   start: 2026-11-03T23:05:00Z
   stop: 2026-11-03T23:15:00Z
   title: Tagesschau
@@ -736,7 +776,9 @@
   hd: true
   audiodesc: true
   description: 'Ein Filmdreh endet in einer Katastrophe: Schauspieler Bodo Rickert schießt auf seinen Kollegen, doch statt einer Platzpatrone steckt scharfe Munition in der Waffe. Weil die beiden Männer zuletzt heftig aneinandergeraten waren, gerät Rickert unter Mordverdacht. Markus Gellert versucht herauszufinden, wer die tödliche Waffe manipuliert hat. Gleichzeitig übernimmt die neue Anwältin Nora Siewert ihren ersten Fall.'
-- eventId: 578638
+- eventId:
+  - 578638
+  - 634560
   start: 2026-11-03T23:15:00Z
   stop: 2026-11-03T23:45:00Z
   title: report München
@@ -745,8 +787,12 @@
     Er war der wohl raffinierteste, skrupelloseste Betrüger und Doppelagent des Kalten Krieges. Er versprach, Atomwaffen zu bauen und zockte Firmen und Regierungen ab. Er gab sich als hochdekorierter Professor oder international bestens vernetzter Atomphysiker aus. Dabei hatte er nie an einer seriösen Universität einen Abschluss erworben. Selbst in Fachkreisen ist sein Name weithin unbekannt.
     Tausende Seiten früher streng geheimer Akten, Bilddokumente und Interviews mit Zeitzeugen erzählen jetzt erstmals die Geschichte eines Mannes, der mit seinem aufgesetzten Charme seine Opfer um den Finger wickelte und dabei jede Menge Geld machte.
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 578639
+  - 634561
   - 682767
   - 683181
   start: 2026-11-03T23:45:00Z
