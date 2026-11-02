@@ -184,6 +184,7 @@
   - 782669
   - 783819
   - 785121
+  - 785849
   start: 2026-11-04T00:30:00Z
   stop: 2026-11-04T03:25:00Z
   title: DANS SPORTIV
@@ -430,6 +431,7 @@
   - 782670
   - 783820
   - 785122
+  - 785850
   start: 2026-11-04T03:25:00Z
   stop: 2026-11-04T03:55:00Z
   title: GENERATIA FIT
@@ -440,6 +442,7 @@
   - 782671
   - 783821
   - 785123
+  - 785851
   start: 2026-11-04T03:55:00Z
   stop: 2026-11-04T04:00:00Z
   title: Imnul României
@@ -450,6 +453,7 @@
   - 782672
   - 783822
   - 785124
+  - 785852
   start: 2026-11-04T04:00:00Z
   stop: 2026-11-04T05:00:00Z
   title: CAMPION LA MICROFON
@@ -696,6 +700,7 @@
   - 782673
   - 783823
   - 785125
+  - 785853
   start: 2026-11-04T05:00:00Z
   stop: 2026-11-04T06:35:00Z
   title: HANDBAL FEMINI
@@ -1136,6 +1141,7 @@
   - 780884
   - 782674
   - 785126
+  - 785854
   start: 2026-11-04T06:35:00Z
   stop: 2026-11-04T07:00:00Z
   title: GENERATIA FIT
@@ -1145,6 +1151,7 @@
   - 780885
   - 782675
   - 785127
+  - 785855
   start: 2026-11-04T07:00:00Z
   stop: 2026-11-04T07:10:00Z
   title: SPORT EXPRES
@@ -1154,6 +1161,7 @@
   - 780886
   - 782676
   - 785128
+  - 785856
   start: 2026-11-04T07:10:00Z
   stop: 2026-11-04T08:00:00Z
   title: Ora de sport
@@ -1163,6 +1171,7 @@
   - 780887
   - 782677
   - 785129
+  - 785857
   start: 2026-11-04T08:00:00Z
   stop: 2026-11-04T08:10:00Z
   title: SPORT EXPRES
@@ -1281,6 +1290,7 @@
   - 780888
   - 782678
   - 785130
+  - 785858
   start: 2026-11-04T08:10:00Z
   stop: 2026-11-04T09:00:00Z
   title: Ora de sport
@@ -1290,6 +1300,7 @@
   - 780889
   - 782679
   - 785131
+  - 785859
   start: 2026-11-04T09:00:00Z
   stop: 2026-11-04T09:10:00Z
   title: SPORT EXPRES
@@ -1299,6 +1310,7 @@
   - 780890
   - 782680
   - 785132
+  - 785860
   start: 2026-11-04T09:10:00Z
   stop: 2026-11-04T10:40:00Z
   title: HANDBAL FEMINI
@@ -1470,6 +1482,7 @@
   - 780891
   - 782681
   - 785133
+  - 785861
   start: 2026-11-04T10:40:00Z
   stop: 2026-11-04T11:00:00Z
   title: Fillere
@@ -1479,6 +1492,7 @@
   - 780892
   - 782682
   - 785134
+  - 785862
   start: 2026-11-04T11:00:00Z
   stop: 2026-11-04T11:10:00Z
   title: JURNAL SPORT
@@ -1488,6 +1502,7 @@
   - 780893
   - 782683
   - 785135
+  - 785863
   start: 2026-11-04T11:10:00Z
   stop: 2026-11-04T12:00:00Z
   title: Ora de sport
@@ -1869,6 +1884,7 @@
   - 780894
   - 782684
   - 785136
+  - 785864
   start: 2026-11-04T12:00:00Z
   stop: 2026-11-04T12:10:00Z
   title: JURNAL SPORT
@@ -1878,6 +1894,7 @@
   - 780895
   - 782685
   - 785137
+  - 785865
   start: 2026-11-04T12:10:00Z
   stop: 2026-11-04T13:00:00Z
   title: Ora de sport
@@ -1904,7 +1921,9 @@
   stop: 2026-11-04T13:59:00Z
   title: JOCURILE OLIMPICE PENTRU TINERET-DAKAR 2026
   subtitle: '  * Rezumat Producator Daniela Enachescu'
-- eventId: 785138
+- eventId:
+  - 785138
+  - 785866
   start: 2026-11-04T13:00:00Z
   stop: 2026-11-04T13:55:00Z
   title: JOCURILE OLIMPICE PENTRU TINERET-DAKAR 2026
@@ -2132,13 +2151,14 @@
   - 780897
   - 782687
   - 785139
+  - 785867
   start: 2026-11-04T13:59:00Z
   stop: 2026-11-04T14:00:00Z
   title: 'FILLER : Stiati ca'
   subtitle: ' ... '
 - eventId: 710067
   start: 2026-11-04T14:00:00Z
-  stop: 2026-11-04T14:20:00Z
+  stop: 2026-11-04T14:10:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -2149,6 +2169,7 @@
   - 780898
   - 782688
   - 785140
+  - 785868
   start: 2026-11-04T14:10:00Z
   stop: 2026-11-04T15:00:00Z
   title: Sport play
@@ -2317,7 +2338,7 @@
   - '160'
 - eventId: 710070
   start: 2026-11-04T16:00:00Z
-  stop: 2026-11-04T16:55:00Z
+  stop: 2026-11-04T16:10:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -2332,6 +2353,7 @@
   - 780899
   - 782689
   - 785141
+  - 785869
   start: 2026-11-04T16:10:00Z
   stop: 2026-11-04T16:55:00Z
   title: Lumea vitezei
@@ -2346,7 +2368,7 @@
   - '160'
 - eventId: 710072
   start: 2026-11-04T17:00:00Z
-  stop: 2026-11-04T17:30:00Z
+  stop: 2026-11-04T19:00:00Z
   title: BASCHET MASCULIN
   subtitle: '  * FIBA EUROPE CUP. GRUPA CSCM Universitatea Craiova-Gence BCPreluare TVR CraiovaTransmisiune directa '
   ageRating: 4
@@ -3107,7 +3129,7 @@
   - '32'
 - eventId: 710073
   start: 2026-11-04T19:00:00Z
-  stop: 2026-11-04T19:45:00Z
+  stop: 2026-11-04T19:10:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -3118,6 +3140,7 @@
   - 780900
   - 782690
   - 785142
+  - 785870
   start: 2026-11-04T19:10:00Z
   stop: 2026-11-04T20:40:00Z
   title: Inot
@@ -3157,6 +3180,7 @@
   - 780901
   - 782691
   - 785143
+  - 785871
   start: 2026-11-04T20:40:00Z
   stop: 2026-11-04T21:00:00Z
   title: Fillere
@@ -3170,6 +3194,7 @@
   - 780902
   - 782692
   - 785144
+  - 785872
   start: 2026-11-04T21:00:00Z
   stop: 2026-11-04T21:55:00Z
   title: JOCURILE OLIMPICE PENTRU TINERET-DAKAR 2026
@@ -3184,7 +3209,7 @@
   - '160'
 - eventId: 710077
   start: 2026-11-04T22:00:00Z
-  stop: 2026-11-04T22:20:00Z
+  stop: 2026-11-04T22:30:00Z
   title: EROII TERENULUI
   subtitle: '    (Reluare)'
   ageRating: 4
@@ -3210,6 +3235,7 @@
   - 780903
   - 782693
   - 785145
+  - 785873
   start: 2026-11-04T22:30:00Z
   stop: 2026-11-05T00:00:00Z
   title: Ora de sport
