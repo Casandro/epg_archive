@@ -1505,6 +1505,17 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 673242
+  start: 2026-11-02T22:30:41Z
+  stop: 2026-11-02T23:00:00Z
+  title: Interview ČT24
+  subtitle: 'Host: Vlastislav Bříza, bezpečnostní expert, Univerzita Karlova. Moderuje: Daniel Takáč.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId: 672798
   start: 2026-11-02T22:31:01Z
   stop: 2026-11-02T23:00:00Z
@@ -1551,20 +1562,9 @@
   - 621462
   - 637244
   - 638662
+  - 671665
   - 716466
   - 717662
-  start: 2026-11-02T23:00:00Z
-  stop: 2026-11-02T23:10:00Z
-  title: Zprávy
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '32'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 671665
   start: 2026-11-02T23:00:00Z
   stop: 2026-11-02T23:05:00Z
   title: Zprávy
@@ -1574,6 +1574,8 @@
   genre:
   - '32'
   widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 658384
   - 671666
