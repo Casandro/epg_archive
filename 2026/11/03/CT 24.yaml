@@ -641,6 +641,7 @@
   - 658902
   - 658958
   - 660337
+  - 660504
   - 740901
   - 747298
   start: 2026-11-03T11:20:00Z
@@ -703,6 +704,7 @@
   - 658904
   - 658960
   - 660339
+  - 660506
   start: 2026-11-03T11:34:00Z
   stop: 2026-11-03T12:00:00Z
   title: Archiv ČT24
@@ -763,6 +765,7 @@
   - 658906
   - 658962
   - 660341
+  - 660555
   start: 2026-11-03T12:05:00Z
   stop: 2026-11-03T12:30:00Z
   title: Archiv ČT24
@@ -802,6 +805,7 @@
   - 658909
   - 658965
   - 660344
+  - 660558
   - 740907
   - 747397
   start: 2026-11-03T12:33:00Z
@@ -864,6 +868,7 @@
   - 658911
   - 658967
   - 660346
+  - 660560
   start: 2026-11-03T13:05:00Z
   stop: 2026-11-03T13:30:00Z
   title: Archiv ČT24
@@ -902,6 +907,7 @@
   - 658914
   - 658970
   - 660349
+  - 660563
   - 740911
   - 747401
   start: 2026-11-03T13:33:00Z
@@ -964,6 +970,7 @@
   - 658916
   - 658972
   - 660351
+  - 660565
   start: 2026-11-03T14:05:00Z
   stop: 2026-11-03T14:30:00Z
   title: Archiv ČT24
@@ -1003,6 +1010,7 @@
   - 658919
   - 658975
   - 660363
+  - 660625
   - 740915
   - 747405
   start: 2026-11-03T14:33:00Z
@@ -1026,6 +1034,7 @@
   - 658920
   - 658976
   - 660364
+  - 660626
   - 740916
   - 747406
   start: 2026-11-03T14:40:00Z
@@ -1060,6 +1069,19 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 660627
+  start: 2026-11-03T15:00:00Z
+  stop: 2026-11-03T15:05:00Z
+  title: Zprávy v 16
+  description: |-
+    HDTV
+    Znakový jazyk
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 658639
   - 658922
@@ -1073,6 +1095,19 @@
   - '151'
   subtitled: true
   widescreen: true
+  hd: true
+- eventId: 660628
+  start: 2026-11-03T15:05:00Z
+  stop: 2026-11-03T15:30:00Z
+  title: Archiv ČT24
+  subtitle: Není dar jako dar. Dary se dávají při různých příležitostech.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '151'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId:
   - 611167
@@ -1101,6 +1136,7 @@
   - 658642
   - 658925
   - 658981
+  - 660631
   - 740919
   - 747618
   start: 2026-11-03T15:33:00Z
@@ -1165,6 +1201,19 @@
   genre:
   - '151'
   subtitled: true
+- eventId: 660633
+  start: 2026-11-03T16:05:00Z
+  stop: 2026-11-03T16:30:00Z
+  title: Archiv ČT24
+  subtitle: Veletržní novinky. Čím jsme se chlubili na domácích veletrzích v druhé polovině dvacátého století.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '151'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 611171
   - 639192
@@ -1190,6 +1239,7 @@
   - 658647
   - 658930
   - 658986
+  - 660636
   - 740429
   - 740679
   start: 2026-11-03T16:33:00Z
@@ -1266,6 +1316,19 @@
   genre:
   - '151'
   subtitled: true
+- eventId: 660638
+  start: 2026-11-03T17:05:00Z
+  stop: 2026-11-03T17:27:50Z
+  title: Archiv ČT24
+  subtitle: Co viděl Staroměstský orloj. Staroměstská radnice a orloj jsou významnou památkou.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '151'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 611176
   - 639197
@@ -1303,6 +1366,7 @@
 - eventId:
   - 658651
   - 658990
+  - 660672
   start: 2026-11-03T17:32:00Z
   stop: 2026-11-03T17:55:00Z
   description: |-
@@ -1342,6 +1406,26 @@
   start: 2026-11-03T18:00:00Z
   stop: 2026-11-03T18:54:00Z
   title: Události
+  subtitle: Hlavní zpravodajská relace České televize. Souhrn nejdůležitějších událostí dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Znakový jazyk
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 621028
+  - 635752
+  - 643221
+  - 660689
+  start: 2026-11-03T18:08:00Z
+  stop: 2026-11-03T18:34:00Z
+  title: Archiv ČT24
   subtitle: Hlavní zpravodajská relace České televize. Souhrn nejdůležitějších událostí dne v ČR i ve světě.
   description: |-
     HDTV
@@ -1417,6 +1501,24 @@
   hd: true
   subtitled: true
 - eventId:
+  - 621030
+  - 635754
+  - 643223
+  - 660691
+  start: 2026-11-03T18:54:00Z
+  stop: 2026-11-03T18:56:00Z
+  title: Počasí v evropských metropolích
+  description: |-
+    HDTV
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 611364
   - 639831
   - 740442
@@ -1424,6 +1526,24 @@
   start: 2026-11-03T18:56:00Z
   stop: 2026-11-03T19:07:00Z
   title: Branky, body, vteřiny
+  description: |-
+    HDTV
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 621032
+  - 635756
+  - 643225
+  - 660693
+  start: 2026-11-03T19:00:00Z
+  stop: 2026-11-03T19:05:00Z
+  title: Zprávy ve 20
   description: |-
     HDTV
     Zvukový popis
@@ -1484,7 +1604,9 @@
   genre:
   - '151'
   subtitled: true
-- eventId: 660375
+- eventId:
+  - 660375
+  - 660696
   start: 2026-11-03T19:32:00Z
   stop: 2026-11-03T20:00:00Z
   title: Archiv ČT24
@@ -1507,7 +1629,9 @@
   genre:
   - '32'
   audiodesc: true
-- eventId: 660376
+- eventId:
+  - 660376
+  - 660697
   start: 2026-11-03T20:00:00Z
   stop: 2026-11-03T20:05:00Z
   title: Zprávy
@@ -1531,7 +1655,9 @@
   genre:
   - '151'
   subtitled: true
-- eventId: 660377
+- eventId:
+  - 660377
+  - 660698
   start: 2026-11-03T20:05:00Z
   stop: 2026-11-03T20:30:00Z
   title: Archiv ČT24
@@ -1571,7 +1697,9 @@
   genre:
   - '151'
   subtitled: true
-- eventId: 660379
+- eventId:
+  - 660379
+  - 660700
   start: 2026-11-03T20:32:00Z
   stop: 2026-11-03T21:00:00Z
   title: Archiv ČT24
@@ -1611,7 +1739,9 @@
   genre:
   - '151'
   subtitled: true
-- eventId: 660385
+- eventId:
+  - 660385
+  - 660718
   start: 2026-11-03T21:05:00Z
   stop: 2026-11-03T21:32:00Z
   title: Archiv ČT24
@@ -1634,7 +1764,9 @@
   genre:
   - '151'
   subtitled: true
-- eventId: 660386
+- eventId:
+  - 660386
+  - 660719
   start: 2026-11-03T21:32:00Z
   stop: 2026-11-03T22:00:00Z
   title: Archiv ČT24
