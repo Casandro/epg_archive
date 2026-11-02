@@ -108,6 +108,7 @@
   audiodesc: true
 - eventId:
   - 563800
+  - 581377
   - 738686
   start: 2026-11-23T08:00:00Z
   stop: 2026-11-23T11:00:00Z
@@ -118,6 +119,7 @@
   audiodesc: true
 - eventId:
   - 564983
+  - 581722
   - 738729
   start: 2026-11-23T11:00:00Z
   stop: 2026-11-23T13:00:00Z
@@ -127,6 +129,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 547600
   - 565932
   - 738750
   start: 2026-11-23T13:00:00Z
@@ -137,6 +140,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 549562
   - 568297
   - 740777
   start: 2026-11-23T18:00:00Z
@@ -146,6 +150,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 549563
   - 568298
   - 740778
   start: 2026-11-23T18:08:00Z
@@ -155,6 +160,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 549564
   - 568299
   - 740779
   start: 2026-11-23T19:00:00Z
@@ -167,6 +173,22 @@
   - '32'
   subtitled: true
 - eventId:
+  - 1321372
+  - 1511942
+  - 541185
+  - 549565
+  - 578257
+  - 582378
+  start: 2026-11-23T19:15:00Z
+  stop: 2026-11-23T19:30:00Z
+  title: Tagesschau in Einfacher Sprache
+  widescreen: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Etwa 17 Millionen Erwachsene in Deutschland haben Probleme damit, komplexe Texte zu verstehen. Damit auch sie sich über aktuelle Themen informieren können, strahlt die tagesschau ab sofort Fernsehnachrichten in Einfacher Sprache aus.
+    Vertrauenswürdige tagesaktuelle Nachrichten für alle - die sind nicht nur wichtig, um sich informieren zu können - sondern auch, um am gesellschaftlichen Diskurs teilzuhaben. Doch die klassischen Nachrichten sind nicht immer für alle Menschen verständlich. Deshalb gibt es die tagesschau jetzt auch in Einfacher Sprache.
+- eventId:
   - 568300
   - 740780
   start: 2026-11-23T19:15:00Z
@@ -175,6 +197,20 @@
   widescreen: true
   hd: true
   audiodesc: true
+- eventId:
+  - 1321373
+  - 1511943
+  - 541186
+  - 549566
+  - 578258
+  - 582379
+  start: 2026-11-23T19:30:00Z
+  stop: 2026-11-23T20:30:00Z
+  title: Tagesschau-Nachrichten
+  widescreen: true
+  hd: true
+  audiodesc: true
+  description: "Das Wichtigste aus Politik, Wirtschaft, Kultur, Sport und Wissenschaft. Korrespondenten der ARD sorgen für schnelle und präzise News. \n\nDie Tagesschau-Ausgaben zur vollen Stunde werden teilweise mit Videotext-Untertiteln ausgestrahlt."
 - eventId:
   - 568301
   - 740781
@@ -185,6 +221,24 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1321374
+  - 1511944
+  - 541187
+  - 549567
+  - 578259
+  - 582380
+  start: 2026-11-23T20:30:00Z
+  stop: 2026-11-23T20:32:00Z
+  title: Tagesschau
+  widescreen: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Themen:
+    * Nach Sieg der Studentenliste - Serbien steht vor politischem Neuanfang
+    * Gesetzentwurf zum Gebäudetyp E - Wie Bauen günstiger werden soll
+    * Nach Kollision in Bremerhaven - Millionenschäden an Kreuzfahrtschiff und Container-Frachtern
+- eventId:
   - 568302
   - 740782
   start: 2026-11-23T20:30:00Z
@@ -194,27 +248,27 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 568303
-  - 740783
+  - 1321375
+  - 1511945
+  - 541188
+  - 549568
+  - 578260
+  - 582381
   start: 2026-11-23T20:32:00Z
   stop: 2026-11-23T21:02:00Z
   title: Ulrich Timm im Gespräch mit Prof. Tom Mannewitz
-  subtitle: Prof. für politischen Extremismus, Hochschule des Bundes
   widescreen: true
   hd: true
   audiodesc: true
-- eventId:
-  - 569414
-  - 738880
+  subtitle: 'Lula gewinnt Stichwahl in Brasilien: Bolsonaro erkennt Sieg nicht an'
+- eventId: 550847
   start: 2026-11-23T21:02:00Z
   stop: 2026-11-23T21:15:00Z
   title: Shift
   widescreen: true
   hd: true
   audiodesc: true
-- eventId:
-  - 569415
-  - 738881
+- eventId: 550848
   start: 2026-11-23T21:15:00Z
   stop: 2026-11-23T21:50:00Z
   title: Tagesthemen
@@ -223,18 +277,14 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 569416
-  - 738882
+- eventId: 550849
   start: 2026-11-23T21:50:00Z
   stop: 2026-11-23T23:20:00Z
   title: Tagesschau-Nachrichten
   widescreen: true
   hd: true
   audiodesc: true
-- eventId:
-  - 569417
-  - 738883
+- eventId: 550850
   start: 2026-11-23T23:20:00Z
   stop: 2026-11-23T23:50:00Z
   title: Europamagazin
@@ -242,9 +292,7 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId:
-  - 569418
-  - 738884
+- eventId: 550851
   start: 2026-11-23T23:50:00Z
   stop: 2026-11-23T23:55:00Z
   title: Tagesschau
@@ -252,9 +300,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 569419
-  - 738885
+- eventId: 550852
   start: 2026-11-23T23:55:00Z
   stop: 2026-11-24T00:10:00Z
   title: Tagesschau vor 20 Jahren

@@ -2798,6 +2798,7 @@
   - 1029230
   - 611754
   - 618821
+  - 622833
   - 647875
   - 649040
   - 652193
@@ -3062,6 +3063,7 @@
   genre:
   - '96'
 - eventId:
+  - 622957
   - 739008
   - 739882
   - 741023
@@ -3379,6 +3381,7 @@
   genre:
   - '96'
 - eventId:
+  - 600144
   - 739652
   - 740025
   - 740333
@@ -3459,6 +3462,7 @@
   genre:
   - '128'
 - eventId:
+  - 600145
   - 618861
   - 649066
   - 652219
@@ -3663,6 +3667,7 @@
   title: Ora de sport
   subtitle: ' (Partea a II-a)    (Reluare)'
 - eventId:
+  - 600147
   - 618862
   - 649067
   - 652220
@@ -3780,6 +3785,7 @@
   title: JOCURILE OLIMPICE PENTRU TINERET-DAKAR 2026
   subtitle: '  * Rezumat Producator Daniela Enachescu'
 - eventId:
+  - 600148
   - 618863
   - 649068
   - 652221
@@ -3865,6 +3871,7 @@
   genre:
   - '128'
 - eventId:
+  - 600149
   - 717015
   - 721611
   - 721937
@@ -3942,6 +3949,14 @@
   stop: 2026-11-02T14:00:00Z
   title: 'FILLER : Stiati ca'
   subtitle: ' ... '
+- eventId: 600150
+  start: 2026-11-02T14:00:00Z
+  stop: 2026-11-02T14:20:00Z
+  title: Lajme ALB
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 709998
   start: 2026-11-02T14:00:00Z
   stop: 2026-11-02T14:10:00Z
@@ -3970,6 +3985,7 @@
   title: In prelungiri
   subtitle: '  * Premiera*Preluare TVR Timisoara '
 - eventId:
+  - 600151
   - 618867
   - 649070
   - 652223
@@ -4062,11 +4078,21 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 710000
+- eventId:
+  - 600152
+  - 710000
   start: 2026-11-02T15:00:00Z
   stop: 2026-11-02T16:00:00Z
   title: Preferenca Muzikore
   subtitle: '  *AUR    (Reluare)'
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 600153
+  start: 2026-11-02T16:00:00Z
+  stop: 2026-11-02T16:55:00Z
+  title: Pastel
+  subtitle: ' '
   ageRating: 4
   genre:
   - '160'
@@ -4303,6 +4329,14 @@
   stop: 2026-11-02T16:55:00Z
   title: RETROSPORT
   subtitle: '  * PremieraArhiva TVR'
+- eventId: 600154
+  start: 2026-11-02T16:55:00Z
+  stop: 2026-11-02T17:00:00Z
+  title: Promo
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 710011
   - 717017
@@ -4363,6 +4397,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 600155
+  start: 2026-11-02T17:00:00Z
+  stop: 2026-11-02T17:30:00Z
+  title: Reportazhe
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 710004
   start: 2026-11-02T17:00:00Z
   stop: 2026-11-02T17:30:00Z
@@ -4371,6 +4413,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 600156
+  start: 2026-11-02T17:30:00Z
+  stop: 2026-11-02T18:00:00Z
+  title: Live news AL
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 710005
   start: 2026-11-02T17:30:00Z
   stop: 2026-11-02T18:00:00Z
@@ -4379,11 +4429,71 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 600202
+  start: 2026-11-02T18:00:00Z
+  stop: 2026-11-02T18:10:00Z
+  title: Promo
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 710006
   start: 2026-11-02T18:00:00Z
   stop: 2026-11-02T19:30:00Z
   title: HANDBAL FEMINI
   subtitle: '  * LIGA FLORILOR * ET. 8SCM Universitatea Craiova-CS Rapid BucurestiPreluare TVR CraiovaTransmisiune directa '
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 600203
+  - 721613
+  - 721939
+  - 724363
+  - 725958
+  - 726280
+  - 728164
+  - 728526
+  - 730209
+  - 730985
+  - 731880
+  - 733759
+  - 735277
+  - 736873
+  - 737898
+  - 739658
+  - 740031
+  - 740339
+  - 741119
+  - 741337
+  - 741465
+  - 745848
+  - 748660
+  - 752785
+  - 756088
+  - 758253
+  - 758662
+  - 758964
+  - 760244
+  - 764553
+  - 765095
+  - 766052
+  - 766931
+  - 767870
+  - 768249
+  - 770055
+  - 773957
+  - 777740
+  - 778771
+  - 781169
+  - 784958
+  - 785743
+  - 786788
+  - 787784
+  start: 2026-11-02T18:10:00Z
+  stop: 2026-11-02T18:20:00Z
+  title: 10 minuta
+  subtitle: ' '
   ageRating: 4
   genre:
   - '160'
@@ -4438,52 +4548,52 @@
   genre:
   - '96'
 - eventId:
-  - 721613
-  - 721939
-  - 724363
-  - 725958
-  - 726280
-  - 728164
-  - 728526
-  - 730209
-  - 730985
-  - 731880
-  - 733759
-  - 735277
-  - 736873
-  - 737898
-  - 739658
-  - 740031
-  - 740339
-  - 741119
-  - 741337
-  - 741465
-  - 745848
-  - 748660
-  - 752785
-  - 756088
-  - 758253
-  - 758662
-  - 758964
-  - 760244
-  - 764553
-  - 765095
-  - 766052
-  - 766931
-  - 767870
-  - 768249
-  - 770055
-  - 773957
-  - 777740
-  - 778771
-  - 781169
-  - 784958
-  - 785743
-  - 786788
-  - 787784
-  start: 2026-11-02T18:10:00Z
-  stop: 2026-11-02T18:20:00Z
-  title: 10 minuta
+  - 600204
+  - 721614
+  - 721940
+  - 724364
+  - 725959
+  - 726281
+  - 728165
+  - 730210
+  - 730986
+  - 731881
+  - 733760
+  - 735278
+  - 736874
+  - 737899
+  - 739659
+  - 740032
+  - 740340
+  - 741120
+  - 741338
+  - 741466
+  - 745849
+  - 748661
+  - 752786
+  - 756089
+  - 758254
+  - 758663
+  - 758965
+  - 760245
+  - 764554
+  - 765096
+  - 766053
+  - 766932
+  - 767871
+  - 768250
+  - 770056
+  - 773958
+  - 777741
+  - 778772
+  - 781170
+  - 784959
+  - 785744
+  - 786789
+  - 787785
+  start: 2026-11-02T18:20:00Z
+  stop: 2026-11-02T18:30:00Z
+  title: Promo
   subtitle: ' '
   ageRating: 4
   genre:
@@ -4670,56 +4780,7 @@
   genre:
   - '160'
 - eventId:
-  - 721614
-  - 721940
-  - 724364
-  - 725959
-  - 726281
-  - 728165
-  - 730210
-  - 730986
-  - 731881
-  - 733760
-  - 735278
-  - 736874
-  - 737899
-  - 739659
-  - 740032
-  - 740340
-  - 741120
-  - 741338
-  - 741466
-  - 745849
-  - 748661
-  - 752786
-  - 756089
-  - 758254
-  - 758663
-  - 758965
-  - 760245
-  - 764554
-  - 765096
-  - 766053
-  - 766932
-  - 767871
-  - 768250
-  - 770056
-  - 773958
-  - 777741
-  - 778772
-  - 781170
-  - 784959
-  - 785744
-  - 786789
-  - 787785
-  start: 2026-11-02T18:20:00Z
-  stop: 2026-11-02T18:30:00Z
-  title: Promo
-  subtitle: ' '
-  ageRating: 4
-  genre:
-  - '160'
-- eventId:
+  - 600205
   - 618873
   - 649073
   - 652226
@@ -4905,6 +4966,7 @@
   genre:
   - '96'
 - eventId:
+  - 600206
   - 618875
   - 649074
   - 652227
@@ -5131,6 +5193,14 @@
   stop: 2026-11-02T20:30:00Z
   title: STADION
   subtitle: '  *MAGAZIN VOLEI * Premiera '
+- eventId: 600207
+  start: 2026-11-02T20:30:00Z
+  stop: 2026-11-02T21:55:00Z
+  title: Click Plus
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 710008
   start: 2026-11-02T20:30:00Z
   stop: 2026-11-02T21:00:00Z
@@ -5254,6 +5324,7 @@
   title: JOCURILE OLIMPICE PENTRU TINERET-DAKAR 2026
   subtitle: '  * Rezumat Producator Daniela Enachescu  (Reluare)'
 - eventId:
+  - 600208
   - 717030
   - 721531
   - 723904
@@ -5305,6 +5376,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 600209
+  start: 2026-11-02T22:00:00Z
+  stop: 2026-11-02T22:20:00Z
+  title: Live News MK
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 710010
   start: 2026-11-02T22:00:00Z
   stop: 2026-11-02T23:00:00Z
@@ -5398,6 +5477,7 @@
   genre:
   - '128'
 - eventId:
+  - 600210
   - 717031
   - 721532
   - 721617
@@ -5632,6 +5712,7 @@
   title: Ora de sport
   subtitle: ' (Partea I+ II ) '
 - eventId:
+  - 600211
   - 717032
   - 721533
   - 721618

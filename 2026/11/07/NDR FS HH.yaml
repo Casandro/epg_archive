@@ -10,6 +10,7 @@
 - eventId:
   - 588095
   - 592348
+  - 607098
   start: 2026-11-07T00:20:00Z
   stop: 2026-11-07T02:20:00Z
   title: 3nach9
@@ -48,6 +49,7 @@
   - 1401737
   - 588096
   - 592349
+  - 607099
   - 615535
   start: 2026-11-07T02:20:00Z
   stop: 2026-11-07T02:45:00Z
@@ -61,6 +63,7 @@
   - 1401738
   - 588097
   - 592350
+  - 607100
   - 615536
   - 680603
   start: 2026-11-07T02:45:00Z
@@ -78,6 +81,7 @@
 - eventId:
   - 588234
   - 592489
+  - 607184
   - 680622
   start: 2026-11-07T03:15:00Z
   stop: 2026-11-07T03:45:00Z
@@ -89,6 +93,7 @@
 - eventId:
   - 588235
   - 592490
+  - 607185
   - 680623
   start: 2026-11-07T03:45:00Z
   stop: 2026-11-07T04:15:00Z
@@ -101,6 +106,7 @@
 - eventId:
   - 588236
   - 592491
+  - 607186
   - 680624
   start: 2026-11-07T04:15:00Z
   stop: 2026-11-07T05:00:00Z
@@ -126,9 +132,22 @@
   genre:
   - '112'
   description: 'Viele Senioren hängen an ihrem Führerschein. Er gibt ihnen die Freiheit, weiter mobil zu bleiben, morgens einkaufen zu fahren, nachmittags zum Sport, abends zum Schach mit dem Kumpel. Aber natürlich bauen Menschen im Alter ab: die Hör- und Sehfähigkeit, das Reaktionsvermögen sind oft eingeschränkt. Aber wie werden Ältere wieder sicher hinterm Steuer? "Die Nordreportage" zeigt, wie Fahrlehrer ihre Seniorenschüler fit machen.'
+- eventId: 607187
+  start: 2026-11-07T05:00:00Z
+  stop: 2026-11-07T05:30:00Z
+  title: Die Nordreportage
+  subtitle: Fahrschule für Senioren - Lappen weg oder weiterfahren?
+  description: 'Viele Senioren hängen an ihrem Führerschein. Er gibt ihnen die Freiheit, weiter mobil zu bleiben, morgens einkaufen zu fahren, nachmittags zum Sport, abends zum Schach mit dem Kumpel. Aber natürlich bauen Menschen im Alter ab: die Hör- und Sehfähigkeit, das Reaktionsvermögen sind oft eingeschränkt. Aber wie werden Ältere wieder sicher hinterm Steuer? "Die Nordreportage" zeigt, wie Fahrlehrer ihre Seniorenschüler fit machen.'
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 588238
   - 592493
+  - 607188
   - 680626
   start: 2026-11-07T05:30:00Z
   stop: 2026-11-07T06:00:00Z
@@ -142,6 +161,7 @@
 - eventId:
   - 588376
   - 592668
+  - 607290
   - 680650
   start: 2026-11-07T06:00:00Z
   stop: 2026-11-07T06:30:00Z
@@ -152,7 +172,9 @@
   hd: true
   audiodesc: true
   description: Lach- und Sachgeschichten, heute mit Clarissa und dem Geheimnis des Induktionsherdes, einem Mädchen und seinem Zaubertopf, einem Quatsch-Experiment mit Pfannkuchenteig, Shaun, Bitzer und einem chaotischen Date - und natürlich mit der Maus, dem Elefanten und der Ente.
-- eventId: 588377
+- eventId:
+  - 588377
+  - 607291
   start: 2026-11-07T06:30:00Z
   stop: 2026-11-07T07:00:00Z
   title: Sehen statt Hören
@@ -178,6 +200,7 @@
 - eventId:
   - 588378
   - 592670
+  - 607292
   - 680652
   start: 2026-11-07T07:00:00Z
   stop: 2026-11-07T07:30:00Z
@@ -191,6 +214,7 @@
 - eventId:
   - 588379
   - 592671
+  - 607293
   - 680653
   start: 2026-11-07T07:30:00Z
   stop: 2026-11-07T08:00:00Z
@@ -204,6 +228,7 @@
 - eventId:
   - 588380
   - 592672
+  - 607294
   - 680654
   start: 2026-11-07T08:00:00Z
   stop: 2026-11-07T08:30:00Z
@@ -225,6 +250,7 @@
   audiodesc: true
 - eventId:
   - 592673
+  - 607295
   - 680655
   start: 2026-11-07T08:30:00Z
   stop: 2026-11-07T09:00:00Z
@@ -236,6 +262,7 @@
 - eventId:
   - 578352
   - 593262
+  - 607463
   - 680688
   start: 2026-11-07T09:00:00Z
   stop: 2026-11-07T09:30:00Z
@@ -247,6 +274,7 @@
 - eventId:
   - 578353
   - 593263
+  - 607464
   - 680689
   start: 2026-11-07T09:30:00Z
   stop: 2026-11-07T10:00:00Z
@@ -259,6 +287,7 @@
 - eventId:
   - 578354
   - 593264
+  - 607465
   - 680690
   start: 2026-11-07T10:00:00Z
   stop: 2026-11-07T10:30:00Z
@@ -280,6 +309,16 @@
   hd: true
   audiodesc: true
   description: Auf jeweils vier Höfen aus allen vier norddeutschen Bundesländern geht es um die alltäglichen Herausforderungen für die Landwirte. Rinder, Hühner, Schafe, Pferde und Schweine gehören auf dem Land genauso dazu wie der ständige Blick aufs Wetter. Das ist wichtig, damit die Ernte rechtzeitig eingebracht werden kann. Bei "Hofgeschichten - Anpacken" treffen sich die Akteure aus den Hofgeschichten mit Zuschauern und Zuschauerinnen, um gemeinsam eine Aufgabe auf dem Hof zu bewältigen. Dabei tauschen sie sich auch aus über das Leben auf dem Land und die Arbeit auf den Höfen.
+- eventId: 607466
+  start: 2026-11-07T10:30:00Z
+  stop: 2026-11-07T11:00:00Z
+  title: Die Nordreportage
+  subtitle: Hofgeschichten
+  description: Auf jeweils vier Höfen aus allen vier norddeutschen Bundesländern geht es um die alltäglichen Herausforderungen für die Landwirte. Rinder, Hühner, Schafe, Pferde und Schweine gehören auf dem Land genauso dazu wie der ständige Blick aufs Wetter. Das ist wichtig, damit die Ernte rechtzeitig eingebracht werden kann. Bei "Hofgeschichten - Anpacken" treffen sich die Akteure aus den Hofgeschichten mit Zuschauern und Zuschauerinnen, um gemeinsam eine Aufgabe auf dem Hof zu bewältigen. Dabei tauschen sie sich auch aus über das Leben auf dem Land und die Arbeit auf den Höfen.
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 680691
   start: 2026-11-07T10:30:00Z
   stop: 2026-11-07T11:00:00Z
@@ -292,6 +331,7 @@
 - eventId:
   - 578356
   - 593266
+  - 607467
   - 680692
   start: 2026-11-07T11:00:00Z
   stop: 2026-11-07T11:45:00Z
@@ -305,6 +345,7 @@
 - eventId:
   - 578357
   - 593267
+  - 607468
   - 680693
   start: 2026-11-07T11:45:00Z
   stop: 2026-11-07T12:15:00Z
@@ -318,6 +359,7 @@
 - eventId:
   - 578680
   - 593405
+  - 607557
   - 680712
   start: 2026-11-07T12:15:00Z
   stop: 2026-11-07T13:00:00Z
@@ -331,6 +373,7 @@
 - eventId:
   - 578681
   - 593406
+  - 607558
   - 680713
   start: 2026-11-07T13:00:00Z
   stop: 2026-11-07T14:30:00Z
@@ -346,6 +389,7 @@
 - eventId:
   - 578682
   - 593407
+  - 607559
   - 680714
   start: 2026-11-07T14:30:00Z
   stop: 2026-11-07T15:00:00Z
@@ -361,6 +405,7 @@
 - eventId:
   - 578992
   - 593553
+  - 607658
   - 680736
   start: 2026-11-07T15:00:00Z
   stop: 2026-11-07T15:30:00Z
@@ -374,6 +419,7 @@
 - eventId:
   - 578993
   - 593554
+  - 607659
   - 680737
   start: 2026-11-07T15:30:00Z
   stop: 2026-11-07T16:15:00Z
@@ -387,6 +433,7 @@
 - eventId:
   - 578994
   - 593555
+  - 607660
   - 680738
   start: 2026-11-07T16:15:00Z
   stop: 2026-11-07T17:00:00Z
@@ -400,6 +447,7 @@
 - eventId:
   - 578995
   - 593556
+  - 607661
   - 680739
   start: 2026-11-07T17:00:00Z
   stop: 2026-11-07T17:45:00Z
@@ -412,6 +460,7 @@
 - eventId:
   - 578996
   - 593557
+  - 607662
   - 680740
   start: 2026-11-07T17:45:00Z
   stop: 2026-11-07T18:30:00Z
@@ -425,6 +474,7 @@
 - eventId:
   - 579647
   - 593736
+  - 607768
   - 689290
   start: 2026-11-07T18:30:00Z
   stop: 2026-11-07T19:00:00Z
@@ -436,6 +486,7 @@
 - eventId:
   - 579648
   - 593737
+  - 607769
   - 680762
   start: 2026-11-07T19:00:00Z
   stop: 2026-11-07T19:15:00Z
@@ -450,6 +501,7 @@
 - eventId:
   - 579649
   - 593738
+  - 607770
   - 680763
   start: 2026-11-07T19:15:00Z
   stop: 2026-11-07T20:45:00Z
@@ -462,6 +514,7 @@
 - eventId:
   - 579650
   - 593739
+  - 607771
   - 680764
   start: 2026-11-07T20:45:00Z
   stop: 2026-11-07T22:15:00Z
@@ -475,6 +528,7 @@
 - eventId:
   - 580153
   - 593881
+  - 607838
   - 680773
   start: 2026-11-07T22:15:00Z
   stop: 2026-11-07T23:35:00Z
@@ -486,6 +540,7 @@
 - eventId:
   - 580154
   - 593882
+  - 607839
   - 688010
   start: 2026-11-07T23:35:00Z
   stop: 2026-11-08T01:05:00Z

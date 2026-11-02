@@ -15,8 +15,10 @@
 - eventId:
   - 1546789
   - 552969
+  - 573221
   - 578558
   - 592304
+  - 607071
   - 616436
   - 761658
   start: 2026-11-03T00:30:00Z
@@ -48,6 +50,8 @@
 
     u.a. Aktuelles
 - eventId:
+  - 573222
+  - 607072
   - 735563
   - 735682
   start: 2026-11-03T01:15:00Z
@@ -62,7 +66,9 @@
   ageRating: 12
 - eventId:
   - 552970
+  - 573223
   - 578559
+  - 607073
   - 700527
   - 700672
   start: 2026-11-03T02:45:00Z
@@ -79,7 +85,9 @@
   - '118'
 - eventId:
   - 553266
+  - 573458
   - 578672
+  - 607150
   - 700528
   - 700673
   start: 2026-11-03T03:30:00Z
@@ -92,9 +100,11 @@
 - eventId:
   - 1546791
   - 553267
+  - 573459
   - 577288
   - 578673
   - 592448
+  - 607151
   - 616789
   - 700614
   - 761684
@@ -107,9 +117,11 @@
 - eventId:
   - 1546792
   - 553268
+  - 573460
   - 577289
   - 578674
   - 592449
+  - 607152
   - 616790
   - 761685
   start: 2026-11-03T04:30:00Z
@@ -142,8 +154,10 @@
 - eventId:
   - 1546795
   - 556444
+  - 573837
   - 578785
   - 592634
+  - 607258
   - 617168
   - 761709
   start: 2026-11-03T08:00:00Z
@@ -172,8 +186,10 @@
 - eventId:
   - 1546796
   - 556445
+  - 573838
   - 578786
   - 592635
+  - 607259
   - 617169
   - 761710
   start: 2026-11-03T08:30:00Z
@@ -183,40 +199,17 @@
   widescreen: true
   hd: true
 - eventId:
-  - 1546797
-  - 556571
-  - 577474
-  - 578884
-  - 593211
-  - 630970
-  - 761799
+  - 574036
+  - 611438
   start: 2026-11-03T09:00:00Z
   stop: 2026-11-03T09:45:00Z
   title: phoenix vor ort
-  subtitle: u.a. Aktuelles
-  widescreen: true
-  hd: true
-  description: |-
-    Dienstag, 3. November 2026
-
-    ca. 10:00 Uhr:
-
-    u.a. Aktuelles
-- eventId:
-  - 1546798
-  - 556572
-  - 577475
-  - 578885
-  - 593212
-  - 630971
-  - 761800
-  start: 2026-11-03T09:30:00Z
-  stop: 2026-11-03T11:00:00Z
-  title: phoenix plus
-  subtitle: Themen und Hintergründe
+  description: '* Aktuelles'
   widescreen: true
   hd: true
 - eventId:
+  - 574037
+  - 611439
   - 735564
   - 735683
   start: 2026-11-03T09:45:00Z
@@ -230,6 +223,8 @@
   widescreen: true
   hd: true
 - eventId:
+  - 574038
+  - 611440
   - 735565
   - 735684
   start: 2026-11-03T10:30:00Z
@@ -240,25 +235,20 @@
   widescreen: true
   hd: true
 - eventId:
-  - 1546799
-  - 556573
-  - 577476
-  - 578886
-  - 593213
-  - 630972
-  - 761801
+  - 574039
+  - 611441
   start: 2026-11-03T11:00:00Z
   stop: 2026-11-03T12:00:00Z
   title: phoenix vor ort
   subtitle: u.a. Aktuelles
-  widescreen: true
-  hd: true
   description: |-
     Dienstag, 3. November 2026
 
     ca. 12:00 Uhr:
 
     u.a. Aktuelles
+  widescreen: true
+  hd: true
 - eventId:
   - 1546800
   - 556574
@@ -274,6 +264,8 @@
   widescreen: true
   hd: true
 - eventId:
+  - 574455
+  - 607532
   - 735566
   - 735685
   start: 2026-11-03T12:00:00Z
@@ -311,9 +303,11 @@
 - eventId:
   - 1546802
   - 556686
+  - 574456
   - 577570
   - 578983
   - 593376
+  - 607533
   - 631133
   - 761854
   start: 2026-11-03T14:15:00Z
@@ -325,9 +319,11 @@
 - eventId:
   - 1546804
   - 556811
+  - 577308
   - 578201
   - 579088
   - 593500
+  - 607613
   - 631265
   - 761949
   start: 2026-11-03T15:00:00Z
@@ -356,6 +352,8 @@
   widescreen: true
   hd: true
 - eventId:
+  - 577309
+  - 607614
   - 735609
   - 735686
   start: 2026-11-03T16:00:00Z
@@ -368,9 +366,11 @@
 - eventId:
   - 1546806
   - 556813
+  - 577310
   - 578203
   - 579090
   - 593502
+  - 607615
   - 631267
   - 761951
   start: 2026-11-03T16:30:00Z
@@ -401,11 +401,23 @@
   subtitle: Amerika vor den Midterms
   description: Die Midterms entscheiden, ob Präsident Trump die Mehrheit im US-Kongress behält. In der Bevölkerung wachsen die Unzufriedenheit und die Sorge über den zunehmenden Einfluss auf Wahlen. Während bei den Demokraten überraschend der linke Flügel im Aufschwung ist, bröckelt an Trumps eigener Basis der Rückhalt. Der Iran-Krieg und die massiv steigenden Lebenshaltungskosten lassen Trumps Umfragewerte abrutschen. Aber verliert er wirklich seine Mehrheit im amerikanischen Kongress? Und was wären die Folgen?
 - eventId:
+  - 577311
+  - 607616
+  start: 2026-11-03T17:00:00Z
+  stop: 2026-11-03T17:30:00Z
+  title: Trumps Machtprobe
+  subtitle: Amerika vor den Midterms
+  description: Die Midterms entscheiden, ob Präsident Trump die Mehrheit im US-Kongress behält. In der Bevölkerung wachsen die Unzufriedenheit und die Sorge über den zunehmenden Einfluss auf Wahlen. Während bei den Demokraten überraschend der linke Flügel im Aufschwung ist, bröckelt an Trumps eigener Basis der Rückhalt. Der Iran-Krieg und die massiv steigenden Lebenshaltungskosten lassen Trumps Umfragewerte abrutschen. Aber verliert er wirklich seine Mehrheit im amerikanischen Kongress? Und was wären die Folgen?
+  widescreen: true
+  hd: true
+- eventId:
   - 1546808
   - 556815
+  - 577312
   - 578205
   - 579092
   - 593504
+  - 607617
   - 631269
   - 761953
   start: 2026-11-03T17:30:00Z
@@ -417,9 +429,11 @@
 - eventId:
   - 1546813
   - 556971
+  - 577930
   - 578307
   - 579360
   - 593688
+  - 607734
   - 631454
   - 762077
   start: 2026-11-03T18:15:00Z
@@ -432,9 +446,11 @@
 - eventId:
   - 1546814
   - 556972
+  - 577931
   - 578308
   - 579361
   - 593689
+  - 607735
   - 631455
   - 762078
   start: 2026-11-03T19:00:00Z
@@ -447,9 +463,11 @@
 - eventId:
   - 1546815
   - 556973
+  - 577932
   - 578309
   - 579362
   - 593690
+  - 607736
   - 631456
   - 762079
   start: 2026-11-03T19:15:00Z
@@ -462,9 +480,11 @@
 - eventId:
   - 1546816
   - 556974
+  - 577933
   - 578310
   - 579363
   - 593691
+  - 607737
   - 631457
   - 762080
   start: 2026-11-03T20:00:00Z
@@ -477,9 +497,11 @@
 - eventId:
   - 1546817
   - 556975
+  - 577934
   - 578311
   - 579364
   - 593692
+  - 607738
   - 631458
   - 762081
   start: 2026-11-03T20:45:00Z
@@ -513,11 +535,32 @@
 
     - Matthew Karnitschnig, österreichisch-amerikanischer Journalist
 - eventId:
+  - 582991
+  - 607817
+  start: 2026-11-03T21:15:00Z
+  stop: 2026-11-03T22:00:00Z
+  title: phoenix runde
+  subtitle: US-Zwischenwahl - Denkzettel für Trump?
+  description: |-
+    Lena Mosel diskutiert mit ihren Gästen:
+
+    - Prof. Christiane Lemke, Expertin für internationale Beziehungen
+
+    - Stormy-Annika Mildner, Aspen-Institute
+
+    - Julius van der Laar, Kampagnen- und Strategieberater
+
+    - Matthew Karnitschnig, österreichisch-amerikanischer Journalist
+  widescreen: true
+  hd: true
+- eventId:
   - 1546822
   - 557142
   - 578454
   - 579543
+  - 582992
   - 593846
+  - 607818
   - 631621
   - 762218
   start: 2026-11-03T22:00:00Z
@@ -545,7 +588,9 @@
   - 557143
   - 578455
   - 579544
+  - 582993
   - 593847
+  - 607819
   start: 2026-11-03T23:00:00Z
   stop: 2026-11-03T23:45:00Z
   title: phoenix runde
@@ -576,7 +621,9 @@
   - 557144
   - 578456
   - 579545
+  - 582994
   - 593848
+  - 607820
   start: 2026-11-03T23:45:00Z
   stop: 2026-11-04T04:30:00Z
   title: phoenix vor ort

@@ -2,6 +2,7 @@
   - 1628734
   - 586627
   - 591020
+  - 605809
   - 628045
   start: 2026-11-06T00:05:00Z
   stop: 2026-11-06T01:05:00Z
@@ -28,7 +29,9 @@
   audiodesc: true
   genre:
   - '144'
-- eventId: 586628
+- eventId:
+  - 586628
+  - 605810
   start: 2026-11-06T01:05:00Z
   stop: 2026-11-06T01:35:00Z
   title: Die Nordreportage
@@ -44,6 +47,7 @@
   - 1628736
   - 586629
   - 591022
+  - 605811
   - 628047
   start: 2026-11-06T01:35:00Z
   stop: 2026-11-06T01:45:00Z
@@ -57,6 +61,7 @@
   - 1628737
   - 586630
   - 591023
+  - 605812
   - 628048
   start: 2026-11-06T01:45:00Z
   stop: 2026-11-06T02:15:00Z
@@ -70,6 +75,7 @@
   - 1628738
   - 586631
   - 591024
+  - 605813
   - 628049
   start: 2026-11-06T02:15:00Z
   stop: 2026-11-06T02:45:00Z
@@ -82,6 +88,7 @@
   - 1628739
   - 586632
   - 591025
+  - 605814
   - 628050
   start: 2026-11-06T02:45:00Z
   stop: 2026-11-06T03:15:00Z
@@ -94,6 +101,7 @@
   - 1628766
   - 586763
   - 591187
+  - 605921
   - 628376
   start: 2026-11-06T03:15:00Z
   stop: 2026-11-06T03:45:00Z
@@ -106,6 +114,7 @@
   - 1628767
   - 586764
   - 591188
+  - 605922
   - 628377
   start: 2026-11-06T03:45:00Z
   stop: 2026-11-06T04:15:00Z
@@ -119,6 +128,7 @@
   - 1628768
   - 586765
   - 591189
+  - 605923
   - 628378
   start: 2026-11-06T04:15:00Z
   stop: 2026-11-06T05:00:00Z
@@ -133,6 +143,7 @@
   - 1628769
   - 586766
   - 591190
+  - 605924
   - 628379
   start: 2026-11-06T05:00:00Z
   stop: 2026-11-06T05:20:00Z
@@ -146,6 +157,7 @@
   - 1628770
   - 586767
   - 591191
+  - 605925
   - 628380
   start: 2026-11-06T05:20:00Z
   stop: 2026-11-06T06:20:00Z
@@ -162,6 +174,7 @@
   - 1628794
   - 586906
   - 591352
+  - 606454
   - 628558
   start: 2026-11-06T06:20:00Z
   stop: 2026-11-06T07:10:00Z
@@ -176,6 +189,7 @@
   - 1628795
   - 586907
   - 591353
+  - 606455
   - 628559
   start: 2026-11-06T07:10:00Z
   stop: 2026-11-06T08:00:00Z
@@ -190,6 +204,7 @@
   - 1628796
   - 586908
   - 591354
+  - 606456
   - 628560
   start: 2026-11-06T08:00:00Z
   stop: 2026-11-06T08:30:00Z
@@ -202,6 +217,7 @@
   - 1628797
   - 586909
   - 591355
+  - 606457
   - 628561
   start: 2026-11-06T08:30:00Z
   stop: 2026-11-06T09:00:00Z
@@ -214,6 +230,7 @@
   - 1628824
   - 587048
   - 591532
+  - 606535
   - 628827
   start: 2026-11-06T09:00:00Z
   stop: 2026-11-06T09:30:00Z
@@ -226,6 +243,7 @@
   - 1628825
   - 587049
   - 591533
+  - 606536
   - 628828
   start: 2026-11-06T09:30:00Z
   stop: 2026-11-06T10:00:00Z
@@ -239,6 +257,7 @@
   - 1628826
   - 587050
   - 591534
+  - 606537
   - 628829
   start: 2026-11-06T10:00:00Z
   stop: 2026-11-06T10:30:00Z
@@ -252,6 +271,7 @@
   - 1628827
   - 587051
   - 591535
+  - 606538
   - 628830
   start: 2026-11-06T10:30:00Z
   stop: 2026-11-06T10:55:00Z
@@ -266,6 +286,7 @@
   - 1628828
   - 587052
   - 591536
+  - 606539
   - 628831
   start: 2026-11-06T10:55:00Z
   stop: 2026-11-06T11:25:00Z
@@ -280,6 +301,7 @@
   - 1628829
   - 587053
   - 591537
+  - 606540
   - 628832
   start: 2026-11-06T11:25:00Z
   stop: 2026-11-06T12:10:00Z
@@ -294,6 +316,7 @@
   - 1628856
   - 587220
   - 591707
+  - 606656
   - 629085
   start: 2026-11-06T12:10:00Z
   stop: 2026-11-06T13:00:00Z
@@ -321,10 +344,23 @@
   genre:
   - '112'
   description: 'Viele Senioren hängen an ihrem Führerschein. Er gibt ihnen die Freiheit, weiter mobil zu bleiben, morgens einkaufen zu fahren, nachmittags zum Sport, abends zum Schach mit dem Kumpel. Aber natürlich bauen Menschen im Alter ab: die Hör- und Sehfähigkeit, das Reaktionsvermögen sind oft eingeschränkt. Aber wie werden Ältere wieder sicher hinterm Steuer? "Die Nordreportage" zeigt, wie Fahrlehrer ihre Seniorenschüler fit machen.'
+- eventId: 606657
+  start: 2026-11-06T13:00:00Z
+  stop: 2026-11-06T13:30:00Z
+  title: Die Nordreportage
+  subtitle: Fahrschule für Senioren - Lappen weg oder weiterfahren?
+  description: 'Viele Senioren hängen an ihrem Führerschein. Er gibt ihnen die Freiheit, weiter mobil zu bleiben, morgens einkaufen zu fahren, nachmittags zum Sport, abends zum Schach mit dem Kumpel. Aber natürlich bauen Menschen im Alter ab: die Hör- und Sehfähigkeit, das Reaktionsvermögen sind oft eingeschränkt. Aber wie werden Ältere wieder sicher hinterm Steuer? "Die Nordreportage" zeigt, wie Fahrlehrer ihre Seniorenschüler fit machen.'
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1628858
   - 587222
   - 591709
+  - 606658
   - 629087
   start: 2026-11-06T13:30:00Z
   stop: 2026-11-06T14:00:00Z
@@ -339,6 +375,7 @@
   - 1628859
   - 587223
   - 591710
+  - 606659
   - 629088
   start: 2026-11-06T14:00:00Z
   stop: 2026-11-06T14:10:00Z
@@ -364,10 +401,24 @@
   - '16'
   description: 'Der Beissl ist gar nicht begeistert, als eine Polizeistreife seine Tochter Eva nach Hause bringt. Eva hat bei einer unangemeldeten Sitzblockade gegen eine Umgehungsstraße mitgemacht, was wenig später auch noch den aalglatten Lokalpolitiker Ferdinand Erler veranlasst, bei Beissl vorstellig zu werden. Und dann melden sich auch noch Jerry und Sophia vom Fund einer Leiche: Marlene Thaler, Berchtesgadener Werbe-Ikone und das Gesicht der Käserei Alpenkönig, wurde ermordet.'
   ageRating: 6
+- eventId: 606660
+  start: 2026-11-06T14:10:00Z
+  stop: 2026-11-06T15:00:00Z
+  title: Watzmann ermittelt (39)
+  subtitle: Die Käseprinzessin
+  description: 'Der Beissl ist gar nicht begeistert, als eine Polizeistreife seine Tochter Eva nach Hause bringt. Eva hat bei einer unangemeldeten Sitzblockade gegen eine Umgehungsstraße mitgemacht, was wenig später auch noch den aalglatten Lokalpolitiker Ferdinand Erler veranlasst, bei Beissl vorstellig zu werden. Und dann melden sich auch noch Jerry und Sophia vom Fund einer Leiche: Marlene Thaler, Berchtesgadener Werbe-Ikone und das Gesicht der Käserei Alpenkönig, wurde ermordet.'
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1628886
   - 591868
   - 592399
+  - 606760
   - 615549
   start: 2026-11-06T15:00:00Z
   stop: 2026-11-06T15:15:00Z
@@ -380,6 +431,7 @@
   - 1628887
   - 591869
   - 592400
+  - 606761
   - 615550
   start: 2026-11-06T15:15:00Z
   stop: 2026-11-06T16:00:00Z
@@ -394,6 +446,7 @@
   - 1628888
   - 591870
   - 592401
+  - 606762
   - 615551
   start: 2026-11-06T16:00:00Z
   stop: 2026-11-06T16:10:00Z
@@ -406,6 +459,7 @@
   - 1628889
   - 591871
   - 592402
+  - 606763
   - 615552
   start: 2026-11-06T16:10:00Z
   stop: 2026-11-06T17:00:00Z
@@ -425,6 +479,7 @@
   - 1628890
   - 591872
   - 592403
+  - 606764
   - 615553
   start: 2026-11-06T17:00:00Z
   stop: 2026-11-06T17:15:00Z
@@ -456,10 +511,21 @@
   hd: true
   audiodesc: true
   description: Auf jeweils vier Höfen aus allen vier norddeutschen Bundesländern geht es um die alltäglichen Herausforderungen für die Landwirte. Rinder, Hühner, Schafe, Pferde und Schweine gehören auf dem Land genauso dazu wie der ständige Blick aufs Wetter. Das ist wichtig, damit die Ernte rechtzeitig eingebracht werden kann. Bei "Hofgeschichten - Anpacken" treffen sich die Akteure aus den Hofgeschichten mit Zuschauern und Zuschauerinnen, um gemeinsam eine Aufgabe auf dem Hof zu bewältigen. Dabei tauschen sie sich auch aus über das Leben auf dem Land und die Arbeit auf den Höfen.
+- eventId: 606765
+  start: 2026-11-06T17:15:00Z
+  stop: 2026-11-06T17:45:00Z
+  title: Die Nordreportage
+  subtitle: Hofgeschichten
+  description: Auf jeweils vier Höfen aus allen vier norddeutschen Bundesländern geht es um die alltäglichen Herausforderungen für die Landwirte. Rinder, Hühner, Schafe, Pferde und Schweine gehören auf dem Land genauso dazu wie der ständige Blick aufs Wetter. Das ist wichtig, damit die Ernte rechtzeitig eingebracht werden kann. Bei "Hofgeschichten - Anpacken" treffen sich die Akteure aus den Hofgeschichten mit Zuschauern und Zuschauerinnen, um gemeinsam eine Aufgabe auf dem Hof zu bewältigen. Dabei tauschen sie sich auch aus über das Leben auf dem Land und die Arbeit auf den Höfen.
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1628892
   - 591874
   - 592405
+  - 606766
   - 615555
   start: 2026-11-06T17:45:00Z
   stop: 2026-11-06T18:30:00Z
@@ -474,6 +540,7 @@
   - 1628920
   - 587619
   - 592054
+  - 606877
   - 615870
   start: 2026-11-06T18:30:00Z
   stop: 2026-11-06T19:00:00Z
@@ -486,6 +553,7 @@
   - 1628921
   - 587620
   - 592055
+  - 606878
   - 615871
   start: 2026-11-06T19:00:00Z
   stop: 2026-11-06T19:15:00Z
@@ -501,6 +569,7 @@
   - 1628922
   - 587621
   - 592056
+  - 606879
   - 615872
   start: 2026-11-06T19:15:00Z
   stop: 2026-11-06T20:15:00Z
@@ -515,6 +584,7 @@
   - 1628923
   - 587622
   - 592057
+  - 606880
   - 615873
   start: 2026-11-06T20:15:00Z
   stop: 2026-11-06T20:45:00Z
@@ -529,6 +599,7 @@
   - 1628924
   - 587623
   - 592058
+  - 606881
   - 615874
   start: 2026-11-06T20:45:00Z
   stop: 2026-11-06T21:00:00Z
@@ -541,6 +612,7 @@
   - 1628944
   - 587923
   - 592205
+  - 606978
   - 616231
   start: 2026-11-06T21:00:00Z
   stop: 2026-11-06T23:00:00Z
@@ -555,6 +627,7 @@
   - 1636657
   - 587924
   - 592206
+  - 606979
   - 616232
   start: 2026-11-06T23:00:00Z
   stop: 2026-11-06T23:50:00Z
@@ -580,6 +653,7 @@
   - 1018394
   - 587925
   - 592207
+  - 606980
   start: 2026-11-06T23:50:00Z
   stop: 2026-11-07T00:20:00Z
   title: NDR Talk Momente mit Uwe Seeler

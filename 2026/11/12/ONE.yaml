@@ -1,28 +1,20 @@
 - eventId:
-  - 1006646
-  - 557694
-  - 570595
-  - 578025
-  - 579993
-  - 819457
+  - 552042
+  - 580348
   start: 2026-11-12T01:25:00Z
   stop: 2026-11-12T02:15:00Z
   title: Death Valley (S01/E02)
   subtitle: Auf Wanderschaft
   ageRating: 12
+  genre:
+  - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  genre:
-  - '16'
 - eventId:
-  - 1006647
-  - 557695
-  - 570596
-  - 578026
-  - 579994
-  - 819458
+  - 552043
+  - 580349
   start: 2026-11-12T02:15:00Z
   stop: 2026-11-12T03:00:00Z
   title: Murdoch Mysteries (S10/E13)
@@ -34,6 +26,8 @@
   audiodesc: true
 - eventId:
   - 1007110
+  - 552053
+  - 554046
   - 557922
   - 571574
   - 580400
@@ -52,6 +46,8 @@
   audiodesc: true
 - eventId:
   - 1007111
+  - 552054
+  - 554047
   - 557923
   - 571575
   - 580401
@@ -75,6 +71,8 @@
   subtitle: Satiremagazin mit Christian Ehring
 - eventId:
   - 1007112
+  - 552055
+  - 554048
   - 557924
   - 571576
   - 580402
@@ -90,6 +88,8 @@
   audiodesc: true
 - eventId:
   - 1007113
+  - 552056
+  - 554049
   - 557925
   - 571577
   - 580403
@@ -98,20 +98,6 @@
   start: 2026-11-12T05:50:00Z
   stop: 2026-11-12T06:40:00Z
   title: Sturm der Liebe (1848)
-  subtitle: Deutschland 2013
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
-  - 1007287
-  - 572041
-  - 582120
-  - 593057
-  - 819538
-  start: 2026-11-12T06:40:00Z
-  stop: 2026-11-12T07:30:00Z
-  title: Sturm der Liebe (1849)
   subtitle: Deutschland 2013
   widescreen: true
   subtitled: true
@@ -134,14 +120,11 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 1007288
-  - 572042
-  - 582121
-  - 593058
-  - 819539
-  start: 2026-11-12T07:30:00Z
-  stop: 2026-11-12T08:15:00Z
-  title: Sturm der Liebe (1850)
+  - 552226
+  - 577133
+  start: 2026-11-12T06:40:00Z
+  stop: 2026-11-12T07:30:00Z
+  title: Sturm der Liebe (1849)
   subtitle: Deutschland 2013
   widescreen: true
   subtitled: true
@@ -164,27 +147,36 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 1007289
-  - 558040
-  - 572043
-  - 582122
-  - 593059
-  - 819540
-  start: 2026-11-12T08:15:00Z
-  stop: 2026-11-12T09:05:00Z
-  title: Alles Klara (S03/E11)
-  subtitle: Tod unter dem Kreuz
-  ageRating: 6
+  - 552227
+  - 577134
+  start: 2026-11-12T07:30:00Z
+  stop: 2026-11-12T08:15:00Z
+  title: Sturm der Liebe (1850)
+  subtitle: Deutschland 2013
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 552228
+  - 577135
+  start: 2026-11-12T08:15:00Z
+  stop: 2026-11-12T09:05:00Z
+  title: Alles Klara (S03/E11)
+  subtitle: Tod unter dem Kreuz
+  ageRating: 12
   genre:
   - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1007728
   - 558477
+  - 562996
   - 572521
+  - 577681
   - 593358
   - 596018
   - 819582
@@ -202,7 +194,9 @@
 - eventId:
   - 1007729
   - 558478
+  - 562997
   - 572522
+  - 577682
   - 593359
   - 596019
   - 819583
@@ -217,7 +211,9 @@
 - eventId:
   - 1007730
   - 558479
+  - 562998
   - 572523
+  - 577683
   - 593360
   - 596020
   - 819584
@@ -232,7 +228,9 @@
 - eventId:
   - 1007731
   - 558480
+  - 562999
   - 572524
+  - 577684
   - 593361
   - 596021
   - 819585
@@ -247,8 +245,10 @@
   ageRating: 6
 - eventId:
   - 1008060
+  - 555589
   - 558621
   - 573629
+  - 580516
   - 593909
   - 596400
   - 819641
@@ -263,8 +263,10 @@
   ageRating: 6
 - eventId:
   - 1008061
+  - 555590
   - 558622
   - 573630
+  - 580517
   - 593910
   - 596401
   - 819642
@@ -281,8 +283,10 @@
   audiodesc: true
 - eventId:
   - 1008062
+  - 555591
   - 558623
   - 573631
+  - 580518
   - 593911
   - 596402
   - 819643
@@ -300,7 +304,9 @@
 - eventId:
   - 1008280
   - 541549
+  - 557675
   - 558773
+  - 563367
   - 594314
   - 596663
   - 819697
@@ -318,7 +324,9 @@
 - eventId:
   - 1008281
   - 541550
+  - 557676
   - 558774
+  - 563368
   - 594315
   - 596664
   - 819698
@@ -333,7 +341,9 @@
 - eventId:
   - 1008282
   - 541551
+  - 557677
   - 558775
+  - 563369
   - 594316
   - 596665
   - 819699
@@ -348,7 +358,9 @@
 - eventId:
   - 1008283
   - 541552
+  - 557678
   - 558776
+  - 563370
   - 594317
   - 596666
   - 819700
@@ -361,12 +373,8 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 1008369
-  - 542410
-  - 558984
-  - 577254
-  - 588961
-  - 819753
+  - 558498
+  - 563746
   start: 2026-11-12T18:25:00Z
   stop: 2026-11-12T19:15:00Z
   title: Sturm der Liebe (706)
@@ -376,12 +384,8 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 1008370
-  - 542411
-  - 558985
-  - 577255
-  - 588962
-  - 819754
+  - 558499
+  - 563747
   start: 2026-11-12T19:15:00Z
   stop: 2026-11-12T20:35:00Z
   title: Der ganz normale Wahnsinn - Working Mum
@@ -394,16 +398,12 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 1008371
-  - 542412
-  - 558986
-  - 577256
-  - 588963
-  - 819755
+  - 558500
+  - 563748
   start: 2026-11-12T20:35:00Z
   stop: 2026-11-12T21:35:00Z
   title: Vibes - Find Your Fire (S01/E01)
-  subtitle: Willkommen auf Rhodos!   - Social-Reality-Serie Deutschland 2026
+  subtitle: Willkommen auf Rhodos!
   widescreen: true
   subtitled: true
   hd: true
@@ -412,6 +412,7 @@
   - 1008411
   - 543281
   - 559705
+  - 564759
   - 577607
   - 589675
   - 819825
@@ -424,9 +425,28 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 542405
+  - 558982
+  - 580338
+  - 588959
+  - 708905
+  - 919293
+  start: 2026-11-12T21:35:00Z
+  stop: 2026-11-12T22:40:00Z
+  title: Agatha Christies Poirot (S10/E03)
+  subtitle: Der Wachsblumenstrauss
+  ageRating: 12
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  genre:
+  - '16'
+- eventId:
   - 1008412
   - 543282
   - 559706
+  - 564760
   - 577608
   - 589676
   - 819826
@@ -439,17 +459,42 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 685098
-  - 685103
-  start: 2026-11-12T23:20:00Z
-  stop: 2026-11-13T00:50:00Z
-  title: Mary Higgins Clark - Mysteriöse Verbrechen (S01/E02)
-  subtitle: Weil deine Augen ihn nicht sehen
+  - 542406
+  - 558983
+  - 580339
+  - 588960
+  - 708906
+  - 919294
+  start: 2026-11-12T22:40:00Z
+  stop: 2026-11-12T23:20:00Z
+  title: Vibes - Find Your Fire (S01/E03)
+  subtitle: Flirten, Selfcare, Party
   ageRating: 12
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
+- eventId:
+  - 1008369
+  - 542410
+  - 558984
+  - 564761
+  - 577254
+  - 588961
+  - 685098
+  - 685103
+  - 819753
+  start: 2026-11-12T23:20:00Z
+  stop: 2026-11-13T00:50:00Z
+  title: Mary Higgins Clark - Mysteriöse Verbrechen (S01/E02)
+  subtitle: Weil deine Augen ihn nicht sehen
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  ageRating: 12
   genre:
   - '16'
 - eventId:

@@ -14,6 +14,15 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 556806
+  start: 2026-11-11T00:15:00Z
+  stop: 2026-11-11T01:05:00Z
+  title: Auf Achse (9/26)
+  subtitle: Landjäger
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 553116
   - 555854
@@ -30,9 +39,19 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 556807
+  start: 2026-11-11T01:05:00Z
+  stop: 2026-11-11T01:55:00Z
+  title: Auf Achse (10/26)
+  subtitle: Lalla und Kifkif
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 553117
   - 555855
+  - 556808
   - 559134
   - 600574
   - 787782
@@ -51,6 +70,7 @@
 - eventId:
   - 553118
   - 555856
+  - 556809
   - 559135
   - 600575
   - 787783
@@ -68,6 +88,7 @@
   - 555452
   - 556251
   - 559296
+  - 559633
   - 600662
   - 787815
   - 980159
@@ -83,6 +104,7 @@
   - 555453
   - 556252
   - 559297
+  - 559634
   - 600663
   - 980160
   start: 2026-11-11T03:35:00Z
@@ -108,6 +130,7 @@
   - 555454
   - 556253
   - 559298
+  - 559635
   - 600664
   - 787817
   - 980161
@@ -123,6 +146,7 @@
   - 555455
   - 556254
   - 559299
+  - 559636
   - 600665
   - 787818
   - 980162
@@ -138,6 +162,7 @@
   - 555456
   - 556255
   - 559300
+  - 559637
   - 600666
   - 787819
   - 980163
@@ -150,51 +175,29 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 1289640
-  - 1482918
-  - 540327
-  - 555999
-  - 559455
-  - 565922
-  - 600776
-  - 787871
-  - 979987
+- eventId: 562592
   start: 2026-11-11T07:00:00Z
   stop: 2026-11-11T07:30:00Z
   title: rbb24 Brandenburg aktuell
-  subtitle: Die Wetteraussichten für Berlin und Brandenburg
-  episodeUri: crid://onid-8468/e/6aa9c4a31107beeb41fbd376
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 1289641
-  - 1482919
-  - 540328
-  - 556000
-  - 559456
-  - 565923
-  - 600777
-  - 787872
-  - 979988
+- eventId: 562593
   start: 2026-11-11T07:30:00Z
   stop: 2026-11-11T08:00:00Z
   title: rbb24 Abendschau
-  subtitle: Juliane auf der Scholle - Ein Gartenjahr in Potsdam - Film von Felix Krüger
-  episodeUri: crid://onid-8468/e/6aad1bed362a9a54f846a365
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Gartenzeit ist das rbb-Magazin für Gartenfreunde in Berlin und Brandenburg. Die serviceorientierte Sendung gibt viele praktische Tipps und Hinweise, holt Auskünfte von Profi-Gärtnern ein und stellt Hobbygärtner vor.
 - eventId:
   - 1403481
   - 1590805
   - 540329
   - 556001
   - 559457
+  - 562594
   - 565924
   - 600778
   - 787873
@@ -210,42 +213,21 @@
   description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Berlin und Brandenburg und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
   subtitle: Böses Blut
   ageRating: 12
-- eventId:
-  - 1403482
-  - 1590806
-  - 559458
-  - 565925
-  start: 2026-11-11T08:45:00Z
-  stop: 2026-11-11T09:30:00Z
-  title: In aller Freundschaft - Die jungen Ärzte (146)
-  subtitle: Alte Wunden
-  episodeUri: crid://onid-8468/e/6aad1d4e95b51568a3729314
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  ageRating: 12
-  description: Der Teenager Simon Funke kommt mit starken Unterleibsschmerzen in die Notaufnahme. Oberärztin Dr. Leyla Sherbaz und Assistenzärztin Vivienne Kling stellen fest, dass ein großer Tumor im Bauch dafür verantwortlich ist. Die Zeit drängt, Leyla und Vivi operieren den jungen Mann. Kurz darauf kommt seine Mutter Sandra ins Klinikum. Sie ahnt noch nicht, was ihrem Sohn fehlt und fällt aus allen Wolken.
-- eventId:
-  - 540330
-  - 556002
-  - 600779
-  - 787874
-  - 979990
+- eventId: 562595
   start: 2026-11-11T08:45:00Z
   stop: 2026-11-11T09:30:00Z
   title: In aller Freundschaft (661)
   subtitle: Nervenkrieg
-  episodeUri: crid://onid-8468/e/6abd895a09d986e343dd1b6c
+  ageRating: 12
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  ageRating: 12
 - eventId:
   - 540812
   - 556400
   - 559616
+  - 564520
   - 600876
   - 787900
   - 980294
@@ -259,53 +241,32 @@
   hd: true
   audiodesc: true
   ageRating: 12
-- eventId:
-  - 540813
-  - 556401
-  - 559617
-  - 600877
-  - 787901
-  - 980295
+- eventId: 564521
   start: 2026-11-11T10:15:00Z
   stop: 2026-11-11T11:05:00Z
   title: Giraffe, Erdmännchen & Co. (257)
   subtitle: Zoogeschichten aus Frankfurt und Kronberg
-  episodeUri: crid://onid-8468/e/6abd895a09d986e343dd1b68
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 540814
-  - 556402
-  - 559618
-  - 600878
-  - 787902
-  - 980296
+- eventId: 564522
   start: 2026-11-11T11:05:00Z
   stop: 2026-11-11T11:55:00Z
-  title: WaPo Duisburg (8/8)
+  title: WaPo Duisburg (8)
   subtitle: Das dicke Ende
-  episodeUri: crid://onid-8468/e/6abd895a09d986e343dd1b66
   ageRating: 6
+  genre:
+  - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  genre:
-  - '16'
-- eventId:
-  - 540815
-  - 556403
-  - 559619
-  - 600879
-  - 787903
-  - 980297
+- eventId: 564523
   start: 2026-11-11T11:55:00Z
   stop: 2026-11-11T12:40:00Z
   title: SUPER.MARKT
   subtitle: Neues für Verbraucher
-  episodeUri: crid://onid-8468/e/6abd895a09d986e343dd1b64
   widescreen: true
   subtitled: true
   hd: true
@@ -333,6 +294,26 @@
   genre:
   - '16'
 - eventId:
+  - 1563673
+  - 542488
+  - 555508
+  - 562665
+  - 565595
+  - 601495
+  - 787704
+  start: 2026-11-11T12:40:00Z
+  stop: 2026-11-11T13:30:00Z
+  title: WaPo Duisburg (9)
+  episodeUri: crid://onid-8468/e/6ab44ed72fe0720356f98370
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Berlin und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
+  subtitle: Die Kranführerin
+  genre:
+  - '16'
+- eventId:
   - 1012326
   - 1224043
   - 540811
@@ -347,6 +328,27 @@
   audiodesc: true
   description: 'Zwischen Disco und Rock, zwischen Funk und Soul - eingängige Melodien neben sphärischen Klängen. Kein anderes Jahrzehnt hat eine solch große musikalische Vielfalt hervorgebracht wie die 70er. Einige der größten Pop-Kulthits sind in diesen vibrierenden Jahren entstanden. Von Abba bis David Bowie, von den Bee Gees bis Elton John: eine musikalische Zeitreise zum Tanzen und Träumen.'
   subtitle: Spielfilm Deutschland 2011
+  genre:
+  - '16'
+- eventId:
+  - 1563674
+  - 542489
+  - 555509
+  - 562666
+  - 565596
+  - 601496
+  - 787705
+  start: 2026-11-11T13:30:00Z
+  stop: 2026-11-11T15:00:00Z
+  title: In aller Freundschaft - Die jungen Ärzte (148)
+  subtitle: Spielfilm Deutschland 2011
+  episodeUri: crid://onid-8468/e/6ab450a43d902b8d51bf4565
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Tobias Rasch wird nach einem Unfall ins Johannes-Thal-Klinikum eingeliefert und muss sofort von Dr. Niklas Ahrend operiert werden. Indes freut sich Julia, nach ihrem krankheitsbedingten Ausfall endlich wieder einsatzbereit zu sein, und nimmt sich direkt der aufgelösten Helena Lübeck an, die gesteht, Tobias selbst angefahren zu haben. Tobias und Helena führen zusammen ein innovatives kleines Unternehmen, das aber neuerdings in der Krise steckt. Denn Tobias will es verkaufen, Helena dafür kämpfen. Als Tobias dann noch vermutet, Helena habe ihn absichtlich verletzt, gerät jeglicher Frieden ins Wanken.
+  ageRating: 12
   genre:
   - '16'
 - eventId:
@@ -368,6 +370,23 @@
   audiodesc: true
   ageRating: 6
 - eventId:
+  - 1166174
+  - 1377844
+  - 559447
+  - 565914
+  start: 2026-11-11T15:00:00Z
+  stop: 2026-11-11T15:15:00Z
+  title: Unser Sandmännchen
+  subtitle: 'Jan und Henry: Der Bär mit den Karten'
+  episodeUri: crid://onid-8468/e/6aa1d9e2b541ace3e7bb9ef0
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  genre:
+  - '16'
+  description: "Ein unheimliches Geräusch in ihrer Höhle lässt die Erdmännchen Jan und Henry glauben, sie hätten Besuch von einem knurrenden Bär. Sie ahnen nicht, dass das Geräusch eine ganz andere Herkunft hat. \n\n\"Unser Sandmännchen\" steht nicht nur auf der Hitliste der jüngsten Zuschauer. Es hat seine Fans auch bei den Eltern und Großeltern. Und es ist auch heute seine Aufgabe, die Kinder mit einer Gute-Nacht-Geschichte ins Bett zu bringen."
+- eventId:
   - 541800
   - 557383
   - 559941
@@ -382,6 +401,22 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 1166175
+  - 1377845
+  - 559448
+  - 565915
+  start: 2026-11-11T15:15:00Z
+  stop: 2026-11-11T16:05:00Z
+  title: In aller Freundschaft - Die jungen Ärzte (155)
+  subtitle: mit rbb24, Sport und Wetter
+  episodeUri: crid://onid-8468/e/6aa1d9e2b541ace3e7bb9eee
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die alleinerziehende Nadine Dressler bekommt Besuch vom Jugendamtsmitarbeiter Florian Köhler. Als er ankommt, hört er Schreie aus der Wohnung und die sechsjährige Dunja hat blaue Flecke und Schürfwunden. Mit dem Verdacht, dass Nadine ihr Kind schlägt, will er Dunja in Obhut nehmen. Die junge Mutter rastet aus und es kommt zu einem Handgemenge, bei dem sich Nadine den Unterarm bricht und Köhler eine Platzwunde am Kopf davon trägt. In der Sachsenklinik, in die beide eingeliefert werden, wird das Thema kontrovers diskutiert.
+  ageRating: 12
 - eventId:
   - 541801
   - 557384
@@ -400,6 +435,28 @@
   audiodesc: true
   ageRating: 12
 - eventId:
+  - 1166176
+  - 1377846
+  - 1540504
+  - 540836
+  - 545101
+  - 555985
+  - 558343
+  - 559449
+  - 565916
+  - 761877
+  start: 2026-11-11T16:05:00Z
+  stop: 2026-11-11T16:53:00Z
+  title: In aller Freundschaft (649)
+  subtitle: Geschichten aus dem Zoo Berlin und dem Tierpark Berlin
+  episodeUri: crid://onid-8468/e/6aa1dba8b541ace3e7bb9f34
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  ageRating: 6
+  description: Dr. Martin Stein fühlt sich seiner Tochter Marie gerade sehr verbunden. So wie er selbst gerade von Elena verlassen wurde, hat auch Maries Freund Steffen sie gegen eine andere ausgetauscht, nämlich die flippige Janina. Als Steffen mit einem komplizierten Trümmerbruch am Bein in die Sachsenklinik eingeliefert wird, reißt Martin den Fall an sich. Er will Steffen auf den Zahn fühlen. Schwester Arzu und Dr. Philipp Brentano haben schlaflose Nächte hinter sich. Der kleine Max zahnt. Als Niklas auf den völlig übermüdeten und angespannten Brentano trifft, reizt er diesen noch zusätzlich mit unerwünschten Ratschlägen.
+- eventId:
   - 541802
   - 557385
   - 559943
@@ -415,6 +472,28 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 1166177
+  - 1377847
+  - 540315
+  - 555988
+  - 559450
+  - 565917
+  - 600771
+  - 680291
+  - 874479
+  start: 2026-11-11T16:53:00Z
+  stop: 2026-11-11T17:00:00Z
+  title: Vor 100 Jahren um die Welt (4/5)
+  episodeUri: crid://onid-8468/e/6aa1dba8b541ace3e7bb9f32
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: 'Jeden Abend gibt es von uns das Wichtigste aus Politik, Kultur, Wirtschaft und Sport, die Szene-Trends und die Kiezgeschichten. Kurz: "Wir sind ein Berliner" - Die rbb24 Abendschau hat den Berlin-Blick: Nah an den Menschen und ihren Geschichten, rau aber herzlich. Immer um 19:30 Uhr. Egal wann etwas passiert, die rbb24 Abendschau ist dabei.'
+  subtitle: Von Teneriffa über Afrika nach Istanbul - Serie von Reinhard Joksch
+  genre:
+  - '16'
 - eventId:
   - 541803
   - 557386
@@ -433,6 +512,26 @@
   audiodesc: true
   genre:
   - '16'
+- eventId:
+  - 1289636
+  - 1482914
+  - 555989
+  - 559451
+  - 565918
+  - 680292
+  - 874480
+  start: 2026-11-11T17:00:00Z
+  stop: 2026-11-11T18:27:00Z
+  title: Sehen statt Hören - Ein Wochenmagazin für Hörgeschädigte
+  subtitle: Konstituierende Sitzung - Live aus dem Abgeordnetenhaus Berlin
+  episodeUri: crid://onid-8468/e/6aad1bed362a9a54f846a36f
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Dr. Ben Ahlbeck versorgt mit Dr. Matteo Moreau die Landwirtin Lena Herrmann, die mit einer Metallstange im Unterschenkel in die Notaufnahme gebracht wird. Lena steht unter Schock und kann nur an die Arbeit auf ihrem Hof denken, während ihr Ehemann David sich überfordert wünscht, dass Lena sich auf ihre Gesundheit konzentriert.
+    Assistenzärztin Sofia Galura hält ihre Aufregung kaum aus, als sich die Patientin Eva Loibinger, die sie heute mit Dr. Marc Lindner behandelt, als die beste Hairdesignerin der Region entpuppt.
 - eventId:
   - 541804
   - 557387
@@ -468,6 +567,7 @@
 - eventId:
   - 546708
   - 560145
+  - 566215
   - 601184
   - 788030
   - 980050
@@ -502,6 +602,7 @@
 - eventId:
   - 546709
   - 560146
+  - 566216
   - 601185
   - 788031
   - 980051
@@ -540,6 +641,7 @@
 - eventId:
   - 546710
   - 560147
+  - 566217
   - 601186
   - 832291
   - 980052
@@ -558,6 +660,7 @@
   - 546711
   - 558764
   - 560148
+  - 566218
   - 601187
   - 676778
   - 788033
@@ -589,6 +692,7 @@
 - eventId:
   - 546712
   - 560149
+  - 566219
   - 601188
   - 788034
   - 980054
@@ -604,6 +708,8 @@
   - 547356
   - 560317
   - 560600
+  - 567942
+  - 592520
   - 601281
   - 788084
   - 980088
@@ -620,6 +726,8 @@
   - 547357
   - 560318
   - 560601
+  - 567943
+  - 592521
   - 601282
   - 788085
   - 980089
@@ -638,6 +746,8 @@
   - 547358
   - 560319
   - 560602
+  - 567944
+  - 592522
   - 601283
   - 788086
   - 980090

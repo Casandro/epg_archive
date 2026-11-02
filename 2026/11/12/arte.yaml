@@ -2,6 +2,7 @@
   - 1006594
   - 557661
   - 579983
+  - 580303
   start: 2026-11-12T00:10:00Z
   stop: 2026-11-12T02:05:00Z
   title: Das Experiment
@@ -14,10 +15,13 @@
   - 1006595
   - 557662
   - 579984
+  - 580304
   start: 2026-11-12T02:05:00Z
   stop: 2026-11-12T02:35:00Z
   title: Mit Kompass und Köpfchen auf hoher See
   subtitle: USA, Taos
+  genre:
+  - '144'
 - eventId: 1006596
   start: 2026-11-12T02:28:00Z
   stop: 2026-11-12T02:45:00Z
@@ -28,6 +32,7 @@
   - 1037314
   - 557663
   - 579985
+  - 580305
   start: 2026-11-12T02:35:00Z
   stop: 2026-11-12T02:45:00Z
   title: Mit offenen Augen
@@ -36,10 +41,11 @@
   - 1006598
   - 557664
   - 579986
+  - 580306
   start: 2026-11-12T02:45:00Z
   stop: 2026-11-12T04:10:00Z
   title: 28 Minuten
-  subtitle: Magazin Frankreich 2026
+  subtitle: 'Moderation: Elisabeth Quin'
   subtitled: true
 - eventId:
   - 1007103
@@ -51,6 +57,16 @@
   subtitle: Das Gebirge des scheinbar nie endenden Waldes
   subtitled: true
 - eventId:
+  - 1538057
+  - 569401
+  - 580435
+  start: 2026-11-12T04:10:00Z
+  stop: 2026-11-12T04:55:00Z
+  title: 'Brasilien: Die Macht der Evangelikalen'
+  subtitle: Das Gebirge des scheinbar nie endenden Waldes
+  description: In Brasilien machen die Evangelikalen ein Drittel der Wählerschaft aus. Die bibeltreuen Christen verhalfen Jair Bolsonaro im Jahr 2018 zum Wahlsieg. Nach dessen Verurteilung wegen eines Putschversuchs unterstützt die Gruppierung aus dem äußerst rechten Spektrum nun seinen Sohn Flávio - für die Wahlen im Oktober 2026.
+  subtitled: true
+- eventId:
   - 1007104
   - 557874
   - 580394
@@ -60,6 +76,18 @@
   subtitle: 'Florida: Moderne Nixen schlagen Wellen'
   subtitled: true
 - eventId:
+  - 1538058
+  - 569402
+  - 580436
+  start: 2026-11-12T04:55:00Z
+  stop: 2026-11-12T05:50:00Z
+  title: Die Bücher, die Hitler nicht verbrannte
+  subtitle: 'Florida: Moderne Nixen schlagen Wellen'
+  subtitled: true
+  genre:
+  - '112'
+  description: Adolf Hitler, dessen Herrschaft 1933 mit einer Reihe von Bücherverbrennungen begann, besaß zum Ende seines Lebens selbst über 16.000 Bände. Rund 1.300 davon befinden sich heute in den USA. Sie zeugen davon, dass rassistisches und antisemitisches Denken lange vor den Nazis vitaler Kern der westlichen Kultur war und bis heute die sogenannten Neuen Rechten inspiriert.
+- eventId:
   - 1007105
   - 557875
   - 580395
@@ -68,7 +96,18 @@
   title: Küchen der Welt
   subtitle: 'Guadeloupe: Accras'
 - eventId:
+  - 559505
+  - 580437
+  - 680041
+  start: 2026-11-12T05:50:00Z
+  stop: 2026-11-12T06:20:00Z
+  title: Warum lieben wir Horror?
+  subtitle: 42 - Die Antwort auf fast alles
+  subtitled: true
+  description: 'Horrorgeschichten faszinieren die Menschheit seit Jahrhunderten. Doch warum setzen wir uns freiwillig der Angst aus - im Kino, vor dem Fernseher, beim Anhören von schaurigen Märchen? Die Forschung zeigt: Der Reiz des Horrors ist tief verwurzelt. Adrenalin schießt durch den Körper, das Herz rast - und trotzdem wissen wir: Uns passiert nichts. Angstlust nennt die Psychologie das: die Balance zwischen Schreck und Sicherheit, den _Sweet Spot_ zwischen harmlos und schockierend. Und wenn wir ihn erwischen? Haben wir beim Fürchten nicht nur Spaß, sondern könnten sogar dauerhaft Resilienz aufbauen.'
+- eventId:
   - 1007280
+  - 552158
   - 558007
   - 582113
   start: 2026-11-12T06:20:00Z
@@ -77,6 +116,7 @@
   subtitle: Bologna / Burgund / England
 - eventId:
   - 1007281
+  - 552159
   - 558008
   - 582114
   start: 2026-11-12T07:05:00Z
@@ -85,6 +125,7 @@
   subtitle: Angola / Vietnam / Angers
 - eventId:
   - 1007282
+  - 552160
   - 558009
   - 582115
   start: 2026-11-12T07:55:00Z
@@ -93,6 +134,7 @@
   subtitle: Am Fluss
 - eventId:
   - 1007283
+  - 552161
   - 558010
   - 582116
   start: 2026-11-12T08:35:00Z
@@ -102,6 +144,7 @@
 - eventId:
   - 1007724
   - 558416
+  - 562953
   - 596010
   start: 2026-11-12T09:20:00Z
   stop: 2026-11-12T10:25:00Z
@@ -114,6 +157,7 @@
   subtitle: Deutschland 2026
 - eventId:
   - 558417
+  - 562954
   - 596011
   start: 2026-11-12T10:25:00Z
   stop: 2026-11-12T10:55:00Z
@@ -122,6 +166,7 @@
 - eventId:
   - 1007726
   - 558418
+  - 562955
   - 596012
   start: 2026-11-12T10:55:00Z
   stop: 2026-11-12T11:25:00Z
@@ -130,6 +175,7 @@
 - eventId:
   - 1007727
   - 558419
+  - 562956
   - 596013
   start: 2026-11-12T11:25:00Z
   stop: 2026-11-12T12:10:00Z
@@ -138,6 +184,7 @@
 - eventId:
   - 1008054
   - 558580
+  - 563121
   - 596394
   start: 2026-11-12T12:10:00Z
   stop: 2026-11-12T13:00:00Z
@@ -146,6 +193,7 @@
 - eventId:
   - 1008055
   - 558581
+  - 563122
   - 596395
   start: 2026-11-12T13:00:00Z
   stop: 2026-11-12T15:10:00Z
@@ -157,6 +205,7 @@
 - eventId:
   - 1008241
   - 558731
+  - 563253
   - 596610
   start: 2026-11-12T15:10:00Z
   stop: 2026-11-12T16:05:00Z
@@ -168,6 +217,7 @@
 - eventId:
   - 1008242
   - 558732
+  - 563254
   - 596611
   start: 2026-11-12T16:05:00Z
   stop: 2026-11-12T16:50:00Z
@@ -177,6 +227,7 @@
 - eventId:
   - 1008243
   - 558733
+  - 563255
   - 596612
   start: 2026-11-12T16:50:00Z
   stop: 2026-11-12T17:35:00Z
@@ -186,6 +237,7 @@
 - eventId:
   - 1008244
   - 558734
+  - 563256
   - 596613
   start: 2026-11-12T17:35:00Z
   stop: 2026-11-12T18:20:00Z
@@ -195,6 +247,7 @@
 - eventId:
   - 1008357
   - 558946
+  - 563535
   - 577193
   start: 2026-11-12T18:20:00Z
   stop: 2026-11-12T18:40:00Z
@@ -203,6 +256,7 @@
 - eventId:
   - 1008358
   - 558947
+  - 563536
   - 577194
   start: 2026-11-12T18:40:00Z
   stop: 2026-11-12T19:15:00Z
@@ -212,6 +266,7 @@
 - eventId:
   - 1008359
   - 558948
+  - 563537
   - 577195
   start: 2026-11-12T19:15:00Z
   stop: 2026-11-12T20:00:00Z
@@ -221,6 +276,7 @@
 - eventId:
   - 1008360
   - 558949
+  - 563538
   - 577196
   start: 2026-11-12T20:00:00Z
   stop: 2026-11-12T20:20:00Z
@@ -230,6 +286,7 @@
 - eventId:
   - 1008361
   - 558950
+  - 563539
   - 577197
   start: 2026-11-12T20:20:00Z
   stop: 2026-11-12T20:50:00Z
@@ -239,6 +296,7 @@
 - eventId:
   - 1008362
   - 558951
+  - 563540
   - 577198
   start: 2026-11-12T20:50:00Z
   stop: 2026-11-12T21:25:00Z
@@ -248,6 +306,7 @@
 - eventId:
   - 1008398
   - 559677
+  - 564087
   - 577586
   start: 2026-11-12T21:25:00Z
   stop: 2026-11-12T21:50:00Z
@@ -257,6 +316,7 @@
 - eventId:
   - 1008399
   - 559678
+  - 564088
   - 577587
   start: 2026-11-12T21:50:00Z
   stop: 2026-11-12T22:25:00Z
@@ -272,6 +332,7 @@
 - eventId:
   - 1037317
   - 559679
+  - 564089
   - 577588
   start: 2026-11-12T22:25:00Z
   stop: 2026-11-12T22:55:00Z
@@ -281,6 +342,7 @@
 - eventId:
   - 1008401
   - 559680
+  - 564090
   - 577589
   start: 2026-11-12T22:55:00Z
   stop: 2026-11-12T23:50:00Z
@@ -289,6 +351,7 @@
 - eventId:
   - 1008402
   - 559681
+  - 564091
   - 577590
   start: 2026-11-12T23:50:00Z
   stop: 2026-11-13T00:45:00Z

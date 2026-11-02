@@ -95,6 +95,7 @@
   hd: true
 - eventId:
   - 570638
+  - 581492
   - 585983
   - 788496
   start: 2026-11-11T08:00:00Z
@@ -105,6 +106,7 @@
   hd: true
 - eventId:
   - 570639
+  - 581493
   - 585984
   - 788497
   start: 2026-11-11T08:05:00Z
@@ -116,6 +118,7 @@
   hd: true
 - eventId:
   - 570640
+  - 581494
   - 585985
   - 788498
   start: 2026-11-11T08:55:00Z
@@ -131,6 +134,7 @@
 - eventId:
   - 565293
   - 570927
+  - 581807
   - 788519
   start: 2026-11-11T09:40:00Z
   stop: 2026-11-11T09:45:00Z
@@ -141,6 +145,7 @@
 - eventId:
   - 565294
   - 570928
+  - 581808
   - 788520
   start: 2026-11-11T09:45:00Z
   stop: 2026-11-11T10:15:00Z
@@ -152,6 +157,7 @@
 - eventId:
   - 565295
   - 570929
+  - 581809
   - 788521
   start: 2026-11-11T10:15:00Z
   stop: 2026-11-11T11:00:00Z
@@ -163,6 +169,7 @@
 - eventId:
   - 565296
   - 570930
+  - 581810
   - 788522
   start: 2026-11-11T11:00:00Z
   stop: 2026-11-11T13:00:00Z
@@ -170,20 +177,14 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 566165
-  - 575923
-  - 788536
+- eventId: 547849
   start: 2026-11-11T13:00:00Z
   stop: 2026-11-11T13:10:00Z
   title: Tagesschau
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 566166
-  - 575924
-  - 788537
+- eventId: 547850
   start: 2026-11-11T13:10:00Z
   stop: 2026-11-11T14:00:00Z
   title: Rote Rosen (4418)
@@ -191,28 +192,23 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 566167
-  - 575925
-  - 788538
+- eventId: 547851
   start: 2026-11-11T14:00:00Z
   stop: 2026-11-11T14:10:00Z
   title: Tagesschau
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 566168
-  - 575926
-  - 788539
+- eventId: 547852
   start: 2026-11-11T14:10:00Z
   stop: 2026-11-11T15:00:00Z
   title: Sturm der Liebe (4671)
-  subtitle: Fernsehserie Deutschland 2026
+  subtitle: Deutschland 2026
   widescreen: true
   subtitled: true
   hd: true
 - eventId:
+  - 548817
   - 567140
   - 576046
   - 788562
@@ -223,6 +219,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 548818
   - 567141
   - 576047
   - 788563
@@ -234,6 +231,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 548819
   - 567142
   - 576048
   - 788564
@@ -244,6 +242,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 548820
   - 567143
   - 576049
   - 788565
@@ -255,6 +254,7 @@
   hd: true
   subtitle: Boulevard-Magazin
 - eventId:
+  - 548821
   - 567144
   - 576050
   - 788566
@@ -262,6 +262,14 @@
   stop: 2026-11-11T17:50:00Z
   title: Wer weiß denn sowas? (1436)
   subtitle: mit Kai Pflaume
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 548822
+  start: 2026-11-11T17:50:00Z
+  stop: 2026-11-11T18:45:00Z
+  title: Hubert ohne Staller (198)
+  subtitle: Der Herr der sieben Zahlen
   widescreen: true
   subtitled: true
   hd: true
@@ -277,6 +285,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 549869
   - 568537
   - 576508
   - 788590
@@ -288,6 +297,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 549870
   - 568538
   - 576509
   - 788591
@@ -299,6 +309,7 @@
   hd: true
   subtitle: 'Moderation: Claudia Kleinert'
 - eventId:
+  - 549871
   - 568539
   - 576510
   - 788592
@@ -309,6 +320,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 549872
   - 568540
   - 576511
   - 788593
@@ -321,6 +333,7 @@
   genre:
   - '32'
 - eventId:
+  - 549873
   - 568541
   - 576512
   - 788594
@@ -335,6 +348,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 549874
   - 568542
   - 576513
   - 788595
@@ -346,6 +360,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 551028
   - 569659
   - 577633
   - 788621
@@ -357,6 +372,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 551029
   - 569660
   - 577634
   - 788622
@@ -367,6 +383,13 @@
   subtitled: true
   hd: true
   subtitle: 'Moderation: Sandra Maischberger'
+- eventId: 551030
+  start: 2026-11-11T23:05:00Z
+  stop: 2026-11-11T23:35:00Z
+  title: Die Paartherapie
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 569661
   - 577635
@@ -379,6 +402,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 551031
   - 569662
   - 577636
   - 788624
@@ -389,6 +413,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 551032
   - 569663
   - 577637
   - 788625
