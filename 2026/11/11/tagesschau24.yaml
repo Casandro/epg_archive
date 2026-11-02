@@ -11,11 +11,16 @@
   audiodesc: true
   description: "Das Wichtigste aus Politik, Wirtschaft, Kultur, Sport und Wissenschaft. Korrespondenten der ARD sorgen für schnelle und präzise News. \n\nDie Tagesschau-Ausgaben zur vollen Stunde werden teilweise mit Videotext-Untertiteln ausgestrahlt."
   subtitle: Verbrauchermagazin
-- eventId: 578009
+- eventId:
+  - 578009
+  - 628984
   start: 2026-11-11T00:00:00Z
   stop: 2026-11-11T00:45:00Z
   title: Marktcheck
   subtitle: 'Moderation: Hendrike Brenninkmeyer'
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1040725
   - 1260438
@@ -30,10 +35,15 @@
   audiodesc: true
   description: "\"Bin ich schon in den Wechseljahren - und wenn ja, was heißt das eigentlich?\" Moderatorin Sabine Heinrich ist 49 und merkt: Da verändert sich etwas. Körperlich, emotional, hormonell. Und sie ist damit nicht allein. Neun bis elf Millionen Frauen in Deutschland befinden sich derzeit in den Wechseljahren - oft einhergehend mit Hitzewallungen, Schlafproblemen, Erschöpfung oder Konzentrationsstörungen. Trotzdem wird über die Wechseljahre noch immer nicht genug gesprochen. \nWarum bleiben die Bedürfnisse von Frauen in dieser Lebensphase so oft unsichtbar - im Job, in der Medizin und in der Gesellschaft generell?"
   subtitled: true
-- eventId: 578010
+- eventId:
+  - 578010
+  - 628985
   start: 2026-11-11T00:45:00Z
   stop: 2026-11-11T01:00:00Z
   title: Shift
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1040726
   - 1260439
@@ -46,14 +56,20 @@
   hd: true
   audiodesc: true
   description: "Das Wichtigste aus Politik, Wirtschaft, Kultur, Sport und Wissenschaft. Korrespondenten der ARD sorgen für schnelle und präzise News. \n\nDie Tagesschau-Ausgaben zur vollen Stunde werden teilweise mit Videotext-Untertiteln ausgestrahlt."
-- eventId: 578011
+- eventId:
+  - 578011
+  - 628986
   start: 2026-11-11T01:00:00Z
   stop: 2026-11-11T01:03:00Z
   title: Nachrichten
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 553215
   - 562133
   - 578012
+  - 628987
   start: 2026-11-11T01:03:00Z
   stop: 2026-11-11T01:30:00Z
   title: rbb24 Abendschau
@@ -78,6 +94,7 @@
   - 562134
   - 568221
   - 578013
+  - 628988
   - 788436
   - 979441
   start: 2026-11-11T01:30:00Z
@@ -96,6 +113,7 @@
   - 576737
   - 577251
   - 578014
+  - 628989
   - 788437
   - 979442
   start: 2026-11-11T02:00:00Z
@@ -126,6 +144,7 @@
   - 562136
   - 568223
   - 578015
+  - 628990
   - 788438
   - 979443
   start: 2026-11-11T02:03:00Z
@@ -154,6 +173,7 @@
   - 562137
   - 568224
   - 578016
+  - 628991
   - 788439
   - 979444
   start: 2026-11-11T02:48:00Z
@@ -168,6 +188,7 @@
   - 569993
   - 578233
   - 594699
+  - 629218
   - 788457
   - 979485
   start: 2026-11-11T03:00:00Z
@@ -182,6 +203,7 @@
   - 569994
   - 578234
   - 594700
+  - 629219
   - 788458
   - 979486
   start: 2026-11-11T03:03:00Z
@@ -197,6 +219,7 @@
   - 569995
   - 578235
   - 594701
+  - 629220
   - 788459
   - 979487
   start: 2026-11-11T03:30:00Z
@@ -211,6 +234,7 @@
   - 569996
   - 578236
   - 594702
+  - 629221
   - 788460
   - 979488
   start: 2026-11-11T04:00:00Z
@@ -226,6 +250,7 @@
   - 569997
   - 578237
   - 594703
+  - 629222
   - 788461
   - 979489
   start: 2026-11-11T04:30:00Z
