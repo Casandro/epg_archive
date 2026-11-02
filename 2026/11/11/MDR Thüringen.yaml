@@ -19,6 +19,7 @@
   description: Ellie, Toni und Jonas brennen für die Idee, dass sie gemeinsam den Pferdehof von Carla und Michael übernehmen. Doch als überraschend eine größere Gruppe im Bistro bedient werden muss, kommen die drei an ihre Grenzen.
 - eventId:
   - 556934
+  - 579599
   - 624662
   - 675279
   - 675286
@@ -51,6 +52,7 @@
   description: '"Unerschrocken - Echte Heldinnen" ist eine Serie kurzer Animationsfilme über mutige Frauen aus aller Welt, von der Antike bis in die Gegenwart. Jede Folge stellt eine Frau vor, die auf ihrem Gebiet Revolutionäres geleistet und ihre ganz eigene Geschichte geschrieben hat.'
 - eventId:
   - 556935
+  - 579600
   - 624663
   - 675280
   - 675287
@@ -97,6 +99,7 @@
   audiodesc: true
 - eventId:
   - 556936
+  - 579601
   - 624664
   - 675281
   - 675288
@@ -140,6 +143,7 @@
   - 556720
   - 559279
   - 559763
+  - 579800
   - 600646
   - 600953
   - 624724
@@ -158,6 +162,7 @@
   - 541564
   - 556721
   - 559764
+  - 579801
   - 600954
   - 624725
   - 787988
@@ -184,11 +189,16 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 624726
+- eventId:
+  - 579802
+  - 624726
   start: 2026-11-11T04:05:00Z
   stop: 2026-11-11T04:35:00Z
   title: MDR THÜRINGEN JOURNAL
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 541566
   - 556723
@@ -204,21 +214,18 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 624727
+- eventId:
+  - 579803
+  - 624727
   start: 2026-11-11T04:35:00Z
   stop: 2026-11-11T05:25:00Z
   title: Rote Rosen (1876)
   subtitle: Deutschland 2014
   subtitled: true
-- eventId:
-  - 539998
-  - 555749
-  - 559283
-  - 559767
-  - 600650
-  - 624728
-  - 787862
-  - 980158
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId: 579804
   start: 2026-11-11T05:25:00Z
   stop: 2026-11-11T06:15:00Z
   title: Sturm der Liebe (1664)
@@ -232,6 +239,7 @@
   - 556333
   - 559438
   - 564118
+  - 579971
   - 600761
   - 624821
   - 787896
@@ -248,6 +256,7 @@
   - 556334
   - 559439
   - 564119
+  - 579972
   - 600762
   - 624822
   - 787897
@@ -262,6 +271,7 @@
   audiodesc: true
 - eventId:
   - 564120
+  - 579973
   - 624823
   start: 2026-11-11T07:55:00Z
   stop: 2026-11-11T08:45:00Z
@@ -274,6 +284,7 @@
   audiodesc: true
 - eventId:
   - 564121
+  - 579974
   - 624824
   start: 2026-11-11T08:45:00Z
   stop: 2026-11-11T09:35:00Z
@@ -285,6 +296,7 @@
   audiodesc: true
 - eventId:
   - 541080
+  - 541794
   - 556516
   - 559600
   - 564619
@@ -302,6 +314,7 @@
   audiodesc: true
 - eventId:
   - 541081
+  - 541795
   - 556517
   - 559601
   - 564620
@@ -318,6 +331,7 @@
   audiodesc: true
 - eventId:
   - 541082
+  - 541796
   - 556518
   - 559602
   - 564621
@@ -335,6 +349,7 @@
   audiodesc: true
 - eventId:
   - 541083
+  - 541797
   - 556519
   - 559603
   - 564622
@@ -352,6 +367,7 @@
   audiodesc: true
 - eventId:
   - 541084
+  - 541798
   - 556520
   - 559604
   - 564623
@@ -371,6 +387,7 @@
   audiodesc: true
   ageRating: 6
 - eventId:
+  - 542322
   - 565693
   - 625043
   start: 2026-11-11T12:58:00Z
@@ -381,6 +398,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 542323
   - 565694
   - 625044
   start: 2026-11-11T13:00:00Z
@@ -391,6 +409,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 542324
   - 565695
   - 625045
   start: 2026-11-11T13:25:00Z
@@ -402,6 +421,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 542325
   - 565696
   - 625046
   start: 2026-11-11T14:15:00Z
@@ -413,87 +433,38 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 1482679
-  - 1625271
-  - 548726
-  - 549185
-  - 549942
-  - 552622
-  - 564499
-  - 566101
-  - 573003
-  - 705026
-  - 851357
-  start: 2026-11-11T15:00:00Z
-  stop: 2026-11-11T15:30:00Z
-  title: Sturm der Liebe (4669)
-  subtitle: 'anschließend: das MDR-Wetter'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: "Mit u.a. folgenden Themen:\n\n* Bilanz nach Protesten\nIn mehreren Städten gab es Randale am Rande der Gen-Z-Demonstrationen\n\n* Filmfest in Leipzig\nDokumentarfilmfestival vergibt Goldene und Silberne Tauben  \n\n* Rote Laterne\nDynamo Dresden rutscht nach Pleite gegen Hannover ans Tabellenende"
-- eventId: 625114
+  - 542938
+  - 625114
   start: 2026-11-11T15:00:00Z
   stop: 2026-11-11T15:30:00Z
   title: MDR um 4
   subtitle: Neues von hier
   subtitled: true
-- eventId:
-  - 1482680
-  - 1625272
-  - 548727
-  - 549186
-  - 549943
-  - 552623
-  - 564500
-  - 566102
-  - 573004
-  - 705027
-  - 851358
-  start: 2026-11-11T15:30:00Z
-  stop: 2026-11-11T16:00:00Z
-  title: In aller Freundschaft - Die jungen Ärzte (412)
-  subtitle: Neues von hier & Leichter leben - mit Christian Henze
   widescreen: true
-  subtitled: true
   hd: true
   audiodesc: true
-  description: Die hochschwangere Alexandra R. aus Katzwang bei Nürnberg verschwindet am 09.12.2022 spurlos. Rätselhafte Nachrichten von ihrem Handy sagen aus, sie sei weg. Doch lässt eine Frau im achten Monat wirklich alles zurück?
-  ageRating: 12
-- eventId: 625115
+- eventId:
+  - 542939
+  - 625115
   start: 2026-11-11T15:30:00Z
   stop: 2026-11-11T16:00:00Z
   title: MDR um 4
   subtitle: Gäste zum Kaffee
   subtitled: true
-- eventId:
-  - 1482681
-  - 1625273
-  - 548728
-  - 549187
-  - 549944
-  - 552624
-  - 564501
-  - 566103
-  - 573005
-  - 705028
-  - 851359
-  start: 2026-11-11T16:00:00Z
-  stop: 2026-11-11T16:45:00Z
-  title: Feldberger Seen - Naturparadies Mecklenburg
   widescreen: true
-  subtitled: true
   hd: true
   audiodesc: true
-  description: Die Feldberger Seen im Herzen Mecklenburgs sind ein echtes Naturparadies zwischen Ostsee und Berlin. Stephanie Müller-Spirra entdeckt die faszinierende Eiszeitlandschaft rund um Haussee.
-  subtitle: Neues von hier & Leichter leben - Mit Finanzexperte H.-J. Tenhagen
-- eventId: 625116
+- eventId:
+  - 542940
+  - 625116
   start: 2026-11-11T16:00:00Z
   stop: 2026-11-11T16:45:00Z
   title: MDR um 4
   subtitle: Neues von hier & Leichter leben - Mit Finanzexperte H.-J. Tenhagen
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1625274
   - 548729
@@ -509,13 +480,19 @@
   hd: true
   audiodesc: true
   description: Verpassen Sie keine Nachrichten und Trends aus Sachsen, Sachsen-Anhalt und Thüringen. Sehen Sie das Neueste aus Politik und Wirtschaft, der Kultur und Wissenschaft, vom Sport, mit Expertengesprächen und hintergründigen Reportagen.
-- eventId: 625117
+- eventId:
+  - 542941
+  - 625117
   start: 2026-11-11T16:45:00Z
   stop: 2026-11-11T17:05:00Z
   title: MDR aktuell
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1625275
+  - 542942
   - 548730
   - 552626
   - 566105
@@ -533,6 +510,7 @@
   subtitle: Die Wetterschau für Mitteldeutschland
 - eventId:
   - 542578
+  - 542943
   - 557538
   - 559923
   - 601060
@@ -548,6 +526,7 @@
   audiodesc: true
 - eventId:
   - 542579
+  - 542944
   - 557539
   - 559924
   - 566107
@@ -566,6 +545,7 @@
   genre:
   - '16'
 - eventId:
+  - 543549
   - 547052
   - 560121
   - 560456
@@ -582,6 +562,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 543550
   - 547053
   - 560122
   - 560457
@@ -594,6 +575,18 @@
   stop: 2026-11-11T18:50:00Z
   title: MDR aktuell
   subtitle: 'anschließend: das MDR-Wetter'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 543551
+  - 567329
+  - 625240
+  start: 2026-11-11T18:50:00Z
+  stop: 2026-11-11T19:15:00Z
+  title: Tierisch tierisch
+  subtitle: Das Tiermagazin des MDR
   widescreen: true
   subtitled: true
   hd: true
@@ -614,17 +607,7 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 567329
-  - 625240
-  start: 2026-11-11T18:50:00Z
-  stop: 2026-11-11T19:15:00Z
-  title: Tierisch tierisch
-  subtitle: Das Tiermagazin des MDR
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
+  - 543552
   - 547055
   - 560124
   - 560459
@@ -642,6 +625,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 543553
   - 547056
   - 560125
   - 560460
@@ -659,6 +643,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 543554
   - 547057
   - 560126
   - 560461
@@ -675,15 +660,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 547551
-  - 560307
-  - 560675
-  - 568040
-  - 592510
-  - 601274
-  - 788073
-  - 980085
+- eventId: 571188
   start: 2026-11-11T21:10:00Z
   stop: 2026-11-11T22:40:00Z
   title: 'Tatort: Niedere Instinkte'
@@ -694,15 +671,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 547552
-  - 560308
-  - 560676
-  - 568041
-  - 592511
-  - 601275
-  - 788074
-  - 980086
+- eventId: 571189
   start: 2026-11-11T22:40:00Z
   stop: 2026-11-11T23:25:00Z
   title: Nuhr im Ersten
@@ -711,16 +680,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-  ageRating: 12
-- eventId:
-  - 547553
-  - 560309
-  - 560677
-  - 568042
-  - 592512
-  - 601276
-  - 801762
-  - 980087
+- eventId: 571190
   start: 2026-11-11T23:25:00Z
   stop: 2026-11-12T00:10:00Z
   title: extra 3

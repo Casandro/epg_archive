@@ -1,4 +1,5 @@
 - eventId:
+  - 604030
   - 628716
   - 634562
   - 714751
@@ -11,6 +12,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 604031
   - 628717
   - 634563
   - 714752
@@ -23,6 +25,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 604032
   - 628718
   - 634564
   - 714753
@@ -35,6 +38,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 604099
   - 628794
   - 634731
   - 714850
@@ -47,6 +51,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 604100
   - 628795
   - 634732
   - 714851
@@ -59,6 +64,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 604101
   - 628796
   - 634733
   - 714852
@@ -71,6 +77,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 604197
   - 628874
   - 634820
   - 714950
@@ -83,6 +90,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 604198
   - 628875
   - 634821
   - 714951
@@ -95,6 +103,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 604199
   - 628876
   - 634822
   - 714952
@@ -108,6 +117,17 @@
   audiodesc: true
   description: 'El canal de televisiðn cultural. '
 - eventId:
+  - 604265
+  - 634898
+  start: 2026-11-22T09:00:00Z
+  stop: 2026-11-22T09:30:00Z
+  title: Twist
+  subtitle: Magazin Deutschland 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 628946
   - 715019
   start: 2026-11-22T09:00:00Z
@@ -119,11 +139,13 @@
   hd: true
   audiodesc: true
   description: Die Reihe "Haunted Places" begibt sich auf die Suche nach mysteriösen Geschichten, ungelösten Geheimnissen und rätselhaften Phänomenen. Die Folge "Draculas Transsilvanien" reist in die Karpaten nach Rumänien und findet heraus, wie viel Wahrheit hinter der Geschichte von Graf Dracula steckt. Eine Spurensuche durch Dörfer, Städte, mysteriöse Orte und wilde Natur mit einer faszinierenden Tierwelt.
-- eventId: 634898
-  start: 2026-11-22T09:00:00Z
-  stop: 2026-11-22T09:30:00Z
-  title: Twist
-  subtitle: Magazin Deutschland 2026
+- eventId:
+  - 604266
+  - 634899
+  start: 2026-11-22T09:30:00Z
+  stop: 2026-11-22T10:15:00Z
+  title: Im Bauch von Venedig
+  subtitle: Der Rialtomarkt
   widescreen: true
   subtitled: true
   hd: true
@@ -140,11 +162,13 @@
   hd: true
   audiodesc: true
   description: 'Horrorgeschichten faszinieren die Menschheit seit Jahrhunderten. Doch warum setzen wir uns freiwillig der Angst aus - im Kino, vor dem Fernseher, beim Anhören von schaurigen Märchen? Die Forschung zeigt: Der Reiz des Horrors ist tief verwurzelt. Adrenalin schießt durch den Körper, das Herz rast - und trotzdem wissen wir: Uns passiert nichts. Angstlust nennt die Psychologie das: die Balance zwischen Schreck und Sicherheit, den _Sweet Spot_ zwischen harmlos und schockierend. Und wenn wir ihn erwischen? Haben wir beim Fürchten nicht nur Spaß, sondern könnten sogar dauerhaft Resilienz aufbauen.'
-- eventId: 634899
-  start: 2026-11-22T09:30:00Z
-  stop: 2026-11-22T10:15:00Z
-  title: Im Bauch von Venedig
-  subtitle: Der Rialtomarkt
+- eventId:
+  - 604267
+  - 634900
+  start: 2026-11-22T10:15:00Z
+  stop: 2026-11-22T11:00:00Z
+  title: Im Bauch von Dijon
+  subtitle: Die Markthalle
   widescreen: true
   subtitled: true
   hd: true
@@ -162,11 +186,15 @@
   audiodesc: true
   description: 'Zombies erwecken Angst und Grauen und zählen doch zu den beliebtesten Monstern der Popkultur. Woher kommt diese Faszination für die Untoten? Vermutlich, weil sie Menschen den Spiegel vorhalten, Dinge offenbaren, vor denen sie Angst haben. Sogar in sich selbst. Eine Reise durch die Geschichte des Zombie-Films: von George A. Romeros Ur-Zombie bis zum rasenden Blockbuster-Schrecken.'
   ageRating: 18
-- eventId: 634900
-  start: 2026-11-22T10:15:00Z
-  stop: 2026-11-22T11:00:00Z
-  title: Im Bauch von Dijon
-  subtitle: Die Markthalle
+- eventId:
+  - 604268
+  - 634901
+  start: 2026-11-22T11:00:00Z
+  stop: 2026-11-22T11:45:00Z
+  title: Im Bauch von Hamburg
+  subtitle: Der Isemarkt
+  genre:
+  - '144'
   widescreen: true
   subtitled: true
   hd: true
@@ -185,18 +213,8 @@
   genre:
   - '144'
   description: Déo und ihr älterer Bruder Sam leben in Benin im Voodoo-Tempel ihres Vaters. Zwischen Respekt vor der Familientradition und dem Traum von einem selbstbestimmten, modernen Leben emanzipieren sie sich, ohne dabei ihre Werte zu verraten. Der Film gibt tiefe Einblicke in die Voodoo-Religion, jenseits von Klischees.
-- eventId: 634901
-  start: 2026-11-22T11:00:00Z
-  stop: 2026-11-22T11:45:00Z
-  title: Im Bauch von Hamburg
-  subtitle: Der Isemarkt
-  genre:
-  - '144'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
+  - 604269
   - 628950
   - 634902
   - 715023
@@ -212,6 +230,7 @@
   - '144'
   description: '"Helloween" sind eine Metal-Ausnahmeerscheinung: Mit drei Sängern und drei Gitarristen im Line-up machen die Hamburger live gewaltigen Druck und begeistern mit starken Melodien. Die "Keeper of the Seven Keys"-Alben sind längst Kult prägende Werke des Genres. 2026 feierte die Band beim Summer Breeze Open Air mit einem aufsehenerregenden Headliner-Auftritt ihre Festival-Premiere.'
 - eventId:
+  - 604323
   - 629804
   - 634969
   - 715091
@@ -226,6 +245,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 604324
   - 629805
   - 634970
   - 715092
@@ -238,6 +258,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 600823
   - 629091
   - 635060
   - 715208
@@ -250,6 +271,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 600824
   - 629092
   - 635061
   - 715209
@@ -262,6 +284,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 600825
   - 629093
   - 635062
   - 715210
@@ -274,6 +297,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 600826
   - 629094
   - 635063
   - 715211
@@ -286,6 +310,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 601083
   - 629193
   - 635168
   - 715298
@@ -298,6 +323,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 601084
   - 629194
   - 635169
   - 715299
@@ -310,6 +336,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 601085
   - 629195
   - 635170
   - 715300
@@ -324,6 +351,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 601086
   - 629196
   - 635171
   - 715301
@@ -336,6 +364,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 601374
   - 629274
   - 635252
   - 715417
@@ -348,6 +377,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 601375
   - 629275
   - 635253
   - 715418

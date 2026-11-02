@@ -1,5 +1,6 @@
 - eventId:
   - 562040
+  - 562720
   - 572609
   - 588700
   - 960578
@@ -8,6 +9,7 @@
   title: Nachrichten
 - eventId:
   - 562041
+  - 562721
   - 572610
   - 588701
   - 960579
@@ -17,6 +19,7 @@
   description: "5:30 - 5:31 SR info Nachrichten um halb\n\n6:00 - 6:04 SR info Nachrichten\n\n6:30 - 6:31 SR info Nachrichten um halb\n\n7:00 - 7:04 SR info Nachrichten \n\n7:30 - 7:31 SR info Nachrichten um halb\n\n8:00 - 8:10 SR info Rundschau\n\n8:30 - 8:32 SR info Nachrischde uff Platt"
 - eventId:
   - 562366
+  - 564012
   - 572977
   - 574748
   - 984062
@@ -25,6 +28,7 @@
   title: SR info Nachrichten
 - eventId:
   - 562367
+  - 564013
   - 572978
   - 574749
   - 984063
@@ -47,6 +51,7 @@
 - eventId:
   - 554013
   - 564043
+  - 564950
   - 573416
   - 984066
   start: 2026-11-13T11:00:00Z
@@ -55,6 +60,7 @@
 - eventId:
   - 554014
   - 564044
+  - 564951
   - 573417
   - 984067
   start: 2026-11-13T11:04:00Z
@@ -70,9 +76,21 @@
   stop: 2026-11-13T12:10:00Z
   title: SR info Rundschau
 - eventId:
+  - 575163
+  - 720850
+  start: 2026-11-13T12:00:00Z
+  stop: 2026-11-13T12:10:00Z
+  title: SR 3 Froh in den Sonntag
+  description: |-
+    7:00 - 7:04 SR info Nachrichten
+
+    7:40 - 7:42 Zwischenruf
+    von Martin Wolf, katholische Kirche
+- eventId:
   - 554583
   - 564996
   - 574469
+  - 575164
   - 984070
   start: 2026-11-13T12:10:00Z
   stop: 2026-11-13T15:00:00Z
@@ -91,6 +109,7 @@
   - 556863
   - 566829
   - 575031
+  - 575605
   - 984072
   start: 2026-11-13T15:00:00Z
   stop: 2026-11-13T15:04:00Z
@@ -99,6 +118,7 @@
   - 556864
   - 566830
   - 575032
+  - 575606
   - 984073
   start: 2026-11-13T15:04:00Z
   stop: 2026-11-13T16:00:00Z
@@ -108,6 +128,7 @@
   - 556865
   - 566831
   - 575033
+  - 575607
   - 984074
   start: 2026-11-13T16:00:00Z
   stop: 2026-11-13T16:04:00Z
@@ -116,6 +137,7 @@
   - 556866
   - 566832
   - 575034
+  - 575608
   - 984075
   start: 2026-11-13T16:04:00Z
   stop: 2026-11-13T19:00:00Z
@@ -131,6 +153,7 @@
 - eventId:
   - 557770
   - 568830
+  - 576372
   - 596207
   - 984077
   start: 2026-11-13T19:00:00Z
@@ -139,6 +162,7 @@
 - eventId:
   - 557771
   - 568831
+  - 576373
   - 596208
   - 984078
   start: 2026-11-13T19:03:00Z
@@ -149,6 +173,7 @@
 
     22:00 - 22:03 SR info Nachrichten
 - eventId:
+  - 565821
   - 575044
   - 590462
   - 627757
@@ -157,6 +182,7 @@
   stop: 2026-11-13T22:03:00Z
   title: SR info Nachrichten
 - eventId:
+  - 565822
   - 575045
   - 590463
   - 627758
@@ -165,6 +191,7 @@
   stop: 2026-11-13T23:00:00Z
   title: ARD Hitnacht
 - eventId:
+  - 565823
   - 575046
   - 590464
   - 627759
@@ -173,6 +200,7 @@
   stop: 2026-11-13T23:03:00Z
   title: SR info Nachrichten
 - eventId:
+  - 565824
   - 575047
   - 590465
   - 627760

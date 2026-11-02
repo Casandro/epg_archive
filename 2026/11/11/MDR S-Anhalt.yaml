@@ -12,6 +12,7 @@
   audiodesc: true
 - eventId:
   - 556859
+  - 579519
   - 675273
   start: 2026-11-11T01:05:00Z
   stop: 2026-11-11T02:10:00Z
@@ -34,6 +35,7 @@
   audiodesc: true
 - eventId:
   - 556860
+  - 579520
   - 675274
   start: 2026-11-11T02:10:00Z
   stop: 2026-11-11T02:40:00Z
@@ -57,6 +59,7 @@
   audiodesc: true
 - eventId:
   - 556861
+  - 579521
   - 675275
   start: 2026-11-11T02:40:00Z
   stop: 2026-11-11T03:05:00Z
@@ -80,6 +83,7 @@
   - 539801
   - 555567
   - 559674
+  - 579701
   - 787825
   start: 2026-11-11T03:05:00Z
   stop: 2026-11-11T03:35:00Z
@@ -92,6 +96,7 @@
   - 539802
   - 555568
   - 559675
+  - 579702
   - 787826
   start: 2026-11-11T03:35:00Z
   stop: 2026-11-11T04:05:00Z
@@ -104,6 +109,7 @@
   - 539803
   - 555569
   - 559676
+  - 579703
   - 787827
   start: 2026-11-11T04:05:00Z
   stop: 2026-11-11T04:35:00Z
@@ -116,6 +122,7 @@
   - 539804
   - 555570
   - 559677
+  - 579704
   - 787828
   start: 2026-11-11T04:35:00Z
   stop: 2026-11-11T05:25:00Z
@@ -129,6 +136,7 @@
   - 539805
   - 555571
   - 559678
+  - 579705
   - 787829
   start: 2026-11-11T05:25:00Z
   stop: 2026-11-11T06:15:00Z
@@ -142,6 +150,7 @@
   - 540455
   - 556160
   - 562636
+  - 589610
   - 787881
   start: 2026-11-11T06:15:00Z
   stop: 2026-11-11T07:05:00Z
@@ -155,6 +164,7 @@
   - 540456
   - 556161
   - 562637
+  - 589611
   - 787882
   start: 2026-11-11T07:05:00Z
   stop: 2026-11-11T07:55:00Z
@@ -168,6 +178,7 @@
   - 540457
   - 556162
   - 562638
+  - 589612
   - 787883
   start: 2026-11-11T07:55:00Z
   stop: 2026-11-11T08:45:00Z
@@ -182,6 +193,7 @@
   - 540458
   - 556163
   - 562639
+  - 589613
   - 787884
   start: 2026-11-11T08:45:00Z
   stop: 2026-11-11T09:35:00Z
@@ -193,6 +205,7 @@
   audiodesc: true
 - eventId:
   - 540908
+  - 541652
   - 556448
   - 564557
   - 787908
@@ -206,6 +219,7 @@
   audiodesc: true
 - eventId:
   - 540909
+  - 541653
   - 556449
   - 564558
   - 787909
@@ -218,6 +232,7 @@
   audiodesc: true
 - eventId:
   - 540910
+  - 541654
   - 556450
   - 564559
   - 787910
@@ -231,6 +246,7 @@
   audiodesc: true
 - eventId:
   - 540911
+  - 541655
   - 556451
   - 564560
   - 787911
@@ -244,6 +260,7 @@
   audiodesc: true
 - eventId:
   - 540912
+  - 541656
   - 556452
   - 564561
   - 787912
@@ -258,7 +275,9 @@
   hd: true
   audiodesc: true
   ageRating: 6
-- eventId: 565631
+- eventId:
+  - 542186
+  - 565631
   start: 2026-11-11T12:58:00Z
   stop: 2026-11-11T13:00:00Z
   title: MDR aktuell
@@ -266,7 +285,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 565632
+- eventId:
+  - 542187
+  - 565632
   start: 2026-11-11T13:00:00Z
   stop: 2026-11-11T13:25:00Z
   title: MDR um 2
@@ -274,7 +295,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 565633
+- eventId:
+  - 542188
+  - 565633
   start: 2026-11-11T13:25:00Z
   stop: 2026-11-11T14:15:00Z
   title: Elefant, Tiger & Co. (440)
@@ -283,7 +306,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 565634
+- eventId:
+  - 542189
+  - 565634
   start: 2026-11-11T14:15:00Z
   stop: 2026-11-11T15:00:00Z
   title: Gefragt - Gejagt (669)
@@ -318,9 +343,20 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 542706
+  start: 2026-11-11T15:00:00Z
+  stop: 2026-11-11T15:30:00Z
+  title: Gefragt - Gejagt (663)
+  subtitle: Mit Alexander Bommes
+  description: In "Gefragt - Gejagt" mit Alexander Bommes tritt ein Team von vier Kandidatinnen und Kandidaten gegen ein Superhirn - die "Jägerin" oder den "Jäger" - an. Sie sind alle ausgewiesene Quizprofis.
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1625256
   - 542351
+  - 542707
   - 548496
   - 554959
   - 557441
@@ -352,6 +388,18 @@
   hd: true
   audiodesc: true
   description: 'Zu Gast: Stefan Ganß, "Ganß'' heile Welt"'
+- eventId: 542708
+  start: 2026-11-11T16:00:00Z
+  stop: 2026-11-11T16:45:00Z
+  title: Japans Garten Eden
+  subtitle: Neues von hier & Leichter leben - Mit Finanzexperte H.-J. Tenhagen
+  description: Zwischen dem Chinesischen Meer und dem Pazifik im äußersten Süden Japans liegt die Iriomote Insel. Ein Juwel, bedeckt von dichten tropischen Wäldern. Auf dieser Insel gibt es einige der seltensten Tierarten der Erde. Der Tierfilmer Moritz Katz lebt mit seiner Frau in Japan und versteht es, ein vermeintlich kleines Eiland spektakulär in Szene zu setzen.
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1625258
   - 542353
@@ -369,6 +417,15 @@
   hd: true
   audiodesc: true
   description: '* Erbsen, Linsen & Bohnen - mit Christian Henze'
+- eventId: 542709
+  start: 2026-11-11T16:45:00Z
+  stop: 2026-11-11T17:05:00Z
+  title: MDR aktuell
+  description: In komprimierter Fassung informieren wir Sie über die aktuellen Nachrichten des Tages.
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1625259
   - 542354
@@ -386,6 +443,16 @@
   audiodesc: true
   description: Verpassen Sie keine Nachrichten und Trends aus Sachsen, Sachsen-Anhalt und Thüringen. Sehen Sie das Neueste aus Politik und Wirtschaft, der Kultur und Wissenschaft, vom Sport, mit Expertengesprächen und hintergründigen Reportagen.
   subtitle: Die Wetterschau für Mitteldeutschland
+- eventId: 542710
+  start: 2026-11-11T17:05:00Z
+  stop: 2026-11-11T17:10:00Z
+  title: Sport im Osten
+  subtitle: 'Fußball live: Chemnitzer FC - Greifswalder FC'
+  description: Bei der Sportsendung des MDR-Fernsehens gibt es Fußball satt. Natürlich berichtet "Sport im Osten" aber auch vom Basketball, Handball, Volleyball, Eishockey, Boxen und über vieles mehr.
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1625260
   - 548500
@@ -411,9 +478,19 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 542711
+  start: 2026-11-11T17:10:00Z
+  stop: 2026-11-11T17:54:00Z
+  title: MDR aktuell
+  description: In komprimierter Fassung informieren wir Sie über die aktuellen Nachrichten des Tages.
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1625261
   - 542356
+  - 542712
   - 548501
   - 554964
   - 557446
@@ -431,6 +508,7 @@
   genre:
   - '16'
 - eventId:
+  - 543317
   - 546836
   - 558818
   - 566279
@@ -443,6 +521,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 543318
   - 546837
   - 558819
   - 566280
@@ -451,6 +530,17 @@
   stop: 2026-11-11T18:50:00Z
   title: MDR aktuell
   subtitle: 'anschließend: das MDR-Wetter'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 543319
+  - 566281
+  start: 2026-11-11T18:50:00Z
+  stop: 2026-11-11T19:15:00Z
+  title: Tierisch tierisch
+  subtitle: Das Tiermagazin des MDR
   widescreen: true
   subtitled: true
   hd: true
@@ -467,16 +557,8 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 566281
-  start: 2026-11-11T18:50:00Z
-  stop: 2026-11-11T19:15:00Z
-  title: Tierisch tierisch
-  subtitle: Das Tiermagazin des MDR
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
+  - 543320
   - 546839
   - 558821
   - 566282
@@ -490,6 +572,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 543321
   - 546840
   - 558822
   - 566283
@@ -503,6 +586,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 543322
   - 546841
   - 558823
   - 566284
@@ -516,6 +600,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 543897
   - 547423
   - 560628
   - 567979
@@ -531,6 +616,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 543898
   - 547424
   - 560629
   - 567980
@@ -544,6 +630,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 543899
   - 547425
   - 560630
   - 567981

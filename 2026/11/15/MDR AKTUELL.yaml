@@ -3,6 +3,7 @@
   - 555916
   - 556803
   - 560557
+  - 579467
   start: 2026-11-15T00:00:00Z
   stop: 2026-11-15T01:00:00Z
   title: MDR AKTUELL - Das Nachrichtenradio
@@ -19,6 +20,7 @@
   - 555917
   - 556804
   - 560558
+  - 579468
   start: 2026-11-15T01:00:00Z
   stop: 2026-11-15T02:00:00Z
   title: MDR AKTUELL - Das Nachrichtenradio
@@ -35,6 +37,7 @@
   - 555918
   - 556805
   - 560559
+  - 579469
   start: 2026-11-15T02:00:00Z
   stop: 2026-11-15T03:00:00Z
   title: MDR AKTUELL - Das Nachrichtenradio
@@ -51,6 +54,7 @@
   - 556240
   - 556968
   - 560795
+  - 579633
   start: 2026-11-15T03:00:00Z
   stop: 2026-11-15T04:00:00Z
   title: MDR AKTUELL - Das Nachrichtenradio
@@ -67,6 +71,7 @@
   - 556241
   - 556969
   - 560796
+  - 579634
   start: 2026-11-15T04:00:00Z
   stop: 2026-11-15T05:00:00Z
   title: MDR AKTUELL - Das Nachrichtenradio
@@ -81,6 +86,7 @@
 - eventId:
   - 556242
   - 556970
+  - 579635
   - 635695
   start: 2026-11-15T05:00:00Z
   stop: 2026-11-15T06:00:00Z
@@ -124,6 +130,7 @@
 - eventId:
   - 540070
   - 559760
+  - 579791
   - 635701
   start: 2026-11-15T06:00:00Z
   stop: 2026-11-15T07:00:00Z
@@ -172,6 +179,7 @@
 - eventId:
   - 540071
   - 559761
+  - 579792
   - 635702
   start: 2026-11-15T07:00:00Z
   stop: 2026-11-15T08:00:00Z
@@ -215,6 +223,7 @@
 - eventId:
   - 540072
   - 559762
+  - 579793
   - 635703
   start: 2026-11-15T08:00:00Z
   stop: 2026-11-15T09:00:00Z
@@ -260,7 +269,9 @@
     09:59 Uhr: Ausblick auf die nächsten 30 Minuten
 
     -- weitere Informationen unter www.mdraktuell.de --
-- eventId: 563604
+- eventId:
+  - 563604
+  - 579895
   start: 2026-11-15T09:00:00Z
   stop: 2026-11-15T10:00:00Z
   title: MDR AKTUELL - Das Nachrichtenradio
@@ -307,7 +318,9 @@
     10:59 Uhr: Ausblick auf die nächsten 30 Minuten
 
     -- weitere Informationen unter www.mdraktuell.de --
-- eventId: 563605
+- eventId:
+  - 563605
+  - 579896
   start: 2026-11-15T10:00:00Z
   stop: 2026-11-15T11:00:00Z
   title: MDR AKTUELL - Das Nachrichtenradio
@@ -356,6 +369,7 @@
     -- weitere Informationen unter www.mdraktuell.de --
 - eventId:
   - 540936
+  - 541576
   - 564530
   - 635744
   start: 2026-11-15T11:00:00Z
@@ -402,6 +416,57 @@
     12:55 Uhr: Kalenderblatt
     12:58 Uhr: Wettergespräch mit dem MDR Wetterstudio
     12:59 Uhr: Ausblick auf die nächsten 30 Minuten
+
+    -- weitere Informationen unter www.mdraktuell.de --
+- eventId:
+  - 1540615
+  - 540438
+  - 542000
+  - 547597
+  - 551755
+  - 680434
+  start: 2026-11-15T12:00:00Z
+  stop: 2026-11-15T13:00:00Z
+  title: MDR AKTUELL - Das Nachrichtenradio
+  subtitle: Das Nachrichtenradio
+  description: |-
+    13:00 Uhr: Nachrichten
+    13:05 Uhr: Wetter und Verkehr
+    13:06 Uhr: Aktuelle Berichte
+    13:15 Uhr: Weitere Meldungen ...
+    13:16 Uhr: Wetter und Verkehr
+    13:17 Uhr: Sport
+    13:28 Uhr: Wettergespräch mit dem MDR Wetterstudio
+    13:29 Uhr: Ausblick auf die nächsten 30 Minuten
+    13:30 Uhr: Nachrichten
+    13:35 Uhr: Wetter und Verkehr
+    13:36 Uhr: Aktuelle Berichte
+    13:41 Uhr: Sport
+    13:45 Uhr: Weitere Meldungen ...
+    13:46 Uhr: Wetter und Verkehr
+    13:47 Uhr: Hintergrundberichte
+    13:58 Uhr: Wettergespräch mit dem MDR Wetterstudio
+    13:59 Uhr: Ausblick auf die nächsten 30 Minuten
+
+    -- weitere Informationen unter www.mdraktuell.de --
+
+    13:00 Uhr: Nachrichten
+    13:05 Uhr: Wetter und Verkehr
+    13:06 Uhr: Aktuelle Berichte
+    13:15 Uhr: Weitere Meldungen ...
+    13:16 Uhr: Wetter und Verkehr
+    13:17 Uhr: Sport
+    13:28 Uhr: Wettergespräch mit dem MDR Wetterstudio
+    13:29 Uhr: Ausblick auf die nächsten 30 Minuten
+    13:30 Uhr: Nachrichten
+    13:35 Uhr: Wetter und Verkehr
+    13:36 Uhr: Aktuelle Berichte
+    13:41 Uhr: Sport
+    13:45 Uhr: Weitere Meldungen ...
+    13:46 Uhr: Wetter und Verkehr
+    13:47 Uhr: Hintergrundberichte
+    13:58 Uhr: Wettergespräch mit dem MDR Wetterstudio
+    13:59 Uhr: Ausblick auf die nächsten 30 Minuten
 
     -- weitere Informationen unter www.mdraktuell.de --
 - eventId:
@@ -454,6 +519,7 @@
     -- weitere Informationen unter www.mdraktuell.de --
 - eventId:
   - 541317
+  - 542001
   - 580140
   - 635774
   start: 2026-11-15T13:00:00Z
@@ -502,10 +568,7 @@
     14:59 Uhr: Ausblick auf die nächsten 30 Minuten
 
     -- weitere Informationen unter www.mdraktuell.de --
-- eventId:
-  - 541663
-  - 580141
-  - 635810
+- eventId: 542368
   start: 2026-11-15T14:00:00Z
   stop: 2026-11-15T15:00:00Z
   title: MDR AKTUELL - Das Nachrichtenradio
@@ -550,10 +613,7 @@
     15:59 Uhr: Ausblick auf die nächsten 30 Minuten
 
     -- weitere Informationen unter www.mdraktuell.de --
-- eventId:
-  - 542509
-  - 566044
-  - 635846
+- eventId: 542796
   start: 2026-11-15T15:00:00Z
   stop: 2026-11-15T16:00:00Z
   title: MDR AKTUELL - Das Nachrichtenradio
@@ -598,10 +658,7 @@
     16:59 Uhr: Ausblick auf die nächsten 30 Minuten
 
     -- weitere Informationen unter www.mdraktuell.de --
-- eventId:
-  - 542510
-  - 566045
-  - 635847
+- eventId: 542797
   start: 2026-11-15T16:00:00Z
   stop: 2026-11-15T17:00:00Z
   title: MDR AKTUELL - Das Nachrichtenradio
@@ -648,6 +705,7 @@
     -- weitere Informationen unter www.mdraktuell.de --
 - eventId:
   - 542511
+  - 542798
   - 566046
   - 635848
   start: 2026-11-15T17:00:00Z
@@ -695,6 +753,7 @@
 
     -- weitere Informationen unter www.mdraktuell.de --
 - eventId:
+  - 543248
   - 546812
   - 566253
   - 635878
@@ -743,6 +802,7 @@
 
     -- weitere Informationen unter www.mdraktuell.de --
 - eventId:
+  - 543249
   - 546813
   - 566254
   - 635879
@@ -772,6 +832,7 @@
 
     -- weitere Informationen unter www.mdraktuell.de --
 - eventId:
+  - 543250
   - 546814
   - 566255
   - 635880
@@ -799,6 +860,7 @@
 
     -- weitere Informationen unter www.mdraktuell.de --
 - eventId:
+  - 543671
   - 547336
   - 567897
   - 635926
@@ -814,6 +876,7 @@
 
     -- weitere Informationen unter www.mdraktuell.de --
 - eventId:
+  - 543672
   - 547337
   - 567898
   - 635927
@@ -829,6 +892,7 @@
 
     -- weitere Informationen unter www.mdraktuell.de --
 - eventId:
+  - 543673
   - 547338
   - 567899
   - 635928

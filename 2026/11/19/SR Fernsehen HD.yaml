@@ -3,6 +3,7 @@
   - 1513070
   - 562340
   - 568415
+  - 568737
   - 600866
   - 629091
   start: 2026-11-19T00:00:00Z
@@ -20,6 +21,7 @@
   - 1513071
   - 562341
   - 568416
+  - 568738
   - 600867
   - 629092
   start: 2026-11-19T01:35:00Z
@@ -34,6 +36,7 @@
 - eventId:
   - 1008893
   - 563017
+  - 569092
   - 570218
   - 629350
   start: 2026-11-19T03:25:00Z
@@ -46,6 +49,7 @@
 - eventId:
   - 1008894
   - 563018
+  - 569093
   - 570219
   - 629351
   start: 2026-11-19T04:05:00Z
@@ -58,6 +62,7 @@
 - eventId:
   - 1008895
   - 563019
+  - 569094
   - 570220
   - 629352
   start: 2026-11-19T04:30:00Z
@@ -70,6 +75,7 @@
 - eventId:
   - 1008896
   - 563020
+  - 569095
   - 570221
   - 629353
   start: 2026-11-19T05:00:00Z
@@ -82,6 +88,7 @@
 - eventId:
   - 1008897
   - 563021
+  - 569096
   - 570222
   - 629354
   start: 2026-11-19T05:40:00Z
@@ -95,6 +102,7 @@
 - eventId:
   - 1008934
   - 564005
+  - 569824
   - 570623
   - 581474
   start: 2026-11-19T06:10:00Z
@@ -108,6 +116,7 @@
 - eventId:
   - 1008935
   - 564006
+  - 569825
   - 570624
   - 581475
   start: 2026-11-19T06:40:00Z
@@ -121,6 +130,7 @@
 - eventId:
   - 1008936
   - 564007
+  - 569826
   - 570625
   - 581476
   start: 2026-11-19T08:40:00Z
@@ -130,50 +140,34 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 1008959
-  - 565248
-  - 570914
-  - 581791
+- eventId: 570108
   start: 2026-11-19T09:20:00Z
   stop: 2026-11-19T09:50:00Z
   title: Eisenbahn-Romantik (915)
+  subtitle: Die Straßenbahnen von Thuin
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  subtitle: Die Straßenbahnen von Thuin
-- eventId:
-  - 1008960
-  - 565249
-  - 570915
-  - 581792
+- eventId: 570109
   start: 2026-11-19T09:50:00Z
   stop: 2026-11-19T10:40:00Z
   title: Sturm der Liebe (4676)
+  subtitle: Deutschland 2026
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  subtitle: Fernsehserie Deutschland 2026
-- eventId:
-  - 1008961
-  - 565250
-  - 570916
-  - 581793
+- eventId: 570110
   start: 2026-11-19T10:40:00Z
   stop: 2026-11-19T11:10:00Z
   title: aktiv und gesund
+  subtitle: Säuren und Basen / Heilwasser / Bungee Fitness / Massagepistolen / Venenschwäche und Krampfadern
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  subtitle: Säuren und Basen / Heilwasser / Bungee Fitness / Massagepistolen / Venenschwäche und Krampfadern
-- eventId:
-  - 1008962
-  - 565251
-  - 570917
-  - 581794
+- eventId: 570111
   start: 2026-11-19T11:10:00Z
   stop: 2026-11-19T11:55:00Z
   title: ARD-Buffet Spezial
@@ -181,26 +175,23 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 1008963
-  - 565252
-  - 570918
-  - 581795
+- eventId: 570112
   start: 2026-11-19T11:55:00Z
   stop: 2026-11-19T13:25:00Z
   title: Karla, Rosalie und das Loch in der Wand
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   subtitle: Spielfilm Deutschland 2022
   ageRating: 6
   genre:
   - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1008994
   - 547830
   - 566123
+  - 570481
   - 571239
   start: 2026-11-19T13:25:00Z
   stop: 2026-11-19T14:10:00Z
@@ -214,6 +205,7 @@
   - 1008995
   - 547831
   - 566124
+  - 570482
   - 571240
   start: 2026-11-19T14:10:00Z
   stop: 2026-11-19T15:00:00Z
@@ -228,6 +220,7 @@
   - 1009026
   - 548766
   - 567097
+  - 570893
   - 576027
   start: 2026-11-19T15:00:00Z
   stop: 2026-11-19T15:05:00Z
@@ -253,6 +246,21 @@
   audiodesc: true
   subtitle: Der SWR Nachmittag
   description: Die Kurznachrichten aus der Region. Von Montag bis Freitag fünf Minuten Nachrichten über die aktuellen Themen des Tages aus der Region. Kurz nach der TV-Ausstrahlung auch im Internet unter SRinfo.de und in der ARD Mediathek.
+- eventId:
+  - 1538950
+  - 549493
+  - 569083
+  - 570168
+  - 570894
+  start: 2026-11-19T15:05:00Z
+  stop: 2026-11-19T16:00:00Z
+  title: SWR Aktuell Baden-Württemberg
+  subtitle: Die Pilatusbahn - Steilste Zahnradbahn der Welt
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Der Pilatus ist der sagenumwobene Hausberg von Luzern, wo in Felsspalten sogar Drachen gehaust haben sollen. Seit 1889 fährt die steilste Zahnradbahn der Welt die knapp fünf Kilometer kurze Strecke hinauf zur Bergstation Pilatus Kulm. Der Höhenunterschied von 1.600 Metern wird mit einer sogenannten Fischgrätenzahnstange überwunden - bis heute ein einmaliges System.
 - eventId:
   - 1009028
   - 567099
@@ -283,6 +291,21 @@
     * Selbermachen: Gemütliche Strickjacke - Mit Tanja Steinbach, Strick- und Häkeldesignerin
     * Mitmachen und Gewinnen beim Kaffee oder Tee Quiz
 - eventId:
+  - 1538951
+  - 549494
+  - 569084
+  - 570169
+  - 570895
+  start: 2026-11-19T16:00:00Z
+  stop: 2026-11-19T16:05:00Z
+  title: Sturm der Liebe (4664)
+  subtitle: Fernsehserie Deutschland 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Massimo ist in Erklärungsnot, als Olivia ihn zur Rede stellt. Fanny und Marlon rühren die Sonnbichlers mit einer schönen Abschiedsgeste. Obwohl Adam weiß, dass Larissa ihn manipulieren will, landet er mit ihr im Bett. Frida ist erleichtert, als Erik ihre Kündigung rückgängig macht.
+- eventId:
   - 1009029
   - 1430737
   - 548769
@@ -300,6 +323,30 @@
   subtitle: Der SWR Nachmittag
   description: Die Kurznachrichten aus der Region. Von Montag bis Freitag fünf Minuten Nachrichten über die aktuellen Themen des Tages aus der Region. Kurz nach der TV-Ausstrahlung auch im Internet unter SRinfo.de und in der ARD Mediathek.
 - eventId:
+  - 1538952
+  - 549495
+  - 569085
+  - 570170
+  - 570896
+  start: 2026-11-19T16:05:00Z
+  stop: 2026-11-19T17:00:00Z
+  title: Wir im Saarland - Service
+  subtitle: Krafttraining gegen Krankheit / Adipositas-Spritze / Schulter-Übungen
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  genre:
+  - '144'
+  description: |-
+    Themen:
+    * Adipositas-Spritze
+    * Kraft gegen Krankheit
+    * Sport bei Herzproblemen
+    * Übungen für die Schulter
+    * Sommersalat
+    * Schrumpfen wir?
+- eventId:
   - 1009030
   - 567101
   - 576031
@@ -310,6 +357,25 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 1538953
+  - 549496
+  - 569086
+  - 570171
+  - 570897
+  start: 2026-11-19T17:00:00Z
+  stop: 2026-11-19T17:15:00Z
+  title: ARD-Buffet
+  subtitle: Leben & genießen
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    * Guten Appetit: Rainer Klutsch: Königsberger Klopse
+    * Unsere Flüsse
+    * Live im Studio: Thomas Reutter
+    * Gewinnspiel
 - eventId:
   - 1009031
   - 567102
@@ -322,6 +388,24 @@
   hd: true
   audiodesc: true
   subtitle: Boulevard-Magazin
+- eventId:
+  - 1538954
+  - 549497
+  - 569087
+  - 570172
+  - 570898
+  start: 2026-11-19T17:15:00Z
+  stop: 2026-11-19T17:45:00Z
+  title: Immer wieder anders
+  subtitle: Michael Friemel und seine Gäste Günter Haist und Rosemarie Matheis auf Zeitreise
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Eine Beziehung bedeutet Arbeit, in guten wie in schlechten Zeiten. Das müssen Katharina Wackernagel und Barnaby Metschurat in diesen modernen Szenen einer Ehe jeweils für sich herausfinden. Die unsentimentale Romanze protokolliert das wechselseitige Verfehlen eines Paares, das sich mit seinen Wünschen, Träumen und Enttäuschungen immer wieder direkt an Zuschauerinnen und Zuschauer wendet.
 - eventId:
   - 1009032
   - 1430740
@@ -346,6 +430,21 @@
     * Trauer um Star Trek-Star - Partrick Stewart mit 86 Jahren gestorben
     * Talk mit Nilam Farooq - Die Schauspielerin über ihre Rolle in der neuen Comedy-Serie "Jossi"
 - eventId:
+  - 549050
+  - 565227
+  - 570899
+  - 679022
+  start: 2026-11-19T17:45:00Z
+  stop: 2026-11-19T17:50:00Z
+  title: Meine schöne heile Welt
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Kaya ist eine junge Frau mit vielen Plänen. Sie ist mit der Schule fertig, möchte Schauspielerin werden, die Liebe entdecken und träumt von einer Weltreise.
+    Doch all das ist nicht so einfach. Als sie zwei Monate alt war und wegen heftiger Bauchschmerzen in die Notaufnahme kam, war die Diagnose erschütternd: Durch eine lebensgefährliche Darmverdrehung musste fast das gesamte Organ entfernt werden. Die Prognose der Ärzte: Katja wird nicht lange überleben.
+- eventId:
   - 1009033
   - 1430741
   - 548773
@@ -362,10 +461,24 @@
   audiodesc: true
   description: Das Wetter-Magazin des SR bietet Ihnen die besten Aussichten! Bei uns erfahren Sie nicht nur, ob Sie morgen früh den Regenschirm einpacken sollten oder doch lieber die Sommerschuhe anziehen... Wir informieren Sie selbstverständlich auch über "Ihre" Wetterlage in der Großregion, ob Luxemburg, Lothringen oder Kaiserslautern.
 - eventId:
+  - 549051
+  - 565228
+  - 570900
+  - 679023
+  start: 2026-11-19T17:50:00Z
+  stop: 2026-11-19T18:20:00Z
+  title: Wir im Saarland - Das Magazin
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  subtitle: 'Moderation: Janina Schreiber und Katha Jansen'
+- eventId:
   - 1009068
   - 1321400
   - 541239
   - 549818
+  - 571409
   - 576491
   - 588416
   start: 2026-11-19T18:20:00Z
@@ -379,6 +492,7 @@
 - eventId:
   - 1009069
   - 549819
+  - 571410
   - 576492
   - 588417
   start: 2026-11-19T18:55:00Z
@@ -391,6 +505,7 @@
 - eventId:
   - 1009070
   - 549820
+  - 571411
   - 576493
   - 588418
   start: 2026-11-19T18:57:00Z
@@ -403,6 +518,7 @@
 - eventId:
   - 1009071
   - 549821
+  - 571412
   - 576494
   - 588419
   start: 2026-11-19T19:00:00Z
@@ -426,7 +542,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 549822
+- eventId:
+  - 549822
+  - 571413
   start: 2026-11-19T19:15:00Z
   stop: 2026-11-19T20:00:00Z
   title: Quarks
@@ -438,6 +556,7 @@
 - eventId:
   - 1009073
   - 549823
+  - 571414
   - 576496
   - 588421
   start: 2026-11-19T20:00:00Z
@@ -451,6 +570,7 @@
 - eventId:
   - 1009074
   - 549824
+  - 571415
   - 576497
   - 588422
   start: 2026-11-19T20:45:00Z
@@ -464,6 +584,7 @@
   - 1008784
   - 551005
   - 569615
+  - 571951
   - 576957
   start: 2026-11-19T21:00:00Z
   stop: 2026-11-19T21:45:00Z
@@ -477,6 +598,7 @@
   - 1008785
   - 551006
   - 569616
+  - 571952
   - 576958
   start: 2026-11-19T21:45:00Z
   stop: 2026-11-19T22:35:00Z
@@ -490,6 +612,7 @@
   - 1008786
   - 551007
   - 569617
+  - 571953
   - 576959
   start: 2026-11-19T22:35:00Z
   stop: 2026-11-19T23:35:00Z
@@ -502,6 +625,7 @@
   - 1008787
   - 551008
   - 569618
+  - 571954
   - 576960
   start: 2026-11-19T23:35:00Z
   stop: 2026-11-20T00:35:00Z

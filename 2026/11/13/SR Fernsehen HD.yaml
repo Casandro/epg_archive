@@ -2,6 +2,7 @@
   - 559525
   - 572194
   - 574225
+  - 574388
   - 848953
   start: 2026-11-13T00:05:00Z
   stop: 2026-11-13T00:35:00Z
@@ -15,6 +16,7 @@
   - 559526
   - 572195
   - 574226
+  - 574389
   - 848954
   start: 2026-11-13T00:35:00Z
   stop: 2026-11-13T01:10:00Z
@@ -28,6 +30,7 @@
   - 559527
   - 572196
   - 574227
+  - 574390
   - 848955
   start: 2026-11-13T01:10:00Z
   stop: 2026-11-13T01:40:00Z
@@ -41,6 +44,7 @@
   - 559528
   - 572197
   - 574228
+  - 574391
   - 848956
   start: 2026-11-13T01:40:00Z
   stop: 2026-11-13T03:30:00Z
@@ -63,10 +67,33 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 562250
+  - 572849
+  - 680693
+  start: 2026-11-13T03:30:00Z
+  stop: 2026-11-13T04:05:00Z
+  title: Panoramablick - das Wetter im Südwesten
+  subtitle: mit SR 3 Saarlandwelle
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 561860
   - 572369
   - 574489
   - 848987
+  start: 2026-11-13T04:05:00Z
+  stop: 2026-11-13T04:30:00Z
+  title: SWR Aktuell Rheinland-Pfalz
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 562251
+  - 572850
+  - 680694
   start: 2026-11-13T04:05:00Z
   stop: 2026-11-13T04:30:00Z
   title: SWR Aktuell Rheinland-Pfalz
@@ -87,6 +114,18 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 562252
+  - 572851
+  - 680695
+  start: 2026-11-13T04:30:00Z
+  stop: 2026-11-13T05:00:00Z
+  title: SWR Aktuell Baden-Württemberg
+  subtitle: Fernsehen in Gebärdensprache
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 1195525
   - 572371
   start: 2026-11-13T05:00:00Z
@@ -97,6 +136,20 @@
   hd: true
   audiodesc: true
   description: Gefangen im falschen Körper - und entschlossen, frei zu werden. In Oberschwaben kämpfen Menschen mitten in ihrer Geschlechtsangleichung für ein Leben, das sich endlich richtig anfühlt. Voller Mut, Kampfgeist - und einer Sehnsucht, die keine Grenzen kennt.
+- eventId:
+  - 1566994
+  - 562253
+  - 572556
+  - 584020
+  start: 2026-11-13T05:00:00Z
+  stop: 2026-11-13T05:35:00Z
+  title: Eisenbahn-Romantik (904)
+  subtitle: Am Kanal entlang - Eisenbahn in Panama
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Viel älter, aber weit weniger bekannt als der Kanal ist die Eisenbahn von Panama. Sie wurde 1855 eröffnet und durchkreuzte lange vor dem Kanal das Land vom Pazifik bis zum Atlantik. Sie verlor ihre Bedeutung, als ab 1896 die transkontinentale Eisenbahnstrecke in den USA die beiden Küsten Nordamerikas verband.
 - eventId:
   - 561862
   - 574491
@@ -127,6 +180,21 @@
     * Abzocke im Gesundheitswesen - Milliarden an Kriminelle?
     * Kampf um Papiere - Ausländische Pflegekinder ausgegrenzt
 - eventId:
+  - 1566995
+  - 562254
+  - 572557
+  - 584021
+  - 659163
+  start: 2026-11-13T05:35:00Z
+  stop: 2026-11-13T05:40:00Z
+  title: Panoramablick - das Wetter im Südwesten
+  subtitle: Fernsehserie Deutschland 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Emilia erkennt fassungslos, dass sie Massimo noch immer liebt. Fanny und Marlon reisen glücklich in ihre gemeinsame Zukunft ab. Erik ist entsetzt, als seine Verjüngungskur nach hinten losgeht. Christoph kann nicht fassen, dass Katja in seine Wohnung ziehen will.
+- eventId:
   - 1195527
   - 561864
   - 572373
@@ -142,7 +210,32 @@
   audiodesc: true
   description: 'Holz knackt, staubt - und widerspricht. Künstler:innen zeigen, was daraus mit Feingefühl und Kraft alles entstehen kann: Wenn beim Kettensägen-Bildhauer die Späne fliegen oder aus Treibholz ungewöhnliche Möbel gebaut werden. Von Forstwirtschaft bis Kunsthandwerk: Im Elsässer Écomusée dreht sich bei "Les Arts du Bois" alles um Holzberufe. Hier wird getischlert, gesägt, gehobelt und geschnitzt.'
 - eventId:
+  - 1566996
+  - 562255
+  - 572558
+  - 584022
+  - 659164
+  start: 2026-11-13T05:40:00Z
+  stop: 2026-11-13T06:10:00Z
+  title: Wir im Saarland - Das Magazin
+  subtitle: Atlastherapie / Parkour / Blick-Psychologie / Muttermale
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  genre:
+  - '144'
+  description: |-
+    Themen:
+    * Blick-Psychologie
+    * Atlastherapie
+    * Parkour
+    * Topinambur-Eis
+    * Muttermale
+    * Fränkisches Stonehenge
+- eventId:
   - 562240
+  - 563575
   - 572842
   - 581207
   - 849018
@@ -156,6 +249,7 @@
   subtitle: Boulevard-Magazin
 - eventId:
   - 562241
+  - 563576
   - 572843
   - 581208
   - 849019
@@ -169,6 +263,7 @@
   audiodesc: true
 - eventId:
   - 562242
+  - 563577
   - 572844
   - 581209
   - 849020
@@ -180,6 +275,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 564427
   - 573171
   - 580876
   - 581622
@@ -192,6 +288,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 564428
   - 573172
   - 580877
   - 581623
@@ -205,6 +302,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 564429
   - 573173
   - 580878
   - 581624
@@ -217,36 +315,29 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 573174
-  - 580879
-  - 581625
-  - 849037
+- eventId: 564430
   start: 2026-11-13T10:45:00Z
   stop: 2026-11-13T11:15:00Z
   title: aktiv und gesund
   subtitle: Blutegel / Weizengras / Heilerde
+  genre:
+  - '144'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  genre:
-  - '144'
-- eventId:
-  - 573175
-  - 580880
-  - 581626
-  - 849038
+- eventId: 564431
   start: 2026-11-13T11:15:00Z
   stop: 2026-11-13T12:00:00Z
   title: ARD-Buffet Spezial
+  subtitle: 'Moderation: Evelin König'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  subtitle: 'Moderation: Evelin König'
 - eventId:
   - 564390
+  - 565636
   - 573953
   - 588516
   - 849064
@@ -263,6 +354,7 @@
   audiodesc: true
 - eventId:
   - 564391
+  - 565637
   - 573954
   - 588517
   - 849065
@@ -276,6 +368,7 @@
   audiodesc: true
 - eventId:
   - 564392
+  - 565638
   - 573955
   - 588518
   - 849066
@@ -293,6 +386,7 @@
 - eventId:
   - 566392
   - 574772
+  - 575382
   - 588936
   - 849097
   start: 2026-11-13T15:00:00Z
@@ -305,6 +399,7 @@
 - eventId:
   - 566393
   - 574773
+  - 575383
   - 588937
   - 849098
   start: 2026-11-13T15:05:00Z
@@ -318,6 +413,7 @@
 - eventId:
   - 566394
   - 574774
+  - 575384
   - 588938
   - 849099
   start: 2026-11-13T16:00:00Z
@@ -330,6 +426,7 @@
 - eventId:
   - 566395
   - 574775
+  - 575385
   - 588939
   - 849100
   start: 2026-11-13T16:05:00Z
@@ -343,6 +440,7 @@
 - eventId:
   - 566396
   - 574776
+  - 575386
   - 588940
   - 849101
   start: 2026-11-13T17:00:00Z
@@ -355,6 +453,7 @@
 - eventId:
   - 566397
   - 574777
+  - 575387
   - 588941
   - 849102
   start: 2026-11-13T17:15:00Z
@@ -368,6 +467,7 @@
 - eventId:
   - 566398
   - 574778
+  - 575388
   - 588942
   - 849103
   start: 2026-11-13T17:45:00Z
@@ -380,6 +480,7 @@
 - eventId:
   - 566399
   - 574779
+  - 575389
   - 588943
   - 849104
   start: 2026-11-13T17:50:00Z
@@ -392,6 +493,7 @@
 - eventId:
   - 568597
   - 574841
+  - 576041
   - 595911
   - 849132
   start: 2026-11-13T18:20:00Z
@@ -404,6 +506,7 @@
 - eventId:
   - 568598
   - 574842
+  - 576042
   - 595912
   - 849133
   start: 2026-11-13T18:57:00Z
@@ -416,6 +519,7 @@
 - eventId:
   - 568599
   - 574843
+  - 576043
   - 595913
   - 849134
   start: 2026-11-13T19:00:00Z
@@ -430,6 +534,7 @@
 - eventId:
   - 568600
   - 574844
+  - 576044
   - 595914
   - 849135
   start: 2026-11-13T19:15:00Z
@@ -443,6 +548,7 @@
 - eventId:
   - 568601
   - 574845
+  - 576045
   - 595915
   - 849136
   start: 2026-11-13T20:45:00Z
@@ -455,6 +561,7 @@
 - eventId:
   - 553974
   - 570604
+  - 576739
   - 590208
   - 849168
   start: 2026-11-13T21:00:00Z
@@ -468,6 +575,7 @@
 - eventId:
   - 553975
   - 570605
+  - 576740
   - 590209
   - 849169
   start: 2026-11-13T22:30:00Z
@@ -479,11 +587,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 553976
-  - 570606
-  - 590210
-  - 849170
+- eventId: 576741
   start: 2026-11-13T22:55:00Z
   stop: 2026-11-13T23:20:00Z
   title: Kurzstrecke mit Pierre M. Krause
@@ -493,11 +597,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 553977
-  - 570607
-  - 590211
-  - 849171
+- eventId: 576742
   start: 2026-11-13T23:20:00Z
   stop: 2026-11-14T00:50:00Z
   title: Die Nichte des Polizisten

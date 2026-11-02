@@ -1,6 +1,7 @@
 - eventId:
   - 562365
   - 568442
+  - 568767
   - 629102
   - 788450
   start: 2026-11-11T00:00:00Z
@@ -13,6 +14,7 @@
 - eventId:
   - 562366
   - 568443
+  - 568768
   - 629103
   - 788451
   start: 2026-11-11T00:48:00Z
@@ -24,6 +26,7 @@
 - eventId:
   - 562367
   - 568444
+  - 568769
   - 629104
   - 788452
   start: 2026-11-11T00:50:00Z
@@ -35,6 +38,7 @@
 - eventId:
   - 562368
   - 568445
+  - 568770
   - 629105
   - 788453
   start: 2026-11-11T02:05:00Z
@@ -47,6 +51,7 @@
 - eventId:
   - 562369
   - 568446
+  - 568771
   - 629106
   - 788454
   start: 2026-11-11T02:50:00Z
@@ -58,6 +63,7 @@
   hd: true
 - eventId:
   - 563063
+  - 569110
   - 570235
   - 629368
   - 788475
@@ -70,6 +76,7 @@
   subtitle: Boulevard-Magazin
 - eventId:
   - 563064
+  - 569111
   - 570236
   - 629369
   - 788476
@@ -81,6 +88,7 @@
   hd: true
 - eventId:
   - 563065
+  - 569112
   - 570237
   - 629370
   - 788477
@@ -93,6 +101,7 @@
   hd: true
 - eventId:
   - 563066
+  - 569113
   - 570238
   - 629371
   - 788478
@@ -102,7 +111,15 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 569833
+  start: 2026-11-11T08:00:00Z
+  stop: 2026-11-11T08:05:00Z
+  title: heute Xpress
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
+  - 569834
   - 570639
   - 581493
   - 585984
@@ -115,6 +132,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 569835
   - 570640
   - 581494
   - 585985
@@ -129,22 +147,14 @@
   ageRating: 12
   genre:
   - '16'
-- eventId:
-  - 565293
-  - 570927
-  - 581807
-  - 788519
+- eventId: 570124
   start: 2026-11-11T09:40:00Z
   stop: 2026-11-11T09:45:00Z
   title: Tagesschau
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 565294
-  - 570928
-  - 581808
-  - 788520
+- eventId: 570125
   start: 2026-11-11T09:45:00Z
   stop: 2026-11-11T10:15:00Z
   title: Meister des Alltags (118)
@@ -152,11 +162,7 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 565295
-  - 570929
-  - 581809
-  - 788521
+- eventId: 570126
   start: 2026-11-11T10:15:00Z
   stop: 2026-11-11T11:00:00Z
   title: Wer weiß denn sowas? (1370)
@@ -164,25 +170,25 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 565296
-  - 570930
-  - 581810
-  - 788522
+- eventId: 570127
   start: 2026-11-11T11:00:00Z
   stop: 2026-11-11T13:00:00Z
   title: ARD-Mittagsmagazin
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 547849
+- eventId:
+  - 547849
+  - 570487
   start: 2026-11-11T13:00:00Z
   stop: 2026-11-11T13:10:00Z
   title: Tagesschau
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 547850
+- eventId:
+  - 547850
+  - 570488
   start: 2026-11-11T13:10:00Z
   stop: 2026-11-11T14:00:00Z
   title: Rote Rosen (4418)
@@ -190,14 +196,18 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 547851
+- eventId:
+  - 547851
+  - 570489
   start: 2026-11-11T14:00:00Z
   stop: 2026-11-11T14:10:00Z
   title: Tagesschau
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 547852
+- eventId:
+  - 547852
+  - 570490
   start: 2026-11-11T14:10:00Z
   stop: 2026-11-11T15:00:00Z
   title: Sturm der Liebe (4671)
@@ -217,6 +227,19 @@
   subtitled: true
   hd: true
 - eventId:
+  - 549676
+  - 565291
+  - 570925
+  - 679028
+  - 721396
+  start: 2026-11-11T15:00:00Z
+  stop: 2026-11-11T15:10:00Z
+  title: Tagesschau
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: Die Nachrichten der ARD
+- eventId:
   - 548818
   - 567141
   - 576047
@@ -229,9 +252,27 @@
   subtitled: true
   hd: true
 - eventId:
+  - 549677
+  - 565292
+  - 570926
+  start: 2026-11-11T15:10:00Z
+  stop: 2026-11-11T16:00:00Z
+  title: Die Tierärzte - Retter mit Herz (16/60)
+  subtitle: Geschichten aus dem Leipziger Zoo
+  widescreen: true
+  subtitled: true
+  hd: true
+  genre:
+  - '112'
+  description: 'Eine Visite auf der Pferdekoppel, eine traurige Botschaft und vertraute Gesichter: Die Tierärzte pflegen ein enges Verhältnis zu ihren langjährigen Patienten und deren Besitzern.'
+- eventId:
   - 548819
+  - 565293
   - 567142
+  - 570927
   - 576048
+  - 581807
+  - 788519
   - 788564
   start: 2026-11-11T16:00:00Z
   stop: 2026-11-11T16:15:00Z
@@ -252,6 +293,18 @@
   hd: true
   subtitle: Boulevard-Magazin
 - eventId:
+  - 565294
+  - 570928
+  - 581808
+  - 788520
+  start: 2026-11-11T16:15:00Z
+  stop: 2026-11-11T17:00:00Z
+  title: Meister des Alltags (118)
+  subtitle: 'Moderation: Florian Weber'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId:
   - 548821
   - 567144
   - 576050
@@ -263,14 +316,31 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 548822
-  start: 2026-11-11T17:50:00Z
-  stop: 2026-11-11T18:45:00Z
-  title: Hubert ohne Staller (198)
-  subtitle: Der Herr der sieben Zahlen
+- eventId:
+  - 565295
+  - 570929
+  - 581809
+  - 788521
+  start: 2026-11-11T17:00:00Z
+  stop: 2026-11-11T17:50:00Z
+  title: Wer weiß denn sowas? (1370)
+  subtitle: 'Gäste: Smudo und Michi Beck'
   widescreen: true
   subtitled: true
   hd: true
+- eventId:
+  - 548822
+  - 565296
+  - 570930
+  - 581810
+  - 788522
+  start: 2026-11-11T17:50:00Z
+  stop: 2026-11-11T18:45:00Z
+  title: Hubert ohne Staller (198)
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Der Herr der sieben Zahlen
 - eventId:
   - 567145
   - 576051
@@ -285,6 +355,7 @@
 - eventId:
   - 549869
   - 568537
+  - 571429
   - 576508
   - 788590
   start: 2026-11-11T18:45:00Z
@@ -297,6 +368,7 @@
 - eventId:
   - 549870
   - 568538
+  - 571430
   - 576509
   - 788591
   start: 2026-11-11T18:50:00Z
@@ -309,6 +381,7 @@
 - eventId:
   - 549871
   - 568539
+  - 571431
   - 576510
   - 788592
   start: 2026-11-11T18:55:00Z
@@ -320,6 +393,7 @@
 - eventId:
   - 549872
   - 568540
+  - 571432
   - 576511
   - 788593
   start: 2026-11-11T19:00:00Z
@@ -333,6 +407,7 @@
 - eventId:
   - 549873
   - 568541
+  - 571433
   - 576512
   - 788594
   start: 2026-11-11T19:15:00Z
@@ -348,6 +423,7 @@
 - eventId:
   - 549874
   - 568542
+  - 571434
   - 576513
   - 788595
   start: 2026-11-11T20:45:00Z
@@ -360,6 +436,7 @@
 - eventId:
   - 551028
   - 569659
+  - 571963
   - 577633
   - 788621
   start: 2026-11-11T21:15:00Z
@@ -372,6 +449,7 @@
 - eventId:
   - 551029
   - 569660
+  - 571964
   - 577634
   - 788622
   start: 2026-11-11T21:50:00Z
@@ -381,7 +459,9 @@
   subtitled: true
   hd: true
   subtitle: 'Moderation: Sandra Maischberger'
-- eventId: 551030
+- eventId:
+  - 551030
+  - 571965
   start: 2026-11-11T23:05:00Z
   stop: 2026-11-11T23:35:00Z
   title: Die Paartherapie
@@ -402,6 +482,7 @@
 - eventId:
   - 551031
   - 569662
+  - 571966
   - 577636
   - 788624
   start: 2026-11-11T23:35:00Z
@@ -413,6 +494,7 @@
 - eventId:
   - 551032
   - 569663
+  - 571967
   - 577637
   - 788625
   start: 2026-11-11T23:45:00Z

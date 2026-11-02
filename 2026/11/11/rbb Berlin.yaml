@@ -16,6 +16,7 @@
   audiodesc: true
 - eventId:
   - 556806
+  - 579470
   - 624670
   start: 2026-11-11T00:15:00Z
   stop: 2026-11-11T01:05:00Z
@@ -43,6 +44,7 @@
   audiodesc: true
 - eventId:
   - 556807
+  - 579471
   - 624671
   start: 2026-11-11T01:05:00Z
   stop: 2026-11-11T01:55:00Z
@@ -57,6 +59,7 @@
   - 555855
   - 556808
   - 559134
+  - 579472
   - 600574
   - 624672
   - 787782
@@ -77,6 +80,7 @@
   - 555856
   - 556809
   - 559135
+  - 579473
   - 600575
   - 624673
   - 787783
@@ -95,6 +99,7 @@
   - 556251
   - 559296
   - 559633
+  - 579656
   - 600662
   - 624739
   - 787815
@@ -112,6 +117,7 @@
   - 556252
   - 559297
   - 559634
+  - 579657
   - 600663
   - 624740
   - 980160
@@ -139,6 +145,7 @@
   - 556253
   - 559298
   - 559635
+  - 579658
   - 600664
   - 624741
   - 787817
@@ -156,6 +163,7 @@
   - 556254
   - 559299
   - 559636
+  - 579659
   - 600665
   - 624742
   - 787818
@@ -173,6 +181,7 @@
   - 556255
   - 559300
   - 559637
+  - 579660
   - 600666
   - 624743
   - 787819
@@ -188,6 +197,7 @@
   audiodesc: true
 - eventId:
   - 562592
+  - 567958
   - 624835
   start: 2026-11-11T07:00:00Z
   stop: 2026-11-11T07:30:00Z
@@ -198,6 +208,7 @@
   audiodesc: true
 - eventId:
   - 562593
+  - 567959
   - 624836
   start: 2026-11-11T07:30:00Z
   stop: 2026-11-11T08:00:00Z
@@ -214,6 +225,7 @@
   - 559457
   - 562594
   - 565924
+  - 567960
   - 600778
   - 624837
   - 787873
@@ -231,6 +243,7 @@
   ageRating: 12
 - eventId:
   - 562595
+  - 567961
   - 624838
   start: 2026-11-11T08:45:00Z
   stop: 2026-11-11T09:30:00Z
@@ -243,6 +256,7 @@
   audiodesc: true
 - eventId:
   - 540812
+  - 541569
   - 556400
   - 559616
   - 564520
@@ -261,6 +275,7 @@
   audiodesc: true
   ageRating: 12
 - eventId:
+  - 541570
   - 564521
   - 624958
   start: 2026-11-11T10:15:00Z
@@ -271,6 +286,28 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 1625282
+  - 541571
+  - 548986
+  - 552854
+  - 555156
+  - 567117
+  - 577866
+  - 600381
+  - 851405
+  start: 2026-11-11T11:05:00Z
+  stop: 2026-11-11T11:55:00Z
+  title: WaPo Duisburg (8)
+  subtitle: Die Wetteraussichten für Berlin und Brandenburg
+  episodeUri: crid://onid-8468/e/6ab6f3a081bcd2c5e995efe5
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 564522
   - 624959
@@ -286,6 +323,26 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1625283
+  - 541572
+  - 548987
+  - 552855
+  - 555157
+  - 567118
+  - 577867
+  - 600382
+  - 851406
+  start: 2026-11-11T11:55:00Z
+  stop: 2026-11-11T12:40:00Z
+  title: rbb24 Abendschau
+  episodeUri: crid://onid-8468/e/6ab6f3a081bcd2c5e995efe3
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: 'Jeden Abend gibt es von uns das Wichtigste aus Politik, Kultur, Wirtschaft und Sport, die Szene-Trends und die Kiezgeschichten. Kurz: "Wir sind ein Berliner" - Die rbb24 Abendschau hat den Berlin-Blick: Nah an den Menschen und ihren Geschichten, rau aber herzlich. Immer um 19:30 Uhr. Egal wann etwas passiert, die rbb24 Abendschau ist dabei.'
+  subtitle: Neues für Verbraucher
+- eventId:
   - 564523
   - 624960
   start: 2026-11-11T11:55:00Z
@@ -296,36 +353,17 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 1012325
-  - 1224042
-  - 1563673
-  - 540810
-  - 541304
-  - 542488
-  - 555508
-  - 556610
-  - 559775
-  - 562665
-  - 565595
-  - 600966
-  - 601495
-  - 625056
-  - 787704
-  - 787926
-  - 980325
+- eventId: 542113
   start: 2026-11-11T12:40:00Z
   stop: 2026-11-11T13:30:00Z
   title: WaPo Duisburg (9)
-  episodeUri: crid://onid-8468/e/6a9b442662e039c7fe1cb8b5
+  subtitle: Die Kranführerin
+  genre:
+  - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Berlin und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
-  subtitle: Die Kranführerin
-  genre:
-  - '16'
 - eventId:
   - 1012326
   - 1224043
@@ -344,28 +382,8 @@
   genre:
   - '16'
 - eventId:
-  - 1563674
-  - 542489
-  - 555509
-  - 562666
-  - 565596
-  - 601496
-  - 787705
-  start: 2026-11-11T13:30:00Z
-  stop: 2026-11-11T15:00:00Z
-  title: In aller Freundschaft - Die jungen Ärzte (148)
-  subtitle: Spielfilm Deutschland 2011
-  episodeUri: crid://onid-8468/e/6ab450a43d902b8d51bf4565
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: Tobias Rasch wird nach einem Unfall ins Johannes-Thal-Klinikum eingeliefert und muss sofort von Dr. Niklas Ahrend operiert werden. Indes freut sich Julia, nach ihrem krankheitsbedingten Ausfall endlich wieder einsatzbereit zu sein, und nimmt sich direkt der aufgelösten Helena Lübeck an, die gesteht, Tobias selbst angefahren zu haben. Tobias und Helena führen zusammen ein innovatives kleines Unternehmen, das aber neuerdings in der Krise steckt. Denn Tobias will es verkaufen, Helena dafür kämpfen. Als Tobias dann noch vermutet, Helena habe ihn absichtlich verletzt, gerät jeglicher Frieden ins Wanken.
-  ageRating: 12
-  genre:
-  - '16'
-- eventId:
   - 541305
+  - 542114
   - 559776
   - 600967
   - 625057
@@ -402,6 +420,7 @@
   description: "Ein unheimliches Geräusch in ihrer Höhle lässt die Erdmännchen Jan und Henry glauben, sie hätten Besuch von einem knurrenden Bär. Sie ahnen nicht, dass das Geräusch eine ganz andere Herkunft hat. \n\n\"Unser Sandmännchen\" steht nicht nur auf der Hitliste der jüngsten Zuschauer. Es hat seine Fans auch bei den Eltern und Großeltern. Und es ist auch heute seine Aufgabe, die Kinder mit einer Gute-Nacht-Geschichte ins Bett zu bringen."
 - eventId:
   - 541800
+  - 542578
   - 557383
   - 559941
   - 601067
@@ -420,6 +439,7 @@
   - 1166175
   - 1377845
   - 541801
+  - 542579
   - 557384
   - 559448
   - 559942
@@ -463,6 +483,7 @@
   description: Dr. Martin Stein fühlt sich seiner Tochter Marie gerade sehr verbunden. So wie er selbst gerade von Elena verlassen wurde, hat auch Maries Freund Steffen sie gegen eine andere ausgetauscht, nämlich die flippige Janina. Als Steffen mit einem komplizierten Trümmerbruch am Bein in die Sachsenklinik eingeliefert wird, reißt Martin den Fall an sich. Er will Steffen auf den Zahn fühlen. Schwester Arzu und Dr. Philipp Brentano haben schlaflose Nächte hinter sich. Der kleine Max zahnt. Als Niklas auf den völlig übermüdeten und angespannten Brentano trifft, reizt er diesen noch zusätzlich mit unerwünschten Ratschlägen.
 - eventId:
   - 541802
+  - 542580
   - 557385
   - 559943
   - 601069
@@ -502,6 +523,7 @@
   - '16'
 - eventId:
   - 541803
+  - 542581
   - 557386
   - 559944
   - 601070
@@ -541,6 +563,7 @@
     Assistenzärztin Sofia Galura hält ihre Aufregung kaum aus, als sich die Patientin Eva Loibinger, die sie heute mit Dr. Marc Lindner behandelt, als die beste Hairdesignerin der Region entpuppt.
 - eventId:
   - 541804
+  - 542582
   - 557387
   - 559945
   - 601071
@@ -573,6 +596,7 @@
   audiodesc: true
   description: Aus der Elbe wird die in einer Kiste einbetonierte Leiche einer jungen Frau geborgen, die seit 30 Jahren vermisst wird. Die WaPo hat es nun mit einem Cold Case aus der Nachwendezeit zu tun, der seitdem ein ganzes Dorf in zwei tief verfeindete Lager gespalten hat. Maike und ihr Team müssen die Fronten versöhnen, um den Fall zu lösen - allen voran die verbitterte Martha Siemers, Witwe des damaligen Hauptverdächtigen, und Ingo Koschwitz, den aufbrausenden damaligen Ex-Freund der toten Cordula. Doch auch der als Ehrenmann geltende Unternehmer und Lokalpolitiker Uwe Gomolka scheint in dem Fall eine dubiose Rolle zu spielen ...
 - eventId:
+  - 543186
   - 546708
   - 560145
   - 566215
@@ -609,6 +633,7 @@
     Seit Monaten wartet Lara auf diesen Tag und dann auch noch einen Langstreckenflug in die Karibik. Die Flugbegleiterin ist superglücklich, doch ihr Job ist anders geworden.
     Außerdem: Der VIP-Service boomt. Viele Passagiere wollen vor allem jetzt in Corona-Zeiten lange Warteschlangen am Check-in-Schalter oder bei den Sicherheitskontrollen vermeiden. Der VIP-Service am Flughafen begrüßt die Fluggäste in einer exklusiven Lounge.
 - eventId:
+  - 543187
   - 546709
   - 560146
   - 566216
@@ -649,6 +674,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 543188
   - 546710
   - 560147
   - 566217
@@ -668,6 +694,7 @@
   - '32'
 - eventId:
   - 1456822
+  - 543189
   - 546711
   - 558764
   - 560148
@@ -702,6 +729,7 @@
   audiodesc: true
   subtitle: 'Moderation: Alexander Bommes'
 - eventId:
+  - 543190
   - 546712
   - 560149
   - 566219
@@ -718,6 +746,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 543804
   - 547356
   - 560317
   - 560600
@@ -736,6 +765,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 543805
   - 547357
   - 560318
   - 560601
@@ -756,6 +786,7 @@
   genre:
   - '112'
 - eventId:
+  - 543806
   - 547358
   - 560319
   - 560602

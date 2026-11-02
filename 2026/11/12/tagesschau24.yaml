@@ -17,8 +17,10 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 547077
   - 551947
   - 580365
+  - 604152
   start: 2026-11-12T00:00:00Z
   stop: 2026-11-12T00:45:00Z
   title: Wer kann das bezahlen?
@@ -29,10 +31,12 @@
   audiodesc: true
 - eventId:
   - 1006649
+  - 547078
   - 551948
   - 557764
   - 579996
   - 580366
+  - 604153
   - 819435
   start: 2026-11-12T00:45:00Z
   stop: 2026-11-12T01:00:00Z
@@ -79,6 +83,7 @@
   - 1006650
   - 1195276
   - 1400697
+  - 547079
   - 551949
   - 557765
   - 570481
@@ -86,6 +91,7 @@
   - 579997
   - 580367
   - 591009
+  - 604154
   - 819436
   start: 2026-11-12T01:00:00Z
   stop: 2026-11-12T01:03:00Z
@@ -98,6 +104,7 @@
   - 1006651
   - 1195277
   - 1400698
+  - 547080
   - 551950
   - 557766
   - 570482
@@ -105,25 +112,11 @@
   - 579998
   - 580368
   - 591010
+  - 604155
   - 819437
   start: 2026-11-12T01:03:00Z
   stop: 2026-11-12T01:30:00Z
   title: rbb24 Abendschau
-  widescreen: true
-  hd: true
-  audiodesc: true
-  subtitled: true
-- eventId:
-  - 1006652
-  - 551951
-  - 557767
-  - 570483
-  - 579999
-  - 580369
-  - 819438
-  start: 2026-11-12T01:30:00Z
-  stop: 2026-11-12T02:00:00Z
-  title: MDR SACHSENSPIEGEL
   widescreen: true
   hd: true
   audiodesc: true
@@ -147,16 +140,13 @@
     * Studiogäste: Lothar und Lukas Röllecke, Tischlermeister
   subtitled: true
 - eventId:
-  - 1006653
-  - 551952
-  - 557768
-  - 580000
-  - 580370
-  - 819439
-  start: 2026-11-12T02:00:00Z
-  stop: 2026-11-12T02:03:00Z
-  title: Nachrichten
+  - 547081
+  - 604156
+  start: 2026-11-12T01:30:00Z
+  stop: 2026-11-12T02:00:00Z
+  title: MDR SACHSENSPIEGEL
   widescreen: true
+  subtitled: true
   hd: true
   audiodesc: true
 - eventId:
@@ -178,6 +168,15 @@
     Die ungarischen Autoren Katalin Vikol und Istvan Szakaly haben Ausschnitte wiederentdeckt und in ihrem Film über Imre Nagy verwendet und erzählen die Lebensgeschichte des ungewöhnlich mutigen Mannes.
   subtitled: true
 - eventId:
+  - 547082
+  - 604157
+  start: 2026-11-12T02:00:00Z
+  stop: 2026-11-12T02:03:00Z
+  title: Nachrichten
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 570484
   - 577446
   - 678959
@@ -191,25 +190,16 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 1006654
-  - 1321107
-  - 1512168
-  - 551953
-  - 557769
-  - 577993
-  - 580001
-  - 580371
-  - 591013
-  - 819440
+  - 547083
+  - 604158
   start: 2026-11-12T02:03:00Z
   stop: 2026-11-12T02:48:00Z
   title: Aktuelle Stunde
   subtitle: Das Informationsmagazin für NRW
   widescreen: true
+  subtitled: true
   hd: true
   audiodesc: true
-  subtitled: true
-  description: Die Nachrichten der ARD
 - eventId:
   - 570485
   - 577447
@@ -223,19 +213,6 @@
   hd: true
   audiodesc: true
   subtitled: true
-- eventId:
-  - 1006655
-  - 551954
-  - 557770
-  - 580002
-  - 580372
-  - 819441
-  start: 2026-11-12T02:48:00Z
-  stop: 2026-11-12T03:00:00Z
-  title: Extra
-  widescreen: true
-  hd: true
-  audiodesc: true
 - eventId:
   - 1321108
   - 1512169
@@ -254,6 +231,15 @@
     Auf deutschen Straßen fuhren noch nie so viele alte Fahrzeuge. Gleichzeitig werden Wartung und Reparatur in Autowerkstätten immer teurer. Wer kann das bezahlen?
   subtitled: true
 - eventId:
+  - 547084
+  - 604159
+  start: 2026-11-12T02:48:00Z
+  stop: 2026-11-12T03:00:00Z
+  title: Extra
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 570486
   - 577448
   - 678961
@@ -266,9 +252,11 @@
   audiodesc: true
 - eventId:
   - 1007114
+  - 547208
   - 552091
   - 553893
   - 557946
+  - 573085
   - 578149
   - 580404
   - 592572
@@ -281,9 +269,11 @@
   audiodesc: true
 - eventId:
   - 1007115
+  - 547209
   - 552092
   - 553894
   - 557947
+  - 573086
   - 578150
   - 580405
   - 592573
@@ -297,9 +287,11 @@
   subtitled: true
 - eventId:
   - 1007116
+  - 547210
   - 552093
   - 553895
   - 557948
+  - 573087
   - 578151
   - 580406
   - 592574
@@ -311,42 +303,32 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 1007117
-  - 552094
-  - 553896
-  - 557949
-  - 578152
-  - 580407
-  - 592575
-  - 819480
+  - 547211
+  - 573088
   start: 2026-11-12T04:00:00Z
   stop: 2026-11-12T04:30:00Z
   title: hessenschau
   widescreen: true
+  subtitled: true
   hd: true
   audiodesc: true
-  subtitled: true
 - eventId:
-  - 1007118
-  - 552095
-  - 553897
-  - 557950
-  - 578153
-  - 580408
-  - 592576
-  - 819481
+  - 547212
+  - 573089
   start: 2026-11-12T04:30:00Z
   stop: 2026-11-12T08:00:00Z
   title: ZDF-Morgenmagazin
   widescreen: true
+  subtitled: true
   hd: true
   audiodesc: true
-  subtitled: true
 - eventId:
   - 1007290
+  - 547325
   - 553401
   - 558055
   - 571998
+  - 573758
   - 582123
   - 592974
   - 819528
@@ -377,6 +359,8 @@
   - 558487
   - 563018
   - 572488
+  - 572658
+  - 574049
   - 577618
   - 593328
   - 596022
@@ -390,6 +374,8 @@
   subtitled: true
 - eventId:
   - 1008063
+  - 547561
+  - 553056
   - 555467
   - 558658
   - 563174
@@ -407,6 +393,8 @@
 - eventId:
   - 1008372
   - 542317
+  - 551344
+  - 555881
   - 556517
   - 558374
   - 559003
@@ -425,6 +413,8 @@
 - eventId:
   - 1008373
   - 542318
+  - 551345
+  - 555882
   - 556518
   - 558375
   - 559004
@@ -442,6 +432,8 @@
 - eventId:
   - 1008374
   - 542319
+  - 551346
+  - 555883
   - 558376
   - 559005
   - 577276
@@ -473,6 +465,8 @@
 - eventId:
   - 1008375
   - 542320
+  - 551347
+  - 555884
   - 558377
   - 559006
   - 563766
@@ -488,6 +482,8 @@
 - eventId:
   - 1008376
   - 542321
+  - 551348
+  - 555885
   - 558378
   - 559007
   - 563767
@@ -504,6 +500,8 @@
 - eventId:
   - 1008377
   - 542322
+  - 551349
+  - 555886
   - 558379
   - 559008
   - 563768
@@ -519,6 +517,8 @@
 - eventId:
   - 1008378
   - 542323
+  - 551350
+  - 555887
   - 558380
   - 559009
   - 563769
@@ -536,8 +536,10 @@
 - eventId:
   - 1008414
   - 543183
+  - 551496
   - 558925
   - 559722
+  - 560281
   - 564781
   - 578187
   - 589626
@@ -553,8 +555,10 @@
 - eventId:
   - 1008415
   - 543184
+  - 551497
   - 558926
   - 559723
+  - 560282
   - 564782
   - 578188
   - 589627
@@ -568,8 +572,10 @@
 - eventId:
   - 1008416
   - 543185
+  - 551498
   - 558927
   - 559724
+  - 560283
   - 564783
   - 578189
   - 589628
@@ -584,8 +590,10 @@
 - eventId:
   - 1008417
   - 543186
+  - 551499
   - 558928
   - 559725
+  - 560284
   - 564784
   - 578190
   - 589629
@@ -599,8 +607,10 @@
 - eventId:
   - 1008418
   - 543187
+  - 551500
   - 558929
   - 559726
+  - 560285
   - 564785
   - 578191
   - 589630

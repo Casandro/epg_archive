@@ -16,6 +16,7 @@
 - eventId:
   - 559147
   - 600751
+  - 604360
   - 624678
   - 629340
   - 635333
@@ -37,6 +38,7 @@
   - 573034
   - 600592
   - 600752
+  - 604361
   - 624679
   - 629341
   - 635334
@@ -61,6 +63,7 @@
   - 573035
   - 600593
   - 600753
+  - 604362
   - 624680
   - 629342
   - 635335
@@ -85,6 +88,7 @@
   - 573036
   - 600594
   - 600754
+  - 604363
   - 624681
   - 629343
   - 635336
@@ -116,6 +120,7 @@
 - eventId:
   - 559319
   - 600824
+  - 601699
   - 624753
   - 629409
   - 635399
@@ -134,6 +139,7 @@
   - 600513
   - 600687
   - 600825
+  - 601700
   - 624754
   - 629410
   - 635400
@@ -166,6 +172,7 @@
 - eventId:
   - 559321
   - 600826
+  - 601701
   - 624755
   - 629411
   - 635401
@@ -184,6 +191,7 @@
   - 600515
   - 600689
   - 600827
+  - 601702
   - 624756
   - 629412
   - 635402
@@ -213,14 +221,7 @@
   hd: true
   audiodesc: true
   description: SWR Aktuell informiert über die aktuelle Nachrichtenlage.
-- eventId:
-  - 600787
-  - 600893
-  - 624848
-  - 629479
-  - 635470
-  - 788229
-  - 979991
+- eventId: 601862
   start: 2026-11-11T06:55:00Z
   stop: 2026-11-11T08:00:00Z
   title: Panoramablick
@@ -228,18 +229,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 1400605
-  - 1590811
-  - 559469
-  - 571557
-  - 600788
-  - 600894
-  - 624849
-  - 629480
-  - 635471
-  - 788230
-  - 979992
+- eventId: 601863
   start: 2026-11-11T08:00:00Z
   stop: 2026-11-11T09:20:00Z
   title: Landesschau Baden-Württemberg
@@ -247,6 +237,29 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 1563292
+  - 566226
+  - 578851
+  - 580511
+  - 598314
+  - 602002
+  - 627976
+  - 633405
+  - 788125
+  start: 2026-11-11T09:20:00Z
+  stop: 2026-11-11T09:50:00Z
+  title: Eisenbahn-Romantik (909)
+  subtitle: Faller - Schmuckschmiede der Modellwelt
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Themen:
+    * Lifehack: Licht-Kristall-Leucht-Objekte / mit Vera Lorenz, Designerin aus Lahr
+    * Live Kochen: Bowl mit Reis, Kürbis, Rotkohl mit gebratenem Rehrücken / mit Tino Böckle
+    * Novemberblues: Was Lichttherapie wirklich bringt / Mit Thomas Flocken, Psychologischer Psychotherapeut
 - eventId:
   - 600886
   - 624971
@@ -261,6 +274,25 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1563293
+  - 566227
+  - 578852
+  - 580512
+  - 598315
+  - 602003
+  - 627977
+  - 633406
+  - 788126
+  start: 2026-11-11T09:50:00Z
+  stop: 2026-11-11T10:40:00Z
+  title: SWR Aktuell Baden-Württemberg
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: SWR Aktuell informiert über die aktuelle Nachrichtenlage.
+  subtitle: Deutschland 2026
+- eventId:
   - 600887
   - 624972
   - 629556
@@ -273,6 +305,31 @@
   widescreen: true
   hd: true
   audiodesc: true
+- eventId:
+  - 1563294
+  - 566228
+  - 578853
+  - 580513
+  - 598316
+  - 602004
+  - 627978
+  - 633407
+  - 788127
+  start: 2026-11-11T10:40:00Z
+  stop: 2026-11-11T11:10:00Z
+  title: aktiv und gesund
+  subtitle: Reizdarm, Pilates, Gemüsesnacks
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Themen:
+    * Service: So kommen Sie stabil durch die dunkle Jahreszeit / mit Thomas Flocken, Psychologischer Psychotherapeut
+    * Haushalts-Tipp: Leuchtmittel - welche machen das schönste Licht? / mit Bärbel Neher, Hauswirtschaftliche Fachberaterin aus Karlsruhe
+    * Menschen im Südwesten: Michael Grözinger aus Lenningen baut mit seiner Familie riesige Leuchtfiguren
+  genre:
+  - '144'
 - eventId:
   - 600888
   - 624973
@@ -289,6 +346,25 @@
   genre:
   - '144'
 - eventId:
+  - 1563295
+  - 566229
+  - 578854
+  - 580514
+  - 598317
+  - 602005
+  - 627979
+  - 633408
+  - 788128
+  start: 2026-11-11T11:10:00Z
+  stop: 2026-11-11T11:55:00Z
+  title: SWR Aktuell Baden-Württemberg
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: SWR Aktuell informiert über die aktuelle Nachrichtenlage.
+  subtitle: 'Moderation: Evelin König'
+- eventId:
   - 600889
   - 624974
   - 629558
@@ -301,6 +377,27 @@
   hd: true
   audiodesc: true
   subtitle: 'Moderation: Evelin König'
+- eventId:
+  - 1563296
+  - 566230
+  - 578855
+  - 580515
+  - 598318
+  - 602006
+  - 627980
+  - 633409
+  - 788129
+  start: 2026-11-11T11:55:00Z
+  stop: 2026-11-11T13:25:00Z
+  title: Landesschau Baden-Württemberg
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  subtitle: Fernsehfilm Deutschland 2003
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 600890
   - 624975
@@ -333,6 +430,7 @@
 - eventId:
   - 559815
   - 601035
+  - 602084
   - 625062
   - 629613
   - 635617
@@ -351,6 +449,7 @@
   - 559816
   - 600973
   - 601036
+  - 602085
   - 625063
   - 629614
   - 635618
@@ -369,15 +468,7 @@
   ageRating: 6
   genre:
   - '16'
-- eventId:
-  - 559971
-  - 601084
-  - 601122
-  - 625149
-  - 629698
-  - 635696
-  - 788293
-  - 980013
+- eventId: 602183
   start: 2026-11-11T15:00:00Z
   stop: 2026-11-11T15:04:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -385,15 +476,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 559972
-  - 601085
-  - 601123
-  - 625150
-  - 629699
-  - 635697
-  - 788294
-  - 980014
+- eventId: 602184
   start: 2026-11-11T15:04:00Z
   stop: 2026-11-11T15:05:00Z
   title: Baden-Württemberg Wetter
@@ -401,15 +484,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 559973
-  - 601086
-  - 601124
-  - 625151
-  - 629700
-  - 635698
-  - 788295
-  - 980015
+- eventId: 602185
   start: 2026-11-11T15:05:00Z
   stop: 2026-11-11T16:00:00Z
   title: Kaffee oder Tee
@@ -418,15 +493,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 559974
-  - 601087
-  - 601125
-  - 625152
-  - 629701
-  - 635699
-  - 788296
-  - 980016
+- eventId: 602186
   start: 2026-11-11T16:00:00Z
   stop: 2026-11-11T16:05:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -434,15 +501,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 559975
-  - 601088
-  - 601126
-  - 625153
-  - 629702
-  - 635700
-  - 788297
-  - 980017
+- eventId: 602187
   start: 2026-11-11T16:05:00Z
   stop: 2026-11-11T17:00:00Z
   title: Kaffee oder Tee
@@ -451,15 +510,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 559976
-  - 601089
-  - 601127
-  - 625154
-  - 629703
-  - 635701
-  - 788298
-  - 980018
+- eventId: 602188
   start: 2026-11-11T17:00:00Z
   stop: 2026-11-11T17:10:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -467,15 +518,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 559977
-  - 601090
-  - 601128
-  - 625155
-  - 629704
-  - 635702
-  - 788299
-  - 980019
+- eventId: 602189
   start: 2026-11-11T17:10:00Z
   stop: 2026-11-11T18:30:00Z
   title: Landesschau Baden-Württemberg
@@ -487,6 +530,7 @@
   - 560167
   - 601202
   - 601232
+  - 602355
   - 625272
   - 626405
   - 635795
@@ -503,6 +547,7 @@
   - 560168
   - 601203
   - 601233
+  - 602356
   - 625273
   - 626406
   - 635796
@@ -519,6 +564,7 @@
   - 560169
   - 601204
   - 601234
+  - 602357
   - 625274
   - 626407
   - 635797
@@ -537,6 +583,7 @@
   - 560170
   - 601205
   - 601235
+  - 602358
   - 625275
   - 626408
   - 635798
@@ -554,6 +601,7 @@
   - 560171
   - 601206
   - 601236
+  - 602359
   - 625276
   - 626409
   - 635799
@@ -571,6 +619,7 @@
   - 560172
   - 601207
   - 601237
+  - 602360
   - 625277
   - 626410
   - 635800
@@ -583,6 +632,27 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 544746
+  - 598825
+  - 602489
+  - 624140
+  - 628154
+  - 633515
+  - 736056
+  - 930038
+  start: 2026-11-11T21:00:00Z
+  stop: 2026-11-11T22:30:00Z
+  title: 'Tatort: Mike & Nisha'
+  subtitle: Spielfilm Deutschland 2025
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Der Video-Livestream der "SWR3 Morningshow", unter SWR3.de zu sehen, wird auch im SWR Fernsehen ausgestrahlt. Während der Musikstrecken ergänzen aktuelle Nachrichten in kompakter Form zum Nachlesen auf dem Fernsehbildschirm die Live-Bilder aus dem Studio. Aufnahmen der Autobahnkameras veranschaulichen die Verkehrsmeldungen, Live-Bilder zeigen die aktuelle Wetterlage im Sendegebiet.
+  ageRating: 12
+  genre:
+  - '16'
 - eventId:
   - 560331
   - 592531
@@ -623,3 +693,22 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 598828
+  - 602490
+  - 624141
+  - 628155
+  - 633695
+  - 635110
+  - 848658
+  start: 2026-11-11T22:30:00Z
+  stop: 2026-11-12T00:00:00Z
+  title: Tod in der Bucht - Ein Kreta-Krimi
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  subtitle: Spielfilm Deutschland 2024
+  ageRating: 12
+  genre:
+  - '16'

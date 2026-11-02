@@ -2,6 +2,7 @@
   - 1625089
   - 540114
   - 540793
+  - 547803
   - 553972
   - 565001
   start: 2026-11-06T00:20:00Z
@@ -17,6 +18,7 @@
   - 1625090
   - 540115
   - 540794
+  - 547804
   - 553973
   - 565002
   start: 2026-11-06T00:50:00Z
@@ -34,6 +36,7 @@
   - 1625091
   - 540116
   - 540795
+  - 547805
   - 553974
   - 565003
   start: 2026-11-06T02:10:00Z
@@ -55,6 +58,7 @@
   - 1625092
   - 540117
   - 540796
+  - 547806
   - 553975
   - 565004
   start: 2026-11-06T02:35:00Z
@@ -69,6 +73,7 @@
   - 1625136
   - 540900
   - 545425
+  - 548172
   - 554146
   - 565161
   start: 2026-11-06T03:05:00Z
@@ -83,6 +88,7 @@
   - 1625137
   - 540901
   - 545426
+  - 548173
   - 554147
   - 565162
   start: 2026-11-06T03:35:00Z
@@ -97,6 +103,7 @@
   - 1625138
   - 540902
   - 545427
+  - 548174
   - 554148
   - 565163
   start: 2026-11-06T04:05:00Z
@@ -111,6 +118,7 @@
   - 1625139
   - 540903
   - 545428
+  - 548175
   - 554149
   - 565164
   start: 2026-11-06T04:35:00Z
@@ -126,6 +134,7 @@
   - 1625140
   - 540904
   - 545429
+  - 548176
   - 554150
   - 565165
   start: 2026-11-06T05:25:00Z
@@ -141,6 +150,7 @@
   - 1625158
   - 541025
   - 545973
+  - 548323
   - 554383
   - 565403
   start: 2026-11-06T06:15:00Z
@@ -156,6 +166,7 @@
   - 1625159
   - 541026
   - 545974
+  - 548324
   - 554384
   - 565404
   start: 2026-11-06T07:05:00Z
@@ -171,6 +182,7 @@
   - 1625160
   - 541027
   - 545975
+  - 548325
   - 554385
   - 565405
   start: 2026-11-06T07:55:00Z
@@ -187,6 +199,7 @@
   - 1625161
   - 541028
   - 545976
+  - 548326
   - 554386
   - 565406
   start: 2026-11-06T08:45:00Z
@@ -202,6 +215,7 @@
   - 1625179
   - 541150
   - 547633
+  - 548447
   - 554561
   - 565591
   start: 2026-11-06T09:35:00Z
@@ -222,6 +236,7 @@
   - 1625180
   - 541151
   - 547634
+  - 548448
   - 554562
   - 565592
   start: 2026-11-06T09:58:00Z
@@ -236,6 +251,7 @@
   - 1625181
   - 541152
   - 547635
+  - 548449
   - 554563
   - 565593
   start: 2026-11-06T10:00:00Z
@@ -251,6 +267,7 @@
   - 1625182
   - 541153
   - 547636
+  - 548450
   - 554564
   - 565594
   start: 2026-11-06T10:45:00Z
@@ -266,6 +283,7 @@
   - 1625183
   - 541154
   - 547637
+  - 548451
   - 554565
   - 565595
   start: 2026-11-06T11:30:00Z
@@ -283,6 +301,7 @@
 - eventId:
   - 1625221
   - 548057
+  - 548546
   - 554769
   - 556527
   - 565768
@@ -297,6 +316,7 @@
 - eventId:
   - 1625222
   - 548058
+  - 548547
   - 554770
   - 556528
   - 565769
@@ -311,6 +331,7 @@
 - eventId:
   - 1625223
   - 548059
+  - 548548
   - 554771
   - 556529
   - 565770
@@ -331,6 +352,7 @@
 - eventId:
   - 1625224
   - 548060
+  - 548549
   - 554772
   - 556530
   - 565771
@@ -343,6 +365,20 @@
   hd: true
   audiodesc: true
   description: In "Gefragt - Gejagt" mit Alexander Bommes tritt ein Team von vier Kandidatinnen und Kandidaten gegen ein Superhirn - die "Jägerin" oder den "Jäger" - an. Sie sind alle ausgewiesene Quizprofis.
+- eventId:
+  - 1403339
+  - 545233
+  - 555664
+  - 565155
+  start: 2026-11-06T15:00:00Z
+  stop: 2026-11-06T15:30:00Z
+  title: Sturm der Liebe (1657)
+  subtitle: Deutschland 2012
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die Moderatoren Peter Imhof, René Kindermann, Stephanie Müller-Spirra und Julia Menger berichten im wöchentlichen Wechsel über aktuelle Ereignisse, sprechen mit Prominenten und geben praktische Tipps.
 - eventId: 541445
   start: 2026-11-06T15:00:00Z
   stop: 2026-11-06T15:30:00Z
@@ -353,7 +389,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 541446
+- eventId:
+  - 541446
+  - 555665
   start: 2026-11-06T15:30:00Z
   stop: 2026-11-06T16:00:00Z
   title: MDR um 4
@@ -363,7 +401,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 541447
+- eventId:
+  - 541447
+  - 555666
   start: 2026-11-06T16:00:00Z
   stop: 2026-11-06T16:45:00Z
   title: MDR um 4
@@ -373,7 +413,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 541448
+- eventId:
+  - 541448
+  - 555667
   start: 2026-11-06T16:45:00Z
   stop: 2026-11-06T17:05:00Z
   title: MDR aktuell
@@ -382,7 +424,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 541449
+- eventId:
+  - 541449
+  - 555668
   start: 2026-11-06T17:05:00Z
   stop: 2026-11-06T17:10:00Z
   title: Wetter für 3
@@ -392,7 +436,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 541450
+- eventId:
+  - 541450
+  - 555669
   start: 2026-11-06T17:10:00Z
   stop: 2026-11-06T17:54:00Z
   title: Brisant
@@ -401,7 +447,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 541451
+- eventId:
+  - 541451
+  - 555670
   start: 2026-11-06T17:54:00Z
   stop: 2026-11-06T18:00:00Z
   title: Unser Sandmännchen
@@ -413,6 +461,7 @@
   audiodesc: true
 - eventId:
   - 541641
+  - 548800
   - 550466
   - 555256
   - 671570
@@ -427,6 +476,7 @@
 - eventId:
   - 1625296
   - 541642
+  - 548801
   - 550467
   - 555257
   - 567489
@@ -442,6 +492,7 @@
 - eventId:
   - 1625297
   - 541643
+  - 548802
   - 550468
   - 555258
   - 567490
@@ -457,6 +508,7 @@
 - eventId:
   - 1625298
   - 541644
+  - 548803
   - 550469
   - 555259
   - 567491
@@ -486,6 +538,7 @@
 - eventId:
   - 1625299
   - 541645
+  - 548804
   - 550470
   - 567492
   start: 2026-11-06T20:45:00Z
@@ -497,7 +550,9 @@
   hd: true
   audiodesc: true
   description: Verpassen Sie keine Nachrichten und Trends aus Sachsen, Sachsen-Anhalt und Thüringen. Sehen Sie das Neueste aus Politik und Wirtschaft, der Kultur und Wissenschaft, vom Sport, mit Expertengesprächen und hintergründigen Reportagen.
-- eventId: 541842
+- eventId:
+  - 541842
+  - 548914
   start: 2026-11-06T21:00:00Z
   stop: 2026-11-06T23:00:00Z
   title: Riverboat
@@ -511,6 +566,7 @@
   - 1636284
   - 540581
   - 541843
+  - 548915
   - 550859
   - 555488
   start: 2026-11-06T23:00:00Z

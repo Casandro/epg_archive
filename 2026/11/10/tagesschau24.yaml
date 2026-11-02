@@ -1,6 +1,8 @@
 - eventId:
   - 548554
   - 554408
+  - 557136
+  - 566175
   - 573311
   - 574525
   - 590599
@@ -17,6 +19,8 @@
 - eventId:
   - 548555
   - 554409
+  - 557137
+  - 566176
   - 573312
   - 574526
   - 590600
@@ -32,6 +36,8 @@
 - eventId:
   - 548556
   - 554410
+  - 557138
+  - 566177
   - 573313
   - 574527
   - 590601
@@ -48,6 +54,8 @@
 - eventId:
   - 548557
   - 554411
+  - 557139
+  - 566178
   - 573314
   - 574528
   - 590602
@@ -64,6 +72,8 @@
 - eventId:
   - 548558
   - 554412
+  - 557140
+  - 566179
   - 573315
   - 574529
   - 590603
@@ -79,6 +89,8 @@
 - eventId:
   - 548559
   - 554413
+  - 557141
+  - 566180
   - 573316
   - 574530
   - 590604
@@ -96,6 +108,8 @@
 - eventId:
   - 548560
   - 554414
+  - 557142
+  - 566181
   - 573317
   - 574531
   - 590605
@@ -111,8 +125,10 @@
 - eventId:
   - 549009
   - 554671
+  - 557255
   - 573507
   - 574683
+  - 576967
   - 590867
   - 596422
   - 762263
@@ -126,8 +142,10 @@
 - eventId:
   - 549010
   - 554672
+  - 557256
   - 573508
   - 574684
+  - 576968
   - 590868
   - 596423
   - 762264
@@ -142,8 +160,10 @@
 - eventId:
   - 549011
   - 554673
+  - 557257
   - 573509
   - 574685
+  - 576969
   - 590869
   - 596424
   - 762265
@@ -157,8 +177,10 @@
 - eventId:
   - 549012
   - 554674
+  - 557258
   - 573510
   - 574686
+  - 576970
   - 590870
   - 596425
   - 762266
@@ -173,8 +195,10 @@
 - eventId:
   - 549013
   - 554675
+  - 557259
   - 573511
   - 574687
+  - 576971
   - 590871
   - 596426
   - 762267
@@ -189,8 +213,10 @@
 - eventId:
   - 549201
   - 555057
+  - 557438
   - 573827
   - 575079
+  - 577327
   - 591333
   - 596490
   - 762319
@@ -203,8 +229,26 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1430685
+  - 1627789
+  - 544469
+  - 553188
+  - 568654
+  - 569636
+  - 570175
+  - 577624
+  start: 2026-11-10T11:00:00Z
+  stop: 2026-11-10T13:00:00Z
+  title: Tagesschau-Nachrichten
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: "Das Wichtigste aus Politik, Wirtschaft, Kultur, Sport und Wissenschaft. Korrespondenten der ARD sorgen für schnelle und präzise News. \n\nDie Tagesschau-Ausgaben zur vollen Stunde werden teilweise mit Videotext-Untertiteln ausgestrahlt."
+- eventId:
   - 549458
   - 557100
+  - 558496
   - 573967
   - 575403
   - 591616
@@ -221,8 +265,10 @@
 - eventId:
   - 549596
   - 558289
+  - 558635
   - 574096
   - 575817
+  - 578350
   - 592003
   - 596593
   - 762377
@@ -235,7 +281,18 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 558947
+  - 589644
+  - 765945
+  start: 2026-11-10T18:00:00Z
+  stop: 2026-11-10T18:08:00Z
+  title: Tagesschau in Einfacher Sprache
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 577209
+  - 599455
   - 628007
   start: 2026-11-10T18:00:00Z
   stop: 2026-11-10T18:08:00Z
@@ -244,7 +301,19 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 558948
+  - 589645
+  - 765946
+  start: 2026-11-10T18:08:00Z
+  stop: 2026-11-10T19:00:00Z
+  title: Tagesschau-Nachrichten
+  subtitle: 'Moderation: Christian Nitsche'
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 577210
+  - 599456
   - 628008
   start: 2026-11-10T18:08:00Z
   stop: 2026-11-10T19:00:00Z
@@ -253,32 +322,34 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 560232
-  - 563495
-  - 577005
-  - 577211
-  - 584714
-  - 628009
-  - 762434
-  - 956134
+  - 558949
+  - 747961
+  start: 2026-11-10T19:00:00Z
+  stop: 2026-11-10T19:15:00Z
+  title: Klimaschutz jetzt! Wer schützt den Wald?
+  subtitle: Film von Christine Herrmann
+  widescreen: true
+  hd: true
+  audiodesc: true
+  subtitled: true
+- eventId: 599457
   start: 2026-11-10T19:00:00Z
   stop: 2026-11-10T19:15:00Z
   title: Tagesschau
   widescreen: true
+  subtitled: true
   hd: true
   audiodesc: true
-  genre:
-  - '32'
-  subtitled: true
 - eventId:
-  - 560233
-  - 563496
-  - 577006
-  - 577212
-  - 584715
-  - 628010
-  - 762435
-  - 956135
+  - 558950
+  - 747962
+  start: 2026-11-10T19:15:00Z
+  stop: 2026-11-10T19:30:00Z
+  title: tagesschau24 TOP-THEMA
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId: 599458
   start: 2026-11-10T19:15:00Z
   stop: 2026-11-10T19:30:00Z
   title: tagesschau24 TOP-THEMA
@@ -286,14 +357,16 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 560234
-  - 563497
-  - 577007
-  - 577213
-  - 584716
-  - 628011
-  - 762436
-  - 956136
+  - 558951
+  - 747963
+  start: 2026-11-10T19:30:00Z
+  stop: 2026-11-10T20:45:00Z
+  title: Extra
+  widescreen: true
+  hd: true
+  audiodesc: true
+  subtitle: Publikumsdialog mit Verkehrsminister Steffen Bilger
+- eventId: 599459
   start: 2026-11-10T19:30:00Z
   stop: 2026-11-10T20:45:00Z
   title: Arena
@@ -302,14 +375,16 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 560235
-  - 563498
-  - 577008
-  - 577214
-  - 584717
-  - 628012
-  - 762437
-  - 956137
+  - 558952
+  - 747964
+  start: 2026-11-10T20:45:00Z
+  stop: 2026-11-10T20:47:00Z
+  title: Tagesthemen
+  subtitle: mit Wetter
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId: 599460
   start: 2026-11-10T20:45:00Z
   stop: 2026-11-10T20:47:00Z
   title: Tagesschau
@@ -317,14 +392,17 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 560236
-  - 563499
-  - 577009
-  - 577215
-  - 584718
-  - 628013
-  - 762438
-  - 956138
+  - 558953
+  - 747965
+  start: 2026-11-10T20:47:00Z
+  stop: 2026-11-10T21:15:00Z
+  title: Tagesschau vor 20 Jahren
+  widescreen: true
+  hd: true
+  audiodesc: true
+  subtitle: Schubert, Sträter und König retten die Welt
+  subtitled: true
+- eventId: 599461
   start: 2026-11-10T20:47:00Z
   stop: 2026-11-10T21:15:00Z
   title: Das Gipfeltreffen
@@ -334,31 +412,19 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 552946
-  - 567044
-  - 577128
-  - 577838
-  - 585491
-  - 628501
-  - 762530
-  - 956154
+  - 559098
+  - 599961
   start: 2026-11-10T21:15:00Z
   stop: 2026-11-10T21:50:00Z
   title: Tagesthemen
   subtitle: mit Wetter
   widescreen: true
+  subtitled: true
   hd: true
   audiodesc: true
-  subtitled: true
 - eventId:
-  - 552947
-  - 567045
-  - 577129
-  - 577839
-  - 585492
-  - 628502
-  - 762531
-  - 956155
+  - 559099
+  - 599962
   start: 2026-11-10T21:50:00Z
   stop: 2026-11-10T23:05:00Z
   title: Tagesschau-Nachrichten
@@ -367,10 +433,12 @@
   audiodesc: true
 - eventId:
   - 552948
+  - 559100
   - 567046
   - 577130
   - 577840
   - 585493
+  - 599963
   - 628503
   - 762532
   - 956156
@@ -383,10 +451,12 @@
   subtitled: true
 - eventId:
   - 552949
+  - 559101
   - 567047
   - 577131
   - 577841
   - 585494
+  - 599964
   - 628504
   - 762533
   - 956157
@@ -398,10 +468,12 @@
   audiodesc: true
 - eventId:
   - 552950
+  - 559102
   - 567048
   - 577132
   - 577842
   - 585495
+  - 599965
   - 628505
   - 762534
   - 956158

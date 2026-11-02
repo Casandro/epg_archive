@@ -7,6 +7,15 @@
   stop: 2026-11-05T08:00:00Z
   title: SWR Aktuell am Morgen
 - eventId:
+  - 567065
+  - 573486
+  - 581822
+  - 762747
+  start: 2026-11-05T05:00:00Z
+  stop: 2026-11-05T08:00:00Z
+  title: SWR Aktuell am Mittag
+- eventId:
+  - 566244
   - 566777
   - 572997
   - 581350
@@ -14,16 +23,13 @@
   start: 2026-11-05T08:00:00Z
   stop: 2026-11-05T11:00:00Z
   title: SWR Aktuell am Vormittag
-- eventId:
-  - 567065
-  - 573486
-  - 581822
-  - 762747
+- eventId: 566866
   start: 2026-11-05T11:00:00Z
   stop: 2026-11-05T13:00:00Z
   title: SWR Aktuell am Mittag
 - eventId:
   - 554900
+  - 567486
   - 588736
   - 590058
   - 762752
@@ -32,6 +38,7 @@
   title: SWR Aktuell Langstrecke
 - eventId:
   - 554901
+  - 567487
   - 588737
   - 590059
   - 762753
@@ -40,6 +47,7 @@
   title: SWR Aktuell am Nachmittag
 - eventId:
   - 555227
+  - 568253
   - 575093
   - 585737
   - 762758
@@ -48,6 +56,7 @@
   title: SWR Aktuell am Abend
 - eventId:
   - 555228
+  - 568254
   - 575094
   - 585738
   - 762759
@@ -57,6 +66,7 @@
 - eventId:
   - 553599
   - 555639
+  - 568774
   - 596244
   - 762766
   start: 2026-11-05T18:00:00Z
@@ -66,12 +76,14 @@
 - eventId:
   - 553600
   - 555640
+  - 568775
   - 596245
   - 762767
   start: 2026-11-05T19:00:00Z
   stop: 2026-11-05T21:00:00Z
   title: ARD Infoabend
 - eventId:
+  - 552845
   - 554308
   - 557289
   - 590505
@@ -81,6 +93,7 @@
   title: ARD Infonacht
   description: "Wir informieren Sie über die aktuellen Ereignisse aus Deutschland und der Welt. \nAußerdem erfahren Sie das Wichtigste aus Baden-Württemberg und Rheinland-Pfalz."
 - eventId:
+  - 552846
   - 554309
   - 557290
   - 590506

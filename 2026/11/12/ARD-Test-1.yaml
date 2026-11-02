@@ -1,6 +1,7 @@
 - eventId:
   - 553583
   - 570712
+  - 572546
   - 578068
   - 819461
   start: 2026-11-12T01:18:00Z
@@ -12,6 +13,7 @@
 - eventId:
   - 553584
   - 570713
+  - 572547
   - 578069
   start: 2026-11-12T01:20:00Z
   stop: 2026-11-12T02:50:00Z
@@ -34,7 +36,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 553585
+- eventId:
+  - 553585
+  - 572548
   start: 2026-11-12T02:50:00Z
   stop: 2026-11-12T03:20:00Z
   title: Die Paartherapie
@@ -55,6 +59,7 @@
 - eventId:
   - 554187
   - 571642
+  - 573220
   - 592718
   - 819515
   start: 2026-11-12T03:20:00Z
@@ -76,6 +81,19 @@
   subtitled: true
   hd: true
 - eventId:
+  - 562420
+  - 567980
+  - 573221
+  - 680727
+  start: 2026-11-12T03:58:00Z
+  stop: 2026-11-12T04:00:00Z
+  title: Panda, Gorilla & Co. (318)
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: Die Nachrichten der ARD
+  subtitle: Geschichten aus dem Zoo Berlin und dem Tierpark Berlin
+- eventId:
   - 554189
   - 571644
   - 592720
@@ -88,18 +106,33 @@
   subtitled: true
   hd: true
 - eventId:
-  - 554190
-  - 571645
-  - 592721
-  - 819518
+  - 573222
+  - 680728
+  start: 2026-11-12T04:00:00Z
+  stop: 2026-11-12T04:30:00Z
+  title: Quarks im Ersten
+  subtitle: Mehr Wildnis wagen - wie viel Natur brauchen wir?
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId:
+  - 1513076
+  - 562422
+  - 567982
+  - 573223
+  - 600899
+  - 680729
+  - 721292
   start: 2026-11-12T04:30:00Z
   stop: 2026-11-12T08:00:00Z
   title: ZDF-Morgenmagazin
   widescreen: true
   subtitled: true
   hd: true
+  description: Die Nachrichten der ARD
 - eventId:
   - 572135
+  - 573898
   - 577206
   - 593128
   - 819566
@@ -111,6 +144,7 @@
   hd: true
 - eventId:
   - 572136
+  - 573899
   - 577207
   - 593129
   - 819567
@@ -123,6 +157,7 @@
   hd: true
 - eventId:
   - 572137
+  - 573900
   - 577208
   - 593130
   - 819568
@@ -136,22 +171,14 @@
   ageRating: 12
   genre:
   - '16'
-- eventId:
-  - 554861
-  - 578870
-  - 593462
-  - 819609
+- eventId: 574199
   start: 2026-11-12T09:40:00Z
   stop: 2026-11-12T09:45:00Z
   title: Tagesschau
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 554862
-  - 578871
-  - 593463
-  - 819610
+- eventId: 574200
   start: 2026-11-12T09:45:00Z
   stop: 2026-11-12T10:15:00Z
   title: Meister des Alltags (119)
@@ -159,11 +186,7 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 554863
-  - 578872
-  - 593464
-  - 819611
+- eventId: 574201
   start: 2026-11-12T10:15:00Z
   stop: 2026-11-12T11:00:00Z
   title: Wer weiß denn sowas? (1424)
@@ -171,11 +194,7 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 554864
-  - 578873
-  - 593465
-  - 819612
+- eventId: 574202
   start: 2026-11-12T11:00:00Z
   stop: 2026-11-12T13:00:00Z
   title: ARD-Mittagsmagazin
@@ -183,6 +202,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 553172
   - 555733
   - 573804
   - 593951
@@ -194,6 +214,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 553173
   - 555734
   - 573805
   - 593952
@@ -213,6 +234,7 @@
   hd: true
   subtitle: Deutschland 2026
 - eventId:
+  - 553174
   - 555735
   - 573806
   - 593953
@@ -224,6 +246,7 @@
   subtitled: true
   hd: true
 - eventId:
+  - 553175
   - 555736
   - 573807
   - 593954
@@ -237,6 +260,7 @@
   hd: true
 - eventId:
   - 541748
+  - 554231
   - 557792
   - 594506
   - 819718
@@ -248,6 +272,7 @@
   hd: true
 - eventId:
   - 541749
+  - 554232
   - 557793
   - 594507
   - 819719
@@ -260,6 +285,7 @@
   hd: true
 - eventId:
   - 541750
+  - 554233
   - 557794
   - 594508
   - 819720
@@ -271,6 +297,7 @@
   hd: true
 - eventId:
   - 541751
+  - 554234
   - 557795
   - 594509
   - 819721
@@ -283,6 +310,7 @@
   subtitle: Boulevard-Magazin
 - eventId:
   - 541752
+  - 554235
   - 557796
   - 594510
   - 819722
@@ -304,7 +332,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 557797
+- eventId:
+  - 554236
+  - 557797
   start: 2026-11-12T17:50:00Z
   stop: 2026-11-12T18:45:00Z
   title: In aller Freundschaft - Die jungen Ärzte (473)
@@ -314,6 +344,7 @@
   hd: true
 - eventId:
   - 542600
+  - 556112
   - 558554
   - 589021
   - 819769
@@ -326,6 +357,7 @@
   hd: true
 - eventId:
   - 542601
+  - 556113
   - 558555
   - 589022
   - 819770
@@ -338,6 +370,7 @@
   subtitle: 'Moderation: Claudia Kleinert'
 - eventId:
   - 542602
+  - 556114
   - 558556
   - 589023
   - 819771
@@ -349,6 +382,7 @@
   hd: true
 - eventId:
   - 542603
+  - 556115
   - 558557
   - 589024
   - 819772
@@ -362,6 +396,7 @@
   - '32'
 - eventId:
   - 542604
+  - 556116
   - 558558
   - 589025
   - 819773
@@ -377,6 +412,7 @@
   hd: true
 - eventId:
   - 542605
+  - 556117
   - 558559
   - 589026
   - 819774
@@ -390,6 +426,7 @@
 - eventId:
   - 543384
   - 559036
+  - 560517
   - 589750
   - 819834
   start: 2026-11-12T21:15:00Z
@@ -402,6 +439,7 @@
 - eventId:
   - 543385
   - 559037
+  - 560518
   - 589751
   - 819835
   start: 2026-11-12T21:50:00Z
@@ -415,6 +453,7 @@
 - eventId:
   - 543386
   - 559038
+  - 560519
   - 589752
   start: 2026-11-12T22:35:00Z
   stop: 2026-11-12T23:05:00Z
@@ -432,6 +471,7 @@
 - eventId:
   - 543387
   - 559039
+  - 560520
   - 589753
   - 819837
   start: 2026-11-12T23:05:00Z
@@ -443,6 +483,7 @@
 - eventId:
   - 543388
   - 559040
+  - 560521
   - 589754
   - 819838
   start: 2026-11-12T23:15:00Z
