@@ -142,6 +142,9 @@
   widescreen: true
   subtitled: true
   hd: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 572140
   - 573903
@@ -155,6 +158,9 @@
   widescreen: true
   subtitled: true
   hd: true
+  ageRating: 12
+  genre:
+  - '16'
 - eventId: 574205
   start: 2026-11-16T09:40:00Z
   stop: 2026-11-16T09:45:00Z
@@ -171,7 +177,7 @@
   start: 2026-11-16T09:45:00Z
   stop: 2026-11-16T10:15:00Z
   title: Meister des Alltags (211)
-  subtitle: mit Florian Weber
+  subtitle: 'Moderation: Florian Weber'
   widescreen: true
   subtitled: true
   hd: true
@@ -184,7 +190,7 @@
   start: 2026-11-16T10:15:00Z
   stop: 2026-11-16T11:00:00Z
   title: Wer weiß denn sowas? (1426)
-  subtitle: mit Kai Pflaume
+  subtitle: 'Gäste: Andrea Kiewel und Giovanni Zarrella'
   widescreen: true
   subtitled: true
   hd: true
@@ -345,7 +351,7 @@
   start: 2026-11-16T17:00:00Z
   stop: 2026-11-16T17:50:00Z
   title: Arthur und die Freunde der Tafelrunde (42/52)
-  subtitle: Die Belagerung von Camelot
+  subtitle: 'Gäste: Peter Giesel und Rudi Cerne'
   widescreen: true
   subtitled: true
   hd: true
@@ -427,6 +433,7 @@
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: 'UEFA Nations League: Deutschland - Niederlande'
 - eventId:
   - 543395
   - 559041

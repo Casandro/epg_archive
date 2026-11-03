@@ -275,6 +275,9 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 547296
   - 552175
@@ -293,6 +296,9 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
+  genre:
+  - '16'
 - eventId:
   - 547411
   - 558463
@@ -323,7 +329,7 @@
   start: 2026-11-16T09:45:00Z
   stop: 2026-11-16T10:15:00Z
   title: Meister des Alltags (211)
-  subtitle: mit Florian Weber
+  subtitle: 'Moderation: Florian Weber'
   widescreen: true
   subtitled: true
   hd: true
@@ -334,7 +340,7 @@
   start: 2026-11-16T10:15:00Z
   stop: 2026-11-16T11:00:00Z
   title: Wer weiß denn sowas? (1426)
-  subtitle: mit Kai Pflaume
+  subtitle: 'Gäste: Andrea Kiewel und Giovanni Zarrella'
   subtitled: true
   widescreen: true
   hd: true
@@ -469,7 +475,7 @@
   start: 2026-11-16T17:00:00Z
   stop: 2026-11-16T17:50:00Z
   title: Wer weiß denn sowas? (1439)
-  subtitle: mit Kai Pflaume
+  subtitle: 'Gäste: Peter Giesel und Rudi Cerne'
   widescreen: true
   subtitled: true
   hd: true
@@ -561,6 +567,7 @@
   widescreen: true
   hd: true
   audiodesc: true
+  subtitle: 'UEFA Nations League: Deutschland - Niederlande'
 - eventId:
   - 551463
   - 559696

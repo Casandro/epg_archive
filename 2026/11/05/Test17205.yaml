@@ -98,7 +98,7 @@
   - 641019
   - 666076
   start: 2026-11-05T05:15:00Z
-  stop: 2026-11-05T05:35:00Z
+  stop: 2026-11-05T06:00:00Z
   title: Couleurs locales
   description: (Rediffusion)
   genre:
@@ -119,7 +119,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 681076
+- eventId:
+  - 673265
+  - 681076
   start: 2026-11-05T06:00:00Z
   stop: 2026-11-05T07:00:00Z
   title: La Matinale
@@ -226,7 +228,7 @@
   start: 2026-11-05T10:00:00Z
   stop: 2026-11-05T10:50:00Z
   title: Infrarouge
-  description: 2026 (29/34) Infrarouge (Suisse Romande-2026)
+  description: "2026 (29/34) Infrarouge: Matériel de guerre : open bar pour les canons suisses ? Faut-il assouplir les conditions d'exportation du matériel de guerre fabriqué en Suisse ? C'est la question à laquelle vous devrez répondre le 29 novembre. \nFace à la menace des Européens de ne plus acheter d'armes suisses s'ils ne peuvent pas les réexporter sans l'aval de la Confédération, le Parlement a décidé d'assouplir la loi. \n\nCet assouplissement est-il compatible avec la neutralité ? Jusqu'où peut-on aller pour sauver notre industrie d'armement ? \n\nMatériel de Guerre : open bar sur les canons suisses ? c'est le débat d'Infrarouge, mercredi 4 novembre à 20h10 sur RTS 1 et sur Play RTS  (Suisse Romande-2026)"
   genre:
   - '32'
   widescreen: true
@@ -318,7 +320,7 @@
   start: 2026-11-05T14:00:00Z
   stop: 2026-11-05T14:50:00Z
   title: Infrarouge
-  description: 2026 (29/34) Infrarouge (Suisse Romande-2026)
+  description: "2026 (29/34) Infrarouge: Matériel de guerre : open bar pour les canons suisses ? Faut-il assouplir les conditions d'exportation du matériel de guerre fabriqué en Suisse ? C'est la question à laquelle vous devrez répondre le 29 novembre. \nFace à la menace des Européens de ne plus acheter d'armes suisses s'ils ne peuvent pas les réexporter sans l'aval de la Confédération, le Parlement a décidé d'assouplir la loi. \n\nCet assouplissement est-il compatible avec la neutralité ? Jusqu'où peut-on aller pour sauver notre industrie d'armement ? \n\nMatériel de Guerre : open bar sur les canons suisses ? c'est le débat d'Infrarouge, mercredi 4 novembre à 20h10 sur RTS 1 et sur Play RTS  (Suisse Romande-2026)"
   genre:
   - '32'
   widescreen: true
@@ -329,12 +331,22 @@
   - 666137
   - 700679
   start: 2026-11-05T14:50:00Z
-  stop: 2026-11-05T15:55:00Z
+  stop: 2026-11-05T15:50:00Z
   title: RTS Info
   subtitle: L'actualité en continu
   description: En direct.
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 673282
+  start: 2026-11-05T15:50:00Z
+  stop: 2026-11-05T16:25:00Z
+  title: Suisse en scène
+  description: 'Jean-Luc Bideau De « La Salamandre » à la série « H » en passant par la Comédie-Française, Jean-Luc Bideau s''est imposé en comédien populaire et exigeant : présence imposante, geste ample, voix puissante, phrasé volontiers ironique, regard aussi malicieux que tendre. En un mot, incontournable... (Suisse Romande-2025)'
+  genre:
+  - '128'
   widescreen: true
   subtitled: true
   hd: true
@@ -393,13 +405,22 @@
   - 656001
   - 700704
   start: 2026-11-05T19:45:00Z
-  stop: 2026-11-05T20:56:00Z
+  stop: 2026-11-05T20:55:00Z
   title: Humour
   description: |-
     Simply The Best - Sandrine Viglino Sandrine Viglino a toujours été fascinée par les gens qui « maitrisent » leur sujet. Elle s'est demandé comment on devient « Simply The Best ». De Roger Federer, à son coiffeur qui lui coupe les cheveux en 4, elle a observé, étudié et nous revient aujourd'hui, avec des réponses et encore beaucoup de questions.  Dans ce spectacle d'humour, elle explique notamment... Pourquoi en 2023 il faut transformer ses pensées négatives en mode disco... Pourquoi elle déteste les guitaristes même si elle rêve d'en être une... Pourquoi il est impératif de ne pas confondre une diva et une connasse...
      (Suisse-2024)
   genre:
   - '50'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 673283
+  start: 2026-11-05T20:55:00Z
+  stop: 2026-11-05T21:00:00Z
+  title: Zap RTS Sport
+  genre:
+  - '64'
   widescreen: true
   subtitled: true
   hd: true
@@ -420,6 +441,18 @@
   - 656003
   - 705453
   start: 2026-11-05T20:57:00Z
+  stop: 2026-11-05T21:40:00Z
+  title: Chicago Police
+  subtitle: Marie
+  description: '(Inédit) Marie - Saison 12 (14/22) Ruzek doit se rendre à l''évidence : l''état de son père empire. L''Unité des Renseignements est à la poursuite d''un serial killer insaisissable. (Etats-Unis d''Amérique-2025)'
+  ageRating: 10
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 673285
+  start: 2026-11-05T21:00:00Z
   stop: 2026-11-05T21:40:00Z
   title: Chicago Police
   subtitle: Marie
@@ -466,6 +499,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 673286
+  start: 2026-11-05T21:45:00Z
+  stop: 2026-11-05T22:25:00Z
+  title: Chicago Police
+  subtitle: Le sacrifice
+  description: (Inédit) Greater Good - Saison 12 (15/22) Voight remet en question les motivations du chef adjoint Reid quand il lance une opération anti-violence dans un quartier où plusieurs gangs se disputent. (Etats-Unis d'Amérique-2025)
+  ageRating: 10
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 700723
   start: 2026-11-05T21:55:00Z
   stop: 2026-11-05T22:35:00Z
@@ -484,6 +529,17 @@
   - 705469
   start: 2026-11-05T22:25:00Z
   stop: 2026-11-06T00:20:00Z
+  title: Le passager de la pluie
+  description: Un femme attend seule son mari, lorsqu'un inconnu pénètre chez elle et la violente. Elle le tue. Le lendemain, un américain essaye de lui faire avouer le meurtre et elle ne sait pas ce qu'il attend d'elle, ni s'il tient à l'arrêter ou non. (France-1969)
+  ageRating: 10
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 673287
+  start: 2026-11-05T22:30:00Z
+  stop: 2026-11-06T00:25:00Z
   title: Le passager de la pluie
   description: Un femme attend seule son mari, lorsqu'un inconnu pénètre chez elle et la violente. Elle le tue. Le lendemain, un américain essaye de lui faire avouer le meurtre et elle ne sait pas ce qu'il attend d'elle, ni s'il tient à l'arrêter ou non. (France-1969)
   ageRating: 10
