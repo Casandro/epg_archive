@@ -340,15 +340,9 @@
   description: Theresa Koshka hat in der Notaufnahme alle Hände voll zu tun. Der Unternehmer Waldemar König und Eiko Hämmerling, sein Schwiegersohn in Spe, haben sich bei einem gemeinsamen Jagdausflug verletzt. Derweil steht der langersehnte gemeinsame Urlaub der beiden Assistenzärztinnen Vivienne Kling und Julia Berger vor der Tür. Seit Wochen bereiten sich die beiden darauf vor und die Vorfreude wächst mit jedem Tag.
   genre:
   - '32'
-- eventId: 567653
-  start: 2026-11-26T19:00:00Z
-  stop: 2026-11-26T19:15:00Z
-  title: Tagesschau
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId: 691467
+- eventId:
+  - 567653
+  - 691467
   start: 2026-11-26T19:00:00Z
   stop: 2026-11-26T19:14:00Z
   title: Tagesschau
@@ -377,7 +371,9 @@
   hd: true
   audiodesc: true
   description: 'Auf der Südamerika-Anlage im Zoo herrscht große Aufregung: Die drei kleinen Wasserschweinkinder von Mama Lucia erobern das Außengehege und sorgen damit für Irritationen bei ihren Mitbewohnern - den Guanakos. Eines der Jungtiere verliert zudem den Anschluss an die Gruppe und gerät in eine lebensbedrohliche Situation...'
-- eventId: 700220
+- eventId:
+  - 662002
+  - 700220
   start: 2026-11-26T19:14:00Z
   stop: 2026-11-26T19:15:00Z
   title: Anmoderation Kino ist King
