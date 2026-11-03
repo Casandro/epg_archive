@@ -288,7 +288,7 @@
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
 - eventId: 624128
   start: 2026-11-05T05:56:00Z
-  stop: 2026-11-05T05:58:00Z
+  stop: 2026-11-05T06:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -333,7 +333,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 624133
   start: 2026-11-05T06:23:00Z
-  stop: 2026-11-05T06:24:00Z
+  stop: 2026-11-05T06:25:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -346,7 +346,9 @@
   title: Vrijeme svijet danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 624134
+- eventId:
+  - 624134
+  - 633320
   start: 2026-11-05T06:25:00Z
   stop: 2026-11-05T06:27:00Z
   title: Vrijeme Svijet danas
@@ -360,7 +362,9 @@
   title: 'HRT100 Vremeplov: Politička zbivanja na Trgu bana Jelačića u jesen 1989.'
   subtitle: ' '
   description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
-- eventId: 624135
+- eventId:
+  - 624135
+  - 633321
   start: 2026-11-05T06:27:00Z
   stop: 2026-11-05T06:30:00Z
   title: HRT100 Vremeplov
