@@ -77,6 +77,14 @@
   title: Vrijeme svijet danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 638767
+  start: 2026-11-04T01:01:00Z
+  stop: 2026-11-04T01:03:00Z
+  title: Vrijeme Svijet danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 593229
   - 606286
@@ -112,6 +120,14 @@
   title: 'Studio 4: Intervju'
   subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+- eventId: 638768
+  start: 2026-11-04T01:03:00Z
+  stop: 2026-11-04T01:23:00Z
+  title: 'Studio 4: Intervju'
+  subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 593230
   - 623993
@@ -155,6 +171,14 @@
   title: '#REPORTAŽE: Divić Putnica'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 638769
+  start: 2026-11-04T01:23:00Z
+  stop: 2026-11-04T01:26:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 587317
   - 606288
@@ -480,7 +504,7 @@
   - 606315
   - 774071
   start: 2026-11-04T05:56:00Z
-  stop: 2026-11-04T05:58:00Z
+  stop: 2026-11-04T06:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -1710,11 +1734,15 @@
 - eventId:
   - 625594
   - 637441
+  - 638770
   start: 2026-11-04T21:02:00Z
   stop: 2026-11-04T21:47:00Z
   title: Pregled dana
-  subtitle: ' '
+  subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 629765
   - 774169
@@ -1759,11 +1787,15 @@
 - eventId:
   - 625595
   - 637442
+  - 638771
   start: 2026-11-04T21:47:00Z
   stop: 2026-11-04T21:59:00Z
   title: 'DW: Shift'
-  subtitle: ' '
+  subtitle: Emisija Deutsche Wellea donosi odgovore na pitanje kako živjeti u digitalno doba.
   description: Emisija Deutsche Wellea donosi odgovore na pitanje kako živjeti u digitalno doba.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 593288
   - 633316
@@ -1778,11 +1810,15 @@
 - eventId:
   - 625596
   - 637443
+  - 638772
   start: 2026-11-04T21:59:00Z
   stop: 2026-11-04T22:19:00Z
   title: 'Studio 4: U fokusu'
-  subtitle: ' '
+  subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 629768
   - 774172
@@ -1827,11 +1863,15 @@
 - eventId:
   - 625597
   - 637444
+  - 638773
   start: 2026-11-04T22:19:00Z
   stop: 2026-11-04T22:27:00Z
   title: Vijesti na engleskom jeziku
-  subtitle: ' '
+  subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 629771
   - 774175
@@ -1856,11 +1896,15 @@
 - eventId:
   - 625598
   - 637445
+  - 638774
   start: 2026-11-04T22:27:00Z
   stop: 2026-11-04T22:35:00Z
   title: Vijesti na španjolskom jeziku
-  subtitle: ' '
+  subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 593291
   - 629772
@@ -1876,11 +1920,15 @@
 - eventId:
   - 625599
   - 637446
+  - 638775
   start: 2026-11-04T22:35:00Z
   stop: 2026-11-04T22:50:00Z
   title: 'Studio 4: Jutarnji intervju'
-  subtitle: ' '
+  subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 593292
   - 629773
@@ -1907,11 +1955,15 @@
 - eventId:
   - 625600
   - 637447
+  - 638776
   start: 2026-11-04T22:58:00Z
   stop: 2026-11-04T23:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 593294
   - 629775
