@@ -232,27 +232,20 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 639407
-  start: 2026-11-03T20:00:00Z
-  stop: 2026-11-03T21:00:00Z
-  title: 4FUN naEKRANIE
-  description: |-
-    program muzyczny
-    Dawid Muszyński proponuje solidną dawkę najnowszych informacji dotyczących świata kina. Prowadzący opowiada o najgorętszych premierach, przedstawia relacje z filmowych wydarzeń, rozmawia z ludźmi kina oraz prezentuje serialowe nowości.
-    Od lat: 16
-  ageRating: 16
 - eventId:
+  - 639407
   - 669475
   - 670157
   - 773079
   start: 2026-11-03T20:00:00Z
   stop: 2026-11-03T21:00:00Z
   title: 4FUN na ekranie
+  description: |-
+    program muzyczny
+    Dawid Muszyński proponuje solidną dawkę najnowszych informacji dotyczących świata kina. Prowadzący opowiada o najgorętszych premierach, przedstawia relacje z filmowych wydarzeń, rozmawia z ludźmi kina oraz prezentuje serialowe nowości.
+    Od lat: 16
+  ageRating: 16
   subtitle: Program, w którym zostaną zaprezentowane najnowsze informacje ze świata kina. Prowadzący opowiada o premierach, rozmawia z zaproszonymi gośćmi oraz przedstawia relacje z filmowych wydarzeń.
-  description: |
-    Tytuł oryginalny: 4FUN na ekranie
-    PL
-  ageRating: 12
   genre:
   - '122'
 - eventId:
@@ -280,6 +273,9 @@
     Wszystkie utwory w programie mają wyświetlony tekst, by widzowie mogli rozwijać swój talent wokalny i dobrze się bawić, śpiewając.
     Od lat: 18
   ageRating: 18
+  subtitle: Program prezentuje różne utwory z wyświetlonym na ekranie tekstem, by widzowie mogli zaśpiewać swoje ulubione piosenki.
+  genre:
+  - '96'
 - eventId:
   - 669477
   - 670159
