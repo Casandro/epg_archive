@@ -3,6 +3,7 @@
   - 601375
   - 601389
   - 602562
+  - 610559
   - 626626
   - 635952
   - 738518
@@ -23,6 +24,7 @@
   - 601376
   - 601390
   - 602563
+  - 610560
   - 626627
   - 635953
   - 738519
@@ -40,6 +42,7 @@
   - 601451
   - 601523
   - 602637
+  - 610643
   - 626772
   - 636026
   - 738858
@@ -57,6 +60,7 @@
   - 601452
   - 601524
   - 602638
+  - 610644
   - 626773
   - 636027
   - 738859
@@ -73,6 +77,7 @@
   - 601453
   - 601525
   - 602639
+  - 610645
   - 626774
   - 636028
   - 738860
@@ -90,6 +95,7 @@
   - 601454
   - 601526
   - 602640
+  - 610646
   - 626775
   - 636029
   - 738861
@@ -106,6 +112,7 @@
   - 594830
   - 601639
   - 602709
+  - 607682
   - 626911
   - 636098
   start: 2026-11-16T06:55:00Z
@@ -119,6 +126,7 @@
   - 594831
   - 601640
   - 602710
+  - 607683
   - 626912
   - 636099
   start: 2026-11-16T08:00:00Z
@@ -152,6 +160,7 @@
   - 594961
   - 601596
   - 601762
+  - 607806
   - 627093
   - 636180
   - 677095
@@ -200,6 +209,12 @@
   hd: true
   audiodesc: true
   description: Vier Kandidaten müssen in Einzelrunden eine Minute lang Fragen gegen die Uhr beantworten. Pro richtige Antwort wird ihnen Geld gutgeschrieben. In Einzelduellen gegen den "Jäger" müssen sie dann ihr Geld verteidigen. Werden sie dabei von ihm eingeholt, scheiden sie aus. Wenn die Kandidaten aber gegen den "Jäger" gewinnen, retten sie sich und ihr Geld ins Finale.
+- eventId: 607807
+  start: 2026-11-16T09:50:00Z
+  stop: 2026-11-16T10:00:00Z
+  title: Eisenbahn-Romantik
+  subtitle: Mit dem Zug durch Sri Lanka
+  subtitled: true
 - eventId:
   - 549656
   - 582018
@@ -221,10 +236,17 @@
   genre:
   - '16'
   description: 'Blondine Christine Wagner ist ein echter Volltreffer, das steht für Yazid bereits nach dem ersten Date in einer Gaststätte fest. Doch mit der ewigen Liebe wird es nichts, denn Christine ist bereits kurz nach dem Rendezvous tot. Yazid findet ihre Leiche auf dem Parkplatz vor dem Lokal, in dem er seine Traumfrau traf. Als Yazid im Affekt die Tatwaffe aufhebt und mit dem Messer in der Hand gesehen wird, bleibt dem ansonsten um keine Ausrede verlegenen Schlitzohr nur die Flucht. Hubert und Staller erkennen schnell: Ihr langjähriger Kumpel hat ein ernstes Problem!'
+- eventId: 607808
+  start: 2026-11-16T10:00:00Z
+  stop: 2026-11-16T10:45:00Z
+  title: Sturm der Liebe (4673)
+  subtitle: Deutschland 2026
+  subtitled: true
 - eventId:
   - 582019
   - 599346
   - 602785
+  - 607809
   - 628359
   - 633826
   - 634204
@@ -256,11 +278,17 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 607810
+  start: 2026-11-16T11:15:00Z
+  stop: 2026-11-16T12:00:00Z
+  title: ARD-Buffet Spezial
+  subtitled: true
 - eventId:
   - 595558
   - 601658
   - 603073
   - 603248
+  - 607890
   - 627253
   - 636240
   - 739350
@@ -281,6 +309,7 @@
   - 601659
   - 603074
   - 603249
+  - 607891
   - 627254
   - 636241
   - 739351
@@ -298,6 +327,7 @@
   - 601660
   - 603075
   - 603250
+  - 607892
   - 627255
   - 636242
   - 739352
@@ -311,7 +341,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 603168
+- eventId:
+  - 603168
+  - 607983
   start: 2026-11-16T15:00:00Z
   stop: 2026-11-16T15:04:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -319,7 +351,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 603169
+- eventId:
+  - 603169
+  - 607984
   start: 2026-11-16T15:04:00Z
   stop: 2026-11-16T15:05:00Z
   title: Baden-Württemberg Wetter
@@ -327,7 +361,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 603170
+- eventId:
+  - 603170
+  - 607985
   start: 2026-11-16T15:05:00Z
   stop: 2026-11-16T16:00:00Z
   title: Kaffee oder Tee
@@ -336,7 +372,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 603171
+- eventId:
+  - 603171
+  - 607986
   start: 2026-11-16T16:00:00Z
   stop: 2026-11-16T16:05:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -349,6 +387,7 @@
   - 598370
   - 602024
   - 603172
+  - 607987
   - 627471
   - 636329
   - 739660
@@ -366,6 +405,7 @@
   - 598371
   - 602025
   - 603173
+  - 607988
   - 627472
   - 636330
   - 739661
@@ -382,6 +422,7 @@
   - 598372
   - 602026
   - 603174
+  - 607989
   - 627473
   - 636331
   - 739662
@@ -398,6 +439,7 @@
   - 598521
   - 602176
   - 603276
+  - 608136
   - 627726
   - 636433
   - 739855
@@ -414,6 +456,7 @@
   - 598522
   - 602177
   - 603277
+  - 608137
   - 627727
   - 636434
   - 739856
@@ -430,6 +473,7 @@
   - 598523
   - 602178
   - 603278
+  - 608138
   - 627728
   - 636435
   - 739857
@@ -448,11 +492,19 @@
   - 549533
   - 569320
   - 580227
+  - 597650
+  - 598524
   - 599144
+  - 602179
   - 603279
+  - 608139
+  - 627729
   - 628286
   - 633662
+  - 636436
+  - 739858
   - 818039
+  - 932700
   start: 2026-11-16T19:15:00Z
   stop: 2026-11-16T20:00:00Z
   title: Lecker aufs Land - Kulinarische Schätze (6)
@@ -465,31 +517,23 @@
   - '144'
   description: Die Eisenbahn in Ecuador erfährt eine Renaissance. Präsident Rafael Correa hat die Eisenbahn zum Symbol der nationalen Einheit erklärt. Seit ein paar Jahren ist die Hauptstrecke zwischen der Küstenstadt Guayaquil und der Hauptstadt Quito wieder in Betrieb, ein Grund dieses ferne, südamerikanische Land mit dem Zug zu entdecken.
 - eventId:
-  - 597650
-  - 598524
-  - 602179
-  - 627729
-  - 636436
-  - 739858
-  - 932700
-  start: 2026-11-16T19:15:00Z
-  stop: 2026-11-16T20:00:00Z
-  title: Lecker aufs Land - Kulinarische Schätze (6)
-  subtitle: Aus Mittelfranken
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
   - 1590566
   - 549534
   - 569321
   - 580228
+  - 597651
+  - 598525
   - 599145
+  - 602180
   - 603280
+  - 608140
+  - 627730
   - 628287
   - 633663
+  - 636437
+  - 739859
   - 818040
+  - 932701
   start: 2026-11-16T20:00:00Z
   stop: 2026-11-16T20:45:00Z
   title: Das Ordnungsamt - Klemmbrett statt Knarre
@@ -500,28 +544,13 @@
   audiodesc: true
   description: Massimos Vater Alexander taucht überraschend am "Fürstenhof" auf. Olivia wirft Emilia vor, ihre Ausbildung nicht ernst zu nehmen. Erik entschließt sich stressbedingt, Emilia als DJ für die Cluberöffnung zu engagieren.
 - eventId:
-  - 597651
-  - 598525
-  - 602180
-  - 627730
-  - 636437
-  - 739859
-  - 932701
-  start: 2026-11-16T20:00:00Z
-  stop: 2026-11-16T20:45:00Z
-  title: Das Ordnungsamt - Klemmbrett statt Knarre
-  subtitle: Ein Fall für Mannheims City-Cops
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
   - 1590567
   - 549535
   - 569322
   - 580229
   - 599146
   - 603281
+  - 608141
   - 628288
   - 633664
   - 818041
@@ -547,6 +576,7 @@
   - 598602
   - 602306
   - 603362
+  - 608240
   - 627893
   - 633364
   - 739991
@@ -564,6 +594,7 @@
   - 598603
   - 602307
   - 603363
+  - 608241
   - 627894
   - 633365
   - 739992
@@ -581,6 +612,7 @@
   - 598604
   - 602308
   - 603364
+  - 608242
   - 627895
   - 633366
   - 739993
@@ -597,6 +629,7 @@
   - 598605
   - 602309
   - 603365
+  - 608243
   - 627896
   - 633367
   - 739994

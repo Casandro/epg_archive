@@ -2,6 +2,7 @@
   - 1008460
   - 600761
   - 601561
+  - 609746
   - 624684
   - 629346
   - 635339
@@ -19,6 +20,7 @@
   - 1008461
   - 600762
   - 601562
+  - 609747
   - 624685
   - 629347
   - 635340
@@ -31,7 +33,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 601716
+- eventId:
+  - 601716
+  - 609824
   start: 2026-11-19T03:25:00Z
   stop: 2026-11-19T04:05:00Z
   title: aktueller bericht
@@ -43,6 +47,7 @@
   - 1008477
   - 600831
   - 601717
+  - 609825
   - 624761
   - 629416
   - 635404
@@ -58,6 +63,7 @@
   - 1008478
   - 600832
   - 601718
+  - 609826
   - 624762
   - 629417
   - 635405
@@ -73,6 +79,7 @@
   - 1008479
   - 600833
   - 601719
+  - 609827
   - 624763
   - 629418
   - 635406
@@ -85,7 +92,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 601872
+- eventId:
+  - 601872
+  - 609913
   start: 2026-11-19T06:55:00Z
   stop: 2026-11-19T08:00:00Z
   title: Panoramablick
@@ -93,7 +102,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 601873
+- eventId:
+  - 601873
+  - 609914
   start: 2026-11-19T08:00:00Z
   stop: 2026-11-19T09:20:00Z
   title: Landesschau Baden-Württemberg
@@ -103,26 +114,18 @@
   audiodesc: true
 - eventId:
   - 1008504
-  - 600979
-  - 624978
-  - 629816
-  - 635555
-  - 689856
-  start: 2026-11-19T09:20:00Z
-  stop: 2026-11-19T09:50:00Z
-  title: Eisenbahn-Romantik (915)
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  subtitle: Die Straßenbahnen von Thuin
-- eventId:
   - 566233
   - 571042
   - 598333
+  - 600979
   - 602009
+  - 610034
+  - 624978
   - 627441
+  - 629816
   - 633321
+  - 635555
+  - 689856
   - 705264
   - 902769
   start: 2026-11-19T09:20:00Z
@@ -136,6 +139,7 @@
 - eventId:
   - 1008505
   - 600980
+  - 610035
   - 624979
   - 629817
   - 635556
@@ -168,95 +172,69 @@
   subtitle: Deutschland 2026
 - eventId:
   - 1008506
-  - 600981
-  - 624980
-  - 629818
-  - 635557
-  - 689858
-  start: 2026-11-19T10:40:00Z
-  stop: 2026-11-19T11:10:00Z
-  title: aktiv und gesund
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  subtitle: Säuren und Basen / Heilwasser / Bungee Fitness / Massagepistolen / Venenschwäche und Krampfadern
-- eventId:
   - 566235
   - 571044
   - 598335
+  - 600981
   - 602011
+  - 610036
+  - 624980
   - 627443
+  - 629818
   - 633323
+  - 635557
+  - 689858
   - 705266
   - 902771
   start: 2026-11-19T10:40:00Z
   stop: 2026-11-19T11:10:00Z
   title: aktiv und gesund
-  subtitle: Säuren und Basen / Heilwasser / Bungee Fitness / Massagepistolen / Venenschwäche und Krampfadern
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Säuren und Basen / Heilwasser / Bungee Fitness / Massagepistolen / Venenschwäche und Krampfadern
   description: 'Die Austs sind ein klassischer Familienbetrieb: In Beutelsbach bei Passau fertigen sie unter dem Namen "Waco" seit 1993 Lederkombis für Motorradfahrer:innen. Alles Unikate in Maßarbeit.'
 - eventId:
   - 1008507
-  - 600982
-  - 624981
-  - 629819
-  - 635558
-  - 689859
-  start: 2026-11-19T11:10:00Z
-  stop: 2026-11-19T11:55:00Z
-  title: ARD-Buffet Spezial
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
   - 566236
   - 571045
   - 598336
+  - 600982
   - 602012
+  - 610037
+  - 624981
   - 627444
+  - 629819
   - 633324
+  - 635558
+  - 689859
   - 705267
   - 902772
   start: 2026-11-19T11:10:00Z
   stop: 2026-11-19T11:55:00Z
   title: ARD-Buffet Spezial
-  subtitle: 'Raus bei jedem Wetter: Eisbaden, Kneippen und Wintercamping'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: 'Raus bei jedem Wetter: Eisbaden, Kneippen und Wintercamping'
   description: Wassertreten in Koblenz, Heilklimawandern im Schwarzwald oder Eisbaden im Glan zeigen, wie Kältereize Körper und Wohlbefinden herausfordern und anregen können. Wer es von innen wärmer mag, setzt auf ayurvedische Gewürze. Beim Camping auf der Schwäbischen Alb erlebt man, wie man auch ohne festes Dach über dem Kopf bei niedrigen Temperaturen sehr gut gelaunt bleiben kann.
 - eventId:
   - 1008508
-  - 600983
-  - 624982
-  - 629820
-  - 635559
-  - 689860
-  start: 2026-11-19T11:55:00Z
-  stop: 2026-11-19T13:25:00Z
-  title: Karla, Rosalie und das Loch in der Wand
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  subtitle: Spielfilm Deutschland 2022
-  ageRating: 6
-  genre:
-  - '16'
-- eventId:
   - 1009741
   - 552531
   - 595641
   - 598348
+  - 600983
   - 602013
+  - 610038
+  - 624982
   - 627456
+  - 629820
+  - 635559
   - 636318
+  - 689860
   - 819082
   start: 2026-11-19T11:55:00Z
   stop: 2026-11-19T13:25:00Z
@@ -273,6 +251,7 @@
   - 1008518
   - 601040
   - 602089
+  - 610121
   - 625067
   - 629618
   - 635622
@@ -289,6 +268,7 @@
   - 1008519
   - 601041
   - 602090
+  - 610122
   - 625068
   - 629619
   - 635623
@@ -302,7 +282,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 602197
+- eventId:
+  - 602197
+  - 610242
   start: 2026-11-19T15:00:00Z
   stop: 2026-11-19T15:04:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -310,7 +292,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 602198
+- eventId:
+  - 602198
+  - 610243
   start: 2026-11-19T15:04:00Z
   stop: 2026-11-19T15:05:00Z
   title: Baden-Württemberg Wetter
@@ -318,7 +302,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 602199
+- eventId:
+  - 602199
+  - 610244
   start: 2026-11-19T15:05:00Z
   stop: 2026-11-19T16:00:00Z
   title: Kaffee oder Tee
@@ -327,7 +313,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 602200
+- eventId:
+  - 602200
+  - 610245
   start: 2026-11-19T16:00:00Z
   stop: 2026-11-19T16:05:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -335,7 +323,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 602201
+- eventId:
+  - 602201
+  - 610246
   start: 2026-11-19T16:05:00Z
   stop: 2026-11-19T17:00:00Z
   title: Kaffee oder Tee
@@ -344,7 +334,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 602202
+- eventId:
+  - 602202
+  - 610247
   start: 2026-11-19T17:00:00Z
   stop: 2026-11-19T17:10:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -352,7 +344,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 602203
+- eventId:
+  - 602203
+  - 610248
   start: 2026-11-19T17:10:00Z
   stop: 2026-11-19T18:30:00Z
   title: Landesschau Baden-Württemberg
@@ -365,6 +359,7 @@
   - 592156
   - 601244
   - 602379
+  - 610361
   - 626421
   - 635807
   - 691528
@@ -380,6 +375,7 @@
   - 592157
   - 601245
   - 602380
+  - 610362
   - 626422
   - 635808
   - 691529
@@ -395,6 +391,7 @@
   - 592158
   - 601246
   - 602381
+  - 610363
   - 626423
   - 635809
   - 691530
@@ -412,6 +409,7 @@
   - 592159
   - 601247
   - 602382
+  - 610364
   - 626424
   - 635810
   - 691531
@@ -423,7 +421,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 602383
+- eventId:
+  - 602383
+  - 610365
   start: 2026-11-19T20:00:00Z
   stop: 2026-11-19T20:45:00Z
   title: Wie extrem wird das Wetter, Sven Plöger?
@@ -432,7 +432,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 602384
+- eventId:
+  - 602384
+  - 610366
   start: 2026-11-19T20:45:00Z
   stop: 2026-11-19T21:00:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -443,39 +445,32 @@
 - eventId:
   - 1008617
   - 592535
-  - 601314
-  - 626511
-  - 635877
-  - 691573
-  start: 2026-11-19T21:00:00Z
-  stop: 2026-11-19T21:45:00Z
-  title: Watzmann ermittelt (59)
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  subtitle: Ellis Schützling
-- eventId:
   - 598831
+  - 601314
   - 602493
+  - 610480
   - 624144
+  - 626511
   - 628158
   - 633698
   - 635113
+  - 635877
+  - 691573
   - 848661
   start: 2026-11-19T21:00:00Z
   stop: 2026-11-19T21:45:00Z
   title: Watzmann ermittelt (59)
-  subtitle: Ellis Schützling
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Ellis Schützling
 - eventId:
   - 1008618
   - 592536
   - 601315
   - 602494
+  - 610481
   - 626512
   - 635878
   - 691574
@@ -492,6 +487,7 @@
   - 592537
   - 601316
   - 602495
+  - 610482
   - 626513
   - 635879
   - 691575
@@ -507,6 +503,7 @@
   - 592538
   - 601317
   - 602496
+  - 610483
   - 626514
   - 635880
   - 691576

@@ -1,6 +1,7 @@
 - eventId:
   - 539913
   - 543797
+  - 611560
   - 621346
   start: 2026-11-09T05:00:00Z
   stop: 2026-11-09T05:05:00Z
@@ -22,6 +23,7 @@
 - eventId:
   - 539914
   - 543798
+  - 611561
   - 621347
   start: 2026-11-09T05:05:00Z
   stop: 2026-11-09T05:10:00Z
@@ -46,6 +48,7 @@
 - eventId:
   - 539915
   - 543799
+  - 611562
   - 621348
   start: 2026-11-09T05:10:00Z
   stop: 2026-11-09T05:20:00Z
@@ -70,6 +73,7 @@
 - eventId:
   - 539916
   - 543800
+  - 611563
   - 621349
   start: 2026-11-09T05:20:00Z
   stop: 2026-11-09T05:25:00Z
@@ -95,6 +99,7 @@
   audiodesc: true
 - eventId:
   - 539917
+  - 611569
   - 621427
   start: 2026-11-09T05:25:00Z
   stop: 2026-11-09T05:30:00Z
@@ -147,6 +152,7 @@
     HD-Produktion
 - eventId:
   - 539918
+  - 611570
   - 621428
   start: 2026-11-09T05:30:00Z
   stop: 2026-11-09T05:35:00Z
@@ -198,6 +204,7 @@
   - 558707
   - 585283
   - 585906
+  - 611571
   - 621429
   - 818368
   - 819974
@@ -235,6 +242,7 @@
   - 558708
   - 585284
   - 585907
+  - 611572
   - 621430
   - 818369
   - 819975
@@ -269,6 +277,7 @@
   - 558709
   - 585285
   - 585908
+  - 611577
   - 621435
   - 818370
   - 819976
@@ -306,6 +315,7 @@
   - 584918
   - 589981
   - 608924
+  - 611593
   - 621441
   - 931002
   - 932903
@@ -348,6 +358,7 @@
   - 584919
   - 589982
   - 608925
+  - 611594
   - 621442
   - 931003
   - 932904
@@ -389,6 +400,7 @@
   - 584920
   - 589983
   - 608926
+  - 611595
   - 621443
   - 931004
   - 932905
@@ -499,6 +511,7 @@
   - 569851
   - 584921
   - 589984
+  - 611596
   - 621444
   - 931005
   - 932906
@@ -561,41 +574,23 @@
 - eventId:
   - 539937
   - 548494
-  - 569840
-  - 585931
-  - 589726
-  - 620281
-  - 848164
-  - 851803
-  start: 2026-11-09T07:10:00Z
-  stop: 2026-11-09T07:20:00Z
-  title: Lieselotte
-  genre:
-  - '80'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: |-
-    Nachrichten für Kinder
-
-    Du willst wissen, was in der Welt los ist und super gut informiert sein? Dann: "Hallo bei logo!", den Nachrichten bei KiKA extra für dich, präsentiert von den Moderatoren Lotte, Linda, Maral und Sherif.
-
-    Deutschlands einzige tägliche Nachrichtensendung für Kinder zeigt Aktuelles, Hintergrundinformationen und Themen aus der Welt der Kinder und Jugendlichen - verständlich und unterhaltsam.
-    HD-Produktion
-  subtitle: Lieselotte und das Hosenunglück
-- eventId:
   - 553426
+  - 569840
   - 569852
   - 584922
+  - 585931
+  - 589726
   - 589985
+  - 611619
+  - 620281
   - 621448
+  - 848164
+  - 851803
   - 931006
   - 932907
   start: 2026-11-09T07:10:00Z
   stop: 2026-11-09T07:20:00Z
   title: Lieselotte
-  subtitle: Lieselotte und das Hosenunglück
   genre:
   - '80'
   widescreen: true
@@ -610,6 +605,7 @@
     Buch/Autor: Martin Lickleder, Claudia Kaiser, Lisa Clodt
     Musik: Leonhard Schwarz
     HD-Produktion
+  subtitle: Lieselotte und das Hosenunglück
 - eventId:
   - 1625465
   - 1630347
@@ -675,6 +671,7 @@
   - 569853
   - 584923
   - 589986
+  - 611620
   - 621449
   - 931007
   - 932908
@@ -699,12 +696,21 @@
 - eventId:
   - 1625466
   - 1630348
+  - 539939
   - 543939
+  - 548496
   - 555920
+  - 569842
   - 580860
   - 584020
+  - 585933
+  - 589728
   - 608930
+  - 611621
+  - 620283
   - 621450
+  - 848166
+  - 851805
   start: 2026-11-09T07:24:00Z
   stop: 2026-11-09T07:25:00Z
   title: Kikaninchen Schnipselwelt
@@ -730,25 +736,6 @@
     Musik: Saxophonist Eddy Lopez, Trompeter Guillaume Jehl
     HD-Produktion
 - eventId:
-  - 539939
-  - 548496
-  - 569842
-  - 585933
-  - 589728
-  - 620283
-  - 848166
-  - 851805
-  start: 2026-11-09T07:24:00Z
-  stop: 2026-11-09T07:25:00Z
-  title: Kikaninchen Schnipselwelt
-  genre:
-  - '80'
-  widescreen: true
-  hd: true
-  audiodesc: true
-  description: Zwischen 21 Uhr und 6 Uhr legt KiKA eine Sendepause ein!
-  subtitle: Aus einem Kreisel wird ein Vogelnest
-- eventId:
   - 1625467
   - 1630349
   - 539940
@@ -757,6 +744,7 @@
   - 581034
   - 584055
   - 608931
+  - 611622
   - 621451
   start: 2026-11-09T07:25:00Z
   stop: 2026-11-09T07:35:00Z
@@ -785,6 +773,7 @@
   - 581035
   - 584056
   - 608932
+  - 611669
   - 621456
   start: 2026-11-09T07:35:00Z
   stop: 2026-11-09T07:45:00Z
@@ -838,6 +827,7 @@
     HD-Produktion
 - eventId:
   - 539942
+  - 611670
   - 621457
   start: 2026-11-09T07:45:00Z
   stop: 2026-11-09T08:00:00Z
@@ -864,6 +854,7 @@
   - 581037
   - 584058
   - 608934
+  - 611671
   - 621458
   start: 2026-11-09T08:00:00Z
   stop: 2026-11-09T08:10:00Z
@@ -898,6 +889,7 @@
   - 581038
   - 584059
   - 608935
+  - 611672
   - 621459
   start: 2026-11-09T08:10:00Z
   stop: 2026-11-09T08:14:00Z
@@ -930,6 +922,7 @@
   - 581043
   - 584060
   - 608936
+  - 611673
   - 621460
   start: 2026-11-09T08:14:00Z
   stop: 2026-11-09T08:15:00Z
@@ -952,6 +945,7 @@
 - eventId:
   - 539946
   - 543946
+  - 611723
   - 621514
   start: 2026-11-09T08:15:00Z
   stop: 2026-11-09T08:25:00Z
@@ -975,6 +969,7 @@
 - eventId:
   - 539947
   - 543947
+  - 611724
   - 621515
   start: 2026-11-09T08:25:00Z
   stop: 2026-11-09T08:35:00Z
@@ -1003,6 +998,7 @@
 - eventId:
   - 539948
   - 543948
+  - 611725
   - 621516
   start: 2026-11-09T08:35:00Z
   stop: 2026-11-09T08:50:00Z
@@ -1032,6 +1028,7 @@
 - eventId:
   - 539949
   - 543949
+  - 611730
   - 621549
   start: 2026-11-09T08:50:00Z
   stop: 2026-11-09T09:00:00Z
@@ -1065,6 +1062,7 @@
   - 544564
   - 581822
   - 585205
+  - 611736
   - 621575
   - 931359
   - 932924
@@ -1100,6 +1098,7 @@
   - 544565
   - 581823
   - 585206
+  - 611737
   - 621576
   - 931360
   - 932925
@@ -1127,6 +1126,7 @@
   - 544566
   - 581824
   - 585207
+  - 611738
   - 621577
   - 931361
   - 932926
@@ -1153,6 +1153,7 @@
   - 543980
   - 581825
   - 585208
+  - 611739
   - 621578
   - 931362
   - 932927
@@ -1252,6 +1253,7 @@
   - 543981
   - 581826
   - 585209
+  - 611753
   - 621579
   - 931363
   - 932928
@@ -1325,6 +1327,7 @@
   - 581827
   - 584211
   - 585210
+  - 611754
   - 621580
   - 676661
   - 677197
@@ -1355,6 +1358,7 @@
   - 542276
   - 581828
   - 585211
+  - 611755
   - 621581
   - 931365
   - 932930
@@ -1444,6 +1448,7 @@
   - 542277
   - 581829
   - 585212
+  - 611756
   - 621582
   - 931366
   - 932931
@@ -1527,9 +1532,17 @@
 - eventId:
   - 540718
   - 542278
+  - 544572
+  - 550995
+  - 581516
   - 581830
+  - 584196
   - 585213
+  - 611757
   - 621583
+  - 621662
+  - 787750
+  - 790796
   - 931367
   - 932932
   start: 2026-11-09T10:15:00Z
@@ -1543,14 +1556,20 @@
   hd: true
   audiodesc: true
   description: |-
-    Lina Lehrertochter
+    Das Männerding
 
-    Bohnenstange und ihre Klasse haben unverschämt viele Hausaufgaben auf. Dann noch der blöde Test in Geschichte. Alle sind sauer und lassen ihren Frust wieder einmal an der armen Lina aus.
-
-    Auch wenn Lina, als Tochter des Dorfschullehrers, solche Anfeindungen schon kennt, geht es ihr diesmal zu weit. Sie will allen zeigen, dass sie nicht die brave Streberin ist, sondern eine von ihnen. Als Beweis wird sie der Klasse die Fragen des morgigen Tests besorgen.
-    Regie: Romain Borrel
-    Buch/Autor: Franck Samuel, Pierre Coré
-    Musik: Pierre Desprats
+    Zwecks Male-Bonding-Erfahrung machen Jan und Kees sich fertig zum Karpfenfischen. Nur die Jungs, ohne Floor, denn Karpfenfischen ist ein Männerding. Das kann Floor natürlich nicht auf sich sitzen lassen und lernt erst mal alles über Karpfen. Irma findet schließlich auch, dass Floor auf jeden Fall mit soll zum Karpfenfischen. Natürlich macht Floor einen dicken Fang. Zeit für Jan und Kees, sich ein neues gemeinsames Hobby zu suchen.
+    Darsteller:
+    Irma - Elisa Beuger
+    Kees - Ole Kroes
+    Floor - Bobbie Mulder
+    Jan - Ferdi Stofmeel
+    Margreet - Romy Voll
+    Juf Marja - Dunya Khayame
+    Regie: Maurice Trouwborst
+    Buch/Autor: Anne Barnhoorn, Don Duyns, Marjon Hoffman, Lotte Tabbers, Maurice Trouwborst, Daan Windhorst, Luk va
+    Kamera: Diderik Evers
+    Musik: Alexander Reumers
     HD-Produktion
 - eventId:
   - 543985
@@ -1578,40 +1597,6 @@
     Regie: Andreas Hykade
     Buch/Autor: Andreas Hykade
 
-    HD-Produktion
-- eventId:
-  - 544572
-  - 550995
-  - 581516
-  - 584196
-  - 621662
-  - 787750
-  - 790796
-  start: 2026-11-09T10:15:00Z
-  stop: 2026-11-09T10:30:00Z
-  title: Wir sind die Dorfbande
-  subtitle: Lina Lehrertochter
-  genre:
-  - '80'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: |-
-    Das Männerding
-
-    Zwecks Male-Bonding-Erfahrung machen Jan und Kees sich fertig zum Karpfenfischen. Nur die Jungs, ohne Floor, denn Karpfenfischen ist ein Männerding. Das kann Floor natürlich nicht auf sich sitzen lassen und lernt erst mal alles über Karpfen. Irma findet schließlich auch, dass Floor auf jeden Fall mit soll zum Karpfenfischen. Natürlich macht Floor einen dicken Fang. Zeit für Jan und Kees, sich ein neues gemeinsames Hobby zu suchen.
-    Darsteller:
-    Irma - Elisa Beuger
-    Kees - Ole Kroes
-    Floor - Bobbie Mulder
-    Jan - Ferdi Stofmeel
-    Margreet - Romy Voll
-    Juf Marja - Dunya Khayame
-    Regie: Maurice Trouwborst
-    Buch/Autor: Anne Barnhoorn, Don Duyns, Marjon Hoffman, Lotte Tabbers, Maurice Trouwborst, Daan Windhorst, Luk va
-    Kamera: Diderik Evers
-    Musik: Alexander Reumers
     HD-Produktion
 - eventId:
   - 1452554
@@ -1662,6 +1647,7 @@
   - 581831
   - 584215
   - 585214
+  - 611763
   - 621584
   - 676665
   - 677201
@@ -1697,6 +1683,7 @@
   - 581832
   - 584216
   - 585215
+  - 611764
   - 621585
   - 676666
   - 677202
@@ -1806,6 +1793,7 @@
   - 542281
   - 581833
   - 585216
+  - 611765
   - 621586
   - 931370
   - 932935
@@ -1912,6 +1900,7 @@
   - 542282
   - 581834
   - 585217
+  - 611766
   - 621587
   - 931371
   - 932936
@@ -1956,9 +1945,17 @@
 - eventId:
   - 540723
   - 542283
+  - 544577
+  - 551000
+  - 581521
   - 581835
+  - 584201
   - 585218
+  - 611772
   - 621588
+  - 621676
+  - 787755
+  - 790801
   - 931372
   - 932937
   start: 2026-11-09T11:15:00Z
@@ -2000,40 +1997,13 @@
   audiodesc: true
   description: "Super Edgar und die Riesennuss\n\nBernhard, das Eichhörnchen, hat Geburtstag. Und er ist überzeugt, dass für ihn riesige Haselnüsse vom Himmel fallen werden! Edgar, das Karibu, und Magnus, der Elefant, versuchen, ihn zu überreden. Doch Bernhard lässt sich nicht beirren, zumal er eine kleine Zauberformel hat, mit der die riesigen Haselnüsse erscheinen: Eins, zwei, drei, Nuss!\nDarsteller:\nSuper-Edgar - Robert Knorr\nMagnus - Daniel Welbat\nBernhard - Patrick Bach\nHenrietta - Arlette Stanschus\nRudi - Toni Sattler\nKatja - Manuela Eifrig\nRegie: Mathieu Auvray, Pauline Pinson\nBuch/Autor: Léonie De Rudder, Héloïse Capoccia, Marie De Banville, Chloé Sastre, Malika Delaroche, Maël Le Mee, \n\nHD-Produktion"
 - eventId:
-  - 544577
-  - 551000
-  - 581521
-  - 584201
-  - 621676
-  - 787755
-  - 790801
-  start: 2026-11-09T11:15:00Z
-  stop: 2026-11-09T11:25:00Z
-  title: Wir sind die Dorfbande
-  subtitle: Samson, der edle Ritter
-  genre:
-  - '80'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: |-
-    Der Ausreißer
-
-    Zoés Mutter bittet die Kinder, auf ein Hirschkalb aufzupassen, da sie weg muss. Als sie jedoch mit dem Kleinen herumtollen, reißt er aus. Sie müssen das Kalb unbedingt wieder einfangen.
-
-    Denn es ist für medizinische Untersuchungen wichtig. Es ist das einzige nicht erkrankte Tier in der Region. Nur dieses Kleine kann Aufschluss über die Krankheit geben. Zum Glück gelingt es Lassie, das Hirschkalb aufzuspüren. Und noch dazu die Lösung des Problems.
-    Regie: Jean-Christophe Roger
-    Buch/Autor: Jill Brett, Natalie Altmann, Valerié Baranski, andere
-
-    HD-Produktion
-- eventId:
   - 540724
   - 542284
   - 543991
   - 544578
   - 581836
   - 585219
+  - 611773
   - 621594
   - 931373
   - 932938
@@ -2067,6 +2037,7 @@
   - 544579
   - 581837
   - 585220
+  - 611774
   - 621595
   - 931374
   - 932939
@@ -2093,33 +2064,12 @@
     HD-Produktion
 - eventId:
   - 544305
-  - 621601
-  start: 2026-11-09T12:05:00Z
-  stop: 2026-11-09T12:15:00Z
-  title: Super Happy Magic Forest
-  subtitle: Der Schnickschnack-Zauber
-  genre:
-  - '80'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: |-
-    Animationsserie, Großbritannien 2024
-    Der Schnickschnack-Zauber
-
-    Balthasar der Fabelhafte verzaubert die Waldbewohner in Schnickschnack, mit dem er seine Höhle dekoriert. Die Helden sollen Balthasar aufhalten und die Dekogegenstände wieder zurückverwandeln.
-
-    Herbert, der sich seinen Freunden vorher als Bühnen-Magier "Herbert der Mysteriöse" vorgestellt hat, wird von Balthasar in eine Lampe verwandelt. In der Höhle von Balthasar nutzen die Helden Herberts schlechte Zaubershow, um den Zauberer abzulenken.
-    Regie: Ruth Ducker
-    Buch/Autor: Alex Collier, Ciaran Murthag, Andrew Barnett Jones
-    Musik: Andy Mellon, John Greswell
-    HD-Produktion
-- eventId:
   - 544588
   - 551426
   - 581529
   - 584396
+  - 611786
+  - 621601
   - 621688
   - 787769
   - 790809
@@ -2130,6 +2080,7 @@
   genre:
   - '80'
   widescreen: true
+  subtitled: true
   hd: true
   audiodesc: true
   description: |-
@@ -2140,7 +2091,6 @@
     Buch/Autor: Julien Magnat, Mark Evanier
     Musik: Laurent Bertrand, Jean-Christophe Prudhomme
     HD-Produktion
-  subtitled: true
 - eventId:
   - 561109
   - 585369
@@ -2190,6 +2140,7 @@
   subtitled: true
 - eventId:
   - 544306
+  - 611787
   - 621602
   start: 2026-11-09T12:15:00Z
   stop: 2026-11-09T12:30:00Z
@@ -2267,6 +2218,7 @@
   subtitled: true
 - eventId:
   - 544307
+  - 611788
   - 621603
   start: 2026-11-09T12:30:00Z
   stop: 2026-11-09T12:40:00Z
@@ -2297,38 +2249,12 @@
     HD-Produktion
 - eventId:
   - 544308
-  - 621604
-  start: 2026-11-09T12:40:00Z
-  stop: 2026-11-09T12:50:00Z
-  title: Die Regeln von Floor
-  subtitle: Das Bild
-  genre:
-  - '80'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: |-
-    Das Bild
-
-    Irmas reiche Großtante Nonkie kommt unerwartet zu Besuch. Natürlich muss das scheußliche Bild, dass sie Irma vermacht hat, an der Wand hängen, wenn sie kommt. Leider ist das Bild irreparabel beschädigt. Jetzt muss schnell ein Ersatz gefunden werden, sonst ist nachher noch das Erbe in Gefahr...
-    Darsteller:
-    Irma - Elisa Beuger
-    Kees - Ole Kroes
-    Floor - Bobbie Mulder
-    Jan - Ferdi Stofmeel
-    Margreet - Romy Voll
-    Juf Marja - Dunya Khayame
-    Regie: Maurice Trouwborst
-    Buch/Autor: Anne Barnhoorn, Don Duyns, Marjon Hoffman, Lotte Tabbers, Maurice Trouwborst, Daan Windhorst, Luk va
-    Kamera: Diderik Evers
-    Musik: Alexander Reumers
-    HD-Produktion
-- eventId:
   - 544591
   - 551429
   - 581532
   - 584399
+  - 611789
+  - 621604
   - 621691
   - 787772
   - 790812
@@ -2359,38 +2285,12 @@
     HD-Produktion
 - eventId:
   - 544309
-  - 621605
-  start: 2026-11-09T12:50:00Z
-  stop: 2026-11-09T13:00:00Z
-  title: Die Regeln von Floor
-  subtitle: Heimweh
-  genre:
-  - '80'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: |-
-    Heimweh
-
-    Floor hat Besuch von Hannah, die aber mitten in der Nacht nachhause gebracht wird, weil sie ihre Mutter vermisst hat. Floor findet das doof und will jetzt beweisen, dass sie eine Nacht sehr gut ohne Heimweh übersteht. Leider ist dieses Wochenende nur bei der seltsamen Daphne ein Plätzchen frei...
-    Darsteller:
-    Irma - Elisa Beuger
-    Kees - Ole Kroes
-    Floor - Bobbie Mulder
-    Jan - Ferdi Stofmeel
-    Margreet - Romy Voll
-    Juf Marja - Dunya Khayame
-    Regie: Maurice Trouwborst
-    Buch/Autor: Anne Barnhoorn, Don Duyns, Marjon Hoffman, Lotte Tabbers, Maurice Trouwborst, Daan Windhorst, Luk va
-    Kamera: Diderik Evers
-    Musik: Alexander Reumers
-    HD-Produktion
-- eventId:
   - 544592
   - 551430
   - 581533
   - 584400
+  - 611862
+  - 621605
   - 621692
   - 787773
   - 790813
@@ -2420,7 +2320,15 @@
     HD-Produktion
 - eventId:
   - 544310
+  - 544593
+  - 551431
+  - 581534
+  - 584401
+  - 611863
   - 621606
+  - 621699
+  - 787774
+  - 790814
   start: 2026-11-09T13:00:00Z
   stop: 2026-11-09T13:10:00Z
   title: Milas Mission
@@ -2451,44 +2359,20 @@
     Musik: Brian Clifton
     HD-Produktion
 - eventId:
-  - 544593
-  - 551431
-  - 581534
-  - 584401
-  - 621699
-  - 787774
-  - 790814
-  start: 2026-11-09T13:00:00Z
-  stop: 2026-11-09T13:10:00Z
-  title: Milas Mission
-  subtitle: 'Schritt eins: Der erste Eindruck'
-  genre:
-  - '80'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: |-
-    3D-CGI-Animationsserie, Irland 2022
-    Schlafwandelnd ins Chaos
-
-    Eines Morgens häufen sich die Notrufe bei der Coop Troop, weil zahlreiche Tiere an ihnen unbekannten Schlafplätzen aufgewacht sind: Esther in Frida und Freds Goldfischglas, diese wiederum in der Teekanne, Reggie in Britney und Christinas Vogelkäfig und Prinz in Alberts Hamsterkäfig. Mitten im Einsatz taucht ein schlafwandelnder Cornelius auf, mit Albert in seinem geöffneten Maul.
-    Darsteller:
-    Flo - Freya Trampert
-    Maggie - Elise Eikermann
-    Clive - Tetje Mierendorf
-    Billy - Carlotta Pahl
-    Regie: Christelle Naga
-    Buch/Autor: Amy Serafin, Peter Saisselin
-    Musik: Saxophonist Eddy Lopez, Trompeter Guillaume Jehl
-    HD-Produktion
-- eventId:
   - 544311
+  - 544594
+  - 551432
+  - 581535
+  - 584402
+  - 611864
   - 621607
+  - 621700
+  - 787775
+  - 790815
   start: 2026-11-09T13:10:00Z
   stop: 2026-11-09T13:35:00Z
   title: Schloss Einstein - Erfurt
-  subtitle: Alles unfair
+  subtitle: Der verlorene Ring
   genre:
   - '80'
   widescreen: true
@@ -2512,38 +2396,18 @@
     Musik: Uli Beck
     HD-Produktion
 - eventId:
-  - 544594
-  - 551432
-  - 581535
-  - 584402
-  - 621700
-  - 787775
-  - 790815
-  start: 2026-11-09T13:10:00Z
-  stop: 2026-11-09T13:35:00Z
-  title: Schloss Einstein - Erfurt
-  subtitle: Der verlorene Ring
-  genre:
-  - '80'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: |-
-    Der verlorene Ring
-
-    Die Mutter von Lea und Luis hat ihren Ring verloren! Nun will sie Petronellas ganzen Garten umgraben, um ihn wiederzufinden. Da hat Petronella selbstverständlich etwas dagegen.
-
-    Wo könnte der Ring sein? Der erste Verdacht fällt auf Nisse, der sonst auch alles mopst. Aber der miesepetrige Schrat Dornwald hat den Ring gefunden und will seine "Krone" nicht mehr hergeben! Nisse, der gut mopsen kann, könnte genau der Richtige sein.
-    Regie: Emilie Rimetz
-    Buch/Autor: John Chambers, Silja Clemens, Eckart Fingberg, Katja Grübel, Sarah M. Kempen, Barbara Miersch, Katha
-
-    HD-Produktion
-- eventId:
   - 544312
   - 544454
+  - 544595
+  - 551433
+  - 581536
+  - 584403
   - 585376
+  - 611894
   - 621608
+  - 621701
+  - 787776
+  - 790816
   start: 2026-11-09T13:35:00Z
   stop: 2026-11-09T14:00:00Z
   title: Schloss Einstein - Erfurt
@@ -2571,37 +2435,10 @@
     Musik: Uli Beck
     HD-Produktion
 - eventId:
-  - 544595
-  - 551433
-  - 581536
-  - 584403
-  - 621701
-  - 787776
-  - 790816
-  start: 2026-11-09T13:35:00Z
-  stop: 2026-11-09T14:00:00Z
-  title: Schloss Einstein - Erfurt
-  subtitle: In die falsche Richtung
-  genre:
-  - '80'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: |-
-    Die Doppelgängerin
-
-    Petronella hat so viel zu tun, dass sie sich kurzerhand mit einem Zauberspruch verdoppelt. Ihre Doppelgängerin soll ihr bei der Arbeit helfen. Aber die hat andere Pläne.
-
-    Die Doppelgängerin will sich nichts von Petronella sagen lassen. So kommt es zum Streit. Und ein Streit zwischen zwei Hexen wird traditionell mit einem Wettkampf gelöst. Wer gewinnt, bekommt die Aufsicht über den Garten. Petronella sollte also nicht verlieren...
-    Regie: Emilie Rimetz
-    Buch/Autor: John Chambers, Silja Clemens, Eckart Fingberg, Katja Grübel, Sarah M. Kempen, Barbara Miersch, Katha
-
-    HD-Produktion
-- eventId:
   - 544313
   - 544455
   - 585377
+  - 611895
   - 621609
   start: 2026-11-09T14:00:00Z
   stop: 2026-11-09T14:25:00Z
@@ -2631,6 +2468,7 @@
   - 544314
   - 544456
   - 585378
+  - 611896
   - 621610
   start: 2026-11-09T14:25:00Z
   stop: 2026-11-09T14:50:00Z
@@ -2660,6 +2498,7 @@
   - 544315
   - 544457
   - 585379
+  - 611901
   - 621611
   start: 2026-11-09T14:50:00Z
   stop: 2026-11-09T15:15:00Z
@@ -2688,6 +2527,7 @@
   - 547034
   - 585605
   - 586381
+  - 611910
   - 621616
   - 931741
   - 932977
@@ -2723,6 +2563,7 @@
   - 547035
   - 585606
   - 586382
+  - 611911
   - 621617
   - 931742
   - 932978
@@ -2758,6 +2599,7 @@
   - 547036
   - 585607
   - 586383
+  - 611912
   - 621618
   - 931743
   - 932979
@@ -2783,6 +2625,7 @@
   - 547037
   - 585608
   - 586384
+  - 611913
   - 621619
   - 931744
   - 932980
@@ -2810,6 +2653,7 @@
   - 547038
   - 585609
   - 586385
+  - 611918
   - 621620
   - 931745
   - 932981
@@ -2837,6 +2681,7 @@
   - 547039
   - 585610
   - 586386
+  - 611919
   - 621621
   - 931746
   - 932982
@@ -2872,6 +2717,7 @@
   - 547040
   - 585611
   - 586387
+  - 611920
   - 621622
   - 931747
   - 932983
@@ -2907,6 +2753,7 @@
   - 547041
   - 585612
   - 586388
+  - 611921
   - 621623
   - 931748
   - 932984
@@ -2942,6 +2789,7 @@
   - 547042
   - 585613
   - 586389
+  - 611922
   - 621624
   - 931749
   - 932985
@@ -2976,6 +2824,7 @@
   - 547043
   - 585614
   - 586390
+  - 611923
   - 621625
   - 931750
   - 932986
@@ -3006,6 +2855,7 @@
   - 547044
   - 585615
   - 586391
+  - 611924
   - 621626
   - 931751
   - 932987
@@ -3063,6 +2913,7 @@
   - 547045
   - 585616
   - 586392
+  - 611925
   - 621627
   - 931752
   - 932988
@@ -3116,6 +2967,7 @@
   - 547046
   - 585617
   - 586393
+  - 611926
   - 621628
   - 931753
   - 932989
@@ -3155,6 +3007,7 @@
   - 585618
   - 586394
   - 609903
+  - 611931
   - 621629
   - 931754
   - 932990
@@ -3183,6 +3036,7 @@
   - 551490
   - 585951
   - 588657
+  - 611937
   - 621634
   - 932207
   - 932991
@@ -3213,6 +3067,7 @@
   - 551491
   - 585952
   - 588658
+  - 611938
   - 621635
   - 932208
   - 932992
@@ -3243,6 +3098,7 @@
   - 551492
   - 585953
   - 588659
+  - 611939
   - 621636
   - 932209
   - 932993
@@ -3278,6 +3134,7 @@
   - 551493
   - 585954
   - 588660
+  - 611940
   - 621637
   - 932210
   - 932994
@@ -3304,6 +3161,7 @@
   - 551494
   - 585955
   - 588661
+  - 611941
   - 621638
   - 932211
   - 932995
@@ -3330,6 +3188,7 @@
   - 551495
   - 585956
   - 588662
+  - 612007
   - 621639
   - 932212
   - 932996
@@ -3367,6 +3226,7 @@
   - 551496
   - 585957
   - 588663
+  - 612008
   - 621640
   - 932213
   - 932997
@@ -3402,6 +3262,7 @@
   - 551497
   - 585958
   - 588664
+  - 612009
   - 621641
   - 932214
   - 932998
@@ -3452,6 +3313,7 @@
   - 551498
   - 585959
   - 588665
+  - 612010
   - 621642
   - 932215
   - 932999

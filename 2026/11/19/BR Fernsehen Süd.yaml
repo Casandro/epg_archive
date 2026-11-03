@@ -20,6 +20,7 @@
   - 592417
   - 598455
   - 607114
+  - 609764
   - 624704
   - 689379
   start: 2026-11-19T00:55:00Z
@@ -36,6 +37,7 @@
   - 592418
   - 598456
   - 607115
+  - 609765
   - 624705
   - 689380
   start: 2026-11-19T02:10:00Z
@@ -52,6 +54,7 @@
   - 592419
   - 598457
   - 607116
+  - 609766
   - 624706
   - 689381
   start: 2026-11-19T02:40:00Z
@@ -72,18 +75,25 @@
   - 689683
   start: 2026-11-19T03:10:00Z
   stop: 2026-11-19T03:40:00Z
-  title: Abendschau
+  title: Ländermagazin
   subtitle: Alles was Bayern bewegt
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 609853
+  start: 2026-11-19T03:10:00Z
+  stop: 2026-11-19T03:40:00Z
+  title: Abendschau
+  subtitle: Alles was Bayern bewegt
+  subtitled: true
 - eventId:
   - 1010192
   - 588318
   - 592608
   - 598639
   - 607495
+  - 609854
   - 624789
   - 689684
   start: 2026-11-19T03:40:00Z
@@ -104,17 +114,23 @@
   - 689685
   start: 2026-11-19T04:30:00Z
   stop: 2026-11-19T05:00:00Z
-  title: Space Night
+  title: Müllkraftwerk Schwandorf
   subtitle: The Blue Planet
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 609855
+  start: 2026-11-19T04:30:00Z
+  stop: 2026-11-19T05:00:00Z
+  title: Space Night
+  subtitle: The Blue Planet
 - eventId:
   - 1010194
   - 588320
   - 592610
   - 598641
+  - 609856
   - 636842
   - 636844
   - 689686
@@ -137,18 +153,24 @@
   - 689687
   start: 2026-11-19T05:30:00Z
   stop: 2026-11-19T06:20:00Z
-  title: Sturm der Liebe (4676) (4676)
+  title: Zwischen Spessart und Karwendel
   subtitle: Deutschland 2026
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 609857
+  start: 2026-11-19T05:30:00Z
+  stop: 2026-11-19T06:20:00Z
+  title: Sturm der Liebe (4676) (4676)
+  subtitled: true
 - eventId:
   - 1010042
   - 578112
   - 593145
   - 598746
   - 607780
+  - 609954
   - 624887
   - 689797
   start: 2026-11-19T06:20:00Z
@@ -165,6 +187,7 @@
   - 593146
   - 598747
   - 607781
+  - 609955
   - 624888
   - 689798
   start: 2026-11-19T06:35:00Z
@@ -190,6 +213,7 @@
   - 578114
   - 598748
   - 607782
+  - 609956
   - 624889
   - 689799
   start: 2026-11-19T08:00:00Z
@@ -206,6 +230,7 @@
   - 593148
   - 598749
   - 607783
+  - 609957
   - 624890
   - 689800
   start: 2026-11-19T08:15:00Z
@@ -222,6 +247,7 @@
   - 593149
   - 598750
   - 607784
+  - 609958
   - 624891
   - 689801
   start: 2026-11-19T08:45:00Z
@@ -232,44 +258,25 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 1010070
-  - 578544
-  - 593347
-  - 604604
-  - 608273
-  - 625016
-  - 689866
+- eventId: 610067
   start: 2026-11-19T09:15:00Z
   stop: 2026-11-19T10:05:00Z
   title: Panda, Gorilla & Co
   subtitle: Geschichten aus dem Zoo Berlin und dem Tierpark Berlin
-  widescreen: true
   subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
-  - 1010071
-  - 578545
-  - 593348
-  - 604605
-  - 608274
-  - 625017
-  - 689867
+- eventId: 610068
   start: 2026-11-19T10:05:00Z
   stop: 2026-11-19T10:50:00Z
   title: Abenteuer Wildnis
   subtitle: Von der Quelle bis zur Weser - Die Geheimnisse der Hunte
-  widescreen: true
   subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
   - 1010072
   - 578546
   - 593349
   - 604606
   - 608275
+  - 610069
   - 625018
   - 689868
   start: 2026-11-19T10:50:00Z
@@ -286,6 +293,7 @@
   - 593350
   - 604607
   - 608276
+  - 610070
   - 625019
   - 689869
   start: 2026-11-19T11:20:00Z
@@ -302,6 +310,7 @@
   - 593351
   - 604608
   - 608277
+  - 610071
   - 625020
   - 689870
   start: 2026-11-19T11:50:00Z
@@ -318,6 +327,7 @@
   - 593466
   - 604707
   - 608553
+  - 610146
   - 625092
   - 691052
   start: 2026-11-19T12:35:00Z
@@ -335,6 +345,7 @@
   - 593467
   - 604708
   - 608554
+  - 610147
   - 625093
   - 691053
   start: 2026-11-19T13:25:00Z
@@ -351,6 +362,7 @@
   - 593468
   - 604709
   - 608555
+  - 610148
   - 625094
   - 691054
   start: 2026-11-19T14:10:00Z
@@ -367,6 +379,7 @@
   - 593657
   - 604852
   - 608870
+  - 610279
   - 625197
   - 691301
   start: 2026-11-19T15:00:00Z
@@ -383,6 +396,7 @@
   - 593658
   - 604853
   - 608871
+  - 610280
   - 625198
   - 691302
   start: 2026-11-19T15:15:00Z
@@ -399,6 +413,7 @@
   - 593659
   - 604854
   - 608872
+  - 610281
   - 625199
   - 691303
   start: 2026-11-19T16:30:00Z
@@ -415,6 +430,7 @@
   - 593660
   - 604855
   - 608873
+  - 610282
   - 625200
   - 691304
   start: 2026-11-19T17:00:00Z
@@ -431,6 +447,7 @@
   - 593661
   - 604856
   - 608874
+  - 610283
   - 625201
   - 691305
   start: 2026-11-19T17:30:00Z
@@ -451,12 +468,18 @@
   - 691534
   start: 2026-11-19T18:00:00Z
   stop: 2026-11-19T18:30:00Z
-  title: mehr/wert
+  title: Watzmann ermittelt
   subtitle: Das Magazin für Wirtschaft und Soziales - Der ewige Streit um den Alpentransit
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 610392
+  start: 2026-11-19T18:00:00Z
+  stop: 2026-11-19T18:30:00Z
+  title: mehr/wert
+  subtitle: DE
+  subtitled: true
 - eventId:
   - 1010155
   - 579955
@@ -464,6 +487,7 @@
   - 593820
   - 604950
   - 609209
+  - 610393
   - 691535
   start: 2026-11-19T18:30:00Z
   stop: 2026-11-19T19:00:00Z
@@ -480,6 +504,7 @@
   - 593821
   - 604951
   - 609210
+  - 610394
   - 691536
   start: 2026-11-19T19:00:00Z
   stop: 2026-11-19T19:15:00Z
@@ -490,6 +515,7 @@
   audiodesc: true
   genre:
   - '32'
+  subtitle: Nachrichten - Berichte - Wettervorhersage
 - eventId:
   - 1010157
   - 579957
@@ -500,12 +526,18 @@
   - 691537
   start: 2026-11-19T19:15:00Z
   stop: 2026-11-19T20:00:00Z
-  title: quer
+  title: Gesundheit!
   subtitle: '... durch die Woche mit Christoph Süß'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 610395
+  start: 2026-11-19T19:15:00Z
+  stop: 2026-11-19T20:00:00Z
+  title: quer
+  subtitle: '... durch die Woche mit Christoph Süß'
+  subtitled: true
 - eventId:
   - 1010158
   - 579958
@@ -516,12 +548,17 @@
   - 691538
   start: 2026-11-19T20:00:00Z
   stop: 2026-11-19T20:45:00Z
-  title: schlachthof
+  title: Dahoam is Dahoam (3831)
   subtitle: Kabarett mit Michael Altinger und Christian Springer
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 610396
+  start: 2026-11-19T20:00:00Z
+  stop: 2026-11-19T20:45:00Z
+  title: schlachthof
+  subtitle: Kabarett mit Michael Altinger und Christian Springer
 - eventId:
   - 1010159
   - 579959
@@ -532,12 +569,18 @@
   - 691539
   start: 2026-11-19T20:45:00Z
   stop: 2026-11-19T21:00:00Z
-  title: BR24
+  title: Tagesschau
   subtitle: Nachrichten - Berichte - Wettervorhersage
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 610397
+  start: 2026-11-19T20:45:00Z
+  stop: 2026-11-19T21:00:00Z
+  title: BR24
+  subtitle: Nachrichten - Berichte - Wettervorhersage
+  subtitled: true
 - eventId:
   - 1010173
   - 580411
@@ -545,6 +588,7 @@
   - 593945
   - 605066
   - 609752
+  - 610507
   - 691583
   start: 2026-11-19T21:00:00Z
   stop: 2026-11-19T21:45:00Z
@@ -561,6 +605,7 @@
   - 593946
   - 605067
   - 609753
+  - 610508
   - 691584
   start: 2026-11-19T21:45:00Z
   stop: 2026-11-19T22:15:00Z
@@ -577,6 +622,7 @@
   - 593947
   - 605068
   - 609754
+  - 610509
   - 691585
   start: 2026-11-19T22:15:00Z
   stop: 2026-11-19T23:00:00Z
@@ -593,6 +639,7 @@
   - 593948
   - 605069
   - 609755
+  - 610510
   - 691586
   start: 2026-11-19T23:00:00Z
   stop: 2026-11-19T23:45:00Z
@@ -609,6 +656,7 @@
   - 593949
   - 605070
   - 609756
+  - 610511
   - 691587
   start: 2026-11-19T23:45:00Z
   stop: 2026-11-20T00:15:00Z
