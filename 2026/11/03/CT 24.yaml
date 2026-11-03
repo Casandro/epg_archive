@@ -1442,7 +1442,9 @@
   genre:
   - '151'
   widescreen: true
-- eventId: 671614
+- eventId:
+  - 671614
+  - 672010
   start: 2026-11-03T12:31:54Z
   stop: 2026-11-03T13:00:00Z
   title: Archiv ČT24
@@ -1452,6 +1454,7 @@
     Skryté titulky
   genre:
   - '151'
+  widescreen: true
 - eventId:
   - 619027
   - 643761
@@ -1777,6 +1780,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 672031
+  start: 2026-11-03T14:31:51Z
+  stop: 2026-11-03T15:00:00Z
+  title: Archiv ČT24
+  subtitle: Národ sobě. Co zažila naše Zlatá kaplička v druhé polovině 20. století.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '151'
+  widescreen: true
 - eventId:
   - 619033
   - 643767
