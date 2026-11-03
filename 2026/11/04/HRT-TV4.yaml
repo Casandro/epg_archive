@@ -21,10 +21,16 @@
   - '32'
 - eventId: 677331
   start: 2026-11-04T00:56:00Z
-  stop: 2026-11-04T00:58:00Z
+  stop: 2026-11-04T00:57:00Z
   title: Vrijeme RH danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+- eventId: 678145
+  start: 2026-11-04T00:57:00Z
+  stop: 2026-11-04T00:59:00Z
+  title: Vrijeme Europa danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 587312
   - 606283
@@ -94,7 +100,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 638767
   start: 2026-11-04T01:01:00Z
-  stop: 2026-11-04T01:03:00Z
+  stop: 2026-11-04T01:23:00Z
   title: Vrijeme Svijet danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -227,8 +233,8 @@
   - 677929
   - 774045
   start: 2026-11-04T01:26:00Z
-  stop: 2026-11-04T01:28:00Z
-  title: Bez komentara
+  stop: 2026-11-04T01:29:00Z
+  title: 'Bez komentara: Melbourne, Australija - Pastuh Point of Law pobijedio na Melbourne Cupu, nagrada 7 mil.dolara'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -285,6 +291,7 @@
   - 677333
   - 677616
   - 677857
+  - 678146
   start: 2026-11-04T01:29:00Z
   stop: 2026-11-04T01:53:00Z
   title: 'DW: U dobroj formi (R)'
@@ -370,7 +377,7 @@
   - 606295
   - 774052
   start: 2026-11-04T02:20:00Z
-  stop: 2026-11-04T02:28:00Z
+  stop: 2026-11-04T02:29:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
@@ -389,6 +396,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 678147
+  start: 2026-11-04T02:29:00Z
+  stop: 2026-11-04T02:31:00Z
+  title: 'Bez komentara: Francuska, prosvjedi'
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 587326
   - 606297
@@ -401,6 +414,12 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+- eventId: 678148
+  start: 2026-11-04T02:31:00Z
+  stop: 2026-11-04T02:50:00Z
+  title: 'Studio 4: Sportske minute'
+  subtitle: ' '
+  description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
 - eventId:
   - 587327
   - 606298
@@ -412,6 +431,12 @@
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 678149
+  start: 2026-11-04T02:51:00Z
+  stop: 2026-11-04T02:55:00Z
+  title: '#REPORTAŽE: Šminka i vino'
+  subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 587328
@@ -450,6 +475,12 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 678150
+  start: 2026-11-04T03:41:00Z
+  stop: 2026-11-04T03:51:00Z
+  title: Vijesti flash
+  subtitle: ' '
+  description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId:
   - 587331
   - 606303
@@ -462,6 +493,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 678151
+  start: 2026-11-04T03:51:00Z
+  stop: 2026-11-04T03:58:00Z
+  title: Vijesti iz kulture
+  subtitle: ' '
+  description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
 - eventId:
   - 587332
   - 606304
@@ -474,6 +511,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 678152
+  start: 2026-11-04T03:58:00Z
+  stop: 2026-11-04T04:00:00Z
+  title: 'Bez komentara: Sighnaghi, Gruzija - Na festivalu žetve hranu dostavljali dronovi'
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 587333
   - 606305
@@ -496,6 +539,7 @@
   - 677335
   - 677617
   - 677858
+  - 678153
   start: 2026-11-04T04:52:00Z
   stop: 2026-11-04T04:54:00Z
   title: Vrijeme Europa danas
@@ -519,7 +563,7 @@
   - 606307
   - 774063
   start: 2026-11-04T04:54:00Z
-  stop: 2026-11-04T04:55:00Z
+  stop: 2026-11-04T04:56:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
@@ -552,6 +596,7 @@
   - 677336
   - 677618
   - 677859
+  - 678154
   start: 2026-11-04T04:56:00Z
   stop: 2026-11-04T05:00:00Z
   title: 'Bez komentara: Melbourne, Australija - Pastuh Point of Law pobijedio na Melbourne Cupu, nagrada 7 mil.dolara'
@@ -611,7 +656,7 @@
   - 606313
   - 774069
   start: 2026-11-04T05:18:00Z
-  stop: 2026-11-04T05:26:00Z
+  stop: 2026-11-04T05:27:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   description: Kratki pregled aktualnosti iz svijeta znanosti.
@@ -656,6 +701,12 @@
   - 677860
   start: 2026-11-04T05:27:00Z
   stop: 2026-11-04T05:57:00Z
+  title: Otvoreno
+  subtitle: ' '
+  description: 'Sjedinjene Države danas biraju. Na izborima na polovici predsjedničkog mandata, poznatima kao međuizbori, milijuni Amerikanaca odlučuju o novom sastavu Kongresa i Senata, ali i o političkom smjeru u kojem će zemlja ići sljedeće dvije godine. Ovi se izbori doživljavaju i kao svojevrsni referendum o dosadašnjem mandatu aktualnog predsjednika. Hoće li republikanci zadržati kontrolu nad Kongresom ili će demokrati uspjeti preuzeti većinu? Koju će poruku američki birači poslati Bijeloj kući i kako bi rezultati mogli utjecati na američku unutarnju i vanjsku politiku? Gosti: Mate Mijić, politički analitičar prof. dr. sc. Đana Luša, politologinja, Fakultet političkih znanosti u Zagrebu dr. sc. Tonči Tadić, politički analitičar, Institut Ruđer Bošković'
+- eventId: 678155
+  start: 2026-11-04T05:27:00Z
+  stop: 2026-11-04T05:56:00Z
   title: Otvoreno
   subtitle: ' '
   description: 'Sjedinjene Države danas biraju. Na izborima na polovici predsjedničkog mandata, poznatima kao međuizbori, milijuni Amerikanaca odlučuju o novom sastavu Kongresa i Senata, ali i o političkom smjeru u kojem će zemlja ići sljedeće dvije godine. Ovi se izbori doživljavaju i kao svojevrsni referendum o dosadašnjem mandatu aktualnog predsjednika. Hoće li republikanci zadržati kontrolu nad Kongresom ili će demokrati uspjeti preuzeti većinu? Koju će poruku američki birači poslati Bijeloj kući i kako bi rezultati mogli utjecati na američku unutarnju i vanjsku politiku? Gosti: Mate Mijić, politički analitičar prof. dr. sc. Đana Luša, politologinja, Fakultet političkih znanosti u Zagrebu dr. sc. Tonči Tadić, politički analitičar, Institut Ruđer Bošković'
@@ -704,6 +755,12 @@
   - 677861
   start: 2026-11-04T05:57:00Z
   stop: 2026-11-04T05:58:00Z
+  title: 'Bez komentara: Iran - Iranska revolucionarna garda navodi da je srušila američki dron kod Hormuškog tjesnaca'
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 678156
+  start: 2026-11-04T05:58:00Z
+  stop: 2026-11-04T06:00:00Z
   title: 'Bez komentara: Iran - Iranska revolucionarna garda navodi da je srušila američki dron kod Hormuškog tjesnaca'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -1228,7 +1285,7 @@
   - 606360
   - 774111
   start: 2026-11-04T11:20:00Z
-  stop: 2026-11-04T11:30:00Z
+  stop: 2026-11-04T11:28:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -1252,6 +1309,7 @@
   - 677339
   - 677621
   - 677862
+  - 678157
   start: 2026-11-04T11:28:00Z
   stop: 2026-11-04T11:30:00Z
   title: Bez komentara
