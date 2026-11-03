@@ -1298,7 +1298,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 671109
+- eventId:
+  - 671109
+  - 671524
   start: 2026-11-03T11:33:52Z
   stop: 2026-11-03T12:00:00Z
   title: Archiv ČT24
@@ -1354,18 +1356,7 @@
 - eventId:
   - 619025
   - 643759
-  start: 2026-11-03T12:00:00Z
-  stop: 2026-11-03T12:05:00Z
-  title: Zprávy
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '32'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 671121
+  - 671121
   start: 2026-11-03T12:00:00Z
   stop: 2026-11-03T12:05:24Z
   title: Zprávy
@@ -1375,6 +1366,8 @@
   genre:
   - '32'
   widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 670786
   start: 2026-11-03T12:00:07Z
   stop: 2026-11-03T12:05:58Z
