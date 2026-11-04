@@ -336,8 +336,8 @@
 - eventId: 565521
   start: 2026-11-17T12:00:00Z
   stop: 2026-11-17T12:15:00Z
-  title: Tele-Gym (3)
-  subtitle: Gesunder Rücken
+  title: Tele-Gym (3/8)
+  subtitle: Aktiv & beweglich mit 60+
   widescreen: true
   subtitled: true
   hd: true
@@ -345,12 +345,14 @@
 - eventId: 565522
   start: 2026-11-17T12:15:00Z
   stop: 2026-11-17T12:30:00Z
-  title: Tele-Gym (6)
+  title: Tele-Gym (6/10)
   subtitle: Prävention Osteoporose
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId: 565523
   start: 2026-11-17T12:30:00Z
   stop: 2026-11-17T13:00:00Z
@@ -437,6 +439,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 565367
   - 574676
@@ -453,17 +457,8 @@
   audiodesc: true
 - eventId:
   - 565368
-  - 575327
-  start: 2026-11-17T17:45:00Z
-  stop: 2026-11-17T18:30:00Z
-  title: Quarks
-  subtitle: 'Die Macht des Mikrobioms: Was unser Darm leistet'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
   - 574677
+  - 575327
   - 588858
   - 957269
   start: 2026-11-17T17:45:00Z
@@ -579,29 +574,20 @@
   start: 2026-11-17T20:45:00Z
   stop: 2026-11-17T21:15:00Z
   title: Ohne Tabus durch die Wechseljahre
-  subtitle: Das Getreide
+  subtitle: Deutschland 2024
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
 - eventId:
   - 553912
+  - 570560
+  - 576693
   - 590154
   - 957350
   start: 2026-11-17T21:15:00Z
   stop: 2026-11-17T22:00:00Z
   title: 'Quarks: Die Macht des Mikrobioms - Was unser Darm leistet'
-  subtitle: 'Die Macht des Mikrobioms: Was unser Darm leistet'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
-  - 570560
-  - 576693
-  start: 2026-11-17T21:15:00Z
-  stop: 2026-11-17T22:00:00Z
-  title: Quarks
   subtitle: 'Die Macht des Mikrobioms: Was unser Darm leistet'
   widescreen: true
   subtitled: true
@@ -616,7 +602,7 @@
   start: 2026-11-17T22:00:00Z
   stop: 2026-11-17T22:10:00Z
   title: JobChallenge
-  subtitle: Taugt sie zur Landwirtin?! Große Kartoffel-Challenge - Landw
+  subtitle: Taugt sie zur Landwirtin?! Große Kartoffel-Challenge - Landwirt/-in
   widescreen: true
   subtitled: true
   hd: true
