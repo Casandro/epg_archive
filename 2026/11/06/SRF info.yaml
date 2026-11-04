@@ -308,7 +308,7 @@
   hd: true
 - eventId: 673281
   start: 2026-11-06T04:45:00Z
-  stop: 2026-11-06T04:55:00Z
+  stop: 2026-11-06T04:50:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
@@ -327,6 +327,18 @@
   widescreen: true
   hd: true
   subtitled: true
+- eventId: 701842
+  start: 2026-11-06T04:50:00Z
+  stop: 2026-11-06T05:00:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 641125
   - 656075
@@ -342,12 +354,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 641126
-  - 656076
-  - 700752
-  start: 2026-11-06T05:05:00Z
-  stop: 2026-11-06T05:10:00Z
+- eventId: 701843
+  start: 2026-11-06T05:00:00Z
+  stop: 2026-11-06T05:05:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -357,6 +366,22 @@
   - '64'
   widescreen: true
   hd: true
+- eventId:
+  - 641126
+  - 656076
+  - 700752
+  start: 2026-11-06T05:05:00Z
+  stop: 2026-11-06T05:24:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId:
   - 641127
   - 656077
@@ -368,6 +393,30 @@
   - '32'
   widescreen: true
   subtitled: true
+  hd: true
+- eventId: 701844
+  start: 2026-11-06T05:24:00Z
+  stop: 2026-11-06T05:25:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 701619
+  start: 2026-11-06T05:25:00Z
+  stop: 2026-11-06T06:00:00Z
+  title: UEFA Europa League - Highlights Männer
+  subtitle: Die besten Spiele, Szenen und Tore
+  description: |-
+    Das Fussballmagazin liefert die Matchberichte zu den Topspielen in der Europa League und der Europa Conference League. Ein besonderer Fokus gilt den Schweizer Vertretern.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
   hd: true
 - eventId:
   - 641128
@@ -399,6 +448,15 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 701632
+  start: 2026-11-06T06:00:00Z
+  stop: 2026-11-06T06:19:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 641152
   - 656091
@@ -410,6 +468,30 @@
   - '32'
   widescreen: true
   subtitled: true
+  hd: true
+- eventId: 701633
+  start: 2026-11-06T06:19:00Z
+  stop: 2026-11-06T06:20:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 701634
+  start: 2026-11-06T06:20:00Z
+  stop: 2026-11-06T06:50:00Z
+  title: UEFA Europa League - Highlights Männer
+  subtitle: Die besten Spiele, Szenen und Tore
+  description: |-
+    Das Fussballmagazin liefert die Matchberichte zu den Topspielen in der Europa League und der Europa Conference League. Ein besonderer Fokus gilt den Schweizer Vertretern.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
   hd: true
 - eventId:
   - 641153
@@ -440,6 +522,17 @@
   genre:
   - '64'
   widescreen: true
+  hd: true
+- eventId: 701635
+  start: 2026-11-06T06:50:00Z
+  stop: 2026-11-06T07:30:00Z
+  title: SRFglobal
+  subtitle: Taiwan - Chinas Invasion hat längst begonnen
+  description: |-
+    Nirgendwo liegen Fortschrittsglaube und Kriegsangst näher beieinander als in Taiwan. In der Hauptstadt Taipeh pulsiert das Leben, doch mit dem Ukraine-Krieg wächst die Sorge vor einer Invasion durch China. Viele zweifeln, ob ihnen die USA beistehen würden - zumal die Invasion längst begonnen habe.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId:
   - 641155
@@ -508,7 +601,7 @@
   - 656117
   - 723493
   start: 2026-11-06T09:10:00Z
-  stop: 2026-11-06T10:25:00Z
+  stop: 2026-11-06T10:30:00Z
   title: 'Club: America, let''s talk'
   subtitle: 'Midterms: Verliert Trump die Macht?'
   description: |-
@@ -557,6 +650,19 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 701650
+  start: 2026-11-06T10:30:00Z
+  stop: 2026-11-06T11:00:00Z
+  title: Kulturplatz
+  subtitle: Stress - Fluch unserer Zeit?
+  description: |-
+    Stress ist älter als die Menschheit - doch nie war er so chronisch wie heute. Dauererreichbarkeit, Krisen und Ängste rauben vielen den Schlaf. Während der Buchmarkt mit Antistress-Ratgebern boomt, geraten Kulturschaffende selbst in die Mühlen von Termindruck, Existenzangst und Leistungsanspruch.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 705483
   start: 2026-11-06T10:50:00Z
   stop: 2026-11-06T11:20:00Z
@@ -582,6 +688,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 701651
+  start: 2026-11-06T11:00:00Z
+  stop: 2026-11-06T11:30:00Z
+  title: SRFglobal
+  subtitle: Taiwan - Chinas Invasion hat längst begonnen
+  description: |-
+    Nirgendwo liegen Fortschrittsglaube und Kriegsangst näher beieinander als in Taiwan. In der Hauptstadt Taipeh pulsiert das Leben, doch mit dem Ukraine-Krieg wächst die Sorge vor einer Invasion durch China. Viele zweifeln, ob ihnen die USA beistehen würden - zumal die Invasion längst begonnen habe.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 705484
   start: 2026-11-06T11:20:00Z
   stop: 2026-11-06T12:20:00Z
@@ -598,6 +715,17 @@
   - 656120
   - 708963
   start: 2026-11-06T11:25:00Z
+  stop: 2026-11-06T12:20:00Z
+  title: SRF school
+  subtitle: Excel Champions
+  description: |-
+    Tabellenkalkulation als Wettkampf: Sechs junge Talente von Kamerun bis Vietnam kämpfen mit Formeln und Leidenschaft um den Titel beim prestigeträchtigen Excel-Event. Sie alle wollen zu den Besten gehören.
+    USA 2024
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 701652
+  start: 2026-11-06T11:30:00Z
   stop: 2026-11-06T12:20:00Z
   title: SRF school
   subtitle: Excel Champions
@@ -705,7 +833,7 @@
   - 656144
   - 708971
   start: 2026-11-06T13:25:00Z
-  stop: 2026-11-06T14:55:00Z
+  stop: 2026-11-06T14:45:00Z
   title: SRF DOK
   subtitle: ICE - Von der Jagd auf Menschen
   description: |-
@@ -714,12 +842,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 641199
-  - 656145
-  - 709085
-  start: 2026-11-06T14:55:00Z
-  stop: 2026-11-06T15:00:00Z
+- eventId: 701680
+  start: 2026-11-06T14:45:00Z
+  stop: 2026-11-06T14:50:00Z
   title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
@@ -727,6 +852,32 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 701681
+  start: 2026-11-06T14:50:00Z
+  stop: 2026-11-06T14:55:00Z
+  title: Meteo
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId:
+  - 641199
+  - 656145
+  - 709085
+  start: 2026-11-06T14:55:00Z
+  stop: 2026-11-06T15:30:00Z
+  title: Tagesschau kompakt
+  subtitle: Midterms - Amerika hat gewählt
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Es sind die ersten nationalen Wahlen seit Trumps Rückkehr ins Weisse Haus: Verteidigen die Republikaner ihre Macht im Kongress oder schaffen die Demokraten ein Comeback? Zudem: Neue Mafia-Gruppe in der Schweiz aktiv.
+    Schweiz 2026
 - eventId:
   - 641223
   - 656162
@@ -754,12 +905,9 @@
   description: |-
     Es sind die ersten nationalen Wahlen seit Trumps Rückkehr ins Weisse Haus: Verteidigen die Republikaner ihre Macht im Kongress oder schaffen die Demokraten ein Comeback? Zudem: Neue Mafia-Gruppe in der Schweiz aktiv.
     Schweiz 2026
-- eventId:
-  - 641225
-  - 656164
-  - 723496
-  start: 2026-11-06T15:40:00Z
-  stop: 2026-11-06T15:45:00Z
+- eventId: 701694
+  start: 2026-11-06T15:30:00Z
+  stop: 2026-11-06T15:35:00Z
   title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
@@ -767,6 +915,32 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 701695
+  start: 2026-11-06T15:35:00Z
+  stop: 2026-11-06T15:40:00Z
+  title: Meteo
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId:
+  - 641225
+  - 656164
+  - 723496
+  start: 2026-11-06T15:40:00Z
+  stop: 2026-11-06T16:20:00Z
+  title: Tagesschau kompakt
+  subtitle: 'Wegwerfen war gestern: So vermeidest du Foodwaste'
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Jeder findet Foodwaste wichtig und jeder hat das Gefühl, er machts gut. Doch die Daten zeigen - weit gefehlt. Die Ziele der Politik liegen weit hinter ihren Zielen zur Reduktion von Foodwaste. «Einstein» zeigt, wie man mit einfachen Tricks Lebensmittel retten kann.
+    Schweiz 2026
 - eventId:
   - 641226
   - 656165
@@ -796,12 +970,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 641228
-  - 656167
-  - 723499
-  start: 2026-11-06T16:25:00Z
-  stop: 2026-11-06T16:30:00Z
+- eventId: 701696
+  start: 2026-11-06T16:20:00Z
+  stop: 2026-11-06T16:25:00Z
   title: Meteo
   subtitle: Mittagsausgabe
   genre:
@@ -809,6 +980,22 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId:
+  - 641228
+  - 656167
+  - 723499
+  start: 2026-11-06T16:25:00Z
+  stop: 2026-11-06T17:00:00Z
+  title: Kulturplatz
+  subtitle: Stress - Fluch unserer Zeit?
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Stress ist älter als die Menschheit - doch nie war er so chronisch wie heute. Dauererreichbarkeit, Krisen und Ängste rauben vielen den Schlaf. Während der Buchmarkt mit Antistress-Ratgebern boomt, geraten Kulturschaffende selbst in die Mühlen von Termindruck, Existenzangst und Leistungsanspruch.
+    Schweiz 2026
 - eventId:
   - 641229
   - 656168
@@ -859,7 +1046,7 @@
   - 723503
   start: 2026-11-06T17:15:00Z
   stop: 2026-11-06T17:20:00Z
-  title: Meteo
+  title: Tagesschau kompakt
   subtitle: Vorabendausgabe
   genre:
   - '32'
@@ -871,6 +1058,19 @@
   - 656172
   - 723504
   start: 2026-11-06T17:20:00Z
+  stop: 2026-11-06T17:25:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Vorabendausgabe
+- eventId: 701697
+  start: 2026-11-06T17:25:00Z
   stop: 2026-11-06T17:35:00Z
   title: Telesguard
   description: |-
@@ -943,7 +1143,20 @@
   - 656221
   - 723510
   start: 2026-11-06T21:00:00Z
-  stop: 2026-11-06T21:10:00Z
+  stop: 2026-11-06T21:05:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Abendausgabe
+- eventId: 701704
+  start: 2026-11-06T21:05:00Z
+  stop: 2026-11-06T21:15:00Z
   title: Telesguard
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
@@ -970,6 +1183,19 @@
   - 656223
   - 723512
   start: 2026-11-06T21:15:00Z
+  stop: 2026-11-06T21:20:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
+- eventId: 701705
+  start: 2026-11-06T21:20:00Z
   stop: 2026-11-06T21:25:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
@@ -990,6 +1216,10 @@
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: «Abstimmungs-Arena» zur Änderung des Kriegsmaterialgesetzes
+  description: |-
+    Bundesrat und Parlament wollen das Kriegsmaterialgesetz anpassen. So soll die Rüstungsindustrie wettbewerbsfähig bleiben. Dagegen wurde das Referendum ergriffen. Das Nein-Komitee befürchtet Waffenexporte an Unrechtsstaaten. Am 29. November entscheidet die Stimmbevölkerung.
+    Schweiz 2026
 - eventId:
   - 641256
   - 656225
@@ -1071,7 +1301,7 @@
   - 656231
   - 723520
   start: 2026-11-06T23:40:00Z
-  stop: 2026-11-07T00:05:00Z
+  stop: 2026-11-07T00:00:00Z
   title: 10 vor 10
   genre:
   - '32'

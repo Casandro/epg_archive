@@ -1,9 +1,6 @@
-- eventId:
-  - 641268
-  - 656255
-  - 723521
-  start: 2026-11-07T00:05:00Z
-  stop: 2026-11-07T00:10:00Z
+- eventId: 701709
+  start: 2026-11-07T00:00:00Z
+  stop: 2026-11-07T00:05:00Z
   title: Meteo
   subtitle: Spätausgabe
   genre:
@@ -12,12 +9,28 @@
   subtitled: true
   hd: true
 - eventId:
+  - 641268
+  - 656255
+  - 723521
+  start: 2026-11-07T00:05:00Z
+  stop: 2026-11-07T00:10:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+- eventId:
   - 641269
   - 656256
   - 723522
   start: 2026-11-07T00:10:00Z
   stop: 2026-11-07T00:15:00Z
-  title: Sportflash
+  title: Newsflash SRF 1
   subtitle: Die Sportnews des Tages
   description: |-
     Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
@@ -26,12 +39,13 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId:
   - 641270
   - 656257
   - 723523
   start: 2026-11-07T00:15:00Z
-  stop: 2026-11-07T00:20:00Z
+  stop: 2026-11-07T00:40:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
@@ -50,12 +64,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 641272
-  - 656259
-  - 723525
-  start: 2026-11-07T00:45:00Z
-  stop: 2026-11-07T00:50:00Z
+- eventId: 701710
+  start: 2026-11-07T00:40:00Z
+  stop: 2026-11-07T00:45:00Z
   title: Meteo
   subtitle: Spätausgabe
   genre:
@@ -64,12 +75,28 @@
   subtitled: true
   hd: true
 - eventId:
+  - 641272
+  - 656259
+  - 723525
+  start: 2026-11-07T00:45:00Z
+  stop: 2026-11-07T00:50:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+- eventId:
   - 641273
   - 656260
   - 723526
   start: 2026-11-07T00:50:00Z
   stop: 2026-11-07T00:55:00Z
-  title: Sportflash
+  title: Newsflash SRF 1
   subtitle: Die Sportnews des Tages
   description: |-
     Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
@@ -78,12 +105,13 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId:
   - 641274
   - 656261
   - 723527
   start: 2026-11-07T00:55:00Z
-  stop: 2026-11-07T01:00:00Z
+  stop: 2026-11-07T01:15:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
@@ -102,13 +130,35 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 701711
+  start: 2026-11-07T01:15:00Z
+  stop: 2026-11-07T01:20:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 701712
+  start: 2026-11-07T01:20:00Z
+  stop: 2026-11-07T01:25:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId:
   - 641276
   - 656263
   - 723529
   start: 2026-11-07T01:25:00Z
   stop: 2026-11-07T01:30:00Z
-  title: Meteo
+  title: Newsflash SRF 1
   subtitle: Spätausgabe
   genre:
   - '32'
@@ -120,7 +170,7 @@
   - 656264
   - 723530
   start: 2026-11-07T01:30:00Z
-  stop: 2026-11-07T01:35:00Z
+  stop: 2026-11-07T01:55:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -130,6 +180,7 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId:
   - 641278
   - 656265
@@ -154,13 +205,35 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 701713
+  start: 2026-11-07T01:55:00Z
+  stop: 2026-11-07T02:00:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 701714
+  start: 2026-11-07T02:00:00Z
+  stop: 2026-11-07T02:05:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId:
   - 641280
   - 656267
   - 723533
   start: 2026-11-07T02:05:00Z
   stop: 2026-11-07T02:10:00Z
-  title: Meteo
+  title: Newsflash SRF 1
   subtitle: Spätausgabe
   genre:
   - '32'
@@ -172,7 +245,7 @@
   - 656268
   - 723730
   start: 2026-11-07T02:10:00Z
-  stop: 2026-11-07T02:15:00Z
+  stop: 2026-11-07T02:30:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -182,6 +255,7 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId:
   - 641282
   - 656269
@@ -206,13 +280,44 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 701715
+  start: 2026-11-07T02:30:00Z
+  stop: 2026-11-07T02:35:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 701716
+  start: 2026-11-07T02:35:00Z
+  stop: 2026-11-07T02:40:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 701727
+  start: 2026-11-07T02:40:00Z
+  stop: 2026-11-07T02:45:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 641284
   - 656271
   - 726586
   start: 2026-11-07T02:45:00Z
-  stop: 2026-11-07T02:50:00Z
-  title: Meteo
+  stop: 2026-11-07T03:10:00Z
+  title: 10 vor 10
   subtitle: Spätausgabe
   genre:
   - '32'
@@ -258,13 +363,44 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 701735
+  start: 2026-11-07T03:10:00Z
+  stop: 2026-11-07T03:15:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 701736
+  start: 2026-11-07T03:15:00Z
+  stop: 2026-11-07T03:20:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 701737
+  start: 2026-11-07T03:20:00Z
+  stop: 2026-11-07T03:25:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 641312
   - 656288
   - 726590
   start: 2026-11-07T03:25:00Z
-  stop: 2026-11-07T03:30:00Z
-  title: Meteo
+  stop: 2026-11-07T03:45:00Z
+  title: 10 vor 10
   subtitle: Spätausgabe
   genre:
   - '32'
@@ -304,6 +440,46 @@
   - 730177
   start: 2026-11-07T03:40:00Z
   stop: 2026-11-07T04:05:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 701738
+  start: 2026-11-07T03:45:00Z
+  stop: 2026-11-07T03:50:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 701739
+  start: 2026-11-07T03:50:00Z
+  stop: 2026-11-07T03:55:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 701740
+  start: 2026-11-07T03:55:00Z
+  stop: 2026-11-07T04:00:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 701741
+  start: 2026-11-07T04:00:00Z
+  stop: 2026-11-07T04:25:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -356,6 +532,46 @@
   - 730181
   start: 2026-11-07T04:20:00Z
   stop: 2026-11-07T04:45:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 701742
+  start: 2026-11-07T04:25:00Z
+  stop: 2026-11-07T04:30:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 701743
+  start: 2026-11-07T04:30:00Z
+  stop: 2026-11-07T04:35:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 701744
+  start: 2026-11-07T04:35:00Z
+  stop: 2026-11-07T04:40:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 701745
+  start: 2026-11-07T04:40:00Z
+  stop: 2026-11-07T04:55:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -515,11 +731,11 @@
   - 641658
   - 730195
   start: 2026-11-07T06:45:00Z
-  stop: 2026-11-07T06:50:00Z
-  title: Sportflash
-  subtitle: Die Sportnews des Tages
+  stop: 2026-11-07T07:45:00Z
+  title: Gottesdienst
+  subtitle: Reformierter Gottesdienst aus der Kirche St. Laurenzen, St. Gallen
   description: |-
-    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    SRF überträgt am Reformationssonntag den Gottesdienst live aus der Kirche St. Laurenzen in St. Gallen. Im Mittelpunkt steht die Frage, was ein selbstbestimmtes Leben ausmacht. Inspiriert sind die Pfarrerinnen Kathrin Bolt und Cathrin Legler von Wiborada, der ersten heiliggesprochenen Frau der Welt.
     Schweiz 2026
   genre:
   - '64'
@@ -540,6 +756,19 @@
   - '112'
   widescreen: true
   hd: true
+- eventId: 701761
+  start: 2026-11-07T07:45:00Z
+  stop: 2026-11-07T08:45:00Z
+  title: Sternstunde Philosophie
+  subtitle: Wie geht Abschied?
+  description: |-
+    Ein Mensch stirbt, ein Lebensplan zerbricht, der Körper setzt Grenzen, die Gewissheit, in Frieden zu leben, wird brüchig: Abschiede verändern, wer wir sind. Wie lebt man mit diesen Verlusten? Und warum machen uns manche Abschiede lebendiger? Ein Gespräch mit Schriftstellerin Gabriele von Arnim.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 641361
   - 641660
@@ -556,6 +785,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 701762
+  start: 2026-11-07T08:45:00Z
+  stop: 2026-11-07T09:55:00Z
+  title: Arena
+  subtitle: «Abstimmungs-Arena» zur Änderung des Kriegsmaterialgesetzes
+  description: |-
+    Bundesrat und Parlament wollen das Kriegsmaterialgesetz anpassen. So soll die Rüstungsindustrie wettbewerbsfähig bleiben. Dagegen wurde das Referendum ergriffen. Das Nein-Komitee befürchtet Waffenexporte an Unrechtsstaaten. Am 29. November entscheidet die Stimmbevölkerung.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 641362
   - 641661
@@ -567,6 +807,19 @@
   subtitled: true
   hd: true
   subtitle: «Abstimmungs-Arena» zur Änderung des Kriegsmaterialgesetzes
+- eventId: 701772
+  start: 2026-11-07T09:55:00Z
+  stop: 2026-11-07T10:30:00Z
+  title: Einstein
+  subtitle: 'Wegwerfen war gestern: So vermeidest du Foodwaste'
+  description: |-
+    Jeder findet Foodwaste wichtig und jeder hat das Gefühl, er machts gut. Doch die Daten zeigen - weit gefehlt. Die Ziele der Politik liegen weit hinter ihren Zielen zur Reduktion von Foodwaste. «Einstein» zeigt, wie man mit einfachen Tricks Lebensmittel retten kann.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 641380
   - 641691
@@ -580,6 +833,17 @@
     Schweiz 2026
   genre:
   - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 701773
+  start: 2026-11-07T10:30:00Z
+  stop: 2026-11-07T11:05:00Z
+  title: SRFglobal
+  subtitle: Taiwan - Chinas Invasion hat längst begonnen
+  description: |-
+    Nirgendwo liegen Fortschrittsglaube und Kriegsangst näher beieinander als in Taiwan. In der Hauptstadt Taipeh pulsiert das Leben, doch mit dem Ukraine-Krieg wächst die Sorge vor einer Invasion durch China. Viele zweifeln, ob ihnen die USA beistehen würden - zumal die Invasion längst begonnen habe.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -608,6 +872,9 @@
   subtitled: true
   hd: true
   subtitle: «Abstimmungs-Arena» zur Änderung des Kriegsmaterialgesetzes
+  description: |-
+    Bundesrat und Parlament wollen das Kriegsmaterialgesetz anpassen. So soll die Rüstungsindustrie wettbewerbsfähig bleiben. Dagegen wurde das Referendum ergriffen. Das Nein-Komitee befürchtet Waffenexporte an Unrechtsstaaten. Am 29. November entscheidet die Stimmbevölkerung.
+    Schweiz 2026
 - eventId:
   - 640675
   - 641744
@@ -617,7 +884,7 @@
   title: SRFglobal
   subtitle: Taiwan - Chinas Invasion hat längst begonnen (Wdh.)
   description: |-
-    Wiederholung vom 2.4.2026: Nirgendwo liegen Fortschrittsglaube und Kriegsangst näher beieinander als in Taiwan. In der Hauptstadt Taipeh pulsiert das Leben, doch mit dem Ukraine-Krieg wächst die Sorge vor einer Invasion durch China. Viele zweifeln, ob ihnen die USA beistehen würden.
+    Nirgendwo liegen Fortschrittsglaube und Kriegsangst näher beieinander als in Taiwan. In der Hauptstadt Taipeh pulsiert das Leben, doch mit dem Ukraine-Krieg wächst die Sorge vor einer Invasion durch China. Viele zweifeln, ob ihnen die USA beistehen würden - zumal die Invasion längst begonnen habe.
     Schweiz 2026
   widescreen: true
   subtitled: true
@@ -641,11 +908,11 @@
   - 641746
   - 736581
   start: 2026-11-07T14:00:00Z
-  stop: 2026-11-07T14:30:00Z
+  stop: 2026-11-07T14:35:00Z
   title: SRFglobal
   subtitle: Taiwan - Chinas Invasion hat längst begonnen (Wdh.)
   description: |-
-    Wiederholung vom 2.4.2026: Nirgendwo liegen Fortschrittsglaube und Kriegsangst näher beieinander als in Taiwan. In der Hauptstadt Taipeh pulsiert das Leben, doch mit dem Ukraine-Krieg wächst die Sorge vor einer Invasion durch China. Viele zweifeln, ob ihnen die USA beistehen würden.
+    Nirgendwo liegen Fortschrittsglaube und Kriegsangst näher beieinander als in Taiwan. In der Hauptstadt Taipeh pulsiert das Leben, doch mit dem Ukraine-Krieg wächst die Sorge vor einer Invasion durch China. Viele zweifeln, ob ihnen die USA beistehen würden - zumal die Invasion längst begonnen habe.
     Schweiz 2026
   widescreen: true
   subtitled: true
@@ -661,6 +928,17 @@
   subtitled: true
   hd: true
   subtitle: «Abstimmungs-Arena» zur Änderung des Kriegsmaterialgesetzes
+- eventId: 701786
+  start: 2026-11-07T14:35:00Z
+  stop: 2026-11-07T15:45:00Z
+  title: Arena
+  subtitle: «Abstimmungs-Arena» zur Änderung des Kriegsmaterialgesetzes
+  description: |-
+    Bundesrat und Parlament wollen das Kriegsmaterialgesetz anpassen. So soll die Rüstungsindustrie wettbewerbsfähig bleiben. Dagegen wurde das Referendum ergriffen. Das Nein-Komitee befürchtet Waffenexporte an Unrechtsstaaten. Am 29. November entscheidet die Stimmbevölkerung.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 640718
   - 641772
@@ -675,11 +953,32 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 701804
+  start: 2026-11-07T15:45:00Z
+  stop: 2026-11-07T16:10:00Z
+  title: GESUNDHEITHEUTE - Die Gesundheitssendung mit Dr. Jeanne Fürst
+  subtitle: 'Bluthochdruck: Nebenwirkungen durch Medikamente'
+  description: |-
+    Bluthochdruck bleibt oft lange unbemerkt. Eine wirksame Behandlung mit möglichst wenigen Nebenwirkungen zu finden, ist nicht immer einfach. Zudem können Bluthochdruck und Medikamente Erektionsstörungen begünstigen. Was hilft?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 640719
   - 641773
   - 752502
   start: 2026-11-07T16:05:00Z
+  stop: 2026-11-07T17:00:00Z
+  title: Südostschweiz Standpunkte
+  subtitle: Wer entscheidet, was wir wissen?
+  description: |-
+    Früher entschieden Zeitungen, Radio und Fernsehen, was wichtig war. Heute konkurriert der Gemeinderat im Feed mit Donald Trump, Kriegen und viralen Videos. Algorithmen verteilen die Aufmerksamkeit - und künstliche Intelligenz könnte schon bald zum persönlichen Nachrichtenberater werden.
+    Schweiz 2026
+  widescreen: true
+  hd: true
+- eventId: 701805
+  start: 2026-11-07T16:10:00Z
   stop: 2026-11-07T17:00:00Z
   title: Südostschweiz Standpunkte
   subtitle: Wer entscheidet, was wir wissen?
@@ -774,6 +1073,9 @@
   subtitled: true
   hd: true
   subtitle: «Abstimmungs-Arena» zur Änderung des Kriegsmaterialgesetzes
+  description: |-
+    Bundesrat und Parlament wollen das Kriegsmaterialgesetz anpassen. So soll die Rüstungsindustrie wettbewerbsfähig bleiben. Dagegen wurde das Referendum ergriffen. Das Nein-Komitee befürchtet Waffenexporte an Unrechtsstaaten. Am 29. November entscheidet die Stimmbevölkerung.
+    Schweiz 2026
 - eventId:
   - 640764
   - 656347

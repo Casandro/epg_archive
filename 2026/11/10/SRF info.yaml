@@ -285,11 +285,23 @@
   hd: true
 - eventId: 673298
   start: 2026-11-10T04:45:00Z
-  stop: 2026-11-10T04:55:00Z
+  stop: 2026-11-10T04:50:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
   widescreen: true
+  hd: true
+- eventId: 701637
+  start: 2026-11-10T04:50:00Z
+  stop: 2026-11-10T05:00:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 673299
   start: 2026-11-10T04:55:00Z
@@ -298,6 +310,15 @@
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
     Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 701638
+  start: 2026-11-10T05:00:00Z
+  stop: 2026-11-10T05:20:00Z
+  title: Schweiz aktuell
   genre:
   - '32'
   widescreen: true
@@ -312,9 +333,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 673301
-  start: 2026-11-10T05:25:00Z
-  stop: 2026-11-10T05:30:00Z
+- eventId: 701639
+  start: 2026-11-10T05:20:00Z
+  stop: 2026-11-10T05:25:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -324,6 +345,19 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 673301
+  start: 2026-11-10T05:25:00Z
+  stop: 2026-11-10T05:45:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 673302
   start: 2026-11-10T05:30:00Z
   stop: 2026-11-10T05:50:00Z
@@ -333,9 +367,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 673303
-  start: 2026-11-10T05:50:00Z
-  stop: 2026-11-10T05:55:00Z
+- eventId: 701640
+  start: 2026-11-10T05:45:00Z
+  stop: 2026-11-10T05:50:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -345,6 +379,19 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 673303
+  start: 2026-11-10T05:50:00Z
+  stop: 2026-11-10T06:10:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 673304
   start: 2026-11-10T05:55:00Z
   stop: 2026-11-10T06:15:00Z
@@ -354,9 +401,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 673151
-  start: 2026-11-10T06:15:00Z
-  stop: 2026-11-10T06:20:00Z
+- eventId: 701658
+  start: 2026-11-10T06:10:00Z
+  stop: 2026-11-10T06:15:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -366,12 +413,36 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 673151
+  start: 2026-11-10T06:15:00Z
+  stop: 2026-11-10T06:35:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 673152
   start: 2026-11-10T06:20:00Z
   stop: 2026-11-10T06:40:00Z
   title: Schweiz aktuell
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 701659
+  start: 2026-11-10T06:35:00Z
+  stop: 2026-11-10T07:10:00Z
+  title: Eco Talk
+  subtitle: 'Olympia 2038: Grosse Chance oder gigantische Schnapsidee?'
+  description: |-
+    Hiesige Sportverbände wollen die Olympischen Winterspiele 2038 ins Land holen. Bis im Februar 2027 muss sich die Schweiz offiziell bewerben. Befürworter sehen im Grossereignis eine riesige Chance. Für die Gegner überwiegen indessen die Nachteile. Die Diskussion dazu im nächsten «Eco Talk».
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -383,6 +454,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 701660
+  start: 2026-11-10T07:10:00Z
+  stop: 2026-11-10T07:40:00Z
+  title: SRFglobal
+  subtitle: Taiwan - Chinas Invasion hat längst begonnen
+  description: |-
+    Nirgendwo liegen Fortschrittsglaube und Kriegsangst näher beieinander als in Taiwan. In der Hauptstadt Taipeh pulsiert das Leben, doch mit dem Ukraine-Krieg wächst die Sorge vor einer Invasion durch China. Viele zweifeln, ob ihnen die USA beistehen würden - zumal die Invasion längst begonnen habe.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 673154
   start: 2026-11-10T07:15:00Z
   stop: 2026-11-10T07:45:00Z
@@ -390,6 +472,17 @@
   subtitle: Taiwan - Chinas Invasion hat längst begonnen (Wdh.)
   description: |-
     Wiederholung vom 2.4.2026: Nirgendwo liegen Fortschrittsglaube und Kriegsangst näher beieinander als in Taiwan. In der Hauptstadt Taipeh pulsiert das Leben, doch mit dem Ukraine-Krieg wächst die Sorge vor einer Invasion durch China. Viele zweifeln, ob ihnen die USA beistehen würden.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 701661
+  start: 2026-11-10T07:40:00Z
+  stop: 2026-11-10T08:15:00Z
+  title: Puls
+  subtitle: Tinnitus - Lindert Hirntraining den Dauerlärm im Ohr?
+  description: |-
+    Ein ständiges Pfeifen, Zischen oder Rauschen im Ohr: Für gut eine Million Menschen in der Schweiz ist Tinnitus eine tägliche mentale Zerreissprobe. Die Phantomgeräusche entstehen nicht nur im Innenohr, sondern vor allem im Gehirn - «Puls» zeigt, was Hirntraining gegen den Dauerlärm bewirken kann.
     Schweiz 2026
   widescreen: true
   subtitled: true
@@ -405,11 +498,33 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 701662
+  start: 2026-11-10T08:15:00Z
+  stop: 2026-11-10T08:50:00Z
+  title: Eco Talk
+  subtitle: 'Olympia 2038: Grosse Chance oder gigantische Schnapsidee?'
+  description: |-
+    Hiesige Sportverbände wollen die Olympischen Winterspiele 2038 ins Land holen. Bis im Februar 2027 muss sich die Schweiz offiziell bewerben. Befürworter sehen im Grossereignis eine riesige Chance. Für die Gegner überwiegen indessen die Nachteile. Die Diskussion dazu im nächsten «Eco Talk».
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 673156
   start: 2026-11-10T08:20:00Z
   stop: 2026-11-10T08:55:00Z
   title: Eco Talk
   subtitle: 'Olympia 2038: Grosse Chance oder gigantische Schnapsidee?'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 701663
+  start: 2026-11-10T08:50:00Z
+  stop: 2026-11-10T09:25:00Z
+  title: SRFglobal
+  subtitle: Taiwan - Chinas Invasion hat längst begonnen
+  description: |-
+    Nirgendwo liegen Fortschrittsglaube und Kriegsangst näher beieinander als in Taiwan. In der Hauptstadt Taipeh pulsiert das Leben, doch mit dem Ukraine-Krieg wächst die Sorge vor einer Invasion durch China. Viele zweifeln, ob ihnen die USA beistehen würden - zumal die Invasion längst begonnen habe.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -574,6 +689,9 @@
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Hiesige Sportverbände wollen die Olympischen Winterspiele 2038 ins Land holen. Bis im Februar 2027 muss sich die Schweiz offiziell bewerben. Befürworter sehen im Grossereignis eine riesige Chance. Für die Gegner überwiegen indessen die Nachteile. Die Diskussion dazu im nächsten «Eco Talk».
+    Schweiz 2026
 - eventId: 690812
   start: 2026-11-10T16:00:00Z
   stop: 2026-11-10T16:05:00Z
@@ -729,6 +847,9 @@
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Hiesige Sportverbände wollen die Olympischen Winterspiele 2038 ins Land holen. Bis im Februar 2027 muss sich die Schweiz offiziell bewerben. Befürworter sehen im Grossereignis eine riesige Chance. Für die Gegner überwiegen indessen die Nachteile. Die Diskussion dazu im nächsten «Eco Talk».
+    Schweiz 2026
 - eventId: 690845
   start: 2026-11-10T19:45:00Z
   stop: 2026-11-10T20:40:00Z

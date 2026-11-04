@@ -22,9 +22,11 @@
   audiodesc: true
   ageRating: 6
   description: 'Seit 15 Jahren sind Anwältin Caroline, die sensible Judith, die Hausfrau Eva und die wohlhabende Unternehmerin Estelle befreundet. Einmal im Jahr unternehmen die Damen einen gemeinsamen Wochenendtrip, doch diesmal steht der Ausflug unter keinem guten Stern: Nach dem Tod ihres Mannes Arne will die trauernde Judith dessen begonnenen Pilgerweg nach Lourdes vollenden. Als treue Freundinnen schließen die drei anderen sich ihr an. Es dauert nicht lange, bis die Strapazen der Tour für so manchen Zwist sorgen. Im Lauf der Reise kommen auch mehrere delikate Geheimnisse ans Licht, die die Freundschaft der Frauen auf eine harte Probe stellen.'
-- eventId: 701014
+- eventId:
+  - 701014
+  - 701023
   start: 2026-11-05T00:25:00Z
-  stop: 2026-11-05T01:50:00Z
+  stop: 2026-11-05T01:55:00Z
   title: Die Dienstagsfrauen
   subtitle: Fernsehfilm Deutschland 2011
   description: 'Seit 15 Jahren sind Anwältin Caroline, die sensible Judith, die Hausfrau Eva und die wohlhabende Unternehmerin Estelle befreundet. Einmal im Jahr unternehmen die Damen einen gemeinsamen Wochenendtrip, doch diesmal steht der Ausflug unter keinem guten Stern: Nach dem Tod ihres Mannes Arne will die trauernde Judith dessen begonnenen Pilgerweg nach Lourdes vollenden. Als treue Freundinnen schließen die drei anderen sich ihr an. Es dauert nicht lange, bis die Strapazen der Tour für so manchen Zwist sorgen. Im Lauf der Reise kommen auch mehrere delikate Geheimnisse ans Licht, die die Freundschaft der Frauen auf eine harte Probe stellen.'
@@ -35,16 +37,6 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 701023
-  start: 2026-11-05T00:25:00Z
-  stop: 2026-11-05T01:55:00Z
-  title: Die Dienstagsfrauen
-  subtitle: Fernsehfilm Deutschland 2011
-  description: 'Seit 15 Jahren sind Anwältin Caroline, die sensible Judith, die Hausfrau Eva und die wohlhabende Unternehmerin Estelle befreundet. Einmal im Jahr unternehmen die Damen einen gemeinsamen Wochenendtrip, doch diesmal steht der Ausflug unter keinem guten Stern: Nach dem Tod ihres Mannes Arne will die trauernde Judith dessen begonnenen Pilgerweg nach Lourdes vollenden. Als treue Freundinnen schließen die drei anderen sich ihr an. Es dauert nicht lange, bis die Strapazen der Tour für so manchen Zwist sorgen. Im Lauf der Reise kommen auch mehrere delikate Geheimnisse ans Licht, die die Freundschaft der Frauen auf eine harte Probe stellen.'
-  ageRating: 6
-  genre:
-  - '16'
-  subtitled: true
 - eventId:
   - 1589898
   - 543130
@@ -170,7 +162,7 @@
   - 701018
   - 701027
   start: 2026-11-05T03:00:00Z
-  stop: 2026-11-05T04:05:00Z
+  stop: 2026-11-05T04:30:00Z
   title: 'Brokenwood - Mord in Neuseeland: Tödliche Niederlage'
   subtitle: Spielfilm Neuseeland 2015 (Brokenwood Mysteries - Leather & Lace)
   description: 'Detective Mike Shepherd und seine Assistentin Kristin Sims bekommen es mit einem grotesken Mordfall zu tun. Arnie Landstone, der langjährige Trainer des Rugbyteams von Brokenwood, wurde nackt an einen Torpfosten gefesselt und ermordet. Die Todesursache ist, wie Pathologin Dr. Gina Kadinsky bei der Obduktion herausfindet, überaus ungewöhnlich: Das wehrlose Opfer wurde mit Spitzenunterwäsche erstickt. Shepherds Intuition sagt ihm: Landstone kannte seinen Mörder!'
@@ -982,7 +974,12 @@
   subtitled: true
   hd: true
   audiodesc: true
-  description: 'Täglich um 19.30 Uhr im hr-fernsehen: Politik, Kultur, Wirtschaft und Unterhaltendes aus Hessen.'
+  description: |-
+    Themen:
+    * Kritik an Preisverleihung in Frankfurt - Iraner wollen gegen Freiheitspreis an Schah-Sohn demonstrieren
+    * Reform der Pflegeversicherung - wer zahlt die Rechnung in Hessen?
+    * Ernteauftakt für Weihnachtsbäume  - wie sind die hessischen Tännchen durch den Hitzesommer gekommen und wie teuer wird _s?
+  subtitle: 'Moderation: Hülya Deyneli'
 - eventId:
   - 1590214
   - 540398
