@@ -288,7 +288,7 @@
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
 - eventId: 624128
   start: 2026-11-05T05:56:00Z
-  stop: 2026-11-05T05:58:00Z
+  stop: 2026-11-05T06:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -565,7 +565,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 624154
   start: 2026-11-05T09:35:00Z
-  stop: 2026-11-05T09:42:00Z
+  stop: 2026-11-05T09:45:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
@@ -581,6 +581,7 @@
 - eventId:
   - 624155
   - 698569
+  - 700910
   start: 2026-11-05T09:45:00Z
   stop: 2026-11-05T09:50:00Z
   title: Poslovne vijesti
@@ -598,6 +599,7 @@
 - eventId:
   - 624156
   - 698570
+  - 700911
   start: 2026-11-05T09:50:00Z
   stop: 2026-11-05T10:00:00Z
   title: 'Studio 4: Znanost'
@@ -704,7 +706,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 624167
   start: 2026-11-05T11:20:00Z
-  stop: 2026-11-05T11:28:00Z
+  stop: 2026-11-05T11:30:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -1308,7 +1310,7 @@
   - '160'
 - eventId: 638794
   start: 2026-11-05T21:12:00Z
-  stop: 2026-11-05T21:43:00Z
+  stop: 2026-11-05T21:44:00Z
   title: Svijet znanosti
   subtitle: Emisija donosi aktualnosti, nova znanstvena otkrića, zanimljivosti iz životinjskog i biljnog svijeta te društvene fenomene. Zavirit ćemo u sve kutke Zemlje, a nećemo zaboraviti ni ostatak svemira.
   ageRating: 4
@@ -1332,6 +1334,7 @@
 - eventId:
   - 638795
   - 698571
+  - 700912
   start: 2026-11-05T21:44:00Z
   stop: 2026-11-05T22:04:00Z
   title: 'Studio 4: Zelena linija'
@@ -1363,7 +1366,9 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 698572
+- eventId:
+  - 698572
+  - 700913
   start: 2026-11-05T22:04:00Z
   stop: 2026-11-05T22:07:00Z
   title: '#REPORTAŽE'
