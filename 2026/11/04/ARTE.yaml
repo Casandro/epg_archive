@@ -50,6 +50,7 @@
   - 654600
   - 655979
   - 663886
+  - 692679
   - 783715
   start: 2026-11-04T04:15:00Z
   stop: 2026-11-04T05:10:00Z
@@ -68,6 +69,7 @@
   - 654601
   - 655980
   - 663887
+  - 692680
   - 783716
   start: 2026-11-04T05:10:00Z
   stop: 2026-11-04T05:55:00Z
@@ -89,6 +91,7 @@
   - 654602
   - 655981
   - 663888
+  - 692719
   - 783717
   start: 2026-11-04T05:55:00Z
   stop: 2026-11-04T06:50:00Z
@@ -117,7 +120,9 @@
   genre:
   - '32'
   description: "Documentaire (Allemagne, 2026, 44mn) Ancienne colonie néerlandaise, le Suriname est aujourd'hui le plus petit État indépendant d'Amérique du Sud. Ce périple à travers son territoire se poursuit avec l'exploration de l'épaisse jungle qui couvre 93 % du pays. Nombre de cours d'eau, notamment d'impressionnants rapides, y servent de voies de communication aux habitants des contrées les plus isolées. \n\nAUDIO 1 : FRANÇAIS / AUDIO 2 : ALLEMAND"
-- eventId: 655982
+- eventId:
+  - 655982
+  - 692720
   start: 2026-11-04T06:50:00Z
   stop: 2026-11-04T07:20:00Z
   title: Voyage en cuisine
@@ -150,7 +155,9 @@
 
     AUDIO 1 : FRANÇAIS / AUDIO 2 : ALLEMAND
     Sous-titres pour sourds et malentendants disponibles pour ce programme
-- eventId: 655983
+- eventId:
+  - 655983
+  - 692721
   start: 2026-11-04T07:20:00Z
   stop: 2026-11-04T08:05:00Z
   title: Invitation au voyage
@@ -182,7 +189,9 @@
     Film de Willi Forst (Allemagne, 1951, 1h24mn) Porté par Hildegard Knef, une vedette ouest-allemande de l'après-guerre, cet audacieux mélodrame autour d'une prostituée amoureuse d'un homme condamné a fait scandale dans la RFA des années 1950.
 
     AUDIO 1 : VOSTF / AUDIO 2 : ALLEMAND
-- eventId: 655984
+- eventId:
+  - 655984
+  - 692722
   start: 2026-11-04T08:05:00Z
   stop: 2026-11-04T08:50:00Z
   title: Invitation au voyage
@@ -215,7 +224,9 @@
 
     AUDIO 1 : FRANÇAIS / AUDIO 2 : ALLEMAND
     Sous-titres pour sourds et malentendants disponibles pour ce programme
-- eventId: 655985
+- eventId:
+  - 655985
+  - 692723
   start: 2026-11-04T08:50:00Z
   stop: 2026-11-04T09:35:00Z
   title: La Belgique sauvage
@@ -237,6 +248,7 @@
   - 654607
   - 655986
   - 663894
+  - 692724
   - 783722
   start: 2026-11-04T09:35:00Z
   stop: 2026-11-04T10:20:00Z
@@ -259,6 +271,7 @@
   - 654608
   - 655987
   - 663895
+  - 692725
   - 783723
   start: 2026-11-04T10:20:00Z
   stop: 2026-11-04T11:05:00Z
@@ -280,6 +293,7 @@
   - 654609
   - 655988
   - 663896
+  - 692726
   - 783724
   start: 2026-11-04T11:05:00Z
   stop: 2026-11-04T12:00:00Z
@@ -298,6 +312,7 @@
   - 654610
   - 655989
   - 663897
+  - 692727
   - 783725
   start: 2026-11-04T12:00:00Z
   stop: 2026-11-04T12:35:00Z
@@ -323,6 +338,14 @@
   - 783726
   start: 2026-11-04T12:35:00Z
   stop: 2026-11-04T14:20:00Z
+  title: Potiche
+  subtitle: Comment une épouse potiche, effacée et soumise se libère du joug de son tyran de mari et se révèle en femme d'affaires brillante et respectée.
+  ageRating: 7
+  genre:
+  - '20'
+- eventId: 692728
+  start: 2026-11-04T12:35:00Z
+  stop: 2026-11-04T14:19:58Z
   title: Potiche
   subtitle: Comment une épouse potiche, effacée et soumise se libère du joug de son tyran de mari et se révèle en femme d'affaires brillante et respectée.
   ageRating: 7
@@ -361,6 +384,7 @@
 - eventId:
   - 654612
   - 655991
+  - 692729
   - 733107
   start: 2026-11-04T14:20:00Z
   stop: 2026-11-04T14:50:00Z
@@ -387,6 +411,13 @@
   start: 2026-11-04T14:50:00Z
   stop: 2026-11-04T15:35:00Z
   title: Food Markets
+  subtitle: 'Le ventre de Venise : Le marché du Rialto S05 E01. Le Rialto est constitué de l''Erberia, un marché proposant des fruits et légumes, de la Beccaria, une halle aux viandes, et de la Pescheria, un marché aux poissons.'
+  genre:
+  - '32'
+- eventId: 692730
+  start: 2026-11-04T14:50:00Z
+  stop: 2026-11-04T15:35:00Z
+  title: Dans le ventre des villes
   subtitle: 'Le ventre de Venise : Le marché du Rialto S05 E01. Le Rialto est constitué de l''Erberia, un marché proposant des fruits et légumes, de la Beccaria, une halle aux viandes, et de la Pescheria, un marché aux poissons.'
   genre:
   - '32'
@@ -421,6 +452,13 @@
   subtitle: 'Le ventre de Dijon : Les Halles S05 E03. Dijon est particulièrement réputée pour sa gastronomie. Quatre jours par semaine, son marché couvert invite les gourmets à déambuler au milieu des stands.'
   genre:
   - '32'
+- eventId: 692731
+  start: 2026-11-04T15:35:00Z
+  stop: 2026-11-04T16:20:00Z
+  title: Dans le ventre des villes
+  subtitle: 'Le ventre de Dijon : Les Halles S05 E03. Dijon est particulièrement réputée pour sa gastronomie. Quatre jours par semaine, son marché couvert invite les gourmets à déambuler au milieu des stands.'
+  genre:
+  - '32'
 - eventId: 690645
   start: 2026-11-04T15:38:52Z
   stop: 2026-11-04T16:20:00Z
@@ -443,7 +481,9 @@
 
     AUDIO 1 : FRANÇAIS / AUDIO 2 : ALLEMAND
     Sous-titres pour sourds et malentendants disponibles pour ce programme
-- eventId: 655994
+- eventId:
+  - 655994
+  - 692732
   start: 2026-11-04T16:20:00Z
   stop: 2026-11-04T17:05:00Z
   title: Invitation au voyage
@@ -465,6 +505,7 @@
   - 654616
   - 655995
   - 663903
+  - 692733
   - 783731
   start: 2026-11-04T17:05:00Z
   stop: 2026-11-04T17:55:00Z
@@ -501,7 +542,9 @@
     Magazine (France, 2026, 4mn) En quatre minutes, le décryptage géopolitique d'un événement qui secoue le monde contemporain.
 
     AUDIO 1 : FRANÇAIS
-- eventId: 655996
+- eventId:
+  - 655996
+  - 692734
   start: 2026-11-04T17:55:00Z
   stop: 2026-11-04T18:30:00Z
   title: Voyage en cuisine
@@ -523,6 +566,7 @@
   - 654618
   - 655997
   - 663905
+  - 692735
   - 783733
   start: 2026-11-04T18:30:00Z
   stop: 2026-11-04T18:45:00Z
@@ -558,6 +602,7 @@
   - 654620
   - 655999
   - 663907
+  - 692736
   - 783735
   start: 2026-11-04T19:05:00Z
   stop: 2026-11-04T19:50:00Z
@@ -579,6 +624,7 @@
   - 654621
   - 656000
   - 663908
+  - 692737
   - 783736
   start: 2026-11-04T19:50:00Z
   stop: 2026-11-04T20:00:00Z
@@ -611,6 +657,7 @@
   - 654622
   - 656001
   - 663909
+  - 692738
   - 783737
   start: 2026-11-04T20:00:00Z
   stop: 2026-11-04T21:40:00Z
@@ -623,6 +670,7 @@
   - 654623
   - 656002
   - 663910
+  - 692739
   - 783738
   start: 2026-11-04T21:40:00Z
   stop: 2026-11-04T22:35:00Z
@@ -645,6 +693,7 @@
   - 654624
   - 656003
   - 663911
+  - 692740
   - 783739
   start: 2026-11-04T22:35:00Z
   stop: 2026-11-05T00:40:00Z
