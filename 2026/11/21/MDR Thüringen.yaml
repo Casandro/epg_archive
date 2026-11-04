@@ -15,6 +15,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 572776
   - 600952
@@ -49,6 +50,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 551788
   - 554683
@@ -228,12 +230,15 @@
   - 741926
   start: 2026-11-21T05:20:00Z
   stop: 2026-11-21T06:10:00Z
-  title: Das Glück dieser Erde (5)
+  title: Das Glück dieser Erde (5/13)
   subtitle: Ein schlimmer Verdacht
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 540696
   - 552264
@@ -260,12 +265,14 @@
   - 741955
   start: 2026-11-21T06:35:00Z
   stop: 2026-11-21T07:00:00Z
-  title: Meister Eder und sein Pumuckl (48)
+  title: Meister Eder und sein Pumuckl (48/52)
   subtitle: Pumuckl will eine Uhr haben
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 540698
   - 552266
@@ -276,12 +283,14 @@
   - 741956
   start: 2026-11-21T07:00:00Z
   stop: 2026-11-21T07:25:00Z
-  title: Meister Eder und sein Pumuckl (49)
+  title: Meister Eder und sein Pumuckl (49/52)
   subtitle: Die Plastikente
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 540699
   - 552267
@@ -312,7 +321,7 @@
   start: 2026-11-21T08:50:00Z
   stop: 2026-11-21T10:15:00Z
   title: Tango im Schnee
-  subtitle: Spielfilm Deutschland/Österreich 2009
+  subtitle: Fernsehfilm Deutschland/Österreich 2009
   genre:
   - '16'
   widescreen: true
@@ -345,12 +354,14 @@
   - 741998
   start: 2026-11-21T11:00:00Z
   stop: 2026-11-21T11:30:00Z
-  title: Eisenbahn-Romantik
+  title: Eisenbahn-Romantik (935)
   subtitle: Gartenbahnen in Portland
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 541011
   - 552426
@@ -730,6 +741,7 @@
   audiodesc: true
   genre:
   - '16'
+  ageRating: 12
 - eventId:
   - 545654
   - 553792
