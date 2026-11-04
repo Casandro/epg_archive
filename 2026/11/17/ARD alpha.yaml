@@ -204,8 +204,9 @@
   - 763455
   start: 2026-11-17T12:00:00Z
   stop: 2026-11-17T12:15:00Z
-  title: Tele-Gym (3)
-  subtitle: Yoga-Pilates-50plus
+  title: Tele-Gym (3/8)
+  subtitle: Aktiv & beweglich mit 60+
+  subtitled: true
 - eventId:
   - 582037
   - 600670
@@ -213,8 +214,11 @@
   - 763456
   start: 2026-11-17T12:15:00Z
   stop: 2026-11-17T12:30:00Z
-  title: Tele-Gym (6)
+  title: Tele-Gym (6/10)
   subtitle: Aktiv & beweglich mit 60+
+  genre:
+  - '144'
+  subtitled: true
 - eventId:
   - 582038
   - 600671
@@ -288,6 +292,8 @@
   title: Expedition in die Heimat
   subtitle: Unterwegs im Weinland Rheinhessen
   subtitled: true
+  genre:
+  - '144'
 - eventId:
   - 582198
   - 601030
@@ -300,14 +306,8 @@
   subtitled: true
 - eventId:
   - 582199
-  - 609037
-  start: 2026-11-17T17:45:00Z
-  stop: 2026-11-17T18:30:00Z
-  title: Quarks
-  subtitle: 'Die Macht des Mikrobioms: Was unser Darm leistet'
-  subtitled: true
-- eventId:
   - 601031
+  - 609037
   - 763487
   start: 2026-11-17T17:45:00Z
   stop: 2026-11-17T18:30:00Z
@@ -359,7 +359,8 @@
   - 763689
   start: 2026-11-17T20:45:00Z
   stop: 2026-11-17T21:15:00Z
-  title: Ohne Tabus durch die Wechseljahre
+  title: 'Re: Ohne Tabus durch die Wechseljahre'
+  subtitle: Deutschland 2024
 - eventId:
   - 582483
   - 609308
