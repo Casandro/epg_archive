@@ -480,23 +480,15 @@
   - 602735
   - 613846
   - 634296
-  start: 2026-11-13T09:25:00Z
-  stop: 2026-11-13T10:15:00Z
-  title: Rote Rosen
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  subtitle: Deutschland 2026
-- eventId: 847922
+  - 847922
   start: 2026-11-13T09:25:00Z
   stop: 2026-11-13T10:15:00Z
   title: Rote Rosen (4419)
-  subtitle: Deutschland 2026
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Deutschland 2026
 - eventId:
   - 540961
   - 552394
@@ -528,13 +520,14 @@
   start: 2026-11-13T11:05:00Z
   stop: 2026-11-13T12:35:00Z
   title: Alles was Recht ist - Väter, Töchter, Söhne
-  subtitle: Spielfilm Deutschland 2011
+  subtitle: Fernsehfilm Deutschland 2011
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 1194317
   - 1400077
@@ -563,12 +556,14 @@
   - 847946
   start: 2026-11-13T12:35:00Z
   stop: 2026-11-13T13:25:00Z
-  title: WaPo Berlin
+  title: WaPo Berlin (35)
   subtitle: Das Ende eines Traums
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 555573
   - 556670
@@ -598,12 +593,13 @@
   - 847947
   start: 2026-11-13T13:25:00Z
   stop: 2026-11-13T14:10:00Z
-  title: Hubert ohne Staller
+  title: Hubert ohne Staller (178)
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
   subtitle: Im Auftrag des Teufels
+  ageRating: 6
 - eventId:
   - 541294
   - 552708
@@ -616,11 +612,12 @@
   - 847948
   start: 2026-11-13T14:10:00Z
   stop: 2026-11-13T15:00:00Z
-  title: Quizduell-Olymp
+  title: Quizduell-Olymp (524)
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: 'Gäste: Jana Pareigis und Mitri Sirin'
 - eventId:
   - 541919
   - 562734
@@ -638,6 +635,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: 'Moderation: Jens Kölker'
 - eventId:
   - 541920
   - 562735
@@ -672,6 +670,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: 'Moderation: Jens Kölker'
 - eventId:
   - 541922
   - 562737
