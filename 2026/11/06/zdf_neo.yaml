@@ -461,7 +461,7 @@
   - 615578
   - 630756
   start: 2026-11-06T04:40:00Z
-  stop: 2026-11-06T05:40:00Z
+  stop: 2026-11-06T05:30:00Z
   title: Suits
   subtitle: Abschied
   genre:
@@ -522,7 +522,9 @@
   - '21'
   widescreen: true
   hd: true
-- eventId: 696751
+- eventId:
+  - 696751
+  - 697167
   start: 2026-11-06T05:30:00Z
   stop: 2026-11-06T05:40:00Z
   title: Dinge Erklärt - Kurzgesagt
@@ -530,6 +532,8 @@
   genre:
   - '32'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 847537
   - 847656
