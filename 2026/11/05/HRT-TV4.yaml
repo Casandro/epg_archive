@@ -572,7 +572,9 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 624155
+- eventId:
+  - 624155
+  - 698569
   start: 2026-11-05T09:45:00Z
   stop: 2026-11-05T09:50:00Z
   title: Poslovne vijesti
@@ -581,7 +583,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 624156
+- eventId:
+  - 624156
+  - 698570
   start: 2026-11-05T09:50:00Z
   stop: 2026-11-05T10:00:00Z
   title: 'Studio 4: Znanost'
@@ -853,13 +857,19 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 624186
   start: 2026-11-05T14:35:00Z
-  stop: 2026-11-05T15:00:00Z
+  stop: 2026-11-05T14:55:00Z
   title: 'Studio 4: Zelena linija'
   subtitle: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
   ageRating: 4
   genre:
   - '160'
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
+- eventId: 698491
+  start: 2026-11-05T14:55:00Z
+  stop: 2026-11-05T15:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 624187
   start: 2026-11-05T15:00:00Z
   stop: 2026-11-05T15:15:00Z
@@ -1289,7 +1299,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 638795
+- eventId:
+  - 638795
+  - 698571
   start: 2026-11-05T21:44:00Z
   stop: 2026-11-05T22:04:00Z
   title: 'Studio 4: Zelena linija'
@@ -1315,6 +1327,14 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 698572
+  start: 2026-11-05T22:04:00Z
+  stop: 2026-11-05T22:07:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 624223
   start: 2026-11-05T22:07:00Z
   stop: 2026-11-05T22:10:00Z
