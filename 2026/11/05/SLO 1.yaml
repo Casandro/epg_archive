@@ -26,7 +26,7 @@
   start: 2026-11-05T06:00:00Z
   stop: 2026-11-05T07:00:00Z
   title: Dobro jutro
-  subtitle: Oddaja Dobro jutro je oddaja gledalcev. S svojimi svetovalnimi, izobraževalnimi, razvedrilnimi in informativnimi vsebinami sledimo željam gledalcev vseh starostnih skupin.
+  subtitle: Pred nami je pestro jutro. Spoznali bomo uspešne šolarje, se sprehodili po zgodovini Regionalnih RTV centrov, povabili vas bomo na dobrodelno modno revijo ter svetovali o fermentirani hrani.
   ageRating: 4
   genre:
   - '160'
@@ -48,7 +48,7 @@
   - '160'
 - eventId: 624241
   start: 2026-11-05T08:00:00Z
-  stop: 2026-11-05T08:05:00Z
+  stop: 2026-11-05T08:10:00Z
   title: Poročila
   subtitle: Jutranja poročila so prva televizijska poročila, ob katerih se gledalci seznanijo z najpomembnejšim dogajanjem doma in po svetu.
   ageRating: 4
@@ -56,6 +56,14 @@
   - '32'
 - eventId: 624242
   start: 2026-11-05T08:05:00Z
+  stop: 2026-11-05T09:00:00Z
+  title: Dobro jutro
+  subtitle: Oddaja Dobro jutro je oddaja gledalcev. Oddaja Dobro jutro bo z vami tudi v poletnih mesecih!
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 685637
+  start: 2026-11-05T08:10:00Z
   stop: 2026-11-05T09:00:00Z
   title: Dobro jutro
   subtitle: Oddaja Dobro jutro je oddaja gledalcev. Oddaja Dobro jutro bo z vami tudi v poletnih mesecih!
@@ -80,6 +88,14 @@
   - '160'
 - eventId: 624245
   start: 2026-11-05T09:30:00Z
+  stop: 2026-11-05T09:50:00Z
+  title: Slastna kuhinja
+  subtitle: Danes bomo skuhali juho, ki jo je navdihnila ribollita, gosta italijanska zelenjavna juha iz Toskane. Ime pomeni "dvakrat pogreto".
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 685638
+  start: 2026-11-05T09:35:00Z
   stop: 2026-11-05T09:50:00Z
   title: Slastna kuhinja
   subtitle: Danes bomo skuhali juho, ki jo je navdihnila ribollita, gosta italijanska zelenjavna juha iz Toskane. Ime pomeni "dvakrat pogreto".
@@ -124,7 +140,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 624250
+- eventId:
+  - 624250
+  - 685639
   start: 2026-11-05T11:45:00Z
   stop: 2026-11-05T11:55:00Z
   title: Vreme in podnebje
@@ -188,9 +206,17 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 685640
+  start: 2026-11-05T14:15:00Z
+  stop: 2026-11-05T14:45:00Z
+  title: Pod drobnogledom/Nagyító alatt
+  subtitle: Oddajo Pod drobnogledom/Nagyító alatt namenjamo obravnavi ene, včasih pa tudi dveh do treh aktualnih tem, predvsem z dvojezičnega območja. V oddajah obravnavamo velikokrat tudi splošno problematiko.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 624258
   start: 2026-11-05T14:45:00Z
-  stop: 2026-11-05T14:50:00Z
+  stop: 2026-11-05T14:55:00Z
   title: Živalski čira čara
   subtitle: Je ptica? Je medved? Je Živalski čira čara! Ugibanje je zabavno. Vam je velik rilec znan? Kaj pa črno bela dlaka? In kaj menite o malčku, ki se plazi naokrog zelo počasi? Škatlica vam pomaga z namigi.
   ageRating: 4
@@ -198,6 +224,14 @@
   - '160'
 - eventId: 624259
   start: 2026-11-05T14:50:00Z
+  stop: 2026-11-05T15:50:00Z
+  title: 'Sesalci: Snemanje Sesalcev'
+  subtitle: V dokumentarni oddaji lahko pokukamo v zakulisje snemanja poljudnoznanstvene serije Sesalci. Snemalci so se morali spopasti z življenjem v enakih razmerah kot živali, ki so jih želeli posneti.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 685641
+  start: 2026-11-05T14:55:00Z
   stop: 2026-11-05T15:50:00Z
   title: 'Sesalci: Snemanje Sesalcev'
   subtitle: V dokumentarni oddaji lahko pokukamo v zakulisje snemanja poljudnoznanstvene serije Sesalci. Snemalci so se morali spopasti z življenjem v enakih razmerah kot živali, ki so jih želeli posneti.

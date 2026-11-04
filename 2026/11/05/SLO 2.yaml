@@ -1,3 +1,11 @@
+- eventId: 685643
+  start: 2026-11-05T00:00:00Z
+  stop: 2026-11-05T00:45:00Z
+  title: Slovenska jazz scena
+  subtitle: Posnetek koncerta ansambla Tone Janša Long Way Quartet. Saksofonist, flavtist in skladatelj Tone Janša velja za legendo slovenskega jazza.
+  ageRating: 4
+  genre:
+  - '96'
 - eventId: 624294
   start: 2026-11-05T00:05:00Z
   stop: 2026-11-05T00:45:00Z
@@ -42,19 +50,21 @@
   start: 2026-11-05T10:25:00Z
   stop: 2026-11-05T13:05:00Z
   title: Dobro jutro
-  subtitle: Oddaja Dobro jutro je oddaja gledalcev. S svojimi svetovalnimi, izobraževalnimi, razvedrilnimi in informativnimi vsebinami sledimo željam gledalcev vseh starostnih skupin.
+  subtitle: Pred nami je pestro jutro. Spoznali bomo uspešne šolarje, se sprehodili po zgodovini Regionalnih RTV centrov, povabili vas bomo na dobrodelno modno revijo ter svetovali o fermentirani hrani.
   ageRating: 4
   genre:
   - '160'
 - eventId: 624299
   start: 2026-11-05T13:05:00Z
-  stop: 2026-11-05T13:40:00Z
+  stop: 2026-11-05T13:35:00Z
   title: Na lepše
   subtitle: Na lokaciji Rimskega vrelca v Kotljah - na eni najbolj prepoznavnih lokacij na Koroškem - se po četrt stoletja premora piše novo poglavje.
   ageRating: 4
   genre:
   - '160'
-- eventId: 624300
+- eventId:
+  - 624300
+  - 685644
   start: 2026-11-05T13:35:00Z
   stop: 2026-11-05T14:20:00Z
   title: Ambienti
@@ -70,7 +80,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 624301
+- eventId:
+  - 624301
+  - 685645
   start: 2026-11-05T14:20:00Z
   stop: 2026-11-05T15:00:00Z
   title: Dnevna soba
@@ -88,12 +100,20 @@
   - '160'
 - eventId: 624302
   start: 2026-11-05T15:00:00Z
-  stop: 2026-11-05T15:30:00Z
+  stop: 2026-11-05T15:25:00Z
   title: Moški
   subtitle: Marko je star 40 let in še vedno živi s svojo mamo. Njegovo življenje je ustaljeno med službo in domom. Sodelavka Ajda se mu poizkuša približati, a neuspešno.
   ageRating: 4
   genre:
   - '16'
+- eventId: 685646
+  start: 2026-11-05T15:25:00Z
+  stop: 2026-11-05T16:35:00Z
+  title: Čez planke
+  subtitle: Srbija niso le Beograd, tamburaši, čevapčiči in ravnice ob Donavi. Mojca nas popelje v velik del države, ki ga oblikujejo gore, gozdovi in planine.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 624303
   start: 2026-11-05T15:30:00Z
   stop: 2026-11-05T16:35:00Z
