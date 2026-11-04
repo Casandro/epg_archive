@@ -539,6 +539,7 @@
 - eventId:
   - 624151
   - 701469
+  - 702931
   start: 2026-11-05T09:30:00Z
   stop: 2026-11-05T09:31:00Z
   title: Vrijeme RH danas
@@ -550,6 +551,7 @@
 - eventId:
   - 624152
   - 701470
+  - 702932
   start: 2026-11-05T09:31:00Z
   stop: 2026-11-05T09:33:00Z
   title: Vrijeme Europa danas
@@ -561,6 +563,7 @@
 - eventId:
   - 624153
   - 701471
+  - 702933
   start: 2026-11-05T09:33:00Z
   stop: 2026-11-05T09:35:00Z
   title: Vrijeme Svijet danas
@@ -578,7 +581,9 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 701472
+- eventId:
+  - 701472
+  - 702934
   start: 2026-11-05T09:35:00Z
   stop: 2026-11-05T09:45:00Z
   title: 'Studio 4: Sport'
@@ -599,6 +604,7 @@
   - 698569
   - 700910
   - 701473
+  - 702935
   start: 2026-11-05T09:45:00Z
   stop: 2026-11-05T09:50:00Z
   title: Poslovne vijesti
@@ -620,6 +626,7 @@
   - 698570
   - 700911
   - 701474
+  - 702936
   start: 2026-11-05T09:50:00Z
   stop: 2026-11-05T10:00:00Z
   title: 'Studio 4: Znanost'
@@ -1334,7 +1341,7 @@
   - '160'
 - eventId: 638794
   start: 2026-11-05T21:12:00Z
-  stop: 2026-11-05T21:44:00Z
+  stop: 2026-11-05T21:43:00Z
   title: Svijet znanosti
   subtitle: Emisija donosi aktualnosti, nova znanstvena otkrića, zanimljivosti iz životinjskog i biljnog svijeta te društvene fenomene. Zavirit ćemo u sve kutke Zemlje, a nećemo zaboraviti ni ostatak svemira.
   ageRating: 4
@@ -1370,6 +1377,14 @@
   genre:
   - '160'
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
+- eventId: 702948
+  start: 2026-11-05T21:44:00Z
+  stop: 2026-11-05T22:03:00Z
+  title: 'Studio 4: Zelena linija'
+  subtitle: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 624222
   start: 2026-11-05T22:02:00Z
   stop: 2026-11-05T22:07:00Z
@@ -1399,6 +1414,7 @@
   - 698572
   - 700913
   - 701476
+  - 702949
   start: 2026-11-05T22:04:00Z
   stop: 2026-11-05T22:07:00Z
   title: '#REPORTAŽE'

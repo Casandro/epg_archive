@@ -291,7 +291,7 @@
   - 716899
   - 718409
   start: 2026-11-20T15:00:00Z
-  stop: 2026-11-20T15:40:00Z
+  stop: 2026-11-20T15:55:00Z
   title: ZDFsportstudio live
   genre:
   - '64'
@@ -371,7 +371,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 701584
+- eventId:
+  - 701584
+  - 702691
   start: 2026-11-20T15:55:00Z
   stop: 2026-11-20T16:00:00Z
   title: heute Xpress
@@ -379,7 +381,11 @@
   - '32'
   widescreen: true
   subtitled: true
-- eventId: 701585
+  hd: true
+  audiodesc: true
+- eventId:
+  - 701585
+  - 702692
   start: 2026-11-20T16:00:00Z
   stop: 2026-11-20T17:00:00Z
   title: ZDFsportstudio live
@@ -387,6 +393,8 @@
   - '64'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1452698
   - 1455487
