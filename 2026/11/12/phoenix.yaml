@@ -230,7 +230,9 @@
     ca. 08:45 Uhr - LIVE - Berlin:
 
     u.a. Sitzung des Bundestags
-- eventId: 732560
+- eventId:
+  - 732560
+  - 732718
   start: 2026-11-12T07:45:00Z
   stop: 2026-11-12T12:00:00Z
   title: phoenix vor ort
@@ -241,12 +243,18 @@
     ca. 08:45 Uhr - LIVE - Berlin:
 
     u.a. Sitzung des Bundestags
-- eventId: 732561
+  widescreen: true
+  hd: true
+- eventId:
+  - 732561
+  - 732721
   start: 2026-11-12T12:00:00Z
   stop: 2026-11-12T16:30:00Z
   title: phoenix vor ort
   subtitle: u.a. Bundestag LIVE
   description: "Donnerstag, 12. November 2026\n\nca. 13:00 Uhr - LIVE - Berlin: \n\nu.a. Sitzung des Deutschen Bundestags"
+  widescreen: true
+  hd: true
 - eventId:
   - 1008238
   - 547670
@@ -259,12 +267,22 @@
   - 611821
   - 928027
   start: 2026-11-12T16:30:00Z
-  stop: 2026-11-12T17:00:00Z
+  stop: 2026-11-12T16:45:00Z
   title: Alpendörfer in Gefahr
   subtitle: Felsstürze in den Schweizer Bergen
   widescreen: true
   hd: true
   description: "Erdrutsche und Bergstürze sind in den Alpen normal. Doch der Klimawandel sorgt für häufigeren Starkregen und die Zunahme solcher Ereignisse. \n\nMüssen bald ganze Dörfer aufgegeben werden oder reichen technische Sicherungsmaßnahmen?\n\nSendehinweis: 13.10.2026, 05:10 Uhr"
+- eventId:
+  - 732719
+  - 732731
+  start: 2026-11-12T16:45:00Z
+  stop: 2026-11-12T17:00:00Z
+  title: Kampf um Rohstoffe
+  subtitle: Kupfer, Seltene Erden und der Hunger der KI
+  description: "In jedem Rechenzentrum stecken Kupfer und Seltene Erden. \n\nDoch Europa hat von diesen Rohstoffen zu wenig. Können wir dennoch mithalten im Kampf um Macht, Abhängigkeit und unsere digitale Zukunft?\n\nSendehinweis: 12.11.2026, 17:45 Uhr"
+  widescreen: true
+  hd: true
 - eventId:
   - 1008239
   - 547671
