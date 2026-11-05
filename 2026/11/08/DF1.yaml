@@ -134,11 +134,20 @@
   - 627581
   - 757370
   start: 2026-11-08T08:00:00Z
-  stop: 2026-11-08T09:00:00Z
+  stop: 2026-11-08T08:45:00Z
   title: Wetterpanorama
   description: DF1 präsentiert das neue Wetterpanorama und liefert den schönsten Live-Blick auf verschiedene Standorte in Deutschland und darüber hinaus. Berlin, Köln, München, Hamburg, Westerland und natürlich der Alpenraum - von belebten Städten bis hin zu malerischen Landschaften - mit Kamera Positionen im ganzen Land können DF1 Zuschauer das aktuelle Wettergeschehen vor Ort tagtäglich live mitverfolgen.
   genre:
   - '33'
+  widescreen: true
+  hd: true
+- eventId: 720305
+  start: 2026-11-08T08:45:00Z
+  stop: 2026-11-08T10:45:00Z
+  title: Genius
+  description: Entdecken Sie geniale Produkte, die Ihren Alltag erleichtern! Genius Shopping bietet innovative Lösungen, die Ihr Leben verbessern - von praktischen Haushaltshelfern bis zu Lifestyle-Produkten.
+  genre:
+  - '23'
   widescreen: true
   hd: true
 - eventId:
@@ -153,6 +162,16 @@
   - '23'
   widescreen: true
   hd: true
+- eventId: 720306
+  start: 2026-11-08T10:45:00Z
+  stop: 2026-11-08T11:15:00Z
+  title: Die besten Köche der Welt - Zu Gast im Ikarus
+  subtitle: Daniel Humm in Salzburg
+  description: Der "Best Chef N.Y.C.", Daniel Humm vom Restaurant Eleven Madison Park bringt seine Interpretation der leichten französischen Küche zu Roland Trettl ins Salzburger Restaurant Ikarus. Seine Spezialität - auf der Speisekarte stehen nur die Zutaten, nicht die Gerichte. Der Gast liefert sich dem Koch aus.
+  genre:
+  - '165'
+  widescreen: true
+  hd: true
 - eventId:
   - 599410
   - 627611
@@ -162,6 +181,16 @@
   title: Die besten Köche der Welt - Zu Gast im Ikarus
   subtitle: Daniel Humm in Salzburg
   description: Der "Best Chef N.Y.C.", Daniel Humm vom Restaurant Eleven Madison Park bringt seine Interpretation der leichten französischen Küche zu Roland Trettl ins Salzburger Restaurant Ikarus. Seine Spezialität - auf der Speisekarte stehen nur die Zutaten, nicht die Gerichte. Der Gast liefert sich dem Koch aus.
+  genre:
+  - '165'
+  widescreen: true
+  hd: true
+- eventId: 720307
+  start: 2026-11-08T11:15:00Z
+  stop: 2026-11-08T11:45:00Z
+  title: Die besten Köche der Welt - Zu Gast im Ikarus
+  subtitle: Daniel Humm, USA
+  description: Kochlöffel oder Fahrradgabel? Als sich Daniel Humm zwischen einer Karriere als professioneller Mountainbiker und Koch entscheiden musste, entschied er sich - zum Glück vieler Feinschmecker - für eine Laufbahn hinter dem Herd.
   genre:
   - '165'
   widescreen: true
@@ -179,6 +208,15 @@
   - '165'
   widescreen: true
   hd: true
+- eventId: 720308
+  start: 2026-11-08T11:45:00Z
+  stop: 2026-11-08T12:15:00Z
+  title: Genius
+  description: Entdecken Sie geniale Produkte, die Ihren Alltag erleichtern! Genius Shopping bietet innovative Lösungen, die Ihr Leben verbessern - von praktischen Haushaltshelfern bis zu Lifestyle-Produkten.
+  genre:
+  - '23'
+  widescreen: true
+  hd: true
 - eventId:
   - 600071
   - 627675
@@ -191,17 +229,28 @@
   - '23'
   widescreen: true
   hd: true
+- eventId: 720309
+  start: 2026-11-08T12:15:00Z
+  stop: 2026-11-08T13:00:00Z
+  title: 'Grand Prix von Katar: Moto3: Vorbericht'
+  description: DF1 überträgt die Rennklassen der MotoGP, der Moto2 und der Moto3. Am Samstag zunächst die Qualifyings aller Klassen sowie das Sprintrennen der MotoGP. Am Sonntag folgt die Übertragung der Rennen aller drei Klassen inklusive ausführlicher Vorberichte, Analysen, Interviews und Hintergrund-Berichte. Moderiert werden die Rennen vom Kult-Duo Christian Brugger und Alex Hofmann, direkt von der Strecke melden sich abwechselnd Alina Marzi und Eve Scheer. Als Experten sind Stefan Bradl, Gustl Auinger und Sandro Cortese im Einsatz.
+  genre:
+  - '71'
+  widescreen: true
+  hd: true
 - eventId:
   - 600072
   - 627676
   - 759065
   start: 2026-11-08T13:00:00Z
   stop: 2026-11-08T13:15:00Z
-  title: Einfach gut leben
+  title: 'Grand Prix von Katar: Moto3: Rennen'
   subtitle: Die Belastung der Augen
-  description: 'Gesund leben im Einklang mit der Natur: Tipps von Dr. Hans Gasperl.'
+  description: DF1 überträgt die Rennklassen der MotoGP, der Moto2 und der Moto3. Am Samstag zunächst die Qualifyings aller Klassen sowie das Sprintrennen der MotoGP. Am Sonntag folgt die Übertragung der Rennen aller drei Klassen inklusive ausführlicher Vorberichte, Analysen, Interviews und Hintergrund-Berichte. Moderiert werden die Rennen vom Kult-Duo Christian Brugger und Alex Hofmann, direkt von der Strecke melden sich abwechselnd Alina Marzi und Eve Scheer. Als Experten sind Stefan Bradl, Gustl Auinger und Sandro Cortese im Einsatz.
   widescreen: true
   hd: true
+  genre:
+  - '71'
 - eventId:
   - 600073
   - 627677
@@ -220,14 +269,21 @@
   - 600118
   - 764598
   start: 2026-11-08T15:15:00Z
-  stop: 2026-11-08T16:10:00Z
-  title: Kommissar Rex
+  stop: 2026-11-08T16:00:00Z
+  title: 'Grand Prix von Katar: MotoGP: Vorbericht'
   subtitle: Der Tote im Golfclub
-  description: |-
-    Der Präsident eines renommierten Golfclubs wird erschlagen auf seinem Golfgelände aufgefunden. Rex' und Fabbris Ermittlungen gestalten sich komplizierter als gedacht, da sowohl im Golfclub als auch in der Familie überall Mordmotive lauern.
-    Schäferhund Rex und sein Herrchen stellen sich in den Dienst der Polizei und erleben dabei gemeinsam einige Abenteuer. Das Power-Duo löst viele Kriminalfälle - äußerst brenzlige zumeist, aber der Verbrecher, der Rex überlisten will, muss erst noch geboren werden.
+  description: DF1 überträgt die Rennklassen der MotoGP, der Moto2 und der Moto3. Am Samstag zunächst die Qualifyings aller Klassen sowie das Sprintrennen der MotoGP. Am Sonntag folgt die Übertragung der Rennen aller drei Klassen inklusive ausführlicher Vorberichte, Analysen, Interviews und Hintergrund-Berichte. Moderiert werden die Rennen vom Kult-Duo Christian Brugger und Alex Hofmann, direkt von der Strecke melden sich abwechselnd Alina Marzi und Eve Scheer. Als Experten sind Stefan Bradl, Gustl Auinger und Sandro Cortese im Einsatz.
   genre:
   - '17'
+  widescreen: true
+  hd: true
+- eventId: 720310
+  start: 2026-11-08T16:00:00Z
+  stop: 2026-11-08T16:45:00Z
+  title: 'Grand Prix von Katar: MotoGP: Rennen'
+  description: DF1 überträgt die Rennklassen der MotoGP, der Moto2 und der Moto3. Am Samstag zunächst die Qualifyings aller Klassen sowie das Sprintrennen der MotoGP. Am Sonntag folgt die Übertragung der Rennen aller drei Klassen inklusive ausführlicher Vorberichte, Analysen, Interviews und Hintergrund-Berichte. Moderiert werden die Rennen vom Kult-Duo Christian Brugger und Alex Hofmann, direkt von der Strecke melden sich abwechselnd Alina Marzi und Eve Scheer. Als Experten sind Stefan Bradl, Gustl Auinger und Sandro Cortese im Einsatz.
+  genre:
+  - '71'
   widescreen: true
   hd: true
 - eventId:
@@ -245,6 +301,15 @@
   - '17'
   widescreen: true
   hd: true
+- eventId: 720311
+  start: 2026-11-08T16:45:00Z
+  stop: 2026-11-08T17:15:00Z
+  title: 'Grand Prix von Katar: MotoGP: Analyse'
+  description: DF1 überträgt die Rennklassen der MotoGP, der Moto2 und der Moto3. Am Samstag zunächst die Qualifyings aller Klassen sowie das Sprintrennen der MotoGP. Am Sonntag folgt die Übertragung der Rennen aller drei Klassen inklusive ausführlicher Vorberichte, Analysen, Interviews und Hintergrund-Berichte. Moderiert werden die Rennen vom Kult-Duo Christian Brugger und Alex Hofmann, direkt von der Strecke melden sich abwechselnd Alina Marzi und Eve Scheer. Als Experten sind Stefan Bradl, Gustl Auinger und Sandro Cortese im Einsatz.
+  genre:
+  - '71'
+  widescreen: true
+  hd: true
 - eventId:
   - 571017
   - 600120
@@ -258,6 +323,15 @@
   - '35'
   widescreen: true
   hd: true
+- eventId: 720312
+  start: 2026-11-08T17:15:00Z
+  stop: 2026-11-08T18:15:00Z
+  title: 'Grand Prix von Katar: Moto3: Rennen'
+  description: DF1 überträgt die Rennklassen der MotoGP, der Moto2 und der Moto3. Am Samstag zunächst die Qualifyings aller Klassen sowie das Sprintrennen der MotoGP. Am Sonntag folgt die Übertragung der Rennen aller drei Klassen inklusive ausführlicher Vorberichte, Analysen, Interviews und Hintergrund-Berichte. Moderiert werden die Rennen vom Kult-Duo Christian Brugger und Alex Hofmann, direkt von der Strecke melden sich abwechselnd Alina Marzi und Eve Scheer. Als Experten sind Stefan Bradl, Gustl Auinger und Sandro Cortese im Einsatz.
+  genre:
+  - '71'
+  widescreen: true
+  hd: true
 - eventId:
   - 572882
   - 600150
@@ -267,6 +341,15 @@
   title: Einfach gut leben
   subtitle: Jungbrunnen Muskelkraft
   description: Tipps zum Thema natürliche Heilmittel und Leben mit der Natur.
+  widescreen: true
+  hd: true
+- eventId: 720313
+  start: 2026-11-08T18:15:00Z
+  stop: 2026-11-08T19:15:00Z
+  title: 'Grand Prix von Katar: Moto2: Rennen'
+  description: DF1 überträgt die Rennklassen der MotoGP, der Moto2 und der Moto3. Am Samstag zunächst die Qualifyings aller Klassen sowie das Sprintrennen der MotoGP. Am Sonntag folgt die Übertragung der Rennen aller drei Klassen inklusive ausführlicher Vorberichte, Analysen, Interviews und Hintergrund-Berichte. Moderiert werden die Rennen vom Kult-Duo Christian Brugger und Alex Hofmann, direkt von der Strecke melden sich abwechselnd Alina Marzi und Eve Scheer. Als Experten sind Stefan Bradl, Gustl Auinger und Sandro Cortese im Einsatz.
+  genre:
+  - '71'
   widescreen: true
   hd: true
 - eventId:
