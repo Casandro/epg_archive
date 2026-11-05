@@ -1,3 +1,11 @@
+- eventId: 724761
+  start: 2026-11-06T05:00:00Z
+  stop: 2026-11-06T05:35:00Z
+  title: Odmevi
+  subtitle: Odmevi vsak delavnik ob 22.10 ponudijo sveže večerne novice ter analize najpomembnejših dogodkov dneva.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 678958
   start: 2026-11-06T05:05:00Z
   stop: 2026-11-06T05:35:00Z
@@ -8,12 +16,20 @@
   - '32'
 - eventId: 678959
   start: 2026-11-06T05:35:00Z
-  stop: 2026-11-06T05:50:00Z
+  stop: 2026-11-06T05:45:00Z
   title: Kultura
   subtitle: Kultura je kratka aktualna informativna oddaja o kulturi in umetnosti, v kateri se praviloma izpostavljajo osrednji dogodki dneva. V njej najdejo prostor tudi mednarodne novice in problemske teme.
   ageRating: 4
   genre:
   - '160'
+- eventId: 724762
+  start: 2026-11-06T05:45:00Z
+  stop: 2026-11-06T06:00:00Z
+  title: Šport
+  subtitle: Zadnji pregled športnega dogajanja v dnevu je prelet dneva z vsemi najpomembnejšimi novicami, zlasti popoldanskimi in svežimi večernimi, ter napoved novega tekmovalnega dne.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 678960
   start: 2026-11-06T05:50:00Z
   stop: 2026-11-06T06:00:00Z
@@ -48,7 +64,7 @@
   - '160'
 - eventId: 678964
   start: 2026-11-06T08:00:00Z
-  stop: 2026-11-06T08:05:00Z
+  stop: 2026-11-06T08:10:00Z
   title: Poročila
   subtitle: Jutranja poročila so prva televizijska poročila, ob katerih se gledalci seznanijo z najpomembnejšim dogajanjem doma in po svetu.
   ageRating: 4
@@ -56,6 +72,14 @@
   - '32'
 - eventId: 678965
   start: 2026-11-06T08:05:00Z
+  stop: 2026-11-06T09:00:00Z
+  title: Dobro jutro
+  subtitle: Oddaja Dobro jutro je oddaja gledalcev. Oddaja Dobro jutro bo z vami tudi v poletnih mesecih!
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 724763
+  start: 2026-11-06T08:10:00Z
   stop: 2026-11-06T09:00:00Z
   title: Dobro jutro
   subtitle: Oddaja Dobro jutro je oddaja gledalcev. Oddaja Dobro jutro bo z vami tudi v poletnih mesecih!
@@ -158,6 +182,14 @@
   - '160'
 - eventId: 678978
   start: 2026-11-06T14:20:00Z
+  stop: 2026-11-06T14:25:00Z
+  title: Živalski čira čara
+  subtitle: Je ptica? Je medved? Je Živalski čira čara! Ugibanje je zabavno. Vam je velik rilec znan? Kaj pa črno bela dlaka? In kaj menite o malčku, ki se plazi naokrog zelo počasi? Škatlica vam pomaga z namigi.
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 724764
+  start: 2026-11-06T14:25:00Z
   stop: 2026-11-06T14:30:00Z
   title: Obalna straža
   subtitle: Filipa ima rojstni dan in kadeti načrtujejo zabavo ob bazenu. Stvari jim uidejo z vajeti, ko pozabijo na zlato pravilo, da morajo biti vrata na bazen vedno zaprta, in jih obišče nepričakovana gostja.
@@ -174,7 +206,7 @@
   - '160'
 - eventId: 678980
   start: 2026-11-06T14:45:00Z
-  stop: 2026-11-06T15:00:00Z
+  stop: 2026-11-06T15:05:00Z
   title: Šef doma z Mašo
   subtitle: Maša Trubačev in Petra Trofenik, mladi ljubiteljski kuharici, sta nova obraza druge sezone popoldanske kuharske oddaje Šef doma.
   ageRating: 4
@@ -182,6 +214,14 @@
   - '160'
 - eventId: 678981
   start: 2026-11-06T15:00:00Z
+  stop: 2026-11-06T15:35:00Z
+  title: (Ne)znana poglavja slovenske zgodovine
+  subtitle: Da lahko sodelujemo v izbiranju predstavnikov, ki nas bodo zastopali pri odločanju o pomembnih rečeh v državi, je naša pravica, marsikdo pa meni, da tudi dolžnost.
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 724765
+  start: 2026-11-06T15:05:00Z
   stop: 2026-11-06T15:35:00Z
   title: (Ne)znana poglavja slovenske zgodovine
   subtitle: Da lahko sodelujemo v izbiranju predstavnikov, ki nas bodo zastopali pri odločanju o pomembnih rečeh v državi, je naša pravica, marsikdo pa meni, da tudi dolžnost.
@@ -344,7 +384,7 @@
   - '32'
 - eventId: 679035
   start: 2026-11-06T22:00:00Z
-  stop: 2026-11-07T00:50:00Z
+  stop: 2026-11-07T00:55:00Z
   title: Sibirski brivec
   subtitle: Visokoproračunska epska romanca, postavljena v cesarsko Rusijo§§Američanka Jane Callahan ob koncu 19. stoletja prispe v Rusijo kot pomočnica ekscentričnega izumitelja McCrackna.
   ageRating: 4
