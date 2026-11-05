@@ -253,6 +253,7 @@
   audiodesc: true
   description: 'Jeden Abend gibt es von uns das Wichtigste aus Politik, Kultur, Wirtschaft und Sport, die Szene-Trends und die Kiezgeschichten. Kurz: "Wir sind ein Berliner" - Die rbb24 Abendschau hat den Berlin-Blick: Nah an den Menschen und ihren Geschichten, rau aber herzlich. Immer um 19:30 Uhr. Egal wann etwas passiert, die rbb24 Abendschau ist dabei.'
   subtitle: Mit einem Paukenschlag
+  ageRating: 6
 - eventId:
   - 1403287
   - 1590652
@@ -294,6 +295,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 540813
   - 547263
@@ -376,6 +378,8 @@
   audiodesc: true
   ageRating: 6
   description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Berlin und Brandenburg und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
+  genre:
+  - '16'
 - eventId:
   - 1040495
   - 1258989
@@ -429,6 +433,8 @@
   hd: true
   audiodesc: true
   ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 1563671
   - 555506
@@ -441,9 +447,10 @@
   subtitled: true
   hd: true
   audiodesc: true
-  subtitle: Spielfilm Deutschland 2012
+  subtitle: Fernsehfilm Deutschland 2012
   genre:
   - '16'
+  ageRating: 6
 - eventId:
   - 541164
   - 552574
@@ -456,7 +463,7 @@
   start: 2026-11-17T13:30:00Z
   stop: 2026-11-17T15:00:00Z
   title: Wunschkind
-  subtitle: Spielfilm Deutschland 2012
+  subtitle: Fernsehfilm Deutschland 2012
   episodeUri: crid://onid-1/e/6ac5725155a7c79709f508fe
   genre:
   - '16'
@@ -464,6 +471,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 541674
   - 557592

@@ -411,7 +411,7 @@
   - 740438
   - 746686
   start: 2026-11-05T11:30:00Z
-  stop: 2026-11-05T11:33:00Z
+  stop: 2026-11-05T11:33:05Z
   title: Zprávy
   description: |-
     HDTV
@@ -440,7 +440,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 722606
+- eventId:
+  - 722606
+  - 723071
   start: 2026-11-05T11:33:05Z
   stop: 2026-11-05T12:00:00Z
   title: Studio ČT24
@@ -477,7 +479,7 @@
   - 740448
   - 746756
   start: 2026-11-05T12:03:00Z
-  stop: 2026-11-05T12:30:00Z
+  stop: 2026-11-05T12:29:55Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
   description: |-
@@ -488,6 +490,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId:
+  - 723072
+  - 723131
+  start: 2026-11-05T12:29:55Z
+  stop: 2026-11-05T12:32:55Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 613572
   - 620610
@@ -506,6 +520,19 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId:
+  - 723073
+  - 723132
+  start: 2026-11-05T12:32:55Z
+  stop: 2026-11-05T13:00:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 613573
   - 620611
@@ -914,8 +941,9 @@
   start: 2026-11-05T16:55:00Z
   stop: 2026-11-05T17:00:00Z
   title: Předpověď počasí
-  subtitle: Souhrn meteorologických informací uplynulých 24 hodin a prognóza vývoje počasí na příští dny.
+  subtitle: V pátek bude jasno nebo skoro jasno. Ráno a dopoledne se vyskytnou lokálně mlhy, zpočátku i mrznoucí, nebo nízká oblačnost. Na severu a severovýchodě bude nízké oblačnosti přechodně přibývat. Nejvyšší
   description: |-
+    teploty 7 až 11 °C, při nízké oblačnosti kolem 6 °C. V 1000 m na horách kolem 5 °C. Slabý východní až severovýchodní, postupně na Moravě a ve Slezsku vítr mírný.
     HDTV
     Zvukový popis
     Skryté titulky
