@@ -968,7 +968,7 @@
   hd: true
 - eventId: 673261
   start: 2026-11-05T15:35:00Z
-  stop: 2026-11-05T16:05:00Z
+  stop: 2026-11-05T16:00:00Z
   title: Kulturplatz
   subtitle: Stress - Fluch unserer Zeit?
   description: |-
@@ -1018,6 +1018,16 @@
     Schweiz 2026
   genre:
   - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 726008
+  start: 2026-11-05T16:00:00Z
+  stop: 2026-11-05T16:05:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
   widescreen: true
   subtitled: true
   hd: true
@@ -1092,6 +1102,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 726009
+  start: 2026-11-05T17:00:00Z
+  stop: 2026-11-05T17:15:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 641030
   - 666147
@@ -1118,6 +1140,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 726010
+  start: 2026-11-05T17:16:00Z
+  stop: 2026-11-05T17:20:00Z
+  title: Tagesschau kompakt
+  subtitle: Vorabendausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 641032
   - 666149
@@ -1128,6 +1160,16 @@
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
     Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 726011
+  start: 2026-11-05T17:20:00Z
+  stop: 2026-11-05T17:30:00Z
+  title: Meteo
+  subtitle: Vorabendausgabe
   genre:
   - '32'
   widescreen: true
