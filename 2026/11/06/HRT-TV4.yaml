@@ -58,6 +58,7 @@
   - 731296
   - 732090
   - 732372
+  - 732913
   start: 2026-11-06T00:08:00Z
   stop: 2026-11-06T00:59:00Z
   title: Dnevnik 2
@@ -165,7 +166,7 @@
   - 732091
   - 732373
   start: 2026-11-06T01:02:00Z
-  stop: 2026-11-06T01:03:00Z
+  stop: 2026-11-06T01:04:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -196,6 +197,7 @@
 - eventId:
   - 732092
   - 732374
+  - 732914
   start: 2026-11-06T01:04:00Z
   stop: 2026-11-06T01:06:00Z
   title: Vrijeme Svijet danas
@@ -254,6 +256,7 @@
   - 731298
   - 732093
   - 732375
+  - 732915
   start: 2026-11-06T01:06:00Z
   stop: 2026-11-06T01:26:00Z
   title: 'Studio 4: Intervju'
@@ -356,7 +359,7 @@
   - 732095
   - 732377
   start: 2026-11-06T01:29:00Z
-  stop: 2026-11-06T01:33:00Z
+  stop: 2026-11-06T01:32:00Z
   title: '#REPORTAŽE: Bačvar'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -403,6 +406,7 @@
   - 731300
   - 732096
   - 732378
+  - 732916
   start: 2026-11-06T01:32:00Z
   stop: 2026-11-06T01:53:00Z
   title: Regionalni dnevnik
@@ -571,7 +575,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 682895
   start: 2026-11-06T02:20:00Z
-  stop: 2026-11-06T02:21:00Z
+  stop: 2026-11-06T02:22:00Z
   title: 'Bez komentara: Uhićeni članovi Palestina Action'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -598,6 +602,7 @@
   - 731304
   - 732100
   - 732382
+  - 732917
   start: 2026-11-06T02:22:00Z
   stop: 2026-11-06T02:30:00Z
   title: Vijesti na španjolskom jeziku
@@ -645,7 +650,7 @@
   - 730305
   - 731305
   start: 2026-11-06T02:30:00Z
-  stop: 2026-11-06T02:52:00Z
+  stop: 2026-11-06T02:32:00Z
   title: 'Studio 4: Zelena linija'
   subtitle: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
   ageRating: 4
@@ -666,6 +671,7 @@
   - 731306
   - 732101
   - 732383
+  - 732918
   start: 2026-11-06T02:32:00Z
   stop: 2026-11-06T02:52:00Z
   title: 'Studio 4: Zelena linija'
@@ -722,6 +728,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 732919
+  start: 2026-11-06T02:52:00Z
+  stop: 2026-11-06T02:55:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 682899
   - 704302
@@ -748,7 +762,9 @@
   title: '#REPORTAŽE: Kajakašica'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 682900
+- eventId:
+  - 682900
+  - 732920
   start: 2026-11-06T02:55:00Z
   stop: 2026-11-06T02:57:00Z
   title: Bez komentara
@@ -782,6 +798,14 @@
   title: Pregled dana
   subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 732921
+  start: 2026-11-06T02:57:00Z
+  stop: 2026-11-06T03:41:00Z
+  title: Pregled dana
+  subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
   genre:
   - '160'
@@ -826,6 +850,7 @@
   - 731309
   - 732103
   - 732385
+  - 732922
   start: 2026-11-06T03:42:00Z
   stop: 2026-11-06T03:52:00Z
   title: Vijesti flash
@@ -875,6 +900,7 @@
   - 731310
   - 732104
   - 732386
+  - 732923
   start: 2026-11-06T03:52:00Z
   stop: 2026-11-06T03:59:00Z
   title: Vijesti iz kulture
@@ -923,6 +949,7 @@
   - 731311
   - 732105
   - 732387
+  - 732924
   start: 2026-11-06T03:59:00Z
   stop: 2026-11-06T04:02:00Z
   title: Bez komentara
@@ -1088,7 +1115,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 682909
   start: 2026-11-06T05:00:00Z
-  stop: 2026-11-06T05:09:00Z
+  stop: 2026-11-06T05:02:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -1109,6 +1136,7 @@
   - 731315
   - 732109
   - 732391
+  - 732925
   start: 2026-11-06T05:02:00Z
   stop: 2026-11-06T05:10:00Z
   title: Vijesti na španjolskom jeziku
@@ -1167,6 +1195,7 @@
 - eventId:
   - 732110
   - 732392
+  - 732926
   start: 2026-11-06T05:10:00Z
   stop: 2026-11-06T05:12:00Z
   title: Bez komentara
@@ -1188,6 +1217,7 @@
   - 731316
   - 732111
   - 732393
+  - 732927
   start: 2026-11-06T05:12:00Z
   stop: 2026-11-06T05:20:00Z
   title: Vijesti na engleskom jeziku
@@ -1242,6 +1272,7 @@
   - 731317
   - 732112
   - 732394
+  - 732928
   start: 2026-11-06T05:20:00Z
   stop: 2026-11-06T05:28:00Z
   title: 'Studio 4: Znanost'
