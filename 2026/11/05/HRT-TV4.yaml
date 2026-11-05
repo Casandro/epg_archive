@@ -3073,7 +3073,9 @@
   genre:
   - '32'
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 728401
+- eventId:
+  - 728401
+  - 729691
   start: 2026-11-05T17:30:00Z
   stop: 2026-11-05T17:52:00Z
   title: Regionalni dnevnik
@@ -3131,7 +3133,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 638790
   start: 2026-11-05T17:55:00Z
-  stop: 2026-11-05T17:56:00Z
+  stop: 2026-11-05T18:00:00Z
   title: Vrijeme Svijet sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -3200,6 +3202,7 @@
   - 706962
   - 712282
   - 728403
+  - 729692
   start: 2026-11-05T18:00:00Z
   stop: 2026-11-05T18:53:00Z
   title: Dnevnik 2
@@ -3235,7 +3238,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 624211
+- eventId:
+  - 624211
+  - 729693
   start: 2026-11-05T18:54:00Z
   stop: 2026-11-05T18:56:00Z
   title: Vrijeme Europa sutra
@@ -3280,7 +3285,7 @@
   - 711994
   - 714280
   start: 2026-11-05T18:56:00Z
-  stop: 2026-11-05T18:58:00Z
+  stop: 2026-11-05T19:00:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
@@ -3331,6 +3336,7 @@
   - 706963
   - 712283
   - 728404
+  - 729694
   start: 2026-11-05T19:00:00Z
   stop: 2026-11-05T19:01:00Z
   title: HAK - promet info
@@ -3342,6 +3348,7 @@
 - eventId:
   - 638792
   - 728405
+  - 729695
   start: 2026-11-05T19:01:00Z
   stop: 2026-11-05T19:05:00Z
   title: '#REPORTAŽE: Kajakašica'
@@ -3433,7 +3440,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 728406
+- eventId:
+  - 728406
+  - 729696
   start: 2026-11-05T19:05:00Z
   stop: 2026-11-05T19:28:00Z
   title: 'Agenda: Svijet, vanjskopolitički magazin'
@@ -3471,7 +3480,9 @@
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 728408
+- eventId:
+  - 728408
+  - 729697
   start: 2026-11-05T19:29:00Z
   stop: 2026-11-05T20:00:00Z
   title: 'Labirint: Mamićeva VAR-soba'
@@ -3568,6 +3579,7 @@
   - 706968
   - 712288
   - 728409
+  - 729698
   start: 2026-11-05T20:00:00Z
   stop: 2026-11-05T20:45:00Z
   title: Pregled dana
@@ -3604,6 +3616,7 @@
 - eventId:
   - 624219
   - 728410
+  - 729699
   start: 2026-11-05T20:45:00Z
   stop: 2026-11-05T21:12:00Z
   title: 'DW: Global Us'
@@ -3670,6 +3683,7 @@
 - eventId:
   - 638794
   - 728411
+  - 729700
   start: 2026-11-05T21:12:00Z
   stop: 2026-11-05T21:43:00Z
   title: Svijet znanosti
@@ -3733,7 +3747,9 @@
   title: 'Studio 4: Zelena linija'
   subtitle: ' '
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
-- eventId: 728412
+- eventId:
+  - 728412
+  - 729701
   start: 2026-11-05T21:43:00Z
   stop: 2026-11-05T22:06:00Z
   title: 'Studio 4: Zelena linija'
@@ -3828,7 +3844,7 @@
   - 712004
   - 714290
   start: 2026-11-05T22:06:00Z
-  stop: 2026-11-05T22:09:00Z
+  stop: 2026-11-05T22:10:00Z
   title: '#REPORTAŽE: Bačvar'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
@@ -3873,6 +3889,7 @@
   - 706974
   - 712294
   - 728413
+  - 729702
   start: 2026-11-05T22:10:00Z
   stop: 2026-11-05T22:20:00Z
   title: Vijesti na engleskom jeziku
@@ -3903,6 +3920,7 @@
   - 706975
   - 712295
   - 728414
+  - 729703
   start: 2026-11-05T22:20:00Z
   stop: 2026-11-05T22:30:00Z
   title: Vijesti na španjolskom jeziku
@@ -3955,7 +3973,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 728415
+- eventId:
+  - 728415
+  - 729704
   start: 2026-11-05T22:30:00Z
   stop: 2026-11-05T22:52:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -4030,7 +4050,7 @@
   - 712009
   - 714295
   start: 2026-11-05T22:52:00Z
-  stop: 2026-11-05T22:57:00Z
+  stop: 2026-11-05T22:58:00Z
   title: '#REPORTAŽE: Kajakašica'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
@@ -4107,7 +4127,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 728416
+- eventId:
+  - 728416
+  - 729705
   start: 2026-11-05T22:58:00Z
   stop: 2026-11-05T23:00:00Z
   title: Bez komentara
@@ -4122,6 +4144,7 @@
   - 706979
   - 712299
   - 728417
+  - 729706
   start: 2026-11-05T23:00:00Z
   stop: 2026-11-05T23:10:00Z
   title: Vijesti flash
@@ -4186,6 +4209,7 @@
   - 715498
   - 716616
   - 728418
+  - 729707
   start: 2026-11-05T23:10:00Z
   stop: 2026-11-05T23:17:00Z
   title: Vijesti iz kulture
@@ -4226,6 +4250,7 @@
 - eventId:
   - 624231
   - 728419
+  - 729708
   start: 2026-11-05T23:17:00Z
   stop: 2026-11-05T23:43:00Z
   title: 'DW: Global Us'
@@ -4332,6 +4357,7 @@
   - 706982
   - 712302
   - 728420
+  - 729709
   - 780105
   - 780871
   - 781318
