@@ -45,6 +45,7 @@
   - 712015
   - 714302
   - 728667
+  - 729503
   start: 2026-11-06T00:08:00Z
   stop: 2026-11-06T00:59:00Z
   title: Dnevnik 2
@@ -114,6 +115,7 @@
   - 712016
   - 714303
   - 728668
+  - 729504
   start: 2026-11-06T01:01:00Z
   stop: 2026-11-06T01:02:00Z
   title: Vrijeme RH danas
@@ -174,6 +176,7 @@
   - 712017
   - 714304
   - 728669
+  - 729505
   start: 2026-11-06T01:06:00Z
   stop: 2026-11-06T01:26:00Z
   title: 'Studio 4: Intervju'
@@ -248,6 +251,7 @@
   - 712019
   - 714306
   - 728670
+  - 729506
   start: 2026-11-06T01:29:00Z
   stop: 2026-11-06T01:32:00Z
   title: Bez komentara
@@ -283,6 +287,7 @@
   - 712020
   - 714307
   - 728671
+  - 729507
   start: 2026-11-06T01:32:00Z
   stop: 2026-11-06T01:53:00Z
   title: Regionalni dnevnik
@@ -318,6 +323,7 @@
   - 712021
   - 714308
   - 728672
+  - 729508
   start: 2026-11-06T01:57:00Z
   stop: 2026-11-06T02:02:00Z
   title: Poslovne vijesti
@@ -353,6 +359,7 @@
   - 712022
   - 714309
   - 728673
+  - 729509
   start: 2026-11-06T02:02:00Z
   stop: 2026-11-06T02:12:00Z
   title: Vijesti flash
@@ -388,6 +395,7 @@
   - 712023
   - 714310
   - 728674
+  - 729510
   start: 2026-11-06T02:12:00Z
   stop: 2026-11-06T02:20:00Z
   title: Vijesti na engleskom jeziku
@@ -432,6 +440,7 @@
   - 712024
   - 714311
   - 728675
+  - 729511
   start: 2026-11-06T02:22:00Z
   stop: 2026-11-06T02:30:00Z
   title: Vijesti na španjolskom jeziku
@@ -472,7 +481,9 @@
   genre:
   - '160'
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
-- eventId: 728676
+- eventId:
+  - 728676
+  - 729512
   start: 2026-11-06T02:30:00Z
   stop: 2026-11-06T02:32:00Z
   title: Bez komentara
@@ -494,6 +505,14 @@
   title: 'Studio 4: Zelena linija'
   subtitle: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 729513
+  start: 2026-11-06T02:32:00Z
+  stop: 2026-11-06T02:50:00Z
+  title: 'Studio 4: Zelena linija'
+  subtitle: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
   ageRating: 4
   genre:
   - '160'
@@ -539,7 +558,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 728678
+- eventId:
+  - 728678
+  - 729514
   start: 2026-11-06T02:52:00Z
   stop: 2026-11-06T02:55:00Z
   title: '#REPORTAŽE'
@@ -591,6 +612,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 729515
+  start: 2026-11-06T02:57:00Z
+  stop: 2026-11-06T03:40:00Z
+  title: Pregled dana
+  subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 682901
   - 704303
@@ -618,6 +647,7 @@
   - 712028
   - 714315
   - 728680
+  - 729516
   start: 2026-11-06T03:42:00Z
   stop: 2026-11-06T03:52:00Z
   title: Vijesti flash
@@ -653,6 +683,7 @@
   - 712029
   - 714316
   - 728681
+  - 729517
   start: 2026-11-06T03:52:00Z
   stop: 2026-11-06T03:59:00Z
   title: Vijesti iz kulture
@@ -688,6 +719,7 @@
   - 712030
   - 714317
   - 728682
+  - 729518
   start: 2026-11-06T03:59:00Z
   stop: 2026-11-06T04:02:00Z
   title: Bez komentara
@@ -723,6 +755,7 @@
   - 712031
   - 714318
   - 728683
+  - 729519
   start: 2026-11-06T04:02:00Z
   stop: 2026-11-06T04:53:00Z
   title: Dnevnik 2
@@ -767,6 +800,7 @@
   - 712032
   - 714319
   - 728684
+  - 729520
   start: 2026-11-06T04:56:00Z
   stop: 2026-11-06T04:58:00Z
   title: Vrijeme Europa danas
@@ -809,7 +843,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 728685
+- eventId:
+  - 728685
+  - 729521
   start: 2026-11-06T04:58:00Z
   stop: 2026-11-06T05:00:00Z
   title: Vrijeme Svijet danas
@@ -835,6 +871,7 @@
   - 712034
   - 714321
   - 728686
+  - 729522
   start: 2026-11-06T05:02:00Z
   stop: 2026-11-06T05:10:00Z
   title: Vijesti na španjolskom jeziku
@@ -879,6 +916,7 @@
   - 712035
   - 714322
   - 728687
+  - 729523
   start: 2026-11-06T05:12:00Z
   stop: 2026-11-06T05:20:00Z
   title: Vijesti na engleskom jeziku
@@ -914,6 +952,7 @@
   - 712036
   - 714323
   - 728688
+  - 729524
   start: 2026-11-06T05:20:00Z
   stop: 2026-11-06T05:28:00Z
   title: 'Studio 4: Znanost'
@@ -956,7 +995,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 728689
+- eventId:
+  - 728689
+  - 729525
   start: 2026-11-06T05:28:00Z
   stop: 2026-11-06T05:56:00Z
   title: Otvoreno
@@ -1602,6 +1643,7 @@
   - 725220
   - 727593
   - 728690
+  - 729526
   start: 2026-11-06T15:55:00Z
   stop: 2026-11-06T16:03:00Z
   title: 'Studio 4: Kultura'
@@ -1626,6 +1668,7 @@
   - 725221
   - 727594
   - 728691
+  - 729527
   start: 2026-11-06T16:03:00Z
   stop: 2026-11-06T16:11:00Z
   title: 'Studio 4: Znanost'
@@ -1650,6 +1693,7 @@
   - 725222
   - 727595
   - 728692
+  - 729528
   start: 2026-11-06T16:11:00Z
   stop: 2026-11-06T16:12:00Z
   title: Vrijeme RH danas
@@ -1664,6 +1708,7 @@
   - 725223
   - 727596
   - 728693
+  - 729529
   start: 2026-11-06T16:12:00Z
   stop: 2026-11-06T16:13:00Z
   title: Vrijeme Europa danas
@@ -1697,6 +1742,7 @@
   - 725224
   - 727597
   - 728694
+  - 729530
   start: 2026-11-06T16:15:00Z
   stop: 2026-11-06T16:20:00Z
   title: Bez komentara

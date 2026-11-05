@@ -2942,6 +2942,7 @@
   - 711987
   - 714273
   - 728641
+  - 729477
   start: 2026-11-05T17:02:00Z
   stop: 2026-11-05T17:22:00Z
   title: 'Studio 4: Zelena linija'
@@ -2990,7 +2991,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 728642
+- eventId:
+  - 728642
+  - 729478
   start: 2026-11-05T17:22:00Z
   stop: 2026-11-05T17:25:00Z
   title: '#REPORTAŽE'
@@ -3030,6 +3033,7 @@
   - 711989
   - 714275
   - 728643
+  - 729479
   start: 2026-11-05T17:25:00Z
   stop: 2026-11-05T17:32:00Z
   title: Bez komentara
@@ -3149,6 +3153,7 @@
   - 711991
   - 714277
   - 728645
+  - 729481
   start: 2026-11-05T17:56:00Z
   stop: 2026-11-05T17:58:00Z
   title: Vrijeme Europa sutra
@@ -3173,7 +3178,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 728646
+- eventId:
+  - 728646
+  - 729482
   start: 2026-11-05T17:58:00Z
   stop: 2026-11-05T18:02:00Z
   title: Vrijeme Svijet sutra
@@ -3208,6 +3215,7 @@
   - 711993
   - 714279
   - 728647
+  - 729483
   start: 2026-11-05T18:02:00Z
   stop: 2026-11-05T18:53:00Z
   title: Dnevnik 2
@@ -3243,7 +3251,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 728648
+- eventId:
+  - 728648
+  - 729484
   start: 2026-11-05T18:55:00Z
   stop: 2026-11-05T18:56:00Z
   title: Vrijeme RH sutra
@@ -3291,7 +3301,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 728649
+- eventId:
+  - 728649
+  - 729485
   start: 2026-11-05T18:58:00Z
   stop: 2026-11-05T19:02:00Z
   title: Vrijeme Svijet sutra
@@ -3360,6 +3372,7 @@
   - 711996
   - 714282
   - 728650
+  - 729486
   start: 2026-11-05T19:02:00Z
   stop: 2026-11-05T19:03:00Z
   title: HAK - promet info
@@ -3384,7 +3397,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 728651
+- eventId:
+  - 728651
+  - 729487
   start: 2026-11-05T19:03:00Z
   stop: 2026-11-05T19:07:00Z
   title: '#REPORTAŽE'
@@ -3438,7 +3453,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 728652
+- eventId:
+  - 728652
+  - 729488
   start: 2026-11-05T19:07:00Z
   stop: 2026-11-05T19:28:00Z
   title: 'Agenda: Svijet'
@@ -3506,6 +3523,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 729489
+  start: 2026-11-05T19:32:00Z
+  stop: 2026-11-05T20:00:00Z
+  title: Labirint
+  subtitle: Skupocjeni sat, kuverte sa stotinama tisuća eura i plaćena putovanja u Dubai detalji su iz USKOK-ove optužnice protiv trojice osječkih županijskih sudaca kojima se trenutačno sudi na Županijskom.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 638793
   - 704276
@@ -3566,6 +3591,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 729490
+  start: 2026-11-05T20:02:00Z
+  stop: 2026-11-05T20:45:00Z
+  title: Pregled dana
+  subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 624219
   - 728410
@@ -3611,6 +3644,14 @@
 - eventId: 728655
   start: 2026-11-05T20:47:00Z
   stop: 2026-11-05T21:15:00Z
+  title: Global 3000
+  subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 729491
+  start: 2026-11-05T20:47:00Z
+  stop: 2026-11-05T21:12:00Z
   title: Global 3000
   subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
   ageRating: 4
@@ -3666,6 +3707,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 729492
+  start: 2026-11-05T21:15:00Z
+  stop: 2026-11-05T21:43:00Z
+  title: Svijet znanosti
+  subtitle: Predstavljamo veliko otkriće hrvatskih znanstvenika o diobi stanica. Donosimo rijetke snimke leoparda na jugu Afrike i velikih kitova na sjeveru Atlantika.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 624221
   start: 2026-11-05T21:42:00Z
   stop: 2026-11-05T22:02:00Z
@@ -3715,6 +3764,7 @@
   - 712003
   - 714289
   - 728657
+  - 729493
   start: 2026-11-05T21:46:00Z
   stop: 2026-11-05T22:06:00Z
   title: 'Studio 4: Zelena linija'
@@ -3808,6 +3858,7 @@
   - 712005
   - 714291
   - 728658
+  - 729494
   start: 2026-11-05T22:09:00Z
   stop: 2026-11-05T22:12:00Z
   title: Bez komentara
@@ -3837,6 +3888,7 @@
   - 712006
   - 714292
   - 728659
+  - 729495
   start: 2026-11-05T22:12:00Z
   stop: 2026-11-05T22:22:00Z
   title: Vijesti na engleskom jeziku
@@ -3866,6 +3918,7 @@
   - 712007
   - 714293
   - 728660
+  - 729496
   start: 2026-11-05T22:22:00Z
   stop: 2026-11-05T22:32:00Z
   title: Vijesti na španjolskom jeziku
@@ -3915,6 +3968,7 @@
   - 712008
   - 714294
   - 728661
+  - 729497
   start: 2026-11-05T22:32:00Z
   stop: 2026-11-05T22:52:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -4042,6 +4096,7 @@
   - 712010
   - 714296
   - 728662
+  - 729498
   start: 2026-11-05T22:57:00Z
   stop: 2026-11-05T23:02:00Z
   title: Bez komentara
@@ -4101,6 +4156,7 @@
   - 712011
   - 714297
   - 728663
+  - 729499
   start: 2026-11-05T23:02:00Z
   stop: 2026-11-05T23:12:00Z
   title: Vijesti flash
@@ -4156,6 +4212,7 @@
   - 715488
   - 716598
   - 728664
+  - 729500
   start: 2026-11-05T23:12:00Z
   stop: 2026-11-05T23:19:00Z
   title: Vijesti iz kulture
@@ -4243,6 +4300,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 729501
+  start: 2026-11-05T23:19:00Z
+  stop: 2026-11-05T23:43:00Z
+  title: Global 3000
+  subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 624232
   start: 2026-11-05T23:42:00Z
   stop: 2026-11-06T00:05:00Z
@@ -4306,3 +4371,11 @@
   genre:
   - '160'
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+- eventId: 729502
+  start: 2026-11-05T23:45:00Z
+  stop: 2026-11-06T00:06:00Z
+  title: Regionalni dnevnik
+  subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+  ageRating: 4
+  genre:
+  - '32'
