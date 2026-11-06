@@ -1,3 +1,11 @@
+- eventId: 734412
+  start: 2026-11-06T00:00:00Z
+  stop: 2026-11-06T00:25:00Z
+  title: Click Plus
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1029008
   - 586926
@@ -87,6 +95,7 @@
   - 732666
   - 732873
   - 733198
+  - 734413
   start: 2026-11-06T00:25:00Z
   stop: 2026-11-06T02:20:00Z
   title: Pastel
@@ -211,6 +220,7 @@
   - 732667
   - 732874
   - 733199
+  - 734414
   start: 2026-11-06T02:20:00Z
   stop: 2026-11-06T03:00:00Z
   title: Reportazhe
@@ -223,7 +233,7 @@
   - 635671
   - 710111
   start: 2026-11-06T03:00:00Z
-  stop: 2026-11-06T03:55:00Z
+  stop: 2026-11-06T03:30:00Z
   title: Voice of America
   subtitle: '    (Reluare)'
   ageRating: 4
@@ -235,6 +245,7 @@
   - 732668
   - 732875
   - 733200
+  - 734415
   start: 2026-11-06T03:30:00Z
   stop: 2026-11-06T04:20:00Z
   title: Çikat n'Trip
@@ -406,9 +417,18 @@
   - 732669
   - 732876
   - 733201
+  - 734416
   start: 2026-11-06T04:20:00Z
   stop: 2026-11-06T05:30:00Z
   title: Muzike Top 10
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '96'
+- eventId: 734417
+  start: 2026-11-06T05:30:00Z
+  stop: 2026-11-06T06:00:00Z
+  title: Muzikë për fëmijë
   subtitle: ' '
   ageRating: 4
   genre:
@@ -488,6 +508,7 @@
   - 732408
   - 732671
   - 732878
+  - 734418
   start: 2026-11-06T06:00:00Z
   stop: 2026-11-06T08:05:00Z
   title: Pastel
@@ -593,6 +614,7 @@
   - 732672
   - 732879
   - 733204
+  - 734419
   start: 2026-11-06T08:05:00Z
   stop: 2026-11-06T10:00:00Z
   title: Programi i mëngjesit
@@ -853,7 +875,7 @@
   - 709766
   - 710319
   start: 2026-11-06T10:00:00Z
-  stop: 2026-11-06T11:10:00Z
+  stop: 2026-11-06T11:15:00Z
   title: Çka ka me honger
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -1245,15 +1267,58 @@
   - 672678
   - 673035
   - 673293
+  - 678664
+  - 685867
+  - 686052
+  - 686362
+  - 687004
+  - 688226
+  - 691328
+  - 692866
+  - 693230
+  - 694839
+  - 696584
+  - 698056
+  - 698580
+  - 699941
+  - 700900
+  - 702014
+  - 702940
+  - 703434
+  - 703581
+  - 703975
+  - 705174
+  - 705886
+  - 706405
+  - 708264
+  - 709115
+  - 711613
+  - 714160
+  - 717487
+  - 720018
+  - 720853
   - 721179
+  - 722296
+  - 722874
+  - 723154
+  - 723689
   - 723749
+  - 724550
+  - 725261
+  - 725620
   - 725706
+  - 727613
+  - 728601
   - 728830
   - 729019
   - 729764
   - 730114
+  - 730598
   - 730964
   - 731859
+  - 732411
+  - 732674
+  - 732881
   - 733738
   - 734484
   - 735256
@@ -1317,63 +1382,12 @@
   - 786810
   - 787801
   start: 2026-11-06T11:35:00Z
-  stop: 2026-11-06T12:10:00Z
-  title: Farewell Letter
-  subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
-  ageRating: 4
-  genre:
-  - '32'
-- eventId:
-  - 678664
-  - 685867
-  - 686052
-  - 686362
-  - 687004
-  - 688226
-  - 691328
-  - 692866
-  - 693230
-  - 694839
-  - 696584
-  - 698056
-  - 698580
-  - 699941
-  - 700900
-  - 702014
-  - 702940
-  - 703434
-  - 703581
-  - 703975
-  - 705174
-  - 705886
-  - 706405
-  - 708264
-  - 709115
-  - 711613
-  - 714160
-  - 717487
-  - 720018
-  - 720853
-  - 722296
-  - 722874
-  - 723154
-  - 723689
-  - 724550
-  - 725261
-  - 725620
-  - 727613
-  - 728601
-  - 730598
-  - 732411
-  - 732674
-  - 732881
-  start: 2026-11-06T11:35:00Z
   stop: 2026-11-06T12:15:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
   genre:
-  - '128'
+  - '32'
 - eventId: 733206
   start: 2026-11-06T11:35:00Z
   stop: 2026-11-06T12:10:00Z

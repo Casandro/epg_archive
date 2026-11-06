@@ -68,7 +68,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 732738
+- eventId:
+  - 732738
+  - 735077
   start: 2026-11-06T00:09:00Z
   stop: 2026-11-06T00:59:00Z
   title: Dnevnik 2
@@ -167,7 +169,7 @@
   - 732091
   - 732373
   start: 2026-11-06T01:02:00Z
-  stop: 2026-11-06T01:04:00Z
+  stop: 2026-11-06T01:03:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -199,6 +201,7 @@
   - 732092
   - 732374
   - 732914
+  - 735000
   start: 2026-11-06T01:04:00Z
   stop: 2026-11-06T01:06:00Z
   title: Vrijeme Svijet danas
@@ -258,6 +261,7 @@
   - 732093
   - 732375
   - 732915
+  - 735001
   start: 2026-11-06T01:06:00Z
   stop: 2026-11-06T01:26:00Z
   title: 'Studio 4: Intervju'
@@ -408,6 +412,7 @@
   - 732096
   - 732378
   - 732916
+  - 735002
   start: 2026-11-06T01:32:00Z
   stop: 2026-11-06T01:53:00Z
   title: Regionalni dnevnik
@@ -604,6 +609,7 @@
   - 732100
   - 732382
   - 732917
+  - 735003
   start: 2026-11-06T02:22:00Z
   stop: 2026-11-06T02:30:00Z
   title: Vijesti na španjolskom jeziku
@@ -673,6 +679,7 @@
   - 732101
   - 732383
   - 732918
+  - 735004
   start: 2026-11-06T02:32:00Z
   stop: 2026-11-06T02:52:00Z
   title: 'Studio 4: Zelena linija'
@@ -729,7 +736,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 732919
+- eventId:
+  - 732919
+  - 735005
   start: 2026-11-06T02:52:00Z
   stop: 2026-11-06T02:55:00Z
   title: '#REPORTAŽE'
@@ -766,6 +775,7 @@
 - eventId:
   - 682900
   - 732920
+  - 735006
   start: 2026-11-06T02:55:00Z
   stop: 2026-11-06T02:57:00Z
   title: Bez komentara
@@ -800,6 +810,14 @@
   title: Pregled dana
   subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 735007
+  start: 2026-11-06T02:57:00Z
+  stop: 2026-11-06T03:41:00Z
+  title: Pregled dana
+  subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
   genre:
   - '160'
@@ -846,6 +864,7 @@
   - 732385
   - 732922
   - 733425
+  - 735008
   start: 2026-11-06T03:42:00Z
   stop: 2026-11-06T03:52:00Z
   title: Vijesti flash
@@ -897,6 +916,7 @@
   - 732386
   - 732923
   - 733426
+  - 735009
   start: 2026-11-06T03:52:00Z
   stop: 2026-11-06T03:59:00Z
   title: Vijesti iz kulture
@@ -947,6 +967,7 @@
   - 732387
   - 732924
   - 733427
+  - 735010
   start: 2026-11-06T03:59:00Z
   stop: 2026-11-06T04:02:00Z
   title: Bez komentara
@@ -1135,6 +1156,7 @@
   - 732391
   - 732925
   - 733428
+  - 735011
   start: 2026-11-06T05:02:00Z
   stop: 2026-11-06T05:10:00Z
   title: Vijesti na španjolskom jeziku
@@ -1195,6 +1217,7 @@
   - 732392
   - 732926
   - 733429
+  - 735012
   start: 2026-11-06T05:10:00Z
   stop: 2026-11-06T05:12:00Z
   title: Bez komentara
@@ -1218,6 +1241,7 @@
   - 732393
   - 732927
   - 733430
+  - 735013
   start: 2026-11-06T05:12:00Z
   stop: 2026-11-06T05:20:00Z
   title: Vijesti na engleskom jeziku
@@ -1274,6 +1298,7 @@
   - 732394
   - 732928
   - 733431
+  - 735014
   start: 2026-11-06T05:20:00Z
   stop: 2026-11-06T05:28:00Z
   title: 'Studio 4: Znanost'
@@ -1975,6 +2000,7 @@
   - 732395
   - 732929
   - 733432
+  - 735015
   start: 2026-11-06T15:55:00Z
   stop: 2026-11-06T16:03:00Z
   title: 'Studio 4: Kultura'
@@ -2008,6 +2034,7 @@
   - 732396
   - 732930
   - 733433
+  - 735016
   start: 2026-11-06T16:03:00Z
   stop: 2026-11-06T16:11:00Z
   title: 'Studio 4: Znanost'
@@ -2041,6 +2068,7 @@
   - 732397
   - 732931
   - 733434
+  - 735017
   start: 2026-11-06T16:11:00Z
   stop: 2026-11-06T16:12:00Z
   title: Vrijeme RH danas
@@ -2061,6 +2089,7 @@
   - 732398
   - 732932
   - 733435
+  - 735018
   start: 2026-11-06T16:12:00Z
   stop: 2026-11-06T16:13:00Z
   title: Vrijeme Europa danas
@@ -2103,6 +2132,7 @@
   - 732399
   - 732933
   - 733436
+  - 735019
   start: 2026-11-06T16:15:00Z
   stop: 2026-11-06T16:20:00Z
   title: Bez komentara
