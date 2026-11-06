@@ -369,7 +369,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 708037
   start: 2026-11-07T06:30:00Z
-  stop: 2026-11-07T06:56:00Z
+  stop: 2026-11-07T06:55:00Z
   title: Treća dob
   subtitle: Usamljeni veseljaci, kaskader čija se spretnost ogleda u plesnim pokretima, udovci i udovice koji lakše tuguju u društvu, ljudi različitih zanimanja i nevjerojatnih životnih sudbina.
   ageRating: 4
@@ -385,7 +385,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 751386
+- eventId:
+  - 751386
+  - 751794
   start: 2026-11-07T06:56:00Z
   stop: 2026-11-07T07:00:00Z
   title: Bez komentara
@@ -544,7 +546,9 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 751387
+- eventId:
+  - 751387
+  - 751795
   start: 2026-11-07T09:42:00Z
   stop: 2026-11-07T09:47:00Z
   title: Poslovne vijesti
@@ -559,7 +563,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 751388
+- eventId:
+  - 751388
+  - 751796
   start: 2026-11-07T09:47:00Z
   stop: 2026-11-07T09:55:00Z
   title: 'Studio 4: Znanost'
@@ -574,7 +580,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 751389
+- eventId:
+  - 751389
+  - 751797
   start: 2026-11-07T09:55:00Z
   stop: 2026-11-07T10:00:00Z
   title: Bez komentara
@@ -679,7 +687,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 751390
+- eventId:
+  - 751390
+  - 751798
   start: 2026-11-07T11:28:00Z
   stop: 2026-11-07T11:30:00Z
   title: Bez komentara
@@ -925,7 +935,9 @@
   genre:
   - '160'
   description: 'U Agedi: Svijet analiziramo kako je došlo do velike pobjede Demokratske stranke na američkim izborima na polovici mandata. Kakve će to posljedice imati na unutarnjopolitičkom planu, ali i u politikama prema najvažnijim svjetskim krizama, koje je do sada Trumpova administracija nesmetano provodila? Što ovakvi rezultati znače za Republikansku stranku, ali i za predsjedničke izbore za dvije godine? O tome govore politolog Zoran Kurelić i američki ustavnopravni stručnjak Tuan Samahon.'
-- eventId: 751392
+- eventId:
+  - 751392
+  - 751799
   start: 2026-11-07T15:53:00Z
   stop: 2026-11-07T16:18:00Z
   title: Druga strana
@@ -943,6 +955,12 @@
 - eventId: 751393
   start: 2026-11-07T16:18:00Z
   stop: 2026-11-07T17:01:00Z
+  title: Globalna Hrvatska
+  subtitle: ' '
+  description: Emisija posvećena Hrvatima u domovini i svijetu.
+- eventId: 751800
+  start: 2026-11-07T16:18:00Z
+  stop: 2026-11-07T17:00:00Z
   title: Globalna Hrvatska
   subtitle: ' '
   description: Emisija posvećena Hrvatima u domovini i svijetu.
@@ -970,6 +988,12 @@
   title: TV student
   subtitle: ' '
   description: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
+- eventId: 751801
+  start: 2026-11-07T17:01:00Z
+  stop: 2026-11-07T17:32:00Z
+  title: TV student
+  subtitle: ' '
+  description: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
 - eventId: 708127
   start: 2026-11-07T17:32:00Z
   stop: 2026-11-07T17:50:00Z
@@ -985,6 +1009,12 @@
   title: Regionalni dnevnik
   subtitle: ' '
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+- eventId: 751802
+  start: 2026-11-07T17:33:00Z
+  stop: 2026-11-07T17:50:00Z
+  title: Regionalni dnevnik
+  subtitle: ' '
+  description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
 - eventId: 708128
   start: 2026-11-07T17:50:00Z
   stop: 2026-11-07T17:53:00Z
@@ -994,7 +1024,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 751396
+- eventId:
+  - 751396
+  - 751803
   start: 2026-11-07T17:51:00Z
   stop: 2026-11-07T17:53:00Z
   title: Bez komentara
@@ -1119,7 +1151,7 @@
   description: 'U Veteranim mira prisjećamo se osnivanja legendarne 9. gardijske brigade "Vukova". Bili su bedem obrane Like i ključni akteri najvažnijih oslobodilačkih operacija Domovinskog rata. U povodu obljetnice njihova ustrojavanja donosimo priču o ratnom putu ove slavne postrojbe. Govorimo i o prvim danima rata u Gospiću - kada su formirane razne postrojbe a rijetki su bili branitelji koji su imali oružje i uniformu. Bili smo i na filmskom setu. 17 godina nakon dokumentarnog filma "Časnik mirotvorac", redatelj Dražen Bušić donosi priču o posljednjim danima zatočeništva legendarnog pakračkog liječnika i mirotvorca dr. Ivana Šretera, ovoga puta u formi kratkometražnog igranog filma "Jezik na smrt". Dr. Šreter u kolovozu 1991. otet je na području Kukunjevca i odveden u zatočeništvo. Nakon toga mu se gubi svaki trag, a njegovi posmrtni ostaci ni danas nisu pronađeni. Voditelj: Borna Marinić Urednici: Vladimir Brnardić i Jozo Barišić'
 - eventId: 708145
   start: 2026-11-07T21:13:00Z
-  stop: 2026-11-07T21:41:00Z
+  stop: 2026-11-07T21:39:00Z
   title: 'Naši ljudi, njihova mjesta: Córdoba'
   subtitle: Córdoba, drugi najveći argentinski grad, svoju povijest čuva i u kamenu.
   ageRating: 4
@@ -1135,7 +1167,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 751397
+- eventId:
+  - 751397
+  - 751804
   start: 2026-11-07T21:41:00Z
   stop: 2026-11-07T21:43:00Z
   title: 'HRT100 Vremeplov: Reli Monte Carlo s hrvatskim natjecateljima 1969.'
@@ -1159,7 +1193,9 @@
   genre:
   - '160'
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
-- eventId: 751398
+- eventId:
+  - 751398
+  - 751805
   start: 2026-11-07T22:03:00Z
   stop: 2026-11-07T22:06:00Z
   title: '#REPORTAŽE: Nakit Grubić'
@@ -1174,7 +1210,9 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 751399
+- eventId:
+  - 751399
+  - 751806
   start: 2026-11-07T22:06:00Z
   stop: 2026-11-07T22:10:00Z
   title: Bez komentara
@@ -1270,7 +1308,9 @@
   genre:
   - '160'
   description: U emisiji za ljubitelje automobila svaki tjedan predstavljaju se novi modeli automobila, tehnološke inovacije, testiraju nova vozila, donose savjeti o održavanju.
-- eventId: 751400
+- eventId:
+  - 751400
+  - 751807
   start: 2026-11-07T23:47:00Z
   stop: 2026-11-08T00:05:00Z
   title: Regionalni dnevnik
