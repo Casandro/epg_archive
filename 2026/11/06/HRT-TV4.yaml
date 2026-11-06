@@ -800,7 +800,9 @@
   genre:
   - '160'
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
-- eventId: 732745
+- eventId:
+  - 732745
+  - 745142
   start: 2026-11-06T02:56:00Z
   stop: 2026-11-06T03:41:00Z
   title: Pregled dana
@@ -860,7 +862,9 @@
   genre:
   - '32'
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
-- eventId: 732746
+- eventId:
+  - 732746
+  - 745143
   start: 2026-11-06T03:41:00Z
   stop: 2026-11-06T03:51:00Z
   title: Vijesti flash
@@ -914,7 +918,9 @@
   genre:
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 732747
+- eventId:
+  - 732747
+  - 745144
   start: 2026-11-06T03:51:00Z
   stop: 2026-11-06T04:00:00Z
   title: Vijesti iz kulture
@@ -1021,7 +1027,9 @@
   genre:
   - '32'
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
-- eventId: 732748
+- eventId:
+  - 732748
+  - 745145
   start: 2026-11-06T04:00:00Z
   stop: 2026-11-06T04:02:00Z
   title: 'Bez komentara: Orlica'
@@ -1069,7 +1077,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 682907
   start: 2026-11-06T04:55:00Z
-  stop: 2026-11-06T04:57:00Z
+  stop: 2026-11-06T04:56:00Z
   title: Vrijeme Svijet danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -1090,6 +1098,7 @@
   - 731313
   - 732107
   - 732389
+  - 745146
   start: 2026-11-06T04:56:00Z
   stop: 2026-11-06T04:58:00Z
   title: Vrijeme Europa danas
@@ -1133,6 +1142,7 @@
   - 706736
   - 712033
   - 714320
+  - 745147
   start: 2026-11-06T04:58:00Z
   stop: 2026-11-06T05:00:00Z
   title: Vrijeme svijet danas
@@ -1158,7 +1168,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 682909
   start: 2026-11-06T05:00:00Z
-  stop: 2026-11-06T05:08:00Z
+  stop: 2026-11-06T05:09:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -1228,21 +1238,16 @@
   - '160'
 - eventId:
   - 732009
+  - 732749
   - 741456
   start: 2026-11-06T05:09:00Z
-  stop: 2026-11-06T05:17:00Z
+  stop: 2026-11-06T05:16:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
   genre:
   - '32'
-- eventId: 732749
-  start: 2026-11-06T05:09:00Z
-  stop: 2026-11-06T05:16:00Z
-  title: Vijesti na engleskom jeziku
-  subtitle: ' '
-  description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 682911
   start: 2026-11-06T05:10:00Z
   stop: 2026-11-06T05:12:00Z
@@ -1294,7 +1299,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 732750
+- eventId:
+  - 732750
+  - 745148
   start: 2026-11-06T05:16:00Z
   stop: 2026-11-06T05:28:00Z
   title: 'Studio 4: Znanost'
@@ -2238,6 +2245,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 682988
   start: 2026-11-06T16:20:00Z
   stop: 2026-11-06T16:40:00Z
