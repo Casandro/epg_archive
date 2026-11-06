@@ -1414,7 +1414,9 @@
     HD-Produktion
   hd: true
   audiodesc: true
-- eventId: 763567
+- eventId:
+  - 763567
+  - 763602
   start: 2026-11-06T22:05:00Z
   stop: 2026-11-06T22:40:00Z
   title: ZDF Magazin Royale
@@ -1430,6 +1432,8 @@
   - '128'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 543089
   - 544086
@@ -1459,7 +1463,9 @@
     Moderation: Jo Schück
 
     HD-Produktion
-- eventId: 763568
+- eventId:
+  - 763568
+  - 763603
   start: 2026-11-06T22:40:00Z
   stop: 2026-11-06T23:25:00Z
   title: aspekte
@@ -1476,6 +1482,8 @@
   - '112'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 543090
   - 544087
@@ -1504,7 +1512,9 @@
 
     Moderation: Christoph Wiesel-Lancé
     HD-Produktion
-- eventId: 763569
+- eventId:
+  - 763569
+  - 763611
   start: 2026-11-06T23:25:00Z
   stop: 2026-11-06T23:45:00Z
   title: heute journal update
@@ -1520,6 +1530,8 @@
   genre:
   - '32'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 543091
   - 544088
@@ -1547,7 +1559,9 @@
 
     2015 nimmt eine Cold-Case-Einheit der Kripo Aschaffenburg die Ermittlungen wieder auf. Durch die akribische Auswertung alter Spuren gelingt es, den Täter nach fast 30 Jahren zu ermitteln und festzunehmen. 2018 wird er zu lebenslanger Haft verurteilt.
     HD-Produktion
-- eventId: 763570
+- eventId:
+  - 763570
+  - 763612
   start: 2026-11-06T23:45:00Z
   stop: 2026-11-07T00:40:00Z
   title: hallo deutschland
@@ -1562,3 +1576,5 @@
   - '128'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
