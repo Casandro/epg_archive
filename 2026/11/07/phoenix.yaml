@@ -155,9 +155,11 @@
   start: 2026-11-07T05:50:00Z
   stop: 2026-11-07T06:15:00Z
   title: Hört uns zu! - Der Anschlag von Solingen
-  description: "Solingen 1993, der Nationalsozialistische Untergrund (NSU), Halle oder Hanau passieren nicht irgendwo sondern genau hier. Was also tun gegen Rassismus? \n\nRegisseur Mirza Odaba nimmt uns mit auf eine sehr persönliche Reise."
+  description: 'Am 29. Mai 1993 verbrannten fünf Menschen in Solingen durch einen rassistischen Mordanschlag. Für Regisseur Mirza Odabaşı ist der Anschlag der Punkt, an dem die Angst in sein Leben kam. In Gesprächen u.a. mit Cihan Genç, dessen Schwestern bei dem Anschlag starben, aber auch mit Moderatorin Aminata Belli und dem Grünen-Politiker Cem Özdemir, zeichnet die Dokumentation nach, was wir gerne verdrängen: Rassismus und Hass entstehen nicht im leeren Raum. Solingen 1993, der NSU, Halle oder Hanau passieren nicht irgendwo, sondern genau hier. Was also tun? Wie begegnen wir Rassismus und was muss sich ändern?'
   widescreen: true
   hd: true
+  genre:
+  - '112'
 - eventId:
   - 1169217
   - 1375310
@@ -187,7 +189,7 @@
   - 607260
   start: 2026-11-07T06:15:00Z
   stop: 2026-11-07T06:50:00Z
-  title: Aufgewachsen unter Glatzen
+  title: Aufgewachsen unter Glatzen (1/2)
   subtitle: Landschaften der Angst
   description: |-
     Bürgerkriegsähnliche Zustände vor der eigenen Haustür, wo nur das Recht des Stärkeren zählt. Und das offenbar über Jahrzehnte. Heute machen ostdeutsche Schriftsteller darauf aufmerksam, wie es wirklich war damals in den 90ern im Osten.
@@ -197,12 +199,18 @@
     "Wenn man das Grauen in den Gesichtern derer sieht, die sich nicht an einen heran trauen, dann strömt Macht durch die Adern wie elektrischer Strom. So beschreibt der Journalist und Schriftsteller Daniel Schulz wie es sich anfühlt, wenn man mit einer Horde Glatzen in Bomberjacken eine Gaststätte betritt. "Die schauen alle plötzlich nach unten!
   widescreen: true
   hd: true
-- eventId: 753308
+- eventId:
+  - 753308
+  - 753309
   start: 2026-11-07T06:50:00Z
   stop: 2026-11-07T07:30:00Z
-  title: Aufgewachsen unter Glatzen
+  title: Aufgewachsen unter Glatzen (2/2)
   subtitle: Das Erbe der Baseballschlägerjahre
-  description: 'National befreite Zonen, Springerstiefel, Baseballschläger: Bis weit in die 2000er-Jahre beherrschten Angst und Gewalt viele Regionen der früheren DDR. Die Schrecken wirken nach bis heute.'
+  description: '"National befreite Zonen", Springerstiefel, Baseballschläger: Bis weit in die 2000er-Jahre beherrschten Angst und Gewalt viele Regionen der früheren DDR. Die Schrecken wirken nach - bis heute. 30 Jahre nach dem Pogrom von Rostock-Lichtenhagen im August 1992 widmet sich die zweiteilige Dokumentation der gewaltvollen Nachwendezeit und dem eklatanten Staatsversagen, das die "Baseballschlägerjahre" möglich gemacht hat. Wie sehr sich diese Erfahrung auch in die Seelen der Menschen eingebrannt hat, zeigen mehrere literarische Neuerscheinungen - auch aus dem Blickwinkel von Tätern und Mitläufern.'
+  genre:
+  - '112'
+  widescreen: true
+  hd: true
 - eventId:
   - 559590
   - 578682
@@ -225,7 +233,7 @@
   start: 2026-11-07T07:30:00Z
   stop: 2026-11-07T08:00:00Z
   title: Meine Nacht des Mauerfalls
-  description: Eine Nacht, die Geschichte schrieb erzählt aus ganz unterschiedlichen Perspektiven. Am 9. November 1989 fiel die Berliner Mauer. Der Film rekonstruiert die dramatischen Ereignisse an diesem Tag Stunde für Stunde wie sich Gerüchte verbreiteten, wie Unsicherheit und Hoffnung wuchsen, und wie sich schließlich die Grenzübergänge öffneten. Er lässt ost- und westdeutsche Bürger zu Wort kommen, die den Tag aus ihrem Blickwinkel schildern.
+  description: 'Eine Nacht, die Geschichte schrieb erzählt aus ganz unterschiedlichen Perspektiven. Am 9. November 1989 fiel die Berliner Mauer. Der Film rekonstruiert die dramatischen Ereignisse an diesem Tag: Stunde für Stunde. Wie sich Gerüchte verbreiteten, wie Unsicherheit und Hoffnung wuchsen, und wie sich schließlich die Grenzübergänge öffneten. Er lässt ost- und westdeutsche Bürger zu Wort kommen, die den Tag aus ihrem Blickwinkel schildern.'
   widescreen: true
   hd: true
 - eventId:
@@ -240,6 +248,7 @@
   title: ARD-aktuell
   widescreen: true
   hd: true
+  subtitle: 'Moderation: Tim Berendonk'
 - eventId:
   - 1294173
   - 1484189
@@ -318,6 +327,7 @@
   genre:
   - '112'
   description: 'Am Ufer des Yamuna-Flusses steht das wohl imposanteste Grabmal der Welt: der Taj Mahal. Ein Prachtbau indo-islamischer Architektur, der dank moderner Technik genau untersucht werden kann. Auf den ersten Blick besticht das heutige UNESCO-Weltkulturerbe mit perfekter Symmetrie - doch bei näherer Betrachtung sind die vier die Hauptkuppel umgebenden Minarette leicht geneigt. Welche architektonischen Besonderheiten verbergen sich noch im Taj Mahal?'
+  ageRating: 6
 - eventId:
   - 540144
   - 556687
@@ -351,7 +361,12 @@
   title: ABBA - Die ganze Geschichte
   widescreen: true
   hd: true
-  description: ABBA unvergessen und heute noch Kult. Es ist die weltweit erfolgreichste Band der späten 70er Jahre. Im Frühjahr 2024 jährte sich ihr legendärer Auftritt und Sieg beim Grand Prix d Eurovision zum 50. Mal damals Startschuss für ihre internationale Karriere. Entlang ihrer Welthits von 1976 bis 1980 erzählt der Film Aufstieg und Ruhm der Kultband.
+  description: |-
+    ABBA - unvergessen und heute noch Kult. Es ist die weltweit erfolgreichste Band der späten 70er Jahre. In diesem Frühjahr jährt sich ABBAs legendärer Sieg beim Eurovision Song Contest, damals noch Grand Prix d' Eurovision, zum 50. Mal.
+    Der Film "ABBA" erzählt die unvergleichliche Geschichte einer der größten Bands der Musikgeschichte. Er folgt ihren Höhen und Tiefen: Von ihrem legendären Eurovisionssieg mit "Waterloo" 1974 bis hin zu ihren vielen Mega-Chart-Hits nimmt der Film die Zuschauer mit auf eine Achterbahnfahrt der Liebe, des Kampfes, des Ruhmes und natürlich ihrer Songs, die die Zeit überdauert haben.
+  subtitle: Großbritannien 2024
+  genre:
+  - '112'
 - eventId:
   - 540146
   - 556689
@@ -413,6 +428,7 @@
     Nach 40 Jahren sozialistischer Diktatur bricht plötzlich die staatliche Kontrolle weg. Viele DDR-Bürger fühlen sich befreit, viele aber auch verunsichert und allein gelassen. Im ganzen Land herrscht eine Stimmung zwischen Aufbruch und Anarchie.
 
     Die Erstürmung der Stasi-Zentrale in Ostberlin geht um die Welt. Aber die Bürger der DDR räumen auch anderswo auf. Parteichefs, Bürgermeister, Schuldirektoren werden aus ihren Ämtern gefegt.
+  ageRating: 6
 - eventId:
   - 540262
   - 556818
@@ -465,6 +481,7 @@
   title: phoenix persönlich
   widescreen: true
   hd: true
+  subtitle: 'Berlin-Code: Jugendproteste, China und zwei Frauen Trump, Selenskyj und dünnes Eis'
 - eventId:
   - 540412
   - 596214
@@ -522,7 +539,7 @@
   - 875273
   start: 2026-11-07T20:00:00Z
   stop: 2026-11-07T20:45:00Z
-  title: Wüstenkönige
+  title: Wüstenkönige (2/2)
   subtitle: Die Löwen der Namib Teil 2
   widescreen: true
   hd: true
@@ -540,7 +557,7 @@
   - 875274
   start: 2026-11-07T20:45:00Z
   stop: 2026-11-07T21:30:00Z
-  title: 24 Stunden Erde
+  title: 24 Stunden Erde (1/2)
   subtitle: Am Puls des Planeten
   widescreen: true
   hd: true
@@ -561,7 +578,7 @@
   - 875292
   start: 2026-11-07T21:30:00Z
   stop: 2026-11-07T22:15:00Z
-  title: 24 Stunden Erde
+  title: 24 Stunden Erde (2/2)
   description: |-
     Das hebräische Wort Balagan beschreibt Chaos, Verwirrung oder Konflikt. Aber kann Israel noch behaupten, die einzige Demokratie im Nahen Osten zu sein, oder verwandelt es sich in einen Schurkenstaat, der außerhalb des Völkerrechts agiert?
 
@@ -618,7 +635,7 @@
   widescreen: true
   hd: true
   subtitle: Deutschland nach dem Krieg
-  description: "ZDF-Presenter Mirko Drotschmann begibt sich auf Zeitreise zu bewegenden Schicksalen und Geschichten Nachkriegsdeutschlands, in eine Zeit des Aufbruchs und Neuanfangs. Seine Spurensuche wird auch zur Reise in die Vergangenheit seiner Familie. \n\nDer Film erzählt von Überlebenden, Flüchtlingen, Rückkehrern und Tätern. So entsteht aus sehr verschiedenen Perspektiven, Lebenserfahrungen und -entscheidungen ein Bild der Jahre 194548. In Wesel folgt Mirko Drotschmann den Spuren von Wilhelm und Gerda Groos, die in der fast vollständig zerstörten Stadt den Wiederaufbau organisieren."
+  description: Der Film erzählt von Überlebenden, Flüchtlingen, Rückkehrern und Tätern. So entsteht aus sehr verschiedenen Perspektiven, Lebenserfahrungen und -entscheidungen ein Bild der Nachkriegsjahre. In Wesel folgt Mirko Drotschmann den Spuren von Wilhelm und Gerda Groos, die in der fast vollständig zerstörten Stadt den Wiederaufbau organisieren. Er recherchiert die Geschichte der eigenen Angehörigen, von denen einige wie Millionen andere Deutsche nach Flucht und Vertreibung eine neue Heimat suchen. In Bergen-Belsen begegnet er dem Schicksal der Holocaust-Überlebenden Hadassah Rosensaft, die nach der Befreiung jüdischen Waisenkindern hilft.
 - eventId:
   - 1456601
   - 558570
