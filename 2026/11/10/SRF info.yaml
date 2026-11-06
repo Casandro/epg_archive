@@ -1,7 +1,7 @@
 - eventId: 641241
   start: 2026-11-10T00:00:00Z
   stop: 2026-11-10T00:05:00Z
-  title: Sportflash
+  title: Newsflash SRF 1
   subtitle: Die Sportnews des Tages
   description: |-
     Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
@@ -10,9 +10,10 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 641242
   start: 2026-11-10T00:05:00Z
-  stop: 2026-11-10T00:10:00Z
+  stop: 2026-11-10T00:25:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
@@ -23,6 +24,37 @@
   start: 2026-11-10T00:10:00Z
   stop: 2026-11-10T00:35:00Z
   title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 760606
+  start: 2026-11-10T00:25:00Z
+  stop: 2026-11-10T00:29:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 760607
+  start: 2026-11-10T00:29:00Z
+  stop: 2026-11-10T00:30:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 760608
+  start: 2026-11-10T00:30:00Z
+  stop: 2026-11-10T00:40:00Z
+  title: Newsflash SRF 1
   genre:
   - '32'
   widescreen: true
@@ -40,7 +72,7 @@
   hd: true
 - eventId: 641245
   start: 2026-11-10T00:40:00Z
-  stop: 2026-11-10T00:45:00Z
+  stop: 2026-11-10T01:05:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -50,6 +82,7 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 641246
   start: 2026-11-10T00:45:00Z
   stop: 2026-11-10T00:50:00Z
@@ -68,10 +101,41 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 760609
+  start: 2026-11-10T01:05:00Z
+  stop: 2026-11-10T01:06:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 760610
+  start: 2026-11-10T01:06:00Z
+  stop: 2026-11-10T01:10:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 760611
+  start: 2026-11-10T01:10:00Z
+  stop: 2026-11-10T01:15:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 641248
   start: 2026-11-10T01:15:00Z
-  stop: 2026-11-10T01:20:00Z
-  title: Meteo
+  stop: 2026-11-10T01:40:00Z
+  title: 10 vor 10
   subtitle: Spätausgabe
   genre:
   - '32'
@@ -108,10 +172,41 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 760612
+  start: 2026-11-10T01:40:00Z
+  stop: 2026-11-10T01:44:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 760613
+  start: 2026-11-10T01:44:00Z
+  stop: 2026-11-10T01:45:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 760614
+  start: 2026-11-10T01:45:00Z
+  stop: 2026-11-10T01:55:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 649121
   start: 2026-11-10T01:55:00Z
-  stop: 2026-11-10T02:00:00Z
-  title: Meteo
+  stop: 2026-11-10T02:10:00Z
+  title: 10 vor 10
   subtitle: Spätausgabe
   genre:
   - '32'
@@ -142,6 +237,46 @@
 - eventId: 649124
   start: 2026-11-10T02:10:00Z
   stop: 2026-11-10T02:35:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 760615
+  start: 2026-11-10T02:15:00Z
+  stop: 2026-11-10T02:20:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 760616
+  start: 2026-11-10T02:20:00Z
+  stop: 2026-11-10T02:25:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 760617
+  start: 2026-11-10T02:25:00Z
+  stop: 2026-11-10T02:30:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 760618
+  start: 2026-11-10T02:30:00Z
+  stop: 2026-11-10T02:50:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -188,6 +323,46 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 760619
+  start: 2026-11-10T02:55:00Z
+  stop: 2026-11-10T02:58:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 760622
+  start: 2026-11-10T02:58:00Z
+  stop: 2026-11-10T03:00:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 760631
+  start: 2026-11-10T03:00:00Z
+  stop: 2026-11-10T03:10:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 760632
+  start: 2026-11-10T03:10:00Z
+  stop: 2026-11-10T03:30:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 673288
   start: 2026-11-10T03:15:00Z
   stop: 2026-11-10T03:20:00Z
@@ -228,6 +403,46 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 760633
+  start: 2026-11-10T03:35:00Z
+  stop: 2026-11-10T03:36:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 760634
+  start: 2026-11-10T03:36:00Z
+  stop: 2026-11-10T03:40:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 760635
+  start: 2026-11-10T03:40:00Z
+  stop: 2026-11-10T03:45:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 760636
+  start: 2026-11-10T03:45:00Z
+  stop: 2026-11-10T04:05:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 673292
   start: 2026-11-10T03:55:00Z
   stop: 2026-11-10T04:00:00Z
@@ -261,8 +476,30 @@
   subtitled: true
 - eventId: 673295
   start: 2026-11-10T04:10:00Z
-  stop: 2026-11-10T04:35:00Z
+  stop: 2026-11-10T04:13:00Z
   title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Spätausgabe
+- eventId: 760637
+  start: 2026-11-10T04:13:00Z
+  stop: 2026-11-10T04:15:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 760638
+  start: 2026-11-10T04:15:00Z
+  stop: 2026-11-10T04:45:00Z
+  title: Newsflash SRF 1
   genre:
   - '32'
   widescreen: true
@@ -681,14 +918,17 @@
   hd: true
 - eventId: 690810
   start: 2026-11-10T15:20:00Z
-  stop: 2026-11-10T15:25:00Z
-  title: Meteo
-  subtitle: Mittagsausgabe
+  stop: 2026-11-10T16:00:00Z
+  title: Eco Talk
+  subtitle: 'Olympia 2038: Grosse Chance oder gigantische Schnapsidee?'
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Hiesige Sportverbände wollen die Olympischen Winterspiele 2038 ins Land holen. Bis im Februar 2027 muss sich die Schweiz offiziell bewerben. Befürworter sehen im Grossereignis eine riesige Chance. Für die Gegner überwiegen indessen die Nachteile. Die Diskussion dazu im nächsten «Eco Talk».
+    Schweiz 2026
 - eventId: 690811
   start: 2026-11-10T15:25:00Z
   stop: 2026-11-10T16:00:00Z
@@ -702,14 +942,17 @@
     Schweiz 2026
 - eventId: 690812
   start: 2026-11-10T16:00:00Z
-  stop: 2026-11-10T16:05:00Z
-  title: Meteo
-  subtitle: Mittagsausgabe
+  stop: 2026-11-10T17:00:00Z
+  title: 'Sternstunde Philosophie: Zimmer 42'
+  subtitle: 'Freundschaften: Besser als jede Familie, Mareike Fallwickl?'
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Freundschaften geben Halt, stiften Nähe und können ein Leben lang tragen. Warum haben sie gesellschaftlich dennoch einen niedrigeren Stellenwert als Familie und Partnerschaft? Die Schriftstellerin Mareike Fallwickl plädiert für den Wert von Freundschaften als Wahlfamilien.
+    Schweiz 2026
 - eventId: 690813
   start: 2026-11-10T16:05:00Z
   stop: 2026-11-10T17:00:00Z
@@ -849,7 +1092,7 @@
   hd: true
 - eventId: 690844
   start: 2026-11-10T19:05:00Z
-  stop: 2026-11-10T19:45:00Z
+  stop: 2026-11-10T19:40:00Z
   title: Eco Talk
   subtitle: 'Olympia 2038: Grosse Chance oder gigantische Schnapsidee?'
   widescreen: true
@@ -858,6 +1101,17 @@
   description: |-
     Hiesige Sportverbände wollen die Olympischen Winterspiele 2038 ins Land holen. Bis im Februar 2027 muss sich die Schweiz offiziell bewerben. Befürworter sehen im Grossereignis eine riesige Chance. Für die Gegner überwiegen indessen die Nachteile. Die Diskussion dazu im nächsten «Eco Talk».
     Schweiz 2026
+- eventId: 760640
+  start: 2026-11-10T19:40:00Z
+  stop: 2026-11-10T20:30:00Z
+  title: SRF DOK
+  subtitle: Potenz und Impotenz - Das Schweigen der Männer
+  description: |-
+    Früher oder später ist jeder Mann von Erektionsstörungen betroffen. Die Ursachen sind meistens Gefäss- und Herzerkrankungen oder die Folgen einer Prostataoperation. Bei jungen Betroffenen sind Leistungsdruck und Stress die Hauptfaktoren.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 690845
   start: 2026-11-10T19:45:00Z
   stop: 2026-11-10T20:40:00Z
@@ -869,9 +1123,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 690846
-  start: 2026-11-10T20:40:00Z
-  stop: 2026-11-10T20:45:00Z
+- eventId: 760641
+  start: 2026-11-10T20:30:00Z
+  stop: 2026-11-10T20:40:00Z
   title: Meteo
   subtitle: Abendausgabe
   genre:
@@ -879,9 +1133,22 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 690846
+  start: 2026-11-10T20:40:00Z
+  stop: 2026-11-10T20:45:00Z
+  title: Telesguard
+  subtitle: Abendausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
 - eventId: 690847
   start: 2026-11-10T20:45:00Z
-  stop: 2026-11-10T20:55:00Z
+  stop: 2026-11-10T20:50:00Z
   title: Telesguard
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
@@ -891,10 +1158,22 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 760642
+  start: 2026-11-10T20:50:00Z
+  stop: 2026-11-10T20:55:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 690848
   start: 2026-11-10T20:55:00Z
-  stop: 2026-11-10T21:00:00Z
-  title: SRF Börse
+  stop: 2026-11-10T21:15:00Z
+  title: Schweiz aktuell
   genre:
   - '32'
   widescreen: true
@@ -921,10 +1200,29 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 760645
+  start: 2026-11-10T21:15:00Z
+  stop: 2026-11-10T21:20:00Z
+  title: Meteo
+  subtitle: Abendausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 760646
+  start: 2026-11-10T21:20:00Z
+  stop: 2026-11-10T21:25:00Z
+  title: SRF Börse
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 690855
   start: 2026-11-10T21:25:00Z
-  stop: 2026-11-10T21:30:00Z
-  title: Meteo
+  stop: 2026-11-10T21:50:00Z
+  title: 10 vor 10
   subtitle: Abendausgabe
   genre:
   - '32'
@@ -949,6 +1247,28 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 760647
+  start: 2026-11-10T21:50:00Z
+  stop: 2026-11-10T21:55:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 760648
+  start: 2026-11-10T21:55:00Z
+  stop: 2026-11-10T22:05:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 690858
   start: 2026-11-10T22:00:00Z
   stop: 2026-11-10T22:05:00Z
@@ -961,8 +1281,8 @@
   hd: true
 - eventId: 690859
   start: 2026-11-10T22:05:00Z
-  stop: 2026-11-10T22:15:00Z
-  title: Telesguard
+  stop: 2026-11-10T22:25:00Z
+  title: Schweiz aktuell
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
     Schweiz 2026
@@ -980,9 +1300,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 690861
-  start: 2026-11-10T22:35:00Z
-  stop: 2026-11-10T22:40:00Z
+- eventId: 760649
+  start: 2026-11-10T22:25:00Z
+  stop: 2026-11-10T22:30:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -992,6 +1312,28 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 760650
+  start: 2026-11-10T22:30:00Z
+  stop: 2026-11-10T22:35:00Z
+  title: SRF Börse
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 690861
+  start: 2026-11-10T22:35:00Z
+  stop: 2026-11-10T23:00:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 690862
   start: 2026-11-10T22:40:00Z
   stop: 2026-11-10T22:45:00Z
@@ -1010,10 +1352,41 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 760651
+  start: 2026-11-10T23:00:00Z
+  stop: 2026-11-10T23:01:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 760652
+  start: 2026-11-10T23:01:00Z
+  stop: 2026-11-10T23:05:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 760653
+  start: 2026-11-10T23:05:00Z
+  stop: 2026-11-10T23:10:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 690864
   start: 2026-11-10T23:10:00Z
-  stop: 2026-11-10T23:15:00Z
-  title: Meteo
+  stop: 2026-11-10T23:35:00Z
+  title: 10 vor 10
   subtitle: Spätausgabe
   genre:
   - '32'
@@ -1050,10 +1423,41 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 760654
+  start: 2026-11-10T23:35:00Z
+  stop: 2026-11-10T23:40:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 760655
+  start: 2026-11-10T23:40:00Z
+  stop: 2026-11-10T23:45:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 760656
+  start: 2026-11-10T23:45:00Z
+  stop: 2026-11-10T23:50:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 690868
   start: 2026-11-10T23:50:00Z
-  stop: 2026-11-10T23:55:00Z
-  title: Meteo
+  stop: 2026-11-11T00:15:00Z
+  title: 10 vor 10
   subtitle: Spätausgabe
   genre:
   - '32'
