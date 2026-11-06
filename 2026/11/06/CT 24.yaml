@@ -928,6 +928,27 @@
   genre:
   - '128'
   widescreen: true
+- eventId: 756072
+  start: 2026-11-06T14:39:01Z
+  stop: 2026-11-06T15:00:00Z
+  title: Ekonomika ČT24
+  subtitle: 'Témata: Kondice českého stavebnictví; Americká ekonomika (postoj ekonoma).'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '128'
+- eventId: 756028
+  start: 2026-11-06T14:39:30Z
+  stop: 2026-11-06T15:00:00Z
+  title: Ekonomika ČT24
+  subtitle: 'Témata: Kondice českého stavebnictví; Americká ekonomika (postoj ekonoma).'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '128'
+  widescreen: true
 - eventId:
   - 752509
   - 752939
@@ -984,7 +1005,7 @@
   - 747617
   - 751874
   start: 2026-11-06T15:00:00Z
-  stop: 2026-11-06T15:30:00Z
+  stop: 2026-11-06T15:29:50Z
   title: Zprávy v 16
   description: |-
     HDTV
@@ -996,7 +1017,9 @@
   subtitled: true
   hd: true
   subtitle: Nejdůležitější události dne v ČR i ve světě.
-- eventId: 753285
+- eventId:
+  - 753285
+  - 756055
   start: 2026-11-06T15:29:50Z
   stop: 2026-11-06T15:32:50Z
   title: Zprávy
@@ -1054,7 +1077,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 753286
+- eventId:
+  - 753286
+  - 756056
   start: 2026-11-06T15:32:50Z
   stop: 2026-11-06T16:00:00Z
   title: Studio ČT24
@@ -1295,7 +1320,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 756019
+- eventId:
+  - 756019
+  - 756057
   start: 2026-11-06T17:28:00Z
   stop: 2026-11-06T17:55:00Z
   title: Interview ČT24
