@@ -283,11 +283,13 @@
   start: 2026-11-15T10:55:00Z
   stop: 2026-11-15T12:05:00Z
   title: Rumpelstilzchen oder Das Zaubermännchen
-  subtitle: DDDE 1960
+  subtitle: Spielfilm DDR 1960
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 578659
   - 593393
@@ -302,6 +304,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '117'
 - eventId:
   - 578660
   - 593394
@@ -311,11 +315,13 @@
   start: 2026-11-15T12:30:00Z
   stop: 2026-11-15T13:30:00Z
   title: Das Märchen vom goldenen Taler
-  subtitle: DE 2020
+  subtitle: Fernsehfilm Deutschland 2020
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 578661
   - 593395
@@ -325,11 +331,14 @@
   start: 2026-11-15T13:30:00Z
   stop: 2026-11-15T14:30:00Z
   title: Das Märchen von der Regentrude
-  subtitle: DE 2018
+  subtitle: Fernsehfilm Deutschland 2018
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 578662
   - 593396
@@ -338,7 +347,7 @@
   - 905034
   start: 2026-11-15T14:30:00Z
   stop: 2026-11-15T15:00:00Z
-  title: Die Nordreportage
+  title: 'Die Nordreportage: Die Weihnachtsbäckerin im Traditionscafé'
   subtitle: Die Weihnachtsbäckerin im Traditionscafé - Backen zwischen Baumkuchen und Baustelle
   widescreen: true
   subtitled: true
@@ -450,12 +459,14 @@
   - 905119
   start: 2026-11-15T19:15:00Z
   stop: 2026-11-15T20:45:00Z
-  title: Wunderschön
+  title: Wunderschön!
   subtitle: Mallorca - Insel der Sehnsucht - mit Judith Rakers
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 579609
   - 593725
@@ -469,6 +480,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Das Ratespiel für den ganzen Norden
 - eventId:
   - 580120
   - 593870
@@ -497,6 +509,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId:
   - 580122
   - 593872
