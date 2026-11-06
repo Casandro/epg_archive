@@ -1572,7 +1572,7 @@
   hd: true
 - eventId: 761002
   start: 2026-11-06T19:07:00Z
-  stop: 2026-11-06T20:30:05Z
+  stop: 2026-11-06T20:30:28Z
   title: 90' ČT24
   subtitle: |-
     Téma: Mění se politická kultura v Poslanecké sněmovně?
@@ -1635,6 +1635,17 @@
   genre:
   - '35'
   widescreen: true
+- eventId: 762339
+  start: 2026-11-06T20:30:28Z
+  stop: 2026-11-06T21:00:00Z
+  title: Horizont ČT24
+  subtitle: Pořad zahraniční redakce o dění ve světě. Klade důraz na původní tvorbu vlastních zpravodajů a bohaté agenturní zpravodajství, využívá nejmodernější postupy, televizní žánry i technologie.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 621841
   - 623699
@@ -1667,12 +1678,14 @@
   subtitle: Souhrn meteorologických informací.
   description: |-
     HDTV
+    Zvukový popis
     Skryté titulky
   genre:
   - '33'
   widescreen: true
   subtitled: true
   hd: true
+  audiodesc: true
 - eventId:
   - 621843
   - 623701
@@ -1705,12 +1718,14 @@
   subtitle: Profilový rozhovor s významnou osobností, která má co říci k aktuálnímu dění v ČR nebo ve světě.
   description: |-
     HDTV
+    Zvukový popis
     Skryté titulky
   genre:
   - '35'
   widescreen: true
   subtitled: true
   hd: true
+  audiodesc: true
 - eventId:
   - 621845
   - 623703
