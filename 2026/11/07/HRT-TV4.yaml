@@ -297,7 +297,7 @@
   description: Emisija donosi priloge o ljudima, njihovim interesima, podvizima i inspirativnim životnim trenucima. Kroz intimne i poticajne priče otkriva bogatstvo svakodnevice koje se često izgubi u buci dana.
 - eventId: 708010
   start: 2026-11-07T05:54:00Z
-  stop: 2026-11-07T05:58:00Z
+  stop: 2026-11-07T06:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -376,7 +376,9 @@
   genre:
   - '160'
   description: 'Usamljeni veseljaci, kaskader čija se spretnost ogleda u plesnim pokretima, udovci i udovice koji lakše tuguju u društvu, ljudi različitih zanimanja i nevjerojatnih životnih sudbina. Svi oni žive pod istim krovom, u domu za starije na zagrebačkom Trnju. Priče njihovih života isprepletene su pjesmom, plesom, radošću i sjetom, kao i svime onime što jesen života donosi. O svemu tome brine se predani tim ljudi, a među njima je i liječnica Ksenija Arbanas Kovačević, jedna od samo četiri gerijatrice u Hrvatskoj i gošća naše ovotjedne emisije. Urednica: Anita Hrstić'
-- eventId: 708038
+- eventId:
+  - 708038
+  - 751871
   start: 2026-11-07T06:55:00Z
   stop: 2026-11-07T07:00:00Z
   title: Bez komentara
@@ -539,7 +541,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 708084
   start: 2026-11-07T09:35:00Z
-  stop: 2026-11-07T09:42:00Z
+  stop: 2026-11-07T09:45:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
@@ -554,7 +556,9 @@
   title: Poslovne vijesti
   subtitle: ' '
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 708085
+- eventId:
+  - 708085
+  - 751872
   start: 2026-11-07T09:45:00Z
   stop: 2026-11-07T09:50:00Z
   title: Poslovne vijesti
@@ -571,7 +575,9 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 708086
+- eventId:
+  - 708086
+  - 751873
   start: 2026-11-07T09:50:00Z
   stop: 2026-11-07T10:00:00Z
   title: 'Studio 4: Znanost'
@@ -680,7 +686,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 708097
   start: 2026-11-07T11:20:00Z
-  stop: 2026-11-07T11:28:00Z
+  stop: 2026-11-07T11:30:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -952,6 +958,14 @@
   genre:
   - '160'
   description: 'Pravni fakultet u Zagrebu osnovan je 1776. godine i najstarija je visokoškolska pravna institucija u Hrvatskoj. Jedanaest je godina stariji od prvog Ustava Sjedinjenih Država, za koji kažu da je prvi ustav na svijetu. I onda na čelo tog fakulteta postave ženu, predsjednicu Hrvatskog glazbenog zavoda?! Glazbenica, a dekanica Prava? Sve će vam biti jasno kad pogledate Drugu stranu HTV-a. Bila je prva žena u 200 godina povijesti koja je postala predsjednica Hrvatskog glazbenog zavoda. I onda je upravo ta predsjednica HGZ-a postala dekanica Pravnog fakulteta... koji slavi 250 godina postojanja! No, to nije sve. Uz to predaje na Pravnom fakultetu u Zagrebu, na poslijediplomskom studiju intelektualnog vlasništva, ali i na Akademiji dramske umjetnosti i Muzičkoj akademiji... a pomalo piše i znanstvene radove... napisala ih je sedamdesetak. A imala je i glazbenu karijeru: diplomirala je gitaru na Muzičkoj akademiji u Zagrebu, redovito svirala koncerte... sama i s violinisticom Laurom Vadjon... usavršavala se na Mozarteumu u Salzburgu i eto je danas u našoj emisiji. Pravnica, profesionalna gitaristica i menadžerica. Tri u jednoj. Romana Matanovac Vučković u Drugoj strani HTV-a.'
+- eventId: 751874
+  start: 2026-11-07T15:55:00Z
+  stop: 2026-11-07T16:18:00Z
+  title: Druga strana
+  subtitle: Pravni fakultet u Zagrebu osnovan je 1776. godine i najstarija je visokoškolska pravna institucija u Hrvatskoj.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 751393
   start: 2026-11-07T16:18:00Z
   stop: 2026-11-07T17:01:00Z
@@ -964,7 +978,9 @@
   title: Globalna Hrvatska
   subtitle: ' '
   description: Emisija posvećena Hrvatima u domovini i svijetu.
-- eventId: 708125
+- eventId:
+  - 708125
+  - 751875
   start: 2026-11-07T16:20:00Z
   stop: 2026-11-07T17:00:00Z
   title: Globalna Hrvatska
@@ -973,7 +989,9 @@
   genre:
   - '160'
   description: Emisija posvećena Hrvatima u domovini i svijetu.
-- eventId: 708126
+- eventId:
+  - 708126
+  - 751876
   start: 2026-11-07T17:00:00Z
   stop: 2026-11-07T17:32:00Z
   title: TV student
@@ -994,7 +1012,9 @@
   title: TV student
   subtitle: ' '
   description: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
-- eventId: 708127
+- eventId:
+  - 708127
+  - 751877
   start: 2026-11-07T17:32:00Z
   stop: 2026-11-07T17:50:00Z
   title: Regionalni dnevnik
@@ -1015,7 +1035,9 @@
   title: Regionalni dnevnik
   subtitle: ' '
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 708128
+- eventId:
+  - 708128
+  - 751878
   start: 2026-11-07T17:50:00Z
   stop: 2026-11-07T17:53:00Z
   title: Bez komentara
@@ -1158,7 +1180,9 @@
   genre:
   - '128'
   description: Córdoba, drugi najveći argentinski grad, svoju povijest čuva i u kamenu. U njegovu izgradnju svoj su rad utkali brojni hrvatski klesari i kamenoresci koji su zahvaljujući izučenom zanatu pronašli svoje mjesto u novoj sredini. Njihov trag vodi nas od kamenoloma La Calere do prepoznatljivih građevina Córdobe. Upoznajemo Agustína Negretea, praunuka kamenoresca Tadije, čija obitelj gotovo stoljeće poslije i dalje živi od kamena. S Cristianom Šprljanom otkrivamo priče koje se kriju iza La Caade i Slavoluka Córdobe te što danas Hrvate drži na okupu. Upravo će se u Córdobi okupiti Hrvati iz različitih dijelova kontinenta na Susretu hrvatske dijaspore Južne Amerike, pokazujući kako se mreža poznanstava i veza održava i među novim generacijama.
-- eventId: 708146
+- eventId:
+  - 708146
+  - 751879
   start: 2026-11-07T21:39:00Z
   stop: 2026-11-07T21:43:00Z
   title: Bez komentara
@@ -1177,7 +1201,7 @@
   description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
 - eventId: 708147
   start: 2026-11-07T21:43:00Z
-  stop: 2026-11-07T22:03:00Z
+  stop: 2026-11-07T21:45:00Z
   title: 'HRT100 Vremeplov: Reli Monte Carlo s hrvatskim natjecateljima 1969.'
   subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
   ageRating: 4
@@ -1193,6 +1217,14 @@
   genre:
   - '160'
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
+- eventId: 751880
+  start: 2026-11-07T21:45:00Z
+  stop: 2026-11-07T22:03:00Z
+  title: 'Studio 4: U fokusu'
+  subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 751398
   - 751805
@@ -1210,6 +1242,14 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 751881
+  start: 2026-11-07T22:05:00Z
+  stop: 2026-11-07T22:08:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 751399
   - 751806
@@ -1218,7 +1258,9 @@
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 708150
+- eventId:
+  - 708150
+  - 751882
   start: 2026-11-07T22:08:00Z
   stop: 2026-11-07T22:10:00Z
   title: Bez komentara
@@ -1292,7 +1334,7 @@
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
 - eventId: 708158
   start: 2026-11-07T23:17:00Z
-  stop: 2026-11-07T23:47:00Z
+  stop: 2026-11-07T23:19:00Z
   title: Auto Market Magazin
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -1308,6 +1350,14 @@
   genre:
   - '160'
   description: U emisiji za ljubitelje automobila svaki tjedan predstavljaju se novi modeli automobila, tehnološke inovacije, testiraju nova vozila, donose savjeti o održavanju.
+- eventId: 751883
+  start: 2026-11-07T23:19:00Z
+  stop: 2026-11-07T23:47:00Z
+  title: Auto Market Magazin
+  subtitle: U emisiji za ljubitelje automobila svaki tjedan predstavljaju se novi modeli automobila, tehnološke inovacije, testiraju nova vozila, donose savjeti o održavanju.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 751400
   - 751807
@@ -1325,3 +1375,11 @@
   genre:
   - '32'
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+- eventId: 751884
+  start: 2026-11-07T23:49:00Z
+  stop: 2026-11-08T00:05:00Z
+  title: Regionalni dnevnik
+  subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+  ageRating: 4
+  genre:
+  - '32'
