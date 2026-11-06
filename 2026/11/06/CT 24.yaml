@@ -561,8 +561,9 @@
   - 651550
   - 740508
   - 751981
+  - 752638
   start: 2026-11-06T12:30:00Z
-  stop: 2026-11-06T12:33:00Z
+  stop: 2026-11-06T12:33:17Z
   title: Zprávy
   description: |-
     HDTV
@@ -603,6 +604,19 @@
   subtitled: true
   hd: true
 - eventId:
+  - 752652
+  - 752934
+  start: 2026-11-06T12:33:17Z
+  stop: 2026-11-06T13:00:00Z
+  title: Studio ČT24
+  subtitle: 'Téma: Napjatá situace v Poslanecké sněmovně (komentář), Vyostřené vztahy vlády a opozice, Pokračuje zpřístupňování podzemí pod Stříbrným dolem.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId:
   - 621513
   - 623640
   - 640316
@@ -630,7 +644,7 @@
   - 751679
   - 751984
   start: 2026-11-06T13:03:00Z
-  stop: 2026-11-06T13:30:00Z
+  stop: 2026-11-06T13:29:50Z
   title: Studio ČT24
   subtitle: 'Témata: Kondice a směřování české ekonomiky, ČNB zhoršila výhled vývoje české ekonomiky, Schvalování rozpočtu na příští rok, Napjatá situace v Poslanecké sněmovna, Debata o novele umožňující NKÚ kontrolu ČT a'
   description: |-
@@ -642,7 +656,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 751791
+- eventId:
+  - 751791
+  - 752935
   start: 2026-11-06T13:29:50Z
   stop: 2026-11-06T13:32:50Z
   title: Zprávy
@@ -670,7 +686,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 751792
+- eventId:
+  - 751792
+  - 752936
   start: 2026-11-06T13:32:50Z
   stop: 2026-11-06T14:00:00Z
   title: Studio ČT24
@@ -725,11 +743,15 @@
   - 651557
   - 740515
   - 751988
+  - 752503
   start: 2026-11-06T14:03:00Z
-  stop: 2026-11-06T14:30:00Z
+  stop: 2026-11-06T14:29:50Z
   title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  subtitle: |-
+    Témata: Kondice a směřování české ekonomiky, Centrální banka zvýšila základní úrokovou sazbu na čtyři procenta, Schvalování rozpočtu na příští rok, Napjatá situace ve sněmovně,
+    Debata o novele umožňující
   description: |-
+    NKÚ kontrolu ČT a ČRo, Proces se skupinou neuznávající legitimitu SRN.
     HDTV
     Skryté titulky
   genre:
@@ -737,18 +759,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 752503
-  start: 2026-11-06T14:03:00Z
-  stop: 2026-11-06T14:29:50Z
-  title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '35'
-  widescreen: true
-- eventId: 752507
+- eventId:
+  - 752507
+  - 752937
   start: 2026-11-06T14:29:50Z
   stop: 2026-11-06T14:32:50Z
   title: Zprávy
@@ -776,11 +789,13 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 752508
+- eventId:
+  - 752508
+  - 752938
   start: 2026-11-06T14:32:50Z
   stop: 2026-11-06T14:39:50Z
   title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  subtitle: 'Témata: Odboráři KRNAP vyhlásili stávkovou pohotovost, Ředitel Správy KRNAP odvolal své dva náměstky, Napětí kvůli krokům ředitele Správy KRNAP, Výsledky auditu v Krkonošském národním parku.'
   description: |-
     HDTV
     Skryté titulky
@@ -806,7 +821,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 752509
+- eventId:
+  - 752509
+  - 752939
   start: 2026-11-06T14:39:50Z
   stop: 2026-11-06T15:00:00Z
   title: Ekonomika ČT24
