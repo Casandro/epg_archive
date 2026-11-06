@@ -20,8 +20,10 @@
   - 725854
   start: 2026-11-07T00:30:00Z
   stop: 2026-11-07T00:55:00Z
-  title: Program informacyjny
-  description: (N) Główne wydanie codziennego programu informacyjnego.
+  title: Program informacyjny 19.30
+  description: |-
+    program informacyjny
+    Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.
   genre:
   - '36'
   subtitle: Bieżące wydarzenia w kraju i na świecie. Informacje polityczne, gospodarcze, ważne tematy społeczne i poruszające opinię publiczną.
@@ -42,9 +44,9 @@
   start: 2026-11-07T01:05:00Z
   stop: 2026-11-07T01:10:00Z
   title: Sport
-  description: |
-    Tytuł oryginalny: Sport
-    PL, 2026
+  description: |-
+    magazyn
+    Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.
   genre:
   - '66'
 - eventId:
@@ -54,9 +56,9 @@
   start: 2026-11-07T01:10:00Z
   stop: 2026-11-07T01:15:00Z
   title: Pogoda
-  description: |
-    Tytuł oryginalny: Pogoda
-    PL, 2025
+  description: |-
+    program informacyjny
+    Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.
   genre:
   - '32'
 - eventId:
@@ -82,7 +84,7 @@
   - 725859
   start: 2026-11-07T02:10:00Z
   stop: 2026-11-07T02:40:00Z
-  title: Tańcząca ze światem - Tunezja - Houmt Souk
+  title: 'Tańcząca ze światem - Tunezja: Houmt Souk: odc.10'
   description: |-
     Tytuł oryginalny: Tańcząca ze światem
     PL, 2023
@@ -148,8 +150,8 @@
   - 656267
   - 723084
   start: 2026-11-07T04:35:00Z
-  stop: 2026-11-07T05:00:00Z
-  title: Gra słów. Krzyżówka - /1175/
+  stop: 2026-11-07T04:55:00Z
+  title: 'Gra słów. Krzyżówka: odc.1175'
   description: |-
     Tytuł oryginalny: Gra słów. Krzyżówka
     PL, 2026
@@ -159,6 +161,11 @@
   genre:
   - '112'
   subtitle: Codzienny teleturniej sprawdzający wiedzę, oparty na formule krzyżówki. Czworo uczestników zmierzy się ze sobą, by zdobyć tytuł finalisty dnia i uzyskać możliwość wzięcia udziału w finale tygodnia.
+- eventId: 758901
+  start: 2026-11-07T04:55:00Z
+  stop: 2026-11-07T05:00:00Z
+  title: Zakończenie programu
+  description: .
 - eventId:
   - 655191
   - 656268
@@ -166,9 +173,9 @@
   start: 2026-11-07T05:00:00Z
   stop: 2026-11-07T05:30:00Z
   title: Panorama
-  description: |
-    Tytuł oryginalny: Panorama
-    PL, 2026
+  description: |-
+    program informacyjny
+    Podsumowanie najważniejszych wydarzeń dnia z kraju i ze świata. W programie oprócz materiałów czysto newsowych, politycznych, społecznych, gospodarczych, medycznych, naukowych i kulturalnych znajdą się również analizy konkretnych zagadnień oraz wypowiedzi ekspertów.
   genre:
   - '149'
   subtitle: Główny program informacyjny telewizyjnej Dwójki, podsumowujący najważniejsze wydarzenia minionego dnia w kraju i na świecie.
@@ -178,8 +185,11 @@
   - 723086
   start: 2026-11-07T05:30:00Z
   stop: 2026-11-07T06:15:00Z
-  title: Kulturalni - /43/
-  description: Kulturalni to program o polskiej kulturze, tworzony przez pasjonatów, dla których kultura jest codzienną potrzebą, zaprasza widzów do świata literatury, teatru, kina, muzyki i sztuk wizualnych. Program łączy wielkie nazwiska z odkryciami.
+  title: 'Kulturalni: odc.43'
+  description: |-
+    magazyn odc.43
+    Prowadzą: Piotr Szygalski, Bodo Kox
+    Piotr Szygalski i Bodo Kox przedstawiają informacje z różnych dziedzin kultury. W magazynie m.in. recenzje premier kinowych i teatralnych. Autorzy polecają również warte uwagi lektury oraz omawiają ważne wydarzenia na scenie muzycznej.
   genre:
   - '112'
   subtitle: Program prezentuje najciekawsze wydarzenia kulturalne, artystyczne, sportowe i społeczne z życia Polonii.
@@ -189,8 +199,11 @@
   - 723103
   start: 2026-11-07T06:15:00Z
   stop: 2026-11-07T06:30:00Z
-  title: 'Turystyczna Jazda - Włochy - Trentino: Trydent i Pine'
-  description: Zwiedzając północno - wschodnią część Włoch trafimy do Trydentu i poznamy bogate dziedzictwo kulturowe tego miasta. Wybierzemy się także na wycieczkę rowerową wokół malowniczych jezior.
+  title: 'Turystyczna jazda: Włochy - Trentino: Trydent i Pine: odc.206'
+  description: |-
+    magazyn (2026) odc.206, Włochy - Trentino: Trydent i Pine
+    Ekipa programu rusza tam, gdzie alpejskie widoki łączą się z historią i kulturą. Reporterzy odwiedzają północno-wschodnie Włochy, docierają do Trydentu i przyglądają się bogatemu dziedzictwu miasta. W planie jest rowerowa wyprawa wokół malowniczych jezior, która pozwala zobaczyć ten region z nieco innej perspektywy.
+    Od lat: 12
   genre:
   - '161'
   ageRating: 12
@@ -201,7 +214,10 @@
   start: 2026-11-07T06:30:00Z
   stop: 2026-11-07T06:55:00Z
   title: Pytanie na śniadanie - pobudka
-  description: Program służy pogłębianiu znajomości i upowszechnianiu kultury w zakresie muzyki, literatury, teatru i tańca. Jest źródłem wiedzy na temat wydarzeń także natury ekonomicznej i społecznej.
+  description: |-
+    magazyn (Polska, 2026) (na żywo)
+    Poranny program telewizyjnej Dwójki, w którym eksperci odpowiadają na ważne pytania, analizują codzienne sprawy i dzielą się praktycznymi poradami.
+    Od lat: 12
   ageRating: 12
   genre:
   - '149'
@@ -213,7 +229,10 @@
   start: 2026-11-07T06:55:00Z
   stop: 2026-11-07T10:20:00Z
   title: Pytanie na śniadanie
-  description: Program służy pogłębianiu znajomości i upowszechnianiu kultury w zakresie muzyki, literatury, teatru i tańca. Jest źródłem wiedzy na temat wydarzeń także natury ekonomicznej i społecznej.
+  description: |-
+    magazyn (Polska, 2026) (na żywo)
+    Każdy program poświęcony jest innej kwestii. Na pytania związane z konkretnym tematem odpowiadają zaproszeni do studia specjaliści, eksperci z różnych dziedzin, polskie i zagraniczne gwiazdy.
+    Od lat: 12
   ageRating: 12
   genre:
   - '149'
