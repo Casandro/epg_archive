@@ -2470,7 +2470,7 @@
   description: Emisija donosi priloge o ljudima, njihovim interesima, podvizima i inspirativnim životnim trenucima. Kroz intimne i poticajne priče otkriva bogatstvo svakodnevice koje se često izgubi u buci dana.
 - eventId: 683011
   start: 2026-11-06T21:44:00Z
-  stop: 2026-11-06T22:05:00Z
+  stop: 2026-11-06T22:04:00Z
   title: 'Studio 4: Sportske minute'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
@@ -2486,13 +2486,23 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 763380
+  start: 2026-11-06T22:04:00Z
+  stop: 2026-11-06T22:07:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 763200
   start: 2026-11-06T22:05:00Z
   stop: 2026-11-06T22:08:00Z
   title: '#REPORTAŽE: Ilustrator'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 683013
+- eventId:
+  - 683013
+  - 763381
   start: 2026-11-06T22:07:00Z
   stop: 2026-11-06T22:10:00Z
   title: Bez komentara
@@ -2543,13 +2553,23 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 763382
+  start: 2026-11-06T22:50:00Z
+  stop: 2026-11-06T22:55:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 763202
   start: 2026-11-06T22:54:00Z
   stop: 2026-11-06T23:00:00Z
   title: '#REPORTAŽE: Luka Kobeščak'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 683018
+- eventId:
+  - 683018
+  - 763383
   start: 2026-11-06T22:55:00Z
   stop: 2026-11-06T23:00:00Z
   title: Bez komentara
@@ -2569,14 +2589,16 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 683020
   start: 2026-11-06T23:10:00Z
-  stop: 2026-11-06T23:18:00Z
+  stop: 2026-11-06T23:17:00Z
   title: Vijesti iz kulture
   subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   ageRating: 4
   genre:
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 683021
+- eventId:
+  - 683021
+  - 763384
   start: 2026-11-06T23:17:00Z
   stop: 2026-11-06T23:42:00Z
   title: Potrošački kod
@@ -2591,7 +2613,9 @@
   title: Potrošački kod
   subtitle: ' '
   description: Tjedna emisija namijenjena potrošačima. Otkriva probleme s kojima se svakodnevno susreću pri kupnji robe i usluga, donosi savjete i upute.
-- eventId: 683022
+- eventId:
+  - 683022
+  - 763385
   start: 2026-11-06T23:42:00Z
   stop: 2026-11-07T00:05:00Z
   title: Regionalni dnevnik
