@@ -2553,7 +2553,9 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 763382
+- eventId:
+  - 763382
+  - 763917
   start: 2026-11-06T22:50:00Z
   stop: 2026-11-06T22:55:00Z
   title: '#REPORTAŽE'
@@ -2572,6 +2574,7 @@
 - eventId:
   - 683018
   - 763383
+  - 763918
   start: 2026-11-06T22:55:00Z
   stop: 2026-11-06T23:00:00Z
   title: Bez komentara
@@ -2591,7 +2594,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 683020
   start: 2026-11-06T23:10:00Z
-  stop: 2026-11-06T23:20:00Z
+  stop: 2026-11-06T23:17:00Z
   title: Vijesti iz kulture
   subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   ageRating: 4
@@ -2601,6 +2604,7 @@
 - eventId:
   - 683021
   - 763384
+  - 763919
   start: 2026-11-06T23:17:00Z
   stop: 2026-11-06T23:42:00Z
   title: Potrošački kod
@@ -2624,6 +2628,7 @@
 - eventId:
   - 683022
   - 763385
+  - 763920
   start: 2026-11-06T23:42:00Z
   stop: 2026-11-07T00:05:00Z
   title: Regionalni dnevnik
