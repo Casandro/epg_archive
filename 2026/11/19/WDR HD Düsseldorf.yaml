@@ -205,7 +205,7 @@
   start: 2026-11-19T06:40:00Z
   stop: 2026-11-19T07:25:00Z
   title: In aller Freundschaft - 1049. Ruhe nach dem Sturm
-  subtitle: Deutschland 2024
+  subtitle: Ruhe nach dem Sturm
   widescreen: true
   subtitled: true
   hd: true
@@ -219,7 +219,7 @@
   start: 2026-11-19T07:25:00Z
   stop: 2026-11-19T08:10:00Z
   title: In aller Freundschaft - 1050. Helfer in der Not
-  subtitle: Deutschland 2024
+  subtitle: Helfer in der Not
   widescreen: true
   subtitled: true
   hd: true
@@ -265,6 +265,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId:
   - 1009348
   - 588188
@@ -273,7 +275,7 @@
   - 616394
   start: 2026-11-19T10:10:00Z
   stop: 2026-11-19T10:55:00Z
-  title: WILDER WILDER WESTEN
+  title: WILDER WILDER WESTEN (15/15)
   subtitle: Die besten Zoogeschichten aus NRW
   widescreen: true
   subtitled: true
@@ -287,7 +289,7 @@
   - 616395
   start: 2026-11-19T10:55:00Z
   stop: 2026-11-19T11:45:00Z
-  title: Elefant, Tiger & Co.
+  title: Elefant, Tiger & Co. (456)
   subtitle: Geschichten aus dem Leipziger Zoo
   widescreen: true
   subtitled: true
@@ -315,8 +317,8 @@
   - 610752
   start: 2026-11-19T12:00:00Z
   stop: 2026-11-19T12:50:00Z
-  title: Seehund, Puma & Co.
-  subtitle: Kleiner Nachwuchs
+  title: Seehund, Puma & Co. (188)
+  subtitle: Zoogeschichten von der Küste
   widescreen: true
   subtitled: true
   hd: true
@@ -344,11 +346,12 @@
   start: 2026-11-19T13:20:00Z
   stop: 2026-11-19T14:10:00Z
   title: Watzmann ermittelt - 16. Kristalle glänzen ewig
-  subtitle: Deutschland 2019
+  subtitle: Kristalle glänzen ewig
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 1009394
   - 582314
@@ -358,11 +361,14 @@
   start: 2026-11-19T14:10:00Z
   stop: 2026-11-19T15:00:00Z
   title: Watzmann ermittelt - 17. Ein todsicheres Geschäft
-  subtitle: Deutschland 2021
+  subtitle: Ein todsicheres Geschäft
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
+  genre:
+  - '16'
 - eventId:
   - 1009434
   - 582783
@@ -461,22 +467,13 @@
   - '32'
 - eventId:
   - 1009560
+  - 588872
+  - 599620
   - 611686
   - 617462
   start: 2026-11-19T19:15:00Z
   stop: 2026-11-19T20:00:00Z
   title: 'Quarks: Geschwister - Die wichtigste Beziehung unseres Lebens?'
-  subtitle: Geschwister - Die wichtigste Beziehung unseres Lebens?  (Wiederholung von Donnerstag)
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
-  - 588872
-  - 599620
-  start: 2026-11-19T19:15:00Z
-  stop: 2026-11-19T20:00:00Z
-  title: Quarks
   subtitle: Geschwister - Die wichtigste Beziehung unseres Lebens?  (Wiederholung von Donnerstag)
   widescreen: true
   subtitled: true
@@ -554,3 +551,4 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
