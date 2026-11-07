@@ -602,7 +602,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 708031
   start: 2026-11-07T06:10:00Z
-  stop: 2026-11-07T06:15:00Z
+  stop: 2026-11-07T06:14:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
@@ -615,6 +615,7 @@
   - 764312
   - 769910
   - 776001
+  - 779034
   start: 2026-11-07T06:14:00Z
   stop: 2026-11-07T06:21:00Z
   title: Vijesti iz kulture
@@ -643,6 +644,7 @@
   - 764313
   - 769911
   - 776002
+  - 779035
   start: 2026-11-07T06:21:00Z
   stop: 2026-11-07T06:22:00Z
   title: Vrijeme RH danas
@@ -650,7 +652,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 708033
   start: 2026-11-07T06:22:00Z
-  stop: 2026-11-07T06:23:00Z
+  stop: 2026-11-07T06:24:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -694,7 +696,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 708037
   start: 2026-11-07T06:30:00Z
-  stop: 2026-11-07T06:56:00Z
+  stop: 2026-11-07T06:55:00Z
   title: Treća dob
   subtitle: Usamljeni veseljaci, kaskader čija se spretnost ogleda u plesnim pokretima, udovci i udovice koji lakše tuguju u društvu, ljudi različitih zanimanja i nevjerojatnih životnih sudbina.
   ageRating: 4
@@ -715,6 +717,7 @@
   - 762356
   - 762995
   - 776003
+  - 779036
   start: 2026-11-07T06:55:00Z
   stop: 2026-11-07T07:00:00Z
   title: Bez komentara
@@ -921,7 +924,7 @@
   - 764314
   - 769912
   start: 2026-11-07T09:42:00Z
-  stop: 2026-11-07T09:47:00Z
+  stop: 2026-11-07T09:46:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
@@ -962,7 +965,9 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 776004
+- eventId:
+  - 776004
+  - 779037
   start: 2026-11-07T09:46:00Z
   stop: 2026-11-07T09:55:00Z
   title: 'Studio 4: Znanost'
@@ -1050,6 +1055,7 @@
   - 764316
   - 769914
   - 776005
+  - 779038
   start: 2026-11-07T09:58:00Z
   stop: 2026-11-07T10:00:00Z
   title: Bez komentara
@@ -1573,7 +1579,7 @@
   - 764320
   - 769918
   start: 2026-11-07T17:01:00Z
-  stop: 2026-11-07T17:33:00Z
+  stop: 2026-11-07T17:32:00Z
   title: TV student
   subtitle: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
   description: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
@@ -1594,6 +1600,7 @@
   - 762370
   - 763001
   - 776006
+  - 779039
   start: 2026-11-07T17:32:00Z
   stop: 2026-11-07T17:50:00Z
   title: Regionalni dnevnik
@@ -1642,6 +1649,7 @@
   - 762371
   - 763002
   - 776007
+  - 779040
   start: 2026-11-07T17:50:00Z
   stop: 2026-11-07T17:53:00Z
   title: Bez komentara
@@ -1687,7 +1695,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 708130
   start: 2026-11-07T17:54:00Z
-  stop: 2026-11-07T17:55:00Z
+  stop: 2026-11-07T17:56:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -1717,6 +1725,7 @@
   - 764321
   - 769919
   - 776008
+  - 779041
   start: 2026-11-07T17:56:00Z
   stop: 2026-11-07T18:00:00Z
   title: Vrijeme svijet sutra
