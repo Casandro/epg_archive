@@ -2374,7 +2374,7 @@
   - '160'
 - eventId: 708156
   start: 2026-11-07T23:00:00Z
-  stop: 2026-11-07T23:09:00Z
+  stop: 2026-11-07T23:10:00Z
   title: Vijesti flash
   subtitle: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   ageRating: 4
@@ -2387,7 +2387,9 @@
   title: Vijesti iz kulture
   subtitle: ' '
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 708157
+- eventId:
+  - 708157
+  - 788648
   start: 2026-11-07T23:10:00Z
   stop: 2026-11-07T23:17:00Z
   title: Vijesti iz kulture
@@ -2399,6 +2401,7 @@
 - eventId:
   - 708158
   - 788328
+  - 788649
   start: 2026-11-07T23:17:00Z
   stop: 2026-11-07T23:47:00Z
   title: Auto Market Magazin
@@ -2466,6 +2469,7 @@
   - 764325
   - 769923
   - 788329
+  - 788650
   start: 2026-11-07T23:47:00Z
   stop: 2026-11-08T00:05:00Z
   title: Regionalni dnevnik
