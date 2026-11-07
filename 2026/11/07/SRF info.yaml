@@ -316,7 +316,7 @@
   - 656271
   - 726586
   start: 2026-11-07T02:45:00Z
-  stop: 2026-11-07T03:10:00Z
+  stop: 2026-11-07T02:50:00Z
   title: 10 vor 10
   subtitle: Spätausgabe
   genre:
@@ -328,6 +328,7 @@
   - 641285
   - 656272
   - 726587
+  - 772957
   start: 2026-11-07T02:50:00Z
   stop: 2026-11-07T02:55:00Z
   title: Sportflash
@@ -346,6 +347,16 @@
   start: 2026-11-07T02:55:00Z
   stop: 2026-11-07T03:00:00Z
   title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 772958
+  start: 2026-11-07T02:55:00Z
+  stop: 2026-11-07T03:15:00Z
+  title: 10 vor 10
+  description: "Klatsche für KI \nAlles umsonst?\nJugend in Aufruhr\nSchweiz 2026"
   genre:
   - '32'
   widescreen: true
@@ -394,19 +405,23 @@
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: Spätausgabe
 - eventId:
   - 641312
   - 656288
   - 726590
   start: 2026-11-07T03:25:00Z
-  stop: 2026-11-07T03:45:00Z
-  title: 10 vor 10
-  subtitle: Spätausgabe
+  stop: 2026-11-07T03:30:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
 - eventId:
   - 641313
   - 656289
@@ -421,6 +436,16 @@
   genre:
   - '64'
   widescreen: true
+  hd: true
+- eventId: 772959
+  start: 2026-11-07T03:30:00Z
+  stop: 2026-11-07T03:50:00Z
+  title: 10 vor 10
+  description: "Klatsche für KI \nAlles umsonst?\nJugend in Aufruhr\nSchweiz 2026"
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId:
   - 641314
@@ -477,15 +502,20 @@
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: Spätausgabe
 - eventId: 701741
   start: 2026-11-07T04:00:00Z
-  stop: 2026-11-07T04:25:00Z
-  title: 10 vor 10
+  stop: 2026-11-07T04:10:00Z
+  title: Sportflash
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
 - eventId:
   - 641316
   - 656292
@@ -513,6 +543,16 @@
   genre:
   - '64'
   widescreen: true
+  hd: true
+- eventId: 772960
+  start: 2026-11-07T04:10:00Z
+  stop: 2026-11-07T04:25:00Z
+  title: 10 vor 10
+  description: "Klatsche für KI \nAlles umsonst?\nJugend in Aufruhr\nSchweiz 2026"
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId:
   - 641318
@@ -550,16 +590,17 @@
   hd: true
 - eventId: 701743
   start: 2026-11-07T04:30:00Z
-  stop: 2026-11-07T04:35:00Z
+  stop: 2026-11-07T04:50:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
-    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
     Schweiz 2026
   genre:
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 701744
   start: 2026-11-07T04:35:00Z
   stop: 2026-11-07T04:40:00Z
@@ -609,7 +650,7 @@
 - eventId: 760676
   start: 2026-11-07T04:50:00Z
   stop: 2026-11-07T05:05:00Z
-  title: Telesguard
+  title: Schweiz aktuell
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
     Schweiz 2026
@@ -669,6 +710,32 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 772961
+  start: 2026-11-07T05:10:00Z
+  stop: 2026-11-07T05:15:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 772962
+  start: 2026-11-07T05:15:00Z
+  stop: 2026-11-07T05:30:00Z
+  title: Schweiz aktuell
+  description: |-
+    Überwinden
+    Überleben
+    Überlegen
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 725885
   start: 2026-11-07T05:25:00Z
   stop: 2026-11-07T05:30:00Z
@@ -709,6 +776,32 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 772963
+  start: 2026-11-07T05:35:00Z
+  stop: 2026-11-07T05:40:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 772964
+  start: 2026-11-07T05:40:00Z
+  stop: 2026-11-07T05:55:00Z
+  title: Schweiz aktuell
+  description: |-
+    Überwinden
+    Überleben
+    Überlegen
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 725894
   start: 2026-11-07T05:50:00Z
   stop: 2026-11-07T05:55:00Z
@@ -744,6 +837,32 @@
   start: 2026-11-07T06:00:00Z
   stop: 2026-11-07T06:20:00Z
   title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 772966
+  start: 2026-11-07T06:00:00Z
+  stop: 2026-11-07T06:05:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 772967
+  start: 2026-11-07T06:05:00Z
+  stop: 2026-11-07T06:20:00Z
+  title: Schweiz aktuell
+  description: |-
+    Überwinden
+    Überleben
+    Überlegen
+    Schweiz 2026
   genre:
   - '32'
   widescreen: true
@@ -815,6 +934,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 772968
+  start: 2026-11-07T06:25:00Z
+  stop: 2026-11-07T07:25:00Z
+  title: Gottesdienst
+  subtitle: Reformierter Gottesdienst aus der Kirche St. Laurenzen, St. Gallen
+  description: |-
+    SRF überträgt am Reformationssonntag den Gottesdienst live aus der Kirche St. Laurenzen in St. Gallen. Im Mittelpunkt steht die Frage, was ein selbstbestimmtes Leben ausmacht. Inspiriert sind die Pfarrerinnen Kathrin Bolt und Cathrin Legler von Wiborada, der ersten heiliggesprochenen Frau der Welt.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  hd: true
 - eventId: 725899
   start: 2026-11-07T06:40:00Z
   stop: 2026-11-07T07:40:00Z
@@ -856,6 +987,19 @@
   genre:
   - '112'
   widescreen: true
+  hd: true
+- eventId: 772969
+  start: 2026-11-07T07:25:00Z
+  stop: 2026-11-07T08:25:00Z
+  title: Sternstunde Philosophie
+  subtitle: Wie geht Abschied?
+  description: |-
+    Ein Mensch stirbt, ein Lebensplan zerbricht, der Körper setzt Grenzen, die Gewissheit, in Frieden zu leben, wird brüchig: Abschiede verändern, wer wir sind. Wie lebt man mit diesen Verlusten? Und warum machen uns manche Abschiede lebendiger? Ein Gespräch mit Schriftstellerin Gabriele von Arnim.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 725900
   start: 2026-11-07T07:40:00Z
@@ -899,6 +1043,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 772970
+  start: 2026-11-07T08:25:00Z
+  stop: 2026-11-07T09:40:00Z
+  title: Arena
+  subtitle: «Abstimmungs-Arena» zur Änderung des Kriegsmaterialgesetzes
+  description: |-
+    Bundesrat und Parlament wollen das Kriegsmaterialgesetz anpassen. So soll die Rüstungsindustrie wettbewerbsfähig bleiben. Dagegen wurde das Referendum ergriffen. Das Nein-Komitee befürchtet Waffenexporte an Unrechtsstaaten. Am 29. November entscheidet die Stimmbevölkerung.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 725901
   start: 2026-11-07T08:40:00Z
   stop: 2026-11-07T09:50:00Z
@@ -932,6 +1087,19 @@
   subtitled: true
   hd: true
   subtitle: «Abstimmungs-Arena» zur Änderung des Kriegsmaterialgesetzes
+- eventId: 772971
+  start: 2026-11-07T09:40:00Z
+  stop: 2026-11-07T10:20:00Z
+  title: Einstein
+  subtitle: 'Wegwerfen war gestern: So vermeidest du Foodwaste'
+  description: |-
+    Jeder findet Foodwaste wichtig und jeder hat das Gefühl, er machts gut. Doch die Daten zeigen - weit gefehlt. Die Ziele der Politik liegen weit hinter ihren Zielen zur Reduktion von Foodwaste. «Einstein» zeigt, wie man mit einfachen Tricks Lebensmittel retten kann.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 725906
   start: 2026-11-07T09:50:00Z
   stop: 2026-11-07T10:30:00Z
@@ -974,6 +1142,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 772972
+  start: 2026-11-07T10:20:00Z
+  stop: 2026-11-07T10:50:00Z
+  title: SRFglobal
+  subtitle: Taiwan - Chinas Invasion hat längst begonnen
+  description: |-
+    Nirgendwo liegen Fortschrittsglaube und Kriegsangst näher beieinander als in Taiwan. In der Hauptstadt Taipeh pulsiert das Leben, doch mit dem Ukraine-Krieg wächst die Sorge vor einer Invasion durch China. Viele zweifeln, ob ihnen die USA beistehen würden - zumal die Invasion längst begonnen habe.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 701773
   start: 2026-11-07T10:30:00Z
   stop: 2026-11-07T11:05:00Z
@@ -999,6 +1178,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 772973
+  start: 2026-11-07T10:50:00Z
+  stop: 2026-11-07T12:05:00Z
+  title: Arena
+  subtitle: «Abstimmungs-Arena» zur Änderung des Kriegsmaterialgesetzes
+  description: |-
+    Bundesrat und Parlament wollen das Kriegsmaterialgesetz anpassen. So soll die Rüstungsindustrie wettbewerbsfähig bleiben. Dagegen wurde das Referendum ergriffen. Das Nein-Komitee befürchtet Waffenexporte an Unrechtsstaaten. Am 29. November entscheidet die Stimmbevölkerung.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 641382
   - 641693
@@ -1013,6 +1203,17 @@
   description: |-
     Bundesrat und Parlament wollen das Kriegsmaterialgesetz anpassen. So soll die Rüstungsindustrie wettbewerbsfähig bleiben. Dagegen wurde das Referendum ergriffen. Das Nein-Komitee befürchtet Waffenexporte an Unrechtsstaaten. Am 29. November entscheidet die Stimmbevölkerung.
     Schweiz 2026
+- eventId: 772976
+  start: 2026-11-07T12:05:00Z
+  stop: 2026-11-07T12:40:00Z
+  title: SRFglobal
+  subtitle: Taiwan - Chinas Invasion hat längst begonnen
+  description: |-
+    Nirgendwo liegen Fortschrittsglaube und Kriegsangst näher beieinander als in Taiwan. In der Hauptstadt Taipeh pulsiert das Leben, doch mit dem Ukraine-Krieg wächst die Sorge vor einer Invasion durch China. Viele zweifeln, ob ihnen die USA beistehen würden - zumal die Invasion längst begonnen habe.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 640675
   - 641744
@@ -1023,6 +1224,17 @@
   subtitle: Taiwan - Chinas Invasion hat längst begonnen (Wdh.)
   description: |-
     Nirgendwo liegen Fortschrittsglaube und Kriegsangst näher beieinander als in Taiwan. In der Hauptstadt Taipeh pulsiert das Leben, doch mit dem Ukraine-Krieg wächst die Sorge vor einer Invasion durch China. Viele zweifeln, ob ihnen die USA beistehen würden - zumal die Invasion längst begonnen habe.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 772977
+  start: 2026-11-07T12:40:00Z
+  stop: 2026-11-07T13:55:00Z
+  title: 'Club: America, let''s talk'
+  subtitle: 'Midterms: Verliert Trump die Macht?'
+  description: |-
+    Die Midterms 2026 sind die erste grosse Machtprobe für Donald Trump seit seiner Rückkehr ins Weisse Haus.
     Schweiz 2026
   widescreen: true
   subtitled: true
@@ -1048,6 +1260,17 @@
   subtitle: 'Midterms: Verliert Trump die Macht?'
   description: |-
     Die Midterms 2026 sind die erste grosse Machtprobe für Donald Trump seit seiner Rückkehr ins Weisse Haus.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 772978
+  start: 2026-11-07T13:55:00Z
+  stop: 2026-11-07T14:30:00Z
+  title: SRFglobal
+  subtitle: Taiwan - Chinas Invasion hat längst begonnen
+  description: |-
+    Nirgendwo liegen Fortschrittsglaube und Kriegsangst näher beieinander als in Taiwan. In der Hauptstadt Taipeh pulsiert das Leben, doch mit dem Ukraine-Krieg wächst die Sorge vor einer Invasion durch China. Viele zweifeln, ob ihnen die USA beistehen würden - zumal die Invasion längst begonnen habe.
     Schweiz 2026
   widescreen: true
   subtitled: true
@@ -1088,6 +1311,17 @@
   subtitled: true
   hd: true
   subtitle: «Abstimmungs-Arena» zur Änderung des Kriegsmaterialgesetzes
+- eventId: 772979
+  start: 2026-11-07T14:30:00Z
+  stop: 2026-11-07T15:45:00Z
+  title: Arena
+  subtitle: «Abstimmungs-Arena» zur Änderung des Kriegsmaterialgesetzes
+  description: |-
+    Bundesrat und Parlament wollen das Kriegsmaterialgesetz anpassen. So soll die Rüstungsindustrie wettbewerbsfähig bleiben. Dagegen wurde das Referendum ergriffen. Das Nein-Komitee befürchtet Waffenexporte an Unrechtsstaaten. Am 29. November entscheidet die Stimmbevölkerung.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 701786
   start: 2026-11-07T14:35:00Z
   stop: 2026-11-07T15:45:00Z
@@ -1124,7 +1358,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 701804
+- eventId:
+  - 701804
+  - 772974
   start: 2026-11-07T15:45:00Z
   stop: 2026-11-07T16:10:00Z
   title: GESUNDHEITHEUTE - Die Gesundheitssendung mit Dr. Jeanne Fürst
