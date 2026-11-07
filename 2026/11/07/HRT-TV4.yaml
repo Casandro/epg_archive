@@ -2206,7 +2206,7 @@
   - 782923
   - 783310
   start: 2026-11-07T22:05:00Z
-  stop: 2026-11-07T22:10:00Z
+  stop: 2026-11-07T22:08:00Z
   title: '#REPORTAŽE: Nakit Grubić'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -2290,7 +2290,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 788267
+- eventId:
+  - 788267
+  - 788358
   start: 2026-11-07T22:08:00Z
   stop: 2026-11-07T22:10:00Z
   title: 'Bez komentara: Paragvaj - Građani bijesni zbog izgubljene ušteđevine'
@@ -2298,14 +2300,16 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 708151
   start: 2026-11-07T22:10:00Z
-  stop: 2026-11-07T22:20:00Z
+  stop: 2026-11-07T22:19:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
   genre:
   - '32'
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 788268
+- eventId:
+  - 788268
+  - 788359
   start: 2026-11-07T22:19:00Z
   stop: 2026-11-07T22:30:00Z
   title: Vijesti na španjolskom jeziku
@@ -2370,13 +2374,19 @@
   - '160'
 - eventId: 708156
   start: 2026-11-07T23:00:00Z
-  stop: 2026-11-07T23:10:00Z
+  stop: 2026-11-07T23:09:00Z
   title: Vijesti flash
   subtitle: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   ageRating: 4
   genre:
   - '32'
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
+- eventId: 788360
+  start: 2026-11-07T23:09:00Z
+  stop: 2026-11-07T23:19:00Z
+  title: Vijesti iz kulture
+  subtitle: ' '
+  description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
 - eventId: 708157
   start: 2026-11-07T23:10:00Z
   stop: 2026-11-07T23:17:00Z
@@ -2420,7 +2430,9 @@
   genre:
   - '160'
   description: U emisiji za ljubitelje automobila svaki tjedan predstavljaju se novi modeli automobila, tehnološke inovacije, testiraju nova vozila, donose savjeti o održavanju.
-- eventId: 763949
+- eventId:
+  - 763949
+  - 788361
   start: 2026-11-07T23:19:00Z
   stop: 2026-11-07T23:47:00Z
   title: Auto Market Magazin
@@ -2428,6 +2440,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: U emisiji za ljubitelje automobila svaki tjedan predstavljaju se novi modeli automobila, tehnološke inovacije, testiraju nova vozila, donose savjeti o održavanju.
 - eventId: 788269
   start: 2026-11-07T23:20:00Z
   stop: 2026-11-07T23:47:00Z
@@ -2492,7 +2505,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 788270
+- eventId:
+  - 788270
+  - 788362
   start: 2026-11-07T23:50:00Z
   stop: 2026-11-08T00:05:00Z
   title: Regionalni dnevnik
