@@ -2381,7 +2381,9 @@
   genre:
   - '32'
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
-- eventId: 788360
+- eventId:
+  - 788360
+  - 788894
   start: 2026-11-07T23:09:00Z
   stop: 2026-11-07T23:19:00Z
   title: Vijesti iz kulture
@@ -2443,6 +2445,12 @@
   ageRating: 4
   genre:
   - '160'
+  description: U emisiji za ljubitelje automobila svaki tjedan predstavljaju se novi modeli automobila, tehnološke inovacije, testiraju nova vozila, donose savjeti o održavanju.
+- eventId: 788895
+  start: 2026-11-07T23:19:00Z
+  stop: 2026-11-07T23:50:00Z
+  title: Auto Market Magazin
+  subtitle: ' '
   description: U emisiji za ljubitelje automobila svaki tjedan predstavljaju se novi modeli automobila, tehnološke inovacije, testiraju nova vozila, donose savjeti o održavanju.
 - eventId: 788269
   start: 2026-11-07T23:20:00Z
@@ -2512,6 +2520,7 @@
 - eventId:
   - 788270
   - 788362
+  - 788896
   start: 2026-11-07T23:50:00Z
   stop: 2026-11-08T00:05:00Z
   title: Regionalni dnevnik
