@@ -1453,6 +1453,7 @@
   - 654056
   - 740586
   - 740673
+  - 788120
   start: 2026-11-07T22:32:00Z
   stop: 2026-11-07T23:00:00Z
   title: Z metropole
@@ -1486,6 +1487,7 @@
   - 654057
   - 740587
   - 740674
+  - 788121
   start: 2026-11-07T23:00:00Z
   stop: 2026-11-07T23:10:00Z
   title: Zprávy
@@ -1526,6 +1528,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 788122
+  start: 2026-11-07T23:10:00Z
+  stop: 2026-11-07T23:59:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId: 788065
   start: 2026-11-07T23:12:15Z
   stop: 2026-11-08T00:00:00Z
@@ -1536,4 +1549,14 @@
     Skryté titulky
   genre:
   - '35'
+  widescreen: true
+- eventId: 788123
+  start: 2026-11-07T23:59:00Z
+  stop: 2026-11-08T00:09:00Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
   widescreen: true
