@@ -183,6 +183,7 @@
   - 750961
   - 755845
   - 759322
+  - 779491
   start: 2026-11-07T07:00:00Z
   stop: 2026-11-07T08:00:00Z
   title: Crystal Dreams
@@ -196,6 +197,7 @@
   - 750962
   - 755846
   - 759323
+  - 779492
   start: 2026-11-07T08:00:00Z
   stop: 2026-11-07T09:00:00Z
   title: Crystal Dreams
@@ -209,6 +211,7 @@
   - 750963
   - 755847
   - 759324
+  - 779493
   start: 2026-11-07T09:00:00Z
   stop: 2026-11-07T10:00:00Z
   title: Seifen-Atelier
@@ -222,6 +225,7 @@
   - 750964
   - 755848
   - 759325
+  - 779494
   start: 2026-11-07T10:00:00Z
   stop: 2026-11-07T11:00:00Z
   title: Seifen-Atelier
@@ -229,17 +233,11 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 704462
+- eventId:
+  - 704462
+  - 759326
   start: 2026-11-07T11:00:00Z
   stop: 2026-11-07T12:00:00Z
-  title: Im singenden Rössl am Königssee
-  subtitle: 1-2-3.tv Programmvorschau 07.11.2026, 12-13 Uhr
-  description: 'Cordula, die Wirtin des "Rössl"-Gasthauses, erfährt durch Zufall von der Klausel im Testament ihres Vaters: Sie muss innerhalb von zwei Wochen einen Mann aus der Hotelbranche heiraten, um das Gasthaus zu erben. Sie setzt ihre Hoffnungen auf Franz, ihren Oberkellner, der jedoch mehr an einem Kellner-Wettbewerb und einer Hotelfachschülerin interessiert ist als an Cordula. Ge 1963'
-  genre:
-  - '166'
-- eventId: 759326
-  start: 2026-11-07T11:00:00Z
-  stop: 2026-11-07T13:00:00Z
   title: Im singenden Rössl am Königssee
   subtitle: 1-2-3.tv Programmvorschau 07.11.2026, 12-13 Uhr
   description: 'Cordula, die Wirtin des "Rössl"-Gasthauses, erfährt durch Zufall von der Klausel im Testament ihres Vaters: Sie muss innerhalb von zwei Wochen einen Mann aus der Hotelbranche heiraten, um das Gasthaus zu erben. Sie setzt ihre Hoffnungen auf Franz, ihren Oberkellner, der jedoch mehr an einem Kellner-Wettbewerb und einer Hotelfachschülerin interessiert ist als an Cordula. Ge 1963'
@@ -251,6 +249,7 @@
   - 750965
   - 755850
   - 759300
+  - 779495
   start: 2026-11-07T12:00:00Z
   stop: 2026-11-07T13:00:00Z
   title: Christian kocht
@@ -260,7 +259,7 @@
   - '166'
 - eventId: 704483
   start: 2026-11-07T13:00:00Z
-  stop: 2026-11-07T16:25:00Z
+  stop: 2026-11-07T14:00:00Z
   title: Landmetzger Schiessl
   subtitle: 1-2-3.tv Programmvorschau 07.11.2026, 14-15 Uhr
   description: In dieser Stunde erwarten Sie diverse Highlights.
@@ -272,6 +271,7 @@
   - 750966
   - 755851
   - 759301
+  - 779496
   start: 2026-11-07T14:00:00Z
   stop: 2026-11-07T15:00:00Z
   title: Landmetzger Schiessl
@@ -285,6 +285,7 @@
   - 750967
   - 755853
   - 759302
+  - 779497
   start: 2026-11-07T15:00:00Z
   stop: 2026-11-07T16:00:00Z
   title: Dekotrends
@@ -298,6 +299,7 @@
   - 750968
   - 755854
   - 759303
+  - 779498
   start: 2026-11-07T16:00:00Z
   stop: 2026-11-07T17:00:00Z
   title: Dekotrends
@@ -320,6 +322,7 @@
   - 750969
   - 755855
   - 759304
+  - 779499
   start: 2026-11-07T17:00:00Z
   stop: 2026-11-07T18:00:00Z
   title: Confiserie
@@ -342,7 +345,7 @@
   subtitle: Teleshopping
 - eventId: 742784
   start: 2026-11-07T18:00:00Z
-  stop: 2026-11-07T18:40:00Z
+  stop: 2026-11-07T19:00:00Z
   title: Schlager Total
   subtitle: 1-2-3.tv Programmvorschau 07.11.2026, 19-20 Uhr
   description: Neugierig auf die Schlager-Total-Tournee 2027? Michael Niekammer hat die Top-Acts der Show eingeladen und bietet einen Blick hinter die Kulissen des großen Star-Aufgebots und der spektakulären Bühnen-Technik. Freuen Sie sich auf Bata Illic, Judith und Mel, Gaby Baginsky, Ilka Wolf, Karsten Walter und Robin Leon und schnuppern Sie schon mal Konzert-Luft für DAS Event 2027! Noch unentschlossen? Nach dieser Sendung nicht mehr - also, einschalten, mitsingen und am besten gleich Karten sichern! Ge 2026
@@ -368,6 +371,7 @@
   - 750970
   - 755861
   - 759306
+  - 779500
   start: 2026-11-07T19:00:00Z
   stop: 2026-11-07T20:00:00Z
   title: Jutta Niedhardt Cosmetics
@@ -395,6 +399,7 @@
   - 750971
   - 755862
   - 759307
+  - 779501
   start: 2026-11-07T21:00:00Z
   stop: 2026-11-07T22:00:00Z
   title: Fell & Flair
@@ -416,6 +421,7 @@
   - 750972
   - 755863
   - 759308
+  - 779502
   start: 2026-11-07T22:00:00Z
   stop: 2026-11-07T23:00:00Z
   title: Fell & Flair
@@ -423,7 +429,9 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 772656
+- eventId:
+  - 772656
+  - 779503
   start: 2026-11-07T23:00:00Z
   stop: 2026-11-08T00:00:00Z
   title: Norway Originals
