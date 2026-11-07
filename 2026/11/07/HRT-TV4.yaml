@@ -927,7 +927,7 @@
   - 764314
   - 769912
   start: 2026-11-07T09:42:00Z
-  stop: 2026-11-07T09:47:00Z
+  stop: 2026-11-07T09:46:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
@@ -971,6 +971,7 @@
 - eventId:
   - 776004
   - 779037
+  - 781397
   start: 2026-11-07T09:46:00Z
   stop: 2026-11-07T09:55:00Z
   title: 'Studio 4: Znanost'
@@ -1065,6 +1066,7 @@
   - 769914
   - 776005
   - 779038
+  - 781398
   start: 2026-11-07T09:58:00Z
   stop: 2026-11-07T10:00:00Z
   title: Bez komentara
@@ -1366,6 +1368,12 @@
   genre:
   - '160'
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
+- eventId: 781399
+  start: 2026-11-07T14:54:00Z
+  stop: 2026-11-07T15:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 751391
   - 780827
@@ -1598,6 +1606,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 781400
+  start: 2026-11-07T17:30:00Z
+  stop: 2026-11-07T17:50:00Z
+  title: Regionalni dnevnik
+  subtitle: ' '
+  description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
 - eventId:
   - 708127
   - 751877
@@ -1680,6 +1694,12 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 781401
+  start: 2026-11-07T17:50:00Z
+  stop: 2026-11-07T17:52:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 751396
   - 751803
@@ -1709,6 +1729,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 781402
+  start: 2026-11-07T17:52:00Z
+  stop: 2026-11-07T17:54:00Z
+  title: Vrijeme RH sutra
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 708129
   - 780830
@@ -1789,7 +1815,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 708136
   start: 2026-11-07T18:55:00Z
-  stop: 2026-11-07T18:59:00Z
+  stop: 2026-11-07T19:00:00Z
   title: Vrijeme Svijet sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -1810,12 +1836,18 @@
   description: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
 - eventId: 708138
   start: 2026-11-07T19:00:00Z
-  stop: 2026-11-07T19:05:00Z
+  stop: 2026-11-07T19:01:00Z
   title: '#REPORTAŽE: Alpake'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
+- eventId: 781405
+  start: 2026-11-07T19:01:00Z
+  stop: 2026-11-07T19:05:00Z
+  title: '#REPORTAŽE: Alpake'
+  subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 708139
   start: 2026-11-07T19:05:00Z
@@ -1826,6 +1858,12 @@
   genre:
   - '160'
   description: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
+- eventId: 781406
+  start: 2026-11-07T19:44:00Z
+  stop: 2026-11-07T20:00:00Z
+  title: 'DW: Shift'
+  subtitle: ' '
+  description: Emisija Deutsche Wellea donosi odgovore na pitanje kako živjeti u digitalno doba.
 - eventId:
   - 708140
   - 780832
@@ -1856,6 +1894,12 @@
   genre:
   - '160'
   description: 'U Veteranim mira prisjećamo se osnivanja legendarne 9. gardijske brigade "Vukova". Bili su bedem obrane Like i ključni akteri najvažnijih oslobodilačkih operacija Domovinskog rata. U povodu obljetnice njihova ustrojavanja donosimo priču o ratnom putu ove slavne postrojbe. Govorimo i o prvim danima rata u Gospiću - kada su formirane razne postrojbe a rijetki su bili branitelji koji su imali oružje i uniformu. Bili smo i na filmskom setu. 17 godina nakon dokumentarnog filma "Časnik mirotvorac", redatelj Dražen Bušić donosi priču o posljednjim danima zatočeništva legendarnog pakračkog liječnika i mirotvorca dr. Ivana Šretera, ovoga puta u formi kratkometražnog igranog filma "Jezik na smrt". Dr. Šreter u kolovozu 1991. otet je na području Kukunjevca i odveden u zatočeništvo. Nakon toga mu se gubi svaki trag, a njegovi posmrtni ostaci ni danas nisu pronađeni. Voditelj: Borna Marinić Urednici: Vladimir Brnardić i Jozo Barišić'
+- eventId: 781407
+  start: 2026-11-07T21:12:00Z
+  stop: 2026-11-07T21:40:00Z
+  title: 'Naši ljudi, njihova mjesta: Córdoba'
+  subtitle: ' '
+  description: Córdoba, drugi najveći argentinski grad, svoju povijest čuva i u kamenu. U njegovu izgradnju svoj su rad utkali brojni hrvatski klesari i kamenoresci koji su zahvaljujući izučenom zanatu pronašli svoje mjesto u novoj sredini. Njihov trag vodi nas od kamenoloma La Calere do prepoznatljivih građevina Córdobe. Upoznajemo Agustína Negretea, praunuka kamenoresca Tadije, čija obitelj gotovo stoljeće poslije i dalje živi od kamena. S Cristianom Šprljanom otkrivamo priče koje se kriju iza La Caade i Slavoluka Córdobe te što danas Hrvate drži na okupu. Upravo će se u Córdobi okupiti Hrvati iz različitih dijelova kontinenta na Susretu hrvatske dijaspore Južne Amerike, pokazujući kako se mreža poznanstava i veza održava i među novim generacijama.
 - eventId: 708145
   start: 2026-11-07T21:13:00Z
   stop: 2026-11-07T21:41:00Z
@@ -1905,6 +1949,12 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 781408
+  start: 2026-11-07T21:40:00Z
+  stop: 2026-11-07T21:42:00Z
+  title: 'HRT100 Vremeplov: Reli Monte Carlo s hrvatskim natjecateljima 1969.'
+  subtitle: ' '
+  description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
 - eventId:
   - 751397
   - 751804
@@ -1941,6 +1991,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 781409
+  start: 2026-11-07T21:42:00Z
+  stop: 2026-11-07T22:02:00Z
+  title: 'Studio 4: U fokusu'
+  subtitle: ' '
+  description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
 - eventId: 708147
   start: 2026-11-07T21:43:00Z
   stop: 2026-11-07T22:03:00Z
@@ -1997,6 +2053,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 781410
+  start: 2026-11-07T22:02:00Z
+  stop: 2026-11-07T22:05:00Z
+  title: '#REPORTAŽE: Nakit Grubić'
+  subtitle: ' '
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 751398
   - 751805
@@ -2064,6 +2126,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 781411
+  start: 2026-11-07T22:05:00Z
+  stop: 2026-11-07T22:10:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 751399
   - 751806
@@ -2145,7 +2213,7 @@
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId: 708154
   start: 2026-11-07T22:50:00Z
-  stop: 2026-11-07T22:55:00Z
+  stop: 2026-11-07T22:56:00Z
   title: '#REPORTAŽE: Alpake'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
@@ -2163,6 +2231,12 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 781412
+  start: 2026-11-07T22:56:00Z
+  stop: 2026-11-07T23:00:00Z
+  title: Bez komentara
+  subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 708156
   start: 2026-11-07T23:00:00Z
