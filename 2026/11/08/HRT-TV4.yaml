@@ -142,13 +142,8 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 751404
-  start: 2026-11-08T01:05:00Z
-  stop: 2026-11-08T01:25:00Z
-  title: 'Studio 4: Intervju'
-  subtitle: ' '
-  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId:
+  - 751404
   - 751811
   - 752066
   - 752683
@@ -166,7 +161,7 @@
   - 764329
   - 769927
   start: 2026-11-08T01:05:00Z
-  stop: 2026-11-08T01:24:00Z
+  stop: 2026-11-08T01:25:00Z
   title: 'Studio 4: Intervju'
   subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -1072,7 +1067,7 @@
   - '32'
 - eventId: 741413
   start: 2026-11-08T09:47:00Z
-  stop: 2026-11-08T09:55:00Z
+  stop: 2026-11-08T09:57:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
@@ -1130,6 +1125,7 @@
   - 763252
   - 763753
   - 764350
+  - 770107
   start: 2026-11-08T09:57:00Z
   stop: 2026-11-08T10:00:00Z
   title: Bez komentara
@@ -1227,7 +1223,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 734773
   start: 2026-11-08T11:20:00Z
-  stop: 2026-11-08T11:30:00Z
+  stop: 2026-11-08T11:28:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -1251,6 +1247,7 @@
   - 763253
   - 763754
   - 764351
+  - 770108
   start: 2026-11-08T11:28:00Z
   stop: 2026-11-08T11:30:00Z
   title: Bez komentara
@@ -1435,6 +1432,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Kratki pregled vijesti iz Hrvatske i svijeta.
 - eventId: 735028
   start: 2026-11-08T15:15:00Z
   stop: 2026-11-08T15:22:00Z
@@ -1443,6 +1441,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
 - eventId: 741415
   start: 2026-11-08T15:22:00Z
   stop: 2026-11-08T15:24:00Z
@@ -1451,6 +1450,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 741416
   start: 2026-11-08T15:24:00Z
   stop: 2026-11-08T15:49:00Z
@@ -1459,6 +1459,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Tjedna emisija namijenjena potrošačima. Otkriva probleme s kojima se svakodnevno susreću pri kupnji robe i usluga, donosi savjete i upute.
 - eventId: 735029
   start: 2026-11-08T15:25:00Z
   stop: 2026-11-08T15:50:00Z
@@ -1475,6 +1476,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Multinacionalni magazin, donosi aktualnosti o manjinama i ljudskim pravima.
 - eventId: 735030
   start: 2026-11-08T15:50:00Z
   stop: 2026-11-08T16:35:00Z
@@ -1486,11 +1488,12 @@
 - eventId: 741418
   start: 2026-11-08T16:34:00Z
   stop: 2026-11-08T17:01:00Z
-  title: Italiana
+  title: Italiana (1/6)
   subtitle: Magazin posvećen talijanskoj kulturi, znamenitostima, umjetnosti, gastronomiji, stilu života.
   ageRating: 4
   genre:
   - '128'
+  description: Magazin posvećen talijanskoj kulturi, znamenitostima, umjetnosti, gastronomiji, stilu života. Prikazuje ljude, mjesta i gradove, prirodne ljepote, poslovne uspjehe koji najbolje pokazuju ono po čemu je Italija prepoznatljiva.
 - eventId: 735031
   start: 2026-11-08T16:35:00Z
   stop: 2026-11-08T17:00:00Z
@@ -1510,11 +1513,12 @@
 - eventId: 741419
   start: 2026-11-08T17:01:00Z
   stop: 2026-11-08T17:50:00Z
-  title: Romano Bolković - 1 na 1
+  title: 'Romano Bolković - 1 na 1: Christian Leuprecht, talk show'
   subtitle: S profesorom Christianom Leuprechtom razgovarat ćemo o dubokoj preobrazbi međunarodnog poretka, o svijetu u kojem se urušavaju sigurnosna jamstva, slabi autoritet međunarodnih institucija, a odnose.
   ageRating: 4
   genre:
   - '160'
+  description: 'S profesorom Christianom Leuprechtom razgovarat ćemo o dubokoj preobrazbi međunarodnog poretka, o svijetu u kojem se urušavaju sigurnosna jamstva, slabi autoritet međunarodnih institucija, a odnose među državama sve više određuje gola politička, gospodarska i vojna moć. Svjedočimo li nastanku novoga svjetskog poretka ili ulazimo u razdoblje trajne geopolitičke nestabilnosti? Što se događa sa Zapadom kada Sjedinjene Države, njegov dosadašnji predvodnik i jamac sigurnosti, počinju preispitivati svoje međunarodne obveze? Kakva je budućnost NATO-a i može li Europa napokon postati samostalna geopolitička i vojna sila? Razgovarat ćemo o ratu u Ukrajini, stvarnim strateškim ciljevima Putinove Rusije i mogućnostima postizanja mira koji neće značiti nagradu za agresiju. O Kini kao glavnom izazivaču američke globalne prevlasti, opasnosti od sukoba oko Tajvana, nestabilnosti Bliskog istoka i Arktiku kao novom prostoru nadmetanja velikih sila. Posebnu pozornost posvetit ćemo Njemačkoj, njezinoj povijesnoj preobrazbi iz gospodarske u potencijalnu vojnu silu, kao i odnosima Europe i Kanade, dviju strana Atlantika koje sve snažnije povezuje potreba za strateškom samostalnošću. No suvremeni sukobi ne vode se samo na bojištima. Razgovarat ćemo i o hibridnom ratovanju, kibernetičkim napadima, obavještajnim službama, manipulaciji informacijama i novim tehnologijama koje postupno brišu granicu između rata i mira. Dotaknut ćemo se i međunarodnog organiziranog kriminala, pranja novca te netransparentnih financijskih mreža koje mogu prodrijeti u same temelje demokratskih institucija. Koliko su današnje demokracije uopće sposobne prepoznati prijetnje koje ne dolaze samo izvana, nego postupno razaraju njihovu unutarnju političku i društvenu strukturu - i učinkovito se od njih obraniti? Govorit ćemo i o Zapadnom Balkanu, njegovoj sigurnosnoj ranjivosti i mogućnosti da regionalne krize postanu instrumenti širega geopolitičkog nadmetanja Rusije, Kine i Zapada. Naposljetku, otvorit ćemo pitanje koje se neposredno tiče i Hrvatske: što u svijetu velikih sila, nesigurnih savezništava i sve slabijega međunarodnog prava znači suverenitet male države? Je li on još uvijek zajamčeno pravo ili sve više postaje sposobnost države da vlastitim političkim odlukama, institucijama i snagom obrani svoju slobodu?'
 - eventId: 735033
   start: 2026-11-08T17:50:00Z
   stop: 2026-11-08T17:53:00Z
@@ -1531,6 +1535,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 735035
   start: 2026-11-08T17:54:00Z
   stop: 2026-11-08T17:56:00Z
@@ -1547,6 +1552,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 735036
   start: 2026-11-08T17:56:00Z
   stop: 2026-11-08T18:00:00Z
@@ -1555,6 +1561,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 735037
   start: 2026-11-08T18:00:00Z
   stop: 2026-11-08T18:53:00Z
@@ -1563,6 +1570,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
 - eventId: 735038
   start: 2026-11-08T18:53:00Z
   stop: 2026-11-08T18:54:00Z
@@ -1571,6 +1579,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 735039
   start: 2026-11-08T18:54:00Z
   stop: 2026-11-08T18:55:00Z
@@ -1579,6 +1588,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 741421
   start: 2026-11-08T18:55:00Z
   stop: 2026-11-08T18:59:00Z
@@ -1587,6 +1597,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 735040
   start: 2026-11-08T18:56:00Z
   stop: 2026-11-08T18:59:00Z
@@ -1603,6 +1614,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
 - eventId: 735042
   start: 2026-11-08T19:00:00Z
   stop: 2026-11-08T20:00:00Z
@@ -1611,6 +1623,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Gost emisije je grafički dizajner Mirko Ilić. Tema emisije je tolerancija, a povod je njegova izložba u Zagrebu koja se upravo bavi pitanjem kako se odnosimo prema drukčijima. Osim toga Ilić će govoriti o tome kako je živjeti u Americi i je li se pokajao što je prije skoro 50 godina napustio domovinu i potražio sreću negdje drugdje.
 - eventId: 735043
   start: 2026-11-08T20:00:00Z
   stop: 2026-11-08T20:45:00Z
@@ -1619,14 +1632,16 @@
   ageRating: 4
   genre:
   - '160'
+  description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
 - eventId: 735044
   start: 2026-11-08T20:45:00Z
   stop: 2026-11-08T21:01:00Z
-  title: Manjinski mozaik
+  title: 'Manjinski mozaik: U svemu naj'
   subtitle: Svaki tjedan donosi dokumentarne priče iz života 22 nacionalne manjine. Predstavlja portrete osoba i zajednica ističući njihov nacionalni, kulturni i povijesni identitet, običaje i tradiciju.
   ageRating: 4
   genre:
   - '128'
+  description: Balet je moj život. Doveo me je do ovoga gdje sam danas. Dao mi je krila i pružio let do ostvarenja snova. Silviu Tanase govori iz srca, baš kao što i pleše. Rođen u Bukureštu, epicentru plesnih škola. Godine učenja i velikih scena. Dolazak u zagrebački HNK, trogodišnje stjecanje novih iskustava i odluka da se treba ići dalje. Sve do Splita gdje je 12 godina nosio velike uloge u Baletu nacionalnog teatra. Završetak karijere nije ga zatekao nespremnog. Danas uči mlade prvim baletnim koracima. Supruga Hazuki, sinovi David i Teo. I priča o ljubavi prema slobodi koju ples pruža.
 - eventId: 735045
   start: 2026-11-08T21:00:00Z
   stop: 2026-11-08T21:43:00Z
@@ -1638,11 +1653,12 @@
 - eventId: 741422
   start: 2026-11-08T21:01:00Z
   stop: 2026-11-08T21:43:00Z
-  title: Intervju tjedna
+  title: 'Intervju tjedna: Mirjana Rakić'
   subtitle: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
   ageRating: 4
   genre:
   - '160'
+  description: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
 - eventId: 735046
   start: 2026-11-08T21:43:00Z
   stop: 2026-11-08T22:03:00Z
@@ -1651,14 +1667,16 @@
   ageRating: 4
   genre:
   - '160'
+  description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
 - eventId: 735047
   start: 2026-11-08T22:03:00Z
   stop: 2026-11-08T22:06:00Z
-  title: '#REPORTAŽE'
+  title: '#REPORTAŽE: Slikarica Portugalka'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 741423
   start: 2026-11-08T22:06:00Z
   stop: 2026-11-08T22:10:00Z
@@ -1667,6 +1685,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 735048
   start: 2026-11-08T22:10:00Z
   stop: 2026-11-08T22:20:00Z
@@ -1675,6 +1694,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 735049
   start: 2026-11-08T22:20:00Z
   stop: 2026-11-08T22:30:00Z
@@ -1683,6 +1703,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 735050
   start: 2026-11-08T22:30:00Z
   stop: 2026-11-08T22:50:00Z
@@ -1691,14 +1712,16 @@
   ageRating: 4
   genre:
   - '160'
+  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId: 735051
   start: 2026-11-08T22:50:00Z
   stop: 2026-11-08T22:55:00Z
-  title: '#REPORTAŽE'
+  title: '#REPORTAŽE: Automehaničarka'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 741424
   start: 2026-11-08T22:55:00Z
   stop: 2026-11-08T23:00:00Z
@@ -1707,6 +1730,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 735052
   start: 2026-11-08T22:57:00Z
   stop: 2026-11-08T23:00:00Z
@@ -1723,6 +1747,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 735054
   start: 2026-11-08T23:10:00Z
   stop: 2026-11-08T23:17:00Z
@@ -1731,6 +1756,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
 - eventId: 735055
   start: 2026-11-08T23:17:00Z
   stop: 2026-11-09T00:07:00Z
@@ -1739,3 +1765,4 @@
   ageRating: 4
   genre:
   - '160'
+  description: Nedjeljna emisija o poljoprivredi i ribarstvu bavi se aktualnim temama, kritički progovara o agrarnoj politici, savjetuje i poučava gledatelje te donosi agroprognozu. Najstarija specijalizirana emisija Hrvatske televizije, emitira se od 1958. godine.
