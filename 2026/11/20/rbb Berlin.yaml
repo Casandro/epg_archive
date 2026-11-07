@@ -239,6 +239,7 @@
   hd: true
   audiodesc: true
   description: Wie lebt es sich mit, in und nach den Wechseljahren? Über mehrere Monate haben wir die Frauen erneut begleitet. Was hilft, wenn immer noch Hormonchaos herrscht? Wie lindert man endlich ständigen nächtlichen Harndrang oder Schlafmangel? Und wie versöhnt man sich vielleicht mit diesem Umbruch im Leben jeder Frau? Offen und persönlich lassen uns die Frauen an ihren Erfahrungen teilhaben.
+  ageRating: 12
 - eventId:
   - 570109
   - 594827
@@ -255,6 +256,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 548998
   - 570286
@@ -344,6 +346,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 549467
   - 570759
@@ -355,7 +359,7 @@
   start: 2026-11-20T13:30:00Z
   stop: 2026-11-20T15:00:00Z
   title: Reiterhof Wildenstein - Der Junge und das Pferd
-  subtitle: Spielfilm Deutschland 2020
+  subtitle: Fernsehfilm Deutschland  2020
   episodeUri: crid://onid-1/e/6acd5b75f5e17d8feb489dbc
   ageRating: 6
   genre:
@@ -397,6 +401,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 549926
   - 550068
@@ -622,7 +627,7 @@
   start: 2026-11-20T23:30:00Z
   stop: 2026-11-21T00:15:00Z
   title: Kim & Klaus
-  subtitle: Talk mit Kim Fisher und Klaus Wowereit
+  subtitle: 'Moderation: Kim Fisher und Klaus Wowereit'
   episodeUri: crid://onid-1/e/6ace2c5f64015f5017e0ca7b
   widescreen: true
   subtitled: true

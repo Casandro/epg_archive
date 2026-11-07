@@ -200,6 +200,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 549030
   - 570306
@@ -274,6 +275,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 548356
   - 549488
@@ -282,7 +285,7 @@
   start: 2026-11-20T13:30:00Z
   stop: 2026-11-20T15:00:00Z
   title: Reiterhof Wildenstein - Der Junge und das Pferd
-  subtitle: Spielfilm Deutschland 2020
+  subtitle: Fernsehfilm Deutschland  2020
   episodeUri: crid://onid-1/e/6acd5b75f5e17d8feb489dbc
   ageRating: 6
   genre:
@@ -318,6 +321,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 549983
   - 550094
@@ -502,7 +506,7 @@
   start: 2026-11-20T23:30:00Z
   stop: 2026-11-21T00:15:00Z
   title: Kim & Klaus
-  subtitle: Talk mit Kim Fisher und Klaus Wowereit
+  subtitle: 'Moderation: Kim Fisher und Klaus Wowereit'
   episodeUri: crid://onid-1/e/6ace2c5f64015f5017e0ca7b
   widescreen: true
   subtitled: true
