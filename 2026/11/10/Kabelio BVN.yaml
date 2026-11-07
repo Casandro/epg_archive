@@ -20,13 +20,19 @@
   start: 2026-11-10T00:20:00Z
   stop: 2026-11-10T00:34:59Z
   title: Nederland in Beweging
+- eventId: 777013
+  start: 2026-11-10T00:20:00Z
+  stop: 2026-11-10T00:30:00Z
+  title: Nederland in Beweging
 - eventId:
   - 715209
   - 718721
   start: 2026-11-10T00:30:00Z
   stop: 2026-11-10T00:44:59Z
   title: MAX Geheugentrainer
-- eventId: 761122
+- eventId:
+  - 761122
+  - 777014
   start: 2026-11-10T00:35:00Z
   stop: 2026-11-10T00:54:59Z
   title: MAX Geheugentrainer
@@ -36,7 +42,9 @@
   start: 2026-11-10T00:45:00Z
   stop: 2026-11-10T00:59:59Z
   title: Goedemorgen Nederland
-- eventId: 761123
+- eventId:
+  - 761123
+  - 777015
   start: 2026-11-10T00:55:00Z
   stop: 2026-11-10T01:09:59Z
   title: Goedemorgen Nederland
@@ -46,7 +54,9 @@
   start: 2026-11-10T01:00:00Z
   stop: 2026-11-10T01:14:59Z
   title: NOS Journaal
-- eventId: 761124
+- eventId:
+  - 761124
+  - 777016
   start: 2026-11-10T01:10:00Z
   stop: 2026-11-10T01:24:59Z
   title: NOS Journaal
@@ -56,7 +66,9 @@
   start: 2026-11-10T01:15:00Z
   stop: 2026-11-10T01:29:59Z
   title: Goedemorgen Nederland
-- eventId: 761125
+- eventId:
+  - 761125
+  - 777017
   start: 2026-11-10T01:25:00Z
   stop: 2026-11-10T01:39:59Z
   title: Goedemorgen Nederland
@@ -66,7 +78,9 @@
   start: 2026-11-10T01:30:00Z
   stop: 2026-11-10T01:44:59Z
   title: Kook mee met MAX
-- eventId: 761126
+- eventId:
+  - 761126
+  - 777018
   start: 2026-11-10T01:40:00Z
   stop: 2026-11-10T01:54:59Z
   title: Kook mee met MAX
@@ -80,6 +94,10 @@
   start: 2026-11-10T01:55:00Z
   stop: 2026-11-10T02:14:59Z
   title: Goedemorgen Nederland
+- eventId: 777019
+  start: 2026-11-10T01:55:00Z
+  stop: 2026-11-10T02:10:00Z
+  title: Goedemorgen Nederland
 - eventId:
   - 718727
   - 731515
@@ -89,6 +107,10 @@
 - eventId: 761128
   start: 2026-11-10T02:15:00Z
   stop: 2026-11-10T02:29:59Z
+  title: NOS Journaal
+- eventId: 777020
+  start: 2026-11-10T02:15:00Z
+  stop: 2026-11-10T02:25:00Z
   title: NOS Journaal
 - eventId:
   - 718728
@@ -100,6 +122,10 @@
   start: 2026-11-10T02:30:00Z
   stop: 2026-11-10T02:59:59Z
   title: Fryslân Dok
+- eventId: 777021
+  start: 2026-11-10T02:30:00Z
+  stop: 2026-11-10T02:55:00Z
+  title: Fryslân Dok
 - eventId:
   - 718729
   - 731517
@@ -109,6 +135,10 @@
 - eventId: 761130
   start: 2026-11-10T03:00:00Z
   stop: 2026-11-10T03:24:59Z
+  title: Blauw Bloed
+- eventId: 777022
+  start: 2026-11-10T03:00:00Z
+  stop: 2026-11-10T03:20:00Z
   title: Blauw Bloed
 - eventId:
   - 718730
@@ -120,13 +150,19 @@
   start: 2026-11-10T03:25:00Z
   stop: 2026-11-10T03:39:59Z
   title: Sesamstraat
+- eventId: 777023
+  start: 2026-11-10T03:25:00Z
+  stop: 2026-11-10T03:35:00Z
+  title: Sesamstraat
 - eventId:
   - 718731
   - 731519
   start: 2026-11-10T03:35:00Z
   stop: 2026-11-10T03:44:59Z
   title: 'Sesamstraat: 10 voor...'
-- eventId: 761132
+- eventId:
+  - 761132
+  - 777024
   start: 2026-11-10T03:40:00Z
   stop: 2026-11-10T03:49:59Z
   title: 'Sesamstraat: 10 voor...'
@@ -136,7 +172,9 @@
   start: 2026-11-10T03:45:00Z
   stop: 2026-11-10T03:54:59Z
   title: Kindertijd
-- eventId: 761133
+- eventId:
+  - 761133
+  - 777025
   start: 2026-11-10T03:50:00Z
   stop: 2026-11-10T03:59:59Z
   title: Kindertijd
@@ -150,13 +188,19 @@
   start: 2026-11-10T04:00:00Z
   stop: 2026-11-10T04:19:59Z
   title: NOS Jeugdjournaal
+- eventId: 777026
+  start: 2026-11-10T04:00:00Z
+  stop: 2026-11-10T04:15:00Z
+  title: NOS Jeugdjournaal
 - eventId:
   - 730026
   - 731522
   start: 2026-11-10T04:15:00Z
   stop: 2026-11-10T04:24:59Z
   title: NOS Journaal in Makkelijke Taal
-- eventId: 761135
+- eventId:
+  - 761135
+  - 777027
   start: 2026-11-10T04:20:00Z
   stop: 2026-11-10T04:24:59Z
   title: NOS Journaal in Makkelijke Taal
@@ -352,43 +396,63 @@
   start: 2026-11-10T17:35:00Z
   stop: 2026-11-10T18:04:59Z
   title: BinnensteBuiten
-- eventId: 731555
+- eventId:
+  - 731555
+  - 777028
   start: 2026-11-10T18:05:00Z
   stop: 2026-11-10T18:34:59Z
   title: EenVandaag
-- eventId: 731556
+- eventId:
+  - 731556
+  - 777029
   start: 2026-11-10T18:35:00Z
   stop: 2026-11-10T19:19:59Z
   title: Eva
-- eventId: 731557
+- eventId:
+  - 731557
+  - 777030
   start: 2026-11-10T19:20:00Z
   stop: 2026-11-10T19:49:59Z
   title: NOS Journaal 20.00 uur
-- eventId: 761136
+- eventId:
+  - 761136
+  - 777031
   start: 2026-11-10T19:50:00Z
   stop: 2026-11-10T20:39:59Z
   title: Hunted
-- eventId: 761137
+- eventId:
+  - 761137
+  - 777032
   start: 2026-11-10T20:40:00Z
   stop: 2026-11-10T21:24:59Z
   title: Boer zoekt vrouw
-- eventId: 761138
+- eventId:
+  - 761138
+  - 777033
   start: 2026-11-10T21:25:00Z
   stop: 2026-11-10T21:59:59Z
   title: Nieuwsuur
-- eventId: 761139
+- eventId:
+  - 761139
+  - 777034
   start: 2026-11-10T22:00:00Z
   stop: 2026-11-10T22:49:59Z
   title: Pauw & De Wit
-- eventId: 761140
+- eventId:
+  - 761140
+  - 777035
   start: 2026-11-10T22:50:00Z
   stop: 2026-11-10T23:09:59Z
   title: NOS Journaal Laat
-- eventId: 761141
+- eventId:
+  - 761141
+  - 777036
   start: 2026-11-10T23:10:00Z
   stop: 2026-11-10T23:34:59Z
   title: Keuringsdienst van Waarde
-- eventId: 761142
+- eventId:
+  - 761142
+  - 777037
   start: 2026-11-10T23:35:00Z
   stop: 2026-11-10T23:59:59Z
   title: Per Seconde Wijzer
