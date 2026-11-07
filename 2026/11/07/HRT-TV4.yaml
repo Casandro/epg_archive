@@ -1363,7 +1363,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 708116
   start: 2026-11-07T14:35:00Z
-  stop: 2026-11-07T14:54:00Z
+  stop: 2026-11-07T14:55:00Z
   title: 'Studio 4: U fokusu'
   subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
   ageRating: 4
@@ -1386,6 +1386,7 @@
   - 781571
   - 782244
   - 782770
+  - 783282
   start: 2026-11-07T14:55:00Z
   stop: 2026-11-07T15:00:00Z
   title: Bez komentara
@@ -1618,11 +1619,15 @@
   - 781400
   - 782226
   - 782914
+  - 783301
   start: 2026-11-07T17:30:00Z
   stop: 2026-11-07T17:50:00Z
   title: Regionalni dnevnik
-  subtitle: ' '
+  subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 708127
   - 751877
@@ -1712,11 +1717,15 @@
   - 781401
   - 782227
   - 782915
+  - 783302
   start: 2026-11-07T17:50:00Z
   stop: 2026-11-07T17:52:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 751396
   - 751803
@@ -1753,11 +1762,15 @@
   - 781402
   - 782228
   - 782916
+  - 783303
   start: 2026-11-07T17:52:00Z
   stop: 2026-11-07T17:54:00Z
   title: Vrijeme RH sutra
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 708129
   - 780830
@@ -1867,7 +1880,7 @@
   start: 2026-11-07T19:00:00Z
   stop: 2026-11-07T19:01:00Z
   title: '#REPORTAŽE: Alpake'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  subtitle: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
   ageRating: 4
   genre:
   - '160'
@@ -1881,6 +1894,14 @@
   title: '#REPORTAŽE: Alpake'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 783304
+  start: 2026-11-07T19:01:00Z
+  stop: 2026-11-07T19:05:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 708139
   start: 2026-11-07T19:05:00Z
   stop: 2026-11-07T19:44:00Z
@@ -1894,11 +1915,15 @@
   - 781406
   - 782230
   - 782918
+  - 783305
   start: 2026-11-07T19:44:00Z
   stop: 2026-11-07T20:00:00Z
   title: 'DW: Shift'
-  subtitle: ' '
+  subtitle: Emisija Deutsche Wellea donosi odgovore na pitanje kako živjeti u digitalno doba.
   description: Emisija Deutsche Wellea donosi odgovore na pitanje kako živjeti u digitalno doba.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 708140
   - 780832
@@ -1941,6 +1966,14 @@
   title: 'Naši ljudi, njihova mjesta: Córdoba'
   subtitle: ' '
   description: Córdoba, drugi najveći argentinski grad, svoju povijest čuva i u kamenu. U njegovu izgradnju svoj su rad utkali brojni hrvatski klesari i kamenoresci koji su zahvaljujući izučenom zanatu pronašli svoje mjesto u novoj sredini. Njihov trag vodi nas od kamenoloma La Calere do prepoznatljivih građevina Córdobe. Upoznajemo Agustína Negretea, praunuka kamenoresca Tadije, čija obitelj gotovo stoljeće poslije i dalje živi od kamena. S Cristianom Šprljanom otkrivamo priče koje se kriju iza La Caade i Slavoluka Córdobe te što danas Hrvate drži na okupu. Upravo će se u Córdobi okupiti Hrvati iz različitih dijelova kontinenta na Susretu hrvatske dijaspore Južne Amerike, pokazujući kako se mreža poznanstava i veza održava i među novim generacijama.
+- eventId: 783306
+  start: 2026-11-07T21:12:00Z
+  stop: 2026-11-07T21:40:00Z
+  title: Naši ljudi, njihova mjesta
+  subtitle: Córdoba, drugi najveći argentinski grad, svoju povijest čuva i u kamenu.
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 708145
   start: 2026-11-07T21:13:00Z
   stop: 2026-11-07T21:41:00Z
@@ -2003,6 +2036,14 @@
   title: 'HRT100 Vremeplov: Reli Monte Carlo s hrvatskim natjecateljima 1969.'
   subtitle: ' '
   description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
+- eventId: 783307
+  start: 2026-11-07T21:40:00Z
+  stop: 2026-11-07T21:42:00Z
+  title: HRT100 Vremeplov
+  subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 751397
   - 751804
@@ -2046,11 +2087,15 @@
   - 781409
   - 782233
   - 782921
+  - 783308
   start: 2026-11-07T21:42:00Z
   stop: 2026-11-07T22:02:00Z
   title: 'Studio 4: U fokusu'
-  subtitle: ' '
+  subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 708147
   start: 2026-11-07T21:43:00Z
   stop: 2026-11-07T22:03:00Z
@@ -2120,6 +2165,14 @@
   title: '#REPORTAŽE: Nakit Grubić'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 783309
+  start: 2026-11-07T22:02:00Z
+  stop: 2026-11-07T22:05:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 751398
   - 751805
@@ -2194,11 +2247,15 @@
   - 781411
   - 782235
   - 782923
+  - 783310
   start: 2026-11-07T22:05:00Z
   stop: 2026-11-07T22:10:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 751399
   - 751806
@@ -2309,11 +2366,15 @@
   - 781412
   - 782236
   - 782924
+  - 783311
   start: 2026-11-07T22:56:00Z
   stop: 2026-11-07T23:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 708156
   start: 2026-11-07T23:00:00Z
   stop: 2026-11-07T23:10:00Z
