@@ -2206,7 +2206,7 @@
   - 782923
   - 783310
   start: 2026-11-07T22:05:00Z
-  stop: 2026-11-07T22:08:00Z
+  stop: 2026-11-07T22:10:00Z
   title: '#REPORTAŽE: Nakit Grubić'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -2298,7 +2298,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 708151
   start: 2026-11-07T22:10:00Z
-  stop: 2026-11-07T22:19:00Z
+  stop: 2026-11-07T22:20:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -2311,7 +2311,9 @@
   title: Vijesti na španjolskom jeziku
   subtitle: ' '
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 708152
+- eventId:
+  - 708152
+  - 788327
   start: 2026-11-07T22:20:00Z
   stop: 2026-11-07T22:30:00Z
   title: Vijesti na španjolskom jeziku
@@ -2377,14 +2379,16 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 708157
   start: 2026-11-07T23:10:00Z
-  stop: 2026-11-07T23:20:00Z
+  stop: 2026-11-07T23:17:00Z
   title: Vijesti iz kulture
   subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   ageRating: 4
   genre:
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 708158
+- eventId:
+  - 708158
+  - 788328
   start: 2026-11-07T23:17:00Z
   stop: 2026-11-07T23:47:00Z
   title: Auto Market Magazin
@@ -2448,6 +2452,7 @@
   - 763728
   - 764325
   - 769923
+  - 788329
   start: 2026-11-07T23:47:00Z
   stop: 2026-11-08T00:05:00Z
   title: Regionalni dnevnik
