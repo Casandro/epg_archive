@@ -90,7 +90,7 @@
   widescreen: true
 - eventId: 745497
   start: 2026-11-10T05:25:00Z
-  stop: 2026-11-10T06:10:00Z
+  stop: 2026-11-10T06:20:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Eifeler Kartoffelsuppe mit Brotwürfeln
   description: Heute kocht Ralf Kühler zusammen mit Guido Weckmann unter anderem eine Eifeler Kartoffelsuppe mit Brotwürfeln und vieles mehr.
@@ -113,6 +113,14 @@
   genre:
   - '166'
   widescreen: true
+- eventId: 775672
+  start: 2026-11-10T06:20:00Z
+  stop: 2026-11-10T06:45:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
+  genre:
+  - '166'
+  widescreen: true
 - eventId: 745500
   start: 2026-11-10T06:40:00Z
   stop: 2026-11-10T06:45:00Z
@@ -129,7 +137,9 @@
   genre:
   - '165'
   widescreen: true
-- eventId: 668548
+- eventId:
+  - 668548
+  - 775673
   start: 2026-11-10T06:50:00Z
   stop: 2026-11-10T07:00:00Z
   title: Der Wetterbericht
@@ -145,6 +155,24 @@
   genre:
   - '165'
   widescreen: true
+- eventId: 775674
+  start: 2026-11-10T07:00:00Z
+  stop: 2026-11-10T07:50:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Sauerkrautsuppe mit Flönz
+  description: Heute kocht Ralf Kühler zusammen mit Jörg Thon unter anderem eine Sauerkrautsuppe mit Flönz und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 775675
+  start: 2026-11-10T07:50:00Z
+  stop: 2026-11-10T08:15:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Marinierter Thunfisch auf Wildkräutersalat
+  description: Heute kocht Ralf Kühler zusammen mit Karsten Krausch unter anderem einen marinierten Thunfisch auf Wildkräutersalat und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 670125
   start: 2026-11-10T08:05:00Z
   stop: 2026-11-10T09:15:00Z
@@ -154,6 +182,23 @@
   genre:
   - '165'
   widescreen: true
+- eventId: 775676
+  start: 2026-11-10T08:15:00Z
+  stop: 2026-11-10T09:10:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Apfel-Currycremesüppchen mit Crème fraîche
+  description: Heute kocht Ralf Kühler zusammen mit Ralf Pohlmann unter anderem ein Apfel-Currycremesüppchen mit Crème fraîche und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 775677
+  start: 2026-11-10T09:10:00Z
+  stop: 2026-11-10T09:40:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
+  genre:
+  - '166'
+  widescreen: true
 - eventId: 670139
   start: 2026-11-10T09:15:00Z
   stop: 2026-11-10T09:45:00Z
@@ -161,6 +206,15 @@
   subtitle: Teleshopping
   genre:
   - '166'
+  widescreen: true
+- eventId: 775678
+  start: 2026-11-10T09:40:00Z
+  stop: 2026-11-10T10:40:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Westfälische Schlachtfestsuppe mit Reis
+  description: Heute kocht Ralf Kühler zusammen mit Gerhard Rode unter anderem eine westfälische Schlachtfestsuppe mit Reis, Gemüsestreifen und kleinen Rosenkohlröschen und vieles mehr.
+  genre:
+  - '165'
   widescreen: true
 - eventId: 670257
   start: 2026-11-10T09:45:00Z
@@ -171,12 +225,39 @@
   widescreen: true
   genre:
   - '165'
+- eventId: 775679
+  start: 2026-11-10T10:40:00Z
+  stop: 2026-11-10T11:00:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Capuccino von Tomate im Glas
+  description: Heute kocht Ralf Kühler zusammen mit Dirk Castor unter anderem ein Capuccino von Tomate im Glas und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 671155
   start: 2026-11-10T11:00:00Z
   stop: 2026-11-10T12:20:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Broccolisuppe
   description: Heute kocht Ralf Kühler zusammen mit Horst Lichter unter anderem eine Broccolisuppe und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 775680
+  start: 2026-11-10T11:05:00Z
+  stop: 2026-11-10T11:55:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Broccolisuppe
+  description: Heute kocht Ralf Kühler zusammen mit Horst Lichter unter anderem eine Broccolisuppe und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 775681
+  start: 2026-11-10T11:55:00Z
+  stop: 2026-11-10T12:20:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Dim-Sum-Ravioli auf sautierten Shiitake-Pilzen
+  description: Heute kocht Ralf Kühler zusammen mit Shane McMahon unter anderem Dim Sum Ravioli, gefüllt mit Langostinos, auf sautierten Shiitake-Pilzen und vieles mehr.
   genre:
   - '165'
   widescreen: true
@@ -197,6 +278,24 @@
   genre:
   - '165'
   widescreen: true
+- eventId: 775682
+  start: 2026-11-10T13:00:00Z
+  stop: 2026-11-10T13:25:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Saibling in Champagner-beurre mit Kräutersalat
+  description: Heute kocht Ralf Kühler zusammen mit Susanne Vössing unter anderem Saibling in Champagner-beurre mit Kräutersalat und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 775683
+  start: 2026-11-10T13:25:00Z
+  stop: 2026-11-10T14:15:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Mangosuppe mit Gambas
+  description: Heute kocht Ralf Kühler zusammen mit Peter Höppeler unter anderem eine Mangosuppe mit Gambas und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 672928
   start: 2026-11-10T14:00:00Z
   stop: 2026-11-10T15:00:00Z
@@ -206,13 +305,31 @@
   genre:
   - '165'
   widescreen: true
+- eventId: 775684
+  start: 2026-11-10T14:15:00Z
+  stop: 2026-11-10T15:00:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Basmatireis Caipirinha mit Reis-Grissini
+  description: Heute kocht Ralf Kühler zusammen mit Rainer Mitze unter anderem ein Basmatireis Caipirinha mit Reis-Grissini und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 673423
   start: 2026-11-10T15:00:00Z
-  stop: 2026-11-10T15:40:00Z
+  stop: 2026-11-10T15:35:00Z
   title: Teleshopping
   subtitle: Teleshopping
   genre:
   - '166'
+  widescreen: true
+- eventId: 775685
+  start: 2026-11-10T15:35:00Z
+  stop: 2026-11-10T16:05:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Karotten-Oliven-Salat mit Orangen & Jakobsmuscheln
+  description: Heute kocht Ralf Kühler zusammen mit Shane McMahon unter anderem ein Karotten-Oliven-Salat mit Orangen, Rucola, gebratene Jakobsmuscheln und vieles mehr.
+  genre:
+  - '165'
   widescreen: true
 - eventId: 674576
   start: 2026-11-10T15:40:00Z
@@ -223,13 +340,31 @@
   genre:
   - '165'
   widescreen: true
+- eventId: 775686
+  start: 2026-11-10T16:05:00Z
+  stop: 2026-11-10T17:00:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Reibekuchen mit Schnippelschinken und Schmand
+  description: Heute kocht Ralf Kühler zusammen mit Karl-Heinz Mersmann unter anderem ein Reibekuchen mit Schnippelschinken und Schmand und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 676170
   start: 2026-11-10T17:00:00Z
-  stop: 2026-11-10T17:40:00Z
+  stop: 2026-11-10T17:35:00Z
   title: Teleshopping
   subtitle: Teleshopping
   genre:
   - '166'
+  widescreen: true
+- eventId: 775687
+  start: 2026-11-10T17:35:00Z
+  stop: 2026-11-10T18:15:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Fantasie von Bluefin-Thunfisch mit Mango-Couscous
+  description: Heute kocht Ralf Kühler zusammen mit David Kikilus unter anderem eine Fantasie von Bluefin-Thunfisch mit Mango-Couscous, Alfalfasprossensalat und grünem Meerrettichschaum Mango-Couscous und vieles mehr.
+  genre:
+  - '165'
   widescreen: true
 - eventId: 676171
   start: 2026-11-10T17:40:00Z
@@ -237,6 +372,15 @@
   title: Echt lecker!
   subtitle: Echt lecker! - Fantasie von Bluefin-Thunfisch mit Mango-Couscous
   description: Heute kocht Ralf Kühler zusammen mit David Kikilus unter anderem eine Fantasie von Bluefin-Thunfisch mit Mango-Couscous, Alfalfasprossensalat und grünem Meerrettichschaum Mango-Couscous und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 775688
+  start: 2026-11-10T18:15:00Z
+  stop: 2026-11-10T18:40:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Kalbsgeschnetzeltes mit Shiitake-Pilzen
+  description: Heute kocht Ralf Kühler zusammen mit Sascha Stemberg unter anderem Kalbsgeschnetzeltes mit Shii-Take-Pilzen und vieles mehr.
   genre:
   - '165'
   widescreen: true
@@ -250,10 +394,19 @@
   widescreen: true
 - eventId: 677299
   start: 2026-11-10T19:15:00Z
-  stop: 2026-11-10T20:25:00Z
+  stop: 2026-11-10T20:20:00Z
   title: So schmeckt die Welt - Klagenfurt
   subtitle: So schmeckt die Welt - Klagenfurt
   description: Ein einzigartiger und stilvoller Ausflug in die kulturelle Szene von Klagenfurt erwartet dich. Als österreichische Landeshauptstadt strahlt Klagenfurt am berühmten Wörthersee zweifellos Urlaubsatmosphäre aus. Hier zu leben bedeutet praktisch, immer im Urlaub zu sein. Die Dokumentation über diese Sonnenstadt in Kärnten zeigt eindrucksvoll, warum das so ist. Dabei präsentiert sich die Landeshauptstadt auf vielfältige Weise bunt und abwechslungsreich - vom Bodypainter bis zum Schlagzeug-Workshop.
+  genre:
+  - '129'
+  widescreen: true
+- eventId: 775689
+  start: 2026-11-10T20:20:00Z
+  stop: 2026-11-10T21:20:00Z
+  title: So schmeckt die Welt - Leipzig
+  subtitle: So schmeckt die Welt - Leipzig
+  description: Während andere Städte in Ostdeutschland noch versuchen, aufzuholen, hat Leipzig bereits viele westdeutsche Städte überholt. Diese Stadt ist zweifellos ein Paradebeispiel dafür, wie Veränderungen auf kreative Weise gestaltet werden können. Ob in der Kunst, im Wohnbereich oder bei der Gestaltung der Stadt - Leipzig beeindruckt mit innovativen Vierteln und einem modernen Flair. In dieser 45-minütigen Dokumentation werfen wir einen Blick auf das neue, zeitgemäße Leipzig des 21. Jahrhunderts.
   genre:
   - '129'
   widescreen: true
@@ -266,6 +419,15 @@
   genre:
   - '129'
   widescreen: true
+- eventId: 775690
+  start: 2026-11-10T21:20:00Z
+  stop: 2026-11-10T21:45:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Reissuppe mit Minze
+  description: Heute kocht Ralf Kühler zusammen mit Mirko Reeh unter anderem eine Reissuppe mit Minze und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 677863
   start: 2026-11-10T21:30:00Z
   stop: 2026-11-10T22:50:00Z
@@ -275,8 +437,35 @@
   genre:
   - '165'
   widescreen: true
+- eventId: 775691
+  start: 2026-11-10T21:45:00Z
+  stop: 2026-11-10T22:40:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Kürbismuscheln
+  description: Heute kocht Ralf Kühler zusammen mit Andreas Hülsmann unter anderem Kürbismuscheln und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 775692
+  start: 2026-11-10T22:40:00Z
+  stop: 2026-11-10T23:10:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Hühner-Frikasse im Blätterteigpastetchen
+  description: Heute kocht Ralf Kühler zusammen mit Peter Henzek unter anderem eine Hühnersuppe, Hühner-Frikasse im Blätterteigpastetchen, karamellisierte Früchte und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 678465
   start: 2026-11-10T22:50:00Z
+  stop: 2026-11-11T00:10:00Z
+  title: So schmeckt die Welt - Nürnberg
+  subtitle: So schmeckt die Welt - Nürnberg
+  description: Eine fesselnde und trendige Erkundungstour durch Nürnberg, einer Stadt mit reichhaltiger Geschichte. Von der Zeit des Mittelalters über die düsteren Jahre des Nationalsozialismus bis hin zur Gegenwart hat jede Epoche ihre Spuren hinterlassen, die auch heute noch sichtbar sind. Sei es die majestätische Burg, das ehemalige Wohnhaus von Albrecht Dürer, die beeindruckenden Felsenkeller oder das NS-Dokumentationszentrum - all dies zeugt von dem Kulturerbe und der kulturellen Bedeutung Nürnbergs.
+  genre:
+  - '129'
+  widescreen: true
+- eventId: 775693
+  start: 2026-11-10T23:10:00Z
   stop: 2026-11-11T00:10:00Z
   title: So schmeckt die Welt - Nürnberg
   subtitle: So schmeckt die Welt - Nürnberg
