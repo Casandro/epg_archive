@@ -244,8 +244,11 @@
   start: 2026-11-09T05:16:00Z
   stop: 2026-11-09T05:26:00Z
   title: 'Studio 4: Znanost'
-  subtitle: ' '
+  subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   description: Kratki pregled aktualnosti iz svijeta znanosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 764537
   start: 2026-11-09T05:18:00Z
   stop: 2026-11-09T05:26:00Z
@@ -265,7 +268,7 @@
   description: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
 - eventId: 764539
   start: 2026-11-09T05:56:00Z
-  stop: 2026-11-09T05:58:00Z
+  stop: 2026-11-09T06:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -510,8 +513,11 @@
   start: 2026-11-09T09:42:00Z
   stop: 2026-11-09T09:47:00Z
   title: Poslovne vijesti
-  subtitle: ' '
+  subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 764568
   start: 2026-11-09T09:45:00Z
   stop: 2026-11-09T09:50:00Z
@@ -524,8 +530,11 @@
   start: 2026-11-09T09:47:00Z
   stop: 2026-11-09T09:57:00Z
   title: 'Studio 4: Znanost'
-  subtitle: ' '
+  subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   description: Kratki pregled aktualnosti iz svijeta znanosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 764569
   start: 2026-11-09T09:50:00Z
   stop: 2026-11-09T10:00:00Z
@@ -538,8 +547,11 @@
   start: 2026-11-09T09:57:00Z
   stop: 2026-11-09T10:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 764570
   start: 2026-11-09T10:00:00Z
   stop: 2026-11-09T10:30:00Z
@@ -643,8 +655,11 @@
   start: 2026-11-09T11:28:00Z
   stop: 2026-11-09T11:30:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 764581
   start: 2026-11-09T11:30:00Z
   stop: 2026-11-09T11:55:00Z
@@ -820,8 +835,11 @@
   start: 2026-11-09T14:55:00Z
   stop: 2026-11-09T15:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 764600
   start: 2026-11-09T15:00:00Z
   stop: 2026-11-09T15:15:00Z
@@ -864,7 +882,7 @@
   - '160'
 - eventId: 764605
   start: 2026-11-09T16:03:00Z
-  stop: 2026-11-09T16:11:00Z
+  stop: 2026-11-09T16:13:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
@@ -888,9 +906,17 @@
   - '32'
 - eventId: 764608
   start: 2026-11-09T16:13:00Z
-  stop: 2026-11-09T16:15:00Z
+  stop: 2026-11-09T16:14:00Z
   title: Vrijeme Svijet danas
-  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 770645
+  start: 2026-11-09T16:14:00Z
+  stop: 2026-11-09T16:16:00Z
+  title: Vrijeme Europa danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
@@ -902,6 +928,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 770646
+  start: 2026-11-09T16:16:00Z
+  stop: 2026-11-09T16:20:00Z
+  title: Vrijeme Svijet danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 764610
   start: 2026-11-09T16:20:00Z
   stop: 2026-11-09T16:40:00Z
@@ -1080,7 +1114,7 @@
   - '160'
 - eventId: 764632
   start: 2026-11-09T21:10:00Z
-  stop: 2026-11-09T21:14:00Z
+  stop: 2026-11-09T21:15:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -1094,6 +1128,22 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 770649
+  start: 2026-11-09T21:15:00Z
+  stop: 2026-11-09T21:42:00Z
+  title: Svijet zabave
+  subtitle: Svijet je u tjednu za nama ostao bez legendi, a mi se prisjećamo karijere legendarnog Mate Miše Kovača, kao i rada slavnog Patricka Stewarta.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 770650
+  start: 2026-11-09T21:42:00Z
+  stop: 2026-11-09T22:02:00Z
+  title: 'Studio 4: Dijagnoza'
+  subtitle: 'Pitanje - kuda ide hrvatska dermatologija - prirodno otvara još važniju temu: kuda ide hrvatska medicina?'
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 764634
   start: 2026-11-09T21:44:00Z
   stop: 2026-11-09T22:04:00Z
@@ -1102,11 +1152,27 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 770651
+  start: 2026-11-09T22:02:00Z
+  stop: 2026-11-09T22:06:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 764635
   start: 2026-11-09T22:04:00Z
   stop: 2026-11-09T22:08:00Z
   title: '#REPORTAŽE'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 770652
+  start: 2026-11-09T22:06:00Z
+  stop: 2026-11-09T22:10:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'

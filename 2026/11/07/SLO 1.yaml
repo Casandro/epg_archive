@@ -104,7 +104,7 @@
   - '128'
 - eventId: 707900
   start: 2026-11-07T06:55:00Z
-  stop: 2026-11-07T07:00:00Z
+  stop: 2026-11-07T07:15:00Z
   title: Svetko
   subtitle: Svetko, naš edinstveni planet kliče svoje prijatelje! Kaj bomo danes počeli? Govorili bomo o naravi v mestu. Kdo nam bo pokazal naravo v svojem mestu?
   ageRating: 4
@@ -118,7 +118,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 707901
+- eventId:
+  - 707901
+  - 770751
   start: 2026-11-07T07:15:00Z
   stop: 2026-11-07T07:40:00Z
   title: Z kot Zofka
@@ -136,17 +138,19 @@
   - '80'
 - eventId: 707902
   start: 2026-11-07T07:40:00Z
-  stop: 2026-11-07T07:55:00Z
+  stop: 2026-11-07T07:50:00Z
   title: Trenerji brez licence
   subtitle: V tej oddaji Kajo čaka odbojka na mivki. Pokazati bo morala, ali ima dovolj močan in natančen servis. Na voljo ima pet poskusov, tarčo na drugi strani igrišča pa mora zadeti vsaj dvakrat.
   ageRating: 4
   genre:
   - '80'
-- eventId: 707903
+- eventId:
+  - 707903
+  - 770752
   start: 2026-11-07T07:50:00Z
   stop: 2026-11-07T08:10:00Z
   title: Knjižni ring
-  subtitle: Oddaja za mlade od 10 do 15 let, v kateri knjige stopajo v središče zabavnih, iskrenih in živahnih pogovorov.
+  subtitle: V Knjižnem ringu Maruša in Tosja odkrivata, zakaj so stripi tako priljubljeni - od Asterixa in Obelixa ter slovenskih klasik do sodobnih risoromanov in mang.
   ageRating: 4
   genre:
   - '80'
@@ -168,7 +172,7 @@
   start: 2026-11-07T08:45:00Z
   stop: 2026-11-07T09:00:00Z
   title: Infodrom
-  subtitle: Infodrom je informativna oddaja za mlade.
+  subtitle: 'V Infodromu smo se pozanimali, kaj je boljše: da si edinec ali da odraščaš z brati in sestrami. Eno in drugo ima svoje prednosti in slabosti.'
   ageRating: 4
   genre:
   - '160'
@@ -212,7 +216,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 707909
+- eventId:
+  - 707909
+  - 770753
   start: 2026-11-07T10:40:00Z
   stop: 2026-11-07T11:05:00Z
   title: Ah, ta leta!
@@ -270,12 +276,20 @@
   - '32'
 - eventId: 707915
   start: 2026-11-07T12:15:00Z
-  stop: 2026-11-07T12:30:00Z
+  stop: 2026-11-07T12:25:00Z
   title: Šport
   subtitle: 'Prvi pregled športnega dogajanja v dnevu je namenjen svežim športnim novicam: v oddajo strnemo najpomembnejše rezultate in dogodke prejšnjega večera, noči in jutra.'
   ageRating: 4
   genre:
   - '32'
+- eventId: 770754
+  start: 2026-11-07T12:25:00Z
+  stop: 2026-11-07T12:55:00Z
+  title: Na lepše
+  subtitle: Kaj se dogaja s hotelirskim sektorjem, ki v letošnjem letu doživlja močan investicijski cikel? Še sveže odprti kompleks v Prekmurju odpira novo poglavje vedno bolj iskanega regenerativnega turizma.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 707916
   start: 2026-11-07T12:30:00Z
   stop: 2026-11-07T12:55:00Z
@@ -406,7 +420,7 @@
   start: 2026-11-07T19:55:00Z
   stop: 2026-11-07T20:55:00Z
   title: Kaj dogaja?
-  subtitle: Potrebujete svežo šalanalizo, vas skrbi družbena humorala ali vas samo zanima, kaj je ta teden ujel naš satiradar?
+  subtitle: Na cestah so pijani vozniki, ob cestah trezni policisti, vi pa raje ostanite doma in na tekočem z gledanjem nove epizode oddaje Kaj dogaja?
   ageRating: 4
 - eventId: 707966
   start: 2026-11-07T20:55:00Z
