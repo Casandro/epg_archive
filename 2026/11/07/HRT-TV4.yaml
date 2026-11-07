@@ -996,6 +996,7 @@
   - 776658
   - 779225
   - 780825
+  - 781031
   start: 2026-11-07T09:47:00Z
   stop: 2026-11-07T09:55:00Z
   title: 'Studio 4: Znanost'
@@ -1048,6 +1049,7 @@
   - 776659
   - 779226
   - 780826
+  - 781032
   start: 2026-11-07T09:55:00Z
   stop: 2026-11-07T10:00:00Z
   title: Bez komentara
@@ -1357,7 +1359,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 708116
   start: 2026-11-07T14:35:00Z
-  stop: 2026-11-07T14:55:00Z
+  stop: 2026-11-07T14:54:00Z
   title: 'Studio 4: U fokusu'
   subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
   ageRating: 4
@@ -1367,6 +1369,7 @@
 - eventId:
   - 751391
   - 780827
+  - 781033
   start: 2026-11-07T14:55:00Z
   stop: 2026-11-07T15:00:00Z
   title: Bez komentara
@@ -1588,7 +1591,7 @@
   - 764320
   - 769918
   start: 2026-11-07T17:01:00Z
-  stop: 2026-11-07T17:33:00Z
+  stop: 2026-11-07T17:30:00Z
   title: TV student
   subtitle: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
   description: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
@@ -1646,6 +1649,14 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 781034
+  start: 2026-11-07T17:33:00Z
+  stop: 2026-11-07T17:50:00Z
+  title: Regionalni dnevnik
+  subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 708128
   - 751878
@@ -1689,6 +1700,7 @@
   - 776661
   - 779228
   - 780829
+  - 781035
   start: 2026-11-07T17:51:00Z
   stop: 2026-11-07T17:53:00Z
   title: Bez komentara
@@ -1700,6 +1712,7 @@
 - eventId:
   - 708129
   - 780830
+  - 781036
   start: 2026-11-07T17:53:00Z
   stop: 2026-11-07T17:54:00Z
   title: Vrijeme RH sutra
@@ -1786,6 +1799,7 @@
 - eventId:
   - 708137
   - 780831
+  - 781037
   start: 2026-11-07T18:59:00Z
   stop: 2026-11-07T19:00:00Z
   title: HAK - promet info
@@ -1805,7 +1819,7 @@
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 708139
   start: 2026-11-07T19:05:00Z
-  stop: 2026-11-07T19:45:00Z
+  stop: 2026-11-07T19:44:00Z
   title: 'Intervju tjedna: Mirjana Rakić'
   subtitle: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
   ageRating: 4
@@ -1815,6 +1829,7 @@
 - eventId:
   - 708140
   - 780832
+  - 781038
   start: 2026-11-07T19:45:00Z
   stop: 2026-11-07T20:00:00Z
   title: 'DW: Shift'
@@ -1834,7 +1849,7 @@
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
 - eventId: 708142
   start: 2026-11-07T20:45:00Z
-  stop: 2026-11-07T21:13:00Z
+  stop: 2026-11-07T21:12:00Z
   title: Veterani mira
   subtitle: U Veteranim mira prisjećamo se osnivanja legendarne 9. gardijske brigade "Vukova". Bili su bedem obrane Like i ključni akteri najvažnijih oslobodilačkih operacija Domovinskog rata.
   ageRating: 4
@@ -1853,6 +1868,14 @@
 - eventId: 780833
   start: 2026-11-07T21:13:00Z
   stop: 2026-11-07T21:41:00Z
+  title: Naši ljudi, njihova mjesta
+  subtitle: Córdoba, drugi najveći argentinski grad, svoju povijest čuva i u kamenu.
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 781039
+  start: 2026-11-07T21:13:00Z
+  stop: 2026-11-07T21:40:00Z
   title: Naši ljudi, njihova mjesta
   subtitle: Córdoba, drugi najveći argentinski grad, svoju povijest čuva i u kamenu.
   ageRating: 4
@@ -1908,7 +1931,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 780834
+- eventId:
+  - 780834
+  - 781040
   start: 2026-11-07T21:41:00Z
   stop: 2026-11-07T21:43:00Z
   title: HRT100 Vremeplov
@@ -1928,6 +1953,14 @@
 - eventId: 780835
   start: 2026-11-07T21:43:00Z
   stop: 2026-11-07T22:03:00Z
+  title: 'Studio 4: U fokusu'
+  subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 781041
+  start: 2026-11-07T21:43:00Z
+  stop: 2026-11-07T22:02:00Z
   title: 'Studio 4: U fokusu'
   subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
   ageRating: 4
@@ -1990,7 +2023,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 780836
+- eventId:
+  - 780836
+  - 781042
   start: 2026-11-07T22:03:00Z
   stop: 2026-11-07T22:06:00Z
   title: '#REPORTAŽE'
@@ -2048,6 +2083,7 @@
   - 764324
   - 769922
   - 780837
+  - 781043
   start: 2026-11-07T22:06:00Z
   stop: 2026-11-07T22:10:00Z
   title: Bez komentara
@@ -2119,6 +2155,7 @@
 - eventId:
   - 708155
   - 780838
+  - 781044
   start: 2026-11-07T22:55:00Z
   stop: 2026-11-07T23:00:00Z
   title: Bez komentara
