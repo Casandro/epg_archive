@@ -268,7 +268,7 @@
   description: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
 - eventId: 764539
   start: 2026-11-09T05:56:00Z
-  stop: 2026-11-09T06:00:00Z
+  stop: 2026-11-09T05:58:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -848,6 +848,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Kratki pregled vijesti iz Hrvatske i svijeta.
 - eventId: 764601
   start: 2026-11-09T15:15:00Z
   stop: 2026-11-09T15:22:00Z
@@ -856,6 +857,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
 - eventId: 764602
   start: 2026-11-09T15:22:00Z
   stop: 2026-11-09T15:25:00Z
@@ -864,6 +866,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 764603
   start: 2026-11-09T15:25:00Z
   stop: 2026-11-09T15:55:00Z
@@ -872,6 +875,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Emisija Hrvatskog radija u kojoj o aktualnim političkim, društvenim i gospodarskim temama i radu stranaka govore predsjednici oporbenih parlamentarnih stranaka.
 - eventId: 764604
   start: 2026-11-09T15:55:00Z
   stop: 2026-11-09T16:03:00Z
@@ -880,6 +884,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId: 764605
   start: 2026-11-09T16:03:00Z
   stop: 2026-11-09T16:13:00Z
@@ -888,6 +893,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Kratki pregled aktualnosti iz svijeta znanosti.
 - eventId: 764606
   start: 2026-11-09T16:11:00Z
   stop: 2026-11-09T16:12:00Z
@@ -912,6 +918,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 770645
   start: 2026-11-09T16:14:00Z
   stop: 2026-11-09T16:16:00Z
@@ -920,6 +927,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 764609
   start: 2026-11-09T16:15:00Z
   stop: 2026-11-09T16:20:00Z
@@ -936,6 +944,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 764610
   start: 2026-11-09T16:20:00Z
   stop: 2026-11-09T16:40:00Z
@@ -944,6 +953,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId: 764611
   start: 2026-11-09T16:40:00Z
   stop: 2026-11-09T16:43:00Z
@@ -952,6 +962,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 764612
   start: 2026-11-09T16:43:00Z
   stop: 2026-11-09T16:48:00Z
@@ -960,6 +971,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
 - eventId: 764613
   start: 2026-11-09T16:48:00Z
   stop: 2026-11-09T16:55:00Z
@@ -968,6 +980,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
 - eventId: 764614
   start: 2026-11-09T16:55:00Z
   stop: 2026-11-09T17:00:00Z
@@ -976,6 +989,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 764615
   start: 2026-11-09T17:00:00Z
   stop: 2026-11-09T17:20:00Z
@@ -984,14 +998,16 @@
   ageRating: 4
   genre:
   - '160'
+  description: 'Pitanje - kuda ide hrvatska dermatologija - prirodno otvara još važniju temu: kuda ide hrvatska medicina? O tome će govoriti gošća akademkinja Mirna Šitum, koja se osvrće na goruće probleme poput dugih lista čekanja, ali i na globalni fenomen koji pogađa zdravstvo. Naime, medicina se danas kreće u dva potpuno suprotna smjera. S jedne strane svjedočimo nevjerojatnom napretku - sofisticiranim subspecijalizacijama, biološkim lijekovima i umjetnoj inteligenciji. S druge strane, sve je izraženiji trend estetske medicine vođene profitom.'
 - eventId: 764616
   start: 2026-11-09T17:20:00Z
   stop: 2026-11-09T17:24:00Z
-  title: '#REPORTAŽE'
+  title: '#REPORTAŽE: Meniga'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 764617
   start: 2026-11-09T17:24:00Z
   stop: 2026-11-09T17:30:00Z
@@ -1000,6 +1016,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 764618
   start: 2026-11-09T17:30:00Z
   stop: 2026-11-09T17:53:00Z
@@ -1008,6 +1025,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
 - eventId: 764619
   start: 2026-11-09T17:53:00Z
   stop: 2026-11-09T17:54:00Z
@@ -1016,6 +1034,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 764620
   start: 2026-11-09T17:54:00Z
   stop: 2026-11-09T17:55:00Z
@@ -1024,6 +1043,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 764621
   start: 2026-11-09T17:55:00Z
   stop: 2026-11-09T18:00:00Z
@@ -1032,6 +1052,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 764622
   start: 2026-11-09T18:00:00Z
   stop: 2026-11-09T18:53:00Z
@@ -1040,6 +1061,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
 - eventId: 764623
   start: 2026-11-09T18:53:00Z
   stop: 2026-11-09T18:54:00Z
@@ -1048,6 +1070,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 764624
   start: 2026-11-09T18:54:00Z
   stop: 2026-11-09T18:55:00Z
@@ -1056,6 +1079,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 764625
   start: 2026-11-09T18:55:00Z
   stop: 2026-11-09T18:59:00Z
@@ -1064,6 +1088,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 764626
   start: 2026-11-09T18:59:00Z
   stop: 2026-11-09T19:00:00Z
@@ -1072,14 +1097,16 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
 - eventId: 764627
   start: 2026-11-09T19:00:00Z
   stop: 2026-11-09T19:03:00Z
-  title: '#REPORTAŽE'
+  title: '#REPORTAŽE: Plavi ures'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 764628
   start: 2026-11-09T19:03:00Z
   stop: 2026-11-09T19:30:00Z
@@ -1088,6 +1115,7 @@
   ageRating: 4
   genre:
   - '128'
+  description: Emisija Deutsche Wellea o europskom načinu života, donosi zanimljivosti iz europskih gradova.
 - eventId: 764629
   start: 2026-11-09T19:30:00Z
   stop: 2026-11-09T20:00:00Z
@@ -1096,6 +1124,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Emisija Hrvatskog radija u kojoj o aktualnim političkim, društvenim i gospodarskim temama i radu stranaka govore predsjednici oporbenih parlamentarnih stranaka.
 - eventId: 764630
   start: 2026-11-09T20:00:00Z
   stop: 2026-11-09T20:45:00Z
@@ -1104,6 +1133,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
 - eventId: 764631
   start: 2026-11-09T20:45:00Z
   stop: 2026-11-09T21:10:00Z
@@ -1112,6 +1142,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Emisija o ekologiji, održivom razvoju, održivom gospodarenju otpadom, obnovljivim izvorima energije i energetskoj učinkovitosti. Na popularno-edukativan način promiče važnost zaštite okoliša.
 - eventId: 764632
   start: 2026-11-09T21:10:00Z
   stop: 2026-11-09T21:15:00Z
@@ -1120,6 +1151,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 764633
   start: 2026-11-09T21:14:00Z
   stop: 2026-11-09T21:44:00Z
@@ -1136,6 +1168,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Svijet je u tjednu za nama ostao bez legendi, a mi se prisjećamo karijere legendarnog Mate Miše Kovača, kao i rada slavnog Patricka Stewarta. Donosimo i reakcije zvjezdanih parova nakon prvih nastupa u novoj sezoni "Plesa sa zvijezdama" te detalje novog kino-hita "Udarni termin"!
 - eventId: 770650
   start: 2026-11-09T21:42:00Z
   stop: 2026-11-09T22:02:00Z
@@ -1144,6 +1177,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: 'Pitanje - kuda ide hrvatska dermatologija - prirodno otvara još važniju temu: kuda ide hrvatska medicina? O tome će govoriti gošća akademkinja Mirna Šitum, koja se osvrće na goruće probleme poput dugih lista čekanja, ali i na globalni fenomen koji pogađa zdravstvo. Naime, medicina se danas kreće u dva potpuno suprotna smjera. S jedne strane svjedočimo nevjerojatnom napretku - sofisticiranim subspecijalizacijama, biološkim lijekovima i umjetnoj inteligenciji. S druge strane, sve je izraženiji trend estetske medicine vođene profitom.'
 - eventId: 764634
   start: 2026-11-09T21:44:00Z
   stop: 2026-11-09T22:04:00Z
@@ -1155,11 +1189,12 @@
 - eventId: 770651
   start: 2026-11-09T22:02:00Z
   stop: 2026-11-09T22:06:00Z
-  title: '#REPORTAŽE'
+  title: '#REPORTAŽE: Meniga'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 764635
   start: 2026-11-09T22:04:00Z
   stop: 2026-11-09T22:08:00Z
@@ -1176,6 +1211,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 764636
   start: 2026-11-09T22:08:00Z
   stop: 2026-11-09T22:10:00Z
@@ -1192,6 +1228,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 764638
   start: 2026-11-09T22:20:00Z
   stop: 2026-11-09T22:30:00Z
@@ -1200,6 +1237,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 764639
   start: 2026-11-09T22:30:00Z
   stop: 2026-11-09T22:50:00Z
@@ -1208,14 +1246,16 @@
   ageRating: 4
   genre:
   - '160'
+  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId: 764640
   start: 2026-11-09T22:50:00Z
   stop: 2026-11-09T22:54:00Z
-  title: '#REPORTAŽE'
+  title: '#REPORTAŽE: Plavi ures'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 764641
   start: 2026-11-09T22:54:00Z
   stop: 2026-11-09T23:00:00Z
@@ -1224,6 +1264,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 764642
   start: 2026-11-09T23:00:00Z
   stop: 2026-11-09T23:10:00Z
@@ -1232,6 +1273,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 764643
   start: 2026-11-09T23:10:00Z
   stop: 2026-11-09T23:17:00Z
@@ -1240,6 +1282,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
 - eventId: 764644
   start: 2026-11-09T23:17:00Z
   stop: 2026-11-09T23:42:00Z
@@ -1248,6 +1291,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Gotovo mjesec dana nakon općih izbora u Bosni i Hercegovini još nema konkretnijih naznaka o sastavu nove vlasti na državnoj i nižim razinama. Predsjedateljica Vijeća ministara Borjana Krišto očekuje ubrzanje pregovora nakon objave službenih izbornih rezultata. Republika Hrvatska nastavlja podupirati projekte u području gospodarstva, infrastrukture, kulture i obrazovanja. Projekti koji pridonose gospodarskom i društvenom razvoju Hrvata u Bosni i Hercegovini bili su u fokusu koordinacije dužnosnika HDZ-a Bosne i Hercegovine održane u Stocu. Uz predstavnike svih razina vlasti, sudjelovali su i hrvatski ministri Tomislav Ćorić i Radovan Fuchs. Vijeće sigurnosti UN-a jednoglasno produljilo je mandat EUFOR-u u Bosni i Hercegovini. Vršitelj dužnosti visokog predstavnika Lois Crishock predstavio je svoje izvješće o političkim prilikama u zemlji, koje je u mnogim dijelovima izgledalo kao i ono njegova prethodnika Christiana Schmidta.  Šipak je jedan od prepoznatljivih plodova Hercegovine. Njegov proizvodni i tržišni potencijal još nije dovoljni iskorišten. Mogućnost unapređenja uzgoja, prerada i plasman proizvoda od šipka bile su tema znanstveno-stručne radionice u Mostaru. Razgovaralo se i o ovogodišnjoj proizvodnji koju su obilježile nepovoljne vremenske prilike. Povratak na djedovinu u Vilić Polje kod Uskoplja. Život na selu, vlastita proizvodnja i obiteljska sloga - recept su za novi početak Ivana Brkića. Nakon godina rada u inozemstvu odlučio se vratiti i dokazati da se od vlastitog rada može živjeti i u rodnom kraju. Njegova supruga Lucija pritom je gradski život zamijenila seoskim. Josip Mlakić dobitnik je prve nagrade "Ivo Andrić". U Bosni i Hercegovini mnoge priče počinju uz kavu i čašicu domaće rakije. Ona je znak dobrodošlice dragom gostu i bez nje ne mogu proći važni trenuci u životu. Mnoga mjesta u jesen mirišu na zrelo voće, dim i rakiju koja se peče u kazanu. Pogledajmo kako se ovaj običaj čuva u Breškama pored Tuzle. Mirisi domaće kuhinje, tradicionalni recepti i bogatstvo hercegovačke baštine obilježili su još jedan Ravanjski bronzin. Tradicionalna gastrokulturna manifestacija, u organizaciji općine Ravno i Udruge građana Stijena, i ove godine tijekom dva dana okupila je brojne ljubitelje domaće kuhinje i tradicije.
 - eventId: 764645
   start: 2026-11-09T23:42:00Z
   stop: 2026-11-10T00:05:00Z
@@ -1256,3 +1300,4 @@
   ageRating: 4
   genre:
   - '32'
+  description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
