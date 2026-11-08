@@ -1219,7 +1219,7 @@
   - 748353
   - 752032
   start: 2026-11-08T18:00:00Z
-  stop: 2026-11-08T18:50:00Z
+  stop: 2026-11-08T18:50:08Z
   title: Události
   subtitle: Hlavní zpravodajská relace České televize. Souhrn nejdůležitějších událostí dne v ČR i ve světě.
   description: |-
@@ -1248,7 +1248,9 @@
   - '33'
   widescreen: true
   hd: true
-- eventId: 811514
+- eventId:
+  - 811514
+  - 811572
   start: 2026-11-08T18:50:08Z
   stop: 2026-11-08T18:52:00Z
   title: Počasí v evropských metropolích
