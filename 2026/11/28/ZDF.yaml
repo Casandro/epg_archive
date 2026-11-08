@@ -507,7 +507,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 794795
+- eventId:
+  - 794795
+  - 795153
   start: 2026-11-28T23:25:00Z
   stop: 2026-11-28T23:30:00Z
   title: heute Xpress
@@ -515,7 +517,11 @@
   - '32'
   widescreen: true
   subtitled: true
-- eventId: 794796
+  hd: true
+  audiodesc: true
+- eventId:
+  - 794796
+  - 795154
   start: 2026-11-28T23:30:00Z
   stop: 2026-11-29T00:00:00Z
   title: heute-show
@@ -524,3 +530,5 @@
   - '48'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
