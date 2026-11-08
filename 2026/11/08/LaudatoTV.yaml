@@ -302,7 +302,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 785329
+- eventId:
+  - 785329
+  - 798054
   start: 2026-11-08T08:35:00Z
   stop: 2026-11-08T08:59:00Z
   title: Klub prijatelja
@@ -328,7 +330,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 785353
+- eventId:
+  - 785353
+  - 798075
   start: 2026-11-08T09:00:00Z
   stop: 2026-11-08T09:29:00Z
   title: Vjera i nada
@@ -354,7 +358,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 785354
+- eventId:
+  - 785354
+  - 798076
   start: 2026-11-08T09:30:00Z
   stop: 2026-11-08T10:29:00Z
   title: 'Sveta Misa: Svetište Majke Božje Remetske, Zagreb, Sveta Misa: Zagreb'
@@ -380,7 +386,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 785355
+- eventId:
+  - 785355
+  - 798077
   start: 2026-11-08T10:31:00Z
   stop: 2026-11-08T10:59:00Z
   title: Svijet očima Vatikana
@@ -415,6 +423,7 @@
 - eventId:
   - 777701
   - 785358
+  - 798112
   start: 2026-11-08T12:09:00Z
   stop: 2026-11-08T13:05:00Z
   title: Izdvojeno
@@ -453,6 +462,7 @@
 - eventId:
   - 777703
   - 785359
+  - 798113
   start: 2026-11-08T13:29:00Z
   stop: 2026-11-08T15:00:00Z
   title: 'Papino apostolsko putovanje u Urugvaj: Sveta Misa'
@@ -555,6 +565,11 @@
   stop: 2026-11-08T19:16:00Z
   title: Klanjanje Presvetom Oltarskom Sakramentu
   description: Klanjanje Presvetom Oltarskom Sakramentu
+- eventId: 798136
+  start: 2026-11-08T18:26:00Z
+  stop: 2026-11-08T19:15:00Z
+  title: Klanjanje Presvetom Oltarskom Sakramentu
+  description: Klanjanje Presvetom Oltarskom Sakramentu
 - eventId:
   - 642326
   - 643783
@@ -567,7 +582,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 785022
+- eventId:
+  - 785022
+  - 798137
   start: 2026-11-08T19:16:00Z
   stop: 2026-11-08T19:30:00Z
   title: Vijesti iz Vatikana
@@ -603,6 +620,12 @@
   title: Čujte i počujte
   subtitle: Religijski
   description: U novoj emisiji ,,Čujte i počujte gost nam je Josip Ćulumović, koji će nam predstaviti svoju pjesmu ,,Psalam 91. Razgovarat ćemo o nadahnuću koje stoji iza pjesme, njezinoj poruci i snazi glazbe koja može dotaknuti ljudsko srce i približiti nas Bogu. Kako nastaju pjesme koje prenose vjeru i koliko glazba može biti sredstvo evangelizacije?
+- eventId: 798138
+  start: 2026-11-08T20:36:00Z
+  stop: 2026-11-08T21:00:00Z
+  title: Čujte i počujte
+  subtitle: Religijski
+  description: U novoj emisiji ,,Čujte i počujte gost nam je Josip Ćulumović, koji će nam predstaviti svoju pjesmu ,,Psalam 91. Razgovarat ćemo o nadahnuću koje stoji iza pjesme, njezinoj poruci i snazi glazbe koja može dotaknuti ljudsko srce i približiti nas Bogu. Kako nastaju pjesme koje prenose vjeru i koliko glazba može biti sredstvo evangelizacije?
 - eventId:
   - 642353
   - 643813
@@ -615,12 +638,16 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 785024
+- eventId:
+  - 785024
+  - 798153
   start: 2026-11-08T21:01:00Z
   stop: 2026-11-08T21:19:00Z
   title: Egzamen - ispit svjesnosti
   subtitle: Religijski
-- eventId: 785025
+- eventId:
+  - 785025
+  - 798154
   start: 2026-11-08T21:19:00Z
   stop: 2026-11-08T22:20:00Z
   title: Neka nam Bog pomogne 5, serija
@@ -674,20 +701,24 @@
   - 746390
   - 746917
   start: 2026-11-08T22:31:00Z
-  stop: 2026-11-08T23:02:00Z
+  stop: 2026-11-08T22:32:00Z
   title: Osobna posveta Bezgrješnom Srcu Marijinu
   subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
   ageRating: 4
   genre:
   - '160'
   description: Osobna posveta Bezgrješnom Srcu Marijinu
-- eventId: 785026
+- eventId:
+  - 785026
+  - 798155
   start: 2026-11-08T22:32:00Z
   stop: 2026-11-08T22:56:00Z
   title: Krunica, Krunica Blažene Djevice Marije
   subtitle: Religijski
   description: Molimo zajedno molitvu Krunice Blažene Djevice Marije.
-- eventId: 785027
+- eventId:
+  - 785027
+  - 798156
   start: 2026-11-08T22:56:00Z
   stop: 2026-11-08T23:02:00Z
   title: VA Lipe - Kraljice možna, VA Lipe - Kraljice možna
