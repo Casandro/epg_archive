@@ -587,7 +587,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 803315
+- eventId:
+  - 803315
+  - 803553
   start: 2026-11-08T05:10:01Z
   stop: 2026-11-08T06:00:00Z
   title: Studio ČT24
@@ -597,6 +599,7 @@
     Skryté titulky
   genre:
   - '35'
+  widescreen: true
 - eventId:
   - 613637
   - 622074
@@ -653,6 +656,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 803564
+  start: 2026-11-08T07:30:00Z
+  stop: 2026-11-08T08:00:00Z
+  title: Věda 24
+  subtitle: Týdenní souhrn toho nejdůležitějšího z oblasti světové i české vědy.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '34'
+  widescreen: true
 - eventId:
   - 788841
   - 793588
