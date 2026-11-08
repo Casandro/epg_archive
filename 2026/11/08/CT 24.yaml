@@ -646,7 +646,7 @@
   - 748309
   - 752010
   start: 2026-11-08T07:00:00Z
-  stop: 2026-11-08T07:30:30Z
+  stop: 2026-11-08T07:30:00Z
   title: Zprávy
   description: |-
     HDTV
@@ -656,7 +656,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 803564
+- eventId:
+  - 803564
+  - 804236
   start: 2026-11-08T07:30:00Z
   stop: 2026-11-08T08:00:00Z
   title: Věda 24
