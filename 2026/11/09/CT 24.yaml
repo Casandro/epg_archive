@@ -576,6 +576,7 @@
   - 654152
   - 772670
   - 780676
+  - 832354
   start: 2026-11-09T09:00:00Z
   stop: 2026-11-09T11:00:00Z
   title: Studio ČT24
@@ -596,6 +597,7 @@
   - 654153
   - 772671
   - 780677
+  - 832355
   start: 2026-11-09T11:00:00Z
   stop: 2026-11-09T11:20:00Z
   title: Zprávy ve 12
@@ -615,6 +617,7 @@
   - 654154
   - 772672
   - 780678
+  - 832356
   start: 2026-11-09T11:20:00Z
   stop: 2026-11-09T11:30:00Z
   title: Předpověď počasí, sportovní zprávy
@@ -634,6 +637,7 @@
   - 654155
   - 772673
   - 780679
+  - 832357
   start: 2026-11-09T11:30:00Z
   stop: 2026-11-09T11:33:00Z
   title: Zprávy
@@ -652,6 +656,7 @@
   - 654156
   - 772674
   - 780680
+  - 832358
   start: 2026-11-09T11:33:00Z
   stop: 2026-11-09T12:00:00Z
   title: Studio ČT24
@@ -689,6 +694,7 @@
   - 651288
   - 772676
   - 780682
+  - 832359
   start: 2026-11-09T12:03:00Z
   stop: 2026-11-09T12:30:00Z
   title: Studio ČT24
@@ -730,6 +736,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 832360
+  start: 2026-11-09T12:30:00Z
+  stop: 2026-11-09T12:34:55Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId: 832260
   start: 2026-11-09T12:31:05Z
   stop: 2026-11-09T12:37:00Z
@@ -759,6 +775,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 832361
+  start: 2026-11-09T12:34:55Z
+  stop: 2026-11-09T13:00:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId: 832261
   start: 2026-11-09T12:37:00Z
   stop: 2026-11-09T13:00:00Z
