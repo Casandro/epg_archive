@@ -18,14 +18,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 789463
   start: 2026-11-10T00:59:00Z
-  stop: 2026-11-10T01:01:00Z
+  stop: 2026-11-10T01:00:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 789464
+- eventId:
+  - 789464
+  - 839769
   start: 2026-11-10T01:00:00Z
   stop: 2026-11-10T01:02:00Z
   title: Vrijeme Svijet danas
@@ -40,7 +42,9 @@
   title: Vrijeme svijet danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 789465
+- eventId:
+  - 789465
+  - 839770
   start: 2026-11-10T01:02:00Z
   stop: 2026-11-10T01:22:00Z
   title: 'Studio 4: Intervju'
@@ -64,13 +68,23 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 839771
+  start: 2026-11-10T01:22:00Z
+  stop: 2026-11-10T01:27:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 836986
   start: 2026-11-10T01:25:00Z
   stop: 2026-11-10T01:30:00Z
   title: '#REPORTAŽE: Meniga'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 789467
+- eventId:
+  - 789467
+  - 839772
   start: 2026-11-10T01:27:00Z
   stop: 2026-11-10T01:30:00Z
   title: Bez komentara
@@ -234,14 +248,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 789486
   start: 2026-11-10T04:54:00Z
-  stop: 2026-11-10T04:56:00Z
+  stop: 2026-11-10T04:55:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 789487
+- eventId:
+  - 789487
+  - 839773
   start: 2026-11-10T04:55:00Z
   stop: 2026-11-10T04:57:00Z
   title: Vrijeme Svijet danas
@@ -256,7 +272,9 @@
   title: Vrijeme svijet danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 789488
+- eventId:
+  - 789488
+  - 839774
   start: 2026-11-10T04:57:00Z
   stop: 2026-11-10T05:00:00Z
   title: Bez komentara
@@ -300,14 +318,16 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 789492
   start: 2026-11-10T05:18:00Z
-  stop: 2026-11-10T05:28:00Z
+  stop: 2026-11-10T05:26:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 789493
+- eventId:
+  - 789493
+  - 839775
   start: 2026-11-10T05:26:00Z
   stop: 2026-11-10T05:56:00Z
   title: Otvoreno
@@ -531,7 +551,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 789522
   start: 2026-11-10T12:35:00Z
-  stop: 2026-11-10T12:43:00Z
+  stop: 2026-11-10T12:45:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -552,6 +572,7 @@
   - 832917
   - 833218
   - 833571
+  - 839776
   start: 2026-11-10T12:45:00Z
   stop: 2026-11-10T12:50:00Z
   title: Poslovne vijesti
@@ -574,6 +595,7 @@
   - 832918
   - 833219
   - 833572
+  - 839777
   start: 2026-11-10T12:50:00Z
   stop: 2026-11-10T13:00:00Z
   title: 'Studio 4: Znanost'
@@ -986,7 +1008,7 @@
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
 - eventId: 789572
   start: 2026-11-10T20:45:00Z
-  stop: 2026-11-10T21:11:00Z
+  stop: 2026-11-10T21:13:00Z
   title: 'DW: U dobroj formi'
   subtitle: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
   ageRating: 4
@@ -1007,6 +1029,7 @@
   - 832921
   - 833220
   - 833573
+  - 839779
   start: 2026-11-10T21:13:00Z
   stop: 2026-11-10T21:16:00Z
   title: Bez komentara
@@ -1029,6 +1052,7 @@
   - 832922
   - 833221
   - 833574
+  - 839780
   start: 2026-11-10T21:16:00Z
   stop: 2026-11-10T21:44:00Z
   title: 'Pula: More'
@@ -1059,6 +1083,7 @@
   - 832923
   - 833222
   - 833575
+  - 839781
   start: 2026-11-10T21:44:00Z
   stop: 2026-11-10T22:04:00Z
   title: Sportske minute
@@ -1088,6 +1113,7 @@
   - 832924
   - 833223
   - 833576
+  - 839782
   start: 2026-11-10T22:04:00Z
   stop: 2026-11-10T22:08:00Z
   title: '#REPORTAŽE'
@@ -1109,6 +1135,7 @@
   - 832925
   - 833224
   - 833577
+  - 839783
   start: 2026-11-10T22:08:00Z
   stop: 2026-11-10T22:10:00Z
   title: Bez komentara
