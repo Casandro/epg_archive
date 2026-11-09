@@ -7,6 +7,12 @@
   genre:
   - '32'
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
+- eventId: 843992
+  start: 2026-11-10T00:06:00Z
+  stop: 2026-11-10T00:58:00Z
+  title: Dnevnik 2
+  subtitle: ' '
+  description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
 - eventId: 789462
   start: 2026-11-10T00:58:00Z
   stop: 2026-11-10T00:59:00Z
@@ -18,7 +24,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 789463
   start: 2026-11-10T00:59:00Z
-  stop: 2026-11-10T01:00:00Z
+  stop: 2026-11-10T01:01:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -40,6 +46,7 @@
 - eventId:
   - 836984
   - 842946
+  - 843993
   start: 2026-11-10T01:01:00Z
   stop: 2026-11-10T01:03:00Z
   title: Vrijeme svijet danas
@@ -62,6 +69,12 @@
   - 842947
   start: 2026-11-10T01:03:00Z
   stop: 2026-11-10T01:22:00Z
+  title: 'Studio 4: Intervju'
+  subtitle: ' '
+  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+- eventId: 843994
+  start: 2026-11-10T01:03:00Z
+  stop: 2026-11-10T01:25:00Z
   title: 'Studio 4: Intervju'
   subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -92,6 +105,12 @@
   title: '#REPORTAŽE: Meniga'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 843995
+  start: 2026-11-10T01:25:00Z
+  stop: 2026-11-10T01:29:00Z
+  title: '#REPORTAŽE: Meniga'
+  subtitle: ' '
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 789467
   - 839772
@@ -104,6 +123,12 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 843996
+  start: 2026-11-10T01:29:00Z
+  stop: 2026-11-10T01:52:00Z
+  title: Regionalni dnevnik
+  subtitle: ' '
+  description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
 - eventId: 789468
   start: 2026-11-10T01:30:00Z
   stop: 2026-11-10T01:52:00Z
@@ -113,7 +138,9 @@
   genre:
   - '32'
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 842949
+- eventId:
+  - 842949
+  - 843997
   start: 2026-11-10T01:52:00Z
   stop: 2026-11-10T01:55:00Z
   title: 'Bez komentara: Ukrajina - Ruski napad'
@@ -156,13 +183,19 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 789472
   start: 2026-11-10T02:10:00Z
-  stop: 2026-11-10T02:18:00Z
+  stop: 2026-11-10T02:17:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
   genre:
   - '32'
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
+- eventId: 843998
+  start: 2026-11-10T02:17:00Z
+  stop: 2026-11-10T02:20:00Z
+  title: 'Bez komentara: Španjolska - Novi val migranata'
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 789473
   start: 2026-11-10T02:18:00Z
   stop: 2026-11-10T02:20:00Z
@@ -183,13 +216,19 @@
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 789475
   start: 2026-11-10T02:28:00Z
-  stop: 2026-11-10T02:30:00Z
+  stop: 2026-11-10T02:29:00Z
   title: 'Bez komentara: Jemen - Hutisti'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 843999
+  start: 2026-11-10T02:29:00Z
+  stop: 2026-11-10T02:49:00Z
+  title: 'Studio 4: Dijagnoza'
+  subtitle: ' '
+  description: 'Pitanje - kuda ide hrvatska dermatologija - prirodno otvara još važniju temu: kuda ide hrvatska medicina? O tome će govoriti gošća akademkinja Mirna Šitum, koja se osvrće na goruće probleme poput dugih lista čekanja, ali i na globalni fenomen koji pogađa zdravstvo. Naime, medicina se danas kreće u dva potpuno suprotna smjera. S jedne strane svjedočimo nevjerojatnom napretku - sofisticiranim subspecijalizacijama, biološkim lijekovima i umjetnoj inteligenciji. S druge strane, sve je izraženiji trend estetske medicine vođene profitom.'
 - eventId: 789476
   start: 2026-11-10T02:30:00Z
   stop: 2026-11-10T02:49:00Z
@@ -199,7 +238,9 @@
   genre:
   - '160'
   description: 'Pitanje - kuda ide hrvatska dermatologija - prirodno otvara još važniju temu: kuda ide hrvatska medicina? O tome će govoriti gošća akademkinja Mirna Šitum, koja se osvrće na goruće probleme poput dugih lista čekanja, ali i na globalni fenomen koji pogađa zdravstvo. Naime, medicina se danas kreće u dva potpuno suprotna smjera. S jedne strane svjedočimo nevjerojatnom napretku - sofisticiranim subspecijalizacijama, biološkim lijekovima i umjetnoj inteligenciji. S druge strane, sve je izraženiji trend estetske medicine vođene profitom.'
-- eventId: 842950
+- eventId:
+  - 842950
+  - 844000
   start: 2026-11-10T02:49:00Z
   stop: 2026-11-10T02:52:00Z
   title: '#REPORTAŽE: Plavi ures'
@@ -224,13 +265,19 @@
   - '160'
 - eventId: 789478
   start: 2026-11-10T02:52:00Z
-  stop: 2026-11-10T02:55:00Z
+  stop: 2026-11-10T02:53:00Z
   title: 'Bez komentara: Tajvan - Pad burze'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 844001
+  start: 2026-11-10T02:53:00Z
+  stop: 2026-11-10T03:40:00Z
+  title: Pregled dana
+  subtitle: ' '
+  description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
 - eventId: 789479
   start: 2026-11-10T02:55:00Z
   stop: 2026-11-10T03:40:00Z
@@ -261,7 +308,7 @@
   - 789482
   - 842981
   start: 2026-11-10T03:50:00Z
-  stop: 2026-11-10T03:57:00Z
+  stop: 2026-11-10T03:58:00Z
   title: Vijesti iz kulture
   subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   ageRating: 4
@@ -291,7 +338,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 842953
+- eventId:
+  - 842953
+  - 844465
   start: 2026-11-10T03:58:00Z
   stop: 2026-11-10T04:00:00Z
   title: 'Bez komentara: Indija - Gusti smog'
@@ -299,17 +348,23 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 789484
   start: 2026-11-10T04:00:00Z
-  stop: 2026-11-10T04:53:00Z
+  stop: 2026-11-10T04:52:00Z
   title: Dnevnik 2
   subtitle: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a.
   ageRating: 4
   genre:
   - '32'
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
+- eventId: 844003
+  start: 2026-11-10T04:52:00Z
+  stop: 2026-11-10T04:53:00Z
+  title: Vrijeme RH danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 789485
   start: 2026-11-10T04:53:00Z
-  stop: 2026-11-10T04:54:00Z
-  title: Vrijeme RH danas
+  stop: 2026-11-10T04:55:00Z
+  title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
@@ -350,7 +405,7 @@
   - 842984
   start: 2026-11-10T04:57:00Z
   stop: 2026-11-10T05:00:00Z
-  title: Bez komentara
+  title: 'Bez komentara: Nepal - Hinduistički festival posvećen psima'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
@@ -375,7 +430,7 @@
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 789490
   start: 2026-11-10T05:08:00Z
-  stop: 2026-11-10T05:10:00Z
+  stop: 2026-11-10T05:15:00Z
   title: 'Bez komentara: Oslo - Svjetlosne instalacije pretvorile grad u galeriju'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -391,6 +446,12 @@
   genre:
   - '32'
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
+- eventId: 844466
+  start: 2026-11-10T05:15:00Z
+  stop: 2026-11-10T05:25:00Z
+  title: 'Studio 4: Znanost'
+  subtitle: ' '
+  description: Kratki pregled aktualnosti iz svijeta znanosti.
 - eventId: 789492
   start: 2026-11-10T05:18:00Z
   stop: 2026-11-10T05:26:00Z
@@ -400,6 +461,12 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
+- eventId: 844467
+  start: 2026-11-10T05:25:00Z
+  stop: 2026-11-10T05:56:00Z
+  title: Otvoreno
+  subtitle: ' '
+  description: 'Donald Trump u posljednje dvije godine mandata ulazi s ozbiljno oslabljenim političkim položajem i novom protutežom u Washingtonu. Demokrati će kontrolirati oba doma Kongresa, moći pokretati istrage, nadzirati administraciju, blokirati imenovanja i imati proračunske ovlasti. Koliko mu zapravo mogu otežati upravljanje državom? Hoće li poraz na međuizborima promijeniti američku vanjsku politiku ili će Trump, ograničen kod kuće, još odlučnije demonstrirati američku moć na međunarodnoj sceni? Hoće li na predsjedničkim izborima 2028. Amerikanci odlučivati žele li trumpizam bez Trumpa ili povratak drukčijoj Americi? Gosti su: prof. dr. sc. Marinko Ogorec, stručnjak za sigurnost, Veleučilište Velika Gorica, prof. dr. sc. Pero Maldini, politolog, Sveučilište u Dubrovniku, Tihomir Vinković, dopisnik HRT-a iz Bruxellesa.'
 - eventId:
   - 789493
   - 839775
@@ -629,7 +696,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 789522
   start: 2026-11-10T12:35:00Z
-  stop: 2026-11-10T12:45:00Z
+  stop: 2026-11-10T12:43:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -641,6 +708,7 @@
   - 833562
   - 836990
   - 842957
+  - 844468
   start: 2026-11-10T12:43:00Z
   stop: 2026-11-10T12:48:00Z
   title: Poslovne vijesti
@@ -666,6 +734,7 @@
   - 833563
   - 836991
   - 842958
+  - 844469
   start: 2026-11-10T12:48:00Z
   stop: 2026-11-10T12:56:00Z
   title: 'Studio 4: Znanost'
@@ -691,6 +760,7 @@
   - 833564
   - 836992
   - 842959
+  - 844470
   start: 2026-11-10T12:56:00Z
   stop: 2026-11-10T13:00:00Z
   title: Bez komentara
@@ -1104,6 +1174,7 @@
   - 836993
   - 840721
   - 842960
+  - 844471
   start: 2026-11-10T21:11:00Z
   stop: 2026-11-10T21:15:00Z
   title: Bez komentara
@@ -1131,6 +1202,7 @@
   - 836994
   - 840722
   - 842961
+  - 844472
   start: 2026-11-10T21:15:00Z
   stop: 2026-11-10T21:43:00Z
   title: 'Pula: More'
@@ -1165,6 +1237,7 @@
   - 836995
   - 840723
   - 842962
+  - 844473
   start: 2026-11-10T21:43:00Z
   stop: 2026-11-10T22:03:00Z
   title: 'Studio 4: Sportske minute'
@@ -1206,6 +1279,7 @@
   - 836996
   - 840724
   - 842963
+  - 844474
   start: 2026-11-10T22:03:00Z
   stop: 2026-11-10T22:07:00Z
   title: '#REPORTAŽE: Kristinka'
@@ -1240,6 +1314,7 @@
   - 836997
   - 840725
   - 842964
+  - 844475
   start: 2026-11-10T22:07:00Z
   stop: 2026-11-10T22:10:00Z
   title: Bez komentara
