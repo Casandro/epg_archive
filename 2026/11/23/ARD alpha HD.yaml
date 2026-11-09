@@ -12,6 +12,8 @@
   hd: true
   audiodesc: true
   subtitle: Tradition im Wandel
+  genre:
+  - '112'
 - eventId:
   - 562221
   - 568570
@@ -44,9 +46,18 @@
   - 629040
   - 738572
   start: 2026-11-23T02:45:00Z
-  stop: 2026-11-23T04:00:00Z
+  stop: 2026-11-23T03:45:00Z
   title: Space Night
   subtitle: Earth-Views
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 832559
+  start: 2026-11-23T03:45:00Z
+  stop: 2026-11-23T04:00:00Z
+  title: alpha-centauri
+  subtitle: Zerfällt das Erdmagnetfeld?
   widescreen: true
   subtitled: true
   hd: true
@@ -204,12 +215,14 @@
   start: 2026-11-23T09:30:00Z
   stop: 2026-11-23T10:00:00Z
   title: aktiv und gesund
-  subtitle: Schlafgetränke - Magnet gegen Rücken - Nachtisch ohne Reue
+  subtitle: Relaxation Drinks | Magnet gegen Rücken | Nachtisch ohne Reue
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
   description: 'Geschichtenerzählen und Astrophysik - das sind seine beiden großen Leidenschaften: Harald Lesch ist Professor für theoretische Astrophysik an der Ludwig-Maximilians-Universität München und unterrichtet Naturphilosophie an der Hochschule für Philosophie S.J. in München. Außerdem ist er Mitglied der Kommission "Astronomie in Unterricht und Lehramt". Seine Hauptforschungsgebiete sind kosmische Plasmaphysik, Schwarze Löcher und Neutronensterne. In der Sendereihe "alpha-Centauri" erklärt Professor Lesch die Grundzüge des Universums, untersucht ferne Galaxien und bringt uns unser Sonnensystem näher.'
+  genre:
+  - '144'
 - eventId:
   - 1347778
   - 541891
@@ -388,7 +401,7 @@
   - 738770
   start: 2026-11-23T15:45:00Z
   stop: 2026-11-23T16:15:00Z
-  title: 'alpha-retro: Bahnsteig 11 - Eindrücke in der Münchner Bahnho'
+  title: 'alpha-retro: Bahnsteig 11 - Eindrücke in der Münchner Bahnhofsmission (1982)'
   widescreen: true
   subtitled: true
   hd: true
@@ -604,8 +617,8 @@
   - 738909
   start: 2026-11-23T23:30:00Z
   stop: 2026-11-24T00:20:00Z
-  title: Apollo 11 - In 8 Tagen zum Mond und zurück
-  subtitle: Großbritannien
+  title: Apollo 11 - In 8 Tagen zum Mond und zurück (1/2)
+  subtitle: Großbritannien/Irland 2019
   widescreen: true
   subtitled: true
   hd: true
