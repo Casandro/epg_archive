@@ -11,6 +11,7 @@
 - eventId:
   - 783469
   - 835372
+  - 840994
   start: 2026-11-11T00:26:00Z
   stop: 2026-11-11T00:54:00Z
   title: Snagom dobrote
@@ -32,6 +33,7 @@
 - eventId:
   - 783470
   - 835373
+  - 840995
   start: 2026-11-11T00:54:00Z
   stop: 2026-11-11T02:04:00Z
   title: Oasis in tempore
@@ -52,6 +54,7 @@
 - eventId:
   - 783471
   - 835374
+  - 840996
   start: 2026-11-11T02:04:00Z
   stop: 2026-11-11T02:51:00Z
   title: Katoličanstvo
@@ -80,6 +83,14 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 840997
+  start: 2026-11-11T02:51:00Z
+  stop: 2026-11-11T03:10:00Z
+  title: Vijesti iz Svete Zemlje
+  subtitle: U Svetoj Zemlji, u samostanu klarisa vlada radost zbog završetka dijecezanske faze postupka za proglašenje blaženom Službenice Božje, Marije od Presvetog Trojstva. Postupak sada prelazi u Rim.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 817437
   - 822700
@@ -98,6 +109,14 @@
   title: Koncert Progledaj srcem online - Božja Slava Band
   subtitle: Koncert duhovne glazbe "Progledaj srcem" okuplja tisuće ljudi u pjesmi, radosti i proslavi Boga. Koncert je ponajviše zahvala Bogu za velika djela kojima se proslavlja. Otvorimo srca za Gospodina!...
   description: Koncert Progledaj srcem online - Božja Slava Band
+  ageRating: 4
+  genre:
+  - '112'
+- eventId: 840998
+  start: 2026-11-11T03:11:00Z
+  stop: 2026-11-11T04:39:00Z
+  title: Progledaj srcem online
+  subtitle: Koncert duhovne glazbe "Progledaj srcem" okuplja tisuće ljudi u pjesmi, radosti i proslavi Boga. Koncert je ponajviše zahvala Bogu za velika djela kojima se proslavlja. Otvorimo srca za Gospodina!...
   ageRating: 4
   genre:
   - '112'
@@ -122,9 +141,18 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 840999
+  start: 2026-11-11T04:41:00Z
+  stop: 2026-11-11T05:22:00Z
+  title: Izdvojeno
+  subtitle: Svaki sedmi kršćanin na svijetu danas se suočava s visokim, vrlo visokim ili ekstremnim razinama progona i diskriminacije zbog svoje vjere.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 783483
   - 835378
+  - 841000
   start: 2026-11-11T05:24:00Z
   stop: 2026-11-11T05:32:00Z
   title: Vijesti iz Vatikana
@@ -145,6 +173,7 @@
 - eventId:
   - 783484
   - 835379
+  - 841001
   start: 2026-11-11T05:32:00Z
   stop: 2026-11-11T05:33:00Z
   title: Osobna posveta Bezgrješnom Srcu Marijinu
@@ -159,6 +188,14 @@
   title: Osobna posveta Bezgrješnom Srcu Marijinu
   subtitle: Moliti znači razgovarati s Bogom. Zajedno uz program Laudato TV dodatno osnažite vezu sa svojim Ocem.
   description: Molimo zajedno molitvu Krunice Blažene Djevice Marije.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 841002
+  start: 2026-11-11T05:33:00Z
+  stop: 2026-11-11T05:55:00Z
+  title: Krunica
+  subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
   ageRating: 4
   genre:
   - '160'
@@ -235,7 +272,9 @@
   stop: 2026-11-11T07:56:00Z
   title: Moje vrijeme s Isusom, My time with Jesus
   subtitle: Animirani
-- eventId: 836091
+- eventId:
+  - 836091
+  - 841003
   start: 2026-11-11T07:55:00Z
   stop: 2026-11-11T09:55:00Z
   title: Nema informacija
@@ -272,7 +311,9 @@
   title: 'Papino apostolsko putovanje u Argentinu: Bdijenje s mladima'
   subtitle: Religijski
   description: Papino apostolsko putovanje u Urugvaj, Argentinu i Peru
-- eventId: 836092
+- eventId:
+  - 836092
+  - 841004
   start: 2026-11-11T09:55:00Z
   stop: 2026-11-11T11:55:00Z
   title: Nema informacija
@@ -310,7 +351,9 @@
   title: Čujte i počujte
   subtitle: Religijski
   description: U novoj emisiji ,,Čujte i počujte gost nam je Josip Ćulumović, koji će nam predstaviti svoju pjesmu ,,Psalam 91. Razgovarat ćemo o nadahnuću koje stoji iza pjesme, njezinoj poruci i snazi glazbe koja može dotaknuti ljudsko srce i približiti nas Bogu. Kako nastaju pjesme koje prenose vjeru i koliko glazba može biti sredstvo evangelizacije?
-- eventId: 836093
+- eventId:
+  - 836093
+  - 841005
   start: 2026-11-11T11:55:00Z
   stop: 2026-11-11T13:55:00Z
   title: Nema informacija
@@ -340,7 +383,9 @@
   title: 'Papino apostolsko putovanje u Argentinu: Sveta Misa'
   subtitle: Religijski
   description: Papino apostolsko putovanje u Urugvaj, Argentinu i Peru
-- eventId: 836094
+- eventId:
+  - 836094
+  - 841006
   start: 2026-11-11T13:55:00Z
   stop: 2026-11-11T15:55:00Z
   title: Nema informacija
@@ -379,7 +424,9 @@
   stop: 2026-11-11T15:56:00Z
   title: Vijesti iz Svete Zemlje
   subtitle: Informativni
-- eventId: 836095
+- eventId:
+  - 836095
+  - 841007
   start: 2026-11-11T15:55:00Z
   stop: 2026-11-11T17:55:00Z
   title: Nema informacija
@@ -409,7 +456,9 @@
   title: Čovjek prije svega
   subtitle: Magazin
   description: Svećenik za oltarom - očekivano. Ali svećenik za volanom autobusa? Vlč. Dragutin Goričanec naučio ga je voziti zbog osoba s invaliditetom, kako bi i oni mogli krenuti na put, hodočašće ili susret. No njegov životni put odavno vodi prema onima koje drugi ponekad ne vide - osobama s invaliditetom, beskućnicima, ovisnicima, zatvorenicima i svima kojima je potreban čovjek. Što ga tjera da uvijek iznova krene prema drugome? Zašto nikada nije odustao od ljudi koji žive u problemima? Župnik u Završju, povjerenik za pastoral osoba s invaliditetom i duhovnik Caritasa, čovjek je koji ne pristaje na riječ ''nemoguće . Upoznajte vlč. Dragutina Goričanca u novoj epizodi serijala ''Čovjek prije svega .
-- eventId: 836096
+- eventId:
+  - 836096
+  - 841008
   start: 2026-11-11T17:55:00Z
   stop: 2026-11-11T19:55:00Z
   title: Nema informacija
@@ -447,7 +496,9 @@
   stop: 2026-11-11T19:56:00Z
   title: Izdvojeno
   subtitle: Religijski
-- eventId: 836097
+- eventId:
+  - 836097
+  - 841009
   start: 2026-11-11T19:55:00Z
   stop: 2026-11-11T21:55:00Z
   title: Nema informacija
@@ -491,6 +542,12 @@
   title: Nema informacija
   subtitle: ' '
   ageRating: 4
+- eventId: 841010
+  start: 2026-11-11T21:55:00Z
+  stop: 2026-11-11T23:54:00Z
+  title: Nema informacija
+  subtitle: ' '
+  ageRating: 4
 - eventId:
   - 817470
   - 822712
@@ -530,7 +587,9 @@
   title: Generacija plus
   subtitle: Magazin
   description: Što je Božja volja i kako ju otkriti? Postoji li samo jedan plan kojeg je Bog za mene ,,zacrtao? Što ako pogriješim i odaberem krivi poziv? Može li me Bog pozvati na nešto što ne želim? Što uopće znači imati poziv i odnosi li se to samo na svećenike? U ovoj epizodi Generacije plus razgovaramo o tome kako razlučiti na što te Bog poziva u životu.
-- eventId: 836099
+- eventId:
+  - 836099
+  - 841011
   start: 2026-11-11T23:55:00Z
   stop: 2026-11-12T01:55:00Z
   title: Nema informacija
