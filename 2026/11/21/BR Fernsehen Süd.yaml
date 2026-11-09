@@ -183,12 +183,14 @@
   - 741972
   start: 2026-11-21T06:30:00Z
   stop: 2026-11-21T06:45:00Z
-  title: Tele-Gym (2)
+  title: Tele-Gym (2/8)
   subtitle: Yoga-Pilates-50plus
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 585364
   - 587315
@@ -215,8 +217,8 @@
   - 741974
   start: 2026-11-21T07:40:00Z
   stop: 2026-11-21T07:55:00Z
-  title: Tele-Gym (2)
-  subtitle: Yoga-Pilates-50plus
+  title: Tele-Gym (2/8)
+  subtitle: Prävention Osteoporose
   widescreen: true
   subtitled: true
   hd: true
@@ -315,6 +317,8 @@
   widescreen: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId: 686493
   start: 2026-11-21T08:55:00Z
   stop: 2026-11-21T09:40:00Z
@@ -381,13 +385,14 @@
   start: 2026-11-21T11:00:00Z
   stop: 2026-11-21T12:30:00Z
   title: Ich leih' mir eine Familie
-  subtitle: Spielfilm Deutschland 2007
+  subtitle: Fernsehfilm Deutschland 2007
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 686498
   start: 2026-11-21T11:10:00Z
   stop: 2026-11-21T11:15:00Z
@@ -441,7 +446,7 @@
   - 742048
   - 752496
   start: 2026-11-21T13:00:00Z
-  stop: 2026-11-21T14:45:00Z
+  stop: 2026-11-21T15:00:00Z
   title: Blickpunkt Sport live
   subtitle: 'Fußball 3. Liga: SSV Jahn Regensburg - Würzburger Kickers'
   widescreen: true
@@ -496,12 +501,13 @@
 - eventId:
   - 673701
   - 673748
+  - 833213
   start: 2026-11-21T15:00:00Z
   stop: 2026-11-21T15:30:00Z
   title: |-
     Zwischen Weißwürsten und Football-Stars: München und das
     amerikanische NFL-Spektakel
-  subtitle: '2026'
+  subtitle: Deutschland 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -666,11 +672,13 @@
   start: 2026-11-21T19:15:00Z
   stop: 2026-11-21T21:05:00Z
   title: Genosse Don Camillo
-  subtitle: FR/IT
+  subtitle: Spielfilm Italien/Frankreich 1965
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 582504
   - 586564
@@ -686,6 +694,10 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Spielfilm Deutschland 1960
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 582505
   - 586565
@@ -704,3 +716,6 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
+  genre:
+  - '16'

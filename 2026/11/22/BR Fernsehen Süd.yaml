@@ -9,13 +9,14 @@
   start: 2026-11-22T00:05:00Z
   stop: 2026-11-22T01:35:00Z
   title: Ich leih' mir eine Familie
-  subtitle: Spielfilm Deutschland 2007
+  subtitle: Fernsehfilm Deutschland 2007
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 582915
   - 586703
@@ -164,12 +165,14 @@
   - 770637
   start: 2026-11-22T06:30:00Z
   stop: 2026-11-22T06:45:00Z
-  title: Tele-Gym - 2
+  title: Tele-Gym (2/8)
   subtitle: Fit in den Winter
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 586982
   - 604453
@@ -202,6 +205,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 587132
   - 592241
@@ -213,7 +218,7 @@
   start: 2026-11-22T09:00:00Z
   stop: 2026-11-22T10:00:00Z
   title: Luftsprünge - Klassik zum Staunen mit Juri Tetzlaff
-  subtitle: DE
+  subtitle: Deutschland 2023
   widescreen: true
   subtitled: true
   hd: true
@@ -261,11 +266,13 @@
   start: 2026-11-22T11:50:00Z
   stop: 2026-11-22T13:25:00Z
   title: Checker Tobi und die Reise zu den fliegenden Flüssen
-  subtitle: DE
+  subtitle: Spielfilm Deutschland 2023
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 587275
   - 594874
@@ -282,6 +289,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 597978
   - 607720
@@ -293,6 +302,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1539546
   - 559227
