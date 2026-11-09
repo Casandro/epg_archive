@@ -59,6 +59,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 817767
+  start: 2026-11-09T00:10:00Z
+  stop: 2026-11-09T00:59:03Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
 - eventId: 814537
   start: 2026-11-09T00:10:03Z
   stop: 2026-11-09T00:59:03Z
@@ -102,7 +112,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 815212
+- eventId:
+  - 815212
+  - 817765
   start: 2026-11-09T00:59:03Z
   stop: 2026-11-09T01:09:03Z
   title: Zprávy
