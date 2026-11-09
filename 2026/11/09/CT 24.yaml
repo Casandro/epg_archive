@@ -1212,6 +1212,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 839052
+  start: 2026-11-09T16:29:50Z
+  stop: 2026-11-09T16:32:50Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Znakový jazyk
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 622180
   - 623924
@@ -1345,7 +1357,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 836883
+- eventId:
+  - 836883
+  - 837768
   start: 2026-11-09T17:28:00Z
   stop: 2026-11-09T17:55:00Z
   title: Interview ČT24
