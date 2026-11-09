@@ -191,6 +191,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 584977
   - 587337
@@ -270,6 +272,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId: 686486
   start: 2026-11-21T08:55:00Z
   stop: 2026-11-21T09:25:00Z
@@ -343,6 +347,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId: 686495
   start: 2026-11-21T11:10:00Z
   stop: 2026-11-21T11:15:00Z
@@ -396,7 +401,7 @@
   - 742051
   - 752494
   start: 2026-11-21T13:00:00Z
-  stop: 2026-11-21T14:45:00Z
+  stop: 2026-11-21T15:00:00Z
   title: Blickpunkt Sport live
   subtitle: 'Fußball 3. Liga: SSV Jahn Regensburg - Würzburger Kickers'
   widescreen: true
@@ -453,6 +458,7 @@
   - 673702
   - 673747
   - 833214
+  - 833364
   start: 2026-11-21T15:00:00Z
   stop: 2026-11-21T15:30:00Z
   title: |-
@@ -592,6 +598,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 582516
   - 586535
@@ -610,6 +618,9 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 582517
   - 637174
@@ -637,3 +648,6 @@
   hd: true
   audiodesc: true
   subtitle: Spielfilm Deutschland/Bundesrepublik Deutschland 1962
+  ageRating: 12
+  genre:
+  - '16'

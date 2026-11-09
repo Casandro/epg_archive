@@ -288,7 +288,7 @@
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
 - eventId: 789494
   start: 2026-11-10T05:56:00Z
-  stop: 2026-11-10T06:00:00Z
+  stop: 2026-11-10T05:58:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -495,14 +495,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 789522
   start: 2026-11-10T12:35:00Z
-  stop: 2026-11-10T12:45:00Z
+  stop: 2026-11-10T12:43:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 833103
+- eventId:
+  - 833103
+  - 833562
   start: 2026-11-10T12:43:00Z
   stop: 2026-11-10T12:48:00Z
   title: Poslovne vijesti
@@ -520,7 +522,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 833104
+- eventId:
+  - 833104
+  - 833563
   start: 2026-11-10T12:48:00Z
   stop: 2026-11-10T12:56:00Z
   title: 'Studio 4: Znanost'
@@ -538,7 +542,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 833105
+- eventId:
+  - 833105
+  - 833564
   start: 2026-11-10T12:56:00Z
   stop: 2026-11-10T13:00:00Z
   title: Bez komentara
@@ -946,7 +952,9 @@
   genre:
   - '160'
   description: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
-- eventId: 833106
+- eventId:
+  - 833106
+  - 833565
   start: 2026-11-10T21:11:00Z
   stop: 2026-11-10T21:15:00Z
   title: Bez komentara
@@ -964,7 +972,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 833107
+- eventId:
+  - 833107
+  - 833566
   start: 2026-11-10T21:15:00Z
   stop: 2026-11-10T21:43:00Z
   title: 'Pula: More'
@@ -989,7 +999,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 833108
+- eventId:
+  - 833108
+  - 833567
   start: 2026-11-10T21:43:00Z
   stop: 2026-11-10T22:03:00Z
   title: 'Studio 4: Sportske minute'
@@ -1014,7 +1026,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 833109
+- eventId:
+  - 833109
+  - 833568
   start: 2026-11-10T22:03:00Z
   stop: 2026-11-10T22:07:00Z
   title: '#REPORTAŽE: Kristinka'
@@ -1039,7 +1053,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 833110
+- eventId:
+  - 833110
+  - 833569
   start: 2026-11-10T22:07:00Z
   stop: 2026-11-10T22:10:00Z
   title: Bez komentara
