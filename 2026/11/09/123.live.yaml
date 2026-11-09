@@ -42,6 +42,7 @@
   - 777645
   - 783888
   - 795505
+  - 822194
   start: 2026-11-09T01:20:00Z
   stop: 2026-11-09T03:05:00Z
   title: Drei Schwedinnen in Oberbayern
@@ -70,6 +71,7 @@
   - 777647
   - 783889
   - 795508
+  - 822195
   start: 2026-11-09T03:05:00Z
   stop: 2026-11-09T03:20:00Z
   title: Teleshopping
@@ -80,6 +82,7 @@
   - 777648
   - 783890
   - 795509
+  - 822196
   start: 2026-11-09T03:20:00Z
   stop: 2026-11-09T05:00:00Z
   title: Ehepaar sucht Gleichgesinntes
@@ -122,12 +125,16 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 750405
+- eventId:
+  - 750405
+  - 822197
   start: 2026-11-09T06:05:00Z
   stop: 2026-11-09T06:25:00Z
   title: Teleshopping
   subtitle: Teleshopping
-- eventId: 750406
+- eventId:
+  - 750406
+  - 822198
   start: 2026-11-09T06:25:00Z
   stop: 2026-11-09T11:00:00Z
   title: Teleshopping
@@ -166,7 +173,7 @@
   - '166'
 - eventId: 750427
   start: 2026-11-09T11:00:00Z
-  stop: 2026-11-09T12:00:00Z
+  stop: 2026-11-09T13:00:00Z
   title: Verliebte Ferien in Tirol
   subtitle: 1-2-3.tv Programmvorschau 09.11.2026, 12-13 Uhr
   description: '"Verliebte Ferien in Tirol" ist eine Heimatkomödie von Harald Reinl aus dem Jahr 1971, in der der Architekt Stefan Hellwig, gespielt von Hans-Jürgen Bäumler, nach Tirol geschickt wird, um ein Hartsteinwerk zu planen. Während seines Aufenthalts in einem alten Bauernhaus entwickelt er eine Romanze mit der Tierärztin Karin. Als er erkennt, dass seine Pläne die Bauern vertreiben könnten, ändert er seine Sichtweise und findet eine Lösung, die alle glücklich macht. 1971'
@@ -182,7 +189,7 @@
   - '166'
 - eventId: 750195
   start: 2026-11-09T13:00:00Z
-  stop: 2026-11-09T14:00:00Z
+  stop: 2026-11-09T16:25:00Z
   title: docplum.health Nahrungsergänzungsmittel
   subtitle: 1-2-3.tv Programmvorschau 09.11.2026, 14-15 Uhr
   description: In dieser Stunde erwarten Sie diverse Highlights.
@@ -212,7 +219,9 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 750223
+- eventId:
+  - 750223
+  - 822199
   start: 2026-11-09T16:25:00Z
   stop: 2026-11-09T17:35:00Z
   title: Schlager Total
@@ -231,6 +240,11 @@
   stop: 2026-11-09T18:05:00Z
   title: Teleshopping
   subtitle: Teleshopping
+- eventId: 822200
+  start: 2026-11-09T17:35:00Z
+  stop: 2026-11-09T18:00:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
 - eventId: 796505
   start: 2026-11-09T18:00:00Z
   stop: 2026-11-09T19:00:00Z
@@ -239,13 +253,17 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 750253
+- eventId:
+  - 750253
+  - 822201
   start: 2026-11-09T18:05:00Z
   stop: 2026-11-09T18:40:00Z
   title: Unvergessene Legenden - Heintje
   subtitle: Unvergessene Legenden - Heintje
   description: Die einzigartige Karriere des Kinderstars Heintje steht im Mittelpunkt dieser Ausgabe. Der 12-jährige Heintje wurde zum Weltstar mit seiner Musik als Europas berühmtester Kinderstar. Als Heintje ersang er unerreichte Erfolge. Seine Fan-Clubs sind nach wie vor aktiv. Auf vielen Kontinenten ist er bis heute berühmt. Seine Hits von damals und die Story seines Lebens stehen heute im Mittelpunkt. Mit Heintjes Stimmbruch 1973 endete seine Karriere als Kinderstar. Heute ist er als Hein Simons ein gefragter Sänger. Ge 2020
-- eventId: 750254
+- eventId:
+  - 750254
+  - 822202
   start: 2026-11-09T18:40:00Z
   stop: 2026-11-09T19:15:00Z
   title: Teleshopping
@@ -280,7 +298,9 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 750276
+- eventId:
+  - 750276
+  - 822203
   start: 2026-11-09T21:15:00Z
   stop: 2026-11-09T23:15:00Z
   title: Teleshopping
