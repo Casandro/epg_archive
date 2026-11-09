@@ -1396,14 +1396,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 764625
   start: 2026-11-09T18:55:00Z
-  stop: 2026-11-09T19:00:00Z
+  stop: 2026-11-09T18:59:00Z
   title: Vrijeme Svijet sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 764626
+- eventId:
+  - 764626
+  - 840539
   start: 2026-11-09T18:59:00Z
   stop: 2026-11-09T19:00:00Z
   title: HAK - promet info
@@ -1545,7 +1547,7 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 764638
   start: 2026-11-09T22:20:00Z
-  stop: 2026-11-09T22:29:00Z
+  stop: 2026-11-09T22:30:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -1567,6 +1569,14 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+- eventId: 840540
+  start: 2026-11-09T22:30:00Z
+  stop: 2026-11-09T22:49:00Z
+  title: 'Studio 4: Jutarnji intervju'
+  subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 839996
   start: 2026-11-09T22:49:00Z
   stop: 2026-11-09T22:54:00Z
@@ -1582,6 +1592,14 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 840541
+  start: 2026-11-09T22:50:00Z
+  stop: 2026-11-09T22:54:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 764641
   start: 2026-11-09T22:54:00Z
   stop: 2026-11-09T23:00:00Z
@@ -1593,7 +1611,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 764642
   start: 2026-11-09T23:00:00Z
-  stop: 2026-11-09T23:09:00Z
+  stop: 2026-11-09T23:10:00Z
   title: Vijesti flash
   subtitle: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   ageRating: 4
@@ -1606,7 +1624,9 @@
   title: Vijesti iz kulture
   subtitle: ' '
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 764643
+- eventId:
+  - 764643
+  - 840542
   start: 2026-11-09T23:10:00Z
   stop: 2026-11-09T23:17:00Z
   title: Vijesti iz kulture
