@@ -502,7 +502,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 789523
+- eventId:
+  - 789523
+  - 832917
   start: 2026-11-10T12:45:00Z
   stop: 2026-11-10T12:50:00Z
   title: Poslovne vijesti
@@ -511,7 +513,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 789524
+- eventId:
+  - 789524
+  - 832918
   start: 2026-11-10T12:50:00Z
   stop: 2026-11-10T13:00:00Z
   title: 'Studio 4: Znanost'
@@ -612,13 +616,19 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 789535
   start: 2026-11-10T14:35:00Z
-  stop: 2026-11-10T15:00:00Z
+  stop: 2026-11-10T14:55:00Z
   title: 'Studio 4: Sportske minute'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+- eventId: 832638
+  start: 2026-11-10T14:55:00Z
+  stop: 2026-11-10T15:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 789537
   start: 2026-11-10T15:00:00Z
   stop: 2026-11-10T15:15:00Z
@@ -909,14 +919,16 @@
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
 - eventId: 789572
   start: 2026-11-10T20:45:00Z
-  stop: 2026-11-10T21:13:00Z
+  stop: 2026-11-10T21:11:00Z
   title: 'DW: U dobroj formi'
   subtitle: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
   ageRating: 4
   genre:
   - '160'
   description: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
-- eventId: 789574
+- eventId:
+  - 789574
+  - 832921
   start: 2026-11-10T21:13:00Z
   stop: 2026-11-10T21:16:00Z
   title: Bez komentara
@@ -934,6 +946,14 @@
   genre:
   - '160'
   description: U sezoni listova isplovljavamo s umaškim ribarom, hobotnicama hvatamo plavog raka, jedrimo s pulskom mladom nadom, a ugostila nas je obitelj koja njeguje zanat u izumiranju, zadnji brodski bokoštitnici od prirodnih materijala nastaju na Rabu.... U Plavome receptu srdelu kombiniramo s motarom, pedoćima i fažolom.
+- eventId: 832922
+  start: 2026-11-10T21:16:00Z
+  stop: 2026-11-10T21:43:00Z
+  title: 'Pula: More'
+  subtitle: U sezoni listova isplovljavamo s umaškim ribarom, hobotnicama hvatamo plavog raka, jedrimo s pulskom mladom nadom, a ugostila nas je obitelj koja njeguje zanat u izumiranju, zadnji brodski.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 789576
   start: 2026-11-10T21:44:00Z
   stop: 2026-11-10T22:04:00Z
@@ -943,6 +963,14 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+- eventId: 832923
+  start: 2026-11-10T21:44:00Z
+  stop: 2026-11-10T22:03:00Z
+  title: Sportske minute
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 789577
   start: 2026-11-10T22:04:00Z
   stop: 2026-11-10T22:08:00Z
@@ -952,7 +980,17 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 789578
+- eventId: 832924
+  start: 2026-11-10T22:04:00Z
+  stop: 2026-11-10T22:08:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 789578
+  - 832925
   start: 2026-11-10T22:08:00Z
   stop: 2026-11-10T22:10:00Z
   title: Bez komentara
