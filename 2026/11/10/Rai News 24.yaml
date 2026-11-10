@@ -268,12 +268,16 @@
   stop: 2026-11-10T15:00:00Z
   title: POMERIGGIO 24
   subtitle: .
-- eventId: 794030
+- eventId:
+  - 645470
+  - 794030
   start: 2026-11-10T15:00:00Z
   stop: 2026-11-10T15:26:44Z
   title: TITOLI + TG GIORNO
   subtitle: .
-- eventId: 836954
+- eventId:
+  - 645352
+  - 836954
   start: 2026-11-10T15:26:44Z
   stop: 2026-11-10T15:30:00Z
   title: METEO
@@ -283,17 +287,23 @@
   stop: 2026-11-10T15:30:00Z
   title: METEO
   subtitle: .
-- eventId: 794032
+- eventId:
+  - 645601
+  - 794032
   start: 2026-11-10T15:30:00Z
   stop: 2026-11-10T16:00:00Z
   title: POMERIGGIO 24 + RUBR. LIVE + RUBR. SOCIA
   subtitle: POMERIGGIO 24 + RUBR. LIVE + RUBR. SOCIAL ROOM - ,
-- eventId: 794033
+- eventId:
+  - 645602
+  - 794033
   start: 2026-11-10T16:00:00Z
   stop: 2026-11-10T16:30:00Z
   title: TITOLI + TG GIORNO
   subtitle: .
-- eventId: 794034
+- eventId:
+  - 645603
+  - 794034
   start: 2026-11-10T16:30:00Z
   stop: 2026-11-10T16:33:19Z
   title: SERA 24 ANTEPRIMA
@@ -303,27 +313,37 @@
   stop: 2026-11-10T17:00:00Z
   title: ECONOMIA 24
   subtitle: .
-- eventId: 836955
+- eventId:
+  - 645604
+  - 836955
   start: 2026-11-10T16:33:19Z
   stop: 2026-11-10T17:00:00Z
   title: ECONOMIA 24
   subtitle: .
-- eventId: 794036
+- eventId:
+  - 645605
+  - 794036
   start: 2026-11-10T17:00:00Z
   stop: 2026-11-10T17:30:00Z
   title: SERA 24
   subtitle: .
-- eventId: 794037
+- eventId:
+  - 645606
+  - 794037
   start: 2026-11-10T17:30:00Z
   stop: 2026-11-10T18:00:00Z
   title: SERA 24
   subtitle: .
-- eventId: 794043
+- eventId:
+  - 645679
+  - 794043
   start: 2026-11-10T18:00:00Z
   stop: 2026-11-10T18:30:00Z
   title: TG EDIZIONE PRINCIPALE
   subtitle: .
-- eventId: 794044
+- eventId:
+  - 645680
+  - 794044
   start: 2026-11-10T18:30:00Z
   stop: 2026-11-10T18:45:48Z
   title: SERA 24 OFF
@@ -333,17 +353,26 @@
   stop: 2026-11-10T19:00:00Z
   title: RULLO SPORT 24
   subtitle: .
-- eventId: 836956
+- eventId:
+  - 645681
+  - 836956
   start: 2026-11-10T18:45:48Z
   stop: 2026-11-10T19:00:00Z
   title: RULLO SPORT 24
+  subtitle: .
+- eventId: 645682
+  start: 2026-11-10T19:00:00Z
+  stop: 2026-11-10T19:26:49Z
+  title: TG LIS + TG SERA
   subtitle: .
 - eventId: 794046
   start: 2026-11-10T19:00:00Z
   stop: 2026-11-10T19:26:49Z
   title: TG LIS + SERA 24
   subtitle: .
-- eventId: 836957
+- eventId:
+  - 645683
+  - 836957
   start: 2026-11-10T19:26:49Z
   stop: 2026-11-10T19:30:00Z
   title: METEO
@@ -353,12 +382,16 @@
   stop: 2026-11-10T19:30:00Z
   title: METEO
   subtitle: .
-- eventId: 794048
+- eventId:
+  - 645684
+  - 794048
   start: 2026-11-10T19:30:00Z
   stop: 2026-11-10T19:44:54Z
   title: SOMMARIO + TG SERA
   subtitle: .
-- eventId: 836958
+- eventId:
+  - 645685
+  - 836958
   start: 2026-11-10T19:44:54Z
   stop: 2026-11-10T20:00:00Z
   title: FOCUS 24
@@ -368,12 +401,16 @@
   stop: 2026-11-10T20:00:00Z
   title: FOCUS 24
   subtitle: .
-- eventId: 794050
+- eventId:
+  - 645686
+  - 794050
   start: 2026-11-10T20:00:00Z
   stop: 2026-11-10T20:30:00Z
   title: TITOLI + TG SERA
   subtitle: .
-- eventId: 794051
+- eventId:
+  - 645687
+  - 794051
   start: 2026-11-10T20:30:00Z
   stop: 2026-11-10T20:45:40Z
   title: FOCUS ESTERI DIRETTA
@@ -383,42 +420,61 @@
   stop: 2026-11-10T21:00:00Z
   title: FUTURO 24
   subtitle: .
-- eventId: 836959
+- eventId:
+  - 645688
+  - 836959
   start: 2026-11-10T20:45:40Z
   stop: 2026-11-10T21:00:00Z
   title: AI NEWS 24
   subtitle: .
-- eventId: 794057
+- eventId:
+  - 645498
+  - 794057
   start: 2026-11-10T21:00:00Z
   stop: 2026-11-10T21:30:00Z
   title: TITOLI + TG SERA
+  subtitle: .
+- eventId: 645499
+  start: 2026-11-10T21:30:00Z
+  stop: 2026-11-10T22:00:00Z
+  title: SPOTLIGHT
   subtitle: .
 - eventId: 794058
   start: 2026-11-10T21:30:00Z
   stop: 2026-11-10T22:00:00Z
   title: SPOTLIVE STORIE
   subtitle: .
-- eventId: 794059
+- eventId:
+  - 645500
+  - 794059
   start: 2026-11-10T22:00:00Z
   stop: 2026-11-10T22:30:00Z
   title: NOTTE 24 - RASSEGNA STAMPA
   subtitle: .
-- eventId: 794060
+- eventId:
+  - 645501
+  - 794060
   start: 2026-11-10T22:30:00Z
   stop: 2026-11-10T23:00:00Z
   title: NOTTE 24 - RASSEGNA STAMPA
   subtitle: .
-- eventId: 794061
+- eventId:
+  - 645502
+  - 794061
   start: 2026-11-10T23:00:00Z
   stop: 2026-11-10T23:25:00Z
   title: TG NOTTE
   subtitle: .
-- eventId: 794062
+- eventId:
+  - 645503
+  - 794062
   start: 2026-11-10T23:25:00Z
   stop: 2026-11-10T23:30:00Z
   title: METEO
   subtitle: .
-- eventId: 794063
+- eventId:
+  - 645504
+  - 794063
   start: 2026-11-10T23:30:00Z
   stop: 2026-11-11T00:00:00Z
   title: SPOTLIGHT
