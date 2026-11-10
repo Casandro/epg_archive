@@ -489,15 +489,9 @@
   - '149'
 - eventId:
   - 654369
+  - 656226
   - 656565
   - 748748
-  start: 2026-11-10T17:00:00Z
-  stop: 2026-11-10T17:10:00Z
-  title: World News
-  description: The flagship news programme of TVP World, created for Poles living abroad and for foreigners looking for information about Poland. The show includes information on politics, economy, culture, history, science, new technologies, sport.
-  genre:
-  - '149'
-- eventId: 656226
   start: 2026-11-10T17:00:00Z
   stop: 2026-11-10T17:10:00Z
   title: World News
@@ -526,20 +520,26 @@
   ageRating: 12
   genre:
   - '34'
-- eventId: 656252
+- eventId:
+  - 655644
+  - 656252
   start: 2026-11-10T18:00:00Z
   stop: 2026-11-10T18:15:00Z
   title: World News Flash
   description: Summary of the most important information. The programme provides the most important information in an accessible way.
   genre:
   - '149'
-- eventId: 656253
+- eventId:
+  - 655645
+  - 656253
   start: 2026-11-10T18:15:00Z
   stop: 2026-11-10T18:20:00Z
   title: World News Online
   genre:
   - '149'
-- eventId: 656254
+- eventId:
+  - 655646
+  - 656254
   start: 2026-11-10T18:20:00Z
   stop: 2026-11-10T18:30:00Z
   title: Break the Fake
@@ -569,11 +569,29 @@
   start: 2026-11-10T19:30:00Z
   stop: 2026-11-10T19:32:00Z
   title: Weather
+- eventId:
+  - 655651
+  - 664127
+  start: 2026-11-10T19:32:00Z
+  stop: 2026-11-10T20:00:00Z
+  title: The Anatomy of Disinformation - ep. 97
+  genre:
+  - '34'
+  ageRating: 12
 - eventId: 656259
   start: 2026-11-10T19:32:00Z
   stop: 2026-11-10T20:00:00Z
   title: The Anatomy of Disinformation - ep. 97
   ageRating: 12
+  genre:
+  - '149'
+- eventId:
+  - 655652
+  - 664128
+  start: 2026-11-10T20:00:00Z
+  stop: 2026-11-10T20:10:00Z
+  title: World News
+  description: The flagship news programme of TVP World, created for Poles living abroad and for foreigners looking for information about Poland. The show includes information on politics, economy, culture, history, science, new technologies, sport.
   genre:
   - '149'
 - eventId: 656260
@@ -589,12 +607,32 @@
   title: World News Online
   genre:
   - '149'
+- eventId:
+  - 655654
+  - 664130
+  start: 2026-11-10T20:15:00Z
+  stop: 2026-11-10T20:30:00Z
+  title: Eastern Express
+  ageRating: 12
+  genre:
+  - '34'
 - eventId: 656262
   start: 2026-11-10T20:15:00Z
   stop: 2026-11-10T20:30:00Z
   title: World Talks
   genre:
   - '34'
+- eventId:
+  - 655582
+  - 655655
+  - 664087
+  - 664131
+  start: 2026-11-10T20:30:00Z
+  stop: 2026-11-10T20:35:00Z
+  title: World News Flash
+  description: Summary of the most important information. The programme provides the most important information in an accessible way.
+  genre:
+  - '149'
 - eventId: 656263
   start: 2026-11-10T20:30:00Z
   stop: 2026-11-10T20:35:00Z
@@ -602,6 +640,18 @@
   description: Summary of the most important information. The programme provides the most important information in an accessible way.
   genre:
   - '149'
+- eventId:
+  - 655583
+  - 655656
+  - 664088
+  - 664132
+  start: 2026-11-10T20:35:00Z
+  stop: 2026-11-10T21:00:00Z
+  title: How We Got Here - ep. 325
+  description: The flagship news programme of TVP World, created for Poles living abroad and for foreigners looking for information about Poland. The show includes information on politics, economy, culture, history, science, new technologies, sport.
+  genre:
+  - '34'
+  ageRating: 12
 - eventId: 656264
   start: 2026-11-10T20:35:00Z
   stop: 2026-11-10T21:00:00Z
@@ -609,6 +659,16 @@
   ageRating: 12
   genre:
   - '34'
+- eventId:
+  - 655677
+  - 655779
+  - 778391
+  start: 2026-11-10T21:00:00Z
+  stop: 2026-11-10T21:15:00Z
+  title: World News
+  description: The flagship news programme of TVP World, created for Poles living abroad and for foreigners looking for information about Poland. The show includes information on politics, economy, culture, history, science, new technologies, sport.
+  genre:
+  - '149'
 - eventId: 656270
   start: 2026-11-10T21:00:00Z
   stop: 2026-11-10T21:15:00Z
@@ -616,61 +676,110 @@
   description: The flagship news programme of TVP World, created for Poles living abroad and for foreigners looking for information about Poland. The show includes information on politics, economy, culture, history, science, new technologies, sport.
   genre:
   - '149'
-- eventId: 656271
+- eventId:
+  - 655678
+  - 656271
   start: 2026-11-10T21:15:00Z
   stop: 2026-11-10T21:25:00Z
   title: Military mind
   ageRating: 16
-- eventId: 656272
+- eventId:
+  - 655679
+  - 656272
   start: 2026-11-10T21:25:00Z
   stop: 2026-11-10T21:30:00Z
   title: World News Online
   genre:
   - '149'
-- eventId: 656273
+- eventId:
+  - 655680
+  - 656273
   start: 2026-11-10T21:30:00Z
   stop: 2026-11-10T21:40:00Z
   title: World News Flash
   description: Summary of the most important information. The programme provides the most important information in an accessible way.
   genre:
   - '149'
-- eventId: 656274
+- eventId:
+  - 655681
+  - 656274
   start: 2026-11-10T21:40:00Z
   stop: 2026-11-10T21:55:00Z
   title: Pulse of Culture - ep. 418
   ageRating: 12
   genre:
   - '34'
-- eventId: 656275
+- eventId:
+  - 655682
+  - 656275
   start: 2026-11-10T21:55:00Z
   stop: 2026-11-10T22:00:00Z
   title: Weather
-- eventId: 656276
+- eventId:
+  - 655683
+  - 656276
   start: 2026-11-10T22:00:00Z
   stop: 2026-11-10T22:20:00Z
   title: News in Depth - ep. 312
   genre:
   - '149'
-- eventId: 656277
+- eventId:
+  - 655684
+  - 656277
   start: 2026-11-10T22:20:00Z
   stop: 2026-11-10T22:25:00Z
   title: World News Online
   genre:
   - '149'
-- eventId: 656278
+- eventId:
+  - 655685
+  - 656278
   start: 2026-11-10T22:25:00Z
   stop: 2026-11-10T22:40:00Z
   title: Ukraine Brief
+  genre:
+  - '149'
+- eventId:
+  - 655686
+  - 655707
+  - 664139
+  - 778405
+  start: 2026-11-10T22:40:00Z
+  stop: 2026-11-10T22:45:00Z
+  title: World News Flash
+  description: Summary of the most important information. The programme provides the most important information in an accessible way.
   genre:
   - '149'
 - eventId: 656279
   start: 2026-11-10T22:40:00Z
   stop: 2026-11-10T22:45:00Z
   title: Weather
+- eventId:
+  - 655687
+  - 655708
+  - 664140
+  - 778406
+  start: 2026-11-10T22:45:00Z
+  stop: 2026-11-10T23:00:00Z
+  title: World Talks - Rozmowa Wybrana
+  ageRating: 12
+  genre:
+  - '149'
 - eventId: 656280
   start: 2026-11-10T22:45:00Z
   stop: 2026-11-10T23:00:00Z
   title: World Talks - Rozmowa Wybrana
+  genre:
+  - '149'
+- eventId:
+  - 655688
+  - 655709
+  - 664141
+  - 778407
+  start: 2026-11-10T23:00:00Z
+  stop: 2026-11-10T23:30:00Z
+  title: World News Flash
+  description: The flagship news programme of TVP World, created for Poles living abroad and for foreigners looking for information about Poland. The show includes information on politics, economy, culture, history, science, new technologies, sport.
   genre:
   - '149'
 - eventId: 656281
@@ -680,10 +789,29 @@
   description: The flagship news programme of TVP World, created for Poles living abroad and for foreigners looking for information about Poland. The show includes information on politics, economy, culture, history, science, new technologies, sport.
   genre:
   - '149'
+- eventId:
+  - 655689
+  - 655710
+  - 664142
+  - 778408
+  start: 2026-11-10T23:30:00Z
+  stop: 2026-11-10T23:32:00Z
+  title: World News Online
+  genre:
+  - '149'
 - eventId: 656282
   start: 2026-11-10T23:30:00Z
   stop: 2026-11-10T23:32:00Z
   title: Weather
+- eventId:
+  - 655690
+  - 664143
+  start: 2026-11-10T23:32:00Z
+  stop: 2026-11-11T00:00:00Z
+  title: The Anatomy of Disinformation - ep. 97
+  ageRating: 12
+  genre:
+  - '149'
 - eventId: 656283
   start: 2026-11-10T23:32:00Z
   stop: 2026-11-11T00:00:00Z
