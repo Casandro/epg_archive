@@ -122,15 +122,9 @@
   subtitle: Fascynująca muzyczna podróż przez współczesną i tradycyjną Polskę, która ukazuje, jak wielkie znaczenie dla tożsamości ma sztuka. W tym wyjątkowym projekcie bierze udział szesnaścioro artystów.
   genre:
   - '96'
-- eventId: 654862
-  start: 2026-11-12T04:30:00Z
-  stop: 2026-11-12T05:00:00Z
-  title: Rzeczpospolita Nieodbudowana. Warszawa
-  description: Zapraszamy w podróż po Rzeczypospolitej Nieodbudowanej - do miejsc celowo zniszczonych i świadomie nieodbudowanych przez dwa totalitaryzmy - narodowy socjalizm i komunizm. W cyklu traktujemy nieistniejące już zabytki jako punkt wyjścia.
-  ageRating: 12
-  genre:
-  - '149'
-- eventId: 707036
+- eventId:
+  - 654862
+  - 707036
   start: 2026-11-12T04:30:00Z
   stop: 2026-11-12T05:00:00Z
   title: Rzeczpospolita nieodbudowana 1 (odc. 1)
@@ -161,7 +155,11 @@
   start: 2026-11-12T05:30:00Z
   stop: 2026-11-12T06:00:00Z
   title: Słownik polsko@polski - talk - show prof. Jana Miodka (701)
-  description: Program edukacyjny o języku polskim z udziałem językoznawcy prof. Jana Miodka. Asystuje mu dr Justyna Konarska - Janus, językoznawczyni. Uczestnicy, za pośrednictwem komunikatorów internetowych, zadają pytania.
+  description: |-
+    Tytuł oryginalny: Słownik polsko@polski
+    PL, 2026
+    Reżyseria: Witold Świętnicki
+    W tym odcinku: Synonim słowa "ajuści". Co to jest "webinar"? Różne funkcje słowa "się". Etymologia nazwy miejscowości Dzierżoniów. Czym zajmowała się "przyzwoitka"? Jakie są różnice etymologiczne pomiędzy słowami "liść" a "list"? Pochodzenie nazwiska Wojtyła. Jak powinna wyglądać werbalna komunikacja lekarza z pacjentem?
   subtitle: Program poświęcony kulturze języka polskiego, realizowany za pomocą Internetu. Jest to swoisty przegląd błędów językowych popełnionych w danym tygodniu przez dziennikarzy, internautów i polityków.
   genre:
   - '82'
@@ -190,15 +188,9 @@
   genre:
   - '149'
   subtitle: Program na żywo, prowadzony przez pary znanych osób. To swoiste kompendium wiedzy o przyzwyczajeniach, różnicach w postrzeganiu otaczającej rzeczywistości i sposobach bycia.
-- eventId: 654900
-  start: 2026-11-12T06:55:00Z
-  stop: 2026-11-12T10:40:00Z
-  title: Pytanie na śniadanie
-  description: Program służy pogłębianiu znajomości i upowszechnianiu kultury w zakresie muzyki, literatury, teatru i tańca. Jest źródłem wiedzy na temat wydarzeń także natury ekonomicznej i społecznej.
-  ageRating: 12
-  genre:
-  - '149'
-- eventId: 707049
+- eventId:
+  - 654900
+  - 707049
   start: 2026-11-12T06:55:00Z
   stop: 2026-11-12T10:35:00Z
   title: Pytanie na śniadanie
@@ -207,6 +199,16 @@
   genre:
   - '149'
   subtitle: Program na żywo, prowadzony przez pary znanych osób. To swoiste kompendium wiedzy o przyzwyczajeniach, różnicach w postrzeganiu otaczającej rzeczywistości i sposobach bycia.
+- eventId: 659741
+  start: 2026-11-12T10:35:00Z
+  stop: 2026-11-12T11:00:00Z
+  title: Stacja innowacja
+  subtitle: Program przedstawia polskich wynalazców pracujących na uczelniach, w firmach i instytucjach badawczych. Ich wynalazki podbijają światowe rynki, wpływając na życie ludzi, poprawiając je i udoskonalając.
+  description: |
+    Tytuł oryginalny: Stacja innowacja
+    PL, 2021
+  genre:
+  - '34'
 - eventId: 707065
   start: 2026-11-12T10:35:00Z
   stop: 2026-11-12T11:00:00Z
@@ -253,11 +255,16 @@
   start: 2026-11-12T11:10:00Z
   stop: 2026-11-12T12:50:00Z
   title: Pytanie na śniadanie - pobudka
-  description: (AD) (N) Kinowa wersja perypetii mieszkańców gminy Wilkowyje. Pewnego dnia w domu Lucy zjawia się nieproszony gość - jej były mąż Louis. Mężczyzna oświadcza Lucy, że nadal ją kocha, żyć bez niej nie może, a co więcej nadal jest jej
+  description: |-
+    Tytuł oryginalny: Ranczo Wilkowyje
+    PL, 2007
+    Reżyseria: Wojciech Adamczyk
+    Występują: Ilona Ostrowska, Paweł Królikowski, Cezary Żak, Artur Barciś, Radosław Pazura, Marta Lipińska
+    Kinowa wersja perypetii mieszkańców gminy Wilkowyje nawiązująca do licznych wydarzeń we wsi przedstawionych wcześniej w serialu emitowanym na antenie Jedynki, który cieszył się ogromną popularnością wśród widzów. Do Wilkowyj nieoczekiwanie wraca Czerepach, który odszedł stamtąd w niesławie po aferze z lokalnym radiem. Teraz, niestety, znów triumfuje, gdyż przybywa jako kontroler Izby Obrachunkowej.
   ageRating: 12
   genre:
   - '149'
-  subtitle: Program na żywo, prowadzony przez pary znanych osób. To swoiste kompendium wiedzy o przyzwyczajeniach, różnicach w postrzeganiu otaczającej rzeczywistości i sposobach bycia.
+  subtitle: Lucy i Kusy są w sobie zakochani. Ich sielankę przerywa przybycie jej męża ze Stanów Zjednoczonych. Okazuje się, że rozwód nie został do końca przeprowadzony. Louis chce odzyskać uczucia żony.
 - eventId: 707067
   start: 2026-11-12T11:10:00Z
   stop: 2026-11-12T12:50:00Z
@@ -272,14 +279,9 @@
   genre:
   - '20'
   subtitle: Lucy i Kusy są w sobie zakochani. Ich sielankę przerywa przybycie jej męża ze Stanów Zjednoczonych. Okazuje się, że rozwód nie został do końca przeprowadzony. Louis chce odzyskać uczucia żony.
-- eventId: 654991
-  start: 2026-11-12T12:50:00Z
-  stop: 2026-11-12T13:45:00Z
-  title: Poświęciłem wszystko, życie poświęciłem - Jerzy Stuhr
-  description: Jerzy Stuhr (1947 - 2024) uznawany jest za jednego z najwybitniejszych i najpopularniejszych polskich aktorów. Aktor teatralny, dubbingowy i filmowy. Reżyser, pedagog, pisarz. Rektor Państwowej Wyższej Szkoły Teatralnej w Krakowie.
-  genre:
-  - '112'
-- eventId: 707084
+- eventId:
+  - 654991
+  - 707084
   start: 2026-11-12T12:50:00Z
   stop: 2026-11-12T13:45:00Z
   title: '"Poświęciłem wszystko, życie poświęciłem" - Jerzy Stuhr'
