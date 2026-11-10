@@ -642,7 +642,7 @@
   - 653044
   - 860930
   start: 2026-11-10T13:03:00Z
-  stop: 2026-11-10T13:30:00Z
+  stop: 2026-11-10T13:30:24Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
   description: |-
@@ -680,6 +680,30 @@
   subtitled: true
   hd: true
 - eventId:
+  - 621088
+  - 623590
+  - 637031
+  - 640281
+  - 653884
+  - 716426
+  - 721790
+  - 731237
+  - 740491
+  - 747085
+  start: 2026-11-10T13:30:24Z
+  stop: 2026-11-10T13:34:24Z
+  title: Události v regionech
+  subtitle: Hlavní regionální zpravodajská relace České televize. Souhrn nejdůležitějších událostí dne na jižní Moravě a ve Zlínském kraji.
+  description: |-
+    HDTV
+    Znakový jazyk
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId:
   - 597509
   - 619429
   - 653046
@@ -697,6 +721,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 640480
+  start: 2026-11-10T13:34:24Z
+  stop: 2026-11-10T14:00:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: V Bratislavě zasedala slovenská a česká vláda; Nová protipovodňová opatření pro Brno (příspěvek TS Brno).'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 860975
   - 861138
@@ -805,7 +840,7 @@
   start: 2026-11-10T14:39:50Z
   stop: 2026-11-10T15:00:00Z
   title: Ekonomika ČT24
-  subtitle: Nejdůležitější zprávy ze světa peněz každý všední den.
+  subtitle: 'Témata: Vývoj inflace v říjnu (komentář ekonoma); Očekávání českých firem a podnikatelů.'
   description: |-
     HDTV
     Skryté titulky
@@ -973,6 +1008,7 @@
   - 597572
   - 619817
   - 635894
+  - 640478
   - 653356
   - 685169
   - 690583
