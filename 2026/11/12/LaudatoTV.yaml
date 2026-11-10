@@ -10,17 +10,14 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 785160
+- eventId:
+  - 785160
+  - 850924
   start: 2026-11-12T02:22:00Z
   stop: 2026-11-12T02:46:00Z
   title: Najveći dar, Najveći dar
-  subtitle: Religijski
-  description: U ,,Najvećem daru i dalje govorimo o nastavku euharistijske molitve. Vlč. Tomislav Hačko govori o uskliku Tajna vjere, te objašnjava što svojim molitvama i gestama izražavamo u ovom trenutku nakon pretvorbe kruha i vina na oltaru u tijelo i krv Kristovu.
-- eventId: 850924
-  start: 2026-11-12T02:22:00Z
-  stop: 2026-11-12T02:46:00Z
-  title: Najveći dar
   subtitle: U "Najvećem daru" i dalje govorimo o nastavku euharistijske molitve. Vlč.
+  description: U ,,Najvećem daru i dalje govorimo o nastavku euharistijske molitve. Vlč. Tomislav Hačko govori o uskliku Tajna vjere, te objašnjava što svojim molitvama i gestama izražavamo u ovom trenutku nakon pretvorbe kruha i vina na oltaru u tijelo i krv Kristovu.
   ageRating: 4
   genre:
   - '160'
@@ -75,12 +72,13 @@
   description: Osobna posveta Bezgrješnom Srcu Marijinu
 - eventId: 850929
   start: 2026-11-12T05:33:00Z
-  stop: 2026-11-12T05:34:00Z
+  stop: 2026-11-12T05:56:00Z
   title: Osobna posveta Bezgrješnom Srcu Marijinu
   subtitle: Moliti znači razgovarati s Bogom. Zajedno uz program Laudato TV dodatno osnažite vezu sa svojim Ocem.
   ageRating: 4
   genre:
   - '160'
+  description: Osobna posveta Bezgrješnom Srcu Marijinu
 - eventId: 850930
   start: 2026-11-12T05:34:00Z
   stop: 2026-11-12T05:56:00Z
@@ -95,13 +93,17 @@
   title: Nema informacija
   subtitle: ' '
   ageRating: 4
-- eventId: 780984
+- eventId:
+  - 780984
+  - 851665
   start: 2026-11-12T06:00:00Z
   stop: 2026-11-12T06:45:00Z
   title: 'Sveta Misa: Svetište Majke Božje Remetske, Zagreb, Sveta Misa: Zagreb'
   subtitle: Religijski
   description: Sveta Misa iz Svetišta Majke Božje Remetske u Zagrebu.
-- eventId: 746229
+- eventId:
+  - 746229
+  - 851666
   start: 2026-11-12T06:45:00Z
   stop: 2026-11-12T07:00:00Z
   title: Pod smokvom
@@ -112,7 +114,9 @@
   title: Nema informacija
   subtitle: ' '
   ageRating: 4
-- eventId: 746230
+- eventId:
+  - 746230
+  - 851667
   start: 2026-11-12T08:00:00Z
   stop: 2026-11-12T09:00:00Z
   title: Živa riječ
@@ -129,7 +133,9 @@
   title: Nema informacija
   subtitle: ' '
   ageRating: 4
-- eventId: 746250
+- eventId:
+  - 746250
+  - 851671
   start: 2026-11-12T13:00:00Z
   stop: 2026-11-12T14:30:00Z
   title: 'Papino apostolsko putovanje u Peru: Susret s predstavnicima vlasti'
@@ -141,13 +147,17 @@
   title: Nema informacija
   subtitle: ' '
   ageRating: 4
-- eventId: 746251
+- eventId:
+  - 746251
+  - 851672
   start: 2026-11-12T14:30:00Z
   stop: 2026-11-12T15:20:00Z
   title: 'Papino apostolsko putovanje u Peru: Susret s biskupima'
   subtitle: Religijski
   description: Papino apostolsko putovanje u Urugvaj, Argentinu i Peru
-- eventId: 746255
+- eventId:
+  - 746255
+  - 851674
   start: 2026-11-12T15:20:00Z
   stop: 2026-11-12T16:30:00Z
   title: Papino apostolsko putovanje u Peru...
@@ -165,13 +175,21 @@
   title: Papino apostolsko putovanje u Peru...
   subtitle: Religijski
   description: Papino apostolsko putovanje u Urugvaj, Argentinu i Peru
+- eventId: 851675
+  start: 2026-11-12T16:30:00Z
+  stop: 2026-11-12T17:56:00Z
+  title: Papino apostolsko putovanje u Peru...
+  subtitle: Religijski
+  description: Papino apostolsko putovanje u Urugvaj, Argentinu i Peru
 - eventId: 850937
   start: 2026-11-12T17:56:00Z
   stop: 2026-11-12T19:56:00Z
   title: Nema informacija
   subtitle: ' '
   ageRating: 4
-- eventId: 746260
+- eventId:
+  - 746260
+  - 851676
   start: 2026-11-12T18:00:00Z
   stop: 2026-11-12T19:05:00Z
   title: 'Sveta misa: Sveti Duh, Zagreb'
@@ -183,7 +201,9 @@
   title: Nema informacija
   subtitle: ' '
   ageRating: 4
-- eventId: 840942
+- eventId:
+  - 840942
+  - 851677
   start: 2026-11-12T20:00:00Z
   stop: 2026-11-12T21:00:00Z
   title: 50 godina Župe Duha Svetoga i 25 godina crkve Sveta Mati Slobode
