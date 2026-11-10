@@ -388,6 +388,7 @@
   - 841042
   - 842237
   - 842823
+  - 844693
   start: 2026-11-11T03:00:00Z
   stop: 2026-11-11T04:30:00Z
   title: Reportazhe
@@ -464,6 +465,7 @@
   - 841043
   - 842238
   - 842824
+  - 844694
   start: 2026-11-11T04:30:00Z
   stop: 2026-11-11T05:10:00Z
   title: Muzike Top 10
@@ -511,6 +513,7 @@
   - 841044
   - 842239
   - 842825
+  - 844695
   start: 2026-11-11T05:10:00Z
   stop: 2026-11-11T05:40:00Z
   title: Muzike Top 10
@@ -537,6 +540,7 @@
   - 841045
   - 842240
   - 842826
+  - 844696
   start: 2026-11-11T05:40:00Z
   stop: 2026-11-11T06:00:00Z
   title: Muzikë për fëmijë
@@ -565,6 +569,14 @@
   - 842827
   start: 2026-11-11T06:00:00Z
   stop: 2026-11-11T08:05:00Z
+  title: Pastel
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 844697
+  start: 2026-11-11T06:00:00Z
+  stop: 2026-11-11T08:00:00Z
   title: Pastel
   subtitle: ' '
   ageRating: 4
@@ -802,6 +814,7 @@
   - 841047
   - 842274
   - 842828
+  - 844698
   start: 2026-11-11T08:05:00Z
   stop: 2026-11-11T10:00:00Z
   title: Programi i mëngjesit
@@ -898,6 +911,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 844699
+  start: 2026-11-11T10:00:00Z
+  stop: 2026-11-11T11:10:00Z
+  title: Daily Click
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 635835
   - 645791
@@ -980,6 +1001,7 @@
   - 841049
   - 842276
   - 842830
+  - 844700
   start: 2026-11-11T11:15:00Z
   stop: 2026-11-11T11:35:00Z
   title: Muzikë argëtuese
@@ -1008,6 +1030,14 @@
   - 842831
   start: 2026-11-11T11:35:00Z
   stop: 2026-11-11T12:15:00Z
+  title: Farewell Letter
+  subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 844701
+  start: 2026-11-11T11:35:00Z
+  stop: 2026-11-11T12:10:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -1074,6 +1104,7 @@
   - 841051
   - 842241
   - 842832
+  - 844702
   start: 2026-11-11T12:15:00Z
   stop: 2026-11-11T13:35:00Z
   title: Reportazhe
@@ -1126,6 +1157,7 @@
   - 841052
   - 842242
   - 842833
+  - 844703
   start: 2026-11-11T13:35:00Z
   stop: 2026-11-11T13:55:00Z
   title: Promo
@@ -1152,6 +1184,7 @@
   - 841053
   - 842243
   - 842834
+  - 844704
   start: 2026-11-11T13:55:00Z
   stop: 2026-11-11T14:00:00Z
   title: Promo
@@ -1185,7 +1218,7 @@
   - 645798
   - 788142
   start: 2026-11-11T14:00:00Z
-  stop: 2026-11-11T14:10:00Z
+  stop: 2026-11-11T14:20:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -1231,6 +1264,7 @@
   - 841054
   - 842244
   - 842835
+  - 844705
   start: 2026-11-11T14:20:00Z
   stop: 2026-11-11T14:30:00Z
   title: Promo
@@ -1257,6 +1291,7 @@
   - 841055
   - 842245
   - 842836
+  - 844706
   start: 2026-11-11T14:30:00Z
   stop: 2026-11-11T15:00:00Z
   title: Reportazhe
@@ -1269,7 +1304,7 @@
   - 645800
   - 788144
   start: 2026-11-11T15:00:00Z
-  stop: 2026-11-11T16:30:00Z
+  stop: 2026-11-11T16:00:00Z
   title: Preferenca Muzikore
   subtitle: '  * LIGA FLORILOR * ET. 10 CSM Bucuresti-CSM Corona BrasovTransmisiune directa  '
   ageRating: 4
@@ -1302,6 +1337,7 @@
   - 841056
   - 842246
   - 842837
+  - 844707
   start: 2026-11-11T16:00:00Z
   stop: 2026-11-11T16:55:00Z
   title: Pastel
@@ -1413,7 +1449,7 @@
   - 645803
   - 788147
   start: 2026-11-11T17:00:00Z
-  stop: 2026-11-11T19:00:00Z
+  stop: 2026-11-11T17:30:00Z
   title: BASCHET MASCULIN
   subtitle: '  * FIBA EUROPE CUP. GRUPA CSCM Universitatea Craiova-Kolossus RhodesPreluare TVR CraiovaTransmisiune directa  '
   ageRating: 4
@@ -1438,6 +1474,7 @@
   - 841057
   - 842247
   - 842838
+  - 844708
   start: 2026-11-11T17:30:00Z
   stop: 2026-11-11T18:00:00Z
   title: Live news AL
@@ -1464,6 +1501,7 @@
   - 841058
   - 842248
   - 842839
+  - 844709
   start: 2026-11-11T18:00:00Z
   stop: 2026-11-11T18:10:00Z
   title: Promo
@@ -1490,6 +1528,7 @@
   - 841059
   - 842249
   - 842840
+  - 844710
   start: 2026-11-11T18:10:00Z
   stop: 2026-11-11T18:20:00Z
   title: 10 minuta
@@ -1516,6 +1555,7 @@
   - 841060
   - 842250
   - 842841
+  - 844711
   start: 2026-11-11T18:20:00Z
   stop: 2026-11-11T18:30:00Z
   title: Promo
@@ -1542,6 +1582,7 @@
   - 841061
   - 842251
   - 842842
+  - 844712
   start: 2026-11-11T18:30:00Z
   stop: 2026-11-11T19:00:00Z
   title: Live News MK
@@ -1554,7 +1595,7 @@
   - 645804
   - 788148
   start: 2026-11-11T19:00:00Z
-  stop: 2026-11-11T19:10:00Z
+  stop: 2026-11-11T19:45:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -1600,6 +1641,7 @@
   - 841062
   - 842252
   - 842843
+  - 844713
   start: 2026-11-11T19:45:00Z
   stop: 2026-11-11T20:30:00Z
   title: Firefly
@@ -1833,6 +1875,7 @@
   - 841063
   - 842253
   - 842844
+  - 844714
   start: 2026-11-11T20:30:00Z
   stop: 2026-11-11T21:55:00Z
   title: Film artistik
@@ -1887,7 +1930,7 @@
   - 645808
   - 788152
   start: 2026-11-11T22:00:00Z
-  stop: 2026-11-11T23:00:00Z
+  stop: 2026-11-11T22:20:00Z
   title: EROII TERENULUI
   subtitle: ' Preluare TVR Cluj   (Reluare)'
   ageRating: 4
@@ -1914,6 +1957,14 @@
   - 842845
   start: 2026-11-11T22:20:00Z
   stop: 2026-11-11T23:05:00Z
+  title: Farewell Letter
+  subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 844715
+  start: 2026-11-11T22:20:00Z
+  stop: 2026-11-11T23:00:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -2080,6 +2131,7 @@
   - 841065
   - 842255
   - 842846
+  - 844716
   start: 2026-11-11T23:05:00Z
   stop: 2026-11-12T00:25:00Z
   title: Click Plus
