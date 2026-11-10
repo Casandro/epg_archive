@@ -680,6 +680,8 @@
   description: |-
     program publicystyczny (Polska, 2026)
     Program publicystyczny, którego autorzy koncentrują się na sprawdzaniu wiarygodności informacji. Prezentowane w nim wiadomości stanowią rozwinięcie treści publikowanych na portalu Sprawdzam.to, a głównym celem magazynu jest wspólna z mediami publicznymi walka z fake newsami.
+  genre:
+  - '34'
 - eventId: 687959
   start: 2026-11-10T18:25:00Z
   stop: 2026-11-10T18:30:00Z
@@ -720,6 +722,9 @@
   description: |-
     program publicystyczny (Polska, 2024) (na żywo)
     Program poprowadzą Aleksandra Pawlicka i Renata Grochal. Jest on wspólną inicjatywą TVP i Polskiego Radia.
+  subtitle: Autorki zapraszają bohaterów najważniejszych wydarzeń politycznych w kraju, by poznać motywy podejmowanych przez nich decyzji i zaprezentować widzom kulisy polskiej polityki oraz jej najważniejszych graczy.
+  genre:
+  - '34'
 - eventId: 687962
   start: 2026-11-10T19:18:00Z
   stop: 2026-11-10T20:00:00Z
@@ -841,6 +846,9 @@
   description: |-
     program publicystyczny (Polska, 2024)
     Program poprowadzą Aleksandra Pawlicka i Renata Grochal. Jest on wspólną inicjatywą TVP i Polskiego Radia.
+  subtitle: Autorki zapraszają bohaterów najważniejszych wydarzeń politycznych w kraju, by poznać motywy podejmowanych przez nich decyzji i zaprezentować widzom kulisy polskiej polityki oraz jej najważniejszych graczy.
+  genre:
+  - '34'
 - eventId: 687972
   start: 2026-11-10T23:03:00Z
   stop: 2026-11-10T23:50:00Z
@@ -851,14 +859,9 @@
     Program poprowadzą Aleksandra Pawlicka i Renata Grochal. Jest on wspólną inicjatywą TVP i Polskiego Radia.
   genre:
   - '34'
-- eventId: 653189
-  start: 2026-11-10T23:50:00Z
-  stop: 2026-11-11T00:00:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
-- eventId: 758395
+- eventId:
+  - 653189
+  - 758395
   start: 2026-11-10T23:50:00Z
   stop: 2026-11-11T00:00:00Z
   title: Prognoza pogody

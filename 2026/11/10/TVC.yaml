@@ -305,6 +305,19 @@
   ageRating: 12
   genre:
   - '35'
+- eventId: 656189
+  start: 2026-11-10T16:55:00Z
+  stop: 2026-11-10T17:55:00Z
+  title: Złapać przemytnika 5 (odc. 3)
+  subtitle: W Filadelfii funkcjonariusze z USA i Niemiec namierzają odbiorcę pigułek ecstasy.
+  description: |-
+    Tytuł oryginalny: To Catch a Smuggler
+    US, 2023
+    Występują: David C. Schweizer
+    W Filadelfii agenci HSI i CBP współpracują z niemieckimi funkcjonariuszami organów ścigania, żeby namierzyć odbiorcę 30 tysięcy pigułek ecstasy wartych pół miliona dolarów. Na południowej granicy kraju początkujący celnik pierwszy raz w swojej karierze odkrywa ładunek metamfetaminy. Tymczasem w Nowym Jorku CBP przejmuje nielegalne towary spożywcze, które mogłyby zagrozić amerykańskiemu rolnictwu, a także znajduje przeszmuglowaną przez Hongkong starożytną figurkę hinduskiej bogini.
+  ageRating: 12
+  genre:
+  - '35'
 - eventId: 693458
   start: 2026-11-10T16:55:00Z
   stop: 2026-11-10T17:55:00Z
@@ -318,7 +331,9 @@
   ageRating: 12
   genre:
   - '35'
-- eventId: 693459
+- eventId:
+  - 656143
+  - 693459
   start: 2026-11-10T17:55:00Z
   stop: 2026-11-10T19:00:00Z
   title: Porzucone konstrukcje 1 (odc. 6)
