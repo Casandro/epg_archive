@@ -467,7 +467,7 @@
   - 619190
   - 652774
   start: 2026-11-10T11:30:00Z
-  stop: 2026-11-10T11:33:15Z
+  stop: 2026-11-10T11:33:11Z
   title: Zprávy
   description: |-
     HDTV
@@ -492,6 +492,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 861428
+  start: 2026-11-10T11:33:11Z
+  stop: 2026-11-10T12:00:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Tiskové prohlášení prezidenta Pavla a maďarského prezidenta Baku (přímý přenos); Palivové dřevo na zimu zdražilo.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 860167
   - 860918
@@ -566,7 +577,7 @@
   start: 2026-11-10T12:32:40Z
   stop: 2026-11-10T13:00:00Z
   title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  subtitle: 'Témata: Klimatická konference OSN v Turecku (živý vstup); Brífink předsedů české a slovenské vlády Babiše a Fica (přímý přenos).'
   description: |-
     HDTV
     Skryté titulky
@@ -646,6 +657,7 @@
 - eventId:
   - 619429
   - 653046
+  - 861429
   start: 2026-11-10T13:33:00Z
   stop: 2026-11-10T14:00:00Z
   title: Studio ČT24
@@ -939,6 +951,7 @@
   stop: 2026-11-10T17:00:00Z
   title: Počasí v evropských metropolích
   description: |-
+    ledovka, na západě i silná. Nejnižší teploty +1 až -3 °C. Nejvyšší teploty 2 až 7 °C, na jihozápadě a jihu Čech až 10 °C, v 1000 m na horách kolem 1 °C, na Šumavě kolem 7 °C. Slabý proměnlivý, postupně hlavně na Českomoravské vrchovině a ve Slezsku mírný vítr jižních směrů.
     HDTV
     Zvukový popis
     Skryté titulky
@@ -946,7 +959,7 @@
   - '33'
   widescreen: true
   hd: true
-  subtitle: Souhrn meteorologických informací uplynulých 24 hodin a prognóza vývoje počasí na příští dny.
+  subtitle: Ve středu bude zataženo a mlhavo, od jihozápadu se na většině území se vyskytne déšť nebo přeháňky, ráno a dopoledne v jihozápadní polovině území lokálně i srážky mrznoucí, při kterých se bude tvořit
   subtitled: true
   audiodesc: true
 - eventId: 653359
@@ -1179,7 +1192,7 @@
   start: 2026-11-10T22:32:00Z
   stop: 2026-11-10T23:00:00Z
   title: Interview ČT24
-  subtitle: Profilový rozhovor s významnou osobností, která má co říci k aktuálnímu dění v ČR nebo ve světě.
+  subtitle: 'Host: Petr Fiala /ODS/, poslanec, bývalý premiér, bývalý předseda strany. Moderuje: Daniel Takáč.'
   description: |-
     HDTV
     Skryté titulky
