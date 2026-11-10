@@ -6,9 +6,11 @@
   - 569622
   - 573242
   - 582064
+  - 586299
   - 586597
   - 592235
   - 597443
+  - 608590
   - 615393
   - 633342
   - 661628
@@ -28,9 +30,11 @@
   - 1037470
   - 557065
   - 573243
+  - 586300
   - 586598
   - 592236
   - 597444
+  - 608591
   - 615394
   - 661629
   - 743204
@@ -45,9 +49,11 @@
   - 1037471
   - 557066
   - 573244
+  - 586301
   - 586599
   - 592237
   - 597445
+  - 608592
   - 615395
   - 661630
   - 743205
@@ -61,9 +67,11 @@
   - 1037472
   - 557067
   - 573245
+  - 586302
   - 586600
   - 592238
   - 597446
+  - 608593
   - 615396
   - 661631
   start: 2026-11-18T02:45:00Z
@@ -76,9 +84,11 @@
   - 1037473
   - 557190
   - 573383
+  - 586432
   - 586737
   - 592439
   - 597533
+  - 608775
   - 615485
   - 661669
   start: 2026-11-18T03:30:00Z
@@ -91,9 +101,11 @@
   - 1037474
   - 557191
   - 573384
+  - 586433
   - 586738
   - 592440
   - 597534
+  - 608776
   - 615486
   - 661670
   start: 2026-11-18T04:15:00Z
@@ -105,9 +117,11 @@
   - 1037475
   - 557192
   - 573385
+  - 586434
   - 586739
   - 592441
   - 597535
+  - 608777
   - 615487
   - 661671
   start: 2026-11-18T04:30:00Z
@@ -119,9 +133,11 @@
   - 1037476
   - 557328
   - 573552
+  - 586823
   - 586882
   - 592682
   - 597671
+  - 608909
   - 615618
   - 661694
   start: 2026-11-18T08:00:00Z
@@ -134,9 +150,11 @@
   - 1037759
   - 557329
   - 573553
+  - 586824
   - 586883
   - 592683
   - 597672
+  - 608910
   - 615619
   - 661695
   start: 2026-11-18T08:30:00Z
@@ -146,14 +164,8 @@
   hd: true
   subtitle: Themen und Hintergründe
 - eventId:
-  - 1037760
-  - 557473
-  - 573865
-  - 587016
-  - 593352
-  - 597800
-  - 615745
-  - 661712
+  - 587005
+  - 609025
   start: 2026-11-18T09:00:00Z
   stop: 2026-11-18T09:30:00Z
   title: phoenix vor ort
@@ -161,32 +173,12 @@
   widescreen: true
   hd: true
 - eventId:
-  - 1037761
-  - 557474
-  - 573866
-  - 587017
-  - 593353
-  - 597801
-  - 615746
-  - 661713
+  - 587006
+  - 609026
   start: 2026-11-18T09:30:00Z
   stop: 2026-11-18T11:00:00Z
   title: phoenix plus
-  widescreen: true
-  hd: true
   subtitle: Themen und Hintergründe
-- eventId:
-  - 1037762
-  - 557475
-  - 573867
-  - 587018
-  - 593354
-  - 597802
-  - 661714
-  start: 2026-11-18T11:00:00Z
-  stop: 2026-11-18T11:45:00Z
-  title: phoenix vor ort
-  subtitle: u.a. Aktuelles
   widescreen: true
   hd: true
 - eventId:
@@ -205,27 +197,37 @@
   hd: true
   description: Die ausgedehnte Küstenlinie Australiens ist eine der längsten der Welt und wird von über 8.000 Inseln durchzogen, die über die umliegenden Meere verteilt sind. Sie ist ein Naturparadies und die Heimat einer einzigartigen Vielfalt an bizarren und faszinierenden Lebewesen, die nirgendwo sonst auf der Erde zu finden sind wie das flinke Wallaby, die tanzende Pfauenspinne oder die schillernde Riesensepia. Von unberührten Buchten und lebhaften Korallenriffen bis hin zu Küstendünen sind Australiens Meeresufer Schauplatz von epischen Tierwanderungen, eindrucksvollen Paarungsritualen und spannenden Kämpfen zwischen Raubtier und Beute.
 - eventId:
-  - 1037763
-  - 1521856
-  - 549773
-  - 557476
-  - 573868
-  - 578333
-  - 587019
-  - 592009
-  - 593355
-  - 596718
-  - 597803
-  - 615748
-  - 661715
-  - 736409
+  - 587007
+  - 609027
+  start: 2026-11-18T11:00:00Z
+  stop: 2026-11-18T11:45:00Z
+  title: phoenix vor ort
+  subtitle: u.a. Aktuelles
+  widescreen: true
+  hd: true
+- eventId:
+  - 1034277
+  - 1034591
+  - 549231
+  - 557465
+  - 573857
+  - 587008
+  - 591488
+  - 596506
+  - 597792
+  - 615737
+  start: 2026-11-18T11:45:00Z
+  stop: 2026-11-18T13:00:00Z
+  title: phoenix vor ort
+  subtitle: Themen und Hintergründe
+  widescreen: true
+  hd: true
+  description: "Dienstag. 10. November 2026 \n\nca. 10:00 Uhr:\n\nu.a. Aktuelles"
+- eventId: 609028
   start: 2026-11-18T11:45:00Z
   stop: 2026-11-18T13:00:00Z
   title: phoenix plus
-  widescreen: true
-  hd: true
-  subtitle: Die Nachrichten der ARD - mit GebärdensprachdolmetscherIn
-  description: Die Nachrichten der ARD
+  subtitle: Themen und Hintergründe
 - eventId:
   - 1037764
   - 558584
@@ -233,6 +235,7 @@
   - 587198
   - 593587
   - 597919
+  - 609141
   - 617607
   - 661735
   start: 2026-11-18T13:00:00Z
@@ -242,12 +245,32 @@
   widescreen: true
   hd: true
 - eventId:
+  - 1456603
+  - 558572
+  - 580156
+  - 580436
+  - 587167
+  - 632581
+  - 679989
+  start: 2026-11-18T13:00:00Z
+  stop: 2026-11-18T13:45:00Z
+  title: Wildes Japan - Land der tausend Inseln
+  subtitle: u.a. Aktuelles
+  widescreen: true
+  hd: true
+  description: |-
+    Hokkaido, die zweitgrößte Insel des Landes, ist bekannt für ihre imposante Natur. Thermalquellen und Vulkane gehören ebenso dazu wie Bären, Sikahirsche und arktische Temperaturen im Winter.
+
+    Das Leben auf Hokkaido ist hart für Mensch und Tier. Der Sommer ist kurz, der Herbst traumhaft schön und bunt, der Winter eisig kalt. Dieses extreme Klima zieht seltene Tiere wie Riesenseeadler an, aber auch die vom Aussterben bedrohten Mandschurenkraniche.
+- eventId:
   - 1037765
   - 558585
   - 574011
+  - 587168
   - 587199
   - 593588
   - 597920
+  - 609142
   - 617608
   - 661736
   start: 2026-11-18T13:45:00Z
@@ -272,6 +295,14 @@
   hd: true
   subtitle: Neuanfang in Florida
 - eventId:
+  - 587280
+  - 609378
+  start: 2026-11-18T15:00:00Z
+  stop: 2026-11-18T15:45:00Z
+  title: Dokumentation
+  widescreen: true
+  hd: true
+- eventId:
   - 1037767
   - 558705
   - 574387
@@ -287,10 +318,20 @@
   hd: true
   subtitle: Neuanfang in Florida
 - eventId:
+  - 587281
+  - 609379
+  start: 2026-11-18T15:45:00Z
+  stop: 2026-11-18T16:30:00Z
+  title: Dokumentation
+  widescreen: true
+  hd: true
+- eventId:
   - 558706
   - 574388
+  - 587282
   - 587432
   - 598012
+  - 609380
   - 617759
   - 658920
   - 661615
@@ -328,6 +369,14 @@
   hd: true
   subtitle: Neuanfang in Florida
 - eventId:
+  - 587283
+  - 609381
+  start: 2026-11-18T17:00:00Z
+  stop: 2026-11-18T17:30:00Z
+  title: Dokumentation
+  widescreen: true
+  hd: true
+- eventId:
   - 1005369
   - 1005672
   - 582981
@@ -344,34 +393,22 @@
   widescreen: true
   hd: true
 - eventId:
-  - 558708
-  - 574390
-  - 580456
-  - 587173
-  - 594598
-  - 598014
-  - 608490
-  - 617761
-  - 658922
-  - 661617
+  - 587284
+  - 609382
   start: 2026-11-18T17:30:00Z
   stop: 2026-11-18T18:15:00Z
   title: Die Chinesische Mauer
   subtitle: 'Teil 1: Errichtet für die Ewigkeit'
   widescreen: true
   hd: true
-  description: |-
-    Mittwoch, 04. November 2026
-
-    ca. 17:30 Uhr:
-
-    Aktuelles
 - eventId:
   - 558872
   - 576576
+  - 587478
   - 587591
   - 598140
   - 605881
+  - 609570
   - 658923
   - 661751
   start: 2026-11-18T18:15:00Z
@@ -395,11 +432,22 @@
   widescreen: true
   hd: true
 - eventId:
+  - 587479
+  - 609571
+  start: 2026-11-18T19:00:00Z
+  stop: 2026-11-18T19:15:00Z
+  title: Tagesschau
+  subtitle: mit GebärdensprachdolmetscherIn
+  widescreen: true
+  hd: true
+- eventId:
   - 558874
   - 576578
+  - 587480
   - 587593
   - 598142
   - 605883
+  - 609572
   - 659639
   - 661753
   start: 2026-11-18T19:15:00Z
@@ -411,9 +459,11 @@
 - eventId:
   - 558875
   - 576579
+  - 587481
   - 587594
   - 598143
   - 605884
+  - 609573
   - 659640
   - 661754
   start: 2026-11-18T20:00:00Z
@@ -424,9 +474,11 @@
 - eventId:
   - 558876
   - 576580
+  - 587482
   - 587595
   - 598144
   - 605885
+  - 609574
   - 659641
   - 661755
   start: 2026-11-18T20:45:00Z
@@ -441,9 +493,11 @@
   - 559038
   - 559777
   - 577507
+  - 587631
   - 587900
   - 598250
   - 606566
+  - 609732
   - 659642
   - 661782
   start: 2026-11-18T21:15:00Z
@@ -462,9 +516,11 @@
   - 559039
   - 559778
   - 577508
+  - 587632
   - 587901
   - 598251
   - 606567
+  - 609733
   - 659643
   - 661783
   start: 2026-11-18T22:00:00Z
@@ -477,8 +533,10 @@
 - eventId:
   - 559040
   - 577509
+  - 587633
   - 598252
   - 606568
+  - 609734
   - 659644
   - 661784
   start: 2026-11-18T23:00:00Z
@@ -505,8 +563,10 @@
 - eventId:
   - 559041
   - 577510
+  - 587634
   - 598253
   - 606569
+  - 609735
   - 659645
   - 661785
   start: 2026-11-18T23:45:00Z

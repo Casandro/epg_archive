@@ -1,6 +1,7 @@
 - eventId:
   - 559570
   - 561783
+  - 570039
   - 661411
   start: 2026-11-21T01:00:00Z
   stop: 2026-11-21T01:03:00Z
@@ -8,6 +9,7 @@
 - eventId:
   - 559571
   - 561784
+  - 570040
   - 661412
   start: 2026-11-21T01:03:00Z
   stop: 2026-11-21T03:00:00Z
@@ -15,17 +17,11 @@
   description: |-
     Mit Benjamin Day
     Wolfgang Amadeus Mozart: "Idomeneo", Ouvertüre (Symphonieorchester des Bayerischen Rundfunks: Simon Rattle); Antonio Vivaldi: "Zeffiretti, che sussurrate" (Cecilia Bartoli, Mezzosopran; Marco Bianchi, Violine; Il Giardino Armonico: Giovanni Antonini); Albert Roussel: Sinfonietta, op. 52 (Tapiola Sinfonietta: Paavo Järvi); Ludwig van Beethoven: Klaviertrio B-Dur, WoO 39 (Trio Wanderer); Anton Bruckner: Sinfonie Nr. 8 c-Moll (NDR Sinfonieorchester: Günter Wand)
-- eventId:
-  - 561926
-  - 562395
-  - 661415
+- eventId: 570315
   start: 2026-11-21T03:00:00Z
   stop: 2026-11-21T03:03:00Z
   title: Nachrichten, Wetter
-- eventId:
-  - 561927
-  - 562396
-  - 661416
+- eventId: 570316
   start: 2026-11-21T03:03:00Z
   stop: 2026-11-21T03:58:00Z
   title: Das ARD-Nachtkonzert (III)
@@ -33,34 +29,19 @@
     Mit Benjamin Day
     Vincent D'Indy: "Diptyque méditerranéen", op. 87 (Orchestre Philharmonique du Luxembourg: Emmanuel Krivine); Henrïette Bosmans: Konzertstück (Hyeyoon Park, Violine; WDR Sinfonieorchester: Gergely Madaras); Niels Wilhelm Gade: "Holbergiana", op. 61 (Staatsphilharmonie Rheinland-Pfalz: Ole Schmidt)
 - eventId:
-  - 561928
-  - 661417
-  start: 2026-11-21T03:58:00Z
-  stop: 2026-11-21T04:00:00Z
-  title: Impressum
-- eventId:
   - 562397
   - 774539
   start: 2026-11-21T03:58:00Z
   stop: 2026-11-21T04:00:00Z
   title: Nachrichten, Wetter, Verkehr
-- eventId:
-  - 561929
-  - 562398
-  - 661418
-  - 774540
+- eventId: 570317
+  start: 2026-11-21T03:58:00Z
+  stop: 2026-11-21T04:00:00Z
+  title: Impressum
+- eventId: 570318
   start: 2026-11-21T04:00:00Z
   stop: 2026-11-21T04:03:00Z
   title: Nachrichten, Wetter
-  subtitle: Mit Alexandra Martini und Ann-Kathrin Mittelstraß
-  description: Diese Sendung mit allen Beiträgen und Interviews hören Sie auch in ARD Sounds bei Bayern 2 und unter www.bayern2.de/zuendfunk
-- eventId:
-  - 561930
-  - 661419
-  start: 2026-11-21T04:03:00Z
-  stop: 2026-11-21T04:57:00Z
-  title: Bayern 2 Playlist
-  subtitle: Legenden Entdeckungen Heimatsound
 - eventId:
   - 562399
   - 774541
@@ -68,9 +49,15 @@
   stop: 2026-11-21T04:57:00Z
   title: Nachrichten, Wetter
   subtitle: Legenden Entdeckungen Heimatsound
+- eventId: 570319
+  start: 2026-11-21T04:03:00Z
+  stop: 2026-11-21T04:57:00Z
+  title: Bayern 2 Playlist
+  subtitle: Legenden Entdeckungen Heimatsound
 - eventId:
   - 561931
   - 562400
+  - 570320
   - 694053
   - 774542
   start: 2026-11-21T04:57:00Z
@@ -84,22 +71,12 @@
 - eventId:
   - 561932
   - 562401
+  - 570321
   - 694054
   - 774543
   start: 2026-11-21T05:00:00Z
   stop: 2026-11-21T05:05:00Z
   title: Nachrichten, Wetter, Verkehr
-- eventId:
-  - 1513032
-  - 561933
-  - 566087
-  - 604893
-  - 694055
-  start: 2026-11-21T05:05:00Z
-  stop: 2026-11-21T07:00:00Z
-  title: Bayern 2 Rucksackradio
-  subtitle: Berge Outdoor Natur
-  description: "Berge Outdoor Natur\nca. 6.50 live Bergwetter aus der Wetterdienststelle Innsbruck \n7.00 Nachrichten, Wetter, Verkehr\n\nDie Sendung ist 2 Stunden nachzuhören in ARD Sounds bei Bayern 2."
 - eventId:
   - 562402
   - 774544
@@ -108,13 +85,22 @@
   title: Late Nite Sounds. Von Bayern 2, Bremen Zwei und MDR Kultur
   subtitle: Berge Outdoor Natur
   description: "Berge Outdoor Natur\nca. 6.50 live Bergwetter aus der Wetterdienststelle Innsbruck \n7.00 Nachrichten, Wetter, Verkehr\n\nDie Sendung ist 2 Stunden nachzuhören in ARD Sounds bei Bayern 2."
-- eventId: 563740
+- eventId: 570322
+  start: 2026-11-21T05:05:00Z
+  stop: 2026-11-21T07:00:00Z
+  title: Bayern 2 Rucksackradio
+  subtitle: Berge Outdoor Natur
+  description: "Berge Outdoor Natur\nca. 6.50 live Bergwetter aus der Wetterdienststelle Innsbruck \n7.00 Nachrichten, Wetter, Verkehr\n\nDie Sendung ist 2 Stunden nachzuhören in ARD Sounds bei Bayern 2."
+- eventId:
+  - 563740
+  - 570997
   start: 2026-11-21T07:00:00Z
   stop: 2026-11-21T07:05:00Z
   title: Nachrichten, Wetter, Verkehr
 - eventId:
   - 562303
   - 563741
+  - 570998
   - 694068
   start: 2026-11-21T07:05:00Z
   stop: 2026-11-21T08:00:00Z
@@ -124,6 +110,7 @@
 - eventId:
   - 562304
   - 563742
+  - 570999
   - 694069
   start: 2026-11-21T08:00:00Z
   stop: 2026-11-21T08:05:00Z
@@ -131,6 +118,7 @@
 - eventId:
   - 562305
   - 563743
+  - 571000
   - 694070
   start: 2026-11-21T08:05:00Z
   stop: 2026-11-21T11:00:00Z
@@ -148,6 +136,7 @@
   description: "Für was wir noch werden büßen müssen ... \nGespräche über die Zukunft im Jetzt  \nVon Matthias Morgenroth\n\nDas Feature ist in \"Religion - Die Dokumentation\" in ARD Sounds verfügbar."
 - eventId:
   - 564611
+  - 576313
   - 694113
   start: 2026-11-21T11:00:00Z
   stop: 2026-11-21T11:05:00Z
@@ -157,6 +146,7 @@
   - 562443
   - 564612
   - 566625
+  - 576314
   - 605615
   - 694114
   start: 2026-11-21T11:05:00Z
@@ -167,6 +157,7 @@
 - eventId:
   - 564497
   - 574814
+  - 576660
   - 694172
   start: 2026-11-21T12:00:00Z
   stop: 2026-11-21T12:05:00Z
@@ -174,6 +165,7 @@
 - eventId:
   - 564498
   - 574815
+  - 576661
   - 694173
   start: 2026-11-21T12:05:00Z
   stop: 2026-11-21T13:00:00Z
@@ -186,6 +178,7 @@
 - eventId:
   - 564499
   - 574816
+  - 576662
   - 694174
   start: 2026-11-21T13:00:00Z
   stop: 2026-11-21T13:05:00Z
@@ -193,22 +186,36 @@
 - eventId:
   - 564500
   - 574817
+  - 576663
   - 694175
   start: 2026-11-21T13:05:00Z
   stop: 2026-11-21T14:00:00Z
   title: Bayern 2 Salon
   subtitle: Buchgefühl - Lesung und Gespräch
   description: Diese Sendung hören Sie auch in ARD Sounds bei Bayern 2 und sie ist als Podcast verfügbar.
-- eventId: 574818
+- eventId:
+  - 574818
+  - 576664
   start: 2026-11-21T14:00:00Z
   stop: 2026-11-21T14:05:00Z
   title: Nachrichten, Wetter, Verkehr
-- eventId: 574819
+- eventId:
+  - 574819
+  - 576665
   start: 2026-11-21T14:05:00Z
   stop: 2026-11-21T15:00:00Z
   title: Bayern 2 Radiospitzen
   subtitle: Kabarett und Comedy aus Bayern
   description: "Moderation:\n\nWiederholung um 22.03 Uhr \n\nDiese Sendung hören Sie auch in ARD Sounds bei Bayern 2. \nAus urheberrechtlichen Gründen sind nur ausgewählte Beiträge als Podcast verfügbar."
+- eventId:
+  - 562848
+  - 574843
+  - 577118
+  - 591082
+  - 981040
+  start: 2026-11-21T15:00:00Z
+  stop: 2026-11-21T15:05:00Z
+  title: Nachrichten, Wetter, Verkehr
 - eventId:
   - 566572
   - 575471
@@ -217,6 +224,20 @@
   start: 2026-11-21T15:00:00Z
   stop: 2026-11-21T15:05:00Z
   title: Nachrichten, Wetter, Verkehr
+- eventId:
+  - 562849
+  - 574844
+  - 577119
+  - 591083
+  - 981041
+  start: 2026-11-21T15:05:00Z
+  stop: 2026-11-21T16:00:00Z
+  title: Bayern 2 Eins zu Eins. Der Talk
+  subtitle: Eine Stunde, zwei Menschen
+  description: |-
+    Wiederholung am Sonntag, 22.03 Uhr
+
+    Diese Sendung hören Sie auch in ARD Sounds bei Bayern 2 und sie ist als Podcast verfügbar.
 - eventId:
   - 566573
   - 694255
@@ -252,6 +273,16 @@
 
     Das Feature "Religion - Die Dokumentation" ist in ARD Sounds verfügbar.
 - eventId:
+  - 562850
+  - 574845
+  - 577120
+  - 591084
+  - 981042
+  start: 2026-11-21T16:00:00Z
+  stop: 2026-11-21T16:05:00Z
+  title: Nachrichten, Wetter, Verkehr
+  subtitle: Legenden Entdeckungen Heimatsound
+- eventId:
   - 566574
   - 575473
   - 694256
@@ -259,6 +290,30 @@
   start: 2026-11-21T16:00:00Z
   stop: 2026-11-21T16:05:00Z
   title: Nachrichten, Wetter, Verkehr
+- eventId:
+  - 1008794
+  - 562851
+  - 574846
+  - 577121
+  - 591085
+  start: 2026-11-21T16:05:00Z
+  stop: 2026-11-21T17:00:00Z
+  title: Bayern 2 Der politische Podcast
+  description: |-
+    17.05 Die Entscheidung. Momente, die alles verändern
+    (3/3) Facebook: Von Likes und Macht | Mark und MAGA
+    Wer kontrolliert, was wir vor Wahlen in unseren Timelines auf Facebook, Instagram und Co. zu sehen bekommen? Und was passiert, wenn Contentmoderation plötzlich "Zensur" genannt wird? Wenn Faktenchecks abgeschafft werden? Ex-CIA-Mitarbeiterin und Sicherheitsexpertin Yaël Eisenstat wird angeheuert, um Facebook gegen politischen Missbrauch zu schützen - und bekommt früh Zweifel daran, ob das wirklich gewollt ist. Während Meta Milliarden in Künstliche Intelligenz investiert und sich im Machtkampf der Tech-Konzerne positioniert, sucht Mark Zuckerberg offen die Nähe zu Donald Trump. Wie verändern solche Allianzen Demokratie und Wahlkämpfe im KI-Zeitalter?
+    Host: Jasmin Brock; Reporterin: Janne Knödler
+
+    Wiederholung vom 28.03.2026
+
+    17.30 Bayern 2 Breitengrad
+    ARD Auslandsreportage
+
+
+
+    Diese Sendung hören Sie auch in ARD Sounds bei Bayern 2 und sie ist als Podcast verfügbar.
+  subtitle: Aus Politik und Gesellschaft
 - eventId:
   - 566575
   - 575474
@@ -283,12 +338,32 @@
 
     Diese Sendung hören Sie auch in ARD Sounds bei Bayern 2 und sie ist als Podcast verfügbar.
 - eventId:
+  - 1008795
+  - 562852
+  - 574847
+  - 577122
+  - 591086
+  start: 2026-11-21T17:00:00Z
+  stop: 2026-11-21T17:05:00Z
+  title: Nachrichten, Wetter, Verkehr
+- eventId:
   - 566576
   - 575475
   - 694258
   start: 2026-11-21T17:00:00Z
   stop: 2026-11-21T17:05:00Z
   title: Nachrichten, Wetter, Verkehr
+- eventId:
+  - 1008796
+  - 562853
+  - 574848
+  - 577123
+  - 591087
+  start: 2026-11-21T17:05:00Z
+  stop: 2026-11-21T17:53:00Z
+  title: Bayern 2 Rucksackradio
+  subtitle: 'Moderation: Annette Kugler'
+  description: "Berge Outdoor Natur\n\nTourentipps\nAlpines Leben\nThema der Woche\nBergmensch\n\nModeration: Annette Kugler\n\n\nca. 6.50 live Bergwetter aus der Wetterdienststelle Innsbruck \n7.00 Nachrichten, Wetter, Verkehr\n\nDie Sendung ist 2 Stunden nachzuhören in ARD Sounds bei Bayern 2."
 - eventId:
   - 566577
   - 575476
@@ -313,7 +388,23 @@
 
     Als Podcast fünf Jahre nach Sendung verfügbar.
 - eventId:
+  - 574849
+  - 577124
+  - 591800
+  - 719321
+  start: 2026-11-21T17:53:00Z
+  stop: 2026-11-21T18:00:00Z
+  title: Bayern 2 Betthupferl
+  subtitle: Gute-Nacht-Geschichte für Kinder
+  description: |-
+    Erik und Erika Eichhorn: Wie man Vorräte sammelt
+    Von Eo Borucki
+    Mit Ansgar Nöth - in unterfränkischer Mundart
+
+    Als Podcast fünf Jahre nach Sendung verfügbar.
+- eventId:
   - 568664
+  - 571504
   - 576107
   - 694341
   start: 2026-11-21T18:00:00Z
@@ -321,6 +412,7 @@
   title: Nachrichten, Wetter, Verkehr
 - eventId:
   - 568665
+  - 571505
   - 576108
   - 694342
   start: 2026-11-21T18:05:00Z
@@ -330,6 +422,7 @@
   description: Diese Sendung mit allen Beiträgen und Interviews hören Sie auch in ARD Sounds bei Bayern 2 und unter www.bayern2.de/zuendfunk
 - eventId:
   - 568666
+  - 571506
   - 576109
   - 694343
   start: 2026-11-21T19:00:00Z
@@ -337,6 +430,7 @@
   title: Nachrichten, Wetter
 - eventId:
   - 568667
+  - 571507
   - 576110
   - 694344
   start: 2026-11-21T19:03:00Z
@@ -346,6 +440,7 @@
   description: "Ausgerechnet ein Bereichsleiter der Investitionsbank des Landes gerät in den Verdacht, Kredite an windige Unternehmen zu vergeben und selbst von Drogenhandel und Geldwäsche zu profitieren. Doch kaum kommt die frisch beförderte Polizeiobermeisterin Nancy Ritter ihm auf die Spur, wird der als integer geltende Mann tot aufgefunden. Wurde er Opfer eines Love Scams? Liebe macht blind und für Liebe würden die Menschen alles tun - so heißt es doch. Während in Lörben der Haussegen bei Nancys Bruder Tommi und seiner Partnerin Steffi Schultz schief hängt, muss Nancy die Eifersüchteleien ihres Kollegen Marchlewski ertragen, dessen Vorgesetzte sie nun ist. Da kommt ihr der Auftrag der neuen Kollegin Maja Pham vom Revierkriminaldienst nicht ungelegen - Nancy soll ein paar Firmen genauer beobachten, die vermutlich in einen großen Korruptionsfall verwickelt sind. Darunter auch Freund Ali. Nancy glaubt nicht ganz, dass er seinen \"Döner Spezial\" mitsamt Drogenpäckchen ohne Not wieder vertickt. Zum Glück weiß Brüderchen Tommi mehr... Weil er Pech hat. \n\nVon Dirk Laucke \nMit Maike Knirsch, Johannes Kienast, Yun Huang, Matthias Reichwald, Friederike Kempter, Dimitrij Schaad, Iris Böhm, Anhelina Marinich, Raschid D. Sidgi, Steffen C. Jürgens, Judith Engel, Andreas Keller, Corinna Waldbauer und Clemens Litschko \nRegie: Anne Osterloh \nMDR 2026 \n\nDiese Sendung hören Sie auch in ARD Sounds bei Bayern 2."
 - eventId:
   - 568668
+  - 571508
   - 576111
   - 694345
   start: 2026-11-21T20:00:00Z
@@ -353,6 +448,7 @@
   title: Nachrichten, Wetter
 - eventId:
   - 568669
+  - 571509
   - 576112
   - 694346
   start: 2026-11-21T20:03:00Z
@@ -366,6 +462,7 @@
 - eventId:
   - 564057
   - 570656
+  - 571968
   - 604372
   - 694404
   - 934919
@@ -376,6 +473,7 @@
   description: "9.10 Aktuelles Interview\n\n9.20 Bayern 2 Radiowissen\nDer Heilige Martin - Soldat, Kriegsdienstverweigerer, Bischof\n\n9.50 Bayern 2 Kalenderblatt\n11.11.1994: Codex Leicester, Handschriften von Leonardo da Vinci versteigert \n\n10.00 / 11.00 Nachrichten, Wetter, Verkehr\n\n10.05 Bayern 2 Gesundheitsgespräch\nLänger leben - besser leben? - Der Longevity-Trend\nMit Prof. Jörg Schelling, Allgemeinmediziner, LMU München\n\nTelefon: 0800 - 246 246 9 gebührenfrei\nSprachnachrichten an WhatsApp und Signal: 0151 / 7 220 220 7\nE-Mail: gesundheitsgespraech@br.de\nbayern2.de/gesundheitsgespraech\n\n11.10 Nahaufnahme\n\n11.56 Werbung\n\nModeration: Ulrike Ostner\n\nEinzelne Beiträge der Sendung hören Sie auch in ARD Sounds bei Bayern 2 und diese sind auch als Podcast verfügbar."
 - eventId:
   - 570657
+  - 571969
   - 604373
   - 694405
   start: 2026-11-21T21:03:00Z
@@ -385,6 +483,7 @@
   description: "Moderation:\n\nWiederholung von 15.05 Uhr\n\nDiese Sendung hören Sie auch in ARD Sounds bei Bayern 2. \nAus urheberrechtlichen Gründen sind nur ausgewählte Beiträge als Podcast verfügbar."
 - eventId:
   - 570658
+  - 571970
   - 604374
   - 694406
   start: 2026-11-21T22:00:00Z
@@ -392,6 +491,7 @@
   title: Nachrichten, Wetter
 - eventId:
   - 570659
+  - 571971
   - 604375
   - 694407
   start: 2026-11-21T22:03:00Z
@@ -400,6 +500,7 @@
   subtitle: Mit Noe Noack
 - eventId:
   - 570660
+  - 571972
   - 604376
   - 694408
   start: 2026-11-21T23:00:00Z
@@ -407,6 +508,7 @@
   title: Nachrichten, Wetter
 - eventId:
   - 570661
+  - 571973
   - 604377
   - 694409
   start: 2026-11-21T23:03:00Z

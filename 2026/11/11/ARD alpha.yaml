@@ -12,6 +12,7 @@
 - eventId:
   - 559169
   - 600603
+  - 608654
   - 609749
   - 624687
   - 979788
@@ -23,6 +24,7 @@
 - eventId:
   - 559170
   - 600604
+  - 608655
   - 609750
   - 624688
   - 979789
@@ -34,6 +36,7 @@
 - eventId:
   - 559171
   - 600605
+  - 608656
   - 609751
   - 624689
   - 979790
@@ -46,6 +49,7 @@
   - 559333
   - 600697
   - 609828
+  - 617533
   - 624764
   - 979960
   start: 2026-11-11T03:45:00Z
@@ -57,6 +61,7 @@
   - 559334
   - 600698
   - 609829
+  - 617534
   - 624765
   - 979961
   start: 2026-11-11T04:00:00Z
@@ -67,6 +72,7 @@
   - 559335
   - 600699
   - 609830
+  - 617535
   - 624766
   - 979962
   start: 2026-11-11T04:30:00Z
@@ -78,6 +84,7 @@
   - 559336
   - 600700
   - 609831
+  - 617536
   - 624767
   - 979963
   start: 2026-11-11T05:00:00Z
@@ -90,6 +97,7 @@
   - 559337
   - 600701
   - 609832
+  - 617537
   - 624768
   - 979964
   start: 2026-11-11T05:30:00Z
@@ -108,6 +116,7 @@
   subtitled: true
 - eventId:
   - 600796
+  - 609074
   - 609921
   - 624854
   - 979993
@@ -128,6 +137,7 @@
   description: "Die Zeit lässt sich zwar nicht zurückdrehen, unser Alter aber schon! \nZumindest unser biologisches Alter. Für ein langes und gesundes Leben kommt es dabei besonders auf die Lebensmitte an. Schon innerhalb weniger Monate können wir unseren Körper dazu bringen, Alterungsprozesse zu verlangsamen oder sogar umzukehren. Im Test wird deutlich, wie stark sich das biologische Alter tatsächlich verändern lässt - nach nur drei Monaten mit neuem Lebensstil."
 - eventId:
   - 600797
+  - 609075
   - 609922
   - 624855
   - 979994
@@ -144,6 +154,7 @@
   - 1482931
   - 559484
   - 600798
+  - 609076
   - 609923
   - 624856
   - 979995
@@ -156,6 +167,7 @@
 - eventId:
   - 559485
   - 600799
+  - 609077
   - 609924
   - 624857
   - 979996
@@ -167,6 +179,7 @@
 - eventId:
   - 559486
   - 600800
+  - 609078
   - 609925
   - 624858
   - 979997
@@ -178,6 +191,7 @@
 - eventId:
   - 559487
   - 600801
+  - 609079
   - 609926
   - 624859
   - 979998
@@ -189,6 +203,7 @@
 - eventId:
   - 559488
   - 600802
+  - 609080
   - 609927
   - 624860
   - 979999
@@ -201,6 +216,7 @@
 - eventId:
   - 559489
   - 600803
+  - 609081
   - 609928
   - 624861
   - 980000
@@ -212,19 +228,11 @@
     Schon seit vielen Jahren eröffnen die allseits beliebten Panoramabilder aus Bayern, Österreich und Südtirol, begleitet von den lokalen und regionalen Wettermeldungen, allmorgendlich einen atemberaubenden Blick auf die Schönheit von Gebirgswelten, Landschaften und Städten im stetigen Wechsel der Jahreszeiten.
 
     Täglich von 6.00 Uhr bis 20.00 Uhr in der ARD Mediathek unter www.br.de/panoramabilder
-- eventId:
-  - 559662
-  - 600899
-  - 612558
-  - 624983
-  - 980303
+- eventId: 609455
   start: 2026-11-11T09:00:00Z
   stop: 2026-11-11T09:30:00Z
   title: Schnittgut. Alles aus dem Garten
-  subtitle: Buntnesseln - Knollenblumen - Vogelfreundliche Sträucher
-  subtitled: true
-  genre:
-  - '144'
+  subtitle: Buntnesseln | Knollenblumen | Vogelfreundliche Sträucher
   description: |-
     Themen:
     * Buntnesseln
@@ -234,19 +242,14 @@
     * Flambierter Apfel
     * Vogelfreundliche Sträucher
     * Kakteen-Garten
-- eventId:
-  - 559663
-  - 600900
-  - 612559
-  - 624984
-  - 980304
+  genre:
+  - '144'
+  subtitled: true
+- eventId: 609456
   start: 2026-11-11T09:30:00Z
   stop: 2026-11-11T10:00:00Z
   title: aktiv und gesund
   subtitle: KI gegen Schlaganfälle | Mentale Gesundheit | Fehldiagnose Demenz
-  subtitled: true
-  genre:
-  - '144'
   description: |-
     Themen:
     * KI gegen Schlaganfälle
@@ -254,21 +257,20 @@
     * Übungen Fußmuskulatur
     * Wichtige Bewegung
     * Mentale Gesundheit
-- eventId:
-  - 559664
-  - 600901
-  - 612560
-  - 624985
-  - 980305
+  genre:
+  - '144'
+  subtitled: true
+- eventId: 609457
   start: 2026-11-11T10:00:00Z
   stop: 2026-11-11T10:45:00Z
   title: Expedition in die Heimat
   subtitle: Unterwegs im Königsland
-  subtitled: true
   description: 'Das Königsland - wer kennt es, wer weiß, wie groß es ist und wer überhaupt als König hier regiert? Es ist ein fast unbekanntes Land mitten in der Pfalz, ein Land voller Wald, ein Land voller Geheimnisse. In seiner Mitte liegt ein Berg, umringt von ein paar Dörfern: der Königsberg. Sogar eine kleine Stadt liegt am Fuße dieses Berges. Ihr Name klingt wie aus einem alten Märchen: Wolfstein. Und märchenhaft sind sie wirklich manchmal, die Geschichten, die Anna Lena Dörr auf ihrer Expedition durch das Königsland entdeckt. Geschichten von Königen und Herrschern über ganz eigene Reiche.'
+  subtitled: true
 - eventId:
   - 559665
   - 600902
+  - 609458
   - 612561
   - 624986
   - 980306
@@ -283,6 +285,7 @@
 - eventId:
   - 559666
   - 600903
+  - 609459
   - 612562
   - 624987
   - 980307
@@ -291,35 +294,26 @@
   title: Tagesgespräch
   subtitle: Rufen Sie uns an, Ihre Meinung ist gefragt!
   description: 'Diskutieren Sie mit unserem kompetenten Studiogast über ein aktuelles Thema. Politik, Wirtschaft, Kultur, Religion und Sport - im Tagesgespräch debattieren wir über alle gesellschaftlich wichtigen Fragen. Unter dieser gebührenfreien Telefonnummer sind wir werktags ab 11 Uhr für Sie erreichbar: 0800 / 94 95 95 5'
-- eventId:
-  - 559830
-  - 600983
-  - 610123
-  - 625069
-  - 980329
+- eventId: 609523
   start: 2026-11-11T12:00:00Z
   stop: 2026-11-11T12:15:00Z
   title: Tele-Gym (1/8)
   subtitle: Gesund & schön - funktionelles Figurtraining
-  subtitled: true
   description: "Jugendliches Aussehen und ein straffer Körper hat wenig mit den Pfunden zu tun, die man auf den Rippen hat. Vielmehr kommt es darauf an, dass die Proportionen stimmen. Das erreichen wir, indem wir nicht einzelne Muskeln, sondern ganze Muskelketten und somit Bewegungsabläufe trainieren. \nGeben Sie Ihrem Körper den Powerkick, den er braucht, um gesund, leistungsfähig und attraktiv zu bleiben. 15 Minuten täglich reichen vollkommen aus!"
-- eventId:
-  - 559831
-  - 600984
-  - 610124
-  - 625070
-  - 980330
+  subtitled: true
+- eventId: 609524
   start: 2026-11-11T12:15:00Z
   stop: 2026-11-11T12:30:00Z
   title: Tele-Gym (1/8)
-  subtitle: Gesunder Rücken
+  subtitle: Emotional Moves
+  description: Unser Ziel ist es, Wege aus dem alltäglichen Stress und der Anspannung zu finden und Schmerzen gar nicht erst aufkommen zu lassen. In unserem Programm finden Sie Übungen, die Sie jederzeit in Ihren Alltag einfügen können - sei es im Büro, zu Hause oder auf Reisen. Experten haben diese Übungen für Sie entwickelt.
   genre:
   - '144'
   subtitled: true
-  description: Unser Ziel ist es, Wege aus dem alltäglichen Stress und der Anspannung zu finden und Schmerzen gar nicht erst aufkommen zu lassen. In unserem Programm finden Sie Übungen, die Sie jederzeit in Ihren Alltag einfügen können - sei es im Büro, zu Hause oder auf Reisen. Experten haben diese Übungen für Sie entwickelt.
 - eventId:
   - 559832
   - 600985
+  - 609525
   - 610125
   - 625071
   - 980331
@@ -330,6 +324,7 @@
 - eventId:
   - 559833
   - 600986
+  - 609526
   - 610126
   - 625072
   - 980332
@@ -348,6 +343,7 @@
 - eventId:
   - 559834
   - 600987
+  - 609527
   - 610127
   - 625073
   - 980333
@@ -359,6 +355,7 @@
 - eventId:
   - 559835
   - 600988
+  - 609528
   - 610128
   - 625074
   - 980334
@@ -370,6 +367,7 @@
 - eventId:
   - 559836
   - 600989
+  - 609529
   - 610129
   - 625075
   - 980335
@@ -381,6 +379,7 @@
 - eventId:
   - 559987
   - 601099
+  - 609812
   - 610249
   - 625167
   - 980020
@@ -392,6 +391,7 @@
 - eventId:
   - 559988
   - 601100
+  - 609813
   - 610250
   - 625168
   - 980021
@@ -406,6 +406,7 @@
 - eventId:
   - 559989
   - 601101
+  - 609814
   - 610251
   - 625169
   - 980022
@@ -423,7 +424,9 @@
   start: 2026-11-11T16:30:00Z
   stop: 2026-11-11T17:15:00Z
   title: 'Tobis Städtetrip: zurück in Kassel'
-- eventId: 610252
+- eventId:
+  - 609815
+  - 610252
   start: 2026-11-11T16:30:00Z
   stop: 2026-11-11T17:15:00Z
   title: 'tobis städtetrip: Zurück in Kassel'
@@ -431,6 +434,7 @@
 - eventId:
   - 559991
   - 601103
+  - 609816
   - 610253
   - 625171
   - 980024
@@ -447,6 +451,7 @@
 - eventId:
   - 559992
   - 601104
+  - 609817
   - 610254
   - 625172
   - 980025
@@ -459,6 +464,7 @@
   - 560185
   - 592162
   - 603222
+  - 609993
   - 610367
   - 980061
   start: 2026-11-11T18:30:00Z
@@ -469,6 +475,7 @@
   - 560186
   - 592163
   - 603223
+  - 609994
   - 610368
   - 980062
   start: 2026-11-11T19:00:00Z
@@ -482,6 +489,7 @@
   - 560187
   - 592164
   - 603224
+  - 609995
   - 610369
   - 980063
   start: 2026-11-11T19:15:00Z
@@ -496,6 +504,7 @@
   - 560188
   - 592165
   - 603225
+  - 609996
   - 610370
   - 980064
   start: 2026-11-11T20:00:00Z
@@ -506,30 +515,27 @@
   - 560189
   - 592166
   - 603226
+  - 609997
   - 610371
   - 980065
   start: 2026-11-11T20:45:00Z
   stop: 2026-11-11T21:15:00Z
   title: 'alpha-thema Gespräch: Hilfe bei Seltenen Erkrankungen'
   subtitle: 'Moderation: Mirjam Kottmann'
-- eventId:
-  - 560338
-  - 592539
-  - 601298
-  - 610484
-  - 980093
+- eventId: 610113
   start: 2026-11-11T21:15:00Z
   stop: 2026-11-11T22:00:00Z
   title: Lebenslinien
   subtitle: Statistisch bin ich unsterblich
-  subtitled: true
   description: |-
     Die Ziele, die sich Stephan im Leben setzt, sind von Anfang an immer so, sodass sie gerade noch in seine vorhergesagte Lebenszeit passen: Das Studium beenden, mindestens 60 Beitragsmonate in die Rentenkasse einzahlen, das Millennium erleben.
     Um möglichst lang mit der Erbkrankheit Mukoviszidose zu leben, ist sein Alltag bestimmt von Therapien, Atem-Übungen, Medikamenten und Entbehrungen. Damit und dank seiner eisernen Disziplin ist er entgegen aller Erwartungen 60 Jahre alt geworden, hat drei Kinder bekommen und einen schwerkrank geborenen Sohn großgezogen.
+  subtitled: true
 - eventId:
   - 560339
   - 592540
   - 601299
+  - 610114
   - 610485
   - 980094
   start: 2026-11-11T22:00:00Z
@@ -541,6 +547,7 @@
   - 560340
   - 592541
   - 601300
+  - 610115
   - 610486
   - 980095
   start: 2026-11-11T22:20:00Z
@@ -556,6 +563,7 @@
   - 560341
   - 592542
   - 601301
+  - 610116
   - 610487
   - 980096
   start: 2026-11-11T22:40:00Z
@@ -566,6 +574,7 @@
   - 560342
   - 592543
   - 601302
+  - 610117
   - 610488
   - 980097
   start: 2026-11-11T23:10:00Z
@@ -576,6 +585,7 @@
   - 560343
   - 592544
   - 601303
+  - 610118
   - 610489
   - 980098
   start: 2026-11-11T23:25:00Z
@@ -587,6 +597,7 @@
   - 560344
   - 592545
   - 601304
+  - 610119
   - 610490
   - 980099
   start: 2026-11-11T23:55:00Z

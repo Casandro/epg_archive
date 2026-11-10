@@ -15,8 +15,21 @@
   ageRating: 12
   genre:
   - '16'
+- eventId: 599223
+  start: 2026-11-18T00:10:00Z
+  stop: 2026-11-18T01:00:00Z
+  title: Watzmann ermittelt (13)
+  subtitle: Abschlag
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 582535
+  - 599224
   - 604357
   - 616628
   - 623039
@@ -31,6 +44,7 @@
   audiodesc: true
 - eventId:
   - 582536
+  - 599225
   - 604358
   - 616629
   - 623040
@@ -44,6 +58,7 @@
   audiodesc: true
 - eventId:
   - 582537
+  - 599226
   - 604359
   - 616630
   - 623041
@@ -57,6 +72,7 @@
   audiodesc: true
 - eventId:
   - 582538
+  - 599227
   - 604360
   - 616631
   - 623042
@@ -70,6 +86,7 @@
   audiodesc: true
 - eventId:
   - 582539
+  - 599228
   - 604361
   - 616632
   - 623043
@@ -81,7 +98,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 583347
+- eventId:
+  - 583347
+  - 599493
   start: 2026-11-18T03:25:00Z
   stop: 2026-11-18T03:55:00Z
   title: Lokalzeit aus Dortmund
@@ -89,7 +108,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 583348
+- eventId:
+  - 583348
+  - 599494
   start: 2026-11-18T03:55:00Z
   stop: 2026-11-18T04:25:00Z
   title: Lokalzeit Münsterland
@@ -97,7 +118,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 583349
+- eventId:
+  - 583349
+  - 599495
   start: 2026-11-18T04:25:00Z
   stop: 2026-11-18T04:50:00Z
   title: Lokalzeit OWL
@@ -105,7 +128,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 583350
+- eventId:
+  - 583350
+  - 599496
   start: 2026-11-18T04:50:00Z
   stop: 2026-11-18T05:20:00Z
   title: Lokalzeit Südwestfalen
@@ -116,6 +141,7 @@
 - eventId:
   - 583351
   - 592802
+  - 599497
   - 605313
   - 623341
   - 981467
@@ -129,6 +155,7 @@
 - eventId:
   - 583352
   - 592803
+  - 599498
   - 605314
   - 623342
   - 981468
@@ -139,6 +166,28 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 1537440
+  - 584696
+  - 593417
+  - 599973
+  - 606306
+  - 625077
+  start: 2026-11-18T06:20:00Z
+  stop: 2026-11-18T06:40:00Z
+  title: Elefant, Tiger & Co. (445)
+  subtitle: Geschichten aus dem Leipziger Zoo
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    * Lohn der Liebe
+    Nashornbulle Ndugu verbringt ab jetzt täglich wieder ein wenig Zeit mit seinen Nachbarinnen Sarafine und Nandi.
+    * Versteckspiel
+    Die Plumplori-Zwillinge gedeihen prächtig und sind auch schon allein im Gehege unterwegs.
+    * Happy Birthday!
+    Grund zur Freude im Okapistall. Abeni, das erste Okapijungtier im Leipziger Zoo, ist vor wenigen Tagen ein Jahr alt geworden.
 - eventId:
   - 583923
   - 593381
@@ -180,9 +229,19 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 599975
+  start: 2026-11-18T07:25:00Z
+  stop: 2026-11-18T08:10:00Z
+  title: In aller Freundschaft (1048)
+  subtitle: Ich schaffe das schon!
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 583926
   - 593384
+  - 599976
   - 606088
   - 625287
   - 981116
@@ -196,6 +255,7 @@
 - eventId:
   - 583927
   - 593385
+  - 599977
   - 606089
   - 625288
   - 981117
@@ -210,6 +270,7 @@
 - eventId:
   - 584690
   - 593973
+  - 600235
   - 606587
   - 623676
   - 981162
@@ -224,6 +285,7 @@
 - eventId:
   - 584691
   - 593974
+  - 600236
   - 606588
   - 623677
   - 981163
@@ -238,6 +300,7 @@
 - eventId:
   - 584692
   - 593975
+  - 600237
   - 606589
   - 623678
   - 981164
@@ -252,6 +315,7 @@
 - eventId:
   - 584693
   - 593976
+  - 600238
   - 606590
   - 623679
   - 981165
@@ -266,6 +330,7 @@
 - eventId:
   - 592834
   - 594465
+  - 600496
   - 607120
   - 623889
   - 981206
@@ -280,6 +345,7 @@
 - eventId:
   - 592835
   - 594466
+  - 600497
   - 607121
   - 623890
   - 981207
@@ -308,6 +374,18 @@
   ageRating: 6
   genre:
   - '16'
+- eventId: 600498
+  start: 2026-11-18T13:20:00Z
+  stop: 2026-11-18T14:10:00Z
+  title: Watzmann ermittelt (14)
+  subtitle: Dritter Frühling
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 592837
   - 594468
@@ -324,9 +402,21 @@
   audiodesc: true
   genre:
   - '16'
+- eventId: 600499
+  start: 2026-11-18T14:10:00Z
+  stop: 2026-11-18T15:00:00Z
+  title: Watzmann ermittelt (15)
+  subtitle: Neue Zeiten
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 586101
   - 595210
+  - 601832
   - 607740
   - 624143
   - 981256
@@ -341,6 +431,7 @@
 - eventId:
   - 586102
   - 595211
+  - 601833
   - 607741
   - 624144
   - 981257
@@ -354,6 +445,7 @@
 - eventId:
   - 586103
   - 595212
+  - 601834
   - 607742
   - 624145
   - 981258
@@ -367,6 +459,7 @@
 - eventId:
   - 586104
   - 595213
+  - 601835
   - 607743
   - 624146
   - 981259
@@ -381,6 +474,7 @@
 - eventId:
   - 586105
   - 595214
+  - 601836
   - 607744
   - 624147
   - 981260
@@ -394,6 +488,7 @@
   audiodesc: true
 - eventId:
   - 586589
+  - 588992
   - 595466
   - 608276
   - 624394
@@ -407,6 +502,7 @@
   audiodesc: true
 - eventId:
   - 586590
+  - 588993
   - 595467
   - 608277
   - 624395
@@ -422,6 +518,7 @@
   - '32'
 - eventId:
   - 586591
+  - 588994
   - 595468
   - 608278
   - 624396
@@ -436,6 +533,7 @@
   audiodesc: true
 - eventId:
   - 586592
+  - 588995
   - 595469
   - 608279
   - 624397
@@ -450,6 +548,7 @@
   audiodesc: true
 - eventId:
   - 586593
+  - 588996
   - 595470
   - 608280
   - 624398
@@ -464,6 +563,7 @@
   audiodesc: true
 - eventId:
   - 586998
+  - 589417
   - 595878
   - 608632
   - 624578
@@ -478,6 +578,7 @@
   audiodesc: true
 - eventId:
   - 586999
+  - 589418
   - 595879
   - 608633
   - 624579
@@ -492,6 +593,7 @@
   audiodesc: true
 - eventId:
   - 587000
+  - 589419
   - 595880
   - 608634
   - 624580

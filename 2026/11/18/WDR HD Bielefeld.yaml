@@ -15,8 +15,21 @@
   ageRating: 12
   genre:
   - '16'
+- eventId: 599243
+  start: 2026-11-18T00:10:00Z
+  stop: 2026-11-18T01:00:00Z
+  title: Watzmann ermittelt (13)
+  subtitle: Abschlag
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 582556
+  - 599244
   - 604378
   - 616649
   - 623063
@@ -31,6 +44,7 @@
   audiodesc: true
 - eventId:
   - 582557
+  - 599245
   - 604379
   - 616650
   - 623064
@@ -44,6 +58,7 @@
   audiodesc: true
 - eventId:
   - 582558
+  - 599246
   - 604380
   - 616651
   - 623065
@@ -57,6 +72,7 @@
   audiodesc: true
 - eventId:
   - 582559
+  - 599247
   - 604381
   - 616652
   - 623066
@@ -70,6 +86,7 @@
   audiodesc: true
 - eventId:
   - 582560
+  - 599248
   - 604382
   - 616653
   - 623067
@@ -84,6 +101,7 @@
 - eventId:
   - 583396
   - 592833
+  - 599517
   - 605358
   - 623366
   - 981469
@@ -97,6 +115,7 @@
 - eventId:
   - 583397
   - 592834
+  - 599518
   - 605359
   - 623367
   - 981470
@@ -110,6 +129,7 @@
 - eventId:
   - 583398
   - 592835
+  - 599519
   - 605360
   - 623368
   - 981471
@@ -123,6 +143,7 @@
 - eventId:
   - 583399
   - 592836
+  - 599520
   - 605361
   - 623369
   - 981472
@@ -136,6 +157,7 @@
 - eventId:
   - 583400
   - 592837
+  - 599521
   - 605362
   - 623370
   - 981473
@@ -149,6 +171,7 @@
 - eventId:
   - 583401
   - 592838
+  - 599522
   - 605363
   - 623371
   - 981474
@@ -162,6 +185,7 @@
 - eventId:
   - 583983
   - 593441
+  - 600003
   - 606136
   - 625310
   - 981118
@@ -186,6 +210,15 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 600004
+  start: 2026-11-18T06:40:00Z
+  stop: 2026-11-18T07:25:00Z
+  title: In aller Freundschaft (1047)
+  subtitle: Alleingänge
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 583985
   - 593443
@@ -200,12 +233,16 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 583986
-  - 593444
-  - 606139
-  - 625313
-  - 981121
+- eventId: 600005
+  start: 2026-11-18T07:25:00Z
+  stop: 2026-11-18T08:10:00Z
+  title: In aller Freundschaft (1048)
+  subtitle: Ich schaffe das schon!
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 600006
   start: 2026-11-18T08:10:00Z
   stop: 2026-11-18T08:40:00Z
   title: Lokalzeit OWL
@@ -214,22 +251,24 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 583987
-  - 593445
-  - 606140
-  - 625314
-  - 981122
+  - 589145
+  - 600007
   start: 2026-11-18T08:40:00Z
   stop: 2026-11-18T09:25:00Z
-  title: Gefragt - Gejagt
-  subtitle: 'Moderation: Alexander Bommes'
+  title: Karneval Classics
+  subtitle: Das Beste von Bernd Stelter!
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  description: |-
+    Bernd Stelter ist seit mehr als 30 Jahren auf den Bühnen des Kölner Karnevals unterwegs und zählt heute zu den besten und beliebtesten buchbaren Rednern im Karneval überhaupt. Viele kennen das Multitalent natürlich auch noch als Comedian, Schriftsteller und Fernsehmoderator - nicht zuletzt aus Rudi Carrels "7 Tage, 7 Köpfe".
+
+    Seine Karnevalsreden sind immer auf das aktuelle Zeitgeschehen zugeschnitten, mit scharfem und intelligentem Witz nimmt er Politik, Prominenz, Zeitgeist, aber auch allzu Menschliches liebevoll ins Visier. Aber Bernd Stelter ist auch ein begnadeter Musiker.
 - eventId:
   - 584732
   - 594042
+  - 600307
   - 606653
   - 623698
   - 981166
@@ -244,6 +283,7 @@
 - eventId:
   - 584733
   - 594043
+  - 600308
   - 606654
   - 623699
   - 981167
@@ -258,6 +298,7 @@
 - eventId:
   - 584734
   - 594044
+  - 600309
   - 606655
   - 623700
   - 981168
@@ -272,6 +313,7 @@
 - eventId:
   - 584735
   - 594045
+  - 600310
   - 606656
   - 623701
   - 981169
@@ -286,6 +328,7 @@
 - eventId:
   - 585582
   - 594506
+  - 600516
   - 607173
   - 623908
   - 981210
@@ -300,6 +343,7 @@
 - eventId:
   - 585583
   - 594507
+  - 600517
   - 607174
   - 623909
   - 981211
@@ -328,6 +372,18 @@
   ageRating: 6
   genre:
   - '16'
+- eventId: 600518
+  start: 2026-11-18T13:20:00Z
+  stop: 2026-11-18T14:10:00Z
+  title: Watzmann ermittelt (14)
+  subtitle: Dritter Frühling
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 585585
   - 594509
@@ -344,8 +400,20 @@
   audiodesc: true
   genre:
   - '16'
+- eventId: 600519
+  start: 2026-11-18T14:10:00Z
+  stop: 2026-11-18T15:00:00Z
+  title: Watzmann ermittelt (15)
+  subtitle: Neue Zeiten
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 586152
+  - 588169
   - 595233
   - 607796
   - 624169
@@ -360,6 +428,7 @@
   audiodesc: true
 - eventId:
   - 586153
+  - 588170
   - 595234
   - 607797
   - 624170
@@ -373,6 +442,7 @@
   audiodesc: true
 - eventId:
   - 586154
+  - 588171
   - 595235
   - 607798
   - 624171
@@ -386,6 +456,7 @@
   audiodesc: true
 - eventId:
   - 586155
+  - 588172
   - 595236
   - 607799
   - 624172
@@ -400,6 +471,7 @@
   audiodesc: true
 - eventId:
   - 586156
+  - 588173
   - 595237
   - 607800
   - 624173
@@ -414,6 +486,7 @@
   audiodesc: true
 - eventId:
   - 586632
+  - 589041
   - 595648
   - 608346
   - 624413
@@ -427,6 +500,7 @@
   audiodesc: true
 - eventId:
   - 586633
+  - 589042
   - 595649
   - 608347
   - 624414
@@ -442,6 +516,7 @@
   - '32'
 - eventId:
   - 586634
+  - 589043
   - 595650
   - 608348
   - 624415
@@ -456,6 +531,7 @@
   audiodesc: true
 - eventId:
   - 586635
+  - 589044
   - 595651
   - 608349
   - 624416
@@ -470,6 +546,7 @@
   audiodesc: true
 - eventId:
   - 586636
+  - 589045
   - 595652
   - 608350
   - 624417
@@ -483,6 +560,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 589440
   - 592882
   - 595910
   - 608647
@@ -497,6 +575,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 589441
   - 592883
   - 595911
   - 608648
@@ -511,6 +590,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 589442
   - 592884
   - 595912
   - 608649

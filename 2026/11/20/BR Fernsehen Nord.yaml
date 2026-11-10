@@ -1,9 +1,11 @@
 - eventId:
   - 580675
+  - 580907
   - 592649
   - 605136
   - 609929
   - 610591
+  - 628358
   - 637076
   - 716867
   start: 2026-11-20T00:15:00Z
@@ -16,10 +18,12 @@
   audiodesc: true
 - eventId:
   - 580676
+  - 580908
   - 592650
   - 605137
   - 609930
   - 610592
+  - 628359
   - 637077
   - 716868
   start: 2026-11-20T01:10:00Z
@@ -32,10 +36,12 @@
   audiodesc: true
 - eventId:
   - 580677
+  - 580909
   - 592651
   - 605138
   - 609931
   - 610593
+  - 628360
   - 637078
   - 716869
   start: 2026-11-20T01:40:00Z
@@ -48,10 +54,12 @@
   audiodesc: true
 - eventId:
   - 580678
+  - 580910
   - 592652
   - 605139
   - 609932
   - 610594
+  - 628361
   - 637079
   - 716870
   start: 2026-11-20T02:10:00Z
@@ -63,29 +71,18 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 581634
-  - 592777
-  - 594110
-  - 610294
-  - 610689
-  - 637106
-  - 716925
+  - 581245
+  - 628450
   start: 2026-11-20T03:25:00Z
   stop: 2026-11-20T03:55:00Z
   title: Frankenschau aktuell
-  subtitle: Das Magazin für Bergsteiger
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
 - eventId:
-  - 581635
-  - 592778
-  - 594111
-  - 610295
-  - 610690
-  - 637107
-  - 716926
+  - 581246
+  - 628451
   start: 2026-11-20T03:55:00Z
   stop: 2026-11-20T04:30:00Z
   title: Abendschau - Der Süden
@@ -95,32 +92,20 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 581636
-  - 592779
-  - 594112
-  - 610296
-  - 637108
-  - 716927
+  - 581247
+  - 610691
+  - 628452
   start: 2026-11-20T04:30:00Z
   stop: 2026-11-20T05:00:00Z
-  title: Wir in Bayern
+  title: Space Night
   subtitle: The Blue Planet
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 610691
-  start: 2026-11-20T04:30:00Z
-  stop: 2026-11-20T05:00:00Z
-  title: Space Night
-  subtitle: The Blue Planet
 - eventId:
-  - 581637
-  - 594113
-  - 610692
-  - 636845
-  - 636854
-  - 637109
+  - 581248
+  - 628453
   start: 2026-11-20T05:00:00Z
   stop: 2026-11-20T05:30:00Z
   title: Dahoam is Dahoam (3833)
@@ -130,27 +115,24 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 581638
-  - 592780
-  - 594114
-  - 610297
-  - 610693
-  - 637110
-  - 716928
+  - 581249
+  - 628454
   start: 2026-11-20T05:30:00Z
   stop: 2026-11-20T06:20:00Z
-  title: Sturm der Liebe (4677) (4677)
+  title: Sturm der Liebe (4677)
   subtitle: Deutschland 2026
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
 - eventId:
+  - 581622
   - 582204
   - 594417
   - 594897
   - 607742
   - 610511
+  - 624237
   - 637134
   - 717001
   start: 2026-11-20T06:20:00Z
@@ -164,17 +146,33 @@
   genre:
   - '144'
 - eventId:
+  - 581623
   - 582205
   - 594418
   - 594898
   - 607743
   - 610512
+  - 624238
   - 637135
   - 717002
   start: 2026-11-20T06:35:00Z
   stop: 2026-11-20T08:00:00Z
   title: Panoramabilder / Bergwetter
   subtitle: Täglich von 6.00 Uhr bis 20.00 Uhr in der ARD Mediathek unter www.br.de/panoramabilder
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 581624
+  - 607744
+  - 624239
+  start: 2026-11-20T08:00:00Z
+  stop: 2026-11-20T08:15:00Z
+  title: Tele-Gym (2/8)
+  subtitle: Aktiv & beweglich mit 60+
+  genre:
+  - '144'
   widescreen: true
   subtitled: true
   hd: true
@@ -196,11 +194,18 @@
   audiodesc: true
   genre:
   - '144'
-- eventId: 607744
-  start: 2026-11-20T08:00:00Z
-  stop: 2026-11-20T08:15:00Z
-  title: Tele-Gym (2/8)
-  subtitle: Aktiv & beweglich mit 60+
+- eventId:
+  - 581625
+  - 607745
+  - 624240
+  start: 2026-11-20T08:15:00Z
+  stop: 2026-11-20T08:45:00Z
+  title: Dahoam is Dahoam (1561)
+  subtitle: Die Ururi
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 582207
   - 594420
@@ -216,11 +221,18 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 607745
-  start: 2026-11-20T08:15:00Z
-  stop: 2026-11-20T08:45:00Z
-  title: Dahoam is Dahoam (1561)
-  subtitle: Die Ururi
+- eventId:
+  - 581626
+  - 607746
+  - 624241
+  start: 2026-11-20T08:45:00Z
+  stop: 2026-11-20T09:15:00Z
+  title: Dahoam is Dahoam (1562)
+  subtitle: Menu à la Française
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 582208
   - 594421
@@ -236,16 +248,13 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 607746
-  start: 2026-11-20T08:45:00Z
-  stop: 2026-11-20T09:15:00Z
-  title: Dahoam is Dahoam (1562)
-  subtitle: Menu à la Française
 - eventId:
+  - 581857
   - 594816
   - 595526
   - 607851
   - 611059
+  - 624338
   start: 2026-11-20T09:15:00Z
   stop: 2026-11-20T10:05:00Z
   title: Panda, Gorilla & Co. (334)
@@ -255,10 +264,12 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 581858
   - 594817
   - 595527
   - 607852
   - 611060
+  - 624339
   start: 2026-11-20T10:05:00Z
   stop: 2026-11-20T10:50:00Z
   title: Abenteuer Wildnis
@@ -268,10 +279,12 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 581859
   - 594818
   - 595528
   - 607853
   - 611061
+  - 624340
   start: 2026-11-20T10:50:00Z
   stop: 2026-11-20T11:20:00Z
   title: aktiv und gesund
@@ -283,10 +296,12 @@
   genre:
   - '144'
 - eventId:
+  - 581860
   - 594819
   - 595529
   - 607854
   - 611062
+  - 624341
   start: 2026-11-20T11:20:00Z
   stop: 2026-11-20T11:50:00Z
   title: Schnittgut. Alles aus dem Garten
@@ -296,11 +311,13 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 581861
   - 582518
   - 594820
   - 595530
   - 607855
   - 611063
+  - 624342
   - 637175
   - 717076
   start: 2026-11-20T11:50:00Z
@@ -311,6 +328,23 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 582094
+  - 587951
+  - 598307
+  - 606712
+  - 608952
+  - 714400
+  - 771639
+  start: 2026-11-20T12:35:00Z
+  stop: 2026-11-20T13:25:00Z
+  title: Morden im Norden (149)
+  subtitle: Bringe das Furzkissen zum furzen
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  ageRating: 12
 - eventId:
   - 582865
   - 594976
@@ -329,6 +363,38 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 587493
+  - 598052
+  - 600323
+  - 617795
+  - 624423
+  start: 2026-11-20T12:35:00Z
+  stop: 2026-11-20T13:25:00Z
+  title: Morden im Norden (149)
+  subtitle: Nachrichten - Berichte - Wettervorhersage
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 582095
+  - 587952
+  - 598308
+  - 606713
+  - 608953
+  - 714401
+  - 771640
+  start: 2026-11-20T13:25:00Z
+  stop: 2026-11-20T14:10:00Z
+  title: Gefragt - Gejagt (942)
+  subtitle: Spielfilm Italien/Frankreich 1965
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  genre:
+  - '16'
+- eventId:
   - 582866
   - 594977
   - 595597
@@ -345,6 +411,27 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 587494
+  - 591913
+  - 598053
+  - 600324
+  - 617796
+  - 624424
+  - 681582
+  - 876281
+  start: 2026-11-20T13:25:00Z
+  stop: 2026-11-20T14:10:00Z
+  title: Gefragt - Gejagt (942)
+  subtitle: 'Moderation: Alexander Bommes'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Ingolstadt: tüfteln, brauen, ratschen & gruseln!
+    Mit rund 140.000 Einwohnern ist die Ingolstadt, eine der am schnellsten wachsenden Städte Deutschlands, bekannt für Autos und Industrie. Doch das "Ländermagazin" aus Bayern schaut bewusst hinter die Fassaden der historischen Altstadt, auf der Suche nach dem Ungewöhnlichen und Spannenden, zum Beispiel im Gewölbekeller beim Neuen Schloss: Hier stellt Lichtkünstler Markus Jordan seine Objekte und Installationen aus - ein Labor, in dem man sich ein bisschen wie in Frankensteins Dachkammer vorkommt.
+- eventId:
+  - 582096
   - 582867
   - 594978
   - 595598
@@ -361,7 +448,22 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 598054
+  - 607511
+  - 617797
+  - 624425
+  start: 2026-11-20T14:10:00Z
+  stop: 2026-11-20T15:00:00Z
+  title: Quizduell-Olymp (401)
+  subtitle: 'Gäste: Harry Wijnvoord und Marijke Amado'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Nord- und Ostsee scheinen vertraut, doch sie haben längst nicht alle Geheimnisse preisgegeben. In den Tiefen zwischen Bornholm und dem finnischen Schärengarten, zwischen den Inseln Estlands und den Kreidefelsen Møns spielen sich Dramen im Großen wie im Kleinen ab. Die vierteilige Dokumentationsreihe zeigt nicht nur die Pracht unserer Meere, sondern auch ihre Verletzlichkeit.
+- eventId:
   - 583466
+  - 584453
   - 595159
   - 597552
   - 608041
@@ -377,7 +479,27 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 587652
+  - 592093
+  - 598184
+  - 600474
+  - 606008
+  - 607637
+  - 624546
+  - 681629
+  - 876308
+  start: 2026-11-20T15:00:00Z
+  stop: 2026-11-20T15:15:00Z
+  title: Der Unschuldsengel (1)
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  subtitle: Deutschland 1992
+  description: 'Ein arglistiger Zufall will es, dass der Piano-Schorsch an ein und demselben Tag seiner "Traumfrau" begegnet und gleichzeitig erkennen muss, dass das Klima für ihn und seinesgleichen - die Penner zwischen Reichenbachbrücke und die "Kiosk-Agathe" - kälter zu werden scheint: Schärfere Polizeistreifen und ein neuer Kommissar machen Schorsch Angst. Agathe könnte die Rettung sein, denn sie liebt ihn so, wie er ist, und würde ihn heiraten. Aber Schorsch liebt nicht Agathe, sondern seine Freiheit und eventuell auch die schöne Unbekannte, von der ihn Welten trennen, die ihm jedoch immer wieder begegnet und ihm sogar im Traum erscheint.'
+- eventId:
   - 583467
+  - 584454
   - 595160
   - 597553
   - 608042
@@ -393,7 +515,25 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 587653
+  - 592097
+  - 598185
+  - 606016
+  - 607638
+  - 624547
+  - 658868
+  - 983422
+  start: 2026-11-20T15:15:00Z
+  stop: 2026-11-20T16:30:00Z
+  title: Wir in Bayern
+  subtitle: Muss ich vergeben? Über Verletzungen und Schuld
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 583468
+  - 584455
   - 595161
   - 597554
   - 608043
@@ -409,7 +549,25 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 587654
+  - 592098
+  - 598186
+  - 606017
+  - 607639
+  - 624548
+  - 658869
+  - 983423
+  start: 2026-11-20T16:30:00Z
+  stop: 2026-11-20T17:00:00Z
+  title: Dahoam is Dahoam (3832)
+  subtitle: Brenzlige Ausgangslage
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 583469
+  - 584456
   - 595162
   - 597555
   - 608044
@@ -425,7 +583,27 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 587655
+  - 592099
+  - 598187
+  - 606018
+  - 607640
+  - 624549
+  - 658870
+  - 983424
+  start: 2026-11-20T17:00:00Z
+  stop: 2026-11-20T17:30:00Z
+  title: Tagesschau
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  genre:
+  - '32'
+  subtitle: Alles was Bayern bewegt
+- eventId:
   - 583470
+  - 584457
   - 595163
   - 597556
   - 608045
@@ -440,7 +618,27 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 595397
+- eventId:
+  - 587656
+  - 592100
+  - 598188
+  - 606019
+  - 607641
+  - 624550
+  - 658871
+  - 983425
+  start: 2026-11-20T17:30:00Z
+  stop: 2026-11-20T18:00:00Z
+  title: jetzt red i extra
+  subtitle: Nachrichten - Berichte - Wettervorhersage
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 584637
+  - 595397
+  - 624677
   start: 2026-11-20T18:00:00Z
   stop: 2026-11-20T18:30:00Z
   title: Unser Land
@@ -449,7 +647,10 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 595398
+- eventId:
+  - 584638
+  - 595398
+  - 624678
   start: 2026-11-20T18:30:00Z
   stop: 2026-11-20T19:00:00Z
   title: Landgasthäuser
@@ -462,9 +663,11 @@
   - '144'
 - eventId:
   - 583894
+  - 584639
   - 595399
   - 597715
   - 612222
+  - 624679
   - 637273
   - 717386
   start: 2026-11-20T19:00:00Z
@@ -478,9 +681,11 @@
   - '32'
 - eventId:
   - 583895
+  - 584640
   - 595400
   - 597716
   - 612223
+  - 624680
   - 637274
   - 717387
   start: 2026-11-20T19:15:00Z
@@ -492,58 +697,23 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 1563371
-  - 540711
-  - 565669
-  - 578991
-  - 579857
-  - 583896
-  - 594167
-  - 595401
-  - 596522
-  - 597717
-  - 601561
-  - 608197
-  - 612224
-  - 632001
-  - 637275
-  - 717388
-  - 788339
+  - 584641
+  - 624681
   start: 2026-11-20T20:00:00Z
   stop: 2026-11-20T20:50:00Z
   title: Watzmann ermittelt (52)
-  subtitle: Alles was Bayern bewegt
+  subtitle: Tödliche Familien
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Aktuelle Berichte aus Bayern, Hintergründe zu brisanten Themen, Geschichten, die unter die Haut gehen - das ist die Abendschau.
-- eventId:
-  - 1563372
-  - 540712
-  - 565670
-  - 578992
-  - 579858
-  - 594168
-  - 596523
-  - 601562
-  - 608198
-  - 632002
-  - 788340
-  start: 2026-11-20T20:50:00Z
-  stop: 2026-11-20T21:05:00Z
-  title: Abenteuer Wildnis
-  subtitle: Nachrichten - Berichte - Wettervorhersage
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: 'Der einzige Fluss der Welt, der durch vier Hauptstädte führt: Wien, Bratislava, Budapest, Belgrad. "Flussgiganten - Die Donau" entdeckt noch unbekannte Seiten dieses internationalen Flusses, der stark vom Menschen geformt wurde und sich erst ganz zum Schluss seiner Fesseln entledigt: im unberührten Donaudelta. Die Donau - ein Naturparadies für über 2.000 Tier- und Pflanzenarten. Von einer Flusskreuzfahrt der besonderen Art erzählt Rocko Schamoni.'
 - eventId:
   - 583897
+  - 584642
   - 595402
   - 597718
   - 612225
+  - 624682
   - 637276
   - 717389
   start: 2026-11-20T20:50:00Z
@@ -556,10 +726,12 @@
   audiodesc: true
 - eventId:
   - 584026
+  - 584768
   - 595667
   - 597804
   - 608284
   - 613084
+  - 624756
   - 637291
   - 717412
   start: 2026-11-20T21:05:00Z
@@ -572,10 +744,12 @@
   audiodesc: true
 - eventId:
   - 584027
+  - 584769
   - 595668
   - 597805
   - 608285
   - 613085
+  - 624757
   - 637292
   - 717413
   start: 2026-11-20T21:50:00Z
@@ -591,10 +765,12 @@
   - '16'
 - eventId:
   - 584028
+  - 584770
   - 595669
   - 597806
   - 608286
   - 613086
+  - 624758
   - 637293
   - 717414
   start: 2026-11-20T23:55:00Z

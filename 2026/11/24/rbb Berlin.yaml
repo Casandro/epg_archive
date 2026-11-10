@@ -1,7 +1,9 @@
 - eventId:
   - 544378
   - 547823
+  - 564011
   - 568180
+  - 628315
   - 678561
   - 763501
   start: 2026-11-24T00:15:00Z
@@ -15,7 +17,9 @@
 - eventId:
   - 544379
   - 547824
+  - 564012
   - 568181
+  - 628316
   - 678562
   - 763502
   start: 2026-11-24T00:45:00Z
@@ -30,7 +34,9 @@
 - eventId:
   - 544380
   - 547825
+  - 564013
   - 568182
+  - 628317
   - 678563
   - 763503
   start: 2026-11-24T01:35:00Z
@@ -44,7 +50,9 @@
 - eventId:
   - 544381
   - 547826
+  - 564014
   - 568183
+  - 628318
   - 678564
   - 763504
   start: 2026-11-24T02:04:00Z
@@ -57,7 +65,9 @@
 - eventId:
   - 544382
   - 547827
+  - 564015
   - 568184
+  - 628319
   - 678565
   - 763505
   start: 2026-11-24T02:05:00Z
@@ -70,7 +80,9 @@
 - eventId:
   - 544383
   - 547828
+  - 564016
   - 568185
+  - 628320
   - 678566
   - 763506
   start: 2026-11-24T02:30:00Z
@@ -84,7 +96,9 @@
 - eventId:
   - 548122
   - 548269
+  - 564202
   - 569159
+  - 628406
   - 678594
   - 763530
   start: 2026-11-24T04:00:00Z
@@ -97,7 +111,9 @@
 - eventId:
   - 548123
   - 548270
+  - 564203
   - 569160
+  - 628407
   - 678595
   - 763531
   start: 2026-11-24T04:30:00Z
@@ -110,7 +126,9 @@
 - eventId:
   - 548124
   - 548271
+  - 564204
   - 569161
+  - 628408
   - 678596
   - 763532
   start: 2026-11-24T05:00:00Z
@@ -123,8 +141,10 @@
   audiodesc: true
 - eventId:
   - 548657
+  - 564886
   - 570110
   - 610923
+  - 624187
   - 678677
   - 763556
   start: 2026-11-24T07:00:00Z
@@ -136,8 +156,10 @@
   audiodesc: true
 - eventId:
   - 548658
+  - 564887
   - 570111
   - 610924
+  - 624188
   - 678678
   - 763557
   start: 2026-11-24T07:30:00Z
@@ -149,8 +171,10 @@
   audiodesc: true
 - eventId:
   - 548659
+  - 564888
   - 570112
   - 610925
+  - 624189
   - 678679
   - 763558
   start: 2026-11-24T08:00:00Z
@@ -163,8 +187,10 @@
   audiodesc: true
 - eventId:
   - 548660
+  - 564889
   - 570113
   - 610926
+  - 624190
   - 678680
   - 763559
   start: 2026-11-24T08:45:00Z
@@ -176,9 +202,11 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 565393
   - 570290
   - 571219
   - 611305
+  - 624291
   - 678717
   - 763583
   start: 2026-11-24T09:30:00Z
@@ -190,9 +218,11 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 565394
   - 570291
   - 571220
   - 611306
+  - 624292
   - 678718
   - 763584
   start: 2026-11-24T10:15:00Z
@@ -204,9 +234,11 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 565395
   - 570292
   - 571221
   - 611307
+  - 624293
   - 678719
   - 763585
   start: 2026-11-24T11:05:00Z
@@ -219,9 +251,11 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 565396
   - 570293
   - 571222
   - 611308
+  - 624294
   - 678720
   - 763586
   start: 2026-11-24T11:55:00Z
@@ -235,6 +269,7 @@
 - eventId:
   - 548347
   - 549468
+  - 565799
   - 570760
   - 678772
   - 763609
@@ -248,9 +283,29 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 548434
+  - 554923
+  - 577972
+  - 607452
+  - 624372
+  - 658698
+  - 980590
+  start: 2026-11-24T12:40:00Z
+  stop: 2026-11-24T13:30:00Z
+  title: DER TAG in Berlin & Brandenburg
+  subtitle: mit rbb24, Sport und Wetter
+  episodeUri: crid://onid-1/e/6ac6c3e7ce2502e543242307
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  ageRating: 6
+- eventId:
   - 548348
   - 549469
+  - 565800
   - 570761
+  - 624373
   - 678773
   - 763610
   start: 2026-11-24T13:30:00Z
@@ -264,56 +319,64 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 549943
-  - 550071
-  - 571298
-  - 678851
-  - 763628
+  - 566769
+  - 624468
   start: 2026-11-24T15:00:00Z
   stop: 2026-11-24T15:15:00Z
   title: rbb24
-  widescreen: true
   subtitled: true
+  widescreen: true
   hd: true
   audiodesc: true
 - eventId:
-  - 549944
-  - 550072
-  - 571299
-  - 678852
-  - 763629
+  - 566770
+  - 624469
   start: 2026-11-24T15:15:00Z
   stop: 2026-11-24T16:05:00Z
   title: In aller Freundschaft - Die jungen Ärzte (164)
   subtitle: Gemeinsam stark
-  widescreen: true
   subtitled: true
+  widescreen: true
   hd: true
   audiodesc: true
 - eventId:
-  - 549945
-  - 550073
-  - 571300
-  - 678853
-  - 763630
+  - 566771
+  - 624470
   start: 2026-11-24T16:05:00Z
   stop: 2026-11-24T16:53:00Z
   title: Panda, Gorilla & Co. (267)
   subtitle: Geschichten aus dem Zoo Berlin und dem Tierpark Berlin
-  widescreen: true
   subtitled: true
+  widescreen: true
   hd: true
   audiodesc: true
 - eventId:
-  - 549946
-  - 550074
-  - 571301
-  - 678854
-  - 763631
+  - 566772
+  - 624471
   start: 2026-11-24T16:53:00Z
   stop: 2026-11-24T17:00:00Z
   title: Unser Sandmännchen
-  subtitle: 'Meine Schmusedecke: Der Maulwurf'
+  subtitle: Meine Schmusedecke
+  subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 549009
+  - 552859
+  - 555161
+  - 556276
+  - 567466
+  - 600386
+  - 607558
+  - 624472
+  - 762124
+  - 955876
+  start: 2026-11-24T17:00:00Z
+  stop: 2026-11-24T18:27:00Z
+  title: DER TAG in Berlin & Brandenburg
+  subtitle: Die Wetteraussichten für Berlin und Brandenburg
+  episodeUri: crid://onid-8468/e/6abc39a21739454b1e4a3d37
   widescreen: true
   subtitled: true
   hd: true
@@ -321,6 +384,7 @@
 - eventId:
   - 549947
   - 550075
+  - 566773
   - 571302
   - 678855
   - 763632
@@ -335,7 +399,9 @@
 - eventId:
   - 550409
   - 550925
+  - 567050
   - 572174
+  - 624613
   - 678924
   - 763707
   start: 2026-11-24T18:27:00Z
@@ -347,16 +413,13 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 550410
-  - 550926
-  - 572175
-  - 678925
-  - 763708
+  - 567051
+  - 624614
   start: 2026-11-24T18:30:00Z
   stop: 2026-11-24T18:59:00Z
   title: rbb24 Abendschau
-  widescreen: true
   subtitled: true
+  widescreen: true
   hd: true
   audiodesc: true
 - eventId:
@@ -372,56 +435,43 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 550411
-  - 550927
-  - 572176
-  - 678926
-  - 728085
-  - 728741
-  - 763709
-  - 833166
-  - 833177
+  - 567052
+  - 624615
   start: 2026-11-24T19:00:00Z
   stop: 2026-11-24T19:15:00Z
   title: Tagesschau
-  widescreen: true
   subtitled: true
+  widescreen: true
   hd: true
   audiodesc: true
-  genre:
-  - '32'
 - eventId:
-  - 550412
-  - 550928
-  - 572177
-  - 678927
-  - 763710
+  - 567053
+  - 624616
   start: 2026-11-24T19:15:00Z
   stop: 2026-11-24T20:15:00Z
   title: Die 12 - rbb Bürgerrat
   subtitle: 'Moderation: Justus Kliss'
-  widescreen: true
   subtitled: true
+  widescreen: true
   hd: true
   audiodesc: true
 - eventId:
-  - 550413
-  - 550929
-  - 572178
-  - 678928
-  - 763711
+  - 567054
+  - 624617
   start: 2026-11-24T20:15:00Z
   stop: 2026-11-24T20:45:00Z
   title: 'Y-Kollektiv: Böllern extrem'
   subtitle: Film von Johannes Musial
-  widescreen: true
   subtitled: true
+  widescreen: true
   hd: true
   audiodesc: true
 - eventId:
   - 550414
   - 550930
+  - 567055
   - 572179
+  - 624618
   - 678929
   - 763712
   start: 2026-11-24T20:45:00Z
@@ -434,9 +484,11 @@
 - eventId:
   - 550671
   - 551205
+  - 567779
   - 572426
   - 602868
   - 614068
+  - 624717
   - 634330
   - 678995
   - 763744
@@ -453,6 +505,8 @@
 - eventId:
   - 550672
   - 551206
+  - 567780
+  - 624718
   - 678996
   - 763745
   start: 2026-11-24T22:10:00Z
@@ -479,24 +533,16 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 550673
-  - 551207
-  - 572428
-  - 600994
-  - 614070
-  - 678997
-  - 763478
-  - 763746
-  - 956551
+  - 567781
+  - 624719
   start: 2026-11-24T23:10:00Z
   stop: 2026-11-25T00:25:00Z
-  title: Geheimnisse Asiens - Die schönsten Nationalparks (5/5)
-  subtitle: Sparplan statt Fahrplan - Busse in Oberhavel auf Streichliste
+  title: Antenne Brandenburg Stammtisch aus Oranienburg
+  subtitle: Sparplan statt Fahrplan - Busse auf der Streichliste
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  episodeUri: crid://onid-1/e/6ac5725155a7c79709f508fc
 - eventId:
   - 719558
   - 719564
@@ -508,22 +554,3 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId:
-  - 550674
-  - 551208
-  - 572429
-  - 600995
-  - 614071
-  - 678998
-  - 763479
-  - 763747
-  - 956552
-  start: 2026-11-24T23:55:00Z
-  stop: 2026-11-25T00:40:00Z
-  title: Die Greifensteine - Verwunschene Riesen im Erzgebirge
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  subtitle: Doppelter Schwindel
-  episodeUri: crid://onid-1/e/6ac5725155a7c79709f508fa

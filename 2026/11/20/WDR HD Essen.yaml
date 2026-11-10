@@ -1,4 +1,5 @@
 - eventId:
+  - 584000
   - 589291
   - 600225
   - 612099
@@ -12,6 +13,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 584001
   - 589292
   - 600226
   - 612100
@@ -25,6 +27,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 584002
   - 589293
   - 600227
   - 612101
@@ -38,6 +41,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 584003
   - 589294
   - 600228
   - 612102
@@ -51,6 +55,7 @@
   audiodesc: true
 - eventId:
   - 589555
+  - 592797
   - 600547
   - 612338
   - 636663
@@ -63,6 +68,7 @@
   audiodesc: true
 - eventId:
   - 589556
+  - 592798
   - 600548
   - 612339
   - 636664
@@ -75,6 +81,7 @@
   audiodesc: true
 - eventId:
   - 589557
+  - 592799
   - 600549
   - 612340
   - 636665
@@ -87,6 +94,7 @@
   audiodesc: true
 - eventId:
   - 589558
+  - 592800
   - 600550
   - 612341
   - 636666
@@ -99,6 +107,7 @@
   audiodesc: true
 - eventId:
   - 589559
+  - 592801
   - 600551
   - 612342
   - 636667
@@ -111,6 +120,7 @@
   audiodesc: true
 - eventId:
   - 589560
+  - 592802
   - 600552
   - 612343
   - 636668
@@ -123,6 +133,7 @@
   audiodesc: true
 - eventId:
   - 589892
+  - 593123
   - 600914
   - 612689
   - 636719
@@ -135,6 +146,7 @@
   audiodesc: true
 - eventId:
   - 589893
+  - 593124
   - 600915
   - 612690
   - 636720
@@ -148,6 +160,7 @@
   audiodesc: true
 - eventId:
   - 589894
+  - 593125
   - 600916
   - 612691
   - 636721
@@ -159,7 +172,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 693016
+- eventId:
+  - 593126
+  - 693016
   start: 2026-11-20T08:05:00Z
   stop: 2026-11-20T08:40:00Z
   title: Lokalzeit Ruhr
@@ -181,6 +196,7 @@
   audiodesc: true
 - eventId:
   - 589896
+  - 593127
   - 600918
   - 612693
   - 636723
@@ -194,6 +210,7 @@
   audiodesc: true
 - eventId:
   - 590174
+  - 593374
   - 601196
   - 612959
   - 636795
@@ -209,6 +226,7 @@
   - '112'
 - eventId:
   - 590175
+  - 593375
   - 601197
   - 612960
   - 636796
@@ -222,6 +240,7 @@
   audiodesc: true
 - eventId:
   - 590176
+  - 593376
   - 601198
   - 612961
   - 636797
@@ -235,6 +254,7 @@
   audiodesc: true
 - eventId:
   - 590177
+  - 593377
   - 601199
   - 612962
   - 636798
@@ -248,6 +268,7 @@
   audiodesc: true
 - eventId:
   - 590416
+  - 593598
   - 608043
   - 613175
   - 636855
@@ -261,6 +282,7 @@
   audiodesc: true
 - eventId:
   - 590417
+  - 593599
   - 608044
   - 613176
   - 636856
@@ -288,6 +310,18 @@
   ageRating: 12
   genre:
   - '16'
+- eventId: 593600
+  start: 2026-11-20T13:20:00Z
+  stop: 2026-11-20T14:10:00Z
+  title: Watzmann ermittelt (18)
+  subtitle: Weihnachtsmänner im Sommer
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 590419
   - 608046
@@ -304,8 +338,21 @@
   ageRating: 12
   genre:
   - '16'
+- eventId: 593601
+  start: 2026-11-20T14:10:00Z
+  stop: 2026-11-20T15:00:00Z
+  title: Watzmann ermittelt (19)
+  subtitle: Viva la Musica
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 590653
+  - 593824
   - 601654
   - 613429
   - 636911
@@ -319,6 +366,7 @@
   audiodesc: true
 - eventId:
   - 590654
+  - 593825
   - 601655
   - 613430
   - 636912
@@ -331,6 +379,7 @@
   audiodesc: true
 - eventId:
   - 590655
+  - 593826
   - 601656
   - 613431
   - 636913
@@ -343,6 +392,7 @@
   audiodesc: true
 - eventId:
   - 590656
+  - 593827
   - 601657
   - 613432
   - 636914
@@ -356,6 +406,7 @@
   audiodesc: true
 - eventId:
   - 590657
+  - 593828
   - 601658
   - 613433
   - 636915
@@ -367,11 +418,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 590926
-  - 601922
-  - 613693
-  - 636978
+- eventId: 595070
   start: 2026-11-20T18:30:00Z
   stop: 2026-11-20T19:00:00Z
   title: Lokalzeit Ruhr
@@ -379,11 +426,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 590927
-  - 601923
-  - 613694
-  - 636979
+- eventId: 595071
   start: 2026-11-20T19:00:00Z
   stop: 2026-11-20T19:15:00Z
   title: Tagesschau
@@ -391,39 +434,23 @@
   subtitled: true
   hd: true
   audiodesc: true
-  genre:
-  - '32'
-- eventId:
-  - 590928
-  - 601924
-  - 613695
-  - 636980
+- eventId: 595072
   start: 2026-11-20T19:15:00Z
   stop: 2026-11-20T20:00:00Z
   title: Unser Tannenbaum - Weihnachtszauber aus dem Sauerland
-  subtitle: Ein Film von Brigitte Büscher und Maike von Galen
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 590929
-  - 601925
-  - 613696
-  - 636981
+- eventId: 595073
   start: 2026-11-20T20:00:00Z
   stop: 2026-11-20T20:45:00Z
   title: Lokomotiven und Legenden
-  subtitle: Ein Film von Susanne Böhm, Christian Feyerabend und Christel Fomm
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 590930
-  - 601926
-  - 613697
-  - 636982
+- eventId: 595074
   start: 2026-11-20T20:45:00Z
   stop: 2026-11-20T21:00:00Z
   title: WDR aktuell
@@ -434,6 +461,7 @@
   audiodesc: true
 - eventId:
   - 591140
+  - 595301
   - 602133
   - 616919
   - 637043
@@ -445,7 +473,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 591141
+- eventId:
+  - 591141
+  - 595302
   start: 2026-11-20T23:00:00Z
   stop: 2026-11-20T23:30:00Z
   title: Die Carolin Kebekus Show
@@ -466,6 +496,7 @@
   audiodesc: true
 - eventId:
   - 591142
+  - 595303
   - 602135
   - 616921
   - 637045

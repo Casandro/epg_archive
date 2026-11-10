@@ -1,4 +1,5 @@
 - eventId:
+  - 584148
   - 589351
   - 600285
   - 612148
@@ -12,6 +13,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 584149
   - 589352
   - 600286
   - 612149
@@ -25,6 +27,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 584150
   - 589353
   - 600287
   - 612150
@@ -38,6 +41,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 584151
   - 589354
   - 600288
   - 612151
@@ -50,6 +54,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 592900
   - 593310
   - 600661
   - 612435
@@ -62,6 +67,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 592901
   - 593311
   - 600662
   - 612436
@@ -74,6 +80,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 592902
   - 593312
   - 600663
   - 612437
@@ -86,6 +93,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 592903
   - 593313
   - 600664
   - 612438
@@ -98,6 +106,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 592904
   - 593314
   - 600665
   - 612439
@@ -110,6 +119,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 592905
   - 593315
   - 600666
   - 612440
@@ -122,6 +132,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 593198
   - 593352
   - 601001
   - 612776
@@ -134,6 +145,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 593199
   - 593353
   - 601002
   - 612777
@@ -147,6 +159,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 593200
   - 593354
   - 601003
   - 612778
@@ -159,7 +172,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 693019
+- eventId:
+  - 593201
+  - 693019
   start: 2026-11-20T08:05:00Z
   stop: 2026-11-20T08:40:00Z
   title: Lokalzeit OWL
@@ -180,6 +195,7 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 593202
   - 593356
   - 601005
   - 612780
@@ -192,6 +208,22 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 583986
+  - 593444
+  - 606139
+  - 625313
+  - 981121
+  start: 2026-11-20T09:25:00Z
+  stop: 2026-11-20T10:10:00Z
+  title: Mittendrin - Flughafen Frankfurt (72)
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  subtitle: Condors pinker Flieger - Ein Zeichen gegen Brustkrebs
+  genre:
+  - '112'
 - eventId:
   - 590240
   - 601262
@@ -208,6 +240,20 @@
   genre:
   - '112'
 - eventId:
+  - 583987
+  - 593445
+  - 606140
+  - 625314
+  - 981122
+  start: 2026-11-20T10:10:00Z
+  stop: 2026-11-20T10:55:00Z
+  title: Die Haustierprofis (1)
+  subtitle: 'Moderation: Ralph Morgenstern'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 590241
   - 601263
   - 613017
@@ -222,6 +268,7 @@
   audiodesc: true
 - eventId:
   - 590242
+  - 593446
   - 601264
   - 613018
   - 636814
@@ -235,6 +282,7 @@
   audiodesc: true
 - eventId:
   - 590243
+  - 593447
   - 601265
   - 613019
   - 636815
@@ -248,6 +296,7 @@
   audiodesc: true
 - eventId:
   - 590472
+  - 593654
   - 601472
   - 613241
   - 636867
@@ -261,6 +310,7 @@
   audiodesc: true
 - eventId:
   - 590473
+  - 593655
   - 601473
   - 613242
   - 636868
@@ -288,27 +338,31 @@
   ageRating: 12
   genre:
   - '16'
-- eventId:
-  - 590475
-  - 601475
-  - 613244
-  - 636870
-  start: 2026-11-20T14:10:00Z
-  stop: 2026-11-20T15:00:00Z
-  title: Watzmann ermittelt - 19. Viva la Musica
-  subtitle: Deutschland 2021
+- eventId: 593656
+  start: 2026-11-20T13:20:00Z
+  stop: 2026-11-20T14:10:00Z
+  title: Watzmann ermittelt (18)
+  subtitle: Weihnachtsmänner im Sommer
+  ageRating: 12
+  genre:
+  - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 593657
+  start: 2026-11-20T14:10:00Z
+  stop: 2026-11-20T15:00:00Z
+  title: Watzmann ermittelt (19)
+  subtitle: Viva la Musica
   ageRating: 12
   genre:
   - '16'
-- eventId:
-  - 590736
-  - 601732
-  - 613505
-  - 636930
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 593905
   start: 2026-11-20T15:00:00Z
   stop: 2026-11-20T15:15:00Z
   title: WDR aktuell
@@ -317,11 +371,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 590737
-  - 601733
-  - 613506
-  - 636931
+- eventId: 593906
   start: 2026-11-20T15:15:00Z
   stop: 2026-11-20T17:00:00Z
   title: Hier und heute
@@ -329,11 +379,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 590738
-  - 601734
-  - 613507
-  - 636932
+- eventId: 593907
   start: 2026-11-20T17:00:00Z
   stop: 2026-11-20T17:15:00Z
   title: WDR aktuell / Lokalzeit
@@ -343,6 +389,7 @@
   audiodesc: true
 - eventId:
   - 590739
+  - 593908
   - 601735
   - 613508
   - 636933
@@ -356,6 +403,7 @@
   audiodesc: true
 - eventId:
   - 590740
+  - 593909
   - 601736
   - 613509
   - 636934
@@ -369,6 +417,7 @@
   audiodesc: true
 - eventId:
   - 590995
+  - 595131
   - 601991
   - 613764
   - 637011
@@ -381,6 +430,7 @@
   audiodesc: true
 - eventId:
   - 590996
+  - 595132
   - 601992
   - 613765
   - 637012
@@ -395,6 +445,7 @@
   - '32'
 - eventId:
   - 590997
+  - 595133
   - 601993
   - 613766
   - 637013
@@ -408,6 +459,7 @@
   audiodesc: true
 - eventId:
   - 590998
+  - 595134
   - 601994
   - 613767
   - 637014
@@ -421,6 +473,7 @@
   audiodesc: true
 - eventId:
   - 590999
+  - 595135
   - 601995
   - 613768
   - 637015
@@ -434,6 +487,7 @@
   audiodesc: true
 - eventId:
   - 591185
+  - 595346
   - 602389
   - 613955
   - 637052
@@ -445,7 +499,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 591186
+- eventId:
+  - 591186
+  - 595347
   start: 2026-11-20T23:00:00Z
   stop: 2026-11-20T23:30:00Z
   title: Die Carolin Kebekus Show
@@ -466,6 +522,7 @@
   audiodesc: true
 - eventId:
   - 591187
+  - 595348
   - 602391
   - 613957
   - 637054

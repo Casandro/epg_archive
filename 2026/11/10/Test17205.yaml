@@ -356,7 +356,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 673197
+- eventId:
+  - 579004
+  - 673197
   start: 2026-11-10T12:40:00Z
   stop: 2026-11-10T13:10:00Z
   title: RTS Info
@@ -367,7 +369,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 673198
+- eventId:
+  - 579005
+  - 673198
   start: 2026-11-10T13:10:00Z
   stop: 2026-11-10T13:40:00Z
   title: Signes
@@ -377,7 +381,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 673199
+- eventId:
+  - 579006
+  - 673199
   start: 2026-11-10T13:40:00Z
   stop: 2026-11-10T14:20:00Z
   title: A bon entendeur
@@ -387,7 +393,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 673200
+- eventId:
+  - 579007
+  - 673200
   start: 2026-11-10T14:20:00Z
   stop: 2026-11-10T15:05:00Z
   title: RTS Info
@@ -398,7 +406,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 690832
+- eventId:
+  - 579021
+  - 690832
   start: 2026-11-10T15:05:00Z
   stop: 2026-11-10T15:30:00Z
   title: basik
@@ -408,7 +418,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 690833
+- eventId:
+  - 579022
+  - 690833
   start: 2026-11-10T15:30:00Z
   stop: 2026-11-10T17:00:00Z
   title: RTS Info
@@ -419,7 +431,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 690834
+- eventId:
+  - 579023
+  - 690834
   start: 2026-11-10T17:00:00Z
   stop: 2026-11-10T18:00:00Z
   title: Forum
@@ -442,7 +456,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 844282
+- eventId:
+  - 579039
+  - 844282
   start: 2026-11-10T18:00:00Z
   stop: 2026-11-10T20:20:00Z
   title: Hockey sur glace
@@ -453,7 +469,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 690851
+- eventId:
+  - 579040
+  - 690851
   start: 2026-11-10T20:20:00Z
   stop: 2026-11-10T21:55:00Z
   title: Football
@@ -464,13 +482,17 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 690875
+- eventId:
+  - 579068
+  - 690875
   start: 2026-11-10T21:55:00Z
   stop: 2026-11-10T22:00:00Z
   title: PMU
   widescreen: true
   hd: true
-- eventId: 690876
+- eventId:
+  - 579069
+  - 690876
   start: 2026-11-10T22:00:00Z
   stop: 2026-11-10T22:05:00Z
   title: Zap RTS Sport
@@ -478,6 +500,12 @@
   - '64'
   widescreen: true
   subtitled: true
+  hd: true
+- eventId: 579070
+  start: 2026-11-10T22:05:00Z
+  stop: 2026-11-10T22:06:00Z
+  title: Cinemaniak
+  widescreen: true
   hd: true
 - eventId: 690877
   start: 2026-11-10T22:05:00Z
@@ -489,7 +517,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 760643
+- eventId:
+  - 579071
+  - 760643
   start: 2026-11-10T22:06:00Z
   stop: 2026-11-10T22:15:00Z
   title: Le Miracle
@@ -499,7 +529,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 690878
+- eventId:
+  - 579072
+  - 690878
   start: 2026-11-10T22:15:00Z
   stop: 2026-11-10T22:40:00Z
   title: Taxi Moto
@@ -509,7 +541,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 690879
+- eventId:
+  - 579073
+  - 690879
   start: 2026-11-10T22:40:00Z
   stop: 2026-11-10T23:05:00Z
   title: Maison
@@ -530,12 +564,24 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 760644
+- eventId:
+  - 579074
+  - 760644
   start: 2026-11-10T23:05:00Z
   stop: 2026-11-10T23:40:00Z
   title: L'amour au temps du cholera
   description: Dans une campagne reculée de France, Hugo, un jeune homme marginal et toxicomane rencontre Sandrine, mère célibataire d'une petite fille. Rapidement, ils tombent amoureux et pour un temps chacun d'eux accède à une forme de paix et de bonheur. Mais les tensions sociales et psychologiques propres à leur milieu ne leur laissent que peu de répit. (Suisse-2024)
   ageRating: 16
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 579075
+  start: 2026-11-10T23:40:00Z
+  stop: 2026-11-11T00:05:00Z
+  title: Assigné
+  description: (Suisse-2025)
   genre:
   - '16'
   widescreen: true

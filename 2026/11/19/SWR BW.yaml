@@ -3,7 +3,9 @@
   - 600761
   - 601561
   - 609746
+  - 615929
   - 624684
+  - 626209
   - 629346
   - 635339
   - 689374
@@ -23,7 +25,9 @@
   - 600762
   - 601562
   - 609747
+  - 615930
   - 624685
+  - 626210
   - 629347
   - 635340
   - 689375
@@ -38,6 +42,8 @@
 - eventId:
   - 601716
   - 609824
+  - 615989
+  - 626282
   start: 2026-11-19T03:25:00Z
   stop: 2026-11-19T04:05:00Z
   title: aktueller bericht
@@ -50,7 +56,9 @@
   - 600831
   - 601717
   - 609825
+  - 615990
   - 624761
+  - 626283
   - 629416
   - 635404
   - 689675
@@ -66,7 +74,9 @@
   - 600832
   - 601718
   - 609826
+  - 615991
   - 624762
+  - 626284
   - 629417
   - 635405
   - 689676
@@ -82,7 +92,9 @@
   - 600833
   - 601719
   - 609827
+  - 615992
   - 624763
+  - 626285
   - 629418
   - 635406
   - 689677
@@ -97,6 +109,8 @@
 - eventId:
   - 601872
   - 609913
+  - 616062
+  - 626645
   start: 2026-11-19T06:55:00Z
   stop: 2026-11-19T08:00:00Z
   title: Panoramablick
@@ -107,6 +121,8 @@
 - eventId:
   - 601873
   - 609914
+  - 616063
+  - 626646
   start: 2026-11-19T08:00:00Z
   stop: 2026-11-19T09:20:00Z
   title: Landesschau Baden-Württemberg
@@ -122,6 +138,7 @@
   - 600979
   - 602009
   - 610034
+  - 616134
   - 624978
   - 627441
   - 629816
@@ -139,9 +156,29 @@
   audiodesc: true
   subtitle: Die Straßenbahnen von Thuin
 - eventId:
+  - 592733
+  - 601451
+  - 601523
+  - 602637
+  - 610643
+  - 626772
+  - 636026
+  - 738858
+  - 932371
+  start: 2026-11-19T09:20:00Z
+  stop: 2026-11-19T09:50:00Z
+  title: Ein Jahr auf unserer Erde (4)
+  subtitle: Die Straßenbahnen von Thuin
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die ewige Reise unserer Erde um die Sonne bestimmt alles Leben auf unserem Planeten. Auf keinem anderen gibt es Jahreszeiten. Sie sind eine Folge der leichten Neigung der Erdachse. Jeder erlebt sie anders, je nachdem, wann er sich wo gerade befindet. Die vierteilige Serie "Ein Jahr auf unserer Erde", gedreht an 60 verschiedenen Orten, begleitet zwölf Monate lang mehrere ausgesuchte Tierfamilien. Christoph Maria Herbst, bekannt als Stromberg in der gleichnamigen TV-Comedy-Serie, erzählt zu den atemberaubenden Bildern, wie sie den ständigen Wechsel von Wetter, Klima und Tageslänge meistern.
+- eventId:
   - 1008505
   - 600980
   - 610035
+  - 616135
   - 624979
   - 629817
   - 635556
@@ -173,48 +210,75 @@
   description: SWR Aktuell am Sonntag informiert über die aktuelle Nachrichtenlage
   subtitle: Fernsehserie Deutschland 2026
 - eventId:
-  - 1008506
-  - 566235
-  - 571044
-  - 598335
-  - 600981
-  - 602011
-  - 610036
-  - 624980
-  - 627443
-  - 629818
-  - 633323
-  - 635557
-  - 689858
-  - 705266
-  - 902771
-  start: 2026-11-19T10:40:00Z
-  stop: 2026-11-19T11:10:00Z
-  title: aktiv und gesund
+  - 592734
+  - 601452
+  - 601524
+  - 602638
+  - 610644
+  - 626773
+  - 636027
+  - 738859
+  - 932372
+  start: 2026-11-19T09:50:00Z
+  stop: 2026-11-19T10:40:00Z
+  title: Sturm der Liebe (4676)
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Alle wollen Wolle - Gemeinsam kreativ
+- eventId:
+  - 592735
+  - 601453
+  - 601525
+  - 602639
+  - 610645
+  - 626774
+  - 636028
+  - 738860
+  - 932373
+  start: 2026-11-19T10:40:00Z
+  stop: 2026-11-19T11:10:00Z
+  title: aktiv und gesund
   subtitle: Säuren und Basen / Heilwasser / Bungee Fitness / Massagepistolen / Venenschwäche und Krampfadern
-  description: 'Die Austs sind ein klassischer Familienbetrieb: In Beutelsbach bei Passau fertigen sie unter dem Namen "Waco" seit 1993 Lederkombis für Motorradfahrer:innen. Alles Unikate in Maßarbeit.'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: 'Die Eifel, ein Mittelgebirge mit explosiver Vergangenheit. Hier kann man Deutschlands jüngste Vulkane bestaunen. Vor nur 12.900 Jahren sorgte eine Eruption für ein wahres Inferno: Der Ausbruch des Laacher See-Vulkans war der Gewaltigste, der sich in der letzten eine Million Jahre in Mitteleuropa ereignete. Die Geologie der Eifel ist einzigartig für Deutschland und sie hat bis heute Einfluss auf die Kulturgeschichte. Wer hätte gedacht, dass eines unserer ältesten Küchengeräte aus erstarrter Lava gemacht wurde? Und was wäre die mittelalterliche Baukunst ohne die Baustoffe Tuff und Basalt?'
   genre:
   - '144'
+- eventId: 616136
+  start: 2026-11-19T10:40:00Z
+  stop: 2026-11-19T11:10:00Z
+  title: aktiv und gesund
+  subtitle: Säuren und Basen / Heilwasser / Bungee Fitness / Massagepistolen / Venenschwäche und Krampfadern
+  genre:
+  - '144'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
-  - 1008507
-  - 566236
-  - 571045
-  - 598336
-  - 600982
-  - 602012
-  - 610037
-  - 624981
-  - 627444
-  - 629819
-  - 633324
-  - 635558
-  - 689859
-  - 705267
-  - 902772
+  - 592736
+  - 601454
+  - 601526
+  - 602640
+  - 610646
+  - 626775
+  - 636029
+  - 738861
+  - 932374
+  start: 2026-11-19T11:10:00Z
+  stop: 2026-11-19T11:55:00Z
+  title: ARD-Buffet Spezial
+  subtitle: Visual Radio
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Der Video-Livestream der "SWR3 Morningshow", unter SWR3.de zu sehen, wird auch im SWR Fernsehen ausgestrahlt. Während der Musikstrecken ergänzen aktuelle Nachrichten in kompakter Form zum Nachlesen auf dem Fernsehbildschirm die Live-Bilder aus dem Studio. Aufnahmen der Autobahnkameras veranschaulichen die Verkehrsmeldungen, Live-Bilder zeigen die aktuelle Wetterlage im Sendegebiet.
+- eventId: 616137
   start: 2026-11-19T11:10:00Z
   stop: 2026-11-19T11:55:00Z
   title: ARD-Buffet Spezial
@@ -222,41 +286,28 @@
   subtitled: true
   hd: true
   audiodesc: true
-  subtitle: 'Raus bei jedem Wetter: Eisbaden, Kneippen und Wintercamping'
-  description: Wassertreten in Koblenz, Heilklimawandern im Schwarzwald oder Eisbaden im Glan zeigen, wie Kältereize Körper und Wohlbefinden herausfordern und anregen können. Wer es von innen wärmer mag, setzt auf ayurvedische Gewürze. Beim Camping auf der Schwäbischen Alb erlebt man, wie man auch ohne festes Dach über dem Kopf bei niedrigen Temperaturen sehr gut gelaunt bleiben kann.
 - eventId:
-  - 1008508
-  - 1009741
-  - 552531
-  - 595641
-  - 598348
-  - 600983
-  - 602013
-  - 610038
-  - 624982
-  - 627456
-  - 629820
-  - 635559
-  - 636318
-  - 689860
-  - 819082
+  - 616138
+  - 626776
   start: 2026-11-19T11:55:00Z
   stop: 2026-11-19T13:25:00Z
   title: Karla, Rosalie und das Loch in der Wand
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   subtitle: Fernsehfilm Deutschland 2020
   ageRating: 6
   genre:
   - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1008518
   - 601040
   - 602089
   - 610121
+  - 612311
   - 625067
+  - 627881
   - 629618
   - 635622
   - 690863
@@ -273,6 +324,7 @@
   - 601041
   - 602090
   - 610122
+  - 612312
   - 625068
   - 629619
   - 635623
@@ -289,8 +341,44 @@
   genre:
   - '16'
 - eventId:
-  - 602197
-  - 610242
+  - 544488
+  - 556967
+  - 571591
+  - 598596
+  - 601516
+  - 602302
+  - 627882
+  - 633430
+  - 705295
+  - 738960
+  - 903359
+  - 932383
+  start: 2026-11-19T14:10:00Z
+  stop: 2026-11-19T15:00:00Z
+  title: Hubert und Staller (101/116)
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  subtitle: 'Vegetarische dunkle Soße: Kein Fleisch, 100% Geschmack'
+  genre:
+  - '144'
+  description: |-
+    In "Führer und Verführer" geht es um die größten Verbrechen der Menschheit: Holocaust und Zweiter Weltkrieg. Der Film sucht auf bisher nicht gezeigte Weise Antworten auf wichtige Fragen: Wie konnte es den Tätern gelingen, ihre Verbrechen umzusetzen, und warum folgte die Mehrheit der Deutschen Hitler in diese Katastrophe?
+    Autor und Regisseur Joachim A. Lang beleuchtet die Zeit vom sogenannten "Anschluss" Österreichs im März 1938 bis zum Untergang mit Mord und Selbstmord im Führerbunker im Mai 1945. In den Hauptrollen überzeugen Robert Stadlober als Joseph Goebbels, Franziska Weisz als Magda Goebbels sowie Fritz Karl als Adolf Hitler.
+  ageRating: 12
+- eventId:
+  - 1563291
+  - 548040
+  - 566225
+  - 578850
+  - 580510
+  - 598313
+  - 601498
+  - 602001
+  - 627975
+  - 633404
+  - 788124
   start: 2026-11-19T15:00:00Z
   stop: 2026-11-19T15:04:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -299,8 +387,46 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 602197
+  - 610242
+  - 612518
+  start: 2026-11-19T15:00:00Z
+  stop: 2026-11-19T15:04:00Z
+  title: SWR Aktuell Baden-Württemberg
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1563292
+  - 566226
+  - 578851
+  - 580511
+  - 598314
+  - 600886
+  - 602002
+  - 610027
+  - 624971
+  - 627976
+  - 629555
+  - 633405
+  - 635548
+  - 788125
+  start: 2026-11-19T15:04:00Z
+  stop: 2026-11-19T15:05:00Z
+  title: Eisenbahn-Romantik (909)
+  subtitle: Faller - Schmuckschmiede der Modellwelt
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Was wäre die Modellbahnwelt von Märklin oder Fleischmann ohne die kleinen Faller-Häuschen? Die Miniaturlandschaft wäre langweilig und fade, ohne Fantasie und Geborgenheit. Mit ihrer Modellbaufirma haben Hermann und Edwin Faller ein Stück deutsche Wirtschaftswunder-Geschichte geschrieben und dabei ein Stück heile Welt in die deutschen Wohnzimmer gebracht.
+    Der Film zeigt die wechselvolle Entwicklung einer Modellbaufirma im Wandel der Spielzeugwelt.
+- eventId:
   - 602198
   - 610243
+  - 612519
   start: 2026-11-19T15:04:00Z
   stop: 2026-11-19T15:05:00Z
   title: Baden-Württemberg Wetter
@@ -309,8 +435,28 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1563293
+  - 566227
+  - 578852
+  - 580512
+  - 598315
+  - 602003
+  - 627977
+  - 633406
+  - 788126
+  start: 2026-11-19T15:05:00Z
+  stop: 2026-11-19T16:00:00Z
+  title: SWR Aktuell Baden-Württemberg
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Katjas neue impulsive Art irritiert Christoph. Frida erlebt einen kleinen Triumph über Sinan. Emilia will sich ihre wiedererwachten Gefühle für Massimo aus dem Herzen reißen.
+  subtitle: Der SWR Nachmittag
+- eventId:
   - 602199
   - 610244
+  - 612520
   start: 2026-11-19T15:05:00Z
   stop: 2026-11-19T16:00:00Z
   title: Kaffee oder Tee
@@ -320,8 +466,39 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1563294
+  - 566228
+  - 578853
+  - 580513
+  - 598316
+  - 600888
+  - 602004
+  - 610029
+  - 624973
+  - 627978
+  - 629557
+  - 633407
+  - 635550
+  - 788127
+  start: 2026-11-19T16:00:00Z
+  stop: 2026-11-19T16:05:00Z
+  title: SWR Aktuell Baden-Württemberg
+  subtitle: Reizdarm / Pilates / Gemüsesnacks
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Themen:
+    * Service: So kommen Sie stabil durch die dunkle Jahreszeit / mit Thomas Flocken, Psychologischer Psychotherapeut
+    * Haushalts-Tipp: Leuchtmittel - welche machen das schönste Licht? / mit Bärbel Neher, Hauswirtschaftliche Fachberaterin aus Karlsruhe
+    * Menschen im Südwesten: Michael Grözinger aus Lenningen baut mit seiner Familie riesige Leuchtfiguren
+  genre:
+  - '144'
+- eventId:
   - 602200
   - 610245
+  - 612521
   start: 2026-11-19T16:00:00Z
   stop: 2026-11-19T16:05:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -330,8 +507,36 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1563295
+  - 566229
+  - 578854
+  - 580514
+  - 598317
+  - 602005
+  - 627979
+  - 633408
+  - 788128
+  start: 2026-11-19T16:05:00Z
+  stop: 2026-11-19T17:00:00Z
+  title: SWR Aktuell Baden-Württemberg
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Durch verschiedene Rezepte von Kohlgerichten führt Moderatorin Evelin König.
+
+    * Tarik Rose und Johannes Zenglein: Rotkohlsalat mit Birnen und Feta
+    * Sören Anders und Sebastian Müller: rote Spaghetti mit Grünkohl
+    * Michael Kempf und Fatma Mittler-Solak: Wirsingwickel
+    * Jacqueline Amirfallah und Sebastian Müller: Kohlröschensalat
+    * Christian Henze und Holger Wienpahl: Schweinekotelett mit Bayrisch-Kraut
+    * Rainer Klutsch und Fatma Mittler-Solak: Rosenkohlauflauf
+  subtitle: 'Moderation: Evelin König'
+- eventId:
   - 602201
   - 610246
+  - 612522
   start: 2026-11-19T16:05:00Z
   stop: 2026-11-19T17:00:00Z
   title: Kaffee oder Tee
@@ -341,8 +546,31 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1563296
+  - 566230
+  - 578855
+  - 580515
+  - 598318
+  - 602006
+  - 627980
+  - 633409
+  - 788129
+  start: 2026-11-19T17:00:00Z
+  stop: 2026-11-19T17:10:00Z
+  title: Landesschau Baden-Württemberg
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  subtitle: Fernsehfilm Deutschland 2003
+  ageRating: 6
+  genre:
+  - '16'
+  description: 'Bei einem Geschäftstermin im Zoo stürzt die Beauty Journalistin Eva Christ über einen Eimer mit Fischen. Durch diesen Fehltritt schlittert sie nicht nur in das Leben des sympathischen Zooangestellten Max Hay, sie handelt sich auch ein verzwicktes Beziehungsproblem ein: Ihre wachsende Zuneigung zu dem unkonventionellen Tierpfleger gefährdet das langjährige Verhältnis mit ihrem Liebhaber.'
+- eventId:
   - 602202
   - 610247
+  - 612523
   start: 2026-11-19T17:00:00Z
   stop: 2026-11-19T17:10:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -353,6 +581,8 @@
 - eventId:
   - 602203
   - 610248
+  - 612524
+  - 627981
   start: 2026-11-19T17:10:00Z
   stop: 2026-11-19T18:30:00Z
   title: Landesschau Baden-Württemberg
@@ -366,7 +596,9 @@
   - 601244
   - 602379
   - 610361
+  - 612725
   - 626421
+  - 628112
   - 635807
   - 691528
   start: 2026-11-19T18:30:00Z
@@ -382,7 +614,9 @@
   - 601245
   - 602380
   - 610362
+  - 612726
   - 626422
+  - 628113
   - 635808
   - 691529
   start: 2026-11-19T18:57:00Z
@@ -398,7 +632,9 @@
   - 601246
   - 602381
   - 610363
+  - 612727
   - 626423
+  - 628114
   - 635809
   - 691530
   start: 2026-11-19T19:00:00Z
@@ -416,7 +652,9 @@
   - 601247
   - 602382
   - 610364
+  - 612728
   - 626424
+  - 628115
   - 635810
   - 691531
   start: 2026-11-19T19:15:00Z
@@ -430,6 +668,8 @@
 - eventId:
   - 602383
   - 610365
+  - 612729
+  - 628116
   start: 2026-11-19T20:00:00Z
   stop: 2026-11-19T20:45:00Z
   title: Wie extrem wird das Wetter, Sven Plöger?
@@ -441,6 +681,8 @@
 - eventId:
   - 602384
   - 610366
+  - 612730
+  - 628117
   start: 2026-11-19T20:45:00Z
   stop: 2026-11-19T21:00:00Z
   title: SWR Aktuell Baden-Württemberg
@@ -455,9 +697,11 @@
   - 601314
   - 602493
   - 610480
+  - 612821
   - 624144
   - 626511
   - 628158
+  - 628229
   - 633698
   - 635113
   - 635877
@@ -477,7 +721,9 @@
   - 601315
   - 602494
   - 610481
+  - 612822
   - 626512
+  - 628230
   - 635878
   - 691574
   start: 2026-11-19T21:45:00Z
@@ -494,7 +740,9 @@
   - 601316
   - 602495
   - 610482
+  - 612823
   - 626513
+  - 628231
   - 635879
   - 691575
   start: 2026-11-19T22:35:00Z
@@ -510,7 +758,9 @@
   - 601317
   - 602496
   - 610483
+  - 612824
   - 626514
+  - 628232
   - 635880
   - 691576
   start: 2026-11-19T23:35:00Z

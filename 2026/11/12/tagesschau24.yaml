@@ -19,8 +19,10 @@
 - eventId:
   - 547077
   - 551947
+  - 557184
   - 580365
   - 604152
+  - 616218
   start: 2026-11-12T00:00:00Z
   stop: 2026-11-12T00:45:00Z
   title: Wer kann das bezahlen?
@@ -34,10 +36,12 @@
   - 1006649
   - 547078
   - 551948
+  - 557185
   - 557764
   - 579996
   - 580366
   - 604153
+  - 616219
   - 819435
   start: 2026-11-12T00:45:00Z
   stop: 2026-11-12T01:00:00Z
@@ -87,6 +91,7 @@
   - 1400697
   - 547079
   - 551949
+  - 557186
   - 557765
   - 570481
   - 577989
@@ -94,6 +99,7 @@
   - 580367
   - 591009
   - 604154
+  - 616220
   - 819436
   start: 2026-11-12T01:00:00Z
   stop: 2026-11-12T01:03:00Z
@@ -108,6 +114,7 @@
   - 1400698
   - 547080
   - 551950
+  - 557187
   - 557766
   - 570482
   - 577990
@@ -115,6 +122,7 @@
   - 580368
   - 591010
   - 604155
+  - 616221
   - 819437
   start: 2026-11-12T01:03:00Z
   stop: 2026-11-12T01:30:00Z
@@ -144,7 +152,9 @@
   subtitled: true
 - eventId:
   - 547081
+  - 557188
   - 604156
+  - 616222
   start: 2026-11-12T01:30:00Z
   stop: 2026-11-12T02:00:00Z
   title: MDR SACHSENSPIEGEL
@@ -174,7 +184,9 @@
   subtitled: true
 - eventId:
   - 547082
+  - 557189
   - 604157
+  - 616223
   start: 2026-11-12T02:00:00Z
   stop: 2026-11-12T02:03:00Z
   title: Nachrichten
@@ -182,21 +194,10 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 570484
-  - 577446
-  - 678959
-  - 875402
-  start: 2026-11-12T02:00:00Z
-  stop: 2026-11-12T02:03:00Z
-  title: die nordstory - Grüfte, Glocken, großer Ausblick
-  subtitle: Der Michel und sein Drumherum - Film von Jan Peter Gehrckens
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
   - 547083
+  - 557190
   - 604158
+  - 616224
   start: 2026-11-12T02:03:00Z
   stop: 2026-11-12T02:48:00Z
   title: Aktuelle Stunde
@@ -205,19 +206,6 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 570485
-  - 577447
-  - 678960
-  - 875403
-  start: 2026-11-12T02:03:00Z
-  stop: 2026-11-12T02:48:00Z
-  title: Zur Sache Baden-Württemberg!
-  subtitle: Das Informationsmagazin für NRW
-  widescreen: true
-  hd: true
-  audiodesc: true
-  subtitled: true
 - eventId:
   - 1321108
   - 1512169
@@ -237,7 +225,9 @@
   subtitled: true
 - eventId:
   - 547084
+  - 557191
   - 604159
+  - 616225
   start: 2026-11-12T02:48:00Z
   stop: 2026-11-12T03:00:00Z
   title: Extra
@@ -245,17 +235,6 @@
   hd: true
   audiodesc: true
   description: Extra wird täglich aktuell im Programm von tagesschau24 eingesetzt. Extra schließt Lücken und informiert den Zuschauer in kurzen aktuellen Filmen aus den Bereichen Politik, Wirtschaft und Gesellschaft. Extra gibt es nur bei tagesschau24.
-- eventId:
-  - 570486
-  - 577448
-  - 678961
-  - 875404
-  start: 2026-11-12T02:48:00Z
-  stop: 2026-11-12T03:00:00Z
-  title: Tagesschau-Nachrichten
-  widescreen: true
-  hd: true
-  audiodesc: true
 - eventId:
   - 1007114
   - 547208
@@ -266,6 +245,7 @@
   - 578149
   - 580404
   - 592572
+  - 616458
   - 819477
   start: 2026-11-12T03:00:00Z
   stop: 2026-11-12T03:03:00Z
@@ -273,6 +253,25 @@
   widescreen: true
   hd: true
   audiodesc: true
+- eventId:
+  - 546832
+  - 550830
+  - 557319
+  - 569390
+  - 571796
+  - 576896
+  - 580254
+  - 714307
+  - 904600
+  start: 2026-11-12T03:00:00Z
+  stop: 2026-11-12T03:03:00Z
+  title: Millionen Fake - Jagd auf die Kunstfälscher
+  subtitle: Film von Stefano Strocchi
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: 'Es war einer der größten Kunstfälscher-Skandale: Über eintausend kopierte Giacometti-Skulpturen gingen dem LKA Stuttgart 2009 ins Netz. Die Doku-Serie gibt einen exklusiven Einblick in die geheimnisvolle Welt der Kunst-Fälscher und verfolgt die Jagd auf die kriminelle Bande.'
 - eventId:
   - 1007115
   - 547209
@@ -283,6 +282,7 @@
   - 578150
   - 580405
   - 592573
+  - 616459
   - 819478
   start: 2026-11-12T03:03:00Z
   stop: 2026-11-12T03:30:00Z
@@ -293,15 +293,36 @@
   subtitled: true
   description: Die Nachrichtensendung täglich um 19.30 Uhr im rbb Fernsehen für das gesamte Bundesland Brandenburg. Mit Berichten aus Politik, Gesellschaft, Kultur und Sport. Das Wichtigste des Tages aus Brandenburg in 30 Minuten.
 - eventId:
+  - 546833
+  - 550831
+  - 557320
+  - 569391
+  - 571797
+  - 576897
+  - 580255
+  - 714308
+  - 904601
+  start: 2026-11-12T03:03:00Z
+  stop: 2026-11-12T03:30:00Z
+  title: Der Graf und der Fälscher
+  subtitle: Film von Stefano Strocchi
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Als das Stuttgarter LKA 2009 mehr als eintausend Skulpturen mit der Signatur des Schweizer Künstlers Alberto Giacometti beschlagnahmt, enthüllt es einen der größten Kunstfälscher-Skandale unserer Zeit, mit einer Schadenssumme in Millionenhöhe. Mirja Feldmanns Ermittlungen führen zu einem exzentrischen Mittelsmann, dem selbsternannten "Reichsgraf von Waldstein", der Skulpturen aus seinem Kofferraum heraus verkauft. Währenddessen erinnert sich der niederländische Kunstfälscher Robert Driessen in seinem thailändischen Exil an seine "goldene Ära".
+- eventId:
   - 1007116
   - 547210
   - 552093
   - 553895
+  - 557321
   - 557948
   - 573087
   - 578151
   - 580406
   - 592574
+  - 616460
   - 819479
   start: 2026-11-12T03:30:00Z
   stop: 2026-11-12T04:00:00Z
@@ -312,7 +333,9 @@
   description: Das bewegt Bremen, Bremerhaven und das Umland - das Regionalmagazin greift das auf, worüber die Menschen in der Region sprechen. Hier gibt es politische Diskussionen, Berichte über gesellschaftliche Ereignisse, Reportagen aus dem Leben, kritische Interviews, Kultur und Musik. Auch der Sport kommt nicht zu kurz. Von Montag bis Freitag immer mit der Wochenserie. buten un binnen informiert und unterhält zum Feierabend.
 - eventId:
   - 547211
+  - 557322
   - 573088
+  - 616461
   start: 2026-11-12T04:00:00Z
   stop: 2026-11-12T04:30:00Z
   title: hessenschau
@@ -322,7 +345,9 @@
   audiodesc: true
 - eventId:
   - 547212
+  - 557323
   - 573089
+  - 616462
   start: 2026-11-12T04:30:00Z
   stop: 2026-11-12T08:00:00Z
   title: ZDF-Morgenmagazin
@@ -332,11 +357,13 @@
   audiodesc: true
 - eventId:
   - 1007290
+  - 541552
   - 547325
   - 553401
   - 558055
   - 571998
   - 573758
+  - 575799
   - 582123
   - 592974
   - 819528
@@ -365,11 +392,13 @@
   subtitled: true
 - eventId:
   - 1007768
+  - 544094
   - 558487
   - 563018
   - 572488
   - 572658
   - 574049
+  - 576040
   - 577618
   - 593328
   - 596022
@@ -383,27 +412,20 @@
   subtitled: true
   description: Das ARD-Mittagsmagazin aus Leipzig lädt ein, die Welt besser zu verstehen - mit Geschichten, die die Vielfalt der Lebenswirklichkeit in Deutschland spiegeln. Dazu bieten wir Ihnen aktuelle Informationen, verständlich erklärt und hintergründig beleuchtet. Wir talken für Sie mit spannenden Gästen und haben interessante Experten in unserer Sendung, die Ihre Frage beantworten. Mit MIMAfragt laden wir Sie regelmäßig ein, sich am ARD-Mittagsmagazin zu beteiligen.
 - eventId:
-  - 1008063
-  - 547561
-  - 553056
-  - 555467
-  - 558658
-  - 563174
-  - 573586
-  - 593874
-  - 596403
-  - 819636
+  - 544388
+  - 577387
   start: 2026-11-12T13:00:00Z
   stop: 2026-11-12T18:00:00Z
   title: Tagesschau-Nachrichten
+  description: "Das Wichtigste aus Politik, Wirtschaft, Kultur, Sport und Wissenschaft. Korrespondenten der ARD sorgen für schnelle und präzise News. \n\nDie Tagesschau-Ausgaben zur vollen Stunde werden teilweise mit Videotext-Untertiteln ausgestrahlt."
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: "Das Wichtigste aus Politik, Wirtschaft, Kultur, Sport und Wissenschaft. Korrespondenten der ARD sorgen für schnelle und präzise News. \n\nDie Tagesschau-Ausgaben zur vollen Stunde werden teilweise mit Videotext-Untertiteln ausgestrahlt."
 - eventId:
   - 1008372
   - 542317
+  - 545029
   - 551344
   - 555881
   - 556517
@@ -411,6 +433,7 @@
   - 559003
   - 563763
   - 577274
+  - 588394
   - 588897
   - 819741
   start: 2026-11-12T18:00:00Z
@@ -426,6 +449,7 @@
 - eventId:
   - 1008373
   - 542318
+  - 545030
   - 551345
   - 555882
   - 556518
@@ -433,6 +457,7 @@
   - 559004
   - 563764
   - 577275
+  - 588395
   - 588898
   - 819742
   start: 2026-11-12T18:08:00Z
@@ -445,11 +470,13 @@
 - eventId:
   - 1008374
   - 542319
+  - 545031
   - 551346
   - 555883
   - 558376
   - 559005
   - 577276
+  - 588396
   - 588899
   - 819743
   start: 2026-11-12T19:00:00Z
@@ -463,28 +490,16 @@
   subtitled: true
   description: Die Nachrichten der ARD
 - eventId:
-  - 560451
-  - 563765
-  - 570493
-  - 577449
-  - 788481
-  - 979507
-  start: 2026-11-12T19:00:00Z
-  stop: 2026-11-12T19:15:00Z
-  title: Tagesschau-Nachrichten
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
   - 1008375
   - 542320
+  - 545032
   - 551347
   - 555884
   - 558377
   - 559006
   - 563766
   - 577277
+  - 588397
   - 588900
   - 819744
   start: 2026-11-12T19:15:00Z
@@ -496,12 +511,14 @@
 - eventId:
   - 1008376
   - 542321
+  - 545033
   - 551348
   - 555885
   - 558378
   - 559007
   - 563767
   - 577278
+  - 588398
   - 588901
   - 819745
   start: 2026-11-12T19:30:00Z
@@ -511,16 +528,18 @@
   hd: true
   audiodesc: true
   subtitle: 'Moderation: Sandra Maischberger'
-  description: Sandra Maischberger diskutiert mit Gästen aktuelle Themen, die gesellschaftlich relevant sind, von Schönheitswahn bis Rassismus - journalistisch, kontrovers, informativ und unterhaltend.
+  description: "Mit diesen Gästen und Themen:\n* Monika Schnitzer (Wirtschaftsweise)\n* Karl Lauterbach (SPD, Bundestagsabgeordneter) \n* Armin Laschet (CDU, Außenpolitiker)\n* Amelie Fried (Autorin und Moderatorin)\n* Christoph Schwennicke (t-online)\n* Kerstin Palzer (ARD-Hauptstadtstudio)\n\n* Lage der deutschen Wirtschaft und Haushaltspläne\n* Ukraine-Verhandlungen in Abu Dhabi\n\nEs kommentieren: die Autorin und Moderatorin Amelie Fried, der Politikchef von t-online Christoph Schwennicke und die Korrespondentin im ARD-Hauptstadtstudio Kerstin Palzer."
 - eventId:
   - 1008377
   - 542322
+  - 545034
   - 551349
   - 555886
   - 558379
   - 559008
   - 563768
   - 577279
+  - 588399
   - 588902
   - 819746
   start: 2026-11-12T20:45:00Z
@@ -533,12 +552,14 @@
 - eventId:
   - 1008378
   - 542323
+  - 545035
   - 551350
   - 555887
   - 558380
   - 559009
   - 563769
   - 577280
+  - 588400
   - 588903
   - 819747
   start: 2026-11-12T20:47:00Z
@@ -553,12 +574,14 @@
 - eventId:
   - 1008414
   - 543183
+  - 545432
   - 551496
   - 558925
   - 559722
   - 560281
   - 564781
   - 578187
+  - 588562
   - 589626
   - 819814
   start: 2026-11-12T21:15:00Z
@@ -572,12 +595,14 @@
 - eventId:
   - 1008415
   - 543184
+  - 545433
   - 551497
   - 558926
   - 559723
   - 560282
   - 564782
   - 578188
+  - 588563
   - 589627
   - 819815
   start: 2026-11-12T21:50:00Z
@@ -590,12 +615,14 @@
 - eventId:
   - 1008416
   - 543185
+  - 545434
   - 551498
   - 558927
   - 559724
   - 560283
   - 564783
   - 578189
+  - 588564
   - 589628
   - 819816
   start: 2026-11-12T23:05:00Z
@@ -609,12 +636,14 @@
 - eventId:
   - 1008417
   - 543186
+  - 545435
   - 551499
   - 558928
   - 559725
   - 560284
   - 564784
   - 578190
+  - 588565
   - 589629
   - 819817
   start: 2026-11-12T23:15:00Z
@@ -626,12 +655,14 @@
 - eventId:
   - 1008418
   - 543187
+  - 545436
   - 551500
   - 558929
   - 559726
   - 560285
   - 564785
   - 578191
+  - 588566
   - 589630
   - 819818
   start: 2026-11-12T23:30:00Z

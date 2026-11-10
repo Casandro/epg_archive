@@ -1,6 +1,7 @@
 - eventId:
   - 559563
   - 561760
+  - 570029
   - 774769
   start: 2026-11-29T00:30:00Z
   stop: 2026-11-29T01:28:00Z
@@ -12,6 +13,7 @@
 - eventId:
   - 559564
   - 561761
+  - 570030
   - 774770
   start: 2026-11-29T01:28:00Z
   stop: 2026-11-29T01:30:00Z
@@ -22,6 +24,7 @@
 - eventId:
   - 559565
   - 561762
+  - 570031
   - 774771
   start: 2026-11-29T01:30:00Z
   stop: 2026-11-29T03:00:00Z
@@ -32,8 +35,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 570301
+  start: 2026-11-29T03:00:00Z
+  stop: 2026-11-29T04:18:00Z
+  title: KI - Die letzte Erfindung der Menschheit?
+  subtitle: Deutschland 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 561902
+  - 570302
   - 774450
   start: 2026-11-29T04:18:00Z
   stop: 2026-11-29T04:20:00Z
@@ -44,6 +56,7 @@
 - eventId:
   - 561903
   - 562357
+  - 570303
   - 774451
   start: 2026-11-29T04:20:00Z
   stop: 2026-11-29T04:30:00Z
@@ -54,6 +67,7 @@
 - eventId:
   - 561904
   - 562358
+  - 570304
   - 774452
   start: 2026-11-29T04:30:00Z
   stop: 2026-11-29T04:55:00Z
@@ -65,6 +79,7 @@
 - eventId:
   - 561905
   - 562359
+  - 570305
   - 774453
   start: 2026-11-29T04:55:00Z
   stop: 2026-11-29T05:25:00Z
@@ -76,6 +91,7 @@
 - eventId:
   - 561906
   - 562360
+  - 570306
   - 774454
   start: 2026-11-29T05:25:00Z
   stop: 2026-11-29T05:55:00Z
@@ -84,10 +100,7 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 561907
-  - 562361
-  - 774455
+- eventId: 570307
   start: 2026-11-29T05:55:00Z
   stop: 2026-11-29T06:00:00Z
   title: Unerschrocken! - Echte Heldinnen (23/30)
@@ -99,6 +112,7 @@
 - eventId:
   - 562285
   - 563716
+  - 570986
   - 774505
   start: 2026-11-29T06:00:00Z
   stop: 2026-11-29T06:25:00Z
@@ -110,6 +124,7 @@
 - eventId:
   - 562286
   - 563717
+  - 570987
   - 774506
   start: 2026-11-29T06:25:00Z
   stop: 2026-11-29T06:50:00Z
@@ -121,6 +136,7 @@
 - eventId:
   - 562287
   - 563718
+  - 570988
   - 774507
   start: 2026-11-29T06:50:00Z
   stop: 2026-11-29T08:25:00Z
@@ -134,6 +150,7 @@
 - eventId:
   - 562288
   - 563719
+  - 570989
   - 774508
   start: 2026-11-29T08:25:00Z
   stop: 2026-11-29T08:55:00Z
@@ -145,6 +162,7 @@
 - eventId:
   - 562289
   - 563720
+  - 570990
   - 774509
   start: 2026-11-29T08:55:00Z
   stop: 2026-11-29T09:00:00Z
@@ -155,6 +173,7 @@
 - eventId:
   - 562428
   - 564572
+  - 576307
   - 774537
   start: 2026-11-29T09:00:00Z
   stop: 2026-11-29T10:00:00Z
@@ -175,6 +194,7 @@
   description: Die Nachrichten der ARD
 - eventId:
   - 564573
+  - 576308
   - 774538
   start: 2026-11-29T10:00:00Z
   stop: 2026-11-29T16:55:00Z
@@ -193,6 +213,17 @@
   subtitled: true
   hd: true
 - eventId:
+  - 577102
+  - 591060
+  - 718959
+  start: 2026-11-29T16:55:00Z
+  stop: 2026-11-29T16:56:00Z
+  title: Gewinnzahlen Deutsche Fernsehlotterie
+  subtitle: Pferd Kerry Gold
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId:
   - 566536
   - 575456
   - 774646
@@ -202,6 +233,21 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId:
+  - 574828
+  - 577103
+  - 588977
+  - 591061
+  - 718960
+  - 957284
+  start: 2026-11-29T16:56:00Z
+  stop: 2026-11-29T17:00:00Z
+  title: Unerschrocken! - Echte Heldinnen (25/30)
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Die Schwestern Mirabal
+  ageRating: 6
 - eventId:
   - 566537
   - 575457
@@ -214,6 +260,22 @@
   subtitled: true
   hd: true
 - eventId:
+  - 574829
+  - 577104
+  - 588978
+  - 591062
+  - 718961
+  - 957285
+  start: 2026-11-29T17:00:00Z
+  stop: 2026-11-29T17:30:00Z
+  title: Bericht aus Berlin
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Der Club zum Mitmachen Spiele, Spaß und spannendes Wissen
+  genre:
+  - '16'
+- eventId:
   - 566538
   - 575458
   - 774648
@@ -225,7 +287,18 @@
   subtitled: true
   hd: true
 - eventId:
+  - 577105
+  - 694214
+  start: 2026-11-29T17:30:00Z
+  stop: 2026-11-29T18:15:00Z
+  title: Weltspiegel
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Auslandskorrespondenten berichten
+- eventId:
   - 568649
+  - 571488
   - 576093
   - 774691
   start: 2026-11-29T18:15:00Z
@@ -237,6 +310,7 @@
   hd: true
 - eventId:
   - 568650
+  - 571489
   - 576094
   - 774692
   start: 2026-11-29T19:00:00Z
@@ -247,6 +321,7 @@
   hd: true
 - eventId:
   - 568651
+  - 571490
   - 576095
   - 774693
   start: 2026-11-29T19:15:00Z
@@ -260,6 +335,7 @@
   hd: true
 - eventId:
   - 568652
+  - 571491
   - 576096
   - 774694
   start: 2026-11-29T20:45:00Z
@@ -273,6 +349,7 @@
   - 549352
   - 564023
   - 570636
+  - 571955
   - 576771
   - 678997
   - 721378
@@ -289,6 +366,7 @@
   - 549353
   - 564024
   - 570637
+  - 571956
   - 576772
   - 678998
   - 721379
@@ -303,6 +381,7 @@
   description: 'Tierarzt Dr. Andreas Ochs hat heute wieder alle Hände voll zu tun: Wasserbock-Weibchen "Mäuschen" hat Probleme mit den Zähnen und benötigt dringend ein Antibiotikum. Ein vier Wochen altes Küken bei den Grönland-Blessgänsen atmet verdächtig schwer und bei den Elefanten-Kühen steht die 14-tägliche Blutabnahme an, die einer wissenschaftlichen Untersuchung über den Herpesvirus dient.'
 - eventId:
   - 570638
+  - 571957
   - 576773
   - 581492
   - 585983

@@ -15,8 +15,21 @@
   ageRating: 12
   genre:
   - '16'
+- eventId: 599294
+  start: 2026-11-18T00:10:00Z
+  stop: 2026-11-18T01:00:00Z
+  title: Watzmann ermittelt (13)
+  subtitle: Abschlag
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 582648
+  - 599295
   - 604415
   - 616691
   - 623111
@@ -38,6 +51,7 @@
   - 1314770
   - 582649
   - 589413
+  - 599296
   - 604416
   - 616692
   - 623112
@@ -69,6 +83,7 @@
   description: Das Friaul - oder genauer - Friaul-Julisch-Venetien ist ein Grenzland im Nordosten Italiens. Es bietet einen besonderen Mix aus rauer Bergwelt und lieblichen Lagunen am Meer. Judith Rakers ist für Wunderschön auf Spurensuche in einer Region, die viele nicht als Urlaubsziel auf dem Schirm haben. Dabei vereint das Friaul alles, was Italien ausmacht - Berge, Meer, Kultur, Kulinarik und unberührte Natur.
 - eventId:
   - 582650
+  - 599297
   - 604417
   - 623113
   - 981418
@@ -97,6 +112,7 @@
     * Sport-Club Freiburg - FC Bayern München
 - eventId:
   - 582651
+  - 599298
   - 604418
   - 623114
   - 981419
@@ -109,6 +125,7 @@
   audiodesc: true
 - eventId:
   - 582652
+  - 599299
   - 604419
   - 616695
   - 623115
@@ -123,6 +140,7 @@
 - eventId:
   - 583513
   - 592925
+  - 599565
   - 605460
   - 623420
   - 981481
@@ -133,12 +151,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 583514
-  - 592926
-  - 605461
-  - 623421
-  - 981482
+- eventId: 599566
   start: 2026-11-18T03:55:00Z
   stop: 2026-11-18T04:25:00Z
   title: Lokalzeit Münsterland
@@ -146,12 +159,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 583515
-  - 592927
-  - 605462
-  - 623422
-  - 981483
+- eventId: 599567
   start: 2026-11-18T04:25:00Z
   stop: 2026-11-18T04:50:00Z
   title: Lokalzeit OWL
@@ -159,12 +167,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 583516
-  - 592928
-  - 605463
-  - 623423
-  - 981484
+- eventId: 599568
   start: 2026-11-18T04:50:00Z
   stop: 2026-11-18T05:20:00Z
   title: Lokalzeit Südwestfalen
@@ -175,6 +178,7 @@
 - eventId:
   - 583517
   - 592929
+  - 599569
   - 605464
   - 623424
   - 981485
@@ -188,6 +192,7 @@
 - eventId:
   - 583518
   - 592930
+  - 599570
   - 605465
   - 623425
   - 981486
@@ -198,12 +203,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 584130
-  - 593547
-  - 606232
-  - 625362
-  - 981128
+- eventId: 600061
   start: 2026-11-18T06:20:00Z
   stop: 2026-11-18T06:40:00Z
   title: Erlebnisreisen
@@ -211,29 +211,19 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 584131
-  - 593548
-  - 606233
-  - 625363
-  - 981129
+- eventId: 600062
   start: 2026-11-18T06:40:00Z
   stop: 2026-11-18T07:25:00Z
-  title: In aller Freundschaft - 1047. Alleingänge
-  subtitle: Deutschland 2023
+  title: In aller Freundschaft (1047)
+  subtitle: Alleingänge
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 584132
-  - 593549
-  - 606234
-  - 625364
-  - 981130
+- eventId: 600063
   start: 2026-11-18T07:25:00Z
   stop: 2026-11-18T08:10:00Z
-  title: In aller Freundschaft - 1048. Ich schaffe das schon!
+  title: In aller Freundschaft (1048)
   subtitle: Ich schaffe das schon!
   widescreen: true
   subtitled: true
@@ -242,6 +232,7 @@
 - eventId:
   - 584133
   - 593550
+  - 600064
   - 606235
   - 625365
   - 981131
@@ -256,6 +247,7 @@
 - eventId:
   - 584134
   - 593551
+  - 600065
   - 606236
   - 625366
   - 981132
@@ -270,6 +262,7 @@
 - eventId:
   - 585198
   - 594150
+  - 600345
   - 606750
   - 623742
   - 981174
@@ -284,6 +277,7 @@
 - eventId:
   - 585199
   - 594151
+  - 600346
   - 606751
   - 623743
   - 981175
@@ -298,6 +292,7 @@
 - eventId:
   - 585200
   - 594152
+  - 600347
   - 606752
   - 623744
   - 981176
@@ -312,6 +307,7 @@
 - eventId:
   - 585201
   - 594153
+  - 600348
   - 606753
   - 623745
   - 981177
@@ -326,6 +322,7 @@
 - eventId:
   - 585662
   - 594588
+  - 600556
   - 607263
   - 623943
   - 981218
@@ -340,6 +337,7 @@
 - eventId:
   - 585663
   - 594589
+  - 600557
   - 607264
   - 623944
   - 981219
@@ -368,6 +366,18 @@
   ageRating: 6
   genre:
   - '16'
+- eventId: 600558
+  start: 2026-11-18T13:20:00Z
+  stop: 2026-11-18T14:10:00Z
+  title: Watzmann ermittelt (14)
+  subtitle: Dritter Frühling
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 585665
   - 594591
@@ -384,8 +394,20 @@
   audiodesc: true
   genre:
   - '16'
+- eventId: 600559
+  start: 2026-11-18T14:10:00Z
+  stop: 2026-11-18T15:00:00Z
+  title: Watzmann ermittelt (15)
+  subtitle: Neue Zeiten
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 586262
+  - 588216
   - 595287
   - 607895
   - 624216
@@ -400,6 +422,7 @@
   audiodesc: true
 - eventId:
   - 586263
+  - 588217
   - 595288
   - 607896
   - 624217
@@ -413,6 +436,7 @@
   audiodesc: true
 - eventId:
   - 586264
+  - 588218
   - 595289
   - 607897
   - 624218
@@ -426,6 +450,7 @@
   audiodesc: true
 - eventId:
   - 586265
+  - 588219
   - 595290
   - 607898
   - 624219
@@ -440,6 +465,7 @@
   audiodesc: true
 - eventId:
   - 586266
+  - 588220
   - 595291
   - 607899
   - 624220
@@ -454,6 +480,7 @@
   audiodesc: true
 - eventId:
   - 586754
+  - 589137
   - 595692
   - 608450
   - 624454
@@ -468,6 +495,7 @@
   audiodesc: true
 - eventId:
   - 586755
+  - 589138
   - 595693
   - 608451
   - 624455
@@ -483,6 +511,7 @@
   - '32'
 - eventId:
   - 586756
+  - 589139
   - 595694
   - 608452
   - 624456
@@ -497,6 +526,7 @@
   audiodesc: true
 - eventId:
   - 586757
+  - 589140
   - 595695
   - 608453
   - 624457
@@ -511,6 +541,7 @@
   audiodesc: true
 - eventId:
   - 586758
+  - 589141
   - 595696
   - 608454
   - 624458
@@ -525,6 +556,7 @@
   audiodesc: true
 - eventId:
   - 587039
+  - 589525
   - 595981
   - 608675
   - 624623
@@ -539,6 +571,7 @@
   audiodesc: true
 - eventId:
   - 587040
+  - 589526
   - 595982
   - 608676
   - 624624
@@ -553,6 +586,7 @@
   audiodesc: true
 - eventId:
   - 587041
+  - 589527
   - 595983
   - 608677
   - 624625
