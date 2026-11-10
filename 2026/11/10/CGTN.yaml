@@ -158,13 +158,9 @@
   title: Dialogue
   subtitle: Informativni
   description: It is a prime time daily English talk show on CGTN.
-- eventId: 689542
-  start: 2026-11-10T12:00:00Z
-  stop: 2026-11-10T12:15:00Z
-  title: The World Today
-  subtitle: Informativni
-  description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
-- eventId: 861505
+- eventId:
+  - 632516
+  - 861505
   start: 2026-11-10T12:00:00Z
   stop: 2026-11-10T15:00:00Z
   title: CHAINE CHINOISE D'INFORMATION EN ANGLAIS
@@ -172,6 +168,12 @@
   description: Mag. ActualitØs. Mag. ActualitØs.
   genre:
   - '111'
+- eventId: 689542
+  start: 2026-11-10T12:00:00Z
+  stop: 2026-11-10T12:15:00Z
+  title: The World Today
+  subtitle: Informativni
+  description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId:
   - 630988
   - 689543
@@ -220,6 +222,14 @@
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+- eventId: 632535
+  start: 2026-11-10T15:00:00Z
+  stop: 2026-11-10T18:00:00Z
+  title: CHAINE CHINOISE D'INFORMATION EN ANGLAIS
+  subtitle: Mag. ActualitØs. Mag. ActualitØs.
+  description: Mag. ActualitØs. Mag. ActualitØs.
+  genre:
+  - '111'
 - eventId:
   - 631690
   - 689553

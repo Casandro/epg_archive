@@ -39,6 +39,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 848591
   start: 2026-11-12T01:00:00Z
   stop: 2026-11-12T01:02:00Z
@@ -59,23 +60,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 617675
-  start: 2026-11-12T01:22:00Z
-  stop: 2026-11-12T01:25:00Z
-  title: '#REPORTAŽE'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 848593
+- eventId:
+  - 617675
+  - 848593
   start: 2026-11-12T01:22:00Z
   stop: 2026-11-12T01:25:00Z
   title: '#REPORTAŽE: Gramofoni'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 617676
   - 848594
@@ -186,23 +181,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 617686
-  start: 2026-11-12T02:50:00Z
-  stop: 2026-11-12T02:52:00Z
-  title: '#REPORTAŽE'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 848604
+- eventId:
+  - 617686
+  - 848604
   start: 2026-11-12T02:50:00Z
   stop: 2026-11-12T02:52:00Z
   title: '#REPORTAŽE: Bečka škola'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 617687
   - 848605
@@ -299,6 +288,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 848613
   start: 2026-11-12T04:55:00Z
   stop: 2026-11-12T04:57:00Z
@@ -378,7 +368,7 @@
   - 617702
   - 848620
   start: 2026-11-12T05:56:00Z
-  stop: 2026-11-12T06:00:00Z
+  stop: 2026-11-12T05:58:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -448,6 +438,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 848626
   - 850984
@@ -467,25 +458,18 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 617709
-  start: 2026-11-12T06:26:00Z
-  stop: 2026-11-12T06:29:00Z
-  title: HRT100 Vremeplov
-  subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
-  ageRating: 4
-  genre:
-  - '160'
 - eventId:
+  - 617709
   - 848627
   - 850985
   start: 2026-11-12T06:26:00Z
   stop: 2026-11-12T06:29:00Z
   title: 'HRT100 Vremeplov: Stanovništvo Ploča / Kardeljeva ne žele termoelektranu 1988.'
   subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
-  description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
   ageRating: 4
   genre:
   - '160'
+  description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
 - eventId: 850265
   start: 2026-11-12T06:27:00Z
   stop: 2026-11-12T06:30:00Z
@@ -569,6 +553,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 848634
   start: 2026-11-12T07:33:00Z
   stop: 2026-11-12T07:35:00Z
@@ -663,6 +648,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 848642
   start: 2026-11-12T12:33:00Z
   stop: 2026-11-12T12:35:00Z
@@ -746,6 +732,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 848649
   start: 2026-11-12T13:33:00Z
   stop: 2026-11-12T13:35:00Z
@@ -818,6 +805,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 848655
   start: 2026-11-12T14:33:00Z
   stop: 2026-11-12T14:35:00Z
@@ -903,6 +891,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 848662
   - 850989
@@ -930,6 +919,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 848663
   start: 2026-11-12T15:26:00Z
   stop: 2026-11-12T15:30:00Z
@@ -1021,6 +1011,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 848669
   start: 2026-11-12T16:13:00Z
   stop: 2026-11-12T16:15:00Z
@@ -1102,23 +1093,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 617757
-  start: 2026-11-12T16:57:00Z
-  stop: 2026-11-12T17:00:00Z
-  title: HRT100 Vremeplov
-  subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 848675
+- eventId:
+  - 617757
+  - 848675
   start: 2026-11-12T16:57:00Z
   stop: 2026-11-12T17:00:00Z
   title: 'HRT100 Vremeplov: Stanovništvo Ploča / Kardeljeva ne žele termoelektranu 1988.'
   subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
-  description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
   ageRating: 4
   genre:
   - '160'
+  description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
 - eventId:
   - 617758
   - 848676
@@ -1130,23 +1115,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 617759
-  start: 2026-11-12T17:20:00Z
-  stop: 2026-11-12T17:23:00Z
-  title: '#REPORTAŽE'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 848677
+- eventId:
+  - 617759
+  - 848677
   start: 2026-11-12T17:20:00Z
   stop: 2026-11-12T17:23:00Z
   title: '#REPORTAŽE: Imotska torta'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 617760
   - 848678
@@ -1208,6 +1187,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 848682
   - 850995
@@ -1268,6 +1248,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 844959
   - 850996
@@ -1298,57 +1279,39 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 617770
-  start: 2026-11-12T19:00:00Z
-  stop: 2026-11-12T19:05:00Z
-  title: '#REPORTAŽE'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 844961
+- eventId:
+  - 617770
+  - 844961
   start: 2026-11-12T19:00:00Z
   stop: 2026-11-12T19:05:00Z
   title: '#REPORTAŽE: Prelog'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 617771
-  start: 2026-11-12T19:05:00Z
-  stop: 2026-11-12T19:30:00Z
-  title: 'Agenda: Svijet'
-  subtitle: Tjedni vanjskopolitički magazin koji informira, približava i analizira svjetske događaje, procese, izazove i prijetnje.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 844962
+- eventId:
+  - 617771
+  - 844962
   start: 2026-11-12T19:05:00Z
   stop: 2026-11-12T19:30:00Z
   title: 'Agenda: Svijet, vanjskopolitički magazin'
   subtitle: Tjedni vanjskopolitički magazin koji informira, približava i analizira svjetske događaje, procese, izazove i prijetnje.
+  ageRating: 4
+  genre:
+  - '160'
   description: Tjedni vanjskopolitički magazin koji informira, približava i analizira svjetske događaje, procese, izazove i prijetnje.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 617772
-  start: 2026-11-12T19:30:00Z
-  stop: 2026-11-12T19:55:00Z
-  title: Labirint
-  subtitle: Iz tjedna u tjedan Labirint se bavi društvenim problemima i fenomenima, donosi prikaz stvarnog života ljudi u Hrvatskoj.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 844963
+- eventId:
+  - 617772
+  - 844963
   start: 2026-11-12T19:30:00Z
   stop: 2026-11-12T19:55:00Z
   title: 'Labirint: Za povijest - nespremni'
   subtitle: Iz tjedna u tjedan Labirint se bavi društvenim problemima i fenomenima, donosi prikaz stvarnog života ljudi u Hrvatskoj.
-  description: Iz tjedna u tjedan Labirint se bavi društvenim problemima i fenomenima, donosi prikaz stvarnog života ljudi u Hrvatskoj.
   ageRating: 4
   genre:
   - '160'
+  description: Iz tjedna u tjedan Labirint se bavi društvenim problemima i fenomenima, donosi prikaz stvarnog života ljudi u Hrvatskoj.
 - eventId:
   - 617773
   - 844964
@@ -1380,23 +1343,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 617775
-  start: 2026-11-12T20:45:00Z
-  stop: 2026-11-12T21:12:00Z
-  title: Global 3000
-  subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 844966
+- eventId:
+  - 617775
+  - 844966
   start: 2026-11-12T20:45:00Z
   stop: 2026-11-12T21:12:00Z
   title: 'DW: Global Us'
   subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
-  description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
   ageRating: 4
   genre:
   - '160'
+  description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
 - eventId: 850301
   start: 2026-11-12T21:10:00Z
   stop: 2026-11-12T21:42:00Z
@@ -1445,25 +1402,18 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 617778
-  start: 2026-11-12T22:04:00Z
-  stop: 2026-11-12T22:08:00Z
-  title: '#REPORTAŽE'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
 - eventId:
+  - 617778
   - 844969
   - 851000
   start: 2026-11-12T22:04:00Z
   stop: 2026-11-12T22:08:00Z
   title: '#REPORTAŽE: Imotska torta'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 850304
   start: 2026-11-12T22:07:00Z
   stop: 2026-11-12T22:10:00Z
@@ -1517,23 +1467,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 617783
-  start: 2026-11-12T22:50:00Z
-  stop: 2026-11-12T22:56:00Z
-  title: '#REPORTAŽE'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 844974
+- eventId:
+  - 617783
+  - 844974
   start: 2026-11-12T22:50:00Z
   stop: 2026-11-12T22:56:00Z
   title: '#REPORTAŽE: Prelog'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 617784
   - 844975
@@ -1576,23 +1520,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 617787
-  start: 2026-11-12T23:17:00Z
-  stop: 2026-11-12T23:43:00Z
-  title: Global 3000
-  subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 844978
+- eventId:
+  - 617787
+  - 844978
   start: 2026-11-12T23:17:00Z
   stop: 2026-11-12T23:43:00Z
   title: 'DW: Global Us'
   subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
-  description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
   ageRating: 4
   genre:
   - '160'
+  description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
 - eventId: 850306
   start: 2026-11-12T23:42:00Z
   stop: 2026-11-13T00:05:00Z
