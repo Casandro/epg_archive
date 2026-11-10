@@ -24,6 +24,7 @@
   - 855649
   - 856599
   - 859420
+  - 861201
   start: 2026-11-11T00:25:00Z
   stop: 2026-11-11T02:25:00Z
   title: Pastel
@@ -295,6 +296,7 @@
   - 855650
   - 856600
   - 859421
+  - 861202
   start: 2026-11-11T02:25:00Z
   stop: 2026-11-11T03:00:00Z
   title: Çikat n'Trip
@@ -422,6 +424,7 @@
   - 855651
   - 856601
   - 859422
+  - 861203
   start: 2026-11-11T03:00:00Z
   stop: 2026-11-11T04:30:00Z
   title: Reportazhe
@@ -517,6 +520,7 @@
   - 855652
   - 856602
   - 859423
+  - 861204
   start: 2026-11-11T04:30:00Z
   stop: 2026-11-11T05:10:00Z
   title: Muzike Top 10
@@ -577,6 +581,7 @@
   - 855653
   - 856603
   - 859424
+  - 861205
   start: 2026-11-11T05:10:00Z
   stop: 2026-11-11T05:40:00Z
   title: Muzike Top 10
@@ -610,6 +615,7 @@
   - 855654
   - 856604
   - 859425
+  - 861206
   start: 2026-11-11T05:40:00Z
   stop: 2026-11-11T06:00:00Z
   title: Muzikë për fëmijë
@@ -649,7 +655,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 859426
+- eventId:
+  - 859426
+  - 861207
   start: 2026-11-11T06:00:00Z
   stop: 2026-11-11T08:00:00Z
   title: Pastel
@@ -920,6 +928,7 @@
   - 855656
   - 856606
   - 859427
+  - 861208
   start: 2026-11-11T08:05:00Z
   stop: 2026-11-11T10:00:00Z
   title: Programi i mëngjesit
@@ -1040,7 +1049,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 859428
+- eventId:
+  - 859428
+  - 861209
   start: 2026-11-11T10:00:00Z
   stop: 2026-11-11T11:10:00Z
   title: Daily Click
@@ -1155,6 +1166,7 @@
   - 855658
   - 856608
   - 859429
+  - 861210
   start: 2026-11-11T11:15:00Z
   stop: 2026-11-11T11:35:00Z
   title: Muzikë argëtuese
@@ -1194,7 +1206,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 859430
+- eventId:
+  - 859430
+  - 861211
   start: 2026-11-11T11:35:00Z
   stop: 2026-11-11T12:10:00Z
   title: Farewell Letter
@@ -1282,6 +1296,7 @@
   - 855660
   - 856610
   - 859431
+  - 861212
   start: 2026-11-11T12:15:00Z
   stop: 2026-11-11T13:35:00Z
   title: Reportazhe
@@ -1342,6 +1357,7 @@
   - 855661
   - 856611
   - 859432
+  - 861213
   start: 2026-11-11T13:35:00Z
   stop: 2026-11-11T13:55:00Z
   title: Promo
@@ -1375,6 +1391,7 @@
   - 855662
   - 856612
   - 859433
+  - 861214
   start: 2026-11-11T13:55:00Z
   stop: 2026-11-11T14:00:00Z
   title: Promo
@@ -1414,7 +1431,7 @@
   - 645798
   - 788142
   start: 2026-11-11T14:00:00Z
-  stop: 2026-11-11T14:10:00Z
+  stop: 2026-11-11T14:20:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -1473,6 +1490,7 @@
   - 855663
   - 856613
   - 859434
+  - 861215
   start: 2026-11-11T14:20:00Z
   stop: 2026-11-11T14:30:00Z
   title: Promo
@@ -1506,6 +1524,7 @@
   - 855664
   - 856614
   - 859435
+  - 861216
   start: 2026-11-11T14:30:00Z
   stop: 2026-11-11T15:00:00Z
   title: Reportazhe
@@ -1518,7 +1537,7 @@
   - 645800
   - 788144
   start: 2026-11-11T15:00:00Z
-  stop: 2026-11-11T16:30:00Z
+  stop: 2026-11-11T16:00:00Z
   title: Preferenca Muzikore
   subtitle: '  * LIGA FLORILOR * ET. 10 CSM Bucuresti-CSM Corona BrasovTransmisiune directa  '
   ageRating: 4
@@ -1558,6 +1577,7 @@
   - 855665
   - 856615
   - 859436
+  - 861217
   start: 2026-11-11T16:00:00Z
   stop: 2026-11-11T16:55:00Z
   title: Pastel
@@ -1675,7 +1695,7 @@
   - 645803
   - 788147
   start: 2026-11-11T17:00:00Z
-  stop: 2026-11-11T19:00:00Z
+  stop: 2026-11-11T17:30:00Z
   title: BASCHET MASCULIN
   subtitle: '  * FIBA EUROPE CUP. GRUPA CSCM Universitatea Craiova-Kolossus RhodesPreluare TVR CraiovaTransmisiune directa  '
   ageRating: 4
@@ -1707,6 +1727,7 @@
   - 855666
   - 856616
   - 859437
+  - 861218
   start: 2026-11-11T17:30:00Z
   stop: 2026-11-11T18:00:00Z
   title: Live news AL
@@ -1740,6 +1761,7 @@
   - 855667
   - 856617
   - 859438
+  - 861219
   start: 2026-11-11T18:00:00Z
   stop: 2026-11-11T18:10:00Z
   title: Promo
@@ -1773,6 +1795,7 @@
   - 855668
   - 856618
   - 859439
+  - 861220
   start: 2026-11-11T18:10:00Z
   stop: 2026-11-11T18:20:00Z
   title: 10 minuta
@@ -1806,6 +1829,7 @@
   - 855669
   - 856619
   - 859440
+  - 861221
   start: 2026-11-11T18:20:00Z
   stop: 2026-11-11T18:30:00Z
   title: Promo
@@ -1839,6 +1863,7 @@
   - 855670
   - 856620
   - 859441
+  - 861222
   start: 2026-11-11T18:30:00Z
   stop: 2026-11-11T19:00:00Z
   title: Live News MK
@@ -1851,7 +1876,7 @@
   - 645804
   - 788148
   start: 2026-11-11T19:00:00Z
-  stop: 2026-11-11T19:10:00Z
+  stop: 2026-11-11T19:45:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -1910,6 +1935,7 @@
   - 855671
   - 856621
   - 859442
+  - 861223
   start: 2026-11-11T19:45:00Z
   stop: 2026-11-11T20:30:00Z
   title: Firefly
@@ -2156,6 +2182,7 @@
   - 855672
   - 856622
   - 859443
+  - 861224
   start: 2026-11-11T20:30:00Z
   stop: 2026-11-11T21:55:00Z
   title: Film artistik
@@ -2216,7 +2243,7 @@
   - 645808
   - 788152
   start: 2026-11-11T22:00:00Z
-  stop: 2026-11-11T23:00:00Z
+  stop: 2026-11-11T22:20:00Z
   title: EROII TERENULUI
   subtitle: ' Preluare TVR Cluj   (Reluare)'
   ageRating: 4
@@ -2254,7 +2281,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 859444
+- eventId:
+  - 859444
+  - 861225
   start: 2026-11-11T22:20:00Z
   stop: 2026-11-11T23:00:00Z
   title: Farewell Letter
@@ -2436,6 +2465,7 @@
   - 855674
   - 856624
   - 859445
+  - 861226
   start: 2026-11-11T23:05:00Z
   stop: 2026-11-12T00:25:00Z
   title: Click Plus
