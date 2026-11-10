@@ -533,21 +533,12 @@
   description: 'André Rieu feiert 2026 ein besonderes Jubiläum: Seit 20 Jahren begeistern seine Sommerkonzerte auf dem Vrijthof in Maastricht Besucher aus aller Welt. Unter dem Motto "Viva Maastricht!" präsentiert er mit dem Johann-Strauss-Orchester romantische Walzer, Musicalmelodien und Welthits. Gemeinsam mit internationalen Solisten und 300 Tänzern schafft er ein einzigartiges Open-Air-Erlebnis. Zu den zwölf Konzerten kamen über 150.000 Gäste aus mehr als 100 Ländern.'
 - eventId:
   - 550166
-  - 571396
-  - 763648
-  start: 2026-11-14T21:43:00Z
-  stop: 2026-11-14T21:45:00Z
-  title: MDR aktuell
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: Verpassen Sie keine Nachrichten und Trends aus Sachsen, Sachsen-Anhalt und Thüringen. Sehen Sie das Neueste aus Politik und Wirtschaft, der Kultur und Wissenschaft, vom Sport, mit Expertengesprächen und hintergründigen Reportagen.
-- eventId:
   - 550869
   - 555505
   - 556644
+  - 571396
   - 579311
+  - 763648
   - 877673
   start: 2026-11-14T21:43:00Z
   stop: 2026-11-14T21:45:00Z
@@ -560,10 +551,15 @@
 - eventId:
   - 550154
   - 550167
+  - 550870
+  - 555506
+  - 556645
   - 565358
   - 571384
   - 571397
+  - 579312
   - 763649
+  - 877674
   - 932082
   start: 2026-11-14T21:45:00Z
   stop: 2026-11-14T23:45:00Z
@@ -575,51 +571,23 @@
   subtitle: Die Wetterschau für Mitteldeutschland
   description: 'Nach zwei Duellen soll es nun endlich eine Entscheidung geben: Roman Fress und Armend Xhoxhaj treffen in der Messe Magdeburg zum dritten Mal aufeinander. Nach dem Unentschieden im Mai steht die SES-Box-Gala ganz im Zeichen des "großen Finales".'
 - eventId:
-  - 550870
-  - 555506
-  - 556645
-  - 579312
-  - 877674
-  start: 2026-11-14T21:45:00Z
-  stop: 2026-11-14T23:45:00Z
-  title: Sport im Osten
-  subtitle: Boxen live aus Magdeburg
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: 'Nach zwei Duellen soll es nun endlich eine Entscheidung geben: Roman Fress und Armend Xhoxhaj treffen in der Messe Magdeburg zum dritten Mal aufeinander. Nach dem Unentschieden im Mai steht die SES-Box-Gala ganz im Zeichen des "großen Finales".'
-- eventId:
   - 550168
-  - 571398
-  - 763650
-  start: 2026-11-14T23:45:00Z
-  stop: 2026-11-15T01:15:00Z
-  title: Kommissar Van der Valk - Hoffnung in Amsterdam
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  subtitle: Spielfilm Deutschland/Großbritannien 2024 (Van der Valk - Hope in Amsterdam)
-  description: Kurz vor dem Global Wild Live-Congress wird Organisatorin Gerda Schalk tot aufgefunden. Neben ihrer Leiche steht mit Blut das rätselhafte Wort "cob" geschrieben. Während Van der Valk und sein Team ermitteln, taucht auf einem Foto aus der Tatnacht die Sängerin Cobie Stegenga auf, die seit zwei Jahren als vermisst gilt. Bei der Suche nach der Vermissten kommt Van der Valk düsteren Machenschaften und fatalen Verstrickungen auf die Spur.
-  ageRating: 12
-  genre:
-  - '16'
-- eventId:
   - 550871
   - 555507
   - 556646
+  - 571398
   - 579313
+  - 763650
   - 884785
   start: 2026-11-14T23:45:00Z
   stop: 2026-11-15T01:15:00Z
   title: Kommissar Van der Valk - Hoffnung in Amsterdam
-  subtitle: Spielfilm Großbritannien/Niederlande/Deutschland 2024 (Van der Valk - Hope in Amsterdam)
-  genre:
-  - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  ageRating: 12
+  subtitle: Spielfilm Großbritannien/Niederlande/Deutschland 2024 (Van der Valk - Hope in Amsterdam)
   description: Kurz vor dem Global Wild Live-Congress wird Organisatorin Gerda Schalk tot aufgefunden. Neben ihrer Leiche steht mit Blut das rätselhafte Wort "cob" geschrieben. Während Van der Valk und sein Team ermitteln, taucht auf einem Foto aus der Tatnacht die Sängerin Cobie Stegenga auf, die seit zwei Jahren als vermisst gilt. Bei der Suche nach der Vermissten kommt Van der Valk düsteren Machenschaften und fatalen Verstrickungen auf die Spur.
+  ageRating: 12
+  genre:
+  - '16'

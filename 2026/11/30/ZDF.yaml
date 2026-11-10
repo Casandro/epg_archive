@@ -155,9 +155,12 @@
   - 554669
   - 611825
   - 612404
+  - 615083
   - 630735
+  - 845058
   - 847578
   - 847708
+  - 848518
   start: 2026-11-30T04:30:00Z
   stop: 2026-11-30T08:00:00Z
   title: ARD-Morgenmagazin
@@ -176,19 +179,6 @@
 
     HD-Produktion
   subtitled: true
-- eventId:
-  - 615083
-  - 845058
-  - 848518
-  start: 2026-11-30T04:30:00Z
-  stop: 2026-11-30T08:00:00Z
-  title: ARD-Morgenmagazin
-  genre:
-  - '32'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
   - 540936
   - 615167
@@ -219,19 +209,6 @@
   audiodesc: true
 - eventId:
   - 543153
-  - 845093
-  - 848524
-  start: 2026-11-30T09:30:00Z
-  stop: 2026-11-30T10:15:00Z
-  title: Notruf Hafenkante
-  subtitle: Unzerbrechlich
-  genre:
-  - '21'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
   - 543387
   - 545557
   - 546423
@@ -240,6 +217,8 @@
   - 612387
   - 615273
   - 631163
+  - 845093
+  - 848524
   - 874315
   - 875654
   start: 2026-11-30T09:30:00Z
@@ -247,7 +226,7 @@
   title: Notruf Hafenkante
   subtitle: Komödie frei nach dem Roman "Ziemlich beste Freundinnen"
   genre:
-  - '16'
+  - '21'
   widescreen: true
   subtitled: true
   hd: true
@@ -272,6 +251,7 @@
 - eventId:
   - 539907
   - 540534
+  - 543154
   - 543870
   - 546215
   - 612487
@@ -280,6 +260,8 @@
   - 630584
   - 787579
   - 793984
+  - 845094
+  - 848525
   start: 2026-11-30T10:15:00Z
   stop: 2026-11-30T11:00:00Z
   title: SOKO Wismar
@@ -290,20 +272,6 @@
   hd: true
   audiodesc: true
   subtitle: Das schönste Auto der Welt
-- eventId:
-  - 543154
-  - 845094
-  - 848525
-  start: 2026-11-30T10:15:00Z
-  stop: 2026-11-30T11:00:00Z
-  title: SOKO Wismar
-  subtitle: Das schönste Auto der Welt
-  genre:
-  - '17'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
   - 539908
   - 540535
@@ -667,33 +635,22 @@
   - 554527
   - 561172
   - 612056
+  - 612232
   - 616552
   - 676353
   - 677356
-  start: 2026-11-30T20:45:00Z
-  stop: 2026-11-30T21:15:00Z
-  title: heute journal
-  genre:
-  - '32'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  subtitle: Wetter
-- eventId:
-  - 612232
   - 845154
   - 848553
   start: 2026-11-30T20:45:00Z
   stop: 2026-11-30T21:15:00Z
   title: heute journal
-  subtitle: Wetter
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Wetter
 - eventId:
   - 564547
   - 614479
@@ -755,10 +712,13 @@
 - eventId:
   - 558313
   - 561201
+  - 564551
   - 614483
   - 616582
   - 676382
   - 677886
+  - 850501
+  - 850503
   start: 2026-11-30T23:45:00Z
   stop: 2026-12-01T01:15:00Z
   title: Als wäre es leicht
@@ -787,16 +747,3 @@
     Schnitt: Lis Pucar
     Musik: Claus Quidde
     HD-Produktion
-- eventId:
-  - 564551
-  - 850501
-  - 850503
-  start: 2026-11-30T23:45:00Z
-  stop: 2026-12-01T01:15:00Z
-  title: Als wäre es leicht
-  genre:
-  - '16'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
