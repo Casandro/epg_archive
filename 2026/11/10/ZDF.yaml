@@ -952,6 +952,7 @@
   - 610838
   - 610878
   - 616470
+  - 666307
   - 676297
   - 677268
   start: 2026-11-10T22:00:00Z
@@ -1017,7 +1018,9 @@
 
     Moderation: Nazan Gökdemir
     HD-Produktion
-- eventId: 666295
+- eventId:
+  - 666295
+  - 666302
   start: 2026-11-10T23:20:00Z
   stop: 2026-11-10T23:30:00Z
   title: heute journal update
@@ -1033,6 +1036,8 @@
   genre:
   - '32'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 543240
   - 552424
@@ -1068,7 +1073,9 @@
     Schnitt: Michael Kuge
     Musik: David Wurst, Eric Wurst
     HD-Produktion
-- eventId: 666296
+- eventId:
+  - 666296
+  - 666303
   start: 2026-11-10T23:35:00Z
   stop: 2026-11-11T01:00:00Z
   title: Wenn du nach dem Tod erwachst
@@ -1094,3 +1101,5 @@
   - '16'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
