@@ -953,6 +953,15 @@
     PL, 2026
   genre:
   - '166'
+- eventId: 652690
+  start: 2026-11-10T16:08:00Z
+  stop: 2026-11-10T16:23:00Z
+  title: Urządzenie do masażu stóp i nóg Dr Ho Motion Ciser z termot
+  description: |
+    Tytuł oryginalny: Urządzenie do masażu stóp i nóg Dr Ho Motion Ciser z termoterapią do rozgrzewania mięśni!
+    PL, 2026
+  genre:
+  - '166'
 - eventId: 758103
   start: 2026-11-10T16:08:00Z
   stop: 2026-11-10T16:23:00Z
@@ -962,7 +971,9 @@
     PL, 2026
   genre:
   - '166'
-- eventId: 758104
+- eventId:
+  - 652620
+  - 758104
   start: 2026-11-10T16:23:00Z
   stop: 2026-11-10T16:39:00Z
   title: Stand Up Seat
