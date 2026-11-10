@@ -90,7 +90,7 @@
   widescreen: true
 - eventId: 775702
   start: 2026-11-11T05:25:00Z
-  stop: 2026-11-11T06:05:00Z
+  stop: 2026-11-11T06:20:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Rahmsuppe von Roten Linsen
   description: Heute kocht Ralf Kühler zusammen mit Michael Deimel unter anderem eine Rahmsuppe von Roten Linsen und vieles mehr.
@@ -105,7 +105,9 @@
   genre:
   - '166'
   widescreen: true
-- eventId: 694908
+- eventId:
+  - 694908
+  - 855513
   start: 2026-11-11T06:20:00Z
   stop: 2026-11-11T06:50:00Z
   title: Teleshopping
@@ -129,7 +131,9 @@
   genre:
   - '165'
   widescreen: true
-- eventId: 695002
+- eventId:
+  - 695002
+  - 855514
   start: 2026-11-11T06:50:00Z
   stop: 2026-11-11T07:00:00Z
   title: Der Wetterbericht
@@ -145,6 +149,24 @@
   genre:
   - '165'
   widescreen: true
+- eventId: 855515
+  start: 2026-11-11T07:00:00Z
+  stop: 2026-11-11T07:50:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Schaumsuppe vom Muskatkürbis mit Kürbiskernöl
+  description: Heute kocht Ralf Kühler zusammen mit Andreas Hillejan unter anderem eine Schaumsuppe vom Muskatkürbis mit Kürbiskernöl und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 855516
+  start: 2026-11-11T07:50:00Z
+  stop: 2026-11-11T08:15:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Marinierter Thunfisch auf Wildkräutersalat
+  description: Heute kocht Ralf Kühler zusammen mit Karsten Krausch unter anderem einen marinierten Thunfisch auf Wildkräutersalat und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 696423
   start: 2026-11-11T08:05:00Z
   stop: 2026-11-11T09:15:00Z
@@ -154,6 +176,23 @@
   genre:
   - '165'
   widescreen: true
+- eventId: 855517
+  start: 2026-11-11T08:15:00Z
+  stop: 2026-11-11T09:10:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Räucherlachs und Frischkäse-Sushi
+  description: Heute kocht Ralf Kühler zusammen mit Jerry Aoijs unter anderem Räucherlachs und Frischkäse-Sushi und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 855521
+  start: 2026-11-11T09:10:00Z
+  stop: 2026-11-11T09:40:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
+  genre:
+  - '166'
+  widescreen: true
 - eventId: 696984
   start: 2026-11-11T09:15:00Z
   stop: 2026-11-11T09:45:00Z
@@ -161,6 +200,15 @@
   subtitle: Teleshopping
   genre:
   - '166'
+  widescreen: true
+- eventId: 855522
+  start: 2026-11-11T09:40:00Z
+  stop: 2026-11-11T10:40:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Gebratener Schafskäse auf Zucchini-Tomaten-Sugo
+  description: Heute kocht Ralf Kühler zusammen mit Daniel Lewitz unter anderem ein gebratener Schafskäse auf Zucchini-Tomaten-Sugo und vieles mehr.
+  genre:
+  - '165'
   widescreen: true
 - eventId: 697018
   start: 2026-11-11T09:45:00Z
@@ -171,8 +219,35 @@
   genre:
   - '165'
   widescreen: true
+- eventId: 855523
+  start: 2026-11-11T10:40:00Z
+  stop: 2026-11-11T11:00:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Dim-Sum-Ravioli auf sautierten Shiitake-Pilzen
+  description: Heute kocht Ralf Kühler zusammen mit Shane McMahon unter anderem Dim Sum Ravioli, gefüllt mit Langostinos, auf sautierten Shiitake-Pilzen und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 697551
   start: 2026-11-11T11:00:00Z
+  stop: 2026-11-11T12:20:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Westfälische Kartoffelsuppe mit roten Linsen
+  description: Heute kocht Ralf Kühler zusammen mit Gerald Brunnert unter anderem eine Westfälische Kartoffelsuppe mit roten Linsen und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 855524
+  start: 2026-11-11T11:05:00Z
+  stop: 2026-11-11T11:35:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Saibling in Champagner-beurre mit Kräutersalat
+  description: Heute kocht Ralf Kühler zusammen mit Susanne Vössing unter anderem Saibling in Champagner-beurre mit Kräutersalat und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 855525
+  start: 2026-11-11T11:35:00Z
   stop: 2026-11-11T12:20:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Westfälische Kartoffelsuppe mit roten Linsen
@@ -188,6 +263,14 @@
   genre:
   - '166'
   widescreen: true
+- eventId: 855526
+  start: 2026-11-11T12:25:00Z
+  stop: 2026-11-11T12:55:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
+  genre:
+  - '166'
+  widescreen: true
 - eventId: 698101
   start: 2026-11-11T12:55:00Z
   stop: 2026-11-11T14:00:00Z
@@ -197,8 +280,35 @@
   genre:
   - '165'
   widescreen: true
+- eventId: 855527
+  start: 2026-11-11T13:00:00Z
+  stop: 2026-11-11T13:50:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Lammkotletts an Speckbohnen und Würfelkartoffeln
+  description: Heute kocht Ralf Kühler zusammen mit Sandro Santoriello unter anderem gefüllte Riesenchampignons - Funghi Ripieni und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 855528
+  start: 2026-11-11T13:50:00Z
+  stop: 2026-11-11T14:15:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Karotten-Oliven-Salat mit Orangen & Jakobsmuscheln
+  description: Heute kocht Ralf Kühler zusammen mit Shane McMahon unter anderem ein Karotten-Oliven-Salat mit Orangen, Rucola, gebratene Jakobsmuscheln und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 699078
   start: 2026-11-11T14:00:00Z
+  stop: 2026-11-11T15:00:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Gratinierte Austern
+  description: Heute kocht Ralf Kühler zusammen mit Jan Hutter unter anderem Gratinierte Austern und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 855529
+  start: 2026-11-11T14:15:00Z
   stop: 2026-11-11T15:00:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Gratinierte Austern
@@ -216,10 +326,19 @@
   widescreen: true
 - eventId: 701575
   start: 2026-11-11T15:40:00Z
-  stop: 2026-11-11T17:00:00Z
+  stop: 2026-11-11T16:35:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Tranche vom Steinbutt mit Kräutern
   description: Heute kocht Ralf Kühler zusammen mit Ralf Möller unter anderem eine passierte Kartoffelsuppe mit gebratener Wachtelbrust und bunter Einlage und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 855530
+  start: 2026-11-11T16:35:00Z
+  stop: 2026-11-11T17:00:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Kalbsgeschnetzeltes mit Shiitake-Pilzen
+  description: Heute kocht Ralf Kühler zusammen mit Sascha Stemberg unter anderem Kalbsgeschnetzeltes mit Shii-Take-Pilzen und vieles mehr.
   genre:
   - '165'
   widescreen: true
@@ -250,10 +369,19 @@
   widescreen: true
 - eventId: 704591
   start: 2026-11-11T19:15:00Z
-  stop: 2026-11-11T20:25:00Z
+  stop: 2026-11-11T20:20:00Z
   title: So schmeckt die Welt - Turin
   subtitle: So schmeckt die Welt - Turin
   description: Eine faszinierende und modische Erkundung von Turin, die sowohl kulturell als auch stilvoll ist. Als Hauptstadt des Piemonts erstrahlt diese Stadt wie eine Königin unter den italienischen Metropolen. Im Gegensatz zu Rom ist sie nicht so laut, zu Mailand nicht so hässlich und zu Venedig nicht so überlaufen. Turin strahlt Exklusivität aus und beeindruckt mit Feinsinnigkeit, Charme und Eleganz. Fast schon ein Hauch von französischem Flair verleiht Turin seine Einzigartigkeit.
+  genre:
+  - '129'
+  widescreen: true
+- eventId: 855531
+  start: 2026-11-11T20:20:00Z
+  stop: 2026-11-11T21:15:00Z
+  title: So schmeckt die Welt - Prosecco
+  subtitle: So schmeckt die Welt - Prosecco
+  description: Prosecco, ein prickelnder Wein aus Norditalien, ist weltweit für seinen frischen und fruchtigen Geschmack bekannt. Hergestellt aus der Glera-Traube, bietet Prosecco eine angenehme Perlage und ein leichtes Aroma von Äpfeln, Birnen und Zitrusfrüchten. Er ist ein beliebter Aperitif und wird oft bei Feierlichkeiten und geselligen Anlässen genossen. Prosecco gibt es in verschiedenen Varianten, von trocken über halbtrocken bis hin zu süß, und ist in der Regel erschwinglich und zugänglich für viele Genießer.
   genre:
   - '129'
   widescreen: true
@@ -266,6 +394,15 @@
   genre:
   - '129'
   widescreen: true
+- eventId: 855532
+  start: 2026-11-11T21:15:00Z
+  stop: 2026-11-11T21:40:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Reissuppe mit Minze
+  description: Heute kocht Ralf Kühler zusammen mit Mirko Reeh unter anderem eine Reissuppe mit Minze und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 705993
   start: 2026-11-11T21:30:00Z
   stop: 2026-11-11T22:50:00Z
@@ -275,8 +412,35 @@
   genre:
   - '165'
   widescreen: true
+- eventId: 855533
+  start: 2026-11-11T21:40:00Z
+  stop: 2026-11-11T22:40:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Garnelensaganaki und Kräuterlamm
+  description: Heute kocht Ralf Kühler zusammen mit Jotta Polychronidou unter anderem ein Garnelensaganaki und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 855534
+  start: 2026-11-11T22:40:00Z
+  stop: 2026-11-11T23:10:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Fantasie von Bluefin-Thunfisch mit Mango-Couscous
+  description: Heute kocht Ralf Kühler zusammen mit David Kikilus unter anderem eine Fantasie von Bluefin-Thunfisch mit Mango-Couscous, Alfalfasprossensalat und grünem Meerrettichschaum Mango-Couscous und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 706563
   start: 2026-11-11T22:50:00Z
+  stop: 2026-11-12T00:10:00Z
+  title: So schmeckt die Welt - Badischer Wein
+  subtitle: So schmeckt die Welt - Badischer Wein
+  description: Badischer Wein ist ein Juwel in der deutschen Weinlandschaft. Die sonnenverwöhnten Hänge des Schwarzwaldes und des Oberrheins bieten ideale Bedingungen für den Anbau von Rebsorten wie Spätburgunder, Müller-Thurgau und Grauburgunder. Die Weine aus Baden zeichnen sich durch ihre Vielfalt, hohe Qualität und ausgezeichnete Aromen aus. Von fruchtig-frischen Weißweinen bis hin zu kräftigen Roten - Baden hat für jeden Geschmack etwas zu bieten.
+  genre:
+  - '129'
+  widescreen: true
+- eventId: 855535
+  start: 2026-11-11T23:10:00Z
   stop: 2026-11-12T00:10:00Z
   title: So schmeckt die Welt - Badischer Wein
   subtitle: So schmeckt die Welt - Badischer Wein
