@@ -332,6 +332,8 @@
   audiodesc: true
   description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Brandenburg und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
   subtitle: Heute Bestatter, morgen Flugbegleiter - Daniels Traumjobs
+  genre:
+  - '144'
 - eventId:
   - 1347824
   - 541197
@@ -349,7 +351,7 @@
   hd: true
   audiodesc: true
   description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Berlin und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
-  subtitle: Wüstenkoller
+  subtitle: Der Wüstenkoller
 - eventId:
   - 541751
   - 557627
@@ -549,6 +551,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 542371
   - 562935
@@ -557,7 +561,7 @@
   - 679652
   start: 2026-11-21T20:00:00Z
   stop: 2026-11-21T20:45:00Z
-  title: Liebling Kreuzberg (15)
+  title: Liebling Kreuzberg (15/58)
   subtitle: Das eigene Geld
   episodeUri: crid://onid-1/e/6aceace48a89b3feb693a867
   ageRating: 12
@@ -587,7 +591,7 @@
   - 679675
   start: 2026-11-21T21:00:00Z
   stop: 2026-11-21T21:45:00Z
-  title: Liebling Kreuzberg (16)
+  title: Liebling Kreuzberg (16/58)
   subtitle: Rom und zurück
   episodeUri: crid://onid-1/e/6aceace48a89b3feb693a863
   widescreen: true
