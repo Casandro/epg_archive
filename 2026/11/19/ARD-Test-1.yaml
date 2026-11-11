@@ -11,6 +11,7 @@
   - 568468
   - 568788
   - 629111
+  - 687539
   start: 2026-11-19T00:48:00Z
   stop: 2026-11-19T00:50:00Z
   title: Tagesschau
@@ -32,6 +33,7 @@
   - 568469
   - 568789
   - 629112
+  - 687540
   start: 2026-11-19T00:50:00Z
   stop: 2026-11-19T02:20:00Z
   title: Der Hafenpastor
@@ -89,6 +91,7 @@
   - 568470
   - 568790
   - 629113
+  - 687541
   - 948604
   start: 2026-11-19T02:20:00Z
   stop: 2026-11-19T03:35:00Z
@@ -137,6 +140,13 @@
   subtitled: true
   hd: true
   subtitle: Boulevard-Magazin
+- eventId: 687554
+  start: 2026-11-19T03:35:00Z
+  stop: 2026-11-19T03:55:00Z
+  title: Brisant
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 685299
   start: 2026-11-19T03:55:00Z
   stop: 2026-11-19T04:25:00Z
@@ -151,6 +161,7 @@
   - 569121
   - 570246
   - 629379
+  - 687555
   start: 2026-11-19T03:58:00Z
   stop: 2026-11-19T04:00:00Z
   title: Tagesschau
@@ -171,6 +182,14 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 687556
+  start: 2026-11-19T04:00:00Z
+  stop: 2026-11-19T04:25:00Z
+  title: Plusminus
+  subtitle: Das ARD-Wirtschaftsmagazin
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 685300
   start: 2026-11-19T04:25:00Z
   stop: 2026-11-19T04:50:00Z
@@ -185,6 +204,7 @@
   - 569123
   - 570248
   - 629381
+  - 687557
   start: 2026-11-19T04:30:00Z
   stop: 2026-11-19T08:00:00Z
   title: ARD-Morgenmagazin
@@ -243,6 +263,7 @@
   - 569845
   - 570646
   - 581504
+  - 687573
   start: 2026-11-19T08:00:00Z
   stop: 2026-11-19T08:05:00Z
   title: Tagesschau
@@ -256,6 +277,7 @@
   - 569846
   - 570647
   - 581505
+  - 687574
   start: 2026-11-19T08:05:00Z
   stop: 2026-11-19T08:55:00Z
   title: Watzmann ermittelt (10)
@@ -289,6 +311,7 @@
   - 569847
   - 570648
   - 581506
+  - 687575
   start: 2026-11-19T08:55:00Z
   stop: 2026-11-19T09:40:00Z
   title: Morden im Norden (96)
@@ -328,7 +351,9 @@
   subtitled: true
   hd: true
   description: Werden Kupferpfannen in der Spülmaschine wieder strahlend schön? Gibt es neben der Wein-Königin zum Beispiel auch eine Marillen-Prinzessin? Und kauft man fermentierten Thunfisch, wenn man für ein Salatdressing Anchovis braucht? Diese und viele weitere spannende und kuriose Fragen rund um den ganz normalen Alltag gibt es im SWR-Wissensquiz!
-- eventId: 570134
+- eventId:
+  - 570134
+  - 687585
   start: 2026-11-19T09:40:00Z
   stop: 2026-11-19T09:45:00Z
   title: Tagesschau
@@ -358,6 +383,14 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 687586
+  start: 2026-11-19T09:45:00Z
+  stop: 2026-11-19T10:10:00Z
+  title: Meister des Alltags (213)
+  subtitle: 'Moderation: Florian Weber'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 685354
   start: 2026-11-19T10:10:00Z
   stop: 2026-11-19T10:55:00Z
@@ -382,6 +415,14 @@
   hd: true
   description: Gut informiert zur Mittagszeit
   subtitle: 'Gäste: Annegret Schenkel und Sebastian Klussmann'
+- eventId: 687587
+  start: 2026-11-19T10:15:00Z
+  stop: 2026-11-19T10:55:00Z
+  title: Wer weiß denn sowas? (1432)
+  subtitle: 'Gäste: Annegret Schenkel und Sebastian Klussmann'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 685355
   start: 2026-11-19T10:55:00Z
   stop: 2026-11-19T11:45:00Z
@@ -393,6 +434,7 @@
 - eventId:
   - 557729
   - 570137
+  - 687588
   start: 2026-11-19T11:00:00Z
   stop: 2026-11-19T13:00:00Z
   title: ZDF-Mittagsmagazin
@@ -430,6 +472,7 @@
   - 566195
   - 570495
   - 571258
+  - 687604
   start: 2026-11-19T13:00:00Z
   stop: 2026-11-19T13:10:00Z
   title: Tagesschau
@@ -449,7 +492,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 558608
+- eventId:
+  - 558608
+  - 687605
   start: 2026-11-19T13:10:00Z
   stop: 2026-11-19T14:00:00Z
   title: Rote Rosen (4424)
@@ -473,6 +518,7 @@
   - 566197
   - 570497
   - 571260
+  - 687606
   start: 2026-11-19T14:00:00Z
   stop: 2026-11-19T14:10:00Z
   title: Tagesschau
@@ -502,7 +548,7 @@
   - 567158
   - 576057
   start: 2026-11-19T15:00:00Z
-  stop: 2026-11-19T15:15:00Z
+  stop: 2026-11-19T15:10:00Z
   title: WDR aktuell
   widescreen: true
   subtitled: true
@@ -546,6 +592,7 @@
   - 570937
   - 576058
   - 581817
+  - 687618
   - 721421
   start: 2026-11-19T15:10:00Z
   stop: 2026-11-19T16:00:00Z
@@ -580,6 +627,7 @@
   - 559689
   - 567160
   - 576059
+  - 687619
   start: 2026-11-19T16:00:00Z
   stop: 2026-11-19T16:15:00Z
   title: Tagesschau
@@ -604,6 +652,7 @@
   - 559690
   - 567161
   - 576060
+  - 687620
   start: 2026-11-19T16:15:00Z
   stop: 2026-11-19T17:00:00Z
   title: Brisant
@@ -622,7 +671,7 @@
   - 576061
   - 581820
   start: 2026-11-19T17:00:00Z
-  stop: 2026-11-19T17:15:00Z
+  stop: 2026-11-19T17:45:00Z
   title: Wer weiß denn sowas? (1442)
   widescreen: true
   subtitled: true
@@ -657,7 +706,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 559692
+- eventId:
+  - 559692
+  - 687621
   start: 2026-11-19T17:50:00Z
   stop: 2026-11-19T18:45:00Z
   title: In aller Freundschaft - Die jungen Ärzte (474)
@@ -673,7 +724,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 560149
+- eventId:
+  - 560149
+  - 687633
   start: 2026-11-19T18:45:00Z
   stop: 2026-11-19T18:50:00Z
   title: Wissen vor acht - Mensch
@@ -681,7 +734,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 560150
+- eventId:
+  - 560150
+  - 687634
   start: 2026-11-19T18:50:00Z
   stop: 2026-11-19T18:55:00Z
   title: Wetter vor acht
@@ -705,7 +760,7 @@
   hd: true
 - eventId: 560153
   start: 2026-11-19T19:15:00Z
-  stop: 2026-11-19T20:00:00Z
+  stop: 2026-11-19T20:45:00Z
   title: 'Quarks: Geschwister - Die wichtigste Beziehung unseres Lebens?'
   subtitle: Spielfilm Deutschland 2026
   genre:
@@ -757,6 +812,7 @@
   - 569673
   - 571969
   - 577642
+  - 687643
   start: 2026-11-19T21:50:00Z
   stop: 2026-11-19T22:35:00Z
   title: Nuhr im Ersten
@@ -778,6 +834,7 @@
 - eventId:
   - 560641
   - 571970
+  - 687644
   start: 2026-11-19T22:35:00Z
   stop: 2026-11-19T23:05:00Z
   title: Die Carolin Kebekus Show
@@ -802,6 +859,7 @@
   - 569675
   - 571971
   - 577644
+  - 687645
   start: 2026-11-19T23:05:00Z
   stop: 2026-11-19T23:15:00Z
   title: Tagesschau
@@ -815,6 +873,7 @@
   - 569676
   - 571972
   - 577645
+  - 687646
   start: 2026-11-19T23:15:00Z
   stop: 2026-11-20T00:48:00Z
   title: Wolfsland - Muttermord

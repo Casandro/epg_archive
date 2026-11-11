@@ -49,7 +49,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 645576
+- eventId:
+  - 645576
+  - 687120
   start: 2026-11-12T01:23:00Z
   stop: 2026-11-12T01:25:00Z
   title: Tagesschau
@@ -57,7 +59,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 645577
+- eventId:
+  - 645577
+  - 687121
   start: 2026-11-12T01:25:00Z
   stop: 2026-11-12T02:55:00Z
   title: Der Hafenpastor
@@ -154,6 +158,14 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 687127
+  start: 2026-11-12T03:30:00Z
+  stop: 2026-11-12T03:55:00Z
+  title: Brisant
+  description: 'BRISANT ist das Infotainment-Magazin der ARD und erzählt die Geschichten des Lebens aus aller Welt: Nachrichten, Hintergründe, Reportagen über den Klimawandel, Service, Trends, Lifestyle und Neuigkeiten von Prominenten.'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 685100
   start: 2026-11-12T03:55:00Z
   stop: 2026-11-12T04:25:00Z
@@ -167,6 +179,7 @@
   - 557375
   - 571643
   - 592719
+  - 687128
   - 819516
   start: 2026-11-12T03:58:00Z
   stop: 2026-11-12T04:00:00Z
@@ -217,6 +230,19 @@
   subtitled: true
   hd: true
   description: Finanzen, Gesundheit, Umwelt, Mobilität - Plusminus ist das hintergründige Wirtschaftsmagazin der ARD.
+- eventId: 687129
+  start: 2026-11-12T04:00:00Z
+  stop: 2026-11-12T04:25:00Z
+  title: Plusminus
+  subtitle: Das ARD-Wirtschaftsmagazin
+  description: |-
+    Themen:
+    * KI-Hack auf Banken und ihre Kunden: Ist Online-Banking noch sicher?
+    * Boomer-Immobilien: Sinken jetzt die Hauspreise?
+    * Sozialrecht: Wenn Betroffene keinen Anwalt mehr finden
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 685101
   start: 2026-11-12T04:25:00Z
   stop: 2026-11-12T04:50:00Z
@@ -233,6 +259,7 @@
   - 573223
   - 600899
   - 680729
+  - 687130
   - 721292
   start: 2026-11-12T04:30:00Z
   stop: 2026-11-12T08:00:00Z
@@ -299,6 +326,7 @@
   - 573898
   - 577206
   - 593128
+  - 687147
   - 819566
   start: 2026-11-12T08:00:00Z
   stop: 2026-11-12T08:05:00Z
@@ -312,6 +340,7 @@
   - 573899
   - 577207
   - 593129
+  - 687148
   - 819567
   start: 2026-11-12T08:05:00Z
   stop: 2026-11-12T08:55:00Z
@@ -345,6 +374,7 @@
   - 573900
   - 577208
   - 593130
+  - 687149
   - 819568
   start: 2026-11-12T08:55:00Z
   stop: 2026-11-12T09:40:00Z
@@ -369,6 +399,7 @@
 - eventId:
   - 544129
   - 574199
+  - 687152
   start: 2026-11-12T09:40:00Z
   stop: 2026-11-12T09:45:00Z
   title: Tagesschau
@@ -390,6 +421,18 @@
     Hilft Teppichschaum gegen Fettflecken auf Wildlederschuhen? Darf man in seiner Garage einen Rasenmäher lagern, ohne ein Bußgeld befürchten zu müssen? Und kann man Schmerzensgeld verlangen, wenn ein bestelltes Brautkleid nicht rechtzeitig zur Hochzeit fertig ist?
     Moderator Florian Weber stellt die Alltagstauglichkeit seiner prominenten Kandidaten auf die Probe. Kabarettist Christoph Sonntag und Schauspielerin Alice Hoffmann treten gegen Comedian Bodo Bach und Moderatorin Enie van de Meiklokjes an.
     Unterstützt wird heute das "Kinder- und Jugendhospiz" in Stuttgart sowie das Projekt "Kinderarzt-Mobil für Flüchtlingskinder" in Mainz.
+- eventId: 687153
+  start: 2026-11-12T09:45:00Z
+  stop: 2026-11-12T10:10:00Z
+  title: Meister des Alltags (119)
+  subtitle: 'Moderation: Florian Weber'
+  description: |-
+    Hilft Teppichschaum gegen Fettflecken auf Wildlederschuhen? Darf man in seiner Garage einen Rasenmäher lagern, ohne ein Bußgeld befürchten zu müssen? Und kann man Schmerzensgeld verlangen, wenn ein bestelltes Brautkleid nicht rechtzeitig zur Hochzeit fertig ist?
+    Moderator Florian Weber stellt die Alltagstauglichkeit seiner prominenten Kandidaten auf die Probe. Kabarettist Christoph Sonntag und Schauspielerin Alice Hoffmann treten gegen Comedian Bodo Bach und Moderatorin Enie van de Meiklokjes an.
+    Unterstützt wird heute das "Kinder- und Jugendhospiz" in Stuttgart sowie das Projekt "Kinderarzt-Mobil für Flüchtlingskinder" in Mainz.
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 685137
   start: 2026-11-12T10:10:00Z
   stop: 2026-11-12T10:55:00Z
@@ -410,6 +453,15 @@
   subtitled: true
   hd: true
   description: Knifflige Fragen aus Wissenschaft, Tierwelt und dem täglichen Leben ... Kai Pflaume moderiert die beliebte Quizshow. Schauspieler und Musiker Wotan Wilke Möhring ist neuer Teamkapitän - zusammen mit Bernhard Hoëcker.
+- eventId: 687154
+  start: 2026-11-12T10:15:00Z
+  stop: 2026-11-12T10:55:00Z
+  title: Wer weiß denn sowas? (1424)
+  subtitle: 'Gäste: Christoph Maria Herbst und Jürgen Vogel'
+  description: Knifflige Fragen aus Wissenschaft, Tierwelt und dem täglichen Leben ... Kai Pflaume moderiert die beliebte Quizshow. Schauspieler und Musiker Wotan Wilke Möhring ist neuer Teamkapitän - zusammen mit Bernhard Hoëcker.
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 685138
   start: 2026-11-12T10:55:00Z
   stop: 2026-11-12T11:45:00Z
@@ -422,6 +474,7 @@
 - eventId:
   - 544132
   - 574202
+  - 687155
   start: 2026-11-12T11:00:00Z
   stop: 2026-11-12T13:00:00Z
   title: ARD-Mittagsmagazin
@@ -461,6 +514,7 @@
   - 555733
   - 573804
   - 593951
+  - 687160
   - 819650
   start: 2026-11-12T13:00:00Z
   stop: 2026-11-12T13:10:00Z
@@ -475,6 +529,7 @@
   - 555734
   - 573805
   - 593952
+  - 687161
   - 819651
   start: 2026-11-12T13:10:00Z
   stop: 2026-11-12T14:00:00Z
@@ -502,6 +557,7 @@
   - 555735
   - 573806
   - 593953
+  - 687162
   - 819652
   start: 2026-11-12T14:00:00Z
   stop: 2026-11-12T14:10:00Z
@@ -536,7 +592,7 @@
   - 594506
   - 819718
   start: 2026-11-12T15:00:00Z
-  stop: 2026-11-12T15:15:00Z
+  stop: 2026-11-12T15:10:00Z
   title: WDR aktuell
   widescreen: true
   subtitled: true
@@ -549,6 +605,7 @@
   - 554232
   - 557793
   - 594507
+  - 687163
   - 819719
   start: 2026-11-12T15:10:00Z
   stop: 2026-11-12T16:00:00Z
@@ -571,6 +628,7 @@
   - 554233
   - 557794
   - 594508
+  - 687164
   - 819720
   start: 2026-11-12T16:00:00Z
   stop: 2026-11-12T16:15:00Z
@@ -585,6 +643,7 @@
   - 554234
   - 557795
   - 594509
+  - 687165
   - 819721
   start: 2026-11-12T16:15:00Z
   stop: 2026-11-12T17:00:00Z
@@ -601,7 +660,7 @@
   - 594510
   - 819722
   start: 2026-11-12T17:00:00Z
-  stop: 2026-11-12T17:15:00Z
+  stop: 2026-11-12T17:45:00Z
   title: Wer weiß denn sowas? (1437)
   subtitle: 'Gäste: Sylvie Meis und Marijke Amado'
   widescreen: true
@@ -640,6 +699,7 @@
   - 544726
   - 554236
   - 557797
+  - 687166
   start: 2026-11-12T17:50:00Z
   stop: 2026-11-12T18:45:00Z
   title: In aller Freundschaft - Die jungen Ärzte (473)
@@ -663,6 +723,7 @@
   - 556112
   - 558554
   - 589021
+  - 687178
   - 819769
   start: 2026-11-12T18:45:00Z
   stop: 2026-11-12T18:50:00Z
@@ -678,6 +739,7 @@
   - 556113
   - 558555
   - 589022
+  - 687179
   - 819770
   start: 2026-11-12T18:50:00Z
   stop: 2026-11-12T18:55:00Z
@@ -725,7 +787,7 @@
   - 589025
   - 819773
   start: 2026-11-12T19:15:00Z
-  stop: 2026-11-12T20:00:00Z
+  stop: 2026-11-12T20:45:00Z
   title: 'Quarks: Die Macht des Mikrobioms - Was unser Darm leistet'
   subtitle: Spielfilm Deutschland 2026
   ageRating: 12
@@ -789,6 +851,7 @@
   - 559037
   - 560518
   - 589751
+  - 687182
   - 819835
   start: 2026-11-12T21:50:00Z
   stop: 2026-11-12T22:35:00Z
@@ -814,12 +877,14 @@
   - 559038
   - 560519
   - 589752
+  - 687183
   start: 2026-11-12T22:35:00Z
   stop: 2026-11-12T23:05:00Z
   title: Die Carolin Kebekus Show
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: 'Moderation: Carolin Kebekus'
 - eventId: 819836
   start: 2026-11-12T22:35:00Z
   stop: 2026-11-12T23:05:00Z
@@ -833,6 +898,7 @@
   - 559039
   - 560520
   - 589753
+  - 687184
   - 819837
   start: 2026-11-12T23:05:00Z
   stop: 2026-11-12T23:15:00Z
@@ -847,6 +913,7 @@
   - 559040
   - 560521
   - 589754
+  - 685441
   - 819838
   start: 2026-11-12T23:15:00Z
   stop: 2026-11-13T00:48:00Z
@@ -859,15 +926,3 @@
   subtitled: true
   hd: true
   description: Viola Delbrück ist abweisend, kommt zu spät oder auch gar nicht. Burkhard "Butsch" Schulz ist zugewandt, defensiv, vorsichtig - verkehrte Welt in Görlitz. In diese kommt nun Emmy, junge Kripo-Anwärterin und - Butschs Tochter. Ein halbes Jahr ihres Praxisstudiums wird sie in der Polizeiinspektion Görlitz verbringen. Für Butsch Freude und Herausforderung zugleich. Dass schon am ersten Arbeitstag von Emmy die geschundene Leiche einer Frau in einer Kleingartensiedlung gefunden wird, macht die Situation für Butsch nicht weniger kompliziert
-- eventId: 685441
-  start: 2026-11-12T23:15:00Z
-  stop: 2026-11-13T00:00:00Z
-  title: Nachtstreife 3.0. (18/18)
-  subtitle: Finsteres Neujahr
-  description: 'Eine besondere Nacht im Jahr und eine außergewöhnliche für die Mainzer Polizei: Die Polizeikommissare Dominik Muders (29) und Sebastian Obermeier (30) sind an Silvester auf einem finsteren Schulgelände unterwegs. Eine Gruppe ist dort eingebrochen, das Motiv ist unklar, die Suche im Dunklen schwierig. Später werden sie Zeugen einer waghalsigen Verkehrsaktion.'
-  ageRating: 12
-  genre:
-  - '144'
-  widescreen: true
-  subtitled: true
-  hd: true

@@ -3,6 +3,7 @@
   - 561740
   - 570024
   - 658721
+  - 687238
   start: 2026-11-25T00:00:00Z
   stop: 2026-11-25T00:48:00Z
   title: In aller Freundschaft (1157)
@@ -23,6 +24,7 @@
   - 561741
   - 570025
   - 658722
+  - 687239
   start: 2026-11-25T00:48:00Z
   stop: 2026-11-25T00:50:00Z
   title: Tagesschau
@@ -36,6 +38,14 @@
   - 658723
   start: 2026-11-25T00:50:00Z
   stop: 2026-11-25T01:35:00Z
+  title: Morden im Norden (99)
+  subtitle: Aus gutem Hause
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 687240
+  start: 2026-11-25T00:50:00Z
+  stop: 2026-11-25T01:30:00Z
   title: Morden im Norden (99)
   subtitle: Aus gutem Hause
   widescreen: true
@@ -61,6 +71,7 @@
   - 561743
   - 570027
   - 658724
+  - 687241
   start: 2026-11-25T01:35:00Z
   stop: 2026-11-25T02:50:00Z
   title: maischberger
@@ -86,6 +97,7 @@
   - 561744
   - 570028
   - 658725
+  - 687242
   start: 2026-11-25T02:50:00Z
   stop: 2026-11-25T03:20:00Z
   title: Europamagazin
@@ -112,6 +124,13 @@
   subtitled: true
   hd: true
   subtitle: Boulevard-Magazin
+- eventId: 687273
+  start: 2026-11-25T03:20:00Z
+  stop: 2026-11-25T03:55:00Z
+  title: Brisant
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 685587
   start: 2026-11-25T03:25:00Z
   stop: 2026-11-25T03:55:00Z
@@ -131,6 +150,7 @@
   - 562343
   - 570298
   - 658759
+  - 687274
   start: 2026-11-25T03:58:00Z
   stop: 2026-11-25T04:00:00Z
   title: Tagesschau
@@ -145,6 +165,14 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 687275
+  start: 2026-11-25T04:00:00Z
+  stop: 2026-11-25T04:25:00Z
+  title: report München
+  subtitle: 'Moderation: Christian Nitsche'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 685589
   start: 2026-11-25T04:25:00Z
   stop: 2026-11-25T04:50:00Z
@@ -152,7 +180,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 570300
+- eventId:
+  - 570300
+  - 687276
   start: 2026-11-25T04:30:00Z
   stop: 2026-11-25T08:00:00Z
   title: ZDF-Morgenmagazin
@@ -220,7 +250,7 @@
   - 570984
   - 658774
   start: 2026-11-25T08:05:00Z
-  stop: 2026-11-25T08:10:00Z
+  stop: 2026-11-25T08:55:00Z
   title: Watzmann ermittelt (14)
   subtitle: Der Blick in die Region
   widescreen: true
@@ -247,6 +277,7 @@
   - 563707
   - 570985
   - 658775
+  - 687320
   start: 2026-11-25T08:55:00Z
   stop: 2026-11-25T09:40:00Z
   title: Morden im Norden (100)
@@ -282,6 +313,7 @@
   - 564562
   - 576303
   - 658791
+  - 687352
   start: 2026-11-25T09:40:00Z
   stop: 2026-11-25T09:45:00Z
   title: Tagesschau
@@ -308,6 +340,7 @@
   - 564563
   - 576304
   - 658792
+  - 687353
   start: 2026-11-25T09:45:00Z
   stop: 2026-11-25T10:15:00Z
   title: Meister des Alltags (217)
@@ -335,6 +368,14 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 687354
+  start: 2026-11-25T10:15:00Z
+  stop: 2026-11-25T10:55:00Z
+  title: Wer weiß denn sowas? (1436)
+  subtitle: 'Gäste: Bodo Bach und Jürgen von der Lippe'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 685639
   start: 2026-11-25T10:55:00Z
   stop: 2026-11-25T11:45:00Z
@@ -348,6 +389,7 @@
   - 564565
   - 576306
   - 658794
+  - 687355
   start: 2026-11-25T11:00:00Z
   stop: 2026-11-25T13:00:00Z
   title: ARD-Mittagsmagazin
@@ -383,6 +425,7 @@
   - 574791
   - 595251
   - 658808
+  - 687386
   start: 2026-11-25T13:00:00Z
   stop: 2026-11-25T13:10:00Z
   title: Tagesschau
@@ -394,6 +437,7 @@
   - 574792
   - 595252
   - 658809
+  - 687387
   start: 2026-11-25T13:10:00Z
   stop: 2026-11-25T14:00:00Z
   title: Rote Rosen (4428)
@@ -414,6 +458,7 @@
   - 574793
   - 595253
   - 658810
+  - 687388
   start: 2026-11-25T14:00:00Z
   stop: 2026-11-25T14:10:00Z
   title: Tagesschau
@@ -462,7 +507,7 @@
   - 849107
   - 980807
   start: 2026-11-25T15:15:00Z
-  stop: 2026-11-25T17:00:00Z
+  stop: 2026-11-25T16:00:00Z
   title: In höchster Not - Bergretter im Einsatz (4/8)
   subtitle: 'Moderation: Nadia Kailouli'
   widescreen: true
@@ -487,6 +532,7 @@
   - 566520
   - 575451
   - 659167
+  - 687413
   start: 2026-11-25T16:00:00Z
   stop: 2026-11-25T16:15:00Z
   title: Tagesschau
@@ -499,6 +545,7 @@
   - 577099
   - 591057
   - 659168
+  - 687414
   - 718956
   start: 2026-11-25T16:15:00Z
   stop: 2026-11-25T17:00:00Z
@@ -515,7 +562,7 @@
   - 659169
   - 718957
   start: 2026-11-25T17:00:00Z
-  stop: 2026-11-25T17:15:00Z
+  stop: 2026-11-25T17:45:00Z
   title: Wer weiß denn sowas? (1446)
   subtitle: mit Kai Pflaume
   widescreen: true
@@ -541,6 +588,7 @@
   - 566523
   - 575454
   - 659170
+  - 687415
   start: 2026-11-25T17:50:00Z
   stop: 2026-11-25T18:45:00Z
   title: Hubert ohne Staller (200/200)
@@ -579,6 +627,7 @@
   - 571482
   - 576087
   - 658896
+  - 687447
   start: 2026-11-25T18:45:00Z
   stop: 2026-11-25T18:50:00Z
   title: Wissen vor acht - Erde
@@ -591,6 +640,7 @@
   - 571483
   - 576088
   - 658897
+  - 687448
   start: 2026-11-25T18:50:00Z
   stop: 2026-11-25T18:55:00Z
   title: Wetter vor acht
@@ -628,7 +678,7 @@
   - 576091
   - 658900
   start: 2026-11-25T19:15:00Z
-  stop: 2026-11-25T20:00:00Z
+  stop: 2026-11-25T20:45:00Z
   title: Chamäleon
   subtitle: Das Wirtschafts- und Verbrauchermagazin
   genre:
@@ -680,7 +730,7 @@
   - 576767
   - 658920
   start: 2026-11-25T21:15:00Z
-  stop: 2026-11-25T22:00:00Z
+  stop: 2026-11-25T21:50:00Z
   title: Wenn der Partner zuschlägt - Häusliche Gewalt in NRW
   subtitle: Eine WDR Story von Marion Försching
   widescreen: true
@@ -701,6 +751,7 @@
   - 571952
   - 576768
   - 658921
+  - 687459
   start: 2026-11-25T21:50:00Z
   stop: 2026-11-25T23:05:00Z
   title: maischberger
@@ -742,6 +793,7 @@
   - 571953
   - 576769
   - 658922
+  - 687460
   start: 2026-11-25T23:05:00Z
   stop: 2026-11-25T23:15:00Z
   title: Tagesschau
@@ -768,6 +820,7 @@
   - 571954
   - 576770
   - 658923
+  - 687461
   start: 2026-11-25T23:15:00Z
   stop: 2026-11-26T00:48:00Z
   title: Chamäleon

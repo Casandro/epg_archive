@@ -305,6 +305,7 @@
 - eventId:
   - 565020
   - 570127
+  - 687427
   start: 2026-11-11T11:00:00Z
   stop: 2026-11-11T13:00:00Z
   title: ARD-Mittagsmagazin
@@ -334,6 +335,7 @@
   - 547849
   - 554694
   - 570487
+  - 687432
   start: 2026-11-11T13:00:00Z
   stop: 2026-11-11T13:10:00Z
   title: Tagesschau
@@ -345,6 +347,7 @@
   - 547850
   - 554695
   - 570488
+  - 687433
   start: 2026-11-11T13:10:00Z
   stop: 2026-11-11T14:00:00Z
   title: Rote Rosen (4418)
@@ -357,6 +360,7 @@
   - 547851
   - 554696
   - 570489
+  - 687434
   start: 2026-11-11T14:00:00Z
   stop: 2026-11-11T14:10:00Z
   title: Tagesschau
@@ -368,6 +372,7 @@
   - 547852
   - 554697
   - 570490
+  - 687435
   start: 2026-11-11T14:10:00Z
   stop: 2026-11-11T15:00:00Z
   title: Sturm der Liebe (4671)
@@ -388,7 +393,7 @@
   - 721396
   - 788562
   start: 2026-11-11T15:00:00Z
-  stop: 2026-11-11T15:15:00Z
+  stop: 2026-11-11T15:10:00Z
   title: WDR aktuell
   widescreen: true
   subtitled: true
@@ -400,6 +405,7 @@
   - 555310
   - 567141
   - 576047
+  - 687440
   - 788563
   start: 2026-11-11T15:10:00Z
   stop: 2026-11-11T16:00:00Z
@@ -438,7 +444,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 555311
+- eventId:
+  - 555311
+  - 687441
   start: 2026-11-11T16:00:00Z
   stop: 2026-11-11T16:15:00Z
   title: Tagesschau
@@ -446,7 +454,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 555312
+- eventId:
+  - 555312
+  - 687442
   start: 2026-11-11T16:15:00Z
   stop: 2026-11-11T17:00:00Z
   title: Brisant
@@ -469,7 +479,7 @@
   description: 'BRISANT ist das Infotainment-Magazin der ARD und erzählt die Geschichten des Lebens aus aller Welt: Nachrichten, Hintergründe, Reportagen über den Klimawandel, Service, Trends, Lifestyle und Neuigkeiten von Prominenten.'
 - eventId: 555313
   start: 2026-11-11T17:00:00Z
-  stop: 2026-11-11T17:15:00Z
+  stop: 2026-11-11T17:45:00Z
   title: Wer weiß denn sowas? (1436)
   subtitle: 'Gäste: Bodo Bach und Jürgen von der Lippe'
   widescreen: true
@@ -512,7 +522,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 555314
+- eventId:
+  - 555314
+  - 687443
   start: 2026-11-11T17:50:00Z
   stop: 2026-11-11T18:45:00Z
   title: Hubert ohne Staller (198)
@@ -547,6 +559,7 @@
   - 568537
   - 571429
   - 576508
+  - 687455
   - 788590
   start: 2026-11-11T18:45:00Z
   stop: 2026-11-11T18:50:00Z
@@ -556,7 +569,9 @@
   subtitled: true
   hd: true
   description: Jeden Sommer brennen Wälder. In Spanien, Griechenland, der Türkei - und auch bei uns in Deutschland. Doch wie können wir unsere Wälder so umbauen, dass sie besser vor Bränden geschützt sind? Antworten gibt es bei "Wissen vor acht - Erde".
-- eventId: 555975
+- eventId:
+  - 555975
+  - 687456
   start: 2026-11-11T18:50:00Z
   stop: 2026-11-11T18:55:00Z
   title: Wetter vor acht
@@ -611,7 +626,7 @@
   hd: true
 - eventId: 556635
   start: 2026-11-11T21:15:00Z
-  stop: 2026-11-11T22:00:00Z
+  stop: 2026-11-11T21:50:00Z
   title: Karneval Classics
   subtitle: Das Beste von Bernd Stelter!
   widescreen: true
@@ -621,7 +636,9 @@
     Bernd Stelter ist seit mehr als 30 Jahren auf den Bühnen des Kölner Karnevals unterwegs und zählt heute zu den besten und beliebtesten buchbaren Rednern im Karneval überhaupt. Viele kennen das Multitalent natürlich auch noch als Comedian, Schriftsteller und Fernsehmoderator - nicht zuletzt aus Rudi Carrels "7 Tage, 7 Köpfe".
 
     Seine Karnevalsreden sind immer auf das aktuelle Zeitgeschehen zugeschnitten, mit scharfem und intelligentem Witz nimmt er Politik, Prominenz, Zeitgeist, aber auch allzu Menschliches liebevoll ins Visier. Aber Bernd Stelter ist auch ein begnadeter Musiker.
-- eventId: 556636
+- eventId:
+  - 556636
+  - 687113
   start: 2026-11-11T21:50:00Z
   stop: 2026-11-11T23:05:00Z
   title: maischberger
@@ -648,7 +665,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 556637
+- eventId:
+  - 556637
+  - 687114
   start: 2026-11-11T23:05:00Z
   stop: 2026-11-11T23:40:00Z
   title: Die Paartherapie
@@ -683,7 +702,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 645574
+- eventId:
+  - 645574
+  - 687115
   start: 2026-11-11T23:40:00Z
   stop: 2026-11-11T23:50:00Z
   title: Tagesschau
@@ -706,6 +727,18 @@
 - eventId: 645575
   start: 2026-11-11T23:50:00Z
   stop: 2026-11-12T01:18:00Z
+  title: Wäldern - Der lebende Tote (3)
+  subtitle: Spielfilm Deutschland 2026
+  description: Otto Glanz, der Vater von Lara und Greta, kehrt von den Toten zurück, weil eine Frau aus Wäldern, die Bibliothekarin Ingrid, einen Posten in der Anderwelt beziehen muss, um Magda zu unterstützen. Die Schwestern erhalten Beistand von Heilerin Dorothea und dem alten Professor Rudolf.
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 687116
+  start: 2026-11-11T23:50:00Z
+  stop: 2026-11-12T01:23:00Z
   title: Wäldern - Der lebende Tote (3)
   subtitle: Spielfilm Deutschland 2026
   description: Otto Glanz, der Vater von Lara und Greta, kehrt von den Toten zurück, weil eine Frau aus Wäldern, die Bibliothekarin Ingrid, einen Posten in der Anderwelt beziehen muss, um Magda zu unterstützen. Die Schwestern erhalten Beistand von Heilerin Dorothea und dem alten Professor Rudolf.
