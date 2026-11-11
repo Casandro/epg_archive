@@ -127,7 +127,7 @@
   hd: true
 - eventId: 655794
   start: 2026-11-13T05:15:00Z
-  stop: 2026-11-13T05:45:00Z
+  stop: 2026-11-13T06:00:00Z
   title: 19h30 - Signé
   description: (Rediffusion)  "Langue des signes"
   genre:
@@ -148,6 +148,7 @@
   hd: true
 - eventId:
   - 577945
+  - 692212
   - 760550
   start: 2026-11-13T06:00:00Z
   stop: 2026-11-13T07:00:00Z
@@ -212,11 +213,22 @@
   - 577981
   - 760555
   start: 2026-11-13T09:50:00Z
-  stop: 2026-11-13T10:20:00Z
+  stop: 2026-11-13T10:15:00Z
   title: Geopolitis
   description: Serbie, victoire de la rue Le mouvement des étudiants a remporté la majorité absolue aux législatives anticipées, après deux ans de mobilisation massive contre la corruption. Le leader nationaliste Alexandar Vu_i_ concède sa défaite après 14 ans au c_ur du pouvoir. (Suisse Romande-2026)
   genre:
   - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 692213
+  start: 2026-11-13T10:15:00Z
+  stop: 2026-11-13T11:10:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
   widescreen: true
   subtitled: true
   hd: true
@@ -427,7 +439,7 @@
   - 578118
   - 772917
   start: 2026-11-13T22:15:00Z
-  stop: 2026-11-13T22:16:00Z
+  stop: 2026-11-13T22:20:00Z
   title: PMU
   widescreen: true
   hd: true
@@ -446,6 +458,18 @@
   - 578120
   - 772919
   start: 2026-11-13T22:20:00Z
+  stop: 2026-11-13T22:25:00Z
+  title: Babylon Berlin
+  subtitle: Episode 1
+  description: Folge 1 - Saison 4 (1/12) Alors que l'année 1930 s'achève, le docteur Schmidt poursuit ses expériences sur Gereon dans le but d'inhiber sa peur et de le rendre invincible. Ce dernier s'apprête à prendre part à une rébellion de la SA qui ne souhaite plus suivre les ordres de Munich. (Allemagne-2020)
+  ageRating: 16
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 692214
+  start: 2026-11-13T22:25:00Z
   stop: 2026-11-13T23:15:00Z
   title: Babylon Berlin
   subtitle: Episode 1
@@ -460,7 +484,7 @@
   - 578121
   - 772920
   start: 2026-11-13T23:15:00Z
-  stop: 2026-11-14T00:10:00Z
+  stop: 2026-11-14T00:05:00Z
   title: Babylon Berlin
   subtitle: Episode 2
   description: Folge 2 - Saison 4 (2/12) La nouvelle année commence par une enquête sur le meurtre d'un fonctionnaire d'état lié aux Ringvereine berlinois, des organisations criminelles. Charlotte fait le lien entre la jeune fille rousse recherchée par la police lors du casse du grand magasin et sa s_ur Toni. (Allemagne-2020)
