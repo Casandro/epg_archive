@@ -148,7 +148,7 @@
   hd: true
 - eventId: 645581
   start: 2026-11-18T03:25:00Z
-  stop: 2026-11-18T03:55:00Z
+  stop: 2026-11-18T03:58:00Z
   title: Lokalzeit aus Dortmund
   widescreen: true
   subtitled: true
@@ -190,7 +190,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 544775
+- eventId:
+  - 544775
+  - 687329
   start: 2026-11-18T04:00:00Z
   stop: 2026-11-18T04:30:00Z
   title: Report Mainz
@@ -199,15 +201,6 @@
   subtitled: true
   hd: true
   description: Report Mainz deckt Missstände und Fehlentwicklungen auf - in Politik, Wirtschaft und Gesellschaft. Report Mainz zeigt die Wahrheit dahinter und nennt die Verantwortlichen beim Namen.
-- eventId: 687329
-  start: 2026-11-18T04:00:00Z
-  stop: 2026-11-18T04:25:00Z
-  title: Report Mainz
-  subtitle: 'Moderation: Nadia Kailouli'
-  description: Report Mainz deckt Missstände und Fehlentwicklungen auf - in Politik, Wirtschaft und Gesellschaft. Report Mainz zeigt die Wahrheit dahinter und nennt die Verantwortlichen beim Namen.
-  widescreen: true
-  subtitled: true
-  hd: true
 - eventId: 684925
   start: 2026-11-18T04:25:00Z
   stop: 2026-11-18T04:50:00Z
@@ -372,6 +365,7 @@
   - 575522
   - 577744
   - 591770
+  - 687343
   - 980881
   start: 2026-11-18T10:00:00Z
   stop: 2026-11-18T10:15:00Z
@@ -379,14 +373,7 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 687343
-  start: 2026-11-18T10:00:00Z
-  stop: 2026-11-18T10:10:00Z
-  title: Tagesschau
   description: Die Nachrichten der ARD
-  widescreen: true
-  subtitled: true
-  hd: true
 - eventId: 684941
   start: 2026-11-18T10:10:00Z
   stop: 2026-11-18T10:55:00Z
@@ -404,6 +391,7 @@
   - 575523
   - 577745
   - 591771
+  - 687344
   - 980882
   start: 2026-11-18T10:15:00Z
   stop: 2026-11-18T11:00:00Z
@@ -412,15 +400,7 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 687344
-  start: 2026-11-18T10:15:00Z
-  stop: 2026-11-18T10:55:00Z
-  title: Wer weiß denn sowas? (1431)
-  subtitle: 'Gäste: Sven Voss und Kathrin Müller-Hohenstein'
   description: Es gilt, richtige Antworten auf skurrile und knifflige Fragen aus Wissenschaft, Tierwelt und dem täglichen Leben zu finden. Beide Teams spielen um Bares für ihre Unterstützer, denn zu Beginn des Wissensspiels müssen sich die Zuschauer im Studio entscheiden, welchem Team sie den Rücken stärken wollen.
-  widescreen: true
-  subtitled: true
-  hd: true
 - eventId: 684942
   start: 2026-11-18T10:55:00Z
   stop: 2026-11-18T11:45:00Z
@@ -648,7 +628,7 @@
   - 584357
   - 980974
   start: 2026-11-18T17:00:00Z
-  stop: 2026-11-18T17:45:00Z
+  stop: 2026-11-18T17:50:00Z
   title: Wer weiß denn sowas? (1441)
   subtitle: 'Moderation: Kai Pflaume'
   widescreen: true

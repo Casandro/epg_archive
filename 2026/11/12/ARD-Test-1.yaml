@@ -121,7 +121,7 @@
   hd: true
 - eventId: 645578
   start: 2026-11-12T02:55:00Z
-  stop: 2026-11-12T03:25:00Z
+  stop: 2026-11-12T03:30:00Z
   title: Die Paartherapie
   description: 'Vier Paare. Vier Geschichten. Und die Frage, wie man als Paar miteinander wächst und sich immer wieder neu begegnet. Die Themen der neuen Staffel könnten unterschiedlicher kaum sein: Ein Vertrauensbruch erschüttert nach 13 gemeinsamen Jahren eine Ehe. In einer offenen Beziehung stellt ein plötzlich veränderter Kinderwunsch die gemeinsame Zukunft infrage. Ein junges Paar gerät kurz nach dem Zusammenziehen in seine erste große Krise. Und ein Mann, der Partnerin und Kinder von heute auf morgen für einige Monate verlassen hat, muss sich der Frage stellen, ob verlorenes Vertrauen zurückgewonnen werden kann.'
   widescreen: true
@@ -150,17 +150,11 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 645579
+- eventId:
+  - 645579
+  - 687127
   start: 2026-11-12T03:30:00Z
   stop: 2026-11-12T03:58:00Z
-  title: Brisant
-  description: 'BRISANT ist das Infotainment-Magazin der ARD und erzählt die Geschichten des Lebens aus aller Welt: Nachrichten, Hintergründe, Reportagen über den Klimawandel, Service, Trends, Lifestyle und Neuigkeiten von Prominenten.'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 687127
-  start: 2026-11-12T03:30:00Z
-  stop: 2026-11-12T03:55:00Z
   title: Brisant
   description: 'BRISANT ist das Infotainment-Magazin der ARD und erzählt die Geschichten des Lebens aus aller Welt: Nachrichten, Hintergründe, Reportagen über den Klimawandel, Service, Trends, Lifestyle und Neuigkeiten von Prominenten.'
   widescreen: true
@@ -206,6 +200,7 @@
   - 557376
   - 571644
   - 592720
+  - 687129
   - 819517
   start: 2026-11-12T04:00:00Z
   stop: 2026-11-12T04:30:00Z
@@ -230,19 +225,6 @@
   subtitled: true
   hd: true
   description: Finanzen, Gesundheit, Umwelt, Mobilität - Plusminus ist das hintergründige Wirtschaftsmagazin der ARD.
-- eventId: 687129
-  start: 2026-11-12T04:00:00Z
-  stop: 2026-11-12T04:25:00Z
-  title: Plusminus
-  subtitle: Das ARD-Wirtschaftsmagazin
-  description: |-
-    Themen:
-    * KI-Hack auf Banken und ihre Kunden: Ist Online-Banking noch sicher?
-    * Boomer-Immobilien: Sinken jetzt die Hauspreise?
-    * Sozialrecht: Wenn Betroffene keinen Anwalt mehr finden
-  widescreen: true
-  subtitled: true
-  hd: true
 - eventId: 685101
   start: 2026-11-12T04:25:00Z
   stop: 2026-11-12T04:50:00Z
@@ -410,6 +392,7 @@
 - eventId:
   - 544130
   - 574200
+  - 687153
   start: 2026-11-12T09:45:00Z
   stop: 2026-11-12T10:15:00Z
   title: Meister des Alltags (119)
@@ -421,18 +404,6 @@
     Hilft Teppichschaum gegen Fettflecken auf Wildlederschuhen? Darf man in seiner Garage einen Rasenmäher lagern, ohne ein Bußgeld befürchten zu müssen? Und kann man Schmerzensgeld verlangen, wenn ein bestelltes Brautkleid nicht rechtzeitig zur Hochzeit fertig ist?
     Moderator Florian Weber stellt die Alltagstauglichkeit seiner prominenten Kandidaten auf die Probe. Kabarettist Christoph Sonntag und Schauspielerin Alice Hoffmann treten gegen Comedian Bodo Bach und Moderatorin Enie van de Meiklokjes an.
     Unterstützt wird heute das "Kinder- und Jugendhospiz" in Stuttgart sowie das Projekt "Kinderarzt-Mobil für Flüchtlingskinder" in Mainz.
-- eventId: 687153
-  start: 2026-11-12T09:45:00Z
-  stop: 2026-11-12T10:10:00Z
-  title: Meister des Alltags (119)
-  subtitle: 'Moderation: Florian Weber'
-  description: |-
-    Hilft Teppichschaum gegen Fettflecken auf Wildlederschuhen? Darf man in seiner Garage einen Rasenmäher lagern, ohne ein Bußgeld befürchten zu müssen? Und kann man Schmerzensgeld verlangen, wenn ein bestelltes Brautkleid nicht rechtzeitig zur Hochzeit fertig ist?
-    Moderator Florian Weber stellt die Alltagstauglichkeit seiner prominenten Kandidaten auf die Probe. Kabarettist Christoph Sonntag und Schauspielerin Alice Hoffmann treten gegen Comedian Bodo Bach und Moderatorin Enie van de Meiklokjes an.
-    Unterstützt wird heute das "Kinder- und Jugendhospiz" in Stuttgart sowie das Projekt "Kinderarzt-Mobil für Flüchtlingskinder" in Mainz.
-  widescreen: true
-  subtitled: true
-  hd: true
 - eventId: 685137
   start: 2026-11-12T10:10:00Z
   stop: 2026-11-12T10:55:00Z
@@ -445,6 +416,7 @@
 - eventId:
   - 544131
   - 574201
+  - 687154
   start: 2026-11-12T10:15:00Z
   stop: 2026-11-12T11:00:00Z
   title: Wer weiß denn sowas? (1424)
@@ -453,15 +425,6 @@
   subtitled: true
   hd: true
   description: Knifflige Fragen aus Wissenschaft, Tierwelt und dem täglichen Leben ... Kai Pflaume moderiert die beliebte Quizshow. Schauspieler und Musiker Wotan Wilke Möhring ist neuer Teamkapitän - zusammen mit Bernhard Hoëcker.
-- eventId: 687154
-  start: 2026-11-12T10:15:00Z
-  stop: 2026-11-12T10:55:00Z
-  title: Wer weiß denn sowas? (1424)
-  subtitle: 'Gäste: Christoph Maria Herbst und Jürgen Vogel'
-  description: Knifflige Fragen aus Wissenschaft, Tierwelt und dem täglichen Leben ... Kai Pflaume moderiert die beliebte Quizshow. Schauspieler und Musiker Wotan Wilke Möhring ist neuer Teamkapitän - zusammen mit Bernhard Hoëcker.
-  widescreen: true
-  subtitled: true
-  hd: true
 - eventId: 685138
   start: 2026-11-12T10:55:00Z
   stop: 2026-11-12T11:45:00Z
@@ -660,7 +623,7 @@
   - 594510
   - 819722
   start: 2026-11-12T17:00:00Z
-  stop: 2026-11-12T17:45:00Z
+  stop: 2026-11-12T17:50:00Z
   title: Wer weiß denn sowas? (1437)
   subtitle: 'Gäste: Sylvie Meis und Marijke Amado'
   widescreen: true
@@ -830,7 +793,7 @@
   - 589750
   - 819834
   start: 2026-11-12T21:15:00Z
-  stop: 2026-11-12T21:45:00Z
+  stop: 2026-11-12T21:50:00Z
   title: Tagesthemen
   subtitle: 'Moderation: Sabine Heinrich'
   widescreen: true
