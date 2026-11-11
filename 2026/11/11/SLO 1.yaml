@@ -22,12 +22,20 @@
   - 621244
   - 817392
   start: 2026-11-11T05:35:00Z
-  stop: 2026-11-11T05:50:00Z
+  stop: 2026-11-11T05:45:00Z
   title: Kultura
   subtitle: Kultura je kratka aktualna informativna oddaja o kulturi in umetnosti, v kateri se praviloma izpostavljajo osrednji dogodki dneva. V njej najdejo prostor tudi mednarodne novice in problemske teme.
   ageRating: 4
   genre:
   - '160'
+- eventId: 673516
+  start: 2026-11-11T05:45:00Z
+  stop: 2026-11-11T06:00:00Z
+  title: Šport
+  subtitle: Zadnji pregled športnega dogajanja v dnevu je prelet dneva z vsemi najpomembnejšimi novicami, zlasti popoldanskimi in svežimi večernimi, ter napoved novega tekmovalnega dne.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 621245
   - 817393
@@ -292,22 +300,16 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 621275
-  start: 2026-11-11T14:55:00Z
-  stop: 2026-11-11T15:15:00Z
-  title: Šampion Jon
-  subtitle: Tudi Jonova druščina ima letne olimpijske igre, ko se pomeri v različnih športih.
-  ageRating: 4
-  genre:
-  - '128'
-- eventId: 817418
+- eventId:
+  - 621275
+  - 817418
   start: 2026-11-11T14:55:00Z
   stop: 2026-11-11T15:15:00Z
   title: Slastna kuhinja
   subtitle: Danes bomo spekli račja prsa z mareličnim čatnijem. To ni klasična jed, saj se je recept že toliko spremenil, da bi izvirnega našli le stežka.
   ageRating: 4
   genre:
-  - '160'
+  - '128'
 - eventId:
   - 621279
   - 851037
@@ -526,7 +528,7 @@
   - 621307
   - 851038
   start: 2026-11-11T23:25:00Z
-  stop: 2026-11-12T05:05:00Z
+  stop: 2026-11-12T05:00:00Z
   title: Napovedujemo
   subtitle: Napovednik programa.
   ageRating: 4

@@ -1,3 +1,11 @@
+- eventId: 673519
+  start: 2026-11-13T05:00:00Z
+  stop: 2026-11-13T05:35:00Z
+  title: Odmevi
+  subtitle: Odmevi vsak delavnik ob 22.10 ponudijo sveže večerne novice ter analize najpomembnejših dogodkov dneva.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 668423
   start: 2026-11-13T05:05:00Z
   stop: 2026-11-13T05:35:00Z
@@ -8,12 +16,20 @@
   - '32'
 - eventId: 668424
   start: 2026-11-13T05:35:00Z
-  stop: 2026-11-13T05:50:00Z
+  stop: 2026-11-13T05:45:00Z
   title: Kultura
   subtitle: Kultura je kratka aktualna informativna oddaja o kulturi in umetnosti, v kateri se praviloma izpostavljajo osrednji dogodki dneva. V njej najdejo prostor tudi mednarodne novice in problemske teme.
   ageRating: 4
   genre:
   - '160'
+- eventId: 673520
+  start: 2026-11-13T05:45:00Z
+  stop: 2026-11-13T06:00:00Z
+  title: Šport
+  subtitle: Zadnji pregled športnega dogajanja v dnevu je prelet dneva z vsemi najpomembnejšimi novicami, zlasti popoldanskimi in svežimi večernimi, ter napoved novega tekmovalnega dne.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 668425
   start: 2026-11-13T05:50:00Z
   stop: 2026-11-13T06:00:00Z
@@ -84,6 +100,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 673521
+  start: 2026-11-13T09:45:00Z
+  stop: 2026-11-13T09:55:00Z
+  title: Televizijsko prodajno okno
+  subtitle: TV izložba.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 668437
   start: 2026-11-13T09:55:00Z
   stop: 2026-11-13T11:55:00Z
@@ -92,6 +116,22 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 673522
+  start: 2026-11-13T10:00:00Z
+  stop: 2026-11-13T11:50:00Z
+  title: Lokalne volitve 2026
+  subtitle: Zoran Janković, ki se poteguje za svoj sedmi županski mandat, ima tokrat kar nekaj resnih izzivalcev. Kako bi vodili glavno mesto in kaj napovedujejo?
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 673523
+  start: 2026-11-13T11:50:00Z
+  stop: 2026-11-13T12:00:00Z
+  title: Vreme
+  subtitle: Spremljajte aktualno vremensko napoved z opozorili in zanimivimi informacijami vsak dan v sklopu informativnih oddaj.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 668438
   start: 2026-11-13T11:55:00Z
   stop: 2026-11-13T12:00:00Z
@@ -126,9 +166,17 @@
   - '128'
 - eventId: 668442
   start: 2026-11-13T13:20:00Z
-  stop: 2026-11-13T13:55:00Z
+  stop: 2026-11-13T13:50:00Z
   title: Podoba podobe
   subtitle: Gotske stenske poslikave v Istri predstavljajo enega najbogatejših in najbolj avtentičnih umetnostnih zakladov v tem delu Evrope.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 673524
+  start: 2026-11-13T13:50:00Z
+  stop: 2026-11-13T14:10:00Z
+  title: Televizijsko prodajno okno
+  subtitle: TV izložba.
   ageRating: 4
   genre:
   - '160'
@@ -150,17 +198,25 @@
   - '160'
 - eventId: 668445
   start: 2026-11-13T14:40:00Z
-  stop: 2026-11-13T15:00:00Z
+  stop: 2026-11-13T14:55:00Z
   title: Kaj govoriš? = So vakeres?
   subtitle: Dvajset let delovanja, številne zgodbe in spremembe, ki se začnejo pri posamezniku.
   ageRating: 4
   genre:
   - '160'
-- eventId: 668446
-  start: 2026-11-13T15:00:00Z
-  stop: 2026-11-13T15:05:00Z
+- eventId: 673525
+  start: 2026-11-13T14:55:00Z
+  stop: 2026-11-13T15:00:00Z
   title: Bacek Jon
   subtitle: Čreda uživa v plesu, ko sveža krtina prekine zabavo. Jon mora uporabiti izredne ukrepe, da se odkriža nadležnega krta.
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 668446
+  start: 2026-11-13T15:00:00Z
+  stop: 2026-11-13T15:10:00Z
+  title: Živalski čira čara
+  subtitle: Je ptica? Je medved? Je Živalski čira čara! Ugibanje je zabavno. Vam je velik rilec znan? Kaj pa črno bela dlaka? In kaj menite o malčku, ki se plazi naokrog zelo počasi? Škatlica vam pomaga z namigi.
   ageRating: 4
   genre:
   - '128'
@@ -172,11 +228,27 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 673526
+  start: 2026-11-13T15:10:00Z
+  stop: 2026-11-13T15:25:00Z
+  title: Infodrom
+  subtitle: Infodrom je informativna oddaja za mlade.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 668448
   start: 2026-11-13T15:15:00Z
   stop: 2026-11-13T15:30:00Z
   title: Infodrom
   subtitle: Infodrom je informativna oddaja za mlade.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 673527
+  start: 2026-11-13T15:25:00Z
+  stop: 2026-11-13T15:50:00Z
+  title: Šef doma z Mašo in Petro
+  subtitle: Maša Trubačev in Petra Trofenik, mladi ljubiteljski kuharici, sta nov obraz druge sezone popoldanske kuharske oddaje Šef doma.
   ageRating: 4
   genre:
   - '160'
@@ -284,7 +356,7 @@
   start: 2026-11-13T19:00:00Z
   stop: 2026-11-13T20:25:00Z
   title: Kdo bi vedel
-  subtitle: Edinstven in enostaven kviz Kdo bi vedel bo ponudil mešanico komedije, znanja, napetega kviza in zabave.
+  subtitle: V oddaji sodelujeta kapetan Miha Brajnik in igralec Jernej Kuntner, drugi par pa sta pevka Tjaša Hrovat Steklasa in kapetan Matic Herceg.
   ageRating: 4
 - eventId: 668463
   start: 2026-11-13T20:25:00Z
@@ -338,7 +410,7 @@
   start: 2026-11-13T22:00:00Z
   stop: 2026-11-13T22:15:00Z
   title: Televizorka
-  subtitle: Z oddajo želi Televizija Slovenija gledalcem približati svet sedme umetnosti kot tudi najzanimivejše dokumentarne in serijske vsebine, ki jih odkupuje za televizijsko predvajanje, ter v pogovoru z.
+  subtitle: V tokratni oddaji gostimo publicistko in poznavalko filmske umetnosti Majdo Širca. V središču pogovora je opus enega največjih filmskih avtorjev 20. stoletja - švedskega režiserja Ingmarja Bergmana.
   ageRating: 4
   genre:
   - '160'
