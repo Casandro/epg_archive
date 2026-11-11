@@ -170,6 +170,7 @@
   - 675372
   - 680301
   - 681664
+  - 686496
   - 850334
   - 851512
   - 852063
@@ -973,6 +974,7 @@
   - 679432
   - 680302
   - 681665
+  - 686497
   - 850335
   - 851513
   - 852064
@@ -990,7 +992,7 @@
   - '160'
 - eventId: 620900
   start: 2026-11-12T03:00:00Z
-  stop: 2026-11-12T03:25:00Z
+  stop: 2026-11-12T04:30:00Z
   title: Reportazhe
   subtitle: '  * Arhiva TVR   (Reluare)'
   ageRating: 4
@@ -1338,6 +1340,7 @@
   - 681666
   - 683400
   - 683868
+  - 686498
   - 689176
   - 692454
   - 695452
@@ -2151,6 +2154,7 @@
   - 681667
   - 683401
   - 683869
+  - 686499
   - 687216
   - 688663
   - 689177
@@ -2569,7 +2573,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 681668
+- eventId:
+  - 681668
+  - 686500
   start: 2026-11-12T06:00:00Z
   stop: 2026-11-12T08:00:00Z
   title: Pastel
@@ -4380,6 +4386,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 686501
+  start: 2026-11-12T08:05:00Z
+  stop: 2026-11-12T10:00:00Z
+  title: Programi i mëngjesit
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1028402
   - 586783
@@ -5571,6 +5585,14 @@
   ageRating: 4
   genre:
   - '96'
+- eventId: 686458
+  start: 2026-11-12T10:00:00Z
+  stop: 2026-11-12T11:10:00Z
+  title: Daily Click
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1028446
   - 1028989
@@ -6528,6 +6550,7 @@
   - 680308
   - 681671
   - 683873
+  - 686459
   - 689181
   - 692459
   - 695457
@@ -6574,6 +6597,7 @@
   - 680309
   - 681672
   - 683874
+  - 686460
   - 689182
   - 692460
   - 695458
@@ -7784,6 +7808,7 @@
   - 679440
   - 680310
   - 681673
+  - 686461
   - 850366
   - 851527
   - 852072
@@ -7874,7 +7899,7 @@
   - 645826
   - 788170
   start: 2026-11-12T14:00:00Z
-  stop: 2026-11-12T14:10:00Z
+  stop: 2026-11-12T14:20:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -8458,6 +8483,7 @@
   - 679441
   - 680311
   - 681674
+  - 686462
   - 850367
   - 851528
   - 852073
@@ -8487,6 +8513,7 @@
   - 679442
   - 680312
   - 681675
+  - 686463
   - 850368
   - 851529
   - 852074
@@ -8520,7 +8547,7 @@
   - 645829
   - 788173
   start: 2026-11-12T16:00:00Z
-  stop: 2026-11-12T16:10:00Z
+  stop: 2026-11-12T16:55:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -8969,6 +8996,7 @@
   - 679443
   - 680313
   - 681676
+  - 686502
   - 850372
   - 851530
   - 852075
@@ -9285,6 +9313,7 @@
   - 679444
   - 680314
   - 681677
+  - 686503
   - 850373
   - 851531
   - 852076
@@ -9521,7 +9550,7 @@
   - 645833
   - 788177
   start: 2026-11-12T18:00:00Z
-  stop: 2026-11-12T19:00:00Z
+  stop: 2026-11-12T18:30:00Z
   title: HANDBAL ZOOM
   subtitle: '  * PremieraProducator Daniela Enachescu'
   ageRating: 4
@@ -9593,6 +9622,7 @@
   - 680315
   - 681678
   - 683412
+  - 686504
   - 850375
   - 851532
   - 852077
@@ -9614,7 +9644,7 @@
   - 645834
   - 788178
   start: 2026-11-12T19:00:00Z
-  stop: 2026-11-12T19:10:00Z
+  stop: 2026-11-12T19:45:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -10376,6 +10406,7 @@
   - 680316
   - 681679
   - 683413
+  - 686505
   - 850376
   - 851533
   - 852078
@@ -10491,6 +10522,7 @@
   - 680317
   - 681680
   - 683414
+  - 686506
   - 850377
   - 851534
   - 852079
@@ -10517,6 +10549,8 @@
 - eventId:
   - 1027898
   - 586803
+  - 681025
+  - 682149
   - 685866
   - 686051
   - 686312
@@ -10565,13 +10599,6 @@
   title: JOCURILE OLIMPICE PENTRU TINERET-DAKAR 2026
   subtitle: '  * Rezumat Producator Daniela Enachescu  (Reluare)'
 - eventId:
-  - 681025
-  - 682149
-  start: 2026-11-12T21:00:00Z
-  stop: 2026-11-12T21:55:00Z
-  title: JOCURILE OLIMPICE PENTRU TINERET-DAKAR 2026
-  subtitle: '  * Rezumat Producator Daniela Enachescu  (Reluare)'
-- eventId:
   - 620938
   - 850380
   start: 2026-11-12T21:55:00Z
@@ -10587,7 +10614,7 @@
   - 645838
   - 788182
   start: 2026-11-12T22:00:00Z
-  stop: 2026-11-12T23:00:00Z
+  stop: 2026-11-12T22:20:00Z
   title: Lumea vitezei
   subtitle: '    (Reluare)'
   ageRating: 4
@@ -10732,6 +10759,14 @@
   - 683415
   start: 2026-11-12T22:20:00Z
   stop: 2026-11-12T23:05:00Z
+  title: Farewell Letter
+  subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 686469
+  start: 2026-11-12T22:20:00Z
+  stop: 2026-11-12T23:00:00Z
   title: Farewell Letter
   subtitle: Alanur's life, once centered on Ziya, unravels after receiving a letter. Thirty years later, fate reconnects the Y1ld1z and Karl1 families through their children, Asl1 and Mehmet. Despite family...
   ageRating: 4
@@ -11114,6 +11149,7 @@
   - 680319
   - 681682
   - 683416
+  - 686470
   - 850382
   - 851536
   - 852081
