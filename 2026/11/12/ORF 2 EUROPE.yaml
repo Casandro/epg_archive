@@ -98,10 +98,14 @@
   - '34'
 - eventId: 640307
   start: 2026-11-12T04:57:52Z
-  stop: 2026-11-12T05:08:40Z
+  stop: 2026-11-12T05:08:09Z
   title: konkret
   genre:
   - '34'
+- eventId: 688851
+  start: 2026-11-12T05:08:09Z
+  stop: 2026-11-12T05:28:09Z
+  title: Wetter-Panorama und Programmvorschau
 - eventId: 686964
   start: 2026-11-12T05:08:40Z
   stop: 2026-11-12T05:28:40Z
@@ -166,7 +170,9 @@
   title: ZIB
   genre:
   - '33'
-- eventId: 686966
+- eventId:
+  - 686966
+  - 688852
   start: 2026-11-12T07:08:30Z
   stop: 2026-11-12T07:30:00Z
   title: Guten Morgen Österreich
@@ -204,6 +210,14 @@
   title: ZIB
   genre:
   - '33'
+- eventId: 688853
+  start: 2026-11-12T08:09:19Z
+  stop: 2026-11-12T08:26:19Z
+  title: Fit mit den Stars
+  subtitle: Corinna Kamper-Campisi
+  description: "\"Fit mit den Stars\" bringt täglich frische Motivation für einen aktiven Start in den Tag! Das ORF-Fitnessformat läuft von Montag bis Freitag um 9:10 Uhr auf ORF 2.\nOb Tanzprofi, Sportlegende oder TV-Star - jede prominente Person bringt seine oder ihre persönliche Note in die Fitnessübungen ein. Neben wechselnden Gästen sorgen Fixstarter Conny Kreuter und Corinna Kamper mit ihren abwechslungsreichen Übungen für Schwung und gute Laune. \n\"Fit mit den Stars\" richtet sich an alle Altersgruppen."
+  genre:
+  - '164'
 - eventId: 686967
   start: 2026-11-12T08:09:30Z
   stop: 2026-11-12T08:26:30Z
@@ -222,6 +236,10 @@
   description: "\"Fit mit den Stars\" bringt täglich frische Motivation für einen aktiven Start in den Tag! Das ORF-Fitnessformat läuft von Montag bis Freitag um 9:10 Uhr auf ORF 2.\nOb Tanzprofi, Sportlegende oder TV-Star - jede prominente Person bringt seine oder ihre persönliche Note in die Fitnessübungen ein. Neben wechselnden Gästen sorgen Fixstarter Conny Kreuter und Corinna Kamper mit ihren abwechslungsreichen Übungen für Schwung und gute Laune. \n\"Fit mit den Stars\" richtet sich an alle Altersgruppen."
   genre:
   - '164'
+- eventId: 688854
+  start: 2026-11-12T08:26:24Z
+  stop: 2026-11-12T08:29:24Z
+  title: Wetter-Panorama
 - eventId:
   - 603388
   - 722508
@@ -240,12 +258,22 @@
   title: Silvia kocht
   genre:
   - '165'
+- eventId: 688855
+  start: 2026-11-12T08:30:28Z
+  stop: 2026-11-12T08:54:43Z
+  title: Silvia kocht
+  genre:
+  - '165'
 - eventId: 686969
   start: 2026-11-12T08:31:35Z
   stop: 2026-11-12T08:55:50Z
   title: Silvia kocht
   genre:
   - '165'
+- eventId: 688856
+  start: 2026-11-12T09:44:09Z
+  stop: 2026-11-12T10:09:18Z
+  title: Natur im Garten
 - eventId:
   - 603462
   - 723070
@@ -256,6 +284,11 @@
   start: 2026-11-12T09:45:04Z
   stop: 2026-11-12T10:10:13Z
   title: Natur im Garten
+- eventId: 688857
+  start: 2026-11-12T10:09:55Z
+  stop: 2026-11-12T10:34:27Z
+  title: Österreich-Bild aus dem Landesstudio Wien
+  subtitle: Die Engel der Nacht - Unterwegs mit dem Ärztefunkdienst
 - eventId:
   - 603463
   - 723260
@@ -284,6 +317,13 @@
   subtitle: Dürre und Flut - Konzepte für die Stadt
   genre:
   - '129'
+- eventId: 688858
+  start: 2026-11-12T10:35:54Z
+  stop: 2026-11-12T11:05:54Z
+  title: WELTjournal
+  subtitle: Dürre und Flut - Konzepte für die Stadt
+  genre:
+  - '129'
 - eventId:
   - 603465
   - 723657
@@ -295,6 +335,13 @@
   - '129'
 - eventId: 687075
   start: 2026-11-12T11:06:46Z
+  stop: 2026-11-12T11:55:00Z
+  title: WELTjournal +
+  subtitle: Klimakatastrophe - die Nacht, als die Flut kam
+  genre:
+  - '129'
+- eventId: 688859
+  start: 2026-11-12T11:07:15Z
   stop: 2026-11-12T11:55:00Z
   title: WELTjournal +
   subtitle: Klimakatastrophe - die Nacht, als die Flut kam
@@ -324,12 +371,24 @@
   title: Wetter
   genre:
   - '33'
+- eventId: 688860
+  start: 2026-11-12T12:25:26Z
+  stop: 2026-11-12T12:27:56Z
+  title: Wetter
+  genre:
+  - '33'
 - eventId: 687076
   start: 2026-11-12T12:25:38Z
   stop: 2026-11-12T12:28:08Z
   title: Wetter
   genre:
   - '33'
+- eventId: 688861
+  start: 2026-11-12T12:29:48Z
+  stop: 2026-11-12T13:13:48Z
+  title: Aktuell nach eins
+  genre:
+  - '34'
 - eventId:
   - 603538
   - 724579
@@ -352,6 +411,12 @@
   title: Seitenblicke
   genre:
   - '35'
+- eventId: 688862
+  start: 2026-11-12T13:15:09Z
+  stop: 2026-11-12T13:20:09Z
+  title: Seitenblicke
+  genre:
+  - '35'
 - eventId: 687078
   start: 2026-11-12T13:15:31Z
   stop: 2026-11-12T13:20:31Z
@@ -363,6 +428,13 @@
   - 725697
   start: 2026-11-12T13:20:00Z
   stop: 2026-11-12T13:44:30Z
+  title: Silvia kocht
+  description: "Die tägliche Kochsendung mit Silvia Schneider und den besten Profiköchinnen und -köchen Österreichs. \nJede Woche steht ein anderes Bundesland mit seinen Produkten und regionalen Produzenten im Mittelpunkt. Eine Köchin bzw. ein Koch aus der Region bereitet in einfachen, nachvollziehbaren Schritten in den Studiosendungen zwei Gerichte, die die Freude am Kochen wecken sollen, zu."
+  genre:
+  - '165'
+- eventId: 688863
+  start: 2026-11-12T13:21:08Z
+  stop: 2026-11-12T13:45:38Z
   title: Silvia kocht
   description: "Die tägliche Kochsendung mit Silvia Schneider und den besten Profiköchinnen und -köchen Österreichs. \nJede Woche steht ein anderes Bundesland mit seinen Produkten und regionalen Produzenten im Mittelpunkt. Eine Köchin bzw. ein Koch aus der Region bereitet in einfachen, nachvollziehbaren Schritten in den Studiosendungen zwei Gerichte, die die Freude am Kochen wecken sollen, zu."
   genre:
@@ -384,6 +456,14 @@
   - '51'
   subtitle: 'Ehepaar Pinter zu: "Alzheimer-Therapie: Neue Hoffnung für Betroffene?"'
   description: "Das Ehepaar Fabienne und Tom Pinter stand mitten im Leben, als Tom plötzlich während der Arbeit zusammengebrochen ist. Zunächst lag die Vermutung eines Burn-Outs nahe, doch nach genauen Untersuchungen stand schließlich fest, dass er an Alzheimer erkrankt ist. Ihr beider Leben hat sich seither völlig verändert. \nBei Mariella Gittler erzählen die beiden, wie jeder Tag genau geplant werden muss, warum sie trotzdem positiv in die Zukunft blicken und was ihnen Kraft und Hoffnung gibt."
+- eventId: 688864
+  start: 2026-11-12T15:23:59Z
+  stop: 2026-11-12T15:53:59Z
+  title: Hinter den Schlagzeilen
+  subtitle: 'Ehepaar Pinter zu: "Alzheimer-Therapie: Neue Hoffnung für Betroffene?"'
+  description: "Das Ehepaar Fabienne und Tom Pinter stand mitten im Leben, als Tom plötzlich während der Arbeit zusammengebrochen ist. Zunächst lag die Vermutung eines Burn-Outs nahe, doch nach genauen Untersuchungen stand schließlich fest, dass er an Alzheimer erkrankt ist. Ihr beider Leben hat sich seither völlig verändert. \nBei Mariella Gittler erzählen die beiden, wie jeder Tag genau geplant werden muss, warum sie trotzdem positiv in die Zukunft blicken und was ihnen Kraft und Hoffnung gibt."
+  genre:
+  - '51'
 - eventId: 687080
   start: 2026-11-12T15:25:23Z
   stop: 2026-11-12T15:55:23Z
@@ -414,12 +494,24 @@
   title: Aktuell nach fünf
   genre:
   - '34'
+- eventId: 688865
+  start: 2026-11-12T16:07:35Z
+  stop: 2026-11-12T16:26:35Z
+  title: Aktuell nach fünf
+  genre:
+  - '34'
 - eventId: 687081
   start: 2026-11-12T16:07:51Z
   stop: 2026-11-12T16:26:51Z
   title: Aktuell nach fünf
   genre:
   - '34'
+- eventId: 688866
+  start: 2026-11-12T16:29:02Z
+  stop: 2026-11-12T17:27:02Z
+  title: Studio 2
+  genre:
+  - '160'
 - eventId: 687082
   start: 2026-11-12T16:29:29Z
   stop: 2026-11-12T17:27:29Z
@@ -449,6 +541,10 @@
 - eventId: 687083
   start: 2026-11-12T17:50:20Z
   stop: 2026-11-12T17:51:35Z
+  title: infos & tipps
+- eventId: 688867
+  start: 2026-11-12T17:50:30Z
+  stop: 2026-11-12T17:51:45Z
   title: infos & tipps
 - eventId:
   - 604209
@@ -523,6 +619,14 @@
   - 732027
   start: 2026-11-12T20:05:00Z
   stop: 2026-11-12T20:54:00Z
+  title: Am Schauplatz
+  subtitle: Kampf um Windstrom
+  description: Österreich soll bis zum Jahr 2040 klimaneutral sein, so die Bundesregierung. Um dieses Ziel zu erreichen, sollen im ganzen Land neue Windkraftanlagen gebaut werden. Manche Gemeinden können es kaum erwarten, dass in ihrer Nachbarschaft grüner Strom erzeugt wird. Neben der Umwelt würde auch die Gemeindekasse profitieren, ist ein Tiroler Bürgermeister überzeugt. Doch immer öfter regt sich Widerstand gegen geplante Windräder. Am Schauplatz trifft  BefürworterInnen und GegnerInnen der Windkraft
+  genre:
+  - '35'
+- eventId: 688868
+  start: 2026-11-12T20:05:04Z
+  stop: 2026-11-12T20:56:04Z
   title: Am Schauplatz
   subtitle: Kampf um Windstrom
   description: Österreich soll bis zum Jahr 2040 klimaneutral sein, so die Bundesregierung. Um dieses Ziel zu erreichen, sollen im ganzen Land neue Windkraftanlagen gebaut werden. Manche Gemeinden können es kaum erwarten, dass in ihrer Nachbarschaft grüner Strom erzeugt wird. Neben der Umwelt würde auch die Gemeindekasse profitieren, ist ein Tiroler Bürgermeister überzeugt. Doch immer öfter regt sich Widerstand gegen geplante Windräder. Am Schauplatz trifft  BefürworterInnen und GegnerInnen der Windkraft
@@ -605,6 +709,18 @@
 - eventId: 687090
   start: 2026-11-12T23:16:26Z
   stop: 2026-11-13T00:43:04Z
+  title: Nimm du ihn
+  description: |-
+    (Fernsehfilm, AUT/DEU 2019)
+    Plötzlich ist er da. Eben aus Argentinien eingeflogen. Drei erwachsene Kinder haben über Nacht ihren verlorenen Vater am Hals. Obwohl sie sich kaum an ihn erinnern können. Egal, jetzt haben sie sich um ihn zu kümmern. Aber der Alte bringt nicht nur Probleme mit, er löst auch welche.
+    Mit Branko Samarovski (Xaver), Andrea Sawatzki (Mareike), Simon Schwarz (Dietrich), Jule Böwe (Felicitas), Karolina Lodyga (Carmen), Thomas Limpinsel (Brokopp), Andreas Pietschmann (Frank), Katharina Schüttler (Herta), Martin Brambach (Amtsleiter) u.a.
+    Drehbuch: Bert Koß, Michael Hofmann
+    Regie: Michael Hofmann
+    Koproduktion BR/ORF
+    87.03
+- eventId: 688869
+  start: 2026-11-12T23:17:04Z
+  stop: 2026-11-13T00:43:42Z
   title: Nimm du ihn
   description: |-
     (Fernsehfilm, AUT/DEU 2019)
