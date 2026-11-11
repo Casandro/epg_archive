@@ -1,12 +1,15 @@
 - eventId: 694990
   start: 2026-11-12T02:00:00Z
-  stop: 2026-11-12T06:00:00Z
+  stop: 2026-11-12T05:00:00Z
   title: Best Polish
   description: |-
     program muzyczny
     Zestawienie największych polskich przebojów. Zaprezentowane zostaną zarówno hity sprzed lat, jak te i współczesne.
     Od lat: 12
   ageRating: 12
+  subtitle: Program prezentuje zestawienie najlepszych przebojów w wykonaniu artystów i zespołów polskiej sceny muzycznej.
+  genre:
+  - '96'
 - eventId: 747665
   start: 2026-11-12T02:00:00Z
   stop: 2026-11-12T05:00:00Z
@@ -18,7 +21,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 747666
+- eventId:
+  - 696578
+  - 747666
   start: 2026-11-12T05:00:00Z
   stop: 2026-11-12T06:00:00Z
   title: Best polish
@@ -38,6 +43,9 @@
     Zestawienie największych hitów muzycznych, które niezmiennie cieszą się dużą popularnością w Polsce i na świecie.
     Od lat: 12
   ageRating: 12
+  subtitle: Zestawienie największych hitów, które niezmiennie cieszą się dużą popularnością w Polsce i na świecie.
+  genre:
+  - '96'
 - eventId: 747667
   start: 2026-11-12T06:00:00Z
   stop: 2026-11-12T07:00:00Z
@@ -99,6 +107,8 @@
     Zbiór utworów dla miłośników nastrojowych klimatów. Twórcy prezentują najpiękniejsze ballady z całego świata.
     Od lat: 12
   ageRating: 12
+  genre:
+  - '96'
 - eventId: 747671
   start: 2026-11-12T11:00:00Z
   stop: 2026-11-12T12:00:00Z
@@ -109,7 +119,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 747672
+- eventId:
+  - 696579
+  - 747672
   start: 2026-11-12T12:00:00Z
   stop: 2026-11-12T13:00:00Z
   title: Best 80's
@@ -120,7 +132,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 747673
+- eventId:
+  - 696580
+  - 747673
   start: 2026-11-12T13:00:00Z
   stop: 2026-11-12T14:00:00Z
   title: Best 90's
@@ -130,7 +144,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 747674
+- eventId:
+  - 696581
+  - 747674
   start: 2026-11-12T14:00:00Z
   stop: 2026-11-12T15:00:00Z
   title: Best 00's
@@ -140,7 +156,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 747675
+- eventId:
+  - 696582
+  - 747675
   start: 2026-11-12T15:00:00Z
   stop: 2026-11-12T16:00:00Z
   title: Best 80's
@@ -151,7 +169,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 747676
+- eventId:
+  - 696583
+  - 747676
   start: 2026-11-12T16:00:00Z
   stop: 2026-11-12T17:00:00Z
   title: Best 90's
@@ -161,7 +181,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 747677
+- eventId:
+  - 696584
+  - 747677
   start: 2026-11-12T17:00:00Z
   stop: 2026-11-12T18:00:00Z
   title: Best 00's
@@ -171,7 +193,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 747678
+- eventId:
+  - 696585
+  - 747678
   start: 2026-11-12T18:00:00Z
   stop: 2026-11-12T19:00:00Z
   title: Best rock
@@ -182,7 +206,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 747679
+- eventId:
+  - 696586
+  - 747679
   start: 2026-11-12T19:00:00Z
   stop: 2026-11-12T21:00:00Z
   title: Best 80's
@@ -193,7 +219,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 747680
+- eventId:
+  - 696587
+  - 747680
   start: 2026-11-12T21:00:00Z
   stop: 2026-11-12T22:00:00Z
   title: Best 90's
@@ -203,7 +231,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 747681
+- eventId:
+  - 696588
+  - 747681
   start: 2026-11-12T22:00:00Z
   stop: 2026-11-12T23:00:00Z
   title: Best ballads
@@ -213,7 +243,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 747682
+- eventId:
+  - 696589
+  - 747682
   start: 2026-11-12T23:00:00Z
   stop: 2026-11-13T02:00:00Z
   title: Best hits
