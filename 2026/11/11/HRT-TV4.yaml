@@ -2091,7 +2091,9 @@
   genre:
   - '160'
   description: Tjedna emisija o gospodarstvu koja govori o onome što drugi prešućuju. Je li sve onakvo kakvim se na prvi pogled čini?
-- eventId: 698386
+- eventId:
+  - 698386
+  - 698894
   start: 2026-11-11T23:19:00Z
   stop: 2026-11-11T23:45:00Z
   title: Druga strana
@@ -2111,6 +2113,12 @@
 - eventId: 698387
   start: 2026-11-11T23:45:00Z
   stop: 2026-11-12T00:05:00Z
+  title: Regionalni dnevnik
+  subtitle: ' '
+  description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+- eventId: 698895
+  start: 2026-11-11T23:45:00Z
+  stop: 2026-11-12T00:09:00Z
   title: Regionalni dnevnik
   subtitle: ' '
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
