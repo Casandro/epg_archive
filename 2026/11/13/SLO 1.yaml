@@ -88,11 +88,13 @@
   - '32'
 - eventId: 668435
   start: 2026-11-13T09:05:00Z
-  stop: 2026-11-13T09:45:00Z
+  stop: 2026-11-13T09:40:00Z
   title: Vem!
   subtitle: V zabavnem kvizu trije tekmovalci odgovarjajo na enostavna vprašanja.
   ageRating: 4
-- eventId: 668436
+- eventId:
+  - 668436
+  - 719446
   start: 2026-11-13T09:40:00Z
   stop: 2026-11-13T09:55:00Z
   title: Televizijsko prodajno okno
@@ -116,6 +118,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 719447
+  start: 2026-11-13T09:55:00Z
+  stop: 2026-11-13T11:50:00Z
+  title: Lokalne volitve 2026
+  subtitle: Zoran Janković, ki se poteguje za svoj sedmi županski mandat, ima tokrat kar nekaj resnih izzivalcev. Kako bi vodili glavno mesto in kaj napovedujejo?
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 673522
   start: 2026-11-13T10:00:00Z
   stop: 2026-11-13T11:50:00Z
@@ -132,7 +142,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 668438
+- eventId:
+  - 668438
+  - 719448
   start: 2026-11-13T11:55:00Z
   stop: 2026-11-13T12:00:00Z
   title: Vreme
@@ -206,7 +218,7 @@
   - '160'
 - eventId: 673525
   start: 2026-11-13T14:55:00Z
-  stop: 2026-11-13T15:00:00Z
+  stop: 2026-11-13T15:05:00Z
   title: Bacek Jon
   subtitle: Čreda uživa v plesu, ko sveža krtina prekine zabavo. Jon mora uporabiti izredne ukrepe, da se odkriža nadležnega krta.
   ageRating: 4
@@ -220,7 +232,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 668447
+- eventId:
+  - 668447
+  - 719449
   start: 2026-11-13T15:05:00Z
   stop: 2026-11-13T15:15:00Z
   title: Živalski čira čara
@@ -244,6 +258,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 719450
+  start: 2026-11-13T15:15:00Z
+  stop: 2026-11-13T15:25:00Z
+  title: Infodrom
+  subtitle: Infodrom je informativna oddaja za mlade.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 673527
   start: 2026-11-13T15:25:00Z
   stop: 2026-11-13T15:50:00Z
@@ -252,7 +274,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 668449
+- eventId:
+  - 668449
+  - 719451
   start: 2026-11-13T15:30:00Z
   stop: 2026-11-13T15:50:00Z
   title: Šef doma z Mašo in Petro
