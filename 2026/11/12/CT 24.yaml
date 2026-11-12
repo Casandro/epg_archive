@@ -552,7 +552,7 @@
   - 712420
   - 719278
   start: 2026-11-12T11:30:00Z
-  stop: 2026-11-12T11:33:00Z
+  stop: 2026-11-12T11:33:05Z
   title: Zprávy
   description: |-
     HDTV
@@ -580,7 +580,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 716215
+- eventId:
+  - 716215
+  - 716443
   start: 2026-11-12T11:33:05Z
   stop: 2026-11-12T12:00:00Z
   title: Studio ČT24
@@ -609,7 +611,7 @@
   - 712379
   - 712422
   start: 2026-11-12T12:00:00Z
-  stop: 2026-11-12T12:03:00Z
+  stop: 2026-11-12T12:05:15Z
   title: Zprávy
   description: |-
     HDTV
@@ -637,6 +639,19 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId:
+  - 716399
+  - 716446
+  start: 2026-11-12T12:05:15Z
+  stop: 2026-11-12T12:30:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 603174
   - 650200
