@@ -182,6 +182,8 @@
   widescreen: true
   subtitled: true
   hd: true
+  genre:
+  - '112'
 - eventId: 544795
   start: 2026-11-22T05:00:00Z
   stop: 2026-11-22T06:00:00Z
@@ -328,7 +330,7 @@
   start: 2026-11-22T09:03:00Z
   stop: 2026-11-22T10:00:00Z
   title: Der gestiefelte Kater
-  subtitle: Spielfilm Deutschland 2009
+  subtitle: Fernsehfilm Deutschland 2009
   genre:
   - '16'
   widescreen: true
@@ -344,7 +346,7 @@
   start: 2026-11-22T10:00:00Z
   stop: 2026-11-22T11:00:00Z
   title: Aschenputtel
-  subtitle: Spielfilm Deutschland 2011
+  subtitle: Fernsehfilm Deutschland 2011
   genre:
   - '16'
   widescreen: true
@@ -461,12 +463,13 @@
   start: 2026-11-22T13:03:00Z
   stop: 2026-11-22T14:30:00Z
   title: Winterwalzer
-  subtitle: Spielfilm Deutschland 2023
+  subtitle: Fernsehfilm Deutschland 2023
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
+  ageRating: 6
 - eventId:
   - 566168
   - 575926
@@ -512,12 +515,13 @@
   start: 2026-11-22T14:30:00Z
   stop: 2026-11-22T16:00:00Z
   title: Mein Schwiegervater, der Stinkstiefel
-  subtitle: Spielfilm Deutschland 2015
+  subtitle: Fernsehfilm Deutschland 2015
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
+  ageRating: 6
 - eventId: 685156
   start: 2026-11-22T15:00:00Z
   stop: 2026-11-22T15:15:00Z
@@ -801,6 +805,7 @@
   widescreen: true
   subtitled: true
   hd: true
+  ageRating: 6
 - eventId: 685243
   start: 2026-11-22T23:20:00Z
   stop: 2026-11-23T00:10:00Z
