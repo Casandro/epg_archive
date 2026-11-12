@@ -198,7 +198,9 @@
   start: 2026-11-13T05:10:00Z
   stop: 2026-11-13T05:29:30Z
   title: Wetter-Panorama und Programmvorschau
-- eventId: 716936
+- eventId:
+  - 716936
+  - 716968
   start: 2026-11-13T05:13:34Z
   stop: 2026-11-13T05:28:04Z
   title: Wetter-Panorama und Programmvorschau
@@ -260,7 +262,9 @@
   title: ZIB
   genre:
   - '33'
-- eventId: 716938
+- eventId:
+  - 716938
+  - 716944
   start: 2026-11-13T07:08:30Z
   stop: 2026-11-13T07:30:00Z
   title: Guten Morgen Österreich
@@ -372,6 +376,13 @@
   description: "Am 6. Mai 1976 erschütterte ein schweres Erdbeben der Stärke 6,5 die italienische Region Friaul. 989 Menschen starben, viele wurden verletzt und verloren ihr Zuhause. Die Dokumentation des ORF Landesstudios Kärnten lässt Zeitzeugen zu Wort kommen und zeigt, wie schnelle Hilfe aus Österreich, besonders aus Kärnten, zur ersten großen europäischen Solidaritätsaktion nach dem Zweiten Weltkrieg wurde. \n\nDer Film besucht Gedenkorte und beleuchtet, wie die Katastrophe zur \"Stunde null\" für den italienischen Zivilschutz wurde und zu Fortschritten in der Erdbebenforschung sowie grenzübergreifenden Zusammenarbeit führte."
   genre:
   - '34'
+- eventId: 716945
+  start: 2026-11-13T10:19:28Z
+  stop: 2026-11-13T10:49:07Z
+  title: kreuz & quer nah dran
+  subtitle: Die Hüterin der Erinnerung - Daliah Hindler
+  genre:
+  - '115'
 - eventId:
   - 595408
   - 751567
@@ -390,10 +401,24 @@
   subtitle: Kampf um Windstrom
   genre:
   - '35'
+- eventId: 716946
+  start: 2026-11-13T10:50:09Z
+  stop: 2026-11-13T11:40:00Z
+  title: Am Schauplatz
+  subtitle: Kampf um Windstrom
+  genre:
+  - '35'
 - eventId:
   - 595410
   - 752416
   start: 2026-11-13T11:40:00Z
+  stop: 2026-11-13T11:55:00Z
+  title: Die Licht ins Dunkel Challenge
+  description: Nico Langmann und Flo Rudig berichten vom Start der 12-stündigen Licht ins Dunkel Challenge. Verschiedene Teams treten an, um beim Rudern, Laufen, Radfahren oder Handbiken möglichst viele Punkte zu sammeln, um so einen hohen Spendenbetrag für LICHT INS DUNKEL zu erzielen. Mit dabei sind unter anderem Alexander Eder, Corinna Kamper-Campisi, Fadi Merza und Herbert Stanonik.
+  genre:
+  - '175'
+- eventId: 716947
+  start: 2026-11-13T11:41:40Z
   stop: 2026-11-13T11:55:00Z
   title: Die Licht ins Dunkel Challenge
   description: Nico Langmann und Flo Rudig berichten vom Start der 12-stündigen Licht ins Dunkel Challenge. Verschiedene Teams treten an, um beim Rudern, Laufen, Radfahren oder Handbiken möglichst viele Punkte zu sammeln, um so einen hohen Spendenbetrag für LICHT INS DUNKEL zu erzielen. Mit dabei sind unter anderem Alexander Eder, Corinna Kamper-Campisi, Fadi Merza und Herbert Stanonik.
@@ -404,6 +429,12 @@
   - 752562
   start: 2026-11-13T11:55:00Z
   stop: 2026-11-13T12:00:00Z
+  title: Wetterschau
+  genre:
+  - '33'
+- eventId: 716948
+  start: 2026-11-13T11:57:15Z
+  stop: 2026-11-13T11:59:15Z
   title: Wetterschau
   genre:
   - '33'
@@ -423,11 +454,23 @@
   title: Wetter
   genre:
   - '33'
+- eventId: 716949
+  start: 2026-11-13T12:26:07Z
+  stop: 2026-11-13T12:28:37Z
+  title: Wetter
+  genre:
+  - '33'
 - eventId:
   - 596111
   - 753056
   start: 2026-11-13T12:30:00Z
   stop: 2026-11-13T13:14:00Z
+  title: Aktuell nach eins
+  genre:
+  - '34'
+- eventId: 716950
+  start: 2026-11-13T12:30:49Z
+  stop: 2026-11-13T13:14:49Z
   title: Aktuell nach eins
   genre:
   - '34'
@@ -439,11 +482,25 @@
   title: Seitenblicke
   genre:
   - '35'
+- eventId: 716951
+  start: 2026-11-13T13:16:18Z
+  stop: 2026-11-13T13:20:48Z
+  title: Seitenblicke
+  genre:
+  - '35'
 - eventId:
   - 596113
   - 755965
   start: 2026-11-13T13:20:00Z
   stop: 2026-11-13T13:44:30Z
+  title: Silvia kocht
+  subtitle: Unterwegs in Klosterneuburg
+  description: Silvia Schneider zieht hinaus in die schönsten Regionen Österreichs und präsentiert Ausflugs- und Restauranttipps sowie kulinarische Gustostückerln.
+  genre:
+  - '165'
+- eventId: 716952
+  start: 2026-11-13T13:21:54Z
+  stop: 2026-11-13T13:46:24Z
   title: Silvia kocht
   subtitle: Unterwegs in Klosterneuburg
   description: Silvia Schneider zieht hinaus in die schönsten Regionen Österreichs und präsentiert Ausflugs- und Restauranttipps sowie kulinarische Gustostückerln.
@@ -465,7 +522,7 @@
   - 596162
   - 760130
   start: 2026-11-13T16:00:00Z
-  stop: 2026-11-13T16:05:00Z
+  stop: 2026-11-13T16:05:30Z
   title: ZIB
   genre:
   - '33'
@@ -477,6 +534,18 @@
   title: Aktuell nach fünf
   genre:
   - '34'
+- eventId: 716953
+  start: 2026-11-13T16:07:29Z
+  stop: 2026-11-13T16:26:29Z
+  title: Aktuell nach fünf
+  genre:
+  - '34'
+- eventId: 716954
+  start: 2026-11-13T16:29:10Z
+  stop: 2026-11-13T17:18:10Z
+  title: Studio 2
+  genre:
+  - '160'
 - eventId:
   - 596164
   - 760132
@@ -492,15 +561,24 @@
   stop: 2026-11-13T17:25:00Z
   title: Rund ums Rad
   description: Radfahren in der Natur, die Stadt auf dem Fahrrad entdecken, Technik und Trends, Interviews und Geschichten, Tipps und Tricks, Veranstaltungshinweise u.v.m. -  die Sendung bietet eine unterhaltsame und informative Mischung aus Abenteuer, Technologie und Lifestyle rund ums Radfahren in allen Facetten.
+- eventId: 716955
+  start: 2026-11-13T17:20:20Z
+  stop: 2026-11-13T17:25:51Z
+  title: Rund ums Rad
+  description: Radfahren in der Natur, die Stadt auf dem Fahrrad entdecken, Technik und Trends, Interviews und Geschichten, Tipps und Tricks, Veranstaltungshinweise u.v.m. -  die Sendung bietet eine unterhaltsame und informative Mischung aus Abenteuer, Technologie und Lifestyle rund ums Radfahren in allen Facetten.
 - eventId:
   - 596166
   - 760929
   start: 2026-11-13T17:30:00Z
-  stop: 2026-11-13T17:51:00Z
+  stop: 2026-11-13T17:49:30Z
   title: Mayrs Magazin - Wissen für alle
   description: Aktuell, anschaulich, lehrreich - das Wissenschaftsmagazin von und mit Günther Mayr. Jede Woche zeigt es in informativen Beiträgen die neuesten Erkenntnisse der Forschung, die uns allen etwas bringen - z. B. im Kampf gegen die Erderwärmung. Mythen, Gerüchte und Fake-News werden wissenschaftlich überprüft und nachvollziehbar entlarvt. Dazu gibt es spannende Reportagen von den interessantesten Forschungsschauplätzen in Österreich und weltweit.
   genre:
   - '144'
+- eventId: 716956
+  start: 2026-11-13T17:50:36Z
+  stop: 2026-11-13T17:51:51Z
+  title: infos & tipps
 - eventId:
   - 596167
   - 760930
@@ -575,4 +653,8 @@
   - 763312
   start: 2026-11-13T21:25:00Z
   stop: 2026-11-13T21:27:20Z
+  title: Euromillionen
+- eventId: 716957
+  start: 2026-11-13T21:26:46Z
+  stop: 2026-11-13T21:29:06Z
   title: Euromillionen
