@@ -333,7 +333,7 @@
   - '32'
 - eventId: 702254
   start: 2026-11-14T06:23:00Z
-  stop: 2026-11-14T06:25:00Z
+  stop: 2026-11-14T06:24:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
@@ -346,6 +346,14 @@
   title: Vrijeme svijet danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 706305
+  start: 2026-11-14T06:24:00Z
+  stop: 2026-11-14T06:26:00Z
+  title: Vrijeme Svijet danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 705020
   start: 2026-11-14T06:25:00Z
   stop: 2026-11-14T06:30:00Z
@@ -354,12 +362,17 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 703295
+- eventId:
+  - 703295
+  - 706306
   start: 2026-11-14T06:26:00Z
   stop: 2026-11-14T06:30:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 702256
   start: 2026-11-14T06:30:00Z
   stop: 2026-11-14T06:55:00Z
@@ -524,19 +537,24 @@
   - '32'
 - eventId: 702274
   start: 2026-11-14T09:35:00Z
-  stop: 2026-11-14T09:45:00Z
+  stop: 2026-11-14T09:42:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
   genre:
   - '160'
-- eventId: 703296
+- eventId:
+  - 703296
+  - 706307
   start: 2026-11-14T09:42:00Z
   stop: 2026-11-14T09:47:00Z
   title: Poslovne vijesti
-  subtitle: ' '
+  subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 705021
   start: 2026-11-14T09:45:00Z
   stop: 2026-11-14T09:50:00Z
@@ -545,12 +563,17 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 703297
+- eventId:
+  - 703297
+  - 706308
   start: 2026-11-14T09:47:00Z
   stop: 2026-11-14T09:55:00Z
   title: 'Studio 4: Znanost'
-  subtitle: ' '
+  subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   description: Kratki pregled aktualnosti iz svijeta znanosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 705022
   start: 2026-11-14T09:50:00Z
   stop: 2026-11-14T10:00:00Z
@@ -559,12 +582,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 703298
+- eventId:
+  - 703298
+  - 706309
   start: 2026-11-14T09:55:00Z
   stop: 2026-11-14T10:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 702277
   start: 2026-11-14T10:00:00Z
   stop: 2026-11-14T10:30:00Z
@@ -846,31 +874,49 @@
   - '32'
 - eventId: 702308
   start: 2026-11-14T15:15:00Z
-  stop: 2026-11-14T15:25:00Z
+  stop: 2026-11-14T15:22:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
   genre:
   - '160'
-- eventId: 703300
+- eventId:
+  - 703300
+  - 706310
   start: 2026-11-14T15:22:00Z
   stop: 2026-11-14T15:23:00Z
   title: Vrijeme RH danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 703301
+  ageRating: 4
+  genre:
+  - '32'
+- eventId:
+  - 703301
+  - 706311
   start: 2026-11-14T15:23:00Z
   stop: 2026-11-14T15:24:00Z
   title: Vrijeme Europa danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 703302
   start: 2026-11-14T15:24:00Z
   stop: 2026-11-14T15:26:00Z
   title: Vrijeme svijet danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 706312
+  start: 2026-11-14T15:24:00Z
+  stop: 2026-11-14T15:26:00Z
+  title: Vrijeme Svijet danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 705023
   start: 2026-11-14T15:25:00Z
   stop: 2026-11-14T15:26:00Z
@@ -881,7 +927,7 @@
   - '32'
 - eventId: 702310
   start: 2026-11-14T15:26:00Z
-  stop: 2026-11-14T15:28:00Z
+  stop: 2026-11-14T15:30:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -909,7 +955,7 @@
   start: 2026-11-14T15:55:00Z
   stop: 2026-11-14T16:20:00Z
   title: Druga strana
-  subtitle: Tjedna emisija o gospodarstvu koja govori o onome što drugi prešućuju. Je li sve onakvo kakvim se na prvi pogled čini?
+  subtitle: Oni su mala zagrebačka tvrtka kojoj jako dobro ide. Radili su za Disney, njemački Linde, Američki muzej nogometa, američki NASCAR-ov muzej, Samsung, Siemens, Infobip, DOK-ING i Plinacro.
   description: 'Oni su mala zagrebačka tvrtka kojoj jako dobro ide. Radili su za Disney, njemački Linde, Američki muzej nogometa, američki NASCAR-ov muzej, Samsung, Siemens, Infobip, DOK-ING i Plinacro. Surađuju na istraživačkim projektima Ericssona i Fakulteta elektrotehnike i računarstva, prijavljuju se na natječaje zajedno s Austrijskim institutom za tehnologiju, a u Londonu su osvojili zlatnu medalju za inovacije u turizmu. Ipak, na internetu ih gotovo ne možete pronaći! "Tko za nas zna, zna", kažu, dok žive i rade u virtualnoj stvarnosti.Ovo bi mogla biti motivacijska priča za generaciju Z (a možda i milenijalce).Tvrtku su prije petnaestak godina osnovali Darijan i Vedran te joj, u računalnom duhu i bez previše mašte, nadjenuli ime DIVIT (Darijan i Vedran IT sustavi). Poslije su ga promijenili u Diversitas, a zatim... No, vidjet ćete da ime i nije toliko važno. Mnogo je važnije prepoznati trendove. S razvojem virtualne i interaktivne stvarnosti njihov je posao doživio pravi procvat, i to u dva smjera: počeli su razvijati virtualne sustave za obuku u opasnim okruženjima i digitalizirati sadržaje kako bi muzejska iskustva učinili zanimljivijima. Projekte realiziraju u Hrvatskoj i diljem svijeta.Popis njihovih klijenata impresivan je. Usput su osvojili i nagradu za inovacije u turizmu u Londonu, koju od milja nazivaju virtualnim Oscarom. Paralelno rade na europskom projektu za obrambenu industriju, ali i na istraživačkim projektima za Ericsson i zagrebački Fakultet elektrotehnike i računarstva. A sada ono najneobičnije: Google ih baš i ne voli pa ih je na internetu vrlo teško pronaći. Gost emisije:Jerko Škorić, glavni direktor tvrtke Delta-X.'
   ageRating: 4
   genre:
@@ -940,12 +986,17 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 703303
+- eventId:
+  - 703303
+  - 706313
   start: 2026-11-14T17:32:00Z
   stop: 2026-11-14T17:50:00Z
   title: Regionalni dnevnik
-  subtitle: ' '
+  subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 702317
   start: 2026-11-14T17:50:00Z
   stop: 2026-11-14T17:53:00Z
@@ -966,7 +1017,7 @@
   - '32'
 - eventId: 702319
   start: 2026-11-14T17:54:00Z
-  stop: 2026-11-14T17:56:00Z
+  stop: 2026-11-14T17:55:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
@@ -979,6 +1030,14 @@
   title: Vrijeme svijet sutra
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 706314
+  start: 2026-11-14T17:55:00Z
+  stop: 2026-11-14T18:00:00Z
+  title: Vrijeme Svijet sutra
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 705026
   start: 2026-11-14T17:56:00Z
   stop: 2026-11-14T18:00:00Z
@@ -1007,7 +1066,7 @@
   - '32'
 - eventId: 702323
   start: 2026-11-14T18:54:00Z
-  stop: 2026-11-14T18:56:00Z
+  stop: 2026-11-14T18:55:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
@@ -1020,6 +1079,14 @@
   title: Vrijeme svijet sutra
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 706315
+  start: 2026-11-14T18:55:00Z
+  stop: 2026-11-14T19:00:00Z
+  title: Vrijeme Svijet sutra
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 705028
   start: 2026-11-14T18:56:00Z
   stop: 2026-11-14T18:59:00Z
@@ -1038,9 +1105,9 @@
   - '160'
 - eventId: 702326
   start: 2026-11-14T19:00:00Z
-  stop: 2026-11-14T19:05:00Z
+  stop: 2026-11-14T19:01:00Z
   title: HAK - promet info
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  subtitle: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
   description: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
   ageRating: 4
   genre:
@@ -1051,6 +1118,14 @@
   title: '#REPORTAŽE: Nikola Filić'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 706316
+  start: 2026-11-14T19:01:00Z
+  stop: 2026-11-14T19:05:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 702327
   start: 2026-11-14T19:05:00Z
   stop: 2026-11-14T19:45:00Z
@@ -1080,10 +1155,18 @@
   - '160'
 - eventId: 702330
   start: 2026-11-14T20:45:00Z
-  stop: 2026-11-14T21:15:00Z
+  stop: 2026-11-14T21:12:00Z
   title: Veterani mira
   subtitle: Tjedna emisija, u razgovoru u studiju i reportažama rasvjetljava i nastoji riješiti probleme s kojima se susreću branitelji te senzibilizirati javnost.
   description: Tjedna emisija, u razgovoru u studiju i reportažama rasvjetljava i nastoji riješiti probleme s kojima se susreću branitelji te senzibilizirati javnost.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 706317
+  start: 2026-11-14T21:12:00Z
+  stop: 2026-11-14T21:38:00Z
+  title: Moj izbor BiH
+  subtitle: Seriju Moj izbor BiH nastavljamo s četiri nove epizode.
   ageRating: 4
   genre:
   - '160'
@@ -1095,11 +1178,27 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 706318
+  start: 2026-11-14T21:38:00Z
+  stop: 2026-11-14T21:42:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 702332
   start: 2026-11-14T21:42:00Z
-  stop: 2026-11-14T21:45:00Z
+  stop: 2026-11-14T21:44:00Z
   title: HRT100 Vremeplov
   subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 706319
+  start: 2026-11-14T21:44:00Z
+  stop: 2026-11-14T22:04:00Z
+  title: 'Studio 4: U fokusu'
+  subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
   ageRating: 4
   genre:
   - '160'
@@ -1111,11 +1210,27 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 706320
+  start: 2026-11-14T22:04:00Z
+  stop: 2026-11-14T22:07:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 702334
   start: 2026-11-14T22:05:00Z
   stop: 2026-11-14T22:10:00Z
   title: '#REPORTAŽE'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 706321
+  start: 2026-11-14T22:07:00Z
+  stop: 2026-11-14T22:10:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
@@ -1145,9 +1260,17 @@
   - '160'
 - eventId: 702338
   start: 2026-11-14T22:50:00Z
-  stop: 2026-11-14T22:57:00Z
+  stop: 2026-11-14T22:55:00Z
   title: '#REPORTAŽE'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 706322
+  start: 2026-11-14T22:55:00Z
+  stop: 2026-11-14T23:00:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
@@ -1185,12 +1308,20 @@
   - '160'
 - eventId: 702343
   start: 2026-11-14T23:19:00Z
-  stop: 2026-11-14T23:49:00Z
+  stop: 2026-11-14T23:48:00Z
   title: Auto Market Magazin
   subtitle: U emisiji za ljubitelje automobila svaki tjedan predstavljaju se novi modeli automobila, tehnološke inovacije, testiraju nova vozila, donose savjeti o održavanju.
   ageRating: 4
   genre:
   - '160'
+- eventId: 706323
+  start: 2026-11-14T23:48:00Z
+  stop: 2026-11-15T00:06:00Z
+  title: Regionalni dnevnik
+  subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 702344
   start: 2026-11-14T23:49:00Z
   stop: 2026-11-15T00:07:00Z
