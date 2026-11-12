@@ -854,7 +854,7 @@
   start: 2026-11-12T14:03:00Z
   stop: 2026-11-12T14:30:00Z
   title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  subtitle: 'Témata: Spor ve vládní koalici ohledně snížení podpory v nezaměstnanosti (komentář politologa); Zdravější obědy ve školách nebudou.'
   description: |-
     HDTV
     Skryté titulky
@@ -932,7 +932,7 @@
   start: 2026-11-12T14:39:50Z
   stop: 2026-11-12T15:00:00Z
   title: Ekonomika ČT24
-  subtitle: Nejdůležitější zprávy ze světa peněz každý všední den.
+  subtitle: 'Témata: Hospodaření ČEZ; Výhled cen elektřiny; Dostupnost a budoucnost nájemního bydlení.'
   description: |-
     HDTV
     Skryté titulky
@@ -986,6 +986,29 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 719267
+  start: 2026-11-12T15:00:00Z
+  stop: 2026-11-12T15:29:50Z
+  title: Zprávy v 16
+  subtitle: Nejdůležitější události dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Znakový jazyk
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+- eventId: 719268
+  start: 2026-11-12T15:29:50Z
+  stop: 2026-11-12T15:32:50Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Znakový jazyk
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 603748
   - 650281
@@ -1003,6 +1026,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 719269
+  start: 2026-11-12T15:32:50Z
+  stop: 2026-11-12T16:00:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 603749
   - 650282
