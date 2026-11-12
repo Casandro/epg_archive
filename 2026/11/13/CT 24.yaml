@@ -15,6 +15,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 727737
+  start: 2026-11-13T00:02:26Z
+  stop: 2026-11-13T00:12:26Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '33'
+  widescreen: true
 - eventId: 725831
   start: 2026-11-13T00:09:00Z
   stop: 2026-11-13T00:58:00Z
@@ -44,6 +54,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 727738
+  start: 2026-11-13T00:12:26Z
+  stop: 2026-11-13T01:02:26Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId: 725928
   start: 2026-11-13T00:58:00Z
   stop: 2026-11-13T01:08:00Z
@@ -71,6 +92,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 727739
+  start: 2026-11-13T01:02:26Z
+  stop: 2026-11-13T01:12:26Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '33'
+  widescreen: true
 - eventId: 725929
   start: 2026-11-13T01:08:00Z
   stop: 2026-11-13T01:32:00Z
@@ -100,6 +131,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 727740
+  start: 2026-11-13T01:12:26Z
+  stop: 2026-11-13T01:36:26Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId: 725930
   start: 2026-11-13T01:32:00Z
   stop: 2026-11-13T01:59:01Z
@@ -131,6 +173,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 727741
+  start: 2026-11-13T01:36:26Z
+  stop: 2026-11-13T02:00:00Z
+  title: Události v regionech
+  subtitle: Hlavní regionální zpravodajská relace České televize. Souhrn nejdůležitějších událostí dne na jižní Moravě a ve Zlínském kraji.
+  description: |-
+    HDTV
+    Znakový jazyk
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId: 725976
   start: 2026-11-13T01:59:01Z
   stop: 2026-11-13T02:09:01Z
@@ -226,21 +280,9 @@
 - eventId:
   - 604042
   - 650651
+  - 725980
   - 737839
   - 746075
-  start: 2026-11-13T03:10:00Z
-  stop: 2026-11-13T04:00:00Z
-  title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '35'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 725980
   start: 2026-11-13T03:10:00Z
   stop: 2026-11-13T03:59:00Z
   title: Studio ČT24
@@ -251,7 +293,11 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 725981
+  subtitled: true
+  hd: true
+- eventId:
+  - 725981
+  - 727697
   start: 2026-11-13T03:59:00Z
   stop: 2026-11-13T04:09:00Z
   title: Zprávy
@@ -277,7 +323,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 725982
+- eventId:
+  - 725982
+  - 727698
   start: 2026-11-13T04:09:00Z
   stop: 2026-11-13T04:59:00Z
   title: Studio ČT24
