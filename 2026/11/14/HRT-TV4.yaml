@@ -354,6 +354,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 705020
   start: 2026-11-14T06:25:00Z
   stop: 2026-11-14T06:30:00Z
@@ -917,6 +918,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 705023
   start: 2026-11-14T15:25:00Z
   stop: 2026-11-14T15:26:00Z
@@ -971,7 +973,7 @@
   - '160'
 - eventId: 702315
   start: 2026-11-14T17:00:00Z
-  stop: 2026-11-14T17:30:00Z
+  stop: 2026-11-14T17:32:00Z
   title: TV student
   subtitle: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
   description: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
@@ -1038,6 +1040,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 705026
   start: 2026-11-14T17:56:00Z
   stop: 2026-11-14T18:00:00Z
@@ -1087,6 +1090,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 705028
   start: 2026-11-14T18:56:00Z
   stop: 2026-11-14T18:59:00Z
@@ -1112,17 +1116,14 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 703306
+- eventId:
+  - 703306
+  - 706316
   start: 2026-11-14T19:01:00Z
   stop: 2026-11-14T19:05:00Z
   title: '#REPORTAŽE: Nikola Filić'
-  subtitle: ' '
-  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 706316
-  start: 2026-11-14T19:01:00Z
-  stop: 2026-11-14T19:05:00Z
-  title: '#REPORTAŽE'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
