@@ -91,7 +91,7 @@
   widescreen: true
 - eventId: 680454
   start: 2026-11-13T05:25:00Z
-  stop: 2026-11-13T06:05:00Z
+  stop: 2026-11-13T06:20:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Zwiebel-Pflaumensüppchen
   description: Heute kocht Ralf Kühler zusammen mit Franz Leonardo Lauter unter anderem ein Zwiebel-Pflaumensüppchen und vieles mehr.
@@ -108,6 +108,7 @@
   widescreen: true
 - eventId:
   - 554095
+  - 710295
   - 747531
   start: 2026-11-13T06:20:00Z
   stop: 2026-11-13T06:50:00Z
@@ -134,6 +135,7 @@
   widescreen: true
 - eventId:
   - 554096
+  - 710296
   - 748245
   start: 2026-11-13T06:50:00Z
   stop: 2026-11-13T07:00:00Z
@@ -145,10 +147,19 @@
   - 554097
   - 748720
   start: 2026-11-13T07:00:00Z
-  stop: 2026-11-13T08:05:00Z
+  stop: 2026-11-13T07:50:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Gefüllte Hähnchenbrust auf Rahmgemüse
   description: Heute kocht Ralf Kühler zusammen mit Bernd Böhm unter anderem eine gefüllte Hähnchenbrust auf Rahmgemüse und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 710297
+  start: 2026-11-13T07:50:00Z
+  stop: 2026-11-13T08:15:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Trialog vom Spargel
+  description: Heute kocht Ralf Kühler zusammen mit Stefan Wiertz unter anderem Trialog vom Spargel und vieles mehr.
   genre:
   - '165'
   widescreen: true
@@ -163,6 +174,23 @@
   genre:
   - '165'
   widescreen: true
+- eventId: 710298
+  start: 2026-11-13T08:15:00Z
+  stop: 2026-11-13T09:10:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Lachskaviar im Kartoffelbett mit Crème fraîche
+  description: Heute kocht Ralf Kühler zusammen mit Franz-Josef Schorn unter anderem Lachskaviar im Kartoffelbett mit Crème fraîche und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 710299
+  start: 2026-11-13T09:10:00Z
+  stop: 2026-11-13T09:40:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
+  genre:
+  - '166'
+  widescreen: true
 - eventId:
   - 554905
   - 751234
@@ -172,6 +200,15 @@
   subtitle: Teleshopping
   genre:
   - '166'
+  widescreen: true
+- eventId: 710300
+  start: 2026-11-13T09:40:00Z
+  stop: 2026-11-13T10:10:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Warmer Safranschaum auf Flusskrebskompott
+  description: Heute kocht Ralf Kühler zusammen mit René Steinbach unter anderem warmer Safranschaum auf Flusskrebskompott und vieles mehr.
+  genre:
+  - '165'
   widescreen: true
 - eventId:
   - 554906
@@ -184,14 +221,41 @@
   genre:
   - '165'
   widescreen: true
+- eventId: 710301
+  start: 2026-11-13T10:10:00Z
+  stop: 2026-11-13T11:00:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Jakobsmuschel im Wirsingblatt mit Safransoße
+  description: Heute kocht Ralf Kühler zusammen mit Peter Schmitt unter anderem eine Jakobsmuschel im Wirsingblatt mit Safransoße und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId:
   - 554907
   - 752071
   start: 2026-11-13T11:00:00Z
-  stop: 2026-11-13T12:20:00Z
+  stop: 2026-11-13T11:05:00Z
+  title: Der Wetterbericht
+  subtitle: Echt lecker! - Sauerkrautsuppe mit Flönz
+  description: Ob Sonne, Regen, Sturm oder Schnee - bei uns sind Sie immer aktuell informiert. Sehen Sie mehrmals tagsüber im Programm den Wetterbericht mit der Vorhersage für ganz Deutschland. Kompakt, schnell und verlässlich!
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 710302
+  start: 2026-11-13T11:05:00Z
+  stop: 2026-11-13T11:55:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Sauerkrautsuppe mit Flönz
   description: Heute kocht Ralf Kühler zusammen mit Jörg Thon unter anderem eine Sauerkrautsuppe mit Flönz und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 710303
+  start: 2026-11-13T11:55:00Z
+  stop: 2026-11-13T12:20:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Indonesische Suppe mit Basmatireis und Hühnchen
+  description: Heute kocht Ralf Kühler zusammen mit Andreas Völkel unter anderem eine Indonesische Suppe mit Basmatireis und Hühnchen und vieles mehr.
   genre:
   - '165'
   widescreen: true
@@ -199,6 +263,14 @@
   - 559004
   - 752780
   start: 2026-11-13T12:20:00Z
+  stop: 2026-11-13T12:55:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
+  genre:
+  - '166'
+  widescreen: true
+- eventId: 710304
+  start: 2026-11-13T12:25:00Z
   stop: 2026-11-13T12:55:00Z
   title: Teleshopping
   subtitle: Teleshopping
@@ -216,10 +288,37 @@
   genre:
   - '165'
   widescreen: true
+- eventId: 710305
+  start: 2026-11-13T13:00:00Z
+  stop: 2026-11-13T13:50:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Spieß von Riesengarnelen in Olivenölmarinade
+  description: Heute kocht Ralf Kühler zusammen mit Dirk Tenbrock unter anderem ein Spieß von Riesengarnelen in Olivenölmarinade und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 710306
+  start: 2026-11-13T13:50:00Z
+  stop: 2026-11-13T14:15:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Biersuppe nach Drei-Kannen-Art
+  description: Heute kocht Ralf Kühler zusammen mit Fabian Schulze unter anderem eine Biersuppe nach Drei Kannen Art und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId:
   - 559006
   - 756158
   start: 2026-11-13T14:00:00Z
+  stop: 2026-11-13T15:00:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Dorade auf Provence-Gemüsestreifen
+  description: Heute kocht Ralf Kühler zusammen mit Dirk Castor unter anderem Dorade auf Gemüsestreifen Provençal und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 710307
+  start: 2026-11-13T14:15:00Z
   stop: 2026-11-13T15:00:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Dorade auf Provence-Gemüsestreifen
@@ -241,10 +340,19 @@
   - 561608
   - 758783
   start: 2026-11-13T15:40:00Z
-  stop: 2026-11-13T17:00:00Z
+  stop: 2026-11-13T16:35:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Hokkaidokürbissuppe
   description: Heute kocht Ralf Kühler zusammen mit Mayoori Buchhalter unter anderem eine Hokkaidokürbissuppe und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 710308
+  start: 2026-11-13T16:35:00Z
+  stop: 2026-11-13T17:00:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Pfefferpotthast vom Kaninchen
+  description: Heute kocht Ralf Kühler zusammen mit Heinrich Wächter unter anderem ein Pfefferpotthast vom Kaninchen und vieles mehr.
   genre:
   - '165'
   widescreen: true
@@ -252,16 +360,34 @@
   - 561609
   - 760140
   start: 2026-11-13T17:00:00Z
-  stop: 2026-11-13T17:40:00Z
+  stop: 2026-11-13T17:35:00Z
   title: Teleshopping
   subtitle: Teleshopping
   genre:
   - '166'
   widescreen: true
+- eventId: 710309
+  start: 2026-11-13T17:35:00Z
+  stop: 2026-11-13T18:05:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Mediterrane Küche
+  description: Heute kocht Ralf Kühler zusammen mit Markus Gradel aus der mediteranen Küche und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId:
   - 561610
   - 760796
   start: 2026-11-13T17:40:00Z
+  stop: 2026-11-13T18:40:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Himmel und Erde von Loup-de-Mer-Filet
+  description: Heute kocht Ralf Kühler zusammen mit Jörg Hackbarth unter anderem Himmel und Erde von Loup de Mer Filet und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 710310
+  start: 2026-11-13T18:05:00Z
   stop: 2026-11-13T18:40:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Himmel und Erde von Loup-de-Mer-Filet
@@ -283,10 +409,19 @@
   - 561658
   - 762451
   start: 2026-11-13T19:15:00Z
-  stop: 2026-11-13T20:25:00Z
+  stop: 2026-11-13T20:20:00Z
   title: So schmeckt die Welt - Käse
   subtitle: So schmeckt die Welt - Käse
   description: Käse ist ein vielseitiges Milchprodukt, das durch die Fermentation von Milch entsteht. Es gibt eine enorme Vielfalt an Käsesorten. Von mildem Mozzarella bis hin zu würzigem Cheddar bietet Käse eine breite Palette an Geschmackserlebnissen. Durch die Zugabe von Bakterien, Enzymen oder Pilzkulturen während der Herstellung entwickeln sich die charakteristischen Aromen und Texturen. Käse ist nicht nur köstlich, sondern auch eine gute Quelle für Protein, Kalzium und andere Nährstoffe.
+  genre:
+  - '129'
+  widescreen: true
+- eventId: 710311
+  start: 2026-11-13T20:20:00Z
+  stop: 2026-11-13T21:20:00Z
+  title: So schmeckt die Welt - Kleinwalsertal
+  subtitle: So schmeckt die Welt - Kleinwalsertal
+  description: Das Kleinwalsertal ist ein wahres Naturparadies. Bekannt für seine malerischen Dörfer und die atemberaubende Naturkulisse, bietet es sowohl im Sommer als auch im Winter vielfältige Freizeitmöglichkeiten. Von Wandern und Mountainbiken über Skifahren und Snowboarden bis hin zu gemütlichen Spaziergängen und Wellness - das Kleinwalsertal hat für jeden etwas zu bieten. Die traditionelle alpine Gastfreundschaft und die regionale Küche runden das Erlebnis ab, sodass Besucher gerne zurückkehren möchten.
   genre:
   - '129'
   widescreen: true
@@ -301,6 +436,15 @@
   genre:
   - '129'
   widescreen: true
+- eventId: 710312
+  start: 2026-11-13T21:20:00Z
+  stop: 2026-11-13T21:45:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Garnelensalat mit Limonencreme
+  description: Heute kocht Ralf Kühler zusammen mit Sascha Stemberg unter anderem einen Garnelensalat mit Limonencreme und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId:
   - 561708
   - 763374
@@ -312,11 +456,38 @@
   genre:
   - '165'
   widescreen: true
+- eventId: 710313
+  start: 2026-11-13T21:45:00Z
+  stop: 2026-11-13T22:40:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Lauwarme Scheiben vom Lammrücken im Frühlingsnest
+  description: Heute kocht Ralf Kühler zusammen mit Kai Donnert unter anderem lauwarme Scheiben vom Lammrücken im Frühlingsnest und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 710314
+  start: 2026-11-13T22:40:00Z
+  stop: 2026-11-13T23:05:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! -  Green Fish und Arme Ritter mit Mirabellen
+  description: Heute kocht Ralf Kühler zusammen mit Damien Klein unter anderem "The Greenfish" und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId:
   - 561709
   - 764060
   start: 2026-11-13T22:50:00Z
   stop: 2026-11-14T00:10:00Z
+  title: So schmeckt die Welt - Livigno
+  subtitle: So schmeckt die Welt - Livigno
+  description: Livigno ist ein Paradies für Naturliebhaber und Outdoor-Enthusiasten. Eingebettet zwischen imposanten Gipfeln bietet Livigno das ganze Jahr über eine Fülle an Aktivitäten. Ob Skifahren im Winter oder Klettern im Sommer. Die steuerfreien Einkaufsmöglichkeiten machen Livigno auch zu einem attraktiven Ziel für Shopping-Begeisterte. Mit seiner authentischen Atmosphäre, der herzlichen Gastfreundschaft und der köstlichen Küche ist Livigno ein Ort, der Besucher immer wieder zurückkehren lässt.
+  genre:
+  - '129'
+  widescreen: true
+- eventId: 710315
+  start: 2026-11-13T23:05:00Z
+  stop: 2026-11-14T00:05:00Z
   title: So schmeckt die Welt - Livigno
   subtitle: So schmeckt die Welt - Livigno
   description: Livigno ist ein Paradies für Naturliebhaber und Outdoor-Enthusiasten. Eingebettet zwischen imposanten Gipfeln bietet Livigno das ganze Jahr über eine Fülle an Aktivitäten. Ob Skifahren im Winter oder Klettern im Sommer. Die steuerfreien Einkaufsmöglichkeiten machen Livigno auch zu einem attraktiven Ziel für Shopping-Begeisterte. Mit seiner authentischen Atmosphäre, der herzlichen Gastfreundschaft und der köstlichen Küche ist Livigno ein Ort, der Besucher immer wieder zurückkehren lässt.
