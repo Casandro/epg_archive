@@ -31,6 +31,7 @@
   - 725091
   - 726469
   - 726999
+  - 727466
   start: 2026-11-13T00:06:00Z
   stop: 2026-11-13T00:57:00Z
   title: Dnevnik 2
@@ -96,7 +97,7 @@
   - 727000
   - 849384
   start: 2026-11-13T01:04:00Z
-  stop: 2026-11-13T01:06:00Z
+  stop: 2026-11-13T01:24:00Z
   title: 'Studio 4: Jutarnji intervju'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -142,6 +143,7 @@
   - 725093
   - 726471
   - 727001
+  - 727467
   start: 2026-11-13T01:24:00Z
   stop: 2026-11-13T01:27:00Z
   title: '#REPORTAŽE'
@@ -490,7 +492,7 @@
   - 727010
   - 849397
   start: 2026-11-13T02:54:00Z
-  stop: 2026-11-13T03:40:00Z
+  stop: 2026-11-13T02:58:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
@@ -529,6 +531,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 727468
+  start: 2026-11-13T02:58:00Z
+  stop: 2026-11-13T03:40:00Z
+  title: Pregled dana
+  subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 727156
   start: 2026-11-13T03:40:00Z
   stop: 2026-11-13T03:50:00Z
@@ -558,6 +568,7 @@
   - 725104
   - 726482
   - 727012
+  - 727469
   start: 2026-11-13T03:43:00Z
   stop: 2026-11-13T03:53:00Z
   title: Vijesti flash
@@ -595,6 +606,7 @@
   - 725105
   - 726483
   - 727013
+  - 727470
   start: 2026-11-13T03:53:00Z
   stop: 2026-11-13T04:00:00Z
   title: Vijesti iz kulture
@@ -640,6 +652,7 @@
   - 725106
   - 726484
   - 727014
+  - 727471
   start: 2026-11-13T04:00:00Z
   stop: 2026-11-13T04:51:00Z
   title: Dnevnik 2
@@ -683,14 +696,16 @@
   - 726485
   - 727015
   start: 2026-11-13T04:53:00Z
-  stop: 2026-11-13T04:55:00Z
+  stop: 2026-11-13T04:54:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
-- eventId: 665385
+- eventId:
+  - 665385
+  - 727472
   start: 2026-11-13T04:54:00Z
   stop: 2026-11-13T04:55:00Z
   title: Vrijeme Europa danas
@@ -750,7 +765,7 @@
   - 726487
   - 727017
   start: 2026-11-13T04:57:00Z
-  stop: 2026-11-13T04:59:00Z
+  stop: 2026-11-13T05:00:00Z
   title: 'Bez komentara: Kanarski otoci, migranti'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -786,6 +801,7 @@
   - 725110
   - 726488
   - 727018
+  - 727473
   start: 2026-11-13T05:00:00Z
   stop: 2026-11-13T05:08:00Z
   title: Vijesti na španjolskom jeziku
@@ -821,6 +837,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 727474
+  start: 2026-11-13T05:08:00Z
+  stop: 2026-11-13T05:10:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 727162
   start: 2026-11-13T05:09:00Z
   stop: 2026-11-13T05:17:00Z
@@ -838,6 +862,7 @@
   - 725111
   - 726489
   - 727019
+  - 727475
   start: 2026-11-13T05:10:00Z
   stop: 2026-11-13T05:18:00Z
   title: Vijesti na engleskom jeziku
@@ -875,6 +900,7 @@
   - 725112
   - 726490
   - 727020
+  - 727476
   start: 2026-11-13T05:18:00Z
   stop: 2026-11-13T05:26:00Z
   title: 'Studio 4: Znanost'
@@ -930,7 +956,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 665393
   start: 2026-11-13T05:56:00Z
-  stop: 2026-11-13T05:58:00Z
+  stop: 2026-11-13T06:00:00Z
   title: 'Bez komentara: Grčka prosvjedi'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
