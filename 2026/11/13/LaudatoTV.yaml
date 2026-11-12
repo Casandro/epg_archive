@@ -219,7 +219,9 @@
   stop: 2026-11-13T07:00:00Z
   title: Pod smokvom
   subtitle: Religijski
-- eventId: 690356
+- eventId:
+  - 690356
+  - 724026
   start: 2026-11-13T06:54:00Z
   stop: 2026-11-13T06:59:00Z
   title: Katolički kalendar
@@ -248,6 +250,14 @@
   genre:
   - '160'
   description: Mali katekizam obrađuje i sakramente Katoličke Crkve. U ovoj epizodi učimo o krštenju.
+- eventId: 724027
+  start: 2026-11-13T06:59:00Z
+  stop: 2026-11-13T07:03:00Z
+  title: Mali katekizam
+  subtitle: Mali katekizam obrađuje i sakramente Katoličke Crkve. U ovoj epizodi učimo o krštenju.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 632397
   - 673361
@@ -592,7 +602,7 @@
   - '160'
 - eventId: 724040
   start: 2026-11-13T15:30:00Z
-  stop: 2026-11-13T17:09:00Z
+  stop: 2026-11-13T17:10:00Z
   title: Papino apostolsko putovanje u Peru
   subtitle: Apostolsko putovanje pape Lava XIV. u Urugvaj, Argentinu i Peru održat će se prema planu od 6. do 17. studenoga 2026. Sveti Otac s radošću iščekuje susrete s vjernicima i mjesnim Crkvama u trima...
   ageRating: 4
