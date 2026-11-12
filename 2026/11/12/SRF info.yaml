@@ -194,7 +194,7 @@
   - 579346
   - 718430
   start: 2026-11-12T03:00:00Z
-  stop: 2026-11-12T03:05:00Z
+  stop: 2026-11-12T03:10:00Z
   title: Meteo
   subtitle: Spätausgabe
   genre:
@@ -242,7 +242,7 @@
   - 579350
   - 718434
   start: 2026-11-12T03:40:00Z
-  stop: 2026-11-12T03:45:00Z
+  stop: 2026-11-12T03:50:00Z
   title: Meteo
   subtitle: Spätausgabe
   genre:
@@ -279,7 +279,7 @@
   - 579353
   - 725964
   start: 2026-11-12T03:55:00Z
-  stop: 2026-11-12T04:20:00Z
+  stop: 2026-11-12T04:30:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -323,9 +323,21 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 708113
+  start: 2026-11-12T04:35:00Z
+  stop: 2026-11-12T04:45:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 692209
   start: 2026-11-12T04:45:00Z
-  stop: 2026-11-12T05:05:00Z
+  stop: 2026-11-12T05:00:00Z
   title: Telesguard
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
@@ -348,6 +360,18 @@
   - '32'
   widescreen: true
   subtitled: true
+  hd: true
+- eventId: 708114
+  start: 2026-11-12T05:00:00Z
+  stop: 2026-11-12T05:10:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
   hd: true
 - eventId: 579358
   start: 2026-11-12T05:05:00Z
@@ -393,7 +417,7 @@
   hd: true
 - eventId: 579360
   start: 2026-11-12T05:30:00Z
-  stop: 2026-11-12T05:40:00Z
+  stop: 2026-11-12T05:35:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -402,6 +426,15 @@
   genre:
   - '64'
   widescreen: true
+  hd: true
+- eventId: 708115
+  start: 2026-11-12T05:35:00Z
+  stop: 2026-11-12T05:55:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 725971
   start: 2026-11-12T05:35:00Z
@@ -433,6 +466,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 708116
+  start: 2026-11-12T05:55:00Z
+  stop: 2026-11-12T06:05:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 579377
   start: 2026-11-12T06:00:00Z
   stop: 2026-11-12T06:10:00Z
@@ -444,6 +489,15 @@
   genre:
   - '64'
   widescreen: true
+  hd: true
+- eventId: 708117
+  start: 2026-11-12T06:05:00Z
+  stop: 2026-11-12T06:25:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 725973
   start: 2026-11-12T06:05:00Z
@@ -475,6 +529,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 708118
+  start: 2026-11-12T06:25:00Z
+  stop: 2026-11-12T06:35:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 579379
   start: 2026-11-12T06:30:00Z
   stop: 2026-11-12T06:35:00Z
@@ -489,7 +555,7 @@
   hd: true
 - eventId: 655846
   start: 2026-11-12T06:35:00Z
-  stop: 2026-11-12T07:00:00Z
+  stop: 2026-11-12T06:55:00Z
   title: Schweiz aktuell
   genre:
   - '32'
@@ -515,6 +581,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 708119
+  start: 2026-11-12T06:55:00Z
+  stop: 2026-11-12T07:30:00Z
+  title: Rundschau in Gebärdensprache
+  subtitle: Massenentlassung bei «Just Eat» - Die Food-Kuriere protestieren
+  description: |-
+    Eine Branche unter Druck: Wie sich die Food-Kuriere gegen ihre Entlassungen wehren. Und: Welche Massnahmen braucht es gegen die Fangewalt im Eishockey? Zudem: Der Abstimmungskampf zur Finanzierung der 13. AHV.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 579380
   start: 2026-11-12T07:00:00Z
   stop: 2026-11-12T07:35:00Z
@@ -537,6 +614,17 @@
   description: |-
     Zur Finanzierung der 13. AHV-Rente soll der Mehrwertsteuersatz um 0.4 Prozentpunkte steigen. Bundesrat und Parlament sehen darin einen wichtigen Schritt zur finanziellen Stabilisierung der AHV. Die Gegenseite warnt vor der steuerlichen Mehrbelastung und fordert strukturelle Reformen.
     Schweiz 2026
+- eventId: 708120
+  start: 2026-11-12T07:30:00Z
+  stop: 2026-11-12T08:30:00Z
+  title: Arena in Gebärdensprache
+  subtitle: «Abstimmungs-Arena» zur Finanzierung der 13. AHV-Rente
+  description: |-
+    Zur Finanzierung der 13. AHV-Rente soll der Mehrwertsteuersatz um 0.4 Prozentpunkte steigen. Bundesrat und Parlament sehen darin einen wichtigen Schritt zur finanziellen Stabilisierung der AHV. Die Gegenseite warnt vor der steuerlichen Mehrbelastung und fordert strukturelle Reformen.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 579381
   start: 2026-11-12T07:35:00Z
   stop: 2026-11-12T08:35:00Z
@@ -561,6 +649,19 @@
   description: |-
     Jeder findet Foodwaste wichtig und jeder hat das Gefühl, er machts gut. Doch die Daten zeigen - weit gefehlt. Die Ziele der Politik liegen weit hinter ihren Zielen zur Reduktion von Foodwaste. «Einstein» zeigt, wie man mit einfachen Tricks Lebensmittel retten kann.
     Schweiz 2026
+- eventId: 708121
+  start: 2026-11-12T08:30:00Z
+  stop: 2026-11-12T09:05:00Z
+  title: Einstein in Gebärdensprache
+  subtitle: 'Wegwerfen war gestern: So vermeidest du Foodwaste'
+  description: |-
+    Jeder findet Foodwaste wichtig und jeder hat das Gefühl, er machts gut. Doch die Daten zeigen - weit gefehlt. Die Ziele der Politik liegen weit hinter ihren Zielen zur Reduktion von Foodwaste. «Einstein» zeigt, wie man mit einfachen Tricks Lebensmittel retten kann.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 579382
   start: 2026-11-12T08:35:00Z
   stop: 2026-11-12T09:10:00Z
@@ -594,14 +695,23 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 579398
-  start: 2026-11-12T09:10:00Z
-  stop: 2026-11-12T09:15:00Z
+- eventId: 708123
+  start: 2026-11-12T09:05:00Z
+  stop: 2026-11-12T09:10:00Z
   title: mitenand in Gebärdensprache
   subtitle: Soforthilfe für die Opfer von schweren Unwettern
   description: |-
     Ende Juni 2024 trat die Rhone nach tagelangen Regenfällen über die Ufer. Die Überschwemmungen machten rund um Siders hunderte Menschen obdachlos. Um ihnen beizustehen, hat die Glückskette mehr als 13 Millionen Franken gesammelt. Ein Bericht von Francois Jeannet.
     Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 579398
+  start: 2026-11-12T09:10:00Z
+  stop: 2026-11-12T09:50:00Z
+  title: Mona mittendrin in Gebärdensprache
+  subtitle: Im Bundeshaus - Die stillen Kräfte hinter der Schweizer Politik
+  description: "Ohne den Parlamentsdienst würde im Bundeshaus wenig laufen. Drei Tage lang begleitet Mona Vetsch die Menschen hinter den Kulissen des Parlaments und entdeckt eine Welt, die kaum jemand kennt, aber für das Funktionieren der Schweizer Demokratie unverzichtbar ist. \nDeutsche Schweiz 2026"
   widescreen: true
   subtitled: true
   hd: true
@@ -614,9 +724,11 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 579400
+- eventId:
+  - 579400
+  - 725981
   start: 2026-11-12T09:50:00Z
-  stop: 2026-11-12T10:30:00Z
+  stop: 2026-11-12T10:25:00Z
   title: Rundschau
   subtitle: Massenentlassung bei «Just Eat» - Die Food-Kuriere protestieren
   description: |-
@@ -625,14 +737,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 725981
-  start: 2026-11-12T09:50:00Z
-  stop: 2026-11-12T10:25:00Z
-  title: Rundschau
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 725982
+- eventId:
+  - 708124
+  - 725982
   start: 2026-11-12T10:25:00Z
   stop: 2026-11-12T11:25:00Z
   title: Arena
@@ -653,6 +760,18 @@
     Schweiz 2026
   widescreen: true
   subtitled: true
+  hd: true
+- eventId: 708125
+  start: 2026-11-12T11:25:00Z
+  stop: 2026-11-12T11:55:00Z
+  title: Cuntrasts
+  subtitle: «LA FIASTA» - die Prozession von Lumbrein
+  description: |-
+    Seit 306 Jahren prägt die Prozession von Lumbrein den zweiten Oktobersonntag. Sie vereint gelebten Glauben, einzigartige Tradition und Heimatverbundenheit. Für viele Auswärtige ist sie ein Wiedersehen mit den Wurzeln und ein Brauch, der bis heute nichts von seiner Faszination verloren hat.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
   hd: true
 - eventId: 725983
   start: 2026-11-12T11:25:00Z
