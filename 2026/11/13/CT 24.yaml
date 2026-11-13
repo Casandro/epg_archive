@@ -779,6 +779,8 @@
   - 650955
   - 737984
   - 746088
+  - 747684
+  - 747691
   start: 2026-11-13T12:33:00Z
   stop: 2026-11-13T13:00:00Z
   title: Studio ČT24
@@ -917,7 +919,7 @@
   - 737989
   - 746093
   start: 2026-11-13T14:00:00Z
-  stop: 2026-11-13T14:05:05Z
+  stop: 2026-11-13T14:03:00Z
   title: Zprávy
   description: |-
     HDTV
@@ -933,6 +935,7 @@
   - 737990
   - 746094
   - 747175
+  - 747706
   start: 2026-11-13T14:03:00Z
   stop: 2026-11-13T14:29:50Z
   title: Studio ČT24
@@ -958,7 +961,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 747383
+- eventId:
+  - 747383
+  - 747707
   start: 2026-11-13T14:29:50Z
   stop: 2026-11-13T14:32:50Z
   title: Zprávy
@@ -984,7 +989,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 747384
+- eventId:
+  - 747384
+  - 747708
   start: 2026-11-13T14:32:50Z
   stop: 2026-11-13T14:39:50Z
   title: Studio ČT24
@@ -1023,7 +1030,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 747385
+- eventId:
+  - 747385
+  - 747709
   start: 2026-11-13T14:39:50Z
   stop: 2026-11-13T15:00:00Z
   title: Ekonomika ČT24
