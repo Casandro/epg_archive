@@ -242,11 +242,15 @@
   description: |-
     Das Savoy in London, das Atlantic in Hamburg oder das Waldorf-Astoria in New York sind mehr als nur Luxushotels. Es sind Schauplätze der Geschichte und menschlicher Schicksale.
     "Terra X History" blickt hinter die Fassaden der legendären Luxusherbergen. Der Film erzählt die erstaunlichen Geschichten ihrer Gründer und ihrer Gäste: Ob gekrönte Häupter, Schauspieler oder Politiker Grandhotels ziehen seit jeher prominente Besucher an.
-- eventId: 749103
+- eventId:
+  - 749103
+  - 749712
   start: 2026-11-14T07:40:00Z
   stop: 2026-11-14T08:00:00Z
   title: Die First Nations in Kanada im Kampf gegen den Klimawandel
   description: "Die First Nations in Kanada im Kampf gegen den Klimawandel \n\nSendehinweis: 06.11.2026, 18:05 Uhr"
+  widescreen: true
+  hd: true
 - eventId:
   - 549105
   - 557326
@@ -273,7 +277,7 @@
   - 696072
   - 696916
   start: 2026-11-14T08:00:00Z
-  stop: 2026-11-14T08:30:00Z
+  stop: 2026-11-14T11:15:00Z
   title: Aktuelle Themen aus Politik und Gesellschaft
   description: |-
     Samstag, 14. November 2026
@@ -348,6 +352,11 @@
   title: Dokumentation
   widescreen: true
   hd: true
+  subtitle: Trips vor der Haustür
+  description: |-
+    Für spannende Citys, Badespaß und Erholung muss man nicht weit reisen. Ziele in Deutschland und Europa sind nicht nur gut für den Geldbeutel, sondern auch fürs Klima. Und vielen Anbietern geht es um mehr als Kasse machen.
+
+    Der Social Surf Club aus Hamburg lädt zum Surfen nach Dänemark ein. Meer, Gemeinschaft und neue Erfahrungen für Kinder und Jugendliche, die oft in sozialen Brennpunkten aufwachsen und sich keinen Urlaub leisten könnten. Wenn sie zum ersten Mal eine Welle reiten oder das selbstgekochte Essen allen schmeckt, wachsen Selbstvertrauen und Zusammenhalt in der Gruppe.
 - eventId:
   - 549528
   - 558580
@@ -361,9 +370,18 @@
   - 679796
   - 953854
   start: 2026-11-14T12:00:00Z
+  stop: 2026-11-14T13:00:00Z
+  title: die diskussion
+  subtitle: Militärisch überlegen - Krieg verloren. Warum militärische Stärke nicht reicht
+  widescreen: true
+  hd: true
+  description: Moderator Thomas Wiegold diskutiert mit Frank Sauer, Universität der Bundeswehr München; Prof. Carlo Masala, Universität der Bundeswehr München; Ulrike Franke, European Council on Foreign Relations.
+- eventId:
+  - 749807
+  - 749808
+  start: 2026-11-14T13:00:00Z
   stop: 2026-11-14T13:15:00Z
-  title: phoenix plus
-  subtitle: Themen und Hintergründe
+  title: Für den Fall der Fälle - Wie Polen sich rüstet
   widescreen: true
   hd: true
 - eventId:
@@ -560,10 +578,7 @@
   subtitle: Die Welt für wenig Geld
   widescreen: true
   hd: true
-  description: |-
-    Ob Familienurlaub an tropischen Stränden, Abenteuer im afrikanischen Busch oder Eintauchen in den Alltag einer fremden Kultur: Wie sind Fernreisen auch mit kleinem Geld...
-
-    Sendehinweis: 13.11.2026, 21:45 Uhr.
+  description: Für spannende Citys, Badespaß und Erholung muss man nicht weit reisen. Ziele in Deutschland und Europa sind nicht nur gut für den Geldbeutel, sondern auch fürs Klima. Und vielen Anbietern geht es um mehr als Kasse machen.
 - eventId: 953980
   start: 2026-11-14T17:45:00Z
   stop: 2026-11-14T18:30:00Z
@@ -682,7 +697,7 @@
   - 953862
   start: 2026-11-14T19:15:00Z
   stop: 2026-11-14T20:05:00Z
-  title: Der Pazifikkrieg
+  title: Der Pazifikkrieg (1/3)
   subtitle: Pearl Harbor
   widescreen: true
   hd: true
@@ -728,7 +743,7 @@
   - 953863
   start: 2026-11-14T20:05:00Z
   stop: 2026-11-14T20:55:00Z
-  title: Der Pazifikkrieg
+  title: Der Pazifikkrieg (2/3)
   subtitle: Kampf um jede Insel
   widescreen: true
   hd: true
@@ -770,7 +785,7 @@
   - 953864
   start: 2026-11-14T20:55:00Z
   stop: 2026-11-14T21:45:00Z
-  title: Der Pazifikkrieg
+  title: Der Pazifikkrieg (3/3)
   subtitle: Angriff auf Japan
   widescreen: true
   hd: true
@@ -788,9 +803,9 @@
   - 679967
   - 953865
   start: 2026-11-14T21:45:00Z
-  stop: 2026-11-14T23:00:00Z
+  stop: 2026-11-14T22:15:00Z
   title: Mein Vater war ein deutscher Soldat
-  subtitle: Wehrmachtskinder in Frankreich
+  subtitle: Das Erbe der deutschen Besatzung
   widescreen: true
   hd: true
   description: |-
@@ -814,6 +829,14 @@
   title: Dokumentation
   widescreen: true
   hd: true
+- eventId: 749825
+  start: 2026-11-14T22:15:00Z
+  stop: 2026-11-14T23:00:00Z
+  title: Trumps Amerika
+  subtitle: Das Ende der Freiheit
+  description: |-
+    Wie viel Freiheit verliert eine Gesellschaft, wenn ihr Präsident immer mehr Macht für sich beansprucht?
+    Kurz vor den US-Midterms untersucht die Doku-mentation »Trumps Amerika Das Ende der Frei-heit?«, wie Donald Trumps zweite Amts-zeit die Vereinigten Staaten verändert. Im Mittel-punkt stehen Bürger-rechte, die Unab-hängigkeit der Justiz, die Presse-freiheit und die Grenzen präsidialer Macht.
 - eventId:
   - 549952
   - 559036
@@ -828,7 +851,7 @@
   - 954243
   start: 2026-11-14T23:00:00Z
   stop: 2026-11-14T23:45:00Z
-  title: Countdown zur Diktatur
+  title: Countdown zur Diktatur (1/4)
   subtitle: 1925 - 1929 Illusion
   widescreen: true
   hd: true
@@ -847,7 +870,7 @@
   - 954244
   start: 2026-11-14T23:45:00Z
   stop: 2026-11-15T00:30:00Z
-  title: Countdown zur Diktatur
+  title: Countdown zur Diktatur (2/4)
   subtitle: 1929 - 1931 Krise
   widescreen: true
   hd: true
