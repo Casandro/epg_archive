@@ -27,6 +27,14 @@
   genre:
   - '32'
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
+- eventId: 752737
+  start: 2026-11-15T00:06:00Z
+  stop: 2026-11-15T00:55:00Z
+  title: Dnevnik 2
+  subtitle: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 752220
   start: 2026-11-15T00:24:00Z
   stop: 2026-11-15T00:27:00Z
@@ -60,6 +68,7 @@
 - eventId:
   - 729057
   - 752319
+  - 752738
   start: 2026-11-15T00:59:00Z
   stop: 2026-11-15T01:01:00Z
   title: Vrijeme RH danas
@@ -77,6 +86,7 @@
 - eventId:
   - 729058
   - 752320
+  - 752739
   start: 2026-11-15T01:01:00Z
   stop: 2026-11-15T01:02:00Z
   title: Vrijeme Europa danas
@@ -88,6 +98,7 @@
 - eventId:
   - 729059
   - 752321
+  - 752740
   start: 2026-11-15T01:02:00Z
   stop: 2026-11-15T01:04:00Z
   title: Vrijeme Svijet danas
@@ -107,6 +118,14 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+- eventId: 752741
+  start: 2026-11-15T01:04:00Z
+  stop: 2026-11-15T01:20:00Z
+  title: 'Studio 4: Intervju'
+  subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 752226
   start: 2026-11-15T01:10:00Z
   stop: 2026-11-15T01:18:00Z
@@ -157,6 +176,14 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 752742
+  start: 2026-11-15T01:24:00Z
+  stop: 2026-11-15T01:27:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 708085
   - 751872
@@ -181,7 +208,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 729062
+- eventId:
+  - 729062
+  - 752743
   start: 2026-11-15T01:27:00Z
   stop: 2026-11-15T01:32:00Z
   title: Bez komentara
@@ -207,6 +236,7 @@
   - 729063
   - 751873
   - 752325
+  - 752744
   - 753037
   - 753626
   - 754584
@@ -247,6 +277,7 @@
   - 729065
   - 751874
   - 752326
+  - 752745
   - 753038
   - 753627
   - 754585
@@ -296,7 +327,9 @@
   genre:
   - '160'
   description: Emisija posvećena Hrvatima u domovini i svijetu.
-- eventId: 729066
+- eventId:
+  - 729066
+  - 752746
   start: 2026-11-15T02:00:00Z
   stop: 2026-11-15T02:10:00Z
   title: Vijesti flash
@@ -310,6 +343,7 @@
   - 729067
   - 751876
   - 752328
+  - 752747
   - 753040
   - 753629
   - 754587
@@ -353,7 +387,9 @@
   genre:
   - '32'
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 729068
+- eventId:
+  - 729068
+  - 752748
   start: 2026-11-15T02:18:00Z
   stop: 2026-11-15T02:20:00Z
   title: Bez komentara
@@ -367,6 +403,7 @@
   - 729069
   - 751878
   - 752330
+  - 752749
   - 753042
   - 753631
   - 754589
@@ -391,6 +428,7 @@
   - 729070
   - 751879
   - 752331
+  - 752750
   - 753043
   - 753632
   - 754590
@@ -416,6 +454,7 @@
   - 729071
   - 751880
   - 752332
+  - 752751
   - 753044
   - 753633
   - 754591
@@ -453,6 +492,7 @@
 - eventId:
   - 751881
   - 752333
+  - 752752
   - 753045
   - 753634
   - 754592
@@ -505,7 +545,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 729074
+- eventId:
+  - 729074
+  - 752753
   start: 2026-11-15T02:58:00Z
   stop: 2026-11-15T03:43:00Z
   title: Pregled dana
@@ -543,7 +585,9 @@
   genre:
   - '160'
   description: U emisiji za ljubitelje automobila svaki tjedan predstavljaju se novi modeli automobila, tehnološke inovacije, testiraju nova vozila, donose savjeti o održavanju.
-- eventId: 729075
+- eventId:
+  - 729075
+  - 752754
   start: 2026-11-15T03:43:00Z
   stop: 2026-11-15T03:53:00Z
   title: Vijesti flash
@@ -647,6 +691,7 @@
   - 729080
   - 751884
   - 752336
+  - 752755
   - 753048
   - 753637
   - 754595
@@ -677,6 +722,7 @@
   - 734700
   - 751885
   - 752337
+  - 752756
   - 753049
   - 753638
   - 754596
