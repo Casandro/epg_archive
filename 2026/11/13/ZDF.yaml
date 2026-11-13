@@ -1025,7 +1025,9 @@
 
     HD-Produktion
   hd: true
-- eventId: 755421
+- eventId:
+  - 755421
+  - 755465
   start: 2026-11-13T22:45:00Z
   stop: 2026-11-13T23:15:00Z
   title: 'aspekte extra: U2'
@@ -1041,6 +1043,7 @@
   - '112'
   widescreen: true
   subtitled: true
+  hd: true
 - eventId:
   - 541177
   - 611965
@@ -1071,7 +1074,7 @@
   - 676144
   - 677780
   start: 2026-11-13T23:15:00Z
-  stop: 2026-11-14T00:00:00Z
+  stop: 2026-11-13T23:30:00Z
   title: heute journal update
   subtitle: Die Jagd nach dem Hammermörder
   genre:
@@ -1086,7 +1089,9 @@
 
     Er tötet Autofahrer und nutzt ihre Wagen als Fluchtfahrzeuge bei Banküberfällen. Trotz vieler Spuren scheint der Täter den Ermittlern immer einen Schritt voraus zu sein. Doch die verwendete Munition erregt einen Verdacht: Ist der Täter einer von ihnen?
     HD-Produktion
-- eventId: 755422
+- eventId:
+  - 755422
+  - 755522
   start: 2026-11-13T23:30:00Z
   stop: 2026-11-14T00:15:00Z
   title: XY history
@@ -1101,3 +1106,5 @@
   - '128'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
