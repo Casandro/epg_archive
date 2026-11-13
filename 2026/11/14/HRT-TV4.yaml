@@ -288,7 +288,7 @@
   - '128'
 - eventId: 716592
   start: 2026-11-14T05:56:00Z
-  stop: 2026-11-14T05:58:00Z
+  stop: 2026-11-14T06:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -329,7 +329,7 @@
   - '32'
 - eventId: 702251
   start: 2026-11-14T06:10:00Z
-  stop: 2026-11-14T06:14:00Z
+  stop: 2026-11-14T06:15:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
@@ -347,6 +347,7 @@
 - eventId:
   - 702252
   - 752264
+  - 754534
   start: 2026-11-14T06:15:00Z
   stop: 2026-11-14T06:22:00Z
   title: Vijesti iz kulture
@@ -395,7 +396,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 702253
   start: 2026-11-14T06:22:00Z
-  stop: 2026-11-14T06:24:00Z
+  stop: 2026-11-14T06:23:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
@@ -405,6 +406,7 @@
 - eventId:
   - 702254
   - 752265
+  - 754535
   start: 2026-11-14T06:23:00Z
   stop: 2026-11-14T06:24:00Z
   title: Vrijeme Europa danas
@@ -488,7 +490,9 @@
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 702257
+- eventId:
+  - 702257
+  - 754536
   start: 2026-11-14T06:55:00Z
   stop: 2026-11-14T07:00:00Z
   title: Bez komentara
@@ -662,7 +666,7 @@
   - '32'
 - eventId: 702265
   start: 2026-11-14T08:30:00Z
-  stop: 2026-11-14T08:55:00Z
+  stop: 2026-11-14T08:31:00Z
   title: Sjednica Vlade RH
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
@@ -673,6 +677,7 @@
   - 702266
   - 752271
   - 752690
+  - 754537
   start: 2026-11-14T08:31:00Z
   stop: 2026-11-14T08:33:00Z
   title: Vrijeme Europa danas
@@ -693,6 +698,7 @@
 - eventId:
   - 752272
   - 752691
+  - 754538
   start: 2026-11-14T08:33:00Z
   stop: 2026-11-14T08:35:00Z
   title: Vrijeme Svijet danas
@@ -704,6 +710,7 @@
   - 702268
   - 752273
   - 752692
+  - 754539
   start: 2026-11-14T08:35:00Z
   stop: 2026-11-14T08:55:00Z
   title: Studio 4
@@ -772,7 +779,7 @@
   - 752274
   - 752693
   start: 2026-11-14T09:42:00Z
-  stop: 2026-11-14T09:46:00Z
+  stop: 2026-11-14T09:47:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
@@ -798,6 +805,7 @@
   - 706308
   - 752275
   - 752694
+  - 754540
   start: 2026-11-14T09:47:00Z
   stop: 2026-11-14T09:55:00Z
   title: 'Studio 4: Znanost'
@@ -984,7 +992,7 @@
   - 752282
   - 752701
   start: 2026-11-14T11:20:00Z
-  stop: 2026-11-14T11:28:00Z
+  stop: 2026-11-14T11:30:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -1398,6 +1406,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 754541
+  start: 2026-11-14T15:55:00Z
+  stop: 2026-11-14T16:19:00Z
+  title: Druga strana
+  subtitle: Oni su mala zagrebačka tvrtka kojoj jako dobro ide. Radili su za Disney, njemački Linde, Američki muzej nogometa, američki NASCAR-ov muzej, Samsung, Siemens, Infobip, DOK-ING i Plinacro.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 752190
   start: 2026-11-14T16:00:00Z
   stop: 2026-11-14T16:32:00Z
@@ -1422,6 +1438,7 @@
 - eventId:
   - 752294
   - 752713
+  - 754542
   start: 2026-11-14T16:20:00Z
   stop: 2026-11-14T16:56:00Z
   title: Globalna Hrvatska
@@ -1495,13 +1512,23 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 754543
+  start: 2026-11-14T17:32:00Z
+  stop: 2026-11-14T17:48:00Z
+  title: Regionalni dnevnik
+  subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 753510
   start: 2026-11-14T17:48:00Z
   stop: 2026-11-14T17:53:00Z
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 702317
+- eventId:
+  - 702317
+  - 754544
   start: 2026-11-14T17:50:00Z
   stop: 2026-11-14T17:53:00Z
   title: Bez komentara
@@ -1793,6 +1820,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 754545
+  start: 2026-11-14T21:12:00Z
+  stop: 2026-11-14T21:37:00Z
+  title: Moj izbor BiH
+  subtitle: Seriju Moj izbor BiH nastavljamo s četiri nove epizode.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 702331
   start: 2026-11-14T21:15:00Z
   stop: 2026-11-14T21:42:00Z
@@ -1832,6 +1867,7 @@
   - 750545
   - 752304
   - 752723
+  - 754546
   start: 2026-11-14T21:38:00Z
   stop: 2026-11-14T21:42:00Z
   title: Bez komentara
@@ -1867,6 +1903,7 @@
   - 750546
   - 752305
   - 752724
+  - 754547
   start: 2026-11-14T21:42:00Z
   stop: 2026-11-14T21:44:00Z
   title: HRT100 Vremeplov
@@ -1901,6 +1938,14 @@
   genre:
   - '160'
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
+- eventId: 754548
+  start: 2026-11-14T21:44:00Z
+  stop: 2026-11-14T22:03:00Z
+  title: 'Studio 4: U fokusu'
+  subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 702333
   start: 2026-11-14T21:45:00Z
   stop: 2026-11-14T22:05:00Z
@@ -1954,6 +1999,7 @@
   - 750548
   - 752307
   - 752726
+  - 754549
   start: 2026-11-14T22:04:00Z
   stop: 2026-11-14T22:07:00Z
   title: '#REPORTAŽE'
@@ -1988,6 +2034,7 @@
   - 750549
   - 752308
   - 752727
+  - 754550
   start: 2026-11-14T22:07:00Z
   stop: 2026-11-14T22:10:00Z
   title: Bez komentara
