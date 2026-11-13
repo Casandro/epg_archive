@@ -530,7 +530,7 @@
   - 727010
   - 849397
   start: 2026-11-13T02:54:00Z
-  stop: 2026-11-13T02:58:00Z
+  stop: 2026-11-13T03:40:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
@@ -607,6 +607,7 @@
 - eventId:
   - 727156
   - 733396
+  - 733615
   start: 2026-11-13T03:40:00Z
   stop: 2026-11-13T03:50:00Z
   title: Vijesti flash
@@ -673,6 +674,7 @@
 - eventId:
   - 727157
   - 733397
+  - 733616
   start: 2026-11-13T03:50:00Z
   stop: 2026-11-13T03:59:00Z
   title: Vijesti iz kulture
@@ -742,6 +744,7 @@
 - eventId:
   - 727158
   - 733398
+  - 733617
   start: 2026-11-13T03:59:00Z
   stop: 2026-11-13T04:51:00Z
   title: Dnevnik 2
@@ -843,49 +846,46 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 733618
+  start: 2026-11-13T04:53:00Z
+  stop: 2026-11-13T04:55:00Z
+  title: Vrijeme Europa danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 665385
   - 682987
-  - 724772
-  - 725224
-  - 727472
-  - 727597
-  - 727814
-  - 727999
-  - 728694
-  - 729530
-  - 730368
-  - 732117
-  - 732399
-  - 732933
-  - 733436
-  - 735019
-  - 740439
-  - 741245
-  start: 2026-11-13T04:54:00Z
-  stop: 2026-11-13T04:55:00Z
-  title: Vrijeme Europa danas
-  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-  ageRating: 4
-  genre:
-  - '32'
-- eventId:
   - 703735
   - 705507
   - 705805
   - 706094
   - 712015
   - 714302
+  - 724772
+  - 725224
+  - 727472
+  - 727597
+  - 727814
+  - 727999
   - 728667
+  - 728694
   - 729503
+  - 729530
   - 730296
+  - 730368
   - 731296
   - 732090
+  - 732117
   - 732372
+  - 732399
   - 732913
+  - 732933
   - 733424
+  - 733436
+  - 735019
   - 736752
+  - 740439
+  - 741245
   start: 2026-11-13T04:54:00Z
   stop: 2026-11-13T04:55:00Z
   title: Vrijeme Europa danas
@@ -894,7 +894,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 665386
+- eventId:
+  - 665386
+  - 733619
   start: 2026-11-13T04:55:00Z
   stop: 2026-11-13T04:57:00Z
   title: Vrijeme svijet danas
@@ -952,6 +954,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 733620
+  start: 2026-11-13T04:57:00Z
+  stop: 2026-11-13T04:59:00Z
+  title: 'Bez komentara: Kanarski otoci, migranti'
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 719513
   - 720139
@@ -967,6 +975,7 @@
 - eventId:
   - 727160
   - 733399
+  - 733621
   start: 2026-11-13T04:59:00Z
   stop: 2026-11-13T05:07:00Z
   title: Vijesti na španjolskom jeziku
@@ -974,6 +983,13 @@
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId:
   - 665388
+  - 703748
+  - 705520
+  - 705818
+  - 706107
+  - 706731
+  - 712028
+  - 714315
   - 719261
   - 719928
   - 720508
@@ -986,25 +1002,9 @@
   - 727473
   - 727815
   - 728000
-  - 729531
-  start: 2026-11-13T05:00:00Z
-  stop: 2026-11-13T05:08:00Z
-  title: Vijesti na španjolskom jeziku
-  subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-  description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-  ageRating: 4
-  genre:
-  - '32'
-- eventId:
-  - 703748
-  - 705520
-  - 705818
-  - 706107
-  - 706731
-  - 712028
-  - 714315
   - 728680
   - 729516
+  - 729531
   - 730309
   - 731309
   - 732103
@@ -1037,6 +1037,7 @@
 - eventId:
   - 727161
   - 733400
+  - 733622
   start: 2026-11-13T05:07:00Z
   stop: 2026-11-13T05:09:00Z
   title: 'Bez komentara: Njemačka, karneval'
@@ -1094,6 +1095,7 @@
 - eventId:
   - 727162
   - 733401
+  - 733623
   start: 2026-11-13T05:09:00Z
   stop: 2026-11-13T05:17:00Z
   title: Vijesti na engleskom jeziku
@@ -1101,6 +1103,13 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId:
   - 665390
+  - 703750
+  - 705522
+  - 705820
+  - 706109
+  - 706733
+  - 712030
+  - 714317
   - 719262
   - 719929
   - 720509
@@ -1113,25 +1122,9 @@
   - 727475
   - 727817
   - 728002
-  - 729533
-  start: 2026-11-13T05:10:00Z
-  stop: 2026-11-13T05:18:00Z
-  title: Vijesti na engleskom jeziku
-  subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-  description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-  ageRating: 4
-  genre:
-  - '32'
-- eventId:
-  - 703750
-  - 705522
-  - 705820
-  - 706109
-  - 706733
-  - 712030
-  - 714317
   - 728682
   - 729518
+  - 729533
   - 730311
   - 731311
   - 732105
@@ -1149,7 +1142,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
-  - '160'
+  - '32'
 - eventId:
   - 719515
   - 720141
@@ -1165,6 +1158,7 @@
 - eventId:
   - 727163
   - 733402
+  - 733624
   start: 2026-11-13T05:17:00Z
   stop: 2026-11-13T05:26:00Z
   title: 'Studio 4: Znanost'
@@ -1232,12 +1226,14 @@
   title: Otvoreno
   subtitle: ' '
   description: 'Što je sve dovelo do tragične smrti pacijenta u Klinici za psihijatriju Sveti Ivan? Zašto je u bolničkoj sobi situacija izmaknula kontroli? Kakav je protokol kad pacijent premine u psihijatrijskoj ustanovi? Treba li mijenjati zakonske odredbe o mjerama prisile? Što će otkriti izvanredni nadzor rada bolnice u Jankomiru?  Gosti su: prof. dr. sc. Sunčana Roksandić, Katedra za kazneno pravo Pravnog fakulteta Sveučilišta u Zagrebu, Željko Hrabar, dr. med., spec. psihijatar, Neuropsihijatrijska bolnica "Dr. Ivan Barbot", Popovača, izv. prof. dr. sc. Mladen Mavar, ravnatelj Psihijatrijske bolnice Ugljan.'
-- eventId: 665392
+- eventId:
+  - 665392
+  - 733625
   start: 2026-11-13T05:26:00Z
   stop: 2026-11-13T05:56:00Z
   title: Otvoreno
   subtitle: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
-  description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
+  description: 'Što je sve dovelo do tragične smrti pacijenta u Klinici za psihijatriju Sveti Ivan? Zašto je u bolničkoj sobi situacija izmaknula kontroli? Kakav je protokol kad pacijent premine u psihijatrijskoj ustanovi? Treba li mijenjati zakonske odredbe o mjerama prisile? Što će otkriti izvanredni nadzor rada bolnice u Jankomiru?  Gosti su: prof. dr. sc. Sunčana Roksandić, Katedra za kazneno pravo Pravnog fakulteta Sveučilišta u Zagrebu, Željko Hrabar, dr. med., spec. psihijatar, Neuropsihijatrijska bolnica "Dr. Ivan Barbot", Popovača, izv. prof. dr. sc. Mladen Mavar, ravnatelj Psihijatrijske bolnice Ugljan.'
   ageRating: 4
   genre:
   - '160'
@@ -1274,6 +1270,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 733626
+  start: 2026-11-13T05:56:00Z
+  stop: 2026-11-13T05:58:00Z
+  title: 'Bez komentara: Grčka prosvjedi'
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 665394
   start: 2026-11-13T06:00:00Z
   stop: 2026-11-13T06:10:00Z
