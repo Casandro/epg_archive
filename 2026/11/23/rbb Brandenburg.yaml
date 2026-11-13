@@ -172,6 +172,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6aceace614a97cb88d91a511
+  ageRating: 6
 - eventId:
   - 554615
   - 562626
@@ -185,6 +186,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6aceace614a97cb88d91a50f
+  ageRating: 6
 - eventId:
   - 540895
   - 541635
@@ -243,12 +245,14 @@
   start: 2026-11-23T11:55:00Z
   stop: 2026-11-23T12:40:00Z
   title: Mittendrin - Flughafen Frankfurt (44)
-  subtitle: Mit Joung-Gi nach Bangkok
+  subtitle: Mit Joung-Gi nach Bangkok - Abenteuer Langstrecke
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6aceace614a97cb88d91a507
+  genre:
+  - '112'
 - eventId:
   - 541376
   - 542169
@@ -265,6 +269,8 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6aceace614a97cb88d91a505
+  genre:
+  - '16'
 - eventId:
   - 541377
   - 542170
