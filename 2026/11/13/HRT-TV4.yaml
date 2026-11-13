@@ -530,7 +530,7 @@
   - 727010
   - 849397
   start: 2026-11-13T02:54:00Z
-  stop: 2026-11-13T03:40:00Z
+  stop: 2026-11-13T02:58:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
@@ -597,6 +597,7 @@
   - 727468
   - 727995
   - 733420
+  - 733908
   start: 2026-11-13T02:58:00Z
   stop: 2026-11-13T03:40:00Z
   title: Pregled dana
@@ -640,6 +641,7 @@
   - 727811
   - 727996
   - 733421
+  - 733909
   start: 2026-11-13T03:43:00Z
   stop: 2026-11-13T03:53:00Z
   title: Vijesti flash
@@ -718,6 +720,7 @@
   - 732931
   - 733422
   - 733434
+  - 733910
   - 735017
   - 740437
   - 741243
@@ -803,6 +806,14 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 733911
+  start: 2026-11-13T04:00:00Z
+  stop: 2026-11-13T04:51:00Z
+  title: Vrijeme RH danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 718938
   start: 2026-11-13T04:51:00Z
   stop: 2026-11-13T04:52:00Z
@@ -816,17 +827,15 @@
   - 724158
   - 724856
   - 726919
+  - 727159
   start: 2026-11-13T04:52:00Z
   stop: 2026-11-13T04:54:00Z
   title: Vrijeme Europa danas
-  subtitle: ' '
-  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 727159
-  start: 2026-11-13T04:52:00Z
-  stop: 2026-11-13T04:53:00Z
-  title: Vrijeme RH danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 665384
   - 719258
@@ -894,6 +903,14 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 733912
+  start: 2026-11-13T04:54:00Z
+  stop: 2026-11-13T04:56:00Z
+  title: Vrijeme Svijet danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 665386
   - 733619
@@ -930,11 +947,15 @@
   - 724159
   - 724857
   - 726920
+  - 733913
   start: 2026-11-13T04:56:00Z
   stop: 2026-11-13T04:58:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 665387
   - 719260
@@ -967,11 +988,15 @@
   - 724160
   - 724858
   - 726921
+  - 733914
   start: 2026-11-13T04:58:00Z
   stop: 2026-11-13T05:06:00Z
   title: Vijesti na španjolskom jeziku
-  subtitle: ' '
+  subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 727160
   - 733399
@@ -1029,11 +1054,15 @@
   - 724161
   - 724859
   - 726922
+  - 733915
   start: 2026-11-13T05:06:00Z
   stop: 2026-11-13T05:08:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 727161
   - 733400
@@ -1092,6 +1121,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 733916
+  start: 2026-11-13T05:08:00Z
+  stop: 2026-11-13T05:16:00Z
+  title: Vijesti na engleskom jeziku
+  subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 727162
   - 733401
@@ -1150,11 +1187,15 @@
   - 724162
   - 724860
   - 726923
+  - 733917
   start: 2026-11-13T05:16:00Z
   stop: 2026-11-13T05:24:00Z
   title: 'Studio 4: Znanost'
-  subtitle: ' '
+  subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   description: Kratki pregled aktualnosti iz svijeta znanosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 727163
   - 733402
@@ -1221,11 +1262,15 @@
   - 724163
   - 724861
   - 726924
+  - 733918
   start: 2026-11-13T05:24:00Z
   stop: 2026-11-13T05:54:00Z
   title: Otvoreno
-  subtitle: ' '
+  subtitle: Što je sve dovelo do tragične smrti pacijenta u Klinici za psihijatriju Sveti Ivan? Zašto je u bolničkoj sobi situacija izmaknula kontroli?
   description: 'Što je sve dovelo do tragične smrti pacijenta u Klinici za psihijatriju Sveti Ivan? Zašto je u bolničkoj sobi situacija izmaknula kontroli? Kakav je protokol kad pacijent premine u psihijatrijskoj ustanovi? Treba li mijenjati zakonske odredbe o mjerama prisile? Što će otkriti izvanredni nadzor rada bolnice u Jankomiru?  Gosti su: prof. dr. sc. Sunčana Roksandić, Katedra za kazneno pravo Pravnog fakulteta Sveučilišta u Zagrebu, Željko Hrabar, dr. med., spec. psihijatar, Neuropsihijatrijska bolnica "Dr. Ivan Barbot", Popovača, izv. prof. dr. sc. Mladen Mavar, ravnatelj Psihijatrijske bolnice Ugljan.'
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 665392
   - 733625
@@ -1261,6 +1306,14 @@
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 733919
+  start: 2026-11-13T05:54:00Z
+  stop: 2026-11-13T06:00:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 665393
   start: 2026-11-13T05:56:00Z
   stop: 2026-11-13T06:00:00Z
