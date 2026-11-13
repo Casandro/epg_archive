@@ -706,7 +706,7 @@
   - '32'
 - eventId: 702287
   start: 2026-11-14T11:20:00Z
-  stop: 2026-11-14T11:28:00Z
+  stop: 2026-11-14T11:30:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -1224,6 +1224,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 749265
+  start: 2026-11-14T21:12:00Z
+  stop: 2026-11-14T21:37:00Z
+  title: Moj izbor BiH
+  subtitle: Seriju Moj izbor BiH nastavljamo s četiri nove epizode.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 702331
   start: 2026-11-14T21:15:00Z
   stop: 2026-11-14T21:42:00Z
@@ -1244,6 +1252,7 @@
 - eventId:
   - 706318
   - 748153
+  - 749266
   start: 2026-11-14T21:38:00Z
   stop: 2026-11-14T21:42:00Z
   title: Bez komentara
@@ -1270,7 +1279,9 @@
   genre:
   - '160'
   description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
-- eventId: 748154
+- eventId:
+  - 748154
+  - 749267
   start: 2026-11-14T21:42:00Z
   stop: 2026-11-14T21:44:00Z
   title: HRT100 Vremeplov
@@ -1298,6 +1309,14 @@
   genre:
   - '160'
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
+- eventId: 749268
+  start: 2026-11-14T21:44:00Z
+  stop: 2026-11-14T22:03:00Z
+  title: 'Studio 4: U fokusu'
+  subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 702333
   start: 2026-11-14T21:45:00Z
   stop: 2026-11-14T22:05:00Z
@@ -1324,7 +1343,9 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 748156
+- eventId:
+  - 748156
+  - 749269
   start: 2026-11-14T22:04:00Z
   stop: 2026-11-14T22:07:00Z
   title: '#REPORTAŽE'
@@ -1352,6 +1373,7 @@
 - eventId:
   - 706321
   - 748157
+  - 749270
   start: 2026-11-14T22:07:00Z
   stop: 2026-11-14T22:10:00Z
   title: Bez komentara
