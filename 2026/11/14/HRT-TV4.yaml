@@ -288,7 +288,7 @@
   - '128'
 - eventId: 716592
   start: 2026-11-14T05:56:00Z
-  stop: 2026-11-14T05:58:00Z
+  stop: 2026-11-14T06:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -705,7 +705,7 @@
   - '32'
 - eventId: 702287
   start: 2026-11-14T11:20:00Z
-  stop: 2026-11-14T11:28:00Z
+  stop: 2026-11-14T11:30:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -1189,7 +1189,7 @@
   - '160'
 - eventId: 702330
   start: 2026-11-14T20:45:00Z
-  stop: 2026-11-14T21:10:00Z
+  stop: 2026-11-14T21:12:00Z
   title: Veterani mira
   subtitle: Tjedna emisija, u razgovoru u studiju i reportažama rasvjetljava i nastoji riješiti probleme s kojima se susreću branitelji te senzibilizirati javnost.
   description: U Veteranima mira, uoči obljetnice tragedije grada Vukovara i sloma njegove obrane, donosimo reportažu o premijeri dokumentarnog filma "David protiv Golijata" redateljice Irene Ščurić. Film donosi priču o 4. vukovarskoj bojni 3. gardijske brigade ZNG-a iz perspektive onih koji su te dane proživjeli na prvoj crti. U nastavku emisije ugostit ćemo dvojicu pripadnika Vojne policije Atila, postrojbe koja se ne spominje dovoljno iako je odigrala važnu ulogu u obrani Vukovara. U emisiji gostuju zapovjednik satnije Vojne policije Atila Drago Adžaga i jedan od njezinih pripadnika Branko Kević.
@@ -1213,6 +1213,14 @@
   genre:
   - '160'
   description: Seriju Moj izbor BiH nastavljamo s četiri nove epizode. Prvu posvećujemo Ljubuškom - gradu koji se, posljednjih godina, sve više mijenja i privlači pozornost ljudi koji u njemu vide mjesto za život i rad.  Povratnici, mlade obitelji i doseljenici iz drugih sredina sve su češće dio ljubuške priče. Ovaj grad u Zapadnohercegovačkoj županiji posljednjih godina ulaže u razvoj, infrastrukturu, turizam i kvalitetu života. Samo u ožujku 2026. Grad je za rješavanje stambenog pitanja 36 mladih obitelji izdvojio 296.000 konvertibilnih maraka. To je konkretna mjera kojom se želi potaknuti ostanak mladih i stvaranje novih obitelji. Uz turistički biser Kravicu, bogatu prirodnu i kulturnu baštinu te sve razvijeniju ponudu, Ljubuški pokazuje da i manja sredina može stvarati nove prilike. No, iza brojki i projekata kriju se osobne priče, odluke i iskustva ljudi koji su Ljubuški odabrali za svoj dom. Tko se vraća, tko dolazi prvi put i što ovaj grad danas nudi svojim stanovnicima? Odgovore donosimo u ovoj epizodi serije Moj izbor BiH.
+- eventId: 748152
+  start: 2026-11-14T21:12:00Z
+  stop: 2026-11-14T21:38:00Z
+  title: Moj izbor BiH
+  subtitle: Seriju Moj izbor BiH nastavljamo s četiri nove epizode.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 702331
   start: 2026-11-14T21:15:00Z
   stop: 2026-11-14T21:42:00Z
@@ -1229,7 +1237,9 @@
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 706318
+- eventId:
+  - 706318
+  - 748153
   start: 2026-11-14T21:38:00Z
   stop: 2026-11-14T21:42:00Z
   title: Bez komentara
@@ -1255,6 +1265,14 @@
   genre:
   - '160'
   description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
+- eventId: 748154
+  start: 2026-11-14T21:42:00Z
+  stop: 2026-11-14T21:44:00Z
+  title: HRT100 Vremeplov
+  subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 747392
   - 747962
@@ -1263,7 +1281,9 @@
   title: 'Studio 4: U fokusu'
   subtitle: ' '
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
-- eventId: 706319
+- eventId:
+  - 706319
+  - 748155
   start: 2026-11-14T21:44:00Z
   stop: 2026-11-14T22:04:00Z
   title: 'Studio 4: U fokusu'
@@ -1297,6 +1317,14 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 748156
+  start: 2026-11-14T22:04:00Z
+  stop: 2026-11-14T22:07:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 702334
   start: 2026-11-14T22:05:00Z
   stop: 2026-11-14T22:10:00Z
@@ -1313,7 +1341,9 @@
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 706321
+- eventId:
+  - 706321
+  - 748157
   start: 2026-11-14T22:07:00Z
   stop: 2026-11-14T22:10:00Z
   title: Bez komentara
