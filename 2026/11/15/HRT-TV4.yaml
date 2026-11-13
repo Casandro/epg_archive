@@ -153,7 +153,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 729061
+- eventId:
+  - 729061
+  - 752742
   start: 2026-11-15T01:24:00Z
   stop: 2026-11-15T01:27:00Z
   title: '#REPORTAŽE: Maroje Vučićević'
@@ -162,14 +164,6 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 752742
-  start: 2026-11-15T01:24:00Z
-  stop: 2026-11-15T01:27:00Z
-  title: '#REPORTAŽE'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
 - eventId:
   - 708085
   - 751872
@@ -466,16 +460,8 @@
   title: Vijesti flash
   subtitle: ' '
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
-- eventId: 729072
-  start: 2026-11-15T02:50:00Z
-  stop: 2026-11-15T02:53:00Z
-  title: '#REPORTAŽE: Nikola Filić'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
-  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
+  - 729072
   - 751881
   - 752333
   - 752752
@@ -493,11 +479,12 @@
   - 764420
   start: 2026-11-15T02:50:00Z
   stop: 2026-11-15T02:53:00Z
-  title: '#REPORTAŽE'
+  title: '#REPORTAŽE: Nikola Filić'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 729073
   start: 2026-11-15T02:53:00Z
   stop: 2026-11-15T02:58:00Z
@@ -767,7 +754,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 729086
   start: 2026-11-15T05:20:00Z
-  stop: 2026-11-15T05:28:00Z
+  stop: 2026-11-15T05:29:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
@@ -783,6 +770,12 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 753517
+  start: 2026-11-15T05:29:00Z
+  stop: 2026-11-15T05:30:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 729088
   start: 2026-11-15T05:30:00Z
   stop: 2026-11-15T05:56:00Z
@@ -794,7 +787,7 @@
   description: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
 - eventId: 729089
   start: 2026-11-15T05:56:00Z
-  stop: 2026-11-15T06:00:00Z
+  stop: 2026-11-15T05:58:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4

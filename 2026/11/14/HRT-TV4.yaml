@@ -288,7 +288,7 @@
   - '128'
 - eventId: 716592
   start: 2026-11-14T05:56:00Z
-  stop: 2026-11-14T06:00:00Z
+  stop: 2026-11-14T05:58:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -309,6 +309,7 @@
   - 748443
   - 749928
   - 752168
+  - 753500
   start: 2026-11-14T05:58:00Z
   stop: 2026-11-14T06:00:00Z
   title: Bez komentara
@@ -328,14 +329,16 @@
   - '32'
 - eventId: 702251
   start: 2026-11-14T06:10:00Z
-  stop: 2026-11-14T06:15:00Z
+  stop: 2026-11-14T06:14:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
   genre:
   - '32'
-- eventId: 752169
+- eventId:
+  - 752169
+  - 753501
   start: 2026-11-14T06:14:00Z
   stop: 2026-11-14T06:21:00Z
   title: Vijesti iz kulture
@@ -382,7 +385,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 752170
+- eventId:
+  - 752170
+  - 753502
   start: 2026-11-14T06:21:00Z
   stop: 2026-11-14T06:22:00Z
   title: Vrijeme RH danas
@@ -390,7 +395,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 702253
   start: 2026-11-14T06:22:00Z
-  stop: 2026-11-14T06:23:00Z
+  stop: 2026-11-14T06:24:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
@@ -470,13 +475,19 @@
   - '160'
 - eventId: 702256
   start: 2026-11-14T06:30:00Z
-  stop: 2026-11-14T06:55:00Z
+  stop: 2026-11-14T06:54:00Z
   title: Treća dob
   subtitle: S devet godina nučila je sastaviti nalivpero i pisati pisama. I od te dobi, pisala ih je gotovo do kraja života, različitim ljudima, tri puta tjedno. I gotovo uvijek na njih dobivala odgovore.
   description: S devet godina nučila je sastaviti nalivpero i pisati pisama. I od te dobi, pisala ih je gotovo do kraja života, različitim ljudima, tri puta tjedno. I gotovo uvijek na njih dobivala odgovore. Pisma su joj bila smisao života. A kroz njih nam pokazuje kako ljudi u trećoj dobi mogu imati bogate i uzbudljive živote. Ona je Sybil, glavna junakinja romana "Korespondentica". Koliko sebe vide u njoj i što misle o junakinji romana razgovarali smo s članicamam čitateljskog kluba Sveučilišta za treću životnu dob. U Trećoj dobi ovaj ponedjeljak, u susret Interliberu, govorimo o čitanju, starenju i starijima kao temama književnog djela. U goste nam dolazi izdavačica "Korespondentice" Nela Čuraković i voditeljica čitateljskog kluba Sveučilišta za treću životnu dob Marijana Janjić.
   ageRating: 4
   genre:
   - '160'
+- eventId: 753503
+  start: 2026-11-14T06:54:00Z
+  stop: 2026-11-14T07:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 702257
   start: 2026-11-14T06:55:00Z
   stop: 2026-11-14T07:00:00Z
@@ -603,6 +614,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 752174
   start: 2026-11-14T07:34:00Z
   stop: 2026-11-14T07:54:00Z
@@ -650,7 +662,7 @@
   - '32'
 - eventId: 702265
   start: 2026-11-14T08:30:00Z
-  stop: 2026-11-14T08:31:00Z
+  stop: 2026-11-14T08:55:00Z
   title: Sjednica Vlade RH
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
@@ -760,7 +772,7 @@
   - 752274
   - 752693
   start: 2026-11-14T09:42:00Z
-  stop: 2026-11-14T09:47:00Z
+  stop: 2026-11-14T09:46:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
@@ -775,6 +787,12 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 753504
+  start: 2026-11-14T09:46:00Z
+  stop: 2026-11-14T09:55:00Z
+  title: 'Studio 4: Znanost'
+  subtitle: ' '
+  description: Kratki pregled aktualnosti iz svijeta znanosti.
 - eventId:
   - 703297
   - 706308
@@ -886,6 +904,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 702281
   - 752278
@@ -959,12 +978,13 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 702287
   - 752282
   - 752701
   start: 2026-11-14T11:20:00Z
-  stop: 2026-11-14T11:30:00Z
+  stop: 2026-11-14T11:28:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
@@ -976,6 +996,7 @@
   - 747958
   - 748444
   - 749929
+  - 753505
   start: 2026-11-14T11:28:00Z
   stop: 2026-11-14T11:30:00Z
   title: Bez komentara
@@ -1204,12 +1225,13 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 702306
   - 752285
   - 752704
   start: 2026-11-14T14:35:00Z
-  stop: 2026-11-14T15:00:00Z
+  stop: 2026-11-14T14:55:00Z
   title: 'Studio 4: U fokusu'
   subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
@@ -1222,6 +1244,12 @@
   title: Bez komentara
   subtitle: ' '
   description: 'Oni su mala zagrebačka tvrtka kojoj jako dobro ide. Radili su za Disney, njemački Linde, Američki muzej nogometa, američki NASCAR-ov muzej, Samsung, Siemens, Infobip, DOK-ING i Plinacro. Surađuju na istraživačkim projektima Ericssona i Fakulteta elektrotehnike i računarstva, prijavljuju se na natječaje zajedno s Austrijskim institutom za tehnologiju, a u Londonu su osvojili zlatnu medalju za inovacije u turizmu. Ipak, na internetu ih gotovo ne možete pronaći! "Tko za nas zna, zna", kažu, dok žive i rade u virtualnoj stvarnosti.Ovo bi mogla biti motivacijska priča za generaciju Z (a možda i milenijalce).Tvrtku su prije petnaestak godina osnovali Darijan i Vedran te joj, u računalnom duhu i bez previše mašte, nadjenuli ime DIVIT (Darijan i Vedran IT sustavi). Poslije su ga promijenili u Diversitas, a zatim... No, vidjet ćete da ime i nije toliko važno. Mnogo je važnije prepoznati trendove. S razvojem virtualne i interaktivne stvarnosti njihov je posao doživio pravi procvat, i to u dva smjera: počeli su razvijati virtualne sustave za obuku u opasnim okruženjima i digitalizirati sadržaje kako bi muzejska iskustva učinili zanimljivijima. Projekte realiziraju u Hrvatskoj i diljem svijeta.Popis njihovih klijenata impresivan je. Usput su osvojili i nagradu za inovacije u turizmu u Londonu, koju od milja nazivaju virtualnim Oscarom. Paralelno rade na europskom projektu za obrambenu industriju, ali i na istraživačkim projektima za Ericsson i zagrebački Fakultet elektrotehnike i računarstva. A sada ono najneobičnije: Google ih baš i ne voli pa ih je na internetu vrlo teško pronaći. Gost emisije:Jerko Škorić, glavni direktor tvrtke Delta-X.'
+- eventId: 753506
+  start: 2026-11-14T14:55:00Z
+  stop: 2026-11-14T15:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 702307
   - 752286
@@ -1323,6 +1351,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 705024
   start: 2026-11-14T15:28:00Z
   stop: 2026-11-14T15:30:00Z
@@ -1344,12 +1373,19 @@
   - 752292
   - 752711
   start: 2026-11-14T15:30:00Z
-  stop: 2026-11-14T15:55:00Z
-  title: 'Agenda: Svijet'
+  stop: 2026-11-14T15:54:00Z
+  title: 'Agenda: Svijet, vanjskopolitički magazin'
   subtitle: Tjedni vanjskopolitički magazin koji informira, približava i analizira svjetske događaje, procese, izazove i prijetnje.
   ageRating: 4
   genre:
   - '160'
+  description: 'Nakon izbora u Izraelu skoro formiranje vlade ne čini se izvjesnim, jer ni Netanyahuov ni Eisenkotov blok nemaju jasnu većinu. Također, neke od parlamentarnih stranaka imaju tvrda stajališta i čvrsto su obećala svojim biračima s kime neće u postizborna savezništva. Mogu li stranke izraelskih Arapa biti jezičac na vagi? Što zastupaju predstavnici ultraortodoksnih Židova? O izuzetno složenoj političkoj sceni u Izraelu razgovaramo u Agendi: Svijet sa stručnjakom za Izrael i Bliski istok, Borisom Havelom. Voditelj: Danko Družijanić'
+- eventId: 753507
+  start: 2026-11-14T15:54:00Z
+  stop: 2026-11-14T16:19:00Z
+  title: Druga strana
+  subtitle: ' '
+  description: 'Oni su mala zagrebačka tvrtka kojoj jako dobro ide. Radili su za Disney, njemački Linde, Američki muzej nogometa, američki NASCAR-ov muzej, Samsung, Siemens, Infobip, DOK-ING i Plinacro. Surađuju na istraživačkim projektima Ericssona i Fakulteta elektrotehnike i računarstva, prijavljuju se na natječaje zajedno s Austrijskim institutom za tehnologiju, a u Londonu su osvojili zlatnu medalju za inovacije u turizmu. Ipak, na internetu ih gotovo ne možete pronaći! "Tko za nas zna, zna", kažu, dok žive i rade u virtualnoj stvarnosti.Ovo bi mogla biti motivacijska priča za generaciju Z (a možda i milenijalce).Tvrtku su prije petnaestak godina osnovali Darijan i Vedran te joj, u računalnom duhu i bez previše mašte, nadjenuli ime DIVIT (Darijan i Vedran IT sustavi). Poslije su ga promijenili u Diversitas, a zatim... No, vidjet ćete da ime i nije toliko važno. Mnogo je važnije prepoznati trendove. S razvojem virtualne i interaktivne stvarnosti njihov je posao doživio pravi procvat, i to u dva smjera: počeli su razvijati virtualne sustave za obuku u opasnim okruženjima i digitalizirati sadržaje kako bi muzejska iskustva učinili zanimljivijima. Projekte realiziraju u Hrvatskoj i diljem svijeta.Popis njihovih klijenata impresivan je. Usput su osvojili i nagradu za inovacije u turizmu u Londonu, koju od milja nazivaju virtualnim Oscarom. Paralelno rade na europskom projektu za obrambenu industriju, ali i na istraživačkim projektima za Ericsson i zagrebački Fakultet elektrotehnike i računarstva. A sada ono najneobičnije: Google ih baš i ne voli pa ih je na internetu vrlo teško pronaći. Gost emisije:Jerko Škorić, glavni direktor tvrtke Delta-X.'
 - eventId:
   - 702313
   - 752293
@@ -1368,6 +1404,12 @@
   title: TV student
   subtitle: ' '
   description: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
+- eventId: 753508
+  start: 2026-11-14T16:19:00Z
+  stop: 2026-11-14T16:56:00Z
+  title: Globalna Hrvatska
+  subtitle: ' '
+  description: Emisija posvećena Hrvatima u domovini i svijetu.
 - eventId: 702314
   start: 2026-11-14T16:20:00Z
   stop: 2026-11-14T17:00:00Z
@@ -1419,7 +1461,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 702315
   start: 2026-11-14T17:00:00Z
-  stop: 2026-11-14T17:32:00Z
+  stop: 2026-11-14T17:30:00Z
   title: TV student
   subtitle: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
@@ -1434,6 +1476,12 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 753509
+  start: 2026-11-14T17:30:00Z
+  stop: 2026-11-14T17:48:00Z
+  title: Regionalni dnevnik
+  subtitle: ' '
+  description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
 - eventId:
   - 703303
   - 706313
@@ -1447,6 +1495,12 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 753510
+  start: 2026-11-14T17:48:00Z
+  stop: 2026-11-14T17:53:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 702317
   start: 2026-11-14T17:50:00Z
   stop: 2026-11-14T17:53:00Z
@@ -1600,6 +1654,8 @@
 - eventId:
   - 703306
   - 706316
+  - 752299
+  - 752718
   start: 2026-11-14T19:01:00Z
   stop: 2026-11-14T19:05:00Z
   title: '#REPORTAŽE: Nikola Filić'
@@ -1609,22 +1665,12 @@
   genre:
   - '160'
 - eventId:
-  - 752299
-  - 752718
-  start: 2026-11-14T19:01:00Z
-  stop: 2026-11-14T19:05:00Z
-  title: '#REPORTAŽE'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId:
   - 702327
   - 752300
   - 752719
   start: 2026-11-14T19:05:00Z
   stop: 2026-11-14T19:45:00Z
-  title: Intervju tjedna
+  title: 'Intervju tjedna: Ivan Urlić'
   subtitle: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
   description: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
   ageRating: 4
@@ -1658,6 +1704,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
 - eventId: 752200
   start: 2026-11-14T20:10:00Z
   stop: 2026-11-14T20:37:00Z
@@ -1687,7 +1734,7 @@
   - 752302
   - 752721
   start: 2026-11-14T20:45:00Z
-  stop: 2026-11-14T21:12:00Z
+  stop: 2026-11-14T21:10:00Z
   title: Veterani mira
   subtitle: Tjedna emisija, u razgovoru u studiju i reportažama rasvjetljava i nastoji riješiti probleme s kojima se susreću branitelji te senzibilizirati javnost.
   description: U Veteranima mira, uoči obljetnice tragedije grada Vukovara i sloma njegove obrane, donosimo reportažu o premijeri dokumentarnog filma "David protiv Golijata" redateljice Irene Ščurić. Film donosi priču o 4. vukovarskoj bojni 3. gardijske brigade ZNG-a iz perspektive onih koji su te dane proživjeli na prvoj crti. U nastavku emisije ugostit ćemo dvojicu pripadnika Vojne policije Atila, postrojbe koja se ne spominje dovoljno iako je odigrala važnu ulogu u obrani Vukovara. U emisiji gostuju zapovjednik satnije Vojne policije Atila Drago Adžaga i jedan od njezinih pripadnika Branko Kević.
@@ -1711,6 +1758,7 @@
   - 747959
   - 748445
   - 749930
+  - 753511
   start: 2026-11-14T21:10:00Z
   stop: 2026-11-14T21:37:00Z
   title: 'Moj izbor BiH: Ljubuški'
@@ -1770,6 +1818,7 @@
   - 747960
   - 748446
   - 749931
+  - 753512
   start: 2026-11-14T21:37:00Z
   stop: 2026-11-14T21:41:00Z
   title: Bez komentara
@@ -1796,6 +1845,7 @@
   - 747961
   - 748447
   - 749932
+  - 753513
   start: 2026-11-14T21:41:00Z
   stop: 2026-11-14T21:43:00Z
   title: 'HRT100 Vremeplov: Karting liga 1964.'
@@ -1829,6 +1879,7 @@
   - 747962
   - 748448
   - 749933
+  - 753514
   start: 2026-11-14T21:43:00Z
   stop: 2026-11-14T22:03:00Z
   title: 'Studio 4: U fokusu'
@@ -1881,6 +1932,7 @@
   - 747963
   - 748449
   - 749934
+  - 753515
   start: 2026-11-14T22:03:00Z
   stop: 2026-11-14T22:06:00Z
   title: '#REPORTAŽE: Maroje Vučićević'
@@ -1922,6 +1974,7 @@
   - 747964
   - 748450
   - 749935
+  - 753516
   start: 2026-11-14T22:06:00Z
   stop: 2026-11-14T22:10:00Z
   title: Bez komentara
@@ -1994,7 +2047,10 @@
   title: Regionalni dnevnik
   subtitle: ' '
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 702338
+- eventId:
+  - 702338
+  - 752311
+  - 752730
   start: 2026-11-14T22:50:00Z
   stop: 2026-11-14T22:55:00Z
   title: '#REPORTAŽE: Nikola Filić'
@@ -2003,16 +2059,6 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId:
-  - 752311
-  - 752730
-  start: 2026-11-14T22:50:00Z
-  stop: 2026-11-14T22:55:00Z
-  title: '#REPORTAŽE'
-  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-  ageRating: 4
-  genre:
-  - '160'
 - eventId:
   - 706322
   - 752312
@@ -2106,6 +2152,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
 - eventId: 702344
   start: 2026-11-14T23:49:00Z
   stop: 2026-11-15T00:07:00Z
