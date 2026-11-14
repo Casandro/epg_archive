@@ -3,6 +3,7 @@
   - 556944
   - 572435
   - 579608
+  - 591124
   - 617372
   - 626185
   - 742401
@@ -19,6 +20,7 @@
   - 556945
   - 572436
   - 579609
+  - 591125
   - 617373
   - 626186
   - 742402
@@ -35,6 +37,7 @@
   - 556946
   - 572437
   - 579610
+  - 591126
   - 617374
   - 626187
   - 742403
@@ -51,6 +54,7 @@
   - 556947
   - 572438
   - 579611
+  - 591127
   - 617375
   - 626188
   - 742404
@@ -67,6 +71,7 @@
   - 556948
   - 572439
   - 579612
+  - 591128
   - 617376
   - 626189
   - 742405
@@ -82,6 +87,7 @@
   - 559783
   - 572629
   - 579820
+  - 591318
   - 617404
   - 626262
   - 742440
@@ -97,6 +103,7 @@
   - 559784
   - 572630
   - 579821
+  - 591319
   - 617405
   - 626263
   - 742441
@@ -112,6 +119,7 @@
   - 559785
   - 572631
   - 579822
+  - 591320
   - 617406
   - 626264
   - 742442
@@ -128,6 +136,7 @@
   - 559786
   - 572632
   - 579823
+  - 591321
   - 617407
   - 626265
   - 742443
@@ -144,6 +153,7 @@
   - 559787
   - 572633
   - 579824
+  - 591322
   - 617408
   - 626266
   - 742444
@@ -180,6 +190,7 @@
   - 540674
   - 564230
   - 579990
+  - 591577
   - 617445
   - 626359
   - 742480
@@ -196,6 +207,7 @@
   - 555371
   - 564231
   - 579991
+  - 591578
   - 617446
   - 626360
   - 742481
@@ -212,6 +224,7 @@
   - 555372
   - 564232
   - 579992
+  - 591579
   - 617447
   - 626361
   - 742482
@@ -229,6 +242,7 @@
   - 555373
   - 564233
   - 579993
+  - 591580
   - 617448
   - 626362
   - 742483
@@ -245,6 +259,7 @@
   - 541852
   - 556571
   - 564634
+  - 591893
   - 617490
   - 626743
   - 742515
@@ -282,6 +297,7 @@
   - 541104
   - 556572
   - 564635
+  - 591894
   - 617491
   - 626744
   - 742516
@@ -319,6 +335,7 @@
   - 541105
   - 556573
   - 564636
+  - 591895
   - 617492
   - 626745
   - 742517
@@ -335,6 +352,7 @@
   - 541855
   - 556574
   - 564637
+  - 591896
   - 617493
   - 626746
   - 742518
@@ -351,6 +369,7 @@
   - 541856
   - 556575
   - 564638
+  - 591897
   - 617494
   - 626747
   - 742519
@@ -364,10 +383,36 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 587529
+  start: 2026-11-23T12:58:00Z
+  stop: 2026-11-23T13:00:00Z
+  title: MDR aktuell
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 587530
+  start: 2026-11-23T13:00:00Z
+  stop: 2026-11-23T13:25:00Z
+  title: MDR um 2
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 587531
+  start: 2026-11-23T13:25:00Z
+  stop: 2026-11-23T14:15:00Z
+  title: Elefant, Tiger & Co. (448)
+  subtitle: Ein Koala auf Reisen
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 541587
   - 542356
   - 558420
+  - 587532
   - 618178
   - 628519
   - 742550
@@ -382,6 +427,7 @@
 - eventId:
   - 542989
   - 558907
+  - 587802
   - 617721
   - 627946
   start: 2026-11-23T15:00:00Z
@@ -395,6 +441,7 @@
 - eventId:
   - 542990
   - 558908
+  - 587803
   - 617722
   - 627947
   start: 2026-11-23T15:30:00Z
@@ -408,6 +455,7 @@
 - eventId:
   - 542991
   - 558909
+  - 587804
   - 617723
   - 627948
   start: 2026-11-23T16:00:00Z
@@ -421,6 +469,7 @@
 - eventId:
   - 542992
   - 558910
+  - 587805
   - 617724
   - 627949
   start: 2026-11-23T16:45:00Z
@@ -433,6 +482,7 @@
 - eventId:
   - 542993
   - 558911
+  - 587806
   - 617725
   - 627950
   start: 2026-11-23T17:05:00Z
@@ -446,6 +496,7 @@
 - eventId:
   - 542994
   - 558912
+  - 587807
   - 617726
   - 627951
   start: 2026-11-23T17:10:00Z
@@ -458,6 +509,7 @@
 - eventId:
   - 542995
   - 558913
+  - 587808
   - 617727
   - 627952
   start: 2026-11-23T17:54:00Z
@@ -488,11 +540,16 @@
   audiodesc: true
   description: '"MDR SACHSEN-ANHALT HEUTE" liefert Nachrichten aus Politik, Wirtschaft, Wissenschaft, Kultur und Sport aus dem Bundesland.'
   subtitle: 'Moderation: Marco Pahl'
-- eventId: 628087
+- eventId:
+  - 588078
+  - 628087
   start: 2026-11-23T18:00:00Z
   stop: 2026-11-23T18:30:00Z
   title: MDR THÜRINGEN JOURNAL
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1026555
   - 1026671
@@ -515,12 +572,17 @@
   audiodesc: true
   description: Das "MDR THÜRINGEN JOURNAL" liefert aktuelle Nachrichten, den Sport und das Wetter aus Thüringen. Regionale News zu Politik, Wirtschaft und Kultur. Täglich 19:00 Uhr im MDR Fernsehen, auf MDR.de und bei Facebook.
   subtitle: 'anschließend: das MDR-Wetter'
-- eventId: 628088
+- eventId:
+  - 588079
+  - 628088
   start: 2026-11-23T18:30:00Z
   stop: 2026-11-23T18:50:00Z
   title: MDR aktuell
   subtitle: 'anschließend: das MDR-Wetter'
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1032110
   - 1032132
@@ -547,6 +609,7 @@
   - 543584
   - 547085
   - 567351
+  - 588080
   - 617866
   - 628089
   - 742644
@@ -581,6 +644,7 @@
   - 543585
   - 547086
   - 567352
+  - 588081
   - 617867
   - 628090
   - 742645
@@ -613,18 +677,24 @@
   genre:
   - '16'
   description: Katharina übernimmt die Leitung des Gestüts Piber und stößt dabei auf Widerstand von Obergestütsmeister Wagner und Teilen der Belegschaft. Als eine gefährliche Pferdekrankheit ausbricht, ordnet sie die Quarantäne aller 400 Tiere an. Mit Tierarzt Michael Haas kämpft sie gegen die Krise. Gleichzeitig gerät ihr verstorbener Vater in Verdacht, die Infektion eingeschleppt zu haben, was auch Katharinas Bruder Karl belastet.
-- eventId: 628091
+- eventId:
+  - 588082
+  - 628091
   start: 2026-11-23T20:45:00Z
   stop: 2026-11-23T21:10:00Z
   title: MDR aktuell
   subtitle: 'anschließend: das MDR-Wetter'
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 542632
   - 544076
   - 547573
   - 563888
   - 568050
+  - 588291
   - 618014
   - 628214
   - 659142
@@ -647,6 +717,7 @@
   - 547574
   - 563889
   - 568051
+  - 588292
   - 618015
   - 628215
   - 659143
@@ -668,6 +739,7 @@
   - 547575
   - 563890
   - 568052
+  - 588293
   - 618016
   - 628216
   - 659144
