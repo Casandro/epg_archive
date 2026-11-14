@@ -3,6 +3,7 @@
   - 572440
   - 579613
   - 591129
+  - 625365
   - 626190
   - 718081
   - 764713
@@ -19,6 +20,7 @@
   - 572441
   - 579614
   - 591130
+  - 625366
   - 626191
   - 718082
   - 764714
@@ -35,6 +37,7 @@
   - 572442
   - 579615
   - 591131
+  - 625367
   - 626192
   - 718083
   - 764715
@@ -51,6 +54,7 @@
   - 572443
   - 579616
   - 591132
+  - 625368
   - 626193
   - 718084
   - 764716
@@ -67,6 +71,7 @@
   - 572444
   - 579617
   - 591133
+  - 625369
   - 626194
   - 718085
   - 764717
@@ -83,6 +88,7 @@
   - 572445
   - 579618
   - 591134
+  - 625370
   - 626195
   - 718086
   - 764718
@@ -94,88 +100,38 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 559788
-  - 572636
-  - 579825
-  - 591323
-  - 626267
-  - 718114
-  - 764779
+- eventId: 625510
   start: 2026-11-27T03:05:00Z
   stop: 2026-11-27T03:35:00Z
   title: MDR SACHSENSPIEGEL
-  widescreen: true
   subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
-  - 559789
-  - 572637
-  - 579826
-  - 591324
-  - 626268
-  - 718115
-  - 764780
+- eventId: 625511
   start: 2026-11-27T03:35:00Z
   stop: 2026-11-27T04:05:00Z
   title: MDR SACHSEN-ANHALT HEUTE
-  widescreen: true
   subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
-  - 559790
-  - 572638
-  - 579827
-  - 591325
-  - 626269
-  - 718116
-  - 764781
+- eventId: 625512
   start: 2026-11-27T04:05:00Z
   stop: 2026-11-27T04:35:00Z
   title: MDR THÜRINGEN JOURNAL
-  widescreen: true
   subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
-  - 559791
-  - 572639
-  - 579828
-  - 591326
-  - 626270
-  - 718117
-  - 764782
+- eventId: 625513
   start: 2026-11-27T04:35:00Z
   stop: 2026-11-27T05:25:00Z
   title: Rote Rosen (1888)
   subtitle: Deutschland 2014
-  widescreen: true
   subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
-  - 559792
-  - 572640
-  - 579829
-  - 591327
-  - 626271
-  - 718118
-  - 764783
+- eventId: 625514
   start: 2026-11-27T05:25:00Z
   stop: 2026-11-27T06:15:00Z
   title: Sturm der Liebe (1674)
-  subtitle: Deutschland 2012
-  widescreen: true
   subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
   - 555374
   - 564234
   - 579994
   - 591581
+  - 625710
   - 626367
   - 718149
   - 764814
@@ -192,6 +148,7 @@
   - 564235
   - 579995
   - 591582
+  - 625711
   - 626368
   - 718150
   - 764815
@@ -208,6 +165,7 @@
   - 564236
   - 579996
   - 591583
+  - 625712
   - 626369
   - 718151
   - 764816
@@ -225,6 +183,7 @@
   - 564237
   - 579997
   - 591584
+  - 625713
   - 626370
   - 718152
   - 764817
@@ -241,6 +200,7 @@
   - 556576
   - 564639
   - 591732
+  - 625940
   - 626755
   - 718177
   - 764849
@@ -257,6 +217,7 @@
   - 556577
   - 564640
   - 591733
+  - 625941
   - 626756
   - 718178
   - 764850
@@ -272,6 +233,7 @@
   - 556578
   - 564641
   - 591734
+  - 625942
   - 626757
   - 718179
   - 764851
@@ -288,6 +250,7 @@
   - 556579
   - 564642
   - 591735
+  - 625943
   - 626758
   - 718180
   - 764852
@@ -304,6 +267,7 @@
   - 556580
   - 564643
   - 591736
+  - 625944
   - 626759
   - 718181
   - 764853
@@ -323,6 +287,7 @@
   - 558421
   - 587533
   - 627870
+  - 628719
   - 718208
   - 764931
   start: 2026-11-27T12:58:00Z
@@ -337,6 +302,7 @@
   - 558422
   - 587534
   - 627871
+  - 628720
   - 718209
   - 764932
   start: 2026-11-27T13:00:00Z
@@ -346,7 +312,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 587535
+- eventId:
+  - 587535
+  - 628721
   start: 2026-11-27T13:25:00Z
   stop: 2026-11-27T14:15:00Z
   title: Elefant, Tiger & Co. (452)
@@ -360,12 +328,30 @@
   - 558424
   - 587536
   - 627873
+  - 628722
   - 718211
   - 764934
   start: 2026-11-27T14:15:00Z
   stop: 2026-11-27T15:00:00Z
   title: Gefragt - Gejagt (681)
   subtitle: Mit Alexander Bommes
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 540041
+  - 559786
+  - 572632
+  - 579823
+  - 591321
+  - 617407
+  - 626265
+  - 742443
+  start: 2026-11-27T15:00:00Z
+  stop: 2026-11-27T15:30:00Z
+  title: Unterwegs bei Sachsens Nachbarn
+  subtitle: Die kleinen Schwestern von Karlsbad
   widescreen: true
   subtitled: true
   hd: true
@@ -380,6 +366,23 @@
   stop: 2026-11-27T15:30:00Z
   title: MDR um 4
   subtitle: Neues von hier
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 540042
+  - 559787
+  - 572633
+  - 579824
+  - 591322
+  - 617408
+  - 626266
+  - 742444
+  start: 2026-11-27T15:30:00Z
+  stop: 2026-11-27T16:00:00Z
+  title: Sehen satt Hören
+  subtitle: ABC - Always Be Communicating / Christine Sun Kim - CK
   widescreen: true
   subtitled: true
   hd: true
@@ -413,6 +416,22 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 559788
+  - 572636
+  - 579825
+  - 591323
+  - 626267
+  - 718114
+  - 764779
+  start: 2026-11-27T16:00:00Z
+  stop: 2026-11-27T16:45:00Z
+  title: MDR SACHSENSPIEGEL
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  subtitle: Neues von hier & Leichter leben
+- eventId:
   - 543007
   - 558917
   - 587812
@@ -421,6 +440,21 @@
   start: 2026-11-27T16:45:00Z
   stop: 2026-11-27T17:05:00Z
   title: MDR aktuell
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 559789
+  - 572637
+  - 579826
+  - 591324
+  - 626268
+  - 718115
+  - 764780
+  start: 2026-11-27T16:45:00Z
+  stop: 2026-11-27T17:05:00Z
+  title: MDR SACHSEN-ANHALT HEUTE
   widescreen: true
   subtitled: true
   hd: true
@@ -440,6 +474,22 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 559790
+  - 572638
+  - 579827
+  - 591325
+  - 626269
+  - 718116
+  - 764781
+  start: 2026-11-27T17:05:00Z
+  stop: 2026-11-27T17:10:00Z
+  title: MDR THÜRINGEN JOURNAL
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  subtitle: Die Wetterschau für Mitteldeutschland
+- eventId:
   - 543009
   - 558919
   - 587814
@@ -447,7 +497,24 @@
   - 764975
   start: 2026-11-27T17:10:00Z
   stop: 2026-11-27T17:54:00Z
-  title: Brisant Classix
+  title: Rote Rosen (4426)
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  subtitle: Deutschland 2026
+- eventId:
+  - 559791
+  - 572639
+  - 579828
+  - 591326
+  - 626270
+  - 718117
+  - 764782
+  start: 2026-11-27T17:10:00Z
+  stop: 2026-11-27T17:54:00Z
+  title: Rote Rosen (1888)
+  subtitle: Deutschland 2014
   widescreen: true
   subtitled: true
   hd: true
@@ -460,8 +527,24 @@
   - 764976
   start: 2026-11-27T17:54:00Z
   stop: 2026-11-27T18:00:00Z
-  title: Unser Sandmännchen
-  subtitle: Musifanten
+  title: Sturm der Liebe (4679)
+  subtitle: Deutschland 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 559792
+  - 572640
+  - 579829
+  - 591327
+  - 626271
+  - 718118
+  - 764783
+  start: 2026-11-27T17:54:00Z
+  stop: 2026-11-27T18:00:00Z
+  title: Sturm der Liebe (1674)
+  subtitle: Deutschland 2012
   widescreen: true
   subtitled: true
   hd: true
@@ -471,6 +554,7 @@
   - 559272
   - 567354
   - 588083
+  - 626462
   - 628092
   - 718297
   - 765040
@@ -486,6 +570,7 @@
   - 559273
   - 567355
   - 588084
+  - 626463
   - 628093
   - 718298
   - 765041
@@ -502,6 +587,7 @@
   - 559274
   - 567356
   - 588085
+  - 626464
   - 628094
   - 718299
   - 765042
@@ -518,6 +604,7 @@
   - 559275
   - 567357
   - 588086
+  - 626465
   - 628095
   - 718300
   - 765043
@@ -534,6 +621,7 @@
   - 559276
   - 567358
   - 588087
+  - 626466
   - 628096
   - 718301
   - 765044
@@ -562,6 +650,7 @@
   - 544084
   - 568056
   - 588294
+  - 626703
   - 628217
   - 718323
   - 765155
@@ -579,6 +668,7 @@
   - 563892
   - 568057
   - 588295
+  - 626704
   - 628218
   - 728524
   - 765156

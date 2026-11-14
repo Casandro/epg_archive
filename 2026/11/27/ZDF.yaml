@@ -2,6 +2,7 @@
   - 554849
   - 594464
   - 615180
+  - 628966
   - 764929
   - 765500
   start: 2026-11-27T00:20:00Z
@@ -17,6 +18,7 @@
   - 554850
   - 594465
   - 615181
+  - 628967
   - 764930
   - 765501
   start: 2026-11-27T02:20:00Z
@@ -32,6 +34,7 @@
   - 555081
   - 594531
   - 615189
+  - 628968
   - 764959
   - 765502
   start: 2026-11-27T03:50:00Z
@@ -47,6 +50,7 @@
   - 555082
   - 594532
   - 615190
+  - 628969
   - 764960
   - 765503
   start: 2026-11-27T04:30:00Z
@@ -61,6 +65,7 @@
 - eventId:
   - 594597
   - 615204
+  - 629048
   - 764961
   - 765504
   start: 2026-11-27T08:00:00Z
@@ -72,7 +77,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 594598
+- eventId:
+  - 594598
+  - 629049
   start: 2026-11-27T08:05:00Z
   stop: 2026-11-27T09:30:00Z
   title: Volle Kanne - Service täglich
@@ -85,6 +92,7 @@
 - eventId:
   - 594667
   - 615263
+  - 629050
   - 764967
   - 765509
   start: 2026-11-27T09:30:00Z
@@ -101,6 +109,7 @@
   - 556298
   - 594668
   - 615264
+  - 629051
   - 764968
   - 765510
   start: 2026-11-27T10:15:00Z
@@ -117,6 +126,7 @@
   - 556299
   - 594669
   - 615265
+  - 629052
   - 764969
   - 765511
   start: 2026-11-27T11:00:00Z
@@ -133,6 +143,7 @@
   - 557047
   - 594729
   - 615284
+  - 629305
   - 765008
   - 765516
   start: 2026-11-27T13:00:00Z
@@ -147,6 +158,7 @@
   - 557048
   - 594730
   - 615285
+  - 629306
   - 765009
   - 765517
   start: 2026-11-27T13:15:00Z
@@ -162,6 +174,7 @@
   - 557049
   - 594731
   - 615286
+  - 629307
   - 765010
   - 765518
   start: 2026-11-27T14:00:00Z
@@ -177,6 +190,7 @@
   - 557050
   - 594732
   - 615287
+  - 629308
   - 765011
   - 765519
   start: 2026-11-27T14:05:00Z
@@ -193,6 +207,7 @@
   - 557126
   - 594775
   - 615301
+  - 630353
   - 765033
   - 765525
   start: 2026-11-27T15:00:00Z
@@ -208,6 +223,7 @@
   - 557127
   - 594776
   - 615302
+  - 630354
   - 765034
   - 765526
   start: 2026-11-27T15:10:00Z
@@ -224,6 +240,7 @@
   - 557128
   - 594777
   - 615303
+  - 630355
   - 765035
   - 765527
   start: 2026-11-27T16:00:00Z
@@ -239,6 +256,7 @@
   - 557129
   - 594778
   - 615304
+  - 630356
   - 765036
   - 765528
   start: 2026-11-27T16:10:00Z
@@ -254,6 +272,7 @@
   - 557130
   - 594779
   - 615305
+  - 630357
   - 765037
   - 765529
   start: 2026-11-27T17:00:00Z
@@ -270,6 +289,7 @@
   - 560748
   - 594805
   - 610885
+  - 630456
   - 765084
   - 765478
   start: 2026-11-27T18:00:00Z
@@ -281,6 +301,31 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 543450
+  - 544572
+  - 547742
+  - 558411
+  - 612351
+  - 612837
+  - 615128
+  - 630457
+  - 763083
+  - 766418
+  start: 2026-11-27T18:20:00Z
+  stop: 2026-11-27T18:25:00Z
+  title: heute journal update
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Die aktualisierte Spätausgabe des "heute journal" rundet den Nachrichtentag im ZDF ab - mit den neuesten Nachrichten, Hintergrundberichten, Schaltgesprächen und Interviews.
+
+    Moderation: Christopher Wehrmann
+    HD-Produktion
+  subtitled: true
 - eventId: 594806
   start: 2026-11-27T18:20:00Z
   stop: 2026-11-27T18:25:00Z
@@ -291,6 +336,56 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 543390
+  - 543451
+  - 544566
+  - 544573
+  - 546080
+  - 547743
+  - 551689
+  - 558412
+  - 594319
+  - 612107
+  - 612352
+  - 612675
+  - 612838
+  - 615112
+  - 615129
+  - 630443
+  - 630458
+  - 734528
+  - 735164
+  - 763032
+  - 763084
+  - 766404
+  - 766419
+  start: 2026-11-27T18:25:00Z
+  stop: 2026-11-27T19:15:00Z
+  title: Notruf Hafenkante
+  subtitle: Midterms in den USA - Zwischenzeugnis für Trump
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Krimiserie, Deutschland 2018
+    Das irische Au-pair Jill wird unterkühlt und verwirrt an einer Bushaltestelle gefunden. Jasmin stellt fest, die Jugendliche hatte zum ersten Mal Sex. Wurden Jill Drogen eingeflößt?
+
+    Wie Melanie und Mattes ermitteln, hat Jill den Abend vorher bei einer Party im schicken Hockeyklub Seagulls wild gefeiert. Auch Moritz Donath, der Sohn ihrer Gastmutter, war auf der Party. Hat er Jill Drogen gegeben, um sie willig zu machen und zu entjungfern?
+    Darsteller:
+    Melanie Hansen - Sanna Englund
+    Mattes Seeler - Matthias Schloo
+    Franzi Jung - Rhea Harder-Vennewald
+    Hans Moor - Bruno F. Apitz
+    Wolf Haller - Hannes Hellmann
+    Wolle - Harald Maack
+    Regie: Oliver Liliensiek
+    Buch/Autor: Heike Brückner von Grumbkow, Jörg Brückner
+
+    HD-Produktion
 - eventId:
   - 544225
   - 557805
@@ -335,7 +430,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 594808
+- eventId:
+  - 594808
+  - 630459
   start: 2026-11-27T19:15:00Z
   stop: 2026-11-27T20:15:00Z
   title: Jenseits der Spree
@@ -366,6 +463,7 @@
 - eventId:
   - 560752
   - 594809
+  - 630460
   - 765088
   - 765482
   start: 2026-11-27T20:15:00Z
@@ -378,6 +476,60 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 1512264
+  - 1512266
+  - 540410
+  - 542998
+  - 544395
+  - 544687
+  - 551450
+  - 552232
+  - 553513
+  - 560479
+  - 561612
+  - 613464
+  - 614814
+  - 615291
+  - 616370
+  - 616487
+  - 616707
+  - 617957
+  - 630512
+  - 676270
+  - 676480
+  - 677481
+  - 677912
+  - 818095
+  - 819181
+  start: 2026-11-27T21:00:00Z
+  stop: 2026-11-27T21:30:00Z
+  title: heute - in Deutschland
+  subtitle: Basierend auf dem Roman "Fresh" von Mark McNay
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Drama, Deutschland 2025
+    Die Zeit läuft gegen Kai. Heute kommt sein gewalttätiger Bruder Mirko vorzeitig aus dem Gefängnis. Am Abend wird er vor Kais Tür stehen und sein Geld zurückverlangen, das nicht mehr da ist.
+
+    Kai sollte das Geld für Mirko aufbewahren - doch es ist längst ausgegeben. Für den 31-jährigen Ehemann, Vater und Arbeiter in einer Hühnerfabrik nördlich von Duisburg beginnt ein Tag unter wachsendem Druck, in dem die Situation letztendlich eskaliert.
+    Darsteller:
+    Innerer Monolog - Ralf Richter
+    Kai - Louis Hofmann
+    Mirko - Franz Pätzold
+    Onkel Andy - Sascha Gersak
+    Ayse - Canan Kir
+    Ela - Pinar Erincin
+    Regie: Damian John Harper
+    Buch/Autor: Damian John Harper
+    Kamera: Leonhard Kairat, Daniel Grendel
+    Schnitt: Lorna Estefania Hoefler-Steffe
+    Musik: Emma Elisabeth
+    HD-Produktion
 - eventId:
   - 560804
   - 594836
@@ -398,6 +550,7 @@
   - 560805
   - 594837
   - 611029
+  - 630513
   - 765104
   - 765492
   start: 2026-11-27T21:30:00Z
@@ -414,6 +567,7 @@
   - 560806
   - 594838
   - 611030
+  - 630514
   - 765105
   - 765493
   start: 2026-11-27T22:00:00Z
@@ -429,6 +583,7 @@
   - 560807
   - 594839
   - 611031
+  - 630515
   - 765106
   - 765494
   start: 2026-11-27T22:30:00Z
@@ -441,7 +596,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 594840
+- eventId:
+  - 594840
+  - 630516
   start: 2026-11-27T23:15:00Z
   stop: 2026-11-27T23:30:00Z
   title: heute journal update
@@ -450,7 +607,9 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 594841
+- eventId:
+  - 594841
+  - 630517
   start: 2026-11-27T23:30:00Z
   stop: 2026-11-28T00:15:00Z
   title: XY gelöst

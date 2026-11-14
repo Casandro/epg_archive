@@ -10,6 +10,7 @@
   - 594424
   - 595655
   - 609018
+  - 630239
   - 633426
   - 756381
   - 822351
@@ -43,6 +44,7 @@
   - 594425
   - 595656
   - 609019
+  - 630240
   - 633427
   - 756382
   - 822352
@@ -67,6 +69,7 @@
   - 578976
   - 586390
   - 609020
+  - 630241
   - 756383
   - 844893
   start: 2026-11-30T01:45:00Z
@@ -81,6 +84,7 @@
   - 579135
   - 586777
   - 609682
+  - 630317
   - 756394
   - 844921
   start: 2026-11-30T03:45:00Z
@@ -94,6 +98,7 @@
   - 579136
   - 586778
   - 609683
+  - 630318
   - 756395
   - 844922
   start: 2026-11-30T04:10:00Z
@@ -107,6 +112,7 @@
   - 579137
   - 586779
   - 609684
+  - 630319
   - 756396
   - 844923
   start: 2026-11-30T04:55:00Z
@@ -121,6 +127,7 @@
   - 579138
   - 586780
   - 609685
+  - 630320
   - 756397
   - 844924
   start: 2026-11-30T05:20:00Z
@@ -135,6 +142,7 @@
   - 579139
   - 586781
   - 609686
+  - 630321
   - 756398
   - 844925
   start: 2026-11-30T05:50:00Z
@@ -149,6 +157,7 @@
   - 579285
   - 586727
   - 586906
+  - 629820
   - 756411
   - 844949
   start: 2026-11-30T06:20:00Z
@@ -162,6 +171,7 @@
   - 579286
   - 586728
   - 586907
+  - 629821
   - 756412
   - 844950
   start: 2026-11-30T06:30:00Z
@@ -176,6 +186,7 @@
   - 579287
   - 586729
   - 586908
+  - 629822
   - 756413
   - 844951
   start: 2026-11-30T08:00:00Z
@@ -189,6 +200,7 @@
   - 579288
   - 586730
   - 586909
+  - 629823
   - 756414
   - 844952
   start: 2026-11-30T08:30:00Z
@@ -219,6 +231,7 @@
 - eventId:
   - 579462
   - 616620
+  - 629910
   - 756427
   - 845005
   start: 2026-11-30T09:00:00Z
@@ -250,7 +263,9 @@
   audiodesc: true
   genre:
   - '64'
-- eventId: 579463
+- eventId:
+  - 579463
+  - 629911
   start: 2026-11-30T09:30:00Z
   stop: 2026-11-30T10:00:00Z
   title: buten un binnen mit sportblitz
@@ -263,6 +278,7 @@
 - eventId:
   - 579464
   - 616622
+  - 629912
   - 756429
   - 845007
   start: 2026-11-30T10:00:00Z
@@ -276,6 +292,7 @@
   - 579465
   - 587113
   - 616623
+  - 629913
   - 756430
   - 845008
   start: 2026-11-30T10:30:00Z
@@ -290,6 +307,7 @@
   - 579466
   - 587114
   - 616624
+  - 629914
   - 756431
   - 845009
   start: 2026-11-30T11:00:00Z
@@ -304,6 +322,7 @@
   - 579467
   - 587115
   - 616625
+  - 629915
   - 756432
   - 845010
   start: 2026-11-30T11:25:00Z
@@ -327,7 +346,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 579599
+- eventId:
+  - 579599
+  - 629455
   start: 2026-11-30T12:10:00Z
   stop: 2026-11-30T13:00:00Z
   title: In aller Freundschaft - Die jungen Ärzte (300)
@@ -340,6 +361,7 @@
   - 577478
   - 579600
   - 587235
+  - 629456
   - 756446
   - 845030
   start: 2026-11-30T13:00:00Z
@@ -354,6 +376,7 @@
   - 577479
   - 579601
   - 587236
+  - 629457
   - 756447
   - 845031
   start: 2026-11-30T14:00:00Z
@@ -367,6 +390,7 @@
   - 577480
   - 579602
   - 587237
+  - 629458
   - 756448
   - 845032
   start: 2026-11-30T14:10:00Z
@@ -381,6 +405,7 @@
   - 579787
   - 587397
   - 588680
+  - 628173
   - 756467
   - 845086
   start: 2026-11-30T15:00:00Z
@@ -390,6 +415,26 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 1401585
+  - 1589579
+  - 572005
+  - 587521
+  - 596297
+  - 628174
+  start: 2026-11-30T15:15:00Z
+  stop: 2026-11-30T16:00:00Z
+  title: Gefragt - Gejagt (770)
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Themen u.a.:
+    * Nach Auto-Attacke in Neustadt: Wie sind die Reaktionen?
+    * Kündigung nach AfD-Kandidatur - Hospiz-Mitarbeiterin klagt
+    * Festival of Lights: Letzte Vorbereitungen in Braunschweig
+  subtitle: 'Moderation: Alexander Bommes'
 - eventId:
   - 579788
   - 587398
@@ -405,6 +450,44 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 1401586
+  - 1589580
+  - 549756
+  - 556958
+  - 558837
+  - 570647
+  - 572006
+  - 575952
+  - 576511
+  - 578283
+  - 579128
+  - 579522
+  - 587522
+  - 591943
+  - 593616
+  - 596145
+  - 596298
+  - 596708
+  - 598073
+  - 605793
+  - 607690
+  - 628175
+  - 680750
+  - 763380
+  - 875268
+  - 956112
+  start: 2026-11-30T16:00:00Z
+  stop: 2026-11-30T16:10:00Z
+  title: 'Die Nordreportage: Bienes Schlemmergrill'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Mit Welterfolgen wie "Die Vermessung der Welt", "Tyll" und "Lichtspiel" prägt der Schriftsteller Daniel Kehlmann die zeitgenössische Literatur wie kaum ein anderer. Auf dem Roten Sofa stellt er seinen neuen Roman "Afrika" vor - eine bitterböse Politsatire über die Berliner Afrikakonferenz von 1884/85, bei der Vertreter von 14 Mächten über die Aufteilung des Kontinents verhandelten. Neben Romanen verfasst er auch Theaterstücke und Drehbücher. Daniel Kehlmann wuchs in München und Wien in einem Künstlerhaushalt auf, studierte Philosophie und Germanistik und lebt heute hauptsächlich New York - auch darüber wollen wir uns unterhalten.
+  subtitle: 'Die Nordreportage: Bienes Schlemmergrill - Imbiss auf sieben Quadratmetern'
+  genre:
+  - '16'
+- eventId:
   - 579789
   - 587399
   - 588682
@@ -417,6 +500,30 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 1401587
+  - 1589581
+  - 572007
+  - 587523
+  - 596299
+  - 628176
+  start: 2026-11-30T16:10:00Z
+  stop: 2026-11-30T17:00:00Z
+  title: Leopard, Seebär & Co. (206)
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    * Zehn Tage nach dem Blackout an der Westküste: Umweltausschuss debattiert über Ursache des Stromausfalls
+    * Fehlerhafter Haushalt in der Verwaltung: Stellenchaos im Elmshorner Rathaus
+    * Hackerangriff auf Tourismus-Dienstleister: Folgen für Urlaubsgäste?
+    * Zustände im Tönnies-Schlachthof Kellinghusen: Weitere Debatte im Umwelt- und Agrarausschuss
+    * Rechtsansprüche auf Ganztagsbetreuung: Zwischenbilanz
+    * Wichtig für die Schleuse Brunsbüttel: Test des neuen Torinstandsetzungsdocks
+    * Spannung im DFB-Pokal: Live aus dem Holsteinstadion vor dem Duell gegen Hoffenheim
+    * Sensation für Ornithologen: Mönchsgeier in Nordfriesland gesichtet
+  subtitle: 'Moderation: Harriet Heise und Christopher Scheffelmeier'
 - eventId:
   - 579790
   - 587400
@@ -435,6 +542,7 @@
   - 579791
   - 587401
   - 588684
+  - 628177
   - 800336
   - 845090
   start: 2026-11-30T17:00:00Z
@@ -448,6 +556,7 @@
   - 579792
   - 587402
   - 588685
+  - 628178
   - 756471
   - 845091
   start: 2026-11-30T17:15:00Z
@@ -462,6 +571,7 @@
   - 579793
   - 587403
   - 588686
+  - 628179
   - 756472
   - 845092
   start: 2026-11-30T17:45:00Z
@@ -475,6 +585,7 @@
   - 579964
   - 587580
   - 594103
+  - 628291
   - 800344
   - 845133
   start: 2026-11-30T18:30:00Z
@@ -488,6 +599,7 @@
   - 579965
   - 587581
   - 594104
+  - 628292
   - 756485
   - 845134
   start: 2026-11-30T19:00:00Z
@@ -501,6 +613,7 @@
   - 579966
   - 587582
   - 594105
+  - 628293
   - 756486
   - 845135
   start: 2026-11-30T19:15:00Z
@@ -515,6 +628,7 @@
   - 579967
   - 587583
   - 594106
+  - 628294
   - 756487
   - 845136
   start: 2026-11-30T20:00:00Z
@@ -548,6 +662,7 @@
 - eventId:
   - 587584
   - 594107
+  - 628295
   - 756488
   - 845137
   start: 2026-11-30T20:45:00Z
@@ -579,6 +694,7 @@
   description: Immer wieder gelingt es der Schauspielerin Victoria Trauttmansdorff, komplexe und gebrochene Figuren unsentimental und psychologisch tiefgründig darzustellen. Dies macht sie schon seit 1993 auf der Bühne des Thalia Theaters, aber auch im Fernsehen ist die Österreicherin sehr häufig zu sehen. Immer wieder gelingt ihr vor der Kamera der Spagat zwischen feinsinnigem Drama und subtilem Humor. Anlass für ihren Besuch auf dem Roten Sofa sind gleich zwei sehr unterschiedliche Tatort-Rollen, einmal in Münster, einmal in Wiesbaden, beide Krimis laufen im November und Dezember im Ersten.
 - eventId:
   - 580112
+  - 628378
   - 756568
   - 845188
   start: 2026-11-30T21:00:00Z
@@ -589,7 +705,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 580113
+- eventId:
+  - 580113
+  - 628379
   start: 2026-11-30T21:45:00Z
   stop: 2026-11-30T22:15:00Z
   title: NDR Kultur - Das Journal
@@ -602,6 +720,7 @@
   - 580114
   - 587742
   - 594665
+  - 628380
   - 756570
   - 845190
   start: 2026-11-30T22:15:00Z

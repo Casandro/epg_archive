@@ -1,6 +1,7 @@
 - eventId:
   - 580255
   - 587911
+  - 625454
   - 626233
   - 673752
   - 764727
@@ -17,6 +18,7 @@
   - 587912
   - 598462
   - 607137
+  - 625455
   - 626234
   - 718503
   - 764728
@@ -32,6 +34,7 @@
   - 587913
   - 598463
   - 607138
+  - 625456
   - 626235
   - 718504
   - 764729
@@ -48,6 +51,7 @@
   - 587914
   - 598464
   - 607139
+  - 625457
   - 626236
   - 718505
   - 764730
@@ -64,6 +68,7 @@
   - 588060
   - 598652
   - 607523
+  - 625589
   - 626319
   - 718511
   - 764796
@@ -80,6 +85,7 @@
   - 588061
   - 598653
   - 607524
+  - 625590
   - 626320
   - 718512
   - 764797
@@ -96,6 +102,7 @@
   - 588062
   - 598654
   - 607525
+  - 625591
   - 626321
   - 718513
   - 764798
@@ -112,6 +119,7 @@
   - 588063
   - 598655
   - 607526
+  - 625592
   - 626322
   - 718514
   - 764799
@@ -128,6 +136,7 @@
   - 588064
   - 598656
   - 607527
+  - 625593
   - 626323
   - 719547
   - 728546
@@ -145,6 +154,7 @@
 - eventId:
   - 580424
   - 588065
+  - 625594
   - 626324
   - 764801
   start: 2026-11-27T05:30:00Z
@@ -167,7 +177,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 580573
+- eventId:
+  - 580573
+  - 625846
   start: 2026-11-27T06:20:00Z
   stop: 2026-11-27T06:35:00Z
   title: Tele-Gym (3)
@@ -176,7 +188,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 580574
+- eventId:
+  - 580574
+  - 625847
   start: 2026-11-27T06:35:00Z
   stop: 2026-11-27T08:00:00Z
   title: Panoramabilder / Bergwetter
@@ -185,7 +199,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 580575
+- eventId:
+  - 580575
+  - 625848
   start: 2026-11-27T08:00:00Z
   stop: 2026-11-27T08:15:00Z
   title: Tele-Gym (3)
@@ -194,7 +210,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 580576
+- eventId:
+  - 580576
+  - 625849
   start: 2026-11-27T08:15:00Z
   stop: 2026-11-27T08:45:00Z
   title: Dahoam is Dahoam (1571)
@@ -203,7 +221,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 580577
+- eventId:
+  - 580577
+  - 625850
   start: 2026-11-27T08:45:00Z
   stop: 2026-11-27T09:15:00Z
   title: Dahoam is Dahoam (1572)
@@ -242,12 +262,19 @@
   - 764879
   start: 2026-11-27T09:15:00Z
   stop: 2026-11-27T10:05:00Z
-  title: Panda, Gorilla & Co
+  title: Frankenschau aktuell
   subtitle: Geschichten aus dem Zoo Berlin und dem Tierpark Berlin
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  description: Die Frankenschau aktuell informiert Sie werktäglich über die neuesten und interessantesten Themen aus den drei fränkischen Regierungsbezirken.
+- eventId: 626068
+  start: 2026-11-27T09:15:00Z
+  stop: 2026-11-27T10:05:00Z
+  title: Panda, Gorilla & Co
+  subtitle: Geschichten aus dem Zoo Berlin und dem Tierpark Berlin
+  subtitled: true
 - eventId:
   - 1169208
   - 1377821
@@ -281,17 +308,25 @@
   - 764880
   start: 2026-11-27T10:05:00Z
   stop: 2026-11-27T10:50:00Z
-  title: Abenteuer Wildnis
+  title: Abendschau - Der Süden
   subtitle: Amerikas Große Seen - Natur XXL
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  description: '"Abendschau - Der Süden" ist Ihr werktägliches Regionalmagazin aus der Abendschau-Redaktion mit spannenden Reportagen, aktuellen Informationen, nützlichen Hintergründen.'
+- eventId: 626069
+  start: 2026-11-27T10:05:00Z
+  stop: 2026-11-27T10:50:00Z
+  title: Abenteuer Wildnis
+  subtitle: Amerikas Große Seen - Natur XXL
+  subtitled: true
 - eventId:
   - 578742
   - 580763
   - 604616
   - 608307
+  - 626070
   - 627839
   - 718533
   - 764881
@@ -305,11 +340,13 @@
   audiodesc: true
   genre:
   - '144'
+  description: '"Gesättigt von den wunderschönen Bildern fallen die Augen irgendwann ganz von alleine zu. Sie schweben zurück ins Bett und träumen von einem Planeten, den Sie am liebsten erobern würden. Gleich morgen!" So schwärmt die "Süddeutsche Zeitung" von der Space Night.'
 - eventId:
   - 578743
   - 580764
   - 604617
   - 608308
+  - 626071
   - 627840
   - 718534
   - 764882
@@ -321,22 +358,25 @@
   subtitled: true
   hd: true
   audiodesc: true
+  description: Vera nimmt Charlys unfreiwillige Tanzeinlage locker, allerdings bleibt bei Tina ein ungutes Gefühl zurück. War die Idee, eine neue WG zu gründen, richtig?
 - eventId:
   - 578744
   - 580765
   - 604618
   - 608309
+  - 626072
   - 627841
   - 718535
   - 764883
   start: 2026-11-27T11:50:00Z
   stop: 2026-11-27T12:35:00Z
   title: In aller Freundschaft (873)
-  subtitle: Ein weiter Weg
+  subtitle: Deutschland 2026
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  description: Emilia gesteht Olivia, dass sie von Massimo schwanger sitzengelassen wurde. Fritz sorgt sich, als Lale über Nacht nicht nach Hause kommt. Frida schafft es, Katja und Yannik zu versöhnen.
 - eventId:
   - 579537
   - 580892
@@ -349,6 +389,7 @@
   - 614102
   - 624179
   - 624986
+  - 626202
   - 627913
   - 718539
   - 763367
@@ -376,6 +417,7 @@
   - 614103
   - 624180
   - 624987
+  - 626203
   - 627914
   - 718540
   - 763368
@@ -403,6 +445,7 @@
   - 614104
   - 624181
   - 624988
+  - 626204
   - 627915
   - 718541
   - 763369
@@ -422,6 +465,7 @@
   - 579964
   - 604862
   - 608897
+  - 626382
   - 628025
   - 718542
   - 764995
@@ -436,6 +480,7 @@
 - eventId:
   - 574407
   - 579965
+  - 626383
   - 628026
   - 764996
   start: 2026-11-27T15:15:00Z
@@ -466,6 +511,7 @@
   - 604961
   - 609240
   - 617887
+  - 626384
   - 628027
   - 741295
   start: 2026-11-27T16:30:00Z
@@ -478,6 +524,7 @@
   audiodesc: true
 - eventId:
   - 574409
+  - 626385
   - 628028
   - 764998
   start: 2026-11-27T17:30:00Z
@@ -531,12 +578,24 @@
   - 765074
   start: 2026-11-27T18:00:00Z
   stop: 2026-11-27T18:30:00Z
-  title: Unser Land
+  title: Landfrauenküche
   subtitle: Magazin für Landwirtschaft und Umwelt
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  description: |-
+    Kathrin Hauser und ihr Ehemann Martin haben vier Kinder und betreiben einen Milchviehbetrieb mit muttergebundener Kälberhaltung. Dass die ehemalige Kinderpflegerin einmal Landwirtin wird, war nicht geplant. Als der Hof plötzlich an Ehemann Martin ging, baute die Familie einen Aussiedlerstall, der später sogar einen Tierwohlpreis gewinnen sollte. Auch die männlichen Kälber dürfen auf dem Hof bleiben und werden nicht sofort geschlachtet.
+    Kathrins Menü:
+    * Vorspeise: Burger vom Gelbvieh mit Kartoffelspalten und Quark
+    * Hauptspeise: Rahmgulasch mit Dinkelspätzle und Gemüse
+    * Nachspeise: Selbstgemachtes Erdbeereis mit Kräuterchips
+- eventId: 626592
+  start: 2026-11-27T18:00:00Z
+  stop: 2026-11-27T18:30:00Z
+  title: Unser Land
+  subtitle: Magazin für Landwirtschaft und Umwelt
+  subtitled: true
 - eventId:
   - 560360
   - 580375
@@ -561,6 +620,7 @@
   - 574821
   - 604968
   - 609266
+  - 626593
   - 628166
   - 718553
   - 765075
@@ -577,6 +637,7 @@
   - 580376
   - 604969
   - 609267
+  - 626594
   - 628167
   - 718554
   - 765076
@@ -594,6 +655,7 @@
   - 580377
   - 604970
   - 609268
+  - 626595
   - 628168
   - 718555
   - 765077
@@ -610,6 +672,7 @@
   - 580378
   - 604971
   - 609269
+  - 626596
   - 628169
   - 718556
   - 765078
@@ -626,6 +689,7 @@
   - 580379
   - 604972
   - 609270
+  - 626597
   - 628170
   - 718557
   - 765079
@@ -642,6 +706,7 @@
   - 580719
   - 605075
   - 609761
+  - 627032
   - 628266
   - 718561
   - 765177
@@ -661,6 +726,7 @@
 - eventId:
   - 574976
   - 580720
+  - 627033
   - 628267
   - 765178
   start: 2026-11-27T21:50:00Z
@@ -691,6 +757,7 @@
   - 580721
   - 605077
   - 609763
+  - 627034
   - 628268
   - 718563
   - 765179

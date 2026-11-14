@@ -32,6 +32,7 @@
   - 569877
   - 612639
   - 620168
+  - 621360
   - 676873
   - 678663
   - 747400
@@ -146,6 +147,7 @@
 
     HD-Produktion
 - eventId:
+  - 621361
   - 747401
   - 747410
   start: 2026-11-16T00:50:00Z
@@ -206,6 +208,7 @@
   - 564380
   - 599814
   - 611166
+  - 621362
   - 622687
   - 676811
   - 679078
@@ -250,6 +253,7 @@
     HD-Produktion
 - eventId:
   - 541306
+  - 621363
   - 747403
   - 747412
   start: 2026-11-16T02:20:00Z
@@ -293,6 +297,7 @@
 - eventId:
   - 539800
   - 620219
+  - 629086
   - 676885
   - 678689
   - 747404
@@ -331,31 +336,20 @@
     HD-Produktion
   hd: true
   audiodesc: true
-- eventId:
-  - 539801
-  - 543012
-  - 612246
-  - 620220
-  - 620347
-  - 676886
-  - 678690
-  - 747405
-  - 747414
+- eventId: 629087
   start: 2026-11-16T03:35:00Z
   stop: 2026-11-16T04:15:00Z
   title: Traumorte - West-Sumatra
-  subtitle: Die Welt von morgen
-  genre:
-  - '144'
-  widescreen: true
-  hd: true
-  audiodesc: true
+  subtitle: Film von Mark Olsen
   description: |-
     Frankreich 2026
     Die Provinz Sumatra Barat liegt abseits der üblichen Touristenziele Indonesiens auf der faszinierenden Vulkaninsel Sumatra. Meist ländlich geprägt, überrascht sie mit kulturellen Eigenheiten.
 
     Von der Provinzhauptstadt Padang führt die Reise ins Herz des einstigen Königreichs der Minangkabau und in die Stadt Bukittinggi. Dort lassen sich historische Holzbauten ebenso bewundern wie unterirdische Bunkeranlagen der Japaner aus der Zeit des Zweiten Weltkriegs.
     HD-Produktion
+  genre:
+  - '112'
+  widescreen: true
 - eventId:
   - 540699
   - 602628
@@ -374,61 +368,32 @@
     HD-Produktion
   hd: true
   audiodesc: true
-- eventId:
-  - 539802
-  - 543013
-  - 544442
-  - 551473
-  - 584422
-  - 584983
-  - 612247
-  - 620348
-  - 747406
-  - 747415
-  - 930798
-  - 932963
+- eventId: 629088
   start: 2026-11-16T04:15:00Z
   stop: 2026-11-16T05:00:00Z
   title: Traumorte - Süd-Vietnam
-  genre:
-  - '32'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
+  subtitle: Film von Eric Bacos
   description: |-
     Frankreich 2026
     Der Süden Vietnams bietet Reisenden eine Mischung aus Stadtleben, Kultur und Natur. Die Reise führt von Saigon ins Mekong-Delta und an die von Kalksteinklippen geprägten Buchten der Südküste.
 
     Viel von der bewegten Geschichte des Landes zeigt sich in Vietnams Süden, ob traditionelle Buddha-Tempel, französische Kolonialarchitektur oder Prachtbauten der sozialistischen Ära. Abseits der Städte locken sowohl malerische Küsten als auch das kühlere Hochland.
     HD-Produktion
-  subtitle: Film von Eric Bacos
-- eventId:
-  - 539803
-  - 540700
-  - 543014
-  - 544443
-  - 551474
-  - 584423
-  - 584984
-  - 602629
-  - 612248
-  - 620349
-  - 930799
-  - 932964
+  genre:
+  - '112'
+  widescreen: true
+- eventId: 629089
   start: 2026-11-16T05:00:00Z
   stop: 2026-11-16T05:20:00Z
   title: Die schwimmenden Dörfer der Halong-Bucht
-  genre:
-  - '144'
-  widescreen: true
-  hd: true
-  audiodesc: true
+  subtitle: Film von Petra Schulz
   description: |-
     Die Halong-Bucht im Chinesischen Meer gehört zu den atemberaubendsten Landschaften der Erde - ein enges Labyrinth aus Wasserwegen, kleinen Inseln, bizarren Kalksteinfelsen und Grotten.
 
     1994 hat die UNESCO die vietnamesische, 1500 Quadratkilometer große Bucht zum Weltnaturerbe erklärt. Das Siedeln auf den Inseln ist seitdem verboten. So leben mehr als 300 Fischerfamilien in der Bucht auf Hausbooten. Sie leben von Fischfang, Perlenzucht und Tourismus.
-  subtitle: Film von Petra Schulz
+  genre:
+  - '112'
+  widescreen: true
 - eventId:
   - 539805
   - 540701
@@ -440,6 +405,7 @@
   - 602630
   - 612250
   - 620351
+  - 629100
   - 930801
   - 932966
   start: 2026-11-16T05:20:00Z
@@ -465,7 +431,9 @@
 
     Moderation: Cécile Schortmann
     HD-Produktion
-- eventId: 539810
+- eventId:
+  - 539810
+  - 629136
   start: 2026-11-16T06:00:00Z
   stop: 2026-11-16T06:30:00Z
   title: nano
@@ -517,6 +485,18 @@
     ZDF-Reporterin Phoebe Gaa ist in diesem Teil des Films von Spitzbergen bis in den Osten Sibiriens unterwegs. Sie erlebt, wie sich die polare Welt im Zeitalter der globalen Erwärmung verändert, und trifft Menschen, die ihre Traditionen gegen die Moderne verteidigen.
     HD-Produktion
   subtitled: true
+- eventId: 629137
+  start: 2026-11-16T06:30:00Z
+  stop: 2026-11-16T07:00:00Z
+  title: Alpenpanorama
+  description: |-
+    "Alpenpanorama" zeigt über zahlreiche Web- und Panoramakameras täglich Livebilder aus ausgewählten Urlaubsorten.
+
+    Die Sendung informiert auch über Temperatur- und Wetterbedingungen vor Ort.
+    HD-Produktion
+  genre:
+  - '144'
+  widescreen: true
 - eventId:
   - 1589538
   - 1589703
@@ -550,6 +530,19 @@
 
     Vom größten Fjordsystem der Welt im Osten Grönlands über die Inseln der Nordwestpassage bis zu den riesigen Ölfeldern in Alaska: ZDF-Korrespondent Johannes Hano und sein Team erfahren, wie die Menschen am Polarkreis leben und wie ihre Zukunft aussehen könnte.
     HD-Produktion
+  subtitled: true
+- eventId: 629138
+  start: 2026-11-16T07:00:00Z
+  stop: 2026-11-16T07:05:00Z
+  title: ZIB
+  description: |-
+    Die "Früh-ZIB" informiert von Montag bis Freitag über das aktuelle Geschehen aus Innen- und Außenpolitik, Wirtschaft, Wissenschaft, Kultur und Chronik.
+
+    Reportagen und Hintergrundberichte vertiefen das Verständnis der aktuellen Ereignisse.
+    HD-Produktion
+  genre:
+  - '32'
+  widescreen: true
   subtitled: true
 - eventId:
   - 1589539
@@ -609,6 +602,18 @@
 
     Für die Tiere, die ihren alten Lebensraum zurückerobern, ist es ein langer und gefährlicher Weg. Engagierte Tierschützer helfen ihnen dabei. Der Film folgt spannenden Projekten vom Steinhuder Meer bis in die Rheinauen, vom Osterzgebirge bis zum Pfälzerwald.
     HD-Produktion
+- eventId: 629139
+  start: 2026-11-16T07:05:00Z
+  stop: 2026-11-16T07:30:00Z
+  title: Alpenpanorama
+  description: |-
+    "Alpenpanorama" zeigt über zahlreiche Web- und Panoramakameras täglich Livebilder aus ausgewählten Urlaubsorten.
+
+    Die Sendung informiert auch über Temperatur- und Wetterbedingungen vor Ort.
+    HD-Produktion
+  genre:
+  - '144'
+  widescreen: true
 - eventId:
   - 1589540
   - 1589705
@@ -664,6 +669,19 @@
 
     2025 gelingt ihr mit "Soleil Bleu" der Durchbruch: In Frankreich wird der Song zum Nummer-1-Hit und in ganz Europa zum viralen Sommerhit. Jetzt bringt Luiza ihren Mix aus brasilianischen Vibes und französischem Pop zum "SWR3 New Pop Festival" ins Theater Baden-Baden.
     HD-Produktion
+  subtitled: true
+- eventId: 629140
+  start: 2026-11-16T07:30:00Z
+  stop: 2026-11-16T07:33:00Z
+  title: ZIB
+  description: |-
+    Die "Früh-ZIB" informiert von Montag bis Freitag über das aktuelle Geschehen aus Innen- und Außenpolitik, Wirtschaft, Wissenschaft, Kultur und Chronik.
+
+    Reportagen und Hintergrundberichte vertiefen das Verständnis der aktuellen Ereignisse.
+    HD-Produktion
+  genre:
+  - '32'
+  widescreen: true
   subtitled: true
 - eventId:
   - 539815
@@ -721,6 +739,18 @@
 
     Neben dem Pferdepensionsstall gibt es eine Hereford-Rinderzucht und Damwild. Christin ist Erlebnisbäuerin, sie macht den Hof zum Klassenzimmer für Kinder, die dabei Einblick in die heimische Landwirtschaft bekommen und mitarbeiten dürfen.
     HD-Produktion
+- eventId: 629141
+  start: 2026-11-16T07:33:00Z
+  stop: 2026-11-16T08:00:00Z
+  title: Alpenpanorama
+  description: |-
+    "Alpenpanorama" zeigt über zahlreiche Web- und Panoramakameras täglich Livebilder aus ausgewählten Urlaubsorten.
+
+    Die Sendung informiert auch über Temperatur- und Wetterbedingungen vor Ort.
+    HD-Produktion
+  genre:
+  - '144'
+  widescreen: true
 - eventId:
   - 539816
   - 557752
@@ -771,7 +801,20 @@
 
     Ob Gesundheit oder Geld, Wohnen oder Ernährung, Multimedia oder Verkehr - "Servicezeit" beleuchtet Hintergründe, schafft Orientierung und gibt praktische Ratschläge - und zwar unabhängig und neutral.
     HD-Produktion
-- eventId: 539930
+- eventId: 629142
+  start: 2026-11-16T08:00:00Z
+  stop: 2026-11-16T08:05:00Z
+  title: ZIB
+  description: |-
+    Die Kurzausgaben der österreichischen Nachrichtensendung "Zeit im Bild" (ZIB) liefern neben klassischen Nachrichten Informationen über Entwicklungen auf den Finanzmärkten und Expertenanalysen.
+    HD-Produktion
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+- eventId:
+  - 539930
+  - 629323
   start: 2026-11-16T08:05:00Z
   stop: 2026-11-16T08:45:00Z
   title: Kulturzeit
@@ -819,7 +862,9 @@
 
     HD-Produktion
   subtitle: Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD
-- eventId: 539931
+- eventId:
+  - 539931
+  - 629324
   start: 2026-11-16T08:45:00Z
   stop: 2026-11-16T09:20:00Z
   title: nano
@@ -837,7 +882,9 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 540023
+- eventId:
+  - 540023
+  - 629342
   start: 2026-11-16T09:20:00Z
   stop: 2026-11-16T10:05:00Z
   title: Weltstädte - Paris
@@ -854,7 +901,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 540024
+- eventId:
+  - 540024
+  - 629343
   start: 2026-11-16T10:05:00Z
   stop: 2026-11-16T10:50:00Z
   title: Weltstädte - New York
@@ -871,7 +920,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 540025
+- eventId:
+  - 540025
+  - 629344
   start: 2026-11-16T10:50:00Z
   stop: 2026-11-16T11:20:00Z
   title: Jung und schön
@@ -888,7 +939,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 540026
+- eventId:
+  - 540026
+  - 629345
   start: 2026-11-16T11:20:00Z
   stop: 2026-11-16T11:50:00Z
   title: Servicezeit
@@ -903,7 +956,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 540027
+- eventId:
+  - 540027
+  - 629346
   start: 2026-11-16T11:50:00Z
   stop: 2026-11-16T12:20:00Z
   title: Wismar, da will ich hin!
@@ -927,6 +982,7 @@
   - 598051
   - 612893
   - 620432
+  - 629574
   - 676910
   - 678778
   start: 2026-11-16T12:20:00Z
@@ -952,6 +1008,7 @@
   - 598052
   - 612894
   - 620433
+  - 629575
   - 676911
   - 678779
   start: 2026-11-16T13:10:00Z
@@ -976,6 +1033,7 @@
   - 598053
   - 612895
   - 620434
+  - 629576
   - 676912
   - 678780
   start: 2026-11-16T14:00:00Z
@@ -1001,6 +1059,7 @@
   - 598054
   - 612896
   - 620435
+  - 629577
   - 676913
   - 678781
   start: 2026-11-16T14:55:00Z
@@ -1023,6 +1082,7 @@
   - 603615
   - 611108
   - 622779
+  - 626712
   - 718404
   - 720303
   start: 2026-11-16T15:45:00Z
@@ -1050,6 +1110,7 @@
   - 603616
   - 611109
   - 622780
+  - 626713
   - 722394
   - 722863
   start: 2026-11-16T16:35:00Z
@@ -1074,6 +1135,7 @@
   - 598064
   - 612945
   - 620580
+  - 626714
   - 676920
   - 678805
   start: 2026-11-16T17:30:00Z
@@ -1101,6 +1163,7 @@
   - 599869
   - 612959
   - 621160
+  - 626813
   - 676930
   - 678849
   start: 2026-11-16T18:00:00Z
@@ -1123,6 +1186,7 @@
   - 599870
   - 612960
   - 621161
+  - 626814
   - 676931
   - 678850
   start: 2026-11-16T18:18:00Z
@@ -1144,6 +1208,7 @@
   - 599871
   - 612961
   - 621162
+  - 626815
   - 676932
   - 678851
   start: 2026-11-16T18:20:00Z
@@ -1170,6 +1235,7 @@
   - 599872
   - 612962
   - 621163
+  - 626816
   - 676933
   - 678852
   start: 2026-11-16T19:00:00Z
@@ -1186,7 +1252,9 @@
 
     Die "Tagesschau" bietet die wichtigsten Nachrichten des Tages und zusätzliche Informationen in Text, Bild, Audio und Video sowie umfassende Berichte und Hintergründe zu aktuellen Themen und Entwicklungen.
     HD-Produktion
-- eventId: 540215
+- eventId:
+  - 540215
+  - 626817
   start: 2026-11-16T19:15:00Z
   stop: 2026-11-16T20:05:00Z
   title: Wildes Alaska - Frühlingserwachen
@@ -1201,7 +1269,9 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 540216
+- eventId:
+  - 540216
+  - 626818
   start: 2026-11-16T20:05:00Z
   stop: 2026-11-16T20:55:00Z
   title: Wildes Alaska - Sommerfrische
@@ -1216,7 +1286,9 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 540217
+- eventId:
+  - 540217
+  - 626819
   start: 2026-11-16T20:55:00Z
   stop: 2026-11-16T21:45:00Z
   title: Wildes Alaska - Eiswelten
@@ -1239,6 +1311,7 @@
   - 600256
   - 613034
   - 621396
+  - 626832
   - 676941
   - 678874
   start: 2026-11-16T21:45:00Z
@@ -1264,6 +1337,7 @@
   - 600257
   - 613035
   - 621397
+  - 626833
   - 676942
   - 678875
   start: 2026-11-16T23:10:00Z
@@ -1290,6 +1364,7 @@
   - 600258
   - 613036
   - 621398
+  - 626834
   - 676943
   - 678876
   start: 2026-11-16T23:40:00Z

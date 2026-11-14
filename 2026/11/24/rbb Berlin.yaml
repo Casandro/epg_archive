@@ -4,6 +4,7 @@
   - 564011
   - 568180
   - 588409
+  - 627318
   - 628315
   - 678561
   - 763501
@@ -22,6 +23,7 @@
   - 564012
   - 568181
   - 588410
+  - 627319
   - 628316
   - 678562
   - 763502
@@ -41,6 +43,7 @@
   - 564013
   - 568182
   - 588411
+  - 627320
   - 628317
   - 678563
   - 763503
@@ -59,6 +62,7 @@
   - 564014
   - 568183
   - 588412
+  - 627321
   - 628318
   - 678564
   - 763504
@@ -76,6 +80,7 @@
   - 564015
   - 568184
   - 588413
+  - 627322
   - 628319
   - 678565
   - 763505
@@ -87,11 +92,32 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6aceace7abe20a3de53f0165
-- eventId: 588414
+- eventId:
+  - 588414
+  - 627323
   start: 2026-11-24T02:30:00Z
   stop: 2026-11-24T04:00:00Z
   title: DER TAG in Berlin & Brandenburg
   subtitle: mit rbb24, Sport und Wetter
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 547707
+  - 552809
+  - 554510
+  - 568744
+  - 576445
+  - 592211
+  - 610414
+  - 627687
+  - 713377
+  - 770730
+  start: 2026-11-24T04:00:00Z
+  stop: 2026-11-24T04:30:00Z
+  title: Kiez & Kaffee - Berlin am Morgen
+  episodeUri: crid://onid-1/e/6aceace5e4fbbbf64979088f
   widescreen: true
   subtitled: true
   hd: true
@@ -114,6 +140,24 @@
   audiodesc: true
   episodeUri: crid://onid-1/e/6aceace7abe20a3de53f0161
 - eventId:
+  - 547708
+  - 552810
+  - 568745
+  - 576446
+  - 592212
+  - 610415
+  - 627688
+  - 770731
+  start: 2026-11-24T04:30:00Z
+  stop: 2026-11-24T05:00:00Z
+  title: HEIMATJOURNAL
+  subtitle: Heute aus Brandenburg - Klosterfelde
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  episodeUri: crid://onid-1/e/6aceace5e4fbbbf64979088d
+- eventId:
   - 548123
   - 548270
   - 564203
@@ -130,6 +174,27 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6aceace7abe20a3de53f015f
+- eventId:
+  - 547709
+  - 552811
+  - 554512
+  - 568746
+  - 576447
+  - 592213
+  - 610416
+  - 627689
+  - 713379
+  - 770732
+  start: 2026-11-24T05:00:00Z
+  stop: 2026-11-24T07:00:00Z
+  title: Heiter bis tödlich - Hauptstadtrevier (8/32)
+  subtitle: rbb 88.8 und mehr
+  episodeUri: crid://onid-1/e/6aceace5e4fbbbf64979088b
+  ageRating: 6
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 548124
   - 548271
@@ -148,7 +213,9 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6aceaea5e4fbbbf6497909b0
-- eventId: 588914
+- eventId:
+  - 588914
+  - 627986
   start: 2026-11-24T07:00:00Z
   stop: 2026-11-24T07:30:00Z
   title: rbb24 Brandenburg aktuell
@@ -156,7 +223,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 588915
+- eventId:
+  - 588915
+  - 627987
   start: 2026-11-24T07:30:00Z
   stop: 2026-11-24T08:00:00Z
   title: rbb24 Abendschau
@@ -171,6 +240,7 @@
   - 588916
   - 610925
   - 624189
+  - 627988
   - 678679
   - 763558
   start: 2026-11-24T08:00:00Z
@@ -190,6 +260,7 @@
   - 588917
   - 610926
   - 624190
+  - 627989
   - 678680
   - 763559
   start: 2026-11-24T08:45:00Z
@@ -208,6 +279,7 @@
   - 571219
   - 591819
   - 611305
+  - 619824
   - 624291
   - 678717
   - 763583
@@ -227,6 +299,7 @@
   - 571220
   - 591820
   - 611306
+  - 619825
   - 624292
   - 678718
   - 763584
@@ -245,6 +318,7 @@
   - 571221
   - 591821
   - 611307
+  - 619826
   - 624293
   - 678719
   - 763585
@@ -266,6 +340,7 @@
   - 571222
   - 591822
   - 611308
+  - 619827
   - 624294
   - 678720
   - 763586
@@ -286,6 +361,7 @@
   - 565799
   - 570760
   - 589388
+  - 620061
   - 678772
   - 763609
   start: 2026-11-24T12:40:00Z
@@ -322,6 +398,7 @@
   - 565800
   - 570761
   - 589389
+  - 620062
   - 624373
   - 678773
   - 763610
@@ -341,6 +418,7 @@
   - 566769
   - 589601
   - 624468
+  - 628061
   start: 2026-11-24T15:00:00Z
   stop: 2026-11-24T15:15:00Z
   title: rbb24
@@ -353,6 +431,7 @@
   - 566770
   - 589602
   - 624469
+  - 628062
   start: 2026-11-24T15:15:00Z
   stop: 2026-11-24T16:05:00Z
   title: In aller Freundschaft - Die jungen Ärzte (164)
@@ -367,6 +446,7 @@
   - 566771
   - 589603
   - 624470
+  - 628063
   start: 2026-11-24T16:05:00Z
   stop: 2026-11-24T16:53:00Z
   title: Panda, Gorilla & Co. (267)
@@ -380,6 +460,7 @@
   - 566772
   - 589604
   - 624471
+  - 628064
   start: 2026-11-24T16:53:00Z
   stop: 2026-11-24T17:00:00Z
   title: Unser Sandmännchen
@@ -403,6 +484,7 @@
   - 600386
   - 607558
   - 624472
+  - 628065
   - 678855
   - 762124
   - 763632
@@ -422,6 +504,7 @@
   - 563030
   - 567050
   - 572174
+  - 621085
   - 624613
   - 678924
   - 763707
@@ -437,6 +520,7 @@
 - eventId:
   - 563031
   - 567051
+  - 621086
   - 624614
   start: 2026-11-24T18:30:00Z
   stop: 2026-11-24T19:00:00Z
@@ -461,6 +545,7 @@
 - eventId:
   - 563032
   - 567052
+  - 621087
   - 624615
   start: 2026-11-24T19:00:00Z
   stop: 2026-11-24T19:15:00Z
@@ -473,6 +558,7 @@
 - eventId:
   - 563033
   - 567053
+  - 621088
   - 624616
   start: 2026-11-24T19:15:00Z
   stop: 2026-11-24T20:15:00Z
@@ -496,12 +582,18 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6aceace6abe20a3de53f0137
+- eventId: 621089
+  start: 2026-11-24T20:15:00Z
+  stop: 2026-11-24T20:45:00Z
+  title: Böllern extrem!
+  subtitled: true
 - eventId:
   - 550414
   - 550930
   - 563035
   - 567055
   - 572179
+  - 621090
   - 624618
   - 678929
   - 763712
@@ -521,6 +613,7 @@
   - 572426
   - 602868
   - 614068
+  - 621580
   - 624717
   - 634330
   - 678995
@@ -540,6 +633,7 @@
   - 551206
   - 563466
   - 567780
+  - 621581
   - 624718
   - 678996
   - 763745
@@ -570,6 +664,7 @@
 - eventId:
   - 563467
   - 567781
+  - 621582
   - 624719
   start: 2026-11-24T23:10:00Z
   stop: 2026-11-25T00:25:00Z

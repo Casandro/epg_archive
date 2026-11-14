@@ -1,6 +1,7 @@
 - eventId:
   - 564005
   - 574465
+  - 621920
   - 624811
   - 753703
   - 754252
@@ -13,6 +14,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ad787d2b201547b35cd60cb
+  description: Die Nachrichtensendung täglich um 19.30 Uhr im rbb Fernsehen für das gesamte Bundesland Brandenburg. Mit Berichten aus Politik, Gesellschaft, Kultur und Sport. Das Wichtigste des Tages aus Brandenburg in 30 Minuten.
 - eventId:
   - 554555
   - 572648
@@ -26,7 +28,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 564006
+- eventId:
+  - 564006
+  - 621921
   start: 2026-11-25T01:10:00Z
   stop: 2026-11-25T01:55:00Z
   title: Wildes Deutschland
@@ -35,20 +39,6 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 574466
-  - 624812
-  - 753704
-  - 754253
-  start: 2026-11-25T01:10:00Z
-  stop: 2026-11-25T01:55:00Z
-  title: Die Greifensteine - Verwunschene Riesen im Erzgebirge
-  subtitled: true
-  widescreen: true
-  hd: true
-  audiodesc: true
-  episodeUri: crid://onid-1/e/6acffe6fb84d69779c006366
-  subtitle: Die Müritz
 - eventId:
   - 554556
   - 572649
@@ -94,25 +84,17 @@
   hd: true
   audiodesc: true
   description: Bevor der Zoologische Garten täglich seine Tore öffnet, haben auch die Tierpfleger im Streichelzoo alle Hände voll zu tun! So sollen zum Beispiel die beiden Zwergeselinnen Grisella und Rosa auf ihre neue Anlage umziehen und das möglichst noch bevor die Besucher kommen! Tierpfleger Mario Barabasz hat sich für die Esel-Überführung extra Verstärkung dazu geholt. Alle hoffen, dass die Aktion reibungslos von statten geht.
-- eventId:
-  - 574467
-  - 624813
-  - 753705
-  - 754254
+- eventId: 621922
   start: 2026-11-25T01:55:00Z
   stop: 2026-11-25T02:05:00Z
   title: Berliner Nächte - Herbst
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  episodeUri: crid://onid-1/e/6acffe6fb84d69779c006362
 - eventId:
   - 564008
   - 568177
   - 571197
   - 592613
   - 610554
+  - 621923
   - 628312
   - 716854
   start: 2026-11-25T02:05:00Z
@@ -131,20 +113,6 @@
     * Familientreffen im Seepark
     * Eisenbahnen aus dem 3D-Drucker
 - eventId:
-  - 574468
-  - 624814
-  - 836414
-  - 836520
-  start: 2026-11-25T02:05:00Z
-  stop: 2026-11-25T02:30:00Z
-  title: Heimatjournal
-  subtitle: Heute aus Brandenburg - Klosterfelde
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  episodeUri: crid://onid-1/e/6af1d7c6a30e013da9240a65
-- eventId:
   - 547815
   - 554558
   - 564009
@@ -154,6 +122,7 @@
   - 574469
   - 592614
   - 610555
+  - 621924
   - 624815
   - 628313
   - 635710
@@ -176,6 +145,7 @@
   - 573580
   - 574695
   - 624945
+  - 628116
   - 658976
   - 707323
   start: 2026-11-25T04:00:00Z
@@ -192,6 +162,7 @@
   - 573581
   - 574696
   - 624946
+  - 628117
   - 658977
   - 707324
   start: 2026-11-25T04:30:00Z
@@ -208,6 +179,7 @@
   - 573582
   - 574697
   - 624947
+  - 628118
   - 658978
   - 707325
   start: 2026-11-25T05:00:00Z
@@ -224,6 +196,7 @@
   - 555120
   - 564930
   - 574937
+  - 622260
   - 625072
   - 658997
   - 707373
@@ -269,6 +242,7 @@
   - 540340
   - 555121
   - 574938
+  - 622261
   - 625073
   - 658998
   - 707374
@@ -302,6 +276,7 @@
   - 540341
   - 555122
   - 574939
+  - 622262
   - 625074
   - 658999
   - 707375
@@ -314,6 +289,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6acffe6fb84d69779c006352
+  ageRating: 6
 - eventId:
   - 1403286
   - 1590651
@@ -348,6 +324,7 @@
   - 540342
   - 555123
   - 574940
+  - 622263
   - 625075
   - 659000
   - 707376
@@ -360,6 +337,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6acffe6fb84d69779c006350
+  ageRating: 12
 - eventId:
   - 1006811
   - 540824
@@ -367,6 +345,7 @@
   - 556410
   - 565406
   - 567844
+  - 622440
   - 625205
   - 659024
   - 689854
@@ -390,6 +369,7 @@
   - 555304
   - 556411
   - 567845
+  - 622441
   - 625206
   - 659025
   - 689855
@@ -422,6 +402,7 @@
   - 555305
   - 565408
   - 567846
+  - 622442
   - 625207
   - 659026
   - 707431
@@ -440,6 +421,7 @@
   - 555306
   - 565409
   - 567847
+  - 622443
   - 625208
   - 659027
   - 707432
@@ -455,6 +437,7 @@
 - eventId:
   - 541170
   - 568121
+  - 622636
   - 625314
   - 659050
   - 707572
@@ -506,13 +489,14 @@
 - eventId:
   - 541171
   - 568122
+  - 622637
   - 625315
   - 659051
   - 707573
   start: 2026-11-25T13:30:00Z
   stop: 2026-11-25T15:00:00Z
   title: Annas Geheimnis
-  subtitle: Spielfilm Deutschland 2008
+  subtitle: Fernsehfilm Deutschland 2008
   genre:
   - '16'
   widescreen: true
@@ -520,6 +504,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6acffe6fb84d69779c006344
+  ageRating: 6
 - eventId:
   - 542116
   - 546411
@@ -582,6 +567,11 @@
   audiodesc: true
   ageRating: 6
   description: 'Der Speditionsfahrer Max will mit seiner schwangeren Freundin eine Familie gründen, erhält aber ausgerechnet jetzt wegen einer Lappalie die fristlose Kündigung: Ein klarer Fall für Florian Faber, doch der sozial engagierte Anwalt erlebt eine herbe Überraschung. Als Max vor Gericht von einer Zeugin schwer belastet wird, stellt sich heraus, dass er seinen Anwalt belogen hat. Die Klage des jungen Mannes auf Wiedereinstellung wird abgewiesen - eine bittere Niederlage für Florian. Glücklicherweise verfolgt seine Lebensgefährtin, die Reporterin Sarah, den Prozess als Beobachterin.'
+- eventId: 622827
+  start: 2026-11-25T15:00:00Z
+  stop: 2026-11-25T15:15:00Z
+  title: rbb24
+  subtitled: true
 - eventId:
   - 549167
   - 553217
@@ -589,6 +579,7 @@
   - 566409
   - 594860
   - 607705
+  - 622828
   - 625771
   - 713393
   - 770760
@@ -626,6 +617,12 @@
   hd: true
   audiodesc: true
   ageRating: 6
+- eventId: 622829
+  start: 2026-11-25T16:05:00Z
+  stop: 2026-11-25T16:53:00Z
+  title: Panda, Gorilla & Co. (268)
+  subtitle: Geschichten aus dem Zoo Berlin und dem Tierpark Berlin
+  subtitled: true
 - eventId:
   - 549170
   - 553219
@@ -645,10 +642,19 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ad14fe17dac5fbdf823b485
+- eventId: 622830
+  start: 2026-11-25T16:53:00Z
+  stop: 2026-11-25T17:00:00Z
+  title: Unser Sandmännchen
+  subtitle: 'Jan und Henry: Der Affe im Segelflugzeug'
+  genre:
+  - '16'
+  subtitled: true
 - eventId:
   - 549171
   - 553220
   - 566412
+  - 622831
   - 625774
   - 691375
   - 734004
@@ -668,6 +674,7 @@
   - 562906
   - 566993
   - 569302
+  - 623031
   - 625609
   - 659108
   - 707826
@@ -685,6 +692,7 @@
   - 562907
   - 566994
   - 569303
+  - 623032
   - 625610
   - 659109
   - 707827
@@ -713,6 +721,7 @@
 - eventId:
   - 566995
   - 569304
+  - 623033
   - 625611
   - 659110
   - 670135
@@ -733,6 +742,7 @@
   - 562909
   - 566996
   - 569305
+  - 623034
   - 625612
   - 659111
   - 707829
@@ -750,6 +760,7 @@
   - 562910
   - 566997
   - 569306
+  - 623035
   - 625613
   - 659112
   - 707830
@@ -767,6 +778,7 @@
   - 562911
   - 566998
   - 569307
+  - 623036
   - 625614
   - 659113
   - 707831
@@ -783,6 +795,7 @@
   - 565060
   - 567675
   - 569596
+  - 623207
   - 627361
   - 659145
   - 708018
@@ -800,6 +813,7 @@
   - 565061
   - 567676
   - 569597
+  - 623208
   - 627362
   - 659146
   - 708019
@@ -839,6 +853,14 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6aededce52730d21180292d8
+- eventId: 623209
+  start: 2026-11-25T23:45:00Z
+  stop: 2026-11-26T01:15:00Z
+  title: 'Russland: Der Wahrheit verpflichtet'
+  subtitle: Deutschland 2022
+  genre:
+  - '128'
+  subtitled: true
 - eventId:
   - 569599
   - 627364

@@ -7,6 +7,7 @@
   - 564001
   - 609719
   - 624666
+  - 625356
   - 626181
   - 689366
   start: 2026-11-19T00:10:00Z
@@ -21,6 +22,7 @@
 - eventId:
   - 554295
   - 564002
+  - 625357
   - 626182
   start: 2026-11-19T01:40:00Z
   stop: 2026-11-19T02:05:00Z
@@ -39,6 +41,7 @@
   - 564003
   - 609721
   - 624668
+  - 625358
   - 626183
   - 689368
   start: 2026-11-19T02:05:00Z
@@ -73,6 +76,7 @@
 - eventId:
   - 554297
   - 564004
+  - 625359
   - 626184
   start: 2026-11-19T02:30:00Z
   stop: 2026-11-19T03:05:00Z
@@ -83,25 +87,6 @@
   hd: true
   audiodesc: true
   description: Erleben Sie eindrucksvolle Landschaftsaufnahmen, begleitet von Musik. Ohne Sprache und Kommentare - nur Bilder, die wirken dürfen.
-- eventId:
-  - 1006756
-  - 540025
-  - 555763
-  - 559775
-  - 572621
-  - 579812
-  - 609798
-  - 624734
-  - 626257
-  - 689666
-  start: 2026-11-19T03:05:00Z
-  stop: 2026-11-19T03:35:00Z
-  title: MDR SACHSENSPIEGEL
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: Aktuelle Bilder und Informationen aus Politik und Wirtschaft, aus Wissenschaft, Kultur und Sport aus dem Freistaat Sachsen.
 - eventId:
   - 547915
   - 564131
@@ -121,25 +106,12 @@
   hd: true
   audiodesc: true
   description: Aktuelle Bilder und Informationen aus Politik und Wirtschaft, aus Wissenschaft, Kultur und Sport aus dem Freistaat Sachsen.
-- eventId:
-  - 1006757
-  - 540026
-  - 555764
-  - 559776
-  - 572622
-  - 579813
-  - 609799
-  - 624735
-  - 626258
-  - 689667
-  start: 2026-11-19T03:35:00Z
-  stop: 2026-11-19T04:05:00Z
-  title: MDR SACHSEN-ANHALT HEUTE
-  widescreen: true
+- eventId: 625500
+  start: 2026-11-19T03:05:00Z
+  stop: 2026-11-19T03:35:00Z
+  title: MDR SACHSENSPIEGEL
+  description: Aktuelle Bilder und Informationen aus Politik und Wirtschaft, aus Wissenschaft, Kultur und Sport aus dem Freistaat Sachsen.
   subtitled: true
-  hd: true
-  audiodesc: true
-  description: '"MDR SACHSEN-ANHALT HEUTE" liefert Nachrichten aus Politik, Wirtschaft, Wissenschaft, Kultur und Sport aus dem Bundesland.'
 - eventId:
   - 564132
   - 628294
@@ -152,25 +124,12 @@
   hd: true
   audiodesc: true
   description: '"MDR SACHSEN-ANHALT HEUTE" liefert Nachrichten aus Politik, Wirtschaft, Wissenschaft, Kultur und Sport aus dem Bundesland.'
-- eventId:
-  - 1006758
-  - 540027
-  - 555765
-  - 559777
-  - 572623
-  - 579814
-  - 609800
-  - 624736
-  - 626259
-  - 689668
-  start: 2026-11-19T04:05:00Z
-  stop: 2026-11-19T04:35:00Z
-  title: MDR THÜRINGEN JOURNAL
-  widescreen: true
+- eventId: 625501
+  start: 2026-11-19T03:35:00Z
+  stop: 2026-11-19T04:05:00Z
+  title: MDR SACHSEN-ANHALT HEUTE
+  description: '"MDR SACHSEN-ANHALT HEUTE" liefert Nachrichten aus Politik, Wirtschaft, Wissenschaft, Kultur und Sport aus dem Bundesland.'
   subtitled: true
-  hd: true
-  audiodesc: true
-  description: Das "MDR THÜRINGEN JOURNAL" liefert aktuelle Nachrichten, den Sport und das Wetter aus Thüringen. Regionale News zu Politik, Wirtschaft und Kultur. Täglich 19:00 Uhr im MDR Fernsehen, auf MDR.de und bei Facebook.
 - eventId:
   - 564133
   - 628295
@@ -183,26 +142,12 @@
   hd: true
   audiodesc: true
   description: Das "MDR THÜRINGEN JOURNAL" liefert aktuelle Nachrichten, den Sport und das Wetter aus Thüringen. Regionale News zu Politik, Wirtschaft und Kultur. Täglich 19:00 Uhr im MDR Fernsehen, auf MDR.de und bei Facebook.
-- eventId:
-  - 1006759
-  - 540028
-  - 555766
-  - 559778
-  - 572624
-  - 579815
-  - 609801
-  - 624737
-  - 626260
-  - 689669
-  start: 2026-11-19T04:35:00Z
-  stop: 2026-11-19T05:25:00Z
-  title: Rote Rosen (1882)
-  subtitle: Deutschland 2014
-  widescreen: true
+- eventId: 625502
+  start: 2026-11-19T04:05:00Z
+  stop: 2026-11-19T04:35:00Z
+  title: MDR THÜRINGEN JOURNAL
+  description: Das "MDR THÜRINGEN JOURNAL" liefert aktuelle Nachrichten, den Sport und das Wetter aus Thüringen. Regionale News zu Politik, Wirtschaft und Kultur. Täglich 19:00 Uhr im MDR Fernsehen, auf MDR.de und bei Facebook.
   subtitled: true
-  hd: true
-  audiodesc: true
-  description: Der Streit zwischen Thomas und Gunter eskaliert. Die gegenseitigen Vorwürfe liegen zunehmend unterhalb der Gürtellinie und beide leiden gleichermaßen darunter. Als Gunter mit einer Klage droht, sucht Thomas verzweifelt eine Lösung, die dem Jagdschloss und dem Naturschutzgebiet gerecht wird.
 - eventId:
   - 547918
   - 564134
@@ -222,35 +167,20 @@
   hd: true
   audiodesc: true
   description: Der Streit zwischen Thomas und Gunter eskaliert. Die gegenseitigen Vorwürfe liegen zunehmend unterhalb der Gürtellinie und beide leiden gleichermaßen darunter. Als Gunter mit einer Klage droht, sucht Thomas verzweifelt eine Lösung, die dem Jagdschloss und dem Naturschutzgebiet gerecht wird.
-- eventId:
-  - 1006760
-  - 540029
-  - 547998
-  - 555767
-  - 559779
-  - 564135
-  - 569096
-  - 572625
-  - 579816
-  - 609802
-  - 624738
-  - 626261
-  - 628297
-  - 678557
-  - 689670
-  - 763526
+- eventId: 625503
+  start: 2026-11-19T04:35:00Z
+  stop: 2026-11-19T05:25:00Z
+  title: Rote Rosen (1882)
+  subtitle: Deutschland 2014
+  description: Der Streit zwischen Thomas und Gunter eskaliert. Die gegenseitigen Vorwürfe liegen zunehmend unterhalb der Gürtellinie und beide leiden gleichermaßen darunter. Als Gunter mit einer Klage droht, sucht Thomas verzweifelt eine Lösung, die dem Jagdschloss und dem Naturschutzgebiet gerecht wird.
+  subtitled: true
+- eventId: 625504
   start: 2026-11-19T05:25:00Z
   stop: 2026-11-19T06:15:00Z
   title: Sturm der Liebe (1669)
   subtitle: Deutschland 2012
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   description: Natascha fühlt sich von Konstantin zunehmend vernachlässigt, weil er sich intensiv auf die Barkeeper-Meisterschaft vorbereitet.
-  ageRating: 12
-  genre:
-  - '16'
+  subtitled: true
 - eventId:
   - 540690
   - 552260
@@ -283,7 +213,9 @@
   audiodesc: true
   subtitle: Deutschland 2026
   description: Jess organisiert heimlich eine Schatzsuche, um Lou und Daniel wieder zusammenzubringen. Dabei kommen sich die Beiden wieder näher. Im Kloster Ilme werden sie versehentlich eingesperrt, doch eine Tür öffnet sich nur für wahrhaft Liebende. Als sie diese gemeinsam öffnen können, wird ihnen klar, dass sie sich noch immer lieben!
-- eventId: 626355
+- eventId:
+  - 624807
+  - 626355
   start: 2026-11-19T06:15:00Z
   stop: 2026-11-19T07:05:00Z
   title: Rote Rosen (4423)
@@ -322,7 +254,9 @@
   audiodesc: true
   subtitle: Deutschland 2026
   description: Larissa ist geschockt, als ihr gekündigt wird. Fritz stellt Nachforschungen zu Marek an. Emilia erkennt über ein Date mit Marek, dass sie sich wieder öffnen kann. Sinan ist erleichtert, dass Fernando doch ein ehrenwerter Chef zu sein scheint.
-- eventId: 626356
+- eventId:
+  - 624808
+  - 626356
   start: 2026-11-19T07:05:00Z
   stop: 2026-11-19T07:55:00Z
   title: Sturm der Liebe (4676)
@@ -350,6 +284,7 @@
   description: Karin Patzelts Lebensgefährte Frank Boger bringt eine junge Frau in die Notaufnahme. Es ist Franks Tochter Finja, deren Gesundheit ernshaft gefährdet ist. Karin ist fassungslos und konfrontiert Frank mit seiner Vergangenheit. Doch dann kommt es zu einem Streit und Finja ist verschwunden. Währenddessen kümmern sich Mikko und Matteo um einen Hausmann, der dringend etwas Selbstbewusstsein und Anerkennung für seine tägliche Care-Arbeit braucht.
 - eventId:
   - 564345
+  - 624809
   - 626357
   - 700554
   - 707957
@@ -370,6 +305,7 @@
   - 564346
   - 579989
   - 609895
+  - 624810
   - 624834
   - 626358
   - 691613
@@ -409,7 +345,9 @@
     Gäste: Jessica Schwarz, Josefine Preuß
 
     Bei Esther Sedlaczek treten Prominente zu einem außergewöhnlichen Duell an. Um zu gewinnen, müssen die Stars die drei superschlauen "Quizduell"-Profis Marie-Louise Finck, Eckard Freise und Thorsten Zirkel schlagen.
-- eventId: 564504
+- eventId:
+  - 564504
+  - 625930
   start: 2026-11-19T09:35:00Z
   stop: 2026-11-19T09:58:00Z
   title: Elefant, Tiger & Co. (511)
@@ -424,7 +362,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 564505
+- eventId:
+  - 564505
+  - 625931
   start: 2026-11-19T09:58:00Z
   stop: 2026-11-19T10:00:00Z
   title: MDR aktuell
@@ -433,7 +373,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 564506
+- eventId:
+  - 564506
+  - 625932
   start: 2026-11-19T10:00:00Z
   stop: 2026-11-19T10:45:00Z
   title: In aller Freundschaft (1012)
@@ -453,6 +395,7 @@
   - 564631
   - 612395
   - 624947
+  - 625933
   - 626741
   - 689850
   start: 2026-11-19T10:45:00Z
@@ -474,6 +417,7 @@
   - 564632
   - 612396
   - 624948
+  - 625934
   - 626742
   - 689851
   start: 2026-11-19T11:30:00Z
@@ -490,6 +434,7 @@
 - eventId:
   - 558413
   - 564662
+  - 626134
   - 627866
   start: 2026-11-19T12:58:00Z
   stop: 2026-11-19T13:00:00Z
@@ -502,6 +447,7 @@
 - eventId:
   - 558414
   - 564663
+  - 626135
   - 627867
   start: 2026-11-19T13:00:00Z
   stop: 2026-11-19T13:25:00Z
@@ -514,6 +460,7 @@
 - eventId:
   - 558415
   - 564664
+  - 626136
   - 627868
   start: 2026-11-19T13:25:00Z
   stop: 2026-11-19T14:15:00Z
@@ -527,6 +474,7 @@
 - eventId:
   - 558416
   - 564665
+  - 626137
   - 627869
   start: 2026-11-19T14:15:00Z
   stop: 2026-11-19T15:00:00Z
@@ -542,6 +490,7 @@
   - 558899
   - 564806
   - 610180
+  - 626251
   - 627939
   start: 2026-11-19T15:00:00Z
   stop: 2026-11-19T15:30:00Z
@@ -557,6 +506,7 @@
   - 558900
   - 564807
   - 610181
+  - 626252
   - 627940
   start: 2026-11-19T15:30:00Z
   stop: 2026-11-19T16:00:00Z
@@ -575,6 +525,7 @@
   - 558901
   - 564808
   - 610182
+  - 626253
   - 627941
   start: 2026-11-19T16:00:00Z
   stop: 2026-11-19T16:45:00Z
@@ -590,6 +541,7 @@
   - 558902
   - 564809
   - 610183
+  - 626254
   - 627942
   start: 2026-11-19T16:45:00Z
   stop: 2026-11-19T17:05:00Z
@@ -604,6 +556,7 @@
   - 558903
   - 564810
   - 610184
+  - 626255
   - 627943
   start: 2026-11-19T17:05:00Z
   stop: 2026-11-19T17:10:00Z
@@ -619,6 +572,7 @@
   - 558904
   - 564811
   - 610185
+  - 626256
   - 627944
   start: 2026-11-19T17:10:00Z
   stop: 2026-11-19T17:54:00Z
@@ -628,6 +582,26 @@
   hd: true
   audiodesc: true
   description: 'BRISANT ist das Infotainment-Magazin der ARD und erzählt die Geschichten des Lebens aus aller Welt: Nachrichten, Hintergründe, Reportagen über den Klimawandel, Service, Trends, Lifestyle und Neuigkeiten von Prominenten.'
+- eventId:
+  - 1006756
+  - 540025
+  - 555763
+  - 559775
+  - 572621
+  - 579812
+  - 609798
+  - 624734
+  - 626257
+  - 689666
+  start: 2026-11-19T17:54:00Z
+  stop: 2026-11-19T18:00:00Z
+  title: MDR SACHSENSPIEGEL
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Jeden Tag die neueste Gute-Nacht-Geschichte vom Sandmännchen. Entdecke auch die Videos von Pittiplatsch, Jan & Henry und anderen Freunden des Sandmanns!
+  subtitle: Dr. Brumm lässt einen Drachen steigen
 - eventId:
   - 542984
   - 558905
@@ -643,7 +617,9 @@
   hd: true
   audiodesc: true
   description: Jeden Tag die neueste Gute-Nacht-Geschichte vom Sandmännchen. Entdecke auch die Videos von Pittiplatsch, Jan & Henry und anderen Freunden des Sandmanns!
-- eventId: 565002
+- eventId:
+  - 565002
+  - 626451
   start: 2026-11-19T18:00:00Z
   stop: 2026-11-19T18:30:00Z
   title: MDR THÜRINGEN JOURNAL
@@ -652,7 +628,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 565003
+- eventId:
+  - 565003
+  - 626452
   start: 2026-11-19T18:30:00Z
   stop: 2026-11-19T18:50:00Z
   title: MDR aktuell
@@ -662,7 +640,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 565004
+- eventId:
+  - 565004
+  - 626453
   start: 2026-11-19T18:50:00Z
   stop: 2026-11-19T19:15:00Z
   title: Thomas Junker unterwegs - Von Freiberg in die Welt (4)
@@ -672,7 +652,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 565005
+- eventId:
+  - 565005
+  - 626454
   start: 2026-11-19T19:15:00Z
   stop: 2026-11-19T20:15:00Z
   title: Visite
@@ -682,7 +664,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 565006
+- eventId:
+  - 565006
+  - 626455
   start: 2026-11-19T20:15:00Z
   stop: 2026-11-19T20:45:00Z
   title: Die wunderbaren Welten des Christian Steyer
@@ -694,7 +678,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 565007
+- eventId:
+  - 565007
+  - 626456
   start: 2026-11-19T20:45:00Z
   stop: 2026-11-19T21:10:00Z
   title: MDR aktuell
@@ -713,6 +699,7 @@
   - 568045
   - 592515
   - 610461
+  - 626695
   - 628209
   - 691564
   start: 2026-11-19T21:10:00Z
@@ -747,6 +734,7 @@
   - 568046
   - 592516
   - 610462
+  - 626696
   - 628210
   - 691565
   start: 2026-11-19T21:40:00Z
@@ -783,6 +771,7 @@
   - 568047
   - 592517
   - 610463
+  - 626697
   - 628211
   - 659139
   - 691566
@@ -820,6 +809,7 @@
   audiodesc: true
 - eventId:
   - 565193
+  - 626698
   - 688697
   - 688714
   start: 2026-11-19T23:25:00Z
@@ -864,6 +854,7 @@
   audiodesc: true
 - eventId:
   - 565194
+  - 626699
   - 688698
   - 688715
   start: 2026-11-19T23:55:00Z

@@ -348,19 +348,36 @@
   stop: 2026-11-14T17:30:00Z
   title: METEO
   subtitle: .
+- eventId: 638504
+  start: 2026-11-14T17:30:00Z
+  stop: 2026-11-14T18:00:00Z
+  title: SERA 24
+  subtitle: .
 - eventId: 722207
   start: 2026-11-14T17:30:00Z
   stop: 2026-11-14T18:00:00Z
   title: SPOTLIGHT
   subtitle: .
-- eventId: 722218
+- eventId:
+  - 638432
+  - 722218
   start: 2026-11-14T18:00:00Z
   stop: 2026-11-14T18:30:00Z
   title: TG EDIZIONE PRINCIPALE
   subtitle: .
+- eventId: 638911
+  start: 2026-11-14T18:30:00Z
+  stop: 2026-11-14T18:45:00Z
+  title: SERA 24 OFF
+  subtitle: .
 - eventId: 722219
   start: 2026-11-14T18:30:00Z
   stop: 2026-11-14T18:45:00Z
+  title: RULLO SPORT 24
+  subtitle: .
+- eventId: 638912
+  start: 2026-11-14T18:45:00Z
+  stop: 2026-11-14T19:00:00Z
   title: RULLO SPORT 24
   subtitle: .
 - eventId: 722220
@@ -368,27 +385,40 @@
   stop: 2026-11-14T19:00:00Z
   title: CENTRAL PARK WEST
   subtitle: .
-- eventId: 722221
+- eventId:
+  - 638913
+  - 722221
   start: 2026-11-14T19:00:00Z
   stop: 2026-11-14T19:26:47Z
   title: TG LIS + TG SERA
   subtitle: .
-- eventId: 765414
+- eventId:
+  - 638914
+  - 765414
   start: 2026-11-14T19:26:47Z
   stop: 2026-11-14T19:30:00Z
   title: METEO
+  subtitle: .
+- eventId: 638915
+  start: 2026-11-14T19:30:00Z
+  stop: 2026-11-14T19:44:22Z
+  title: SOMMARIO + TG SERA
   subtitle: .
 - eventId: 722222
   start: 2026-11-14T19:30:00Z
   stop: 2026-11-14T19:44:22Z
   title: TUTTI I FRUTTI EXTRA LARGE
   subtitle: .
-- eventId: 765415
+- eventId:
+  - 638916
+  - 765415
   start: 2026-11-14T19:44:22Z
   stop: 2026-11-14T20:00:00Z
   title: RUBRICA SUPERCINEMA + LA VIA DEI LIBRI
   subtitle: .
-- eventId: 722223
+- eventId:
+  - 638917
+  - 722223
   start: 2026-11-14T20:00:00Z
   stop: 2026-11-14T20:30:00Z
   title: TITOLI + TG SERA
@@ -398,17 +428,23 @@
   stop: 2026-11-14T20:30:00Z
   title: GLI IMPERDIBILI
   subtitle: .
-- eventId: 722225
+- eventId:
+  - 638918
+  - 722225
   start: 2026-11-14T20:30:00Z
   stop: 2026-11-14T20:45:00Z
   title: WORLD 24 - I REPORTAGE DI RAINEWS24
   subtitle: .
-- eventId: 765416
+- eventId:
+  - 638919
+  - 765416
   start: 2026-11-14T20:45:00Z
   stop: 2026-11-14T21:00:00Z
   title: TUTTIFRUTTI
   subtitle: .
-- eventId: 722231
+- eventId:
+  - 639020
+  - 722231
   start: 2026-11-14T21:00:00Z
   stop: 2026-11-14T21:30:00Z
   title: TITOLI + TG SERA
@@ -418,12 +454,19 @@
   stop: 2026-11-14T21:30:00Z
   title: DOCUMENTARIO
   subtitle: .
+- eventId: 639021
+  start: 2026-11-14T21:30:00Z
+  stop: 2026-11-14T22:00:00Z
+  title: AMARCORD
+  subtitle: .
 - eventId: 722233
   start: 2026-11-14T21:30:00Z
   stop: 2026-11-14T22:00:00Z
   title: DOCUMENTARIO
   subtitle: .
-- eventId: 722234
+- eventId:
+  - 639022
+  - 722234
   start: 2026-11-14T22:00:00Z
   stop: 2026-11-14T22:30:00Z
   title: NOTTE 24 - RASSEGNA STAMPA
@@ -433,12 +476,16 @@
   stop: 2026-11-14T22:30:00Z
   title: RASSEGNA STAMPA
   subtitle: .
-- eventId: 722236
+- eventId:
+  - 639023
+  - 722236
   start: 2026-11-14T22:30:00Z
   stop: 2026-11-14T23:00:00Z
   title: NOTTE 24 - RASSEGNA STAMPA
   subtitle: .
-- eventId: 722237
+- eventId:
+  - 639024
+  - 722237
   start: 2026-11-14T23:00:00Z
   stop: 2026-11-14T23:27:00Z
   title: TG EDIZIONE PRINCIPALE CON GERENZA
@@ -447,10 +494,17 @@
   start: 2026-11-14T23:26:00Z
   stop: 2026-11-14T23:30:00Z
   title: METEO AM
-- eventId: 765419
+- eventId:
+  - 639025
+  - 765419
   start: 2026-11-14T23:27:00Z
   stop: 2026-11-14T23:30:00Z
   title: METEO
+  subtitle: .
+- eventId: 639026
+  start: 2026-11-14T23:30:00Z
+  stop: 2026-11-15T00:00:00Z
+  title: AMARCORD
   subtitle: .
 - eventId: 722239
   start: 2026-11-14T23:30:00Z

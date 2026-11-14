@@ -8,6 +8,7 @@
   - 594680
   - 602743
   - 608335
+  - 620655
   - 624000
   - 763323
   - 956343
@@ -30,6 +31,7 @@
   - 572641
   - 602744
   - 608336
+  - 620656
   - 624001
   - 624806
   - 763324
@@ -54,6 +56,7 @@
   - 572642
   - 602745
   - 608337
+  - 620657
   - 624002
   - 624807
   - 763325
@@ -77,6 +80,7 @@
   - 572643
   - 602746
   - 608338
+  - 620658
   - 624003
   - 624808
   - 763326
@@ -99,6 +103,7 @@
   - 572644
   - 602747
   - 608339
+  - 620659
   - 624004
   - 624809
   - 763327
@@ -121,6 +126,7 @@
   - 572645
   - 602748
   - 608340
+  - 620660
   - 624005
   - 624810
   - 763328
@@ -144,6 +150,7 @@
   - 573570
   - 603082
   - 608467
+  - 621400
   - 624129
   - 624937
   - 763355
@@ -166,6 +173,7 @@
   - 573571
   - 603083
   - 608468
+  - 621401
   - 624130
   - 624938
   - 763356
@@ -188,6 +196,7 @@
   - 573572
   - 603084
   - 608469
+  - 621402
   - 624131
   - 624939
   - 763357
@@ -202,7 +211,9 @@
   hd: true
   audiodesc: true
   description: 'Radio zum Zugucken und ein exklusiver Live-Blick auf die zentralen Orte der Stadt: Mit ''Guten Morgen Berlin'' bringt der rbb sein erfolgreiches Radioprogramm rbb 88.8 ins Fernsehen. Immer montags bis freitags wird die Morgensendung des Senders übertragen, ergänzt um Live-Bilder aus der Stadt, Service-Grafiken und Nachrichtenschlagzeilen. Dazu gibt es live Einblicke in das Studio.'
-- eventId: 567147
+- eventId:
+  - 567147
+  - 621914
   start: 2026-11-17T07:00:00Z
   stop: 2026-11-17T07:30:00Z
   title: rbb24 Brandenburg aktuell
@@ -219,6 +230,7 @@
   - 592755
   - 600030
   - 608620
+  - 621915
   - 624281
   - 625064
   - 763387
@@ -232,7 +244,9 @@
   hd: true
   audiodesc: true
   description: 'Jeden Abend gibt es von uns das Wichtigste aus Politik, Kultur, Wirtschaft und Sport, die Szene-Trends und die Kiezgeschichten. Kurz: "Wir sind ein Berliner" - Die rbb24 Abendschau hat den Berlin-Blick: Nah an den Menschen und ihren Geschichten, rau aber herzlich. Immer um 19:30 Uhr. Egal wann etwas passiert, die rbb24 Abendschau ist dabei.'
-- eventId: 567149
+- eventId:
+  - 567149
+  - 621916
   start: 2026-11-17T08:00:00Z
   stop: 2026-11-17T08:45:00Z
   title: In aller Freundschaft (668)
@@ -276,6 +290,7 @@
   - 592757
   - 600032
   - 608622
+  - 621917
   - 624283
   - 625066
   - 763389
@@ -305,6 +320,7 @@
   - 600352
   - 600877
   - 608757
+  - 622103
   - 625198
   - 763420
   - 787901
@@ -334,6 +350,7 @@
   - 600353
   - 600878
   - 608758
+  - 622104
   - 625199
   - 763421
   - 787902
@@ -366,6 +383,7 @@
   - 600354
   - 600879
   - 608759
+  - 622105
   - 625200
   - 763422
   - 787903
@@ -404,6 +422,7 @@
   - 592960
   - 600355
   - 608760
+  - 622106
   - 625201
   - 763423
   - 956485
@@ -429,6 +448,7 @@
   - 582006
   - 600639
   - 608859
+  - 622380
   - 625308
   - 763451
   - 787701
@@ -471,6 +491,7 @@
   - 582007
   - 600640
   - 608860
+  - 622381
   - 625309
   - 763452
   - 956955
@@ -493,6 +514,7 @@
   - 557592
   - 582152
   - 608997
+  - 622590
   - 625443
   start: 2026-11-17T15:00:00Z
   stop: 2026-11-17T15:15:00Z
@@ -504,25 +526,6 @@
   description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Berlin und Brandenburg und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
   episodeUri: crid://onid-1/e/6ac5725155a7c79709f508fc
 - eventId:
-  - 550033
-  - 555187
-  - 556299
-  - 567646
-  - 608443
-  - 624110
-  - 625974
-  - 713449
-  - 770879
-  start: 2026-11-17T15:00:00Z
-  stop: 2026-11-17T15:15:00Z
-  title: rbb24 Abendschau
-  episodeUri: crid://onid-1/e/6aceaea5c602003e618c9392
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Berlin und Brandenburg und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
-- eventId:
   - 541675
   - 547660
   - 555188
@@ -532,6 +535,7 @@
   - 582153
   - 608444
   - 608998
+  - 622591
   - 624111
   - 625444
   - 713450
@@ -559,6 +563,7 @@
   - 600996
   - 608999
   - 614072
+  - 622592
   - 625445
   - 763480
   - 956553
@@ -573,26 +578,6 @@
   audiodesc: true
   description: "Seit einigen Wochen teilt sich das einjährige Puma-Mädchen Missoula mit der gleichaltrigen Java-Leopardin Sri Kandi stundenweise ein Gehege. Missoula ist eine seltene Montana-Puma-Zuchtkatze, die im Tierpark von Hand aufgezogen wurde. Von der Java-Leopardin soll Missoula vor allen Dingen \"Katzenverhalten\" lernen. Doch Sri Kandi ist die neue Gesellschaft noch nicht geheuer! \nAußerdem in dieser Folge: Morgenritual bei Gorilla Ivo, ein Eiweiß-Snack für die Bartaffen, schmackhaftes Spielzeug für Elefantenkind Anchali und ein ungewöhnlicher Haarschneidetermin bei Orang-Utan Enche."
 - eventId:
-  - 550035
-  - 555189
-  - 556301
-  - 567648
-  - 608445
-  - 624112
-  - 625976
-  - 713451
-  - 770881
-  start: 2026-11-17T16:05:00Z
-  stop: 2026-11-17T16:53:00Z
-  title: Geheimnisse Asiens - Die schönsten Nationalparks
-  subtitle: Geschichten aus dem Zoo Berlin und dem Tierpark Berlin
-  episodeUri: crid://onid-1/e/6aceace5e4fbbbf649790873
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: "Seit einigen Wochen teilt sich das einjährige Puma-Mädchen Missoula mit der gleichaltrigen Java-Leopardin Sri Kandi stundenweise ein Gehege. Missoula ist eine seltene Montana-Puma-Zuchtkatze, die im Tierpark von Hand aufgezogen wurde. Von der Java-Leopardin soll Missoula vor allen Dingen \"Katzenverhalten\" lernen. Doch Sri Kandi ist die neue Gesellschaft noch nicht geheuer! \nAußerdem in dieser Folge: Morgenritual bei Gorilla Ivo, ein Eiweiß-Snack für die Bartaffen, schmackhaftes Spielzeug für Elefantenkind Anchali und ein ungewöhnlicher Haarschneidetermin bei Orang-Utan Enche."
-- eventId:
   - 541677
   - 547662
   - 557595
@@ -601,6 +586,7 @@
   - 600997
   - 609000
   - 614073
+  - 622593
   - 625446
   - 763481
   - 956554
@@ -617,59 +603,11 @@
     Der Hund auf meiner Schmusedecke hat ein Problem: Er hat Flöhe! Werden seine Freunde eine Lösung finden und ihm helfen können?
 
     Jeden Tag die neueste Gute-Nacht-Geschichte vom Sandmännchen. Entdecke auch die Videos von Pittiplatsch, Jan & Henry und anderen Freunden des Sandmanns!
-- eventId:
-  - 550036
-  - 555190
-  - 556302
-  - 567649
-  - 608446
-  - 624113
-  - 625977
-  - 713452
-  - 770882
-  start: 2026-11-17T16:53:00Z
-  stop: 2026-11-17T17:00:00Z
-  title: Die Greifensteine - Verwunschene Riesen im Erzgebirge
-  episodeUri: crid://onid-1/e/6aceace5e4fbbbf649790871
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  subtitle: 'Meine Schmusedecke: Der Hund'
-  description: |-
-    Der Hund auf meiner Schmusedecke hat ein Problem: Er hat Flöhe! Werden seine Freunde eine Lösung finden und ihm helfen können?
-
-    Jeden Tag die neueste Gute-Nacht-Geschichte vom Sandmännchen. Entdecke auch die Videos von Pittiplatsch, Jan & Henry und anderen Freunden des Sandmanns!
-- eventId:
-  - 541678
-  - 547663
-  - 550037
-  - 555191
-  - 556303
-  - 557596
-  - 567650
-  - 572432
-  - 582156
-  - 600998
-  - 608447
-  - 609001
-  - 614074
-  - 624114
-  - 625447
-  - 625978
-  - 713453
-  - 763482
-  - 770883
-  - 956555
+- eventId: 622594
   start: 2026-11-17T17:00:00Z
   stop: 2026-11-17T18:27:00Z
   title: DER TAG in Berlin & Brandenburg
   subtitle: mit rbb24, Sport und Wetter
-  episodeUri: crid://onid-1/e/6ac5725155a7c79709f508f4
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   description: |-
     Themen:
     * Live vor Ort: Borgsdorf/Oberhavel (BB) - u.a. Bürgerini Bahnübergang, Sportverein
@@ -677,6 +615,7 @@
     * *WS Stand-Up "Berlin, bitte lachen!" (B) - Heute: Maria Clara Goppler
     * Making of "So schmeckt Berlin" (B) - Blick hinter die Kulissen anlässlich der Buchpremiere
     * HörBus Nahost (B) - Projekt bringt Schüler*innen ins Gespräch über Israel und Palästina
+  subtitled: true
 - eventId:
   - 542285
   - 547842
@@ -686,6 +625,7 @@
   - 601341
   - 609146
   - 614676
+  - 622874
   - 625596
   - 763673
   - 956594
@@ -719,6 +659,7 @@
   - 601342
   - 609147
   - 614677
+  - 622875
   - 625597
   - 763674
   - 956595
@@ -756,6 +697,7 @@
   - 601343
   - 609148
   - 614678
+  - 622876
   - 625598
   - 763675
   - 956596
@@ -793,6 +735,7 @@
   - 601344
   - 609149
   - 614679
+  - 622877
   - 625599
   - 763676
   - 956597
@@ -815,6 +758,7 @@
   - 601345
   - 609150
   - 614680
+  - 622878
   - 625600
   - 763677
   - 956598
@@ -833,6 +777,7 @@
   - 562898
   - 567863
   - 609151
+  - 622879
   - 625601
   start: 2026-11-17T20:45:00Z
   stop: 2026-11-17T21:15:00Z
@@ -872,6 +817,7 @@
   - 582454
   - 601835
   - 609279
+  - 623163
   - 627354
   - 763765
   - 956640
@@ -934,6 +880,7 @@
   - 582455
   - 601836
   - 609280
+  - 623164
   - 627355
   - 763766
   - 956641
@@ -977,6 +924,7 @@
   - 582456
   - 601837
   - 609281
+  - 623165
   - 627356
   - 763767
   - 956642
@@ -1007,6 +955,7 @@
   - 601838
   - 603220
   - 609282
+  - 623166
   - 627357
   - 680400
   - 763768

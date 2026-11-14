@@ -1710,15 +1710,8 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 705025
-  start: 2026-11-14T17:30:00Z
-  stop: 2026-11-14T17:50:00Z
-  title: Regionalni dnevnik
-  subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-  ageRating: 4
-  genre:
-  - '32'
 - eventId:
+  - 635196
   - 753509
   - 754756
   - 755162
@@ -1729,6 +1722,14 @@
   title: Regionalni dnevnik
   subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 705025
+  start: 2026-11-14T17:30:00Z
+  stop: 2026-11-14T17:50:00Z
+  title: Regionalni dnevnik
+  subtitle: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
   ageRating: 4
   genre:
   - '32'
@@ -1752,6 +1753,7 @@
   genre:
   - '32'
 - eventId:
+  - 635197
   - 753510
   - 754757
   - 755163
@@ -1781,7 +1783,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 702318
+- eventId:
+  - 635242
+  - 702318
   start: 2026-11-14T17:53:00Z
   stop: 2026-11-14T17:54:00Z
   title: Vrijeme RH sutra
@@ -1790,7 +1794,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 702319
+- eventId:
+  - 635243
+  - 702319
   start: 2026-11-14T17:54:00Z
   stop: 2026-11-14T17:55:00Z
   title: Vrijeme Europa sutra
@@ -1799,13 +1805,8 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 703304
-  start: 2026-11-14T17:55:00Z
-  stop: 2026-11-14T18:00:00Z
-  title: Vrijeme svijet sutra
-  subtitle: ' '
-  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId:
+  - 635244
   - 706314
   - 752296
   - 752715
@@ -1816,6 +1817,12 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 703304
+  start: 2026-11-14T17:55:00Z
+  stop: 2026-11-14T18:00:00Z
+  title: Vrijeme svijet sutra
+  subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 705026
   start: 2026-11-14T17:56:00Z
@@ -1831,6 +1838,14 @@
   title: Vrijeme svijet sutra
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 635245
+  start: 2026-11-14T18:00:00Z
+  stop: 2026-11-14T18:53:00Z
+  title: Dnevnik 2
+  subtitle: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 702321
   start: 2026-11-14T18:00:00Z
   stop: 2026-11-14T18:53:00Z
@@ -1859,6 +1874,7 @@
   subtitle: ' '
   description: Emisija Deutsche Wellea donosi odgovore na pitanje kako živjeti u digitalno doba.
 - eventId:
+  - 635246
   - 702322
   - 752297
   - 752716
@@ -1871,6 +1887,7 @@
   genre:
   - '32'
 - eventId:
+  - 635247
   - 702323
   - 752298
   - 752717
@@ -1882,13 +1899,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 703305
-  start: 2026-11-14T18:55:00Z
-  stop: 2026-11-14T19:00:00Z
-  title: Vrijeme svijet sutra
-  subtitle: ' '
-  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 706315
+- eventId:
+  - 635248
+  - 706315
   start: 2026-11-14T18:55:00Z
   stop: 2026-11-14T19:00:00Z
   title: Vrijeme Svijet sutra
@@ -1896,6 +1909,12 @@
   ageRating: 4
   genre:
   - '32'
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 703305
+  start: 2026-11-14T18:55:00Z
+  stop: 2026-11-14T19:00:00Z
+  title: Vrijeme svijet sutra
+  subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 705028
   start: 2026-11-14T18:56:00Z
@@ -1913,12 +1932,22 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 702326
+- eventId:
+  - 635249
+  - 702326
   start: 2026-11-14T19:00:00Z
   stop: 2026-11-14T19:01:00Z
   title: HAK - promet info
   subtitle: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 635250
+  start: 2026-11-14T19:01:00Z
+  stop: 2026-11-14T19:05:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
@@ -1935,6 +1964,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 635251
+  start: 2026-11-14T19:05:00Z
+  stop: 2026-11-14T19:45:00Z
+  title: Intervju tjedna
+  subtitle: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 702327
   - 752300
@@ -1947,6 +1984,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 635252
+  start: 2026-11-14T19:45:00Z
+  stop: 2026-11-14T20:00:00Z
+  title: 'DW: Shift'
+  subtitle: Emisija Deutsche Wellea donosi odgovore na pitanje kako živjeti u digitalno doba.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 702328
   start: 2026-11-14T19:45:00Z
   stop: 2026-11-14T20:00:00Z
@@ -1956,7 +2001,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 702329
+- eventId:
+  - 635253
+  - 702329
   start: 2026-11-14T20:00:00Z
   stop: 2026-11-14T20:45:00Z
   title: Pregled dana
@@ -2001,6 +2048,7 @@
   subtitle: ' '
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
 - eventId:
+  - 635254
   - 702330
   - 752302
   - 752721
@@ -2024,6 +2072,14 @@
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 635266
+  start: 2026-11-14T21:10:00Z
+  stop: 2026-11-14T21:37:00Z
+  title: Moj izbor BiH
+  subtitle: Seriju Moj izbor BiH nastavljamo s četiri nove epizode.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 747389
   - 747959
@@ -2098,6 +2154,7 @@
   subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId:
+  - 635267
   - 747390
   - 747960
   - 748446
@@ -2137,6 +2194,14 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 635268
+  start: 2026-11-14T21:41:00Z
+  stop: 2026-11-14T21:43:00Z
+  title: HRT100 Vremeplov
+  subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 747391
   - 747961
@@ -2185,6 +2250,7 @@
   genre:
   - '160'
 - eventId:
+  - 635269
   - 747392
   - 747962
   - 748448
@@ -2250,6 +2316,14 @@
   title: Vijesti flash
   subtitle: ' '
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
+- eventId: 635270
+  start: 2026-11-14T22:03:00Z
+  stop: 2026-11-14T22:06:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 747393
   - 747963
@@ -2306,6 +2380,7 @@
   genre:
   - '160'
 - eventId:
+  - 635271
   - 747394
   - 747964
   - 748450
@@ -2345,7 +2420,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 702335
+- eventId:
+  - 635272
+  - 702335
   start: 2026-11-14T22:10:00Z
   stop: 2026-11-14T22:20:00Z
   title: Vijesti na engleskom jeziku
@@ -2367,6 +2444,7 @@
   subtitle: ' '
   description: U emisiji za ljubitelje automobila svaki tjedan predstavljaju se novi modeli automobila, tehnološke inovacije, testiraju nova vozila, donose savjeti o održavanju.
 - eventId:
+  - 635273
   - 702336
   - 752309
   - 752728
@@ -2379,6 +2457,7 @@
   - '32'
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId:
+  - 635274
   - 702337
   - 752310
   - 752729
@@ -2396,6 +2475,14 @@
   title: Regionalni dnevnik
   subtitle: ' '
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
+- eventId: 635275
+  start: 2026-11-14T22:50:00Z
+  stop: 2026-11-14T22:55:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 702338
   - 752311
@@ -2409,6 +2496,7 @@
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
+  - 635276
   - 706322
   - 752312
   - 752731
@@ -2429,6 +2517,7 @@
   genre:
   - '160'
 - eventId:
+  - 635277
   - 702340
   - 752313
   - 752732
@@ -2447,6 +2536,7 @@
   subtitle: ' '
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
 - eventId:
+  - 635278
   - 702341
   - 752314
   - 752733
@@ -2459,6 +2549,7 @@
   - '160'
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
 - eventId:
+  - 635279
   - 702342
   - 752315
   - 752734
@@ -2471,6 +2562,7 @@
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
+  - 635280
   - 702343
   - 752316
   - 752735
@@ -2482,7 +2574,9 @@
   genre:
   - '160'
   description: U emisiji za ljubitelje automobila svaki tjedan predstavljaju se novi modeli automobila, tehnološke inovacije, testiraju nova vozila, donose savjeti o održavanju.
-- eventId: 706323
+- eventId:
+  - 635281
+  - 706323
   start: 2026-11-14T23:48:00Z
   stop: 2026-11-15T00:06:00Z
   title: Regionalni dnevnik

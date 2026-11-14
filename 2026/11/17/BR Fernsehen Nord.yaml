@@ -17,6 +17,7 @@
   - 609079
   - 610404
   - 613940
+  - 621043
   - 624049
   - 624857
   - 713505
@@ -49,6 +50,7 @@
   - 609080
   - 610405
   - 613941
+  - 621044
   - 624050
   - 624858
   - 713506
@@ -66,6 +68,15 @@
   audiodesc: true
   description: Die Nachrichten der ARD
   subtitle: Lust auf Heimat
+- eventId: 621045
+  start: 2026-11-17T02:10:00Z
+  stop: 2026-11-17T02:40:00Z
+  title: Frankenschau aktuell
+- eventId: 621046
+  start: 2026-11-17T02:40:00Z
+  stop: 2026-11-17T03:10:00Z
+  title: Abendschau - Der Süden
+  subtitle: Das Wichtigste aus Südbayern
 - eventId:
   - 552746
   - 591910
@@ -79,7 +90,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 574132
+- eventId:
+  - 574132
+  - 621583
   start: 2026-11-17T03:10:00Z
   stop: 2026-11-17T03:40:00Z
   title: Abendschau
@@ -92,6 +105,7 @@
 - eventId:
   - 574133
   - 580869
+  - 621584
   - 625009
   start: 2026-11-17T03:40:00Z
   stop: 2026-11-17T04:30:00Z
@@ -112,6 +126,7 @@
   - 596201
   - 603132
   - 614060
+  - 621585
   - 624202
   - 625010
   - 763374
@@ -129,6 +144,7 @@
 - eventId:
   - 574135
   - 580871
+  - 621586
   - 625011
   start: 2026-11-17T05:00:00Z
   stop: 2026-11-17T05:30:00Z
@@ -142,6 +158,7 @@
 - eventId:
   - 574136
   - 580872
+  - 621587
   - 625012
   start: 2026-11-17T05:30:00Z
   stop: 2026-11-17T06:20:00Z
@@ -165,29 +182,11 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 574252
-  - 580983
-  - 584970
-  - 587330
-  - 589795
-  - 596532
-  - 600070
-  - 608686
-  - 614186
-  - 625134
-  - 957487
+- eventId: 621986
   start: 2026-11-17T06:20:00Z
   stop: 2026-11-17T06:35:00Z
   title: Tele-Gym (2/8)
   subtitle: Gesund & schön - funktionelles Figurtraining
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  genre:
-  - '144'
-  description: Dieses kurzweilige, effektive Gesundheits- und Figurtraining legt sehr viel Wert auf die Stärkung der tiefen Muskulatur. Eine gut trainierte Tiefenmuskulatur stabilisiert und schützt die Gelenke bei jeder Bewegung. Durch das Training verbessert sich die Haltung, das Lungenvolumen wird vergrößert, Schultern gestärkt, Taille und Gesäß geformt und Bauch und Oberschenkel gestrafft. Das funktionelle Training ist abwechslungsreich, schult alle Sinne und sorgt dafür, reaktionsschnell und wach zu bleiben. Eine stabile und feste Mitte sorgt für sicheres und selbstbewusstes Auftreten.
 - eventId:
   - 552954
   - 574253
@@ -200,6 +199,7 @@
   - 600071
   - 608687
   - 614187
+  - 621987
   - 625135
   - 763404
   - 955918
@@ -244,6 +244,7 @@
   - 600072
   - 608688
   - 614188
+  - 621988
   - 625136
   - 957489
   start: 2026-11-17T08:00:00Z
@@ -269,6 +270,7 @@
   - 600073
   - 608689
   - 614189
+  - 621989
   - 625137
   - 763406
   - 955920
@@ -292,6 +294,7 @@
   - 600074
   - 608690
   - 614190
+  - 621990
   - 625138
   - 763407
   - 957491
@@ -414,6 +417,7 @@
   - 608819
   - 614318
   - 625269
+  - 628123
   - 763443
   - 957523
   start: 2026-11-17T11:50:00Z
@@ -428,6 +432,7 @@
 - eventId:
   - 574578
   - 581274
+  - 622434
   - 625381
   start: 2026-11-17T12:35:00Z
   stop: 2026-11-17T13:25:00Z
@@ -442,6 +447,7 @@
 - eventId:
   - 574579
   - 581275
+  - 622435
   - 625382
   start: 2026-11-17T13:25:00Z
   stop: 2026-11-17T14:10:00Z
@@ -474,6 +480,7 @@
 - eventId:
   - 574580
   - 581276
+  - 622436
   - 625383
   start: 2026-11-17T14:10:00Z
   stop: 2026-11-17T15:00:00Z
@@ -512,6 +519,7 @@
   - 597173
   - 601044
   - 615112
+  - 622685
   - 625527
   - 763488
   - 957578
@@ -540,6 +548,7 @@
   - 604913
   - 609069
   - 615113
+  - 622686
   - 625528
   - 763489
   - 790640
@@ -564,6 +573,7 @@
   - 601046
   - 609070
   - 615114
+  - 622687
   - 625529
   - 763490
   - 957580
@@ -586,6 +596,7 @@
   - 601047
   - 609071
   - 615115
+  - 622688
   - 625530
   - 763491
   - 957581
@@ -608,6 +619,7 @@
   - 601048
   - 609072
   - 615116
+  - 622689
   - 625531
   - 763492
   - 957582
@@ -629,6 +641,7 @@
   - 601457
   - 609228
   - 615249
+  - 622977
   - 625684
   - 763695
   - 957610
@@ -650,6 +663,7 @@
   - 601458
   - 609229
   - 615250
+  - 622978
   - 625685
   - 763696
   - 957611
@@ -672,6 +686,7 @@
   - 601459
   - 609230
   - 615251
+  - 622979
   - 625686
   - 763697
   - 957612
@@ -695,6 +710,7 @@
   - 601460
   - 609231
   - 615252
+  - 622980
   - 625687
   - 763698
   - 957613
@@ -720,6 +736,7 @@
   - 601461
   - 609232
   - 615253
+  - 622981
   - 625688
   - 763699
   - 957614
@@ -742,6 +759,7 @@
   - 601926
   - 613326
   - 615342
+  - 623182
   - 627406
   - 763784
   - 957631
@@ -765,6 +783,7 @@
   - 601927
   - 613327
   - 615343
+  - 623183
   - 627407
   - 763785
   - 957632
@@ -799,6 +818,7 @@
   - 601928
   - 613328
   - 615344
+  - 623184
   - 627408
   - 637172
   - 717073

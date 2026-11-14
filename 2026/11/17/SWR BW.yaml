@@ -3,6 +3,7 @@
   - 603430
   - 608348
   - 612265
+  - 620856
   - 624820
   start: 2026-11-17T00:15:00Z
   stop: 2026-11-17T00:45:00Z
@@ -18,6 +19,7 @@
   - 603431
   - 608349
   - 612266
+  - 620857
   - 624821
   start: 2026-11-17T00:45:00Z
   stop: 2026-11-17T01:35:00Z
@@ -33,6 +35,7 @@
   - 603432
   - 608350
   - 612267
+  - 620858
   - 624822
   start: 2026-11-17T01:35:00Z
   stop: 2026-11-17T03:25:00Z
@@ -55,6 +58,7 @@
   - 603494
   - 608483
   - 614083
+  - 621431
   - 624145
   - 624954
   - 628159
@@ -76,6 +80,7 @@
   - 603495
   - 608484
   - 614084
+  - 621432
   - 624146
   - 624955
   - 628160
@@ -97,6 +102,7 @@
   - 603496
   - 608485
   - 614085
+  - 621433
   - 624147
   - 624956
   - 628161
@@ -118,6 +124,7 @@
   - 603497
   - 608486
   - 614086
+  - 621434
   - 624148
   - 624957
   - 628162
@@ -138,6 +145,7 @@
   - 603563
   - 608632
   - 612359
+  - 621929
   - 625081
   start: 2026-11-17T06:55:00Z
   stop: 2026-11-17T08:00:00Z
@@ -152,6 +160,7 @@
   - 603564
   - 608633
   - 612360
+  - 621930
   - 625082
   start: 2026-11-17T08:00:00Z
   stop: 2026-11-17T09:20:00Z
@@ -169,6 +178,7 @@
   - 603637
   - 608772
   - 612403
+  - 622116
   - 625212
   - 628299
   - 763424
@@ -191,6 +201,7 @@
   - 603638
   - 608773
   - 612404
+  - 622117
   - 625213
   - 628300
   - 763425
@@ -213,6 +224,7 @@
   - 603639
   - 608774
   - 612405
+  - 622118
   - 625214
   - 628301
   - 763426
@@ -244,6 +256,7 @@
   - 603640
   - 608775
   - 612406
+  - 622119
   - 625215
   - 628302
   - 763427
@@ -271,6 +284,7 @@
   - 603641
   - 608776
   - 612407
+  - 622120
   - 625216
   - 628303
   - 763428
@@ -295,6 +309,7 @@
   - 603698
   - 608871
   - 612459
+  - 622382
   - 625318
   - 628362
   - 633829
@@ -317,6 +332,7 @@
   - 603699
   - 608872
   - 612460
+  - 622383
   - 625319
   - 628363
   - 633830
@@ -342,6 +358,7 @@
   - 603787
   - 612505
   - 614111
+  - 622599
   - 625463
   - 628460
   - 633986
@@ -363,6 +380,7 @@
   - 603788
   - 612506
   - 614112
+  - 622600
   - 625464
   - 628461
   - 633987
@@ -383,6 +401,7 @@
   - 603789
   - 612507
   - 614113
+  - 622601
   - 625465
   - 628462
   - 633988
@@ -410,6 +429,7 @@
   - 603790
   - 612508
   - 614114
+  - 622602
   - 625466
   - 628463
   - 633989
@@ -431,6 +451,7 @@
   - 603791
   - 612509
   - 614115
+  - 622603
   - 625467
   - 628464
   - 633990
@@ -458,6 +479,7 @@
   - 603792
   - 612510
   - 614116
+  - 622604
   - 625468
   - 628465
   - 633991
@@ -476,6 +498,7 @@
   - 603793
   - 612511
   - 614117
+  - 622605
   - 625469
   start: 2026-11-17T17:10:00Z
   stop: 2026-11-17T18:30:00Z
@@ -492,6 +515,7 @@
   - 603892
   - 609170
   - 612568
+  - 622880
   - 625622
   - 628567
   - 634235
@@ -513,6 +537,7 @@
   - 603893
   - 609171
   - 612569
+  - 622881
   - 625623
   - 628568
   - 634236
@@ -533,6 +558,7 @@
   - 603894
   - 609172
   - 612570
+  - 622882
   - 625624
   - 628569
   - 634237
@@ -556,6 +582,7 @@
   - 603895
   - 609173
   - 612571
+  - 622883
   - 625625
   - 628570
   - 634238
@@ -577,6 +604,7 @@
   - 603896
   - 609174
   - 612572
+  - 622884
   - 625626
   - 628571
   - 634239
@@ -598,6 +626,7 @@
   - 603897
   - 609175
   - 612573
+  - 622885
   - 625627
   - 628572
   - 634240
@@ -611,114 +640,37 @@
   hd: true
   audiodesc: true
   description: SWR Aktuell informiert über die aktuelle Nachrichtenlage.
-- eventId:
-  - 581569
-  - 582471
-  - 600001
-  - 601895
-  - 603969
-  - 609296
-  - 612641
-  - 627368
-  - 628651
-  - 634416
-  - 763769
-  - 956288
+- eventId: 623167
   start: 2026-11-17T21:00:00Z
   stop: 2026-11-17T21:30:00Z
   title: Comedy Scheune
   subtitle: Apotheke / Bad
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   description: 'Intervallfasten, Männerschnupfen und Ehemänner, die nur auf den letzten Drücker in die Gänge kommen: beste Comedy-Unterhaltung. Während "Elsbeth Gscheidle" verzweifelt versucht, ihren Mann "Alois" zu motivieren, hat "Apothekerin Hillu" mit einem besonders anspruchsvollen Kunden zu kämpfen. Brandneue Folgen mit viel schwäbischem Humor.'
-- eventId:
-  - 581570
-  - 582472
-  - 600002
-  - 601896
-  - 603970
-  - 609297
-  - 612642
-  - 627369
-  - 628652
-  - 634417
-  - 763770
-  - 956289
+  subtitled: true
+- eventId: 623168
   start: 2026-11-17T21:30:00Z
   stop: 2026-11-17T22:00:00Z
   title: Heinrich del Core live
   subtitle: Ach jee...
-  ageRating: 6
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   description: Opa werden ist nicht schwer. Bevor das Enkelkind da ist, gönnen sich Heinrich del Core und seine Frau Urlaub in Südfrankreich. Statt Erholung liegt eine zwei Meter lange Schlange im Ferienhaus. Und seine Frau hat eine Schlangenphobie. In seinem neuen Programm "Juhuu, meine Frau wird Oma" schlängelt sich der Comedian durch Themen wie Globuli aus Mutterkuchen, vegane Hochzeiten oder Unterwäschekauf.
-- eventId:
-  - 581571
-  - 582473
-  - 600003
-  - 601897
-  - 603971
-  - 609298
-  - 612643
-  - 627370
-  - 628653
-  - 634418
-  - 763771
-  - 956290
+  ageRating: 6
+  subtitled: true
+- eventId: 623169
   start: 2026-11-17T22:00:00Z
   stop: 2026-11-17T22:45:00Z
   title: Gregor Pallast in kabarett.com
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   description: Mit seinem vierten Soloprogramm kehrt Gregor Pallast auf die Kabarettbühnen zurück - dorthin, wo der politische Witz noch Haltung hat und die Pointe nicht beim ersten Applaus aufgibt.
-- eventId:
-  - 581572
-  - 582474
-  - 600004
-  - 601898
-  - 603972
-  - 609299
-  - 612644
-  - 627371
-  - 628654
-  - 634419
-  - 763772
-  - 956291
+- eventId: 623170
   start: 2026-11-17T22:45:00Z
   stop: 2026-11-17T23:30:00Z
   title: Nuhr im Ersten
   subtitle: 'Moderation: Dieter Nuhr'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  ageRating: 12
   description: Skandale, der Irrwitz des Alltags - Dieter Nuhr lässt sich nichts entgehen, was er humorvoll sezieren oder mit beißend scharfen Worten kommentieren kann. Heute Abend sind Lisa Eckhart, Andreas Reber und Olaf Schubert seine Gäste.
-- eventId:
-  - 581573
-  - 582475
-  - 600005
-  - 601899
-  - 603973
-  - 609300
-  - 612645
-  - 627372
-  - 628655
-  - 634420
-  - 763773
-  - 956292
+  subtitled: true
+- eventId: 623171
   start: 2026-11-17T23:30:00Z
   stop: 2026-11-18T00:00:00Z
   title: Comedy Scheune
   subtitle: Apotheke / Bad
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   description: 'Intervallfasten, Männerschnupfen und Ehemänner, die nur auf den letzten Drücker in die Gänge kommen: beste Comedy-Unterhaltung. Während "Elsbeth Gscheidle" verzweifelt versucht, ihren Mann "Alois" zu motivieren, hat "Apothekerin Hillu" mit einem besonders anspruchsvollen Kunden zu kämpfen. Brandneue Folgen mit viel schwäbischem Humor.'
+  subtitled: true

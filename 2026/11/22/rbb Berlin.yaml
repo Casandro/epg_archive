@@ -6,6 +6,7 @@
   - 570658
   - 582883
   - 607309
+  - 623456
   - 627445
   - 713293
   - 770514
@@ -25,6 +26,7 @@
   - 570659
   - 582884
   - 607310
+  - 623457
   - 627446
   - 713294
   - 770515
@@ -44,6 +46,7 @@
   - 570660
   - 582885
   - 607311
+  - 623458
   - 627447
   - 770516
   start: 2026-11-22T02:20:00Z
@@ -75,6 +78,7 @@
   - 570661
   - 582886
   - 607312
+  - 623459
   - 627448
   - 713296
   - 770517
@@ -93,6 +97,7 @@
   - 568304
   - 574541
   - 609625
+  - 623584
   - 624581
   - 627520
   - 713316
@@ -113,6 +118,7 @@
   - 568305
   - 574542
   - 609626
+  - 623585
   - 624582
   - 627521
   - 713317
@@ -132,6 +138,7 @@
   - 568306
   - 574543
   - 609627
+  - 623586
   - 624583
   - 627522
   - 713318
@@ -151,6 +158,7 @@
   - 568307
   - 574544
   - 609628
+  - 623587
   - 624584
   - 627523
   - 713319
@@ -171,6 +179,7 @@
   - 568308
   - 574545
   - 609629
+  - 623588
   - 624585
   - 627524
   - 713320
@@ -191,6 +200,7 @@
   - 568309
   - 574546
   - 609630
+  - 623589
   - 624586
   - 627525
   - 713321
@@ -207,6 +217,7 @@
   - 547173
   - 568546
   - 578159
+  - 623762
   start: 2026-11-22T06:30:00Z
   stop: 2026-11-22T07:00:00Z
   title: Luzyca
@@ -220,6 +231,7 @@
   - 547174
   - 568547
   - 578160
+  - 623763
   start: 2026-11-22T07:00:00Z
   stop: 2026-11-22T07:30:00Z
   title: rbb24 Brandenburg aktuell
@@ -236,6 +248,7 @@
   - 577804
   - 578161
   - 609996
+  - 623764
   - 624935
   - 713347
   - 770587
@@ -251,6 +264,7 @@
   - 547176
   - 568549
   - 578162
+  - 623765
   start: 2026-11-22T08:00:00Z
   stop: 2026-11-22T09:30:00Z
   title: Reiterhof Wildenstein - Der Junge und das Pferd
@@ -263,43 +277,11 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6aceace5e4fbbbf649790891
-- eventId:
-  - 547707
-  - 552809
-  - 554510
-  - 568744
-  - 576445
-  - 592211
-  - 610414
-  - 627687
-  - 713377
-  - 770730
+- eventId: 624152
   start: 2026-11-22T09:30:00Z
   stop: 2026-11-22T11:00:00Z
   title: Kiez & Kaffee - Berlin am Morgen
-  episodeUri: crid://onid-1/e/6aceace5e4fbbbf64979088f
-  widescreen: true
   subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
-  - 547708
-  - 552810
-  - 568745
-  - 576446
-  - 592212
-  - 610415
-  - 627688
-  - 770731
-  start: 2026-11-22T11:00:00Z
-  stop: 2026-11-22T11:25:00Z
-  title: HEIMATJOURNAL
-  subtitle: Heute aus Brandenburg - Klosterfelde
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  episodeUri: crid://onid-1/e/6aceace5e4fbbbf64979088d
 - eventId:
   - 554511
   - 713378
@@ -312,28 +294,21 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 547709
-  - 552811
-  - 554512
-  - 568746
-  - 576447
-  - 592213
-  - 610416
-  - 627689
-  - 713379
-  - 770732
+- eventId: 624153
+  start: 2026-11-22T11:00:00Z
+  stop: 2026-11-22T11:25:00Z
+  title: HEIMATJOURNAL
+  subtitle: Heute aus Brandenburg - Klosterfelde
+- eventId: 624154
   start: 2026-11-22T11:25:00Z
   stop: 2026-11-22T12:15:00Z
   title: Heiter bis tödlich - Hauptstadtrevier (8/32)
   subtitle: Der Partner
-  episodeUri: crid://onid-1/e/6aceace5e4fbbbf64979088b
-  ageRating: 6
-  widescreen: true
+  ageRating: 12
   subtitled: true
-  hd: true
-  audiodesc: true
-- eventId: 568947
+- eventId:
+  - 568947
+  - 624572
   start: 2026-11-22T12:15:00Z
   stop: 2026-11-22T13:45:00Z
   title: Besuch für Emma
@@ -345,7 +320,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 568948
+- eventId:
+  - 568948
+  - 624573
   start: 2026-11-22T13:45:00Z
   stop: 2026-11-22T15:15:00Z
   title: Sterben ist auch keine Lösung
@@ -378,6 +355,22 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 554562
+  - 572655
+  - 574473
+  - 624819
+  - 773060
+  - 816944
+  start: 2026-11-22T15:15:00Z
+  stop: 2026-11-22T16:05:00Z
+  title: In aller Freundschaft - Die jungen Ärzte (417)
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  episodeUri: crid://onid-1/e/6ad938f3795963bd0a910689
+  subtitle: Bindungen
+- eventId:
   - 549482
   - 554925
   - 556032
@@ -385,6 +378,7 @@
   - 590268
   - 597603
   - 608071
+  - 624820
   - 625852
   - 713417
   - 770811
@@ -405,6 +399,7 @@
   - 590269
   - 597604
   - 608072
+  - 624821
   - 625853
   - 713418
   - 770812
@@ -425,6 +420,7 @@
   - 590270
   - 597605
   - 608073
+  - 624822
   - 625854
   - 713419
   - 770813
@@ -445,6 +441,7 @@
   - 590271
   - 597606
   - 608074
+  - 624823
   - 625855
   - 713420
   - 770814
@@ -465,6 +462,7 @@
   - 590272
   - 597607
   - 608075
+  - 624824
   - 625856
   - 713421
   - 770815
@@ -477,47 +475,19 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 550031
-  - 555185
-  - 556297
-  - 567644
-  - 590530
-  - 608441
-  - 624108
-  - 625972
-  - 713447
-  - 770877
+- eventId: 625032
   start: 2026-11-22T18:00:00Z
   stop: 2026-11-22T18:27:00Z
   title: Täter - Opfer - Polizei
   subtitle: Der rbb Kriminalreport mit Uwe Madel
-  episodeUri: crid://onid-1/e/6aceace5e4fbbbf649790879
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
-  - 550032
-  - 555186
-  - 556298
-  - 567645
-  - 590531
-  - 608442
-  - 624109
-  - 625973
-  - 713448
-  - 770878
+- eventId: 625033
   start: 2026-11-22T18:27:00Z
   stop: 2026-11-22T18:30:00Z
   title: rbb wetter
   subtitle: Die Wetteraussichten für Berlin und Brandenburg
-  episodeUri: crid://onid-1/e/6aceaea5c602003e618c9394
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId: 590532
+- eventId:
+  - 590532
+  - 625034
   start: 2026-11-22T18:30:00Z
   stop: 2026-11-22T19:00:00Z
   title: rbb24 Abendschau
@@ -525,25 +495,14 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 550034
-  - 590533
-  - 625975
-  - 669675
-  - 669689
-  - 681456
-  - 725268
+- eventId: 625035
   start: 2026-11-22T19:00:00Z
   stop: 2026-11-22T19:15:00Z
   title: Tagesschau
-  episodeUri: crid://onid-1/e/6aceace5e4fbbbf649790875
-  genre:
-  - '32'
-  widescreen: true
   subtitled: true
-  hd: true
-  audiodesc: true
-- eventId: 590534
+- eventId:
+  - 590534
+  - 625036
   start: 2026-11-22T19:15:00Z
   stop: 2026-11-22T20:00:00Z
   title: Geheimnisse Asiens - Die schönsten Nationalparks
@@ -552,7 +511,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 590535
+- eventId:
+  - 590535
+  - 625037
   start: 2026-11-22T20:00:00Z
   stop: 2026-11-22T20:45:00Z
   title: Wildes Deutschland
@@ -561,7 +522,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 590536
+- eventId:
+  - 590536
+  - 625038
   start: 2026-11-22T20:45:00Z
   stop: 2026-11-22T21:00:00Z
   title: rbb24 mit Sport
@@ -581,6 +544,7 @@
   - 582022
   - 590786
   - 608894
+  - 625228
   - 626112
   - 713484
   - 761827
@@ -659,6 +623,7 @@
   - 582023
   - 590787
   - 608895
+  - 625229
   - 626113
   - 713485
   - 771625
@@ -681,6 +646,7 @@
   - 553140
   - 559605
   - 590788
+  - 625230
   - 626114
   start: 2026-11-22T22:30:00Z
   stop: 2026-11-22T23:15:00Z
@@ -703,6 +669,7 @@
   - 553141
   - 559606
   - 590789
+  - 625231
   - 626115
   start: 2026-11-22T23:15:00Z
   stop: 2026-11-23T00:00:00Z
