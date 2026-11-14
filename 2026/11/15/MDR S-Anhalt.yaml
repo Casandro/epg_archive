@@ -1,6 +1,7 @@
 - eventId:
   - 550340
   - 555223
+  - 563982
   - 579509
   - 579524
   - 616754
@@ -31,9 +32,22 @@
   description: Aktuelle Bilder und Informationen aus Politik und Wirtschaft, aus Wissenschaft, Kultur und Sport aus dem Freistaat Sachsen.
   subtitle: 'anschließend: das MDR-Wetter'
 - eventId:
+  - 564079
+  - 814970
+  start: 2026-11-15T03:15:00Z
+  stop: 2026-11-15T03:45:00Z
+  title: MDR SACHSENSPIEGEL
+  subtitle: Die MDR-Talkshow aus Leipzig
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Aktuelle Bilder und Informationen aus Politik und Wirtschaft, aus Wissenschaft, Kultur und Sport aus dem Freistaat Sachsen.
+- eventId:
   - 539818
   - 550446
   - 559681
+  - 564080
   - 579707
   start: 2026-11-15T03:45:00Z
   stop: 2026-11-15T04:15:00Z
@@ -48,6 +62,7 @@
   - 539819
   - 550447
   - 559682
+  - 564081
   - 579708
   start: 2026-11-15T04:15:00Z
   stop: 2026-11-15T04:45:00Z
@@ -62,6 +77,7 @@
   - 539820
   - 550448
   - 559683
+  - 564082
   - 579709
   start: 2026-11-15T04:45:00Z
   stop: 2026-11-15T04:55:00Z
@@ -76,6 +92,7 @@
   - 550449
   - 555580
   - 559684
+  - 564083
   - 579710
   - 906125
   start: 2026-11-15T04:55:00Z
@@ -95,6 +112,7 @@
   - 550644
   - 556167
   - 562640
+  - 564309
   - 579881
   - 906157
   start: 2026-11-15T06:25:00Z
@@ -112,6 +130,7 @@
   - 550645
   - 556168
   - 562641
+  - 564310
   - 579882
   - 906158
   start: 2026-11-15T06:30:00Z
@@ -130,6 +149,7 @@
   - 550646
   - 556169
   - 562642
+  - 564311
   - 579883
   - 906159
   start: 2026-11-15T07:00:00Z
@@ -146,6 +166,7 @@
   - 550647
   - 556170
   - 562643
+  - 564312
   - 579884
   - 906160
   start: 2026-11-15T07:30:00Z
@@ -165,6 +186,7 @@
   - 550648
   - 556171
   - 562644
+  - 564313
   - 579885
   - 906161
   start: 2026-11-15T07:55:00Z
@@ -181,6 +203,7 @@
   - 550649
   - 556172
   - 562645
+  - 564314
   - 579886
   - 906162
   start: 2026-11-15T08:20:00Z
@@ -197,6 +220,7 @@
   - 541666
   - 553458
   - 556456
+  - 564463
   - 564562
   - 906256
   start: 2026-11-15T09:05:00Z
@@ -216,6 +240,7 @@
   - 541667
   - 553459
   - 556457
+  - 564464
   - 564563
   - 906257
   start: 2026-11-15T10:35:00Z
@@ -232,6 +257,7 @@
   - 542190
   - 553633
   - 556644
+  - 564631
   - 565635
   - 906213
   start: 2026-11-15T12:33:00Z
@@ -247,6 +273,7 @@
   - 542191
   - 553634
   - 556645
+  - 564632
   - 565636
   - 906214
   start: 2026-11-15T12:35:00Z
@@ -264,6 +291,7 @@
   - 542192
   - 553635
   - 556646
+  - 564633
   - 565637
   - 906215
   start: 2026-11-15T13:05:00Z
@@ -283,6 +311,7 @@
   - 542193
   - 553636
   - 556647
+  - 564634
   - 565638
   - 906216
   start: 2026-11-15T14:25:00Z
@@ -293,6 +322,27 @@
   hd: true
   audiodesc: true
   description: In komprimierter Fassung informieren wir Sie über die aktuellen Nachrichten des Tages.
+- eventId:
+  - 1430285
+  - 1590230
+  - 540581
+  - 542065
+  - 547760
+  - 553716
+  - 564635
+  - 573157
+  start: 2026-11-15T14:30:00Z
+  stop: 2026-11-15T16:00:00Z
+  title: 'Make it: Wenn Engagement auf Erinnerung trifft'
+  subtitle: Die Suche am Iron Curtain Trail
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Durch einen Blitzeinschlag an der Geisterbahn von Tammis verstorbenem Opa werden drei Geister lebendig und richten mit ihren magischen Fähigkeiten großes Chaos an. Die Teenager Tammi, Umbo und Keks haben alle Hände voll zu tun, den Freizeitpark zu retten, und bringen nebenbei auch die verkrachte Familie wieder zusammen.
+  genre:
+  - '16'
+  ageRating: 6
 - eventId:
   - 541436
   - 542194
@@ -320,6 +370,7 @@
   - 553761
   - 554965
   - 557447
+  - 564767
   - 565998
   - 905829
   start: 2026-11-15T16:00:00Z
@@ -339,6 +390,7 @@
   - 542717
   - 553762
   - 557448
+  - 564768
   - 565999
   - 905830
   start: 2026-11-15T17:00:00Z
@@ -354,6 +406,7 @@
   - 542718
   - 553763
   - 557449
+  - 564769
   - 566000
   - 905831
   start: 2026-11-15T17:05:00Z
@@ -364,44 +417,33 @@
   hd: true
   audiodesc: true
   description: 'BRISANT ist das Infotainment-Magazin der ARD und erzählt die Geschichten des Lebens aus aller Welt: Nachrichten, Hintergründe, Reportagen über den Klimawandel, Service, Trends, Lifestyle und Neuigkeiten von Prominenten.'
-- eventId:
-  - 542363
-  - 542719
-  - 553764
-  - 557450
-  - 566001
-  - 905832
+- eventId: 564770
   start: 2026-11-15T17:50:00Z
   stop: 2026-11-15T17:52:00Z
   title: Wetter für 3
   subtitle: Die Wetterschau für Mitteldeutschland
+  description: Ob es regnet, stürmt oder schneit - die Meteorologen Michaela Koschak, Jörg Heidermann und Florian Rost sagen täglich das Wetter in Mitteldeutschland vorher.
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Ob es regnet, stürmt oder schneit - die Meteorologen Michaela Koschak, Jörg Heidermann und Florian Rost sagen täglich das Wetter in Mitteldeutschland vorher.
-- eventId:
-  - 542364
-  - 542720
-  - 553765
-  - 557451
-  - 566002
-  - 905833
+- eventId: 564771
   start: 2026-11-15T17:52:00Z
   stop: 2026-11-15T18:00:00Z
   title: Unser Sandmännchen
   subtitle: Kito, Maja und die Kugelkiste
+  description: Jeden Tag die neueste Gute-Nacht-Geschichte vom Sandmännchen. Entdecke auch die Videos von Pittiplatsch, Jan & Henry und anderen Freunden des Sandmanns!
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Jeden Tag die neueste Gute-Nacht-Geschichte vom Sandmännchen. Entdecke auch die Videos von Pittiplatsch, Jan & Henry und anderen Freunden des Sandmanns!
 - eventId:
   - 543346
   - 546122
   - 546845
   - 553965
   - 558824
+  - 564934
   - 566060
   - 566285
   - 713301
@@ -419,6 +461,7 @@
   - 543347
   - 546846
   - 558825
+  - 564935
   - 566286
   - 905919
   start: 2026-11-15T18:30:00Z
@@ -448,6 +491,7 @@
   - 543348
   - 546847
   - 558826
+  - 564936
   - 566287
   - 905920
   start: 2026-11-15T18:50:00Z
@@ -459,7 +503,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-  description: Im Fahndungsmagazin "Kripo live" präsentiert der MDR jeden Sonntag aktuelle Fahndungsaufrufe der Polizei, vor allem aus Mitteldeutschland. Außerdem gibt es Tipps zum Schutz vor Kriminellen.
+  description: "Die Themen u.a.:\n\n* Sandersdorf-Brehna / Landkreis Anhalt-Bitterfeld\nKabeldiebe legen Flutlichtanlage von Sportverein lahm \n\n* Ottendorf-Okrilla / Landkreis Bautzen\nGiftanschlag auf 100 Jahre alte Eiche\n\n* Radeberg / Landkreis Bautzen\nFalscher Versicherungsvertreter bestiehlt 90-Jährige"
 - eventId:
   - 546124
   - 553967
@@ -481,6 +525,7 @@
   - 546848
   - 553968
   - 558827
+  - 564937
   - 566063
   - 566288
   - 713304
@@ -499,6 +544,7 @@
   - 546849
   - 553969
   - 558828
+  - 564938
   - 566289
   - 905922
   start: 2026-11-15T20:45:00Z
@@ -510,6 +556,20 @@
   hd: true
   audiodesc: true
   description: Verpassen Sie keine Nachrichten und Trends aus Sachsen, Sachsen-Anhalt und Thüringen. Sehen Sie das Neueste aus Politik und Wirtschaft, der Kultur und Wissenschaft, vom Sport, mit Expertengesprächen und hintergründigen Reportagen.
+- eventId:
+  - 1625134
+  - 545367
+  - 554128
+  - 565140
+  start: 2026-11-15T21:00:00Z
+  stop: 2026-11-15T22:30:00Z
+  title: Die Freiheit, die Stasi und der Tod
+  subtitle: 'Reiten: Großer Preis von Sachsen live aus Chemnitz'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: 'Matthias Domaschk kommt 1981 in einem Untersuchungsgefängnis der Staatssicherheit der DDR tragisch zu Tode. Es ist ein Cold Case von historischer Bedeutung, der zum Erstarken der oppositionellen Kräfte beiträgt, die 1989 zu Mauerfall und Systemumsturz führen. Der Fall wirft auch universelle Themen auf, die uns heute wieder umtreiben: Wie wollen wir leben? Welche individuelle Verantwortung hat der Einzelne in einer Gesellschaft? Wie weit würden wir gehen, um unsere Freiheit zu verteidigen?'
 - eventId:
   - 543900
   - 547437
@@ -526,6 +586,24 @@
   hd: true
   audiodesc: true
   description: 'Matthias Domaschk kommt 1981 in einem Untersuchungsgefängnis der Staatssicherheit der DDR tragisch zu Tode. Es ist ein Cold Case von historischer Bedeutung, der zum Erstarken der oppositionellen Kräfte beiträgt, die 1989 zu Mauerfall und Systemumsturz führen. Der Fall wirft auch universelle Themen auf, die uns heute wieder umtreiben: Wie wollen wir leben? Welche individuelle Verantwortung hat der Einzelne in einer Gesellschaft? Wie weit würden wir gehen, um unsere Freiheit zu verteidigen?'
+- eventId:
+  - 1625135
+  - 542338
+  - 545368
+  - 549781
+  - 554129
+  - 557435
+  - 565141
+  - 680409
+  start: 2026-11-15T22:30:00Z
+  stop: 2026-11-16T00:05:00Z
+  title: Heute im Osten - Reportage
+  subtitle: Die Kunst des kreativen Widerstands
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Der Pegel der Donau steht im Sommer 2026 auf historischem Tiefstand - und bringt Ungarns einziges Atomkraftwerk an den Rand des Stillstands. Das AKW Paks braucht das Flusswasser zur Kühlung. Sinkt der Pegel weiter, muss das Kraftwerk abgeschaltet werden. Der Bau einer gewaltigen Sohlschwelle soll das verhindern. Ein Wettlauf gegen die Zeit - und gegen den Klimawandel.
 - eventId:
   - 543901
   - 547438

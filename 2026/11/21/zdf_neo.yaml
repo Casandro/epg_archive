@@ -1,6 +1,7 @@
 - eventId:
   - 557051
   - 557998
+  - 560272
   - 567860
   - 615088
   - 615841
@@ -32,6 +33,7 @@
 - eventId:
   - 557052
   - 557999
+  - 560273
   - 567861
   - 615089
   - 615842
@@ -62,6 +64,7 @@
     HD-Produktion
 - eventId:
   - 557053
+  - 560274
   - 615090
   - 615843
   start: 2026-11-21T02:10:00Z
@@ -88,6 +91,7 @@
     HD-Produktion
 - eventId:
   - 557054
+  - 560275
   - 615091
   - 615844
   start: 2026-11-21T02:55:00Z
@@ -112,23 +116,11 @@
     Kamera: David Chambille
 
     HD-Produktion
-- eventId:
-  - 558028
-  - 560769
-  - 568395
-  - 615110
-  - 615977
-  - 616903
-  - 742325
-  - 742759
+- eventId: 560312
   start: 2026-11-21T03:35:00Z
   stop: 2026-11-21T04:20:00Z
   title: L'Opéra - Dancing in Paris
   subtitle: Bitteres Wiedersehen
-  genre:
-  - '21'
-  widescreen: true
-  hd: true
   description: |-
     Frankreich 2021
     Als das Bolschoi, die berühmte russische Ballettkompanie, zu Besuch kommt, erlebt Zoé eine unangenehme Überraschung. Sasha, ihre ehemalige große Liebe, ist Teil der Truppe.
@@ -143,23 +135,15 @@
     Kamera: David Chambille
 
     HD-Produktion
-- eventId:
-  - 558029
-  - 560770
-  - 568396
-  - 615111
-  - 615978
-  - 616904
-  - 742326
-  - 742760
-  start: 2026-11-21T04:20:00Z
-  stop: 2026-11-21T05:10:00Z
-  title: L'Opéra - Dancing in Paris
-  subtitle: Letzte Vorstellung
   genre:
   - '21'
   widescreen: true
   hd: true
+- eventId: 560313
+  start: 2026-11-21T04:20:00Z
+  stop: 2026-11-21T05:10:00Z
+  title: L'Opéra - Dancing in Paris
+  subtitle: Letzte Vorstellung
   description: |-
     Frankreich 2021
     Zoé wehrt sich weiter gegen das drohende Ende ihrer Karriere als "Étoile" und schlägt sogar Sashas Angebot aus, Teil des Bolschoi-Balletts zu werden.
@@ -174,23 +158,15 @@
     Kamera: David Chambille
 
     HD-Produktion
-- eventId:
-  - 558030
-  - 560771
-  - 568397
-  - 615112
-  - 615979
-  - 616905
-  - 742327
-  - 742761
-  start: 2026-11-21T05:10:00Z
-  stop: 2026-11-21T05:50:00Z
-  title: L'Opéra - Dancing in Paris
-  subtitle: Unter Druck
   genre:
   - '21'
   widescreen: true
   hd: true
+- eventId: 560314
+  start: 2026-11-21T05:10:00Z
+  stop: 2026-11-21T05:50:00Z
+  title: L'Opéra - Dancing in Paris
+  subtitle: Unter Druck
   description: |-
     Frankreich 2021
     Die nun arbeitslose Zoé stürzt sich in Partys und zu viel Alkohol. Flora wird den Anforderungen für ihr Solo nicht gerecht und Sébastien droht, ihr die Rolle wieder wegzunehmen.
@@ -205,15 +181,11 @@
     Kamera: David Chambille
 
     HD-Produktion
-- eventId:
-  - 558031
-  - 560772
-  - 568398
-  - 615113
-  - 615980
-  - 616906
-  - 742328
-  - 742762
+  genre:
+  - '21'
+  widescreen: true
+  hd: true
+- eventId: 560315
   start: 2026-11-21T05:50:00Z
   stop: 2026-11-21T06:00:00Z
   title: Dinge Erklärt - Kurzgesagt
@@ -258,6 +230,7 @@
   audiodesc: true
 - eventId:
   - 558079
+  - 560340
   - 560795
   - 569625
   - 616098
@@ -274,6 +247,12 @@
   subtitled: true
   hd: true
   audiodesc: true
+  description: |-
+    Deutschland 2026
+    Die Welt hat genug: Nach Jahrhunderten der Ausbeutung will sie die Menschen loswerden. Schlecht gelaunt erscheint sie Meeresbiologe Uli Kunz und gibt ihm 100 Tage Zeit, sie umzustimmen.
+
+    Der Start einer außergewöhnlichen Reise: Die aufwendig animierte, ständig nörgelnde Welt und der "Terra X"-Moderator. Uli Kunz stellt der Welt Menschen vor, die für den Erhalt der Erde kämpfen - in den Tiefen der Meere oder den letzten Urwäldern Europas.
+    HD-Produktion
 - eventId:
   - 552491
   - 563966
@@ -297,18 +276,17 @@
 
     Der Meeresbiologe und "Terra X"-Moderator Uli Kunz sucht nach Antworten - und folgt dabei dem Thunfisch bei seiner Reise rund um die Welt. Im Mittelmeer stand der Thunfisch kurz vor der Ausrottung, aber mittlerweile haben sich die Bestände erholt.
     HD-Produktion
-- eventId:
-  - 558080
-  - 560796
-  - 569626
-  - 616099
-  - 617058
-  - 742344
-  - 742767
+- eventId: 560341
   start: 2026-11-21T06:25:00Z
   stop: 2026-11-21T07:10:00Z
   title: Terra X
   subtitle: Thunfisch - Der bedrohte Jäger - Mit Uli Kunz
+  description: |-
+    Deutschland 2024
+    In den Ozeanen gehören Thunfische zu den Topräubern. Doch der Jäger ist auch ein Gejagter: Viele Arten sind überfischt. Können wir die Reichtümer der Meere nutzen, ohne sie zu zerstören?
+
+    Der Meeresbiologe und "Terra X"-Moderator Uli Kunz sucht nach Antworten - und folgt dabei dem Thunfisch bei seiner Reise rund um die Welt. Im Mittelmeer stand der Thunfisch kurz vor der Ausrottung, aber mittlerweile haben sich die Bestände erholt.
+    HD-Produktion
   genre:
   - '112'
   widescreen: true
@@ -338,18 +316,17 @@
 
     Von ihren echten Vorbildern oft kaum zu unterscheiden, kommen die Tierroboter Pottwalen, Seekühen, Haien und zahlreichen anderen Meeresbewohnern sehr nah, ohne sie zu stören. Dabei gelingen Aufnahmen, die so mit normalen Kameras nicht hätten gedreht werden können.
     HD-Produktion
-- eventId:
-  - 558081
-  - 560797
-  - 569627
-  - 616100
-  - 617059
-  - 742345
-  - 742768
+- eventId: 560342
   start: 2026-11-21T07:10:00Z
   stop: 2026-11-21T07:55:00Z
   title: Terra X
   subtitle: Spione im Tierreich - Hautnah im Ozean
+  description: |-
+    Deutschland 2023
+    Die Reihe "Spione im Tierreich" widmet sich diesmal den Ozeanen. Im Meer beobachten Tierroboter mit Kameras ihre realen Vorbilder und liefern einmalige Perspektiven.
+
+    Von ihren echten Vorbildern oft kaum zu unterscheiden, kommen die Tierroboter Pottwalen, Seekühen, Haien und zahlreichen anderen Meeresbewohnern sehr nah, ohne sie zu stören. Dabei gelingen Aufnahmen, die so mit normalen Kameras nicht hätten gedreht werden können.
+    HD-Produktion
   genre:
   - '144'
   widescreen: true
@@ -379,18 +356,17 @@
 
     Von ihren echten Vorbildern oft kaum zu unterscheiden, kommen die Tierroboter Buckelwalen, Delfinen, Haien und zahlreichen anderen Meeresbewohnern sehr nah, ohne sie zu stören. Dabei gelingen Aufnahmen, die so mit normalen Kameras nicht hätten gedreht werden können.
     HD-Produktion
-- eventId:
-  - 558082
-  - 560798
-  - 569628
-  - 616101
-  - 617060
-  - 742346
-  - 742769
+- eventId: 560343
   start: 2026-11-21T07:55:00Z
   stop: 2026-11-21T08:40:00Z
   title: Terra X
   subtitle: Spione im Tierreich - Undercover im Ozean
+  description: |-
+    Deutschland 2023
+    Die Reihe "Spione im Tierreich" widmet sich diesmal den Ozeanen. Im Meer beobachten Tierroboter mit Kameras ihre realen Vorbilder und liefern einmalige Perspektiven.
+
+    Von ihren echten Vorbildern oft kaum zu unterscheiden, kommen die Tierroboter Buckelwalen, Delfinen, Haien und zahlreichen anderen Meeresbewohnern sehr nah, ohne sie zu stören. Dabei gelingen Aufnahmen, die so mit normalen Kameras nicht hätten gedreht werden können.
+    HD-Produktion
   genre:
   - '144'
   widescreen: true
@@ -420,18 +396,17 @@
 
     Im Herbst 2014 macht sich ein japanisches Expeditionsteam in Begleitung des renommierten Meeresbiologen Mark Erdmann auf, um die dunklen Regionen tropischer Ozeane zu erkunden.
     HD-Produktion
-- eventId:
-  - 558083
-  - 560799
-  - 569629
-  - 616102
-  - 617061
-  - 742347
-  - 742770
+- eventId: 560344
   start: 2026-11-21T08:40:00Z
   stop: 2026-11-21T09:25:00Z
   title: Terra X
   subtitle: Geheimnisse der Tiefsee - In den Kellern der Korallenriffe
+  description: |-
+    Deutschland 2015
+    Ein weiteres Mal taucht "Terra X" in das dunkle Reich der Tiefsee ab, in die Kellergeschosse atemberaubender Korallenriffe, auf der Suche nach lebenden Fossilien.
+
+    Im Herbst 2014 macht sich ein japanisches Expeditionsteam in Begleitung des renommierten Meeresbiologen Mark Erdmann auf, um die dunklen Regionen tropischer Ozeane zu erkunden.
+    HD-Produktion
   genre:
   - '128'
   widescreen: true
@@ -477,6 +452,7 @@
     HD-Produktion
   subtitled: true
 - eventId:
+  - 560386
   - 560878
   - 569695
   - 615173
@@ -539,6 +515,7 @@
     HD-Produktion
   subtitled: true
 - eventId:
+  - 560387
   - 560879
   - 569696
   - 615174
@@ -585,6 +562,7 @@
     HD-Produktion
   subtitled: true
 - eventId:
+  - 560388
   - 560880
   - 569697
   - 615175
@@ -631,6 +609,7 @@
     HD-Produktion
   subtitled: true
 - eventId:
+  - 560389
   - 560881
   - 569698
   - 615176
@@ -656,6 +635,7 @@
     HD-Produktion
 - eventId:
   - 558270
+  - 560430
   - 560966
   - 615194
   - 616283
@@ -717,6 +697,7 @@
 
     HD-Produktion
 - eventId:
+  - 560431
   - 560967
   - 615195
   - 616284
@@ -768,6 +749,7 @@
     Als die 20-jährige Mareike G. nicht am Arbeitsplatz erscheint, melden Kollegen sie als vermisst. Doch die Durchsuchung ihrer Wohnung ergibt keine Hinweise auf ein Gewaltverbrechen. Die Ermittlungen führen ins Leere. Verschweigen Mareikes Freunde und Bekannte etwas?
     HD-Produktion
 - eventId:
+  - 560432
   - 560968
   - 569785
   - 615196
@@ -785,6 +767,12 @@
   subtitled: true
   hd: true
   audiodesc: true
+  description: |-
+    Deutschland 2026
+    Der Rhythmus des Indischen Ozeans ist von den Monsunwinden bestimmt, sie prägen einen der ältesten globalen Wirtschaftsräume der Geschichte.
+
+    Seit Jahrtausenden geben sie vor, wann Menschen reisen, handeln und neue Verbindungen knüpfen können. Der Indische Ozean wird so zum Schauplatz eines frühen Globalisierungsprozesses, dessen Folgen bis heute spürbar sind.
+    HD-Produktion
 - eventId:
   - 1348980
   - 1349266
@@ -808,6 +796,7 @@
     Darsteller:
     Peter - Peter Lustig
 - eventId:
+  - 560433
   - 560969
   - 569786
   - 615197
@@ -825,8 +814,15 @@
   subtitled: true
   hd: true
   audiodesc: true
+  description: |-
+    Deutschland 2026
+    Auf den ersten Blick wirkt Ozeanien wie eine verstreute Inselwelt inmitten eines endlosen Ozeans.
+
+    Für die Menschen der Region ist das Meer jedoch keine Grenze, sondern die Verbindung zwischen ihren Gemeinschaften. Es versorgt sie mit Nahrung, ermöglicht Austausch und prägt ihre Identität.
+    HD-Produktion
 - eventId:
   - 558304
+  - 560474
   - 561004
   - 569850
   - 615259
@@ -844,8 +840,15 @@
   subtitled: true
   hd: true
   audiodesc: true
+  description: |-
+    Deutschland 2024
+    Ein Tier seltsamer als das andere: Schildkröten sind riesengroß, Vögel haben blaue Füße, und Pinguine sind winzig klein und leben am völlig falschen Ort.
+
+    Warum gibt es ausgerechnet auf den Galapagosinseln eine solche Ansammlung von kuriosen Tieren? Für "Faszination Erde" entdeckt die Wildtierärztin Hannah Emde die Galapagosinseln. Sie stößt dabei auf eine Reihe von unglaublichen Zufällen.
+    HD-Produktion
 - eventId:
   - 558305
+  - 560475
   - 561005
   - 569851
   - 615260
@@ -865,6 +868,7 @@
   audiodesc: true
 - eventId:
   - 558306
+  - 560476
   - 561006
   - 569852
   - 615261
@@ -884,6 +888,7 @@
   audiodesc: true
 - eventId:
   - 558307
+  - 560477
   - 561007
   - 569853
   - 615262
@@ -906,6 +911,7 @@
   - 539790
   - 551359
   - 558458
+  - 560494
   - 561054
   - 611837
   - 615288
@@ -964,6 +970,7 @@
   audiodesc: true
 - eventId:
   - 558459
+  - 560495
   - 561055
   - 615289
   - 616356
@@ -1020,6 +1027,7 @@
     HD-Produktion
 - eventId:
   - 558460
+  - 560496
   - 561056
   - 615290
   - 616357
@@ -1036,6 +1044,7 @@
 - eventId:
   - 539757
   - 539897
+  - 560512
   - 561562
   - 615309
   - 616368
@@ -1056,6 +1065,7 @@
   - 543879
   - 544602
   - 545203
+  - 560513
   - 561563
   - 564236
   - 611675

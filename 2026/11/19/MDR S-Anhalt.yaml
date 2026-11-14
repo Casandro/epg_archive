@@ -2,6 +2,7 @@
   - 553978
   - 555974
   - 556866
+  - 563984
   - 579527
   start: 2026-11-19T00:10:00Z
   stop: 2026-11-19T01:40:00Z
@@ -16,6 +17,7 @@
   - 553979
   - 555975
   - 556867
+  - 563985
   - 579528
   start: 2026-11-19T01:40:00Z
   stop: 2026-11-19T02:05:00Z
@@ -30,6 +32,7 @@
   - 553980
   - 555976
   - 556868
+  - 563986
   - 579529
   start: 2026-11-19T02:05:00Z
   stop: 2026-11-19T02:30:00Z
@@ -49,6 +52,7 @@
   - 553981
   - 555977
   - 556869
+  - 563987
   - 579530
   start: 2026-11-19T02:30:00Z
   stop: 2026-11-19T03:05:00Z
@@ -64,6 +68,7 @@
   - 539835
   - 555587
   - 559685
+  - 564092
   - 572539
   - 579711
   start: 2026-11-19T03:05:00Z
@@ -79,6 +84,7 @@
   - 539836
   - 555588
   - 559686
+  - 564093
   - 572540
   - 579712
   start: 2026-11-19T03:35:00Z
@@ -94,6 +100,7 @@
   - 539837
   - 555589
   - 559687
+  - 564094
   - 572541
   - 579713
   start: 2026-11-19T04:05:00Z
@@ -109,6 +116,7 @@
   - 539838
   - 555590
   - 559688
+  - 564095
   - 572542
   - 579714
   start: 2026-11-19T04:35:00Z
@@ -125,6 +133,7 @@
   - 539839
   - 555591
   - 559689
+  - 564096
   - 572543
   - 579715
   start: 2026-11-19T05:25:00Z
@@ -150,7 +159,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 554643
+- eventId:
+  - 554643
+  - 564315
   start: 2026-11-19T06:15:00Z
   stop: 2026-11-19T07:05:00Z
   title: Rote Rosen (4423)
@@ -166,6 +177,7 @@
   - 554644
   - 556181
   - 562647
+  - 564316
   - 579888
   start: 2026-11-19T07:05:00Z
   stop: 2026-11-19T07:55:00Z
@@ -182,6 +194,7 @@
   - 554645
   - 556182
   - 562648
+  - 564317
   - 579889
   start: 2026-11-19T07:55:00Z
   stop: 2026-11-19T08:45:00Z
@@ -198,6 +211,7 @@
   - 554646
   - 556183
   - 562649
+  - 564318
   - 579890
   start: 2026-11-19T08:45:00Z
   stop: 2026-11-19T09:35:00Z
@@ -217,6 +231,7 @@
   - 541668
   - 556205
   - 556458
+  - 564465
   - 564564
   start: 2026-11-19T09:35:00Z
   stop: 2026-11-19T09:58:00Z
@@ -238,6 +253,7 @@
   - 541669
   - 556206
   - 556459
+  - 564466
   - 564565
   start: 2026-11-19T09:58:00Z
   stop: 2026-11-19T10:00:00Z
@@ -255,6 +271,7 @@
   - 545707
   - 556207
   - 556460
+  - 564467
   - 564566
   - 565738
   start: 2026-11-19T10:00:00Z
@@ -274,6 +291,7 @@
   - 545708
   - 556208
   - 556461
+  - 564468
   - 564567
   - 565739
   start: 2026-11-19T10:45:00Z
@@ -290,6 +308,7 @@
   - 540967
   - 541672
   - 556462
+  - 564469
   - 564568
   start: 2026-11-19T11:30:00Z
   stop: 2026-11-19T12:58:00Z
@@ -301,6 +320,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  description: Ella führt als Gattin des Bürgermeisters einer Kleinstadtidylle ein gutbürgerliches Leben. Doch zu ihrem sechzigsten Geburtstag hat ihre Enkelin Lili in Großmutters Vergangenheit gegraben und herausgefunden, dass Ella in jungen Jahren eine leidenschaftliche Tangotänzerin war. Außerdem hat sie Ellas ehemaligen Tanzpartner Franz ausfindig gemacht und eingeladen. Was Lili nicht weiß ist, dass Franz auch Ellas erste Liebe war.
 - eventId:
   - 1403445
   - 545709
@@ -323,6 +343,7 @@
   - 542197
   - 556649
   - 558356
+  - 564636
   - 565640
   start: 2026-11-19T12:58:00Z
   stop: 2026-11-19T13:00:00Z
@@ -338,6 +359,7 @@
   - 542198
   - 556650
   - 558357
+  - 564637
   - 565641
   start: 2026-11-19T13:00:00Z
   stop: 2026-11-19T13:25:00Z
@@ -353,6 +375,7 @@
   - 542199
   - 556651
   - 558358
+  - 564638
   - 565642
   start: 2026-11-19T13:25:00Z
   stop: 2026-11-19T14:15:00Z
@@ -369,6 +392,7 @@
   - 542200
   - 556652
   - 558359
+  - 564639
   - 565643
   start: 2026-11-19T14:15:00Z
   stop: 2026-11-19T15:00:00Z
@@ -379,28 +403,23 @@
   hd: true
   audiodesc: true
   description: In "Gefragt - Gejagt" mit Alexander Bommes tritt ein Team von vier Kandidatinnen und Kandidaten gegen ein Superhirn - die "Jägerin" oder den "Jäger" - an. Sie sind alle ausgewiesene Quizprofis.
-- eventId:
-  - 1007058
-  - 542369
-  - 542727
-  - 557452
-  - 558787
-  - 566004
+- eventId: 564774
   start: 2026-11-19T15:00:00Z
   stop: 2026-11-19T15:30:00Z
   title: MDR um 4
   subtitle: Neues von hier
+  description: Die Moderatoren Peter Imhof, René Kindermann, Stephanie Müller-Spirra und Julia Menger berichten im wöchentlichen Wechsel über aktuelle Ereignisse, sprechen mit Prominenten und geben praktische Tipps.
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Die Moderatoren Peter Imhof, René Kindermann, Stephanie Müller-Spirra und Julia Menger berichten im wöchentlichen Wechsel über aktuelle Ereignisse, sprechen mit Prominenten und geben praktische Tipps.
 - eventId:
   - 1007059
   - 542370
   - 542728
   - 557453
   - 558788
+  - 564775
   - 566005
   start: 2026-11-19T15:30:00Z
   stop: 2026-11-19T16:00:00Z
@@ -420,6 +439,7 @@
   - 542729
   - 557454
   - 558789
+  - 564776
   - 566006
   start: 2026-11-19T16:00:00Z
   stop: 2026-11-19T16:45:00Z
@@ -436,6 +456,7 @@
   - 542730
   - 557455
   - 558790
+  - 564777
   - 566007
   start: 2026-11-19T16:45:00Z
   stop: 2026-11-19T17:05:00Z
@@ -451,6 +472,7 @@
   - 542731
   - 557456
   - 558791
+  - 564778
   - 566008
   start: 2026-11-19T17:05:00Z
   stop: 2026-11-19T17:10:00Z
@@ -467,6 +489,7 @@
   - 542732
   - 557457
   - 558792
+  - 564779
   - 566009
   start: 2026-11-19T17:10:00Z
   stop: 2026-11-19T17:54:00Z
@@ -482,6 +505,7 @@
   - 542733
   - 557458
   - 558793
+  - 564780
   - 566010
   start: 2026-11-19T17:54:00Z
   stop: 2026-11-19T18:00:00Z
@@ -498,6 +522,7 @@
   - 546853
   - 558829
   - 559158
+  - 564942
   - 566290
   start: 2026-11-19T18:00:00Z
   stop: 2026-11-19T18:30:00Z
@@ -513,6 +538,7 @@
   - 546854
   - 558830
   - 559159
+  - 564943
   - 566291
   start: 2026-11-19T18:30:00Z
   stop: 2026-11-19T18:50:00Z
@@ -529,6 +555,7 @@
   - 546855
   - 558831
   - 559160
+  - 564944
   - 566292
   start: 2026-11-19T18:50:00Z
   stop: 2026-11-19T19:15:00Z
@@ -545,6 +572,7 @@
   - 546856
   - 558832
   - 559161
+  - 564945
   - 566293
   start: 2026-11-19T19:15:00Z
   stop: 2026-11-19T20:15:00Z
@@ -561,6 +589,7 @@
   - 546857
   - 558833
   - 559162
+  - 564946
   - 566294
   start: 2026-11-19T20:15:00Z
   stop: 2026-11-19T20:45:00Z
@@ -579,6 +608,7 @@
   - 546858
   - 558834
   - 559163
+  - 564947
   - 566295
   start: 2026-11-19T20:45:00Z
   stop: 2026-11-19T21:10:00Z
@@ -589,28 +619,23 @@
   hd: true
   audiodesc: true
   description: Verpassen Sie keine Nachrichten und Trends aus Sachsen, Sachsen-Anhalt und Thüringen. Sehen Sie das Neueste aus Politik und Wirtschaft, der Kultur und Wissenschaft, vom Sport, mit Expertengesprächen und hintergründigen Reportagen.
-- eventId:
-  - 1007242
-  - 543920
-  - 547440
-  - 560633
-  - 563818
-  - 567984
+- eventId: 565142
   start: 2026-11-19T21:10:00Z
   stop: 2026-11-19T21:40:00Z
   title: Stottern und Lehrerin werden?
   subtitle: Jennis Weg ins Klassenzimmer
+  description: Mit 32 Jahren verändert ein Schlaganfall das Leben von Jennifer Springer schlagartig. Von einem Moment auf den anderen verliert die lebensfrohe und selbstbewusste Lehramts-Studentin die Kontrolle über ihren Körper - und ihre Sprache. Seitdem stottert sie. Für die heute 34_Jährige bedeutet das nicht nur eine alltägliche Herausforderung, sondern auch eine tiefgreifende Erschütterung ihres Selbstbilds.
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Mit 32 Jahren verändert ein Schlaganfall das Leben von Jennifer Springer schlagartig. Von einem Moment auf den anderen verliert die lebensfrohe und selbstbewusste Lehramts-Studentin die Kontrolle über ihren Körper - und ihre Sprache. Seitdem stottert sie. Für die heute 34_Jährige bedeutet das nicht nur eine alltägliche Herausforderung, sondern auch eine tiefgreifende Erschütterung ihres Selbstbilds.
 - eventId:
   - 1007243
   - 543921
   - 547441
   - 560634
   - 563819
+  - 565143
   - 567985
   start: 2026-11-19T21:40:00Z
   stop: 2026-11-19T22:50:00Z
@@ -627,6 +652,7 @@
   - 547442
   - 560635
   - 563820
+  - 565144
   - 567986
   start: 2026-11-19T22:50:00Z
   stop: 2026-11-19T23:25:00Z
@@ -652,7 +678,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 688693
+- eventId:
+  - 565145
+  - 688693
   start: 2026-11-19T23:25:00Z
   stop: 2026-11-19T23:55:00Z
   title: Ballermann Sessions & Stories (4)
@@ -677,7 +705,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 688694
+- eventId:
+  - 565146
+  - 688694
   start: 2026-11-19T23:55:00Z
   stop: 2026-11-20T00:55:00Z
   title: Visite

@@ -2,6 +2,7 @@
   - 546021
   - 553918
   - 566011
+  - 568135
   - 570658
   - 582883
   - 607309
@@ -20,6 +21,7 @@
   - 546022
   - 553919
   - 566012
+  - 568136
   - 570659
   - 582884
   - 607310
@@ -38,6 +40,7 @@
 - eventId:
   - 546023
   - 566013
+  - 568137
   - 570660
   - 582885
   - 607311
@@ -68,6 +71,7 @@
   - 546024
   - 553921
   - 566014
+  - 568138
   - 570661
   - 582886
   - 607312
@@ -86,6 +90,7 @@
   - 546417
   - 546631
   - 554099
+  - 568304
   - 574541
   - 609625
   - 624581
@@ -105,6 +110,7 @@
   - 546418
   - 546632
   - 554100
+  - 568305
   - 574542
   - 609626
   - 624582
@@ -123,6 +129,7 @@
   - 546419
   - 546633
   - 554101
+  - 568306
   - 574543
   - 609627
   - 624583
@@ -141,6 +148,7 @@
   - 546420
   - 546634
   - 554102
+  - 568307
   - 574544
   - 609628
   - 624584
@@ -160,6 +168,7 @@
   - 546421
   - 546635
   - 554103
+  - 568308
   - 574545
   - 609629
   - 624585
@@ -179,6 +188,7 @@
   - 546422
   - 546636
   - 554104
+  - 568309
   - 574546
   - 609630
   - 624586
@@ -195,6 +205,7 @@
   audiodesc: true
 - eventId:
   - 547173
+  - 568546
   - 578159
   start: 2026-11-22T06:30:00Z
   stop: 2026-11-22T07:00:00Z
@@ -207,6 +218,7 @@
   episodeUri: crid://onid-1/e/6aceace5e4fbbbf649790897
 - eventId:
   - 547174
+  - 568547
   - 578160
   start: 2026-11-22T07:00:00Z
   stop: 2026-11-22T07:30:00Z
@@ -219,6 +231,7 @@
 - eventId:
   - 547175
   - 554337
+  - 568548
   - 575854
   - 577804
   - 578161
@@ -236,6 +249,7 @@
   audiodesc: true
 - eventId:
   - 547176
+  - 568549
   - 578162
   start: 2026-11-22T08:00:00Z
   stop: 2026-11-22T09:30:00Z
@@ -253,6 +267,7 @@
   - 547707
   - 552809
   - 554510
+  - 568744
   - 576445
   - 592211
   - 610414
@@ -270,6 +285,7 @@
 - eventId:
   - 547708
   - 552810
+  - 568745
   - 576446
   - 592212
   - 610415
@@ -300,6 +316,7 @@
   - 547709
   - 552811
   - 554512
+  - 568746
   - 576447
   - 592213
   - 610416
@@ -316,50 +333,30 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 549167
-  - 553217
-  - 554733
-  - 566409
-  - 594860
-  - 607705
-  - 625771
-  - 713393
-  - 770760
+- eventId: 568947
   start: 2026-11-22T12:15:00Z
   stop: 2026-11-22T13:45:00Z
   title: Besuch für Emma
   subtitle: Fernsehfilm Deutschland 2015
-  episodeUri: crid://onid-1/e/6aceace5e4fbbbf649790889
+  ageRating: 6
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  ageRating: 6
-- eventId:
-  - 549168
-  - 553218
-  - 554734
-  - 566410
-  - 594861
-  - 607706
-  - 625772
-  - 713394
-  - 770761
+- eventId: 568948
   start: 2026-11-22T13:45:00Z
   stop: 2026-11-22T15:15:00Z
   title: Sterben ist auch keine Lösung
   subtitle: Fernsehfilm Deutschland 2023
-  episodeUri: crid://onid-1/e/6aceace5e4fbbbf649790887
+  ageRating: 6
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  ageRating: 6
 - eventId:
   - 549481
   - 554924
@@ -513,44 +510,6 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 550033
-  - 555187
-  - 556299
-  - 567646
-  - 608443
-  - 624110
-  - 625974
-  - 713449
-  - 770879
-  start: 2026-11-22T18:30:00Z
-  stop: 2026-11-22T19:00:00Z
-  title: rbb24 Abendschau
-  episodeUri: crid://onid-1/e/6aceaea5c602003e618c9392
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
-  - 555188
-  - 556300
-  - 567647
-  - 608444
-  - 624111
-  - 713450
-  - 728464
-  - 752766
-  - 770880
-  start: 2026-11-22T18:59:00Z
-  stop: 2026-11-22T19:15:00Z
-  title: Tagesschau
-  episodeUri: crid://onid-1/e/6aceace5e4fbbbf649790875
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  genre:
-  - '32'
-- eventId:
   - 550034
   - 625975
   - 669675
@@ -563,62 +522,6 @@
   episodeUri: crid://onid-1/e/6aceace5e4fbbbf649790875
   genre:
   - '32'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
-  - 550035
-  - 555189
-  - 556301
-  - 567648
-  - 608445
-  - 624112
-  - 625976
-  - 713451
-  - 770881
-  start: 2026-11-22T19:15:00Z
-  stop: 2026-11-22T20:00:00Z
-  title: Geheimnisse Asiens - Die schönsten Nationalparks
-  subtitle: Zurück in der Natur
-  episodeUri: crid://onid-1/e/6aceace5e4fbbbf649790873
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId:
-  - 550036
-  - 555190
-  - 556302
-  - 567649
-  - 608446
-  - 624113
-  - 625977
-  - 713452
-  - 770882
-  start: 2026-11-22T20:00:00Z
-  stop: 2026-11-22T20:45:00Z
-  title: Die Greifensteine - Verwunschene Riesen im Erzgebirge
-  episodeUri: crid://onid-1/e/6aceace5e4fbbbf649790871
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  subtitle: Die Müritz
-- eventId:
-  - 550037
-  - 555191
-  - 556303
-  - 567650
-  - 608447
-  - 624114
-  - 625978
-  - 713453
-  - 770883
-  start: 2026-11-22T20:45:00Z
-  stop: 2026-11-22T21:00:00Z
-  title: rbb24 mit Sport
-  episodeUri: crid://onid-1/e/6aceace5e4fbbbf64979086f
   widescreen: true
   subtitled: true
   hd: true

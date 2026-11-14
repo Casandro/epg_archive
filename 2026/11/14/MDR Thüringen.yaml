@@ -90,24 +90,6 @@
   audiodesc: true
   description: Seit 2003 blickt die Kult-Doku-Soap authentisch, intim und mit berührender Erzählweise hinter die Kulissen des Leipziger Zoos.
 - eventId:
-  - 543449
-  - 546272
-  - 549141
-  - 566125
-  - 582546
-  - 608721
-  - 609368
-  - 742595
-  start: 2026-11-14T01:30:00Z
-  stop: 2026-11-14T01:55:00Z
-  title: Tierisch tierisch
-  subtitle: Das Tiermagazin des MDR
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: In "Tierisch tierisch" stellt Uta Bresan jede Woche ein Tierheim mit einigen seiner Bewohner vor, die ein neues Zuhause suchen.
-- eventId:
   - 554031
   - 603186
   - 876957
@@ -119,69 +101,6 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 543450
-  - 546273
-  - 549142
-  - 554032
-  - 566126
-  - 582547
-  - 603187
-  - 608722
-  - 609369
-  - 742596
-  start: 2026-11-14T01:55:00Z
-  stop: 2026-11-14T02:20:00Z
-  title: Unser Dorf hat Wochenende
-  subtitle: Gäste zum Kaffee
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: 'Beim ersten Eindruck von Altendambach ist der Wald bestimmend. So nah an der Natur zu wohnen, muss wunderschön sein, denken sich Städter. Und tatsächlich lieben die Menschen hier ihren Wald und nutzen ihn: wandernd oder in der Gruppe beim Nordic Walking.'
-- eventId:
-  - 543451
-  - 546274
-  - 549143
-  - 554033
-  - 566127
-  - 582548
-  - 603188
-  - 608723
-  - 609370
-  - 742597
-  start: 2026-11-14T02:20:00Z
-  stop: 2026-11-14T02:50:00Z
-  title: MDR SACHSENSPIEGEL
-  subtitle: Neues von hier & Leichter leben
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: Aktuelle Bilder und Informationen aus Politik und Wirtschaft, aus Wissenschaft, Kultur und Sport aus dem Freistaat Sachsen.
-- eventId:
-  - 540257
-  - 543452
-  - 546275
-  - 549144
-  - 554034
-  - 566128
-  - 582549
-  - 603189
-  - 608724
-  - 609371
-  - 685197
-  - 742598
-  - 876960
-  start: 2026-11-14T02:50:00Z
-  stop: 2026-11-14T03:20:00Z
-  title: MDR SACHSEN-ANHALT HEUTE
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: '"MDR SACHSEN-ANHALT HEUTE" liefert Nachrichten aus Politik, Wirtschaft, Wissenschaft, Kultur und Sport aus dem Bundesland.'
-  subtitle: 'Moderation: Stefan Bernschein'
 - eventId:
   - 545556
   - 546663
@@ -612,6 +531,7 @@
   audiodesc: true
   description: Der Einstieg in den Nachrichtentag mit MDR aktuell. Ob international, national oder regional - Sie erfahren das Wichtigste der letzten Stunden und zugleich einen Ausblick auf weitere interessante Themen des Tages. Die Sendung enthält immer auch einen Querverweis auf ein spezielles Internet-Angebot unter mdraktuell.de
 - eventId:
+  - 540594
   - 540657
   - 548808
   - 549799
@@ -648,6 +568,7 @@
   - '16'
 - eventId:
   - 540658
+  - 541184
   - 548809
   - 549800
   - 555077
@@ -699,6 +620,7 @@
   - 549801
   - 555078
   - 556186
+  - 563519
   - 567378
   - 600242
   - 607426
@@ -722,6 +644,7 @@
   - 555079
   - 556187
   - 556355
+  - 563520
   - 564192
   - 567379
   - 579986
@@ -767,6 +690,7 @@
   - 549803
   - 555080
   - 556188
+  - 563521
   - 567380
   - 600244
   - 607428
@@ -805,6 +729,7 @@
   - 549804
   - 555081
   - 556189
+  - 563522
   - 567381
   - 600245
   - 607429
@@ -820,28 +745,19 @@
   hd: true
   audiodesc: true
   description: Pitti fällt es wieder einmal ein, dass er eigentlich doch der Allerbeste der Welt ist. Aber weder Schnattchen noch Moppi wollen Pittis Feststellung bestätigen. Aber ein Allerbester ist Pitti doch - der allerbeste Schummler beim Dominospiel, wie er lachend feststellt.
-- eventId:
-  - 541825
-  - 549973
-  - 556376
-  - 556527
-  - 564627
-  - 600872
-  - 610006
-  - 624943
-  - 713154
-  - 906202
+- eventId: 563667
   start: 2026-11-14T18:00:00Z
   stop: 2026-11-14T18:30:00Z
   title: MDR THÜRINGEN JOURNAL
-  subtitle: Die MDR-Talkshow aus Leipzig
+  subtitle: 'Moderation: Aline Thielmann'
+  description: "Die Themen u.a.:\n\n* Suhl: \nThüringer Grüne vor Führungswechsel \n\n* Erfurt: \nDebatte um direkte Demokratie \n\n* Walschleben/Rudolstadt: \nFußball-Landespokal"
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: "Die Gäste:\n\n* Lang Lang, Pianist und Klassikstar \n* Ekaterina Leonova, Profitänzerin u.a. auch bei \"Let _s Dance\"\n* Reinhold & Diane Messner, Bergsteigerlegende und Ehefrau\n* Thomas Junker, MDR-Filmemacher, Dokumentarfilmer und Abenteurer\n* Matthias Reim, Schlagersänger\n* Britta Steffen, Doppel-Olympiasiegerin 2008 im Freistil\n* Ralf Dümmel, Unternehmer, Investor, Handelsprofi"
 - eventId:
   - 549974
+  - 563668
   - 610007
   start: 2026-11-14T18:30:00Z
   stop: 2026-11-14T18:50:00Z
@@ -854,6 +770,7 @@
   audiodesc: true
 - eventId:
   - 549975
+  - 563669
   - 610008
   start: 2026-11-14T18:50:00Z
   stop: 2026-11-14T19:15:00Z
@@ -866,6 +783,7 @@
   audiodesc: true
 - eventId:
   - 549976
+  - 563670
   - 610009
   start: 2026-11-14T19:15:00Z
   stop: 2026-11-14T21:43:00Z
@@ -880,6 +798,7 @@
   - 550917
   - 555589
   - 556679
+  - 563833
   - 579344
   - 600497
   - 609619
@@ -900,6 +819,7 @@
   - 550918
   - 555590
   - 556680
+  - 563834
   - 579345
   - 600498
   - 609620
@@ -921,6 +841,7 @@
   - 550919
   - 555591
   - 556681
+  - 563835
   - 579346
   - 600499
   - 609621

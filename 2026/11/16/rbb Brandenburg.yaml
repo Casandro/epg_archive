@@ -2,6 +2,7 @@
   - 544405
   - 547838
   - 562515
+  - 565437
   - 565740
   - 568194
   - 931417
@@ -17,6 +18,7 @@
   description: Schalk, der Junior-Chef von Harnas, konnte einen Farmer überreden, dass er den wilden Leoparden auf seiner Farm nicht erschießt, sondern von der Harnas-Crew einfangen lässt. Nach einer ersten Untersuchung des Tieres auf Harnas stellte sich heraus, dass die Leopardin trächtig ist.
 - eventId:
   - 544406
+  - 565438
   - 565741
   - 568195
   start: 2026-11-16T01:00:00Z
@@ -49,6 +51,7 @@
   - 544407
   - 547840
   - 562517
+  - 565439
   - 565742
   - 568196
   - 931419
@@ -66,6 +69,7 @@
   - 544408
   - 547841
   - 562518
+  - 565440
   - 565743
   - 568197
   - 931420
@@ -83,6 +87,7 @@
   - 544409
   - 547842
   - 562519
+  - 565441
   - 565744
   - 568198
   - 931421
@@ -108,62 +113,45 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 548282
-  - 565950
-  - 569172
+- eventId: 565653
   start: 2026-11-16T03:00:00Z
   stop: 2026-11-16T03:30:00Z
   title: HEIMATJOURNAL
   subtitle: Heute aus Berlin - Prinzenviertel
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  episodeUri: crid://onid-1/e/6ac5725068a5a8e56f6b7184
   description: |-
     Das Viertel liegt in Berlin-Karlshorst in der Nähe der Trabrennbahn. Das Prinzenviertel heißt so, weil die Straßen ursprünglich nach den Söhnen des Kaisers benannt waren. Heute haben sie zwar andere Namen, doch der Charme der Kaiserzeit ist an einigen Stellen noch spürbar.
     Weitere Themen:
     * Das Dahlem des Ostens
     * Familientreffen im Seepark
     * Eisenbahnen aus dem 3D-Drucker
-- eventId:
-  - 548156
-  - 548283
-  - 562706
-  - 565951
-  - 569173
-  - 931710
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 565654
   start: 2026-11-16T03:30:00Z
   stop: 2026-11-16T04:00:00Z
   title: rbb UM6 - Das Ländermagazin
   subtitle: mit Sport
-  episodeUri: crid://onid-1/e/6ac5725068a5a8e56f6b7182
+  description: Das Ländermagazin samstags und sonntags um 18.00 Uhr im rbb Fernsehen mit aktuellen Berichten, Wetter, Nachrichten und Sport aus unserer Region Berlin-Brandenburg und den benachbarten Bundesländern in 30 Minuten.
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Das Ländermagazin samstags und sonntags um 18.00 Uhr im rbb Fernsehen mit aktuellen Berichten, Wetter, Nachrichten und Sport aus unserer Region Berlin-Brandenburg und den benachbarten Bundesländern in 30 Minuten.
-- eventId:
-  - 548157
-  - 548284
-  - 562707
-  - 565952
-  - 569174
-  - 931711
+- eventId: 565655
   start: 2026-11-16T04:00:00Z
   stop: 2026-11-16T04:30:00Z
   title: rbb24 Brandenburg aktuell
-  episodeUri: crid://onid-1/e/6ac5725068a5a8e56f6b7180
+  description: Die Nachrichtensendung täglich um 19.30 Uhr im rbb Fernsehen für das gesamte Bundesland Brandenburg. Mit Berichten aus Politik, Gesellschaft, Kultur und Sport. Das Wichtigste des Tages aus Brandenburg in 30 Minuten.
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Die Nachrichtensendung täglich um 19.30 Uhr im rbb Fernsehen für das gesamte Bundesland Brandenburg. Mit Berichten aus Politik, Gesellschaft, Kultur und Sport. Das Wichtigste des Tages aus Brandenburg in 30 Minuten.
 - eventId:
   - 548158
   - 548285
   - 562708
+  - 565656
   - 565953
   - 569175
   - 931712
@@ -182,6 +170,7 @@
   - 548286
   - 551072
   - 562709
+  - 565657
   - 565954
   - 569176
   - 931713
@@ -199,6 +188,7 @@
 - eventId:
   - 548676
   - 564668
+  - 565780
   - 566649
   - 570132
   - 610936
@@ -218,6 +208,7 @@
   - 548677
   - 553828
   - 564669
+  - 565781
   - 566650
   - 570133
   - 610937
@@ -238,6 +229,7 @@
   - 548678
   - 553829
   - 564670
+  - 565782
   - 566651
   - 570134
   - 610938
@@ -259,6 +251,7 @@
   - 541553
   - 548679
   - 564671
+  - 565783
   - 566652
   - 570135
   - 610939
@@ -285,6 +278,7 @@
   - 549021
   - 554628
   - 564873
+  - 565949
   - 570302
   - 611430
   - 931841
@@ -300,9 +294,12 @@
   ageRating: 12
   description: 'Nach dem Absturz ihrer Fensterputzerkabine werden Vinz Velden und Georg Helm ins Johannes-Thal-Klinikum eingeliefert. Georg muss aufgrund seiner schweren Verletzungen sofort notoperiert werden. Unterdessen macht Mikko seine ersten selbstständigen Gehversuche als Assistenzarzt und erstversorgt Vinz, der sich schwere Vorwürfe macht. Assistenzarzt Tom Zondek freut sich über einen neuen Fall: Sonja Rothe, frisch gebackene Abiturientin, wird humpelnd von ihm zusammen mit Dr. Marc Lindner im JTK aufgenommen. Tom ist mit Sonja auf einer Wellenlänge und ahnt schon bald, warum es so scheint, als ob sie das JTK gar nicht verlassen möchte.'
 - eventId:
+  - 548282
   - 549022
   - 554629
   - 564874
+  - 565950
+  - 569172
   - 570303
   - 611431
   - 931842
@@ -310,12 +307,32 @@
   stop: 2026-11-16T11:05:00Z
   title: Giraffe, Erdmännchen & Co. (260)
   subtitle: Zoogeschichten aus Frankfurt und Kronberg
-  episodeUri: crid://onid-1/e/6ac5725068a5a8e56f6b7170
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  episodeUri: crid://onid-1/e/6ac5725068a5a8e56f6b7184
   description: 'Endlich ist es soweit: Zarina, die junge Löwin aus England, soll sich der Presse und den Besuchern des Frankfurter Zoos zeigen. Vor einer Woche erst ist sie nach Deutschland gekommen und lebt seitdem geschützt im Hintergrund. Auch Löwenmann Kashi durfte sie bisher noch nicht sehen. Zarina ist noch ein bisschen schüchtern und überwältigt von der neuen Umgebung. Dennoch hoffen Zoodirektor Manfred Niekisch und Revierleiterin Claudia Löschmann, dass Zarina mutig in die Öffentlichkeit - das heißt: in das vordere Gehege - tritt.'
+- eventId:
+  - 548156
+  - 548283
+  - 562706
+  - 565951
+  - 569173
+  - 931710
+  start: 2026-11-16T11:05:00Z
+  stop: 2026-11-16T11:55:00Z
+  title: rbb UM6 - Das Ländermagazin
+  subtitle: Mord im Yachthafen
+  episodeUri: crid://onid-1/e/6ac5725068a5a8e56f6b7182
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Hauptkommissar Carsten Heinrich von der Kripo hat ein Date, das leider gehörig schiefgeht. Nachdem er den Champagner auf seinem Boot ganz alleine geleert hat und betrunken eingeschlafen ist, geht es aber noch viel schiefer. Er wacht mitten in der Nacht von einem Schrei auf und beobachtet, wie auf einer Yacht eine Frau stranguliert wird!
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 549023
   - 554630
@@ -337,29 +354,36 @@
   - '16'
   description: Hauptkommissar Carsten Heinrich von der Kripo hat ein Date, das leider gehörig schiefgeht. Nachdem er den Champagner auf seinem Boot ganz alleine geleert hat und betrunken eingeschlafen ist, geht es aber noch viel schiefer. Er wacht mitten in der Nacht von einem Schrei auf und beobachtet, wie auf einer Yacht eine Frau stranguliert wird!
 - eventId:
+  - 548157
+  - 548284
   - 549024
   - 554631
+  - 562707
   - 564876
+  - 565952
+  - 569174
   - 570305
   - 611433
+  - 931711
   - 931844
   start: 2026-11-16T11:55:00Z
   stop: 2026-11-16T12:40:00Z
   title: Mittendrin - Flughafen Frankfurt (42)
-  subtitle: Mit dem Zeppelin zum Flughafen - Premiere für Marko Hollerer
-  episodeUri: crid://onid-1/e/6ac5725068a5a8e56f6b716c
+  episodeUri: crid://onid-1/e/6ac5725068a5a8e56f6b7180
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  description: Marko Hollerer ist seit drei Jahren Zeppelinpilot. Zum ersten Mal fliegt er über Frankfurt. Heute kommt noch ein Highlight hinzu, das noch kein anderer Zeppelinpilot vor ihm machen durfte. Der 37-Jährige darf ganz nah entlang des Flughafens fliegen. Fluglotsen im Tower dirigieren Marko Hollerer und sein Luftschiff, über die Nord-West-Bahn und entlang der Terminals. Ein einmaliges Erlebnis auch für die 14 Passagiere an Bord. Anschließend steuert der Österreicher den Zeppelin über die Skyline von Frankfurt. Das ist der aufregendste Flug, den er jemals hatte, sagt Marko Hollerer. "Mittendrin" ist mitgeflogen.
+  subtitle: Mit dem Zeppelin zum Flughafen - Premiere für Marko Hollerer
   genre:
   - '112'
-  description: Marko Hollerer ist seit drei Jahren Zeppelinpilot. Zum ersten Mal fliegt er über Frankfurt. Heute kommt noch ein Highlight hinzu, das noch kein anderer Zeppelinpilot vor ihm machen durfte. Der 37-Jährige darf ganz nah entlang des Flughafens fliegen. Fluglotsen im Tower dirigieren Marko Hollerer und sein Luftschiff, über die Nord-West-Bahn und entlang der Terminals. Ein einmaliges Erlebnis auch für die 14 Passagiere an Bord. Anschließend steuert der Österreicher den Zeppelin über die Skyline von Frankfurt. Das ist der aufregendste Flug, den er jemals hatte, sagt Marko Hollerer. "Mittendrin" ist mitgeflogen.
 - eventId:
   - 548353
   - 549483
   - 555176
   - 565065
+  - 566106
   - 570769
   - 931971
   start: 2026-11-16T12:40:00Z
@@ -388,7 +412,9 @@
   audiodesc: true
   ageRating: 6
   description: 'Der Feuerwehrmann Erik will seiner Freundin Sofie einen Heiratsantrag machen, doch im entscheidenden Moment funkt die attraktive Melissa dazwischen. Als Sofie erfährt, dass Erik mit Melissa an Fasching eine flüchtige Affäre hatte, bricht für sie eine Welt zusammen. Aber die beiden raffen sich wieder auf, als Erik hoch und heilig verspricht, dass so etwas nie wieder vorkommen wird. Um die Ernsthaftigkeit seiner Absichten zu unterstreichen, macht er ihr ein unkonventionelles Angebot: Er "schenkt" ihr einen Seitensprung. Das hätte er besser nicht tun sollen, denn plötzlich droht er Sofie an seinen besten Freund zu verlieren.'
-- eventId: 555177
+- eventId:
+  - 555177
+  - 566107
   start: 2026-11-16T13:30:00Z
   stop: 2026-11-16T15:00:00Z
   title: Ich schenk dir einen Seitensprung
@@ -402,6 +428,19 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ac5725068a5a8e56f6b7168
+- eventId:
+  - 543298
+  - 566270
+  start: 2026-11-16T15:00:00Z
+  stop: 2026-11-16T15:15:00Z
+  title: Tagesschau
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  genre:
+  - '32'
+  description: Die Sendung wirft einen frischen Blick auf die Topthemen des Tages aus Berlin und Brandenburg und informiert kompakt über die Entwicklungen bis in den späten Abend hinein.
 - eventId: 555695
   start: 2026-11-16T15:00:00Z
   stop: 2026-11-16T15:15:00Z
@@ -412,6 +451,24 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ac5725068a5a8e56f6b7166
+- eventId:
+  - 543299
+  - 546793
+  - 559132
+  - 566271
+  - 742622
+  start: 2026-11-16T15:15:00Z
+  stop: 2026-11-16T16:05:00Z
+  title: In aller Freundschaft - Die jungen Ärzte (158)
+  subtitle: Neues für Verbraucher
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  episodeUri: crid://onid-1/e/6aceace614a97cb88d91a4f3
+  description: |-
+    Dr. Elias Bähr wird auf dem Weg zur Arbeit Zeuge, wie Lilly Bartosch einen schweren Sturz erleidet. Elias leistet sofort erste Hilfe und begleitet die junge Frau ins JTK. Hier wird sie von Oberarzt Dr. Niklas Ahrend operiert.
+    Oberarzt Dr. Matteo Moreau ist wie verwandelt, seit sein Studienfreund Piet Knaute in Erfurt ist. Die beiden verbringen jede freie Minute zusammen.
 - eventId: 555696
   start: 2026-11-16T15:15:00Z
   stop: 2026-11-16T16:05:00Z
@@ -425,6 +482,20 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ac5725068a5a8e56f6b7164
+- eventId:
+  - 543300
+  - 559133
+  - 566272
+  start: 2026-11-16T16:05:00Z
+  stop: 2026-11-16T16:53:00Z
+  title: Panda, Gorilla & Co. (261)
+  subtitle: Geschichten aus dem Zoo Berlin und dem Tierpark Berlin
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  episodeUri: crid://onid-1/e/6aceace614a97cb88d91a4f1
+  description: Das neu zusammengelegte Afrikanum-Revier umfasst im Tierpark mittlerweile 91 Tiere! Jeden Morgen nimmt sich Reviertierpflegerin Claudia Walther die Zeit, alle Gehege abzufahren und die vielen verschiedenen Arten zu zählen. Gleichzeitig überprüft sie bei ihrer großen Tour, ob alle ihre Schützlinge auch gesund und munter sind.
 - eventId: 555697
   start: 2026-11-16T16:05:00Z
   stop: 2026-11-16T16:53:00Z
@@ -436,6 +507,25 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ac5725068a5a8e56f6b7162
+- eventId:
+  - 543301
+  - 546795
+  - 559134
+  - 566273
+  - 742624
+  start: 2026-11-16T16:53:00Z
+  stop: 2026-11-16T17:00:00Z
+  title: Unser Sandmännchen
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  episodeUri: crid://onid-1/e/6aceb1045a2f0d77772bdf64
+  subtitle: 'Fieps: Fieps und die Flöte'
+  description: |-
+    Fieps und seine Eltern sind unterwegs im abendlichen Park. Von den Klängen einer Flöte fühlt sich die Spatzenfamilie magisch angezogen. Fröhlich tanzen alle zur Musik der Flötenspielerin. Doch die wird müde und legt sich schlafen. Kurzentschlossen versucht sich Fieps selbst als Musiker. Nun fehlt ihm nur noch die passende Flöte.
+
+    Jeden Tag die neueste Gute-Nacht-Geschichte vom Sandmännchen. Entdecke auch die Videos von Pittiplatsch, Jan & Henry und anderen Freunden des Sandmanns!
 - eventId: 555698
   start: 2026-11-16T16:53:00Z
   stop: 2026-11-16T17:00:00Z
@@ -450,6 +540,21 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ac5725068a5a8e56f6b7160
+- eventId:
+  - 543307
+  - 559136
+  - 566274
+  - 718276
+  start: 2026-11-16T17:00:00Z
+  stop: 2026-11-16T18:27:00Z
+  title: DER TAG in Berlin & Brandenburg
+  subtitle: Die Wetteraussichten für Berlin und Brandenburg
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  episodeUri: crid://onid-1/e/6ad2a5833c1ec961e8492ec7
+  description: "Themen:\n* Live vor Ort: Straße Alt-Biesdorf (B) - u.a. Schrotthandel, Indoor-Farming.\n* Studiogast: Katharina Thalbach - Schauspielerin & Regisseurin/ Kinofilm \"Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes und Amir\"\n* Wochenserie Stand-Up \"Berlin, bitte lachen!\" - Heute: Dominic Jozwiak \n* Verliebt im RE8 (BB) - Acht Jahre Liebe dank Odeg\n* Die Sachen meiner Mutter (B) - Literarische Nachlassverwaltung \n* Kohle-, Wind- und Wassertour (BB) - Radweg Elbe-Elster\n* Wo findet man den rbb Brandenburg? (BB) \n* Schlaues100: Warum sterben große Hunde früher?"
 - eventId: 555699
   start: 2026-11-16T17:00:00Z
   stop: 2026-11-16T18:27:00Z
@@ -478,6 +583,7 @@
 - eventId:
   - 546466
   - 550944
+  - 566459
   - 568672
   - 572192
   - 932105
@@ -495,6 +601,7 @@
   - 550428
   - 550945
   - 554892
+  - 566460
   - 568673
   - 572193
   - 932106
@@ -538,6 +645,7 @@
   description: Die Nachrichten der ARD
 - eventId:
   - 550946
+  - 566461
   - 568674
   - 572194
   - 932107
@@ -551,6 +659,7 @@
   audiodesc: true
   genre:
   - '32'
+  description: Die Nachrichten der ARD
 - eventId:
   - 546469
   - 554121
@@ -566,6 +675,22 @@
   audiodesc: true
   subtitle: Neues für Verbraucher
   description: '"SUPER.MARKT - Neues für Verbraucher" informiert regional und unterhaltsam über aktuelle Ratgeber- und Wirtschaftsthemen. Zum Anfang der Woche liefert das Verbrauchermagazin vom rbb Fernsehen kompetente Servicetipps von Experten für Berliner und Brandenburger. Ein Online-Angebot, das alle Ratgeberthemen bündelt, begleitet die Sendung.'
+- eventId: 566462
+  start: 2026-11-16T19:15:00Z
+  stop: 2026-11-16T20:00:00Z
+  title: SUPER.MARKT
+  subtitle: Neues für Verbraucher
+  description: |-
+    Themen:
+    * Autohaus König: Was ist trotz Insolvenz noch möglich?
+    * Wie finde ich ein günstiges E-Auto?
+    * Google Fakeshops für Brennstoffe
+    * Wie gesund sind Nuss-Snacks?
+    * E-Reader im Check
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 546470
   - 554122
@@ -606,6 +731,16 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 566463
+  start: 2026-11-16T20:00:00Z
+  stop: 2026-11-16T20:45:00Z
+  title: Die Frauensauna
+  subtitle: Plötzlich Wechseljahre!
+  description: 'Kathrin sucht Rat zur Demenzprävention, da ihre Mutter an Alzheimer erkrankt ist. Janet profitiert von bioidentischen Hormonen und schläft besser. Katja kämpft weiter mit Schlafproblemen und Hitzewallungen, Katrin sieht Erfolge nach dem Scheinfasten. Andrea bleibt bei ihrer Therapie. In der letzten Frauensauna ziehen alle Frauen Bilanz: Einen einheitlichen Weg durch die Wechseljahre gibt es nicht.'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 546471
   - 554123
@@ -624,6 +759,7 @@
 - eventId:
   - 550432
   - 550949
+  - 566464
   - 568677
   - 572197
   - 932110
@@ -658,6 +794,7 @@
   - 546674
   - 550681
   - 551222
+  - 566656
   - 568915
   - 932175
   start: 2026-11-16T21:15:00Z
@@ -678,6 +815,7 @@
   - 546675
   - 550682
   - 551223
+  - 566657
   - 568916
   - 572443
   - 598644

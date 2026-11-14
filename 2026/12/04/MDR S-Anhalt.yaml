@@ -12,7 +12,9 @@
   audiodesc: true
   description: 'BRISANT ist das Infotainment-Magazin der ARD und erzählt die Geschichten des Lebens aus aller Welt: Nachrichten, Hintergründe, Reportagen über den Klimawandel, Service, Trends, Lifestyle und Neuigkeiten von Prominenten.'
   subtitle: Das Kulturmagazin des MDR
-- eventId: 765995
+- eventId:
+  - 568195
+  - 765995
   start: 2026-12-04T00:20:00Z
   stop: 2026-12-04T00:50:00Z
   title: artour
@@ -30,6 +32,7 @@
   - 550670
   - 565304
   - 565743
+  - 568196
   - 570528
   - 765996
   start: 2026-12-04T00:50:00Z
@@ -43,6 +46,7 @@
   subtitle: Ein Roadtrip mit Comedian Timur Turga
 - eventId:
   - 539708
+  - 568197
   - 765997
   start: 2026-12-04T01:20:00Z
   stop: 2026-12-04T02:05:00Z
@@ -54,6 +58,7 @@
   audiodesc: true
 - eventId:
   - 539709
+  - 568198
   - 765998
   start: 2026-12-04T02:05:00Z
   stop: 2026-12-04T02:30:00Z
@@ -65,6 +70,7 @@
   audiodesc: true
 - eventId:
   - 539710
+  - 568199
   - 765999
   start: 2026-12-04T02:30:00Z
   stop: 2026-12-04T02:55:00Z
@@ -76,6 +82,7 @@
   audiodesc: true
 - eventId:
   - 539711
+  - 568200
   - 766000
   start: 2026-12-04T02:55:00Z
   stop: 2026-12-04T03:05:00Z
@@ -86,10 +93,25 @@
   audiodesc: true
 - eventId:
   - 546762
+  - 568372
   - 766031
   start: 2026-12-04T03:05:00Z
   stop: 2026-12-04T03:35:00Z
   title: MDR SACHSENSPIEGEL
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 541810
+  - 557656
+  - 568373
+  - 614471
+  - 679592
+  start: 2026-12-04T03:35:00Z
+  stop: 2026-12-04T04:05:00Z
+  title: MDR SACHSEN-ANHALT HEUTE
+  subtitle: 'Basketball live: Science City Jena - Rostock Seawolves'
   widescreen: true
   subtitled: true
   hd: true
@@ -105,11 +127,38 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 541811
+  - 557657
+  - 568374
+  - 614472
+  - 679593
+  start: 2026-12-04T04:05:00Z
+  stop: 2026-12-04T04:35:00Z
+  title: MDR THÜRINGEN JOURNAL
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 546764
   - 766033
   start: 2026-12-04T04:05:00Z
   stop: 2026-12-04T04:35:00Z
   title: MDR THÜRINGEN JOURNAL
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 541812
+  - 557658
+  - 568375
+  - 614473
+  - 679594
+  start: 2026-12-04T04:35:00Z
+  stop: 2026-12-04T05:25:00Z
+  title: Rote Rosen (1893)
+  subtitle: 'Basketball live: Science City Jena - Rostock Seawolves'
   widescreen: true
   subtitled: true
   hd: true
@@ -121,6 +170,20 @@
   stop: 2026-12-04T05:25:00Z
   title: Rote Rosen (1893)
   subtitle: Deutschland 2014
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 541813
+  - 557659
+  - 568376
+  - 614474
+  - 679595
+  start: 2026-12-04T05:25:00Z
+  stop: 2026-12-04T06:15:00Z
+  title: Heute im Osten - Reportage
+  subtitle: Ein deutscher Hufschmied hilft Pferden in Rumänien
   widescreen: true
   subtitled: true
   hd: true
@@ -155,6 +218,7 @@
   audiodesc: true
 - eventId:
   - 547331
+  - 568621
   - 766064
   start: 2026-12-04T06:15:00Z
   stop: 2026-12-04T07:05:00Z
@@ -166,6 +230,7 @@
   audiodesc: true
 - eventId:
   - 547332
+  - 568622
   - 766065
   start: 2026-12-04T07:05:00Z
   stop: 2026-12-04T07:55:00Z
@@ -177,6 +242,7 @@
   audiodesc: true
 - eventId:
   - 547333
+  - 568623
   - 766066
   start: 2026-12-04T07:55:00Z
   stop: 2026-12-04T08:45:00Z
@@ -189,6 +255,7 @@
   audiodesc: true
 - eventId:
   - 547334
+  - 568624
   - 766067
   start: 2026-12-04T08:45:00Z
   stop: 2026-12-04T09:35:00Z
@@ -302,6 +369,7 @@
   - '16'
 - eventId:
   - 549226
+  - 568988
   - 765835
   start: 2026-12-04T12:58:00Z
   stop: 2026-12-04T13:00:00Z
@@ -312,6 +380,7 @@
   audiodesc: true
 - eventId:
   - 549227
+  - 568989
   - 765836
   start: 2026-12-04T13:00:00Z
   stop: 2026-12-04T13:25:00Z
@@ -322,6 +391,7 @@
   audiodesc: true
 - eventId:
   - 549228
+  - 568990
   - 765837
   start: 2026-12-04T13:25:00Z
   stop: 2026-12-04T14:15:00Z
@@ -333,6 +403,7 @@
   audiodesc: true
 - eventId:
   - 549229
+  - 568991
   - 765838
   start: 2026-12-04T14:15:00Z
   stop: 2026-12-04T15:00:00Z

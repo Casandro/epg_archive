@@ -1,5 +1,6 @@
 - eventId:
   - 543888
+  - 551429
   - 553595
   - 570729
   - 572549
@@ -15,6 +16,7 @@
   description: Die Nachrichten der ARD
 - eventId:
   - 543889
+  - 551430
   - 553596
   - 570730
   - 572550
@@ -46,6 +48,7 @@
   hd: true
 - eventId:
   - 543890
+  - 551431
   - 553597
   - 570731
   - 572551
@@ -61,6 +64,7 @@
   description: Die Nachrichten der ARD
 - eventId:
   - 543891
+  - 551432
   - 553598
   - 570732
   - 572552
@@ -80,21 +84,11 @@
     * Winfried Kretschmann, Bündnis 90/Die Grünen, ehem. Ministerpräsident Baden-Württemberg
     * Philipp Türmer, SPD, Juso-Vorsitzender
     * Nina Kolleck, Bildungsforscherin, Universität Potsdam
-- eventId:
-  - 543892
-  - 553599
-  - 570733
-  - 572553
-  - 578075
-  - 687126
-  - 935414
+- eventId: 551433
   start: 2026-11-16T02:50:00Z
   stop: 2026-11-16T03:43:00Z
   title: ttt - titel thesen temperamente
   subtitle: 'Moderation: Thilo Jahn'
-  widescreen: true
-  subtitled: true
-  hd: true
   description: |-
     Geplante Themen:
     * Gen Z auf der Straße - Warum die Jugend international aufbegehrt
@@ -104,6 +98,9 @@
     Eine Ausstellung im Museum Ludwig hinterfragt, warum schwarze Künstler:innen in europäischen Museumssammlungen bis heute kaum vertreten sind.
     * "La Bola Negra"
     Ein epischer Kinofilm über drei schwule Männer, die zu verschiedenen Zeiten in Spanien leben.
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 685098
   start: 2026-11-16T02:55:00Z
   stop: 2026-11-16T03:35:00Z
@@ -138,35 +135,19 @@
   hd: true
   subtitle: Hoffnung für Katze Hope
   description: 'BRISANT ist das Infotainment-Magazin der ARD und erzählt die Geschichten des Lebens aus aller Welt: Nachrichten, Hintergründe, Reportagen über den Klimawandel, Service, Trends, Lifestyle und Neuigkeiten von Prominenten.'
-- eventId:
-  - 544113
-  - 554195
-  - 571646
-  - 592722
-  - 687134
-  - 935475
+- eventId: 551631
   start: 2026-11-16T03:43:00Z
   stop: 2026-11-16T03:45:00Z
   title: Tagesschau
+  description: Die Nachrichten der ARD
   widescreen: true
   subtitled: true
   hd: true
-  description: Die Nachrichten der ARD
-- eventId:
-  - 544114
-  - 554196
-  - 571647
-  - 573225
-  - 592723
-  - 687135
-  - 935476
+- eventId: 551632
   start: 2026-11-16T03:45:00Z
   stop: 2026-11-16T04:30:00Z
   title: Weltspiegel
   subtitle: Auslandskorrespondenten berichten
-  widescreen: true
-  subtitled: true
-  hd: true
   description: |-
     Themen:
     * Kuba: Wie lebt es sich ohne Strom?_
@@ -176,6 +157,9 @@
     * _Dominikanische Republik: Kinderdoping
     * Senegal: Gedemütigt, verfolgt, verprügelt
     * Italien: Eine Pizzeria, die Autisten Selbständigkeit gibt
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 685106
   start: 2026-11-16T04:05:00Z
   stop: 2026-11-16T04:50:00Z
@@ -188,21 +172,11 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 544115
-  - 554197
-  - 571648
-  - 573226
-  - 592724
-  - 687136
-  - 935477
+- eventId: 551633
   start: 2026-11-16T04:30:00Z
   stop: 2026-11-16T08:00:00Z
   title: ARD-Morgenmagazin
   subtitle: 'Moderation: Susan Link und Till Nassif'
-  widescreen: true
-  subtitled: true
-  hd: true
   description: |-
     Unsere Themen:
     * Hybride Bedrohungen: So stellen sich die Behörden dagegen auf; Dazu ein Gespräch mit Holger Münch, Präsident Bundeskriminalamt
@@ -212,6 +186,9 @@
     * Neue Funkzähler für Zentralheizungen, das kommt auf Mieter und Vermieter zu; Dazu Gespräch mit Ferdinand Schurz, Energieberater
     * Service: Gesunde Venen
     * Zeitreise: 50 Jahre Einreiseverbot für Wolf Biermann in die DDR
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 685107
   start: 2026-11-16T04:50:00Z
   stop: 2026-11-16T05:35:00Z
@@ -315,8 +292,17 @@
   hd: true
   description: Cosplayerin Deborah liebt Anime und Manga. Auf der Polaris Convention zeigt sie, warum Cosplay für sie mehr als ein Hobby ist.
   subtitle: Cosplay-Boom - 100 Stunden für ein Kostüm
+- eventId: 551882
+  start: 2026-11-16T08:00:00Z
+  stop: 2026-11-16T08:05:00Z
+  title: Tagesschau
+  description: Die Nachrichten der ARD
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 544373
+  - 551883
   - 572139
   - 573902
   - 577224
@@ -352,6 +338,7 @@
   hd: true
 - eventId:
   - 544374
+  - 551884
   - 572140
   - 573903
   - 577225
@@ -382,6 +369,7 @@
   hd: true
 - eventId:
   - 544687
+  - 552193
   - 574205
   - 687156
   start: 2026-11-16T09:40:00Z
@@ -393,6 +381,7 @@
   description: Die Nachrichten der ARD
 - eventId:
   - 544688
+  - 552194
   - 687157
   start: 2026-11-16T09:45:00Z
   stop: 2026-11-16T10:15:00Z
@@ -413,6 +402,7 @@
   hd: true
 - eventId:
   - 544689
+  - 552195
   - 687158
   start: 2026-11-16T10:15:00Z
   stop: 2026-11-16T11:00:00Z
@@ -435,6 +425,7 @@
   hd: true
 - eventId:
   - 544690
+  - 552196
   - 554881
   - 574208
   - 578877
@@ -480,6 +471,7 @@
   hd: true
 - eventId:
   - 545014
+  - 552519
   - 555743
   - 573808
   - 574263
@@ -495,6 +487,7 @@
   description: Die Nachrichten der ARD
 - eventId:
   - 545015
+  - 552520
   - 555744
   - 573809
   - 574264
@@ -523,6 +516,7 @@
   hd: true
 - eventId:
   - 545016
+  - 552521
   - 555745
   - 573810
   - 574265
@@ -554,20 +548,15 @@
   ageRating: 6
   genre:
   - '16'
-- eventId:
-  - 541754
-  - 545390
-  - 557801
-  - 594512
-  - 934749
-  start: 2026-11-16T15:00:00Z
-  stop: 2026-11-16T15:10:00Z
-  title: WDR aktuell
+- eventId: 552522
+  start: 2026-11-16T14:10:00Z
+  stop: 2026-11-16T15:00:00Z
+  title: Sturm der Liebe (4674)
+  subtitle: Deutschland 2026
+  description: Sinan kann den Ausbildungsplatz bei Fernando bekommen, doch dafür muss er sich selbst zurücknehmen. Christoph feuert die übergriffige Nanny. Katja verwundert erneut durch ihr ungewöhnliches Verhalten. Massimo bringt es nicht übers Herz, Olivia von seiner Vergangenheit mit Emilia zu erzählen.
   widescreen: true
   subtitled: true
   hd: true
-  description: Die Nachrichten der ARD
-  subtitle: 'Moderation: Carolyn Wißing'
 - eventId:
   - 554237
   - 747586
@@ -578,23 +567,23 @@
   subtitled: true
   hd: true
   description: Die Nachrichten der ARD
-- eventId:
-  - 541755
-  - 545391
-  - 554238
-  - 557802
-  - 594513
-  - 687174
-  - 747587
-  - 934750
-  start: 2026-11-16T15:10:00Z
-  stop: 2026-11-16T16:00:00Z
-  title: Elefant, Tiger & Co. (441)
-  subtitle: Volle Deckung Geschichten aus dem Leipziger Zoo
+- eventId: 556008
+  start: 2026-11-16T15:00:00Z
+  stop: 2026-11-16T15:10:00Z
+  title: Tagesschau
+  description: Die Nachrichten der ARD
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 556009
+  start: 2026-11-16T15:10:00Z
+  stop: 2026-11-16T16:00:00Z
+  title: Elefant, Tiger & Co. (441)
+  subtitle: Geschichten aus dem Leipziger Zoo
   description: "Auf der Hut: Bartaffe Shiva hat es gerade nicht leicht: Die neuen Frauen auf seiner Anlage, Katrin, Ruma und Tara, jagen und ärgern ihn, wo sie nur können. Kein Wunder, schließlich ist Shiva kastriert und deshalb innerhalb der Gruppe schwer einzuordnen. \nFlorian und Andrea sind ganz besondere Flamingos: Vor drei Monaten im Brüter geschlüpft, werden sie seitdem von Kerstin Schuldei liebevoll aufgezogen.\nDie Erdmännchen bekommen wieder einmal Besuch von einem Unbekannten und der verheißt viel Gutes. Ein Glücksschwein aus dem Hause Gräser soll die kleinen und großen Mäuler im Königreich stopfen."
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 685173
   start: 2026-11-16T15:15:00Z
   stop: 2026-11-16T17:00:00Z
@@ -602,20 +591,6 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 541756
-  - 545392
-  - 557803
-  - 594514
-  - 687175
-  - 934751
-  start: 2026-11-16T16:00:00Z
-  stop: 2026-11-16T16:15:00Z
-  title: Tagesschau
-  widescreen: true
-  subtitled: true
-  hd: true
-  description: Die Nachrichten der ARD
 - eventId:
   - 554239
   - 747588
@@ -627,9 +602,18 @@
   subtitled: true
   hd: true
   description: Die Nachrichten der ARD
+- eventId: 556010
+  start: 2026-11-16T16:00:00Z
+  stop: 2026-11-16T16:15:00Z
+  title: Tagesschau
+  description: Die Nachrichten der ARD
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 541757
   - 545393
+  - 556011
   - 557804
   - 594515
   - 687176
@@ -656,6 +640,7 @@
 - eventId:
   - 541758
   - 545394
+  - 556012
   - 557805
   - 594516
   - 934753
@@ -712,6 +697,7 @@
   description: Mit der Insolvenz der Segelmacherei Koessmann, einem Familienbetrieb, steht nicht nur das Lebenswerk von Bernhard Koessmann vor dem Aus, sondern auch die berufliche Zukunft seiner Tochter. Als Harry Möller und Nils Sanchez zu einem Einbruch in den Betrieb gerufen werden, liegt Koessmann mit Kopfwunde bewusstlos am Boden, während der Tatperson unerkannt die Flucht gelingt. Ein Anschlag auf die Insolvenzverwalterin verschärft zusätzlich die undurchsichtige Lage.
 - eventId:
   - 545395
+  - 556013
   - 687177
   start: 2026-11-16T17:50:00Z
   stop: 2026-11-16T18:45:00Z
@@ -734,6 +720,7 @@
   - 542608
   - 545799
   - 556118
+  - 556411
   - 558560
   - 589027
   - 687180
@@ -750,6 +737,7 @@
   - 542609
   - 545800
   - 556119
+  - 556412
   - 558561
   - 589028
   - 687181
@@ -766,6 +754,7 @@
   - 542610
   - 545801
   - 556120
+  - 556413
   - 558562
   - 589029
   - 934816
@@ -780,6 +769,7 @@
   - 542611
   - 545802
   - 556121
+  - 556414
   - 558563
   - 589030
   - 934817
@@ -807,6 +797,15 @@
   hd: true
   subtitle: 'Frikadellen Welt: Björn Freitag testet Bifteki, Köfte & Co'
   description: "Auf dem Mittagstisch, am Imbiss, als Partysnack, selbst gemacht oder gekauft - Frikadellen sind ein Klassiker der deutschen Küche. Doch sie sind auch international beliebt: Viele Länderküchen zelebrieren ihre ganz eigene Version des Fleischbällchens. Aber wo liegen die Unterschiede? \n\nUm dieser Frage nachzugehen, muss der Vorkoster nicht weit fahren. Von spanischen Albondigas über türkische Köfte bis hin zu griechischem Bifteki: Björn Freitag findet die internationale Frikadellen-Vielfalt direkt vor seiner Haustür."
+- eventId: 556415
+  start: 2026-11-16T19:15:00Z
+  stop: 2026-11-16T22:30:00Z
+  title: Sportschau
+  subtitle: 'UEFA Nations League: Deutschland - Niederlande'
+  description: "UEFA Nations League\nDeutschland - Niederlande \nReporter: Tom Bartels\nModeration: Esther Sedlaczek\nExperte: Bastian Schweinsteiger\nÜbertragung aus Berlin\n* ca. 21.35: Tagesthemen\n* ca. 22.50: Zusammenfassungen von den Spielen\n* Griechenland - Serbien\n* Schweiz - Schottland\n* Spanien - England"
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 685177
   start: 2026-11-16T20:00:00Z
   stop: 2026-11-16T20:45:00Z
@@ -840,42 +839,28 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 543395
-  - 545981
-  - 559041
-  - 560528
-  - 589755
-  - 687186
-  - 934899
+- eventId: 556597
   start: 2026-11-16T22:30:00Z
   stop: 2026-11-16T23:00:00Z
   title: 'Geheimsache Doping: Kinder (1/6)'
   subtitle: Träume
+  description: Kinderdoping ist eines der größten Verbrechen im Sport. Hajo Seppelt und sein Team leuchten diesen Abgrund aus. Sie beschreiben weltweit bewegende Schicksale, verfolgen skrupellose Drahtzieher und entlarven tatenlose Funktionäre.
   widescreen: true
   subtitled: true
   hd: true
-  description: Kinderdoping ist eines der größten Verbrechen im Sport. Hajo Seppelt und sein Team leuchten diesen Abgrund aus. Sie beschreiben weltweit bewegende Schicksale, verfolgen skrupellose Drahtzieher und entlarven tatenlose Funktionäre.
-- eventId:
-  - 543396
-  - 545982
-  - 559042
-  - 560529
-  - 589756
-  - 687187
-  - 934900
+- eventId: 556598
   start: 2026-11-16T23:00:00Z
   stop: 2026-11-16T23:30:00Z
   title: 'Geheimsache Doping: Kinder (2/6)'
   subtitle: Geheimnisse
-  widescreen: true
-  subtitled: true
-  hd: true
   description: |-
     Es ist eines der größten Verbrechen im internationalen Sport: Kinderdoping.
     Hormonpillen, Spritzenkuren, Blutdoping: Minderjährige werden von Trainern, Ärzten und manchmal sogar den eigenen Eltern ohne Skrupel mit gesundheitsgefährdenden Mitteln und Methoden auf Sieg getrimmt.
     Nach neuesten Schätzungen sind weltweit mindestens zehn Millionen Minderjährige betroffen. Die kriminellen Praktiken sind in der Sportwelt seit Jahrzehnten ein Tabu.
     Hajo Seppelt und sein Team leuchten diesen Abgrund des Sports aus, tiefgründig und umfassend. Für die ARD-Dopingredaktion haben sie sechs Jahre lang zu Fällen in mehr als 50 Ländern recherchiert.
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 685187
   start: 2026-11-16T23:15:00Z
   stop: 2026-11-17T01:15:00Z
@@ -885,23 +870,16 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 543397
-  - 545983
-  - 559043
-  - 560530
-  - 589757
-  - 687188
-  - 934901
+- eventId: 556599
   start: 2026-11-16T23:30:00Z
   stop: 2026-11-17T00:05:00Z
   title: 'Geheimsache Doping: Kinder (3/6)'
   subtitle: Täter
-  widescreen: true
-  subtitled: true
-  hd: true
   description: |-
     Es ist eines der größten Verbrechen im internationalen Sport: Kinderdoping.
     Hormonpillen, Spritzenkuren, Blutdoping: Minderjährige werden von Trainern, Ärzten und manchmal sogar den eigenen Eltern ohne Skrupel mit gesundheitsgefährdenden Mitteln und Methoden auf Sieg getrimmt.
     Nach neuesten Schätzungen sind weltweit mindestens zehn Millionen Minderjährige betroffen. Die kriminellen Praktiken sind in der Sportwelt seit Jahrzehnten ein Tabu.
     Hajo Seppelt und sein Team leuchten diesen Abgrund des Sports aus, tiefgründig und umfassend. Für die ARD-Dopingredaktion haben sie sechs Jahre lang zu Fällen in mehr als 50 Ländern recherchiert.
+  widescreen: true
+  subtitled: true
+  hd: true
