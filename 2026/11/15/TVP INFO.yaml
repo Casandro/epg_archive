@@ -5,6 +5,9 @@
   description: |-
     program informacyjny
     Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.
+  subtitle: Bieżące wydarzenia w kraju i na świecie. Informacje polityczne, gospodarcze, ważne tematy społeczne i poruszające opinię publiczną.
+  genre:
+  - '32'
 - eventId:
   - 660827
   - 830914
@@ -170,25 +173,18 @@
     W dniu Narodowego Święta Niepodległości Radosław Kotarski śledzi historyczne zwyczaje, które od lat Polacy praktykują właśnie 11 listopada. W tym celu między innymi wypieka rogale świętomarcińskie. Zastanawia się także czy w dawnej Polsce istniały obchody niepodległościowe. A jeśli tak, to z czym były związane?
   genre:
   - '149'
-- eventId: 639626
+- eventId:
+  - 639626
+  - 694198
   start: 2026-11-15T02:55:00Z
   stop: 2026-11-15T03:28:00Z
-  title: 'Podróże z historią: odc.53'
+  title: Podróże z historią 5 (odc. 10)
   description: |-
     serial dokumentalny (Polska, 2014) odc.53, 11 listopada - Dzień Niepodległości
     Prowadzą: Radosław Kotarski
     W Narodowe Święto Niepodległości Radosław Kotarski śledzi historyczne zwyczaje, które praktykowane są 11 listopada. Prowadzący między innymi wypieka rogale świętomarcińskie - tradycyjny przysmak poznaniaków. Ponadto zastanawia się, czy w dawnej Polsce istniały obchody niepodległościowe i z czym były związane.
     Reżyser: Radosław Kotarski
-- eventId: 694198
-  start: 2026-11-15T02:55:00Z
-  stop: 2026-11-15T03:28:00Z
-  title: Podróże z historią 5 (odc. 10)
   subtitle: W dniu Narodowego Święta Niepodległości Radosław Kotarski omówi zwyczaje praktykowane 11 listopada. Zastanowi się także, czy w dawnej Polsce istniały obchody niepodległościowe.
-  description: |-
-    Tytuł oryginalny: Podróże z historią
-    PL, 2017
-    Reżyseria: Radosław Kotarski
-    W dniu Narodowego Święta Niepodległości Radosław Kotarski śledzi historyczne zwyczaje, które od lat Polacy praktykują właśnie 11 listopada. W tym celu między innymi wypieka rogale świętomarcińskie. Zastanawia się także czy w dawnej Polsce istniały obchody niepodległościowe. A jeśli tak, to z czym były związane?
   genre:
   - '149'
 - eventId:
@@ -258,6 +254,8 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  genre:
+  - '34'
 - eventId:
   - 660838
   - 830925
@@ -276,6 +274,8 @@
   description: |-
     program informacyjny (na żywo)
     Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
+  genre:
+  - '34'
 - eventId:
   - 660839
   - 830926
@@ -294,6 +294,8 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  genre:
+  - '34'
 - eventId:
   - 660840
   - 830927
@@ -305,22 +307,16 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 639799
-  start: 2026-11-15T05:13:00Z
-  stop: 2026-11-15T05:15:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId:
+  - 639799
   - 660841
   - 830928
   start: 2026-11-15T05:13:00Z
   stop: 2026-11-15T05:15:00Z
   title: Prognoza pogody
-  description: |
-    Tytuł oryginalny: Prognoza pogody
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
 - eventId: 639800
@@ -330,6 +326,8 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  genre:
+  - '34'
 - eventId:
   - 660842
   - 830929
@@ -348,6 +346,8 @@
   description: |-
     program informacyjny (na żywo)
     Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
+  genre:
+  - '34'
 - eventId:
   - 660843
   - 830930
@@ -366,6 +366,8 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  genre:
+  - '34'
 - eventId:
   - 660844
   - 830931
@@ -377,22 +379,16 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 639803
-  start: 2026-11-15T05:40:00Z
-  stop: 2026-11-15T05:42:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId:
+  - 639803
   - 660845
   - 830932
   start: 2026-11-15T05:40:00Z
   stop: 2026-11-15T05:42:00Z
   title: Prognoza pogody
-  description: |
-    Tytuł oryginalny: Prognoza pogody
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
 - eventId: 639804
@@ -402,6 +398,9 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  subtitle: Program składa się z serwisów informacyjnych i sportowych, przeglądu prasy krajowej i zagranicznej oraz portali internetowych, prognozy pogody, informacji ekonomicznych i rozmowy z zaproszonymi gośćmi.
+  genre:
+  - '34'
 - eventId:
   - 660846
   - 830933
@@ -421,6 +420,8 @@
   description: |-
     program informacyjny (na żywo)
     Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
+  genre:
+  - '34'
 - eventId:
   - 660847
   - 830934
@@ -444,22 +445,16 @@
     Program informacyjny, który zawiera przegląd i zapowiedzi najważniejszych wydarzeń z poszczególnych zakątków Polski. Powstaje dzięki współpracy redakcji TVP Info z reporterami z szesnastu oddziałów regionalnych TVP.
   genre:
   - '34'
-- eventId: 639887
-  start: 2026-11-15T06:14:00Z
-  stop: 2026-11-15T06:16:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId:
+  - 639887
   - 660849
   - 830936
   start: 2026-11-15T06:14:00Z
   stop: 2026-11-15T06:16:00Z
   title: Prognoza pogody
-  description: |
-    Tytuł oryginalny: Prognoza pogody
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
 - eventId:
@@ -481,6 +476,8 @@
   description: |-
     program informacyjny (na żywo)
     Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
+  genre:
+  - '34'
 - eventId:
   - 660851
   - 830938
@@ -504,22 +501,16 @@
     Program informacyjny, który zawiera przegląd i zapowiedzi najważniejszych wydarzeń z poszczególnych zakątków Polski. Powstaje dzięki współpracy redakcji TVP Info z reporterami z szesnastu oddziałów regionalnych TVP.
   genre:
   - '34'
-- eventId: 639891
-  start: 2026-11-15T06:44:00Z
-  stop: 2026-11-15T06:46:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId:
+  - 639891
   - 660853
   - 830940
   start: 2026-11-15T06:44:00Z
   stop: 2026-11-15T06:46:00Z
   title: Prognoza pogody
-  description: |
-    Tytuł oryginalny: Prognoza pogody
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
 - eventId:
@@ -541,6 +532,8 @@
   description: |-
     program informacyjny (na żywo)
     Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
+  genre:
+  - '34'
 - eventId:
   - 660855
   - 830942
@@ -559,6 +552,8 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  genre:
+  - '34'
 - eventId:
   - 660856
   - 830943
@@ -570,22 +565,16 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 639895
-  start: 2026-11-15T07:14:00Z
-  stop: 2026-11-15T07:17:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId:
+  - 639895
   - 660857
   - 830944
   start: 2026-11-15T07:14:00Z
   stop: 2026-11-15T07:17:00Z
   title: Prognoza pogody
-  description: |
-    Tytuł oryginalny: Prognoza pogody
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
 - eventId: 639896
@@ -595,6 +584,8 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  genre:
+  - '34'
 - eventId:
   - 660858
   - 830945
@@ -613,6 +604,8 @@
   description: |-
     program informacyjny (na żywo)
     Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
+  genre:
+  - '34'
 - eventId:
   - 660859
   - 830946
@@ -631,6 +624,8 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  genre:
+  - '34'
 - eventId:
   - 660860
   - 830947
@@ -663,6 +658,8 @@
   description: |-
     program informacyjny (na żywo)
     Poranny serwis informacyjny, w którym prezentowane są aktualne wiadomości o wydarzeniach z kraju i ze świata.
+  genre:
+  - '34'
 - eventId:
   - 660862
   - 830949
@@ -681,6 +678,9 @@
   description: |-
     program informacyjny (na żywo)
     Omówienie bieżących wydarzeń. W programie prezentowane są najciekawsze artykuły prasowe, przytoczone zostaną fragmenty tekstów oraz fotografie. Twórcy zajrzą też do sieci. Nie zabraknie przeglądu najważniejszych informacji, zarówno z polskich, jak i zagranicznych stron internetowych.
+  subtitle: Program składa się z serwisów informacyjnych i sportowych, przeglądu prasy krajowej i zagranicznej oraz portali internetowych, prognozy pogody, informacji ekonomicznych i rozmowy z zaproszonymi gośćmi.
+  genre:
+  - '34'
 - eventId:
   - 660863
   - 830950
@@ -693,22 +693,16 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 639942
-  start: 2026-11-15T08:25:00Z
-  stop: 2026-11-15T08:30:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId:
+  - 639942
   - 660864
   - 830951
   start: 2026-11-15T08:25:00Z
   stop: 2026-11-15T08:30:00Z
   title: Prognoza pogody
-  description: |
-    Tytuł oryginalny: Prognoza pogody
-    PL, 2026
+  description: |-
+    program informacyjny
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
 - eventId:
@@ -731,6 +725,8 @@
   description: |-
     program informacyjny (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
+  genre:
+  - '34'
 - eventId:
   - 660866
   - 830953
@@ -762,6 +758,8 @@
   description: |-
     program informacyjny (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
+  genre:
+  - '34'
 - eventId:
   - 660868
   - 830955
@@ -773,22 +771,16 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 640051
-  start: 2026-11-15T11:27:00Z
-  stop: 2026-11-15T11:30:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId:
+  - 640051
   - 660869
   - 830956
   start: 2026-11-15T11:27:00Z
   stop: 2026-11-15T11:30:00Z
   title: Prognoza pogody
-  description: |
-    Tytuł oryginalny: Prognoza pogody
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
   genre:
   - '32'
 - eventId: 640052
@@ -798,6 +790,8 @@
   description: |-
     program informacyjny (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
+  genre:
+  - '34'
 - eventId:
   - 660870
   - 830957
@@ -810,6 +804,7 @@
   genre:
   - '34'
 - eventId:
+  - 648209
   - 660871
   - 830958
   start: 2026-11-15T12:00:00Z
@@ -821,6 +816,7 @@
   genre:
   - '35'
 - eventId:
+  - 648210
   - 660872
   - 830959
   start: 2026-11-15T12:22:00Z
@@ -832,6 +828,7 @@
   genre:
   - '34'
 - eventId:
+  - 648211
   - 660873
   - 830960
   start: 2026-11-15T12:27:00Z
@@ -843,6 +840,7 @@
   genre:
   - '32'
 - eventId:
+  - 648212
   - 660874
   - 830961
   start: 2026-11-15T12:30:00Z
@@ -865,7 +863,9 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 694200
+- eventId:
+  - 648213
+  - 694200
   start: 2026-11-15T13:15:00Z
   stop: 2026-11-15T13:24:00Z
   title: Serwis info dzień
@@ -875,6 +875,7 @@
   genre:
   - '34'
 - eventId:
+  - 648214
   - 660876
   - 830963
   start: 2026-11-15T13:24:00Z
@@ -886,6 +887,7 @@
   genre:
   - '32'
 - eventId:
+  - 648215
   - 660877
   - 830964
   start: 2026-11-15T13:30:00Z
@@ -897,6 +899,7 @@
   genre:
   - '34'
 - eventId:
+  - 648216
   - 660878
   - 830965
   start: 2026-11-15T14:00:00Z
@@ -908,6 +911,7 @@
   genre:
   - '34'
 - eventId:
+  - 648217
   - 660879
   - 830966
   start: 2026-11-15T14:10:00Z
@@ -921,6 +925,7 @@
   genre:
   - '51'
 - eventId:
+  - 648218
   - 660880
   - 830967
   start: 2026-11-15T15:00:00Z
@@ -933,6 +938,7 @@
   genre:
   - '34'
 - eventId:
+  - 648219
   - 660881
   - 830968
   start: 2026-11-15T16:00:00Z
@@ -944,6 +950,7 @@
   genre:
   - '32'
 - eventId:
+  - 648220
   - 660882
   - 830969
   start: 2026-11-15T16:15:00Z
@@ -956,6 +963,7 @@
   genre:
   - '34'
 - eventId:
+  - 648221
   - 660883
   - 830970
   start: 2026-11-15T16:35:00Z
@@ -967,6 +975,7 @@
   genre:
   - '32'
 - eventId:
+  - 648222
   - 660884
   - 830971
   start: 2026-11-15T16:42:00Z
@@ -980,6 +989,7 @@
   genre:
   - '34'
 - eventId:
+  - 648223
   - 660885
   - 830972
   start: 2026-11-15T17:00:00Z
@@ -992,6 +1002,7 @@
   genre:
   - '32'
 - eventId:
+  - 648224
   - 660886
   - 830973
   start: 2026-11-15T17:20:00Z
@@ -1003,6 +1014,7 @@
   genre:
   - '34'
 - eventId:
+  - 648225
   - 660887
   - 830974
   start: 2026-11-15T17:30:00Z
@@ -1015,6 +1027,7 @@
   genre:
   - '34'
 - eventId:
+  - 648226
   - 660888
   - 830975
   start: 2026-11-15T18:00:00Z
@@ -1036,7 +1049,9 @@
     PL, 2026
   genre:
   - '122'
-- eventId: 694201
+- eventId:
+  - 648227
+  - 694201
   start: 2026-11-15T18:08:00Z
   stop: 2026-11-15T18:23:00Z
   title: Trochę kultury
@@ -1056,7 +1071,9 @@
     PL, 2026
   genre:
   - '32'
-- eventId: 694202
+- eventId:
+  - 648228
+  - 694202
   start: 2026-11-15T18:23:00Z
   stop: 2026-11-15T18:30:00Z
   title: Prognoza pogody
@@ -1066,6 +1083,7 @@
   genre:
   - '32'
 - eventId:
+  - 648229
   - 660891
   - 830978
   start: 2026-11-15T18:30:00Z
@@ -1078,6 +1096,7 @@
   genre:
   - '32'
 - eventId:
+  - 648230
   - 660892
   - 830979
   start: 2026-11-15T18:58:00Z
@@ -1090,6 +1109,7 @@
   genre:
   - '51'
 - eventId:
+  - 648231
   - 660893
   - 830980
   start: 2026-11-15T19:15:00Z
@@ -1113,7 +1133,9 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 750630
+- eventId:
+  - 648232
+  - 750630
   start: 2026-11-15T20:01:00Z
   stop: 2026-11-15T20:15:00Z
   title: Serwis info wieczór
@@ -1123,6 +1145,7 @@
   genre:
   - '34'
 - eventId:
+  - 648233
   - 660895
   - 830982
   start: 2026-11-15T20:15:00Z
@@ -1135,6 +1158,7 @@
   genre:
   - '51'
 - eventId:
+  - 648234
   - 660896
   - 830983
   start: 2026-11-15T20:45:00Z
@@ -1147,6 +1171,7 @@
   genre:
   - '32'
 - eventId:
+  - 648235
   - 660897
   - 830984
   start: 2026-11-15T21:10:00Z
@@ -1159,6 +1184,7 @@
   genre:
   - '34'
 - eventId:
+  - 648236
   - 660898
   - 830985
   start: 2026-11-15T21:30:00Z
@@ -1171,6 +1197,7 @@
   genre:
   - '34'
 - eventId:
+  - 648237
   - 660899
   - 830986
   start: 2026-11-15T22:00:00Z
@@ -1182,6 +1209,7 @@
   genre:
   - '34'
 - eventId:
+  - 648238
   - 660900
   - 830987
   start: 2026-11-15T22:15:00Z
@@ -1193,6 +1221,7 @@
   genre:
   - '34'
 - eventId:
+  - 648239
   - 660901
   - 830988
   start: 2026-11-15T22:30:00Z
@@ -1204,6 +1233,7 @@
   genre:
   - '32'
 - eventId:
+  - 648240
   - 660902
   - 830989
   start: 2026-11-15T22:45:00Z
@@ -1227,7 +1257,9 @@
     PL, 2026
   genre:
   - '34'
-- eventId: 694203
+- eventId:
+  - 648241
+  - 694203
   start: 2026-11-15T23:05:00Z
   stop: 2026-11-16T00:10:00Z
   title: Woronicza 17

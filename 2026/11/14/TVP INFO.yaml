@@ -803,14 +803,8 @@
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
   genre:
   - '34'
-- eventId: 638957
-  start: 2026-11-14T18:22:00Z
-  stop: 2026-11-14T18:30:00Z
-  title: Pogoda Info
-  description: |-
-    program informacyjny (na żywo)
-    Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
 - eventId:
+  - 638957
   - 660813
   - 804160
   start: 2026-11-14T18:22:00Z
@@ -867,6 +861,8 @@
   description: |-
     program informacyjny (Polska) (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
+  genre:
+  - '34'
 - eventId:
   - 660817
   - 804164
@@ -925,6 +921,9 @@
   description: |-
     program informacyjny (Polska) (na żywo)
     Dziennikarze relacjonują najważniejsze i najciekawsze wydarzenia minionego dnia z poszczególnych regionów Polski oraz całego świata.
+  subtitle: Wieczorny serwis informacyjny, prezentujący najważniejsze wydarzenia mijającego dnia.
+  genre:
+  - '34'
 - eventId:
   - 660821
   - 804168
