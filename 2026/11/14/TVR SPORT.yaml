@@ -1375,7 +1375,7 @@
   - 624018
   - 729454
   start: 2026-11-14T06:30:00Z
-  stop: 2026-11-14T07:00:00Z
+  stop: 2026-11-14T08:00:00Z
   title: SPORTS REPLAY
   subtitle: ' *   (Reluare)'
   ageRating: 4
@@ -2371,6 +2371,7 @@
   - 761869
   - 763011
   - 764993
+  - 771160
   start: 2026-11-14T08:05:00Z
   stop: 2026-11-14T10:30:00Z
   title: Programi i mëngjesit
@@ -4136,6 +4137,7 @@
   - 761870
   - 763012
   - 764994
+  - 771161
   start: 2026-11-14T10:30:00Z
   stop: 2026-11-14T11:20:00Z
   title: Reportazhe
@@ -5015,7 +5017,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 763013
+- eventId:
+  - 763013
+  - 771162
   start: 2026-11-14T11:20:00Z
   stop: 2026-11-14T12:00:00Z
   title: Farewell Letter
@@ -5475,6 +5479,7 @@
   - 761872
   - 763014
   - 764996
+  - 771163
   start: 2026-11-14T12:05:00Z
   stop: 2026-11-14T13:15:00Z
   title: Click Plus
@@ -6751,6 +6756,7 @@
   - 761873
   - 763015
   - 764997
+  - 771164
   start: 2026-11-14T13:15:00Z
   stop: 2026-11-14T14:25:00Z
   title: Reportazhe
@@ -8146,6 +8152,7 @@
   - 761874
   - 763016
   - 764998
+  - 771165
   start: 2026-11-14T14:25:00Z
   stop: 2026-11-14T15:00:00Z
   title: Promo
@@ -8193,6 +8200,7 @@
   - 761875
   - 763017
   - 764999
+  - 771166
   start: 2026-11-14T15:00:00Z
   stop: 2026-11-14T16:00:00Z
   title: Preferenca Muzikore
@@ -8204,7 +8212,7 @@
   - 624032
   - 729456
   start: 2026-11-14T16:00:00Z
-  stop: 2026-11-14T16:10:00Z
+  stop: 2026-11-14T16:55:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -8655,6 +8663,7 @@
   - 761876
   - 763018
   - 765000
+  - 771167
   start: 2026-11-14T16:55:00Z
   stop: 2026-11-14T17:00:00Z
   title: Promo
@@ -8704,6 +8713,7 @@
   - 761877
   - 763019
   - 765001
+  - 771168
   start: 2026-11-14T17:00:00Z
   stop: 2026-11-14T17:30:00Z
   title: Reportazhe
@@ -8791,6 +8801,7 @@
   - 761878
   - 763020
   - 765002
+  - 771169
   start: 2026-11-14T17:30:00Z
   stop: 2026-11-14T18:00:00Z
   title: Live news AL
@@ -8806,11 +8817,19 @@
   stop: 2026-11-14T20:00:00Z
   title: Rugby
   subtitle: '  * WORLD NATIONS CUPGeorgia-Canada'
+- eventId: 771170
+  start: 2026-11-14T18:00:00Z
+  stop: 2026-11-14T18:30:00Z
+  title: Edhe unë jam këtu
+  subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 624035
   - 729459
   start: 2026-11-14T18:30:00Z
-  stop: 2026-11-14T20:20:00Z
+  stop: 2026-11-14T19:00:00Z
   title: Live News MK
   subtitle: '  * WORLD NATIONS CUP * PremieraPortugalia-Samoa Comentator Octavian Pescaru Producator Daniela Enachescu '
   ageRating: 4
@@ -8847,6 +8866,7 @@
   - 761880
   - 763022
   - 765004
+  - 771171
   start: 2026-11-14T19:00:00Z
   stop: 2026-11-14T19:30:00Z
   title: Promo
@@ -8962,6 +8982,7 @@
   - 761881
   - 763023
   - 765005
+  - 771172
   start: 2026-11-14T19:30:00Z
   stop: 2026-11-14T21:00:00Z
   title: Fol shqip
@@ -9351,6 +9372,7 @@
   - 761882
   - 763024
   - 765006
+  - 771173
   start: 2026-11-14T21:00:00Z
   stop: 2026-11-14T21:20:00Z
   title: Live News MK
@@ -9390,6 +9412,7 @@
   - 761883
   - 763025
   - 765007
+  - 771174
   start: 2026-11-14T21:20:00Z
   stop: 2026-11-14T21:40:00Z
   title: Fc Latta
@@ -9850,6 +9873,7 @@
   - 755899
   - 761884
   - 765008
+  - 771175
   start: 2026-11-14T21:40:00Z
   stop: 2026-11-14T23:25:00Z
   title: Odeon
@@ -10758,6 +10782,7 @@
   - 755900
   - 761885
   - 765009
+  - 771176
   start: 2026-11-14T23:25:00Z
   stop: 2026-11-15T00:35:00Z
   title: Click Plus

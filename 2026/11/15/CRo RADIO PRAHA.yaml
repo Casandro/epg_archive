@@ -360,12 +360,8 @@
   stop: 2026-11-15T08:32:00Z
   title: Zprávy Rádia Praha
   subtitle: Nejnovější informace z Prahy i celého světa.
-- eventId: 756785
-  start: 2026-11-15T08:32:00Z
-  stop: 2026-11-15T08:33:00Z
-  title: Doprava
-  subtitle: Dopravní informace každých 15 minut. Zavolejte i vy 800 553 553
 - eventId:
+  - 756785
   - 767999
   - 769715
   - 771055
@@ -415,12 +411,8 @@
   stop: 2026-11-15T08:45:00Z
   title: Ranní Praha
   subtitle: Skvělá muzika a informační servis pro start vašeho dne. Moderuje Honza Chlaň.
-- eventId: 756787
-  start: 2026-11-15T08:45:00Z
-  stop: 2026-11-15T08:49:00Z
-  title: Týden v Praze
-  subtitle: Přehled nejdůležitějších událostí za poslední týden. Moderuje Štěpánka Martanová.
 - eventId:
+  - 756787
   - 768025
   - 769717
   - 771057
@@ -811,12 +803,16 @@
   stop: 2026-11-15T13:04:00Z
   title: Zprávy Rádia Praha
   subtitle: Nejnovější informace z Prahy i celého světa.
-- eventId: 756979
+- eventId:
+  - 756979
+  - 769952
   start: 2026-11-15T13:04:00Z
   stop: 2026-11-15T13:05:00Z
   title: Doprava
   subtitle: Dopravní informace každých 15 minut. Zavolejte i vy 800 553 553
-- eventId: 756980
+- eventId:
+  - 756980
+  - 769953
   start: 2026-11-15T13:05:00Z
   stop: 2026-11-15T13:16:00Z
   title: Víkendová Praha
@@ -1017,7 +1013,9 @@
   stop: 2026-11-15T16:05:00Z
   title: Doprava
   subtitle: Dopravní informace každých 15 minut. Zavolejte i vy 800 553 553
-- eventId: 758357
+- eventId:
+  - 758357
+  - 770074
   start: 2026-11-15T16:05:00Z
   stop: 2026-11-15T16:16:00Z
   title: Večerní Praha
