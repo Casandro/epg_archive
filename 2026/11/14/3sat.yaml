@@ -1451,7 +1451,7 @@
   - 676736
   - 679298
   start: 2026-11-14T11:15:00Z
-  stop: 2026-11-14T11:59:00Z
+  stop: 2026-11-14T11:55:00Z
   title: Thema
   genre:
   - '32'
@@ -1470,13 +1470,17 @@
 
     Moderation: Christoph Feurstein
     HD-Produktion
-- eventId: 774104
+- eventId:
+  - 774104
+  - 774268
   start: 2026-11-14T11:55:00Z
   stop: 2026-11-14T12:00:00Z
   title: DACH-Bodenfund - Urlaub
   genre:
   - '32'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 773679
   - 773692
@@ -1539,7 +1543,9 @@
   description: |-
     Die Kurzausgaben der österreichischen Nachrichtensendung "Zeit im Bild" (ZIB) liefern neben klassischen Nachrichten Informationen über Entwicklungen auf den Finanzmärkten und Expertenanalysen.
     HD-Produktion
-- eventId: 774163
+- eventId:
+  - 774163
+  - 774269
   start: 2026-11-14T12:00:00Z
   stop: 2026-11-14T12:09:00Z
   title: ZIB
@@ -1550,6 +1556,8 @@
   - '32'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 773680
   - 773693
