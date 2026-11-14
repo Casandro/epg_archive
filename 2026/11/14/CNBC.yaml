@@ -145,10 +145,19 @@
   description: 'Pres: Andreas Trippolt. Retransmisiðn deportiva.  CNBC HD D15 12.00 D15 14.00 D15 15.00 '
   genre:
   - '79'
-- eventId: 775730
+- eventId:
+  - 775730
+  - 776261
   start: 2026-11-14T14:00:00Z
   stop: 2026-11-14T15:00:00Z
   title: TOUR DE FRANCE CRITERIUM
   description: '(TP) Tour de France Criterium.  '
   genre:
   - '79'
+- eventId: 776265
+  start: 2026-11-14T15:00:00Z
+  stop: 2026-11-14T15:30:00Z
+  title: THE TECH DOWNLOAD
+  description: '''Episode 15'' T1 Hosted by Arjun Kharpal, CNBC''s ''''Tech Download'''' podcast cuts through the noise to unpack the technology stories that matter most.  '
+  genre:
+  - '47'
