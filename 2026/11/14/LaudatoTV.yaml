@@ -378,6 +378,7 @@
   ageRating: 4
   genre:
   - '128'
+  description: Ela ima problema s djeljenjem posla oko školskog projekta s naizgled neprijateljskom i natjecateljskom učenicom. Međutim, kad Superknjiga odvede naš trio natrag u vrijeme pada Jerihona gdje Ela upoznaje Rahabu, ona počinje shvaćati da se ljudi mogu promjeniti i da oni koji su bili protivnici mogu postati suradnici koji će raditi s tobom za veće dobro.
 - eventId: 631509
   start: 2026-11-14T07:29:00Z
   stop: 2026-11-14T08:00:00Z
@@ -402,7 +403,7 @@
 - eventId: 761146
   start: 2026-11-14T07:30:00Z
   stop: 2026-11-14T08:01:00Z
-  title: Moje vrijeme s Isusom
+  title: Moje vrijeme s Isusom, My time with Jesus
   subtitle: 'Crtana serija prati zgode četvero djece, Eve, Josepha, Christine i Enriquea, koji su krenuli na put otkrića. Naši junaci putuju u prošlost kako bi oživjeli svoje omiljene priče iz Evanđelja. '
   ageRating: 4
   genre:
@@ -538,17 +539,14 @@
   title: Stijepo Gleđ Markos - Psalam 18, Stijepo Gleđ Markos - Psalam 18
   subtitle: Stijepo Gleđ Markos - Psalam 18.
   ageRating: 4
-- eventId: 751419
+- eventId:
+  - 751419
+  - 761149
   start: 2026-11-14T11:34:00Z
   stop: 2026-11-14T12:51:00Z
   title: 'Papino apostolsko putovanje u Peru: Susret sa sveučilišnom zajednicom'
-  subtitle: Religijski
-  description: Papino apostolsko putovanje u Urugvaj, Argentinu i Peru
-- eventId: 761149
-  start: 2026-11-14T11:34:00Z
-  stop: 2026-11-14T12:51:00Z
-  title: Papino apostolsko putovanje u Peru
   subtitle: Apostolsko putovanje pape Lava XIV. u Urugvaj, Argentinu i Peru održat će se prema planu od 6. do 17. studenoga 2026. Sveti Otac s radošću iščekuje susrete s vjernicima i mjesnim Crkvama u trima...
+  description: Papino apostolsko putovanje u Urugvaj, Argentinu i Peru
   ageRating: 4
   genre:
   - '160'
@@ -582,17 +580,14 @@
   description: Darija Ramljak - Trebam te, moj dobri anđele (Molitva za djecu stradalu u Domovinskom ratu)
   subtitle: Darija Ramljak - Trebam te, moj dobri anđele (Molitva za djecu stradalu u Domovinskom ratu).
   ageRating: 4
-- eventId: 751421
+- eventId:
+  - 751421
+  - 761150
   start: 2026-11-14T12:54:00Z
   stop: 2026-11-14T13:59:00Z
   title: 'Papino apostolsko putovanje u Peru: Obred krunjenja Bezgrešne Djevice Marije'
-  subtitle: Religijski
-  description: Papino apostolsko putovanje u Urugvaj, Argentinu i Peru
-- eventId: 761150
-  start: 2026-11-14T12:54:00Z
-  stop: 2026-11-14T13:59:00Z
-  title: Papino apostolsko putovanje u Peru
   subtitle: Apostolsko putovanje pape Lava XIV. u Urugvaj, Argentinu i Peru održat će se prema planu od 6. do 17. studenoga 2026. Sveti Otac s radošću iščekuje susrete s vjernicima i mjesnim Crkvama u trima...
+  description: Papino apostolsko putovanje u Urugvaj, Argentinu i Peru
   ageRating: 4
   genre:
   - '160'
@@ -693,20 +688,13 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 631573
-  start: 2026-11-14T15:45:00Z
-  stop: 2026-11-14T16:05:00Z
-  title: Stihom kroz dušu - Svjetlost je tvoja sjena, Stihom kroz dušu
-  subtitle: Zaronite u svijet duhovne poezije i upoznajte opća mjesta duhovne lirike. S Robertom Kurbašom oživljavamo koloplet domaćih i svjetskih stihova koji dotiču sve generacije.
-  ageRating: 4
-  genre:
-  - '160'
 - eventId:
+  - 631573
   - 724062
   - 761152
   start: 2026-11-14T15:45:00Z
   stop: 2026-11-14T16:05:00Z
-  title: Stihom kroz dušu
+  title: Stihom kroz dušu - Svjetlost je tvoja sjena, Stihom kroz dušu
   subtitle: Zaronite u svijet duhovne poezije i upoznajte opća mjesta duhovne lirike. S Robertom Kurbašom oživljavamo koloplet domaćih i svjetskih stihova koji dotiču sve generacije.
   ageRating: 4
   genre:
@@ -747,15 +735,12 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 751424
+- eventId:
+  - 751424
+  - 761153
   start: 2026-11-14T16:05:00Z
   stop: 2026-11-14T16:59:00Z
   title: Nikolinom Bosnom, Nikolinom Bosnom
-  subtitle: Dokumentarni
-- eventId: 761153
-  start: 2026-11-14T16:05:00Z
-  stop: 2026-11-14T16:59:00Z
-  title: Nikolinom Bosnom
   subtitle: Televizijska priča "Nikolinom Bosnom" prati prve redovničke korake prvog hrvatskog kanoniziranog sveca Nikole Tavelića iz 14. stoljeća, koji je, s navršenih 30 godina iz samostana sv. Frane u...
   ageRating: 4
   genre:
@@ -878,15 +863,12 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 751428
+- eventId:
+  - 751428
+  - 761154
   start: 2026-11-14T21:21:00Z
   stop: 2026-11-14T22:04:00Z
   title: Domovinu volim, Domovinu volim
-  subtitle: Glazbeni
-- eventId: 761154
-  start: 2026-11-14T21:21:00Z
-  stop: 2026-11-14T22:04:00Z
-  title: Domovinu volim
   subtitle: Domoljubna glazba.
   ageRating: 4
   genre:
@@ -963,14 +945,12 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 751431
+- eventId:
+  - 751431
+  - 761157
   start: 2026-11-14T22:56:00Z
   stop: 2026-11-14T23:02:00Z
   title: Rua - Dubine srca tog, Rua - Dubine srca tog
-- eventId: 761157
-  start: 2026-11-14T22:56:00Z
-  stop: 2026-11-14T23:02:00Z
-  title: Rua - Dubine srca tog
   subtitle: Glazbeni tim Rua donosi vam pjesmu 'Dubine srca tog'.
   ageRating: 4
 - eventId: 631621
