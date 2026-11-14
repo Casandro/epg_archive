@@ -155,7 +155,7 @@
   hd: true
 - eventId: 726734
   start: 2026-11-16T05:10:00Z
-  stop: 2026-11-16T05:45:00Z
+  stop: 2026-11-16T06:00:00Z
   title: 19h30 - Signé
   description: (Rediffusion)  "Langue des signes"
   genre:
@@ -176,6 +176,7 @@
   hd: true
 - eventId:
   - 579422
+  - 760514
   - 830549
   start: 2026-11-16T06:00:00Z
   stop: 2026-11-16T07:00:00Z
@@ -240,12 +241,21 @@
   - 583857
   - 844169
   start: 2026-11-16T10:05:00Z
-  stop: 2026-11-16T11:00:00Z
+  stop: 2026-11-16T10:55:00Z
   title: RTS Info
   subtitle: L'actualité en continu
   description: En direct.
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 760515
+  start: 2026-11-16T10:55:00Z
+  stop: 2026-11-16T11:15:00Z
+  title: Couleurs locales
+  genre:
+  - '33'
   widescreen: true
   subtitled: true
   hd: true
@@ -330,6 +340,16 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 760516
+  start: 2026-11-16T13:40:00Z
+  stop: 2026-11-16T14:25:00Z
+  title: Mise au point
+  description: "(Suisse Romande-2026)  - Crans-Montana : la sinistrose À quelques jours de son ouverture hivernale, la station valaisanne doute de son avenir. Depuis la tragédie, la baisse du nombre de touristes est forte. Les appartements se louent plus difficilement, les restaurants ferment et les visiteurs n'ont pas le c_ur à faire la fête ici. Reportage. \n - Intelligence artificielle : la grande menace À quelques jours de l'entrée en bourse du géant d'Anthropic, des mouvements citoyens réclament des garde-fous pour maintenir l'IA sous contrôle. Aux Etats Unis mais aussi chez nous en Suisse, la crainte est de plus en plus vive pour nos emplois mais aussi pour l'humanité en général.\n - Devenir policier : immersion au long cours avec les aspirants Comment et pourquoi devient-on policier ? Mise au Point a suivi la formation de deux candidats sur deux ans. Une immersion unique entre académie de police, stage de maintien de l'ordre et apprentissage sur le terrain. C'est un reportage en 3 ..."
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 583889
   - 844182
@@ -338,6 +358,21 @@
   title: RTS Info
   subtitle: L'actualité en continu
   description: En direct.
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId:
+  - 641050
+  - 655989
+  - 760517
+  - 824932
+  start: 2026-11-16T14:30:00Z
+  stop: 2026-11-16T15:10:00Z
+  title: La Matinale
+  subtitle: L'actualité en continu
+  description: En direct. 7h-8h de La Première du 09.11.2026
   genre:
   - '32'
   widescreen: true
