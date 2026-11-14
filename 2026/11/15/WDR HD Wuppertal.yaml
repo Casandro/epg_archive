@@ -138,7 +138,9 @@
   hd: true
   audiodesc: true
   description: 'Zwischen Julischen Alpen und Adriaküste findet man in Slowenien, im Herzen Europas, eine spektakuläre Vielfalt: hohe Berge, glasklare Seen, Weinregionen, eindrucksvolle Höhlen und mediterrane Küstenorte. Stephanie Müller-Spirra entdeckt mitten im Indian Summer den Westen Sloweniens.'
-- eventId: 652462
+- eventId:
+  - 600722
+  - 652462
   start: 2026-11-15T04:05:00Z
   stop: 2026-11-15T05:35:00Z
   title: Wunderschön! Slowenien - Zwischen Alpen und Adria
@@ -178,7 +180,9 @@
   hd: true
   audiodesc: true
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
-- eventId: 652463
+- eventId:
+  - 600723
+  - 652463
   start: 2026-11-15T05:35:00Z
   stop: 2026-11-15T05:45:00Z
   title: Erlebnisreisen
@@ -203,10 +207,20 @@
   hd: true
   audiodesc: true
   description: "Protein ist plötzlich überall: im Pudding, im Brot, im Riegel, im Pulver. Es soll satt machen, Muskeln wachsen lassen, beim Abnehmen helfen und gesund halten. Ein Nährstoff wird zum Versprechen - und zum Geschäft.\nAber wie viel Protein braucht der Mensch wirklich? \n\nWährend die einen teure Spezialprodukte kaufen, die ihnen kaum nützen, bekommen andere tatsächlich zu wenig davon - oft ohne es zu merken. Wie kommt das? Welches Protein ist das richtige? Und lässt sich der Bedarf auch rein pflanzlich decken? Quarks macht den Test: mit normalen Lebensmitteln statt Proteinpulver."
+- eventId: 600724
+  start: 2026-11-15T05:45:00Z
+  stop: 2026-11-15T06:15:00Z
+  title: Lokalzeit
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 584274
   - 587849
   - 597090
+  - 600886
   - 609762
   - 615746
   - 906858
@@ -221,7 +235,9 @@
   genre:
   - '144'
   description: 'Die Fernsehköche Martina und Moritz servieren ein besonderes Rührei mit roter Bete als verführerische Vorspeise. Sie bereiten Miesmuscheln zu - natürlich auf niederrheinische Art. Es gibt Kartoffel-Stampes mit Endivie und kross gebratenen Schweinebauch, außerdem knusprige Speckpfannkuchen aus Buchweizenmehl und am Ende einen fabelhaften Wirsingauflauf, der in einer Springform gebacken wird und fast wie eine Torte aussieht. Natürlich ist auch etwas Süßes dabei: knusprige Apfelpüfferkes, von denen man nicht genug kriegen kann...'
-- eventId: 584275
+- eventId:
+  - 584275
+  - 600887
   start: 2026-11-15T06:45:00Z
   stop: 2026-11-15T07:15:00Z
   title: Einfach und köstlich - Björn Freitag kocht mit Katrin Neugebauer
@@ -258,6 +274,7 @@
   - 584276
   - 587851
   - 597092
+  - 600888
   - 609764
   - 615748
   - 906860
@@ -274,6 +291,7 @@
   - 584277
   - 587852
   - 597093
+  - 600889
   - 609765
   - 615749
   - 906861
@@ -295,6 +313,7 @@
   - 584278
   - 587853
   - 597094
+  - 600890
   - 609766
   - 615750
   - 906862
@@ -328,6 +347,28 @@
   ageRating: 6
   genre:
   - '16'
+- eventId:
+  - 1537416
+  - 584406
+  - 590086
+  - 593286
+  - 594424
+  - 601108
+  - 606258
+  - 612886
+  - 616257
+  - 636767
+  start: 2026-11-15T10:15:00Z
+  stop: 2026-11-15T11:00:00Z
+  title: Mittendrin - Flughafen Frankfurt (72)
+  subtitle: 72. Condors pinker Flieger - Ein Zeichen gegen Brustkrebs
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Sie gehören zum Stadtbild wie der Dom. Für die Menschen in Köln ist der Kiosk weit mehr als eine Verkaufsstelle. Alt und Jung, Arm und Reich, alle treffen sich am Büdchen. Was den Rheinländern lieb und wichtig ist, bezeichnen sie gerne mit der Verkleinerungsform. Und während bundesweit immer mehr dieser kleinen Geschäfte schließen, bleibt die Zahl hier konstant. Fast 800 sind es im Stadtgebiet und machen Köln damit zur Kioskhauptstadt Deutschlands.
+  genre:
+  - '112'
 - eventId:
   - 588128
   - 598613
@@ -368,6 +409,26 @@
   genre:
   - '97'
   ageRating: 6
+- eventId:
+  - 1537417
+  - 584407
+  - 590087
+  - 593287
+  - 594425
+  - 601109
+  - 606259
+  - 612887
+  - 616258
+  - 636768
+  start: 2026-11-15T11:00:00Z
+  stop: 2026-11-15T11:45:00Z
+  title: Land & lecker - Kulinarische Schätze (3)
+  subtitle: Edles vom Strauß aus der Bodenseeregion
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die dritte Reise geht in den westlichen Bodenseekreis zu Lea Martin. Hier hält die 30-jährige mit ihrem Mann Heiko 120 Strauße. Innerhalb der letzten Jahre haben die beiden den unrentablen Hof der Schwiegereltern zu einer exotischen Straußenfarm umgebaut. Das exklusive Fleisch verkaufen sie direkt an den Verbraucher. In ihrem Landmenü stellt Lea die Vielseitigkeit ihres kulinarischen Schatzes vor.
 - eventId: 610394
   start: 2026-11-15T11:00:00Z
   stop: 2026-11-15T11:45:00Z
@@ -409,10 +470,26 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 590088
+  - 593288
+  - 601110
+  - 612888
+  - 636769
+  start: 2026-11-15T11:45:00Z
+  stop: 2026-11-15T12:00:00Z
+  title: Elefant, Tiger & Co. (457)
+  subtitle: Geschichten aus dem Leipziger Zoo
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: "* Sich regen bringt Segen \nLöwen-Senior Matadi soll heute in Schwung gebracht werden. Sein Pfleger hängt die Trauben besonders hoch und Matadi muss sich tüchtig strecken.\n* Ausflug mit Schrecken\nDie kleine Thomson-Gazelle darf das erste Mal Leipziger Luft schnuppern. Doch der Schritt in die große, weite Welt birgt auch so einige Risiken.\n* Auszug wider Willen\nBei den Pinguinen herrscht Aufregung. Ihre Anlage verwandelt sich in eine Großbaustelle.\n* Neue und alte Freundschaften \nVor 42 Jahren haben Petra Friedrich und Roland Männel ihre Ausbildung im Zoo absolviert. Nach mehr als vier Jahrzehnten sind die beiden nun wieder vereint."
+- eventId:
   - 1512609
   - 588315
   - 588830
   - 599042
+  - 601263
   - 609605
   - 610700
   - 616717
@@ -434,6 +511,7 @@
   - 588316
   - 588831
   - 599043
+  - 601264
   - 609606
   - 610701
   - 616718
@@ -451,7 +529,9 @@
   - '96'
   description: 'Es gibt bessere Tage. Jedenfalls im Leben von Martin Koslowski und Hasan Haferkamp, beste Kumpel und Kollegen bei einem Sicherheitsunternehmen in Bochum-Hamme. Erst wird Martin von seiner Frau Sylvia verlassen. Wenige Stunden später wird ihm und Hasan der Geldtransporter nebst Ladung unter dem Hintern weggeraubt. Ihr Chef lässt sie daraufhin erst gar nicht mehr auf das Firmengelände. Frau weg, Job weg, alles weg. Es kommt sogar noch schlimmer: Die lästigen Kommissare Schlegel und Pohl halten sie für die Hauptverdächtigen. Aus der Not heraus beginnen Martin und Hasan, selbst zu ermitteln.'
   ageRating: 12
-- eventId: 588832
+- eventId:
+  - 588832
+  - 601265
   start: 2026-11-15T13:20:00Z
   stop: 2026-11-15T13:50:00Z
   title: Unsere Tipps - Ausflugs-Highlights im Westen
@@ -463,6 +543,7 @@
   audiodesc: true
 - eventId:
   - 588833
+  - 601266
   - 727856
   start: 2026-11-15T13:50:00Z
   stop: 2026-11-15T14:45:00Z
@@ -477,6 +558,7 @@
     Benedikt Brinsa kommentiert, gemeinsam mit der früheren Nationalspielerin und zweimaligen Europameisterin Inka Grings an seiner Seite.
 - eventId:
   - 588834
+  - 601267
   - 727857
   start: 2026-11-15T14:45:00Z
   stop: 2026-11-15T15:00:00Z
@@ -491,6 +573,7 @@
   - 589046
   - 599237
   - 599794
+  - 601476
   - 611024
   - 616963
   - 906561
@@ -550,7 +633,9 @@
   description: |-
     Die Bonner Band Druckluft hat mit der "Karnevalsmaus" den Superhit der Session gelandet. Der Hype rund um die ehemalige Bonner Schülerband kennt keine Grenzen. Vor lauter Autogramm- und Fotowünschen schafft die Band es kaum aus dem Bus. In den Sälen singt und tanzt jeder Jeck die "Karnevalsmaus". Die Maus ist das Trendkostüm.
     Marc-André Schröter hat mit seiner Kamera Frontmann Florian Hertel und die Band Druckluft einen Tag lang in diesem "Wahnsinn" ganz nah begleitet. Im Band-Bus rund um Köln, von Auftritt zu Auftritt. Er zeigt, wie sehr sich das Leben der Band verändert hat, aber auch wie der Superhit entstanden ist.
-- eventId: 652485
+- eventId:
+  - 601477
+  - 652485
   start: 2026-11-15T16:00:00Z
   stop: 2026-11-15T16:15:00Z
   title: Unterwegs mit Druckluft - wie die Karnevalsmaus alles verändert
@@ -589,6 +674,7 @@
   - 589049
   - 599240
   - 599797
+  - 601478
   - 611027
   - 611868
   - 616966
@@ -609,6 +695,7 @@
   - 589050
   - 599241
   - 599798
+  - 601479
   - 611028
   - 611869
   - 616967
@@ -630,6 +717,7 @@
   - 589051
   - 599242
   - 599799
+  - 601480
   - 611029
   - 611870
   - 616968
@@ -646,6 +734,7 @@
 - eventId:
   - 588797
   - 589250
+  - 601684
   - 605694
   - 611509
   - 617392
@@ -661,6 +750,7 @@
 - eventId:
   - 588798
   - 589251
+  - 601685
   - 605695
   - 611510
   - 617393
@@ -678,6 +768,7 @@
 - eventId:
   - 588799
   - 589252
+  - 601686
   - 605696
   - 611511
   - 617394
@@ -694,6 +785,7 @@
 - eventId:
   - 588800
   - 589253
+  - 601687
   - 605697
   - 611512
   - 617395
@@ -707,7 +799,9 @@
   hd: true
   audiodesc: true
   description: "Die größte Halle. Die größten Stars. Die besten Newcomerinnen und Newcomer. Das Publikum erwartet eine Comedy-Show der Superlative! 1LIVE und das COLOGNE COMEDY FESTIVAL holen auch 2026 wieder das Who is Who der deutschsprachigen Comedyszene auf die große Bühne. \n\nMit Gastgeber Osan Yaran stehen in diesem Jahr auf der Bühne: Bastian Bielendorfer, Torsten Sträter, Björn von Morgenstern, Jerry Vsan, Elli Lizz, Ana Lucía, Pam Pengco und Simon Stäblein."
-- eventId: 661022
+- eventId:
+  - 601874
+  - 661022
   start: 2026-11-15T23:15:00Z
   stop: 2026-11-16T01:00:00Z
   title: 'Rockpalast: State Radio'

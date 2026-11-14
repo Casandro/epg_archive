@@ -31,6 +31,19 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 600599
+  start: 2026-11-15T01:00:00Z
+  stop: 2026-11-15T02:35:00Z
+  title: In den besten Händen
+  subtitle: Spielfilm Frankreich 2021
+  description: "Comiczeichnerin Raphaela und Verlegerin Julie sind seit zehn Jahren ein Paar, doch nun scheint ihre Beziehung am Ende zu sein. Bei einem ihrer aufreibenden Streits stürzt Raphaela, bricht sich den Arm und die beiden landen unversehens in einer Pariser Notaufnahme. Draußen toben heftige Proteste, das Krankenhaus füllt sich mit verletzten Demonstrierenden, das Personal ist am Ende mit den Nerven und die Lage droht zu eskalieren. \n\nAls der wütende LKW-Fahrer Yann zu Raphaela ins Zimmer verlegt wird, prallen Vorurteile und Klassen-Ressentiments aufeinander. Doch im Laufe der ereignisreichen Nacht werden sie viele Gemeinsamkeiten finden."
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 652453
   start: 2026-11-15T01:00:00Z
   stop: 2026-11-15T02:35:00Z
@@ -112,7 +125,9 @@
     Für Comedian Matze Knop ist die dritte Jahreszeit einfach die "Herbstwoche" in Lippstadt: "Wenn hier Herbst ist, dann ist Kirmes und wenn Kirmes Schluss ist, ist auch eigentlich schon Winter."
 
     Für "Wanderpapst" Manuel Andrack ist der Herbst die schönste Zeit, um den Westen zu Fuß zu erkunden, für Schauspieler Jan-Gregor Kremp sind es die Farben, die den Herbst zu seiner Jahreszeit machen.
-- eventId: 652455
+- eventId:
+  - 600600
+  - 652455
   start: 2026-11-15T02:35:00Z
   stop: 2026-11-15T04:05:00Z
   title: Unsere Herbstgeschichten
@@ -143,7 +158,9 @@
   hd: true
   audiodesc: true
   description: 'Zwischen Julischen Alpen und Adriaküste findet man in Slowenien, im Herzen Europas, eine spektakuläre Vielfalt: hohe Berge, glasklare Seen, Weinregionen, eindrucksvolle Höhlen und mediterrane Küstenorte. Stephanie Müller-Spirra entdeckt mitten im Indian Summer den Westen Sloweniens.'
-- eventId: 652478
+- eventId:
+  - 600769
+  - 652478
   start: 2026-11-15T04:05:00Z
   stop: 2026-11-15T05:35:00Z
   title: Wunderschön! Slowenien - Zwischen Alpen und Adria
@@ -183,7 +200,9 @@
   hd: true
   audiodesc: true
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
-- eventId: 652479
+- eventId:
+  - 600770
+  - 652479
   start: 2026-11-15T05:35:00Z
   stop: 2026-11-15T05:45:00Z
   title: Erlebnisreisen
@@ -208,10 +227,20 @@
   hd: true
   audiodesc: true
   description: "Protein ist plötzlich überall: im Pudding, im Brot, im Riegel, im Pulver. Es soll satt machen, Muskeln wachsen lassen, beim Abnehmen helfen und gesund halten. Ein Nährstoff wird zum Versprechen - und zum Geschäft.\nAber wie viel Protein braucht der Mensch wirklich? \n\nWährend die einen teure Spezialprodukte kaufen, die ihnen kaum nützen, bekommen andere tatsächlich zu wenig davon - oft ohne es zu merken. Wie kommt das? Welches Protein ist das richtige? Und lässt sich der Bedarf auch rein pflanzlich decken? Quarks macht den Test: mit normalen Lebensmitteln statt Proteinpulver."
+- eventId: 600771
+  start: 2026-11-15T05:45:00Z
+  stop: 2026-11-15T06:15:00Z
+  title: Lokalzeit
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 588046
   - 588247
   - 598191
+  - 600975
   - 610231
   - 616146
   - 906898
@@ -245,7 +274,9 @@
   description: |-
     Heute wird Björn Freitag hessisches Abendbrot aufgetischt - und damit macht ihn Profiköchin Katrin Neugebauer so richtig glücklich! Mit Björns Hilfe richtet Katrin zwei hessische Leibspeisen auf einem Brettchen an - wirklich raffiniert, eine feine Kombi aus Handkäse-Stulle und Frankfurter Grüne Soße zum Dippen.
     Die Hessin kann sich auch Björn Freitags Heimatküche auf der Zunge zergehen lassen. Der Kochprofi hat Lust auf "Gerolltes". Schweinebauchrouladen sind ein Eifler Traditionsessen und da passt die kräftige Bier-BBQ-Soße bestens dazu. Für Katrin ebenfalls ein Hochgenuss: das karamellisierte Sauerkraut.
-- eventId: 588248
+- eventId:
+  - 588248
+  - 600976
   start: 2026-11-15T06:45:00Z
   stop: 2026-11-15T07:15:00Z
   title: Einfach und köstlich - Björn Freitag kocht mit Katrin Neugebauer
@@ -263,6 +294,7 @@
   - 588048
   - 588249
   - 598193
+  - 600977
   - 610233
   - 616148
   - 906900
@@ -279,6 +311,7 @@
   - 588049
   - 588250
   - 598194
+  - 600978
   - 610234
   - 616149
   - 906901
@@ -300,6 +333,7 @@
   - 588050
   - 588251
   - 598195
+  - 600979
   - 610235
   - 616150
   - 906902
@@ -332,6 +366,7 @@
 - eventId:
   - 588265
   - 588782
+  - 601153
   - 610647
   - 616589
   - 906508
@@ -349,6 +384,7 @@
   - 588266
   - 588783
   - 598987
+  - 601154
   - 609394
   - 615620
   - 616590
@@ -394,6 +430,7 @@
 - eventId:
   - 588267
   - 588784
+  - 601155
   - 610649
   - 616591
   - 906510
@@ -410,6 +447,7 @@
   - 588452
   - 588913
   - 599178
+  - 601350
   - 610856
   - 906549
   start: 2026-11-15T12:00:00Z
@@ -426,6 +464,7 @@
   - 588453
   - 588914
   - 599179
+  - 601351
   - 610857
   - 906550
   start: 2026-11-15T12:30:00Z
@@ -445,6 +484,7 @@
   - 588454
   - 588915
   - 599180
+  - 601352
   - 610858
   - 906551
   start: 2026-11-15T13:20:00Z
@@ -461,6 +501,7 @@
   description: 'Überall in NRW gibt es spannende Orte zu entdecken - darunter echte Geheimtipps. Gemeinsam mit Daniel Assmann erkunden wir Ausflugstipps im Westen für Familien und alle, die mal raus wollen und etwas erleben möchten: ruhig oder mit viel Action.'
 - eventId:
   - 588916
+  - 601353
   - 727873
   start: 2026-11-15T13:50:00Z
   stop: 2026-11-15T14:45:00Z
@@ -492,6 +533,7 @@
   - '16'
 - eventId:
   - 588917
+  - 601354
   - 727874
   start: 2026-11-15T14:45:00Z
   stop: 2026-11-15T15:00:00Z
@@ -505,6 +547,7 @@
   - 588720
   - 589142
   - 599454
+  - 601560
   - 611358
   - 617283
   - 906603
@@ -559,7 +602,9 @@
   description: |-
     Die Bonner Band Druckluft hat mit der "Karnevalsmaus" den Superhit der Session gelandet. Der Hype rund um die ehemalige Bonner Schülerband kennt keine Grenzen. Vor lauter Autogramm- und Fotowünschen schafft die Band es kaum aus dem Bus. In den Sälen singt und tanzt jeder Jeck die "Karnevalsmaus". Die Maus ist das Trendkostüm.
     Marc-André Schröter hat mit seiner Kamera Frontmann Florian Hertel und die Band Druckluft einen Tag lang in diesem "Wahnsinn" ganz nah begleitet. Im Band-Bus rund um Köln, von Auftritt zu Auftritt. Er zeigt, wie sehr sich das Leben der Band verändert hat, aber auch wie der Superhit entstanden ist.
-- eventId: 652493
+- eventId:
+  - 601561
+  - 652493
   start: 2026-11-15T16:00:00Z
   stop: 2026-11-15T16:15:00Z
   title: Unterwegs mit Druckluft - wie die Karnevalsmaus alles verändert
@@ -585,6 +630,7 @@
   - 588723
   - 589145
   - 599457
+  - 601562
   - 611361
   - 617286
   - 906606
@@ -601,6 +647,7 @@
   - 588724
   - 589146
   - 599458
+  - 601563
   - 611362
   - 617287
   - 906607
@@ -616,6 +663,7 @@
   - 588725
   - 589147
   - 599459
+  - 601564
   - 611363
   - 617288
   - 906608
@@ -643,6 +691,23 @@
   audiodesc: true
   subtitle: Politik in Nordrhein-Westfalen
 - eventId:
+  - 590759
+  - 590782
+  - 601749
+  - 613522
+  - 620417
+  - 933893
+  start: 2026-11-15T18:30:00Z
+  stop: 2026-11-15T19:00:00Z
+  title: Westpol - Politik in Nordrhein-Westfalen
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Das Nachrichtenmagazin für Nordrhein-Westfalen - mit Berichten, Reportagen, Nachrichten und Interviews aus unserem Bundesland.
+    * anschließend: "Lokalzeit"-Kurzausgabe
+- eventId:
   - 588982
   - 589309
   - 599730
@@ -660,6 +725,22 @@
   audiodesc: true
   description: Die Nachrichten der ARD
 - eventId:
+  - 590760
+  - 590783
+  - 601750
+  - 613523
+  - 620418
+  - 933894
+  start: 2026-11-15T19:00:00Z
+  stop: 2026-11-15T19:15:00Z
+  title: Servicezeit
+  subtitle: Verbrauchertipps für jeden Tag
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Wirklich preiswert? Wirklich praktisch? Wirklich lecker? Die Servicezeit macht Ihren Alltag leichter! Mit unseren Tipps sind Sie in allen Lebenslagen gut beraten! Ob Gesundheit oder Geld, Wohnen oder Ernährung, Multimedia oder Verkehr - das Verbrauchermagazin Servicezeit beleuchtet Hintergründe, schafft Orientierung und gibt praktische Ratschläge - und zwar unabhängig und neutral.
+- eventId:
   - 588983
   - 589310
   - 599731
@@ -670,6 +751,22 @@
   stop: 2026-11-15T20:45:00Z
   title: Wunderschön! Südpolen - Von der Hohen Tatra nach Krakau
   subtitle: 'Moderation: Ramon Babazadeh'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Polens Süden ist für Einheimische ein beliebtes Urlaubsgebiet. Die Deutschen entdecken erst allmählich diese Region, die in Sachen Kultur und Natur Überraschendes zu bieten hat. Zum Beispiel die Hohe Tatra. Mit ihren 2000er-Gipfeln gilt sie als das kleinste Hochgebirge der Welt - ein wunderbares Wanderparadies für Einsteiger und Profis, wilder Lebensraum für Braunbären und Luchse. Gut eine Stunde entfernt liegt Krakau. Die Stadt an der Weichsel hat sich mehr und mehr zu einem kulturellen Zentrum Polens entwickelt.
+- eventId:
+  - 590761
+  - 590784
+  - 601751
+  - 613524
+  - 620419
+  - 933895
+  start: 2026-11-15T19:15:00Z
+  stop: 2026-11-15T20:45:00Z
+  title: Wunderschön! Südpolen - Von der Hohen Tatra nach Krakau
+  subtitle: Das Informationsmagazin für NRW
   widescreen: true
   subtitled: true
   hd: true
@@ -691,7 +788,24 @@
   hd: true
   audiodesc: true
   description: "Die größte Halle. Die größten Stars. Die besten Newcomerinnen und Newcomer. Das Publikum erwartet eine Comedy-Show der Superlative! 1LIVE und das COLOGNE COMEDY FESTIVAL holen auch 2026 wieder das Who is Who der deutschsprachigen Comedyszene auf die große Bühne. \n\nMit Gastgeber Osan Yaran stehen in diesem Jahr auf der Bühne: Bastian Bielendorfer, Torsten Sträter, Björn von Morgenstern, Jerry Vsan, Elli Lizz, Ana Lucía, Pam Pengco und Simon Stäblein."
-- eventId: 661030
+- eventId:
+  - 590762
+  - 593933
+  - 601752
+  - 613525
+  - 636935
+  start: 2026-11-15T20:45:00Z
+  stop: 2026-11-15T23:15:00Z
+  title: 1LIVE Köln Comedy-Nacht XXL 2026
+  subtitle: Europas größte Comedy-Mixshow
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: "Die größte Halle. Die größten Stars. Die besten Newcomerinnen und Newcomer. Das Publikum erwartet eine Comedy-Show der Superlative! 1LIVE und das COLOGNE COMEDY FESTIVAL holen auch 2026 wieder das Who is Who der deutschsprachigen Comedyszene auf die große Bühne. \n\nMit Gastgeber Osan Yaran stehen in diesem Jahr auf der Bühne: Bastian Bielendorfer, Torsten Sträter, Björn von Morgenstern, Jerry Vsan, Elli Lizz, Ana Lucía, Pam Pengco und Simon Stäblein."
+- eventId:
+  - 601899
+  - 661030
   start: 2026-11-15T23:15:00Z
   stop: 2026-11-16T01:00:00Z
   title: 'Rockpalast: State Radio'
@@ -701,19 +815,3 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 589163
-  - 589439
-  - 600025
-  - 611969
-  - 617720
-  - 906667
-  start: 2026-11-15T23:20:00Z
-  stop: 2026-11-16T01:05:00Z
-  title: 'Rockpalast: State Radio'
-  subtitle: Aufzeichnung vom 11.05.2010 aus dem FZW, Dortmund
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: Musik für Freiheit, Gleichheit, Brüderlichkeit! Das Rockpalast-Team verschlägt es am 11. Mai 2010 in das Dortmunder FZW um euch eine Band zu präsentieren, für die Arbeit in der Suppenküche oder ein Shakehands mit dem Präsidenten von Zimbabwe genauso zum Alltag gehört wie knallharte Riffs und Reggae-Basslines vor tobenden Zuschauermengen. Bei den drei Jungs von State Radio liegen Botschaft und Musik unverkennbar nah beieinander. Das spiegelt sich nicht nur im sozialen Engagement der Bandmitglieder sondern auch in sozial-politisch motivierten Songtexten und -titeln wie "Guantanamo" oder "Sudan".

@@ -2,6 +2,7 @@
   - 583650
   - 589255
   - 600113
+  - 601268
   - 612067
   - 764035
   start: 2026-11-24T00:20:00Z
@@ -16,6 +17,7 @@
   - 583651
   - 589256
   - 600114
+  - 601269
   - 612068
   - 764036
   start: 2026-11-24T01:10:00Z
@@ -29,6 +31,7 @@
   - 583652
   - 589257
   - 600115
+  - 601270
   - 612069
   - 764037
   start: 2026-11-24T01:30:00Z
@@ -43,6 +46,7 @@
   - 583653
   - 589258
   - 600116
+  - 601271
   - 612070
   - 764038
   start: 2026-11-24T02:00:00Z
@@ -59,6 +63,7 @@
   - 589600
   - 593622
   - 600117
+  - 601272
   - 608538
   - 612071
   - 624513
@@ -91,6 +96,7 @@
 - eventId:
   - 589260
   - 600118
+  - 601273
   - 612072
   - 764040
   start: 2026-11-24T02:55:00Z
@@ -114,6 +120,21 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 590856
+  - 590879
+  - 601875
+  - 613645
+  - 620550
+  - 933915
+  start: 2026-11-24T03:25:00Z
+  stop: 2026-11-24T03:55:00Z
+  title: Lokalzeit aus Dortmund
+  subtitle: 'Moderation: Catherine Vogel'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 589508
   - 592740
   - 600490
@@ -126,6 +147,20 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 590880
+  - 595026
+  - 601876
+  - 613651
+  - 636968
+  start: 2026-11-24T03:55:00Z
+  stop: 2026-11-24T04:25:00Z
+  title: Lokalzeit Südwestfalen
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
 - eventId:
   - 589509
   - 592741
@@ -140,6 +175,22 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 590881
+  - 595027
+  - 601877
+  - 613652
+  - 636969
+  start: 2026-11-24T04:25:00Z
+  stop: 2026-11-24T04:50:00Z
+  title: Lokalzeit OWL
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  genre:
+  - '32'
+  description: Die Nachrichten der ARD
+- eventId:
   - 589510
   - 592742
   - 600492
@@ -152,6 +203,21 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 590882
+  - 595028
+  - 601878
+  - 613653
+  - 636970
+  start: 2026-11-24T04:50:00Z
+  stop: 2026-11-24T05:20:00Z
+  title: Unser Tannenbaum - Weihnachtszauber aus dem Sauerland
+  subtitle: Ein Film von Brigitte Büscher und Maike von Galen
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Jeder dritte Weihnachtsbaum in Deutschland stammt von den Hügeln rund um Schmallenberg, Eslohe oder Bestwig. Sieben Millionen Stück, Jahr für Jahr. Das Heimatflimmern "Unser Tannenbaum - Weihnachtszauber aus dem Sauerland" erzählt von liebgewordenen Traditionen in der Vorweihnachtszeit und von intensiver Handarbeit bei Anbau und Ernte - und das nicht nur im Winter, wenn es schneit.
 - eventId:
   - 589511
   - 592743
@@ -166,6 +232,21 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 590883
+  - 595029
+  - 601879
+  - 613654
+  - 636971
+  start: 2026-11-24T05:20:00Z
+  stop: 2026-11-24T05:50:00Z
+  title: Lokomotiven und Legenden
+  subtitle: Ein Film von Susanne Böhm, Christian Feyerabend und Christel Fomm
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: 'Ob "Grandhotel auf Rädern" oder "Rollende Machtzentrale": Die Züge, die in NRW abfahren und ankommen, erzählen viele Geschichten.'
+- eventId:
   - 589512
   - 592744
   - 600494
@@ -179,9 +260,24 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 590884
+  - 595030
+  - 601880
+  - 613655
+  - 636972
+  start: 2026-11-24T05:50:00Z
+  stop: 2026-11-24T06:20:00Z
+  title: Lokalzeit aus Duisburg
+  subtitle: 'Moderation: Andreas Bursche'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 589839
   - 593082
   - 600857
+  - 602485
   - 612631
   - 764159
   start: 2026-11-24T06:20:00Z
@@ -195,6 +291,7 @@
   - 589840
   - 593083
   - 600858
+  - 602486
   - 612632
   - 764160
   start: 2026-11-24T06:35:00Z
@@ -219,6 +316,15 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 602487
+  start: 2026-11-24T07:20:00Z
+  stop: 2026-11-24T08:10:00Z
+  title: In aller Freundschaft - 1052. Fluchten
+  subtitle: Deutschland 2024
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 593085
   - 746793
@@ -233,6 +339,7 @@
   - 589842
   - 593086
   - 600860
+  - 602488
   - 612634
   - 764162
   start: 2026-11-24T08:10:00Z
@@ -246,6 +353,7 @@
   - 589843
   - 593087
   - 600861
+  - 602489
   - 612635
   - 764163
   start: 2026-11-24T08:40:00Z
@@ -260,6 +368,7 @@
   - 590134
   - 593334
   - 601156
+  - 602732
   - 612925
   - 764213
   start: 2026-11-24T09:20:00Z
@@ -274,6 +383,7 @@
   - 590135
   - 593335
   - 601157
+  - 602733
   - 612926
   - 764214
   start: 2026-11-24T10:05:00Z
@@ -288,6 +398,7 @@
   - 590136
   - 593336
   - 601158
+  - 602734
   - 612927
   - 764215
   start: 2026-11-24T10:55:00Z
@@ -302,6 +413,7 @@
   - 590137
   - 593337
   - 601159
+  - 602735
   - 612928
   - 764216
   start: 2026-11-24T11:45:00Z
@@ -316,6 +428,7 @@
   - 590384
   - 593568
   - 601392
+  - 602968
   - 613139
   - 764253
   start: 2026-11-24T12:00:00Z
@@ -330,6 +443,7 @@
   - 590385
   - 593569
   - 601393
+  - 602969
   - 613140
   - 764254
   start: 2026-11-24T12:50:00Z
@@ -344,6 +458,7 @@
   - 590386
   - 593570
   - 601394
+  - 602970
   - 613141
   - 764255
   start: 2026-11-24T13:20:00Z
@@ -358,6 +473,7 @@
   - 590387
   - 593571
   - 601395
+  - 602971
   - 613142
   - 764256
   start: 2026-11-24T14:10:00Z
@@ -382,6 +498,41 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 595942
+  - 603180
+  - 615110
+  - 683114
+  start: 2026-11-24T15:00:00Z
+  stop: 2026-11-24T15:15:00Z
+  title: 'Die Sendung mit der Maus Spezial: Wie wird das höchste Windrad der Welt gebaut?'
+  subtitle: Wie wird das höchste Windrad der Welt gebaut?
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: 'Ein Windrad so hoch wie kein anderes auf der Welt: In der Lausitz entsteht als zweithöchstes Bauwerk Deutschlands ein 365 Meter hohes Windrad. Als einziges Fernsehteam begleitet das Maus-Team den Bau über mehrere Monate. Dabei erlebt Clarissa hautnah mit, welche Herausforderungen auf der Baustelle bewältigt werden müssen, warum der Turm aus Stahl gebaut wird und welche Tricks und Techniken nötig sind, um in solcher Höhe überhaupt bauen zu können.'
+- eventId:
+  - 1564802
+  - 591972
+  - 595479
+  - 603181
+  - 607669
+  - 615111
+  - 619477
+  - 683115
+  start: 2026-11-24T15:15:00Z
+  stop: 2026-11-24T17:00:00Z
+  title: Top 444 Countdown - Die größten Hits für NRW
+  subtitle: 'Moderation: Katharina te Uhle und Bastian Bender'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Die Tiere und ihre menschlichen Begleiter leben im Zoo so eng zusammen wie nirgendwo sonst. Auf wenigen Quadratkilometern wird gearbeitet, gelebt, geboren und gestorben, gejagt und ganz viel gefühlt. WILDER WILDER WESTEN erzählt die vielen kleinen Geschichten dieser Welt - emotional, authentisch und originell. So gelingt ein tiefer Einblick hinter die Kulissen, so nah und so bewegend wie nie zuvor. Die WDR-Zoo-Serie zeigt faszinierende Tiere und unvergleichliche Typen, wie sie nur NRW zu bieten hat.
+
+    Flusspferd Ernie hat ein Problem. Futterreste bleiben ständig zwischen seinen Zähnen hängen.
 - eventId:
   - 590607
   - 601608
@@ -408,6 +559,39 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 595944
+  - 603182
+  - 662637
+  start: 2026-11-24T17:00:00Z
+  stop: 2026-11-24T17:15:00Z
+  title: WDR aktuell / Lokalzeit
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1564804
+  - 591953
+  - 591974
+  - 592523
+  - 595481
+  - 603183
+  - 607671
+  - 615595
+  - 619479
+  - 621989
+  - 662638
+  - 959607
+  start: 2026-11-24T17:15:00Z
+  stop: 2026-11-24T17:45:00Z
+  title: Neues aus dem Münchner Tierpark Hellabrunn
+  subtitle: Verbrauchertipps für jeden Tag
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: 'Es ist fast unmöglich, den Überblick zu behalten: Vom Axolotl bis zur Weißlippenkobra - im Münchner Tierpark Hellabrunn leben insgesamt 19.000 Tiere aus mehr als 750 Arten. Einige Bewohner bekommen regelmäßig Besuch: vom Kamera-Team des Bayerischen Fernsehens. Die beiden Tierfilmer Felix Hedinger und Jens-Uwe Heins legen sich jede Woche auf die Lauer und beobachten, was es Neues gibt in den weitläufigen Gehegen. Sie berichten top-aktuell über spannende, amüsante oder denkwürdige Begebenheiten.'
 - eventId:
   - 590609
   - 601610
@@ -437,9 +621,26 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 591975
+  - 603184
+  - 662639
+  start: 2026-11-24T17:45:00Z
+  stop: 2026-11-24T18:30:00Z
+  title: In aller Freundschaft - 1054. Ernüchterung
+  subtitle: Das Informationsmagazin für NRW
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Ein Journalist hat viele Feinde. Das macht die Arbeit für die Kommissare Beissl und Paulsen nicht leichter als sie den Tod von Georg Reitinger aufklären müssen. Der Chefredakteur des Berchtesgadener Kuriers hatte zuletzt einen Umweltskandal öffentlich gemacht. Stieß man ihn deshalb von einer Brücke?
+  ageRating: 6
+  genre:
+  - '16'
+- eventId:
   - 590885
   - 595031
   - 601881
+  - 603489
   - 613656
   - 764343
   start: 2026-11-24T18:30:00Z
@@ -453,6 +654,7 @@
   - 590886
   - 595032
   - 601882
+  - 603490
   - 613657
   - 764344
   start: 2026-11-24T19:00:00Z
@@ -468,6 +670,7 @@
   - 590887
   - 595033
   - 601883
+  - 603491
   - 613658
   - 764345
   start: 2026-11-24T19:15:00Z
@@ -481,12 +684,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 590888
-  - 595034
-  - 601884
-  - 613659
-  - 764346
+- eventId: 603492
   start: 2026-11-24T20:45:00Z
   stop: 2026-11-24T21:15:00Z
   title: WDR aktuell
@@ -499,6 +697,7 @@
   - 591113
   - 595249
   - 602106
+  - 603714
   - 613886
   - 764383
   start: 2026-11-24T21:15:00Z
@@ -516,6 +715,7 @@
   - 591114
   - 595250
   - 602107
+  - 603715
   - 613887
   - 764384
   start: 2026-11-24T22:45:00Z

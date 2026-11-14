@@ -29,6 +29,19 @@
   genre:
   - '16'
   description: 'Michael Kroh wird tot aus dem Königssee gefischt. Beissl kennt das tragische Schicksal der Familie: Der Vater des Berufsfischers verunglückte vor ein paar Jahren tödlich in den Bergen. Zwischen den Geschwistern gab es oft Streit, doch reicht das auch für ein Motiv?'
+- eventId: 600569
+  start: 2026-11-15T01:00:00Z
+  stop: 2026-11-15T02:35:00Z
+  title: In den besten Händen
+  subtitle: Spielfilm Frankreich 2021
+  description: "Comiczeichnerin Raphaela und Verlegerin Julie sind seit zehn Jahren ein Paar, doch nun scheint ihre Beziehung am Ende zu sein. Bei einem ihrer aufreibenden Streits stürzt Raphaela, bricht sich den Arm und die beiden landen unversehens in einer Pariser Notaufnahme. Draußen toben heftige Proteste, das Krankenhaus füllt sich mit verletzten Demonstrierenden, das Personal ist am Ende mit den Nerven und die Lage droht zu eskalieren. \n\nAls der wütende LKW-Fahrer Yann zu Raphaela ins Zimmer verlegt wird, prallen Vorurteile und Klassen-Ressentiments aufeinander. Doch im Laufe der ereignisreichen Nacht werden sie viele Gemeinsamkeiten finden."
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 652435
   start: 2026-11-15T01:00:00Z
   stop: 2026-11-15T02:35:00Z
@@ -127,7 +140,9 @@
     Für "Wanderpapst" Manuel Andrack ist der Herbst die schönste Zeit, um den Westen zu Fuß zu erkunden, für Schauspieler Jan-Gregor Kremp sind es die Farben, die den Herbst zu seiner Jahreszeit machen.
   genre:
   - '144'
-- eventId: 652437
+- eventId:
+  - 600570
+  - 652437
   start: 2026-11-15T02:35:00Z
   stop: 2026-11-15T04:05:00Z
   title: Unsere Herbstgeschichten
@@ -159,7 +174,9 @@
   hd: true
   audiodesc: true
   description: 'Zwischen Julischen Alpen und Adriaküste findet man in Slowenien, im Herzen Europas, eine spektakuläre Vielfalt: hohe Berge, glasklare Seen, Weinregionen, eindrucksvolle Höhlen und mediterrane Küstenorte. Stephanie Müller-Spirra entdeckt mitten im Indian Summer den Westen Sloweniens.'
-- eventId: 652466
+- eventId:
+  - 600738
+  - 652466
   start: 2026-11-15T04:05:00Z
   stop: 2026-11-15T05:35:00Z
   title: Wunderschön! Slowenien - Zwischen Alpen und Adria
@@ -224,7 +241,9 @@
   hd: true
   audiodesc: true
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
-- eventId: 652467
+- eventId:
+  - 600739
+  - 652467
   start: 2026-11-15T05:35:00Z
   stop: 2026-11-15T05:45:00Z
   title: Erlebnisreisen
@@ -254,10 +273,20 @@
   hd: true
   audiodesc: true
   description: "Protein ist plötzlich überall: im Pudding, im Brot, im Riegel, im Pulver. Es soll satt machen, Muskeln wachsen lassen, beim Abnehmen helfen und gesund halten. Ein Nährstoff wird zum Versprechen - und zum Geschäft.\nAber wie viel Protein braucht der Mensch wirklich? \n\nWährend die einen teure Spezialprodukte kaufen, die ihnen kaum nützen, bekommen andere tatsächlich zu wenig davon - oft ohne es zu merken. Wie kommt das? Welches Protein ist das richtige? Und lässt sich der Bedarf auch rein pflanzlich decken? Quarks macht den Test: mit normalen Lebensmitteln statt Proteinpulver."
+- eventId: 600740
+  start: 2026-11-15T05:45:00Z
+  stop: 2026-11-15T06:15:00Z
+  title: Lokalzeit
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 584292
   - 587901
   - 597304
+  - 600909
   - 609892
   start: 2026-11-15T06:15:00Z
   stop: 2026-11-15T06:45:00Z
@@ -270,7 +299,9 @@
   genre:
   - '144'
   description: 'Die Fernsehköche Martina und Moritz servieren ein besonderes Rührei mit roter Bete als verführerische Vorspeise. Sie bereiten Miesmuscheln zu - natürlich auf niederrheinische Art. Es gibt Kartoffel-Stampes mit Endivie und kross gebratenen Schweinebauch, außerdem knusprige Speckpfannkuchen aus Buchweizenmehl und am Ende einen fabelhaften Wirsingauflauf, der in einer Springform gebacken wird und fast wie eine Torte aussieht. Natürlich ist auch etwas Süßes dabei: knusprige Apfelpüfferkes, von denen man nicht genug kriegen kann...'
-- eventId: 584293
+- eventId:
+  - 584293
+  - 600910
   start: 2026-11-15T06:45:00Z
   stop: 2026-11-15T07:15:00Z
   title: Einfach und köstlich - Björn Freitag kocht mit Katrin Neugebauer
@@ -305,6 +336,7 @@
   - 584294
   - 587903
   - 597306
+  - 600911
   - 609894
   start: 2026-11-15T07:15:00Z
   stop: 2026-11-15T07:45:00Z
@@ -319,6 +351,7 @@
   - 584295
   - 587904
   - 597307
+  - 600912
   - 609895
   start: 2026-11-15T07:45:00Z
   stop: 2026-11-15T08:15:00Z
@@ -338,6 +371,7 @@
   - 584296
   - 587905
   - 597308
+  - 600913
   - 609896
   - 615845
   - 906872
@@ -354,6 +388,7 @@
   - 588167
   - 588333
   - 598826
+  - 601119
   - 610533
   - 616347
   - 906919
@@ -370,6 +405,7 @@
   - 588168
   - 588334
   - 598827
+  - 601120
   - 616348
   - 906920
   start: 2026-11-15T11:00:00Z
@@ -394,6 +430,7 @@
   - 588169
   - 588335
   - 598828
+  - 601121
   - 610535
   - 616349
   - 906921
@@ -406,24 +443,10 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 1009487
-  - 588850
-  - 599603
-  - 611610
-  - 617442
-  start: 2026-11-15T12:00:00Z
-  stop: 2026-11-15T12:30:00Z
-  title: 'Mein Körper. Mein Herz: Jung, fit und doch gefährdet?'
-  subtitle: Ein Film von Caroline Hofmann
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: Im Wiener Café Vollpension backen Frauen und Männer, die eigentlich längst im Ruhestand wären. Sie bessern ihre schmale Rente auf und bleiben im Kontakt mit der Jugend - so das Konzept des Cafés Vollpension. Die jungen Organisatoren wollen jetzt diese Idee weitertragen und gehen auf Tour nach Bad Ischl - ein großes Wagnis.
-- eventId:
   - 582275
   - 588349
   - 599076
+  - 601289
   - 610732
   - 906525
   start: 2026-11-15T12:00:00Z
@@ -435,34 +458,25 @@
   hd: true
   audiodesc: true
   description: Im Wiener Café Vollpension backen Frauen und Männer, die eigentlich längst im Ruhestand wären. Sie bessern ihre schmale Rente auf und bleiben im Kontakt mit der Jugend - so das Konzept des Cafés Vollpension. Die jungen Organisatoren wollen jetzt diese Idee weitertragen und gehen auf Tour nach Bad Ischl - ein großes Wagnis.
-- eventId:
-  - 1009488
-  - 582276
-  - 588350
-  - 588851
-  - 599077
-  - 599604
-  - 610733
-  - 611611
-  - 617443
-  - 906526
+- eventId: 601290
   start: 2026-11-15T12:30:00Z
   stop: 2026-11-15T13:20:00Z
   title: Koslowski & Haferkamp (1)
-  subtitle: 'Moderation: Susanne Wieseler'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
+  subtitle: Der perfekte Plan
   description: 'Es gibt bessere Tage. Jedenfalls im Leben von Martin Koslowski und Hasan Haferkamp, beste Kumpel und Kollegen bei einem Sicherheitsunternehmen in Bochum-Hamme. Erst wird Martin von seiner Frau Sylvia verlassen. Wenige Stunden später wird ihm und Hasan der Geldtransporter nebst Ladung unter dem Hintern weggeraubt. Ihr Chef lässt sie daraufhin erst gar nicht mehr auf das Firmengelände. Frau weg, Job weg, alles weg. Es kommt sogar noch schlimmer: Die lästigen Kommissare Schlegel und Pohl halten sie für die Hauptverdächtigen. Aus der Not heraus beginnen Martin und Hasan, selbst zu ermitteln.'
   ageRating: 12
   genre:
   - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 582277
   - 588351
   - 588852
   - 599078
+  - 601291
   - 605698
   - 610734
   - 611612
@@ -482,6 +496,7 @@
   description: 'Überall in NRW gibt es spannende Orte zu entdecken - darunter echte Geheimtipps. Gemeinsam mit Daniel Assmann erkunden wir Ausflugstipps im Westen für Familien und alle, die mal raus wollen und etwas erleben möchten: ruhig oder mit viel Action.'
 - eventId:
   - 588853
+  - 601292
   - 605699
   - 611613
   - 727860
@@ -529,7 +544,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 727861
+- eventId:
+  - 601293
+  - 727861
   start: 2026-11-15T14:45:00Z
   stop: 2026-11-15T15:00:00Z
   title: WDR aktuell
@@ -543,6 +560,7 @@
   - 588564
   - 589067
   - 599289
+  - 601496
   - 611078
   - 906567
   start: 2026-11-15T15:00:00Z
@@ -596,7 +614,9 @@
   description: |-
     Die Bonner Band Druckluft hat mit der "Karnevalsmaus" den Superhit der Session gelandet. Der Hype rund um die ehemalige Bonner Schülerband kennt keine Grenzen. Vor lauter Autogramm- und Fotowünschen schafft die Band es kaum aus dem Bus. In den Sälen singt und tanzt jeder Jeck die "Karnevalsmaus". Die Maus ist das Trendkostüm.
     Marc-André Schröter hat mit seiner Kamera Frontmann Florian Hertel und die Band Druckluft einen Tag lang in diesem "Wahnsinn" ganz nah begleitet. Im Band-Bus rund um Köln, von Auftritt zu Auftritt. Er zeigt, wie sehr sich das Leben der Band verändert hat, aber auch wie der Superhit entstanden ist.
-- eventId: 652487
+- eventId:
+  - 601497
+  - 652487
   start: 2026-11-15T16:00:00Z
   stop: 2026-11-15T16:15:00Z
   title: Unterwegs mit Druckluft - wie die Karnevalsmaus alles verändert
@@ -623,6 +643,7 @@
   - 588567
   - 589070
   - 599292
+  - 601498
   - 611081
   - 906570
   start: 2026-11-15T16:15:00Z
@@ -639,6 +660,7 @@
   - 588568
   - 589071
   - 599293
+  - 601499
   - 611082
   - 906571
   start: 2026-11-15T17:00:00Z
@@ -654,6 +676,7 @@
   - 588569
   - 589072
   - 599294
+  - 601500
   - 611083
   - 906572
   start: 2026-11-15T17:45:00Z
@@ -669,6 +692,7 @@
   - 589264
   - 599596
   - 600122
+  - 601698
   - 611603
   - 617435
   - 744372
@@ -685,6 +709,7 @@
   - 588844
   - 589265
   - 599597
+  - 601699
   - 611604
   - 617436
   - 906624
@@ -702,6 +727,7 @@
   - 588845
   - 589266
   - 599598
+  - 601700
   - 611605
   - 617437
   - 906625
@@ -718,6 +744,7 @@
   - 588846
   - 589267
   - 599599
+  - 601701
   - 611606
   - 617438
   - 906626

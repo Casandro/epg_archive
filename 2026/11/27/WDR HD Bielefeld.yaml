@@ -3,6 +3,7 @@
   - 587510
   - 589932
   - 596385
+  - 597456
   - 618719
   - 721046
   start: 2026-11-27T00:05:00Z
@@ -23,6 +24,7 @@
   - 587511
   - 589933
   - 596386
+  - 597457
   - 721047
   start: 2026-11-27T01:10:00Z
   stop: 2026-11-27T02:15:00Z
@@ -41,6 +43,7 @@
   - 587512
   - 589934
   - 596387
+  - 597458
   - 618721
   - 721048
   start: 2026-11-27T02:15:00Z
@@ -56,6 +59,7 @@
   - 587513
   - 589935
   - 596388
+  - 597459
   - 608388
   - 620649
   - 721049
@@ -73,6 +77,7 @@
   - 587514
   - 589936
   - 596389
+  - 597460
   - 608389
   - 620650
   - 721050
@@ -94,6 +99,7 @@
   - 587770
   - 590449
   - 596933
+  - 598030
   - 721108
   start: 2026-11-27T03:25:00Z
   stop: 2026-11-27T03:55:00Z
@@ -106,6 +112,7 @@
   - 587771
   - 590450
   - 596934
+  - 598031
   - 721109
   start: 2026-11-27T03:55:00Z
   stop: 2026-11-27T04:25:00Z
@@ -118,6 +125,7 @@
   - 587772
   - 590451
   - 596935
+  - 598032
   - 721110
   start: 2026-11-27T04:25:00Z
   stop: 2026-11-27T04:50:00Z
@@ -130,6 +138,7 @@
   - 587773
   - 590452
   - 596936
+  - 598033
   - 721111
   start: 2026-11-27T04:50:00Z
   stop: 2026-11-27T05:20:00Z
@@ -142,6 +151,7 @@
   - 587774
   - 590453
   - 596937
+  - 598034
   - 721112
   start: 2026-11-27T05:20:00Z
   stop: 2026-11-27T05:50:00Z
@@ -154,6 +164,7 @@
   - 587775
   - 590454
   - 596938
+  - 598035
   - 721113
   start: 2026-11-27T05:50:00Z
   stop: 2026-11-27T06:20:00Z
@@ -165,6 +176,7 @@
 - eventId:
   - 588034
   - 598174
+  - 598745
   - 620948
   - 721161
   start: 2026-11-27T06:20:00Z
@@ -177,6 +189,7 @@
 - eventId:
   - 588035
   - 598175
+  - 598746
   - 620949
   - 721162
   start: 2026-11-27T06:50:00Z
@@ -190,6 +203,7 @@
 - eventId:
   - 588036
   - 598176
+  - 598747
   - 620950
   - 721163
   start: 2026-11-27T07:35:00Z
@@ -200,7 +214,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 727402
+- eventId:
+  - 598748
+  - 727402
   start: 2026-11-27T08:05:00Z
   stop: 2026-11-27T08:35:00Z
   title: Lokalzeit OWL
@@ -220,7 +236,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 727403
+- eventId:
+  - 598749
+  - 727403
   start: 2026-11-27T08:35:00Z
   stop: 2026-11-27T09:20:00Z
   title: Gefragt - Gejagt
@@ -243,6 +261,22 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 582559
+  - 599247
+  - 604381
+  - 616652
+  - 623066
+  - 981407
+  start: 2026-11-27T09:20:00Z
+  stop: 2026-11-27T10:05:00Z
+  title: Mittendrin - Flughafen Frankfurt
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
+  subtitle: 77. Vegane Sterneküche im Flugzeug
+- eventId:
   - 588259
   - 591742
   - 598980
@@ -255,6 +289,22 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 582560
+  - 599248
+  - 604382
+  - 616653
+  - 623067
+  - 981408
+  start: 2026-11-27T10:05:00Z
+  stop: 2026-11-27T10:55:00Z
+  title: Die Haustierprofis (6)
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
+  subtitle: 'Moderation: Ralph Morgenstern'
 - eventId:
   - 588260
   - 591743
@@ -269,6 +319,23 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 582561
+  - 599249
+  - 604383
+  - 616654
+  - 713688
+  start: 2026-11-27T10:55:00Z
+  stop: 2026-11-27T11:45:00Z
+  title: Watzmann ermittelt - 18. Weihnachtsmänner im Sommer
+  subtitle: Geschichten aus dem Leipziger Zoo
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  ageRating: 12
+  genre:
+  - '16'
+- eventId:
   - 588261
   - 591744
   - 598982
@@ -282,6 +349,23 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 582562
+  - 599250
+  - 604384
+  - 616655
+  - 713689
+  start: 2026-11-27T11:45:00Z
+  stop: 2026-11-27T12:00:00Z
+  title: Watzmann ermittelt - 19. Viva la Musica
+  subtitle: 'Moderation: Liz Shoo'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  ageRating: 12
+  genre:
+  - '16'
+- eventId:
   - 588262
   - 591745
   - 598983
@@ -294,11 +378,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 580538
-  - 588447
-  - 599173
-  - 721254
+- eventId: 599688
   start: 2026-11-27T12:00:00Z
   stop: 2026-11-27T12:50:00Z
   title: Seehund, Puma & Co.
@@ -307,11 +387,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 580539
-  - 588448
-  - 599174
-  - 721255
+- eventId: 599689
   start: 2026-11-27T12:50:00Z
   stop: 2026-11-27T13:20:00Z
   title: Panda, Gorilla & Co.
@@ -320,11 +396,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 580540
-  - 588449
-  - 599175
-  - 721256
+- eventId: 599690
   start: 2026-11-27T13:20:00Z
   stop: 2026-11-27T14:10:00Z
   title: Watzmann ermittelt - 28. Blattschuss
@@ -333,11 +405,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 580541
-  - 588450
-  - 599176
-  - 721257
+- eventId: 599691
   start: 2026-11-27T14:10:00Z
   stop: 2026-11-27T15:00:00Z
   title: Watzmann ermittelt - 29. Martha Hari
@@ -350,6 +418,7 @@
   - 582587
   - 588710
   - 599444
+  - 600149
   - 720908
   start: 2026-11-27T15:00:00Z
   stop: 2026-11-27T15:15:00Z
@@ -363,6 +432,7 @@
   - 582588
   - 588711
   - 599445
+  - 600150
   - 720909
   start: 2026-11-27T15:15:00Z
   stop: 2026-11-27T17:00:00Z
@@ -375,6 +445,7 @@
   - 582589
   - 588712
   - 599446
+  - 600151
   - 720910
   start: 2026-11-27T17:00:00Z
   stop: 2026-11-27T17:15:00Z
@@ -383,11 +454,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 582590
-  - 588713
-  - 599447
-  - 720911
+- eventId: 600152
   start: 2026-11-27T17:15:00Z
   stop: 2026-11-27T17:45:00Z
   title: Made in NRW - Wirtschaft Wandel Wohlstand
@@ -396,11 +463,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 582591
-  - 588714
-  - 599448
-  - 720912
+- eventId: 600153
   start: 2026-11-27T17:45:00Z
   stop: 2026-11-27T18:30:00Z
   title: Aktuelle Stunde
@@ -426,6 +489,7 @@
 - eventId:
   - 588972
   - 599720
+  - 600680
   - 720958
   start: 2026-11-27T18:30:00Z
   stop: 2026-11-27T19:00:00Z
@@ -438,6 +502,7 @@
   - 583060
   - 588973
   - 599721
+  - 600681
   - 720959
   start: 2026-11-27T19:00:00Z
   stop: 2026-11-27T19:15:00Z
@@ -450,6 +515,7 @@
   - 583061
   - 588974
   - 599722
+  - 600682
   - 720960
   start: 2026-11-27T19:15:00Z
   stop: 2026-11-27T20:00:00Z
@@ -463,6 +529,7 @@
   - 583062
   - 588975
   - 599723
+  - 600683
   - 720961
   start: 2026-11-27T20:00:00Z
   stop: 2026-11-27T20:45:00Z
@@ -476,6 +543,7 @@
   - 583063
   - 588976
   - 599724
+  - 600684
   - 720962
   start: 2026-11-27T20:45:00Z
   stop: 2026-11-27T21:00:00Z
@@ -485,7 +553,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 592659
+- eventId:
+  - 592659
+  - 601075
   start: 2026-11-27T21:00:00Z
   stop: 2026-11-27T23:00:00Z
   title: Kölner Treff
@@ -494,7 +564,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 592660
+- eventId:
+  - 592660
+  - 601076
   start: 2026-11-27T23:00:00Z
   stop: 2026-11-27T23:30:00Z
   title: Die Carolin Kebekus Show
@@ -502,7 +574,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 592661
+- eventId:
+  - 592661
+  - 601077
   start: 2026-11-27T23:30:00Z
   stop: 2026-11-28T01:30:00Z
   title: Kölner Treff

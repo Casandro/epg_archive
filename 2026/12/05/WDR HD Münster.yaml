@@ -1,5 +1,6 @@
 - eventId:
   - 589697
+  - 597201
   - 793097
   start: 2026-12-05T00:00:00Z
   stop: 2026-12-05T01:30:00Z
@@ -10,6 +11,7 @@
   audiodesc: true
 - eventId:
   - 589698
+  - 597202
   - 793098
   start: 2026-12-05T01:30:00Z
   stop: 2026-12-05T02:00:00Z
@@ -21,6 +23,7 @@
   audiodesc: true
 - eventId:
   - 589699
+  - 597203
   - 793099
   start: 2026-12-05T02:00:00Z
   stop: 2026-12-05T02:25:00Z
@@ -31,6 +34,7 @@
   audiodesc: true
 - eventId:
   - 589700
+  - 597204
   - 793100
   start: 2026-12-05T02:25:00Z
   stop: 2026-12-05T02:55:00Z
@@ -41,6 +45,7 @@
   audiodesc: true
 - eventId:
   - 589701
+  - 597205
   - 793101
   start: 2026-12-05T02:55:00Z
   stop: 2026-12-05T03:25:00Z
@@ -121,11 +126,33 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 598378
+  - 848008
+  start: 2026-12-05T06:20:00Z
+  stop: 2026-12-05T06:50:00Z
+  title: WDR aktuell / Lokalzeit
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  subtitle: Fernsehen in Gebärdensprache
+- eventId:
   - 590775
   - 793215
   start: 2026-12-05T06:50:00Z
   stop: 2026-12-05T07:05:00Z
   title: Erlebnisreisen
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 598379
+  - 848009
+  start: 2026-12-05T06:50:00Z
+  stop: 2026-12-05T07:05:00Z
+  title: Erlebnisreisen
+  subtitle: Verbrauchertipps für jeden Tag
   widescreen: true
   subtitled: true
   hd: true
@@ -142,7 +169,19 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 598380
+  - 848010
+  start: 2026-12-05T07:05:00Z
+  stop: 2026-12-05T07:30:00Z
+  title: Die Sendung mit dem Elefanten
+  subtitle: Das Informationsmagazin für NRW
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 590777
+  - 598381
   - 793217
   start: 2026-12-05T07:30:00Z
   stop: 2026-12-05T08:00:00Z
@@ -154,6 +193,7 @@
   audiodesc: true
 - eventId:
   - 590778
+  - 598382
   - 793218
   start: 2026-12-05T08:00:00Z
   stop: 2026-12-05T08:45:00Z
@@ -169,6 +209,15 @@
   start: 2026-12-05T08:45:00Z
   stop: 2026-12-05T09:15:00Z
   title: 'Quarks: Mehr Wildnis wagen - wie viel Natur brauchen wir?'
+  subtitle: Mehr Wildnis wagen - wie viel Natur brauchen wir?
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 598383
+  start: 2026-12-05T08:45:00Z
+  stop: 2026-12-05T09:15:00Z
+  title: Quarks im Ersten
   subtitle: Mehr Wildnis wagen - wie viel Natur brauchen wir?
   widescreen: true
   subtitled: true
@@ -219,21 +268,8 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 591946
-  - 603155
-  - 615082
-  - 683108
-  start: 2026-12-05T12:00:00Z
-  stop: 2026-12-05T13:30:00Z
-  title: Die Sendung mit dem Elefanten
-  subtitle: Wie wird Zwieback gemacht?
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  genre:
-  - '16'
-- eventId: 793313
+  - 599516
+  - 793313
   start: 2026-12-05T12:00:00Z
   stop: 2026-12-05T13:30:00Z
   title: Sterne über dem Eis
@@ -244,12 +280,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 591947
-  - 603156
-  - 615083
-  - 683109
-  - 793314
+- eventId: 599517
   start: 2026-12-05T13:30:00Z
   stop: 2026-12-05T14:15:00Z
   title: Der Haushalts-Check mit Yvonne Willicks
@@ -259,23 +290,8 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 1431232
-  - 591948
-  - 603157
-  - 605798
-  - 615084
-  - 617145
-  - 683110
-  start: 2026-12-05T14:15:00Z
-  stop: 2026-12-05T15:00:00Z
-  title: Top 444 Countdown - Die größten Hits für NRW
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
-  subtitle: 'Moderation: Katharina te Uhle und Bastian Bender'
-- eventId: 793315
+  - 599518
+  - 793315
   start: 2026-12-05T14:15:00Z
   stop: 2026-12-05T15:00:00Z
   title: Aßmann mittendrin - Jagen
@@ -297,7 +313,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 793349
+- eventId:
+  - 599892
+  - 793349
   start: 2026-12-05T15:00:00Z
   stop: 2026-12-05T15:15:00Z
   title: WDR aktuell
@@ -320,6 +338,15 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 599893
+  start: 2026-12-05T15:15:00Z
+  stop: 2026-12-05T16:00:00Z
+  title: Als der Winter noch weiß war
+  subtitle: Ein Film von Arndt Güttgemanns und Heiko Schäfer
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 582392
   - 604259
@@ -332,7 +359,9 @@
   hd: true
   audiodesc: true
   subtitle: Weihnachts-Keule und Dreierlei aus dem Hühnerstall
-- eventId: 793351
+- eventId:
+  - 599894
+  - 793351
   start: 2026-12-05T16:00:00Z
   stop: 2026-12-05T16:45:00Z
   title: Land und lecker im Advent (2/4)
@@ -343,6 +372,7 @@
   audiodesc: true
 - eventId:
   - 582393
+  - 599895
   - 604260
   - 695718
   - 793352
@@ -366,7 +396,9 @@
   hd: true
   audiodesc: true
   subtitle: Mehrteilige Reihe mit Björn Freitag
-- eventId: 793353
+- eventId:
+  - 599896
+  - 793353
   start: 2026-12-05T17:15:00Z
   stop: 2026-12-05T17:45:00Z
   title: Der Vorkoster
@@ -387,7 +419,9 @@
   hd: true
   audiodesc: true
   subtitle: Das Informationsmagazin für NRW
-- eventId: 793354
+- eventId:
+  - 599897
+  - 793354
   start: 2026-12-05T17:45:00Z
   stop: 2026-12-05T18:30:00Z
   title: Aktuelle Stunde
@@ -398,6 +432,7 @@
   audiodesc: true
 - eventId:
   - 582866
+  - 600442
   - 793413
   start: 2026-12-05T18:30:00Z
   stop: 2026-12-05T19:00:00Z
@@ -408,6 +443,7 @@
   audiodesc: true
 - eventId:
   - 582867
+  - 600443
   - 793414
   start: 2026-12-05T19:00:00Z
   stop: 2026-12-05T19:15:00Z
@@ -418,6 +454,7 @@
   audiodesc: true
 - eventId:
   - 582868
+  - 600444
   - 793415
   start: 2026-12-05T19:15:00Z
   stop: 2026-12-05T20:40:00Z
@@ -431,6 +468,7 @@
   audiodesc: true
 - eventId:
   - 582869
+  - 600445
   - 793416
   start: 2026-12-05T20:40:00Z
   stop: 2026-12-05T22:10:00Z
@@ -442,6 +480,7 @@
   audiodesc: true
 - eventId:
   - 583290
+  - 600927
   - 793455
   start: 2026-12-05T22:10:00Z
   stop: 2026-12-05T23:40:00Z
@@ -455,6 +494,7 @@
   audiodesc: true
 - eventId:
   - 583291
+  - 600928
   - 793456
   start: 2026-12-05T23:40:00Z
   stop: 2026-12-06T01:10:00Z

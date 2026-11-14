@@ -29,6 +29,19 @@
   genre:
   - '16'
   description: 'Michael Kroh wird tot aus dem Königssee gefischt. Beissl kennt das tragische Schicksal der Familie: Der Vater des Berufsfischers verunglückte vor ein paar Jahren tödlich in den Bergen. Zwischen den Geschwistern gab es oft Streit, doch reicht das auch für ein Motiv?'
+- eventId: 600567
+  start: 2026-11-15T01:00:00Z
+  stop: 2026-11-15T02:35:00Z
+  title: In den besten Händen
+  subtitle: Spielfilm Frankreich 2021
+  description: "Comiczeichnerin Raphaela und Verlegerin Julie sind seit zehn Jahren ein Paar, doch nun scheint ihre Beziehung am Ende zu sein. Bei einem ihrer aufreibenden Streits stürzt Raphaela, bricht sich den Arm und die beiden landen unversehens in einer Pariser Notaufnahme. Draußen toben heftige Proteste, das Krankenhaus füllt sich mit verletzten Demonstrierenden, das Personal ist am Ende mit den Nerven und die Lage droht zu eskalieren. \n\nAls der wütende LKW-Fahrer Yann zu Raphaela ins Zimmer verlegt wird, prallen Vorurteile und Klassen-Ressentiments aufeinander. Doch im Laufe der ereignisreichen Nacht werden sie viele Gemeinsamkeiten finden."
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 652432
   start: 2026-11-15T01:00:00Z
   stop: 2026-11-15T02:35:00Z
@@ -107,7 +120,9 @@
     Für Comedian Matze Knop ist die dritte Jahreszeit einfach die "Herbstwoche" in Lippstadt: "Wenn hier Herbst ist, dann ist Kirmes und wenn Kirmes Schluss ist, ist auch eigentlich schon Winter."
 
     Für "Wanderpapst" Manuel Andrack ist der Herbst die schönste Zeit, um den Westen zu Fuß zu erkunden, für Schauspieler Jan-Gregor Kremp sind es die Farben, die den Herbst zu seiner Jahreszeit machen.
-- eventId: 652434
+- eventId:
+  - 600568
+  - 652434
   start: 2026-11-15T02:35:00Z
   stop: 2026-11-15T04:05:00Z
   title: Unsere Herbstgeschichten
@@ -138,7 +153,9 @@
   hd: true
   audiodesc: true
   description: 'Zwischen Julischen Alpen und Adriaküste findet man in Slowenien, im Herzen Europas, eine spektakuläre Vielfalt: hohe Berge, glasklare Seen, Weinregionen, eindrucksvolle Höhlen und mediterrane Küstenorte. Stephanie Müller-Spirra entdeckt mitten im Indian Summer den Westen Sloweniens.'
-- eventId: 652464
+- eventId:
+  - 600730
+  - 652464
   start: 2026-11-15T04:05:00Z
   stop: 2026-11-15T05:35:00Z
   title: Wunderschön! Slowenien - Zwischen Alpen und Adria
@@ -172,7 +189,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 652465
+- eventId:
+  - 600731
+  - 652465
   start: 2026-11-15T05:35:00Z
   stop: 2026-11-15T05:45:00Z
   title: Erlebnisreisen
@@ -191,11 +210,21 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 600732
+  start: 2026-11-15T05:45:00Z
+  stop: 2026-11-15T06:15:00Z
+  title: Lokalzeit
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 584283
   - 587875
   - 593679
   - 597144
+  - 600897
   - 606364
   - 609834
   - 615796
@@ -238,11 +267,26 @@
   description: |-
     Heute wird Björn Freitag hessisches Abendbrot aufgetischt - und damit macht ihn Profiköchin Katrin Neugebauer so richtig glücklich! Mit Björns Hilfe richtet Katrin zwei hessische Leibspeisen auf einem Brettchen an - wirklich raffiniert, eine feine Kombi aus Handkäse-Stulle und Frankfurter Grüne Soße zum Dippen.
     Die Hessin kann sich auch Björn Freitags Heimatküche auf der Zunge zergehen lassen. Der Kochprofi hat Lust auf "Gerolltes". Schweinebauchrouladen sind ein Eifler Traditionsessen und da passt die kräftige Bier-BBQ-Soße bestens dazu. Für Katrin ebenfalls ein Hochgenuss: das karamellisierte Sauerkraut.
+- eventId: 600898
+  start: 2026-11-15T06:45:00Z
+  stop: 2026-11-15T07:15:00Z
+  title: Einfach und köstlich - Björn Freitag kocht mit Katrin Neugebauer
+  subtitle: Hessische Tapas und Eifeler Schmorklassiker
+  description: |-
+    Heute wird Björn Freitag hessisches Abendbrot aufgetischt - und damit macht ihn Profiköchin Katrin Neugebauer so richtig glücklich! Mit Björns Hilfe richtet Katrin zwei hessische Leibspeisen auf einem Brettchen an - wirklich raffiniert, eine feine Kombi aus Handkäse-Stulle und Frankfurter Grüne Soße zum Dippen.
+    Die Hessin kann sich auch Björn Freitags Heimatküche auf der Zunge zergehen lassen. Der Kochprofi hat Lust auf "Gerolltes". Schweinebauchrouladen sind ein Eifler Traditionsessen und da passt die kräftige Bier-BBQ-Soße bestens dazu. Für Katrin ebenfalls ein Hochgenuss: das karamellisierte Sauerkraut.
+  genre:
+  - '144'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 584285
   - 587877
   - 593681
   - 597146
+  - 600899
   - 606366
   - 609836
   - 615798
@@ -262,6 +306,7 @@
   - 584286
   - 587878
   - 597147
+  - 600900
   - 609837
   - 615799
   - 906866
@@ -283,6 +328,7 @@
   - 584287
   - 587879
   - 597148
+  - 600901
   - 609838
   start: 2026-11-15T08:15:00Z
   stop: 2026-11-15T10:15:00Z
@@ -297,6 +343,7 @@
   - 588145
   - 588325
   - 598630
+  - 601113
   - 610494
   start: 2026-11-15T10:15:00Z
   stop: 2026-11-15T11:00:00Z
@@ -311,6 +358,7 @@
   - 588146
   - 588326
   - 598631
+  - 601114
   start: 2026-11-15T11:00:00Z
   stop: 2026-11-15T11:45:00Z
   title: Land & lecker - Kulinarische Schätze (3)
@@ -333,6 +381,7 @@
   - 588147
   - 588327
   - 598632
+  - 601115
   - 610496
   start: 2026-11-15T11:45:00Z
   stop: 2026-11-15T12:00:00Z
@@ -347,6 +396,7 @@
   - 588332
   - 588840
   - 599059
+  - 601278
   - 610716
   - 906521
   start: 2026-11-15T12:00:00Z
@@ -363,6 +413,7 @@
   - 588333
   - 588841
   - 599060
+  - 601279
   - 610717
   - 906522
   start: 2026-11-15T12:30:00Z
@@ -382,6 +433,7 @@
   - 588334
   - 588842
   - 599061
+  - 601280
   - 610718
   - 906523
   start: 2026-11-15T13:20:00Z
@@ -398,6 +450,7 @@
   description: 'Überall in NRW gibt es spannende Orte zu entdecken - darunter echte Geheimtipps. Gemeinsam mit Daniel Assmann erkunden wir Ausflugstipps im Westen für Familien und alle, die mal raus wollen und etwas erleben möchten: ruhig oder mit viel Action.'
 - eventId:
   - 588843
+  - 601281
   - 727858
   start: 2026-11-15T13:50:00Z
   stop: 2026-11-15T14:45:00Z
@@ -435,6 +488,7 @@
   - '16'
 - eventId:
   - 588844
+  - 601282
   - 727859
   start: 2026-11-15T14:45:00Z
   stop: 2026-11-15T15:00:00Z
@@ -467,6 +521,7 @@
   - 588538
   - 589056
   - 599263
+  - 601487
   - 611051
   - 906925
   start: 2026-11-15T15:00:00Z
@@ -522,7 +577,9 @@
   description: |-
     Die Bonner Band Druckluft hat mit der "Karnevalsmaus" den Superhit der Session gelandet. Der Hype rund um die ehemalige Bonner Schülerband kennt keine Grenzen. Vor lauter Autogramm- und Fotowünschen schafft die Band es kaum aus dem Bus. In den Sälen singt und tanzt jeder Jeck die "Karnevalsmaus". Die Maus ist das Trendkostüm.
     Marc-André Schröter hat mit seiner Kamera Frontmann Florian Hertel und die Band Druckluft einen Tag lang in diesem "Wahnsinn" ganz nah begleitet. Im Band-Bus rund um Köln, von Auftritt zu Auftritt. Er zeigt, wie sehr sich das Leben der Band verändert hat, aber auch wie der Superhit entstanden ist.
-- eventId: 652486
+- eventId:
+  - 601488
+  - 652486
   start: 2026-11-15T16:00:00Z
   stop: 2026-11-15T16:15:00Z
   title: Unterwegs mit Druckluft - wie die Karnevalsmaus alles verändert
@@ -549,6 +606,7 @@
   - 588541
   - 589059
   - 599266
+  - 601489
   - 611054
   - 906928
   start: 2026-11-15T16:15:00Z
@@ -566,6 +624,7 @@
   - 589060
   - 599267
   - 599808
+  - 601490
   - 611055
   - 906929
   start: 2026-11-15T17:00:00Z
@@ -584,6 +643,7 @@
   - 582654
   - 588543
   - 599268
+  - 601491
   - 611056
   - 906930
   start: 2026-11-15T17:45:00Z
@@ -615,6 +675,7 @@
   - 588820
   - 589257
   - 599573
+  - 601694
   - 611568
   - 617414
   - 906619
@@ -630,6 +691,7 @@
   - 588821
   - 589258
   - 599574
+  - 601695
   - 611569
   - 617415
   - 906620
@@ -647,6 +709,7 @@
   - 588822
   - 589259
   - 599575
+  - 601696
   - 611570
   - 617416
   - 906621
@@ -663,6 +726,7 @@
   - 588823
   - 589260
   - 599576
+  - 601697
   - 611571
   - 617417
   - 906622
@@ -675,7 +739,9 @@
   hd: true
   audiodesc: true
   description: "Die größte Halle. Die größten Stars. Die besten Newcomerinnen und Newcomer. Das Publikum erwartet eine Comedy-Show der Superlative! 1LIVE und das COLOGNE COMEDY FESTIVAL holen auch 2026 wieder das Who is Who der deutschsprachigen Comedyszene auf die große Bühne. \n\nMit Gastgeber Osan Yaran stehen in diesem Jahr auf der Bühne: Bastian Bielendorfer, Torsten Sträter, Björn von Morgenstern, Jerry Vsan, Elli Lizz, Ana Lucía, Pam Pengco und Simon Stäblein."
-- eventId: 661023
+- eventId:
+  - 601881
+  - 661023
   start: 2026-11-15T23:15:00Z
   stop: 2026-11-16T01:00:00Z
   title: 'Rockpalast: State Radio'

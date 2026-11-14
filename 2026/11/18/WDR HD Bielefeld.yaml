@@ -15,7 +15,9 @@
   ageRating: 12
   genre:
   - '16'
-- eventId: 599243
+- eventId:
+  - 599243
+  - 599645
   start: 2026-11-18T00:10:00Z
   stop: 2026-11-18T01:00:00Z
   title: Watzmann ermittelt (13)
@@ -31,6 +33,7 @@
 - eventId:
   - 582556
   - 599244
+  - 599646
   - 604378
   - 616649
   - 623063
@@ -47,6 +50,7 @@
 - eventId:
   - 582557
   - 599245
+  - 599647
   - 604379
   - 616650
   - 623064
@@ -62,6 +66,7 @@
 - eventId:
   - 582558
   - 599246
+  - 599648
   - 604380
   - 616651
   - 623065
@@ -74,40 +79,29 @@
   hd: true
   audiodesc: true
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
-- eventId:
-  - 582559
-  - 599247
-  - 604381
-  - 616652
-  - 623066
-  - 981407
+- eventId: 599649
   start: 2026-11-18T02:25:00Z
   stop: 2026-11-18T02:55:00Z
   title: Lokalzeit Bergisches Land
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
-- eventId:
-  - 582560
-  - 599248
-  - 604382
-  - 616653
-  - 623067
-  - 981408
+- eventId: 599650
   start: 2026-11-18T02:55:00Z
   stop: 2026-11-18T03:25:00Z
   title: Lokalzeit Ruhr
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
 - eventId:
   - 583396
   - 592833
   - 599517
+  - 599807
   - 605358
   - 623366
   - 981469
@@ -123,6 +117,7 @@
   - 583397
   - 592834
   - 599518
+  - 599808
   - 605359
   - 623367
   - 981470
@@ -138,6 +133,7 @@
   - 583398
   - 592835
   - 599519
+  - 599809
   - 605360
   - 623368
   - 981471
@@ -153,6 +149,7 @@
   - 583399
   - 592836
   - 599520
+  - 599810
   - 605361
   - 623369
   - 981472
@@ -168,6 +165,7 @@
   - 583400
   - 592837
   - 599521
+  - 599811
   - 605362
   - 623370
   - 981473
@@ -183,6 +181,7 @@
   - 583401
   - 592838
   - 599522
+  - 599812
   - 605363
   - 623371
   - 981474
@@ -197,6 +196,7 @@
 - eventId:
   - 583983
   - 593441
+  - 599908
   - 600003
   - 606136
   - 625310
@@ -223,7 +223,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 600004
+- eventId:
+  - 599909
+  - 600004
   start: 2026-11-18T06:40:00Z
   stop: 2026-11-18T07:25:00Z
   title: In aller Freundschaft (1047)
@@ -247,7 +249,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 600005
+- eventId:
+  - 599910
+  - 600005
   start: 2026-11-18T07:25:00Z
   stop: 2026-11-18T08:10:00Z
   title: In aller Freundschaft (1048)
@@ -257,7 +261,9 @@
   hd: true
   audiodesc: true
   description: Ilay Demir und Prof. Maria Weber werden mit einem prekären Fall des Versicherungsbetrugs konfrontiert und registrieren, dass sie unterschiedliche Herangehensweisen an den Fall haben. Währenddessen kommt Freddy Kerr seine jahrelange Freundin Kathrin Globisch besuchen und kann es nicht fassen, dass sie inzwischen mit Roland verheiratet ist.
-- eventId: 600006
+- eventId:
+  - 599911
+  - 600006
   start: 2026-11-18T08:10:00Z
   stop: 2026-11-18T08:40:00Z
   title: Lokalzeit OWL
@@ -281,6 +287,31 @@
     Bernd Stelter ist seit mehr als 30 Jahren auf den Bühnen des Kölner Karnevals unterwegs und zählt heute zu den besten und beliebtesten buchbaren Rednern im Karneval überhaupt. Viele kennen das Multitalent natürlich auch noch als Comedian, Schriftsteller und Fernsehmoderator - nicht zuletzt aus Rudi Carrels "7 Tage, 7 Köpfe".
 
     Seine Karnevalsreden sind immer auf das aktuelle Zeitgeschehen zugeschnitten, mit scharfem und intelligentem Witz nimmt er Politik, Prominenz, Zeitgeist, aber auch allzu Menschliches liebevoll ins Visier. Aber Bernd Stelter ist auch ein begnadeter Musiker.
+- eventId: 599912
+  start: 2026-11-18T08:40:00Z
+  stop: 2026-11-18T09:25:00Z
+  title: Gefragt - Gejagt
+  subtitle: 'Moderation: Alexander Bommes'
+  description: Vier Kandidaten müssen in Einzelrunden eine Minute lang Fragen gegen die Uhr beantworten. Pro richtige Antwort wird ihnen Geld gutgeschrieben. In Einzelduellen gegen den "Jäger" müssen sie dann ihr Geld verteidigen. Werden sie dabei von ihm eingeholt, scheiden sie aus. Wenn die Kandidaten aber gegen den "Jäger" gewinnen, retten sie sich und ihr Geld ins Finale.
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1009543
+  - 589151
+  - 600013
+  - 611958
+  - 617712
+  start: 2026-11-18T09:25:00Z
+  stop: 2026-11-18T10:10:00Z
+  title: Mittendrin - Flughafen Frankfurt (70)
+  subtitle: 100 Jahre Flughafen - Vom Propellerflugzeug zum Airbus A380
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Nach Kriegsende entwickelt sich der Frankfurter Flughafen zu einem der wichtigsten internationalen Luftverkehrsknotenpunkte und zu Deutschlands größtem Airport. Ein Weltflughafen im rasanten Wachstum. Aber für seine Gegner bleibt er ein "Fluchhafen". Die neue Startbahn West in den 1980er Jahren wird zum gewaltigen Streitthema und zur größten Bürgerbewegung in Deutschland. Es gibt Tote und Verletzte. Zu laut und zu dreckig ist der Rhein-Main-Airport vielen Anwohnern bis heute. Der Flughafen Frankfurt - für die einen faszinierend, für die anderen abstoßend. Kaum ein anderer Ort in Deutschland bietet so viele Emotionen.
 - eventId:
   - 584732
   - 594042
@@ -297,6 +328,29 @@
   hd: true
   audiodesc: true
   description: Nach Kriegsende entwickelt sich der Frankfurter Flughafen zu einem der wichtigsten internationalen Luftverkehrsknotenpunkte und zu Deutschlands größtem Airport. Ein Weltflughafen im rasanten Wachstum. Aber für seine Gegner bleibt er ein "Fluchhafen". Die neue Startbahn West in den 1980er Jahren wird zum gewaltigen Streitthema und zur größten Bürgerbewegung in Deutschland. Es gibt Tote und Verletzte. Zu laut und zu dreckig ist der Rhein-Main-Airport vielen Anwohnern bis heute. Der Flughafen Frankfurt - für die einen faszinierend, für die anderen abstoßend. Kaum ein anderer Ort in Deutschland bietet so viele Emotionen.
+- eventId:
+  - 1009544
+  - 584013
+  - 589152
+  - 593467
+  - 600014
+  - 611959
+  - 617713
+  - 695348
+  start: 2026-11-18T10:10:00Z
+  stop: 2026-11-18T10:55:00Z
+  title: In aller Freundschaft - 1055. Alles kann so schnell vorbei sein
+  subtitle: Die besten Zoogeschichten aus NRW
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  ageRating: 6
+  description: |-
+    In der Zoom Erlebniswelt bekommt Giraffe Hans heute Besuch von Tierärztin Dr. Pia Krawinkel. Das mehr als fünf Meter große Tier soll Blut abgenommen bekommen und zwar auf eine ganz spezielle Weise, nämlich anhand von Wanzen, die ihm aufs Fell gesetzt werden. Ob das Vorhaben gelingen wird?
+    Der Allwetterzoo Münster betreibt eine besondere Schildkrötenstation. Hier werden vor allem die sehr seltenen Arten gehalten. Die meisten gibt es in der Natur schon gar nicht mehr. Rund um die Uhr versuchen die Spezialisten, die letzten ihrer Art zu retten und sie zu züchten.
 - eventId:
   - 584733
   - 594043
@@ -337,6 +391,25 @@
 
     Stichpimpuli, der neue Krake, scheint auch nicht ausgelastet. Ein Randalierer, der sich regelmäßig an der Beckeneinrichtung zu schaffen macht. Florian Brandt will seine zerstörerische Ader in positive Bahnen lenken.
 - eventId:
+  - 589153
+  - 600015
+  - 611960
+  - 741543
+  start: 2026-11-18T10:55:00Z
+  stop: 2026-11-18T11:45:00Z
+  title: Happy Birthday! Wir feiern Olli Dittrich und zwar 70 Mal
+  subtitle: Geschichten aus dem Leipziger Zoo
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Richtige Halbstarke sind sie geworden, die beiden Lippenbären Liem und Shiva. Ihnen juckt der Pelz! Mutter Lina muss das ausbaden. Doch jetzt bekommt sie Unterstützung von Heike Hachicho.
+
+    Sorgenkind Grisu ist wieder wohlauf. Nach langer Krankheit hat sich das Rote Riesenkänguru berappelt und kann fröhlich durch die Gegend hüpfen. Allerdings macht Grisu nicht das, was sie kann.
+
+    Stichpimpuli, der neue Krake, scheint auch nicht ausgelastet. Ein Randalierer, der sich regelmäßig an der Beckeneinrichtung zu schaffen macht. Florian Brandt will seine zerstörerische Ader in positive Bahnen lenken.
+- eventId:
   - 584735
   - 594045
   - 600310
@@ -352,8 +425,22 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 589154
+  - 600016
+  - 611961
+  - 741544
+  start: 2026-11-18T11:45:00Z
+  stop: 2026-11-18T12:00:00Z
+  title: Quizduell-Olymp
+  subtitle: 'Gäste: ChrisTine Urspruch und Lilo Urspruch'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 585582
   - 594506
+  - 600105
   - 600516
   - 607173
   - 623908
@@ -374,6 +461,7 @@
 - eventId:
   - 585583
   - 594507
+  - 600106
   - 600517
   - 607174
   - 623909
@@ -404,7 +492,9 @@
   ageRating: 6
   genre:
   - '16'
-- eventId: 600518
+- eventId:
+  - 600107
+  - 600518
   start: 2026-11-18T13:20:00Z
   stop: 2026-11-18T14:10:00Z
   title: Watzmann ermittelt (14)
@@ -433,7 +523,9 @@
   audiodesc: true
   genre:
   - '16'
-- eventId: 600519
+- eventId:
+  - 600108
+  - 600519
   start: 2026-11-18T14:10:00Z
   stop: 2026-11-18T15:00:00Z
   title: Watzmann ermittelt (15)
@@ -449,6 +541,7 @@
   - 586152
   - 588169
   - 595233
+  - 600244
   - 607796
   - 624169
   - 981261
@@ -464,6 +557,7 @@
   - 586153
   - 588170
   - 595234
+  - 600245
   - 607797
   - 624170
   - 981262
@@ -478,6 +572,7 @@
   - 586154
   - 588171
   - 595235
+  - 600246
   - 607798
   - 624171
   - 981263
@@ -495,6 +590,7 @@
   - 586155
   - 588172
   - 595236
+  - 600247
   - 607799
   - 624172
   - 981264
@@ -511,6 +607,7 @@
   - 586156
   - 588173
   - 595237
+  - 600248
   - 607800
   - 624173
   - 981265
@@ -526,6 +623,7 @@
   - 586632
   - 589041
   - 595648
+  - 600413
   - 608346
   - 624413
   - 981552
@@ -541,6 +639,7 @@
   - 586633
   - 589042
   - 595649
+  - 600414
   - 608347
   - 624414
   - 981553
@@ -558,6 +657,7 @@
   - 586634
   - 589043
   - 595650
+  - 600415
   - 608348
   - 624415
   - 981554
@@ -573,6 +673,7 @@
   - 586635
   - 589044
   - 595651
+  - 600416
   - 608349
   - 624416
   - 981555
@@ -589,6 +690,7 @@
   - 586636
   - 589045
   - 595652
+  - 600417
   - 608350
   - 624417
   - 981556
@@ -604,6 +706,7 @@
   - 589440
   - 592882
   - 595910
+  - 600537
   - 608647
   - 624593
   - 981352
@@ -620,6 +723,7 @@
   - 589441
   - 592883
   - 595911
+  - 600538
   - 608648
   - 624594
   - 981353
@@ -636,6 +740,7 @@
   - 589442
   - 592884
   - 595912
+  - 600539
   - 608649
   - 624595
   - 981354

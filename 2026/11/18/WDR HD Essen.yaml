@@ -16,7 +16,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 599183
+- eventId:
+  - 599183
+  - 599619
   start: 2026-11-18T00:10:00Z
   stop: 2026-11-18T01:00:00Z
   title: Watzmann ermittelt (13)
@@ -32,6 +34,7 @@
 - eventId:
   - 582493
   - 599184
+  - 599620
   - 604315
   - 616589
   - 622991
@@ -48,6 +51,7 @@
 - eventId:
   - 582494
   - 599185
+  - 599621
   - 604316
   - 616590
   - 622992
@@ -63,6 +67,7 @@
 - eventId:
   - 582495
   - 599186
+  - 599622
   - 604317
   - 616591
   - 622993
@@ -78,6 +83,7 @@
 - eventId:
   - 582496
   - 599187
+  - 599623
   - 604318
   - 616592
   - 622994
@@ -93,6 +99,7 @@
 - eventId:
   - 582497
   - 599188
+  - 599624
   - 604319
   - 616593
   - 622995
@@ -109,6 +116,7 @@
   - 582928
   - 592453
   - 599430
+  - 599777
   - 605208
   - 623279
   - 981451
@@ -124,6 +132,7 @@
   - 582929
   - 592454
   - 599431
+  - 599778
   - 605209
   - 623280
   - 981452
@@ -139,6 +148,7 @@
   - 582930
   - 592455
   - 599432
+  - 599779
   - 605210
   - 623281
   - 981453
@@ -154,6 +164,7 @@
   - 582931
   - 592456
   - 599433
+  - 599780
   - 605211
   - 623282
   - 981454
@@ -165,36 +176,24 @@
   hd: true
   audiodesc: true
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
-- eventId:
-  - 582932
-  - 592457
-  - 599434
-  - 605212
-  - 623283
-  - 981455
+- eventId: 599781
   start: 2026-11-18T05:20:00Z
   stop: 2026-11-18T05:50:00Z
   title: Lokalzeit aus Bonn
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
-- eventId:
-  - 582933
-  - 592458
-  - 599435
-  - 605213
-  - 623284
-  - 981456
+- eventId: 599782
   start: 2026-11-18T05:50:00Z
   stop: 2026-11-18T06:20:00Z
   title: Lokalzeit aus Duisburg
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
 - eventId:
   - 1313853
   - 605967
@@ -210,6 +209,7 @@
   - 583789
   - 593251
   - 599729
+  - 599882
   - 625232
   - 981103
   start: 2026-11-18T06:20:00Z
@@ -236,7 +236,9 @@
   audiodesc: true
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
   subtitle: Deutschland 2023
-- eventId: 599730
+- eventId:
+  - 599730
+  - 599883
   start: 2026-11-18T06:40:00Z
   stop: 2026-11-18T07:25:00Z
   title: In aller Freundschaft (1047)
@@ -262,7 +264,9 @@
   audiodesc: true
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
   subtitle: Ich schaffe das schon!
-- eventId: 599731
+- eventId:
+  - 599731
+  - 599884
   start: 2026-11-18T07:25:00Z
   stop: 2026-11-18T08:10:00Z
   title: In aller Freundschaft (1048)
@@ -287,6 +291,7 @@
   - 583792
   - 593254
   - 599732
+  - 599885
   - 625235
   - 981106
   start: 2026-11-18T08:10:00Z
@@ -313,6 +318,7 @@
   - 583793
   - 593255
   - 599733
+  - 599886
   - 625236
   - 981107
   start: 2026-11-18T08:40:00Z
@@ -329,6 +335,7 @@
   - 582819
   - 584428
   - 593855
+  - 599985
   - 600197
   - 606498
   - 606699
@@ -348,6 +355,7 @@
   - 582820
   - 584429
   - 593856
+  - 599986
   - 600198
   - 606499
   - 606700
@@ -382,6 +390,7 @@
   subtitle: Geschichten aus dem Leipziger Zoo
 - eventId:
   - 584430
+  - 599987
   - 600199
   - 606500
   - 623634
@@ -421,6 +430,7 @@
     Ob Yvonne mit ihren Tipps Mutter und Tochter auf Kurs bringen kann?
 - eventId:
   - 584431
+  - 599988
   - 600200
   - 606501
   - 623635
@@ -436,6 +446,7 @@
 - eventId:
   - 585451
   - 594385
+  - 600077
   - 600456
   - 607009
   - 623851
@@ -456,6 +467,7 @@
 - eventId:
   - 585452
   - 594386
+  - 600078
   - 600457
   - 607010
   - 623852
@@ -486,7 +498,9 @@
   ageRating: 6
   genre:
   - '16'
-- eventId: 600458
+- eventId:
+  - 600079
+  - 600458
   start: 2026-11-18T13:20:00Z
   stop: 2026-11-18T14:10:00Z
   title: Watzmann ermittelt (14)
@@ -515,20 +529,21 @@
   audiodesc: true
   genre:
   - '16'
-- eventId: 600459
+- eventId: 600080
   start: 2026-11-18T14:10:00Z
   stop: 2026-11-18T15:00:00Z
   title: Watzmann ermittelt (15)
   subtitle: Neue Zeiten
+  description: 'Der Betreiber eines frisch renovierten Hotels wird tot aufgefunden. Er wurde aus dem Fenster seines Büros in den Tod gestürzt. Der Safe im Büro ist aufgebrochen. Alles deutet auf einen Raubmord hin. Beissl und Jerry kommen schnell auf einen möglichen Tat-Hintergrund: Der Getötete verweigerte den an der Renovierung beteiligten Handwerksbetrieben konsequent die Zahlungen. Beissl und Jerry setzen darauf, den Mörder im Umfeld der betrogenen Handwerker zu finden. Einer der Geschädigten gerät zunehmend in den Fokus der Ermittlungen: ein mit Beissl befreundeter Schreinermeister.'
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: 'Der Betreiber eines frisch renovierten Hotels wird tot aufgefunden. Er wurde aus dem Fenster seines Büros in den Tod gestürzt. Der Safe im Büro ist aufgebrochen. Alles deutet auf einen Raubmord hin. Beissl und Jerry kommen schnell auf einen möglichen Tat-Hintergrund: Der Getötete verweigerte den an der Renovierung beteiligten Handwerksbetrieben konsequent die Zahlungen. Beissl und Jerry setzen darauf, den Mörder im Umfeld der betrogenen Handwerker zu finden. Einer der Geschädigten gerät zunehmend in den Fokus der Ermittlungen: ein mit Beissl befreundeter Schreinermeister.'
 - eventId:
   - 585977
+  - 600219
   - 601786
   - 607623
   - 618222
@@ -544,6 +559,7 @@
   audiodesc: true
 - eventId:
   - 585978
+  - 600220
   - 601787
   - 607624
   - 618223
@@ -558,6 +574,7 @@
   audiodesc: true
 - eventId:
   - 585979
+  - 600221
   - 601788
   - 607625
   - 618224
@@ -575,6 +592,7 @@
     * anschließend: "Lokalzeit"-Kurzausgabe
 - eventId:
   - 585980
+  - 600222
   - 601789
   - 607626
   - 618225
@@ -591,6 +609,7 @@
   description: Wirklich preiswert? Wirklich praktisch? Wirklich lecker? Die Servicezeit macht Ihren Alltag leichter! Mit unseren Tipps sind Sie in allen Lebenslagen gut beraten! Ob Gesundheit oder Geld, Wohnen oder Ernährung, Multimedia oder Verkehr - das Verbrauchermagazin Servicezeit beleuchtet Hintergründe, schafft Orientierung und gibt praktische Ratschläge - und zwar unabhängig und neutral.
 - eventId:
   - 585981
+  - 600223
   - 601790
   - 607627
   - 618226
@@ -610,6 +629,7 @@
   - 588894
   - 595422
   - 599642
+  - 600388
   - 608169
   - 611702
   - 617482
@@ -643,6 +663,7 @@
 - eventId:
   - 586510
   - 595423
+  - 600389
   - 608170
   - 624353
   - 981302
@@ -655,6 +676,7 @@
   audiodesc: true
   genre:
   - '32'
+  description: Die Nachrichten der ARD
 - eventId:
   - 1009492
   - 588896
@@ -672,6 +694,7 @@
 - eventId:
   - 586511
   - 595424
+  - 600390
   - 608171
   - 624354
   - 981303
@@ -689,6 +712,7 @@
   - 588897
   - 595425
   - 599645
+  - 600391
   - 608172
   - 611705
   - 617485
@@ -706,6 +730,7 @@
 - eventId:
   - 586513
   - 595426
+  - 600392
   - 608173
   - 624356
   - 981305
@@ -734,6 +759,7 @@
   - 586965
   - 589363
   - 595816
+  - 600518
   - 608582
   - 624548
   - 981343
@@ -750,6 +776,7 @@
   - 586966
   - 589364
   - 595817
+  - 600519
   - 608583
   - 624549
   - 981344
@@ -766,6 +793,7 @@
   - 586967
   - 589365
   - 595818
+  - 600520
   - 608584
   - 624550
   - 981345

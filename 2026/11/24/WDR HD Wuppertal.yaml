@@ -2,6 +2,7 @@
   - 583556
   - 589213
   - 600073
+  - 601173
   - 612031
   - 764023
   start: 2026-11-24T00:20:00Z
@@ -16,6 +17,7 @@
   - 583557
   - 589214
   - 600074
+  - 601174
   - 612032
   - 764024
   start: 2026-11-24T01:10:00Z
@@ -29,6 +31,7 @@
   - 583558
   - 589215
   - 600075
+  - 601175
   - 612033
   - 764025
   start: 2026-11-24T01:30:00Z
@@ -43,6 +46,7 @@
   - 583559
   - 589216
   - 600076
+  - 601176
   - 612034
   - 764026
   start: 2026-11-24T02:00:00Z
@@ -56,6 +60,7 @@
   - 583560
   - 589217
   - 600077
+  - 601177
   - 612035
   - 764027
   start: 2026-11-24T02:25:00Z
@@ -69,6 +74,7 @@
   - 583561
   - 589218
   - 600078
+  - 601178
   - 612036
   - 764028
   start: 2026-11-24T02:55:00Z
@@ -78,37 +84,25 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 584343
-  - 589447
-  - 600377
-  - 616871
-  - 764089
+- eventId: 601743
   start: 2026-11-24T03:25:00Z
   stop: 2026-11-24T03:55:00Z
   title: Lokalzeit aus Dortmund
-  subtitle: Gejagd
-  description: Verwachsene Männer brechen nachts in die WG von Anna, Ben und Lukas ein und bedrohen sie. Den dreien gelingt die Flucht, doch in ihre WG können sie nicht mehr zurück. Da taucht Jess überraschend wieder auf ...
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 601744
+  start: 2026-11-24T03:55:00Z
+  stop: 2026-11-24T04:25:00Z
+  title: Lokalzeit Münsterland
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
 - eventId:
-  - 584344
-  - 589448
-  - 600378
-  - 616872
-  - 764090
-  start: 2026-11-24T03:55:00Z
-  stop: 2026-11-24T04:25:00Z
-  title: Lokalzeit Münsterland
-  subtitle: Kontakt
-  description: Nach dem Tod von Jess fliehen Anna, Ben und Lukas in den Wald, wo sie von einer seltsamen Kreatur angegriffen werden. Da taucht eine Fremde auf, die sich als "Saskia" vorstellt. Sie scheint den Dreien helfen zu wollen, doch können die Freunde ihr vertrauen?
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId: 584345
+  - 584345
+  - 601745
   start: 2026-11-24T04:25:00Z
   stop: 2026-11-24T04:50:00Z
   title: Lokalzeit OWL
@@ -126,7 +120,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 584346
+- eventId:
+  - 584346
+  - 601746
   start: 2026-11-24T04:50:00Z
   stop: 2026-11-24T05:20:00Z
   title: Lokalzeit Südwestfalen
@@ -134,7 +130,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 584347
+- eventId:
+  - 584347
+  - 601747
   start: 2026-11-24T05:20:00Z
   stop: 2026-11-24T05:50:00Z
   title: Lokalzeit aus Bonn
@@ -142,7 +140,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 584348
+- eventId:
+  - 584348
+  - 601748
   start: 2026-11-24T05:50:00Z
   stop: 2026-11-24T06:20:00Z
   title: Lokalzeit aus Duisburg
@@ -153,6 +153,7 @@
 - eventId:
   - 589781
   - 600799
+  - 602406
   - 612570
   - 620978
   - 764149
@@ -166,6 +167,7 @@
 - eventId:
   - 589782
   - 600800
+  - 602407
   - 612571
   - 620979
   - 764150
@@ -191,6 +193,15 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 602408
+  start: 2026-11-24T07:20:00Z
+  stop: 2026-11-24T08:10:00Z
+  title: In aller Freundschaft - 1052. Fluchten
+  subtitle: Deutschland 2024
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 620981
   - 746791
@@ -204,6 +215,7 @@
 - eventId:
   - 589784
   - 600802
+  - 602409
   - 612573
   - 620982
   - 764152
@@ -217,6 +229,7 @@
 - eventId:
   - 589785
   - 600803
+  - 602410
   - 612574
   - 620983
   - 764153
@@ -232,6 +245,7 @@
   - 590090
   - 593290
   - 601112
+  - 602688
   - 612890
   - 764205
   start: 2026-11-24T09:20:00Z
@@ -246,6 +260,7 @@
   - 590091
   - 593291
   - 601113
+  - 602689
   - 612891
   - 764206
   start: 2026-11-24T10:05:00Z
@@ -256,7 +271,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 593292
+- eventId:
+  - 593292
+  - 602690
   start: 2026-11-24T10:55:00Z
   stop: 2026-11-24T11:45:00Z
   title: Elefant, Tiger & Co.
@@ -265,7 +282,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 593293
+- eventId:
+  - 593293
+  - 602691
   start: 2026-11-24T11:45:00Z
   stop: 2026-11-24T12:00:00Z
   title: WDR aktuell
@@ -278,6 +297,7 @@
   - 590348
   - 593537
   - 601354
+  - 602931
   - 613103
   - 764245
   start: 2026-11-24T12:00:00Z
@@ -292,6 +312,7 @@
   - 590349
   - 593538
   - 601355
+  - 602932
   - 613104
   - 764246
   start: 2026-11-24T12:50:00Z
@@ -306,6 +327,7 @@
   - 590350
   - 593539
   - 601356
+  - 602933
   - 613105
   - 764247
   start: 2026-11-24T13:20:00Z
@@ -320,6 +342,7 @@
   - 590351
   - 593540
   - 601357
+  - 602934
   - 613106
   - 764248
   start: 2026-11-24T14:10:00Z
@@ -345,6 +368,21 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 591912
+  - 603121
+  - 615039
+  - 621454
+  - 850919
+  start: 2026-11-24T15:00:00Z
+  stop: 2026-11-24T15:15:00Z
+  title: 'Quarks: Die Macht des Mikrobioms - Was unser Darm leistet'
+  subtitle: 'Moderation: Rebecca Verwerich'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: 'Unser Darm beschäftigt uns meistens dann, wenn er Probleme bereitet. Aber die Forschung entdeckt immer mehr, wie unser Darm auch zu Wohlbefinden und Gesundheit beitragen kann. Das Mikrobiom - das sind alle hilfreichen Mikroben im Verdauungstrakt - spielt eine große Rolle, wenn es um psychische Gesundheit, versteckte Entzündungen oder um eine gute Verdauung geht. Und das Beste: Wir können unsere Darmgesundheit selbst beeinflussen. Welche Nahrungsmittel dabei wichtig sind, ob Probiotika-Präparate wirklich helfen und was alles zur Gruppe der Ballaststoffe zählt, erklärt Ralph Caspers.'
+- eventId:
   - 590560
   - 593733
   - 601556
@@ -358,6 +396,22 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 591913
+  - 603122
+  - 615040
+  - 621455
+  - 682616
+  - 850920
+  start: 2026-11-24T15:15:00Z
+  stop: 2026-11-24T17:00:00Z
+  title: Watzmann ermittelt - 32. Verbissen
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
+  subtitle: Deutschland 2022
+- eventId:
   - 590561
   - 593734
   - 601557
@@ -370,6 +424,22 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 591914
+  - 603123
+  - 615041
+  - 621456
+  - 682617
+  - 850921
+  start: 2026-11-24T17:00:00Z
+  stop: 2026-11-24T17:15:00Z
+  title: Watzmann ermittelt - 33. Bienenstich
+  subtitle: mit Alexander Bommes
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Vier Kandidaten müssen in Einzelrunden eine Minute lang Fragen gegen die Uhr beantworten. Pro richtige Antwort wird ihnen Geld gutgeschrieben. In Einzelduellen gegen den "Jäger" müssen sie dann ihr Geld verteidigen. Werden sie dabei von ihm eingeholt, scheiden sie aus. Wenn die Kandidaten aber gegen den "Jäger" gewinnen, retten sie sich und ihr Geld ins Finale.
 - eventId:
   - 590562
   - 593735
@@ -385,6 +455,22 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 591593
+  - 591915
+  - 603124
+  - 615042
+  - 621457
+  - 959502
+  start: 2026-11-24T17:15:00Z
+  stop: 2026-11-24T17:45:00Z
+  title: Erlebnisreisen
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Erlebnisreisen sind die Zusammenfassung von Magazinbeiträgen aus der Servicezeit oder kürzere exklusive Reportagen. Die Attraktivität der dargestellten Reiseziele steht im Vordergrund. Nachvollziehbar sind die beschriebenen Routen und Ziele. Deshalb werden praktische Tipps und konkrete Anregungen gegeben.
+  subtitle: Verbrauchertipps für jeden Tag
+- eventId:
   - 590563
   - 593736
   - 601559
@@ -399,9 +485,27 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 591916
+  - 603125
+  - 615043
+  - 621458
+  - 959503
+  start: 2026-11-24T17:45:00Z
+  stop: 2026-11-24T18:30:00Z
+  title: In aller Freundschaft - 1045. Schuldfragen
+  subtitle: Das Informationsmagazin für NRW
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Weil sein Taxi nicht kommt, muss Dr. Kaminski in einem Linienbus mitfahren, hinter dessen Steuer die übermüdete Susann Mess sitzt. Auch Hassan und Timo sind unter den Fahrgästen. Der Bus verunglückt und die Notaufnahme der Sachsenklinik bekommt zu tun. Hassan, Timo und Susann müssen versorgt werden. Obwohl Dr. Kaminski schon am Unfallort versucht hat, Timo zu reanimieren, verstirbt dieser. Die Busfahrerin Susann kommt glimpflich davon, aber sie gibt sich die Schuld an Timos Tod.
+    Hassan, der Sympathie für Susann hegt, berichtet, dass es Timo schon vor dem Unfall schlecht ging.
+- eventId:
   - 590839
   - 594987
   - 601835
+  - 603439
   - 613610
   - 764335
   start: 2026-11-24T18:30:00Z
@@ -415,6 +519,7 @@
   - 590840
   - 594988
   - 601836
+  - 603440
   - 613611
   - 764336
   start: 2026-11-24T19:00:00Z
@@ -430,6 +535,7 @@
   - 590841
   - 594989
   - 601837
+  - 603441
   - 613612
   - 764337
   start: 2026-11-24T19:15:00Z
@@ -447,6 +553,7 @@
   - 590842
   - 594990
   - 601838
+  - 603442
   - 613613
   - 764338
   start: 2026-11-24T20:45:00Z
@@ -461,6 +568,7 @@
   - 591083
   - 595222
   - 602076
+  - 603682
   - 613856
   - 764379
   start: 2026-11-24T21:15:00Z
@@ -478,6 +586,7 @@
   - 591084
   - 595223
   - 602077
+  - 603683
   - 613857
   - 764380
   start: 2026-11-24T22:45:00Z

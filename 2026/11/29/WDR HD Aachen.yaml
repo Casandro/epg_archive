@@ -2,6 +2,7 @@
   - 586085
   - 591525
   - 602790
+  - 604111
   - 773555
   start: 2026-11-29T01:00:00Z
   stop: 2026-11-29T01:45:00Z
@@ -15,6 +16,7 @@
   - 586086
   - 591526
   - 602791
+  - 604112
   - 773556
   start: 2026-11-29T01:45:00Z
   stop: 2026-11-29T02:05:00Z
@@ -30,6 +32,7 @@
   - 586087
   - 591527
   - 602792
+  - 604113
   - 773557
   start: 2026-11-29T02:05:00Z
   stop: 2026-11-29T02:30:00Z
@@ -45,6 +48,7 @@
   - 586088
   - 591528
   - 602793
+  - 604114
   - 773558
   start: 2026-11-29T02:30:00Z
   stop: 2026-11-29T02:55:00Z
@@ -58,6 +62,7 @@
   - 586089
   - 591529
   - 602794
+  - 604115
   - 773559
   start: 2026-11-29T02:55:00Z
   stop: 2026-11-29T03:20:00Z
@@ -68,31 +73,55 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 591864
-  - 595866
-  - 603111
-  - 773630
+  - 582673
+  - 599319
+  - 604440
+  - 604902
+  - 623139
+  - 981426
   start: 2026-11-29T03:20:00Z
   stop: 2026-11-29T03:45:00Z
   title: Tinkas Weihnachtsabenteuer
-  subtitle: Tag 5 - Ein unerwartetes Treffen
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
+  subtitle: Tag 5 - Ein unerwartetes Treffen
 - eventId:
-  - 591865
-  - 595867
-  - 603112
-  - 773631
+  - 582674
+  - 599320
+  - 604441
+  - 604908
+  - 713694
   start: 2026-11-29T03:45:00Z
   stop: 2026-11-29T04:10:00Z
-  title: Tinkas Weihnachtsabenteuer (6/24)
+  title: Watzmann ermittelt - 18. Weihnachtsmänner im Sommer
   subtitle: Tag 6 - Ein Schweinchen namens Öffert
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
+  genre:
+  - '16'
+- eventId:
+  - 582675
+  - 599321
+  - 604442
+  - 604909
+  - 713695
+  start: 2026-11-29T04:10:00Z
+  stop: 2026-11-29T04:30:00Z
+  title: Watzmann ermittelt - 19. Viva la Musica
+  subtitle: Tag 7 - Besuch bei den Wichteln
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  ageRating: 12
+  genre:
+  - '16'
 - eventId:
   - 591866
   - 773700
@@ -107,17 +136,18 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 595868
-  - 603113
-  - 773632
-  start: 2026-11-29T04:10:00Z
-  stop: 2026-11-29T04:30:00Z
+  - 582676
+  - 599322
+  - 604443
+  - 695639
+  start: 2026-11-29T04:30:00Z
+  stop: 2026-11-29T04:55:00Z
   title: Tinkas Weihnachtsabenteuer
-  subtitle: Tag 7 - Besuch bei den Wichteln
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Tag 8 - Die Wichtelmütze
 - eventId:
   - 595869
   - 603114
@@ -130,10 +160,35 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 582677
+  - 599323
+  - 604444
+  - 695640
+  start: 2026-11-29T04:55:00Z
+  stop: 2026-11-29T05:05:00Z
+  title: Lokalzeit aus Köln
+  subtitle: Der Blick in die Region
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 595870
   start: 2026-11-29T04:55:00Z
   stop: 2026-11-29T05:05:00Z
   title: Erlebnisreisen
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 582678
+  - 599324
+  - 604445
+  - 695641
+  start: 2026-11-29T05:05:00Z
+  stop: 2026-11-29T05:35:00Z
+  title: Lokalzeit aus Aachen
   widescreen: true
   subtitled: true
   hd: true
@@ -147,16 +202,18 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 603116
-  - 773635
-  start: 2026-11-29T05:05:00Z
-  stop: 2026-11-29T05:35:00Z
-  title: Lokalzeit aus Köln
-  subtitle: Der Blick in die Region
+  - 582679
+  - 599325
+  - 604446
+  - 695642
+  start: 2026-11-29T05:35:00Z
+  stop: 2026-11-29T06:05:00Z
+  title: Lokalzeit aus Düsseldorf
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: 'Kaffee: Von heißen Klassikern zu coolen Trends'
 - eventId: 595872
   start: 2026-11-29T05:35:00Z
   stop: 2026-11-29T06:05:00Z
@@ -170,6 +227,7 @@
   - 591257
   - 592261
   - 596542
+  - 604733
   - 773667
   start: 2026-11-29T06:05:00Z
   stop: 2026-11-29T06:50:00Z
@@ -183,6 +241,7 @@
   - 591258
   - 592262
   - 596543
+  - 604734
   - 773668
   start: 2026-11-29T06:50:00Z
   stop: 2026-11-29T07:35:00Z
@@ -196,6 +255,7 @@
   - 591259
   - 592263
   - 596544
+  - 604735
   - 773669
   start: 2026-11-29T07:35:00Z
   stop: 2026-11-29T09:35:00Z
@@ -208,6 +268,7 @@
 - eventId:
   - 592481
   - 598131
+  - 604951
   start: 2026-11-29T09:35:00Z
   stop: 2026-11-29T11:00:00Z
   title: Drei Haselnüsse für Aschenbrödel
@@ -218,36 +279,18 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 1431286
-  - 592482
-  - 598132
-  - 605877
-  - 617199
+- eventId: 604952
   start: 2026-11-29T11:00:00Z
   stop: 2026-11-29T11:45:00Z
   title: Land & lecker - Kulinarische Schätze (5)
+  subtitle: Craft-Cider aus dem Schwarzwald
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
-  subtitle: Handgemachter Käse aus dem Inntal
 - eventId:
-  - 1431287
-  - 592483
-  - 605878
-  - 617200
-  start: 2026-11-29T11:45:00Z
-  stop: 2026-11-29T12:00:00Z
-  title: Lokalzeit Münsterland
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
-  subtitle: 'Moderation: Carolyn Wißing'
-- eventId: 598133
+  - 598133
+  - 604953
   start: 2026-11-29T11:45:00Z
   stop: 2026-11-29T12:00:00Z
   title: WDR aktuell
@@ -260,6 +303,7 @@
   - 580199
   - 598317
   - 603551
+  - 605144
   - 773723
   start: 2026-11-29T12:00:00Z
   stop: 2026-11-29T13:30:00Z
@@ -275,6 +319,7 @@
   - 580200
   - 598318
   - 603552
+  - 605145
   - 773724
   start: 2026-11-29T13:30:00Z
   stop: 2026-11-29T15:00:00Z
@@ -291,6 +336,7 @@
   - 588123
   - 598608
   - 603828
+  - 605495
   - 721179
   - 773779
   start: 2026-11-29T15:00:00Z
@@ -304,6 +350,7 @@
 - eventId:
   - 580787
   - 603829
+  - 605496
   - 773780
   start: 2026-11-29T15:15:00Z
   stop: 2026-11-29T15:30:00Z
@@ -330,6 +377,7 @@
   - 588125
   - 598610
   - 603830
+  - 605497
   - 721181
   - 773781
   start: 2026-11-29T15:30:00Z
@@ -344,6 +392,7 @@
   - 580789
   - 598611
   - 603831
+  - 605498
   - 773782
   start: 2026-11-29T16:15:00Z
   stop: 2026-11-29T17:00:00Z
@@ -367,6 +416,22 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 582725
+  - 583560
+  - 592967
+  - 605499
+  - 623436
+  - 876578
+  start: 2026-11-29T17:00:00Z
+  stop: 2026-11-29T17:45:00Z
+  title: Tiere suchen ein Zuhause
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Erlebnisreisen sind die Zusammenfassung von Magazinbeiträgen aus der Servicezeit oder kürzere exklusive Reportagen. Die Attraktivität der dargestellten Reiseziele steht im Vordergrund. Nachvollziehbar sind die beschriebenen Routen und Ziele. Deshalb werden praktische Tipps und konkrete Anregungen gegeben.
+  subtitle: 'Moderation: Simone Sombecki'
+- eventId:
   - 580791
   - 598613
   - 603833
@@ -380,6 +445,37 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 582726
+  - 583561
+  - 592968
+  - 605500
+  - 623437
+  - 876579
+  start: 2026-11-29T17:45:00Z
+  stop: 2026-11-29T18:30:00Z
+  title: Lokalzeit aus Düsseldorf
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
+  subtitle: Das Informationsmagazin für NRW
+- eventId:
+  - 1431286
+  - 592482
+  - 598132
+  - 605877
+  - 617199
+  start: 2026-11-29T18:30:00Z
+  stop: 2026-11-29T19:00:00Z
+  title: Land & lecker - Kulinarische Schätze (5)
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
+  subtitle: Handgemachter Käse aus dem Inntal
+- eventId:
   - 581228
   - 598842
   - 604057
@@ -392,6 +488,20 @@
   hd: true
   audiodesc: true
   subtitle: Politik in Nordrhein-Westfalen
+- eventId:
+  - 1431287
+  - 592483
+  - 605878
+  - 617200
+  start: 2026-11-29T19:00:00Z
+  stop: 2026-11-29T19:15:00Z
+  title: Lokalzeit Münsterland
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
+  subtitle: 'Moderation: Carolyn Wißing'
 - eventId:
   - 581229
   - 598843
@@ -408,6 +518,7 @@
   - 581230
   - 598844
   - 604059
+  - 605879
   - 773827
   start: 2026-11-29T19:15:00Z
   stop: 2026-11-29T20:45:00Z
@@ -421,6 +532,7 @@
   - 581231
   - 598845
   - 604060
+  - 605880
   - 773828
   start: 2026-11-29T20:45:00Z
   stop: 2026-11-29T21:10:00Z
@@ -434,6 +546,7 @@
   - 582316
   - 599100
   - 604219
+  - 606119
   - 773859
   start: 2026-11-29T21:10:00Z
   stop: 2026-11-29T21:45:00Z
@@ -446,6 +559,7 @@
   - 582317
   - 599101
   - 604220
+  - 606120
   - 773860
   start: 2026-11-29T21:45:00Z
   stop: 2026-11-29T23:10:00Z
@@ -458,7 +572,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 599102
+- eventId:
+  - 599102
+  - 606121
   start: 2026-11-29T23:10:00Z
   stop: 2026-11-30T00:40:00Z
   title: Madison Violet - Crossroads 2010

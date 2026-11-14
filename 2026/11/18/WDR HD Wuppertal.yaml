@@ -1,4 +1,6 @@
-- eventId: 599109
+- eventId:
+  - 599109
+  - 599580
   start: 2026-11-18T00:10:00Z
   stop: 2026-11-18T01:00:00Z
   title: Watzmann ermittelt (13)
@@ -14,6 +16,7 @@
 - eventId:
   - 582342
   - 599110
+  - 599581
   - 604231
   - 616494
   - 622895
@@ -30,6 +33,7 @@
 - eventId:
   - 582343
   - 599111
+  - 599582
   - 604232
   - 616495
   - 622896
@@ -45,6 +49,7 @@
 - eventId:
   - 582344
   - 599112
+  - 599583
   - 604233
   - 616496
   - 622897
@@ -60,6 +65,7 @@
 - eventId:
   - 582345
   - 599113
+  - 599584
   - 604234
   - 616497
   - 622898
@@ -75,6 +81,7 @@
 - eventId:
   - 582346
   - 599114
+  - 599585
   - 604235
   - 616498
   - 622899
@@ -90,6 +97,7 @@
 - eventId:
   - 582694
   - 599334
+  - 599741
   - 604461
   - 604958
   - 623163
@@ -105,6 +113,7 @@
 - eventId:
   - 582695
   - 599335
+  - 599742
   - 604462
   - 604959
   - 623164
@@ -120,6 +129,7 @@
 - eventId:
   - 582696
   - 599336
+  - 599743
   - 604463
   - 604960
   - 623165
@@ -135,6 +145,7 @@
 - eventId:
   - 582697
   - 599337
+  - 599744
   - 604464
   - 604961
   - 623166
@@ -147,40 +158,29 @@
   hd: true
   audiodesc: true
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
-- eventId:
-  - 582698
-  - 599338
-  - 604465
-  - 604962
-  - 623167
-  - 981431
+- eventId: 599745
   start: 2026-11-18T05:20:00Z
   stop: 2026-11-18T05:50:00Z
   title: Lokalzeit aus Bonn
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
-- eventId:
-  - 582699
-  - 599339
-  - 604466
-  - 604963
-  - 623168
-  - 981432
+- eventId: 599746
   start: 2026-11-18T05:50:00Z
   stop: 2026-11-18T06:20:00Z
   title: Lokalzeit aus Duisburg
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
 - eventId:
   - 583628
   - 593024
   - 599613
+  - 599847
   - 605578
   - 623475
   - 981493
@@ -206,7 +206,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 599614
+- eventId:
+  - 599614
+  - 599848
   start: 2026-11-18T06:40:00Z
   stop: 2026-11-18T07:25:00Z
   title: In aller Freundschaft (1047)
@@ -230,7 +232,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 599615
+- eventId:
+  - 599615
+  - 599849
   start: 2026-11-18T07:25:00Z
   stop: 2026-11-18T08:10:00Z
   title: In aller Freundschaft (1048)
@@ -244,6 +248,7 @@
   - 583631
   - 593027
   - 599616
+  - 599850
   - 605581
   - 623478
   - 981496
@@ -259,6 +264,7 @@
   - 583632
   - 593028
   - 599617
+  - 599851
   - 605582
   - 623479
   - 981497
@@ -274,6 +280,7 @@
 - eventId:
   - 592815
   - 593643
+  - 599949
   - 600121
   - 606330
   - 625411
@@ -290,6 +297,7 @@
 - eventId:
   - 592816
   - 593644
+  - 599950
   - 600122
   - 606331
   - 625412
@@ -308,6 +316,7 @@
 - eventId:
   - 592817
   - 593645
+  - 599951
   - 600123
   - 606332
   - 625413
@@ -329,6 +338,7 @@
 - eventId:
   - 592818
   - 593646
+  - 599952
   - 600124
   - 606333
   - 625414
@@ -341,65 +351,30 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 585283
-  - 589450
-  - 594230
-  - 600380
-  - 606850
-  - 616874
-  - 623775
-  - 764092
-  - 981182
+- eventId: 600046
   start: 2026-11-18T12:00:00Z
   stop: 2026-11-18T12:50:00Z
   title: Seehund, Puma & Co. (187)
-  subtitle: Großes Bad und kleiner Umzug
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
+  subtitle: Zoogeschichten von der Küste
   description: |-
     Zoogeschichten aus dem Zoo am Meer in Bremerhaven, dem Tierpark Jaderpark und der Seehundstation Friedrichskoog:
     * Eisbärbaby Lale soll ins Wasser gelockt werden
     * Warum lassen sich Geparden streicheln?
     * Ein neues Männchen bei den Polarfüchsen
-- eventId:
-  - 585284
-  - 589451
-  - 594231
-  - 600381
-  - 606851
-  - 616875
-  - 623776
-  - 764093
-  - 981183
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 600047
   start: 2026-11-18T12:50:00Z
   stop: 2026-11-18T13:20:00Z
   title: Neues aus dem Münchner Tierpark Hellabrunn
   subtitle: Scharfe Krallen!
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
   description: "Geduld und leckere Häppchen, die hat Tierpflegerin Babsi mitgebracht. Außerdem eine Waage, auf die Polarfuchs Tschakki steigen soll. \nDie Elefanten machen mit ihren Pflegern ein Lauftraining mit Bergtour. Dass Elefanten klettern können wie Ziegen, wissen die wenigsten Menschen. \nKarlchen ist giftig, und das ist genau richtig so! Denn Karlchen ist ein Goldringel-Kugelfisch. \nSteinadler Adonis hat eigentlich Flugtraining. Leider verderben die Krähen ihm den Spaß. Adonis ist der mächtigste Greifvogel in Hellabrunn, aber kaum abgehoben sitzt er schon wieder auf einem Baum und ist genervt."
-- eventId:
-  - 585285
-  - 594232
-  - 606852
-  - 623777
-  - 981184
-  start: 2026-11-18T13:20:00Z
-  stop: 2026-11-18T14:10:00Z
-  title: Watzmann ermittelt - 14. Dritter Frühling
-  subtitle: Deutschland 2019
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  ageRating: 6
-  genre:
-  - '16'
 - eventId:
   - 589452
   - 600382
@@ -417,24 +392,22 @@
   ageRating: 6
   genre:
   - '16'
-- eventId:
-  - 585286
-  - 594233
-  - 606853
-  - 623778
-  - 981185
-  start: 2026-11-18T14:10:00Z
-  stop: 2026-11-18T15:00:00Z
-  title: Watzmann ermittelt - 15. Neue Zeiten
-  subtitle: Deutschland 2019
+- eventId: 600048
+  start: 2026-11-18T13:20:00Z
+  stop: 2026-11-18T14:10:00Z
+  title: Watzmann ermittelt (14)
+  subtitle: Dritter Frühling
+  description: Eine Bewohnerin einer edlen Seniorenresidenz wird ermordet. Beissl und Paulsen werden gerufen. Der Verdacht fällt rasch auf einen der Pfleger, der mit der Dame ein Verhältnis hatte.
+  ageRating: 6
+  genre:
+  - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  genre:
-  - '16'
 - eventId:
   - 589453
+  - 600049
   - 600383
   - 744397
   start: 2026-11-18T14:10:00Z
@@ -451,6 +424,7 @@
 - eventId:
   - 585723
   - 594684
+  - 600188
   - 600596
   - 607384
   - 623987
@@ -466,6 +440,7 @@
 - eventId:
   - 585724
   - 594685
+  - 600189
   - 600597
   - 607385
   - 623988
@@ -480,6 +455,7 @@
 - eventId:
   - 585725
   - 594686
+  - 600190
   - 600598
   - 607386
   - 623989
@@ -497,6 +473,7 @@
 - eventId:
   - 585726
   - 594687
+  - 600191
   - 600599
   - 607387
   - 623990
@@ -513,6 +490,7 @@
 - eventId:
   - 585727
   - 594688
+  - 600192
   - 600600
   - 607388
   - 623991
@@ -529,6 +507,7 @@
   - 586353
   - 588291
   - 595338
+  - 600355
   - 607990
   - 624260
   - 981281
@@ -544,6 +523,7 @@
   - 586354
   - 588292
   - 595339
+  - 600356
   - 607991
   - 624261
   - 981282
@@ -561,6 +541,7 @@
   - 586355
   - 588293
   - 595340
+  - 600357
   - 607992
   - 624262
   - 981283
@@ -576,6 +557,7 @@
   - 586356
   - 588294
   - 595341
+  - 600358
   - 607993
   - 624263
   - 981284
@@ -604,9 +586,26 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 589429
+  - 589558
+  - 600359
+  - 612220
+  - 618106
+  - 822563
+  start: 2026-11-18T20:45:00Z
+  stop: 2026-11-18T21:15:00Z
+  title: Lokalzeit aus Dortmund
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
+  subtitle: 'Moderation: Susanne Wieseler'
+- eventId:
   - 586852
   - 589239
   - 595732
+  - 604162
   - 608517
   - 624490
   - 981331
@@ -623,6 +622,7 @@
   - 586853
   - 589240
   - 595733
+  - 604163
   - 608518
   - 624491
   - 981332
@@ -639,6 +639,7 @@
   - 586854
   - 589241
   - 595734
+  - 604164
   - 608519
   - 624492
   - 981333

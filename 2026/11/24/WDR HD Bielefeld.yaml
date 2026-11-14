@@ -2,6 +2,7 @@
   - 584156
   - 589355
   - 600289
+  - 601513
   - 612152
   - 764065
   start: 2026-11-24T00:20:00Z
@@ -16,6 +17,7 @@
   - 584157
   - 589356
   - 600290
+  - 601514
   - 612153
   - 764066
   start: 2026-11-24T01:10:00Z
@@ -29,6 +31,7 @@
   - 584158
   - 589357
   - 600291
+  - 601515
   - 612154
   - 764067
   start: 2026-11-24T01:30:00Z
@@ -43,6 +46,7 @@
   - 584159
   - 589358
   - 600292
+  - 601516
   - 612155
   - 764068
   start: 2026-11-24T02:00:00Z
@@ -56,6 +60,7 @@
   - 584160
   - 589359
   - 600293
+  - 601517
   - 612156
   - 764069
   start: 2026-11-24T02:25:00Z
@@ -69,6 +74,7 @@
   - 584161
   - 589360
   - 600294
+  - 601518
   - 612157
   - 764070
   start: 2026-11-24T02:55:00Z
@@ -82,6 +88,7 @@
   - 589666
   - 592906
   - 600667
+  - 602147
   - 612441
   - 764125
   start: 2026-11-24T03:25:00Z
@@ -95,6 +102,7 @@
   - 589667
   - 592907
   - 600668
+  - 602148
   - 612442
   - 764126
   start: 2026-11-24T03:55:00Z
@@ -104,12 +112,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 589668
-  - 592908
-  - 600669
-  - 612443
-  - 764127
+- eventId: 602149
   start: 2026-11-24T04:25:00Z
   stop: 2026-11-24T04:50:00Z
   title: Lokalzeit OWL
@@ -117,12 +120,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 589669
-  - 592909
-  - 600670
-  - 612444
-  - 764128
+- eventId: 602150
   start: 2026-11-24T04:50:00Z
   stop: 2026-11-24T05:20:00Z
   title: Lokalzeit Südwestfalen
@@ -130,12 +128,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 589670
-  - 592910
-  - 600671
-  - 612445
-  - 764129
+- eventId: 602151
   start: 2026-11-24T05:20:00Z
   stop: 2026-11-24T05:50:00Z
   title: Lokalzeit aus Bonn
@@ -143,12 +136,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 589671
-  - 592911
-  - 600672
-  - 612446
-  - 764130
+- eventId: 602152
   start: 2026-11-24T05:50:00Z
   stop: 2026-11-24T06:20:00Z
   title: Lokalzeit aus Duisburg
@@ -160,6 +148,7 @@
   - 589979
   - 593203
   - 601006
+  - 602605
   - 612781
   - 764184
   start: 2026-11-24T06:20:00Z
@@ -173,6 +162,7 @@
   - 589980
   - 593204
   - 601007
+  - 602606
   - 612782
   - 764185
   start: 2026-11-24T06:35:00Z
@@ -192,6 +182,15 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 602607
+  start: 2026-11-24T07:20:00Z
+  stop: 2026-11-24T08:10:00Z
+  title: In aller Freundschaft - 1052. Fluchten
+  subtitle: Deutschland 2024
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 593206
   - 746798
@@ -202,7 +201,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 593207
+- eventId:
+  - 593207
+  - 602608
   start: 2026-11-24T08:10:00Z
   stop: 2026-11-24T08:40:00Z
   title: Lokalzeit OWL
@@ -210,7 +211,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 593208
+- eventId:
+  - 593208
+  - 602609
   start: 2026-11-24T08:40:00Z
   stop: 2026-11-24T09:20:00Z
   title: Gefragt - Gejagt
@@ -223,6 +226,7 @@
   - 590244
   - 593448
   - 601266
+  - 602842
   - 613020
   - 764229
   start: 2026-11-24T09:20:00Z
@@ -237,6 +241,7 @@
   - 590245
   - 593449
   - 601267
+  - 602843
   - 613021
   - 764230
   start: 2026-11-24T10:05:00Z
@@ -251,6 +256,7 @@
   - 590246
   - 593450
   - 601268
+  - 602844
   - 613022
   - 764231
   start: 2026-11-24T10:55:00Z
@@ -277,6 +283,7 @@
 - eventId:
   - 590247
   - 601269
+  - 602845
   - 613023
   - 764232
   start: 2026-11-24T11:45:00Z
@@ -287,7 +294,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 593663
+- eventId:
+  - 593663
+  - 603053
   start: 2026-11-24T12:00:00Z
   stop: 2026-11-24T12:50:00Z
   title: Seehund, Puma & Co.
@@ -296,7 +305,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 593664
+- eventId:
+  - 593664
+  - 603054
   start: 2026-11-24T12:50:00Z
   stop: 2026-11-24T13:20:00Z
   title: Neues aus dem Münchner Tierpark Hellabrunn
@@ -305,7 +316,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 593665
+- eventId:
+  - 593665
+  - 603055
   start: 2026-11-24T13:20:00Z
   stop: 2026-11-24T14:10:00Z
   title: Watzmann ermittelt - 22. Abgestürzt
@@ -314,7 +327,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 593666
+- eventId:
+  - 593666
+  - 603056
   start: 2026-11-24T14:10:00Z
   stop: 2026-11-24T15:00:00Z
   title: Watzmann ermittelt - 23. Der letzte Ritt
@@ -327,6 +342,7 @@
   - 590741
   - 593911
   - 601737
+  - 603320
   - 613510
   - 764315
   start: 2026-11-24T15:00:00Z
@@ -341,6 +357,7 @@
   - 590742
   - 593912
   - 601738
+  - 603321
   - 613511
   - 764316
   start: 2026-11-24T15:15:00Z
@@ -350,12 +367,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 590743
-  - 593913
-  - 601739
-  - 613512
-  - 764317
+- eventId: 603322
   start: 2026-11-24T17:00:00Z
   stop: 2026-11-24T17:15:00Z
   title: WDR aktuell / Lokalzeit
@@ -363,12 +375,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 590744
-  - 593914
-  - 601740
-  - 613513
-  - 764318
+- eventId: 603323
   start: 2026-11-24T17:15:00Z
   stop: 2026-11-24T17:45:00Z
   title: Servicezeit
@@ -377,12 +384,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 590745
-  - 593915
-  - 601741
-  - 613514
-  - 764319
+- eventId: 603324
   start: 2026-11-24T17:45:00Z
   stop: 2026-11-24T18:30:00Z
   title: Aktuelle Stunde
@@ -395,6 +397,7 @@
   - 591000
   - 595136
   - 601996
+  - 603599
   - 613769
   - 764363
   start: 2026-11-24T18:30:00Z
@@ -408,6 +411,7 @@
   - 591001
   - 595137
   - 601997
+  - 603600
   - 613770
   - 764364
   start: 2026-11-24T19:00:00Z
@@ -423,6 +427,7 @@
   - 591002
   - 595138
   - 601998
+  - 603601
   - 613771
   - 764365
   start: 2026-11-24T19:15:00Z
@@ -440,6 +445,7 @@
   - 591003
   - 595139
   - 601999
+  - 603602
   - 613772
   - 764366
   start: 2026-11-24T20:45:00Z
@@ -450,31 +456,23 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId:
-  - 593579
-  - 595349
-  - 602392
-  - 605336
-  - 613958
-  - 624584
-  - 764391
-  - 969767
+- eventId: 603792
   start: 2026-11-24T21:15:00Z
   stop: 2026-11-24T22:45:00Z
   title: Kommissar Van der Valk - Freiheit in Amsterdam
   subtitle: Spielfilm Deutschland/Großbritannien 2023
+  ageRating: 12
+  genre:
+  - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: 'Das Dorf hat einen neuen Hauptmann. Mit seinem Amt übernimmt er künftig eine Schlüsselrolle - und besondere Verantwortung bei den Abstimmungen. Viel Zeit, sich an seine neue Aufgabe zu gewöhnen, bleibt ihm allerdings nicht: Schon bei der nächsten Dorfversammlung spitzen sich die Verdächtigungen erneut zu. Besonders eine Dorfbewohnerin gerät in den Mittelpunkt der Diskussion. Der Verdacht gegen sie wächst, doch zugleich wird sie vehement verteidigt. Als die Dorfbewohner am nächsten Morgen erwachen, kochen die Emotionen hoch. Für einige ist die Erkenntnis, getäuscht worden zu sein, besonders schwer zu verkraften.'
-  ageRating: 12
-  genre:
-  - '16'
 - eventId:
   - 593580
   - 595350
   - 602393
+  - 603793
   - 613959
   - 764392
   start: 2026-11-24T22:45:00Z

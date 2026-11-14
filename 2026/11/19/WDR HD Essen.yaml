@@ -13,7 +13,9 @@
   hd: true
   audiodesc: true
   description: Erlebnisreisen sind die Zusammenfassung von Magazinbeiträgen aus der Servicezeit oder kürzere exklusive Reportagen. Die Attraktivität der dargestellten Reiseziele steht im Vordergrund. Nachvollziehbar sind die beschriebenen Routen und Ziele. Deshalb werden praktische Tipps und konkrete Anregungen gegeben.
-- eventId: 720765
+- eventId:
+  - 600657
+  - 720765
   start: 2026-11-19T00:45:00Z
   stop: 2026-11-19T01:00:00Z
   title: Erlebnisreisen
@@ -27,6 +29,7 @@
   - 587439
   - 589798
   - 596266
+  - 600658
   - 608927
   - 624774
   start: 2026-11-19T01:00:00Z
@@ -43,6 +46,7 @@
   - 587440
   - 589799
   - 596267
+  - 600659
   - 608928
   - 624775
   start: 2026-11-19T01:30:00Z
@@ -58,6 +62,7 @@
   - 587441
   - 589800
   - 596268
+  - 600660
   - 608929
   - 624776
   start: 2026-11-19T02:00:00Z
@@ -73,6 +78,7 @@
   - 587442
   - 589801
   - 596269
+  - 600661
   - 608930
   - 624777
   start: 2026-11-19T02:25:00Z
@@ -88,6 +94,7 @@
   - 587443
   - 589802
   - 596270
+  - 600662
   - 608931
   - 624778
   start: 2026-11-19T02:55:00Z
@@ -103,6 +110,7 @@
   - 587685
   - 590289
   - 596753
+  - 600825
   - 609447
   - 615430
   start: 2026-11-19T03:25:00Z
@@ -118,6 +126,7 @@
   - 587686
   - 590290
   - 596754
+  - 600826
   - 609448
   - 615431
   start: 2026-11-19T03:55:00Z
@@ -133,6 +142,7 @@
   - 587687
   - 590291
   - 596755
+  - 600827
   - 609449
   - 615432
   start: 2026-11-19T04:25:00Z
@@ -148,6 +158,7 @@
   - 587688
   - 590292
   - 596756
+  - 600828
   - 609450
   - 615433
   start: 2026-11-19T04:50:00Z
@@ -163,6 +174,7 @@
   - 587689
   - 590293
   - 596757
+  - 600829
   - 609451
   - 615434
   start: 2026-11-19T05:20:00Z
@@ -178,6 +190,7 @@
   - 587690
   - 590294
   - 596758
+  - 600830
   - 609452
   - 615435
   start: 2026-11-19T05:50:00Z
@@ -193,6 +206,7 @@
   - 587956
   - 590909
   - 597449
+  - 601045
   - 610019
   - 615970
   start: 2026-11-19T06:20:00Z
@@ -217,7 +231,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 590910
+- eventId:
+  - 590910
+  - 601046
   start: 2026-11-19T06:40:00Z
   stop: 2026-11-19T07:25:00Z
   title: In aller Freundschaft (1049)
@@ -241,7 +257,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 590911
+- eventId:
+  - 590911
+  - 601047
   start: 2026-11-19T07:25:00Z
   stop: 2026-11-19T08:10:00Z
   title: In aller Freundschaft (1050)
@@ -256,6 +274,7 @@
   - 587959
   - 590912
   - 597452
+  - 601048
   - 610022
   - 615973
   start: 2026-11-19T08:10:00Z
@@ -271,6 +290,7 @@
   - 587960
   - 590913
   - 597453
+  - 601049
   - 610023
   - 615974
   start: 2026-11-19T08:40:00Z
@@ -301,6 +321,23 @@
   - '112'
   description: 'Flugkapitänin Bengi Turhan fliegt das meistverkaufte Flugzeug der Welt: Eine Boeing 737. Mehr als 14.000 Maschinen wurden bisher weltweit ausgeliefert. Das Cockpit ist klein und eng, aber ein Highlight in der Fliegerei, sagt die 37-jährige. Seit sieben Jahren fliegt sie für SunExpress. Fast jede Woche landet die Kapitänin in Frankfurt. Mittendrin hat die Pilotin begleitet im kleinsten Cockpit eines Düsenverkehrsflugzeuges.'
 - eventId:
+  - 590179
+  - 593379
+  - 601201
+  - 612964
+  - 764222
+  start: 2026-11-19T09:25:00Z
+  stop: 2026-11-19T10:10:00Z
+  title: Mittendrin - Flughafen Frankfurt
+  subtitle: 'Moderation: Ralph Morgenstern'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: 'Flugkapitänin Bengi Turhan fliegt das meistverkaufte Flugzeug der Welt: Eine Boeing 737. Mehr als 14.000 Maschinen wurden bisher weltweit ausgeliefert. Das Cockpit ist klein und eng, aber ein Highlight in der Fliegerei, sagt die 37-jährige. Seit sieben Jahren fliegt sie für SunExpress. Fast jede Woche landet die Kapitänin in Frankfurt. Mittendrin hat die Pilotin begleitet im kleinsten Cockpit eines Düsenverkehrsflugzeuges.'
+  genre:
+  - '112'
+- eventId:
   - 1009352
   - 588205
   - 591580
@@ -317,12 +354,45 @@
   audiodesc: true
   description: "Im Allwetterzoo Münster macht Tierpflegerin Moni heute bei den Keas eine ganz besonders einfallsreiche Futterrunde. Die besonders schlauen Vögel brauchen täglich eine Herausforderung. An diesem Tag sollen sie ihr Futter aus den unterschiedlichen Kisten und Gegenständen herausholen. Ob sie alle Verstecke finden und aufmachen können? So viel sei verraten: Die Tiere werden nicht verhungern. \nIn der Zoom Erlebniswelt Gelsenkirchen startet für Nachwächter Peter seine Arbeitszeit, wenn sich alle Tiere schlafen legen. Mit Taschenlampe bewaffnet läuft er seine Runden durch den dunklen Zoo, vorbei an den Hyänen, den Seelöwen und Eisbären."
 - eventId:
+  - 590180
+  - 593380
+  - 601202
+  - 612965
+  - 764223
+  start: 2026-11-19T10:10:00Z
+  stop: 2026-11-19T10:55:00Z
+  title: WILDER WILDER WESTEN (15/15)
+  subtitle: Geschichten aus dem Leipziger Zoo
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: "Im Allwetterzoo Münster macht Tierpflegerin Moni heute bei den Keas eine ganz besonders einfallsreiche Futterrunde. Die besonders schlauen Vögel brauchen täglich eine Herausforderung. An diesem Tag sollen sie ihr Futter aus den unterschiedlichen Kisten und Gegenständen herausholen. Ob sie alle Verstecke finden und aufmachen können? So viel sei verraten: Die Tiere werden nicht verhungern. \nIn der Zoom Erlebniswelt Gelsenkirchen startet für Nachwächter Peter seine Arbeitszeit, wenn sich alle Tiere schlafen legen. Mit Taschenlampe bewaffnet läuft er seine Runden durch den dunklen Zoo, vorbei an den Hyänen, den Seelöwen und Eisbären."
+- eventId:
   - 1009353
   - 588206
   - 591581
   - 610580
   - 616434
   - 617217
+  start: 2026-11-19T10:55:00Z
+  stop: 2026-11-19T11:45:00Z
+  title: Elefant, Tiger & Co. (456)
+  subtitle: Geschichten aus dem Leipziger Zoo
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    * Einzug: Seit kurzem ist die Wohngemeinschaft des Nashornhauses um eine Attraktion reicher: "Frau Hoffmann" - eine kleine schwarze Hauskatze - ist bei den Geparden, Affen und Nashörnern eingezogen.
+    * Kishas Baby!: Schimpansen-Mutter Kisha steht derzeit unter Beobachtung. Immer wieder haben die Pfleger bemerkt, dass sie ihr Baby auf der Anlage ablegt. Manuela Klöden beobachtet dieses Verhalten mit Sorge.
+    * Anspruchsvolle Aufgabe: Gavialmädchen Lima soll bald den Zoo verlassen. Um ihren Umzug möglichst stressfrei zu gestalten, haben sich die Pflegerinnen und Pfleger etwas überlegt. Lima soll freiwillig in ihre Transportbox laufen.
+- eventId:
+  - 590181
+  - 593381
+  - 601203
+  - 612966
+  - 764224
   start: 2026-11-19T10:55:00Z
   stop: 2026-11-19T11:45:00Z
   title: Elefant, Tiger & Co. (456)
@@ -351,35 +421,45 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 1009395
-  - 582343
-  - 588383
-  - 592060
-  - 599115
-  - 610768
-  start: 2026-11-19T12:00:00Z
-  stop: 2026-11-19T12:50:00Z
-  title: Seehund, Puma & Co. (188)
-  subtitle: Zoogeschichten von der Küste
+  - 590182
+  - 593382
+  - 601204
+  - 744542
+  start: 2026-11-19T11:45:00Z
+  stop: 2026-11-19T12:00:00Z
+  title: 'Quarks: Revolution mit Risiko - wie KI unser Leben verändert'
+  subtitle: Revolution mit Risiko - wie KI unser Leben verändert
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: |-
-    * Glückliche Seehundgeburt in der Seehundstation
-    * Warum die Weißbüschelaffen ein eigenes Turmversteck bekommen
-    * Wie ein Zwergflusspferd zum Großmaul wird
 - eventId:
-  - 1009396
-  - 582344
-  - 588384
-  - 592061
-  - 599116
-  - 610769
+  - 590262
+  - 590411
+  - 601421
+  start: 2026-11-19T12:00:00Z
+  stop: 2026-11-19T12:50:00Z
+  title: Seehund, Puma & Co. (188)
+  subtitle: Zoogeschichten von der Küste
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Auf dem Weg zur Hüttenbrennerei Gentner finden Wanderer die Leiche von Sebastian Wenger. Der Geschichtsstudent aus München ist nach Jahren in seine Heimat Berchtesgaden zurückgekommen, um für die Traditions-Brennerei deren Jubiläumsschrift zu verfassen. Patriarch Franz Gentner und sein Sohn Huber wollen nichts von einem Konflikt wissen - ebenso wenig wie Hüttenbrenner Loisl Bartels. Bald findet Beissl heraus, dass der Tote ein Verhältnis mit Kati, der Tochter des Hüttenbrenners, hatte und sie von ihm ein Kind erwartet. Damit rücken sowohl Loisl als auch Katis Verlobter Clemens Brandner ins Visier der Kommissare.
+- eventId:
+  - 590412
+  - 590536
+  - 601422
+  - 613171
+  - 620062
+  - 933828
   start: 2026-11-19T12:50:00Z
   stop: 2026-11-19T13:20:00Z
   title: Neues aus dem Münchner Tierpark Hellabrunn
-  subtitle: Babyalarm
+  subtitle: Zoogeschichten von der Küste
   widescreen: true
   subtitled: true
   hd: true
@@ -388,6 +468,23 @@
     Die neueste Nachricht: Das erste Seelöwenbaby ist da. Molly ist zwar eine sehr erfahrene Mama, aber Helmut lässt hier niemanden allein. Denn am ersten Lebenstag ist ein Seelöwenbaby immer noch etwas schwach auf den Flossen.
 
     Auf der Elefantenanlage sind die Handwerker gefragt, denn da wäre eigentlich Großputz in der Badewanne angesagt, aber: In ihrer Riesenbadewanne ist der Abfluss verstopft, das Badewasser fließt nicht mehr ab. Die Brühe muss erst raus, sonst geht hier nichts weiter. Denn wie putzt man eine Badewanne, wenn das alte Wasser noch drin steht?
+- eventId:
+  - 590413
+  - 590537
+  - 601423
+  - 613172
+  - 620063
+  - 933829
+  start: 2026-11-19T13:20:00Z
+  stop: 2026-11-19T14:10:00Z
+  title: Neues aus dem Münchner Tierpark Hellabrunn (24)
+  subtitle: Kristalle glänzen ewig
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Es ist heiß, gefühlt 40 Grad. Denn im Schildkrötenhaus geht das Thermometer hoch, auch wenn der Sommer in Bayern immer noch auf sich warten lässt. Für eine Erfrischung bei den Bewohnern sorgt feinster Sprühregen. Und auf die Schildkröten hat die Dusche eine ganz besondere Wirkung. Der Ausruf "Du fette Bratwurst" kann auch liebevoll klingen, nämlich dann, wenn es Frank Staatsmann zu einer seiner Mähnenrobben sagt. Frank macht eine Schwangerschaftskontrolle, und seine Robben nehmen ihm nichts krumm.
+  ageRating: 6
 - eventId: 592062
   start: 2026-11-19T13:20:00Z
   stop: 2026-11-19T14:10:00Z
@@ -399,6 +496,24 @@
   hd: true
   audiodesc: true
   description: Kommissar Jerry Paulsen hat einen Autounfall. Beissl entdeckt im Wagen seines Kollegen eine Sporttasche mit Drogen. Steckt Paulsen inmitten dunkler Machenschaften oder will ihm jemand etwas anhängen?
+- eventId:
+  - 590414
+  - 601424
+  - 613173
+  - 620064
+  - 933830
+  start: 2026-11-19T14:10:00Z
+  stop: 2026-11-19T15:00:00Z
+  title: Watzmann ermittelt - 10. Löwinnen
+  subtitle: Ein todsicheres Geschäft
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
+  description: Kommissar Beissl ist außer sich. Nicht nur, dass seine Tochter Eva wegen ihrer Facharbeit kurz vorm Durchdrehen ist. Ein Mord, der um 6.30 Uhr morgens direkt vor dem Kommissariat passierte, ist von niemandem bemerkt worden. Kleinlaut muss Max zugeben, dass er ein kurzes Nickerchen gemacht hat. Seine Kollegin Caro überrascht Max mit ihrer Solidarität. Das Opfer, die Physiotherapeutin Thekla Mahr, hatte am Abend zuvor mit den beiden Überfliegern aus dem Skisprung-Internat Ben Stöger und Rupert Dunz einen Streit als sie ihren Aufstieg in den A-Kader feierten. Die beiden Jungs haben ein Alibi.
 - eventId: 592063
   start: 2026-11-19T14:10:00Z
   stop: 2026-11-19T15:00:00Z
@@ -418,6 +533,7 @@
   - 582835
   - 588622
   - 599352
+  - 601628
   - 611172
   start: 2026-11-19T15:00:00Z
   stop: 2026-11-19T15:15:00Z
@@ -433,6 +549,7 @@
   - 582836
   - 588623
   - 599353
+  - 601629
   - 611173
   start: 2026-11-19T15:15:00Z
   stop: 2026-11-19T17:00:00Z
@@ -447,6 +564,7 @@
   - 582837
   - 588624
   - 599354
+  - 601630
   - 611174
   start: 2026-11-19T17:00:00Z
   stop: 2026-11-19T17:15:00Z
@@ -464,6 +582,7 @@
   - 582838
   - 588625
   - 599355
+  - 601631
   - 611175
   start: 2026-11-19T17:15:00Z
   stop: 2026-11-19T17:45:00Z
@@ -480,6 +599,7 @@
   - 582839
   - 588626
   - 599356
+  - 601632
   - 611176
   start: 2026-11-19T17:45:00Z
   stop: 2026-11-19T18:30:00Z
@@ -494,6 +614,7 @@
   - 582944
   - 588893
   - 599641
+  - 601807
   - 611701
   - 617481
   start: 2026-11-19T18:30:00Z
@@ -504,7 +625,9 @@
   hd: true
   audiodesc: true
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
-- eventId: 582945
+- eventId:
+  - 582945
+  - 601808
   start: 2026-11-19T19:00:00Z
   stop: 2026-11-19T19:15:00Z
   title: Tagesschau
@@ -516,6 +639,7 @@
 - eventId:
   - 582946
   - 592473
+  - 601809
   - 695668
   start: 2026-11-19T19:15:00Z
   stop: 2026-11-19T20:00:00Z
@@ -529,6 +653,7 @@
 - eventId:
   - 582947
   - 592474
+  - 601810
   - 695669
   start: 2026-11-19T20:00:00Z
   stop: 2026-11-19T20:45:00Z
@@ -550,6 +675,15 @@
   hd: true
   audiodesc: true
   subtitle: 'Moderation: Susanne Wieseler'
+- eventId: 601811
+  start: 2026-11-19T20:45:00Z
+  stop: 2026-11-19T21:15:00Z
+  title: WDR aktuell
+  subtitle: 'Moderation: Susanne Wieseler'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 1009533
   - 583354
@@ -566,10 +700,28 @@
   hd: true
   audiodesc: true
 - eventId:
+  - 585956
+  - 590938
+  - 595082
+  - 601934
+  - 616781
+  - 624084
+  - 744702
+  - 765986
+  start: 2026-11-19T21:15:00Z
+  stop: 2026-11-19T21:45:00Z
+  title: Best of Ingrid Kühne
+  subtitle: 'Moderation: Lisa Ortgies und Sabine Heinrich'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId:
   - 1009534
   - 583355
   - 589112
   - 599966
+  - 601935
   - 616864
   - 617675
   start: 2026-11-19T21:45:00Z
@@ -586,6 +738,7 @@
   - 583356
   - 589113
   - 599967
+  - 601936
   - 616865
   - 617676
   start: 2026-11-19T22:45:00Z

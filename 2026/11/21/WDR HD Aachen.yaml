@@ -1,6 +1,7 @@
 - eventId:
   - 586075
   - 591515
+  - 598249
   - 602780
   - 614378
   - 683037
@@ -15,6 +16,7 @@
 - eventId:
   - 586076
   - 591516
+  - 598250
   - 602781
   - 614379
   - 683038
@@ -30,6 +32,7 @@
 - eventId:
   - 586077
   - 591517
+  - 598251
   - 602782
   - 614380
   - 683039
@@ -44,6 +47,7 @@
 - eventId:
   - 586078
   - 591518
+  - 598252
   - 602783
   - 614381
   - 683040
@@ -55,7 +59,9 @@
   hd: true
   audiodesc: true
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
-- eventId: 595854
+- eventId:
+  - 595854
+  - 598428
   start: 2026-11-21T03:25:00Z
   stop: 2026-11-21T03:55:00Z
   title: Lokalzeit aus Dortmund
@@ -64,7 +70,9 @@
   hd: true
   audiodesc: true
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
-- eventId: 595855
+- eventId:
+  - 595855
+  - 598429
   start: 2026-11-21T03:55:00Z
   stop: 2026-11-21T04:25:00Z
   title: Lokalzeit Münsterland
@@ -75,6 +83,7 @@
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
 - eventId:
   - 595856
+  - 598430
   - 603101
   - 615021
   - 683097
@@ -102,6 +111,7 @@
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
 - eventId:
   - 595857
+  - 598431
   - 603102
   - 615022
   - 683098
@@ -129,6 +139,7 @@
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
 - eventId:
   - 595858
+  - 598432
   - 603103
   - 615023
   - 683099
@@ -155,23 +166,20 @@
   audiodesc: true
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
   subtitle: 75. Der Rollweg-Sanierer am Flughafen
-- eventId:
-  - 595859
-  - 603104
-  - 615024
-  - 683100
+- eventId: 598433
   start: 2026-11-21T05:50:00Z
   stop: 2026-11-21T06:20:00Z
   title: Lokalzeit aus Duisburg
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
 - eventId:
   - 591241
   - 592251
   - 596532
+  - 598651
   - 615320
   start: 2026-11-21T06:20:00Z
   stop: 2026-11-21T06:50:00Z
@@ -195,6 +203,7 @@
   - 591242
   - 592252
   - 596533
+  - 598652
   - 615321
   - 683152
   start: 2026-11-21T06:50:00Z
@@ -209,6 +218,7 @@
   - 591243
   - 592253
   - 596534
+  - 598653
   - 615322
   - 683153
   start: 2026-11-21T07:10:00Z
@@ -235,10 +245,21 @@
   hd: true
   audiodesc: true
   description: 'Ein Windrad so hoch wie kein anderes auf der Welt: In der Lausitz entsteht als zweithöchstes Bauwerk Deutschlands ein 365 Meter hohes Windrad. Als einziges Fernsehteam begleitet das Maus-Team den Bau über mehrere Monate. Dabei erlebt Clarissa hautnah mit, welche Herausforderungen auf der Baustelle bewältigt werden müssen, warum der Turm aus Stahl gebaut wird und welche Tricks und Techniken nötig sind, um in solcher Höhe überhaupt bauen zu können.'
+- eventId: 598654
+  start: 2026-11-21T07:35:00Z
+  stop: 2026-11-21T08:05:00Z
+  title: Die Sendung mit der Maus
+  subtitle: Lach- und Sachgeschichten
+  description: 'Ein Windrad so hoch wie kein anderes auf der Welt: In der Lausitz entsteht als zweithöchstes Bauwerk Deutschlands ein 365 Meter hohes Windrad. Als einziges Fernsehteam begleitet das Maus-Team den Bau über mehrere Monate. Dabei erlebt Clarissa hautnah mit, welche Herausforderungen auf der Baustelle bewältigt werden müssen, warum der Turm aus Stahl gebaut wird und welche Tricks und Techniken nötig sind, um in solcher Höhe überhaupt bauen zu können.'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 591245
   - 592255
   - 596536
+  - 598655
   - 615324
   - 683155
   start: 2026-11-21T08:05:00Z
@@ -254,6 +275,7 @@
   - 1321661
   - 592472
   - 596755
+  - 598871
   start: 2026-11-21T10:00:00Z
   stop: 2026-11-21T10:15:00Z
   title: Unsere Tipps - Ausflugs-Highlights im Westen
@@ -275,7 +297,9 @@
   audiodesc: true
   subtitle: Sorge dich nicht, lebe - 750.000 Euro für alten Campingplatz
   description: Auf der Suche nach ihrer Mutter kehrt Anna in ihrer Verzweiflung wieder zu Betty zurück. Anna hofft, dass Betty alle Fragen von ihr beantworten kann, doch will sie die Wahrheit wirklich hören?
-- eventId: 596756
+- eventId:
+  - 596756
+  - 598872
   start: 2026-11-21T10:15:00Z
   stop: 2026-11-21T10:45:00Z
   title: Raus aufs Land (36)
@@ -289,6 +313,7 @@
   - 1321663
   - 592474
   - 596757
+  - 598873
   start: 2026-11-21T10:45:00Z
   stop: 2026-11-21T11:15:00Z
   title: Kochen mit Martina und Moritz
@@ -306,6 +331,7 @@
   - 592475
   - 596758
   - 598261
+  - 598874
   - 617043
   - 619946
   start: 2026-11-21T11:15:00Z
@@ -323,6 +349,7 @@
   - 1321665
   - 592476
   - 596759
+  - 598875
   - 617044
   start: 2026-11-21T11:45:00Z
   stop: 2026-11-21T12:00:00Z
@@ -338,6 +365,7 @@
 - eventId:
   - 580189
   - 598310
+  - 599020
   - 603544
   - 615771
   - 683241
@@ -356,6 +384,7 @@
 - eventId:
   - 580190
   - 598311
+  - 599021
   - 667076
   start: 2026-11-21T12:45:00Z
   stop: 2026-11-21T12:55:00Z
@@ -368,6 +397,7 @@
 - eventId:
   - 580191
   - 598312
+  - 599022
   - 667077
   start: 2026-11-21T12:55:00Z
   stop: 2026-11-21T15:00:00Z
@@ -403,6 +433,7 @@
   audiodesc: true
 - eventId:
   - 580758
+  - 599205
   - 603817
   - 616052
   - 683298
@@ -429,6 +460,7 @@
   audiodesc: true
 - eventId:
   - 580759
+  - 599206
   - 603818
   - 616053
   - 683299
@@ -440,6 +472,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  description: "Auf dem Mittagstisch, am Imbiss, als Partysnack, selbst gemacht oder gekauft - Frikadellen sind ein Klassiker der deutschen Küche. Doch sie sind auch international beliebt: Viele Länderküchen zelebrieren ihre ganz eigene Version des Fleischbällchens. Aber wo liegen die Unterschiede? \n\nUm dieser Frage nachzugehen, muss der Vorkoster nicht weit fahren. Von spanischen Albondigas über türkische Köfte bis hin zu griechischem Bifteki: Björn Freitag findet die internationale Frikadellen-Vielfalt direkt vor seiner Haustür."
 - eventId:
   - 588113
   - 598598
@@ -453,7 +486,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 580760
+- eventId:
+  - 580760
+  - 599207
   start: 2026-11-21T16:00:00Z
   stop: 2026-11-21T16:45:00Z
   title: Land & lecker - Kulinarische Schätze (4)
@@ -462,6 +497,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  description: 'Die vierte Gastgeberin ist Agnes Jaud aus Nußdorf am Inn in Oberbayern. Den über 100 Jahre alten Milchhof ihrer Familie hat Agnes um eine eigene Bio-Käsemanufaktur erweitert und damit stark für die Zukunft gemacht. Jede ihrer handgemachten Käsespezialitäten werden aus Heumilch hergestellt. Während die Landfrauen mit der Zahnradbahn auf den Wendelstein fahren und die Aussicht auf die Alpenregion genießen, bereitet Agnes ihr vegetarisches Landmenü mit Delikatessen vom eigenen Hof vor: Käsevariationen mit Wurzelbrot, Wildkräuter-Knödel in Käsesauce und Joghurtmousse auf Apfel-Heidelbeer-Kompott.'
 - eventId:
   - 588114
   - 598599
@@ -489,6 +525,7 @@
   audiodesc: true
 - eventId:
   - 580761
+  - 599208
   - 603820
   - 616055
   - 683301
@@ -500,6 +537,12 @@
   subtitled: true
   hd: true
   audiodesc: true
+  description: |-
+    Cremig, würzig und ganz schön edel: In dieser Folge der Meisterküche dreht sich alles um gute Soßen! Moderatorin Yvonne Willicks hat ihre Rezept-Favoriten zusammengestellt und sorgt dabei für reichlich Inspiration und Abwechslung.
+    Kochprofi Fabian Timmer verrät Tipps für die perfekte Veggie-Soße.
+    Sternekoch Björn Freitag ist großer Fan des legendären Butter Chicken, eines beliebten Wohlfühlgerichts aus Indien.
+    Ebenfalls buttrig, aber etwas eleganter: TV-Köchin Zora Klipp reicht zum Lachs den französischen Soßenklassiker Beurre blanc.
+    Eine kräftige, dunkle Soße gibt es bei den Kochlegenden Martina Meuth und Bernd Neuner-Duttenhofer..
 - eventId:
   - 588115
   - 598600
@@ -515,6 +558,7 @@
   subtitle: mit Yvonne Willicks
 - eventId:
   - 580762
+  - 599209
   - 603821
   - 616056
   - 683302
@@ -539,6 +583,7 @@
   audiodesc: true
 - eventId:
   - 580763
+  - 599210
   - 603822
   - 616057
   - 683303
@@ -566,6 +611,7 @@
 - eventId:
   - 581212
   - 598834
+  - 599339
   - 604049
   - 616290
   - 683331
@@ -579,6 +625,7 @@
 - eventId:
   - 581213
   - 598835
+  - 599340
   - 604050
   - 616291
   - 683332
@@ -611,9 +658,19 @@
   audiodesc: true
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
   subtitle: 'Moderation: Lisa Feller, Katharina te Uhle und Bastian Bender'
+- eventId: 599341
+  start: 2026-11-21T19:15:00Z
+  stop: 2026-11-21T22:15:00Z
+  title: Top 444 Countdown - Die größten Hits für NRW
+  subtitle: 'Moderation: Katharina te Uhle und Bastian Bender'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 581702
   - 599093
+  - 599460
   - 604212
   - 616477
   - 683364
@@ -628,6 +685,7 @@
 - eventId:
   - 581703
   - 599094
+  - 599461
   - 604213
   - 616478
   - 683365
@@ -642,6 +700,7 @@
 - eventId:
   - 581704
   - 599095
+  - 599462
   - 604214
   - 616479
   - 683366
