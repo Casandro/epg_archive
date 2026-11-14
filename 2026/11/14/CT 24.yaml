@@ -1046,6 +1046,17 @@
   genre:
   - '35'
   widescreen: true
+- eventId: 662061
+  start: 2026-11-14T22:30:00Z
+  stop: 2026-11-14T23:00:00Z
+  title: Interview ČT24
+  subtitle: Profilový rozhovor s významnou osobností, která má co říci k aktuálnímu dění v ČR nebo ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 605883
   - 644243
@@ -1086,21 +1097,9 @@
   - 605885
   - 644245
   - 649673
+  - 656255
   - 768889
   - 772454
-  start: 2026-11-14T23:10:00Z
-  stop: 2026-11-15T00:00:00Z
-  title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '35'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 656255
   start: 2026-11-14T23:10:00Z
   stop: 2026-11-14T23:59:00Z
   title: Studio ČT24
@@ -1111,7 +1110,11 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 656256
+  subtitled: true
+  hd: true
+- eventId:
+  - 656256
+  - 662062
   start: 2026-11-14T23:59:00Z
   stop: 2026-11-15T00:09:00Z
   title: Zprávy
