@@ -1,8 +1,16 @@
 - eventId: 728501
   start: 2026-11-15T05:00:00Z
-  stop: 2026-11-15T06:50:00Z
+  stop: 2026-11-15T06:30:00Z
   title: Napovedujemo
   subtitle: Napovednik programa.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 761280
+  start: 2026-11-15T06:30:00Z
+  stop: 2026-11-15T06:50:00Z
+  title: Takšno je življenje na kavču
+  subtitle: Vesna Ponorac in Blaž Dolenc, ki v novi sezoni upodabljata ljubezenski par, razkrivata, s kakšnimi preizkušnjami, odločitvami in presenečenji se bosta soočila njuna lika.
   ageRating: 4
   genre:
   - '160'
@@ -72,13 +80,15 @@
   - '160'
 - eventId: 728508
   start: 2026-11-15T11:55:00Z
-  stop: 2026-11-15T13:15:00Z
+  stop: 2026-11-15T13:05:00Z
   title: Slalom, 2. vožnja
   subtitle: Letovišče Levi na Finskem v regiji Laponska je smučarsko žarišče in redno gosti etape svetovnega pokala v alpskem smučanju.
   ageRating: 4
   genre:
   - '64'
-- eventId: 728509
+- eventId:
+  - 728509
+  - 761281
   start: 2026-11-15T13:05:00Z
   stop: 2026-11-15T14:10:00Z
   title: Kaj ima ljubezen s tem
@@ -102,6 +112,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 761282
+  start: 2026-11-15T14:10:00Z
+  stop: 2026-11-15T14:45:00Z
+  title: Dnevna soba
+  subtitle: Tokrat se v Dnevni sobi srečamo z dušo humanitarke, ki je spremenila življenje tisočerim Slovenkam in Slovencem.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 733606
   start: 2026-11-15T14:20:00Z
   stop: 2026-11-15T14:55:00Z
@@ -110,6 +128,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 761283
+  start: 2026-11-15T14:45:00Z
+  stop: 2026-11-15T15:20:00Z
+  title: Tipično slovensko
+  subtitle: Nedeljsko kosilo, goveja juha, narodno-zabavna glasba in frajtonarica - tipično slovensko, stereotipno slovensko.
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 728511
   start: 2026-11-15T14:55:00Z
   stop: 2026-11-15T15:25:00Z
@@ -120,6 +146,14 @@
   - '128'
 - eventId: 728149
   start: 2026-11-15T15:15:00Z
+  stop: 2026-11-15T16:15:00Z
+  title: Naš dislektični um
+  subtitle: Ocenjujejo, da je kar sedmina ljudi nevrorazličnih - njihovi možgani preprosto delujejo drugače kot pri večini.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 761284
+  start: 2026-11-15T15:20:00Z
   stop: 2026-11-15T16:15:00Z
   title: Naš dislektični um
   subtitle: Ocenjujejo, da je kar sedmina ljudi nevrorazličnih - njihovi možgani preprosto delujejo drugače kot pri večini.
@@ -142,6 +176,14 @@
   ageRating: 4
   genre:
   - '16'
+- eventId: 761285
+  start: 2026-11-15T16:15:00Z
+  stop: 2026-11-15T17:55:00Z
+  title: Junakinja
+  subtitle: Verističen in pogumen film o eni od največjih težav skoraj vseh svetovnih zdravstvenih sistemov je režiserka Petra Volpe opisala kot "ljubezensko pismo zdravstvenemu osebju".
+  ageRating: 4
+  genre:
+  - '16'
 - eventId: 733608
   start: 2026-11-15T16:25:00Z
   stop: 2026-11-15T18:00:00Z
@@ -152,6 +194,14 @@
   - '16'
 - eventId: 728151
   start: 2026-11-15T17:50:00Z
+  stop: 2026-11-15T19:00:00Z
+  title: Videotrak
+  subtitle: Videotrak je video-glasbeni časovni pas urbanega slovenskega 'mainstreama', ki sega od popa in rocka, rapa, r'n'b-ja ter elektronike in vse tja do metala in alternative.
+  ageRating: 4
+  genre:
+  - '96'
+- eventId: 761286
+  start: 2026-11-15T17:55:00Z
   stop: 2026-11-15T19:00:00Z
   title: Videotrak
   subtitle: Videotrak je video-glasbeni časovni pas urbanega slovenskega 'mainstreama', ki sega od popa in rocka, rapa, r'n'b-ja ter elektronike in vse tja do metala in alternative.
