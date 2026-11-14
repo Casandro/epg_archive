@@ -3,6 +3,7 @@
   - 545231
   - 551553
   - 565448
+  - 574045
   - 580796
   - 584098
   - 590229
@@ -25,6 +26,7 @@
   - 545232
   - 551554
   - 565449
+  - 574046
   - 580797
   - 584099
   - 590230
@@ -44,6 +46,7 @@
   - 545233
   - 551555
   - 565450
+  - 574047
   - 580798
   - 584100
   - 590231
@@ -58,29 +61,19 @@
   widescreen: true
   hd: true
   description: 'Besonders in der jungen DDR wird Mangel zum Motor für Kreativität und Improvisation. Die 1950er- und 1960er-Jahre sind eine Zeit voller Tüftlergeist und Mut: Es fehlen Rohstoffe und Maschinen. Not wird zur stärksten Währung im Sozialismus, Pragmatismus trifft auf Pioniergeist. Aus Schrott und Mangel schafft die DDR Geniales. Rohstoffe, Maschinen und selbst einfache Alltagsgüter sind knapp. Was es im Überfluss gibt: Ideenreichtum. Not macht erfinderisch wird zum ungeschriebenen Gesetz, das den Alltag, die Industrie und die Kultur prägt.'
-- eventId:
-  - 1034598
-  - 545234
-  - 551556
-  - 565451
-  - 580799
-  - 584101
-  - 590232
-  - 592521
-  - 595820
-  - 613882
-  - 764555
+- eventId: 574048
   start: 2026-11-17T02:45:00Z
   stop: 2026-11-17T03:30:00Z
   title: DDR genial
   subtitle: Lipsi, Plattenbau & Co.
+  description: Die DDR träumt in den 1970ern von der Weltspitze mit Plattenbau und Supersportwagen. Fortschritt wird zur Staatsaufgabe, getragen von Improvisation und dem Können vieler. Doch der Plan hat Lücken. Nicht jede Idee passt ins System. Die Wissenschaft soll aufblühen und der DDR Devisen bringen. Doch die Planwirtschaft duldet keine Neugier. Forschung ist nur erlaubt, solange sie auf Linie bleibt.
   widescreen: true
   hd: true
-  description: Die DDR träumt in den 1970ern von der Weltspitze mit Plattenbau und Supersportwagen. Fortschritt wird zur Staatsaufgabe, getragen von Improvisation und dem Können vieler. Doch der Plan hat Lücken. Nicht jede Idee passt ins System. Die Wissenschaft soll aufblühen und der DDR Devisen bringen. Doch die Planwirtschaft duldet keine Neugier. Forschung ist nur erlaubt, solange sie auf Linie bleibt.
 - eventId:
   - 1034599
   - 545928
   - 551670
+  - 574160
   - 580904
   - 584376
   - 590652
@@ -180,7 +173,9 @@
   widescreen: true
   hd: true
   ageRating: 6
-- eventId: 580905
+- eventId:
+  - 574161
+  - 580905
   start: 2026-11-17T04:15:00Z
   stop: 2026-11-17T04:30:00Z
   title: Traumschiffe des Sozialismus
@@ -195,6 +190,7 @@
   - 545930
   - 551672
   - 569299
+  - 574162
   - 580265
   - 580906
   - 584378
@@ -231,6 +227,7 @@
   - 551789
   - 552151
   - 569941
+  - 574288
   - 581020
   - 581747
   - 584906
@@ -279,11 +276,19 @@
   widescreen: true
   hd: true
   subtitle: Themen und Hintergründe
+- eventId: 574289
+  start: 2026-11-17T08:30:00Z
+  stop: 2026-11-17T09:00:00Z
+  title: phoenix plus
+  subtitle: Themen und Hintergründe
+  widescreen: true
+  hd: true
 - eventId:
   - 1034602
   - 549695
   - 551891
   - 571102
+  - 574410
   - 581106
   - 585513
   - 591103
@@ -324,7 +329,23 @@
     Carlo Masala, Ulrike Franke, Frank Sauer und Thomas Wiegold ziehen Bilanz in einer neuen Ausgabe von Sicherheitshalber LIVE.
 
     Die Diskussion im WDR Funkhaus in Köln zeigt phoenix u. a. am Sonntag, dem 18.10.2026, um 13 Uhr.
+- eventId: 574411
+  start: 2026-11-17T09:30:00Z
+  stop: 2026-11-17T10:30:00Z
+  title: die diskussion
+  subtitle: Militärisch überlegen - Krieg verloren | Sicherheitshalber
+  description: |-
+    Carlo Masala, Ulrike Franke, Frank Sauer und Thomas Wiegold diskutieren wieder bei phoenix!
+
+    Welche Rolle spielen neue Technologien, hybride Kriegsführung und die Widerstandsfähigkeit der eigenen Gesellschaft? Und was lässt sich daraus für die Sicherheit Europas und das Verhältnis der EU zu Russland lernen?
+
+    Carlo Masala, Ulrike Franke, Frank Sauer und Thomas Wiegold ziehen Bilanz in einer neuen Ausgabe von Sicherheitshalber LIVE.
+
+    Die Diskussion im WDR Funkhaus in Köln zeigt phoenix u. a. am Sonntag, dem 18.10.2026, um 13 Uhr.
+  widescreen: true
+  hd: true
 - eventId:
+  - 574412
   - 749104
   - 749709
   start: 2026-11-17T10:30:00Z
@@ -337,6 +358,7 @@
   - 549697
   - 551893
   - 571104
+  - 574413
   - 581108
   - 585515
   - 591105
@@ -356,6 +378,7 @@
   - 549698
   - 551894
   - 571105
+  - 574414
   - 581109
   - 585516
   - 591106
@@ -378,6 +401,7 @@
 
     - Konstantin von Notz (Grüne), stellv. Vorsitzender Bundestagsfraktion B'90/Die Grünen
 - eventId:
+  - 574510
   - 749105
   - 749710
   start: 2026-11-17T12:30:00Z
@@ -387,7 +411,9 @@
   description: Die Diplomatie steht unter Druck - hat sie noch eine Zukunft?
   widescreen: true
   hd: true
-- eventId: 581217
+- eventId:
+  - 574511
+  - 581217
   start: 2026-11-17T13:00:00Z
   stop: 2026-11-17T14:30:00Z
   title: phoenix vor ort
@@ -403,6 +429,7 @@
   widescreen: true
   hd: true
 - eventId:
+  - 574512
   - 749106
   - 749711
   start: 2026-11-17T14:30:00Z
@@ -429,6 +456,7 @@
   hd: true
   subtitle: Neuanfang in Florida
 - eventId:
+  - 574607
   - 581303
   - 594713
   start: 2026-11-17T15:00:00Z
@@ -460,6 +488,7 @@
   hd: true
   subtitle: Neuanfang in Florida
 - eventId:
+  - 574608
   - 581304
   - 594714
   start: 2026-11-17T15:45:00Z
@@ -494,6 +523,7 @@
 
     Aktuelles
 - eventId:
+  - 574609
   - 697222
   - 697319
   start: 2026-11-17T16:40:00Z
@@ -511,6 +541,7 @@
   widescreen: true
   hd: true
 - eventId:
+  - 574610
   - 776022
   - 776024
   start: 2026-11-17T16:45:00Z
@@ -549,6 +580,7 @@
   - 553913
   - 556741
   - 571708
+  - 574611
   - 581307
   - 586035
   - 591611
@@ -567,6 +599,7 @@
   - 556457
   - 557638
   - 571869
+  - 577863
   - 581429
   - 586250
   - 591769
@@ -601,6 +634,7 @@
   widescreen: true
   hd: true
 - eventId:
+  - 577864
   - 581430
   - 608023
   start: 2026-11-17T19:00:00Z
@@ -671,6 +705,7 @@
   - 556640
   - 558534
   - 572007
+  - 574815
   - 581529
   - 592045
   - 597365
@@ -712,6 +747,7 @@
   - 556641
   - 558535
   - 572008
+  - 574816
   - 581530
   - 592046
   - 597366
@@ -737,6 +773,7 @@
   hd: true
   subtitle: Wer profitiert von Carbon Credits?
 - eventId:
+  - 574817
   - 776023
   - 776025
   start: 2026-11-17T22:30:00Z
@@ -754,6 +791,7 @@
   - 556642
   - 558536
   - 572009
+  - 574818
   - 581531
   - 592047
   - 597367
@@ -797,6 +835,7 @@
   - 558537
   - 569532
   - 572010
+  - 574819
   - 581440
   - 581532
   - 586485
