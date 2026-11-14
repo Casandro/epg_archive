@@ -1,3 +1,11 @@
+- eventId: 660734
+  start: 2026-11-16T00:00:00Z
+  stop: 2026-11-16T01:20:00Z
+  title: O 5 minút 12 (34)
+  subtitle: Politická diskusia o témach, ktoré počas týždňa rezonovali v politickom a spoločenskom dianí.
+  description: Politická diskusia o témach, ktoré počas týždňa rezonovali v politickom a spoločenskom dianí. (2026)
+  genre:
+  - '36'
 - eventId: 709556
   start: 2026-11-16T00:05:00Z
   stop: 2026-11-16T01:20:00Z
@@ -16,7 +24,9 @@
   description: Politická diskusia o témach, ktoré počas týždňa rezonovali v politickom a spoločenskom dianí. (2026)
   genre:
   - '36'
-- eventId: 737991
+- eventId:
+  - 660735
+  - 737991
   start: 2026-11-16T01:20:00Z
   stop: 2026-11-16T02:50:00Z
   title: Záznam z rokovania NR SR (76)
@@ -52,7 +62,9 @@
   description: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu. (2026)
   genre:
   - '33'
-- eventId: 737992
+- eventId:
+  - 660736
+  - 737992
   start: 2026-11-16T02:50:00Z
   stop: 2026-11-16T03:15:00Z
   title: Interview :24 (209)
@@ -72,6 +84,7 @@
   - '33'
 - eventId:
   - 659363
+  - 660737
   - 823109
   start: 2026-11-16T03:15:00Z
   stop: 2026-11-16T03:40:00Z
@@ -82,6 +95,7 @@
   - '35'
 - eventId:
   - 659364
+  - 660738
   - 823110
   start: 2026-11-16T03:40:00Z
   stop: 2026-11-16T04:00:00Z
@@ -92,6 +106,7 @@
   - '35'
 - eventId:
   - 659365
+  - 660739
   - 823111
   start: 2026-11-16T04:00:00Z
   stop: 2026-11-16T04:55:00Z
@@ -101,6 +116,7 @@
   - '33'
 - eventId:
   - 659366
+  - 660740
   - 823112
   start: 2026-11-16T04:55:00Z
   stop: 2026-11-16T05:20:00Z
@@ -111,6 +127,7 @@
   - '34'
 - eventId:
   - 659367
+  - 660741
   - 823113
   start: 2026-11-16T05:20:00Z
   stop: 2026-11-16T06:00:00Z
@@ -121,6 +138,7 @@
   - '122'
 - eventId:
   - 659375
+  - 660746
   - 840743
   start: 2026-11-16T06:00:00Z
   stop: 2026-11-16T07:30:00Z
@@ -131,6 +149,7 @@
   - '33'
 - eventId:
   - 659376
+  - 660747
   - 840744
   start: 2026-11-16T07:30:00Z
   stop: 2026-11-16T08:45:00Z
@@ -139,7 +158,9 @@
   description: Politická diskusia o témach, ktoré počas týždňa rezonovali v politickom a spoločenskom dianí. (2026)
   genre:
   - '36'
-- eventId: 737999
+- eventId:
+  - 660748
+  - 737999
   start: 2026-11-16T08:45:00Z
   stop: 2026-11-16T09:00:00Z
   title: Téma :24 (599)
@@ -149,6 +170,7 @@
   - '33'
 - eventId:
   - 659386
+  - 660749
   - 832743
   start: 2026-11-16T09:00:00Z
   stop: 2026-11-16T09:30:00Z
@@ -159,6 +181,7 @@
   - '33'
 - eventId:
   - 659387
+  - 660750
   - 832744
   start: 2026-11-16T09:30:00Z
   stop: 2026-11-16T10:00:00Z
@@ -169,6 +192,7 @@
   - '33'
 - eventId:
   - 659388
+  - 660751
   - 832745
   start: 2026-11-16T10:00:00Z
   stop: 2026-11-16T10:30:00Z
@@ -179,6 +203,7 @@
   - '33'
 - eventId:
   - 659389
+  - 660752
   - 832746
   start: 2026-11-16T10:30:00Z
   stop: 2026-11-16T11:00:00Z
@@ -189,6 +214,7 @@
   - '35'
 - eventId:
   - 659390
+  - 660753
   - 832747
   start: 2026-11-16T11:00:00Z
   stop: 2026-11-16T11:30:00Z
@@ -199,6 +225,7 @@
   - '33'
 - eventId:
   - 659391
+  - 660754
   - 832748
   start: 2026-11-16T11:30:00Z
   stop: 2026-11-16T12:00:00Z
@@ -209,6 +236,7 @@
   - '33'
 - eventId:
   - 659399
+  - 660761
   - 832749
   start: 2026-11-16T12:00:00Z
   stop: 2026-11-16T12:30:00Z
@@ -219,6 +247,7 @@
   - '33'
 - eventId:
   - 659400
+  - 660762
   - 832750
   start: 2026-11-16T12:30:00Z
   stop: 2026-11-16T13:00:00Z
@@ -237,6 +266,22 @@
   description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
   genre:
   - '33'
+- eventId: 660763
+  start: 2026-11-16T13:00:00Z
+  stop: 2026-11-16T13:25:00Z
+  title: Aktuálne :24 (220)
+  subtitle: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24.
+  description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
+  genre:
+  - '33'
+- eventId: 660764
+  start: 2026-11-16T13:25:00Z
+  stop: 2026-11-16T14:00:00Z
+  title: Občan za dverami (28)
+  subtitle: Klopanie na dvere úradov. Príbehy tých, ktorí sa dožadujú spravodlivosti.
+  description: Stojíte na zastávke v Príbovciach pri Martine, čakáte na autobus a netušíte, že vaše zdravie a život sú vo vážnom ohrození. Nad hlavou vám totiž visí 22 tisíc voltov. Na nebezpečenstvo upozornil už pred rokmi všemožné úrady všímavý občan, a keďže sa nič nezmenilo, napísal teraz aj nám... Keď človek zo dňa na deň stratí schopnosť postarať sa sám o seba, jediný, kto mu zostáva, je jeho rodina. Spoliehať sa totiž na to, že pomôže systém, na ktorý celý život prispieval, sa veľmi netreba. A čo pomocná ruka štátu? Zostáva schovaná vo vrecku. A čas plynie... (2026)
+  genre:
+  - '34'
 - eventId:
   - 659402
   - 832752
@@ -249,6 +294,7 @@
   - '34'
 - eventId:
   - 659403
+  - 660765
   - 832753
   start: 2026-11-16T14:00:00Z
   stop: 2026-11-16T14:30:00Z
@@ -259,6 +305,7 @@
   - '33'
 - eventId:
   - 659404
+  - 660766
   - 832754
   start: 2026-11-16T14:30:00Z
   stop: 2026-11-16T15:00:00Z
@@ -269,6 +316,7 @@
   - '33'
 - eventId:
   - 659421
+  - 660767
   - 832755
   start: 2026-11-16T15:00:00Z
   stop: 2026-11-16T15:30:00Z
@@ -279,6 +327,7 @@
   - '33'
 - eventId:
   - 659422
+  - 660768
   - 832756
   start: 2026-11-16T15:30:00Z
   stop: 2026-11-16T16:00:00Z
@@ -289,6 +338,7 @@
   - '33'
 - eventId:
   - 659423
+  - 660769
   - 832757
   start: 2026-11-16T16:00:00Z
   stop: 2026-11-16T16:30:00Z
@@ -299,6 +349,7 @@
   - '36'
 - eventId:
   - 659424
+  - 660770
   - 832758
   start: 2026-11-16T16:30:00Z
   stop: 2026-11-16T17:00:00Z
@@ -309,6 +360,7 @@
   - '33'
 - eventId:
   - 659425
+  - 660771
   - 832759
   start: 2026-11-16T17:00:00Z
   stop: 2026-11-16T17:25:00Z
@@ -319,6 +371,7 @@
   - '36'
 - eventId:
   - 659426
+  - 660772
   - 832760
   start: 2026-11-16T17:25:00Z
   stop: 2026-11-16T17:50:00Z
@@ -329,6 +382,7 @@
   - '33'
 - eventId:
   - 659427
+  - 660773
   - 832761
   start: 2026-11-16T17:50:00Z
   stop: 2026-11-16T18:00:00Z
@@ -339,6 +393,7 @@
   - '33'
 - eventId:
   - 659435
+  - 660780
   - 840745
   start: 2026-11-16T18:00:00Z
   stop: 2026-11-16T18:55:00Z
@@ -356,7 +411,9 @@
   description: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu. (2026)
   genre:
   - '33'
-- eventId: 738010
+- eventId:
+  - 660781
+  - 738010
   start: 2026-11-16T18:55:00Z
   stop: 2026-11-16T19:10:00Z
   title: Góly-body-sekundy (320)
@@ -366,6 +423,7 @@
   - '33'
 - eventId:
   - 659437
+  - 660782
   - 840747
   start: 2026-11-16T19:10:00Z
   stop: 2026-11-16T19:20:00Z
@@ -376,6 +434,7 @@
   - '33'
 - eventId:
   - 659438
+  - 660783
   - 840748
   start: 2026-11-16T19:20:00Z
   stop: 2026-11-16T20:05:00Z
@@ -386,6 +445,7 @@
   - '33'
 - eventId:
   - 659439
+  - 660784
   - 840749
   start: 2026-11-16T20:05:00Z
   stop: 2026-11-16T20:30:00Z
@@ -396,6 +456,7 @@
   - '33'
 - eventId:
   - 659440
+  - 660785
   - 840750
   start: 2026-11-16T20:30:00Z
   stop: 2026-11-16T21:00:00Z
@@ -406,6 +467,7 @@
   - '33'
 - eventId:
   - 659455
+  - 660786
   - 840751
   start: 2026-11-16T21:00:00Z
   stop: 2026-11-16T21:25:00Z
@@ -416,6 +478,7 @@
   - '33'
 - eventId:
   - 659456
+  - 660787
   - 840752
   start: 2026-11-16T21:25:00Z
   stop: 2026-11-16T21:35:00Z
@@ -434,7 +497,9 @@
   description: Najdôležitejšie udalosti zo sveta doplnené názormi odborníkov. (2026)
   genre:
   - '36'
-- eventId: 738013
+- eventId:
+  - 660788
+  - 738013
   start: 2026-11-16T21:35:00Z
   stop: 2026-11-16T22:00:00Z
   title: Svet :24 (224)
@@ -444,6 +509,7 @@
   - '36'
 - eventId:
   - 659458
+  - 660789
   - 840754
   start: 2026-11-16T22:00:00Z
   stop: 2026-11-16T22:25:00Z
@@ -454,6 +520,7 @@
   - '36'
 - eventId:
   - 659459
+  - 660790
   - 840755
   start: 2026-11-16T22:25:00Z
   stop: 2026-11-16T22:53:00Z
@@ -462,7 +529,9 @@
   description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
   genre:
   - '33'
-- eventId: 738014
+- eventId:
+  - 660791
+  - 738014
   start: 2026-11-16T22:53:00Z
   stop: 2026-11-16T22:55:00Z
   title: Hymna SR (14)
@@ -471,6 +540,7 @@
   - '32'
 - eventId:
   - 659460
+  - 660792
   - 840756
   start: 2026-11-16T22:55:00Z
   stop: 2026-11-16T23:45:00Z
@@ -491,6 +561,7 @@
   - '33'
 - eventId:
   - 659462
+  - 660793
   - 840758
   start: 2026-11-16T23:45:00Z
   stop: 2026-11-17T00:40:00Z
