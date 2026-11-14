@@ -44,6 +44,18 @@
   ageRating: 12
   genre:
   - '16'
+- eventId: 606170
+  start: 2026-11-22T02:40:00Z
+  stop: 2026-11-22T03:30:00Z
+  title: Watzmann ermittelt (19)
+  subtitle: Viva la Musica
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 606502
   start: 2026-11-22T03:30:00Z
   stop: 2026-11-22T05:00:00Z
@@ -95,6 +107,7 @@
   - 583636
   - 593033
   - 599618
+  - 606845
   - 616733
   - 713740
   start: 2026-11-22T06:15:00Z
@@ -111,6 +124,7 @@
   - 583637
   - 593034
   - 599619
+  - 606846
   - 616734
   - 713741
   start: 2026-11-22T06:45:00Z
@@ -127,6 +141,7 @@
   - 583638
   - 593035
   - 599620
+  - 606847
   - 616735
   - 713742
   start: 2026-11-22T07:15:00Z
@@ -137,7 +152,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 599621
+- eventId:
+  - 599621
+  - 606848
   start: 2026-11-22T07:45:00Z
   stop: 2026-11-22T08:15:00Z
   title: Westart
@@ -145,7 +162,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 599622
+- eventId:
+  - 599622
+  - 606849
   start: 2026-11-22T08:15:00Z
   stop: 2026-11-22T10:15:00Z
   title: Kölner Treff
@@ -159,6 +178,7 @@
   - 593653
   - 600125
   - 606338
+  - 607347
   - 713790
   start: 2026-11-22T10:15:00Z
   stop: 2026-11-22T11:00:00Z
@@ -171,6 +191,7 @@
 - eventId:
   - 584260
   - 600126
+  - 607348
   start: 2026-11-22T11:00:00Z
   stop: 2026-11-22T11:45:00Z
   title: Land & lecker - Kulinarische Schätze (4)
@@ -196,6 +217,7 @@
   - 593655
   - 600127
   - 606340
+  - 607349
   - 713792
   start: 2026-11-22T11:45:00Z
   stop: 2026-11-22T12:00:00Z
@@ -205,11 +227,57 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 607608
+  start: 2026-11-22T12:00:00Z
+  stop: 2026-11-22T12:30:00Z
+  title: Der Krampus-Brauch - teuflisch gut oder Alptraum?
+  subtitle: Die Europa-Reportage
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 607609
+  start: 2026-11-22T12:30:00Z
+  stop: 2026-11-22T13:20:00Z
+  title: 'Heiter bis tödlich: Koslowski & Haferkamp (2)'
+  subtitle: Döner-Connection
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 607610
+  start: 2026-11-22T13:20:00Z
+  stop: 2026-11-22T14:10:00Z
+  title: WaPo Bodensee (49)
+  subtitle: Auf der Flucht
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 607611
+  start: 2026-11-22T14:10:00Z
+  stop: 2026-11-22T15:00:00Z
+  title: WaPo Bodensee (50)
+  subtitle: Family Business
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 585734
   - 594695
   - 600601
   - 607401
+  - 608011
   - 713863
   start: 2026-11-22T15:00:00Z
   stop: 2026-11-22T15:15:00Z
@@ -224,6 +292,7 @@
   - 594696
   - 600602
   - 607402
+  - 608012
   - 713864
   start: 2026-11-22T15:15:00Z
   stop: 2026-11-22T15:30:00Z
@@ -238,6 +307,7 @@
   - 594697
   - 600603
   - 607403
+  - 608013
   - 713865
   start: 2026-11-22T15:30:00Z
   stop: 2026-11-22T16:15:00Z
@@ -261,11 +331,21 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 608014
+  start: 2026-11-22T16:15:00Z
+  stop: 2026-11-22T17:00:00Z
+  title: Wilde Trauminseln
+  subtitle: Mauritius und La Réunion
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 585738
   - 594699
   - 600605
   - 607405
+  - 608015
   - 713867
   start: 2026-11-22T17:00:00Z
   stop: 2026-11-22T17:45:00Z
@@ -280,6 +360,7 @@
   - 594700
   - 600606
   - 607406
+  - 608016
   - 713868
   start: 2026-11-22T17:45:00Z
   stop: 2026-11-22T18:30:00Z
@@ -294,6 +375,7 @@
   - 588300
   - 595343
   - 607999
+  - 608354
   - 713929
   start: 2026-11-22T18:30:00Z
   stop: 2026-11-22T19:00:00Z
@@ -308,6 +390,7 @@
   - 588301
   - 595344
   - 608000
+  - 608355
   - 713930
   start: 2026-11-22T19:00:00Z
   stop: 2026-11-22T19:15:00Z
@@ -323,6 +406,7 @@
   - 588302
   - 595345
   - 608001
+  - 608356
   - 713931
   start: 2026-11-22T19:15:00Z
   stop: 2026-11-22T20:45:00Z
@@ -337,6 +421,7 @@
   - 588303
   - 595346
   - 608002
+  - 608357
   - 713932
   start: 2026-11-22T20:45:00Z
   stop: 2026-11-22T21:10:00Z
@@ -351,6 +436,7 @@
   - 589246
   - 595735
   - 608520
+  - 608607
   - 713973
   start: 2026-11-22T21:10:00Z
   stop: 2026-11-22T21:45:00Z
@@ -376,6 +462,18 @@
   ageRating: 6
   genre:
   - '16'
+- eventId: 608608
+  start: 2026-11-22T21:45:00Z
+  stop: 2026-11-22T22:30:00Z
+  title: WaPo Bodensee (49)
+  subtitle: Auf der Flucht
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 586861
   - 589248
@@ -393,11 +491,24 @@
   ageRating: 6
   genre:
   - '16'
+- eventId: 608609
+  start: 2026-11-22T22:30:00Z
+  stop: 2026-11-22T23:20:00Z
+  title: WaPo Bodensee (50)
+  subtitle: Family Business
+  ageRating: 6
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 586862
   - 589249
   - 595738
   - 608523
+  - 608610
   - 713976
   start: 2026-11-22T23:20:00Z
   stop: 2026-11-23T00:10:00Z

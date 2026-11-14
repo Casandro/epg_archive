@@ -243,11 +243,13 @@
   - 588272
   - 591779
   - 598999
+  - 599293
   - 603032
   - 610654
   - 614964
   - 621373
   - 741752
+  - 766940
   - 850899
   start: 2026-11-23T09:20:00Z
   stop: 2026-11-23T10:05:00Z
@@ -258,17 +260,6 @@
   hd: true
   audiodesc: true
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
-- eventId:
-  - 599293
-  - 766940
-  start: 2026-11-23T09:20:00Z
-  stop: 2026-11-23T10:05:00Z
-  title: Mittendrin - Flughafen Frankfurt
-  subtitle: 73. Einsatz für den Flughafen Security Officer
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
   - 588273
   - 591780
@@ -383,6 +374,7 @@
   - 582615
   - 588731
   - 599465
+  - 609392
   - 611369
   - 741848
   start: 2026-11-23T15:00:00Z
@@ -393,6 +385,23 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 1376047
+  - 598986
+  - 609393
+  - 615619
+  start: 2026-11-23T15:15:00Z
+  stop: 2026-11-23T17:00:00Z
+  title: Unsere Städte und die Drogen - Wer stoppt das Elend?
+  subtitle: Eine WDR Story von Justine Rosenkranz und Jana Niehoff
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: |-
+    Kokain und Crack verändern die Drogenszene in Nordrhein-Westfalen grundlegend. Diese Entwicklung zeigt sich auch in Dortmund: Rund um den Hauptbahnhof und in der Innenstadt prallen offene Drogenszene, Anwohner und der lokale Handel unversöhnlich aufeinander.
+
+    Eine 45-minütige WDR-Dokumentation über die neue Drogenszene in NRW, den politischen Umgang damit und die Menschen, die täglich mit ihren Folgen leben.
 - eventId:
   - 582616
   - 588732
@@ -407,18 +416,27 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 582617
-  - 604404
-  - 616675
-  - 713690
+  - 1376048
+  - 588266
+  - 588783
+  - 598987
+  - 601154
+  - 609394
+  - 615620
+  - 616590
+  - 906509
   start: 2026-11-23T17:00:00Z
   stop: 2026-11-23T17:15:00Z
-  title: Watzmann ermittelt - 18. Weihnachtsmänner im Sommer
-  subtitle: Deutschland 2021
+  title: Land & lecker - Kulinarische Schätze (3)
+  subtitle: Edles vom Strauß aus der Bodenseeregion
+  ageRating: 12
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
+  description: Der Film "Die Opfer - Vergesst mich nicht" greift Motive der Biografie "Schmerzliche Heimat" von Semiya Simsek und Peter Schwarz auf und erzählt von einer kraftvollen jungen Frau, von fehlgeleiteten Ermittlungen und vom Versagen der Polizei in einem der größten Fälle der deutschen Nachkriegsgeschichte. Zugleich zeichnet er das Bild einer Familie, der es gelingt, in Zeiten größter Erschütterung zusammenzurücken und sich ihren Glauben und ihre Liebe zu bewahren.
 - eventId:
   - 588733
   - 599467
@@ -432,18 +450,22 @@
   hd: true
   audiodesc: true
 - eventId:
-  - 582618
-  - 604405
-  - 616676
-  - 713691
+  - 1376049
+  - 598988
+  - 609395
+  - 615621
   start: 2026-11-23T17:15:00Z
   stop: 2026-11-23T17:45:00Z
-  title: Watzmann ermittelt - 19. Viva la Musica
+  title: Was man von hier aus sehen kann
   subtitle: Verbrauchertipps für jeden Tag
+  ageRating: 12
+  genre:
+  - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  description: Der Kinofilm lädt in einen märchenhaften und zugleich anarchischen Dorfkosmos ein. Die preisgekrönte Newcomerin Luna Wedler als Erzählerin und die mehrfache Grimme-Preisträgerin Corinna Harfouch in der Rolle ihrer seherischen Großmutter stehen im Zentrum einer berührend-schönen Geschichte über Liebe, Freundschaft und Hoffnung.
 - eventId:
   - 588734
   - 599468
@@ -478,6 +500,7 @@
 - eventId:
   - 588735
   - 599469
+  - 609396
   - 611373
   - 741852
   start: 2026-11-23T17:45:00Z

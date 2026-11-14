@@ -1,4 +1,5 @@
 - eventId:
+  - 612271
   - 639927
   - 800661
   start: 2026-11-22T00:00:00Z
@@ -7,6 +8,7 @@
   subtitle: Der kompakte Wochenrückblick über die wichtigsten Nachrichten aus München und der Region.
   description: Die Kurzausgabe des münchen-heute-Wochenrückblicks
 - eventId:
+  - 612272
   - 639928
   - 800662
   start: 2026-11-22T00:15:00Z
@@ -15,6 +17,7 @@
   subtitle: Christopher Griebel diskutiert mit Gästen aus München und dem Umland über die Themen der Woche aus München und Bayern.
   description: Der Stammtisch ist eine Institution in Bayern - hier wird geredet ohne Blatt vor dem Mund. Christopher Griebel lädt sich dazu Gäste aus München und dem Umland auf eine Halbe ein und schaut dem Volk aufs Maul - so, wie nur er es kann.
 - eventId:
+  - 612273
   - 639929
   - 800663
   start: 2026-11-22T01:00:00Z
@@ -23,6 +26,7 @@
   subtitle: Der Wockenrücklick mit den wichtigsten Nachrichten aus München und der Region.
   description: Die aktuellen Nachrichten für München und das Oberland. Die tägliche Nachrichtensendung auf münchen.tv präsentiert die Neuigkeiten aus der Stadt der Region und alles über die aktuellen Entwicklungen in Politik und Wirtschaft. Experten nehmen Stellung zu brisanten Themen aus den Bereichen Gesellschaft, Industrie und Umwelt. Mediathek und Infos auf muenchen.tv
 - eventId:
+  - 612274
   - 639930
   - 800664
   start: 2026-11-22T01:30:00Z
@@ -340,15 +344,27 @@
   subtitle: Christopher Griebel diskutiert mit Gästen aus München und dem Umland über die Themen der Woche aus München und Bayern.
   description: Der Stammtisch ist eine Institution in Bayern - hier wird geredet ohne Blatt vor dem Mund. Christopher Griebel lädt sich dazu Gäste aus München und dem Umland auf eine Halbe ein und schaut dem Volk aufs Maul - so, wie nur er es kann.
 - eventId:
+  - 575796
+  - 588462
+  - 605467
+  - 629222
+  - 925006
+  start: &id001 2026-11-22T20:45:00Z
+  stop: &id002 2026-11-22T21:00:00Z
+  title: Wirtschaftstreff Bayern vom 13.11.2026 (Wh.)
+  subtitle: Wirtschaftsreff Bayern - das Wirtschaftsmagazin in Kooperation mit der ibw - Informationszentrale der Bayerischen Wirtschaft e.V.
+  description: 'Die Nachrichten auf münchen.tv bieten Ihnen die wichtigsten Informationen und spannendsten Themen aus unserer schönen Stadt und dem Umland. Von Ingolstadt im Norden bis Garmisch-Partenkirchen im Süden - was bei Ihnen vor der Haustür jetzt wichtig ist, sei es in der Stadt oder auf dem Land: München heute berichtet, klärt auf und fragt nach - verständlich, übersichtlich, kompetent. Wir sind für Sie da!'
+- eventId:
   - 605467
   - 639491
   - 801217
-  start: 2026-11-22T20:45:00Z
-  stop: 2026-11-22T21:00:00Z
+  start: *id001
+  stop: *id002
   title: Wirtschaftstreff Bayern vom 13.11.2026 (Wh.)
   subtitle: Wirtschaftsreff Bayern - das Wirtschaftsmagazin in Kooperation mit der ibw - Informationszentrale der Bayerischen Wirtschaft e.V.
   description: Bayern ist stark und unabhängig - nicht zuletzt wegen seiner florierenden Wirtschaft. Wer sind die Macher und Lenker? Wie führen sie ihre Unternehmen? Und was sollten wir alle zur aktuellen Lage wissen? Moderatorin Marion Gehlert begrüßt im Wirtschaftstreff Unternehmer, die man nicht jeden Tag vor der Kamera sieht, die aber jeden Tag den Wirtschaftsstandort Bayern gestalten.
 - eventId:
+  - 608775
   - 639634
   - 801270
   start: 2026-11-22T21:00:00Z
@@ -359,6 +375,7 @@
     In der 45-minütigen Sendung trifft Alexander Onken Musikerinnen und Musiker zum Dialog in einer angesagten Location. Pro Ausgabe können das nacheinander mehrere Gäste sein - oder auch mal nur einer. In jedem Fall sind es spannende Newcomer oder bereits etablierte Künstler.
     Um eine intime Atmosphäre zu schaffen, verzichten wir ganz bewusst auf ein großes Setting (viele Scheinwerfer, viele Kameras, viel Technik). In der Postproduktion wird das Gespräch mit dem jeweiligen Musikvideo vereint, lockert so den Talk auf, treibt das Thema voran und hält gleichzeitig die Stimmung des Songs.
 - eventId:
+  - 608776
   - 639635
   - 801271
   start: 2026-11-22T21:45:00Z
@@ -367,6 +384,7 @@
   subtitle: Shoppingfieber? - Christopher Gogg und Sandra Koltai zeigen Ihnen die aktuellsten Trends.
   description: Sie würden gerne wissen, was in der Shopping-Szene alles neu und spannend ist? Keine Sorge - es entgeht Ihnen nichts! Unsere Moderatoren Sandra Koltai und Christopher Gogg werfen mit Ihnen einen Blick auf brandneue Angebote, peppige Trends und empfehlenswerte Shops - schauen Sie rein!
 - eventId:
+  - 608777
   - 639636
   - 801272
   start: 2026-11-22T22:00:00Z
@@ -376,6 +394,7 @@
   description: 'Aus- und Fortbildungsfernsehen: die Fernsehmacher von Morgen! Weitere Infos auf www.m945.de'
 - eventId:
   - 588224
+  - 608778
   - 619537
   - 627933
   - 639637

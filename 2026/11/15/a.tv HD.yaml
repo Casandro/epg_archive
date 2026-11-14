@@ -1,4 +1,6 @@
 - eventId:
+  - 611453
+  - 611502
   - 633811
   - 633851
   start: 2026-11-15T00:00:00Z
@@ -7,6 +9,8 @@
   subtitle: Das Magazin mit Nachrichten und Geschichten aus Schwaben für Schwaben - von Neu-Ulm bis Augsburg, vom Donau-Ries bis ins Allgäu.
   description: Das Nachrichtenmagazin für alle Allgäuer und Bayerischen Schwaben. Das neueste vom Tage aus dem gesamten Regierungsbezirk Schwaben aus Nordschwaben, dem Unterallgäu und dem Allgäu, von Oettingen bis Oberstdorf. Immer samstags und sonntags um 20 und 22 Uhr (Weitere Zeiten siehe www.augsburg.tv/wochenprogramm/)
 - eventId:
+  - 611454
+  - 611503
   - 633812
   - 633852
   start: 2026-11-15T01:00:00Z
@@ -15,6 +19,8 @@
   subtitle: Rückblick auf die Nachrichten der Woche in Schwaben
   description: Diese Sendung wird montags um 12 und 14 Uhr auch barrierefrei (mit Untertiteln) ausgetrahlt.
 - eventId:
+  - 611455
+  - 611504
   - 633813
   - 633853
   start: 2026-11-15T01:30:00Z
@@ -23,6 +29,8 @@
   subtitle: Daniel Stoiber vom Restaurant Zur Glocke in Höchstädt kocht gefüllte Biskuitrolle mit Kürbisragout
   description: In dieser Folge kocht Daniel Stoiber vom Restaurant Zur Glocke in Höchstädt eine gefüllte Biskuitrolle. Wer jetzt denkt, das ist eine Süßspeise, liegt falsch. Er backt den Biskuit nämlich deftig mit Parmesan. Dazu gibt es Kürbisragout und weißen Tomatenschaum. Lecker!
 - eventId:
+  - 611456
+  - 611505
   - 633814
   - 633854
   start: 2026-11-15T02:00:00Z
@@ -35,50 +43,42 @@
   - 573014
   - 598398
   - 598410
+  - 611588
+  - 611617
+  - 612777
+  - 619580
+  - 629506
+  - 629669
   - 633941
   - 633959
+  - 633985
   - 637473
   - 730287
   - 730289
+  - 761715
+  - 761749
   start: 2026-11-15T03:00:00Z
   stop: 2026-11-15T03:30:00Z
   title: a.tv Die Woche (Wh.)
   subtitle: Nachrichten und Regionalwetter aus der Stadt Augsburg sowie den Landkreisen Augsburg, Aichach Friedberg, Donau-Ries, Dillingen und Günzburg.
   description: Diese Sendung wird montags um 12 und 14 Uhr auch barrierefrei (mit Untertiteln) ausgetrahlt.
 - eventId:
-  - 612777
-  - 619580
-  - 629506
-  - 629669
-  - 633985
-  - 761715
-  - 761749
-  start: 2026-11-15T03:00:00Z
-  stop: 2026-11-15T03:30:00Z
-  title: a.tv Die Woche (Wh.)
-  subtitle: Rückblick auf die Nachrichten der Woche in Schwaben
-  description: Diese Sendung wird montags um 12 und 14 Uhr auch barrierefrei (mit Untertiteln) ausgetrahlt.
-- eventId:
   - 575641
   - 575642
   - 598399
   - 598411
-  - 633942
-  - 633960
-  - 638368
-  - 730288
-  - 730290
-  start: 2026-11-15T03:30:00Z
-  stop: 2026-11-15T04:00:00Z
-  title: Segmüller Kochclub (Wh.)
-  subtitle: Daniel Stoiber vom Restaurant Zur Glocke in Höchstädt kocht gefüllte Biskuitrolle mit Kürbisragout
-  description: In dieser Folge kocht Daniel Stoiber vom Restaurant Zur Glocke in Höchstädt eine gefüllte Biskuitrolle. Wer jetzt denkt, das ist eine Süßspeise, liegt falsch. Er backt den Biskuit nämlich deftig mit Parmesan. Dazu gibt es Kürbisragout und weißen Tomatenschaum. Lecker!
-- eventId:
+  - 611589
+  - 611618
   - 612778
   - 619581
   - 629507
   - 629670
+  - 633942
+  - 633960
   - 633986
+  - 638368
+  - 730288
+  - 730290
   - 761716
   - 761750
   start: 2026-11-15T03:30:00Z
@@ -89,24 +89,20 @@
 - eventId:
   - 598400
   - 598413
-  - 633943
-  - 633961
-  - 638318
-  - 783411
-  - 783413
-  start: 2026-11-15T04:00:00Z
-  stop: 2026-11-15T05:00:00Z
-  title: Zwischen Alpen und Donau (Wh.)
-  subtitle: Das Magazin mit Nachrichten und Geschichten aus Schwaben für Schwaben - von Neu-Ulm bis Augsburg, vom Donau-Ries bis ins Allgäu.
-  description: Das Nachrichtenmagazin für alle Allgäuer und Bayerischen Schwaben. Das neueste vom Tage aus dem gesamten Regierungsbezirk Schwaben aus Nordschwaben, dem Unterallgäu und dem Allgäu, von Oettingen bis Oberstdorf. Immer samstags und sonntags um 20 und 22 Uhr (Weitere Zeiten siehe www.augsburg.tv/wochenprogramm/)
-- eventId:
+  - 611590
+  - 611619
   - 612779
   - 619582
   - 629508
   - 629671
+  - 633943
+  - 633961
   - 633987
+  - 638318
   - 761717
   - 761751
+  - 783411
+  - 783413
   start: 2026-11-15T04:00:00Z
   stop: 2026-11-15T05:00:00Z
   title: Zwischen Alpen und Donau (Wh.)
@@ -126,6 +122,8 @@
   subtitle: aus dem Landkreis Neu Ulm und dem angrenzenden Schwaben in Baden Württemberg.
   description: Dieses Mal geht es für Sporttalk-Moderator Johannes Klemp um den Zwangsabstieg der Allgäu Comets in Kempten. Die Footballer müssen zwangsweise in die Regionalliga absteigen. Wie kam es dazu und wie geht es nun weiter? Das und mehr will Johannes Klemp herausfinden.
 - eventId:
+  - 611591
+  - 611620
   - 612780
   - 619583
   - 629509
@@ -139,6 +137,8 @@
 - eventId:
   - 598383
   - 598403
+  - 611592
+  - 611621
   - 612781
   - 619584
   - 629510
@@ -157,6 +157,8 @@
   subtitle: Nachrichten aus dem Landkreis Neu-Ulm und dem angrenzenden Raum Ulm.
   description: 'Gespräche in lockerer Runde, mit ganz verschiedenen Menschen und mit einem Bier: Politik, Sport oder Wirtschaft - Hauptsache interessant. (Eine Sendung von Regio TV Schwaben)'
 - eventId:
+  - 611719
+  - 611745
   - 613800
   - 613829
   - 630200
@@ -174,6 +176,8 @@
   - 577965
   - 577968
   - 607302
+  - 611720
+  - 611746
   - 613801
   - 613830
   - 619213
@@ -191,6 +195,8 @@
   subtitle: Nachrichten und Regionalwetter aus der Stadt Augsburg sowie den Landkreisen Augsburg, Aichach Friedberg, Donau-Ries, Dillingen und Günzburg.
   description: Sendung des Christlichen Regionalfernsehen Augsburg e.V. Weitere Informationen unter crtv-augsburg.de
 - eventId:
+  - 611721
+  - 611747
   - 613802
   - 613831
   - 630202
@@ -205,6 +211,8 @@
   subtitle: Rückblick auf die Nachrichten der Woche in Schwaben
   description: Diese Sendung wird montags um 12 und 14 Uhr auch barrierefrei (mit Untertiteln) ausgetrahlt.
 - eventId:
+  - 611722
+  - 611748
   - 613803
   - 613832
   - 630203
@@ -219,6 +227,8 @@
   subtitle: 'Dieses Mal beim Allgäuer Sporttalk: Der Zwangsabstieg der Allgäu Comets'
   description: Dieses Mal geht es für Sporttalk-Moderator Johannes Klemp um den Zwangsabstieg der Allgäu Comets in Kempten. Die Footballer müssen zwangsweise in die Regionalliga absteigen. Wie kam es dazu und wie geht es nun weiter? Das und mehr will Johannes Klemp herausfinden.
 - eventId:
+  - 611723
+  - 611749
   - 613804
   - 613833
   - 630204
@@ -234,6 +244,8 @@
   description: Das Nachrichtenmagazin für alle Allgäuer und Bayerischen Schwaben. Das neueste vom Tage aus dem gesamten Regierungsbezirk Schwaben aus Nordschwaben, dem Unterallgäu und dem Allgäu, von Oettingen bis Oberstdorf. Immer samstags und sonntags um 20 und 22 Uhr (Weitere Zeiten siehe www.augsburg.tv/wochenprogramm/)
 - eventId:
   - 583930
+  - 611841
+  - 611872
   - 614944
   - 630843
   - 631058
@@ -248,6 +260,8 @@
   description: Wochenrückblick aus Westschwaben (Eine Sendung von Regio TV Schwaben)
 - eventId:
   - 583931
+  - 611842
+  - 611873
   - 614945
   - 630844
   - 631059
@@ -262,6 +276,8 @@
   description: 'Verständlich, nahbar und mit Experten: Moderatorin Martina Meisenberg zeigt Trends, Therapien und Tipps für ein gesünderes Leben.'
 - eventId:
   - 583932
+  - 611843
+  - 611874
   - 614946
   - 630845
   - 631060
@@ -276,6 +292,8 @@
   description: Wochenrückblick aus Westschwaben (Eine Sendung von Regio TV Schwaben)
 - eventId:
   - 583933
+  - 611844
+  - 611875
   - 614947
   - 630846
   - 631061
@@ -294,6 +312,8 @@
   - 587390
   - 608347
   - 608862
+  - 611845
+  - 611876
   - 614948
   - 630847
   - 631062
@@ -308,6 +328,8 @@
   description: Diese Sendung wird montags um 12 und 14 Uhr auch barrierefrei (mit Untertiteln) ausgetrahlt.
 - eventId:
   - 583935
+  - 611846
+  - 611877
   - 614949
   - 630848
   - 631063
@@ -323,6 +345,8 @@
 - eventId:
   - 584304
   - 584509
+  - 605408
+  - 611971
   - 631205
   - 631225
   - 634340
@@ -348,6 +372,8 @@
 - eventId:
   - 584305
   - 584510
+  - 605409
+  - 611972
   - 631206
   - 631226
   - 634341
@@ -373,6 +399,8 @@
 - eventId:
   - 584306
   - 584511
+  - 605410
+  - 611973
   - 631207
   - 631227
   - 634342
@@ -387,6 +415,8 @@
 - eventId:
   - 584307
   - 584512
+  - 605411
+  - 611974
   - 631208
   - 631228
   - 634343
@@ -400,6 +430,8 @@
   description: Diese Sendung wird montags um 12 und 14 Uhr auch barrierefrei (mit Untertiteln) ausgetrahlt.
 - eventId:
   - 584308
+  - 605412
+  - 611975
   - 631209
   - 631229
   - 634344
@@ -427,8 +459,10 @@
   - 584309
   - 584514
   - 585080
+  - 605413
   - 608088
   - 608111
+  - 611976
   - 631210
   - 631230
   - 634345
@@ -445,6 +479,8 @@
 - eventId:
   - 584894
   - 585061
+  - 605615
+  - 605629
   - 631357
   - 631375
   - 634464
@@ -459,6 +495,8 @@
 - eventId:
   - 584895
   - 585062
+  - 605616
+  - 605630
   - 631358
   - 631376
   - 634465
@@ -473,6 +511,8 @@
 - eventId:
   - 584896
   - 585063
+  - 605617
+  - 605631
   - 631359
   - 631377
   - 634466
@@ -484,19 +524,7 @@
   title: TV Bayern Live (Wh.)
   subtitle: Regionalmagazin für Bayern
   description: Unter dem Motto 'Man sieht sich'  sendet das Magazin TV BAYERN LIVE immer samstags 17:45-18:45 Uhr bayernweit live auf der Frequenz von RTL. Zusätzlich wird die gesamte Sendung am Sonntag hier bei a.tv von 17:00-18:00 Uhr wiederholt.
-- eventId:
-  - 584897
-  - 585064
-  - 588075
-  - 588078
-  - 609109
-  - 609138
-  - 631360
-  - 631378
-  - 634467
-  - 634525
-  - 909196
-  - 909198
+- eventId: 605618
   start: 2026-11-15T17:00:00Z
   stop: 2026-11-15T17:30:00Z
   title: a.tv Die Woche (Wh.)
@@ -505,6 +533,8 @@
 - eventId:
   - 584898
   - 585065
+  - 605619
+  - 605633
   - 631361
   - 631379
   - 634468
@@ -519,6 +549,8 @@
 - eventId:
   - 586014
   - 586188
+  - 605976
+  - 605982
   - 631485
   - 631498
   - 634605
@@ -533,6 +565,8 @@
 - eventId:
   - 586015
   - 586189
+  - 605977
+  - 605983
   - 631486
   - 631499
   - 634606
@@ -547,6 +581,8 @@
 - eventId:
   - 586016
   - 586190
+  - 605978
+  - 605984
   - 631487
   - 631500
   - 634607
@@ -561,6 +597,8 @@
 - eventId:
   - 586017
   - 586191
+  - 605979
+  - 605985
   - 631488
   - 631501
   - 634608
@@ -573,8 +611,25 @@
   subtitle: Das Magazin mit Nachrichten und Geschichten aus Schwaben für Schwaben - von Neu-Ulm bis Augsburg, vom Donau-Ries bis ins Allgäu.
   description: Das Nachrichtenmagazin für alle Allgäuer und Bayerischen Schwaben. Das neueste vom Tage aus dem gesamten Regierungsbezirk Schwaben aus Nordschwaben, dem Unterallgäu und dem Allgäu, von Oettingen bis Oberstdorf. Immer samstags und sonntags um 20 und 22 Uhr (Weitere Zeiten siehe www.augsburg.tv/wochenprogramm/)
 - eventId:
+  - 576784
+  - 576787
+  - 602698
+  - 603324
+  - 605986
+  - 606004
+  - 629889
+  - 629915
+  - 909147
+  - 909149
+  start: 2026-11-15T20:00:00Z
+  stop: 2026-11-15T20:30:00Z
+  title: allgäu.tv Nachrichten (Wh.)
+  subtitle: Rückblick auf die Nachrichten der Woche in Schwaben
+  description: Was bewegt das Allgäu? Diese Frage beantworten wir Ihnen täglich in den allgäu.tv Nachrichten. In einer halben Stunde berichten wir Ihnen von politischen Entscheidungen, geben Ihnen Einblicke in die Allgäuer Kulturlandschaft, nehmen Sie mit zu faszinierenden Menschen und zeigen Ihnen die schönen Seiten des Allgäus. (Eine Sendung von allgäu.tv)
+- eventId:
   - 586018
   - 586192
+  - 605980
   - 631489
   - 631502
   - 634609
@@ -587,8 +642,32 @@
   subtitle: Rückblick auf die Nachrichten der Woche in Schwaben
   description: Diese Sendung wird montags um 12 und 14 Uhr auch barrierefrei (mit Untertiteln) ausgetrahlt.
 - eventId:
+  - 572781
+  - 572829
+  - 576785
+  - 576796
+  - 603288
+  - 604555
+  - 604639
+  - 605987
+  - 606011
+  - 632984
+  - 632992
+  - 634273
+  - 634301
+  - 710918
+  - 710919
+  - 909148
+  - 909150
+  start: 2026-11-15T20:30:00Z
+  stop: 2026-11-15T21:00:00Z
+  title: allgäu.tv Nachrichten (Wh.)
+  subtitle: Nachrichten und Regionalwetter aus der Stadt Augsburg sowie den Landkreisen Augsburg, Aichach Friedberg, Donau-Ries, Dillingen und Günzburg.
+  description: Was bewegt das Allgäu? Diese Frage beantworten wir Ihnen täglich in den allgäu.tv Nachrichten. In einer halben Stunde berichten wir Ihnen von politischen Entscheidungen, geben Ihnen Einblicke in die Allgäuer Kulturlandschaft, nehmen Sie mit zu faszinierenden Menschen und zeigen Ihnen die schönen Seiten des Allgäus. (Eine Sendung von allgäu.tv)
+- eventId:
   - 586019
   - 586193
+  - 605981
   - 631490
   - 631503
   - 634610
@@ -603,6 +682,8 @@
 - eventId:
   - 586562
   - 586659
+  - 606312
+  - 606318
   - 631627
   - 634442
   - 634741
@@ -617,6 +698,8 @@
 - eventId:
   - 586563
   - 586660
+  - 606313
+  - 606319
   - 631628
   - 634443
   - 634742
@@ -631,6 +714,8 @@
 - eventId:
   - 586564
   - 586661
+  - 606314
+  - 606320
   - 631629
   - 634444
   - 634743
@@ -645,6 +730,8 @@
 - eventId:
   - 586565
   - 586662
+  - 606315
+  - 606321
   - 631630
   - 634445
   - 634744
@@ -661,6 +748,8 @@
   - 586663
   - 589553
   - 589556
+  - 606316
+  - 606322
   - 609327
   - 609331
   - 631631
@@ -675,6 +764,8 @@
   subtitle: Rückblick auf die Nachrichten der Woche in Schwaben
   description: Diese Sendung wird montags um 12 und 14 Uhr auch barrierefrei (mit Untertiteln) ausgetrahlt.
 - eventId:
+  - 606317
+  - 606323
   - 634746
   - 634767
   - 801340
