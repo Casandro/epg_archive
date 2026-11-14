@@ -165,7 +165,7 @@
   - '160'
 - eventId: 671803
   start: 2026-11-14T02:50:00Z
-  stop: 2026-11-14T02:53:00Z
+  stop: 2026-11-14T02:54:00Z
   title: '#REPORTAŽE: Redateljica i vojnikinja'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
@@ -186,7 +186,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 755947
+- eventId:
+  - 755947
+  - 762969
   start: 2026-11-14T02:54:00Z
   stop: 2026-11-14T03:40:00Z
   title: Pregled dana
@@ -206,7 +208,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 755948
+- eventId:
+  - 755948
+  - 762970
   start: 2026-11-14T03:40:00Z
   stop: 2026-11-14T03:50:00Z
   title: Vijesti flash
@@ -226,7 +230,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 755949
+- eventId:
+  - 755949
+  - 762971
   start: 2026-11-14T03:50:00Z
   stop: 2026-11-14T04:00:00Z
   title: Vijesti iz kulture
@@ -263,7 +269,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 671809
   start: 2026-11-14T04:53:00Z
-  stop: 2026-11-14T04:54:00Z
+  stop: 2026-11-14T04:55:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
@@ -331,14 +337,16 @@
   - '32'
 - eventId: 671816
   start: 2026-11-14T05:18:00Z
-  stop: 2026-11-14T05:20:00Z
+  stop: 2026-11-14T05:19:00Z
   title: 'Bez komentara: Prosvjed protiv Trumpa'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
-- eventId: 755950
+- eventId:
+  - 755950
+  - 762972
   start: 2026-11-14T05:19:00Z
   stop: 2026-11-14T05:27:00Z
   title: 'Studio 4: Znanost'
@@ -358,7 +366,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 755951
+- eventId:
+  - 755951
+  - 762973
   start: 2026-11-14T05:27:00Z
   stop: 2026-11-14T05:55:00Z
   title: Priče iz Hrvatske
@@ -378,7 +388,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 755952
+- eventId:
+  - 755952
+  - 762974
   start: 2026-11-14T05:55:00Z
   stop: 2026-11-14T05:58:00Z
   title: 'Bez komentara: Njemačka karneval'
@@ -416,6 +428,7 @@
   - 754748
   - 755154
   - 755953
+  - 762975
   start: 2026-11-14T05:58:00Z
   stop: 2026-11-14T06:00:00Z
   title: Bez komentara
@@ -1944,25 +1957,21 @@
   - 754758
   - 755164
   - 755963
+  - 761646
   start: 2026-11-14T21:10:00Z
   stop: 2026-11-14T21:37:00Z
   title: 'Moj izbor BiH: Ljubuški'
-  subtitle: ' '
+  subtitle: Seriju Moj izbor BiH nastavljamo s četiri nove epizode.
   description: Seriju Moj izbor BiH nastavljamo s četiri nove epizode. Prvu posvećujemo Ljubuškom - gradu koji se, posljednjih godina, sve više mijenja i privlači pozornost ljudi koji u njemu vide mjesto za život i rad.  Povratnici, mlade obitelji i doseljenici iz drugih sredina sve su češće dio ljubuške priče. Ovaj grad u Zapadnohercegovačkoj županiji posljednjih godina ulaže u razvoj, infrastrukturu, turizam i kvalitetu života. Samo u ožujku 2026. Grad je za rješavanje stambenog pitanja 36 mladih obitelji izdvojio 296.000 konvertibilnih maraka. To je konkretna mjera kojom se želi potaknuti ostanak mladih i stvaranje novih obitelji. Uz turistički biser Kravicu, bogatu prirodnu i kulturnu baštinu te sve razvijeniju ponudu, Ljubuški pokazuje da i manja sredina može stvarati nove prilike. No, iza brojki i projekata kriju se osobne priče, odluke i iskustva ljudi koji su Ljubuški odabrali za svoj dom. Tko se vraća, tko dolazi prvi put i što ovaj grad danas nudi svojim stanovnicima? Odgovore donosimo u ovoj epizodi serije Moj izbor BiH.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 752206
   start: 2026-11-14T21:10:00Z
   stop: 2026-11-14T21:20:00Z
   title: Vijesti na engleskom jeziku
   subtitle: ' '
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 761646
-  start: 2026-11-14T21:10:00Z
-  stop: 2026-11-14T21:37:00Z
-  title: Moj izbor BiH
-  subtitle: Seriju Moj izbor BiH nastavljamo s četiri nove epizode.
-  ageRating: 4
-  genre:
-  - '160'
 - eventId: 706317
   start: 2026-11-14T21:12:00Z
   stop: 2026-11-14T21:38:00Z
@@ -2061,16 +2070,12 @@
   - 754760
   - 755166
   - 755965
+  - 761648
   start: 2026-11-14T21:41:00Z
   stop: 2026-11-14T21:43:00Z
   title: 'HRT100 Vremeplov: Karting liga 1964.'
-  subtitle: ' '
-  description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
-- eventId: 761648
-  start: 2026-11-14T21:41:00Z
-  stop: 2026-11-14T21:43:00Z
-  title: HRT100 Vremeplov
   subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
+  description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
   ageRating: 4
   genre:
   - '160'
@@ -2178,16 +2183,12 @@
   - 754762
   - 755168
   - 755967
+  - 761650
   start: 2026-11-14T22:03:00Z
   stop: 2026-11-14T22:06:00Z
   title: '#REPORTAŽE: Maroje Vučićević'
-  subtitle: ' '
-  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 761650
-  start: 2026-11-14T22:03:00Z
-  stop: 2026-11-14T22:06:00Z
-  title: '#REPORTAŽE'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
