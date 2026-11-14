@@ -56,6 +56,7 @@
   - 604403
   - 616674
   - 623091
+  - 758730
   - 981414
   start: 2026-12-11T03:25:00Z
   stop: 2026-12-11T03:55:00Z
@@ -66,14 +67,6 @@
   audiodesc: true
   subtitle: Verbrauchertipps für jeden Tag
   description: Wirklich preiswert? Wirklich praktisch? Wirklich lecker? Die Servicezeit macht Ihren Alltag leichter! Mit unseren Tipps sind Sie in allen Lebenslagen gut beraten! Ob Gesundheit oder Geld, Wohnen oder Ernährung, Multimedia oder Verkehr - das Verbrauchermagazin Servicezeit beleuchtet Hintergründe, schafft Orientierung und gibt praktische Ratschläge - und zwar unabhängig und neutral.
-- eventId: 758730
-  start: 2026-12-11T03:25:00Z
-  stop: 2026-12-11T03:55:00Z
-  title: Lokalzeit aus Düsseldorf
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
   - 582617
   - 604404
@@ -339,6 +332,7 @@
   - 592853
   - 605384
   - 623384
+  - 758933
   - 765812
   start: 2026-12-11T17:00:00Z
   stop: 2026-12-11T17:15:00Z
@@ -348,14 +342,21 @@
   hd: true
   audiodesc: true
   description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
-- eventId: 758933
-  start: 2026-12-11T17:00:00Z
-  stop: 2026-12-11T17:15:00Z
-  title: WDR aktuell / Lokalzeit
+- eventId:
+  - 583427
+  - 592854
+  - 605385
+  - 623385
+  - 765813
+  start: 2026-12-11T17:15:00Z
+  stop: 2026-12-11T17:45:00Z
+  title: Zack, Auto weg! Wie sicher sind Fahrzeuge mit Keyless Go? - ECHT?
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
+  subtitle: mit Timm Giesbers
 - eventId: 758934
   start: 2026-12-11T17:15:00Z
   stop: 2026-12-11T17:45:00Z
@@ -365,6 +366,21 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId:
+  - 583428
+  - 592855
+  - 605386
+  - 623386
+  - 765814
+  start: 2026-12-11T17:45:00Z
+  stop: 2026-12-11T18:30:00Z
+  title: Lokalzeit aus Bonn
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+  description: Die Lokalzeit-Studios versorgen Sie mit Nachrichten und Berichten aus Ihrer Nähe und informieren Sie über alles, was Sie wissen wollen.
+  subtitle: Das Informationsmagazin für NRW
 - eventId: 758935
   start: 2026-12-11T17:45:00Z
   stop: 2026-12-11T18:30:00Z
@@ -374,7 +390,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 758986
+- eventId:
+  - 605844
+  - 758986
   start: 2026-12-11T18:30:00Z
   stop: 2026-12-11T19:00:00Z
   title: Lokalzeit aus Bonn
@@ -382,7 +400,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 758987
+- eventId:
+  - 605845
+  - 758987
   start: 2026-12-11T19:00:00Z
   stop: 2026-12-11T19:15:00Z
   title: Tagesschau
@@ -390,7 +410,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 758988
+- eventId:
+  - 605846
+  - 758988
   start: 2026-12-11T19:15:00Z
   stop: 2026-12-11T20:15:00Z
   title: 2026 - Das Jahr in NRW

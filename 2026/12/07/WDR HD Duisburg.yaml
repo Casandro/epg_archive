@@ -379,7 +379,9 @@
   hd: true
   audiodesc: true
   description: 'Die Niederlage bei der letzten Quest hat Konsequenzen: Statt wie gewohnt gemeinsam zur Dorfversammlung zu kommen, gelten diesmal besondere Regeln. Vier Spieler sind von der Abstimmung ausgeschlossen, nur sieben Dorfbewohner erhalten eine Einladung. Damit startet die dritte Dorfversammlung unter völlig neuen Voraussetzungen. Wer nicht dabei sein darf, kann weder die Diskussion beeinflussen noch seine Stimme abgeben. Für einen Spieler wird die Runde besonders gefährlich: Entscheidungen werden seziert, alte Aussagen hinterfragt und Verdächtigungen zugespitzt. Schließlich kommt es zur großen Konfrontation.'
-- eventId: 847984
+- eventId:
+  - 605081
+  - 847984
   start: 2026-12-07T14:10:00Z
   stop: 2026-12-07T15:00:00Z
   title: Watzmann ermittelt - 41. Trugschluss
@@ -390,6 +392,7 @@
   audiodesc: true
 - eventId:
   - 598511
+  - 605325
   - 848031
   start: 2026-12-07T15:00:00Z
   stop: 2026-12-07T15:15:00Z
@@ -401,6 +404,7 @@
   audiodesc: true
 - eventId:
   - 598512
+  - 605326
   - 848032
   start: 2026-12-07T15:15:00Z
   stop: 2026-12-07T17:00:00Z
