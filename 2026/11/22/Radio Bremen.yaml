@@ -9,6 +9,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  description: "Steppenwolf ist eine der legendärsten und zugleich rätselhaftesten Bands in der Geschichte der Rockmusik. An der Grenze zwischen Mainstream und psychedelischem Underground eröffnete ihr Song \"Born To Be Wild\" den Kultfilm \"Easy Rider\" und wurde zur Hymne einer ganzen Generation. Was aber nur wenige Menschen wissen: Die Band Steppenwolf hatte als Gravitationszentrum zwei deutsche Auswandererkinder. \nDurch den Film wird auch die Musik von Steppenwolf wieder entdeckt. Die Band, deren Ruhm durch einen Song zementiert wurde, wird bis heute auf wenige Songs reduziert."
 - eventId:
   - 542713
   - 544152
@@ -20,6 +21,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  description: Wie vielseitig und faszinierend Norddeutschland aussehen kann, zeigt Ihnen das NDR Fernsehen immer mal wieder zwischendurch in seinen kleinen, aber feinen "Mein Norden"-Filmen. Wir entführen Sie mit beeindruckenden und berührenden Bildern in die schönsten Ecken von Hamburg, Niedersachsen, Schleswig-Holstein und Mecklenburg-Vorpommern. Wir zeigen Großstadtleben und Natur. Wir stellen Ihnen die unterschiedlichsten menschlichen und tierischen Bewohner Norddeutschlands vor. Und manchmal nehmen wir auch einfach nur eine Kameraperspektive ein - in der Bahn, im Sessellift oder auf einer Barkasse.
 - eventId:
   - 542714
   - 544153
@@ -31,6 +33,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  description: Wir sind stets nah dran an den niedersächsischen Themen und Menschen. Uns interessiert, was Sie aufregt und bewegt.
 - eventId:
   - 542715
   - 544154
@@ -75,6 +78,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  description: Politik, Wirtschaft, Sport und Gesellschaft - das journalistische Magazin für Bremen, Bremerhaven und Unterweser-Raum.
 - eventId:
   - 543195
   - 544679
@@ -87,6 +91,7 @@
   hd: true
   audiodesc: true
   subtitle: 'Gast: Schauspielerin Katharina Thalbach'
+  description: Mit markanter Stimme und ausdruckstarker Mimik besticht Katharina Thalbach seit Jahrzehnten auf der Bühne, im Film und auch im Fernsehen. Das Publikum verehrt die Schauspielerin und Regisseurin, die in einer Theaterfamilie in Ost-Berlin aufwuchs. Ihr Schauspielhandwerk lernte sie bei Helene Weigel, der damaligen Intendantin des "Berliner Ensemble". Wie gut Katharina Thalbach das Wechselspiel zwischen Tragischem und Komödiantischem beherrscht, wird in ihrem neuen Kinofilm "Lieblingsmenschen" offenbar - der erzählt nach einer wahren Begebenheit die rührende Verbindung zwischen einer 101-Jährigen und einem jungen Geflüchteten.
 - eventId:
   - 543196
   - 544680
@@ -98,6 +103,10 @@
   subtitled: true
   hd: true
   audiodesc: true
+  description: |-
+    Landschaften und Sehnsuchtsorte, originelle Typen, Lifestyle, Kultur und kulinarische Köstlichkeiten: Mit der "Nordtour" entdecken Sie die schönen Seiten von Norddeutschland. Und das in ihrer ganzen Vielfalt in Niedersachsen, Schleswig-Holstein, Hamburg und Mecklenburg-Vorpommern. Das wöchentliche Magazin bietet einen unterhaltsamen Mix aus Service und Inspiration für die abwechslungsreiche Freizeitgestaltung. Nadja Babalola und Thilo Tautz moderieren die Sendung im wöchentlichen Wechsel.
+
+    Mehr Informationen auf NDR Text Seite 530
 - eventId:
   - 543197
   - 544681
@@ -110,6 +119,9 @@
   subtitled: true
   hd: true
   audiodesc: true
+  description: 'Super-Edgar beginnt damit, die Superhelden, die er aus dem Fernsehen und aus den Comic-Heften kennt, zu imitieren. Aber er hat nicht viel Erfolg: Bosse, der missmutige Igel macht sich über ihn lustig. Und Super-Edgar weiß nicht mehr, was er noch tun kann, um ein guter Superheld zu sein. Seine Freunde beschließen daraufhin, sich als Superbösewichte auszugeben, um seine Moral wieder zu stärken.'
+  genre:
+  - '16'
 - eventId:
   - 543198
   - 544682
@@ -122,18 +134,23 @@
   subtitled: true
   hd: true
   audiodesc: true
+  description: Es ist der Jahrestag des ersten Kusses zwischen Super-Edgar, dem Karibu aus dem Wald und Gina, der Kameldame der Wüste. Aber Super-Edgar hat keine Idee für ein Geschenk, das so groß ist wie die Liebe zu seiner Gina. Dann verliert Gina auch noch ihr Geschenk, als sie Rudi, den Hasen eingipst. Wie furchtbar! So hat weder der eine noch der andere ein Geschenk!
+  genre:
+  - '16'
 - eventId:
   - 543927
   - 545760
   - 788760
   start: 2026-11-22T06:15:00Z
   stop: 2026-11-22T07:00:00Z
-  title: Die Tierärzte - Retter mit Herz
+  title: Die Tierärzte - Retter mit Herz (1)
   subtitle: Die verschluckte Nadel
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId:
   - 543928
   - 545761
@@ -145,6 +162,9 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Deutschland 2022
+  genre:
+  - '112'
 - eventId:
   - 543929
   - 545762
@@ -242,11 +262,13 @@
   start: 2026-11-22T11:25:00Z
   stop: 2026-11-22T12:35:00Z
   title: Rübezahl, Herr der Berge
-  subtitle: DE 1957
+  subtitle: Spielfilm Deutschland 1957
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 545408
   - 572354
@@ -254,7 +276,7 @@
   start: 2026-11-22T12:35:00Z
   stop: 2026-11-22T13:00:00Z
   title: 'Märchenreise: Des Kaisers neue Kleider'
-  subtitle: DE 2024
+  subtitle: Deutschland 2024
   widescreen: true
   subtitled: true
   hd: true
@@ -266,11 +288,14 @@
   start: 2026-11-22T13:00:00Z
   stop: 2026-11-22T14:00:00Z
   title: Der Meisterdieb
-  subtitle: DE 2010
+  subtitle: Fernsehfilm Deutschland 2010
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 545410
   - 572356
@@ -282,6 +307,10 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Spielfilm Deutschland 2021
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 546355
   - 552119
@@ -294,6 +323,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 546356
   - 552120
@@ -445,22 +476,24 @@
   - 788785
   start: 2026-11-22T22:55:00Z
   stop: 2026-11-22T23:25:00Z
-  title: Die Paartherapie
+  title: Die Paartherapie (3)
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Beginnt Fremdgehen schon im Kopf?
 - eventId:
   - 559461
   - 573055
   - 788786
   start: 2026-11-22T23:25:00Z
   stop: 2026-11-23T00:00:00Z
-  title: Die Paartherapie
+  title: Die Paartherapie (4)
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: Kinderwunsch - und plötzlich Zweifel
 - eventId:
   - 573056
   - 788787
