@@ -1765,7 +1765,7 @@
   - 729125
   start: 2026-11-15T10:55:00Z
   stop: 2026-11-15T11:00:00Z
-  title: Bez komentara
+  title: Poslovne vijesti
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
@@ -1775,13 +1775,19 @@
   - 635352
   - 729126
   start: 2026-11-15T11:00:00Z
-  stop: 2026-11-15T11:15:00Z
+  stop: 2026-11-15T11:14:00Z
   title: Dnevnik 1
   subtitle: Aktualne informacije i najnovije vijesti iz zemlje i svijeta u podnevnom Dnevniku.
   ageRating: 4
   genre:
   - '32'
   description: Aktualne informacije i najnovije vijesti iz zemlje i svijeta u podnevnom Dnevniku.
+- eventId: 682355
+  start: 2026-11-15T11:14:00Z
+  stop: 2026-11-15T11:15:00Z
+  title: Vrijeme RH danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 635353
   - 729127
@@ -1795,6 +1801,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 635354
+  - 682366
   - 729128
   start: 2026-11-15T11:16:00Z
   stop: 2026-11-15T11:18:00Z
@@ -1806,6 +1813,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 635355
+  - 682367
   - 729129
   start: 2026-11-15T11:18:00Z
   stop: 2026-11-15T11:20:00Z
@@ -1817,6 +1825,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 635356
+  - 682368
   - 729130
   start: 2026-11-15T11:20:00Z
   stop: 2026-11-15T11:28:00Z
@@ -1828,6 +1837,7 @@
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId:
   - 635357
+  - 682369
   - 729131
   start: 2026-11-15T11:28:00Z
   stop: 2026-11-15T11:30:00Z
@@ -1863,19 +1873,25 @@
   - 635360
   - 729134
   start: 2026-11-15T12:00:00Z
-  stop: 2026-11-15T12:30:00Z
+  stop: 2026-11-15T12:29:00Z
   title: Vijesti
   subtitle: Kratki pregled vijesti iz Hrvatske i svijeta.
   ageRating: 4
   genre:
   - '32'
   description: Kratki pregled vijesti iz Hrvatske i svijeta.
+- eventId: 682359
+  start: 2026-11-15T12:29:00Z
+  stop: 2026-11-15T12:30:00Z
+  title: Vrijeme RH danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 635361
   - 729135
   start: 2026-11-15T12:30:00Z
-  stop: 2026-11-15T12:31:00Z
-  title: Vrijeme RH danas
+  stop: 2026-11-15T12:32:00Z
+  title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
@@ -1892,6 +1908,12 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+- eventId: 682360
+  start: 2026-11-15T12:32:00Z
+  stop: 2026-11-15T12:34:00Z
+  title: Vrijeme svijet danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 635363
   - 729137
@@ -1903,6 +1925,12 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 682361
+  start: 2026-11-15T12:34:00Z
+  stop: 2026-11-15T12:55:00Z
+  title: Studio 4
+  subtitle: ' '
+  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId:
   - 635364
   - 729138
@@ -2039,14 +2067,16 @@
   - 635376
   - 729150
   start: 2026-11-15T14:35:00Z
-  stop: 2026-11-15T14:55:00Z
+  stop: 2026-11-15T14:53:00Z
   title: 'Studio 4: U fokusu'
   subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
   ageRating: 4
   genre:
   - '160'
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
-- eventId: 676325
+- eventId:
+  - 676325
+  - 682362
   start: 2026-11-15T14:53:00Z
   stop: 2026-11-15T15:00:00Z
   title: Bez komentara
@@ -2079,7 +2109,7 @@
   - 635379
   - 729153
   start: 2026-11-15T15:15:00Z
-  stop: 2026-11-15T15:22:00Z
+  stop: 2026-11-15T15:24:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
@@ -2098,7 +2128,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 676326
+- eventId:
+  - 676326
+  - 682363
   start: 2026-11-15T15:24:00Z
   stop: 2026-11-15T15:50:00Z
   title: Potrošački kod
@@ -2157,7 +2189,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 676327
+- eventId:
+  - 676327
+  - 682364
   start: 2026-11-15T17:01:00Z
   stop: 2026-11-15T17:51:00Z
   title: 'Romano Bolković - 1 na 1: Jean-Pascal Zanders, talk show'
