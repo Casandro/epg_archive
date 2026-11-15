@@ -480,11 +480,15 @@
   - 589843
   - 817656
   start: 2026-11-15T18:45:00Z
-  stop: 2026-11-15T19:05:00Z
+  stop: 2026-11-15T19:07:48Z
   title: Arte journal
   subtitle: Chaque jour à 19h45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité. Un regard original sur le monde.
   genre:
   - '33'
+  description: |-
+    (2026, 20mn) Chaque jour à 19h45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité. Un regard original sur le monde.
+
+    AUDIO 1 : FRANÇAIS
 - eventId:
   - 654525
   - 655674
@@ -510,7 +514,7 @@
   - '16'
 - eventId: 687740
   start: 2026-11-15T19:07:48Z
-  stop: 2026-11-15T20:00:00Z
+  stop: 2026-11-15T20:02:50Z
   title: Dans la tête de Quentin Tarantino
   description: |-
     Documentaire de France Swimberge (France, 2025, 53mn) Un nouveau regard sur l'_uvre de Quentin Tarantino, qui met en lumière les liens secrètement tissés entre ses films et sa vie, à commencer par une enfance pas banale, guidée par une jeune mère à l'esprit indépendant.
@@ -540,6 +544,14 @@
   genre:
   - '146'
   ageRating: 15
+- eventId: 687741
+  start: 2026-11-15T20:02:50Z
+  stop: 2026-11-15T22:45:00Z
+  title: Les huit salopards (VM)
+  description: "Film de Quentin Tarantino (Etats-Unis, 2015, 2h41mn) Avec sa bande de crapules hautes en couleur (Jennifer Jason Leigh, Samuel L. Jackson, Kurt Russell, Tim Roth...), Quentin Tarantino traque les fantômes de la guerre civile américaine dans un western aussi causeur que sanglant. \n\nAUDIO 1 : FRANÇAIS / AUDIO 3 : VERSION ORIGINALE - VM (sous-titres optionnels) / AUDIO 4 : AUDIOVISION\nSous-titres pour sourds et malentendants disponibles pour ce programme"
+  ageRating: 12
+  genre:
+  - '16'
 - eventId:
   - 589846
   - 654528
@@ -553,7 +565,9 @@
   subtitle: Vatnajokull, le titan d'Islande S01 E01. Focus sur le Vatnajökull, au sud-est de l'Islande, considéré comme le plus magistral des glaciers du pays, et qui s'effondre à un rythme inquiétant.
   genre:
   - '146'
-- eventId: 676255
+- eventId:
+  - 676255
+  - 687742
   start: 2026-11-15T22:46:07Z
   stop: 2026-11-15T23:39:52Z
   title: Uma Thurman - L'émancipation d'une guerrière
@@ -564,7 +578,9 @@
     Sous-titres pour sourds et malentendants disponibles pour ce programme
   genre:
   - '112'
-- eventId: 676256
+- eventId:
+  - 676256
+  - 687743
   start: 2026-11-15T23:39:52Z
   stop: 2026-11-16T00:30:00Z
   title: Par-dessus bord
