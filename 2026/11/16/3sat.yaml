@@ -463,7 +463,9 @@
   genre:
   - '112'
   widescreen: true
-- eventId: 688618
+- eventId:
+  - 688618
+  - 688829
   start: 2026-11-16T05:15:00Z
   stop: 2026-11-16T05:20:00Z
   title: Notizen aus dem Ausland
@@ -471,6 +473,8 @@
   genre:
   - '32'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 539805
   - 540701
