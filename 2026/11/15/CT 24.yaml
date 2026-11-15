@@ -15,6 +15,15 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 663085
+  start: 2026-11-15T00:01:52Z
+  stop: 2026-11-15T00:11:52Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
 - eventId: 656293
   start: 2026-11-15T00:09:00Z
   stop: 2026-11-15T00:58:00Z
@@ -44,6 +53,28 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 662951
+  start: 2026-11-15T00:11:52Z
+  stop: 2026-11-15T01:00:52Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 663005
+  start: 2026-11-15T00:11:52Z
+  stop: 2026-11-15T01:00:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId: 656294
   start: 2026-11-15T00:58:00Z
   stop: 2026-11-15T01:08:00Z
@@ -71,6 +102,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId:
+  - 662952
+  - 663006
+  start: 2026-11-15T01:00:52Z
+  stop: 2026-11-15T01:10:52Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId: 656295
   start: 2026-11-15T01:08:00Z
   stop: 2026-11-15T01:33:30Z
@@ -100,7 +143,22 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 656296
+- eventId:
+  - 662953
+  - 663007
+  start: 2026-11-15T01:10:52Z
+  stop: 2026-11-15T01:33:30Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId:
+  - 656296
+  - 663008
   start: 2026-11-15T01:33:30Z
   stop: 2026-11-15T02:00:00Z
   title: Týden v regionech
@@ -153,21 +211,9 @@
   - 607931
   - 644338
   - 649830
+  - 656298
   - 792659
   - 800116
-  start: 2026-11-15T02:10:00Z
-  stop: 2026-11-15T03:00:00Z
-  title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
-  description: |-
-    HDTV
-    Skryté titulky
-  genre:
-  - '35'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 656298
   start: 2026-11-15T02:10:00Z
   stop: 2026-11-15T02:59:00Z
   title: Studio ČT24
@@ -178,7 +224,11 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 656299
+  subtitled: true
+  hd: true
+- eventId:
+  - 656299
+  - 663009
   start: 2026-11-15T02:59:00Z
   stop: 2026-11-15T03:09:00Z
   title: Zprávy
@@ -205,7 +255,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 656312
+- eventId:
+  - 656312
+  - 663010
   start: 2026-11-15T03:09:00Z
   stop: 2026-11-15T03:33:30Z
   title: Studio ČT24
@@ -234,7 +286,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 656313
+- eventId:
+  - 656313
+  - 663011
   start: 2026-11-15T03:33:30Z
   stop: 2026-11-15T04:00:00Z
   title: Týden v regionech
@@ -393,7 +447,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 661393
+- eventId:
+  - 661393
+  - 663013
   start: 2026-11-15T07:29:00Z
   stop: 2026-11-15T08:00:00Z
   title: Věda 24
