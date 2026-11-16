@@ -1107,7 +1107,7 @@
   - 816702
   - 826434
   start: 2026-11-16T15:00:00Z
-  stop: 2026-11-16T15:30:00Z
+  stop: 2026-11-16T15:29:45Z
   title: Zprávy v 16
   subtitle: Nejdůležitější události dne v ČR i ve světě.
   description: |-
@@ -1142,7 +1142,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 709675
+- eventId:
+  - 709675
+  - 710896
   start: 2026-11-16T15:29:45Z
   stop: 2026-11-16T15:32:45Z
   title: Zprávy
@@ -1194,7 +1196,9 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 709676
+- eventId:
+  - 709676
+  - 710897
   start: 2026-11-16T15:32:45Z
   stop: 2026-11-16T16:00:00Z
   title: Studio ČT24
@@ -1283,7 +1287,7 @@
   - 816707
   - 826439
   start: 2026-11-16T16:30:00Z
-  stop: 2026-11-16T16:33:00Z
+  stop: 2026-11-16T16:35:05Z
   title: Zprávy
   description: |-
     HDTV
@@ -1315,7 +1319,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 710363
+- eventId:
+  - 710363
+  - 710898
   start: 2026-11-16T16:35:05Z
   stop: 2026-11-16T16:55:05Z
   title: Studio ČT24
@@ -1355,6 +1361,7 @@
   - 710365
   - 710694
   - 710747
+  - 710967
   - 816710
   - 826442
   start: 2026-11-16T17:00:00Z
@@ -1390,6 +1397,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 710968
+  start: 2026-11-16T17:03:00Z
+  stop: 2026-11-16T17:28:00Z
+  title: Studio ČT24
+  subtitle: 'Téma: Protesty proti české vládě (komentář).'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 598129
   - 646781
@@ -1409,6 +1427,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 710902
+  start: 2026-11-16T17:28:00Z
+  stop: 2026-11-16T17:55:00Z
+  title: Interview ČT24
+  subtitle: 'Host: Karel Havlíček  /ANO/, vicepremiér, ministr průmyslu a obchodu. Moderuje: Jiří Václavek.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 598130
   - 646782
