@@ -1095,7 +1095,7 @@
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId: 664606
   start: 2026-11-17T22:50:00Z
-  stop: 2026-11-17T22:55:00Z
+  stop: 2026-11-17T22:56:00Z
   title: '#REPORTAŽE: Zidnjaci'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
@@ -1113,7 +1113,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 710834
+- eventId:
+  - 710834
+  - 713169
   start: 2026-11-17T22:56:00Z
   stop: 2026-11-17T23:00:00Z
   title: Bez komentara
