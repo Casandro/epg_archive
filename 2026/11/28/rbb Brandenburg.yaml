@@ -144,6 +144,8 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ad938f29072e9a6eacaa246
+  genre:
+  - '112'
 - eventId:
   - 548301
   - 602653
@@ -259,7 +261,7 @@
   start: 2026-11-28T07:55:00Z
   stop: 2026-11-28T09:00:00Z
   title: Sechse kommen durch die Welt
-  subtitle: DEFA
+  subtitle: Spielfilm DDR 1972
   genre:
   - '16'
   widescreen: true
@@ -290,7 +292,7 @@
   start: 2026-11-28T09:00:00Z
   stop: 2026-11-28T10:00:00Z
   title: Die Galoschen des Glücks
-  subtitle: Spielfilm Deutschland 2018
+  subtitle: Fernsehfilm Deutschland 2018
   genre:
   - '16'
   widescreen: true
@@ -409,7 +411,7 @@
   start: 2026-11-28T16:53:00Z
   stop: 2026-11-28T17:00:00Z
   title: Unser Sandmännchen
-  subtitle: 'Pittiplatsch: Der Laternenumzug'
+  subtitle: 'Pittiplatsch:  Der Laternenumzug'
   widescreen: true
   subtitled: true
   hd: true
@@ -521,21 +523,25 @@
 - eventId: 563094
   start: 2026-11-28T19:15:00Z
   stop: 2026-11-28T20:00:00Z
-  title: Liebling - Kreuzberg (17)
+  title: Liebling - Kreuzberg (17/58)
   subtitle: Alles auf Bewährung
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId: 563095
   start: 2026-11-28T20:00:00Z
   stop: 2026-11-28T20:45:00Z
-  title: Liebling - Kreuzberg (18)
+  title: Liebling - Kreuzberg (18/58)
   subtitle: Die Fehler der Anderen
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId: 563096
   start: 2026-11-28T20:45:00Z
   stop: 2026-11-28T21:00:00Z
@@ -552,7 +558,7 @@
   - 746206
   start: 2026-11-28T21:00:00Z
   stop: 2026-11-28T21:45:00Z
-  title: Liebling Kreuzberg (19)
+  title: Liebling Kreuzberg (19/58)
   subtitle: Ehrengericht
   widescreen: true
   subtitled: true
