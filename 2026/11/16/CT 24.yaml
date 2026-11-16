@@ -1196,6 +1196,17 @@
   genre:
   - '35'
   widescreen: true
+- eventId: 712828
+  start: 2026-11-16T15:32:41Z
+  stop: 2026-11-16T16:00:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Slovenská vzpomínka na sametovou revoluci (živý vstup); Prezidentské volby ve Francii (živý vstup); Kulturní přehled (tipy, nabídky, upoutávky).'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 709676
   - 710897
@@ -1279,6 +1290,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 712856
+  start: 2026-11-16T16:29:50Z
+  stop: 2026-11-16T16:32:50Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Znakový jazyk
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 598124
   - 646776
@@ -1300,6 +1323,17 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 712857
+  start: 2026-11-16T16:32:50Z
+  stop: 2026-11-16T16:55:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Premiér Babiš na návštěvě Izraele; Co přinesou Události, komentáře (upoutávka na pořad).'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 598125
   - 646777
@@ -1337,13 +1371,15 @@
   - 646778
   - 651403
   - 656790
+  - 712858
   - 816709
   - 826441
   start: 2026-11-16T16:55:00Z
   stop: 2026-11-16T17:00:00Z
   title: Předpověď počasí
-  subtitle: Souhrn meteorologických informací uplynulých 24 hodin a prognóza vývoje počasí na příští dny.
+  subtitle: V úterý zataženo s občasným deštěm nebo přeháňkami. Na Šumavě budou srážky vydatnější a na severu nad 1000 m zpočátku i sněhové. Večer budou srážky a částečně i oblačnost od západu ubývat.
   description: |-
+    Nejvyšší teploty 9 až 13 °C, na Moravě, ve Slezsku a na S a SV Čech 6 až 10 °C. Maxima v 1000 m na horách kolem 7 °C. Slabý, místy mírný vítr z jižních směrů 7 až 22 km/h, odpoledne zejména v Čechách a ve Slezsku zesílí na čerstvý jihozápadní vítr 18 až 26 km/h místy s nárazy 55 až 70 km/h.
     HDTV
     Zvukový popis
     Skryté titulky
@@ -1427,7 +1463,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 710902
+- eventId:
+  - 710902
+  - 712859
   start: 2026-11-16T17:28:00Z
   stop: 2026-11-16T17:55:00Z
   title: Interview ČT24
