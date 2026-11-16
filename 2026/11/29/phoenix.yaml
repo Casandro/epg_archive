@@ -175,7 +175,7 @@
   - 733631
   - 733711
   start: 2026-11-29T07:30:00Z
-  stop: 2026-11-29T08:15:00Z
+  stop: 2026-11-29T08:00:00Z
   title: 'Mitten in Deutschland: NSU (2)'
   subtitle: Die dreistesten Fotografen der Geschichte
   description: |-
@@ -199,11 +199,15 @@
   subtitle: Die dreistesten Fotografen der Geschichte
   widescreen: true
   hd: true
-- eventId: 716912
+- eventId:
+  - 716912
+  - 717841
   start: 2026-11-29T08:00:00Z
   stop: 2026-11-29T08:15:00Z
   title: ARD-Aktuell
   subtitle: Aktuelle Themen aus Politik und Gesellschaft
+  widescreen: true
+  hd: true
 - eventId:
   - 577937
   - 585157
@@ -616,14 +620,22 @@
   subtitle: Winter
   widescreen: true
   hd: true
-- eventId: 716913
+- eventId:
+  - 716913
+  - 717842
   start: 2026-11-29T22:15:00Z
   stop: 2026-11-29T23:15:00Z
   title: phoenix satire
-- eventId: 716914
+  widescreen: true
+  hd: true
+- eventId:
+  - 716914
+  - 717843
   start: 2026-11-29T23:15:00Z
   stop: 2026-11-29T23:45:00Z
   title: phoenix gespräch
+  widescreen: true
+  hd: true
 - eventId:
   - 578749
   - 585948
