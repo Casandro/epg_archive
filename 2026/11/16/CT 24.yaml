@@ -1612,9 +1612,11 @@
   genre:
   - '35'
   widescreen: true
-- eventId: 715715
+- eventId:
+  - 715715
+  - 716052
   start: 2026-11-16T19:06:26Z
-  stop: 2026-11-16T20:29:26Z
+  stop: 2026-11-16T20:30:00Z
   title: 90' ČT24
   subtitle: 'Témata: Demonstrace; Politická situace v zemi; Premiér Babiš na návštěvě Izraele; Jednání o složení nové vlády Izraele; Pořad Na plovárně odvysílá svůj 1000. díl. Hosté: M. Zvěřina, J. Šídlo,  E. Soukeníková,'
   description: |-
@@ -1683,6 +1685,7 @@
   - 646791
   - 651414
   - 656815
+  - 715929
   - 816718
   - 826458
   start: 2026-11-16T20:30:00Z
@@ -1754,6 +1757,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 715945
+  start: 2026-11-16T22:07:33Z
+  stop: 2026-11-16T22:32:00Z
+  title: Zprávy ve 23
+  subtitle: Nejdůležitější události dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 602151
   - 646799
@@ -1773,6 +1787,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 715946
+  start: 2026-11-16T22:33:33Z
+  stop: 2026-11-16T23:00:00Z
+  title: Interview ČT24
+  subtitle: 'Host: Karel Havlíček  /ANO/, vicepremiér, ministr průmyslu a obchodu. Moderuje: Jiří Václavek.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 602152
   - 646800
@@ -1796,6 +1821,7 @@
   - 646801
   - 651427
   - 656847
+  - 715947
   - 816724
   - 826469
   start: 2026-11-16T23:10:00Z

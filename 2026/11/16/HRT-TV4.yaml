@@ -1803,7 +1803,7 @@
   - '160'
 - eventId: 640281
   start: 2026-11-16T20:00:00Z
-  stop: 2026-11-16T20:45:00Z
+  stop: 2026-11-16T20:46:00Z
   title: Pregled dana
   subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -1877,7 +1877,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 715647
+- eventId:
+  - 715647
+  - 716102
   start: 2026-11-16T20:46:00Z
   stop: 2026-11-16T21:13:00Z
   title: Eko zona
@@ -1921,7 +1923,9 @@
   genre:
   - '160'
   description: Vodimo vas kroz svijet glazbe, filma, mode, glamura, poznatih javnih osoba, događaja, crvenih tepiha...
-- eventId: 715648
+- eventId:
+  - 715648
+  - 716103
   start: 2026-11-16T21:14:00Z
   stop: 2026-11-16T21:44:00Z
   title: Svijet zabave
@@ -1985,7 +1989,9 @@
   genre:
   - '160'
   description: U emisiji će biti riječi o dijabetesu, debljini i metaboličkom sindromu, a zbog aktualnosti ovih dijagnoza nedavno su održani 1. metabolički dani dok je 14. studenoga Svjetski dan šećerne bolesti. Koje su novosti i smjernice suvremene medicine za ove dijagnoze "tri u jedan"? Gost je doc. dr. sc. Tomislav Božek, dr. med., predsjednik Hrvatskog društva za dijabetes, debljinu i metabolički sindrom Hrvatskoga liječničkog zbora.
-- eventId: 715649
+- eventId:
+  - 715649
+  - 716104
   start: 2026-11-16T21:45:00Z
   stop: 2026-11-16T22:04:00Z
   title: 'Studio 4: Dijagnoza'
@@ -2046,7 +2052,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 715650
+- eventId:
+  - 715650
+  - 716105
   start: 2026-11-16T22:05:00Z
   stop: 2026-11-16T22:08:00Z
   title: '#REPORTAŽE: Knjiški recenzeraj'
@@ -2112,7 +2120,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 715651
+- eventId:
+  - 715651
+  - 716106
   start: 2026-11-16T22:08:00Z
   stop: 2026-11-16T22:10:00Z
   title: 'Bez komentara: Kina - Dronovi dostavljaju hranu'
@@ -2152,7 +2162,7 @@
   - '160'
 - eventId: 640288
   start: 2026-11-16T22:10:00Z
-  stop: 2026-11-16T22:20:00Z
+  stop: 2026-11-16T22:19:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -2191,6 +2201,7 @@
   - 713741
   - 714422
   - 715652
+  - 716107
   start: 2026-11-16T22:19:00Z
   stop: 2026-11-16T22:29:00Z
   title: Vijesti na španjolskom jeziku
@@ -2234,6 +2245,7 @@
   - 713742
   - 714423
   - 715653
+  - 716108
   start: 2026-11-16T22:29:00Z
   stop: 2026-11-16T22:50:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -2333,6 +2345,7 @@
   - 713743
   - 714424
   - 715654
+  - 716109
   start: 2026-11-16T22:53:00Z
   stop: 2026-11-16T22:59:00Z
   title: '#REPORTAŽE: Cenan'
@@ -2380,6 +2393,7 @@
   - 713744
   - 714425
   - 715655
+  - 716110
   start: 2026-11-16T22:59:00Z
   stop: 2026-11-16T23:00:00Z
   title: 'Bez komentara: Kina - Policijski robori uoči APECa'
@@ -2405,14 +2419,16 @@
   - 764327
   - 769925
   start: 2026-11-16T23:00:00Z
-  stop: 2026-11-16T23:10:00Z
+  stop: 2026-11-16T23:08:00Z
   title: Vijesti flash
   subtitle: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a.
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
   ageRating: 4
   genre:
   - '32'
-- eventId: 715656
+- eventId:
+  - 715656
+  - 716111
   start: 2026-11-16T23:08:00Z
   stop: 2026-11-16T23:15:00Z
   title: Vijesti iz kulture
@@ -2455,7 +2471,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 715657
+- eventId:
+  - 715657
+  - 716112
   start: 2026-11-16T23:15:00Z
   stop: 2026-11-16T23:41:00Z
   title: Pogled preko granice - Hrvati u BiH
@@ -2493,7 +2511,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 715658
+- eventId:
+  - 715658
+  - 716113
   start: 2026-11-16T23:41:00Z
   stop: 2026-11-17T00:05:00Z
   title: Regionalni dnevnik
