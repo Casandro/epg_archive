@@ -484,7 +484,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 664551
+- eventId:
+  - 664551
+  - 710107
   start: 2026-11-17T12:45:00Z
   stop: 2026-11-17T12:50:00Z
   title: Poslovne vijesti
@@ -493,7 +495,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 664552
+- eventId:
+  - 664552
+  - 710108
   start: 2026-11-17T12:50:00Z
   stop: 2026-11-17T13:00:00Z
   title: 'Studio 4: Znanost'
@@ -594,13 +598,19 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 664563
   start: 2026-11-17T14:35:00Z
-  stop: 2026-11-17T15:00:00Z
+  stop: 2026-11-17T14:55:00Z
   title: 'Studio 4: Sportske minute'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+- eventId: 710038
+  start: 2026-11-17T14:55:00Z
+  stop: 2026-11-17T15:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 664564
   start: 2026-11-17T15:00:00Z
   stop: 2026-11-17T15:15:00Z
