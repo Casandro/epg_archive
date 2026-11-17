@@ -51,7 +51,7 @@
   - 747196
   - 790317
   start: 2026-11-28T04:35:00Z
-  stop: 2026-11-28T06:00:00Z
+  stop: 2026-11-28T05:00:00Z
   title: Space Night
   subtitle: How to become an Astronaut
   widescreen: true
@@ -62,6 +62,7 @@
   - 594137
   - 610304
   - 731403
+  - 735850
   - 747197
   start: 2026-11-28T05:00:00Z
   stop: 2026-11-28T05:30:00Z
@@ -75,6 +76,7 @@
   - 594138
   - 610305
   - 731472
+  - 735851
   - 747198
   start: 2026-11-28T05:30:00Z
   stop: 2026-11-28T06:00:00Z
@@ -377,6 +379,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 576427
   - 582105
@@ -436,7 +439,7 @@
   - 790181
   - 983390
   start: 2026-11-28T13:00:00Z
-  stop: 2026-11-28T14:45:00Z
+  stop: 2026-11-28T15:00:00Z
   title: Blickpunkt Sport live
   subtitle: 'Fußball 3. Liga: Würzburger Kickers - Fortuna Düsseldorf'
   widescreen: true
@@ -467,11 +470,17 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 733237
+- eventId:
+  - 733237
+  - 735860
   start: 2026-11-28T15:00:00Z
   stop: 2026-11-28T15:30:00Z
   title: Ländermagazin
   subtitle: Heimatpioniere
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 576779
   - 584466
@@ -607,11 +616,13 @@
   start: 2026-11-28T19:15:00Z
   stop: 2026-11-28T20:45:00Z
   title: Sturm der Liebe (4676)
-  subtitle: Deutschland 2026
+  subtitle: Fernsehfilm Österreich/Deutschland 1997
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId: 628099
   start: 2026-11-28T19:15:00Z
   stop: 2026-11-28T20:45:00Z
@@ -634,6 +645,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 577513
   - 584775
@@ -651,6 +664,9 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
+  genre:
+  - '16'
 - eventId:
   - 577514
   - 584776
@@ -670,3 +686,4 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
