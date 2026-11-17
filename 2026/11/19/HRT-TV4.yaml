@@ -297,7 +297,7 @@
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
 - eventId: 728290
   start: 2026-11-19T05:54:00Z
-  stop: 2026-11-19T06:00:00Z
+  stop: 2026-11-19T05:58:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -459,12 +459,18 @@
   description: Kratki pregled vijesti iz Hrvatske i svijeta.
 - eventId: 728308
   start: 2026-11-19T08:30:00Z
-  stop: 2026-11-19T12:00:00Z
-  title: Prijenos sjednice Hrvatskog sabora
+  stop: 2026-11-19T09:00:00Z
+  title: Žrtva Borovo naselja za Domovinu, prijenos
   subtitle: Prijenos sjednice Hrvatskog sabora.
   ageRating: 4
   genre:
   - '160'
+  description: Prijenos sjednice Hrvatskog sabora.
+- eventId: 736918
+  start: 2026-11-19T09:00:00Z
+  stop: 2026-11-19T12:00:00Z
+  title: Prijenos sjednice Hrvatskog sabora
+  subtitle: ' '
   description: Prijenos sjednice Hrvatskog sabora.
 - eventId: 728309
   start: 2026-11-19T12:00:00Z
@@ -504,14 +510,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 728313
   start: 2026-11-19T12:35:00Z
-  stop: 2026-11-19T12:45:00Z
+  stop: 2026-11-19T12:43:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 735554
+- eventId:
+  - 735554
+  - 736919
   start: 2026-11-19T12:43:00Z
   stop: 2026-11-19T12:48:00Z
   title: Poslovne vijesti
@@ -530,7 +538,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 735555
+- eventId:
+  - 735555
+  - 736920
   start: 2026-11-19T12:48:00Z
   stop: 2026-11-19T12:56:00Z
   title: 'Studio 4: Znanost'
@@ -549,7 +559,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 735556
+- eventId:
+  - 735556
+  - 736921
   start: 2026-11-19T12:56:00Z
   stop: 2026-11-19T13:00:00Z
   title: Bez komentara
@@ -970,7 +982,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 735875
+- eventId:
+  - 735875
+  - 736922
   start: 2026-11-19T19:57:00Z
   stop: 2026-11-19T20:00:00Z
   title: Bez komentara
@@ -989,7 +1003,9 @@
   genre:
   - '160'
   description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
-- eventId: 735876
+- eventId:
+  - 735876
+  - 736923
   start: 2026-11-19T20:00:00Z
   stop: 2026-11-19T20:44:00Z
   title: Pregled dana
@@ -1015,7 +1031,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 735877
+- eventId:
+  - 735877
+  - 736924
   start: 2026-11-19T20:46:00Z
   stop: 2026-11-19T21:12:00Z
   title: 'DW: Global Us'
@@ -1041,13 +1059,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 735878
+- eventId:
+  - 735878
+  - 736925
   start: 2026-11-19T21:14:00Z
   stop: 2026-11-19T21:43:00Z
   title: Svijet znanosti
   subtitle: ' '
-  description: Emisija donosi aktualnosti, nova znanstvena otkrića, zanimljivosti iz životinjskog i biljnog svijeta te društvene fenomene. Zavirit ćemo u sve kutke Zemlje, a nećemo zaboraviti ni ostatak svemira. Donosimo ozbiljnu, ali i onu ležerniju, zabavnu stranu znanosti.
-- eventId: 735879
+  description: Što se nalazi u prostorima koji su 100 milijardi puta manji od atoma? Odgovoru na to pitanje sve su bliži u švicarskom CERN-u. Nedavno smo svjedočili katastrofalnim poplavama u Nepalu, izazvanim otapanjem ledenjaka na Himalaji. Što je s ledenjacima u ostatku svijeta, pa i onima u Europi? Australski poljoprivrednici muku muče s kunićima koji haraju australskom divljinom.
+- eventId:
+  - 735879
+  - 736926
   start: 2026-11-19T21:43:00Z
   stop: 2026-11-19T22:03:00Z
   title: 'Studio 4: Zelena linija'
@@ -1073,7 +1095,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 735880
+- eventId:
+  - 735880
+  - 736927
   start: 2026-11-19T22:03:00Z
   stop: 2026-11-19T22:07:00Z
   title: '#REPORTAŽE: Odi s nama'

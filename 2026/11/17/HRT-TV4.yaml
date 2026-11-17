@@ -1514,6 +1514,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 736892
+  start: 2026-11-17T16:58:00Z
+  stop: 2026-11-17T17:17:00Z
+  title: 'Studio 4: Sportske minute'
+  subtitle: ' '
+  description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
 - eventId: 664581
   start: 2026-11-17T17:00:00Z
   stop: 2026-11-17T17:20:00Z
@@ -1622,14 +1628,16 @@
   description: Paljenje svijeća i molitva za žrtve Vukovara, prijenos
 - eventId: 664588
   start: 2026-11-17T18:30:00Z
-  stop: 2026-11-17T18:53:00Z
+  stop: 2026-11-17T18:52:00Z
   title: Dnevnik 2
   subtitle: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a.
   ageRating: 4
   genre:
   - '32'
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
-- eventId: 735870
+- eventId:
+  - 735870
+  - 736893
   start: 2026-11-17T18:52:00Z
   stop: 2026-11-17T18:54:00Z
   title: Vrijeme RH sutra
@@ -1804,14 +1812,16 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 664604
   start: 2026-11-17T22:20:00Z
-  stop: 2026-11-17T22:30:00Z
+  stop: 2026-11-17T22:29:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
   genre:
   - '32'
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 735871
+- eventId:
+  - 735871
+  - 736894
   start: 2026-11-17T22:29:00Z
   stop: 2026-11-17T22:56:00Z
   title: 'Studio 4: Jutarnji intervju'
