@@ -297,7 +297,7 @@
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
 - eventId: 728290
   start: 2026-11-19T05:54:00Z
-  stop: 2026-11-19T05:58:00Z
+  stop: 2026-11-19T06:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -459,7 +459,7 @@
   description: Kratki pregled vijesti iz Hrvatske i svijeta.
 - eventId: 728308
   start: 2026-11-19T08:30:00Z
-  stop: 2026-11-19T09:00:00Z
+  stop: 2026-11-19T12:00:00Z
   title: Žrtva Borovo naselja za Domovinu, prijenos
   subtitle: Prijenos sjednice Hrvatskog sabora.
   ageRating: 4
@@ -512,7 +512,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 728313
   start: 2026-11-19T12:35:00Z
-  stop: 2026-11-19T12:43:00Z
+  stop: 2026-11-19T12:45:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -535,6 +535,7 @@
   - 736440
   - 737677
   - 738234
+  - 745597
   start: 2026-11-19T12:45:00Z
   stop: 2026-11-19T12:50:00Z
   title: Poslovne vijesti
@@ -559,6 +560,7 @@
   - 736441
   - 737678
   - 738235
+  - 745598
   start: 2026-11-19T12:50:00Z
   stop: 2026-11-19T13:00:00Z
   title: 'Studio 4: Znanost'
@@ -986,6 +988,7 @@
   - 737679
   - 738236
   - 738740
+  - 745599
   start: 2026-11-19T19:55:00Z
   stop: 2026-11-19T19:58:00Z
   title: Bez komentara
@@ -1011,6 +1014,7 @@
   - 737680
   - 738237
   - 738741
+  - 745600
   start: 2026-11-19T19:58:00Z
   stop: 2026-11-19T20:44:00Z
   title: Pregled dana
@@ -1044,6 +1048,7 @@
   - 737681
   - 738238
   - 738742
+  - 745601
   start: 2026-11-19T20:44:00Z
   stop: 2026-11-19T21:12:00Z
   title: Global 3000
@@ -1075,7 +1080,9 @@
   genre:
   - '160'
   description: Emisija donosi aktualnosti, nova znanstvena otkrića, zanimljivosti iz životinjskog i biljnog svijeta te društvene fenomene. Zavirit ćemo u sve kutke Zemlje, a nećemo zaboraviti ni ostatak svemira. Donosimo ozbiljnu, ali i onu ležerniju, zabavnu stranu znanosti.
-- eventId: 738743
+- eventId:
+  - 738743
+  - 745602
   start: 2026-11-19T21:12:00Z
   stop: 2026-11-19T21:43:00Z
   title: Svijet znanosti
@@ -1116,7 +1123,9 @@
   genre:
   - '160'
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
-- eventId: 738744
+- eventId:
+  - 738744
+  - 745603
   start: 2026-11-19T21:44:00Z
   stop: 2026-11-19T22:03:00Z
   title: 'Studio 4: Zelena linija'
@@ -1149,6 +1158,7 @@
   - 737684
   - 738241
   - 738745
+  - 745604
   start: 2026-11-19T22:04:00Z
   stop: 2026-11-19T22:07:00Z
   title: '#REPORTAŽE'
