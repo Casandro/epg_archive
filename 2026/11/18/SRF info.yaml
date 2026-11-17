@@ -511,7 +511,7 @@
   hd: true
 - eventId: 714088
   start: 2026-11-18T04:25:00Z
-  stop: 2026-11-18T04:45:00Z
+  stop: 2026-11-18T04:40:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -555,6 +555,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 735421
+  start: 2026-11-18T04:40:00Z
+  stop: 2026-11-18T04:50:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 714089
   start: 2026-11-18T04:45:00Z
   stop: 2026-11-18T04:50:00Z
@@ -585,7 +597,7 @@
 - eventId: 714090
   start: 2026-11-18T04:55:00Z
   stop: 2026-11-18T05:00:00Z
-  title: Sportflash
+  title: Schweiz aktuell
   subtitle: Die Sportnews des Tages
   description: |-
     Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
@@ -594,22 +606,21 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId:
   - 586343
   - 686396
   start: 2026-11-18T05:00:00Z
-  stop: 2026-11-18T05:20:00Z
+  stop: 2026-11-18T05:15:00Z
   title: Schweiz aktuell
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 586344
-  - 686397
-  start: 2026-11-18T05:20:00Z
-  stop: 2026-11-18T05:25:00Z
+- eventId: 735422
+  start: 2026-11-18T05:15:00Z
+  stop: 2026-11-18T05:20:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -619,6 +630,21 @@
   - '64'
   widescreen: true
   hd: true
+- eventId:
+  - 586344
+  - 686397
+  start: 2026-11-18T05:20:00Z
+  stop: 2026-11-18T05:40:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId:
   - 586345
   - 686398
@@ -630,11 +656,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 586346
-  - 686399
-  start: 2026-11-18T05:45:00Z
-  stop: 2026-11-18T05:50:00Z
+- eventId: 735410
+  start: 2026-11-18T05:40:00Z
+  stop: 2026-11-18T05:45:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -644,6 +668,21 @@
   - '64'
   widescreen: true
   hd: true
+- eventId:
+  - 586346
+  - 686399
+  start: 2026-11-18T05:45:00Z
+  stop: 2026-11-18T06:05:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId:
   - 586357
   - 686401
@@ -655,11 +694,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 649073
-  - 686405
-  start: 2026-11-18T06:10:00Z
-  stop: 2026-11-18T06:15:00Z
+- eventId: 735411
+  start: 2026-11-18T06:05:00Z
+  stop: 2026-11-18T06:10:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -670,6 +707,21 @@
   widescreen: true
   hd: true
 - eventId:
+  - 649073
+  - 686405
+  start: 2026-11-18T06:10:00Z
+  stop: 2026-11-18T06:30:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
+- eventId:
   - 649074
   - 686406
   start: 2026-11-18T06:15:00Z
@@ -679,6 +731,18 @@
   - '32'
   widescreen: true
   subtitled: true
+  hd: true
+- eventId: 735412
+  start: 2026-11-18T06:30:00Z
+  stop: 2026-11-18T06:40:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
   hd: true
 - eventId:
   - 649075
@@ -709,7 +773,7 @@
   - 649077
   - 686409
   start: 2026-11-18T07:00:00Z
-  stop: 2026-11-18T07:35:00Z
+  stop: 2026-11-18T07:30:00Z
   title: Kassensturz in Gebärdensprache
   subtitle: Entstelltes Gesicht nach Filler-Behandlung im Kosmetiksalon
   widescreen: true
@@ -718,6 +782,17 @@
   description: |-
     Faltenfreie Haut und volle Lippen - dank Unterspritzung mit Fillern. Illegalerweise bieten das online auch Beautysalons ohne Fachpersonal an. Mitunter mit gravierenden gesundheitlichen Folgen. Und: alkoholfreie Rotweine im Degustations-Test.
     Schweiz 2026
+- eventId: 735413
+  start: 2026-11-18T07:30:00Z
+  stop: 2026-11-18T08:05:00Z
+  title: Puls in Gebärdensprache
+  subtitle: Reflux - Was tun, wenn saures Aufstossen zum Dauerthema wird?
+  description: |-
+    Reflux ist weit verbreitet und für viele ein ständiger Begleiter im Alltag. So auch für «Puls»-Host Tama James-Vakeesan. Helfen ihr Medikamente? Oder reicht schon eine Lebensstiländerung? «Puls» zeigt, wie viel Geduld der Kampf gegen das saure Aufstossen braucht und welche Optionen es dabei gibt.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 649078
   - 686410
@@ -800,6 +875,19 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 735415
+  start: 2026-11-18T10:10:00Z
+  stop: 2026-11-18T11:20:00Z
+  title: Literaturclub
+  subtitle: Yvonne Eisenring zu Gast im «Literaturclub»
+  description: |-
+    Laura de Weck, Gerhard Pfister, Milo Rau und - als Gast - die Autorin und Schauspielerin Yvonne Eisenring diskutieren über «Pony Show» von Juli Zeh, «Fiasko» von Tony Tulathimutte, «Verrat an Hyun» von Renata Burckhardt sowie «Decreation» von der diesjährigen Nobelpreisträgerin Anne Carson.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 586381
   - 692238
@@ -813,6 +901,17 @@
   description: |-
     Faltenfreie Haut und volle Lippen - dank Unterspritzung mit Fillern. Illegalerweise bieten das online auch Beautysalons ohne Fachpersonal an. Mitunter mit gravierenden gesundheitlichen Folgen. Und: alkoholfreie Rotweine im Degustations-Test.
     Schweiz 2026
+- eventId: 735416
+  start: 2026-11-18T11:25:00Z
+  stop: 2026-11-18T11:55:00Z
+  title: Kassensturz
+  subtitle: Entstelltes Gesicht nach Filler-Behandlung im Kosmetiksalon
+  description: |-
+    Faltenfreie Haut und volle Lippen - dank Unterspritzung mit Fillern. Illegalerweise bieten das online auch Beautysalons ohne Fachpersonal an. Mitunter mit gravierenden gesundheitlichen Folgen. Und: alkoholfreie Rotweine im Degustations-Test.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 586382
   - 692239
@@ -840,6 +939,17 @@
   description: |-
     Faltenfreie Haut und volle Lippen - dank Unterspritzung mit Fillern. Illegalerweise bieten das online auch Beautysalons ohne Fachpersonal an. Mitunter mit gravierenden gesundheitlichen Folgen. Und: alkoholfreie Rotweine im Degustations-Test.
     Schweiz 2026
+- eventId: 735417
+  start: 2026-11-18T12:25:00Z
+  stop: 2026-11-18T12:55:00Z
+  title: Kassensturz
+  subtitle: Entstelltes Gesicht nach Filler-Behandlung im Kosmetiksalon
+  description: |-
+    Faltenfreie Haut und volle Lippen - dank Unterspritzung mit Fillern. Illegalerweise bieten das online auch Beautysalons ohne Fachpersonal an. Mitunter mit gravierenden gesundheitlichen Folgen. Und: alkoholfreie Rotweine im Degustations-Test.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 586400
   - 692246

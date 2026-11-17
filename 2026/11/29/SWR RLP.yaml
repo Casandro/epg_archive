@@ -14,6 +14,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 583092
   - 603407
@@ -29,6 +30,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 583153
   - 604472
@@ -107,13 +110,14 @@
   start: 2026-11-29T10:40:00Z
   stop: 2026-11-29T12:10:00Z
   title: Mein Gott, Anna!
-  subtitle: Spielfilm Deutschland 2008
+  subtitle: Fernsehfilm Deutschland 2008
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 583358
   - 598581
@@ -123,11 +127,14 @@
   start: 2026-11-29T12:10:00Z
   stop: 2026-11-29T13:40:00Z
   title: 'Das Kindermädchen: Mission Mauritius'
-  subtitle: Spielfilm Deutschland 2017
+  subtitle: Fernsehfilm Deutschland 2017
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 583359
   - 598582
@@ -158,6 +165,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 583410
   - 603755
@@ -290,7 +299,7 @@
   - 775975
   start: 2026-11-29T19:15:00Z
   stop: 2026-11-29T20:00:00Z
-  title: Unsere Wälder (1)
+  title: Unsere Wälder (1/2)
   subtitle: Netzwerk der Tiere
   widescreen: true
   subtitled: true
@@ -304,7 +313,7 @@
   - 775976
   start: 2026-11-29T20:00:00Z
   stop: 2026-11-29T20:45:00Z
-  title: Unsere Wälder (2)
+  title: Unsere Wälder (2/3)
   subtitle: Mut zur Lücke
   widescreen: true
   subtitled: true
