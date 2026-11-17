@@ -206,7 +206,9 @@
   title: Un posto al sole
   subtitle: SOAP OPERA - La scoperta che Alberto è interessato ad acquistare la casa mette ulteriore pressione a Silvia e Michele, che cercheranno di correre ai ripari, Renato, preso fra due fuochi, sarà costretto a prendere la sua decisione
   description: ". - Una produzione Rai Fiction, Fremantlemedia e Centro di Produzione Rai di Napoli\nun programma ideato da W. Doyle, G. Ventriglia e A. Bowen \nScritto da Paolo Terracciano, Guglielmo Finazzer, Sara Rescigno, Athos Zontini\nRegia di Stefano Amatucci, Alberto Bader, Cristiano Celeste, Giosuè De Falco, Bruno De Paola, Monica Massa, Bruno Nappi, Giuseppe Eusepi\nproduttore creativo Fremantlemedia Fabio Sabbioni\nproduttore CPTV Napoli Cinzia Guzzi\nproduttore Rai Fiction Daniela Troncelliti\nSerie XXX \nUn programma con audiodescrizione"
-- eventId: 666441
+- eventId:
+  - 666441
+  - 739104
   start: 2026-11-17T20:15:00Z
   stop: 2026-11-17T23:00:00Z
   title: Filorosso
@@ -214,9 +216,15 @@
   description: |-
     Conduce Antonino Monteleone
     Regia Francesca Tassinari
-- eventId: 666446
+  genre:
+  - '16'
+- eventId:
+  - 666446
+  - 739055
   start: 2026-11-17T23:00:00Z
   stop: 2026-11-18T00:00:00Z
   title: TG3 Linea Notte
   subtitle: NOTIZIARIO.
   description: a cura di Guido Torlai
+  genre:
+  - '16'
