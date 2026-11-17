@@ -2,9 +2,26 @@
   - 549868
   - 731777
   start: 2026-12-10T00:00:00Z
-  stop: 2026-12-10T00:48:00Z
+  stop: 2026-12-10T00:33:00Z
   title: Westend Girl (2/6)
   subtitle: Shibuya Dreams
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 737798
+  start: 2026-12-10T00:33:00Z
+  stop: 2026-12-10T00:35:00Z
+  title: Tagesschau
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 737799
+  start: 2026-12-10T00:35:00Z
+  stop: 2026-12-10T00:48:00Z
+  title: Die Büffel sind los!
+  subtitle: Spielfilm Deutschland 2016
+  genre:
+  - '16'
   widescreen: true
   subtitled: true
   hd: true
@@ -48,6 +65,13 @@
   description: Wie wird das Wetter? Sonne in Stuttgart, Nebel in Nürnberg, Bremen bewölkt? Hier gibt's die aktuellen Wetterprognosen.
   genre:
   - '16'
+- eventId: 737800
+  start: 2026-12-10T02:05:00Z
+  stop: 2026-12-10T03:20:00Z
+  title: maischberger
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 549871
   - 568539
@@ -66,6 +90,13 @@
   start: 2026-12-10T02:20:00Z
   stop: 2026-12-10T03:35:00Z
   title: maischberger
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 737801
+  start: 2026-12-10T03:20:00Z
+  stop: 2026-12-10T03:58:00Z
+  title: Brisant
   widescreen: true
   subtitled: true
   hd: true
@@ -240,6 +271,7 @@
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: 'Moderation: Claudia Kleinert'
 - eventId:
   - 559526
   - 731931

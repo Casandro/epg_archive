@@ -1133,17 +1133,27 @@
   audiodesc: true
   subtitled: true
   description: 'Das reiche Deutschland liegt beim Wohlbefinden von Kindern nur auf Platz 25 von 37 EU- und OECD-Ländern. Felix Neureuther fragt deshalb: Wie kinderfreundlich ist Deutschland? Für die Abschlussdokumentation zur ARD-Mitmachaktion trifft er Familien und Kinder, bei denen die staatliche Unterstützung nicht ankommt, der Schulweg gefährlich oder Ballspielen verboten ist - und Menschen, die zeigen, was sich verbessern lässt.'
-- eventId: 737380
+- eventId:
+  - 737380
+  - 737789
   start: 2026-11-21T22:05:00Z
   stop: 2026-11-21T22:10:00Z
   title: Extra
   description: Extra wird täglich aktuell im Programm von tagesschau24 eingesetzt. Extra schließt Lücken und informiert den Zuschauer in kurzen aktuellen Filmen aus den Bereichen Politik, Wirtschaft und Gesellschaft. Extra gibt es nur bei tagesschau24.
-- eventId: 737381
+  widescreen: true
+  hd: true
+  audiodesc: true
+- eventId:
+  - 737381
+  - 737790
   start: 2026-11-21T22:10:00Z
   stop: 2026-11-21T22:30:00Z
   title: Tagesthemen
   subtitle: mit Wetter
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 543161
   - 556723
@@ -1164,7 +1174,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 737382
+- eventId:
+  - 737382
+  - 737791
   start: 2026-11-21T22:30:00Z
   stop: 2026-11-21T23:15:00Z
   title: Panorama 3
@@ -1172,6 +1184,9 @@
     Thema der Sendung:
     * Die Augenarzt-Mafia - Wie sie Patienten systematisch abzocken
     Sie kassieren hohe Summen, schüchtern Kritiker ein und verdrängen Konkurrenten: Große Augenarztketten breiten sich weiter aus und betreiben offenbar systematische Abzocke. Das zeigen neue Recherchen des NDR auf Basis von Hunderten Behandlungsverträgen und Abrechnungen betroffener Patienten. Der Schaden dürfte insgesamt Hunderte Millionen betragen.
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 543162
   - 556724
@@ -1203,10 +1218,15 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 737383
+- eventId:
+  - 737383
+  - 737792
   start: 2026-11-21T23:15:00Z
   stop: 2026-11-21T23:30:00Z
   title: Tagesschau vor 20 Jahren
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 543163
   - 551490
@@ -1234,11 +1254,16 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 737391
+- eventId:
+  - 737391
+  - 737793
   start: 2026-11-21T23:30:00Z
   stop: 2026-11-22T00:00:00Z
   title: Ulrich Timm im Gespräch mit Prof. Tom Mannewitz
   subtitle: Prof. für politischen Extremismus, Hochschule des Bundes
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 543164
   - 551491

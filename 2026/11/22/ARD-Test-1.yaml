@@ -1,3 +1,11 @@
+- eventId: 737786
+  start: 2026-11-22T00:05:00Z
+  stop: 2026-11-22T00:10:00Z
+  title: Tagesschau
+  description: Die Nachrichten der ARD
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 542783
   - 544241
@@ -7,12 +15,15 @@
   - 687474
   - 718888
   start: 2026-11-22T00:10:00Z
-  stop: 2026-11-22T00:15:00Z
-  title: Tagesschau
+  stop: 2026-11-22T01:40:00Z
+  title: Mordach - Blutiger Schnee (1/2)
   widescreen: true
   subtitled: true
   hd: true
-  description: Die Nachrichten der ARD
+  description: Im Bergdorf Mordach folgt das Leben wie gottgewollt den Jahreszeiten, ehernen Regeln und den Kräfteverhältnissen der Alteingesessenen - bis ein rätselhafter Mord die vermeintlich heile Welt erschüttert.
+  subtitle: Spielfilm Deutschland 2026
+  genre:
+  - '16'
 - eventId:
   - 542784
   - 544242
@@ -31,6 +42,17 @@
   subtitled: true
   hd: true
   description: Im Bergdorf Mordach folgt das Leben wie gottgewollt den Jahreszeiten, ehernen Regeln und den Kräfteverhältnissen der Alteingesessenen - bis ein rätselhafter Mord die vermeintlich heile Welt erschüttert.
+- eventId: 737787
+  start: 2026-11-22T01:40:00Z
+  stop: 2026-11-22T03:05:00Z
+  title: Mordach - Blutiger Schnee (2/2)
+  subtitle: Spielfilm Deutschland 2026
+  description: 'Was mit einem rätselhaften Kriminalfall beginnt, zieht eine Blutspur durchs idyllische Mordach: Im zweiten Film des Zweiteilers stemmt sich Sarah Bauerett als taffe Ermittlerin gegen korrupte Machtverhältnisse und eine tödliche Kettenreaktion - ohne zu ahnen, wer wirklich hinter dem Mord an ihrer Freundin Lisa steckt.'
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 542785
   - 544243
@@ -90,6 +112,14 @@
   ageRating: 12
   genre:
   - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 737788
+  start: 2026-11-22T03:05:00Z
+  stop: 2026-11-22T03:43:00Z
+  title: Brisant
+  description: 'BRISANT ist das Infotainment-Magazin der ARD und erzählt die Geschichten des Lebens aus aller Welt: Nachrichten, Hintergründe, Reportagen über den Klimawandel, Service, Trends, Lifestyle und Neuigkeiten von Prominenten.'
   widescreen: true
   subtitled: true
   hd: true
