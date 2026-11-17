@@ -297,7 +297,7 @@
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
 - eventId: 728290
   start: 2026-11-19T05:54:00Z
-  stop: 2026-11-19T06:00:00Z
+  stop: 2026-11-19T05:58:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -459,14 +459,16 @@
   description: Kratki pregled vijesti iz Hrvatske i svijeta.
 - eventId: 728308
   start: 2026-11-19T08:30:00Z
-  stop: 2026-11-19T12:00:00Z
+  stop: 2026-11-19T09:00:00Z
   title: Žrtva Borovo naselja za Domovinu, prijenos
   subtitle: Prijenos sjednice Hrvatskog sabora.
   ageRating: 4
   genre:
   - '160'
   description: Prijenos sjednice Hrvatskog sabora.
-- eventId: 736918
+- eventId:
+  - 736918
+  - 741791
   start: 2026-11-19T09:00:00Z
   stop: 2026-11-19T12:00:00Z
   title: Prijenos sjednice Hrvatskog sabora
@@ -510,7 +512,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 728313
   start: 2026-11-19T12:35:00Z
-  stop: 2026-11-19T12:45:00Z
+  stop: 2026-11-19T12:43:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -520,6 +522,7 @@
 - eventId:
   - 735554
   - 736919
+  - 741792
   start: 2026-11-19T12:43:00Z
   stop: 2026-11-19T12:48:00Z
   title: Poslovne vijesti
@@ -543,6 +546,7 @@
 - eventId:
   - 735555
   - 736920
+  - 741793
   start: 2026-11-19T12:48:00Z
   stop: 2026-11-19T12:56:00Z
   title: 'Studio 4: Znanost'
@@ -566,6 +570,7 @@
 - eventId:
   - 735556
   - 736921
+  - 741794
   start: 2026-11-19T12:56:00Z
   stop: 2026-11-19T13:00:00Z
   title: Bez komentara
@@ -992,6 +997,7 @@
 - eventId:
   - 735875
   - 736922
+  - 741795
   start: 2026-11-19T19:57:00Z
   stop: 2026-11-19T20:00:00Z
   title: Bez komentara
@@ -1016,6 +1022,7 @@
 - eventId:
   - 735876
   - 736923
+  - 741796
   start: 2026-11-19T20:00:00Z
   stop: 2026-11-19T20:44:00Z
   title: Pregled dana
@@ -1047,6 +1054,7 @@
 - eventId:
   - 735877
   - 736924
+  - 741797
   start: 2026-11-19T20:46:00Z
   stop: 2026-11-19T21:12:00Z
   title: 'DW: Global Us'
@@ -1078,6 +1086,7 @@
 - eventId:
   - 735878
   - 736925
+  - 741798
   start: 2026-11-19T21:14:00Z
   stop: 2026-11-19T21:43:00Z
   title: Svijet znanosti
@@ -1086,6 +1095,7 @@
 - eventId:
   - 735879
   - 736926
+  - 741799
   start: 2026-11-19T21:43:00Z
   stop: 2026-11-19T22:03:00Z
   title: 'Studio 4: Zelena linija'
@@ -1117,6 +1127,7 @@
 - eventId:
   - 735880
   - 736927
+  - 741800
   start: 2026-11-19T22:03:00Z
   stop: 2026-11-19T22:07:00Z
   title: '#REPORTAŽE: Odi s nama'
