@@ -676,12 +676,6 @@
 - eventId:
   - 736900
   - 741772
-  start: 2026-11-18T12:43:00Z
-  stop: 2026-11-18T12:47:00Z
-  title: Poslovne vijesti
-  subtitle: ' '
-  description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId:
   - 748152
   - 749265
   - 750267
@@ -698,12 +692,14 @@
   stop: 2026-11-18T12:47:00Z
   title: Poslovne vijesti
   subtitle: Seriju Moj izbor BiH nastavljamo s četiri nove epizode.
+  description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
   genre:
   - '160'
-  description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
 - eventId:
   - 706318
+  - 736901
+  - 741773
   - 748153
   - 749266
   - 750268
@@ -724,14 +720,6 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId:
-  - 736901
-  - 741773
-  start: 2026-11-18T12:47:00Z
-  stop: 2026-11-18T12:54:00Z
-  title: 'Studio 4: Znanost'
-  subtitle: ' '
-  description: Kratki pregled aktualnosti iz svijeta znanosti.
 - eventId:
   - 736902
   - 741774
@@ -873,12 +861,6 @@
 - eventId:
   - 736904
   - 741776
-  start: 2026-11-18T13:40:00Z
-  stop: 2026-11-18T13:45:00Z
-  title: Bez komentara
-  subtitle: ' '
-  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId:
   - 748156
   - 749269
   - 750271
@@ -895,10 +877,10 @@
   stop: 2026-11-18T13:45:00Z
   title: Bez komentara
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
-  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 706321
   - 748157
@@ -968,6 +950,7 @@
 - eventId:
   - 736908
   - 741780
+  - 750275
   start: 2026-11-18T14:04:00Z
   stop: 2026-11-18T14:12:00Z
   title: 'Studio 4: Kultura'
