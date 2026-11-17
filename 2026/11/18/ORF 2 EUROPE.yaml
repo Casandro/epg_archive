@@ -193,7 +193,9 @@
   title: ZIB
   genre:
   - '33'
-- eventId: 735456
+- eventId:
+  - 735456
+  - 735511
   start: 2026-11-18T07:08:30Z
   stop: 2026-11-18T07:30:00Z
   title: Guten Morgen Österreich
@@ -318,11 +320,24 @@
   title: Seitenblicke
   genre:
   - '35'
+- eventId: 735512
+  start: 2026-11-18T13:16:09Z
+  stop: 2026-11-18T13:20:39Z
+  title: Seitenblicke
+  genre:
+  - '35'
 - eventId:
   - 592718
   - 690167
   start: 2026-11-18T13:20:00Z
   stop: 2026-11-18T13:45:00Z
+  title: Silvia kocht
+  description: "Die tägliche Kochsendung mit Silvia Schneider und den besten Profiköchinnen und -köchen Österreichs. \nJede Woche steht ein anderes Bundesland mit seinen Produkten und regionalen Produzenten im Mittelpunkt. Eine Köchin bzw. ein Koch aus der Region bereitet in einfachen, nachvollziehbaren Schritten in den Studiosendungen zwei Gerichte, die die Freude am Kochen wecken sollen, zu."
+  genre:
+  - '165'
+- eventId: 735513
+  start: 2026-11-18T13:21:43Z
+  stop: 2026-11-18T13:46:43Z
   title: Silvia kocht
   description: "Die tägliche Kochsendung mit Silvia Schneider und den besten Profiköchinnen und -köchen Österreichs. \nJede Woche steht ein anderes Bundesland mit seinen Produkten und regionalen Produzenten im Mittelpunkt. Eine Köchin bzw. ein Koch aus der Region bereitet in einfachen, nachvollziehbaren Schritten in den Studiosendungen zwei Gerichte, die die Freude am Kochen wecken sollen, zu."
   genre:
@@ -335,6 +350,16 @@
   title: Hinter den Schlagzeilen
   genre:
   - '51'
+- eventId: 735514
+  start: 2026-11-18T15:24:34Z
+  stop: 2026-11-18T15:54:34Z
+  title: Hinter den Schlagzeilen
+  subtitle: 'Livia Hofer & Prof. Thomas Berger zu: "Nicholas Ofczarek macht MS-Diagnose öffentlich"'
+  description: |-
+    Vor kurzem hat Schauspieler Nicholas Ofczarek über sein Leben mit Multipler Sklerose öffentlich gesprochen.
+    Bei Patrick Budgen erzählen Livia Hofer & Prof. Thomas Berger, wie man heutzutage gut mit einer solchen Erkrankung leben kann und wie wichtig hier die Früherkennung ist. Bei Livia Hofer wurde vor 14 Jahren MS diagnostiziert. Prof. Thomas Berger ist Vorstand der Universitätsklinik für Neurologie im Wiener AKH und einer der führenden MS-Forscher des Landes.
+  genre:
+  - '51'
 - eventId:
   - 592745
   - 694185
@@ -345,7 +370,7 @@
   - 592746
   - 694186
   start: 2026-11-18T16:00:00Z
-  stop: 2026-11-18T16:05:00Z
+  stop: 2026-11-18T16:05:30Z
   title: ZIB
   genre:
   - '33'
@@ -357,6 +382,18 @@
   title: Aktuell nach fünf
   genre:
   - '34'
+- eventId: 735515
+  start: 2026-11-18T16:07:40Z
+  stop: 2026-11-18T16:26:40Z
+  title: Aktuell nach fünf
+  genre:
+  - '34'
+- eventId: 735516
+  start: 2026-11-18T16:28:12Z
+  stop: 2026-11-18T17:25:42Z
+  title: Studio 2
+  genre:
+  - '160'
 - eventId:
   - 592748
   - 694248
@@ -383,6 +420,14 @@
   start: 2026-11-18T17:44:00Z
   stop: 2026-11-18T17:45:00Z
   title: infos & tipps
+- eventId: 735517
+  start: 2026-11-18T17:44:40Z
+  stop: 2026-11-18T17:45:55Z
+  title: infos & tipps
+- eventId: 735518
+  start: 2026-11-18T17:47:51Z
+  stop: 2026-11-18T17:53:46Z
+  title: Lotto 6 aus 45 mit Joker
 - eventId:
   - 592751
   - 696863
@@ -399,7 +444,7 @@
   - 592888
   - 696867
   start: 2026-11-18T18:00:00Z
-  stop: 2026-11-18T18:24:00Z
+  stop: 2026-11-18T18:21:40Z
   title: Steiermark heute
 - eventId:
   - 592889
@@ -417,6 +462,18 @@
   title: Wetter
   genre:
   - '33'
+- eventId: 735519
+  start: 2026-11-18T18:51:20Z
+  stop: 2026-11-18T18:52:50Z
+  title: Wetter
+  genre:
+  - '33'
+- eventId: 735520
+  start: 2026-11-18T18:55:53Z
+  stop: 2026-11-18T18:59:43Z
+  title: Sport Aktuell
+  genre:
+  - '64'
 - eventId:
   - 592891
   - 697412
@@ -425,6 +482,12 @@
   title: Sport Aktuell
   genre:
   - '64'
+- eventId: 735521
+  start: 2026-11-18T19:03:37Z
+  stop: 2026-11-18T19:08:07Z
+  title: Seitenblicke
+  genre:
+  - '35'
 - eventId:
   - 592892
   - 697413
@@ -438,6 +501,12 @@
   - 698029
   start: 2026-11-18T20:50:00Z
   stop: 2026-11-18T20:55:00Z
+  title: Autofocus
+  subtitle: Kleine unter Strom
+  description: Elektromobilität muss nicht immer über große Reichweiten, leistungsstarke Batterien und hohe Ladeleistungen definiert werden. Gerade im Stadt- und Pendelverkehr können kleinere Elektroautos durch Wendigkeit, geringeren Platzbedarf und überschaubaren Energieverbrauch überzeugen. Gleichzeitig bieten auch kompakte Modelle zunehmend moderne Assistenzsysteme, mehr Komfort und ein überraschend großzügiges Raumangebot. Wichtig bleibt die richtige Balance zwischen Reichweite, Batteriegröße und Alltagstauglichkeit, denn nicht die Größe eines Fahrzeugs bestimmt seinen Nutzen, sondern wie gut es zu den tatsächlichen Bedürfnissen passt.
+- eventId: 735522
+  start: 2026-11-18T20:50:18Z
+  stop: 2026-11-18T20:55:39Z
   title: Autofocus
   subtitle: Kleine unter Strom
   description: Elektromobilität muss nicht immer über große Reichweiten, leistungsstarke Batterien und hohe Ladeleistungen definiert werden. Gerade im Stadt- und Pendelverkehr können kleinere Elektroautos durch Wendigkeit, geringeren Platzbedarf und überschaubaren Energieverbrauch überzeugen. Gleichzeitig bieten auch kompakte Modelle zunehmend moderne Assistenzsysteme, mehr Komfort und ein überraschend großzügiges Raumangebot. Wichtig bleibt die richtige Balance zwischen Reichweite, Batteriegröße und Alltagstauglichkeit, denn nicht die Größe eines Fahrzeugs bestimmt seinen Nutzen, sondern wie gut es zu den tatsächlichen Bedürfnissen passt.
