@@ -833,7 +833,9 @@
   genre:
   - '160'
   description: Prijenos sjednice Hrvatskog sabora.
-- eventId: 731501
+- eventId:
+  - 731501
+  - 733221
   start: 2026-11-17T08:30:00Z
   stop: 2026-11-17T12:00:00Z
   title: Prijenos sjednice Hrvatskog sabora
@@ -854,20 +856,14 @@
 - eventId:
   - 718090
   - 719673
-  - 729225
-  - 729563
-  - 731336
-  start: 2026-11-17T09:30:00Z
-  stop: 2026-11-17T12:00:00Z
-  title: Prijenos sjednice Hrvatskog sabora
-  subtitle: ' '
-  description: Prijenos sjednice Hrvatskog sabora.
-- eventId:
   - 724589
   - 725076
   - 727034
   - 728442
+  - 729225
+  - 729563
   - 729730
+  - 731336
   - 732014
   - 732754
   start: 2026-11-17T09:30:00Z
