@@ -59,6 +59,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Mons. Lingua boravio je u Svetoj Zemlji i posjetio zajednicu u Jerihonu gdje se susreo s civilnim vlastima te posjetio svetište Dobrog Pastira u koje se vraćaju hodočasnici. Kako bi se Tiberijadsko jezero spasilo od suše, desalinizirana voda sredozemnog mora dovodi se cijevima i upumpava u Tiberijadsko jezero. Povjerenici Svete Zemlje boravili su u Egiptu, u Kairu na danima susreta, zajedništva i razlučivanja.
 - eventId: 639061
   start: 2026-11-18T03:19:00Z
   stop: 2026-11-18T03:39:00Z
@@ -148,25 +149,21 @@
 - eventId:
   - 714311
   - 717939
+  - 728732
   start: 2026-11-18T05:33:00Z
   stop: 2026-11-18T05:57:00Z
   title: Krunica, Krunica Blažene Djevice Marije
-  subtitle: Religijski
+  subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
   description: Molimo zajedno molitvu Krunice Blažene Djevice Marije.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 717983
   start: 2026-11-18T05:33:00Z
   stop: 2026-11-18T06:00:00Z
   title: Osobna posveta Bezgrješnom Srcu Marijinu
   subtitle: Religijski
   description: Osobna posveta Bezgrješnom Srcu Marijinu
-- eventId: 728732
-  start: 2026-11-18T05:33:00Z
-  stop: 2026-11-18T05:57:00Z
-  title: Krunica
-  subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
-  ageRating: 4
-  genre:
-  - '160'
 - eventId: 714312
   start: 2026-11-18T05:57:00Z
   stop: 2026-11-18T05:59:00Z
@@ -177,16 +174,12 @@
 - eventId:
   - 714313
   - 717940
+  - 728733
   start: 2026-11-18T05:59:00Z
   stop: 2026-11-18T06:45:00Z
   title: 'Sveta Misa: Svetište Majke Božje Remetske, Zagreb, Sveta Misa: Zagreb'
-  subtitle: Religijski
-  description: Sveta Misa iz Svetišta Majke Božje Remetske u Zagrebu.
-- eventId: 728733
-  start: 2026-11-18T05:59:00Z
-  stop: 2026-11-18T06:45:00Z
-  title: 'Sveta Misa: Svetište Majke Božje Remetske, Zagreb'
   subtitle: Sveta Misa iz Svetišta Majke Božje Remetske u Zagrebu.
+  description: Sveta Misa iz Svetišta Majke Božje Remetske u Zagrebu.
   ageRating: 4
   genre:
   - '160'
@@ -225,7 +218,7 @@
   - 639087
   - 751717
   start: 2026-11-18T06:55:00Z
-  stop: 2026-11-18T06:59:00Z
+  stop: 2026-11-18T07:00:00Z
   title: Katolički kalendar
   subtitle: '"Katolički kalendar" emisija je informativno-edukativnog karaktera, kojoj je cilj gledateljima kroz riječ i sliku približiti svetice, svetce, blaženice i blaženike Katoličke Crkve, te određene...'
   description: Katolički kalendar' emisija je informativno-edukativnog karaktera, kojoj je cilj gledateljima kroz riječ i sliku približiti svetice, svetce, blaženice i blaženike Katoličke Crkve, te određene blagdane i liturgijsko vrijeme.
@@ -243,6 +236,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 748362
+  start: 2026-11-18T07:00:00Z
+  stop: 2026-11-18T07:03:00Z
+  title: Mali katekizam, Mali katekizam
+  subtitle: Religijski
+  description: Mali katekizam poučava koji su dijelovi Mise.
 - eventId:
   - 639089
   - 751719
@@ -254,6 +253,12 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 748363
+  start: 2026-11-18T07:03:00Z
+  stop: 2026-11-18T07:29:00Z
+  title: Superknjiga
+  subtitle: Animirani
+  description: Ela i Kvantumi pomažu oko humanitarne pomoći stradalima u prirodnoj katastrofi. Međutim, okolnosti su tako naporne da Ela uskoro shvati da nema snage za nastavak, iako bi jako voljela pomoći. U njenom najtežem trenutku, Superknjiga odvodi djecu natrag u vrijeme gdje susreću čovjeka koji je također suočen s nevoljama. Djeca dolaze na brod koji prevozi zatvorenika, imenom Pavao, kako bi ga predali vlastima u Rimu. Prije dolaska u Rim, Pavao se suočava s raznim katastrofama i kad se putovanje činilo najgorim, Bog mu daje snagu da nastavi, pa čak i pomogne drugima u njihovim najmračnijim satima. Ela je ohrabrena sudjelovanjem na Pavlovom putovanju i svjedočenju njegovim čudima na Malti. Ela se zatim, kroz vrijeme, vraća na mjesto humanitarne pomoći toliko ispunjena Duhom da ju nijedna teškoća ne može zaustaviti.
 - eventId:
   - 639090
   - 751720
@@ -274,6 +279,11 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 748364
+  start: 2026-11-18T08:01:00Z
+  stop: 2026-11-18T08:10:00Z
+  title: Živa riječ
+  subtitle: Religijski
 - eventId:
   - 639092
   - 751721
@@ -284,6 +294,16 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 748365
+  start: 2026-11-18T08:12:00Z
+  stop: 2026-11-18T08:49:00Z
+  title: Domovinu volim, Domovinu volim
+  subtitle: Glazbeni
+- eventId: 748366
+  start: 2026-11-18T08:49:00Z
+  stop: 2026-11-18T10:04:00Z
+  title: Papa s nama
+  subtitle: Religijski
 - eventId:
   - 639093
   - 751722
@@ -294,6 +314,11 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 748379
+  start: 2026-11-18T10:04:00Z
+  stop: 2026-11-18T10:49:00Z
+  title: Vukovar - 15. postaja križnog puta
+  description: Kristov je križ locus memoriae boli i trpljenja Pravednika u čijoj se horizontali kao u raskriljenim rukama sabire osobna i kolektivna patnja vjerničkoga puka. Ikonografski okvir od četrnaest postaja stoga ima egzistencijalnu dopunu u petnaestoj postaji s realnim životnim kronotopom. Petnaesta postaja ustisnuta je u stvarnost vukovarske kalvarije majki i očeva koji kroz pet dugih godina traže svoje sinove, žive ili mrtve. Pred neopisivim teretom njihove tragedije, autor filma postaje Šimun Cirenac koji njihov križ podupire filmskom kamerom.
 - eventId:
   - 639129
   - 751737
@@ -316,11 +341,16 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 748380
+  start: 2026-11-18T10:50:00Z
+  stop: 2026-11-18T11:00:00Z
+  title: Put spasa - Kukuruzni put, Prilozi o Vukovaru SHKM 2017
+  description: Kukuruzni put naziv je poljskog puta koji je, u vrijeme Domovinskog rata, vodio od Vukovara prema zapadu. Bio je to jedini put koji je povezivao Vukovar s ostatkom Hrvatske...
 - eventId:
   - 639131
   - 751739
   start: 2026-11-18T11:00:00Z
-  stop: 2026-11-18T11:02:00Z
+  stop: 2026-11-18T11:03:00Z
   title: Anđeo Gospodnji
   subtitle: Moliti znači razgovarati s Bogom. Zajedno uz program Laudato TV dodatno osnažite vezu sa svojim Ocem.
   ageRating: 4
@@ -339,6 +369,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 748381
+  start: 2026-11-18T11:03:00Z
+  stop: 2026-11-18T12:00:00Z
+  title: Fra Marko Kurolt - samozatajni heroj
+  subtitle: Dokumentarni
+  description: |-
+    Fra Marko Kurolt - samozatajni heroj
+    Film nastao na temelju autobiografskog djela Treba li sve zaboraviti donosi priču o fratru koji je za vrijeme Domovinskog rata došao u razoreni Vukovar i spasio kulturno blago samostana. Fra Marko Kurolt - čovjek koji je tiho, gotovo nečujno govorio, ali snaga njegova govora nije se ni do danas izgubila.
 - eventId:
   - 639153
   - 751765
@@ -350,6 +388,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 748394
+  start: 2026-11-18T12:01:00Z
+  stop: 2026-11-18T13:00:00Z
+  title: Novo srce
+  subtitle: Religijski
+  description: U goste fra Ivanu Matiću došao je vukovarski branitelj i glazbenik Zoran Hornjak. Odrastanje u multikulturalnom Vukovaru i gubitak oca pripremili su ga za ratna stradanja. Podijelio je uistinu zanimljivo svjedočanstvo o danima okupacije Vukovara i sve to popratio pjesmom.
 - eventId:
   - 639154
   - 751766
@@ -361,6 +405,11 @@
   ageRating: 4
   genre:
   - '128'
+- eventId: 748395
+  start: 2026-11-18T13:02:00Z
+  stop: 2026-11-18T13:15:00Z
+  title: Sveti Bono, Prilozi o Vukovaru SHKM 2017
+  description: Ususret Susretu hrvatske katoličke mladeži u Vukovaru 2017. godine, napravljeno je nekoliko kratkih filmova koji prikazuju različite aspekte života u gradu Vukovaru, kao i važne povijesne činjenice. Priča o zaštitniku "Grada Heroja" koja traje od 17. stoljeća...
 - eventId:
   - 639155
   - 751767
@@ -372,6 +421,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 748396
+  start: 2026-11-18T13:16:00Z
+  stop: 2026-11-18T14:00:00Z
+  title: Izdvojeno
+  subtitle: Religijski
+  description: 'Uoči Dana sjećanja na žrtve Domovinskog rata i Dana sjećanja na žrtvu Vukovara i Škabrnje donosimo nadahnjujući razgovor o povijesnoj odgovornosti, duhovnosti i mladima koji danas grade bolju Hrvatsku. Gdje mladi danas pronalaze istinu o obrani domovine i kako statističke podatke iz udžbenika pretvoriti u živa, opipljiva svjedočanstva? U vremenu kada svjedoka vremena polako nestaje, osječki SKAC nudi odgovor kroz jedinstvenu inicijativu ,,Umjesto njih. Umjesto koga koračaju, s kojim ciljem i koji su plodovi Kolone sjećanja za mlade danas? Kako ih odgajati za zdravo domoljublje? Govore naši gosti: svećenik i branitelj p. Ivan Ike Mandurić i članovi SKAC-a Osijek - Domagoj Galić i Vlatka Ivančićević.'
 - eventId:
   - 639156
   - 751768
@@ -399,6 +454,11 @@
   stop: 2026-11-18T20:00:00Z
   title: Domovinu volim, Domovinu volim
   subtitle: Glazbeni
+- eventId: 748397
+  start: 2026-11-18T14:15:00Z
+  stop: 2026-11-18T14:25:00Z
+  title: Grad nade - mladi Vukovara, Prilozi o Vukovaru SHKM 2017
+  description: Ususret Susretu hrvatske katoličke mladeži u Vukovaru 2017. godine, napravljeno je nekoliko kratkih filmova koji prikazuju različite aspekte života u gradu Vukovaru, kao i važne povijesne činjenice. Ovaj video nam donosi priču o mladima koji nastoje ostvariti svoje talente...
 - eventId:
   - 639158
   - 751770
@@ -425,13 +485,17 @@
   - 639184
   - 751819
   start: 2026-11-18T16:00:00Z
-  stop: 2026-11-18T17:25:00Z
+  stop: 2026-11-18T17:21:00Z
   title: 'Sveta Misa: Vatikan, Sveta Misa: Vatikan'
   subtitle: Na 400. obljetnicu posvete Bazilike svetog Petra pratimo zajedno izravan prijenos iz Vatikana. Svečano euharistijsko slavlje u bazilici svetog Petra predslavit će papa Lav XIV.
   description: Na 400. obljetnicu posvete Bazilike svetog Petra pratimo zajedno izravan prijenos iz Vatikana. Svečano euharistijsko slavlje u bazilici svetog Petra predslavit će papa Lav XIV.
   ageRating: 4
   genre:
   - '160'
+- eventId: 748409
+  start: 2026-11-18T17:21:00Z
+  stop: 2026-11-18T17:40:00Z
+  title: Domoljubna glazba, Domoljubna glazba
 - eventId:
   - 639185
   - 751820
@@ -457,12 +521,19 @@
   - 639227
   - 751838
   start: 2026-11-18T19:10:00Z
-  stop: 2026-11-18T20:00:00Z
+  stop: 2026-11-18T19:59:00Z
   title: Izdvojeno
   subtitle: Emisija "Izdvojeno" pet dana u tjednu donosi aktualne teme iz života Crkve, priča neispričane priče o ljudima, zajednicama i brojnim drugim primjerima koji potiču na dobro i u čovjeku bude nadu.
   ageRating: 4
   genre:
   - '160'
+  description: Dan sjećanja na žrtve Domovinskog rata prilika je da se prisjetimo svih onih koji su prošli strahote rata, hrvatskih branitelja i civila, te žrtava srpskih koncentracijskih logora. Njihova svjedočanstva trajni su podsjetnik na patnju, stradanje i borbu za slobodu. O važnosti očuvanja sjećanja, prenošenju istine budućim generacijama i položaju bivših logoraša razgovaramo s Ivanom Turudićem, predsjednikom Hrvatskoga društva logoraša srpskih koncentracijskih logora Splitsko-dalmatinske županije.
+- eventId: 748418
+  start: 2026-11-18T19:59:00Z
+  stop: 2026-11-18T21:00:00Z
+  title: Blagoslovljen tek
+  subtitle: Religijski
+  description: Vukovar je simbol hrabrosti, otpora i žrtve, a iza njegove povijesti stoje ljudi čije priče ne smijemo zaboraviti. Iza jedne takve vukovarske ratne priče stoji novi domaćin emisije Marijan Capek, branitelj koji je sudjelovao u obrani Vukovara i prošao kroz ratno zatočeništvo. U kulinarskom dijelu priprema se wok s piletinom i povrćem.
 - eventId:
   - 639228
   - 719781
@@ -513,14 +584,16 @@
   - 714392
   - 718253
   start: 2026-11-18T22:31:00Z
-  stop: 2026-11-18T23:02:00Z
+  stop: 2026-11-18T22:55:00Z
   title: Krunica, Krunica Blažene Djevice Marije
   subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
   ageRating: 4
   genre:
   - '160'
   description: Molimo zajedno molitvu Krunice Blažene Djevice Marije.
-- eventId: 738749
+- eventId:
+  - 738749
+  - 748429
   start: 2026-11-18T22:55:00Z
   stop: 2026-11-18T23:02:00Z
   title: PQV33 Music - More od ruža (Gospa i njen Sin)
