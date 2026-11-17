@@ -18,14 +18,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 691511
   start: 2026-11-18T00:59:00Z
-  stop: 2026-11-18T01:22:00Z
+  stop: 2026-11-18T01:00:00Z
   title: 'Studio 4: Jutarnji intervju'
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 691512
+- eventId:
+  - 691512
+  - 736229
   start: 2026-11-18T01:00:00Z
   stop: 2026-11-18T01:02:00Z
   title: Vrijeme Svijet danas
@@ -34,7 +36,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 691513
+- eventId:
+  - 691513
+  - 736230
   start: 2026-11-18T01:02:00Z
   stop: 2026-11-18T01:22:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -72,14 +76,16 @@
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
 - eventId: 691517
   start: 2026-11-18T01:53:00Z
-  stop: 2026-11-18T01:56:00Z
+  stop: 2026-11-18T01:55:00Z
   title: 'Bez komentara: Ukrajina - Britanski princ Harry posjećuje ranjene u ratu'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 691518
+- eventId:
+  - 691518
+  - 736231
   start: 2026-11-18T01:55:00Z
   stop: 2026-11-18T02:00:00Z
   title: Poslovne vijesti
@@ -271,7 +277,9 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 691538
+- eventId:
+  - 691538
+  - 736233
   start: 2026-11-18T05:18:00Z
   stop: 2026-11-18T05:26:00Z
   title: 'Studio 4: Znanost'
@@ -280,7 +288,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 691539
+- eventId:
+  - 691539
+  - 736234
   start: 2026-11-18T05:26:00Z
   stop: 2026-11-18T05:56:00Z
   title: Otvoreno
@@ -297,7 +307,7 @@
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
 - eventId: 691540
   start: 2026-11-18T05:56:00Z
-  stop: 2026-11-18T05:58:00Z
+  stop: 2026-11-18T06:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
