@@ -162,10 +162,12 @@
   widescreen: true
 - eventId: 746429
   start: 2026-11-18T20:30:00Z
-  stop: 2026-11-18T21:30:00Z
+  stop: 2026-11-18T21:00:00Z
   title: Kapıkulenin Anahtarı Naim Süleymanoğlu
   widescreen: true
-- eventId: 749432
+- eventId:
+  - 749432
+  - 755628
   start: 2026-11-18T21:00:00Z
   stop: 2026-11-18T21:30:00Z
   title: Köy Havası
@@ -178,7 +180,7 @@
   widescreen: true
 - eventId: 746461
   start: 2026-11-18T22:00:00Z
-  stop: 2026-11-18T22:30:00Z
+  stop: 2026-11-18T23:10:00Z
   title: Köy Havası / 17
   widescreen: true
 - eventId:
@@ -187,7 +189,9 @@
   start: 2026-11-18T22:30:00Z
   stop: 2026-11-18T23:40:00Z
   title: Evde Konuşuruz / 18
-- eventId: 749433
+- eventId:
+  - 749433
+  - 755629
   start: 2026-11-18T23:10:00Z
   stop: 2026-11-19T00:10:00Z
   title: Benim Güzel Ailem
