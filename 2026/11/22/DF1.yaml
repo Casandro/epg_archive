@@ -107,11 +107,20 @@
   hd: true
 - eventId: 684400
   start: 2026-11-22T08:00:00Z
-  stop: 2026-11-22T09:00:00Z
+  stop: 2026-11-22T08:45:00Z
   title: Wetterpanorama
   description: DF1 präsentiert das neue Wetterpanorama und liefert den schönsten Live-Blick auf verschiedene Standorte in Deutschland und darüber hinaus. Berlin, Köln, München, Hamburg, Westerland und natürlich der Alpenraum - von belebten Städten bis hin zu malerischen Landschaften - mit Kamera Positionen im ganzen Land können DF1 Zuschauer das aktuelle Wettergeschehen vor Ort tagtäglich live mitverfolgen.
   genre:
   - '33'
+  widescreen: true
+  hd: true
+- eventId: 763583
+  start: 2026-11-22T08:45:00Z
+  stop: 2026-11-22T09:20:00Z
+  title: Genius
+  description: Entdecken Sie geniale Produkte, die Ihren Alltag erleichtern! Genius Shopping bietet innovative Lösungen, die Ihr Leben verbessern - von praktischen Haushaltshelfern bis zu Lifestyle-Produkten.
+  genre:
+  - '23'
   widescreen: true
   hd: true
 - eventId: 684410
@@ -123,8 +132,38 @@
   - '23'
   widescreen: true
   hd: true
+- eventId: 763584
+  start: 2026-11-22T09:20:00Z
+  stop: 2026-11-22T10:00:00Z
+  title: Grand Prix von Portugal
+  subtitle: 'Moto3: Vorbericht(Live: MotoGP Portugal: Moto3 Vorbericht)'
+  description: DF1 überträgt die Rennklassen der MotoGP, der Moto2 und der Moto3. Am Samstag zunächst die Qualifyings aller Klassen sowie das Sprintrennen der MotoGP. Am Sonntag folgt die Übertragung der Rennen aller drei Klassen inklusive ausführlicher Vorberichte, Analysen, Interviews und Hintergrund-Berichte. Moderiert werden die Rennen vom Kult-Duo Christian Brugger und Alex Hofmann, direkt von der Strecke melden sich abwechselnd Alina Marzi und Eve Scheer. Als Experten sind Stefan Bradl, Gustl Auinger und Sandro Cortese im Einsatz.
+  genre:
+  - '71'
+  widescreen: true
+  hd: true
+- eventId: 763585
+  start: 2026-11-22T10:00:00Z
+  stop: 2026-11-22T11:00:00Z
+  title: Grand Prix von Portugal
+  subtitle: 'Moto3: Rennen(Live: MotoGP Portugal: Moto3 Rennen)'
+  description: DF1 überträgt die Rennklassen der MotoGP, der Moto2 und der Moto3. Am Samstag zunächst die Qualifyings aller Klassen sowie das Sprintrennen der MotoGP. Am Sonntag folgt die Übertragung der Rennen aller drei Klassen inklusive ausführlicher Vorberichte, Analysen, Interviews und Hintergrund-Berichte. Moderiert werden die Rennen vom Kult-Duo Christian Brugger und Alex Hofmann, direkt von der Strecke melden sich abwechselnd Alina Marzi und Eve Scheer. Als Experten sind Stefan Bradl, Gustl Auinger und Sandro Cortese im Einsatz.
+  genre:
+  - '71'
+  widescreen: true
+  hd: true
 - eventId: 684411
   start: 2026-11-22T10:35:00Z
+  stop: 2026-11-22T11:15:00Z
+  title: Grand Prix von Portugal
+  subtitle: 'Moto2: Vorbericht(Live: MotoGP Portugal: Moto2 Vorbericht)'
+  description: DF1 überträgt die Rennklassen der MotoGP, der Moto2 und der Moto3. Am Samstag zunächst die Qualifyings aller Klassen sowie das Sprintrennen der MotoGP. Am Sonntag folgt die Übertragung der Rennen aller drei Klassen inklusive ausführlicher Vorberichte, Analysen, Interviews und Hintergrund-Berichte. Moderiert werden die Rennen vom Kult-Duo Christian Brugger und Alex Hofmann, direkt von der Strecke melden sich abwechselnd Alina Marzi und Eve Scheer. Als Experten sind Stefan Bradl, Gustl Auinger und Sandro Cortese im Einsatz.
+  genre:
+  - '71'
+  widescreen: true
+  hd: true
+- eventId: 763586
+  start: 2026-11-22T11:00:00Z
   stop: 2026-11-22T11:15:00Z
   title: Grand Prix von Portugal
   subtitle: 'Moto2: Vorbericht(Live: MotoGP Portugal: Moto2 Vorbericht)'
@@ -165,7 +204,7 @@
   hd: true
 - eventId: 685891
   start: 2026-11-22T13:45:00Z
-  stop: 2026-11-22T14:15:00Z
+  stop: 2026-11-22T14:25:00Z
   title: Grand Prix von Portugal
   subtitle: 'MotoGP: Analyse(Live: MotoGP Portugal: MotoGP Analyse)'
   description: DF1 überträgt die Rennklassen der MotoGP, der Moto2 und der Moto3. Am Samstag zunächst die Qualifyings aller Klassen sowie das Sprintrennen der MotoGP. Am Sonntag folgt die Übertragung der Rennen aller drei Klassen inklusive ausführlicher Vorberichte, Analysen, Interviews und Hintergrund-Berichte. Moderiert werden die Rennen vom Kult-Duo Christian Brugger und Alex Hofmann, direkt von der Strecke melden sich abwechselnd Alina Marzi und Eve Scheer. Als Experten sind Stefan Bradl, Gustl Auinger und Sandro Cortese im Einsatz.
@@ -183,6 +222,15 @@
   - '71'
   widescreen: true
   hd: true
+- eventId: 763587
+  start: 2026-11-22T14:25:00Z
+  stop: 2026-11-22T15:00:00Z
+  title: Die Sportdokumentation
+  subtitle: Karriere auf Eis - Das Comeback zweier Eishockey Cracks - Kurzversion
+  genre:
+  - '66'
+  widescreen: true
+  hd: true
 - eventId: 685893
   start: 2026-11-22T14:30:00Z
   stop: 2026-11-22T15:30:00Z
@@ -191,6 +239,16 @@
   description: DF1 überträgt die Rennklassen der MotoGP, der Moto2 und der Moto3. Am Samstag zunächst die Qualifyings aller Klassen sowie das Sprintrennen der MotoGP. Am Sonntag folgt die Übertragung der Rennen aller drei Klassen inklusive ausführlicher Vorberichte, Analysen, Interviews und Hintergrund-Berichte. Moderiert werden die Rennen vom Kult-Duo Christian Brugger und Alex Hofmann, direkt von der Strecke melden sich abwechselnd Alina Marzi und Eve Scheer. Als Experten sind Stefan Bradl, Gustl Auinger und Sandro Cortese im Einsatz.
   genre:
   - '71'
+  widescreen: true
+  hd: true
+- eventId: 763588
+  start: 2026-11-22T15:00:00Z
+  stop: 2026-11-22T18:05:00Z
+  title: Penny DEL Hauptrunde
+  subtitle: '18. Spieltag: Adler Mannheim - Kölner Haie'
+  description: 'Das Top-Spiel der PENNY DEL: Die größten Duelle und die besten Teams - in Deutschlands höchster Eishockey-Liga. Immer sonntags live und exklusiv im Free-TV.'
+  genre:
+  - '73'
   widescreen: true
   hd: true
 - eventId: 685896
