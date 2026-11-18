@@ -1896,14 +1896,16 @@
   description: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
 - eventId: 691605
   start: 2026-11-18T19:01:00Z
-  stop: 2026-11-18T19:05:00Z
+  stop: 2026-11-18T19:04:00Z
   title: '#REPORTAŽE: Amanda Mlinarić'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 772059
+- eventId:
+  - 772059
+  - 774005
   start: 2026-11-18T19:04:00Z
   stop: 2026-11-18T19:30:00Z
   title: Druga strana
@@ -2045,14 +2047,16 @@
   - '160'
 - eventId: 691616
   start: 2026-11-18T22:10:00Z
-  stop: 2026-11-18T22:20:00Z
+  stop: 2026-11-18T22:19:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
   genre:
   - '32'
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 772060
+- eventId:
+  - 772060
+  - 774006
   start: 2026-11-18T22:19:00Z
   stop: 2026-11-18T22:30:00Z
   title: Vijesti na španjolskom jeziku
@@ -2100,7 +2104,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 772061
+- eventId:
+  - 772061
+  - 774007
   start: 2026-11-18T22:53:00Z
   stop: 2026-11-18T22:58:00Z
   title: '#REPORTAŽE: Karla Beganović'
@@ -2119,7 +2125,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 772062
+- eventId:
+  - 772062
+  - 774008
   start: 2026-11-18T22:58:00Z
   stop: 2026-11-18T23:00:00Z
   title: Bez komentara
