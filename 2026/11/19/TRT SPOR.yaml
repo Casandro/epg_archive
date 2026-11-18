@@ -21,7 +21,9 @@
   start: 2026-11-19T03:58:00Z
   stop: 2026-11-19T04:00:00Z
   title: İstiklal Marşı
-  description: Milli Marşımızın okunması
+  description: Milli Marşımızın okunması.
+  subtitle: İstiklal marşımız..
+  widescreen: true
 - eventId:
   - 753191
   - 757080
@@ -32,6 +34,8 @@
   stop: 2026-11-19T04:30:00Z
   title: İspanya La Liga Özetler / 12
   description: İspanya La Liga'da haftanın karşılaşmalarının özet görüntüleri ekranlarınıza geliyor.
+  subtitle: İspanya La Liga maçlarından özet görüntüler ekrana geliyor.
+  widescreen: true
 - eventId:
   - 753192
   - 757081
@@ -41,6 +45,8 @@
   start: 2026-11-19T04:30:00Z
   stop: 2026-11-19T05:00:00Z
   title: SUUDİ ARABİSTAN PRO LİG ÖZETLER / 13
+  description: Suudi Arabistan Pro Lig maçlarından özet görüntüler..
+  widescreen: true
 - eventId:
   - 753193
   - 757082
@@ -51,6 +57,8 @@
   stop: 2026-11-19T07:00:00Z
   title: İLK BASKI
   description: Güne "ilk baskı" ile başlayın! Spor dünyasındaki tüm gelişmeleri önce "ilk baskı"dan alın! Süper Lig, 1. Lig ve Avrupa liglerinden maç özetleri, dünden kalanlar, sıcak gelişmeler ve günün spor gündemi İlk Baskı'da.
+  subtitle: Gündemin nabzı, sosyal medya gelişmeleri ve yabancı basın özetleri..
+  widescreen: true
 - eventId: 753194
   start: 2026-11-19T07:00:00Z
   stop: 2026-11-19T07:15:00Z
@@ -87,7 +95,7 @@
   widescreen: true
 - eventId: 753201
   start: 2026-11-19T10:20:00Z
-  stop: 2026-11-19T10:45:00Z
+  stop: 2026-11-19T11:00:00Z
   title: UEFA AVRUPA LİGİ ÖZETLER
   description: UEFA Avrupa Liginde haftanın karşılaşmalarının özet görüntüleri ekranlarınıza geliyor.
   widescreen: true
@@ -124,7 +132,7 @@
   widescreen: true
 - eventId: 753230
   start: 2026-11-19T15:00:00Z
-  stop: 2026-11-19T16:15:00Z
+  stop: 2026-11-19T16:30:00Z
   title: EZGİ SÜTCÜ İLE ANA HABER
   description: Spor dünyasında yaşanan gelişmelere, önemli şampiyonalara ve canlı yayınlara yer veriliyor. Futbola, basketbola, voleybola ve tenise dair önemli gelişmeler Ana Haber'de..
   widescreen: true
@@ -139,12 +147,25 @@
   title: UEFA AVRUPA LİGİ ÖZETLER
   description: UEFA Avrupa Liginde haftanın karşılaşmalarının özet görüntüleri ekranlarınıza geliyor.
   widescreen: true
+- eventId: 771384
+  start: 2026-11-19T16:30:00Z
+  stop: 2026-11-19T17:00:00Z
+  title: UEFA Avrupa Ligi Özetler
+  description: UEFA Avrupa Liginde haftanın karşılaşmalarının özet görüntüleri ekranlarınıza geliyor.
+  widescreen: true
 - eventId: 753232
   start: 2026-11-19T17:00:00Z
   stop: 2026-11-19T18:00:00Z
   title: SPOR MERKEZİ
   description: Spor dünyasındaki gelişmeler, canlı bağlantılar, son dakika haberleri, özel röportajlar ve sosyal medya yansımaları Spor Merkezi ile ekranlarınıza geliyor.  Spor Merkezi; en güncel haberleri sizlere aktarıyor.
   subtitle: Spor dünyasından en güncel haberler..
+  widescreen: true
+- eventId: 771385
+  start: 2026-11-19T17:00:00Z
+  stop: 2026-11-19T18:00:00Z
+  title: Spor Merkezi
+  subtitle: Spor dünyasından en güncel haberler..
+  description: Spor dünyasındaki gelişmeler, canlı bağlantılar, son dakika haberleri, özel röportajlar ve sosyal medya yansımaları Spor Merkezi ile ekranlarınıza geliyor.Spor Merkezi, en güncel haberleri sizlere aktarıyor.
   widescreen: true
 - eventId: 753249
   start: 2026-11-19T18:00:00Z
