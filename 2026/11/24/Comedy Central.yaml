@@ -117,18 +117,22 @@
   - '16'
 - eventId: 747503
   start: 2026-11-24T04:45:00Z
-  stop: 2026-11-24T05:00:00Z
-  title: CCN - Comedy Central News
+  stop: 2026-11-24T04:57:00Z
+  title: CC:N - Comedy Central News Mit Ingmar Stadelmann
   subtitle: '1 .Staffel, Folge 19. Show, D 2017. Polizei: Ingmar Stadelmann macht Terror! Und zwar zum Thema seiner Sendung: Was bedeutet Terrorismus überhaupt?'
-  description: Wie trauert man nach einem Anschlag angemessen auf Facebook? Und was machen Terror-Organisationen eigentlich, wenn ihnen mal die Ideen ausgehen?
+  description: Wie steht es denn nun um das Image der Polizei? Good Cop oder Bad Cop? Im Studio stellt ein Polizei-Pressesprecher die neue Kampagne 'Komm in den dunkelblauen Block' vor. Außerdem scheint die Polizei ein Fall für den Schuldnerberater zu sein.
   ageRating: 6
+  genre:
+  - '51'
 - eventId: 747504
   start: 2026-11-24T05:00:00Z
   stop: 2026-11-24T05:10:00Z
-  title: CCN - Comedy Central News
+  title: CC:N - Comedy Central News Mit Ingmar Stadelmann
   subtitle: '2 .Staffel, Folge 23. Show, D 2018. Geld: CCN - Comedy Central News - wird moderiert von Ingmar Stadelmann. Bad News, er ist wieder da.'
   description: Der Bad Boy der Nachrichten geht in die zweite Runde und hat ganz sicher keine Samthandschuhe an. Auch in der zweiten Staffel wird weiter in unbequemen Wahrheiten gebohrt und vor brisanten Themen und Problemen kein Halt gemacht.
   ageRating: 12
+  genre:
+  - '51'
 - eventId: 747505
   start: 2026-11-24T05:10:00Z
   stop: 2026-11-24T05:35:00Z
@@ -152,7 +156,7 @@
   stop: 2026-11-24T06:25:00Z
   title: The Daily Show
   subtitle: 31 .Staffel, Folge 134. Talk, USA 2026. Jon Stewart und das furchtlose News-Team der Daily Show widmen sich den größten Schlagzeilen des Tages - mit unerschrockener Berichterstattung, ...
-  description: professionellen Analysen und sachlichen Stellungnahmen.
+  description: Jon Stewart und das furchtlose News-Team der Daily Show widmen sich den größten Schlagzeilen des Tages - mit unerschrockener Berichterstattung, professionellen Analysen und sachlichen Stellungnahmen.
   ageRating: 6
   genre:
   - '51'
@@ -215,7 +219,7 @@
   stop: 2026-11-24T09:05:00Z
   title: Abbott Elementary
   subtitle: 1 .Staffel, Folge 9. Jugendserie, USA 2022. Steppkurs.
-  description: 'Mit Quinta Brunson, Lisa Ann Walter, Tyler James Williams: Eine Komödie, die einer Gruppe von engagierten, leidenschaftlichen Lehrern - und einem leicht unsensiblen Direktor - in einer öffentlichen Schule in Philadelphia folgt.'
+  description: Ava bittet Janine, ihr beim Stepptanzkurs zu helfen, der nach dem Unterricht stattfindet, doch sie werden sich über die Leitung des Kurses nicht einig. Gregory muss etwas gestehen, als Barbara, Melissa und Jacob ein Pizza-Testessen planen.
   ageRating: 6
   genre:
   - '83'
@@ -276,7 +280,7 @@
 - eventId: 747521
   start: 2026-11-24T11:20:00Z
   stop: 2026-11-24T11:40:00Z
-  title: Ghosts
+  title: Ghosts (US)
   subtitle: 4 .Staffel, Folge 2. Comedyserie, USA 2024. Sohnemann Sam.
   description: 'Mit Rose McIver, Utkarsh Ambudkar, Brandon Scott Jones: Als Sams Vater zu Besuch ins Woodstone kommt, stellt Patience die Vater-Tochter-Beziehung auf die Probe. Außerdem muss Isaac mit den Folgen seiner Trennung von Nigel fertig werden, und Thor und Flower erleben eine peinliche Situation mit Nancy.'
   ageRating: 12
@@ -287,7 +291,7 @@
   stop: 2026-11-24T12:10:00Z
   title: The Daily Show
   subtitle: 31 .Staffel, Folge 134. Talk, USA 2026. Jon Stewart und das furchtlose News-Team der Daily Show widmen sich den größten Schlagzeilen des Tages - mit unerschrockener Berichterstattung, ...
-  description: professionellen Analysen und sachlichen Stellungnahmen.
+  description: Jon Stewart und das furchtlose News-Team der Daily Show widmen sich den größten Schlagzeilen des Tages - mit unerschrockener Berichterstattung, professionellen Analysen und sachlichen Stellungnahmen.
   ageRating: 6
   genre:
   - '51'
@@ -515,7 +519,9 @@
   ageRating: 16
   genre:
   - '16'
-- eventId: 734190
+- eventId:
+  - 734190
+  - 766926
   start: 2026-11-24T22:03:59Z
   stop: 2026-11-24T22:26:00Z
   title: Rick and Morty
