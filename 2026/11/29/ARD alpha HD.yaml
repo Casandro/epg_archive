@@ -202,7 +202,7 @@
   start: 2026-11-29T06:00:00Z
   stop: 2026-11-29T06:30:00Z
   title: Ländermagazin
-  subtitle: 'Studium: Politikwissenschaften, Elektrotechnik, Erziehungswi'
+  subtitle: 'Studium: Politikwissenschaften, Elektrotechnik, Erziehungswissenschaft'
   widescreen: true
   subtitled: true
   hd: true
@@ -211,6 +211,8 @@
     Tony Bauer, Comedian aus Duisburg zieht los, um das Land NRW mit seinem Charme zu erobern. Dabei hangelt er sich von Challenge zu Challenge.
     Hoch über dem Bergischen geht es in die Stahlkonstruktion der Müngstener Brücke. Auf Zeche Zollverein im Ruhrgebiet wird es musikalisch und im Sauerland geht es zünftig zu - beim Schützenverein schießt er den Vogel ab.
     Dabei lernt er die verschiedensten Typen kennen denn: jede Region in NRW hat seinen eigenen Schlag Mensch.
+  genre:
+  - '144'
 - eventId:
   - 1567036
   - 562180
@@ -274,12 +276,14 @@
   - 774468
   start: 2026-11-29T07:05:00Z
   stop: 2026-11-29T07:20:00Z
-  title: Tele-Gym - 6
+  title: Tele-Gym (6/8)
   subtitle: Aerobic, Bewegung, Tanz
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 562182
   - 568281
@@ -304,16 +308,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 554077
-  start: 2026-11-29T08:45:00Z
-  stop: 2026-11-29T09:30:00Z
-  title: Länder-Menschen-Abenteuer
-  subtitle: Wyoming - Im einsamen Herzen Amerikas
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId: 570880
+- eventId:
+  - 554077
+  - 570880
   start: 2026-11-29T08:45:00Z
   stop: 2026-11-29T09:30:00Z
   title: Länder - Menschen - Abenteuer
@@ -364,6 +361,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId:
   - 554396
   - 564261
@@ -387,7 +386,7 @@
   - 774570
   start: 2026-11-29T12:30:00Z
   stop: 2026-11-29T13:00:00Z
-  title: Eisenbahn-Romantik
+  title: Eisenbahn-Romantik (1054)
   subtitle: Mit dem Zug durch Portugals Weltkulturerbe - Der Mira Douro
   genre:
   - '144'
@@ -510,6 +509,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  subtitle: 'Moderation: Günther Mayr'
 - eventId:
   - 555285
   - 566300
@@ -570,9 +570,17 @@
   - 571397
   - 575964
   start: 2026-11-29T18:30:00Z
-  stop: 2026-11-29T19:00:00Z
+  stop: 2026-11-29T18:55:00Z
   title: 7 Fragen Zukunft
   subtitle: Wie gefährlich wird Nordkorea noch?
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 773116
+  start: 2026-11-29T18:55:00Z
+  stop: 2026-11-29T19:00:00Z
+  title: 'alpha-retro: Königsseebahn stillgelegt (1966)'
   widescreen: true
   subtitled: true
   hd: true
@@ -600,6 +608,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId:
   - 555809
   - 571400
@@ -734,3 +744,5 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
