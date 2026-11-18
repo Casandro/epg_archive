@@ -158,6 +158,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ad938f4a171b19d24eb4145
+  ageRating: 6
 - eventId:
   - 547226
   - 568581
@@ -171,6 +172,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ad938f4a171b19d24eb4143
+  ageRating: 6
 - eventId:
   - 547758
   - 568772
@@ -211,6 +213,8 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ad938f4a171b19d24eb413d
+  genre:
+  - '16'
 - eventId:
   - 547761
   - 568775
@@ -245,7 +249,7 @@
   start: 2026-11-30T13:30:00Z
   stop: 2026-11-30T15:00:00Z
   title: Gefühle im Sturm
-  subtitle: Spielfilm Deutschland 2001
+  subtitle: Fernsehfilm Deutschland 2002
   genre:
   - '16'
   widescreen: true
@@ -253,6 +257,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ad938f4a171b19d24eb4137
+  ageRating: 6
 - eventId:
   - 549542
   - 590299
@@ -278,6 +283,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ad938f4a171b19d24eb4133
+  ageRating: 12
 - eventId:
   - 549544
   - 590301
@@ -381,13 +387,15 @@
   - 618023
   start: 2026-11-30T20:00:00Z
   stop: 2026-11-30T20:45:00Z
-  title: Mein Körper. Mein Immunsystem
+  title: Mein Körper. Mein Immunsystem.
   subtitle: Was macht unsere Abwehr stark?
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ad938f4a171b19d24eb4125
+  genre:
+  - '144'
 - eventId:
   - 550129
   - 590571
@@ -423,7 +431,7 @@
   start: 2026-11-30T22:45:00Z
   stop: 2026-12-01T00:15:00Z
   title: 'Tatort: Was ist das für eine Welt'
-  subtitle: Spielfilm Deutschland 2023
+  subtitle: Fernsehfilm Österreich 2023
   ageRating: 12
   genre:
   - '16'
