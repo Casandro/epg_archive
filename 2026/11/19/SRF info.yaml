@@ -591,13 +591,16 @@
   hd: true
 - eventId: 714133
   start: 2026-11-19T04:40:00Z
-  stop: 2026-11-19T04:45:00Z
+  stop: 2026-11-19T04:50:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
 - eventId:
   - 586560
   - 716411
@@ -607,6 +610,15 @@
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
     Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 751626
+  start: 2026-11-19T04:50:00Z
+  stop: 2026-11-19T05:10:00Z
+  title: Schweiz aktuell
   genre:
   - '32'
   widescreen: true
@@ -623,11 +635,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 586562
-  - 716413
-  start: 2026-11-19T05:15:00Z
-  stop: 2026-11-19T05:20:00Z
+- eventId: 751627
+  start: 2026-11-19T05:10:00Z
+  stop: 2026-11-19T05:15:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -638,6 +648,21 @@
   widescreen: true
   hd: true
 - eventId:
+  - 586562
+  - 716413
+  start: 2026-11-19T05:15:00Z
+  stop: 2026-11-19T05:35:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
+- eventId:
   - 586563
   - 716414
   start: 2026-11-19T05:20:00Z
@@ -647,6 +672,18 @@
   - '32'
   widescreen: true
   subtitled: true
+  hd: true
+- eventId: 751628
+  start: 2026-11-19T05:35:00Z
+  stop: 2026-11-19T05:45:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
   hd: true
 - eventId:
   - 586564
@@ -716,10 +753,21 @@
   - 586580
   - 716424
   start: 2026-11-19T06:35:00Z
-  stop: 2026-11-19T07:00:00Z
+  stop: 2026-11-19T06:55:00Z
   title: Schweiz aktuell
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 751629
+  start: 2026-11-19T06:55:00Z
+  stop: 2026-11-19T07:40:00Z
+  title: Rundschau in Gebärdensprache
+  subtitle: Jung, politisch, unzufrieden - Europas Jugend rebelliert
+  description: |-
+    Seit Wochen gehen junge Menschen in Europa auf die Strasse - erfasst die Protest-Bewegung auch die Schweiz? Und: Weniger Touristen, leere Restaurants: Crans-Montana in der Krise. Zudem: Der Sommer ist vorbei, das Wasser fehlt weiterhin.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -736,6 +784,19 @@
   description: |-
     Seit Wochen gehen junge Menschen in Europa auf die Strasse - erfasst die Protest-Bewegung auch die Schweiz? Und: Weniger Touristen, leere Restaurants: Crans-Montana in der Krise. Zudem: Der Sommer ist vorbei, das Wasser fehlt weiterhin.
     Schweiz 2026
+- eventId: 751630
+  start: 2026-11-19T07:40:00Z
+  stop: 2026-11-19T08:19:00Z
+  title: Einstein in Gebärdensprache
+  subtitle: Die Rekordhitze ist erst der Anfang. Was kommt jetzt?
+  description: |-
+    Warum blieb die Hitze 2026 wochenlang stehen? Und könnten Europas Winter trotz Erderwärmung künftig kälter werden? «Einstein» folgt den Kräften, die unser Wetter antreiben - vom Jetstream über die Arktis bis tief in den Atlantik.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId:
   - 586582
   - 716426
@@ -748,6 +809,17 @@
     Schweiz 2026
   genre:
   - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 751631
+  start: 2026-11-19T08:19:00Z
+  stop: 2026-11-19T08:25:00Z
+  title: mitenand in Gebärdensprache
+  subtitle: Medizinischer Austausch mit Ärzt:innen im Ruhestand
+  description: |-
+    Viele Patientinnen und Patienten sind vom Umgang mit medizinischem Fachperson verunsichert oder scheuen sich, zum Arzt zu gehen. Für sie bietet die Akademie Menschenmedizin mehrmals pro Monat einen entspannten Dialog mit Ärztinnen und Ärzten im Ruhestand. Ein Bericht von Resy Canonica.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -768,11 +840,22 @@
   - 586584
   - 716428
   start: 2026-11-19T08:25:00Z
-  stop: 2026-11-19T09:00:00Z
+  stop: 2026-11-19T08:55:00Z
   title: Reporter
   subtitle: Nach 7 Jahren Haft - Wie weiter? (Teil 1)
   description: |-
     Giorgio Lörtscher sitzt wegen Einbruch und Raub im Gefängnis. Als er entlassen wird, versucht er, einen Platz in der Gesellschaft zu finden. Er hat grosse Pläne: Er möchte Rapper werden. Doch bald beginnen die Probleme, ihm über den Kopf zu wachsen. Kann das gutgehen?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 751632
+  start: 2026-11-19T08:55:00Z
+  stop: 2026-11-19T09:45:00Z
+  title: Rundschau
+  subtitle: Jung, politisch, unzufrieden - Europas Jugend rebelliert
+  description: |-
+    Seit Wochen gehen junge Menschen in Europa auf die Strasse - erfasst die Protest-Bewegung auch die Schweiz? Und: weniger Touristen, leere Restaurants: Crans-Montana in der Krise. Zudem: Der Sommer ist vorbei, das Wasser fehlt weiterhin.
     Schweiz 2026
   widescreen: true
   subtitled: true
@@ -849,7 +932,7 @@
   - 586618
   - 726680
   start: 2026-11-19T12:50:00Z
-  stop: 2026-11-19T12:55:00Z
+  stop: 2026-11-19T12:56:00Z
   title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
@@ -869,18 +952,31 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 586620
-  - 726682
-  start: 2026-11-19T13:00:00Z
-  stop: 2026-11-19T13:05:00Z
-  title: Tagesschau kompakt
+- eventId: 751636
+  start: 2026-11-19T12:56:00Z
+  stop: 2026-11-19T13:00:00Z
+  title: Meteo
   subtitle: Mittagsausgabe
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+- eventId:
+  - 586620
+  - 726682
+  start: 2026-11-19T13:00:00Z
+  stop: 2026-11-19T13:30:00Z
+  title: Tagesschau kompakt
+  subtitle: Nach 7 Jahren Haft - Wie weiter? (Teil 1)
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Giorgio Lörtscher sitzt wegen Einbruch und Raub im Gefängnis. Als er entlassen wird, versucht er, einen Platz in der Gesellschaft zu finden. Er hat grosse Pläne: Er möchte Rapper werden. Doch bald beginnen die Probleme, ihm über den Kopf zu wachsen. Kann das gutgehen?
+    Schweiz 2026
 - eventId:
   - 586621
   - 726683
@@ -906,11 +1002,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 586623
-  - 726685
-  start: 2026-11-19T13:40:00Z
-  stop: 2026-11-19T13:45:00Z
+- eventId: 751637
+  start: 2026-11-19T13:30:00Z
+  stop: 2026-11-19T13:39:00Z
   title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
@@ -918,6 +1012,31 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 751638
+  start: 2026-11-19T13:39:00Z
+  stop: 2026-11-19T13:40:00Z
+  title: Meteo
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId:
+  - 586623
+  - 726685
+  start: 2026-11-19T13:40:00Z
+  stop: 2026-11-19T14:35:00Z
+  title: Tagesschau kompakt
+  subtitle: Die aktuelle Debatte
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Im «Forum» diskutiert Radio SRF 1 mit Gästen und dem Publikum über aktuelle Themen aus Gesellschaft, Politik, Wirtschaft und Kultur. In die Live-Sendung fliessen Meinungen und Fragen ein, die das Moderationsteam per Telefon, E-Mail oder Online-Kommentar erreichen.
+    Schweiz 2026
 - eventId:
   - 586624
   - 726686
@@ -943,11 +1062,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId:
-  - 586626
-  - 726688
-  start: 2026-11-19T14:45:00Z
-  stop: 2026-11-19T14:50:00Z
+- eventId: 751639
+  start: 2026-11-19T14:35:00Z
+  stop: 2026-11-19T14:44:00Z
   title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
@@ -955,6 +1072,31 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 751640
+  start: 2026-11-19T14:44:00Z
+  stop: 2026-11-19T14:45:00Z
+  title: Meteo
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId:
+  - 586626
+  - 726688
+  start: 2026-11-19T14:45:00Z
+  stop: 2026-11-19T15:20:00Z
+  title: Tagesschau kompakt
+  subtitle: Entstelltes Gesicht nach Filler-Behandlung im Kosmetiksalon
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Faltenfreie Haut und volle Lippen - dank Unterspritzung mit Fillern. Illegalerweise bieten das online auch Beautysalons ohne Fachpersonal an. Mitunter mit gravierenden gesundheitlichen Folgen. Und: alkoholfreie Rotweine im Degustations-Test.
+    Schweiz 2026
 - eventId:
   - 586627
   - 726689
@@ -980,11 +1122,9 @@
   description: |-
     Faltenfreie Haut und volle Lippen - dank Unterspritzung mit Fillern. Illegalerweise bieten das online auch Beautysalons ohne Fachpersonal an. Mitunter mit gravierenden gesundheitlichen Folgen. Und: alkoholfreie Rotweine im Degustations-Test.
     Schweiz 2026
-- eventId:
-  - 586643
-  - 726695
-  start: 2026-11-19T15:30:00Z
-  stop: 2026-11-19T15:35:00Z
+- eventId: 751653
+  start: 2026-11-19T15:20:00Z
+  stop: 2026-11-19T15:30:00Z
   title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
@@ -992,6 +1132,21 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId:
+  - 586643
+  - 726695
+  start: 2026-11-19T15:30:00Z
+  stop: 2026-11-19T16:05:00Z
+  title: Kulturplatz - Swiss Success Stories
+  subtitle: Der Hochseilartist und der Preis der Freiheit | Folge 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Sein Lebenstraum verlangt David Dimitri vieles ab: Schon als 14-Jähriger verlässt er das Elternhaus, um an einer Zirkusschule in Budapest zu studieren. Eine grosse Karriere als Hochseilartist nimmt ihren Anfang - die ihn nach internationalen Abstechern wieder in die Schweiz führt.
+    Schweiz 2026
 - eventId:
   - 586644
   - 726696
@@ -1023,14 +1178,17 @@
   - 586646
   - 726698
   start: 2026-11-19T16:05:00Z
-  stop: 2026-11-19T16:10:00Z
-  title: Meteo
-  subtitle: Mittagsausgabe
+  stop: 2026-11-19T17:00:00Z
+  title: Rundschau
+  subtitle: Jung, politisch, unzufrieden - Europas Jugend rebelliert
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Seit Wochen gehen junge Menschen in Europa auf die Strasse - erfasst die Protest-Bewegung auch die Schweiz? Und: weniger Touristen, leere Restaurants: Crans-Montana in der Krise. Zudem: Der Sommer ist vorbei, das Wasser fehlt weiterhin.
+    Schweiz 2026
 - eventId:
   - 586647
   - 726699
