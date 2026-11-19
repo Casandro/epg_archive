@@ -12,7 +12,7 @@
   widescreen: true
 - eventId: 747915
   start: 2026-11-20T02:00:00Z
-  stop: 2026-11-20T02:15:00Z
+  stop: 2026-11-20T02:45:00Z
   title: Sazlar Söylüyor / 42
   subtitle: Her telden müzik ziyafetti!
   description: TRT Müzik'in en sevilen programlarından derlenen halk müziği, sanat müziği ve pop müziği eserleri kolaj formatında ekrana geliyor.
@@ -22,7 +22,9 @@
   stop: 2026-11-20T03:00:00Z
   title: Alplerle Bizim Türküler / 6
   description: Bozkırın sesiyle büyüyen "Alp" kardeşlerin, her bölümde farklı bir şehrin kültürel ve müzikal mirasının izinden gittiği programda, halk müziğinin en sevilen eserleri, şehirlerin önemli mekânlarında icra ediliyor.
-- eventId: 747916
+- eventId:
+  - 747916
+  - 779872
   start: 2026-11-20T02:45:00Z
   stop: 2026-11-20T03:30:00Z
   title: Alplerle Bizim Türküler
@@ -204,8 +206,11 @@
   stop: 2026-11-20T23:15:00Z
   title: Aşk Masalı / 6
   description: Kanun sanatçısı Göksel Baktagir ile ses sanatçıları Çiğdem Gürdal ve Atakan Akdaş'ın sunumuyla hazırlanan programda, Türk müziğinin kalbe dokunan eserleri seslendiriliyor.
+  widescreen: true
 - eventId: 779692
   start: 2026-11-20T23:15:00Z
   stop: 2026-11-21T00:15:00Z
   title: Sazın Dilinden / 30
-  description: Esat Kabaklı ile "Sazın Dilinden" Türk halk müziği eserleri...
+  description: Hüseyin Özdağlar - Esat Kabaklı ile Sazın Dilinden Türk halk müziği eserleri..
+  subtitle: Türk halk müziğinin en güzel eserleri..
+  widescreen: true
