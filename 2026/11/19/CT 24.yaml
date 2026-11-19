@@ -491,6 +491,7 @@
   - 701734
   - 723349
   - 795962
+  - 798124
   start: 2026-11-19T13:00:00Z
   stop: 2026-11-19T13:03:00Z
   title: Zprávy
@@ -743,9 +744,9 @@
   hd: true
 - eventId: 796598
   start: 2026-11-19T14:43:55Z
-  stop: 2026-11-19T15:00:00Z
+  stop: 2026-11-19T15:02:55Z
   title: Ekonomika ČT24
-  subtitle: Nejdůležitější zprávy ze světa peněz každý všední den.
+  subtitle: 'Témata: Výsledky hospodaření Orlen Unipetrol za 3.Q; Čeští dolaroví milionáři - rok 2026; Brífink prezidenta Petra Pavla během návštěvy Moravskoslezského kraje (živě).'
   description: |-
     HDTV
     Skryté titulky
@@ -770,6 +771,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 798094
+  start: 2026-11-19T15:02:55Z
+  stop: 2026-11-19T15:30:00Z
+  title: Zprávy v 16
+  subtitle: Nejdůležitější události dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Znakový jazyk
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 646992
   - 658032
@@ -804,11 +817,34 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 798095
+  start: 2026-11-19T15:33:50Z
+  stop: 2026-11-19T15:40:45Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Znakový jazyk
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+- eventId: 798096
+  start: 2026-11-19T15:40:45Z
+  stop: 2026-11-19T16:00:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 646994
   - 658034
   - 701746
   - 752543
+  - 798140
   start: 2026-11-19T16:00:00Z
   stop: 2026-11-19T16:03:00Z
   title: Zprávy
