@@ -8,7 +8,7 @@
   - '131'
 - eventId: 757563
   start: 2026-11-20T08:00:00Z
-  stop: 2026-11-20T12:00:00Z
+  stop: 2026-11-20T18:00:00Z
   title: Music Brunch
   subtitle: '"Music Brunch" aduce un mix savuros de hituri i energie bună, perfect pentru un început de zi relaxat i plin de ritm.'
   description: U TV - the best music TV in Romania!
@@ -46,7 +46,7 @@
   - '131'
 - eventId: 757573
   start: 2026-11-20T18:00:00Z
-  stop: 2026-11-20T18:30:00Z
+  stop: 2026-11-20T19:00:00Z
   title: Made In RO by Mihaela
   subtitle: La "MADE IN RO" asculţi doar piese româneşti!
   description: U TV - the best music TV in Romania!
@@ -62,7 +62,9 @@
   description: ' .'
   genre:
   - '131'
-- eventId: 799052
+- eventId:
+  - 799052
+  - 806309
   start: 2026-11-20T19:00:00Z
   stop: 2026-11-20T23:00:00Z
   title: Videoclips

@@ -146,7 +146,7 @@
   audiodesc: true
 - eventId: 781703
   start: 2026-12-16T08:40:00Z
-  stop: 2026-12-16T09:25:00Z
+  stop: 2026-12-16T09:30:00Z
   title: 'Der Camping-Check: Jubiläums-Special 2026'
   subtitle: Ein Film von Friso Richter und Lukas Lowack
   widescreen: true
@@ -172,7 +172,7 @@
   audiodesc: true
 - eventId: 804198
   start: 2026-12-16T09:30:00Z
-  stop: 2026-12-16T10:15:00Z
+  stop: 2026-12-16T10:20:00Z
   title: Rote Rosen (4439)
   subtitle: Deutschland 2026
   widescreen: true
@@ -187,17 +187,11 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 781726
+- eventId:
+  - 781726
+  - 804199
   start: 2026-12-16T10:20:00Z
   stop: 2026-12-16T11:10:00Z
-  title: Sturm der Liebe
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId: 804199
-  start: 2026-12-16T10:20:00Z
-  stop: 2026-12-16T11:05:00Z
   title: Sturm der Liebe
   widescreen: true
   subtitled: true
@@ -215,21 +209,11 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 781727
+- eventId:
+  - 781727
+  - 804200
   start: 2026-12-16T11:10:00Z
   stop: 2026-12-16T12:35:00Z
-  title: Der Metzger muss nachsitzen
-  subtitle: Spielfilm Deutschland 2015
-  ageRating: 12
-  genre:
-  - '16'
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId: 804200
-  start: 2026-12-16T11:10:00Z
-  stop: 2026-12-16T12:30:00Z
   title: Der Metzger muss nachsitzen
   subtitle: Spielfilm Deutschland 2015
   ageRating: 12
@@ -248,18 +232,11 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 781748
+- eventId:
+  - 781748
+  - 804201
   start: 2026-12-16T12:35:00Z
   stop: 2026-12-16T13:25:00Z
-  title: Rentnercops
-  subtitle: Gute Nacht Freunde
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
-- eventId: 804201
-  start: 2026-12-16T12:35:00Z
-  stop: 2026-12-16T13:20:00Z
   title: Rentnercops
   subtitle: Gute Nacht Freunde
   widescreen: true
@@ -279,7 +256,7 @@
   - 781749
   - 804202
   start: 2026-12-16T13:25:00Z
-  stop: 2026-12-16T14:10:00Z
+  stop: 2026-12-16T14:15:00Z
   title: Watzmann ermittelt
   subtitle: Abschlag
   widescreen: true
