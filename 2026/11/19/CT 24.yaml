@@ -532,7 +532,7 @@
   hd: true
 - eventId: 795963
   start: 2026-11-19T13:03:00Z
-  stop: 2026-11-19T13:29:50Z
+  stop: 2026-11-19T13:29:30Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
   description: |-
@@ -551,6 +551,16 @@
     Skryté titulky
   genre:
   - '35'
+  widescreen: true
+- eventId: 798186
+  start: 2026-11-19T13:29:30Z
+  stop: 2026-11-19T13:32:30Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
   widescreen: true
 - eventId: 795968
   start: 2026-11-19T13:29:50Z
@@ -578,6 +588,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 798187
+  start: 2026-11-19T13:32:30Z
+  stop: 2026-11-19T14:00:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Schůzka Trumpa, Putina a Siho (pohled ekonoma); Pokračuje stavba jezu u Rajhradic.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId: 795969
   start: 2026-11-19T13:32:50Z
   stop: 2026-11-19T14:00:00Z
@@ -845,6 +866,7 @@
   - 701746
   - 752543
   - 798140
+  - 798224
   start: 2026-11-19T16:00:00Z
   stop: 2026-11-19T16:03:00Z
   title: Zprávy
