@@ -95,7 +95,7 @@
   - '160'
 - eventId: 672070
   start: 2026-11-21T06:55:00Z
-  stop: 2026-11-21T07:01:00Z
+  stop: 2026-11-21T07:00:00Z
   title: Katolički kalendar
   subtitle: '"Katolički kalendar" emisija je informativno-edukativnog karaktera, kojoj je cilj gledateljima kroz riječ i sliku približiti svetice, svetce, blaženice i blaženike Katoličke Crkve, te određene...'
   description: Katolički kalendar' emisija je informativno-edukativnog karaktera, kojoj je cilj gledateljima kroz riječ i sliku približiti svetice, svetce, blaženice i blaženike Katoličke Crkve, te određene blagdane i liturgijsko vrijeme.
@@ -111,7 +111,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 789925
+- eventId:
+  - 789925
+  - 794312
   start: 2026-11-21T07:00:00Z
   stop: 2026-11-21T07:02:00Z
   title: Mali katekizam
@@ -130,6 +132,7 @@
 - eventId:
   - 672072
   - 789926
+  - 794313
   start: 2026-11-21T07:02:00Z
   stop: 2026-11-21T07:29:00Z
   title: Superknjiga
@@ -158,7 +161,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 789927
+- eventId:
+  - 789927
+  - 794314
   start: 2026-11-21T07:29:00Z
   stop: 2026-11-21T08:00:00Z
   title: Moje vrijeme s Isusom
@@ -234,7 +239,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 789928
+- eventId:
+  - 789928
+  - 794315
   start: 2026-11-21T10:00:00Z
   stop: 2026-11-21T11:00:00Z
   title: Neka nam Bog pomogne
@@ -250,7 +257,7 @@
   description: Večeras nam u goste dolazi Frano Pehar - mlado, svježe glazbeno lice koje sve snažnije osvaja domaću scenu. Razgovarat ćemo o njegovim glazbenim počecima, razvoju karijere i svakodnevici mladog glazbenika. Osvrnut će se i na svoj put u Tarapana bendu, izazovima i ljepotama zajedničkog muziciranja, kao i na planove koji ga tek čekaju. Pred nama je inspirativna priča o talentu, upornosti i glazbi koja ga vodi naprijed.
 - eventId: 672092
   start: 2026-11-21T11:00:00Z
-  stop: 2026-11-21T11:03:00Z
+  stop: 2026-11-21T11:02:00Z
   title: Anđeo Gospodnji
   subtitle: Moliti znači razgovarati s Bogom. Zajedno uz program Laudato TV dodatno osnažite vezu sa svojim Ocem.
   ageRating: 4
@@ -259,6 +266,7 @@
 - eventId:
   - 672093
   - 789929
+  - 794316
   start: 2026-11-21T11:02:00Z
   stop: 2026-11-21T12:05:00Z
   title: Totus Tuus
@@ -285,7 +293,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 789930
+- eventId:
+  - 789930
+  - 794317
   start: 2026-11-21T12:05:00Z
   stop: 2026-11-21T13:05:00Z
   title: Fatima - Živa vjera
@@ -308,6 +318,7 @@
 - eventId:
   - 672106
   - 789931
+  - 794318
   start: 2026-11-21T13:05:00Z
   stop: 2026-11-21T13:52:00Z
   title: Izdvojeno
@@ -434,7 +445,7 @@
   - '160'
 - eventId: 672146
   start: 2026-11-21T22:30:00Z
-  stop: 2026-11-21T23:01:00Z
+  stop: 2026-11-21T22:31:00Z
   title: Osobna posveta Bezgrješnom Srcu Marijinu
   subtitle: Moliti znači razgovarati s Bogom. Zajedno uz program Laudato TV dodatno osnažite vezu sa svojim Ocem.
   description: Osobna posveta Bezgrješnom Srcu Marijinu
@@ -444,6 +455,7 @@
 - eventId:
   - 783992
   - 789932
+  - 794319
   start: 2026-11-21T22:31:00Z
   stop: 2026-11-21T23:01:00Z
   title: Krunica
@@ -454,6 +466,7 @@
 - eventId:
   - 672147
   - 789933
+  - 794320
   start: 2026-11-21T23:01:00Z
   stop: 2026-11-21T23:09:00Z
   title: Vijesti iz Vatikana
@@ -471,6 +484,7 @@
 - eventId:
   - 672148
   - 789934
+  - 794321
   start: 2026-11-21T23:09:00Z
   stop: 2026-11-22T00:09:00Z
   title: Život i zdravlje
