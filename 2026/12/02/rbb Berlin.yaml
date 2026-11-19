@@ -177,6 +177,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ad938f5ce6a5ee365723dac
+  ageRating: 12
 - eventId:
   - 565207
   - 588930
@@ -192,6 +193,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ad938f5ce6a5ee365723daa
+  ageRating: 6
 - eventId:
   - 565402
   - 589141
@@ -267,6 +269,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 565810
   - 589393
@@ -276,7 +280,7 @@
   start: 2026-12-02T13:30:00Z
   stop: 2026-12-02T15:00:00Z
   title: Annas Erbe
-  subtitle: Spielfilm Deutschland 2011
+  subtitle: Fernsehfilm Deutschland 2011
   genre:
   - '16'
   widescreen: true
@@ -284,6 +288,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ad938f5ce6a5ee365723d9e
+  ageRating: 6
 - eventId:
   - 566779
   - 589611
@@ -343,6 +348,8 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ad938f5ce6a5ee365723d96
+  genre:
+  - '16'
 - eventId:
   - 566783
   - 589615
@@ -500,6 +507,8 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ad938f5ce6a5ee365723d88
+  genre:
+  - '130'
 - eventId:
   - 563472
   - 567786
