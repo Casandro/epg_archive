@@ -399,7 +399,7 @@
   - 750475
   - 759618
   start: 2026-11-19T04:48:00Z
-  stop: 2026-11-19T05:20:00Z
+  stop: 2026-11-19T05:10:00Z
   title: Bergauf-Bergab
   subtitle: Das Magazin für Bergsteiger
   description: |-
@@ -413,7 +413,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 777006
+- eventId:
+  - 777006
+  - 787864
   start: 2026-11-19T05:10:00Z
   stop: 2026-11-19T05:20:00Z
   title: 'Erlebnisreisen: Ötztaler Alpen'
@@ -421,6 +423,8 @@
   genre:
   - '32'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 540076
   - 543315

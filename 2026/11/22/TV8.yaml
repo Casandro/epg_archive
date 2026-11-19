@@ -6,27 +6,32 @@
   start: 2026-11-22T03:15:00Z
   stop: 2026-11-22T04:00:00Z
   title: Stiri de week-end.
-- eventId: 672330
+- eventId:
+  - 672330
+  - 710611
   start: 2026-11-22T04:00:00Z
   stop: 2026-11-22T04:30:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
-- eventId: 710611
-  start: 2026-11-22T04:00:00Z
-  stop: 2026-11-22T05:00:00Z
-  title: Alo, TV8?
-- eventId: 672331
+  subtitle: Teleshoppingové pásmo
+- eventId:
+  - 672331
+  - 787243
   start: 2026-11-22T04:30:00Z
   stop: 2026-11-22T04:45:00Z
   title: Horoskopy
   ageRating: 12
   genre:
   - '32'
-- eventId: 672332
+  subtitle: Horoskopy
+- eventId:
+  - 672332
+  - 787244
   start: 2026-11-22T04:45:00Z
   stop: 2026-11-22T05:00:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
+  subtitle: Teleshoppingové pásmo
 - eventId: 672333
   start: 2026-11-22T05:00:00Z
   stop: 2026-11-22T06:40:00Z
@@ -37,8 +42,10 @@
   - '32'
 - eventId: 710612
   start: 2026-11-22T05:00:00Z
-  stop: 2026-11-22T05:30:00Z
+  stop: 2026-11-22T06:40:00Z
   title: Stiri de week-end.
+  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
+  ageRating: 12
 - eventId: 710613
   start: 2026-11-22T05:30:00Z
   stop: 2026-11-22T06:00:00Z
@@ -47,11 +54,14 @@
   start: 2026-11-22T06:00:00Z
   stop: 2026-11-22T07:00:00Z
   title: Amprente.
-- eventId: 672336
+- eventId:
+  - 672336
+  - 787261
   start: 2026-11-22T06:40:00Z
   stop: 2026-11-22T07:30:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
+  subtitle: Teleshoppingové pásmo
 - eventId: 710487
   start: 2026-11-22T07:00:00Z
   stop: 2026-11-22T07:30:00Z
@@ -63,15 +73,20 @@
   ageRating: 12
 - eventId: 710488
   start: 2026-11-22T07:30:00Z
-  stop: 2026-11-22T08:00:00Z
+  stop: 2026-11-22T07:45:00Z
   title: In Good Shape - The Health Show.
-- eventId: 672338
+  subtitle: Teleshoppingové pásmo
+  ageRating: 12
+- eventId:
+  - 672338
+  - 787262
   start: 2026-11-22T07:45:00Z
   stop: 2026-11-22T08:00:00Z
   title: Horoskopy
   ageRating: 12
   genre:
   - '32'
+  subtitle: Horoskopy
 - eventId: 672339
   start: 2026-11-22T08:00:00Z
   stop: 2026-11-22T09:40:00Z
@@ -82,8 +97,10 @@
   - '32'
 - eventId: 710489
   start: 2026-11-22T08:00:00Z
-  stop: 2026-11-22T09:00:00Z
+  stop: 2026-11-22T09:40:00Z
   title: Кулинарная академия.
+  subtitle: Rýchle riešenie vašich problémov prostredníctvom telefonického veštenia v priamom prenose.
+  ageRating: 12
 - eventId: 710496
   start: 2026-11-22T09:00:00Z
   stop: 2026-11-22T09:30:00Z
@@ -92,12 +109,17 @@
   start: 2026-11-22T09:30:00Z
   stop: 2026-11-22T10:00:00Z
   title: Magazin la tine acasa.
-- eventId: 672344
+- eventId:
+  - 672344
+  - 787569
   start: 2026-11-22T09:40:00Z
   stop: 2026-11-22T10:00:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
-- eventId: 672345
+  subtitle: Teleshoppingové pásmo
+- eventId:
+  - 672345
+  - 710498
   start: 2026-11-22T10:00:00Z
   stop: 2026-11-22T12:00:00Z
   title: Televeštiareň
@@ -105,10 +127,6 @@
   ageRating: 12
   genre:
   - '32'
-- eventId: 710498
-  start: 2026-11-22T10:00:00Z
-  stop: 2026-11-22T10:30:00Z
-  title: Europeo.
 - eventId: 710499
   start: 2026-11-22T10:30:00Z
   stop: 2026-11-22T11:30:00Z
@@ -117,7 +135,9 @@
   start: 2026-11-22T11:30:00Z
   stop: 2026-11-22T12:40:00Z
   title: Oameni Simpli.
-- eventId: 672346
+- eventId:
+  - 672346
+  - 787293
   start: 2026-11-22T12:00:00Z
   stop: 2026-11-22T13:00:00Z
   title: Televeštiareň
@@ -139,21 +159,28 @@
   - '32'
 - eventId: 710628
   start: 2026-11-22T13:00:00Z
-  stop: 2026-11-22T17:00:00Z
+  stop: 2026-11-22T14:45:00Z
   title: Т/с "Запретная любовь".
   description: 'Мелодрама. Катя ждёт появления первенца, но отец ребёнка не хочет брать на себя ответственность и разрывает отношения. На пешеходном переходе её сбивает дорогостоящий джип. За рулём сидела Кристина - любимая девушка состоятельного предпринимателя Виктора, которая также находится в положении. Катя приходит в себя уже на больничной койке. Заведующий отделением Аркадий с презрением относится к девушке, потому что у неё нет средств на "добровольное пожертвование" для эскулапа. После родов Кате сообщают ужасную новость - ребёнок появился на свет уже мёртвым. Однако она не верит словам врачей. Кристина, родившая малыша в тот же день, не может кормить отпрыска грудью. Аркадий предлагает Кате временно заняться этим за солидное вознаграждение. Как только младенец оказывается в её руках, она принимает его за родного. Девушка испытывает материнские чувства к маленькому человечку, но не может доказать свою правоту юридически. Виктор узнаёт о том, что Кристина изменила ему с заведующим отделением. Он забирает младенца из больницы вместе с Катей, которой предлагает стать няней для своего сына. Она соглашается, чтобы быть рядом с ребёнком. Катя попадает в огромный особняк. Вместе с Виктором в нём живёт его сестра Маргарита с двумя взрослыми сыновьями Виталием и Германом. Племянники бизнесмена начинают проявлять интерес к няне. Но если Виталий смотрит на девушку исключительно в качестве объекта плотских утех, то Герман по-настоящему влюбляется в неё. Впрочем, и сам Виктор с симпатией поглядывает на Катю, ведь из неё может получиться хорошая мать для наследника. Маргарита же видит в молодой няне конкурентку в борьбе за богатство её брата. Виктор и Герман начинают добиваться благосклонности Кати. Маргарита вступает в заговор с главным конкурентом своего брата, чтобы взять под контроль его бизнес... Украина, 2016. Режиcсер: Игорь Забара. В ролях: Ольга Гришина, Алика Смехова, Дмитрий Мухин.'
-- eventId: 672348
+  subtitle: 'Relácia zameraná na spojenie sa s iným svetom. Médium je spojovník medzi týmto svetom a svetom za jeho hranicami. Médium má schopnosť napojiť sa do duchovného sveta a prijímať a odovzdávať správy. '
+  ageRating: 12
+- eventId:
+  - 672348
+  - 787294
   start: 2026-11-22T14:45:00Z
   stop: 2026-11-22T15:00:00Z
   title: Horoskopy
   ageRating: 12
   genre:
   - '32'
-- eventId: 672351
+  subtitle: Horoskopy
+- eventId:
+  - 672351
+  - 787309
   start: 2026-11-22T15:00:00Z
   stop: 2026-11-22T18:45:00Z
   title: Médium
-  subtitle: Relácia zameraná na spojenie sa s iným svetom. Médium je spojovník medzi týmto svetom a svetom za jeho hranicami. Médium má schopnosť napojiť sa do duchovného sveta a prijímať a odovzdávať správy.
+  subtitle: 'Relácia zameraná na spojenie sa s iným svetom. Médium je spojovník medzi týmto svetom a svetom za jeho hranicami. Médium má schopnosť napojiť sa do duchovného sveta a prijímať a odovzdávať správy. '
   ageRating: 12
   genre:
   - '32'
@@ -165,11 +192,14 @@
   start: 2026-11-22T17:45:00Z
   stop: 2026-11-22T19:00:00Z
   title: Cutia Neagra Plus.
-- eventId: 672356
+- eventId:
+  - 672356
+  - 787325
   start: 2026-11-22T18:45:00Z
   stop: 2026-11-22T19:00:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
+  subtitle: Teleshoppingové pásmo
 - eventId: 672357
   start: 2026-11-22T19:00:00Z
   stop: 2026-11-22T20:45:00Z
@@ -180,8 +210,10 @@
   - '32'
 - eventId: 710622
   start: 2026-11-22T19:00:00Z
-  stop: 2026-11-22T20:00:00Z
+  stop: 2026-11-22T20:45:00Z
   title: Iubeste Viata Confesiuni.
+  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
+  ageRating: 12
 - eventId: 710623
   start: 2026-11-22T20:00:00Z
   stop: 2026-11-22T20:30:00Z
@@ -190,14 +222,19 @@
   start: 2026-11-22T20:30:00Z
   stop: 2026-11-22T21:30:00Z
   title: Psihologul meu.
-- eventId: 672358
+- eventId:
+  - 672358
+  - 787326
   start: 2026-11-22T20:45:00Z
   stop: 2026-11-22T21:00:00Z
   title: Horoskopy
   ageRating: 12
   genre:
   - '32'
-- eventId: 672361
+  subtitle: Horoskopy
+- eventId:
+  - 672361
+  - 787342
   start: 2026-11-22T21:00:00Z
   stop: 2026-11-22T23:00:00Z
   title: Ezoterická poradňa
@@ -217,18 +254,19 @@
   start: 2026-11-22T22:50:00Z
   stop: 2026-11-22T23:20:00Z
   title: Sinteza cu Natalia Ghetu.
-- eventId: 700933
+- eventId:
+  - 700933
+  - 787343
   start: 2026-11-22T23:00:00Z
   stop: 2026-11-22T23:20:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
-- eventId: 700934
+  subtitle: Teleshoppingové pásmo
+- eventId:
+  - 700934
+  - 710511
   start: 2026-11-22T23:20:00Z
   stop: 2026-11-23T04:00:00Z
   title: Nočné vysielanie pre pánov
   subtitle: Šteklivé videá nielen pre pánov.
   ageRating: 18
-- eventId: 710511
-  start: 2026-11-22T23:20:00Z
-  stop: 2026-11-23T00:00:00Z
-  title: Iubeste Viata Confesiuni.
