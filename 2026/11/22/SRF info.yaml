@@ -12,31 +12,56 @@
   hd: true
 - eventId: 667841
   start: 2026-11-22T00:10:00Z
-  stop: 2026-11-22T00:45:00Z
+  stop: 2026-11-22T00:35:00Z
   title: Gredig direkt
   widescreen: true
   subtitled: true
   hd: true
   subtitle: 'Alice Schwarzer: Hat sich der Kampf gelohnt?'
   description: "Nach 50 Jahre stellt Alice Schwarzer «Emma» ein. Bei «Gredig direkt» spricht sie über ihre Kämpfe und warum für sie nun der richtige Zeitpunkt zum Aufhören ist. \nSchweiz 2026"
-- eventId: 667842
-  start: 2026-11-22T00:45:00Z
-  stop: 2026-11-22T00:55:00Z
+- eventId: 803281
+  start: 2026-11-22T00:35:00Z
+  stop: 2026-11-22T00:45:00Z
   title: Tagesschau
   subtitle: Spätausgabe
   genre:
   - '32'
   widescreen: true
   hd: true
-- eventId: 667843
-  start: 2026-11-22T00:55:00Z
-  stop: 2026-11-22T01:00:00Z
-  title: Meteo
+- eventId: 667842
+  start: 2026-11-22T00:45:00Z
+  stop: 2026-11-22T00:46:00Z
+  title: Tagesschau
   subtitle: Spätausgabe
   genre:
   - '32'
   widescreen: true
   hd: true
+- eventId: 803282
+  start: 2026-11-22T00:46:00Z
+  stop: 2026-11-22T00:55:00Z
+  title: Sportheute
+  subtitle: Der Sport des Tages
+  description: |-
+    Grosse Erfolge, starke Emotionen und packende Bilder - «Sportheute» offeriert die wichtigsten News aus dem nationalen und internationalen Sport. An Spieltagen der National League steht das Schweizer Eishockey im Fokus.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 667843
+  start: 2026-11-22T00:55:00Z
+  stop: 2026-11-22T01:35:00Z
+  title: Super League - Highlights
+  subtitle: Alle Spiele, alle Tore
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+  description: |-
+    Das Magazin bietet den Komplettservice zur höchsten Schweizer Fussballliga mit den Matchberichten zur aktuellen Runde. Dazu: ausgewählte Highlights aus der Women's Super League, der Challenge League und von Schweizer Akteuren in ausländischen Ligen.
+    Schweiz 2026
+  subtitled: true
 - eventId: 667844
   start: 2026-11-22T01:00:00Z
   stop: 2026-11-22T01:10:00Z
@@ -62,6 +87,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 803283
+  start: 2026-11-22T01:35:00Z
+  stop: 2026-11-22T02:20:00Z
+  title: Rundschau
+  subtitle: Jung, politisch, unzufrieden - Europas Jugend rebelliert
+  description: |-
+    Seit Wochen gehen junge Menschen in Europa auf die Strasse - erfasst die Protest-Bewegung auch die Schweiz? Und: weniger Touristen, leere Restaurants: Crans-Montana in der Krise. Zudem: Der Sommer ist vorbei, das Wasser fehlt weiterhin.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 672246
   start: 2026-11-22T01:45:00Z
   stop: 2026-11-22T02:35:00Z
@@ -73,6 +109,36 @@
   description: |-
     Seit Wochen gehen junge Menschen in Europa auf die Strasse - erfasst die Protest-Bewegung auch die Schweiz? Und: weniger Touristen, leere Restaurants: Crans-Montana in der Krise. Zudem: Der Sommer ist vorbei, das Wasser fehlt weiterhin.
     Schweiz 2026
+- eventId: 803284
+  start: 2026-11-22T02:20:00Z
+  stop: 2026-11-22T02:31:00Z
+  title: Tagesschau
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 803285
+  start: 2026-11-22T02:31:00Z
+  stop: 2026-11-22T02:32:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 803286
+  start: 2026-11-22T02:32:00Z
+  stop: 2026-11-22T02:45:00Z
+  title: Sportheute
+  subtitle: Der Sport des Tages
+  description: |-
+    Grosse Erfolge, starke Emotionen und packende Bilder - «Sportheute» offeriert die wichtigsten News aus dem nationalen und internationalen Sport. An Spieltagen der National League steht das Schweizer Eishockey im Fokus.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 672247
   start: 2026-11-22T02:35:00Z
   stop: 2026-11-22T02:45:00Z
@@ -84,13 +150,17 @@
   hd: true
 - eventId: 672248
   start: 2026-11-22T02:45:00Z
-  stop: 2026-11-22T02:50:00Z
-  title: Meteo
-  subtitle: Spätausgabe
+  stop: 2026-11-22T03:20:00Z
+  title: Super League - Highlights
+  subtitle: Alle Spiele, alle Tore
   genre:
   - '32'
   widescreen: true
   hd: true
+  description: |-
+    Das Magazin bietet den Komplettservice zur höchsten Schweizer Fussballliga mit den Matchberichten zur aktuellen Runde. Dazu: ausgewählte Highlights aus der Women's Super League, der Challenge League und von Schweizer Akteuren in ausländischen Ligen.
+    Schweiz 2026
+  subtitled: true
 - eventId: 672249
   start: 2026-11-22T02:50:00Z
   stop: 2026-11-22T03:00:00Z
@@ -116,6 +186,36 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 803288
+  start: 2026-11-22T03:20:00Z
+  stop: 2026-11-22T03:30:00Z
+  title: Tagesschau
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 803289
+  start: 2026-11-22T03:30:00Z
+  stop: 2026-11-22T03:31:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 803290
+  start: 2026-11-22T03:31:00Z
+  stop: 2026-11-22T03:45:00Z
+  title: Sportheute
+  subtitle: Der Sport des Tages
+  description: |-
+    Grosse Erfolge, starke Emotionen und packende Bilder - «Sportheute» offeriert die wichtigsten News aus dem nationalen und internationalen Sport. An Spieltagen der National League steht das Schweizer Eishockey im Fokus.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 672251
   start: 2026-11-22T03:35:00Z
   stop: 2026-11-22T03:45:00Z
@@ -127,13 +227,17 @@
   hd: true
 - eventId: 672387
   start: 2026-11-22T03:45:00Z
-  stop: 2026-11-22T03:50:00Z
-  title: Meteo
-  subtitle: Spätausgabe
+  stop: 2026-11-22T04:40:00Z
+  title: Super League - Highlights
+  subtitle: Alle Spiele, alle Tore
   genre:
   - '32'
   widescreen: true
   hd: true
+  description: |-
+    Das Magazin bietet den Komplettservice zur höchsten Schweizer Fussballliga mit den Matchberichten zur aktuellen Runde. Dazu: ausgewählte Highlights aus der Women's Super League, der Challenge League und von Schweizer Akteuren in ausländischen Ligen.
+    Schweiz 2026
+  subtitled: true
 - eventId: 672476
   start: 2026-11-22T03:50:00Z
   stop: 2026-11-22T04:00:00Z
@@ -424,7 +528,7 @@
   stop: 2026-11-22T20:05:00Z
   title: Sportpanorama
   description: |-
-    Das Magazin zur nationalen und internationalen Sportaktualität des Wochenendes.
+    Zu Gast im «Sportpanorama» bei Sascha Ruefer spricht Lukas Görtler, Captain des FC St. Gallen, über Fussball nach dem Motto alles oder nichts. Ausserdem: Natalie Maags Neustart im Rodeln, der Rücktritt von Eishockeyschiedsrichter Micha Hebeisen und Riola Xhemaili bei Como 1907.
     Schweiz 2026
   genre:
   - '64'
@@ -463,7 +567,31 @@
   hd: true
 - eventId: 700197
   start: 2026-11-22T21:40:00Z
-  stop: 2026-11-22T21:45:00Z
+  stop: 2026-11-22T21:48:00Z
+  title: mitenand
+  subtitle: Marokko - Berufsausbildung für Menschen mit Handicap
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Für Menschen mit einem physischen oder mentalen Handicap ist es in Marokko schwierig, eine Berufsausbildung zu machen und ein Einkommen zu erwirtschaften. Im Ausbildungszentrum Amnougar erhalten sie, unterstützt von Partneraid International, diese Möglichkeit. Ein Bericht von Mitja Rietbrock.
+    Schweiz 2026
+- eventId: 700198
+  start: 2026-11-22T21:45:00Z
+  stop: 2026-11-22T22:10:00Z
+  title: GESUNDHEITHEUTE - Die Gesundheitssendung mit Dr. Jeanne Fürst
+  subtitle: 'Diabetes neu denken: Forschung und Fortschritte'
+  description: |-
+    Diabetes Typ 2 bleibt oft lange unbemerkt und kann schwerwiegende Folgen haben. Wie lässt sich die Krankheit erkennen und was hilft, den Blutzucker im Griff zu behalten? Ausserdem: Wenn gesunde Ernährung zum Zwang wird - zwei Frauen erzählen von ihrem Leben mit Orthorexie.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 803320
+  start: 2026-11-22T21:48:00Z
+  stop: 2026-11-22T21:50:00Z
   title: Meteo
   subtitle: Abendausgabe
   genre:
@@ -471,8 +599,8 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 700198
-  start: 2026-11-22T21:45:00Z
+- eventId: 803321
+  start: 2026-11-22T21:50:00Z
   stop: 2026-11-22T22:10:00Z
   title: GESUNDHEITHEUTE - Die Gesundheitssendung mit Dr. Jeanne Fürst
   subtitle: 'Diabetes neu denken: Forschung und Fortschritte'
@@ -497,15 +625,19 @@
   start: 2026-11-22T22:15:00Z
   stop: 2026-11-22T22:25:00Z
   title: Tagesschau
-  subtitle: Spätausgabe
+  subtitle: Marokko - Berufsausbildung für Menschen mit Handicap
   genre:
   - '32'
   widescreen: true
   hd: true
+  description: |-
+    Für Menschen mit einem physischen oder mentalen Handicap ist es in Marokko schwierig, eine Berufsausbildung zu machen und ein Einkommen zu erwirtschaften. Im Ausbildungszentrum Amnougar erhalten sie, unterstützt von Partneraid International, diese Möglichkeit. Ein Bericht von Mitja Rietbrock.
+    Schweiz 2026
+  subtitled: true
 - eventId: 700201
   start: 2026-11-22T22:25:00Z
-  stop: 2026-11-22T22:30:00Z
-  title: Meteo
+  stop: 2026-11-22T22:34:00Z
+  title: Tagesschau
   subtitle: Spätausgabe
   genre:
   - '32'
@@ -524,9 +656,44 @@
   subtitled: true
   hd: true
   subtitle: Studiogast - Lukas Görtler, Spieler FC St. Gallen
+- eventId: 803322
+  start: 2026-11-22T22:34:00Z
+  stop: 2026-11-22T22:35:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 803323
+  start: 2026-11-22T22:35:00Z
+  stop: 2026-11-22T23:25:00Z
+  title: Sportpanorama
+  subtitle: Studiogast - Lukas Görtler, Spieler FC St. Gallen
+  description: |-
+    Zu Gast im «Sportpanorama» bei Sascha Ruefer spricht Lukas Görtler, Captain des FC St. Gallen, über Fussball nach dem Motto alles oder nichts. Ausserdem: Natalie Maags Neustart im Rodeln, der Rücktritt von Eishockeyschiedsrichter Micha Hebeisen und Riola Xhemaili bei Como 1907.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 700203
   start: 2026-11-22T23:25:00Z
   stop: 2026-11-23T00:10:00Z
+  title: Super League - Highlights
+  subtitle: Alle Spiele, alle Tore
+  description: |-
+    Das Magazin bietet den Komplettservice zur höchsten Schweizer Fussballliga mit den Matchberichten zur aktuellen Runde. Dazu: ausgewählte Highlights aus der Women's Super League, der Challenge League und von Schweizer Akteuren in ausländischen Ligen.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 803324
+  start: 2026-11-22T23:30:00Z
+  stop: 2026-11-23T00:20:00Z
   title: Super League - Highlights
   subtitle: Alle Spiele, alle Tore
   description: |-

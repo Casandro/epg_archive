@@ -280,13 +280,25 @@
   hd: true
 - eventId: 735346
   start: 2026-11-24T04:40:00Z
-  stop: 2026-11-24T04:55:00Z
+  stop: 2026-11-24T04:50:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
   widescreen: true
   hd: true
   subtitled: true
+- eventId: 803364
+  start: 2026-11-24T04:50:00Z
+  stop: 2026-11-24T05:00:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 735347
   start: 2026-11-24T04:55:00Z
   stop: 2026-11-24T05:05:00Z
@@ -294,6 +306,15 @@
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
     Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 803365
+  start: 2026-11-24T05:00:00Z
+  stop: 2026-11-24T05:20:00Z
+  title: Schweiz aktuell
   genre:
   - '32'
   widescreen: true
@@ -308,9 +329,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 735349
-  start: 2026-11-24T05:25:00Z
-  stop: 2026-11-24T05:30:00Z
+- eventId: 803366
+  start: 2026-11-24T05:20:00Z
+  stop: 2026-11-24T05:25:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -320,6 +341,19 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 735349
+  start: 2026-11-24T05:25:00Z
+  stop: 2026-11-24T05:45:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 735350
   start: 2026-11-24T05:30:00Z
   stop: 2026-11-24T05:50:00Z
@@ -329,9 +363,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 735351
-  start: 2026-11-24T05:50:00Z
-  stop: 2026-11-24T05:55:00Z
+- eventId: 803367
+  start: 2026-11-24T05:45:00Z
+  stop: 2026-11-24T05:50:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -341,6 +375,19 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 735351
+  start: 2026-11-24T05:50:00Z
+  stop: 2026-11-24T06:10:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 735352
   start: 2026-11-24T05:55:00Z
   stop: 2026-11-24T06:15:00Z
@@ -350,9 +397,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 735361
-  start: 2026-11-24T06:15:00Z
-  stop: 2026-11-24T06:20:00Z
+- eventId: 803375
+  start: 2026-11-24T06:10:00Z
+  stop: 2026-11-24T06:15:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -362,6 +409,19 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 735361
+  start: 2026-11-24T06:15:00Z
+  stop: 2026-11-24T06:35:00Z
+  title: Schweiz aktuell
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 735362
   start: 2026-11-24T06:20:00Z
   stop: 2026-11-24T06:40:00Z
@@ -371,20 +431,56 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 803376
+  start: 2026-11-24T06:35:00Z
+  stop: 2026-11-24T06:40:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 735363
   start: 2026-11-24T06:40:00Z
-  stop: 2026-11-24T07:15:00Z
-  title: Eco Talk
+  stop: 2026-11-24T07:00:00Z
+  title: Schweiz aktuell
   widescreen: true
   subtitled: true
   hd: true
   subtitle: 'Lohn: Wer hat das Sagen am Verhandlungstisch?'
+  genre:
+  - '32'
+- eventId: 803377
+  start: 2026-11-24T07:00:00Z
+  stop: 2026-11-24T07:35:00Z
+  title: Eco Talk
+  subtitle: 'Lohn: Wer hat das Sagen am Verhandlungstisch?'
+  description: |-
+    Steigende Kosten treffen auf Spardruck in Firmen. Wer hat in Zeiten von Fachkräftemangel und künstlicher Intelligenz in Lohnverhandlungen die besseren Karten?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 735364
   start: 2026-11-24T07:15:00Z
   stop: 2026-11-24T07:45:00Z
   title: Gredig direkt
   subtitle: 'Alice Schwarzer: Hat sich der Kampf gelohnt?'
   description: "Nach 50 Jahre stellt Alice Schwarzer «Emma» ein. Bei «Gredig direkt» spricht sie über ihre Kämpfe und warum für sie nun der richtige Zeitpunkt zum Aufhören ist. \nSchweiz 2026"
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 803378
+  start: 2026-11-24T07:35:00Z
+  stop: 2026-11-24T08:10:00Z
+  title: Puls
+  subtitle: Hypnose in der Medizin - Die Macht der Vorstellungskraft
+  description: |-
+    Hypnose hat den Ruch von Bühnenzauber. Dabei kommt sie längst in der Medizin zum Einsatz - von Operationen ohne Schmerzmittel bis zur Bewältigung von Ängsten beim Zahnarzt. «Puls» zeigt das unterschätzte Potenzial der Vorstellungskraft und begleitet Daniela Lager bei ihrer eigenen Hypnose-Erfahrung.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -399,6 +495,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 803379
+  start: 2026-11-24T08:10:00Z
+  stop: 2026-11-24T08:45:00Z
+  title: Eco Talk
+  subtitle: 'Lohn: Wer hat das Sagen am Verhandlungstisch?'
+  description: |-
+    Steigende Kosten treffen auf Spardruck in Firmen. Wer hat in Zeiten von Fachkräftemangel und künstlicher Intelligenz in Lohnverhandlungen die besseren Karten?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 735366
   start: 2026-11-24T08:20:00Z
   stop: 2026-11-24T08:55:00Z
@@ -407,6 +514,15 @@
   subtitled: true
   hd: true
   subtitle: 'Lohn: Wer hat das Sagen am Verhandlungstisch?'
+- eventId: 803380
+  start: 2026-11-24T08:45:00Z
+  stop: 2026-11-24T09:25:00Z
+  title: Gredig direkt
+  subtitle: 'Alice Schwarzer: Hat sich der Kampf gelohnt?'
+  description: "Nach 50 Jahre stellt Alice Schwarzer «Emma» ein. Bei «Gredig direkt» spricht sie über ihre Kämpfe und warum für sie nun der richtige Zeitpunkt zum Aufhören ist. \nSchweiz 2026"
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 735367
   start: 2026-11-24T08:55:00Z
   stop: 2026-11-24T09:25:00Z
@@ -573,6 +689,9 @@
   subtitled: true
   hd: true
   subtitle: 'Lohn: Wer hat das Sagen am Verhandlungstisch?'
+  description: |-
+    Steigende Kosten treffen auf Spardruck in Firmen. Wer hat in Zeiten von Fachkräftemangel und künstlicher Intelligenz in Lohnverhandlungen die besseren Karten?
+    Schweiz 2026
 - eventId: 760024
   start: 2026-11-24T16:00:00Z
   stop: 2026-11-24T16:05:00Z
@@ -725,6 +844,9 @@
   subtitled: true
   hd: true
   subtitle: 'Lohn: Wer hat das Sagen am Verhandlungstisch?'
+  description: |-
+    Steigende Kosten treffen auf Spardruck in Firmen. Wer hat in Zeiten von Fachkräftemangel und künstlicher Intelligenz in Lohnverhandlungen die besseren Karten?
+    Schweiz 2026
 - eventId: 751523
   start: 2026-11-24T19:45:00Z
   stop: 2026-11-24T20:10:00Z

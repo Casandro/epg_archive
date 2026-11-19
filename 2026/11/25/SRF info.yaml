@@ -256,6 +256,9 @@
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Steigende Kosten treffen auf Spardruck in Firmen. Wer hat in Zeiten von Fachkräftemangel und künstlicher Intelligenz in Lohnverhandlungen die besseren Karten?
+    Schweiz 2026
 - eventId: 776070
   start: 2026-11-25T08:30:00Z
   stop: 2026-11-25T08:55:00Z
@@ -440,7 +443,7 @@
 - eventId: 776002
   start: 2026-11-25T15:00:00Z
   stop: 2026-11-25T15:05:00Z
-  title: Meteo
+  title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
   - '32'
@@ -449,6 +452,16 @@
   hd: true
 - eventId: 776003
   start: 2026-11-25T15:05:00Z
+  stop: 2026-11-25T15:10:00Z
+  title: Kassensturz
+  subtitle: Die Sendung über Konsum, Geld und Arbeit
+  widescreen: true
+  subtitled: true
+  hd: true
+  genre:
+  - '32'
+- eventId: 803263
+  start: 2026-11-25T15:10:00Z
   stop: 2026-11-25T15:40:00Z
   title: Kassensturz
   subtitle: Die Sendung über Konsum, Geld und Arbeit
@@ -468,7 +481,7 @@
 - eventId: 776005
   start: 2026-11-25T15:45:00Z
   stop: 2026-11-25T15:50:00Z
-  title: Meteo
+  title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
   - '32'
@@ -477,6 +490,16 @@
   hd: true
 - eventId: 776006
   start: 2026-11-25T15:50:00Z
+  stop: 2026-11-25T15:55:00Z
+  title: Meteo
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+- eventId: 803264
+  start: 2026-11-25T15:55:00Z
   stop: 2026-11-25T17:00:00Z
   title: Club
   widescreen: true

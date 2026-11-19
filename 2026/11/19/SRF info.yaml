@@ -1236,6 +1236,7 @@
 - eventId:
   - 586647
   - 726699
+  - 803253
   start: 2026-11-19T16:10:00Z
   stop: 2026-11-19T17:00:00Z
   title: Rundschau
@@ -1288,11 +1289,21 @@
   - 586651
   - 726703
   start: 2026-11-19T17:20:00Z
-  stop: 2026-11-19T17:30:00Z
+  stop: 2026-11-19T17:25:00Z
   title: Telesguard
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
     Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 803354
+  start: 2026-11-19T17:25:00Z
+  stop: 2026-11-19T17:35:00Z
+  title: Tagesschau kompakt
+  subtitle: Vorabendausgabe
   genre:
   - '32'
   widescreen: true
@@ -1342,6 +1353,16 @@
   start: 2026-11-19T17:50:00Z
   stop: 2026-11-19T18:00:00Z
   title: Meteo
+  subtitle: Vorabendausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 803355
+  start: 2026-11-19T17:55:00Z
+  stop: 2026-11-19T18:00:00Z
+  title: Tagesschau kompakt
   subtitle: Vorabendausgabe
   genre:
   - '32'

@@ -292,33 +292,34 @@
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
   genre:
   - '32'
-- eventId: 787436
+- eventId:
+  - 787436
+  - 798664
   start: 2026-11-19T19:00:00Z
   stop: 2026-11-19T19:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId: 798664
-  start: 2026-11-19T19:00:00Z
-  stop: 2026-11-19T20:00:00Z
-  title: Newshour
-  description: Latest news and in-depth analysis from around the world.
+  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
   genre:
   - '32'
-- eventId: 787437
+- eventId:
+  - 787437
+  - 803787
   start: 2026-11-19T19:30:00Z
   stop: 2026-11-19T20:00:00Z
   title: Talk to Al Jazeera
   subtitle: Somali State Minister for Foreign Affairs discusses the country's recovery since its government collapsed 30 years ago.
-- eventId: 787438
+  description: Somali State Minister for Foreign Affairs discusses the country's recovery since its government collapsed 30 years ago.
+  genre:
+  - '48'
+- eventId:
+  - 787438
+  - 798665
   start: 2026-11-19T20:00:00Z
   stop: 2026-11-19T21:00:00Z
   title: The Drugs Don't Work
   subtitle: The overuse of antibiotics will lead to 8 million deaths yearly from drug resistant superbugs by 2050. Hundreds of millions more could die from related causes.
-- eventId: 798665
-  start: 2026-11-19T20:00:00Z
-  stop: 2026-11-19T20:30:00Z
-  title: News Live
-  description: Up-to-date news and analysis from around the world.
+  description: El uso excesivo de antibióticos provocará 8 millones de muertes anuales por superbacterias resistentes a los medicamentos para 2050. Cientos de millones más podrían morir por causas relacionadas.
   genre:
   - '32'
 - eventId: 798666
@@ -340,16 +341,16 @@
   title: Program to be Announced
   genre:
   - '32'
-- eventId: 787448
+  subtitle: (katari hírműsor, 2026)
+  description: Latest news and in-depth analysis from around the world.
+- eventId:
+  - 787448
+  - 798747
   start: 2026-11-19T22:00:00Z
   stop: 2026-11-19T22:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId: 798747
-  start: 2026-11-19T22:00:00Z
-  stop: 2026-11-19T23:00:00Z
-  title: Newshour
-  description: Latest news and in-depth analysis from around the world.
+  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
   genre:
   - '32'
 - eventId: 787449
