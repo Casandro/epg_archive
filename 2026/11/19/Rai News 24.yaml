@@ -306,7 +306,7 @@
   - '16'
 - eventId: 731316
   start: 2026-11-19T12:00:00Z
-  stop: 2026-11-19T12:25:45Z
+  stop: 2026-11-19T12:28:00Z
   title: TITOLI + TG GIORNO
   subtitle: ',.'
   description: ','
@@ -404,7 +404,7 @@
   - '16'
 - eventId: 731046
   start: 2026-11-19T15:00:00Z
-  stop: 2026-11-19T15:26:27Z
+  stop: 2026-11-19T15:26:55Z
   title: TITOLI + TG GIORNO
   subtitle: ',.'
   description: ','
@@ -415,7 +415,9 @@
   stop: 2026-11-19T15:30:00Z
   title: METEO
   subtitle: .
-- eventId: 731047
+- eventId:
+  - 731047
+  - 796428
   start: 2026-11-19T15:26:55Z
   stop: 2026-11-19T15:30:00Z
   title: METEO
@@ -441,13 +443,15 @@
   - '16'
 - eventId: 731050
   start: 2026-11-19T16:30:00Z
-  stop: 2026-11-19T16:33:26Z
+  stop: 2026-11-19T16:33:00Z
   title: SERA 24 ANTEPRIMA
   subtitle: ',.'
   description: ','
   genre:
   - '16'
-- eventId: 731051
+- eventId:
+  - 731051
+  - 796429
   start: 2026-11-19T16:33:00Z
   stop: 2026-11-19T17:00:00Z
   title: ECONOMIA 24
@@ -486,13 +490,15 @@
   - '16'
 - eventId: 731105
   start: 2026-11-19T18:30:00Z
-  stop: 2026-11-19T18:46:02Z
+  stop: 2026-11-19T18:45:00Z
   title: SERA 24 OFF
   subtitle: ',.'
   description: ','
   genre:
   - '16'
-- eventId: 731106
+- eventId:
+  - 731106
+  - 796430
   start: 2026-11-19T18:45:00Z
   stop: 2026-11-19T19:00:00Z
   title: RULLO SPORT 24
@@ -507,7 +513,7 @@
   subtitle: .
 - eventId: 731107
   start: 2026-11-19T19:00:00Z
-  stop: 2026-11-19T19:26:38Z
+  stop: 2026-11-19T19:26:55Z
   title: TG LIS + TG SERA
   subtitle: ',.'
   description: ','
@@ -518,7 +524,9 @@
   stop: 2026-11-19T19:30:00Z
   title: METEO
   subtitle: .
-- eventId: 731108
+- eventId:
+  - 731108
+  - 796431
   start: 2026-11-19T19:26:55Z
   stop: 2026-11-19T19:30:00Z
   title: METEO
@@ -528,7 +536,7 @@
   - '16'
 - eventId: 731109
   start: 2026-11-19T19:30:00Z
-  stop: 2026-11-19T19:44:18Z
+  stop: 2026-11-19T19:45:00Z
   title: SOMMARIO + TG SERA
   subtitle: ',.'
   description: ','
@@ -539,7 +547,9 @@
   stop: 2026-11-19T20:00:00Z
   title: FOCUS 24
   subtitle: .
-- eventId: 731110
+- eventId:
+  - 731110
+  - 796432
   start: 2026-11-19T19:45:00Z
   stop: 2026-11-19T20:00:00Z
   title: RUBRICA IN SCENA + LA VIA DEI LIBRI
@@ -557,13 +567,15 @@
   - '16'
 - eventId: 731112
   start: 2026-11-19T20:30:00Z
-  stop: 2026-11-19T20:45:10Z
+  stop: 2026-11-19T20:45:00Z
   title: FOCUS ESTERI DIRETTA
   subtitle: ',.'
   description: ','
   genre:
   - '16'
-- eventId: 731113
+- eventId:
+  - 731113
+  - 796433
   start: 2026-11-19T20:45:00Z
   stop: 2026-11-19T21:00:00Z
   title: SAPORI E COLORI
