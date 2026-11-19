@@ -932,7 +932,7 @@
   hd: true
 - eventId: 799372
   start: 2026-11-19T15:00:00Z
-  stop: 2026-11-19T15:29:50Z
+  stop: 2026-11-19T15:29:10Z
   title: Zprávy v 16
   subtitle: Nejdůležitější události dne v ČR i ve světě.
   description: |-
@@ -959,6 +959,17 @@
   stop: 2026-11-19T15:30:00Z
   title: Zprávy v 16
   subtitle: Nejdůležitější události dne v ČR i ve světě.
+  description: |-
+    HDTV
+    Znakový jazyk
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
+- eventId: 801462
+  start: 2026-11-19T15:29:10Z
+  stop: 2026-11-19T15:32:10Z
+  title: Zprávy
   description: |-
     HDTV
     Znakový jazyk
@@ -1004,6 +1015,17 @@
     Skryté titulky
   genre:
   - '32'
+  widescreen: true
+- eventId: 801463
+  start: 2026-11-19T15:32:10Z
+  stop: 2026-11-19T16:00:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Problémy turecké vlády; V Krkonoších si připomínají 140 let od narození Bohumila Hanče; Nový český komiks "Na dosah".'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
   widescreen: true
 - eventId: 799449
   start: 2026-11-19T15:32:50Z
@@ -1092,6 +1114,7 @@
   - 658035
   - 701747
   - 752544
+  - 801234
   start: 2026-11-19T16:03:00Z
   stop: 2026-11-19T16:30:00Z
   title: Studio ČT24
@@ -1139,10 +1162,11 @@
   - 658037
   - 701749
   - 752546
+  - 801464
   start: 2026-11-19T16:33:00Z
   stop: 2026-11-19T16:55:00Z
   title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  subtitle: 'Témata: Setkání koalice ochotných v Berlíně (komentář); Co přinesou Události, komentáře; V Novém Jičíně se otevírá nová porodnici kvůli olovu ve vodě.'
   description: |-
     HDTV
     Skryté titulky
@@ -1156,11 +1180,17 @@
   - 658038
   - 701750
   - 752547
+  - 801465
   start: 2026-11-19T16:55:00Z
   stop: 2026-11-19T17:00:00Z
   title: Předpověď počasí
-  subtitle: Souhrn meteorologických informací uplynulých 24 hodin a prognóza vývoje počasí na příští dny.
+  subtitle: |-
+    Převážně zataženo, občas déšť, na jihu Moravy déšť jen místy.
+    Postupně na SZ a S v polohách nad 900 m přejde déšť ve sněžení.
+    Nejvyšší teploty 6 až 10 °C, na jižní Moravě až 13 °C.
+    Čerstvý JZ
   description: |-
+    až Z vítr místy s nárazy kolem 55 km/h bude od severu slábnout.
     HDTV
     Zvukový popis
     Skryté titulky
@@ -1175,6 +1205,7 @@
   - 658039
   - 701751
   - 752548
+  - 801460
   start: 2026-11-19T17:00:00Z
   stop: 2026-11-19T17:03:00Z
   title: Zprávy
@@ -1203,6 +1234,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 801461
+  start: 2026-11-19T17:03:00Z
+  stop: 2026-11-19T17:28:00Z
+  title: Studio ČT24
+  subtitle: 'Témata: Schůzka Trumpa, Putina a Siho; Setkání koalice ochotných v Berlíně.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 647001
   - 658041
@@ -1220,6 +1262,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 801239
+  start: 2026-11-19T17:28:00Z
+  stop: 2026-11-19T17:55:00Z
+  title: Interview ČT24
+  subtitle: 'Host: Veronika Stromšíková, zvláštní zmocněnkyně pro obranu a bezpečnost, ministerstvo zahraničí. Moderuje: Daniel Takáč.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 647002
   - 658042
@@ -1298,8 +1351,9 @@
   start: 2026-11-19T19:07:00Z
   stop: 2026-11-19T20:30:00Z
   title: 90' ČT24
-  subtitle: 'Téma: Setkání Si Ťin-pchinga, Donalda Trumpa a Vladimira Putina - co přineslo jednání prezidentů? Moderuje: Nikola Reindlová.'
+  subtitle: 'Témata: Setkání prezidentů Donalda Trumpa, Si Ťin-pchinga a Vladimira Putina; Čína hostí světové lídry; Fenomén James Bond. Hosté: M. Libřický, M. Žantovský, V. Votápek, R. Joch, S. Fantová, P. Sladký, V. Rybář.'
   description: |-
+    Moderuje: N. Reindlová.
     HDTV
     Skryté titulky
   genre:
