@@ -33,18 +33,24 @@
   - 700375
   - 711021
   start: 2026-12-02T00:35:00Z
-  stop: 2026-12-02T01:35:00Z
+  stop: 2026-12-02T01:05:00Z
   title: Frankenschau aktuell
   subtitle: Lust auf Heimat
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 793573
+- eventId:
+  - 793573
+  - 800003
   start: 2026-12-02T01:05:00Z
   stop: 2026-12-02T01:35:00Z
   title: Abendschau - Der Süden
   subtitle: Das Wichtigste aus Südbayern
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 575121
   - 627547
@@ -179,6 +185,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 581639
   - 594123
@@ -243,6 +251,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 581642
   - 594126
@@ -344,6 +354,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 576127
   - 581884
@@ -373,6 +385,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 576435
   - 582114
@@ -602,35 +616,26 @@
   - 577519
   - 580591
   - 583881
+  - 584777
   - 587764
   - 595367
   - 597702
   - 602230
   - 608182
   - 612209
+  - 621853
+  - 701661
+  - 711137
   - 824374
   start: 2026-12-02T21:00:00Z
   stop: 2026-12-02T21:30:00Z
-  title: mehr/wert
+  title: 'KLAR - Deutschland: vermüllt!'
   subtitle: Das Magazin für Wirtschaft und Soziales - Der ewige Streit um den Alpentransit
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
   description: "* Online-Bewertungen: Wie viel Kritik ist erlaubt?\n* Deutsche Geschäfte in Russland\n* Laufschuhe für Herbst und Winter \n* Herbstcheck fürs Auto"
-- eventId:
-  - 584777
-  - 621853
-  - 701661
-  - 711137
-  start: 2026-12-02T21:00:00Z
-  stop: 2026-12-02T21:30:00Z
-  title: 'KLAR - Deutschland: vermüllt!'
-  subtitle: Deutschland 2026
-  widescreen: true
-  subtitled: true
-  hd: true
-  audiodesc: true
 - eventId:
   - 1009800
   - 559213
@@ -763,6 +768,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 1009803
   - 559216

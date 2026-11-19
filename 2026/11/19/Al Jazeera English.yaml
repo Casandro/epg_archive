@@ -187,14 +187,11 @@
 - eventId:
   - 787407
   - 797289
+  - 798495
   start: 2026-11-19T13:00:00Z
   stop: 2026-11-19T14:00:00Z
   title: 'NEWSHOUR: The World Now'
   subtitle: A fast-paced, live global news show capturing the latest developments as they unfold.
-- eventId: 798495
-  start: 2026-11-19T13:00:00Z
-  stop: 2026-11-19T14:00:00Z
-  title: Let's Focus
   description: Designed for viewers seeking context, depth and clarity, Let's Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.
   genre:
   - '32'
@@ -208,11 +205,16 @@
   description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
   genre:
   - '32'
-- eventId: 787409
+- eventId:
+  - 787409
+  - 799589
   start: 2026-11-19T14:30:00Z
   stop: 2026-11-19T15:00:00Z
   title: Beyond the Horizon - Searching For Gaza
   subtitle: 30 minute documentary program produced in Qatar in 2026.
+  description: Maasai photographer Latei Moses journeys across northern Kenya in search of the elusive black leopard, reclaiming the lens to tell his own stories.
+  genre:
+  - '32'
 - eventId: 787421
   start: 2026-11-19T15:00:00Z
   stop: 2026-11-19T16:30:00Z
@@ -220,11 +222,12 @@
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId: 798635
   start: 2026-11-19T15:00:00Z
-  stop: 2026-11-19T15:30:00Z
+  stop: 2026-11-19T16:30:00Z
   title: News Live
-  description: Up-to-date news and analysis from around the world.
+  description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
+  subtitle: (katari hírműsor, 2026)
 - eventId: 798636
   start: 2026-11-19T15:30:00Z
   stop: 2026-11-19T16:00:00Z
@@ -239,34 +242,34 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
-- eventId: 787422
+- eventId:
+  - 787422
+  - 799594
   start: 2026-11-19T16:30:00Z
   stop: 2026-11-19T17:00:00Z
   title: Witness
   subtitle: Sosa, a survivor of child trafficking and gang exploitation in the UK, returns to Nigeria to search for his missing mother and confront the past.
-- eventId: 787423
+  description: Sosa, a survivor of child trafficking and gang exploitation in the UK, returns to Nigeria to search for his missing mother and confront the past.
+  genre:
+  - '144'
+- eventId:
+  - 787423
+  - 798638
   start: 2026-11-19T17:00:00Z
   stop: 2026-11-19T17:30:00Z
   title: 'NEWS 30min: Lives in Focus'
   subtitle: A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.
-- eventId: 798638
-  start: 2026-11-19T17:00:00Z
-  stop: 2026-11-19T17:30:00Z
-  title: News Live
-  description: Up-to-date news and analysis from around the world.
+  description: A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.
   genre:
   - '32'
-- eventId: 787424
+- eventId:
+  - 787424
+  - 798639
   start: 2026-11-19T17:30:00Z
   stop: 2026-11-19T18:00:00Z
   title: Inside Story
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
-- eventId: 798639
-  start: 2026-11-19T17:30:00Z
-  stop: 2026-11-19T18:00:00Z
-  title: Witness
-  subtitle: Rescue Mission Gaza
-  description: One day, four bombsites, two emergency hospital stops with Gaza's Civil Defense under Israeli bombardment.
+  description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
   genre:
   - '32'
 - eventId: 787435

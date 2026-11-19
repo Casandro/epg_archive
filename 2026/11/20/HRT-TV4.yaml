@@ -72,7 +72,7 @@
   - '32'
 - eventId: 735969
   start: 2026-11-20T01:53:00Z
-  stop: 2026-11-20T01:55:00Z
+  stop: 2026-11-20T01:56:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -103,11 +103,15 @@
   - 788012
   - 793568
   - 797554
+  - 799875
   start: 2026-11-20T01:56:00Z
   stop: 2026-11-20T02:00:00Z
   title: Poslovne vijesti
-  subtitle: ' '
+  subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 735971
   start: 2026-11-20T02:00:00Z
   stop: 2026-11-20T02:10:00Z
@@ -281,7 +285,7 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 752368
   start: 2026-11-20T05:18:00Z
-  stop: 2026-11-20T05:26:00Z
+  stop: 2026-11-20T05:24:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
@@ -296,11 +300,15 @@
   - 788013
   - 793569
   - 797555
+  - 799876
   start: 2026-11-20T05:24:00Z
   stop: 2026-11-20T05:54:00Z
   title: Otvoreno
-  subtitle: ' '
+  subtitle: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 752369
   - 778089
@@ -337,6 +345,14 @@
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 799877
+  start: 2026-11-20T05:54:00Z
+  stop: 2026-11-20T06:00:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 752370
   - 778090
@@ -491,6 +507,7 @@
 - eventId:
   - 752390
   - 797965
+  - 800056
   start: 2026-11-20T08:00:00Z
   stop: 2026-11-20T08:30:00Z
   title: Vijesti
@@ -516,6 +533,7 @@
 - eventId:
   - 752251
   - 797966
+  - 800057
   start: 2026-11-20T12:00:00Z
   stop: 2026-11-20T12:30:00Z
   title: Vijesti
@@ -551,6 +569,7 @@
 - eventId:
   - 752254
   - 797967
+  - 800058
   start: 2026-11-20T12:33:00Z
   stop: 2026-11-20T12:35:00Z
   title: Vrijeme Svijet danas
@@ -568,6 +587,7 @@
 - eventId:
   - 752255
   - 797968
+  - 800059
   start: 2026-11-20T12:35:00Z
   stop: 2026-11-20T12:45:00Z
   title: 'Studio 4: Kultura'
@@ -585,6 +605,7 @@
 - eventId:
   - 752256
   - 797969
+  - 800060
   start: 2026-11-20T12:45:00Z
   stop: 2026-11-20T12:50:00Z
   title: Poslovne vijesti
@@ -602,6 +623,7 @@
 - eventId:
   - 752257
   - 797970
+  - 800061
   start: 2026-11-20T12:50:00Z
   stop: 2026-11-20T13:00:00Z
   title: 'Studio 4: Znanost'
@@ -878,7 +900,9 @@
   genre:
   - '32'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 797971
+- eventId:
+  - 797971
+  - 800062
   start: 2026-11-20T15:55:00Z
   stop: 2026-11-20T16:03:00Z
   title: 'Studio 4: Kultura'
@@ -897,6 +921,7 @@
   - 752278
   - 752697
   - 797972
+  - 800063
   start: 2026-11-20T16:03:00Z
   stop: 2026-11-20T16:11:00Z
   title: 'Studio 4: Znanost'
@@ -916,6 +941,7 @@
   - 752279
   - 752698
   - 797973
+  - 800064
   start: 2026-11-20T16:11:00Z
   stop: 2026-11-20T16:12:00Z
   title: Vrijeme RH danas
@@ -929,6 +955,7 @@
   - 752280
   - 752699
   - 797974
+  - 800065
   start: 2026-11-20T16:12:00Z
   stop: 2026-11-20T16:13:00Z
   title: Vrijeme Europa danas
@@ -966,7 +993,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 797975
+- eventId:
+  - 797975
+  - 800066
   start: 2026-11-20T16:15:00Z
   stop: 2026-11-20T16:20:00Z
   title: Bez komentara
@@ -1249,7 +1278,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 797976
+- eventId:
+  - 797976
+  - 800067
   start: 2026-11-20T19:55:00Z
   stop: 2026-11-20T20:00:00Z
   title: Bez komentara

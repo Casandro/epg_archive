@@ -145,7 +145,9 @@
   - '21'
   widescreen: true
   hd: true
-- eventId: 795113
+- eventId:
+  - 795113
+  - 799704
   start: 2026-11-21T03:40:00Z
   stop: 2026-11-21T04:20:00Z
   title: L'Opéra - Dancing in Paris
@@ -167,6 +169,7 @@
   genre:
   - '21'
   widescreen: true
+  hd: true
 - eventId:
   - 560313
   - 627483
@@ -1116,7 +1119,7 @@
   - 742397
   - 742793
   start: 2026-11-21T19:15:00Z
-  stop: 2026-11-21T21:00:00Z
+  stop: 2026-11-21T22:00:00Z
   title: Der Schneider von Panama
   genre:
   - '16'
@@ -1138,6 +1141,7 @@
 
     HD-Produktion
   subtitled: true
+  audiodesc: true
 - eventId:
   - 539757
   - 539897
@@ -1172,13 +1176,30 @@
     Regie: Carl Franklin
 
     HD-Produktion
-- eventId: 799451
+- eventId:
+  - 799451
+  - 799725
   start: 2026-11-21T22:00:00Z
   stop: 2026-11-21T23:50:00Z
   title: Sin City
   genre:
   - '16'
   widescreen: true
+  description: |-
+    USA 2005
+    In dieser brutalen Comicverfilmung wird in drei Kapiteln das Leben unterschiedlicher Charaktere in der düsteren Basin City begleitet, wo Gewalt und Verbrechen an der Tagesordnung stehen.
+
+    Hartigan, Marv und Dwight sind die Protagonisten ihrer Schicksale. Ihre täglichen Begleiter sind Korruption, Mord und Rache, was das Leben in "Sin City" zu einem schwarz-weißen Albtraum macht.
+    Darsteller:
+    John Hartigan - Bruce Willis
+    Dwight McCarthy - Clive Owen
+    Kevin - Elijah Wood
+    Marv - Mickey Rourke
+    Jack Rafferty - Benicio del Toro
+    Regie: Robert Rodriguez, Frank Miller, Quentin Tarantino
+
+    HD-Produktion
+  hd: true
 - eventId: 620494
   start: 2026-11-21T22:35:00Z
   stop: 2026-11-22T00:25:00Z
@@ -1187,7 +1208,9 @@
   - '16'
   widescreen: true
   subtitled: true
-- eventId: 799453
+- eventId:
+  - 799453
+  - 799726
   start: 2026-11-21T23:50:00Z
   stop: 2026-11-22T01:45:00Z
   title: Assignment - Der Auftrag
@@ -1195,3 +1218,19 @@
   - '16'
   widescreen: true
   subtitled: true
+  description: |-
+    Agententhriller, USA 1997
+    Ein schrecklicher Terroranschlag erschüttert Paris. Der CIA-Mann Jack Shaw vermutet den weltweit berüchtigten Terroristen Carlos Sanchez als Drahtzieher.
+
+    Schon seit Jahren bringt "Carlos, der Schakal" Verderben in die Welt. Die Geheimdienste haben ein großes Interesse daran, ihn endlich zur Strecke zu bringen. Die CIA arbeitet deshalb mit dem Mossad zusammen. Sie wollen Carlos eine Falle stellen.
+    Darsteller:
+    Annibal Ramirez / Carlos - Aidan Quinn
+    Jack Shaw / Henry Fields - Donald Sutherland
+    Amos - Ben Kingsley
+    Agnieska - Liliana Komorowska
+    Carla - Céline Bonnier
+    Maura Ramirez - Claudia Ferri
+    Regie: Christian Duguay
+
+    HD-Produktion
+  hd: true
