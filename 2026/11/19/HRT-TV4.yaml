@@ -447,6 +447,7 @@
   - 777553
   - 778067
   - 784122
+  - 789075
   start: 2026-11-19T05:00:00Z
   stop: 2026-11-19T05:08:00Z
   title: Vijesti na španjolskom jeziku
@@ -470,6 +471,7 @@
   - 777554
   - 778068
   - 784123
+  - 789076
   start: 2026-11-19T05:08:00Z
   stop: 2026-11-19T05:10:00Z
   title: Bez komentara
@@ -480,7 +482,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 728285
   start: 2026-11-19T05:10:00Z
-  stop: 2026-11-19T05:17:00Z
+  stop: 2026-11-19T05:18:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -502,6 +504,7 @@
   - 777555
   - 778069
   - 784124
+  - 789077
   start: 2026-11-19T05:18:00Z
   stop: 2026-11-19T05:20:00Z
   title: Bez komentara
@@ -532,7 +535,9 @@
   genre:
   - '160'
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 784125
+- eventId:
+  - 784125
+  - 789078
   start: 2026-11-19T05:20:00Z
   stop: 2026-11-19T05:26:00Z
   title: 'Studio 4: Znanost'
@@ -631,7 +636,9 @@
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 784126
+- eventId:
+  - 784126
+  - 789079
   start: 2026-11-19T05:53:00Z
   stop: 2026-11-19T06:00:00Z
   title: Bez komentara
@@ -676,7 +683,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 728292
   start: 2026-11-19T06:10:00Z
-  stop: 2026-11-19T06:13:00Z
+  stop: 2026-11-19T06:15:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
@@ -697,6 +704,7 @@
   - 728293
   - 778073
   - 784127
+  - 789080
   start: 2026-11-19T06:15:00Z
   stop: 2026-11-19T06:22:00Z
   title: Vijesti iz kulture
@@ -717,7 +725,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 728294
   start: 2026-11-19T06:22:00Z
-  stop: 2026-11-19T06:24:00Z
+  stop: 2026-11-19T06:23:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -728,6 +736,7 @@
   - 728295
   - 778074
   - 784128
+  - 789081
   start: 2026-11-19T06:23:00Z
   stop: 2026-11-19T06:24:00Z
   title: Vrijeme Europa danas
@@ -747,7 +756,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 728297
   start: 2026-11-19T06:26:00Z
-  stop: 2026-11-19T06:27:00Z
+  stop: 2026-11-19T06:28:00Z
   title: 'HRT100 Vremeplov: Uvedene prometne kazne za pješake 1999.'
   subtitle: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
   ageRating: 4
@@ -768,6 +777,7 @@
   - 728298
   - 778075
   - 784129
+  - 789082
   start: 2026-11-19T06:28:00Z
   stop: 2026-11-19T06:30:00Z
   title: Bez komentara
@@ -850,7 +860,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 728307
   start: 2026-11-19T08:00:00Z
-  stop: 2026-11-19T09:00:00Z
+  stop: 2026-11-19T08:30:00Z
   title: Prijenos sjednice vlade
   subtitle: Kratki pregled vijesti iz Hrvatske i svijeta.
   ageRating: 4
@@ -869,6 +879,7 @@
 - eventId:
   - 778076
   - 784130
+  - 789083
   start: 2026-11-19T08:30:00Z
   stop: 2026-11-19T09:00:00Z
   title: '"Žrtva Borovo naselja za Domovinu"'
@@ -900,7 +911,7 @@
   description: Kratki pregled vijesti iz Hrvatske i svijeta.
 - eventId: 728310
   start: 2026-11-19T12:30:00Z
-  stop: 2026-11-19T12:38:00Z
+  stop: 2026-11-19T12:31:00Z
   title: 'Studio 4: Kultura'
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -911,6 +922,7 @@
   - 728311
   - 778077
   - 784133
+  - 789084
   start: 2026-11-19T12:31:00Z
   stop: 2026-11-19T12:33:00Z
   title: Vrijeme Europa danas
@@ -923,6 +935,7 @@
   - 728312
   - 778078
   - 784134
+  - 789085
   start: 2026-11-19T12:33:00Z
   stop: 2026-11-19T12:35:00Z
   title: Vrijeme Svijet danas
@@ -935,6 +948,7 @@
   - 728313
   - 778079
   - 784135
+  - 789086
   start: 2026-11-19T12:35:00Z
   stop: 2026-11-19T12:43:00Z
   title: 'Studio 4: Kultura'
@@ -971,6 +985,7 @@
   - 756320
   - 778080
   - 784136
+  - 789087
   start: 2026-11-19T12:43:00Z
   stop: 2026-11-19T12:48:00Z
   title: Poslovne vijesti
@@ -1205,7 +1220,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 728333
   start: 2026-11-19T15:30:00Z
-  stop: 2026-11-19T15:54:00Z
+  stop: 2026-11-19T15:55:00Z
   title: Druga strana
   subtitle: Tjedna emisija o gospodarstvu koja govori o onome što drugi prešućuju. Je li sve onakvo kakvim se na prvi pogled čini?
   ageRating: 4
@@ -1226,6 +1241,7 @@
   - 728334
   - 778081
   - 784139
+  - 789088
   start: 2026-11-19T15:55:00Z
   stop: 2026-11-19T16:03:00Z
   title: 'Studio 4: Kultura'
@@ -1248,6 +1264,7 @@
   - 728335
   - 778082
   - 784140
+  - 789089
   start: 2026-11-19T16:03:00Z
   stop: 2026-11-19T16:11:00Z
   title: 'Studio 4: Znanost'
@@ -1280,6 +1297,7 @@
   - 728336
   - 778083
   - 784141
+  - 789090
   start: 2026-11-19T16:11:00Z
   stop: 2026-11-19T16:12:00Z
   title: Vrijeme RH danas
@@ -1290,7 +1308,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 728337
   start: 2026-11-19T16:12:00Z
-  stop: 2026-11-19T16:14:00Z
+  stop: 2026-11-19T16:13:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -1301,6 +1319,7 @@
   - 728338
   - 778084
   - 784142
+  - 789091
   start: 2026-11-19T16:13:00Z
   stop: 2026-11-19T16:15:00Z
   title: Vrijeme Svijet danas
@@ -1323,6 +1342,7 @@
   - 728339
   - 778085
   - 784143
+  - 789092
   start: 2026-11-19T16:15:00Z
   stop: 2026-11-19T16:20:00Z
   title: Bez komentara
@@ -1342,7 +1362,7 @@
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId: 728341
   start: 2026-11-19T16:40:00Z
-  stop: 2026-11-19T16:43:00Z
+  stop: 2026-11-19T16:45:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
@@ -1363,6 +1383,7 @@
   - 728342
   - 778086
   - 784144
+  - 789093
   start: 2026-11-19T16:45:00Z
   stop: 2026-11-19T16:52:00Z
   title: 'Studio 4: Sport'
@@ -1385,6 +1406,7 @@
   - 728343
   - 778087
   - 784145
+  - 789094
   start: 2026-11-19T16:52:00Z
   stop: 2026-11-19T16:58:00Z
   title: Bez komentara
