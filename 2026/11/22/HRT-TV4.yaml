@@ -270,7 +270,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 813325
   start: 2026-11-22T05:20:00Z
-  stop: 2026-11-22T05:26:00Z
+  stop: 2026-11-22T05:28:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
@@ -285,14 +285,16 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 813326
   start: 2026-11-22T05:28:00Z
-  stop: 2026-11-22T05:55:00Z
+  stop: 2026-11-22T05:30:00Z
   title: 'DW: U dobroj formi'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
   description: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
-- eventId: 813327
+- eventId:
+  - 813327
+  - 829421
   start: 2026-11-22T05:30:00Z
   stop: 2026-11-22T05:56:00Z
   title: 'DW: U dobroj formi'
@@ -316,6 +318,14 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 829422
+  start: 2026-11-22T05:56:00Z
+  stop: 2026-11-22T06:00:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 813329
   start: 2026-11-22T06:00:00Z
   stop: 2026-11-22T06:10:00Z
@@ -397,7 +407,9 @@
   genre:
   - '160'
   description: Ova emisija Prometej posvećena je pitanjima medijske odgovornosti i poštovanja temeljnih postulata istine i korištenja dostupnih vjerodostojnih povijesnih izvora i arhiva kada se tematiziraju događaji iz razdoblja Domovinskog rata. Dio je serijala emisija Prometej kojima razmatramo etičnost i odgovornost novinarske struke i medija u novom dobu koje se stvara pred našim očima. Različiti tradicionalni mediji te društvene mreže stvaraju medijsku buku i šumu nepreglednih informacija, djelovanje starih medija i onih koje želimo korigirati, postaju ključ odnosa u kreaciji društva. Je li na tom putu izgubljena ideja novinarske etike i vjerodostojnih postulata struke kojima je temeljna zadaća braniti istinu i dostojanstvo čovjeka, smije li laž, manipulacija i poigravanje s istinom i provjerenim informacijama biti prihvatljivo ponašanje u svijetu koji je tako nepodnošljivo krhak i nesiguran? Kakvi su nam mediji i medijski okoliš, na koji način neki mediji tematiziraju razdoblje Domovinskog rata, konzultiraju li u svom radu dostupne povijesne izvore i arhivsku građu, govori prof. dr. sc. Ante Nazor, ravnatelj Hrvatskog memorijalno-dokumentacijskog centra Domovinskog rata.
-- eventId: 813338
+- eventId:
+  - 813338
+  - 829423
   start: 2026-11-22T06:55:00Z
   stop: 2026-11-22T07:00:00Z
   title: Bez komentara
@@ -558,7 +570,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 813355
   start: 2026-11-22T09:35:00Z
-  stop: 2026-11-22T09:42:00Z
+  stop: 2026-11-22T09:45:00Z
   title: 'Studio 4: Sport'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
@@ -571,7 +583,9 @@
   title: Poslovne vijesti
   subtitle: ' '
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 813356
+- eventId:
+  - 813356
+  - 829424
   start: 2026-11-22T09:45:00Z
   stop: 2026-11-22T09:50:00Z
   title: Poslovne vijesti
@@ -586,7 +600,9 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 813357
+- eventId:
+  - 813357
+  - 829425
   start: 2026-11-22T09:50:00Z
   stop: 2026-11-22T10:00:00Z
   title: 'Studio 4: Znanost'
@@ -693,7 +709,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 813368
   start: 2026-11-22T11:20:00Z
-  stop: 2026-11-22T11:28:00Z
+  stop: 2026-11-22T11:30:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
