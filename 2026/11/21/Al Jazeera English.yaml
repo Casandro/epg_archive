@@ -111,7 +111,9 @@
   description: One day, four bombsites, two emergency hospital stops with Gaza's Civil Defense under Israeli bombardment.
   genre:
   - '32'
-- eventId: 787154
+- eventId:
+  - 787154
+  - 825011
   start: 2026-11-21T06:00:00Z
   stop: 2026-11-21T06:30:00Z
   title: News Live
@@ -119,7 +121,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 787155
+- eventId:
+  - 787155
+  - 825012
   start: 2026-11-21T06:30:00Z
   stop: 2026-11-21T07:00:00Z
   title: Making Peace
@@ -135,6 +139,11 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
+- eventId: 825013
+  start: 2026-11-21T07:00:00Z
+  stop: 2026-11-21T08:00:00Z
+  title: Newshour
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId: 799081
   start: 2026-11-21T07:30:00Z
   stop: 2026-11-21T08:00:00Z
@@ -151,7 +160,14 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
-- eventId: 787158
+- eventId: 825014
+  start: 2026-11-21T08:00:00Z
+  stop: 2026-11-21T08:30:00Z
+  title: News Live
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+- eventId:
+  - 787158
+  - 825015
   start: 2026-11-21T08:30:00Z
   stop: 2026-11-21T09:00:00Z
   title: Counting the Cost
