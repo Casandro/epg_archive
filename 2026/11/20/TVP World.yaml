@@ -561,7 +561,7 @@
   - 747861
   start: 2026-11-20T15:00:00Z
   stop: 2026-11-20T15:15:00Z
-  title: World News
+  title: World News Flash
   description: The flagship news programme of TVP World, created for Poles living abroad and for foreigners looking for information about Poland. The show includes information on politics, economy, culture, history, science, new technologies, sport.
   genre:
   - '149'
@@ -577,8 +577,17 @@
   - 589759
   - 747863
   start: 2026-11-20T15:30:00Z
+  stop: 2026-11-20T15:50:00Z
+  title: Polish Castles - ep. 2
+  ageRating: 12
+  genre:
+  - '149'
+- eventId: 834531
+  start: 2026-11-20T15:50:00Z
   stop: 2026-11-20T16:00:00Z
-  title: Document
+  title: World News Online
+  genre:
+  - '149'
 - eventId:
   - 589760
   - 747864
@@ -708,7 +717,14 @@
   - 589809
   - 774312
   start: 2026-11-20T19:30:00Z
-  stop: 2026-11-20T19:40:00Z
+  stop: 2026-11-20T19:31:00Z
+  title: On the Record - ep. 105
+  ageRating: 12
+  genre:
+  - '36'
+- eventId: 834532
+  start: 2026-11-20T19:31:00Z
+  stop: 2026-11-20T19:55:00Z
   title: On the Record - ep. 105
   ageRating: 12
   genre:
@@ -728,6 +744,10 @@
   ageRating: 12
   genre:
   - '23'
+- eventId: 834533
+  start: 2026-11-20T19:55:00Z
+  stop: 2026-11-20T20:00:00Z
+  title: Weather
 - eventId:
   - 589812
   - 747884
@@ -860,11 +880,22 @@
   - 589949
   - 747903
   start: 2026-11-20T23:00:00Z
-  stop: 2026-11-20T23:40:00Z
+  stop: 2026-11-20T23:30:00Z
   title: World News
   description: The flagship news programme of TVP World, created for Poles living abroad and for foreigners looking for information about Poland. The show includes information on politics, economy, culture, history, science, new technologies, sport.
   genre:
   - '149'
+- eventId: 834534
+  start: 2026-11-20T23:30:00Z
+  stop: 2026-11-20T23:31:00Z
+  title: Weather
+- eventId: 834535
+  start: 2026-11-20T23:31:00Z
+  stop: 2026-11-20T23:55:00Z
+  title: On the Record - ep. 105
+  ageRating: 12
+  genre:
+  - '36'
 - eventId:
   - 589950
   - 747904
@@ -880,3 +911,7 @@
   ageRating: 12
   genre:
   - '23'
+- eventId: 834536
+  start: 2026-11-20T23:55:00Z
+  stop: 2026-11-21T00:00:00Z
+  title: Weather
