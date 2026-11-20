@@ -303,6 +303,14 @@
   genre:
   - '160'
   description: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
+- eventId: 833082
+  start: 2026-11-22T05:30:00Z
+  stop: 2026-11-22T05:55:00Z
+  title: 'DW: U dobroj formi'
+  subtitle: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 829185
   start: 2026-11-22T05:55:00Z
   stop: 2026-11-22T05:58:00Z
@@ -318,7 +326,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 829422
+- eventId:
+  - 829422
+  - 833083
   start: 2026-11-22T05:56:00Z
   stop: 2026-11-22T06:00:00Z
   title: Bez komentara
@@ -410,6 +420,7 @@
 - eventId:
   - 813338
   - 829423
+  - 833084
   start: 2026-11-22T06:55:00Z
   stop: 2026-11-22T07:00:00Z
   title: Bez komentara
@@ -586,6 +597,7 @@
 - eventId:
   - 813356
   - 829424
+  - 833085
   start: 2026-11-22T09:45:00Z
   stop: 2026-11-22T09:50:00Z
   title: Poslovne vijesti
@@ -603,6 +615,7 @@
 - eventId:
   - 813357
   - 829425
+  - 833086
   start: 2026-11-22T09:50:00Z
   stop: 2026-11-22T10:00:00Z
   title: 'Studio 4: Znanost'

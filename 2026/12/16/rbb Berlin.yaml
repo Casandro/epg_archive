@@ -26,9 +26,17 @@
   audiodesc: true
 - eventId: 781838
   start: 2026-12-16T01:10:00Z
-  stop: 2026-12-16T01:55:00Z
+  stop: 2026-12-16T01:40:00Z
   title: Die Oker - Braunschweigs Auenland
   subtitle: Film von Georg Rüppell und Dagmar Hilfert-Rüppell
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
+- eventId: 832320
+  start: 2026-12-16T01:40:00Z
+  stop: 2026-12-16T01:55:00Z
+  title: Unsere Weihnachtstraditionen
   widescreen: true
   subtitled: true
   hd: true
@@ -252,7 +260,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 804205
+- eventId:
+  - 804205
+  - 832322
   start: 2026-12-16T19:00:00Z
   stop: 2026-12-16T19:15:00Z
   title: Tagesschau
