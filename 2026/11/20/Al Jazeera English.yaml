@@ -596,6 +596,9 @@
   stop: 2026-11-20T21:00:00Z
   title: Al Jazeera World
   subtitle: Inside the world's largest refugee camp, Rohingya families fight hunger and loss as aid dries upclinging to faith, each other and the hope of home.
+  description: Hear the emotional and captivating true stories from across the world in this series of documentries from the Al Jazeera Network. You will have a chance to find out something new about different people and places that make up our incredible world.
+  genre:
+  - '144'
 - eventId:
   - 798971
   - 831579
@@ -630,13 +633,26 @@
   description: Designed for viewers seeking context, depth and clarity, Let's Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.
   genre:
   - '32'
+- eventId: 839610
+  start: 2026-11-20T21:00:00Z
+  stop: 2026-11-20T22:00:00Z
+  title: NEWSHOUR
+  subtitle: Journal - 2026. News.
+  description: Journal - 2026. News. ''Newshour'' is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.
+  genre:
+  - '144'
+  subtitled: true
 - eventId:
   - 787565
   - 824865
+  - 839720
   start: 2026-11-20T22:00:00Z
   stop: 2026-11-20T22:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
+  genre:
+  - '128'
 - eventId:
   - 799001
   - 831587
@@ -649,29 +665,38 @@
 - eventId:
   - 787566
   - 824866
+  - 839721
   start: 2026-11-20T22:30:00Z
   stop: 2026-11-20T23:00:00Z
   title: UpFront
   subtitle: Frank, Blunt And Upfront, We Cut Through The Headlines To Get To The Heart Of The Matter With Influential Guests And Newsmakers.
+  description: Journalist Mehdi Hasan presents this informational magazine in which he goes through the biggest newspaper headlines. He reads into the stories behind them to uncover the true meanings, often running into contradictions along the way.
+  genre:
+  - '32'
 - eventId:
   - 787567
   - 799002
   - 824867
   - 831588
+  - 839722
   start: 2026-11-20T23:00:00Z
   stop: 2026-11-20T23:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-  description: Up-to-date news and analysis from around the world.
+  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
   genre:
   - '32'
 - eventId:
   - 787568
   - 824868
+  - 839723
   start: 2026-11-20T23:30:00Z
   stop: 2026-11-21T00:00:00Z
   title: Inside Story
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
+  description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
+  genre:
+  - '128'
 - eventId:
   - 799003
   - 831589
