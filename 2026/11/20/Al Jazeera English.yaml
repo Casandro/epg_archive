@@ -393,7 +393,7 @@
   start: 2026-11-20T13:00:00Z
   stop: 2026-11-20T14:00:00Z
   title: 'NEWSHOUR: THE WORLD NOW'
-  subtitle: Journal - 2026. News.
+  subtitle: A fast-paced, live global news show capturing the latest developments as they unfold.
   description: Journal - 2026. News. A fast-paced, live global news show capturing the latest developments as they unfold.
   genre:
   - '144'
@@ -409,7 +409,9 @@
   description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
   genre:
   - '128'
-- eventId: 798915
+- eventId:
+  - 798915
+  - 831549
   start: 2026-11-20T14:00:00Z
   stop: 2026-11-20T15:00:00Z
   title: Newshour
@@ -438,14 +440,18 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '128'
-- eventId: 798942
+- eventId:
+  - 798942
+  - 831565
   start: 2026-11-20T15:00:00Z
   stop: 2026-11-20T15:30:00Z
   title: News Live
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 798943
+- eventId:
+  - 798943
+  - 831566
   start: 2026-11-20T15:30:00Z
   stop: 2026-11-20T16:00:00Z
   title: People and Power
@@ -460,7 +466,9 @@
   stop: 2026-11-20T16:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId: 798944
+- eventId:
+  - 798944
+  - 831567
   start: 2026-11-20T16:00:00Z
   stop: 2026-11-20T17:00:00Z
   title: Newshour
@@ -481,7 +489,9 @@
   stop: 2026-11-20T17:30:00Z
   title: 'NEWS 30min: Lives in Focus'
   subtitle: A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.
-- eventId: 798945
+- eventId:
+  - 798945
+  - 831568
   start: 2026-11-20T17:00:00Z
   stop: 2026-11-20T17:30:00Z
   title: News Live
@@ -495,7 +505,9 @@
   stop: 2026-11-20T18:00:00Z
   title: Inside Story
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
-- eventId: 798946
+- eventId:
+  - 798946
+  - 831569
   start: 2026-11-20T17:30:00Z
   stop: 2026-11-20T18:00:00Z
   title: Business of War
@@ -510,14 +522,18 @@
   stop: 2026-11-20T19:00:00Z
   title: Newshour
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId: 798968
+- eventId:
+  - 798968
+  - 831576
   start: 2026-11-20T18:00:00Z
   stop: 2026-11-20T18:30:00Z
   title: News Live
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 798969
+- eventId:
+  - 798969
+  - 831577
   start: 2026-11-20T18:30:00Z
   stop: 2026-11-20T19:00:00Z
   title: Inside Story
@@ -531,7 +547,9 @@
   stop: 2026-11-20T19:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId: 798970
+- eventId:
+  - 798970
+  - 831578
   start: 2026-11-20T19:00:00Z
   stop: 2026-11-20T20:00:00Z
   title: Newshour
@@ -552,14 +570,18 @@
   stop: 2026-11-20T21:00:00Z
   title: Al Jazeera World
   subtitle: Inside the world's largest refugee camp, Rohingya families fight hunger and loss as aid dries upclinging to faith, each other and the hope of home.
-- eventId: 798971
+- eventId:
+  - 798971
+  - 831579
   start: 2026-11-20T20:00:00Z
   stop: 2026-11-20T20:30:00Z
   title: News Live
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 798972
+- eventId:
+  - 798972
+  - 831580
   start: 2026-11-20T20:30:00Z
   stop: 2026-11-20T21:00:00Z
   title: Counting the Cost
@@ -573,7 +595,9 @@
   stop: 2026-11-20T22:00:00Z
   title: Newshour
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId: 799000
+- eventId:
+  - 799000
+  - 831586
   start: 2026-11-20T21:00:00Z
   stop: 2026-11-20T22:00:00Z
   title: Let's Focus
@@ -587,7 +611,9 @@
   stop: 2026-11-20T22:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId: 799001
+- eventId:
+  - 799001
+  - 831587
   start: 2026-11-20T22:00:00Z
   stop: 2026-11-20T23:00:00Z
   title: Newshour
@@ -605,6 +631,7 @@
   - 787567
   - 799002
   - 824867
+  - 831588
   start: 2026-11-20T23:00:00Z
   stop: 2026-11-20T23:30:00Z
   title: News Live
@@ -619,7 +646,9 @@
   stop: 2026-11-21T00:00:00Z
   title: Inside Story
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
-- eventId: 799003
+- eventId:
+  - 799003
+  - 831589
   start: 2026-11-20T23:30:00Z
   stop: 2026-11-21T00:00:00Z
   title: earthrise - We Are Nature

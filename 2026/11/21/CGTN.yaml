@@ -9,7 +9,9 @@
   widescreen: true
   genre:
   - '32'
-- eventId: 799025
+- eventId:
+  - 799025
+  - 831593
   start: 2026-11-21T00:15:00Z
   stop: 2026-11-21T01:00:00Z
   title: China 24
@@ -39,6 +41,7 @@
   - 778411
   - 789264
   - 793194
+  - 826447
   start: 2026-11-21T01:30:00Z
   stop: 2026-11-21T02:00:00Z
   title: News Desk
@@ -47,12 +50,6 @@
   widescreen: true
   genre:
   - '32'
-- eventId: 826447
-  start: 2026-11-21T01:30:00Z
-  stop: 2026-11-21T02:00:00Z
-  title: China 24
-  description: China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.
-  widescreen: true
 - eventId:
   - 671952
   - 778412
@@ -124,7 +121,9 @@
   widescreen: true
   genre:
   - '32'
-- eventId: 799054
+- eventId:
+  - 799054
+  - 831604
   start: 2026-11-21T04:30:00Z
   stop: 2026-11-21T05:00:00Z
   title: Travelogue
@@ -149,7 +148,9 @@
   stop: 2026-11-21T06:15:00Z
   title: TV Drama
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
-- eventId: 799055
+- eventId:
+  - 799055
+  - 831605
   start: 2026-11-21T05:30:00Z
   stop: 2026-11-21T06:00:00Z
   title: Dialogue
@@ -263,6 +264,7 @@
   - 778428
   - 788235
   - 793202
+  - 826455
   start: 2026-11-21T09:30:00Z
   stop: 2026-11-21T10:00:00Z
   title: Sports Scene
@@ -271,12 +273,6 @@
   widescreen: true
   genre:
   - '32'
-- eventId: 826455
-  start: 2026-11-21T09:30:00Z
-  stop: 2026-11-21T10:00:00Z
-  title: Inheritors
-  description: Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture.
-  widescreen: true
 - eventId:
   - 671982
   - 778429
@@ -310,7 +306,9 @@
   stop: 2026-11-21T11:00:00Z
   title: Across the Strait
   subtitle: Across the Strait
-- eventId: 799106
+- eventId:
+  - 799106
+  - 831676
   start: 2026-11-21T10:30:00Z
   stop: 2026-11-21T11:00:00Z
   title: New Money
@@ -407,7 +405,9 @@
   widescreen: true
   genre:
   - '32'
-- eventId: 799132
+- eventId:
+  - 799132
+  - 831706
   start: 2026-11-21T14:15:00Z
   stop: 2026-11-21T15:00:00Z
   title: China 24
@@ -449,7 +449,9 @@
   widescreen: true
   genre:
   - '32'
-- eventId: 799163
+- eventId:
+  - 799163
+  - 831733
   start: 2026-11-21T15:15:00Z
   stop: 2026-11-21T16:00:00Z
   title: Assignment Asia
@@ -473,14 +475,16 @@
   subtitle: China Showbiz
 - eventId: 779940
   start: 2026-11-21T16:00:00Z
-  stop: 2026-11-21T16:30:00Z
+  stop: 2026-11-21T16:15:00Z
   title: The World Today
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   widescreen: true
   subtitle: Music Fair is a Japanese music show. The shows started in 1964 and it is the longest-running Japanese music show..
   genre:
   - '32'
-- eventId: 799164
+- eventId:
+  - 799164
+  - 831734
   start: 2026-11-21T16:15:00Z
   stop: 2026-11-21T17:00:00Z
   title: Crossover
@@ -610,14 +614,16 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 787220
   start: 2026-11-21T21:00:00Z
-  stop: 2026-11-21T21:30:00Z
+  stop: 2026-11-21T21:15:00Z
   title: Special Program
   subtitle: 'A wide range of topics featuring Japanese culture and society are introduced. '
   genre:
   - '32'
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   widescreen: true
-- eventId: 799216
+- eventId:
+  - 799216
+  - 831801
   start: 2026-11-21T21:15:00Z
   stop: 2026-11-21T22:00:00Z
   title: China 24
@@ -644,7 +650,7 @@
   description: Full Frame enriches the lives of viewers through animated discussion of film, arts and culture, and social trends etc impacting a diverse global audience.
 - eventId: 787221
   start: 2026-11-21T22:00:00Z
-  stop: 2026-11-21T23:00:00Z
+  stop: 2026-11-21T22:30:00Z
   title: Dreamchaser
   subtitle: The Dream Chaser Cargo System is an American reusable lifting body spaceplane being developed by Sierra Nevada Corporation Space Systems.
   genre:
@@ -670,6 +676,12 @@
   stop: 2026-11-21T23:30:00Z
   title: Universal Show
   subtitle: Join this light theatrical universal show with songs and dance.
+- eventId: 831802
+  start: 2026-11-21T22:30:00Z
+  stop: 2026-11-21T23:00:00Z
+  title: World Insight
+  genre:
+  - '32'
 - eventId:
   - 672027
   - 799217

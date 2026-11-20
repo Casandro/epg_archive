@@ -5,14 +5,18 @@
   stop: 2026-11-21T01:00:00Z
   title: Newshour
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId: 799027
+- eventId:
+  - 799027
+  - 831595
   start: 2026-11-21T00:00:00Z
   stop: 2026-11-21T00:30:00Z
   title: News Live
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 799028
+- eventId:
+  - 799028
+  - 831596
   start: 2026-11-21T00:30:00Z
   stop: 2026-11-21T01:00:00Z
   title: Inside Story
@@ -26,7 +30,9 @@
   stop: 2026-11-21T02:00:00Z
   title: The Drugs Don't Work
   subtitle: The overuse of antibiotics will lead to 8 million deaths yearly from drug resistant superbugs by 2050. Hundreds of millions more could die from related causes.
-- eventId: 799029
+- eventId:
+  - 799029
+  - 831597
   start: 2026-11-21T01:00:00Z
   stop: 2026-11-21T02:00:00Z
   title: Newshour
@@ -40,7 +46,9 @@
   stop: 2026-11-21T03:00:00Z
   title: Newshour
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId: 799030
+- eventId:
+  - 799030
+  - 831598
   start: 2026-11-21T02:00:00Z
   stop: 2026-11-21T03:00:00Z
   title: Program to be Announced
@@ -53,7 +61,9 @@
   stop: 2026-11-21T03:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId: 799057
+- eventId:
+  - 799057
+  - 831607
   start: 2026-11-21T03:00:00Z
   stop: 2026-11-21T04:00:00Z
   title: Newshour
@@ -71,6 +81,7 @@
   - 787140
   - 799058
   - 824886
+  - 831608
   start: 2026-11-21T04:00:00Z
   stop: 2026-11-21T04:30:00Z
   title: News Live
@@ -85,7 +96,9 @@
   stop: 2026-11-21T05:00:00Z
   title: Witness
   subtitle: Sosa, a survivor of child trafficking and gang exploitation in the UK, returns to Nigeria to search for his missing mother and confront the past.
-- eventId: 799059
+- eventId:
+  - 799059
+  - 831609
   start: 2026-11-21T04:30:00Z
   stop: 2026-11-21T05:00:00Z
   title: 101 East
@@ -95,7 +108,7 @@
   - '32'
 - eventId: 787142
   start: 2026-11-21T05:00:00Z
-  stop: 2026-11-22T05:00:00Z
+  stop: 2026-11-21T05:30:00Z
   title: AL JAZEERA ENGLISH
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: 'Canal 24 horas de noticias en inglØs realizado en Oriente Medio. Versiðn internacional de Al Jazeera. '
@@ -111,9 +124,18 @@
   description: One day, four bombsites, two emergency hospital stops with Gaza's Civil Defense under Israeli bombardment.
   genre:
   - '32'
+- eventId: 831610
+  start: 2026-11-21T05:30:00Z
+  stop: 2026-11-21T06:00:00Z
+  title: Witness
+  subtitle: Rescue Mission Gaza
+  description: One day, four bombsites, two emergency hospital stops with Gaza's Civil Defense under Israeli bombardment.
+  genre:
+  - '32'
 - eventId:
   - 787154
   - 825011
+  - 831635
   start: 2026-11-21T06:00:00Z
   stop: 2026-11-21T06:30:00Z
   title: News Live
@@ -131,7 +153,16 @@
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
   genre:
   - '32'
-- eventId: 787156
+- eventId: 831636
+  start: 2026-11-21T06:30:00Z
+  stop: 2026-11-21T07:00:00Z
+  title: Inside Story
+  description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
+  genre:
+  - '32'
+- eventId:
+  - 787156
+  - 831637
   start: 2026-11-21T07:00:00Z
   stop: 2026-11-21T07:30:00Z
   title: News Live
@@ -144,7 +175,9 @@
   stop: 2026-11-21T08:00:00Z
   title: Newshour
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId: 799081
+- eventId:
+  - 799081
+  - 831638
   start: 2026-11-21T07:30:00Z
   stop: 2026-11-21T08:00:00Z
   title: Business of War
@@ -165,6 +198,13 @@
   stop: 2026-11-21T08:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+- eventId: 831639
+  start: 2026-11-21T08:00:00Z
+  stop: 2026-11-21T09:00:00Z
+  title: Newshour
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 787158
   - 825015
@@ -175,6 +215,7 @@
 - eventId:
   - 787173
   - 824890
+  - 831678
   start: 2026-11-21T09:00:00Z
   stop: 2026-11-21T09:30:00Z
   title: News Live
@@ -182,7 +223,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 787174
+- eventId:
+  - 787174
+  - 831679
   start: 2026-11-21T09:30:00Z
   stop: 2026-11-21T10:00:00Z
   title: Counting the Cost
@@ -195,7 +238,9 @@
   stop: 2026-11-21T10:00:00Z
   title: UpFront
   subtitle: Frank, Blunt And Upfront, We Cut Through The Headlines To Get To The Heart Of The Matter With Influential Guests And Newsmakers.
-- eventId: 787175
+- eventId:
+  - 787175
+  - 831680
   start: 2026-11-21T10:00:00Z
   stop: 2026-11-21T10:30:00Z
   title: News Live
@@ -208,7 +253,9 @@
   stop: 2026-11-21T11:00:00Z
   title: Newshour
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId: 799109
+- eventId:
+  - 799109
+  - 831681
   start: 2026-11-21T10:30:00Z
   stop: 2026-11-21T11:00:00Z
   title: earthrise - We Are Nature
@@ -229,6 +276,13 @@
   stop: 2026-11-21T11:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+- eventId: 831682
+  start: 2026-11-21T11:00:00Z
+  stop: 2026-11-21T12:00:00Z
+  title: Newshour
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 787177
   - 824894
@@ -249,7 +303,16 @@
   stop: 2026-11-21T13:00:00Z
   title: Al Jazeera World
   subtitle: Inside the world's largest refugee camp, Rohingya families fight hunger and loss as aid dries upclinging to faith, each other and the hope of home.
-- eventId: 799137
+- eventId: 831709
+  start: 2026-11-21T12:00:00Z
+  stop: 2026-11-21T12:30:00Z
+  title: News Live
+  description: Up-to-date news and analysis from around the world.
+  genre:
+  - '32'
+- eventId:
+  - 799137
+  - 831710
   start: 2026-11-21T12:30:00Z
   stop: 2026-11-21T13:00:00Z
   title: Inside Story
@@ -266,6 +329,14 @@
   description: Al Jazeera's journalists risk everything to cover the start of Israel's war on Gaza led by bureau chief Wael al Dahdouh, even when he loses his closest family.
   genre:
   - '32'
+- eventId: 831711
+  start: 2026-11-21T13:00:00Z
+  stop: 2026-11-21T14:00:00Z
+  title: Al Jazeera World
+  subtitle: The Price of Truth P1
+  description: Al Jazeera's journalists risk everything to cover the start of Israel's war on Gaza led by bureau chief Wael al Dahdouh, even when he loses his closest family.
+  genre:
+  - '32'
 - eventId: 787189
   start: 2026-11-21T14:00:00Z
   stop: 2026-11-21T15:00:00Z
@@ -279,6 +350,13 @@
   stop: 2026-11-21T14:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+- eventId: 831712
+  start: 2026-11-21T14:00:00Z
+  stop: 2026-11-21T15:00:00Z
+  title: Newshour
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 787190
   - 824904
@@ -286,7 +364,9 @@
   stop: 2026-11-21T15:00:00Z
   title: The Art of Negotiation
   subtitle: With a record 130 wars raging worldwide, top conflict negotiators reveal why peace has never been harder to achieve.
-- eventId: 787202
+- eventId:
+  - 787202
+  - 831736
   start: 2026-11-21T15:00:00Z
   stop: 2026-11-21T15:30:00Z
   title: News Live
@@ -299,7 +379,9 @@
   stop: 2026-11-21T16:00:00Z
   title: Newshour
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId: 799166
+- eventId:
+  - 799166
+  - 831737
   start: 2026-11-21T15:30:00Z
   stop: 2026-11-21T16:00:00Z
   title: 101 East
@@ -320,6 +402,13 @@
   stop: 2026-11-21T16:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+- eventId: 831738
+  start: 2026-11-21T16:00:00Z
+  stop: 2026-11-21T17:00:00Z
+  title: Newshour
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 787204
   - 824908
@@ -330,6 +419,7 @@
 - eventId:
   - 787205
   - 824909
+  - 831739
   start: 2026-11-21T17:00:00Z
   stop: 2026-11-21T17:30:00Z
   title: News Live
@@ -337,7 +427,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 787206
+- eventId:
+  - 787206
+  - 831740
   start: 2026-11-21T17:30:00Z
   stop: 2026-11-21T18:00:00Z
   title: People and Power
@@ -350,7 +442,9 @@
   stop: 2026-11-21T18:00:00Z
   title: Inside Story
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
-- eventId: 787214
+- eventId:
+  - 787214
+  - 831767
   start: 2026-11-21T18:00:00Z
   stop: 2026-11-21T18:30:00Z
   title: News Live
@@ -363,7 +457,9 @@
   stop: 2026-11-21T19:00:00Z
   title: Newshour
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId: 799190
+- eventId:
+  - 799190
+  - 831768
   start: 2026-11-21T18:30:00Z
   stop: 2026-11-21T19:00:00Z
   title: Inside Story
@@ -383,6 +479,13 @@
   stop: 2026-11-21T19:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+- eventId: 831769
+  start: 2026-11-21T19:00:00Z
+  stop: 2026-11-21T20:00:00Z
+  title: Newshour
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 787216
   - 824915
@@ -390,7 +493,9 @@
   stop: 2026-11-21T20:00:00Z
   title: The Listening Post
   subtitle: 'Fast-paced current affairs programme that investigates, analyses and critiques the world''s media and all the important news, explaining how they operate and what are the stories they cover. '
-- eventId: 787217
+- eventId:
+  - 787217
+  - 831770
   start: 2026-11-21T20:00:00Z
   stop: 2026-11-21T20:30:00Z
   title: News Live
@@ -403,7 +508,9 @@
   stop: 2026-11-21T21:00:00Z
   title: Witness
   subtitle: Acclaimed documentaries from across the globe bringing world issues into focus through personal stories.
-- eventId: 799191
+- eventId:
+  - 799191
+  - 831771
   start: 2026-11-21T20:30:00Z
   stop: 2026-11-21T21:00:00Z
   title: The Listening Post
@@ -420,6 +527,14 @@
   description: When Israel orders a total evacuation of Gaza City, a Palestinian journalist documents the forced displacement, while living it with her own family.
   genre:
   - '32'
+- eventId: 831804
+  start: 2026-11-21T21:00:00Z
+  stop: 2026-11-21T22:00:00Z
+  title: Witness
+  subtitle: Gaza - Still Reporting
+  description: When Israel orders a total evacuation of Gaza City, a Palestinian journalist documents the forced displacement, while living it with her own family.
+  genre:
+  - '32'
 - eventId: 787229
   start: 2026-11-21T22:00:00Z
   stop: 2026-11-21T23:00:00Z
@@ -433,6 +548,13 @@
   stop: 2026-11-21T22:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+- eventId: 831805
+  start: 2026-11-21T22:00:00Z
+  stop: 2026-11-21T23:00:00Z
+  title: Newshour
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 787230
   - 824922
@@ -443,6 +565,7 @@
 - eventId:
   - 787231
   - 824923
+  - 831806
   start: 2026-11-21T23:00:00Z
   stop: 2026-11-21T23:30:00Z
   title: News Live
@@ -450,7 +573,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 787232
+- eventId:
+  - 787232
+  - 831807
   start: 2026-11-21T23:30:00Z
   stop: 2026-11-22T00:00:00Z
   title: The Bottom Line
