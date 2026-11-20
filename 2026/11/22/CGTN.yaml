@@ -71,25 +71,26 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 705544
+- eventId:
+  - 705544
+  - 787247
   start: 2026-11-22T03:00:00Z
   stop: 2026-11-22T03:15:00Z
   title: The World Today
-  subtitle: Informativni
-  description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
-- eventId: 787247
-  start: 2026-11-22T03:00:00Z
-  stop: 2026-11-22T03:30:00Z
-  title: News Desk
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
+  description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   genre:
   - '32'
-- eventId: 705545
+  widescreen: true
+- eventId:
+  - 705545
+  - 815074
   start: 2026-11-22T03:15:00Z
   stop: 2026-11-22T03:30:00Z
   title: Sports Scene
   subtitle: Informativni
   description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
+  widescreen: true
 - eventId: 705546
   start: 2026-11-22T03:30:00Z
   stop: 2026-11-22T04:00:00Z
@@ -101,24 +102,24 @@
   title: Closer to China with R.L.Kuhn
   genre:
   - '32'
+  description: Leaders Talk is China Media Group's new current affairs program featuring one-on-one interviews with heads of state and high-ranking government officials and heads of international organizations.
+  widescreen: true
 - eventId: 787248
   start: 2026-11-22T03:45:00Z
   stop: 2026-11-22T04:00:00Z
   title: Nostalgia
   subtitle: A journey through cherished memories, cultural traditions and stories that bring the past back to life.
-- eventId: 705547
+- eventId:
+  - 705547
+  - 787249
   start: 2026-11-22T04:00:00Z
   stop: 2026-11-22T05:00:00Z
   title: Global Watch
-  subtitle: Informativni
-  description: GLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories.
-- eventId: 787249
-  start: 2026-11-22T04:00:00Z
-  stop: 2026-11-22T04:30:00Z
-  title: China News
   subtitle: It concentrates on the latest news and social changes happening in china and all over the world
+  description: GLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories.
   genre:
   - '32'
+  widescreen: true
 - eventId: 799273
   start: 2026-11-22T04:30:00Z
   stop: 2026-11-22T05:00:00Z
@@ -133,11 +134,13 @@
   description: Full Frame enriches the lives of viewers through animated discussion of film, arts and culture, and social trends etc impacting a diverse global audience.
 - eventId: 787250
   start: 2026-11-22T05:00:00Z
-  stop: 2026-11-22T05:30:00Z
+  stop: 2026-11-22T06:00:00Z
   title: International Depth
   subtitle: In-depth coverage of international affairs, global developments and the key issues shaping the world today.
   genre:
   - '32'
+  description: Full Frame enriches the lives of viewers through animated discussion of film, arts and culture, and social trends etc impacting a diverse global audience.
+  widescreen: true
 - eventId: 787251
   start: 2026-11-22T05:30:00Z
   stop: 2026-11-22T06:00:00Z
