@@ -7,9 +7,10 @@
   stop: 2026-11-21T01:00:00Z
   title: Newshour
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-  description: Latest news and in-depth analysis from around the world.
+  description: Journal - 2026. News. ''Newshour'' is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.
   genre:
   - '128'
+  subtitled: true
 - eventId:
   - 799027
   - 831595
@@ -115,6 +116,7 @@
 - eventId:
   - 787141
   - 824887
+  - 842460
   start: 2026-11-21T04:30:00Z
   stop: 2026-11-21T05:00:00Z
   title: Witness
@@ -131,7 +133,7 @@
   - '32'
 - eventId: 787142
   start: 2026-11-21T05:00:00Z
-  stop: 2026-11-22T05:00:00Z
+  stop: 2026-11-21T05:30:00Z
   title: AL JAZEERA ENGLISH
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: 'Canal 24 horas de noticias en inglØs realizado en Oriente Medio. Versiðn internacional de Al Jazeera. '
@@ -155,10 +157,16 @@
   description: One day, four bombsites, two emergency hospital stops with Gaza's Civil Defense under Israeli bombardment.
   genre:
   - '32'
+- eventId: 842461
+  start: 2026-11-21T05:30:00Z
+  stop: 2026-11-21T06:00:00Z
+  title: Inside Story
+  subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
 - eventId:
   - 787154
   - 825011
   - 831635
+  - 842465
   start: 2026-11-21T06:00:00Z
   stop: 2026-11-21T06:30:00Z
   title: News Live
@@ -169,6 +177,7 @@
 - eventId:
   - 787155
   - 825012
+  - 842466
   start: 2026-11-21T06:30:00Z
   stop: 2026-11-21T07:00:00Z
   title: Making Peace
@@ -193,7 +202,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 825013
+- eventId:
+  - 825013
+  - 842467
   start: 2026-11-21T07:00:00Z
   stop: 2026-11-21T08:00:00Z
   title: Newshour
@@ -216,7 +227,9 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
-- eventId: 825014
+- eventId:
+  - 825014
+  - 842468
   start: 2026-11-21T08:00:00Z
   stop: 2026-11-21T08:30:00Z
   title: News Live
@@ -231,6 +244,7 @@
 - eventId:
   - 787158
   - 825015
+  - 842469
   start: 2026-11-21T08:30:00Z
   stop: 2026-11-21T09:00:00Z
   title: Counting the Cost
@@ -239,6 +253,7 @@
   - 787173
   - 824890
   - 831678
+  - 842481
   start: 2026-11-21T09:00:00Z
   stop: 2026-11-21T09:30:00Z
   title: News Live
@@ -256,11 +271,13 @@
   description: Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.
   genre:
   - '32'
-- eventId: 824891
+- eventId:
+  - 824891
+  - 842482
   start: 2026-11-21T09:30:00Z
   stop: 2026-11-21T10:00:00Z
   title: UpFront
-  subtitle: Frank, Blunt And Upfront, We Cut Through The Headlines To Get To The Heart Of The Matter With Influential Guests And Newsmakers.
+  subtitle: Marc Lamont Hill discusses the Nvidia scandal, tech failures and the future of AI with entrepreneur and former White House adviser Anil Dash.
 - eventId:
   - 787175
   - 831680
@@ -271,7 +288,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 824892
+- eventId:
+  - 824892
+  - 842483
   start: 2026-11-21T10:00:00Z
   stop: 2026-11-21T11:00:00Z
   title: Newshour
@@ -294,7 +313,9 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
-- eventId: 824893
+- eventId:
+  - 824893
+  - 842484
   start: 2026-11-21T11:00:00Z
   stop: 2026-11-21T11:30:00Z
   title: News Live
@@ -309,6 +330,7 @@
 - eventId:
   - 787177
   - 824894
+  - 842485
   start: 2026-11-21T11:30:00Z
   stop: 2026-11-21T12:00:00Z
   title: Inside Story
@@ -321,7 +343,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 824901
+- eventId:
+  - 824901
+  - 842492
   start: 2026-11-21T12:00:00Z
   stop: 2026-11-21T13:00:00Z
   title: Al Jazeera World
@@ -345,6 +369,7 @@
 - eventId:
   - 787188
   - 824902
+  - 842493
   start: 2026-11-21T13:00:00Z
   stop: 2026-11-21T14:00:00Z
   title: 'NEWSHOUR: The World Now'
@@ -368,7 +393,9 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
-- eventId: 824903
+- eventId:
+  - 824903
+  - 842494
   start: 2026-11-21T14:00:00Z
   stop: 2026-11-21T14:30:00Z
   title: News Live
@@ -383,6 +410,7 @@
 - eventId:
   - 787190
   - 824904
+  - 842495
   start: 2026-11-21T14:30:00Z
   stop: 2026-11-21T15:00:00Z
   title: The Art of Negotiation
@@ -402,6 +430,11 @@
   stop: 2026-11-21T16:00:00Z
   title: Newshour
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+- eventId: 842501
+  start: 2026-11-21T15:00:00Z
+  stop: 2026-11-21T16:00:00Z
+  title: 'NEWSHOUR: The Wider Story'
+  subtitle: A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.
 - eventId:
   - 799166
   - 831737
@@ -420,7 +453,9 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
-- eventId: 824907
+- eventId:
+  - 824907
+  - 842502
   start: 2026-11-21T16:00:00Z
   stop: 2026-11-21T16:30:00Z
   title: News Live
@@ -435,6 +470,7 @@
 - eventId:
   - 787204
   - 824908
+  - 842503
   start: 2026-11-21T16:30:00Z
   stop: 2026-11-21T17:00:00Z
   title: Fault Lines
@@ -450,6 +486,11 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
+- eventId: 842504
+  start: 2026-11-21T17:00:00Z
+  stop: 2026-11-21T17:30:00Z
+  title: 'NEWS 30min: Lives in Focus'
+  subtitle: A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.
 - eventId:
   - 787206
   - 831740
@@ -460,7 +501,9 @@
   description: Oppressed, dispossessed and expelled ? how Palestinians resist the century-long effort to force them from their land.
   genre:
   - '32'
-- eventId: 824910
+- eventId:
+  - 824910
+  - 842505
   start: 2026-11-21T17:30:00Z
   stop: 2026-11-21T18:00:00Z
   title: Inside Story
@@ -475,7 +518,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 824913
+- eventId:
+  - 824913
+  - 842510
   start: 2026-11-21T18:00:00Z
   stop: 2026-11-21T19:00:00Z
   title: Newshour
@@ -497,7 +542,9 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
-- eventId: 824914
+- eventId:
+  - 824914
+  - 842511
   start: 2026-11-21T19:00:00Z
   stop: 2026-11-21T19:30:00Z
   title: News Live
@@ -512,6 +559,7 @@
 - eventId:
   - 787216
   - 824915
+  - 842512
   start: 2026-11-21T19:30:00Z
   stop: 2026-11-21T20:00:00Z
   title: The Listening Post
@@ -526,7 +574,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 824916
+- eventId:
+  - 824916
+  - 842513
   start: 2026-11-21T20:00:00Z
   stop: 2026-11-21T21:00:00Z
   title: Witness
@@ -543,6 +593,7 @@
 - eventId:
   - 787228
   - 824920
+  - 842528
   start: 2026-11-21T21:00:00Z
   stop: 2026-11-21T22:00:00Z
   title: Newshour
@@ -566,7 +617,9 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
-- eventId: 824921
+- eventId:
+  - 824921
+  - 842529
   start: 2026-11-21T22:00:00Z
   stop: 2026-11-21T22:30:00Z
   title: News Live
@@ -581,6 +634,7 @@
 - eventId:
   - 787230
   - 824922
+  - 842530
   start: 2026-11-21T22:30:00Z
   stop: 2026-11-21T23:00:00Z
   title: The Bottom Line
@@ -589,6 +643,7 @@
   - 787231
   - 824923
   - 831806
+  - 842531
   start: 2026-11-21T23:00:00Z
   stop: 2026-11-21T23:30:00Z
   title: News Live
@@ -606,7 +661,9 @@
   description: Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.
   genre:
   - '32'
-- eventId: 824924
+- eventId:
+  - 824924
+  - 842532
   start: 2026-11-21T23:30:00Z
   stop: 2026-11-22T00:00:00Z
   title: Inside Story

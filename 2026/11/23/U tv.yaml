@@ -8,7 +8,7 @@
   description: U TV - the best music TV in Romania!
 - eventId: 798777
   start: 2026-11-23T08:00:00Z
-  stop: 2026-11-23T08:15:00Z
+  stop: 2026-11-23T10:00:00Z
   title: Fresh Tracks by Liza
   genre:
   - '96'
@@ -25,13 +25,15 @@
   description: U TV - the best music TV in Romania!
 - eventId: 798807
   start: 2026-11-23T10:00:00Z
-  stop: 2026-11-23T11:00:00Z
+  stop: 2026-11-23T10:30:00Z
   title: Weekend Special
   genre:
   - '96'
   subtitle: La "MADE IN RO" asculţi doar piese româneşti!
   description: U TV - the best music TV in Romania!
-- eventId: 824872
+- eventId:
+  - 824872
+  - 842723
   start: 2026-11-23T10:30:00Z
   stop: 2026-11-23T12:00:00Z
   title: Music Brunch
@@ -47,7 +49,7 @@
   description: U TV - the best music TV in Romania!
 - eventId: 798837
   start: 2026-11-23T12:00:00Z
-  stop: 2026-11-23T14:00:00Z
+  stop: 2026-11-23T15:00:00Z
   title: Everything Is Awesome!
   genre:
   - '96'
@@ -62,7 +64,9 @@
   genre:
   - '96'
   description: U TV - the best music TV in Romania!
-- eventId: 825022
+- eventId:
+  - 825022
+  - 842739
   start: 2026-11-23T15:00:00Z
   stop: 2026-11-23T23:00:00Z
   title: All About Music
