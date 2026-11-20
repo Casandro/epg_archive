@@ -695,9 +695,9 @@
   hd: true
 - eventId: 831464
   start: 2026-11-20T14:03:00Z
-  stop: 2026-11-20T14:29:50Z
+  stop: 2026-11-20T14:29:30Z
   title: Studio ČT24
-  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  subtitle: 'Témata: Návštěva prezidenta v Moravskoslezském a Olomouckém kraji (brífink); RB OSN o Ukrajině; Končí 31. konference OSN o změně klimatu.'
   description: |-
     HDTV
     Skryté titulky
@@ -714,6 +714,16 @@
     Skryté titulky
   genre:
   - '35'
+  widescreen: true
+- eventId: 834105
+  start: 2026-11-20T14:29:30Z
+  stop: 2026-11-20T14:32:30Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
   widescreen: true
 - eventId: 831465
   start: 2026-11-20T14:29:50Z
@@ -750,6 +760,17 @@
     Skryté titulky
   genre:
   - '32'
+  widescreen: true
+- eventId: 834106
+  start: 2026-11-20T14:32:30Z
+  stop: 2026-11-20T14:39:30Z
+  title: Studio ČT24
+  subtitle: 'Témata: Schůzka Trumpa, Putina a Siho; Jednání koalice ochotných o podpoře Ukrajiny (reakce Pirátů).'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
   widescreen: true
 - eventId: 831466
   start: 2026-11-20T14:32:50Z
@@ -789,6 +810,17 @@
     Skryté titulky
   genre:
   - '35'
+  widescreen: true
+- eventId: 834107
+  start: 2026-11-20T14:39:30Z
+  stop: 2026-11-20T15:00:00Z
+  title: Ekonomika ČT24
+  subtitle: 'Témata: Česko mezi premianty v čerpání dotací EU; Sklářská výroba v EU skomírá.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '128'
   widescreen: true
 - eventId: 831467
   start: 2026-11-20T14:39:50Z
@@ -944,7 +976,7 @@
   hd: true
 - eventId: 832412
   start: 2026-11-20T16:05:10Z
-  stop: 2026-11-20T16:30:00Z
+  stop: 2026-11-20T16:31:10Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
   description: |-
@@ -972,6 +1004,18 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 833931
+  start: 2026-11-20T16:31:10Z
+  stop: 2026-11-20T16:35:10Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Znakový jazyk
+    Zvukový popis
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 647093
   - 656711
@@ -989,6 +1033,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 833932
+  start: 2026-11-20T16:35:10Z
+  stop: 2026-11-20T16:55:10Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 647094
   - 656712
@@ -1013,6 +1068,7 @@
   - 656713
   - 731607
   - 746468
+  - 834141
   start: 2026-11-20T17:00:00Z
   stop: 2026-11-20T17:03:00Z
   title: Zprávy
@@ -1029,6 +1085,7 @@
   - 656714
   - 731608
   - 746469
+  - 834142
   start: 2026-11-20T17:03:00Z
   stop: 2026-11-20T17:27:50Z
   title: Studio ČT24
