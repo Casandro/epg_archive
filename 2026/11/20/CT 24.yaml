@@ -1426,7 +1426,7 @@
   hd: true
 - eventId: 838788
   start: 2026-11-20T22:07:29Z
-  stop: 2026-11-20T22:32:29Z
+  stop: 2026-11-20T22:31:50Z
   title: Zprávy ve 23
   subtitle: Nejdůležitější události dne v ČR i ve světě.
   description: |-
@@ -1434,6 +1434,17 @@
     Skryté titulky
   genre:
   - '32'
+  widescreen: true
+- eventId: 839431
+  start: 2026-11-20T22:31:50Z
+  stop: 2026-11-20T23:00:00Z
+  title: Interview ČT24
+  subtitle: 'Host: Renata Vesecká /nestr. za Motoristy/, předsedkyně sněmovního ústavněprávního výboru. Moderuje: Jiří Václavek.'
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
   widescreen: true
 - eventId:
   - 647125
@@ -1468,6 +1479,7 @@
   - 656894
   - 731620
   - 743264
+  - 839103
   start: 2026-11-20T23:00:00Z
   stop: 2026-11-20T23:10:00Z
   title: Zprávy
@@ -1516,6 +1528,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 839104
+  start: 2026-11-20T23:10:00Z
+  stop: 2026-11-20T23:59:00Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId: 838830
   start: 2026-11-20T23:14:25Z
   stop: 2026-11-21T00:03:25Z
@@ -1537,4 +1560,14 @@
     Skryté titulky
   genre:
   - '35'
+  widescreen: true
+- eventId: 839105
+  start: 2026-11-20T23:59:00Z
+  stop: 2026-11-21T00:09:00Z
+  title: Zprávy
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '32'
   widescreen: true
