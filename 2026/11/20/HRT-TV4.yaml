@@ -159,7 +159,7 @@
   - '160'
 - eventId: 735974
   start: 2026-11-20T02:20:00Z
-  stop: 2026-11-20T02:27:00Z
+  stop: 2026-11-20T02:28:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
@@ -172,7 +172,9 @@
   title: 'Bez komentara: Malavi - Umjetna inteligencija pomaže slabovidnim učenicima'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 735975
+- eventId:
+  - 735975
+  - 819262
   start: 2026-11-20T02:28:00Z
   stop: 2026-11-20T02:30:00Z
   title: Bez komentara
@@ -201,7 +203,7 @@
   - '160'
 - eventId: 735978
   start: 2026-11-20T02:54:00Z
-  stop: 2026-11-20T02:55:00Z
+  stop: 2026-11-20T02:58:00Z
   title: 'Bez komentara: Vukovar - Obilježavanje 35. obljetnice Dana sjećanja na žrtvu Vukovara, "Hrabrost, žrtva, sloboda"'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -223,13 +225,23 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 819263
+  start: 2026-11-20T02:58:00Z
+  stop: 2026-11-20T03:41:00Z
+  title: Pregled dana
+  subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 816650
   start: 2026-11-20T03:41:00Z
   stop: 2026-11-20T03:52:00Z
   title: Vijesti flash
   subtitle: ' '
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
-- eventId: 752358
+- eventId:
+  - 752358
+  - 819264
   start: 2026-11-20T03:43:00Z
   stop: 2026-11-20T03:53:00Z
   title: Vijesti flash
@@ -244,7 +256,9 @@
   title: Vijesti iz kulture
   subtitle: ' '
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId: 752359
+- eventId:
+  - 752359
+  - 819265
   start: 2026-11-20T03:53:00Z
   stop: 2026-11-20T04:00:00Z
   title: Vijesti iz kulture
@@ -273,14 +287,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 752362
   start: 2026-11-20T04:54:00Z
-  stop: 2026-11-20T04:56:00Z
+  stop: 2026-11-20T04:55:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 752363
+- eventId:
+  - 752363
+  - 819266
   start: 2026-11-20T04:55:00Z
   stop: 2026-11-20T04:57:00Z
   title: Vrijeme Svijet danas
@@ -295,7 +311,9 @@
   title: Vrijeme svijet danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 752364
+- eventId:
+  - 752364
+  - 819267
   start: 2026-11-20T04:57:00Z
   stop: 2026-11-20T05:00:00Z
   title: Bez komentara
@@ -312,7 +330,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 752365
   start: 2026-11-20T05:00:00Z
-  stop: 2026-11-20T05:07:00Z
+  stop: 2026-11-20T05:08:00Z
   title: Vijesti na španjolskom jeziku
   subtitle: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -325,7 +343,9 @@
   title: 'Bez komentara: Honduras, obračun bandi'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 752366
+- eventId:
+  - 752366
+  - 819268
   start: 2026-11-20T05:08:00Z
   stop: 2026-11-20T05:10:00Z
   title: Bez komentara
@@ -340,7 +360,9 @@
   title: Vijesti na engleskom jeziku
   subtitle: ' '
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 752367
+- eventId:
+  - 752367
+  - 819269
   start: 2026-11-20T05:10:00Z
   stop: 2026-11-20T05:18:00Z
   title: Vijesti na engleskom jeziku
@@ -355,7 +377,9 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 752368
+- eventId:
+  - 752368
+  - 819270
   start: 2026-11-20T05:18:00Z
   stop: 2026-11-20T05:24:00Z
   title: 'Studio 4: Znanost'
@@ -379,6 +403,7 @@
   - 793569
   - 797555
   - 799876
+  - 819271
   start: 2026-11-20T05:24:00Z
   stop: 2026-11-20T05:54:00Z
   title: Otvoreno
@@ -420,7 +445,7 @@
   - 797556
   - 799877
   start: 2026-11-20T05:54:00Z
-  stop: 2026-11-20T05:58:00Z
+  stop: 2026-11-20T06:00:00Z
   title: 'Bez komentara: Borovo naselje - 35 godina od stradanja branitelja'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -612,6 +637,9 @@
   stop: 2026-11-20T12:30:00Z
   title: Ovčara - vječna rana, prijenos
   subtitle: ' '
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 752251
   - 797966
@@ -654,8 +682,11 @@
   start: 2026-11-20T12:32:00Z
   stop: 2026-11-20T12:34:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 752254
   - 797967
@@ -680,8 +711,11 @@
   start: 2026-11-20T12:34:00Z
   stop: 2026-11-20T12:42:00Z
   title: 'Studio 4: Kultura'
-  subtitle: ' '
+  subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 752255
   - 797968
@@ -706,8 +740,11 @@
   start: 2026-11-20T12:42:00Z
   stop: 2026-11-20T12:47:00Z
   title: Poslovne vijesti
-  subtitle: ' '
+  subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 752256
   - 797969
@@ -732,8 +769,11 @@
   start: 2026-11-20T12:47:00Z
   stop: 2026-11-20T12:55:00Z
   title: 'Studio 4: Znanost'
-  subtitle: ' '
+  subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   description: Kratki pregled aktualnosti iz svijeta znanosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 752257
   - 797970
@@ -758,8 +798,11 @@
   start: 2026-11-20T12:55:00Z
   stop: 2026-11-20T13:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 752258
   start: 2026-11-20T13:00:00Z
   stop: 2026-11-20T13:30:00Z
@@ -900,8 +943,11 @@
   start: 2026-11-20T14:55:00Z
   stop: 2026-11-20T15:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 702263
   - 752270
@@ -1004,7 +1050,7 @@
   - 752276
   - 752695
   start: 2026-11-20T15:30:00Z
-  stop: 2026-11-20T15:55:00Z
+  stop: 2026-11-20T15:57:00Z
   title: 'Prometej: Saša Drinić'
   subtitle: Ova emisija Prometej posvećena je pitanjima medijske odgovornosti i poštovanja temeljnih postulata istine i korištenja dostupnih vjerodostojnih povijesnih izvora i arhiva kada se tematiziraju.
   description: Ova emisija Prometej posvećena je pitanjima medijske odgovornosti i poštovanja temeljnih postulata istine i korištenja dostupnih vjerodostojnih povijesnih izvora i arhiva kada se tematiziraju događaji iz razdoblja Domovinskog rata. Dio je serijala emisija Prometej kojima razmatramo etičnost i odgovornost novinarske struke i medija u novom dobu koje se stvara pred našim očima. Različiti tradicionalni mediji te društvene mreže stvaraju medijsku buku i šumu nepreglednih informacija, djelovanje starih medija i onih koje želimo korigirati, postaju ključ odnosa u kreaciji društva. Je li na tom putu izgubljena ideja novinarske etike i vjerodostojnih postulata struke kojima je temeljna zadaća braniti istinu i dostojanstvo čovjeka, smije li laž, manipulacija i poigravanje s istinom i provjerenim informacijama biti prihvatljivo ponašanje u svijetu koji je tako nepodnošljivo krhak i nesiguran? Kakvi su nam mediji i medijski okoliš, na koji način neki mediji tematiziraju razdoblje Domovinskog rata, konzultiraju li u svom radu dostupne povijesne izvore i arhivsku građu, govori prof. dr. sc. Ante Nazor, ravnatelj Hrvatskog memorijalno-dokumentacijskog centra Domovinskog rata.
@@ -1044,8 +1090,11 @@
   start: 2026-11-20T15:57:00Z
   stop: 2026-11-20T16:05:00Z
   title: 'Studio 4: Kultura'
-  subtitle: ' '
+  subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 702281
   - 752278
@@ -1072,8 +1121,11 @@
   start: 2026-11-20T16:05:00Z
   stop: 2026-11-20T16:13:00Z
   title: 'Studio 4: Znanost'
-  subtitle: ' '
+  subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   description: Kratki pregled aktualnosti iz svijeta znanosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 702284
   - 752279
@@ -1116,7 +1168,7 @@
   start: 2026-11-20T16:13:00Z
   stop: 2026-11-20T16:14:00Z
   title: Vrijeme Svijet danas
-  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
@@ -1129,8 +1181,11 @@
   start: 2026-11-20T16:14:00Z
   stop: 2026-11-20T16:16:00Z
   title: Vrijeme Europa danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 702287
   - 752282
@@ -1165,8 +1220,11 @@
   start: 2026-11-20T16:16:00Z
   stop: 2026-11-20T16:20:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 702304
   - 752283
@@ -1406,7 +1464,7 @@
   - 752302
   - 752721
   start: 2026-11-20T19:30:00Z
-  stop: 2026-11-20T19:55:00Z
+  stop: 2026-11-20T19:56:00Z
   title: Veterani mira
   subtitle: U Veteranima mira, uoči obljetnice tragedije grada Vukovara i sloma njegove obrane, donosimo reportažu o premijeri dokumentarnog filma "David protiv Golijata" redateljice Irene Ščurić.
   description: U Veteranima mira, uoči obljetnice tragedije grada Vukovara i sloma njegove obrane, donosimo reportažu o premijeri dokumentarnog filma "David protiv Golijata" redateljice Irene Ščurić. Film donosi priču o 4. vukovarskoj bojni 3. gardijske brigade ZNG-a iz perspektive onih koji su te dane proživjeli na prvoj crti. U nastavku emisije ugostit ćemo dvojicu pripadnika Vojne policije Atila, postrojbe koja se ne spominje dovoljno iako je odigrala važnu ulogu u obrani Vukovara. U emisiji gostuju zapovjednik satnije Vojne policije Atila Drago Adžaga i jedan od njezinih pripadnika Branko Kević.
@@ -1458,8 +1516,11 @@
   start: 2026-11-20T19:56:00Z
   stop: 2026-11-20T20:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 706318
   - 736901
