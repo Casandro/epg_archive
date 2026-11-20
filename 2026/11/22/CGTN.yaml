@@ -32,14 +32,16 @@
   description: Big Story is a documentary film program on CGTN. It explores global events with in a variety of filmic styles and featuring original, in-depth, thought-provoking storytelling.
 - eventId: 787234
   start: 2026-11-22T01:00:00Z
-  stop: 2026-11-22T02:00:00Z
+  stop: 2026-11-22T01:15:00Z
   title: Full Frame
   subtitle: A journey through cherished memories, cultural traditions and stories that bring the past back to life.
   genre:
   - '32'
   description: Big Story is a documentary film program on CGTN. It explores global events with in a variety of filmic styles and featuring original, in-depth, thought-provoking storytelling.
   widescreen: true
-- eventId: 787235
+- eventId:
+  - 787235
+  - 824801
   start: 2026-11-22T01:15:00Z
   stop: 2026-11-22T02:15:00Z
   title: China Showbiz
@@ -55,7 +57,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 787236
+- eventId:
+  - 787236
+  - 824802
   start: 2026-11-22T02:15:00Z
   stop: 2026-11-22T03:00:00Z
   title: TV Drama
@@ -104,7 +108,9 @@
   - '32'
   description: Leaders Talk is China Media Group's new current affairs program featuring one-on-one interviews with heads of state and high-ranking government officials and heads of international organizations.
   widescreen: true
-- eventId: 787248
+- eventId:
+  - 787248
+  - 824808
   start: 2026-11-22T03:45:00Z
   stop: 2026-11-22T04:00:00Z
   title: Nostalgia
@@ -134,7 +140,7 @@
   description: Full Frame enriches the lives of viewers through animated discussion of film, arts and culture, and social trends etc impacting a diverse global audience.
 - eventId: 787250
   start: 2026-11-22T05:00:00Z
-  stop: 2026-11-22T06:00:00Z
+  stop: 2026-11-22T05:30:00Z
   title: International Depth
   subtitle: In-depth coverage of international affairs, global developments and the key issues shaping the world today.
   genre:
@@ -148,6 +154,11 @@
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
   genre:
   - '32'
+- eventId: 824809
+  start: 2026-11-22T05:30:00Z
+  stop: 2026-11-22T06:15:00Z
+  title: TV Drama
+  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
 - eventId:
   - 705552
   - 799294
@@ -159,7 +170,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 787266
+- eventId:
+  - 787266
+  - 824814
   start: 2026-11-22T06:15:00Z
   stop: 2026-11-22T07:00:00Z
   title: TV Drama
@@ -181,7 +194,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 787267
   start: 2026-11-22T07:00:00Z
-  stop: 2026-11-22T07:30:00Z
+  stop: 2026-11-22T08:00:00Z
   title: Special Program for Opera
   subtitle: Various celebrities from all walks of life, who may or may not be familiar with the concept of Chinese opera, take part in an interesting challenge to sing and act in the traditional way.
   genre:
@@ -230,7 +243,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 787281
+- eventId:
+  - 787281
+  - 824817
   start: 2026-11-22T09:15:00Z
   stop: 2026-11-22T10:00:00Z
   title: TV Drama
@@ -280,7 +295,7 @@
   description: A TV news magazine show packed with top stories from around the world. The weekly program zooms in on the details of trending news items and zooms out to give viewers the bigger picture. With in-depth analysis and current perspective, Zoom in takes you on a journey beyond the daily headlines.
 - eventId: 787283
   start: 2026-11-22T11:00:00Z
-  stop: 2026-11-22T12:00:00Z
+  stop: 2026-11-22T11:30:00Z
   title: China News
   subtitle: It concentrates on the latest news and social changes happening in china and all over the world
   genre:
@@ -294,6 +309,11 @@
   subtitle: Brings media professionals, commentators and on-line opinion leaders into the studio to express views on current issues.
   genre:
   - '32'
+- eventId: 824818
+  start: 2026-11-22T11:30:00Z
+  stop: 2026-11-22T12:30:00Z
+  title: China's Public Opinion Field
+  subtitle: Brings media professionals, commentators and on-line opinion leaders into the studio to express views on current issues.
 - eventId:
   - 705569
   - 799366
@@ -314,7 +334,9 @@
   subtitle: Informativni
   description: China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.
   widescreen: true
-- eventId: 787297
+- eventId:
+  - 787297
+  - 824824
   start: 2026-11-22T12:30:00Z
   stop: 2026-11-22T13:00:00Z
   title: Around China
@@ -353,7 +375,7 @@
   description: Big Story is a documentary film program on CGTN. It explores global events with in a variety of filmic styles and featuring original, in-depth, thought-provoking storytelling.
 - eventId: 787300
   start: 2026-11-22T14:00:00Z
-  stop: 2026-11-22T15:00:00Z
+  stop: 2026-11-22T14:45:00Z
   title: News Desk
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
   genre:
@@ -366,7 +388,9 @@
   title: China 24
   genre:
   - '32'
-- eventId: 787301
+- eventId:
+  - 787301
+  - 824825
   start: 2026-11-22T14:45:00Z
   stop: 2026-11-22T15:30:00Z
   title: TV Drama
@@ -400,10 +424,11 @@
   subtitle: Music Fair is a Japanese music show. The shows started in 1964 and it is the longest-running Japanese music show..
 - eventId: 816764
   start: 2026-11-22T15:30:00Z
-  stop: 2026-11-22T16:00:00Z
+  stop: 2026-11-22T16:15:00Z
   title: Travelogue
   description: Travelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.
   widescreen: true
+  subtitle: Music Fair is a Japanese music show. The shows started in 1964 and it is the longest-running Japanese music show..
 - eventId: 799403
   start: 2026-11-22T16:00:00Z
   stop: 2026-11-22T16:30:00Z
@@ -412,7 +437,9 @@
   - '32'
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   widescreen: true
-- eventId: 787315
+- eventId:
+  - 787315
+  - 824827
   start: 2026-11-22T16:15:00Z
   stop: 2026-11-22T17:00:00Z
   title: Cartoon City
@@ -436,7 +463,7 @@
   description: Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.
 - eventId: 787316
   start: 2026-11-22T17:00:00Z
-  stop: 2026-11-22T17:30:00Z
+  stop: 2026-11-22T18:00:00Z
   title: Health China
   subtitle: Using health to promote a happy and beautiful lifestyle in China, presenting the concept of holistic health
   genre:
@@ -543,7 +570,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 787347
   start: 2026-11-22T21:00:00Z
-  stop: 2026-11-22T21:15:00Z
+  stop: 2026-11-22T22:15:00Z
   title: A Way to be a Super Star
   subtitle: A Way to be a Super Star
   genre:
@@ -572,14 +599,16 @@
   title: News Desk
   genre:
   - '32'
-- eventId: 787348
+- eventId:
+  - 787348
+  - 824837
   start: 2026-11-22T22:15:00Z
   stop: 2026-11-22T22:30:00Z
   title: Dreamchaser
   subtitle: The Dream Chaser Cargo System is an American reusable lifting body spaceplane being developed by Sierra Nevada Corporation Space Systems.
 - eventId: 787349
   start: 2026-11-22T22:30:00Z
-  stop: 2026-11-22T23:00:00Z
+  stop: 2026-11-22T23:30:00Z
   title: China Showbiz
   subtitle: China Showbiz
   genre:

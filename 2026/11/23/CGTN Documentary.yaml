@@ -5,7 +5,7 @@
   subtitle: Dokumentarni
 - eventId: 798674
   start: 2026-11-23T00:00:00Z
-  stop: 2026-11-23T00:30:00Z
+  stop: 2026-11-23T01:00:00Z
   title: Road of discovery
   genre:
   - '35'
@@ -23,7 +23,7 @@
 - eventId: 798676
   start: 2026-11-23T01:00:00Z
   stop: 2026-11-23T01:30:00Z
-  title: Geography
+  title: Youthful China
   genre:
   - '35'
 - eventId: 733775
@@ -34,7 +34,7 @@
 - eventId: 798677
   start: 2026-11-23T01:30:00Z
   stop: 2026-11-23T02:00:00Z
-  title: Times photo
+  title: Pixel Collage
   genre:
   - '35'
 - eventId: 733776
@@ -55,8 +55,8 @@
   subtitle: Dokumentarni
 - eventId: 798756
   start: 2026-11-23T03:00:00Z
-  stop: 2026-11-23T04:00:00Z
-  title: Wonderful delivery
+  stop: 2026-11-23T03:30:00Z
+  title: Humanities and Geography
   genre:
   - '35'
 - eventId: 748358
@@ -64,6 +64,10 @@
   stop: 2026-11-23T04:00:00Z
   title: Living China, A Low-Carbon China 1
   subtitle: Dokumentarni
+- eventId: 824856
+  start: 2026-11-23T03:30:00Z
+  stop: 2026-11-23T04:00:00Z
+  title: Living China
 - eventId: 748359
   start: 2026-11-23T04:00:00Z
   stop: 2026-11-23T05:00:00Z
@@ -72,19 +76,17 @@
 - eventId: 798757
   start: 2026-11-23T04:00:00Z
   stop: 2026-11-23T05:00:00Z
-  title: Top Choice
+  title: Special Edition
   genre:
   - '35'
-- eventId: 748360
+- eventId:
+  - 748360
+  - 798758
   start: 2026-11-23T05:00:00Z
   stop: 2026-11-23T05:30:00Z
   title: Journeys and Discoveries
   subtitle: Dokumentarni
   description: Dynamic China.The King of Armwrestling
-- eventId: 798758
-  start: 2026-11-23T05:00:00Z
-  stop: 2026-11-23T05:30:00Z
-  title: Humanties and Geography
   genre:
   - '35'
 - eventId: 748361
@@ -139,7 +141,7 @@
 - eventId: 798788
   start: 2026-11-23T08:00:00Z
   stop: 2026-11-23T09:00:00Z
-  title: Top Choice
+  title: Today's Top Pick
   genre:
   - '35'
 - eventId: 748388
@@ -150,7 +152,7 @@
 - eventId: 798817
   start: 2026-11-23T09:00:00Z
   stop: 2026-11-23T09:30:00Z
-  title: Humanties and Geography
+  title: Humanities and Geography
   genre:
   - '35'
 - eventId: 748389
@@ -175,16 +177,14 @@
   title: Special Edition
   genre:
   - '35'
-- eventId: 748391
+- eventId:
+  - 748391
+  - 798820
   start: 2026-11-23T11:00:00Z
   stop: 2026-11-23T11:30:00Z
   title: Journeys and Discoveries
   subtitle: Dokumentarni
   description: Dynamic China.The King of Armwrestling
-- eventId: 798820
-  start: 2026-11-23T11:00:00Z
-  stop: 2026-11-23T11:30:00Z
-  title: The Road of Discovery
   genre:
   - '35'
 - eventId: 748392
@@ -195,7 +195,7 @@
 - eventId: 798821
   start: 2026-11-23T11:30:00Z
   stop: 2026-11-23T12:00:00Z
-  title: History Legend
+  title: History in the Frame
   genre:
   - '35'
 - eventId: 748404
@@ -239,7 +239,7 @@
 - eventId: 798849
   start: 2026-11-23T14:00:00Z
   stop: 2026-11-23T15:00:00Z
-  title: Special Edition
+  title: Today's Top Pick
   genre:
   - '35'
 - eventId: 748413
@@ -339,7 +339,7 @@
 - eventId: 798901
   start: 2026-11-23T20:00:00Z
   stop: 2026-11-23T21:00:00Z
-  title: Top Choice
+  title: Today's Top Pick
   genre:
   - '35'
 - eventId: 748436
@@ -350,7 +350,7 @@
 - eventId: 798930
   start: 2026-11-23T21:00:00Z
   stop: 2026-11-23T21:30:00Z
-  title: Humanties and Geography
+  title: Humanities and Geography
   genre:
   - '35'
 - eventId: 748437
@@ -371,11 +371,13 @@
   subtitle: Dokumentarni
 - eventId: 798932
   start: 2026-11-23T22:00:00Z
-  stop: 2026-11-24T00:00:00Z
+  stop: 2026-11-23T23:00:00Z
   title: Special Edition
   genre:
   - '35'
-- eventId: 748439
+- eventId:
+  - 748439
+  - 824899
   start: 2026-11-23T23:00:00Z
   stop: 2026-11-23T23:30:00Z
   title: Journeys and Discoveries
@@ -386,3 +388,7 @@
   stop: 2026-11-24T00:00:00Z
   title: History in the Frame, An Ancient Town & A Modern Museum
   subtitle: Dokumentarni
+- eventId: 824900
+  start: 2026-11-23T23:30:00Z
+  stop: 2026-11-24T00:00:00Z
+  title: History in the Frame
