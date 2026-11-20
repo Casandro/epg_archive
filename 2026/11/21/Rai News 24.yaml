@@ -108,8 +108,16 @@
   - '16'
 - eventId: 815143
   start: 2026-11-21T05:00:00Z
-  stop: 2026-11-21T05:25:00Z
+  stop: 2026-11-21T05:15:00Z
   title: TITOLI + TG GIORNO
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
+- eventId: 835318
+  start: 2026-11-21T05:15:00Z
+  stop: 2026-11-21T05:25:00Z
+  title: MATTINA 24 + METEO IN DIRETTA
   subtitle: ',.'
   description: ','
   genre:
@@ -124,7 +132,7 @@
   - '16'
 - eventId: 815145
   start: 2026-11-21T05:30:00Z
-  stop: 2026-11-21T05:43:00Z
+  stop: 2026-11-21T05:45:00Z
   title: SOMMARIO + TG GIORNO
   subtitle: ',.'
   description: ','
@@ -138,6 +146,14 @@
   description: ','
   genre:
   - '16'
+- eventId: 835319
+  start: 2026-11-21T05:45:00Z
+  stop: 2026-11-21T05:57:00Z
+  title: MATTINA 24
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
 - eventId: 815147
   start: 2026-11-21T05:55:00Z
   stop: 2026-11-21T06:00:00Z
@@ -146,34 +162,74 @@
   description: ','
   genre:
   - '16'
+- eventId: 835320
+  start: 2026-11-21T05:57:00Z
+  stop: 2026-11-21T06:00:00Z
+  title: METEO
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
 - eventId: 815148
   start: 2026-11-21T06:00:00Z
   stop: 2026-11-21T06:30:00Z
-  title: TITOLI + TG GIORNO
+  title: TITOLI + RASSEGNA STAMPA
   subtitle: ',.'
   description: ','
   genre:
   - '16'
 - eventId: 815149
   start: 2026-11-21T06:30:00Z
-  stop: 2026-11-21T07:00:00Z
+  stop: 2026-11-21T06:40:00Z
   title: RASSEGNA STAMPA
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
+- eventId: 835321
+  start: 2026-11-21T06:40:00Z
+  stop: 2026-11-21T06:50:00Z
+  title: RASSEGNA STAMPA ESTERA
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
+- eventId: 835322
+  start: 2026-11-21T06:50:00Z
+  stop: 2026-11-21T07:00:00Z
+  title: MATTINA 24 + ISORADIO + METEO LIVE
   subtitle: ',.'
   description: ','
   genre:
   - '16'
 - eventId: 815150
   start: 2026-11-21T07:00:00Z
-  stop: 2026-11-21T07:30:00Z
+  stop: 2026-11-21T07:25:00Z
   title: TITOLI + TG EDIZIONE PRINCIPALE
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
+- eventId: 835323
+  start: 2026-11-21T07:25:00Z
+  stop: 2026-11-21T07:30:00Z
+  title: CISS
   subtitle: ',.'
   description: ','
   genre:
   - '16'
 - eventId: 815151
   start: 2026-11-21T07:30:00Z
-  stop: 2026-11-21T07:56:55Z
-  title: RASSEGNA STAMPA
+  stop: 2026-11-21T07:53:55Z
+  title: RASSEGNA STAMPA + OSPITE
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
+- eventId: 835324
+  start: 2026-11-21T07:53:55Z
+  stop: 2026-11-21T08:00:00Z
+  title: METEO 24
   subtitle: ',.'
   description: ','
   genre:
@@ -189,22 +245,30 @@
 - eventId: 815153
   start: 2026-11-21T08:00:00Z
   stop: 2026-11-21T08:30:00Z
-  title: TITOLI +TG GIORNO
+  title: TITOLI + TG GIORNO
   subtitle: ',.'
   description: ','
   genre:
   - '16'
 - eventId: 815154
   start: 2026-11-21T08:30:00Z
-  stop: 2026-11-21T09:00:00Z
+  stop: 2026-11-21T08:47:00Z
   title: TUTTI I FRUTTI EXTRA LARGE
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
+- eventId: 835325
+  start: 2026-11-21T08:47:00Z
+  stop: 2026-11-21T09:00:00Z
+  title: REPLICA RASSEGNA ESTERA
   subtitle: ',.'
   description: ','
   genre:
   - '16'
 - eventId: 815155
   start: 2026-11-21T09:00:00Z
-  stop: 2026-11-21T09:23:00Z
+  stop: 2026-11-21T09:30:00Z
   title: TITOLI + TG GIORNO
   subtitle: ',.'
   description: ','
@@ -228,7 +292,7 @@
   - '16'
 - eventId: 815158
   start: 2026-11-21T10:00:00Z
-  stop: 2026-11-21T10:10:00Z
+  stop: 2026-11-21T10:30:00Z
   title: TITOLI + LIS + TG GIORNO
   subtitle: ',.'
   description: ','
@@ -244,8 +308,24 @@
   - '16'
 - eventId: 815160
   start: 2026-11-21T10:30:00Z
-  stop: 2026-11-21T11:00:00Z
+  stop: 2026-11-21T10:35:00Z
   title: IL PUNTO
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
+- eventId: 835326
+  start: 2026-11-21T10:35:00Z
+  stop: 2026-11-21T10:50:00Z
+  title: CRONACHE DALL'ITALIA
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
+- eventId: 835327
+  start: 2026-11-21T10:50:00Z
+  stop: 2026-11-21T11:00:00Z
+  title: FOCUS 24
   subtitle: ',.'
   description: ','
   genre:
@@ -268,8 +348,16 @@
   - '16'
 - eventId: 815163
   start: 2026-11-21T12:00:00Z
-  stop: 2026-11-21T12:26:55Z
+  stop: 2026-11-21T12:25:38Z
   title: TITOLI + TG GIORNO
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
+- eventId: 835328
+  start: 2026-11-21T12:25:38Z
+  stop: 2026-11-21T12:30:00Z
+  title: METEO
   subtitle: ',.'
   description: ','
   genre:
@@ -284,8 +372,16 @@
   - '16'
 - eventId: 815165
   start: 2026-11-21T12:30:00Z
-  stop: 2026-11-21T12:45:00Z
+  stop: 2026-11-21T12:40:00Z
   title: SOMMARIO + TG GIORNO BREVE
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
+- eventId: 835329
+  start: 2026-11-21T12:40:00Z
+  stop: 2026-11-21T13:00:00Z
+  title: TUTTIFRUTTI
   subtitle: ',.'
   description: ','
   genre:
@@ -316,8 +412,16 @@
   - '16'
 - eventId: 815169
   start: 2026-11-21T13:30:00Z
-  stop: 2026-11-21T13:45:00Z
+  stop: 2026-11-21T13:44:46Z
   title: SOMMARIO + TG GIORNO BREVE
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
+- eventId: 835330
+  start: 2026-11-21T13:44:46Z
+  stop: 2026-11-21T14:00:00Z
+  title: RUBRICA SUPERCINEMA + LA VIA DEI LIBRI
   subtitle: ',.'
   description: ','
   genre:
@@ -332,7 +436,7 @@
   - '16'
 - eventId: 815171
   start: 2026-11-21T14:00:00Z
-  stop: 2026-11-21T14:21:00Z
+  stop: 2026-11-21T14:25:51Z
   title: TITOLI + TG GIORNO
   subtitle: ',.'
   description: ','
@@ -346,18 +450,42 @@
   description: ','
   genre:
   - '16'
+- eventId: 835331
+  start: 2026-11-21T14:25:51Z
+  stop: 2026-11-21T14:30:00Z
+  title: METEO
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
 - eventId: 815173
   start: 2026-11-21T14:30:00Z
+  stop: 2026-11-21T14:53:00Z
+  title: POMERIGGIO 24
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
+- eventId: 835332
+  start: 2026-11-21T14:53:00Z
   stop: 2026-11-21T15:00:00Z
-  title: AMARCORD
+  title: NON SOLO 8 MARZO
   subtitle: ',.'
   description: ','
   genre:
   - '16'
 - eventId: 815174
   start: 2026-11-21T15:00:00Z
-  stop: 2026-11-21T15:25:55Z
+  stop: 2026-11-21T15:23:13Z
   title: TITOLI + TG GIORNO
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
+- eventId: 835333
+  start: 2026-11-21T15:23:13Z
+  stop: 2026-11-21T15:26:13Z
+  title: TG UCRAINO
   subtitle: ',.'
   description: ','
   genre:
@@ -370,11 +498,19 @@
   description: ','
   genre:
   - '16'
+- eventId: 835334
+  start: 2026-11-21T15:26:13Z
+  stop: 2026-11-21T15:30:00Z
+  title: METEO
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
 - eventId: 815176
   start: 2026-11-21T15:30:00Z
-  stop: 2026-11-21T15:45:00Z
-  title: SOMMARIO + TG GIORNO BREVE
-  subtitle: ',.'
+  stop: 2026-11-21T16:00:00Z
+  title: POMERIGGIO 24 + RUBR. LIVE + RUBR. SOCIA
+  subtitle: POMERIGGIO 24 + RUBR. LIVE + RUBR. SOCIAL ROOM - ,
   description: ','
   genre:
   - '16'
@@ -396,8 +532,16 @@
   - '16'
 - eventId: 815179
   start: 2026-11-21T16:30:00Z
+  stop: 2026-11-21T16:33:00Z
+  title: SERA 24 ANTEPRIMA
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
+- eventId: 835335
+  start: 2026-11-21T16:33:00Z
   stop: 2026-11-21T16:55:00Z
-  title: 24 MM
+  title: ECONOMIA 24
   subtitle: ',.'
   description: ','
   genre:
@@ -437,7 +581,7 @@
 - eventId: 815184
   start: 2026-11-21T18:00:00Z
   stop: 2026-11-21T18:30:00Z
-  title: TITOLI + TG SERA
+  title: TG EDIZIONE PRINCIPALE
   subtitle: ',.'
   description: ','
   genre:
@@ -460,23 +604,39 @@
   - '16'
 - eventId: 815187
   start: 2026-11-21T19:00:00Z
-  stop: 2026-11-21T19:30:00Z
+  stop: 2026-11-21T19:26:28Z
   title: TG LIS + TG SERA
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
+- eventId: 835336
+  start: 2026-11-21T19:26:28Z
+  stop: 2026-11-21T19:30:00Z
+  title: METEO
   subtitle: ',.'
   description: ','
   genre:
   - '16'
 - eventId: 815188
   start: 2026-11-21T19:30:00Z
-  stop: 2026-11-21T20:00:00Z
+  stop: 2026-11-21T19:44:31Z
   title: TUTTI I FRUTTI EXTRA LARGE
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
+- eventId: 835337
+  start: 2026-11-21T19:44:31Z
+  stop: 2026-11-21T20:00:00Z
+  title: RUBRICA SUPERCINEMA + LA VIA DEI LIBRI
   subtitle: ',.'
   description: ','
   genre:
   - '16'
 - eventId: 815189
   start: 2026-11-21T20:00:00Z
-  stop: 2026-11-21T20:24:00Z
+  stop: 2026-11-21T20:30:00Z
   title: TITOLI + TG SERA
   subtitle: ',.'
   description: ','
@@ -492,16 +652,24 @@
   - '16'
 - eventId: 815191
   start: 2026-11-21T20:30:00Z
+  stop: 2026-11-21T20:45:00Z
+  title: WORLD 24 - I REPORTAGE DI RAINEWS24
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
+- eventId: 835338
+  start: 2026-11-21T20:45:00Z
   stop: 2026-11-21T21:00:00Z
-  title: SOMMARIO + TG BREVE
+  title: TUTTIFRUTTI
   subtitle: ',.'
   description: ','
   genre:
   - '16'
 - eventId: 815192
   start: 2026-11-21T21:00:00Z
-  stop: 2026-11-21T21:03:00Z
-  title: TITOLI
+  stop: 2026-11-21T21:30:00Z
+  title: TITOLI + TG SERA
   subtitle: ',.'
   description: ','
   genre:
@@ -524,8 +692,8 @@
   - '16'
 - eventId: 815195
   start: 2026-11-21T22:00:00Z
-  stop: 2026-11-21T22:15:00Z
-  title: TITOLI + TG SERA BREVE
+  stop: 2026-11-21T22:30:00Z
+  title: NOTTE 24 - RASSEGNA STAMPA
   subtitle: ',.'
   description: ','
   genre:
@@ -541,18 +709,19 @@
 - eventId: 815197
   start: 2026-11-21T22:30:00Z
   stop: 2026-11-21T23:00:00Z
-  title: RASSEGNA STAMPA
+  title: NOTTE 24 - RASSEGNA STAMPA
   subtitle: ',.'
   description: ','
   genre:
   - '16'
 - eventId: 815198
   start: 2026-11-21T23:00:00Z
-  stop: 2026-11-21T23:26:00Z
-  title: TG NOTTE
+  stop: 2026-11-21T23:27:00Z
+  title: TG EDIZIONE PRINCIPALE CON GERENZA
   subtitle: NOTIZIARIO.
   genre:
   - '16'
+  description: ','
 - eventId: 815199
   start: 2026-11-21T23:26:00Z
   stop: 2026-11-21T23:30:00Z
@@ -560,13 +729,22 @@
   subtitle: ' '
   genre:
   - '16'
+- eventId: 835339
+  start: 2026-11-21T23:27:00Z
+  stop: 2026-11-21T23:30:00Z
+  title: METEO
+  subtitle: ',.'
+  description: ','
+  genre:
+  - '16'
 - eventId: 815200
   start: 2026-11-21T23:30:00Z
-  stop: 2026-11-21T23:45:00Z
+  stop: 2026-11-22T00:00:00Z
   title: TG NOTTE
   subtitle: NOTIZIARIO.
   genre:
   - '16'
+  description: ','
 - eventId: 815201
   start: 2026-11-21T23:45:00Z
   stop: 2026-11-22T00:00:00Z
