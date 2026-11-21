@@ -1,16 +1,14 @@
-- eventId: 733767
+- eventId:
+  - 733767
+  - 798669
   start: 2026-11-23T00:00:00Z
   stop: 2026-11-23T00:30:00Z
   title: The World Today
-  subtitle: Informativni
+  subtitle: International news and current affairs from CCTV-4 (China Central Television 4). Global News brings you the latest stories from around the world.
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
-- eventId: 798669
-  start: 2026-11-23T00:00:00Z
-  stop: 2026-11-23T01:00:00Z
-  title: Global News
   genre:
   - '32'
-  subtitle: International news and current affairs from CCTV-4 (China Central Television 4). Global News brings you the latest stories from around the world.
+  widescreen: true
 - eventId:
   - 798670
   - 831995
@@ -19,31 +17,35 @@
   title: China 24
   genre:
   - '32'
-- eventId: 733768
+- eventId:
+  - 733768
+  - 846157
   start: 2026-11-23T00:30:00Z
   stop: 2026-11-23T01:00:00Z
   title: Inheritors
   subtitle: Dokumentarni
   description: Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.
-- eventId: 733769
+  widescreen: true
+- eventId:
+  - 733769
+  - 798671
   start: 2026-11-23T01:00:00Z
   stop: 2026-11-23T01:30:00Z
   title: The World Today
-  subtitle: Informativni
+  subtitle: Join this light theatrical universal show with songs and dance.
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
-- eventId: 798671
-  start: 2026-11-23T01:00:00Z
-  stop: 2026-11-23T02:00:00Z
-  title: Universal Show
   genre:
   - '32'
-  subtitle: Join this light theatrical universal show with songs and dance.
-- eventId: 733770
+  widescreen: true
+- eventId:
+  - 733770
+  - 846158
   start: 2026-11-23T01:30:00Z
   stop: 2026-11-23T02:00:00Z
   title: Razor
   subtitle: Informativni
   description: "CGTN's brand new science and technology show, covering cutting edge developments from all over the world. RAZOR will show you the world's most powerful laser and the world's smallest anti-cancer treatment. It will take you from the weird world of quantum computing to the boundaries of the cosmos. \nAn international team of reporters will follow the guidance of Occam's Razor - the principle that the simplest explanation is the best one. RAZOR will show that we are already \"\"living in the future\"!"
+  widescreen: true
 - eventId: 733771
   start: 2026-11-23T02:00:00Z
   stop: 2026-11-23T02:30:00Z
@@ -57,6 +59,8 @@
   genre:
   - '32'
   subtitle: The China Government Bond 10Y is expected to trade at 3.22 percent by the end of this quarter, according to Trading Economics global macro models and analysts expectations.
+  description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
 - eventId: 733772
   start: 2026-11-23T02:30:00Z
   stop: 2026-11-23T03:00:00Z
@@ -66,17 +70,22 @@
   - 798673
   - 831996
   start: 2026-11-23T02:30:00Z
-  stop: 2026-11-23T03:15:00Z
+  stop: 2026-11-23T03:00:00Z
   title: China Insight
   genre:
   - '32'
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
-- eventId: 748350
+  description: Travelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.
+  widescreen: true
+- eventId:
+  - 748350
+  - 846227
   start: 2026-11-23T03:00:00Z
   stop: 2026-11-23T03:15:00Z
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
 - eventId:
   - 798752
   - 831486
@@ -85,25 +94,25 @@
   title: News Desk
   genre:
   - '32'
-- eventId: 748351
-  start: 2026-11-23T03:15:00Z
-  stop: 2026-11-23T03:30:00Z
-  title: Sports Scene
-  subtitle: Informativni
-  description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
 - eventId:
+  - 748351
   - 824854
   - 842685
   start: 2026-11-23T03:15:00Z
-  stop: 2026-11-23T04:00:00Z
-  title: TV Drama
+  stop: 2026-11-23T03:30:00Z
+  title: Sports Scene
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
-- eventId: 748352
+  description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
+  widescreen: true
+- eventId:
+  - 748352
+  - 846228
   start: 2026-11-23T03:30:00Z
   stop: 2026-11-23T04:00:00Z
   title: The Point with Liu Xin
   subtitle: Informativni
   description: The Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.
+  widescreen: true
 - eventId:
   - 798753
   - 831487
@@ -112,51 +121,47 @@
   title: Assignment Asia
   genre:
   - '32'
-- eventId: 748353
+- eventId:
+  - 748353
+  - 798754
   start: 2026-11-23T04:00:00Z
   stop: 2026-11-23T05:00:00Z
   title: Global Watch
-  subtitle: Informativni
+  subtitle: It concentrates on the latest news and social changes happening in china and all over the world
   description: GLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories.
-- eventId: 798754
-  start: 2026-11-23T04:00:00Z
-  stop: 2026-11-23T05:00:00Z
-  title: China News
   genre:
   - '32'
-  subtitle: It concentrates on the latest news and social changes happening in china and all over the world
-- eventId: 748354
-  start: 2026-11-23T05:00:00Z
-  stop: 2026-11-23T05:15:00Z
-  title: The World Today
-  subtitle: Informativni
-  description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
 - eventId:
+  - 748354
   - 824855
   - 842686
   start: 2026-11-23T05:00:00Z
-  stop: 2026-11-23T05:30:00Z
-  title: Chinese Story
+  stop: 2026-11-23T05:15:00Z
+  title: The World Today
   subtitle: '"Chinese story" is a 30-minute feature program to promote overseas Chinese. The program records the struggles of outstanding overseas Chinese and tells their wonderful life stories.'
-- eventId: 748355
+  description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
+- eventId:
+  - 748355
+  - 846229
   start: 2026-11-23T05:15:00Z
   stop: 2026-11-23T05:30:00Z
   title: Sports Scene
   subtitle: Informativni
   description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
-- eventId: 748356
+  widescreen: true
+- eventId:
+  - 748356
+  - 798755
   start: 2026-11-23T05:30:00Z
   stop: 2026-11-23T06:00:00Z
   title: Rediscovering China
-  subtitle: Dokumentarni
+  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
   description: Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.
-- eventId: 798755
-  start: 2026-11-23T05:30:00Z
-  stop: 2026-11-23T06:15:00Z
-  title: Dialogue
   genre:
   - '32'
-  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
+  widescreen: true
 - eventId: 748367
   start: 2026-11-23T06:00:00Z
   stop: 2026-11-23T06:30:00Z
