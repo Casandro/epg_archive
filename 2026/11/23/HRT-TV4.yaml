@@ -267,7 +267,7 @@
   description: Televizija Student je otvorena za sve mlade profesionalce, kreativce, umjetnike i novinare nove generacije, a pokrenuli su je profesori i studenti FPZG-a.
 - eventId: 845694
   start: 2026-11-23T05:56:00Z
-  stop: 2026-11-23T05:58:00Z
+  stop: 2026-11-23T06:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -465,7 +465,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 845716
   start: 2026-11-23T12:35:00Z
-  stop: 2026-11-23T12:43:00Z
+  stop: 2026-11-23T12:45:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -478,7 +478,9 @@
   title: Poslovne vijesti
   subtitle: ' '
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 845717
+- eventId:
+  - 845717
+  - 847560
   start: 2026-11-23T12:45:00Z
   stop: 2026-11-23T12:50:00Z
   title: Poslovne vijesti
@@ -492,7 +494,9 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 845718
+- eventId:
+  - 845718
+  - 847561
   start: 2026-11-23T12:50:00Z
   stop: 2026-11-23T13:00:00Z
   title: 'Studio 4: Znanost'
