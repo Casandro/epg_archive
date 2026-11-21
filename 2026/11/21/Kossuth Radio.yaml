@@ -236,7 +236,7 @@
   subtitle: (magyar 36/25. rész, 2026) - 2026.11.21-i adás
 - eventId: 747113
   start: 2026-11-21T11:25:00Z
-  stop: 2026-11-21T11:31:00Z
+  stop: 2026-11-21T11:32:00Z
   title: Áttörés - A hét technikai felfedezése
   subtitle: (magyar 6/1. rész, 2026) - 2026.11.21-i adás
 - eventId: 824773
@@ -245,7 +245,9 @@
   title: Világrend
   subtitle: (magyar 18/13. rész, 2026) - 2026.11.21-i adás
   description: Háborúk, békék, választások, csúcstalálkozók. Mi mozgatja a világot?
-- eventId: 747114
+- eventId:
+  - 747114
+  - 861172
   start: 2026-11-21T11:32:00Z
   stop: 2026-11-21T12:00:00Z
   title: Világrend
@@ -253,9 +255,15 @@
   description: Háborúk, békék, választások, csúcstalálkozók. Mi mozgatja a világot?
 - eventId: 747115
   start: 2026-11-21T12:00:00Z
-  stop: 2026-11-21T12:06:00Z
+  stop: 2026-11-21T12:05:00Z
   title: Kossuth hírek
   subtitle: (magyar 130/90. rész, 2026) - 2026.11.21-i adás
+- eventId: 861186
+  start: 2026-11-21T12:05:00Z
+  stop: 2026-11-21T13:00:00Z
+  title: Szótlanok hangján
+  subtitle: (magyar 18/13. rész, 2026) - 2026.11.21-i adás
+  description: Állatjogokról, a mindennapi életből vett konkrét esetekkel.
 - eventId: 747116
   start: 2026-11-21T12:06:00Z
   stop: 2026-11-21T13:00:00Z
