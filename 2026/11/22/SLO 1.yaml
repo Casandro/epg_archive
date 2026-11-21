@@ -6,8 +6,24 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 851396
+  start: 2026-11-22T00:30:00Z
+  stop: 2026-11-22T00:50:00Z
+  title: Dnevnik Slovencev v Italiji
+  subtitle: Dnevnik Slovencev v Italiji je informativna oddaja, v kateri novinarji poročajo predvsem o dnevnih dogodkih med Slovenci v Italiji.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 813470
   start: 2026-11-22T00:50:00Z
+  stop: 2026-11-22T01:05:00Z
+  title: Takšno je življenje na kavču
+  subtitle: Igralca Maks Dakskobler in Ivan Vastl, spregovorita o moči in položaju mladih v sodobni družbi ter o tem, kako se s temi vprašanji spopadata tudi njuna lika v novi sezoni.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 851397
+  start: 2026-11-22T00:55:00Z
   stop: 2026-11-22T01:05:00Z
   title: Takšno je življenje na kavču
   subtitle: Igralca Maks Dakskobler in Ivan Vastl, spregovorita o moči in položaju mladih v sodobni družbi ter o tem, kako se s temi vprašanji spopadata tudi njuna lika v novi sezoni.
@@ -22,7 +38,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 813471
+- eventId:
+  - 813471
+  - 851398
   start: 2026-11-22T01:10:00Z
   stop: 2026-11-22T06:00:00Z
   title: Napovedujemo
@@ -64,17 +82,25 @@
   - '128'
 - eventId: 813479
   start: 2026-11-22T06:20:00Z
-  stop: 2026-11-22T06:30:00Z
+  stop: 2026-11-22T06:25:00Z
   title: Slastne medvedje zgodbe
   subtitle: Medo in Miša želita speči torto. Odpravita se v klet po češnjev kompot. Ko prižgeta luč, nad njima poleti netopir in ju prestraši. Netopir prosi medveda, da bi spal v njuni kleti.
   ageRating: 4
   genre:
   - '128'
-- eventId: 813480
-  start: 2026-11-22T06:30:00Z
-  stop: 2026-11-22T06:35:00Z
+- eventId: 851399
+  start: 2026-11-22T06:25:00Z
+  stop: 2026-11-22T06:30:00Z
   title: Slastni medvedji recepti
   subtitle: Medo in Miša sta za vas pripravila svoje slastne recepte.
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 813480
+  start: 2026-11-22T06:30:00Z
+  stop: 2026-11-22T06:40:00Z
+  title: Slastni medvedji recepti
+  subtitle: V Njamidolu so pripravili kino na prostem, da bi predvajali Žanov najljubši film o junaku Ninju. Med projekcijo je nameraval Jani peči tudi pokovko, a se je pokovkomat pokvaril in prekinil predstavo.
   ageRating: 4
   genre:
   - '128'
@@ -88,9 +114,17 @@
   - '128'
 - eventId: 813482
   start: 2026-11-22T06:40:00Z
-  stop: 2026-11-22T06:55:00Z
+  stop: 2026-11-22T06:50:00Z
   title: Mini papirni dol
   subtitle: Ta dan je Mimi kraljica Papirnega dola. Sedi na prestolu in pazi svoje podložnike. Ti imajo svoje zamisli za igro, v kateri pa Mimi noče sodelovati.
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 851400
+  start: 2026-11-22T06:50:00Z
+  stop: 2026-11-22T07:00:00Z
+  title: Ježek Srečko
+  subtitle: V Sončnem studencu se izjemno zabavajo, dokler Orjačica ne odnese žoge domov.
   ageRating: 4
   genre:
   - '128'
@@ -104,13 +138,15 @@
   - '128'
 - eventId: 813484
   start: 2026-11-22T07:00:00Z
-  stop: 2026-11-22T07:10:00Z
+  stop: 2026-11-22T07:05:00Z
   title: Pokec
   subtitle: Danes se dogaja nekaj zelo čudnega ... Vsakič, ko pripovedovalec vpraša, kaj se Pokec igra, otroci rečejo nekaj drugega, kot ima Pokec v rokah, in Pokčeva igrača se spremeni.
   ageRating: 4
   genre:
   - '128'
-- eventId: 813485
+- eventId:
+  - 813485
+  - 851401
   start: 2026-11-22T07:05:00Z
   stop: 2026-11-22T07:10:00Z
   title: Kocke
@@ -120,7 +156,7 @@
   - '128'
 - eventId: 813486
   start: 2026-11-22T07:10:00Z
-  stop: 2026-11-22T07:15:00Z
+  stop: 2026-11-22T07:20:00Z
   title: Pip in Poka
   subtitle: 'Pip na vrtu razvršča igrače, medtem pa prideta mimo Francka in Poka. Francka je takoj pripravljena pomagati. Igrače bo razvrščala v dve škatli: tiste v prvi bo Pip obdržal, one v drugi pa zavrgel.'
   ageRating: 4
@@ -152,7 +188,7 @@
   - '128'
 - eventId: 813489
   start: 2026-11-22T07:35:00Z
-  stop: 2026-11-22T07:40:00Z
+  stop: 2026-11-22T07:50:00Z
   title: Lenina kmetija
   subtitle: Trije prijatelji se odločijo, da bodo po vzoru Vilijevega očeta Roka ustanovili bend - glasbeno skupino. Prav dobro jim gre in izkaže se, da Žanko odlično poje. Sklenejo, da bodo priredili koncert.
   ageRating: 4
@@ -208,13 +244,15 @@
   - '128'
 - eventId: 813496
   start: 2026-11-22T08:25:00Z
-  stop: 2026-11-22T08:35:00Z
+  stop: 2026-11-22T08:30:00Z
   title: Samo in Julija
   subtitle: 'Samova družina dobi naraščaj: rodijo se trojčki. Samo je navdušen, a njegov svet se postavi na glavo, saj mu malčki kratijo čas za igrice z Julijo. Julija pa ob drobcenih miškah kar pozabi na igrice.'
   ageRating: 4
   genre:
   - '128'
-- eventId: 813497
+- eventId:
+  - 813497
+  - 851402
   start: 2026-11-22T08:30:00Z
   stop: 2026-11-22T08:45:00Z
   title: Ernest in Celestinca
@@ -272,6 +310,14 @@
   - '160'
 - eventId: 813503
   start: 2026-11-22T11:00:00Z
+  stop: 2026-11-22T11:55:00Z
+  title: Ljudje in zemlja
+  subtitle: Oddaja Ljudje in zemlja je ena najbolj gledanih oddaj TV Slovenija. Vsak tretji teden jo pripravlja Regionalni TV Program Koper - Capodistria in njen urednik Branko Vrabec.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 851403
+  start: 2026-11-22T11:05:00Z
   stop: 2026-11-22T11:55:00Z
   title: Ljudje in zemlja
   subtitle: Oddaja Ljudje in zemlja je ena najbolj gledanih oddaj TV Slovenija. Vsak tretji teden jo pripravlja Regionalni TV Program Koper - Capodistria in njen urednik Branko Vrabec.
@@ -374,7 +420,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 813514
+- eventId:
+  - 813514
+  - 851404
   start: 2026-11-22T16:45:00Z
   stop: 2026-11-22T17:55:00Z
   title: Nedeljsko popoldne
@@ -486,9 +534,25 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 851405
+  start: 2026-11-22T22:20:00Z
+  stop: 2026-11-22T23:15:00Z
+  title: Debate z Bergantom
+  subtitle: V novi tedenski informativni oddaji bodo strokovnjakinje in strokovnjaki z voditeljem Igorjem E. Bergantom razpravljali o pomembnih temah sedanjosti in prihodnosti ter razvijali in soočali različne.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 813528
   start: 2026-11-22T23:05:00Z
   stop: 2026-11-23T00:10:00Z
+  title: Rejv
+  subtitle: Kaj pomeni biti najstnik in kaj eden od staršev najstnika v današnji družbi? Serija napeljuje k razmisleku o tem, koliko svobode naj omogočimo najstnikom, da jim hkrati zagotovimo varnost.
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 851406
+  start: 2026-11-22T23:15:00Z
+  stop: 2026-11-23T00:20:00Z
   title: Rejv
   subtitle: Kaj pomeni biti najstnik in kaj eden od staršev najstnika v današnji družbi? Serija napeljuje k razmisleku o tem, koliko svobode naj omogočimo najstnikom, da jim hkrati zagotovimo varnost.
   ageRating: 4
