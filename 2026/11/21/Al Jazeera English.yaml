@@ -650,11 +650,16 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 842504
+- eventId:
+  - 842504
+  - 864950
   start: 2026-11-21T17:00:00Z
   stop: 2026-11-21T17:30:00Z
   title: 'NEWS 30min: Lives in Focus'
   subtitle: A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.
+  description: A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.
+  genre:
+  - '32'
 - eventId:
   - 787206
   - 831740
@@ -669,10 +674,14 @@
 - eventId:
   - 824910
   - 842505
+  - 864951
   start: 2026-11-21T17:30:00Z
   stop: 2026-11-21T18:00:00Z
   title: Inside Story
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
+  description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
+  genre:
+  - '128'
 - eventId:
   - 787214
   - 831767
