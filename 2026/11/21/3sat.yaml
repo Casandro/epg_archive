@@ -1663,6 +1663,16 @@
   subtitled: true
   hd: true
   audiodesc: true
+- eventId: 867520
+  start: 2026-11-21T14:00:00Z
+  stop: 2026-11-21T14:30:00Z
+  title: NATUR IM GARTEN
+  subtitle: 'Divertissement - 2026. Emission du 21 nov. 2026. PrØsentØ par : Karl Ploberger.'
+  description: 'Divertissement - 2026. Emission du 21 nov. 2026. PrØsentØ par : Karl Ploberger. Der FernsehgĦrtner Karl Ploberger besucht einen lĦndlich-romantischen Naturgarten in der Oststeiermark, stellt Pflanzen mit besonderem ¬sterreich-Bezug vor und widmet sich der Frage, warum Rosen im Herbst besser nicht geschnitten werden sollten. Die "KrĦuterhexe" Uschi Zezelitsch entdeckt den au⅞ergewĳhnlichen Marzipansalbei, wĦhrend sich auf der Garten Tulln alles um Hecken als natþrlichen Sichtschutz dreht.'
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
 - eventId: 866141
   start: 2026-11-21T14:02:00Z
   stop: 2026-11-21T14:31:00Z
@@ -1699,22 +1709,11 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 861519
+- eventId:
+  - 861519
+  - 863292
   start: 2026-11-21T14:31:00Z
   stop: 2026-11-21T15:01:00Z
-  title: Andalusien - Spaniens maurischer Süden
-  subtitle: Film von Julien Bur
-  description: |-
-    Umgeben vom Atlantischen Ozean und dem Mittelmeer, bildet Andalusien mit dem Felsen von Gibraltar die südlichste Region der Iberischen Halbinsel und des europäischen Festlands.
-
-    Seine vielfältigen Landschaften, die reiche Kultur und die schönen Städte, in denen lebendige Geschichte und altes Handwerk blühen, machen Andalusien zu einem der attraktivsten Reiseziele Europas.
-    HD-Produktion
-  genre:
-  - '112'
-  widescreen: true
-- eventId: 863292
-  start: 2026-11-21T14:31:00Z
-  stop: 2026-11-21T15:00:00Z
   title: Andalusien - Spaniens maurischer Süden
   subtitle: Film von Julien Bur
   description: |-
@@ -1788,34 +1787,11 @@
     Buch/Autor: Simon X. Rost
 
     HD-Produktion
-- eventId: 861520
+- eventId:
+  - 861520
+  - 863293
   start: 2026-11-21T15:01:00Z
   stop: 2026-11-21T16:31:00Z
-  title: Ella Schön - Die nackte Wahrheit
-  subtitle: Fernsehfilm, Deutschland 2019
-  description: |-
-    Familienfilm, Deutschland 2019
-    Einschulungsfeier bei Familie Kieper, zu der Ella jetzt fest dazugehört. Ella bekommt dabei einen neuen Fall serviert, der in Gestalt eines nackten Mannes durchs Dorf läuft.
-
-    Holger Packebusch, der Besitzer des ortsansässigen FKK-Campingplatzes, scheint verwirrt zu sein. Als er am nächsten Morgen in Kollkamps Kanzlei auftaucht und stockend von seiner Demenz-Diagnose berichtet, übernimmt Ella seinen Fall.
-    Darsteller:
-    Ella Schön - Annette Frier
-    Christina Kieper - Julia Richter
-    Hans Kollkamp - Rainer Reiners
-    Jannis Zagorakis - Josef Heynert
-    Ben Kieper - Maximilian Ehrenreich
-    Klara Kieper - Zora Müller
-    Regie: Christiane Balthasar
-    Buch/Autor: Simon X. Rost
-
-    HD-Produktion
-  genre:
-  - '16'
-  widescreen: true
-  subtitled: true
-- eventId: 863293
-  start: 2026-11-21T15:01:00Z
-  stop: 2026-11-21T16:30:00Z
   title: Ella Schön - Die nackte Wahrheit
   subtitle: Fernsehfilm, Deutschland 2019
   description: |-
@@ -2023,7 +1999,9 @@
 
     Dabei geht es um weit mehr als um veränderte Produktionsbedingungen. Die Theater werden zu Laboren für eine Gesellschaft, die selbst nach neuen Formen des Zusammenhalts sucht. Die FAUST-Preisverleihung in Wiesbaden bringt unterschiedliche Perspektiven zusammen.
     HD-Produktion
-- eventId: 866213
+- eventId:
+  - 866213
+  - 867478
   start: 2026-11-21T18:20:00Z
   stop: 2026-11-21T18:22:00Z
   title: 3sat-Wetter
@@ -2033,6 +2011,8 @@
   genre:
   - '32'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 861522
   - 863295
