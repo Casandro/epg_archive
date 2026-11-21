@@ -12,20 +12,41 @@
   hd: true
 - eventId: 667841
   start: 2026-11-22T00:10:00Z
-  stop: 2026-11-22T00:35:00Z
+  stop: 2026-11-22T00:30:00Z
   title: Gredig direkt
   widescreen: true
   subtitled: true
   hd: true
   subtitle: 'Alice Schwarzer: Hat sich der Kampf gelohnt?'
   description: "Nach 50 Jahre stellt Alice Schwarzer «Emma» ein. Bei «Gredig direkt» spricht sie über ihre Kämpfe und warum für sie nun der richtige Zeitpunkt zum Aufhören ist. \nSchweiz 2026"
-- eventId: 803281
-  start: 2026-11-22T00:35:00Z
-  stop: 2026-11-22T00:45:00Z
+- eventId: 864357
+  start: 2026-11-22T00:30:00Z
+  stop: 2026-11-22T00:35:00Z
   title: Tagesschau
   subtitle: Spätausgabe
   genre:
   - '32'
+  widescreen: true
+  hd: true
+- eventId: 803281
+  start: 2026-11-22T00:35:00Z
+  stop: 2026-11-22T00:40:00Z
+  title: Tagesschau
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 864358
+  start: 2026-11-22T00:40:00Z
+  stop: 2026-11-22T00:50:00Z
+  title: Sportheute
+  subtitle: Der Sport des Tages
+  description: |-
+    Grosse Erfolge, starke Emotionen und packende Bilder - «Sportheute» offeriert die wichtigsten News aus dem nationalen und internationalen Sport. An Spieltagen der National League steht das Schweizer Eishockey im Fokus.
+    Schweiz 2026
+  genre:
+  - '64'
   widescreen: true
   hd: true
 - eventId: 667842
@@ -48,6 +69,19 @@
   genre:
   - '64'
   widescreen: true
+  hd: true
+- eventId: 864359
+  start: 2026-11-22T00:50:00Z
+  stop: 2026-11-22T01:25:00Z
+  title: Super League - Highlights
+  subtitle: Alle Spiele, alle Tore
+  description: |-
+    Das Magazin bietet den Komplettservice zur höchsten Schweizer Fussballliga mit den Matchberichten zur aktuellen Runde. Dazu: ausgewählte Highlights aus der Women's Super League, der Challenge League und von Schweizer Akteuren in ausländischen Ligen.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 667843
   start: 2026-11-22T00:55:00Z
@@ -87,6 +121,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 864360
+  start: 2026-11-22T01:25:00Z
+  stop: 2026-11-22T02:15:00Z
+  title: Rundschau
+  subtitle: Jung, politisch, unzufrieden - Europas Jugend rebelliert
+  description: |-
+    Seit Wochen gehen junge Menschen in Europa auf die Strasse - erfasst die Protest-Bewegung auch die Schweiz? Und: weniger Touristen, leere Restaurants: Crans-Montana in der Krise. Zudem: Der Sommer ist vorbei, das Wasser fehlt weiterhin.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 803283
   start: 2026-11-22T01:35:00Z
   stop: 2026-11-22T02:20:00Z
@@ -109,6 +154,15 @@
   description: |-
     Seit Wochen gehen junge Menschen in Europa auf die Strasse - erfasst die Protest-Bewegung auch die Schweiz? Und: weniger Touristen, leere Restaurants: Crans-Montana in der Krise. Zudem: Der Sommer ist vorbei, das Wasser fehlt weiterhin.
     Schweiz 2026
+- eventId: 864361
+  start: 2026-11-22T02:15:00Z
+  stop: 2026-11-22T02:25:00Z
+  title: Tagesschau
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
 - eventId: 803284
   start: 2026-11-22T02:20:00Z
   stop: 2026-11-22T02:31:00Z
@@ -116,6 +170,27 @@
   subtitle: Spätausgabe
   genre:
   - '32'
+  widescreen: true
+  hd: true
+- eventId: 864362
+  start: 2026-11-22T02:25:00Z
+  stop: 2026-11-22T02:30:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 864363
+  start: 2026-11-22T02:30:00Z
+  stop: 2026-11-22T02:35:00Z
+  title: Sportheute
+  subtitle: Der Sport des Tages
+  description: |-
+    Grosse Erfolge, starke Emotionen und packende Bilder - «Sportheute» offeriert die wichtigsten News aus dem nationalen und internationalen Sport. An Spieltagen der National League steht das Schweizer Eishockey im Fokus.
+    Schweiz 2026
+  genre:
+  - '64'
   widescreen: true
   hd: true
 - eventId: 803285
@@ -147,6 +222,19 @@
   genre:
   - '32'
   widescreen: true
+  hd: true
+- eventId: 864364
+  start: 2026-11-22T02:35:00Z
+  stop: 2026-11-22T03:15:00Z
+  title: Super League - Highlights
+  subtitle: Alle Spiele, alle Tore
+  description: |-
+    Das Magazin bietet den Komplettservice zur höchsten Schweizer Fussballliga mit den Matchberichten zur aktuellen Runde. Dazu: ausgewählte Highlights aus der Women's Super League, der Challenge League und von Schweizer Akteuren in ausländischen Ligen.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 672248
   start: 2026-11-22T02:45:00Z
@@ -186,13 +274,34 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 803288
-  start: 2026-11-22T03:20:00Z
-  stop: 2026-11-22T03:30:00Z
+- eventId: 864366
+  start: 2026-11-22T03:15:00Z
+  stop: 2026-11-22T03:20:00Z
   title: Tagesschau
   subtitle: Spätausgabe
   genre:
   - '32'
+  widescreen: true
+  hd: true
+- eventId: 803288
+  start: 2026-11-22T03:20:00Z
+  stop: 2026-11-22T03:25:00Z
+  title: Tagesschau
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 864367
+  start: 2026-11-22T03:25:00Z
+  stop: 2026-11-22T03:35:00Z
+  title: Sportheute
+  subtitle: Der Sport des Tages
+  description: |-
+    Grosse Erfolge, starke Emotionen und packende Bilder - «Sportheute» offeriert die wichtigsten News aus dem nationalen und internationalen Sport. An Spieltagen der National League steht das Schweizer Eishockey im Fokus.
+    Schweiz 2026
+  genre:
+  - '64'
   widescreen: true
   hd: true
 - eventId: 803289
@@ -224,6 +333,19 @@
   genre:
   - '32'
   widescreen: true
+  hd: true
+- eventId: 864368
+  start: 2026-11-22T03:35:00Z
+  stop: 2026-11-22T04:40:00Z
+  title: Super League - Highlights
+  subtitle: Alle Spiele, alle Tore
+  description: |-
+    Das Magazin bietet den Komplettservice zur höchsten Schweizer Fussballliga mit den Matchberichten zur aktuellen Runde. Dazu: ausgewählte Highlights aus der Women's Super League, der Challenge League und von Schweizer Akteuren in ausländischen Ligen.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 672387
   start: 2026-11-22T03:45:00Z
