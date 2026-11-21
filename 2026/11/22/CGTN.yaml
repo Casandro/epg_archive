@@ -23,6 +23,7 @@
   - 826372
   - 833174
   - 846267
+  - 856333
   start: 2026-11-22T00:30:00Z
   stop: 2026-11-22T01:00:00Z
   title: The Agenda
@@ -103,6 +104,7 @@
   - 826395
   - 833176
   - 846271
+  - 856341
   start: 2026-11-22T03:15:00Z
   stop: 2026-11-22T03:30:00Z
   title: Sports Scene
@@ -233,7 +235,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 787267
   start: 2026-11-22T07:00:00Z
-  stop: 2026-11-22T07:30:00Z
+  stop: 2026-11-22T08:00:00Z
   title: Special Program for Opera
   subtitle: Various celebrities from all walks of life, who may or may not be familiar with the concept of Chinese opera, take part in an interesting challenge to sing and act in the traditional way.
   genre:
@@ -335,6 +337,7 @@
 - eventId:
   - 799328
   - 831950
+  - 856357
   start: 2026-11-22T10:30:00Z
   stop: 2026-11-22T11:00:00Z
   title: Travelogue
@@ -348,7 +351,7 @@
   description: A TV news magazine show packed with top stories from around the world. The weekly program zooms in on the details of trending news items and zooms out to give viewers the bigger picture. With in-depth analysis and current perspective, Zoom in takes you on a journey beyond the daily headlines.
 - eventId: 787283
   start: 2026-11-22T11:00:00Z
-  stop: 2026-11-22T12:00:00Z
+  stop: 2026-11-22T11:30:00Z
   title: China News
   subtitle: It concentrates on the latest news and social changes happening in china and all over the world
   genre:
@@ -369,7 +372,9 @@
   stop: 2026-11-22T12:30:00Z
   title: China's Public Opinion Field
   subtitle: Brings media professionals, commentators and on-line opinion leaders into the studio to express views on current issues.
-- eventId: 831951
+- eventId:
+  - 831951
+  - 856358
   start: 2026-11-22T11:30:00Z
   stop: 2026-11-22T12:00:00Z
   title: Faces of Africa
@@ -442,7 +447,7 @@
   description: Big Story is a documentary film program on CGTN. It explores global events with in a variety of filmic styles and featuring original, in-depth, thought-provoking storytelling.
 - eventId: 787300
   start: 2026-11-22T14:00:00Z
-  stop: 2026-11-22T15:00:00Z
+  stop: 2026-11-22T14:15:00Z
   title: News Desk
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
   genre:
@@ -452,6 +457,7 @@
 - eventId:
   - 799367
   - 831956
+  - 856362
   start: 2026-11-22T14:15:00Z
   stop: 2026-11-22T15:00:00Z
   title: China 24
@@ -481,6 +487,7 @@
 - eventId:
   - 799402
   - 831963
+  - 856373
   start: 2026-11-22T15:15:00Z
   stop: 2026-11-22T16:00:00Z
   title: Closer to China with R.L.Kuhn
@@ -510,7 +517,7 @@
   - 826376
   - 842848
   start: 2026-11-22T16:00:00Z
-  stop: 2026-11-22T16:30:00Z
+  stop: 2026-11-22T16:15:00Z
   title: The World Today
   genre:
   - '32'
@@ -526,7 +533,9 @@
   subtitle: A lively entertainment show filled with fun, creativity and colorful stories that bring the world of cartoons to life.
   genre:
   - '32'
-- eventId: 831964
+- eventId:
+  - 831964
+  - 856374
   start: 2026-11-22T16:15:00Z
   stop: 2026-11-22T17:00:00Z
   title: Travelogue
@@ -661,7 +670,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 787347
   start: 2026-11-22T21:00:00Z
-  stop: 2026-11-22T21:30:00Z
+  stop: 2026-11-22T21:15:00Z
   title: A Way to be a Super Star
   subtitle: A Way to be a Super Star
   genre:
@@ -671,6 +680,7 @@
 - eventId:
   - 799442
   - 831986
+  - 856389
   start: 2026-11-22T21:15:00Z
   stop: 2026-11-22T22:00:00Z
   title: China 24
@@ -694,6 +704,8 @@
   subtitle: Informativni
   description: Americas Now profiles the development, diversity and challenges facing the Americas, particularly Latin America.
   widescreen: true
+  genre:
+  - '32'
 - eventId:
   - 799443
   - 831987
@@ -717,6 +729,12 @@
   subtitle: China Showbiz
   genre:
   - '32'
+- eventId: 856390
+  start: 2026-11-22T22:30:00Z
+  stop: 2026-11-22T23:00:00Z
+  title: Crossover
+  genre:
+  - '32'
 - eventId:
   - 705597
   - 842895
@@ -726,6 +744,8 @@
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   widescreen: true
+  genre:
+  - '32'
 - eventId:
   - 799444
   - 831988
