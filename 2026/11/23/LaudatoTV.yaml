@@ -153,12 +153,22 @@
   start: 2026-11-23T05:55:00Z
   stop: 2026-11-23T05:59:00Z
   title: Lacrima - Tebi Gospo Pleternice, Lacrima - Tebi Gospo Pleternice
+  subtitle: Lacrima - Tebi Gospo Pleternice.
+  ageRating: 4
 - eventId: 837286
   start: 2026-11-23T05:59:00Z
   stop: 2026-11-23T06:45:00Z
   title: 'Sveta Misa: Svetište Majke Božje Remetske, Zagreb, Sveta Misa: Zagreb'
   subtitle: Religijski
   description: Sveta Misa iz Svetišta Majke Božje Remetske u Zagrebu.
+- eventId: 849187
+  start: 2026-11-23T05:59:00Z
+  stop: 2026-11-23T06:45:00Z
+  title: 'Sveta Misa: Svetište Majke Božje Remetske, Zagreb'
+  subtitle: Sveta Misa iz Svetišta Majke Božje Remetske u Zagrebu.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 748320
   start: 2026-11-23T06:00:00Z
   stop: 2026-11-23T06:45:00Z
@@ -192,7 +202,7 @@
   - '160'
 - eventId: 762088
   start: 2026-11-23T07:00:00Z
-  stop: 2026-11-23T07:03:00Z
+  stop: 2026-11-23T07:04:00Z
   title: Mali katekizam, Mali katekizam
   subtitle: Nastavljamo učiti o sakramentima. U ovom Malom katekizmu nalazimo objašnjenje sakramenta svete Ispovijedi.
   description: Nastavljamo učiti o sakramentima. U ovom Malom katekizmu nalazimo objašnjenje sakramenta svete Ispovijedi.
@@ -210,12 +220,17 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 837287
+- eventId:
+  - 837287
+  - 849188
   start: 2026-11-23T07:04:00Z
   stop: 2026-11-23T07:30:00Z
   title: Superknjiga
-  subtitle: Animirani
+  subtitle: Isus (ili otac pun ljubavi) je uvijek spreman oprostiti.
   description: Isus (ili otac pun ljubavi) je uvijek spreman oprostiti. Dok Lukin prijatelj Aron planira pobjeći od kuće jer misli da je učinio nešto tako loše da mu otac nikada neće oprostiti, Superknjiga ih povede u Galileju gdje Isus mnoštvu govori prispodobu o izgubljenom sinu. Tijekom njihovog vremena s Isusom, djeca uče vrijednu pouku o moći opraštanja i vjernoj ljubavi jednog oca. Kada se vrate kući s ovom porukom, spremni su ohrabriti Arona da se suoči s onim što je učinio i traži oprost svoga oca, koji oprašta svome sinu i kojemu je drago da je dječak sretno stigao kući.
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 762090
   start: 2026-11-23T07:30:00Z
   stop: 2026-11-23T08:00:00Z
@@ -234,6 +249,14 @@
   stop: 2026-11-23T08:00:00Z
   title: Moje vrijeme s Isusom, My time with Jesus
   subtitle: Animirani
+- eventId: 849189
+  start: 2026-11-23T07:31:00Z
+  stop: 2026-11-23T08:00:00Z
+  title: Moje vrijeme s Isusom
+  subtitle: 'Crtana serija prati zgode četvero djece, Eve, Josepha, Christine i Enriquea, koji su krenuli na put otkrića. Naši junaci putuju u prošlost kako bi oživjeli svoje omiljene priče iz Evanđelja. '
+  ageRating: 4
+  genre:
+  - '128'
 - eventId:
   - 748322
   - 845953
@@ -244,11 +267,16 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 837289
+- eventId:
+  - 837289
+  - 849190
   start: 2026-11-23T08:01:00Z
   stop: 2026-11-23T08:11:00Z
   title: Živa riječ
-  subtitle: Religijski
+  subtitle: Dnevna emisija, kratkog formata, koju vodi i uređuje duhovnik Laudato TV-a, p. Ivan Raljušić, CPPS, pratit će svakoga dana ohrabrujućim mislima odabrani citat nedjeljnog Evanđelja. Emisija će se...
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 762091
   - 845954
@@ -259,11 +287,16 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 837290
+- eventId:
+  - 837290
+  - 849191
   start: 2026-11-23T08:11:00Z
   stop: 2026-11-23T08:21:00Z
   title: Vijesti iz Vatikana
-  subtitle: Informativni
+  subtitle: Donosimo najnovije vijesti iz Vatikana, koji predstavlja sjedište Rimokatoličke Crkve. Saznajte sve najvažnije novosti i informirajte se o najbitnijim događajima vezanim uz Crkvu.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 762092
   start: 2026-11-23T08:20:00Z
   stop: 2026-11-23T09:27:00Z
@@ -283,6 +316,14 @@
   title: Život i zdravlje
   subtitle: Magazin
   description: U novom izdanju emisije Život i zdravlje upoznajemo robotsku i minimalno invazivnu kirurgiju. O primjenama i praksama ove kirurgije govore doc. dr. sc. Mislav Rakić, dr. med. - specijalist opće kirurgije, subspecijalist abdominalne i onkološke kirurgije te doc. prim. dr. sc. Vide Bilić, dr. med. - specijalist opće kirurgije, specijalist ortopedije i traumatologije i uži specijalist traumatologije.
+- eventId: 849192
+  start: 2026-11-23T08:21:00Z
+  stop: 2026-11-23T09:26:00Z
+  title: Život i zdravlje
+  subtitle: U novom izdanju emisije Život i zdravlje upoznajemo robotsku i minimalno invazivnu kirurgiju. O primjenama i praksama ove kirurgije govore doc. dr. sc.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 762093
   start: 2026-11-23T09:25:00Z
   stop: 2026-11-23T10:10:00Z
@@ -301,6 +342,14 @@
   stop: 2026-11-23T10:10:00Z
   title: Domovinu volim, Domovinu volim
   subtitle: Glazbeni
+- eventId: 849193
+  start: 2026-11-23T09:27:00Z
+  stop: 2026-11-23T10:10:00Z
+  title: Domovinu volim
+  subtitle: Domoljubna glazba.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 762094
   start: 2026-11-23T10:10:00Z
   stop: 2026-11-23T11:00:00Z
@@ -357,6 +406,14 @@
   title: Kako dalje?
   subtitle: Magazin/Religijski
   description: ',,Ranjenost i zrelost u braku - tema je emisije ,,Kako dalje? 22. studenog. Odgovaramo na pitanje gledateljice. Piše da živi u braku koji je za nju i supruga postao samo izvor novih rana. Suprug povremeno odlazi iz njihova doma na ,,promišljanje svoje odluke za brak, a ona ga s djecom čeka i pita se kako dalje? Što reći djeci kad tata ode? Koliko patnje i žrtve u braku je prihvatljivo? Koje rane iz prošlosti nas mogu opteretiti kada gradimo vlastitu obitelj? Je li za katolike koji su sklopili Sakrament ženidbe prihvatljivo supružnika ,,staviti na čekanje? Kako dalje u takvim situacijama - odgovara naša stručna suradnica dr.sc. Anita Dučkić Sertić, logoterapeut i duhovni terapeut.'
+- eventId: 849194
+  start: 2026-11-23T11:33:00Z
+  stop: 2026-11-23T12:17:00Z
+  title: Kako dalje?
+  subtitle: '"Ranjenost i zrelost u braku" - tema je emisije "Kako dalje?" 22. studenog. Odgovaramo na pitanje gledateljice. Piše da živi u braku koji je za nju i supruga postao samo izvor novih rana.'
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 762098
   start: 2026-11-23T12:15:00Z
   stop: 2026-11-23T12:30:00Z
@@ -377,6 +434,14 @@
     Dokumentarni filmovi 'Arka - dar zajedništva' predstavljaju osobe s poteškoćama iz cijelog svijeta na zabavan, nadahnjujući i duboko dirljiv način. Upoznajte njihove priče i kako su svoju radosnu luku pronašli u zajednici Arka.
 - eventId: 845984
   start: 2026-11-23T12:17:00Z
+  stop: 2026-11-23T12:31:00Z
+  title: Arka - dar zajedništva
+  subtitle: Kako su se stvari promijenile za Santosa i Pipea? Upoznali su Arku, a Arka im je pomogla izgraditi kuću, te naći posao.
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 849195
+  start: 2026-11-23T12:18:00Z
   stop: 2026-11-23T12:31:00Z
   title: Arka - dar zajedništva
   subtitle: Kako su se stvari promijenile za Santosa i Pipea? Upoznali su Arku, a Arka im je pomogla izgraditi kuću, te naći posao.
@@ -444,6 +509,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 849196
+  start: 2026-11-23T14:41:00Z
+  stop: 2026-11-23T15:46:00Z
+  title: Odaziv
+  subtitle: Smijemo li kroz život prolaziti neutralni, distancirani? Vjernici ponekad o sebi govore kako ništa loše nisu učinili. No, jesmo li propustili učini i nešto dobro?
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 762105
   start: 2026-11-23T15:45:00Z
   stop: 2026-11-23T16:35:00Z
@@ -467,6 +540,14 @@
   stop: 2026-11-23T16:35:00Z
   title: Susret u riječi
   subtitle: Religijski
+- eventId: 849197
+  start: 2026-11-23T15:47:00Z
+  stop: 2026-11-23T16:35:00Z
+  title: Susret u Riječi
+  subtitle: Otkrivamo i suvremenu književnost u Hrvatskoj i kako je ona neodvojiva od svojih korijena! Radujemo se Susretu u Riječi!
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 762106
   start: 2026-11-23T16:35:00Z
   stop: 2026-11-23T17:04:00Z
@@ -491,6 +572,14 @@
   description: |-
     From the Heart with Mother Angelica
     U ovoj epizodi majka Angelica dublje ulazi u teme kao što su pokajanje, zahvala, samoća. Kaže: "Često mislimo da je jedini način da se pripremimo za molitvu pokajanje. Da, to nam je najprije učiniti. Pokajanjem otvaramo srca Božjim milostima." Zahvala je nešto čime postajemo svjesni dara koji smo primili. Majka Angelica produbljuje tu temu o kojoj kaže: "Jeste li dosad zahvalili Bogu na tome što nam oprašta i zaboravlja te počinje s nama iznova kao da se ništa nije dogodilo? To mi je jedna od najprivlačnijih Božjih osobina, da On udaljuje iza sebe naše prijestupe, onoliko koliko je istok daleko od zapada." I na kraju prekrasnim riječima. Navodeći događaj iz evanđelja gdje Isus ozdravlja gubavca majka Angelica sažima bit onoga o čemu je govorila riječima: "Iz ovog smo lijepog, vrlo kratkog odlomka iz Evanđelja po Marku naučili puno toga, zar ne? Naučili smo biti razboriti. Naučili smo da postoji vrijeme za govor i vrijeme za šutnju, vrijeme za revnost i vrijeme za suzdržavanje. Za sve u životu postoji vrijeme, a razboritost je ona krjepost koja nam govori kada je pravo vrijeme. Ti i ja trebamo moliti za to."
+- eventId: 849198
+  start: 2026-11-23T16:36:00Z
+  stop: 2026-11-23T17:05:00Z
+  title: Iz srca Majke Angelice
+  subtitle: 'U ovoj epizodi majka Angelica dublje ulazi u teme kao što su pokajanje, zahvala, samoća. Kaže: "Često mislimo da je jedini način da se pripremimo za molitvu pokajanje. Da, to nam je najprije učiniti.'
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 734608
   start: 2026-11-23T17:00:00Z
   stop: 2026-11-23T18:00:00Z
@@ -507,7 +596,7 @@
   - 762107
   - 836959
   start: 2026-11-23T17:05:00Z
-  stop: 2026-11-23T17:30:00Z
+  stop: 2026-11-23T17:29:00Z
   title: Čujte i počujte
   subtitle: Nakon mnogo godina stvaralaštva, Damir Topić predstavlja album duhovne glazbe znakovitog naslova "O ljubavi ja pjevam", koji nosi i posebnu osobnu priču o njegovu glazbenom i duhovnom putu.
   description: Nakon mnogo godina stvaralaštva, Damir Topić predstavlja album duhovne glazbe znakovitog naslova ,,O ljubavi ja pjevam, koji nosi i posebnu osobnu priču o njegovu glazbenom i duhovnom putu. Kako je nastajao album, što ga čini drugačijim od prethodnih izdanja i koliko su osobna iskustva vjere, molitve i susreta s Bogom utk?n? u njegove pjesme?
@@ -520,6 +609,14 @@
   title: 'Sveta Misa: Svetište Majke Božje Remetske, Zagreb, Sveta Misa: Zagreb'
   subtitle: Religijski
   description: Sveta Misa iz Svetišta Majke Božje Remetske u Zagrebu.
+- eventId: 849199
+  start: 2026-11-23T17:29:00Z
+  stop: 2026-11-23T18:05:00Z
+  title: 'Sveta Misa: Svetište Majke Božje Remetske, Zagreb'
+  subtitle: Sveta Misa iz Svetišta Majke Božje Remetske u Zagrebu.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 762108
   start: 2026-11-23T17:30:00Z
   stop: 2026-11-23T18:10:00Z
@@ -538,7 +635,8 @@
   start: 2026-11-23T18:05:00Z
   stop: 2026-11-23T18:10:00Z
   title: Savium - Poput Marije, Savium - Poput Marije
-  subtitle: Glazbeni
+  subtitle: Glazbeni sastav 'Savium' donosi vam izvedbu pjesme 'Poput Marije'.
+  ageRating: 4
 - eventId: 762109
   start: 2026-11-23T18:10:00Z
   stop: 2026-11-23T19:02:00Z
@@ -577,7 +675,8 @@
   start: 2026-11-23T21:33:00Z
   stop: 2026-11-23T21:35:00Z
   title: Eyevan - Dobro je sve, Eyevan - Dobro je sve
-  subtitle: Glazbeni
+  subtitle: Eyevan - Dobro je sve.
+  ageRating: 4
 - eventId: 762112
   start: 2026-11-23T21:35:00Z
   stop: 2026-11-23T21:54:00Z
@@ -612,7 +711,7 @@
   - '160'
 - eventId: 805036
   start: 2026-11-23T22:31:00Z
-  stop: 2026-11-23T23:02:00Z
+  stop: 2026-11-23T22:55:00Z
   title: Krunica, Krunica Blažene Djevice Marije
   subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
   description: Molimo zajedno molitvu Krunice Blažene Djevice Marije.
@@ -625,6 +724,12 @@
   title: Fra Ivan Matić i sestre Palić - Prečisto srce Marijino
   subtitle: Glazbeni
   description: Fra Ivan Matić i sestre Palić - Prečisto srce Marijino
+- eventId: 849200
+  start: 2026-11-23T22:55:00Z
+  stop: 2026-11-23T23:02:00Z
+  title: Fra Ivan Matić i sestre Palić - Prečisto srce.
+  subtitle: Fra Ivan Matić i sestre Palić - Prečisto srce Marijino.
+  ageRating: 4
 - eventId: 762115
   start: 2026-11-23T23:01:00Z
   stop: 2026-11-23T23:09:00Z
