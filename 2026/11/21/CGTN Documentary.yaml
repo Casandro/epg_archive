@@ -572,7 +572,7 @@
   subtitle: Dokumentarni
 - eventId: 787225
   start: 2026-11-21T21:00:00Z
-  stop: 2026-11-22T00:00:00Z
+  stop: 2026-11-21T22:00:00Z
   title: CHAINE CHINOISE DE DOCUMENTAIRES EN ANGLAIS
   genre:
   - '35'
@@ -583,7 +583,9 @@
   stop: 2026-11-21T23:00:00Z
   title: Today's Top Pick, Xiong'an New Area 1
   subtitle: Dokumentarni
-- eventId: 787226
+- eventId:
+  - 787226
+  - 873138
   start: 2026-11-21T22:00:00Z
   stop: 2026-11-21T23:00:00Z
   title: Today's Top Pick
@@ -609,3 +611,7 @@
   title: Special presentation
   genre:
   - '35'
+- eventId: 873163
+  start: 2026-11-21T23:00:00Z
+  stop: 2026-11-22T00:00:00Z
+  title: Today's Top Pick
