@@ -120,7 +120,7 @@
   hd: true
 - eventId: 735305
   start: 2026-11-24T01:10:00Z
-  stop: 2026-11-24T01:25:00Z
+  stop: 2026-11-24T01:30:00Z
   title: 10 vor 10
   subtitle: Spätausgabe
   genre:
@@ -191,7 +191,7 @@
   hd: true
 - eventId: 864295
   start: 2026-11-24T01:45:00Z
-  stop: 2026-11-24T02:05:00Z
+  stop: 2026-11-24T02:10:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -1123,7 +1123,7 @@
   hd: true
 - eventId: 751524
   start: 2026-11-24T20:10:00Z
-  stop: 2026-11-24T20:40:00Z
+  stop: 2026-11-24T20:35:00Z
   title: Notrufzentrale
   subtitle: 'Sanitätsnotruf: Was tun, wenn niemand spricht?'
   description: |-
@@ -1134,9 +1134,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 751525
-  start: 2026-11-24T20:40:00Z
-  stop: 2026-11-24T20:45:00Z
+- eventId: 871078
+  start: 2026-11-24T20:35:00Z
+  stop: 2026-11-24T20:40:00Z
   title: Meteo
   subtitle: Abendausgabe
   genre:
@@ -1144,6 +1144,19 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 751525
+  start: 2026-11-24T20:40:00Z
+  stop: 2026-11-24T20:50:00Z
+  title: Telesguard
+  subtitle: Abendausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
 - eventId: 751526
   start: 2026-11-24T20:45:00Z
   stop: 2026-11-24T20:55:00Z
@@ -1156,19 +1169,32 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 751527
-  start: 2026-11-24T20:55:00Z
-  stop: 2026-11-24T21:00:00Z
+- eventId: 871079
+  start: 2026-11-24T20:50:00Z
+  stop: 2026-11-24T20:55:00Z
   title: SRF Börse
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 751527
+  start: 2026-11-24T20:55:00Z
+  stop: 2026-11-24T21:00:00Z
+  title: Sportflash
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
 - eventId: 751544
   start: 2026-11-24T21:00:00Z
-  stop: 2026-11-24T21:05:00Z
-  title: Sportflash
+  stop: 2026-11-24T21:20:00Z
+  title: Schweiz aktuell
   subtitle: Die Sportnews des Tages
   description: |-
     Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
@@ -1177,6 +1203,7 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 751545
   start: 2026-11-24T21:05:00Z
   stop: 2026-11-24T21:25:00Z
@@ -1186,10 +1213,20 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 871091
+  start: 2026-11-24T21:20:00Z
+  stop: 2026-11-24T21:25:00Z
+  title: Meteo
+  subtitle: Abendausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 751546
   start: 2026-11-24T21:25:00Z
   stop: 2026-11-24T21:30:00Z
-  title: Meteo
+  title: SRF Börse
   subtitle: Abendausgabe
   genre:
   - '32'
@@ -1199,15 +1236,19 @@
 - eventId: 751547
   start: 2026-11-24T21:30:00Z
   stop: 2026-11-24T21:35:00Z
-  title: SRF Börse
+  title: Sportflash
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
 - eventId: 751548
   start: 2026-11-24T21:35:00Z
-  stop: 2026-11-24T21:40:00Z
+  stop: 2026-11-24T21:55:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -1217,10 +1258,33 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 751549
   start: 2026-11-24T21:40:00Z
   stop: 2026-11-24T22:05:00Z
   title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 871092
+  start: 2026-11-24T21:55:00Z
+  stop: 2026-11-24T22:00:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 871093
+  start: 2026-11-24T22:00:00Z
+  stop: 2026-11-24T22:10:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
   genre:
   - '32'
   widescreen: true
@@ -1238,8 +1302,8 @@
   hd: true
 - eventId: 751551
   start: 2026-11-24T22:10:00Z
-  stop: 2026-11-24T22:20:00Z
-  title: Telesguard
+  stop: 2026-11-24T22:30:00Z
+  title: Schweiz aktuell
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
     Schweiz 2026
@@ -1257,9 +1321,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 751553
-  start: 2026-11-24T22:40:00Z
-  stop: 2026-11-24T22:50:00Z
+- eventId: 871094
+  start: 2026-11-24T22:30:00Z
+  stop: 2026-11-24T22:40:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -1268,6 +1332,28 @@
   genre:
   - '64'
   widescreen: true
+  hd: true
+- eventId: 751553
+  start: 2026-11-24T22:40:00Z
+  stop: 2026-11-24T22:45:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
+- eventId: 871095
+  start: 2026-11-24T22:45:00Z
+  stop: 2026-11-24T23:10:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 751554
   start: 2026-11-24T22:50:00Z
@@ -1287,9 +1373,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 751556
-  start: 2026-11-24T23:20:00Z
-  stop: 2026-11-24T23:25:00Z
+- eventId: 871096
+  start: 2026-11-24T23:10:00Z
+  stop: 2026-11-24T23:15:00Z
   title: Meteo
   subtitle: Spätausgabe
   genre:
@@ -1297,6 +1383,31 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 871097
+  start: 2026-11-24T23:15:00Z
+  stop: 2026-11-24T23:20:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 751556
+  start: 2026-11-24T23:20:00Z
+  stop: 2026-11-25T00:10:00Z
+  title: UEFA Champions League - Highlights Männer
+  subtitle: Alle Spiele, alle Tore
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Die besten Fussballer und Teams Europas im Fokus - mit dem Komplettservice zur Königsklasse. Im Programm sind alle Spiele und alle Tore des Tages. Reaktionen aus den Fussballstadien und vertiefende Analysen ergänzen die Matchberichte. Ein besonderes Augenmerk gilt den Schweizer Vertretern.
+    Schweiz 2026
 - eventId: 751557
   start: 2026-11-24T23:25:00Z
   stop: 2026-11-24T23:30:00Z

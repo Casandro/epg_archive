@@ -747,9 +747,19 @@
   hd: true
 - eventId: 661483
   start: 2026-11-21T18:30:00Z
-  stop: 2026-11-21T18:55:00Z
+  stop: 2026-11-21T18:54:00Z
   title: Tagesschau in Gebärdensprache
   subtitle: Hauptausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 871116
+  start: 2026-11-21T18:54:00Z
+  stop: 2026-11-21T19:05:00Z
+  title: Meteo in Gebärdensprache
+  subtitle: Abendausgabe
   genre:
   - '32'
   widescreen: true
@@ -767,7 +777,7 @@
   hd: true
 - eventId: 661485
   start: 2026-11-21T19:05:00Z
-  stop: 2026-11-21T20:20:00Z
+  stop: 2026-11-21T20:10:00Z
   title: Arena
   widescreen: true
   subtitled: true
@@ -776,6 +786,17 @@
   description: |-
     An der Klimakonferenz verhandelt die Welt über den Ausstieg aus den Fossilen. Mit dabei ist auch Umweltminister Rösti.
     Schweiz 2026
+- eventId: 871117
+  start: 2026-11-21T20:10:00Z
+  stop: 2026-11-21T21:00:00Z
+  title: Rundschau
+  subtitle: Jung, politisch, unzufrieden - Europas Jugend rebelliert
+  description: |-
+    Seit Wochen gehen junge Menschen in Europa auf die Strasse - erfasst die Protest-Bewegung auch die Schweiz? Und: weniger Touristen, leere Restaurants: Crans-Montana in der Krise. Zudem: Der Sommer ist vorbei, das Wasser fehlt weiterhin.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 661486
   start: 2026-11-21T20:20:00Z
   stop: 2026-11-21T21:15:00Z
@@ -787,6 +808,17 @@
   description: |-
     Seit Wochen gehen junge Menschen in Europa auf die Strasse - erfasst die Protest-Bewegung auch die Schweiz? Und: weniger Touristen, leere Restaurants: Crans-Montana in der Krise. Zudem: Der Sommer ist vorbei, das Wasser fehlt weiterhin.
     Schweiz 2026
+- eventId: 871122
+  start: 2026-11-21T21:00:00Z
+  stop: 2026-11-21T21:40:00Z
+  title: Puls
+  subtitle: Reflux - Was tun, wenn saures Aufstossen zum Dauerthema wird?
+  description: |-
+    Reflux ist weit verbreitet und für viele ein ständiger Begleiter im Alltag. So auch für «Puls»-Host Tama James-Vakeesan. Helfen ihr Medikamente? Oder reicht schon eine Lebensstiländerung? «Puls» zeigt, wie viel Geduld der Kampf gegen das saure Aufstossen braucht und welche Optionen es dabei gibt.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 661489
   start: 2026-11-21T21:15:00Z
   stop: 2026-11-21T21:55:00Z
@@ -794,6 +826,17 @@
   subtitle: Reflux - Was tun, wenn saures Aufstossen zum Dauerthema wird?
   description: |-
     Reflux ist weit verbreitet und für viele ein ständiger Begleiter im Alltag. So auch für «Puls»-Host Tama James-Vakeesan. Helfen ihr Medikamente? Oder reicht schon eine Lebensstiländerung? «Puls» zeigt, wie viel Geduld der Kampf gegen das saure Aufstossen braucht und welche Optionen es dabei gibt.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 871123
+  start: 2026-11-21T21:40:00Z
+  stop: 2026-11-21T22:05:00Z
+  title: GESUNDHEITHEUTE - Die Gesundheitssendung mit Dr. Jeanne Fürst
+  subtitle: 'Diabetes neu denken: Forschung und Fortschritte'
+  description: |-
+    Diabetes Typ 2 bleibt oft lange unbemerkt und kann schwerwiegende Folgen haben. Wie lässt sich die Krankheit erkennen und was hilft, den Blutzucker im Griff zu behalten? Ausserdem: Wenn gesunde Ernährung zum Zwang wird - zwei Frauen erzählen von ihrem Leben mit Orthorexie.
     Schweiz 2026
   widescreen: true
   subtitled: true
@@ -806,6 +849,25 @@
   description: |-
     Diabetes Typ 2 bleibt oft lange unbemerkt und kann schwerwiegende Folgen haben. Wie lässt sich die Krankheit erkennen und was hilft, den Blutzucker im Griff zu behalten? Ausserdem: Wenn gesunde Ernährung zum Zwang wird - zwei Frauen erzählen von ihrem Leben mit Orthorexie.
     Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 871124
+  start: 2026-11-21T22:05:00Z
+  stop: 2026-11-21T22:10:00Z
+  title: Meteo
+  subtitle: Abendausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 871125
+  start: 2026-11-21T22:10:00Z
+  stop: 2026-11-21T22:50:00Z
+  title: Hin und weg
+  subtitle: Schweizer Liebesgeschichten aus aller Welt
+  description: "In Japan feiert Familie Tanaka-Nägele die ersten hundert Tage von Lily - aufwändig und voller Symbolik. In Schweden müssen Niklas und Florence einen grossen Rückschlag hinnehmen. Und in Costa Rica erzählt Rigo von seiner schwierigen Jugend, Lea macht sich auf die Suche nach Arbeit.  \nSchweiz 2026"
   widescreen: true
   subtitled: true
   hd: true
@@ -825,6 +887,37 @@
   title: Hin und weg
   subtitle: Schweizer Liebesgeschichten aus aller Welt
   description: "In Japan feiert Familie Tanaka-Nägele die ersten hundert Tage von Lily - aufwändig und voller Symbolik. In Schweden müssen Niklas und Florence einen grossen Rückschlag hinnehmen. Und in Costa Rica erzählt Rigo von seiner schwierigen Jugend, Lea macht sich auf die Suche nach Arbeit.  \nSchweiz 2026"
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 871126
+  start: 2026-11-21T22:50:00Z
+  stop: 2026-11-21T23:00:00Z
+  title: Tagesschau
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 871127
+  start: 2026-11-21T23:00:00Z
+  stop: 2026-11-21T23:05:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 871128
+  start: 2026-11-21T23:05:00Z
+  stop: 2026-11-21T23:40:00Z
+  title: Super League - Highlights
+  subtitle: Alle Spiele, alle Tore
+  description: |-
+    Das Magazin bietet den Komplettservice zur höchsten Schweizer Fussballliga mit den Matchberichten zur aktuellen Runde. Dazu: ausgewählte Highlights aus der Women's Super League, der Challenge League und von Schweizer Akteuren in ausländischen Ligen.
+    Schweiz 2026
+  genre:
+  - '64'
   widescreen: true
   subtitled: true
   hd: true
@@ -856,6 +949,27 @@
     Schweiz 2026
   genre:
   - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 871129
+  start: 2026-11-21T23:40:00Z
+  stop: 2026-11-21T23:50:00Z
+  title: Sportheute
+  subtitle: Der Sport des Tages
+  description: |-
+    Grosse Erfolge, starke Emotionen und packende Bilder - «Sportheute» offeriert die wichtigsten News aus dem nationalen und internationalen Sport. An Spieltagen der National League steht das Schweizer Eishockey im Fokus.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 871130
+  start: 2026-11-21T23:50:00Z
+  stop: 2026-11-22T00:30:00Z
+  title: Gredig direkt
+  subtitle: 'Alice Schwarzer: Hat sich der Kampf gelohnt?'
+  description: "Nach 50 Jahre stellt Alice Schwarzer «Emma» ein. Bei «Gredig direkt» spricht sie über ihre Kämpfe und warum für sie nun der richtige Zeitpunkt zum Aufhören ist. \nSchweiz 2026"
   widescreen: true
   subtitled: true
   hd: true
