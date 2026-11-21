@@ -25,6 +25,7 @@
   - 866180
   - 868632
   - 871442
+  - 871864
   start: 2026-11-23T00:00:00Z
   stop: 2026-11-23T02:00:00Z
   title: Rugby
@@ -71,6 +72,7 @@
   - 866181
   - 868633
   - 871443
+  - 871865
   start: 2026-11-23T02:00:00Z
   stop: 2026-11-23T02:30:00Z
   title: Sah Mat
@@ -117,6 +119,7 @@
   - 866182
   - 868634
   - 871444
+  - 871866
   start: 2026-11-23T02:30:00Z
   stop: 2026-11-23T03:00:00Z
   title: ROMANIA PITOREASCA
@@ -163,6 +166,7 @@
   - 866183
   - 868635
   - 871445
+  - 871867
   start: 2026-11-23T03:00:00Z
   stop: 2026-11-23T03:55:00Z
   title: MARILE MECIURI
@@ -209,6 +213,7 @@
   - 866184
   - 868636
   - 871446
+  - 871868
   start: 2026-11-23T03:55:00Z
   stop: 2026-11-23T04:00:00Z
   title: Imnul României
@@ -228,6 +233,7 @@
   - 866185
   - 868637
   - 871447
+  - 871869
   start: 2026-11-23T04:00:00Z
   stop: 2026-11-23T05:00:00Z
   title: CAMPION LA MICROFON
@@ -246,6 +252,7 @@
   - 866186
   - 868638
   - 871448
+  - 871870
   start: 2026-11-23T05:00:00Z
   stop: 2026-11-23T06:30:00Z
   title: Handbal feminin
@@ -318,6 +325,7 @@
   - 866187
   - 868639
   - 871449
+  - 871871
   start: 2026-11-23T06:30:00Z
   stop: 2026-11-23T07:00:00Z
   title: GENERATIA FIT
@@ -336,6 +344,7 @@
   - 866188
   - 868640
   - 871450
+  - 871872
   start: 2026-11-23T07:00:00Z
   stop: 2026-11-23T07:10:00Z
   title: SPORT EXPRES
@@ -354,6 +363,7 @@
   - 866189
   - 868641
   - 871451
+  - 871873
   start: 2026-11-23T07:10:00Z
   stop: 2026-11-23T08:00:00Z
   title: Ora de sport
@@ -372,6 +382,7 @@
   - 866190
   - 868642
   - 871452
+  - 871874
   start: 2026-11-23T08:00:00Z
   stop: 2026-11-23T08:10:00Z
   title: SPORT EXPRES
@@ -563,6 +574,7 @@
   - 866191
   - 868643
   - 871453
+  - 871875
   start: 2026-11-23T08:10:00Z
   stop: 2026-11-23T09:00:00Z
   title: Ora de sport
@@ -581,6 +593,7 @@
   - 866192
   - 868644
   - 871454
+  - 871876
   start: 2026-11-23T09:00:00Z
   stop: 2026-11-23T09:10:00Z
   title: SPORT EXPRES
@@ -599,6 +612,7 @@
   - 866193
   - 868645
   - 871455
+  - 871877
   start: 2026-11-23T09:10:00Z
   stop: 2026-11-23T11:00:00Z
   title: Rugby
@@ -758,6 +772,7 @@
   - 866194
   - 868646
   - 871456
+  - 871878
   start: 2026-11-23T11:00:00Z
   stop: 2026-11-23T11:10:00Z
   title: JURNAL SPORT
@@ -776,6 +791,7 @@
   - 866195
   - 868647
   - 871457
+  - 871879
   start: 2026-11-23T11:10:00Z
   stop: 2026-11-23T12:00:00Z
   title: Ora de sport
@@ -848,6 +864,7 @@
   - 866196
   - 868648
   - 871458
+  - 871880
   start: 2026-11-23T12:00:00Z
   stop: 2026-11-23T12:10:00Z
   title: JURNAL SPORT
@@ -866,6 +883,7 @@
   - 866197
   - 868649
   - 871459
+  - 871881
   start: 2026-11-23T12:10:00Z
   stop: 2026-11-23T13:00:00Z
   title: Ora de sport
@@ -2522,7 +2540,9 @@
   stop: 2026-11-23T13:30:00Z
   title: EROII TERENULUI
   subtitle: '   (Reluare)'
-- eventId: 871460
+- eventId:
+  - 871460
+  - 871882
   start: 2026-11-23T13:00:00Z
   stop: 2026-11-23T13:25:00Z
   title: EROII TERENULUI
@@ -2570,7 +2590,9 @@
   stop: 2026-11-23T13:59:00Z
   title: RETROSPORT
   subtitle: '  * Arhiva TVR  (Reluare)'
-- eventId: 871461
+- eventId:
+  - 871461
+  - 871883
   start: 2026-11-23T13:30:00Z
   stop: 2026-11-23T13:55:00Z
   title: RETROSPORT
@@ -2849,13 +2871,14 @@
   - 866200
   - 868652
   - 871462
+  - 871884
   start: 2026-11-23T13:59:00Z
   stop: 2026-11-23T14:00:00Z
   title: 'FILLER : Stiati ca'
   subtitle: ' ... '
 - eventId: 832736
   start: 2026-11-23T14:00:00Z
-  stop: 2026-11-23T14:20:00Z
+  stop: 2026-11-23T14:10:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -2875,6 +2898,7 @@
   - 866201
   - 868653
   - 871463
+  - 871885
   start: 2026-11-23T14:10:00Z
   stop: 2026-11-23T15:10:00Z
   title: In prelungiri
@@ -2981,6 +3005,7 @@
   - 866202
   - 868654
   - 871464
+  - 871886
   start: 2026-11-23T15:10:00Z
   stop: 2026-11-23T15:30:00Z
   title: Fillere
@@ -2999,6 +3024,7 @@
   - 866203
   - 868655
   - 871465
+  - 871887
   start: 2026-11-23T15:30:00Z
   stop: 2026-11-23T15:59:00Z
   title: RETROSPORT
@@ -3010,7 +3036,7 @@
   subtitle: ' ... '
 - eventId: 832741
   start: 2026-11-23T16:00:00Z
-  stop: 2026-11-23T16:55:00Z
+  stop: 2026-11-23T16:10:00Z
   title: JURNAL SPORT
   subtitle: ' Transmisiune directa  '
   ageRating: 4
@@ -3034,6 +3060,7 @@
   - 866204
   - 868656
   - 871466
+  - 871888
   start: 2026-11-23T16:10:00Z
   stop: 2026-11-23T16:55:00Z
   title: STADION
@@ -3064,7 +3091,7 @@
   - '32'
 - eventId: 832745
   start: 2026-11-23T18:00:00Z
-  stop: 2026-11-23T18:10:00Z
+  stop: 2026-11-23T19:00:00Z
   title: MARILE MECIURI
   subtitle: ' Arhiva TVR    (Reluare)'
   ageRating: 4
@@ -3811,7 +3838,7 @@
   - '32'
 - eventId: 832746
   start: 2026-11-23T19:00:00Z
-  stop: 2026-11-23T20:30:00Z
+  stop: 2026-11-23T19:10:00Z
   title: Film artistik
   subtitle: '  '
   ageRating: 4
@@ -3831,6 +3858,7 @@
   - 866205
   - 868657
   - 871467
+  - 871889
   start: 2026-11-23T19:10:00Z
   stop: 2026-11-23T21:00:00Z
   title: Rugby
@@ -3937,6 +3965,7 @@
   - 866206
   - 868658
   - 871468
+  - 871890
   start: 2026-11-23T21:00:00Z
   stop: 2026-11-23T21:55:00Z
   title: CAMPION LA MICROFON
@@ -3951,7 +3980,7 @@
   - '160'
 - eventId: 832749
   start: 2026-11-23T22:00:00Z
-  stop: 2026-11-23T22:20:00Z
+  stop: 2026-11-23T23:00:00Z
   title: In prelungiri
   subtitle: ' Preluare TVR Timisoara   (Reluare)'
   ageRating: 4
@@ -3996,6 +4025,7 @@
   - 866207
   - 868659
   - 871469
+  - 871891
   start: 2026-11-23T23:00:00Z
   stop: 2026-11-24T00:40:00Z
   title: Ora de sport
