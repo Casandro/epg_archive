@@ -448,6 +448,7 @@
   - 824901
   - 842492
   - 861192
+  - 863263
   start: 2026-11-21T12:00:00Z
   stop: 2026-11-21T13:00:00Z
   title: Al Jazeera World
@@ -478,6 +479,7 @@
   - 787188
   - 824902
   - 842493
+  - 863264
   start: 2026-11-21T13:00:00Z
   stop: 2026-11-21T14:00:00Z
   title: 'NEWSHOUR: The World Now'
@@ -506,10 +508,14 @@
 - eventId:
   - 824903
   - 842494
+  - 863265
   start: 2026-11-21T14:00:00Z
   stop: 2026-11-21T14:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
+  genre:
+  - '128'
 - eventId:
   - 831712
   - 856283
@@ -523,10 +529,14 @@
   - 787190
   - 824904
   - 842495
+  - 863266
   start: 2026-11-21T14:30:00Z
   stop: 2026-11-21T15:00:00Z
   title: The Art of Negotiation
   subtitle: With a record 130 wars raging worldwide, top conflict negotiators reveal why peace has never been harder to achieve.
+  description: With a record 130 wars raging worldwide, top conflict negotiators reveal why peace has never been harder to achieve.
+  genre:
+  - '144'
 - eventId:
   - 787202
   - 831736
@@ -543,11 +553,16 @@
   stop: 2026-11-21T16:00:00Z
   title: Newshour
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId: 842501
+- eventId:
+  - 842501
+  - 863271
   start: 2026-11-21T15:00:00Z
   stop: 2026-11-21T16:00:00Z
   title: 'NEWSHOUR: The Wider Story'
   subtitle: A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.
+  description: A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.
+  genre:
+  - '128'
 - eventId:
   - 799166
   - 831737
