@@ -170,7 +170,7 @@
   hd: true
 - eventId: 803334
   start: 2026-11-23T04:20:00Z
-  stop: 2026-11-23T05:00:00Z
+  stop: 2026-11-23T04:50:00Z
   title: Sportpanorama
   subtitle: Studiogast - Lukas Görtler, Spieler FC St. Gallen
   description: |-
@@ -181,7 +181,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 714135
+- eventId:
+  - 714135
+  - 864212
   start: 2026-11-23T04:50:00Z
   stop: 2026-11-23T05:40:00Z
   title: Super League - Highlights
@@ -207,18 +209,21 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 714136
+- eventId:
+  - 714136
+  - 864213
   start: 2026-11-23T05:40:00Z
   stop: 2026-11-23T06:35:00Z
   title: Sportpanorama
   description: |-
-    Das Magazin zur nationalen und internationalen Sportaktualität des Wochenendes.
+    Zu Gast im «Sportpanorama» bei Sascha Ruefer spricht Lukas Görtler, Captain des FC St. Gallen, über Fussball nach dem Motto alles oder nichts. Ausserdem: Natalie Maags Neustart im Rodeln, der Rücktritt von Eishockeyschiedsrichter Micha Hebeisen und Riola Xhemaili bei Como 1907.
     Schweiz 2026
   genre:
   - '64'
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: Studiogast - Lukas Görtler, Spieler FC St. Gallen
 - eventId: 803336
   start: 2026-11-23T05:50:00Z
   stop: 2026-11-23T06:45:00Z
@@ -232,7 +237,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 714140
+- eventId:
+  - 714140
+  - 864214
   start: 2026-11-23T06:35:00Z
   stop: 2026-11-23T07:25:00Z
   title: NZZ Standpunkte
@@ -263,6 +270,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 864215
+  start: 2026-11-23T07:25:00Z
+  stop: 2026-11-23T07:50:00Z
+  title: GESUNDHEITHEUTE - Die Gesundheitssendung mit Dr. Jeanne Fürst
+  subtitle: 'Diabetes neu denken: Forschung und Fortschritte'
+  description: |-
+    Diabetes Typ 2 bleibt oft lange unbemerkt und kann schwerwiegende Folgen haben. Wie lässt sich die Krankheit erkennen und was hilft, den Blutzucker im Griff zu behalten? Ausserdem: Wenn gesunde Ernährung zum Zwang wird - zwei Frauen erzählen von ihrem Leben mit Orthorexie.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 803342
   start: 2026-11-23T07:35:00Z
   stop: 2026-11-23T07:55:00Z
@@ -284,6 +302,16 @@
     Schweiz 2026
   widescreen: true
   hd: true
+- eventId: 864216
+  start: 2026-11-23T07:50:00Z
+  stop: 2026-11-23T08:35:00Z
+  title: NZZ Standpunkte
+  subtitle: 'Wenig Schulden, aber wehrlos: Die Schweiz und ihre Armee'
+  description: |-
+    Das VBS steht vor grossen Herausforderungen: In der geopolitisch gefährlichsten Weltlage seit langem muss es sich mit einer Reihe von Skandalen herumschlagen. Das sind schwierige Voraussetzungen, um die Finanzierung neuer Rüstungsvorhaben durchzubringen, ohne die die Schweiz sehr verletzlich wird.
+    Schweiz 2026
+  widescreen: true
+  hd: true
 - eventId: 803343
   start: 2026-11-23T07:55:00Z
   stop: 2026-11-23T08:45:00Z
@@ -297,6 +325,17 @@
 - eventId: 714143
   start: 2026-11-23T08:35:00Z
   stop: 2026-11-23T08:55:00Z
+  title: GESUNDHEITHEUTE - Die Gesundheitssendung mit Dr. Jeanne Fürst
+  subtitle: 'Diabetes neu denken: Forschung und Fortschritte'
+  description: |-
+    Diabetes Typ 2 bleibt oft lange unbemerkt und kann schwerwiegende Folgen haben. Wie lässt sich die Krankheit erkennen und was hilft, den Blutzucker im Griff zu behalten? Ausserdem: Wenn gesunde Ernährung zum Zwang wird - zwei Frauen erzählen von ihrem Leben mit Orthorexie.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 864217
+  start: 2026-11-23T08:35:00Z
+  stop: 2026-11-23T09:05:00Z
   title: GESUNDHEITHEUTE - Die Gesundheitssendung mit Dr. Jeanne Fürst
   subtitle: 'Diabetes neu denken: Forschung und Fortschritte'
   description: |-
@@ -881,12 +920,24 @@
   hd: true
 - eventId: 719624
   start: 2026-11-23T22:15:00Z
-  stop: 2026-11-23T22:35:00Z
+  stop: 2026-11-23T22:30:00Z
   title: Schweiz aktuell
   genre:
   - '32'
   widescreen: true
   subtitled: true
+  hd: true
+- eventId: 864252
+  start: 2026-11-23T22:30:00Z
+  stop: 2026-11-23T22:35:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
   hd: true
 - eventId: 719625
   start: 2026-11-23T22:35:00Z
@@ -900,9 +951,10 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 719626
   start: 2026-11-23T22:40:00Z
-  stop: 2026-11-23T22:45:00Z
+  stop: 2026-11-23T23:00:00Z
   title: SRF Börse
   genre:
   - '32'
@@ -918,9 +970,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 719628
-  start: 2026-11-23T23:10:00Z
-  stop: 2026-11-23T23:15:00Z
+- eventId: 864253
+  start: 2026-11-23T23:00:00Z
+  stop: 2026-11-23T23:05:00Z
   title: Meteo
   subtitle: Spätausgabe
   genre:
@@ -928,9 +980,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 719629
-  start: 2026-11-23T23:15:00Z
-  stop: 2026-11-23T23:20:00Z
+- eventId: 864254
+  start: 2026-11-23T23:05:00Z
+  stop: 2026-11-23T23:10:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -940,6 +992,29 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 719628
+  start: 2026-11-23T23:10:00Z
+  stop: 2026-11-23T23:15:00Z
+  title: Newsflash SRF 1
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 719629
+  start: 2026-11-23T23:15:00Z
+  stop: 2026-11-23T23:40:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 719630
   start: 2026-11-23T23:20:00Z
   stop: 2026-11-23T23:25:00Z
@@ -958,9 +1033,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 732556
-  start: 2026-11-23T23:50:00Z
-  stop: 2026-11-23T23:55:00Z
+- eventId: 864255
+  start: 2026-11-23T23:40:00Z
+  stop: 2026-11-23T23:45:00Z
   title: Meteo
   subtitle: Spätausgabe
   genre:
@@ -968,9 +1043,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 732557
-  start: 2026-11-23T23:55:00Z
-  stop: 2026-11-24T00:00:00Z
+- eventId: 864256
+  start: 2026-11-23T23:45:00Z
+  stop: 2026-11-23T23:50:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -980,3 +1055,26 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 732556
+  start: 2026-11-23T23:50:00Z
+  stop: 2026-11-23T23:55:00Z
+  title: Newsflash SRF 1
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 732557
+  start: 2026-11-23T23:55:00Z
+  stop: 2026-11-24T00:15:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
