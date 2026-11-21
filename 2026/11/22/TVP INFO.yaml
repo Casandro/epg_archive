@@ -459,10 +459,12 @@
 - eventId: 868011
   start: 2026-11-22T08:24:00Z
   stop: 2026-11-22T08:30:00Z
-  title: Pogoda Info
+  title: Prognoza pogody
   description: |-
     program informacyjny
     Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
+  genre:
+  - '32'
 - eventId: 701240
   start: 2026-11-22T08:25:00Z
   stop: 2026-11-22T08:30:00Z
@@ -517,7 +519,9 @@
   description: |-
     program informacyjny (na żywo)
     Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
-- eventId: 701245
+- eventId:
+  - 701245
+  - 868728
   start: 2026-11-22T11:27:00Z
   stop: 2026-11-22T11:30:00Z
   title: Prognoza pogody
@@ -708,7 +712,7 @@
   - '34'
 - eventId: 701264
   start: 2026-11-22T18:00:00Z
-  stop: 2026-11-22T18:07:00Z
+  stop: 2026-11-22T18:08:00Z
   title: Serwis info wieczór
   description: |
     Tytuł oryginalny: Serwis info wieczór
@@ -717,6 +721,15 @@
   - '34'
 - eventId: 701265
   start: 2026-11-22T18:07:00Z
+  stop: 2026-11-22T18:22:00Z
+  title: Trochę kultury
+  description: |
+    Tytuł oryginalny: Trochę kultury
+    PL, 2026
+  genre:
+  - '122'
+- eventId: 868729
+  start: 2026-11-22T18:08:00Z
   stop: 2026-11-22T18:22:00Z
   title: Trochę kultury
   description: |
@@ -776,7 +789,7 @@
 - eventId: 701271
   start: 2026-11-22T20:15:00Z
   stop: 2026-11-22T20:45:00Z
-  title: Rozmowy (nie)wygodne
+  title: 'Rozmowy (nie)wygodne: prof. Cezary Szczylik'
   subtitle: Inspirujące rozmowy Mariusza Szczygła z wybitnymi osobowościami świata kultury i sztuki. Prowokujące pytania, wymagające nieszablonowych odpowiedzi i odkrywania swojej osobowości.
   description: |
     Tytuł oryginalny: Rozmowy (nie)wygodne
