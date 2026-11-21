@@ -338,11 +338,12 @@
 - eventId: 849171
   start: 2026-11-22T08:09:00Z
   stop: 2026-11-22T08:31:00Z
-  title: Živjeti što Bog govori
+  title: Živjeti što Bog govori, Živjeti što Bog govori
   subtitle: 'U emisiji Živjeti što Bog govori nastavljamo razgovor o Deset Božjih zapovijedi, a ovoga puta tema je deseta zapovijed: "Ne poželi tuđe stvari." Stručni suradnik u studiju je don Roland Jelić, s.'
   ageRating: 4
   genre:
   - '160'
+  description: 'U emisiji Živjeti što Bog govori nastavljamo razgovor o Deset Božjih zapovijedi, a ovoga puta tema je deseta zapovijed: ,,Ne poželi tuđe stvari. Stručni suradnik u studiju je don Roland Jelić, s kojim ćemo govoriti o tome što sve obuhvaća ova zapovijed i po čemu se razlikuje od zapovijedi ,,Ne ukradi. Zašto je zavist njezin glavni problem, odakle ona dolazi i kada postaje smrtni grijeh? Može li zahvalnost biti lijek za zavist i kako naučiti prepoznavati i cijeniti ono što nam je Bog darovao?'
 - eventId:
   - 705681
   - 837671
@@ -363,15 +364,12 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 837267
+- eventId:
+  - 837267
+  - 849173
   start: 2026-11-22T08:59:00Z
   stop: 2026-11-22T10:05:00Z
   title: 'Sveta misa: Sinj, Sveta Misa: Sinj'
-  subtitle: Religijski
-- eventId: 849173
-  start: 2026-11-22T08:59:00Z
-  stop: 2026-11-22T10:05:00Z
-  title: 'Sveta misa: Sinj'
   subtitle: Uživo - prijenos svete Mise na Laudato televiziji.
   ageRating: 4
   genre:
@@ -434,15 +432,12 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 837270
+- eventId:
+  - 837270
+  - 849175
   start: 2026-11-22T10:59:00Z
   stop: 2026-11-22T11:15:00Z
   title: 'Angelus: Vatikan, Angelus: Vatikan'
-  subtitle: Religijski
-- eventId: 849175
-  start: 2026-11-22T10:59:00Z
-  stop: 2026-11-22T11:15:00Z
-  title: 'Angelus: Vatikan'
   subtitle: Uživo iz Vatikana pratimo prijenos Papinog nagovora s Trga sv. Petra u Vatikanu uz molitvu Anđeo Gospodnji.
   ageRating: 4
   genre:
@@ -477,17 +472,14 @@
   ageRating: 4
   genre:
   - '96'
-- eventId: 837271
+- eventId:
+  - 837271
+  - 849176
   start: 2026-11-22T11:15:00Z
   stop: 2026-11-22T12:39:00Z
   title: Koncert Domovini s ljubavlju - Klapa sv. Juraj i orkestar HRM (HNK Split...
-  subtitle: Glazbeni
-  description: Koncert Domovini s ljubavlju - Klapa sv. Juraj i orkestar HRM (HNK Split, 2019.)
-- eventId: 849176
-  start: 2026-11-22T11:15:00Z
-  stop: 2026-11-22T12:39:00Z
-  title: Koncert Domovini s ljubavlju - Klapa sv.
   subtitle: Povodom Dana neovisnosti Republike Hrvatske Orkestar Hrvatske ratne mornarice održao je koncert u splitskom Hrvatskom narodnom kazalištu. Ovaj koncert nazvan 'Domovini s ljubavlju' ujedno je najavio i...
+  description: Koncert Domovini s ljubavlju - Klapa sv. Juraj i orkestar HRM (HNK Split, 2019.)
   ageRating: 4
   genre:
   - '96'
@@ -527,15 +519,13 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 837273
+- eventId:
+  - 837273
+  - 849177
   start: 2026-11-22T12:39:00Z
   stop: 2026-11-22T13:01:00Z
   title: Marija suotkupiteljica, Marija suotkupiteljica
   description: Poznati glumac Jim Caviezel još jednom svjedoči. Ovog puta tema je Marija.
-- eventId: 849177
-  start: 2026-11-22T12:39:00Z
-  stop: 2026-11-22T13:01:00Z
-  title: Marija suotkupiteljica
   subtitle: Poznati glumac Jim Caviezel još jednom svjedoči. Ovog puta tema je Marija.
   ageRating: 4
   genre:
@@ -691,17 +681,14 @@
   title: Uđi u Arku, Uđi u Arku
   subtitle: Dokumentarni
   description: U društvu postoje predrasude o tome da su osobe s intelektualnim teškoćama teret, često i sramota. Zajednica Arka ruši te predrasude tvrdeći da oni nisu samo ranjiva skupina u društvu koja treba pomoć, nego da i oni svijetu mogu mnogo toga pružiti- radost, autentičnost, ljubav, najtopliju podršku potrebnu svakom od nas i prijateljstvo koje nas mijenja. Uđi u arku poziv je svima da zajedno gradimo čovječnije društvo za svakog njegovog člana.
-- eventId: 837277
+- eventId:
+  - 837277
+  - 849180
   start: 2026-11-22T17:29:00Z
   stop: 2026-11-22T18:24:00Z
   title: 'Sveta Misa: Karlovac, Sveta Misa: Karlovac'
-  subtitle: Religijski
-  description: Sveta Misa iz Nacionalnog svetišta svetog Josipa u Karlovcu.
-- eventId: 849180
-  start: 2026-11-22T17:29:00Z
-  stop: 2026-11-22T18:24:00Z
-  title: 'Sveta Misa: Karlovac'
   subtitle: Sveta Misa iz Nacionalnog svetišta svetog Josipa u Karlovcu.
+  description: Sveta Misa iz Nacionalnog svetišta svetog Josipa u Karlovcu.
   ageRating: 4
   genre:
   - '160'
@@ -812,7 +799,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 705795
+- eventId:
+  - 705795
+  - 849183
   start: 2026-11-22T21:17:00Z
   stop: 2026-11-22T22:13:00Z
   title: Neka nam Bog pomogne 5, serija
@@ -827,14 +816,6 @@
   title: Neka nam Bog pomogne 5, serija
   subtitle: Komedija/Drama
   description: U školi, jedan od učenika prijavljuje profesora, a sestra Angela i Nico pokušavaju pomoći Mariji, koja čuva neizrecivu tajnu. Ginevra želi pomoći Nicu oko selidbe, ali možda je to samo izgovor da shvati svoje prave osjećaje... Sestra Angela, shrvana Nicovom odlukom, donosi neočekivanu odluku koja će promijeniti sudbinu samostana.
-- eventId: 849183
-  start: 2026-11-22T21:17:00Z
-  stop: 2026-11-22T22:13:00Z
-  title: Neka nam Bog pomogne
-  subtitle: U školi, jedan od učenika prijavljuje profesora, a sestra Angela i Nico pokušavaju pomoći Mariji, koja čuva neizrecivu tajnu.
-  ageRating: 4
-  genre:
-  - '128'
 - eventId: 705796
   start: 2026-11-22T22:12:00Z
   stop: 2026-11-22T22:30:00Z
@@ -854,17 +835,10 @@
   - 807171
   - 816606
   - 837282
+  - 849184
   start: 2026-11-22T22:13:00Z
   stop: 2026-11-22T22:30:00Z
   title: Stihom kroz dušu - Svjetlost je tvoja sjena, Stihom kroz dušu
-  subtitle: Zaronite u svijet duhovne poezije i upoznajte opća mjesta duhovne lirike. S Robertom Kurbašom oživljavamo koloplet domaćih i svjetskih stihova koji dotiču sve generacije.
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 849184
-  start: 2026-11-22T22:13:00Z
-  stop: 2026-11-22T22:30:00Z
-  title: Stihom kroz dušu
   subtitle: Zaronite u svijet duhovne poezije i upoznajte opća mjesta duhovne lirike. S Robertom Kurbašom oživljavamo koloplet domaćih i svjetskih stihova koji dotiču sve generacije.
   ageRating: 4
   genre:
@@ -903,17 +877,14 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 837283
+- eventId:
+  - 837283
+  - 849185
   start: 2026-11-22T22:32:00Z
   stop: 2026-11-22T22:56:00Z
   title: Krunica, Krunica Blažene Djevice Marije
-  subtitle: Religijski
-  description: Molimo zajedno molitvu Krunice Blažene Djevice Marije.
-- eventId: 849185
-  start: 2026-11-22T22:32:00Z
-  stop: 2026-11-22T22:56:00Z
-  title: Krunica
   subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
+  description: Molimo zajedno molitvu Krunice Blažene Djevice Marije.
   ageRating: 4
   genre:
   - '160'
