@@ -861,7 +861,9 @@
   description: When Israel orders a total evacuation of Gaza City, a Palestinian journalist documents the forced displacement, while living it with her own family.
   genre:
   - '32'
-- eventId: 872521
+- eventId:
+  - 872521
+  - 873542
   start: 2026-11-21T21:00:00Z
   stop: 2026-11-21T22:00:00Z
   title: NEWSHOUR
@@ -901,6 +903,15 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
+- eventId: 873544
+  start: 2026-11-21T22:00:00Z
+  stop: 2026-11-21T22:30:00Z
+  title: NEWS LIVE
+  subtitle: EN DIRECT.  Journal - 2026. 21 Nov 2026 show.
+  description: EN DIRECT.  Journal - 2026. 21 Nov 2026 show. Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
+  genre:
+  - '144'
+  subtitled: true
 - eventId:
   - 787230
   - 824922
