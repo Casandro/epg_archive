@@ -1078,6 +1078,11 @@
   stop: 2026-11-21T05:50:03Z
   title: Cartoni Animati
   subtitle: Gesù, un regno senza confini
+- eventId: 858008
+  start: 2026-11-21T05:23:17Z
+  stop: 2026-11-21T05:50:04Z
+  title: Cartoni Animati
+  subtitle: Gesù, un regno senza confini
 - eventId: 841284
   start: 2026-11-21T05:23:20Z
   stop: 2026-11-21T05:50:07Z
@@ -1122,7 +1127,9 @@
   stop: 2026-11-21T06:02:44Z
   title: My First Bible
   subtitle: Balaam e il suo asino
-- eventId: 851483
+- eventId:
+  - 851483
+  - 858009
   start: 2026-11-21T05:50:04Z
   stop: 2026-11-21T06:02:44Z
   title: My First Bible
@@ -1160,7 +1167,7 @@
   subtitle: Balaam e il suo asino
 - eventId: 849379
   start: 2026-11-21T06:02:44Z
-  stop: 2026-11-21T06:13:28Z
+  stop: 2026-11-21T06:13:29Z
   title: Theo
   subtitle: La salvezza
 - eventId: 841286
@@ -1201,7 +1208,9 @@
   stop: 2026-11-21T06:21:00Z
   title: Paolo, un avventuriero della fede
   subtitle: Episodio 5 - Paolo e i filosofi
-- eventId: 849380
+- eventId:
+  - 849380
+  - 858010
   start: 2026-11-21T06:13:29Z
   stop: 2026-11-21T06:21:01Z
   title: Paolo, un avventuriero della fede
@@ -1228,7 +1237,9 @@
   stop: 2026-11-21T06:30:27Z
   title: La Bussola - Al servizio dei più piccoli
   subtitle: In questo episodio parleremo di Giuseppe
-- eventId: 849381
+- eventId:
+  - 849381
+  - 858011
   start: 2026-11-21T06:21:01Z
   stop: 2026-11-21T06:30:28Z
   title: La Bussola - Al servizio dei più piccoli
@@ -1260,7 +1271,9 @@
   stop: 2026-11-21T06:57:04Z
   title: Superbook
   subtitle: S03 | E12 - Il sogno di Nabucodonosor
-- eventId: 849382
+- eventId:
+  - 849382
+  - 858012
   start: 2026-11-21T06:30:28Z
   stop: 2026-11-21T06:57:05Z
   title: Superbook
@@ -1290,6 +1303,11 @@
 - eventId: 849383
   start: 2026-11-21T06:57:05Z
   stop: 2026-11-21T07:23:44Z
+  title: Superbook
+  subtitle: S04 | E10 - Geremia
+- eventId: 858013
+  start: 2026-11-21T06:57:05Z
+  stop: 2026-11-21T07:23:45Z
   title: Superbook
   subtitle: S04 | E10 - Geremia
 - eventId: 841287
@@ -1324,6 +1342,11 @@
 - eventId: 849384
   start: 2026-11-21T07:23:44Z
   stop: 2026-11-21T07:48:53Z
+  title: Quo Vadis
+  subtitle: 'Episodio 12: Ambrogio vescovo. Il cartone animato dedicato alla nascita delle prime comunità cristiane da Gerusalemme a Roma insieme agli Apostoli per una avventura che continua nei secoli!'
+- eventId: 858014
+  start: 2026-11-21T07:23:45Z
+  stop: 2026-11-21T07:48:54Z
   title: Quo Vadis
   subtitle: 'Episodio 12: Ambrogio vescovo. Il cartone animato dedicato alla nascita delle prime comunità cristiane da Gerusalemme a Roma insieme agli Apostoli per una avventura che continua nei secoli!'
 - eventId: 841288
@@ -1364,7 +1387,9 @@
   stop: 2026-11-21T08:15:33Z
   title: Superbook
   subtitle: S04 | E09 - Insegnaci a pregare
-- eventId: 849385
+- eventId:
+  - 849385
+  - 858015
   start: 2026-11-21T07:48:54Z
   stop: 2026-11-21T08:15:34Z
   title: Superbook
@@ -1398,7 +1423,9 @@
   stop: 2026-11-21T08:22:35Z
   title: La Bussola - Al servizio dei più piccoli
   subtitle: In questo episodio parleremo del grande amore di Gesù, e di come si prende cura dei suoi figlio
-- eventId: 851484
+- eventId:
+  - 851484
+  - 858016
   start: 2026-11-21T08:15:34Z
   stop: 2026-11-21T08:22:35Z
   title: La Bussola - Al servizio dei più piccoli
@@ -1478,7 +1505,7 @@
   subtitle: S04 | E03 - Paolo e Sila
 - eventId: 849388
   start: 2026-11-21T08:49:14Z
-  stop: 2026-11-21T08:52:30Z
+  stop: 2026-11-21T08:52:31Z
   title: Storie della Bibbia
   subtitle: Le Mura di Gerico
 - eventId: 841291
@@ -1516,7 +1543,9 @@
   stop: 2026-11-21T09:19:09Z
   title: Superbook
   subtitle: S04 | E11 - Gesù nel deserto
-- eventId: 849389
+- eventId:
+  - 849389
+  - 858017
   start: 2026-11-21T08:52:31Z
   stop: 2026-11-21T09:19:09Z
   title: Superbook
@@ -1540,7 +1569,7 @@
   subtitle: S04 | E11 - Gesù nel deserto
 - eventId: 849391
   start: 2026-11-21T09:19:09Z
-  stop: 2026-11-21T09:24:53Z
+  stop: 2026-11-21T09:24:54Z
   title: Nell'Angolo dei Più Piccoli
   subtitle: 'Un programma dedicato ai più piccoli dal titolo: "La solitudine"'
 - eventId: 840780
@@ -1565,7 +1594,9 @@
   stop: 2026-11-21T09:28:52Z
   title: Storie della Bibbia
   subtitle: Giosue' e Caleb
-- eventId: 849392
+- eventId:
+  - 849392
+  - 858018
   start: 2026-11-21T09:24:54Z
   stop: 2026-11-21T09:28:53Z
   title: Storie della Bibbia
@@ -1604,7 +1635,9 @@
   stop: 2026-11-21T09:33:28Z
   title: Storie della Bibbia
   subtitle: Giacobbe ed Esau'
-- eventId: 849393
+- eventId:
+  - 849393
+  - 858019
   start: 2026-11-21T09:28:53Z
   stop: 2026-11-21T09:33:29Z
   title: Storie della Bibbia
@@ -1643,7 +1676,9 @@
   stop: 2026-11-21T09:45:33Z
   title: Racconti Biblici per Bambini
   subtitle: In questa puntata una nuova storia dalla Bibbia. "Giuseppe e i suoi fratelli"
-- eventId: 849394
+- eventId:
+  - 849394
+  - 858020
   start: 2026-11-21T09:33:29Z
   stop: 2026-11-21T09:45:33Z
   title: Racconti Biblici per Bambini
@@ -1679,7 +1714,7 @@
   subtitle: In questa puntata una nuova storia dalla Bibbia. "Giuseppe e i suoi fratelli"
 - eventId: 849395
   start: 2026-11-21T09:45:33Z
-  stop: 2026-11-21T09:51:09Z
+  stop: 2026-11-21T09:51:10Z
   title: La Bussola - Al servizio dei più piccoli
   subtitle: In questo episodio parleremo di Daniele e i suoi amici
 - eventId: 841295
@@ -1720,7 +1755,9 @@
   stop: 2026-11-21T09:55:41Z
   title: Minno Kids
   subtitle: Mosè e il Mar Rosso
-- eventId: 849396
+- eventId:
+  - 849396
+  - 858021
   start: 2026-11-21T09:51:10Z
   stop: 2026-11-21T09:55:42Z
   title: Minno Kids
@@ -1759,7 +1796,9 @@
   stop: 2026-11-21T10:02:19Z
   title: Minno Kids
   subtitle: Le mura di Gerico
-- eventId: 849397
+- eventId:
+  - 849397
+  - 858022
   start: 2026-11-21T09:55:42Z
   stop: 2026-11-21T10:02:20Z
   title: Minno Kids
@@ -1786,7 +1825,9 @@
   stop: 2026-11-21T10:05:34Z
   title: Storie della Bibbia
   subtitle: Gesu' e la donna peccatrice
-- eventId: 849398
+- eventId:
+  - 849398
+  - 858023
   start: 2026-11-21T10:02:20Z
   stop: 2026-11-21T10:05:34Z
   title: Storie della Bibbia
@@ -1815,7 +1856,7 @@
   subtitle: Gesu' e la donna peccatrice
 - eventId: 849399
   start: 2026-11-21T10:05:34Z
-  stop: 2026-11-21T10:15:09Z
+  stop: 2026-11-21T10:15:10Z
   title: Racconti Biblici per Bambini
   subtitle: In questa puntata una nuova storia dalla Bibbia. "L'Arca di Noè"
 - eventId: 841297
@@ -1856,7 +1897,9 @@
   stop: 2026-11-21T10:20:44Z
   title: Minno Kids
   subtitle: Mosè e il roveto ardente
-- eventId: 849400
+- eventId:
+  - 849400
+  - 858024
   start: 2026-11-21T10:15:10Z
   stop: 2026-11-21T10:20:45Z
   title: Minno Kids
@@ -1888,7 +1931,9 @@
   stop: 2026-11-21T10:24:55Z
   title: Bibtoons Go
   subtitle: il buon samaritano
-- eventId: 849401
+- eventId:
+  - 849401
+  - 858025
   start: 2026-11-21T10:20:45Z
   stop: 2026-11-21T10:24:56Z
   title: Bibtoons Go
@@ -1927,7 +1972,9 @@
   stop: 2026-11-21T10:32:39Z
   title: La Bussola - Al servizio dei più piccoli
   subtitle: In questo episodio parleremo di come Gesù sfam con qualche pane e un paio di pesci, miglia di persone,che lo seguivano. Un esempio di quanto sia importante cercare il regno di Dio prima di tutto.
-- eventId: 849402
+- eventId:
+  - 849402
+  - 858026
   start: 2026-11-21T10:24:56Z
   stop: 2026-11-21T10:32:39Z
   title: La Bussola - Al servizio dei più piccoli
@@ -1985,7 +2032,7 @@
   - 849404
   - 857708
   start: 2026-11-21T10:35:17Z
-  stop: 2026-11-21T11:02:18Z
+  stop: 2026-11-21T11:02:19Z
   title: Cartoni Animati
   subtitle: Gesù, un regno senza confini
 - eventId: 840793
@@ -2007,6 +2054,11 @@
   subtitle: Gesù, un regno senza confini
 - eventId: 849405
   start: 2026-11-21T11:02:18Z
+  stop: 2026-11-21T11:25:21Z
+  title: Superbook Classic
+  subtitle: 'Episodio 26: Il grande Paolo'
+- eventId: 858027
+  start: 2026-11-21T11:02:19Z
   stop: 2026-11-21T11:25:21Z
   title: Superbook Classic
   subtitle: 'Episodio 26: Il grande Paolo'
@@ -2067,7 +2119,7 @@
   subtitle: Le Video-Parabole di Gesù (ep.7)
 - eventId: 849407
   start: 2026-11-21T11:38:34Z
-  stop: 2026-11-21T11:47:53Z
+  stop: 2026-11-21T11:47:54Z
   title: My First Bible
   subtitle: Attacco dei 5 Re
 - eventId: 841300
@@ -2108,7 +2160,9 @@
   stop: 2026-11-21T12:13:21Z
   title: Quo Vadis
   subtitle: 'Episodio 3: Pietre e sangue: Stefano e Saulo. Il cartone animato dedicato alla nascita delle prime comunità cristiane da Gerusalemme a Roma insieme agli Apostoli per una avventura che continua nei secoli!'
-- eventId: 849408
+- eventId:
+  - 849408
+  - 858028
   start: 2026-11-21T11:47:54Z
   stop: 2026-11-21T12:13:21Z
   title: Quo Vadis
@@ -2188,7 +2242,7 @@
   - 849410
   - 857710
   start: 2026-11-21T12:17:32Z
-  stop: 2026-11-21T12:44:11Z
+  stop: 2026-11-21T12:44:12Z
   title: Superbook
   subtitle: S01 | E04 - Lascia andare il mio popolo!
 - eventId: 840799
@@ -2210,6 +2264,11 @@
   subtitle: S01 | E04 - Lascia andare il mio popolo!
 - eventId: 849411
   start: 2026-11-21T12:44:11Z
+  stop: 2026-11-21T12:46:11Z
+  title: Storie della Bibbia
+  subtitle: Salomone chiede Saggezza
+- eventId: 858029
+  start: 2026-11-21T12:44:12Z
   stop: 2026-11-21T12:46:11Z
   title: Storie della Bibbia
   subtitle: Salomone chiede Saggezza
@@ -2321,7 +2380,7 @@
   subtitle: 'Episodio 2: L''ira del sinedrio. Il cartone animato dedicato alla nascita delle prime comunità cristiane da Gerusalemme a Roma insieme agli Apostoli per una avventura che continua nei secoli!'
 - eventId: 849415
   start: 2026-11-21T13:19:58Z
-  stop: 2026-11-21T13:21:12Z
+  stop: 2026-11-21T13:21:13Z
   title: Vieni con noi, un viaggio di fede per tutta la famiglia!
   subtitle: Un viaggio fatto di storie, sorrisi, insegnamenti… ma soprattutto dell’amore di Dio.
 - eventId: 841304
@@ -2362,7 +2421,9 @@
   stop: 2026-11-21T13:43:27Z
   title: Ma che gioia
   subtitle: Il Tempo
-- eventId: 849416
+- eventId:
+  - 849416
+  - 858030
   start: 2026-11-21T13:21:13Z
   stop: 2026-11-21T13:43:27Z
   title: Ma che gioia
@@ -2464,7 +2525,7 @@
   subtitle: In questo episodio parleremo della chiamat di Giosuè
 - eventId: 849419
   start: 2026-11-21T14:10:58Z
-  stop: 2026-11-21T14:14:06Z
+  stop: 2026-11-21T14:14:07Z
   title: Storie della Bibbia
   subtitle: Gesu' va in cielo
 - eventId: 840808
@@ -2486,6 +2547,11 @@
   subtitle: Gesu' va in cielo
 - eventId: 849420
   start: 2026-11-21T14:14:06Z
+  stop: 2026-11-21T14:39:37Z
+  title: Quo Vadis
+  subtitle: 'Episodio 11: In hoc signos vinces. Il cartone animato dedicato alla nascita delle prime comunità cristiane da Gerusalemme a Roma insieme agli Apostoli per una avventura che continua nei secoli!'
+- eventId: 858031
+  start: 2026-11-21T14:14:07Z
   stop: 2026-11-21T14:39:37Z
   title: Quo Vadis
   subtitle: 'Episodio 11: In hoc signos vinces. Il cartone animato dedicato alla nascita delle prime comunità cristiane da Gerusalemme a Roma insieme agli Apostoli per una avventura che continua nei secoli!'
@@ -2688,7 +2754,7 @@
   subtitle: Giuseppe perdona i suoi fratelli
 - eventId: 849426
   start: 2026-11-21T16:08:11Z
-  stop: 2026-11-21T16:30:23Z
+  stop: 2026-11-21T16:30:24Z
   title: Ma che gioia
   subtitle: Stelle, Sole e Pioggia.
 - eventId: 841311
@@ -2723,6 +2789,11 @@
   subtitle: Stelle, Sole e Pioggia.
 - eventId: 849427
   start: 2026-11-21T16:30:23Z
+  stop: 2026-11-21T16:36:08Z
+  title: Minno Kids
+  subtitle: Giona e la balena
+- eventId: 858032
+  start: 2026-11-21T16:30:24Z
   stop: 2026-11-21T16:36:08Z
   title: Minno Kids
   subtitle: Giona e la balena
@@ -2818,14 +2889,11 @@
   stop: 2026-11-21T17:10:16Z
   title: Minno Kids
   subtitle: L’incontro di Paolo con Gesù
-- eventId: 849430
+- eventId:
+  - 849430
+  - 857715
   start: 2026-11-21T17:04:02Z
   stop: 2026-11-21T17:10:17Z
-  title: Minno Kids
-  subtitle: L’incontro di Paolo con Gesù
-- eventId: 857715
-  start: 2026-11-21T17:04:02Z
-  stop: 2026-11-21T17:10:16Z
   title: Minno Kids
   subtitle: L’incontro di Paolo con Gesù
 - eventId: 840819
@@ -2850,7 +2918,9 @@
   stop: 2026-11-21T17:36:56Z
   title: Superbook
   subtitle: S03 | E10 - Lazzaro
-- eventId: 849431
+- eventId:
+  - 849431
+  - 858033
   start: 2026-11-21T17:10:17Z
   stop: 2026-11-21T17:36:57Z
   title: Superbook
@@ -2879,7 +2949,9 @@
   stop: 2026-11-21T18:02:28Z
   title: Quo Vadis
   subtitle: 'Episodio 6: La salvezza di Cristo a tutti. Il cartone animato dedicato alla nascita delle prime comunità cristiane da Gerusalemme a Roma insieme agli Apostoli per una avventura che continua nei secoli!'
-- eventId: 851485
+- eventId:
+  - 851485
+  - 858034
   start: 2026-11-21T17:36:57Z
   stop: 2026-11-21T18:02:28Z
   title: Quo Vadis
@@ -2935,7 +3007,7 @@
   subtitle: S01 | E05 - I dieci comandamenti
 - eventId: 849434
   start: 2026-11-21T18:29:07Z
-  stop: 2026-11-21T18:38:20Z
+  stop: 2026-11-21T18:38:21Z
   title: Theo
   subtitle: La fede che salva
 - eventId: 840823
@@ -2960,7 +3032,9 @@
   stop: 2026-11-21T19:01:25Z
   title: Superbook Classic
   subtitle: 'Episodio 23: La fossa dei leoni'
-- eventId: 851486
+- eventId:
+  - 851486
+  - 858035
   start: 2026-11-21T18:38:21Z
   stop: 2026-11-21T19:01:25Z
   title: Superbook Classic
@@ -3139,7 +3213,7 @@
   subtitle: In questo episodio parleremo di Giuseppe
 - eventId: 849442
   start: 2026-11-21T19:58:03Z
-  stop: 2026-11-21T20:03:21Z
+  stop: 2026-11-21T20:03:22Z
   title: Minno Kids
   subtitle: Gesù tentato nel deserto
 - eventId: 841317
@@ -3166,7 +3240,9 @@
   stop: 2026-11-21T20:14:58Z
   title: Theo
   subtitle: Il frutto dello Spirito
-- eventId: 851487
+- eventId:
+  - 851487
+  - 858036
   start: 2026-11-21T20:03:22Z
   stop: 2026-11-21T20:14:58Z
   title: Theo
@@ -3205,7 +3281,7 @@
   subtitle: Episodio 8
 - eventId: 849445
   start: 2026-11-21T20:27:55Z
-  stop: 2026-11-21T20:36:58Z
+  stop: 2026-11-21T20:36:59Z
   title: La Bussola - Al servizio dei più piccoli
   subtitle: In questo episodio parleremo di Samuele
 - eventId: 841319
@@ -3230,6 +3306,11 @@
   stop: 2026-11-21T20:40:51Z
   title: A Casa di Paolotto
   subtitle: '"Il vero Amico" con Antonio e Paolotto, per i più piccoli.'
+- eventId: 858037
+  start: 2026-11-21T20:36:59Z
+  stop: 2026-11-21T20:40:51Z
+  title: A Casa di Paolotto
+  subtitle: '"Il vero Amico" con Antonio e Paolotto, per i più piccoli.'
 - eventId: 841320
   start: 2026-11-21T20:37:02Z
   stop: 2026-11-21T20:40:55Z
@@ -3249,7 +3330,7 @@
   subtitle: '"Il vero Amico" con Antonio e Paolotto, per i più piccoli.'
 - eventId: 849447
   start: 2026-11-21T20:40:51Z
-  stop: 2026-11-21T20:43:13Z
+  stop: 2026-11-21T20:43:14Z
   title: Storie della Bibbia
   subtitle: Gesu' prega
 - eventId: 840836
@@ -3267,7 +3348,9 @@
   stop: 2026-11-21T20:46:30Z
   title: Storie della Bibbia
   subtitle: Gesu' prega nel Getsemani
-- eventId: 849448
+- eventId:
+  - 849448
+  - 858038
   start: 2026-11-21T20:43:14Z
   stop: 2026-11-21T20:46:31Z
   title: Storie della Bibbia
@@ -3287,7 +3370,9 @@
   stop: 2026-11-21T20:57:33Z
   title: Cartoni Animati
   subtitle: Le Video-Parabole di Gesù (ep.6)
-- eventId: 849449
+- eventId:
+  - 849449
+  - 858039
   start: 2026-11-21T20:46:31Z
   stop: 2026-11-21T20:57:33Z
   title: Cartoni Animati
@@ -3319,7 +3404,7 @@
   subtitle: Gesu' nel tempio
 - eventId: 849472
   start: 2026-11-21T21:00:55Z
-  stop: 2026-11-21T21:27:06Z
+  stop: 2026-11-21T21:27:07Z
   title: Cartoni Animati
   subtitle: Gesù, un regno senza confini (Puntata 15)
 - eventId: 840840
@@ -3334,6 +3419,11 @@
   subtitle: Gesù, un regno senza confini (Puntata 15)
 - eventId: 849473
   start: 2026-11-21T21:27:06Z
+  stop: 2026-11-21T21:29:11Z
+  title: Storie della Bibbia
+  subtitle: La parabola dei due figli
+- eventId: 858040
+  start: 2026-11-21T21:27:07Z
   stop: 2026-11-21T21:29:11Z
   title: Storie della Bibbia
   subtitle: La parabola dei due figli
@@ -3356,7 +3446,7 @@
   subtitle: La parabola dei due figli
 - eventId: 849474
   start: 2026-11-21T21:29:11Z
-  stop: 2026-11-21T21:35:33Z
+  stop: 2026-11-21T21:35:34Z
   title: Minno Kids
   subtitle: La nascita della Chiesa
 - eventId: 841322
@@ -3386,6 +3476,11 @@
   stop: 2026-11-21T21:38:38Z
   title: BibbiaKids
   subtitle: Il liberatore Mosè
+- eventId: 858041
+  start: 2026-11-21T21:35:34Z
+  stop: 2026-11-21T21:38:39Z
+  title: BibbiaKids
+  subtitle: Il liberatore Mosè
 - eventId: 840843
   start: 2026-11-21T21:35:38Z
   stop: 2026-11-21T21:38:43Z
@@ -3398,6 +3493,11 @@
   subtitle: Il liberatore Mosè
 - eventId: 849476
   start: 2026-11-21T21:38:38Z
+  stop: 2026-11-21T21:45:05Z
+  title: La Bussola - Al servizio dei più piccoli
+  subtitle: In questo episodio parleremo di come Dio con la sua Parola
+- eventId: 858042
+  start: 2026-11-21T21:38:39Z
   stop: 2026-11-21T21:45:05Z
   title: La Bussola - Al servizio dei più piccoli
   subtitle: In questo episodio parleremo di come Dio con la sua Parola
@@ -3446,14 +3546,11 @@
   stop: 2026-11-21T22:26:32Z
   title: Superbook
   subtitle: S02 | E11 - Il rinnegamento di Pietro
-- eventId: 849478
+- eventId:
+  - 849478
+  - 857720
   start: 2026-11-21T21:59:54Z
   stop: 2026-11-21T22:26:33Z
-  title: Superbook
-  subtitle: S02 | E11 - Il rinnegamento di Pietro
-- eventId: 857720
-  start: 2026-11-21T21:59:54Z
-  stop: 2026-11-21T22:26:32Z
   title: Superbook
   subtitle: S02 | E11 - Il rinnegamento di Pietro
 - eventId: 840846
@@ -3471,7 +3568,9 @@
   stop: 2026-11-21T22:34:47Z
   title: La Bussola - Al servizio dei più piccoli
   subtitle: In questo episodio parleremo di Giuseppe
-- eventId: 849479
+- eventId:
+  - 849479
+  - 858043
   start: 2026-11-21T22:26:33Z
   stop: 2026-11-21T22:34:47Z
   title: La Bussola - Al servizio dei più piccoli
@@ -3507,7 +3606,7 @@
   subtitle: 'Episodio 1: L''avventura dei primi cristiani. Il cartone animato dedicato alla nascita delle prime comunità cristiane da Gerusalemme a Roma insieme agli Apostoli per una avventura che continua nei secoli!'
 - eventId: 849481
   start: 2026-11-21T23:00:12Z
-  stop: 2026-11-21T23:27:03Z
+  stop: 2026-11-21T23:27:04Z
   title: Cartoni Animati
   subtitle: Gesù, un regno senza confini
 - eventId: 841325
@@ -3527,7 +3626,9 @@
   stop: 2026-11-21T23:33:22Z
   title: My First Bible
   subtitle: Giuseppe il sognatore
-- eventId: 849482
+- eventId:
+  - 849482
+  - 858044
   start: 2026-11-21T23:27:04Z
   stop: 2026-11-21T23:33:23Z
   title: My First Bible
@@ -3542,7 +3643,9 @@
   stop: 2026-11-21T23:36:01Z
   title: Storie della Bibbia
   subtitle: Elia nel Deserto
-- eventId: 849483
+- eventId:
+  - 849483
+  - 858045
   start: 2026-11-21T23:33:23Z
   stop: 2026-11-21T23:36:01Z
   title: Storie della Bibbia
@@ -3569,7 +3672,7 @@
   subtitle: Le filastrocche del Re
 - eventId: 849485
   start: 2026-11-21T23:58:47Z
-  stop: 2026-11-22T00:09:33Z
+  stop: 2026-11-22T00:09:34Z
   title: My First Bible
   subtitle: La chiamata di Gedeone
 - eventId: 843677
