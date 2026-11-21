@@ -1517,7 +1517,9 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 866144
+- eventId:
+  - 866144
+  - 866681
   start: 2026-11-21T13:04:00Z
   stop: 2026-11-21T13:33:00Z
   title: Ländermagazin
@@ -1532,6 +1534,8 @@
   genre:
   - '32'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 541141
   - 600266
@@ -1620,6 +1624,22 @@
   - '112'
   widescreen: true
   subtitled: true
+- eventId: 866680
+  start: 2026-11-21T13:33:00Z
+  stop: 2026-11-21T14:00:00Z
+  title: Kunst + Krempel
+  subtitle: Familienschätze unter der Lupe
+  description: |-
+    Eine Kultsendung des Bayerischen Fernsehens, seit mehr als 30 Jahren: Bei "Kunst + Krempel" bewerten renommierte Experten aus Museum und Kunsthandel die mitgebrachten Antiquitäten der Gäste.
+
+    Eine Dame ohne Unterleib: Was hat es damit auf sich? Die Beratungen geben Aufschluss über die Porzellanfigur, die mal groß in Mode war. Außerdem geht es um ein Zigarettenetui im Jugendstil, ein monumentales Gemälde und die Zeichnung eines Mädchenporträts.
+    HD-Produktion
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 541142
   - 629721
