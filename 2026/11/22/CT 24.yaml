@@ -309,7 +309,7 @@
   - 670452
   - 673863
   start: 2026-11-22T07:00:00Z
-  stop: 2026-11-22T07:31:00Z
+  stop: 2026-11-22T07:30:00Z
   title: Zprávy
   description: |-
     HDTV
@@ -319,7 +319,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 874194
+- eventId:
+  - 874194
+  - 883009
   start: 2026-11-22T07:30:00Z
   stop: 2026-11-22T08:00:00Z
   title: Věda 24

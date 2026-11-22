@@ -9,7 +9,7 @@
   hd: true
 - eventId: 700208
   start: 2026-11-23T00:20:00Z
-  stop: 2026-11-23T00:34:00Z
+  stop: 2026-11-23T00:33:00Z
   title: Tagesschau
   subtitle: Spätausgabe
   genre:
@@ -29,6 +29,15 @@
   subtitled: true
   hd: true
   subtitle: Studiogast - Lukas Görtler, Spieler FC St. Gallen
+- eventId: 884541
+  start: 2026-11-23T00:33:00Z
+  stop: 2026-11-23T00:35:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
 - eventId: 803325
   start: 2026-11-23T00:34:00Z
   stop: 2026-11-23T00:35:00Z
@@ -97,7 +106,7 @@
   hd: true
 - eventId: 700213
   start: 2026-11-23T02:20:00Z
-  stop: 2026-11-23T02:31:00Z
+  stop: 2026-11-23T02:30:00Z
   title: Sportpanorama
   description: |-
     Das Magazin zur nationalen und internationalen Sportaktualität des Wochenendes.
@@ -108,15 +117,28 @@
   subtitled: true
   hd: true
   subtitle: Studiogast - Lukas Görtler, Spieler FC St. Gallen
-- eventId: 803328
-  start: 2026-11-23T02:31:00Z
-  stop: 2026-11-23T02:32:00Z
+- eventId: 884542
+  start: 2026-11-23T02:30:00Z
+  stop: 2026-11-23T02:31:00Z
   title: Meteo
   subtitle: Spätausgabe
   genre:
   - '32'
   widescreen: true
   hd: true
+- eventId: 803328
+  start: 2026-11-23T02:31:00Z
+  stop: 2026-11-23T03:25:00Z
+  title: Sportpanorama
+  subtitle: Studiogast - Lukas Görtler, Spieler FC St. Gallen
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+  description: |-
+    Zu Gast im «Sportpanorama» bei Sascha Ruefer spricht Lukas Görtler, Captain des FC St. Gallen, über Fussball nach dem Motto alles oder nichts. Ausserdem: Natalie Maags Neustart im Rodeln, der Rücktritt von Eishockeyschiedsrichter Micha Hebeisen und Riola Xhemaili bei Como 1907.
+    Schweiz 2026
+  subtitled: true
 - eventId: 803329
   start: 2026-11-23T02:32:00Z
   stop: 2026-11-23T03:25:00Z
@@ -145,7 +167,7 @@
   hd: true
 - eventId: 803333
   start: 2026-11-23T03:25:00Z
-  stop: 2026-11-23T04:20:00Z
+  stop: 2026-11-23T04:15:00Z
   title: Super League - Highlights
   subtitle: Alle Spiele, alle Tore
   description: |-
@@ -162,6 +184,19 @@
   title: Sportpanorama
   description: |-
     Das Magazin zur nationalen und internationalen Sportaktualität des Wochenendes.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 884543
+  start: 2026-11-23T04:15:00Z
+  stop: 2026-11-23T04:50:00Z
+  title: Sportpanorama
+  subtitle: Studiogast - Lukas Görtler, Spieler FC St. Gallen
+  description: |-
+    Zu Gast im «Sportpanorama» bei Sascha Ruefer spricht Lukas Görtler, Captain des FC St. Gallen, über Fussball nach dem Motto alles oder nichts. Ausserdem: Natalie Maags Neustart im Rodeln, der Rücktritt von Eishockeyschiedsrichter Micha Hebeisen und Riola Xhemaili bei Como 1907.
     Schweiz 2026
   genre:
   - '64'
