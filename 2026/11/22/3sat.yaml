@@ -503,6 +503,20 @@
   genre:
   - '112'
   widescreen: true
+- eventId: 890854
+  start: 2026-11-22T09:37:00Z
+  stop: 2026-11-22T10:50:00Z
+  title: Literaturclub
+  description: |-
+    "Literaturclub" diskutiert die neuesten literarischen Entdeckungen und gibt Orientierungshilfe im Buchmarkt.
+
+    In der Gesprächssendung werden jeweils vier bis fünf Neuerscheinungen besprochen.
+    HD-Produktion
+  genre:
+  - '112'
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 556235
   - 561492
@@ -529,7 +543,9 @@
     Die Tochter des Politikers Alfred Escher wird von den Schweizer Behörden in ein Irrenhaus eingewiesen. - Der Film erzählt das dramatische Leben von Lydia Welti-Escher.
     HD-Produktion
   subtitled: true
-- eventId: 890440
+- eventId:
+  - 890440
+  - 890856
   start: 2026-11-22T10:53:00Z
   stop: 2026-11-22T12:00:00Z
   title: Lydia Welti-Escher - Aufzeichnungen aus dem Irrenhaus
@@ -543,6 +559,8 @@
   - '112'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 556319
   - 564812
