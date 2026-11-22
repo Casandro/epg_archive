@@ -207,7 +207,7 @@
   - '166'
 - eventId: 800142
   start: 2026-11-22T13:00:00Z
-  stop: 2026-11-22T14:00:00Z
+  stop: 2026-11-22T16:25:00Z
   title: Du bist schön!
   subtitle: 1-2-3.tv Programmvorschau 22.11.2026, 14-15 Uhr
   description: In dieser Stunde erwarten Sie diverse Highlights.
@@ -250,6 +250,7 @@
   - 800162
   - 854153
   - 880652
+  - 894264
   start: 2026-11-22T16:25:00Z
   stop: 2026-11-22T17:35:00Z
   title: Das große Calimeros-Wunschkonzert
@@ -274,6 +275,11 @@
   stop: 2026-11-22T18:05:00Z
   title: Teleshopping
   subtitle: Teleshopping
+- eventId: 894267
+  start: 2026-11-22T17:35:00Z
+  stop: 2026-11-22T18:00:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
 - eventId:
   - 851806
   - 871732
@@ -289,6 +295,7 @@
   - 800181
   - 854198
   - 880654
+  - 894268
   start: 2026-11-22T18:05:00Z
   stop: 2026-11-22T18:40:00Z
   title: Schlager Total
@@ -298,6 +305,7 @@
   - 800182
   - 854199
   - 880655
+  - 894269
   start: 2026-11-22T18:40:00Z
   stop: 2026-11-22T19:15:00Z
   title: Teleshopping
@@ -317,6 +325,7 @@
   - 800183
   - 854200
   - 880656
+  - 894270
   start: 2026-11-22T19:15:00Z
   stop: 2026-11-22T21:15:00Z
   title: Junge Leute brauchen Liebe
@@ -348,6 +357,7 @@
   - 800194
   - 854243
   - 880657
+  - 894271
   start: 2026-11-22T21:15:00Z
   stop: 2026-11-22T23:15:00Z
   title: Teleshopping
@@ -371,7 +381,9 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 800195
+- eventId:
+  - 800195
+  - 894272
   start: 2026-11-22T23:15:00Z
   stop: 2026-11-23T01:00:00Z
   title: Die Mädchen aus der Peep-Show
