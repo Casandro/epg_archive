@@ -10,6 +10,7 @@
   - 870818
   - 873153
   - 881743
+  - 890940
   start: 2026-11-23T00:00:00Z
   stop: 2026-11-23T01:00:00Z
   title: Newshour
@@ -36,6 +37,7 @@
   - 870819
   - 873154
   - 881744
+  - 890941
   start: 2026-11-23T01:00:00Z
   stop: 2026-11-23T02:00:00Z
   title: Witness
@@ -45,6 +47,7 @@
   - 870820
   - 873155
   - 881745
+  - 890942
   start: 2026-11-23T02:00:00Z
   stop: 2026-11-23T03:00:00Z
   title: Newshour
@@ -64,6 +67,7 @@
   - 870825
   - 873156
   - 881746
+  - 890943
   start: 2026-11-23T03:00:00Z
   stop: 2026-11-23T03:30:00Z
   title: News Live
@@ -74,6 +78,7 @@
   - 870826
   - 873157
   - 881747
+  - 890944
   start: 2026-11-23T03:30:00Z
   stop: 2026-11-23T04:00:00Z
   title: The Bottom Line
@@ -83,6 +88,7 @@
   - 870827
   - 873158
   - 881748
+  - 890945
   start: 2026-11-23T04:00:00Z
   stop: 2026-11-23T04:30:00Z
   title: News Live
@@ -95,6 +101,7 @@
   - 870828
   - 873159
   - 881749
+  - 890946
   start: 2026-11-23T04:30:00Z
   stop: 2026-11-23T05:00:00Z
   title: The Listening Post
@@ -104,7 +111,7 @@
   description: Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.
 - eventId: 798763
   start: 2026-11-23T05:00:00Z
-  stop: 2026-11-24T05:00:00Z
+  stop: 2026-11-23T05:30:00Z
   title: AL JAZEERA ENGLISH
   genre:
   - '32'
@@ -118,7 +125,14 @@
   - '32'
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
   description: What is being reported by world media and how? Richard Gizbert guides you through the global news maze.
-- eventId: 798789
+- eventId: 890947
+  start: 2026-11-23T05:30:00Z
+  stop: 2026-11-23T06:00:00Z
+  title: Inside Story
+  subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
+- eventId:
+  - 798789
+  - 890950
   start: 2026-11-23T06:00:00Z
   stop: 2026-11-23T06:30:00Z
   title: News Live
@@ -126,7 +140,9 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
-- eventId: 798790
+- eventId:
+  - 798790
+  - 890951
   start: 2026-11-23T06:30:00Z
   stop: 2026-11-23T07:00:00Z
   title: The Art of Negotiation
@@ -142,6 +158,11 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
+- eventId: 890952
+  start: 2026-11-23T07:00:00Z
+  stop: 2026-11-23T08:00:00Z
+  title: Newshour
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId:
   - 798792
   - 831496
@@ -153,7 +174,9 @@
   genre:
   - '32'
   description: 101 East reports on the people and events shaping the Asia Pacific region. .
-- eventId: 798793
+- eventId:
+  - 798793
+  - 890953
   start: 2026-11-23T08:00:00Z
   stop: 2026-11-23T08:30:00Z
   title: News Live
@@ -165,11 +188,14 @@
   - 824784
   - 842745
   - 870834
+  - 890954
   start: 2026-11-23T08:30:00Z
   stop: 2026-11-23T09:00:00Z
   title: Talk to Al Jazeera
   subtitle: Former Prime Minister of Iceland discusses climate change, Arctic sovereignty and the politics of compromise in a polarized world.
-- eventId: 798822
+- eventId:
+  - 798822
+  - 890957
   start: 2026-11-23T09:00:00Z
   stop: 2026-11-23T09:30:00Z
   title: News Live
@@ -185,6 +211,11 @@
   genre:
   - '32'
   description: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.
+- eventId: 890958
+  start: 2026-11-23T09:30:00Z
+  stop: 2026-11-23T10:00:00Z
+  title: Dying Earth
+  subtitle: Some of the prophets of doom of the 60's whose warning went unheeded assess the Earth's current environmental fragility.
 - eventId: 798824
   start: 2026-11-23T10:00:00Z
   stop: 2026-11-23T11:00:00Z
@@ -193,6 +224,11 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
+- eventId: 890959
+  start: 2026-11-23T10:00:00Z
+  stop: 2026-11-23T11:00:00Z
+  title: Newshour
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId:
   - 798825
   - 831503
@@ -204,7 +240,9 @@
   genre:
   - '32'
   description: Documentary filmmaker Mariam Shahin looks back at how the blockade and successive conflicts have reduced the hopes and dreams of people in Gaza to rubble.
-- eventId: 798826
+- eventId:
+  - 798826
+  - 890960
   start: 2026-11-23T11:00:00Z
   stop: 2026-11-23T11:30:00Z
   title: News Live
@@ -216,11 +254,14 @@
   - 824790
   - 842754
   - 870844
+  - 890961
   start: 2026-11-23T11:30:00Z
   stop: 2026-11-23T12:00:00Z
   title: Inside Story
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
-- eventId: 798850
+- eventId:
+  - 798850
+  - 890964
   start: 2026-11-23T12:00:00Z
   stop: 2026-11-23T13:00:00Z
   title: The Drugs Don't Work
@@ -245,7 +286,14 @@
   genre:
   - '32'
   subtitle: A fast-paced, live global news show capturing the latest developments as they unfold.
-- eventId: 798853
+- eventId: 890965
+  start: 2026-11-23T13:00:00Z
+  stop: 2026-11-23T14:00:00Z
+  title: 'NEWSHOUR: The World Now'
+  subtitle: A fast-paced, live global news show capturing the latest developments as they unfold.
+- eventId:
+  - 798853
+  - 890966
   start: 2026-11-23T14:00:00Z
   stop: 2026-11-23T14:30:00Z
   title: News Live
@@ -257,11 +305,14 @@
   - 824798
   - 842755
   - 870852
+  - 890967
   start: 2026-11-23T14:30:00Z
   stop: 2026-11-23T15:00:00Z
   title: Counting the Cost
   subtitle: Can South Africa attract the investment it needs to revive growth and create jobs?
-- eventId: 798874
+- eventId:
+  - 798874
+  - 890970
   start: 2026-11-23T15:00:00Z
   stop: 2026-11-23T16:00:00Z
   title: 'NEWSHOUR: The Wider Story'
@@ -279,7 +330,9 @@
   genre:
   - '32'
   description: Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.
-- eventId: 798876
+- eventId:
+  - 798876
+  - 890971
   start: 2026-11-23T16:00:00Z
   stop: 2026-11-23T16:30:00Z
   title: News Live
@@ -291,11 +344,14 @@
   - 824804
   - 842758
   - 870860
+  - 890972
   start: 2026-11-23T16:30:00Z
   stop: 2026-11-23T17:00:00Z
   title: UpFront
   subtitle: Marc Lamont Hill discusses the Nvidia scandal, tech failures and the future of AI with entrepreneur and former White House adviser Anil Dash.
-- eventId: 798877
+- eventId:
+  - 798877
+  - 890973
   start: 2026-11-23T17:00:00Z
   stop: 2026-11-23T17:30:00Z
   title: 'NEWS 30min: Lives in Focus'
@@ -311,6 +367,11 @@
   genre:
   - '32'
   description: earthrise follows the progress of Al Mizan, an Islamic Covenant for the Earth, and traces its growing impact in the year after its launch.
+- eventId: 890974
+  start: 2026-11-23T17:30:00Z
+  stop: 2026-11-23T18:00:00Z
+  title: Inside Story
+  subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
 - eventId: 798902
   start: 2026-11-23T18:00:00Z
   stop: 2026-11-23T19:00:00Z
@@ -319,6 +380,11 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
+- eventId: 890976
+  start: 2026-11-23T18:00:00Z
+  stop: 2026-11-23T19:00:00Z
+  title: Newshour
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId:
   - 798903
   - 831521
@@ -330,7 +396,9 @@
   genre:
   - '32'
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
-- eventId: 798904
+- eventId:
+  - 798904
+  - 890977
   start: 2026-11-23T19:00:00Z
   stop: 2026-11-23T19:30:00Z
   title: News Live
@@ -342,11 +410,14 @@
   - 824810
   - 842761
   - 870864
+  - 890978
   start: 2026-11-23T19:30:00Z
   stop: 2026-11-23T20:00:00Z
   title: Al Jazeera Explains
   subtitle: Democrats won Congress. But did they win voters over? Al Jazeera Explains why Trump's party lost, and how much power the president still holds.
-- eventId: 798905
+- eventId:
+  - 798905
+  - 890979
   start: 2026-11-23T20:00:00Z
   stop: 2026-11-23T21:00:00Z
   title: Al Jazeera World
@@ -372,7 +443,14 @@
   genre:
   - '32'
   description: Designed for viewers seeking context, depth and clarity, Let's Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.
-- eventId: 798934
+- eventId: 890982
+  start: 2026-11-23T21:00:00Z
+  stop: 2026-11-23T22:00:00Z
+  title: Newshour
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+- eventId:
+  - 798934
+  - 890983
   start: 2026-11-23T22:00:00Z
   stop: 2026-11-23T22:30:00Z
   title: News Live
@@ -384,11 +462,14 @@
   - 824815
   - 842762
   - 870869
+  - 890984
   start: 2026-11-23T22:30:00Z
   stop: 2026-11-23T23:00:00Z
   title: Witness
   subtitle: A decade after Colombia's peace accords, former FARC guerrilla and artist honours killed signatories with a mural.
-- eventId: 798935
+- eventId:
+  - 798935
+  - 890985
   start: 2026-11-23T23:00:00Z
   stop: 2026-11-23T23:30:00Z
   title: News Live
@@ -396,7 +477,9 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
-- eventId: 798936
+- eventId:
+  - 798936
+  - 890986
   start: 2026-11-23T23:30:00Z
   stop: 2026-11-24T00:00:00Z
   title: Inside Story
