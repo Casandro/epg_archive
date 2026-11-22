@@ -1640,6 +1640,14 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+- eventId: 903513
+  start: 2026-11-22T22:30:00Z
+  stop: 2026-11-22T22:48:00Z
+  title: 'Studio 4: Jutarnji intervju'
+  subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 903450
   start: 2026-11-22T22:48:00Z
   stop: 2026-11-22T22:53:00Z
@@ -1655,7 +1663,9 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 903427
+- eventId:
+  - 903427
+  - 903514
   start: 2026-11-22T22:50:00Z
   stop: 2026-11-22T22:55:00Z
   title: '#REPORTAŽE'
@@ -1685,7 +1695,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 813417
   start: 2026-11-22T23:10:00Z
-  stop: 2026-11-22T23:59:00Z
+  stop: 2026-11-23T00:00:00Z
   title: Vijesti iz kulture
   subtitle: Nedjeljna emisija o poljoprivredi i ribarstvu bavi se aktualnim temama, kritički progovara o agrarnoj politici, savjetuje i poučava gledatelje te donosi agroprognozu.
   ageRating: 4
