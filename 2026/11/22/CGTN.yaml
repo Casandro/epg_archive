@@ -845,12 +845,15 @@
   - '32'
   description: Travelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.
   widescreen: true
-- eventId: 705594
+- eventId:
+  - 705594
+  - 903046
   start: 2026-11-22T21:00:00Z
   stop: 2026-11-22T21:30:00Z
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
 - eventId: 787347
   start: 2026-11-22T21:00:00Z
   stop: 2026-11-22T22:15:00Z
@@ -887,6 +890,7 @@
   - 881874
   - 891062
   - 902070
+  - 903045
   start: 2026-11-22T21:30:00Z
   stop: 2026-11-22T22:00:00Z
   title: Assignment Asia
@@ -900,6 +904,7 @@
   - 873815
   - 881875
   - 891063
+  - 903047
   start: 2026-11-22T22:00:00Z
   stop: 2026-11-22T23:00:00Z
   title: Americas Now
