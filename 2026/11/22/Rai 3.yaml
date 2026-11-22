@@ -35,6 +35,7 @@
 - eventId:
   - 832305
   - 847600
+  - 885461
   start: 2026-11-22T05:00:00Z
   stop: 2026-11-22T06:00:00Z
   title: Fuori Orario. Cose (mai) viste
@@ -51,7 +52,17 @@
     Servizi: Giuseppe Bellasalma e Anna Giampiccoli
   genre:
   - '16'
-- eventId: 815575
+- eventId: 885608
+  start: 2026-11-22T06:00:00Z
+  stop: 2026-11-22T06:30:00Z
+  title: 'Protestantesimo Sentinella, a che punto '
+  subtitle: 'Protestantesimo Sentinella, a che punto è la notte? - RUBRICA - Dalla pittura alla scultura, dalla musica all''illustrazione, la Bibbia continua a lasciare il segno, alimentando la creatività di artisti di '
+  description: |-
+    ogni epoca e cultura. Un intreccio di racconti, simboli e suggestioni che attraversa le opere, spesso in modi inaspettati. - Conduce: Federica Tourn
+    Servizi: Giuseppe Bellasalma e Anna Giampiccoli
+- eventId:
+  - 815575
+  - 885609
   start: 2026-11-22T06:30:00Z
   stop: 2026-11-22T07:00:00Z
   title: Sulla via di Damasco
@@ -62,11 +73,13 @@
     conduce Eva Crosetta
   genre:
   - '16'
-- eventId: 815576
+- eventId:
+  - 815576
+  - 885610
   start: 2026-11-22T07:00:00Z
   stop: 2026-11-22T09:15:00Z
   title: Mi manda RaiTre
-  subtitle: ATTUALITA' - Mi Manda RaiTre e le sue inchieste, ormai una certezza dell'offerta del Servizio pubblico radiotelevisivo. In onda dal 1990, nelle ultime stagioni il programma si modernizzato ed ha cambiato leggermente il format. Si
+  subtitle: 'ATTUALITA'' - Mi Manda RaiTre e le sue inchieste, ormai una certezza dell''offerta del Servizio pubblico radiotelevisivo. In onda dal 1990, nelle ultime stagioni il programma si modernizzato ed ha cambiato leggermente il format. Si '
   description: |-
     è passati ad una struttura ibrida con inchieste più lunghe intervallate da talk contenuto nei tempi. Il filo rosso della trasmissione è scandito dalla lunghezza delle inchieste. - Conduce Federico Ruffo
     Un programma di Federico Ruffo, Paola Crasso, Lorenzo Maria Falco
@@ -74,7 +87,9 @@
     Regia Fabio Calabrò
   genre:
   - '16'
-- eventId: 815577
+- eventId:
+  - 815577
+  - 885619
   start: 2026-11-22T09:15:00Z
   stop: 2026-11-22T10:05:00Z
   title: O anche no
@@ -82,18 +97,23 @@
   description: Regia Gabriele Mammarella
   genre:
   - '16'
-- eventId: 815578
+- eventId:
+  - 815578
+  - 885620
   start: 2026-11-22T10:05:00Z
   stop: 2026-11-22T10:30:00Z
   title: TGR BUONGIORNO EUROPA - Da EST a OVEST
   subtitle: TG Regionale.
-  description: |-
+  description: |+
     Direttore Roberto Pacchetti
     Vicedirettrice Ines Maggiolini
     A cura della Tgr Friuli-Venezia Giulia e della Tgr Puglia
+
   genre:
   - '16'
-- eventId: 815579
+- eventId:
+  - 815579
+  - 885621
   start: 2026-11-22T10:30:00Z
   stop: 2026-11-22T11:00:00Z
   title: TGR BUONGIORNO EUROPA - Da Nord A Sud, i
@@ -104,14 +124,18 @@
     A cura della redazione TGR-Sicilia
   genre:
   - '16'
-- eventId: 815580
+- eventId:
+  - 815580
+  - 885622
   start: 2026-11-22T11:00:00Z
   stop: 2026-11-22T11:17:00Z
   title: TG3
   subtitle: NOTIZIARIO.
   genre:
   - '16'
-- eventId: 815581
+- eventId:
+  - 815581
+  - 885623
   start: 2026-11-22T11:17:00Z
   stop: 2026-11-22T11:25:00Z
   title: TG3 Fuori Linea
@@ -119,7 +143,9 @@
   description: A cura di Giovanni Battista Tomassini
   genre:
   - '16'
-- eventId: 815582
+- eventId:
+  - 815582
+  - 885624
   start: 2026-11-22T11:25:00Z
   stop: 2026-11-22T11:55:00Z
   title: ALTA QUOTA
@@ -130,14 +156,18 @@
     A cura della Tgr Lazio, Piemonte, Trentino-Alto Adige e Valle d'Aosta
   genre:
   - '16'
-- eventId: 815583
+- eventId:
+  - 815583
+  - 885625
   start: 2026-11-22T11:55:00Z
   stop: 2026-11-22T12:00:00Z
   title: TG3 LIS
   subtitle: NOTIZIARIO.
   genre:
   - '16'
-- eventId: 815584
+- eventId:
+  - 815584
+  - 885635
   start: 2026-11-22T12:00:00Z
   stop: 2026-11-22T13:00:00Z
   title: Madre Teresa a Roma
@@ -148,28 +178,36 @@
     Rai Documentari
   genre:
   - '16'
-- eventId: 815585
+- eventId:
+  - 815585
+  - 885636
   start: 2026-11-22T13:00:00Z
   stop: 2026-11-22T13:10:00Z
   title: TG Regione
   subtitle: NOTIZIARIO.
   genre:
   - '16'
-- eventId: 815586
+- eventId:
+  - 815586
+  - 885637
   start: 2026-11-22T13:10:00Z
   stop: 2026-11-22T13:15:00Z
   title: TG Regione Meteo
   subtitle: NOTIZIARIO.
   genre:
   - '16'
-- eventId: 815587
+- eventId:
+  - 815587
+  - 885638
   start: 2026-11-22T13:15:00Z
   stop: 2026-11-22T13:30:00Z
   title: TG3
   subtitle: NOTIZIARIO.
   genre:
   - '16'
-- eventId: 815588
+- eventId:
+  - 815588
+  - 885639
   start: 2026-11-22T13:30:00Z
   stop: 2026-11-22T15:45:00Z
   title: In Mezz'ora
