@@ -96,6 +96,7 @@
   - 870744
   - 873194
   - 874668
+  - 880016
   start: 2026-11-22T03:00:00Z
   stop: 2026-11-22T03:30:00Z
   title: News Live
@@ -119,6 +120,7 @@
   - 870745
   - 873195
   - 874669
+  - 880017
   start: 2026-11-22T03:30:00Z
   stop: 2026-11-22T04:00:00Z
   title: UpFront
@@ -135,6 +137,7 @@
   - 870746
   - 873196
   - 874670
+  - 880018
   start: 2026-11-22T04:00:00Z
   stop: 2026-11-22T04:30:00Z
   title: News Live
@@ -159,6 +162,7 @@
   - 870747
   - 873197
   - 874671
+  - 880019
   start: 2026-11-22T04:30:00Z
   stop: 2026-11-22T05:00:00Z
   title: Counting the Cost
@@ -170,7 +174,7 @@
   - 787259
   - 873198
   start: 2026-11-22T05:00:00Z
-  stop: 2026-11-23T05:00:00Z
+  stop: 2026-11-22T05:30:00Z
   title: AL JAZEERA ENGLISH
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
@@ -187,19 +191,24 @@
 - eventId:
   - 870748
   - 873199
+  - 880020
   start: 2026-11-22T05:30:00Z
   stop: 2026-11-22T06:00:00Z
   title: Inside Story
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
+  description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
+  genre:
+  - '128'
 - eventId:
   - 787273
   - 870756
   - 873119
+  - 880147
   start: 2026-11-22T06:00:00Z
   stop: 2026-11-22T06:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-  description: Up-to-date news and analysis from around the world.
+  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
   genre:
   - '32'
 - eventId: 787274
@@ -213,10 +222,14 @@
 - eventId:
   - 870757
   - 873120
+  - 880148
   start: 2026-11-22T06:30:00Z
   stop: 2026-11-22T07:00:00Z
   title: Fault Lines
   subtitle: Fault Lines investigates how illegal gold mining is poisoning Indigenous communities in the Brazilian Amazon and threatening their survival.
+  description: Reportaje que analiza las nuevas políticas en política exterior establecidas por Obama. La pieza investiga especialmente las diferencias entre las medidas adoptadas por el actual Presidente de Estados Unidos y las de George W. Bush.
+  genre:
+  - '144'
 - eventId: 787275
   start: 2026-11-22T07:00:00Z
   stop: 2026-11-22T07:30:00Z
