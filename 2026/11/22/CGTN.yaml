@@ -852,7 +852,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 787347
   start: 2026-11-22T21:00:00Z
-  stop: 2026-11-22T21:30:00Z
+  stop: 2026-11-22T21:15:00Z
   title: A Way to be a Super Star
   subtitle: A Way to be a Super Star
   genre:
@@ -863,6 +863,7 @@
   - 799442
   - 831986
   - 856389
+  - 901021
   start: 2026-11-22T21:15:00Z
   stop: 2026-11-22T22:00:00Z
   title: China 24
@@ -929,7 +930,9 @@
   subtitle: China Showbiz
   genre:
   - '32'
-- eventId: 856390
+- eventId:
+  - 856390
+  - 901022
   start: 2026-11-22T22:30:00Z
   stop: 2026-11-22T23:00:00Z
   title: Crossover

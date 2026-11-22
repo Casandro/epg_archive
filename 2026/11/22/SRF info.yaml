@@ -734,7 +734,7 @@
   hd: true
 - eventId: 884537
   start: 2026-11-22T18:10:00Z
-  stop: 2026-11-22T18:15:00Z
+  stop: 2026-11-22T18:20:00Z
   title: Tagesschau
   subtitle: Vorabendausgabe
   genre:
@@ -772,7 +772,7 @@
   hd: true
 - eventId: 687539
   start: 2026-11-22T18:30:00Z
-  stop: 2026-11-22T19:00:00Z
+  stop: 2026-11-22T18:55:00Z
   title: Tagesschau in Gebärdensprache
   subtitle: Hauptausgabe
   genre:
@@ -780,7 +780,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 700187
+- eventId:
+  - 700187
+  - 901262
   start: 2026-11-22T18:55:00Z
   stop: 2026-11-22T19:05:00Z
   title: Meteo in Gebärdensprache

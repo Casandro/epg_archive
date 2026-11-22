@@ -17,7 +17,7 @@
   description: ' (2026)'
 - eventId: 799004
   start: 2026-11-24T04:30:00Z
-  stop: 2026-11-24T04:45:00Z
+  stop: 2026-11-24T05:00:00Z
   title: HOROSKOPY
   subtitle: 05.10.2026 - 11.10.2026
   genre:
@@ -92,7 +92,7 @@
   description: Rýchle riešenie vašich problémov prostredníctvom telefonického veštenia v priamom prenose. (2026)
 - eventId: 799033
   start: 2026-11-24T08:00:00Z
-  stop: 2026-11-24T09:40:00Z
+  stop: 2026-11-24T13:00:00Z
   title: Televeštiareň s Vanessou
   genre:
   - '149'
@@ -161,7 +161,9 @@
   genre:
   - '32'
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
-- eventId: 799083
+- eventId:
+  - 799083
+  - 901497
   start: 2026-11-24T14:45:00Z
   stop: 2026-11-24T15:00:00Z
   title: HOROSKOPY
@@ -169,7 +171,9 @@
   genre:
   - '149'
   description: Týždenné horoskopy s Petrom.
-- eventId: 799108
+- eventId:
+  - 799108
+  - 901506
   start: 2026-11-24T15:00:00Z
   stop: 2026-11-24T19:00:00Z
   title: Médium
@@ -230,7 +234,7 @@
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
 - eventId: 799133
   start: 2026-11-24T19:00:00Z
-  stop: 2026-11-24T20:30:00Z
+  stop: 2026-11-24T20:45:00Z
   title: Ezoterická poradňa s Renátou
   genre:
   - '149'
@@ -248,7 +252,9 @@
   - '147'
   description: ' (2026)'
   subtitle: O Zdraví
-- eventId: 799134
+- eventId:
+  - 799134
+  - 901515
   start: 2026-11-24T20:45:00Z
   stop: 2026-11-24T21:00:00Z
   title: HOROSKOPY
@@ -282,7 +288,7 @@
   description: ' (2026)'
 - eventId: 799160
   start: 2026-11-24T23:00:00Z
-  stop: 2026-11-24T23:20:00Z
+  stop: 2026-11-25T04:30:00Z
   title: Nočné vysielanie pre pánov, X,H,18+
   genre:
   - '160'

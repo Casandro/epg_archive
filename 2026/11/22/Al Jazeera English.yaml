@@ -645,7 +645,9 @@
   genre:
   - '144'
   subtitled: true
-- eventId: 787338
+- eventId:
+  - 787338
+  - 900993
   start: 2026-11-22T18:00:00Z
   stop: 2026-11-22T18:30:00Z
   title: News Live
@@ -670,6 +672,7 @@
   - 799432
   - 831980
   - 856383
+  - 900994
   start: 2026-11-22T18:30:00Z
   stop: 2026-11-22T19:00:00Z
   title: Inside Story
@@ -697,6 +700,13 @@
   description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
   genre:
   - '128'
+- eventId: 900995
+  start: 2026-11-22T19:00:00Z
+  stop: 2026-11-22T20:00:00Z
+  title: Newshour
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 787340
   - 824979
@@ -734,10 +744,18 @@
   description: El uso excesivo de antibióticos provocará 8 millones de muertes anuales por superbacterias resistentes a los medicamentos para 2050. Cientos de millones más podrían morir por causas relacionadas.
   genre:
   - '160'
+- eventId: 900996
+  start: 2026-11-22T20:00:00Z
+  stop: 2026-11-22T20:30:00Z
+  title: News Live
+  description: Up-to-date news and analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 799433
   - 831981
   - 856384
+  - 900997
   start: 2026-11-22T20:30:00Z
   stop: 2026-11-22T21:00:00Z
   title: Talk to Al Jazeera
@@ -745,7 +763,9 @@
   description: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.
   genre:
   - '32'
-- eventId: 787356
+- eventId:
+  - 787356
+  - 901024
   start: 2026-11-22T21:00:00Z
   stop: 2026-11-22T22:00:00Z
   title: Program to be Announced
@@ -778,6 +798,13 @@
   stop: 2026-11-22T22:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+- eventId: 901025
+  start: 2026-11-22T22:00:00Z
+  stop: 2026-11-22T23:00:00Z
+  title: Newshour
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 787358
   - 824985
@@ -796,6 +823,7 @@
   - 873151
   - 881741
   - 890938
+  - 901026
   start: 2026-11-22T23:00:00Z
   stop: 2026-11-22T23:30:00Z
   title: News Live
@@ -803,7 +831,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 787360
+- eventId:
+  - 787360
+  - 901027
   start: 2026-11-22T23:30:00Z
   stop: 2026-11-23T00:00:00Z
   title: Echoes Of A Lost Gaza
