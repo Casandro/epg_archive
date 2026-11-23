@@ -493,11 +493,13 @@
   description: Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.
 - eventId: 799347
   start: 2026-11-25T18:00:00Z
-  stop: 2026-11-25T18:30:00Z
+  stop: 2026-11-25T19:00:00Z
   title: Memory of China
   genre:
   - '32'
   subtitle: This is the first history program of China, this program unveils secrets of important historical events, mega projects and the untold stories behind those crucial decisions of this country.
+  description: Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.
+  widescreen: true
 - eventId: 799348
   start: 2026-11-25T18:30:00Z
   stop: 2026-11-25T19:00:00Z
@@ -505,25 +507,26 @@
   genre:
   - '32'
   subtitle: Across the Strait
-- eventId: 789820
+- eventId:
+  - 789820
+  - 799349
   start: 2026-11-25T19:00:00Z
   stop: 2026-11-25T19:30:00Z
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
-- eventId: 799349
-  start: 2026-11-25T19:00:00Z
-  stop: 2026-11-25T20:00:00Z
-  title: Network News
   genre:
   - '32'
-  subtitle: Network News
-- eventId: 789821
+  widescreen: true
+- eventId:
+  - 789821
+  - 906484
   start: 2026-11-25T19:30:00Z
   stop: 2026-11-25T20:00:00Z
   title: World Insight with Tian Wei
   subtitle: Informativni
   description: World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.
+  widescreen: true
 - eventId: 881689
   start: 2026-11-25T19:30:00Z
   stop: 2026-11-25T20:00:00Z
@@ -542,6 +545,8 @@
   genre:
   - '32'
   subtitle: It concentrates on the latest news and social changes happening in china and all over the world
+  description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
 - eventId:
   - 789823
   - 799351
@@ -552,6 +557,7 @@
   description: It is a prime time daily English talk show on CGTN.
   genre:
   - '32'
+  widescreen: true
 - eventId: 789828
   start: 2026-11-25T21:00:00Z
   stop: 2026-11-25T21:30:00Z
