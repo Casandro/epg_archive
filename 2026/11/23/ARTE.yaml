@@ -120,6 +120,7 @@
   subtitle: La côte sauvage E01. A la découverte du Suriname, une ancienne colonie néerlandaise devenue le plus petit état indépendant d'Amérique du Sud.
   genre:
   - '146'
+  description: 'Ancienne colonie néerlandaise, le Suriname est aujourd''hui le plus petit État indépendant d''Amérique du Sud. Dans ce périple en deux volets à travers son territoire, on découvre d''abord un littoral spectaculaire, constitué de zones humides irriguées par un vaste réseau de cours d''eau et bordées par une bande côtière de près de 400 kilomètres le long de l''océan Atlantique. Réalisateur: Susanne Brand (2026)'
 - eventId: 699780
   start: 2026-11-23T11:05:00Z
   stop: 2026-11-23T12:00:00Z
@@ -213,7 +214,9 @@
   ageRating: 12
   genre:
   - '16'
-- eventId: 699793
+- eventId:
+  - 699793
+  - 918255
   start: 2026-11-23T22:10:00Z
   stop: 2026-11-23T23:50:00Z
   title: Leonora dans la lumière du matin
@@ -231,7 +234,9 @@
     AUDIO 1 : VOSTF / AUDIO 2 : ALLEMAND
   genre:
   - '16'
-- eventId: 699794
+- eventId:
+  - 699794
+  - 918256
   start: 2026-11-23T23:50:00Z
   stop: 2026-11-24T02:00:00Z
   title: April
