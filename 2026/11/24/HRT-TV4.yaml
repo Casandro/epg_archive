@@ -285,6 +285,7 @@
   - 932803
   - 933611
   - 934170
+  - 934419
   start: 2026-11-24T03:40:00Z
   stop: 2026-11-24T03:50:00Z
   title: Vijesti flash
@@ -307,6 +308,7 @@
   - 932804
   - 933612
   - 934171
+  - 934420
   start: 2026-11-24T03:50:00Z
   stop: 2026-11-24T03:57:00Z
   title: Vijesti iz kulture
@@ -329,6 +331,7 @@
   - 932805
   - 933613
   - 934172
+  - 934421
   start: 2026-11-24T03:57:00Z
   stop: 2026-11-24T04:00:00Z
   title: Bez komentara
@@ -375,6 +378,7 @@
   - 932806
   - 933614
   - 934173
+  - 934422
   start: 2026-11-24T04:53:00Z
   stop: 2026-11-24T04:54:00Z
   title: Vrijeme RH danas
@@ -423,7 +427,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 922910
   start: 2026-11-24T04:56:00Z
-  stop: 2026-11-24T05:04:00Z
+  stop: 2026-11-24T04:58:00Z
   title: 'Bez komentara: Brazil - oluja'
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -458,6 +462,7 @@
   - 932807
   - 933615
   - 934174
+  - 934423
   start: 2026-11-24T04:58:00Z
   stop: 2026-11-24T05:00:00Z
   title: Bez komentara
@@ -466,7 +471,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 874881
+- eventId:
+  - 874881
+  - 934424
   start: 2026-11-24T05:00:00Z
   stop: 2026-11-24T05:08:00Z
   title: Vijesti na španjolskom jeziku
@@ -496,7 +503,17 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 874883
+- eventId: 934425
+  start: 2026-11-24T05:08:00Z
+  stop: 2026-11-24T05:10:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 874883
+  - 934426
   start: 2026-11-24T05:10:00Z
   stop: 2026-11-24T05:18:00Z
   title: Vijesti na engleskom jeziku
@@ -511,7 +528,9 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 874884
+- eventId:
+  - 874884
+  - 934427
   start: 2026-11-24T05:18:00Z
   stop: 2026-11-24T05:26:00Z
   title: 'Studio 4: Znanost'
@@ -535,6 +554,14 @@
   genre:
   - '160'
   description: 'Društvene mreže sve ranije postaju dio dječje svakodnevice. Profile otvaraju već s 9 godina, a više od 80 % djece u EU-u dnevno čak 3 sata provede na društvenim mrežama. Europska komisija predlaže da se djeci mlađoj od 13 godina zabrani pristup društvenim mrežama, a ona u dobi od 13 do 15 godina mogla bi se njima koristiti samo uz nadzor roditelja i uz ograničenja. Koliko o internetu znaju djeca, a koliko njihovi roditelji? Koliko su svjesni zamki na društvenim mrežama? Koje su najveće opasnosti za djecu?  Gosti su: Sunčana Glavak, zastupnica u Europskom parlamentu (HDZ), dr. sc. Zlatan Morić, pročelnik Odjela za kibernetičku sigurnost, Sveučilište Algebra Bernays, Tomislav Ramljak, Centra za sigurniji internet.'
+- eventId: 934428
+  start: 2026-11-24T05:26:00Z
+  stop: 2026-11-24T05:54:00Z
+  title: Otvoreno
+  subtitle: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 934385
   start: 2026-11-24T05:54:00Z
   stop: 2026-11-24T05:57:00Z
@@ -550,6 +577,14 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 934429
+  start: 2026-11-24T05:56:00Z
+  stop: 2026-11-24T06:00:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 874887
   start: 2026-11-24T06:00:00Z
   stop: 2026-11-24T06:10:00Z
@@ -561,7 +596,7 @@
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 874888
   start: 2026-11-24T06:10:00Z
-  stop: 2026-11-24T06:14:00Z
+  stop: 2026-11-24T06:15:00Z
   title: Poslovne vijesti
   subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   ageRating: 4
@@ -582,6 +617,7 @@
   - 932808
   - 933616
   - 934175
+  - 934430
   start: 2026-11-24T06:15:00Z
   stop: 2026-11-24T06:22:00Z
   title: Vijesti iz kulture
@@ -604,6 +640,7 @@
   - 932809
   - 933617
   - 934176
+  - 934431
   start: 2026-11-24T06:22:00Z
   stop: 2026-11-24T06:23:00Z
   title: Vrijeme RH danas
