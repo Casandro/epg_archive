@@ -706,6 +706,7 @@
   - 694131
   - 700068
   - 921209
+  - 925799
   start: 2026-11-23T14:40:00Z
   stop: 2026-11-23T15:00:00Z
   title: Ekonomika ČT24
@@ -732,20 +733,7 @@
 - eventId:
   - 694354
   - 700069
-  start: 2026-11-23T15:00:00Z
-  stop: 2026-11-23T15:30:00Z
-  title: Zprávy v 16
-  subtitle: Nejdůležitější události dne v ČR i ve světě.
-  description: |-
-    HDTV
-    Znakový jazyk
-    Skryté titulky
-  genre:
-  - '32'
-  widescreen: true
-  subtitled: true
-  hd: true
-- eventId: 924201
+  - 924201
   start: 2026-11-23T15:00:00Z
   stop: 2026-11-23T15:29:40Z
   title: Zprávy v 16
@@ -757,7 +745,11 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 923338
+  subtitled: true
+  hd: true
+- eventId:
+  - 923338
+  - 925122
   start: 2026-11-23T15:29:40Z
   stop: 2026-11-23T15:32:40Z
   title: Zprávy
@@ -794,7 +786,9 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 923339
+- eventId:
+  - 923339
+  - 925123
   start: 2026-11-23T15:32:40Z
   stop: 2026-11-23T16:00:00Z
   title: Studio ČT24
@@ -878,8 +872,9 @@
 - eventId:
   - 694359
   - 700074
+  - 924159
   start: 2026-11-23T16:30:00Z
-  stop: 2026-11-23T16:33:00Z
+  stop: 2026-11-23T16:35:05Z
   title: Zprávy
   description: |-
     HDTV
@@ -892,18 +887,6 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 924159
-  start: 2026-11-23T16:30:00Z
-  stop: 2026-11-23T16:35:05Z
-  title: Zprávy
-  description: |-
-    HDTV
-    Znakový jazyk
-    Zvukový popis
-    Skryté titulky
-  genre:
-  - '32'
-  widescreen: true
 - eventId: 923353
   start: 2026-11-23T16:31:05Z
   stop: 2026-11-23T16:37:10Z
@@ -934,6 +917,17 @@
 - eventId: 924160
   start: 2026-11-23T16:35:05Z
   stop: 2026-11-23T16:55:05Z
+  title: Studio ČT24
+  subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
+  description: |-
+    HDTV
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
+- eventId: 925124
+  start: 2026-11-23T16:35:05Z
+  stop: 2026-11-23T16:55:00Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
   description: |-
@@ -975,6 +969,7 @@
   - 694362
   - 700077
   - 924203
+  - 925126
   start: 2026-11-23T17:00:00Z
   stop: 2026-11-23T17:03:00Z
   title: Zprávy
@@ -991,6 +986,7 @@
   - 700078
   - 923855
   - 924204
+  - 925127
   start: 2026-11-23T17:03:00Z
   stop: 2026-11-23T17:27:50Z
   title: Studio ČT24

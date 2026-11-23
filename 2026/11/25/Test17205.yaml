@@ -119,7 +119,7 @@
   hd: true
 - eventId: 871114
   start: 2026-11-25T05:25:00Z
-  stop: 2026-11-25T05:45:00Z
+  stop: 2026-11-25T06:00:00Z
   title: Couleurs locales
   description: (Rediffusion)
   genre:
@@ -138,7 +138,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 776062
+- eventId:
+  - 776062
+  - 925427
   start: 2026-11-25T06:00:00Z
   stop: 2026-11-25T07:00:00Z
   title: La Matinale
@@ -204,6 +206,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 925430
+  start: 2026-11-25T10:45:00Z
+  stop: 2026-11-25T10:55:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 776076
   start: 2026-11-25T10:55:00Z
   stop: 2026-11-25T11:15:00Z
@@ -257,7 +270,7 @@
   hd: true
 - eventId: 775962
   start: 2026-11-25T13:10:00Z
-  stop: 2026-11-25T14:00:00Z
+  stop: 2026-11-25T14:10:00Z
   title: Objectif Monde
   description: 'Le Québec de Paul St-Pierre Plamondon : entre rêve indépendantiste et réalités Le Québec est la plus grande province francophone d''Amérique du Nord. Fort de ses 8,6 millions d''habitants, il vit un moment historique : Paul St-Pierre Plamondon et le Parti québécois ont été portés au pouvoir lors des élections d''octobre. Le nouveau Premier ministre québécois a promis de réduire l''immigration et de convoquer un référendum sur l''indépendance après le départ de Donald Trump en 2029. A travers les emblèmes du drapeau québécois, nous retracerons l''histoire de celle qui fut pendant longtemps "la Nouvelle-France". Nous irons aussi à la découverte des territoires oubliés. De Tête-à-la-Baleine à Val-d''Or, en passant par Chibougamau et Chicoutimi, nous irons à la rencontre de celles et ceux qui vivent loin de Montréal : les travailleurs forestiers frappés par les droits de douane américains, les sans logements mais aussi les Premières Nations qui peinent encore aujourd''hui à trouver ...'
   genre:
@@ -267,6 +280,17 @@
   hd: true
 - eventId: 775963
   start: 2026-11-25T14:00:00Z
+  stop: 2026-11-25T15:05:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 925540
+  start: 2026-11-25T14:10:00Z
   stop: 2026-11-25T15:05:00Z
   title: RTS Info
   subtitle: L'actualité en continu
@@ -299,11 +323,22 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 925456
+  start: 2026-11-25T15:45:00Z
+  stop: 2026-11-25T16:30:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 775997
   start: 2026-11-25T16:30:00Z
   stop: 2026-11-25T17:00:00Z
   title: Geopolitis
-  description: Géopolitis 2211 (Suisse Romande-2026)
+  description: La bataille du rail Les réseaux ferroviaires ne relient pas seulement des pays, ils permettent aussi aux Etats de se structurer, de contrôler, voire de conquérir de vastes territoires. Les trains à grande vitesse sont au c_ur d'une compétition mondiale. (Suisse Romande-2026)
   genre:
   - '128'
   widescreen: true
@@ -365,6 +400,15 @@
   hd: true
 - eventId: 797170
   start: 2026-11-25T22:35:00Z
+  stop: 2026-11-25T22:36:00Z
+  title: Zap RTS Sport
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 925479
+  start: 2026-11-25T22:36:00Z
   stop: 2026-11-25T22:40:00Z
   title: Zap RTS Sport
   genre:
