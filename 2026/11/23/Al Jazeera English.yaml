@@ -236,6 +236,7 @@
   - 890951
   - 909985
   - 912562
+  - 914435
   start: 2026-11-23T06:30:00Z
   stop: 2026-11-23T07:00:00Z
   title: The Art of Negotiation
@@ -261,6 +262,7 @@
 - eventId:
   - 890952
   - 912563
+  - 914483
   start: 2026-11-23T07:00:00Z
   stop: 2026-11-23T08:00:00Z
   title: Newshour
@@ -291,6 +293,7 @@
   - 798793
   - 890953
   - 912564
+  - 914484
   start: 2026-11-23T08:00:00Z
   stop: 2026-11-23T08:30:00Z
   title: News Live
@@ -311,6 +314,7 @@
   - 870834
   - 890954
   - 912565
+  - 914485
   start: 2026-11-23T08:30:00Z
   stop: 2026-11-23T09:00:00Z
   title: Talk to Al Jazeera
@@ -323,6 +327,7 @@
   - 890957
   - 901147
   - 912568
+  - 914492
   start: 2026-11-23T09:00:00Z
   stop: 2026-11-23T09:30:00Z
   title: News Live
@@ -343,6 +348,7 @@
 - eventId:
   - 890958
   - 912569
+  - 914493
   start: 2026-11-23T09:30:00Z
   stop: 2026-11-23T10:00:00Z
   title: Dying Earth
@@ -358,11 +364,16 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
-- eventId: 890959
+- eventId:
+  - 890959
+  - 914494
   start: 2026-11-23T10:00:00Z
   stop: 2026-11-23T11:00:00Z
   title: Newshour
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '128'
 - eventId: 901149
   start: 2026-11-23T10:00:00Z
   stop: 2026-11-23T10:30:00Z
@@ -385,13 +396,14 @@
 - eventId:
   - 798826
   - 890960
+  - 914495
   start: 2026-11-23T11:00:00Z
   stop: 2026-11-23T11:30:00Z
   title: News Live
   genre:
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-  description: Latest news and in-depth analysis from around the world.
+  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
 - eventId: 901151
   start: 2026-11-23T11:00:00Z
   stop: 2026-11-23T12:00:00Z
@@ -404,10 +416,14 @@
   - 842754
   - 870844
   - 890961
+  - 914496
   start: 2026-11-23T11:30:00Z
   stop: 2026-11-23T12:00:00Z
   title: Inside Story
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
+  description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
+  genre:
+  - '128'
 - eventId:
   - 798850
   - 890964
