@@ -82,7 +82,9 @@
   - '21'
   widescreen: true
   subtitled: true
-- eventId: 905213
+- eventId:
+  - 905213
+  - 921609
   start: 2026-12-13T09:20:00Z
   stop: 2026-12-13T10:05:00Z
   title: Die Schwarzwaldklinik
@@ -91,7 +93,11 @@
   - '21'
   widescreen: true
   subtitled: true
-- eventId: 905214
+  hd: true
+  audiodesc: true
+- eventId:
+  - 905214
+  - 921610
   start: 2026-12-13T10:05:00Z
   stop: 2026-12-13T10:55:00Z
   title: Nautilus
@@ -100,7 +106,11 @@
   - '21'
   widescreen: true
   subtitled: true
-- eventId: 905215
+  hd: true
+  audiodesc: true
+- eventId:
+  - 905215
+  - 921611
   start: 2026-12-13T10:55:00Z
   stop: 2026-12-13T11:40:00Z
   title: Nautilus
@@ -109,7 +119,11 @@
   - '21'
   widescreen: true
   subtitled: true
-- eventId: 905216
+  hd: true
+  audiodesc: true
+- eventId:
+  - 905216
+  - 921612
   start: 2026-12-13T11:40:00Z
   stop: 2026-12-13T12:25:00Z
   title: Nautilus
@@ -118,6 +132,8 @@
   - '21'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId: 905227
   start: 2026-12-13T12:25:00Z
   stop: 2026-12-13T13:05:00Z
