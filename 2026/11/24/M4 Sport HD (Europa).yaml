@@ -37,10 +37,17 @@
   description: 'rendező:  Varga Krisztina'
 - eventId: 919078
   start: 2026-11-24T03:50:00Z
-  stop: 2026-11-24T04:15:00Z
-  title: Szabadidő
+  stop: 2026-11-24T04:00:00Z
+  title: Sportlövő magazin
   subtitle: '(magyar sportműsor) '
   description: 'rendező:  Varga Krisztina'
+  genre:
+  - '64'
+- eventId: 929482
+  start: 2026-11-24T04:00:00Z
+  stop: 2026-11-24T04:15:00Z
+  title: Bringasport
+  subtitle: '(magyar sportműsor) '
   genre:
   - '64'
 - eventId: 756215
@@ -52,6 +59,13 @@
   - '64'
 - eventId: 919079
   start: 2026-11-24T04:15:00Z
+  stop: 2026-11-24T06:00:00Z
+  title: 'Futsal: NB I.'
+  subtitle: '(magyar sportműsor, 2026) '
+  genre:
+  - '64'
+- eventId: 929483
+  start: 2026-11-24T04:20:00Z
   stop: 2026-11-24T06:00:00Z
   title: 'Futsal: NB I.'
   subtitle: '(magyar sportműsor, 2026) '
@@ -79,6 +93,13 @@
   subtitle: '(magyar sportműsor, 2026) '
   genre:
   - '64'
+- eventId: 929484
+  start: 2026-11-24T07:10:00Z
+  stop: 2026-11-24T09:00:00Z
+  title: 'Labdarúgás: OTP Bank Liga'
+  subtitle: '(magyar sportműsor, 2026) '
+  genre:
+  - '64'
 - eventId: 751182
   start: 2026-11-24T09:00:00Z
   stop: 2026-11-24T09:30:00Z
@@ -97,9 +118,10 @@
   start: 2026-11-24T11:30:00Z
   stop: 2026-11-24T12:00:00Z
   title: 'Labdarúgás: OTP Bank Liga összefoglaló'
-  subtitle: '(sportműsor) '
+  subtitle: '(magyar sportműsor) '
   genre:
   - '64'
+  description: 'rendező:  Varga Krisztina'
 - eventId: 751265
   start: 2026-11-24T12:00:00Z
   stop: 2026-11-24T12:30:00Z
