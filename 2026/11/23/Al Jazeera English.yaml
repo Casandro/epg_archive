@@ -67,6 +67,7 @@
   - 890942
   - 903138
   - 903356
+  - 906407
   start: 2026-11-23T02:00:00Z
   stop: 2026-11-23T03:00:00Z
   title: Newshour
@@ -97,6 +98,7 @@
   - 890943
   - 903140
   - 903357
+  - 906415
   start: 2026-11-23T03:00:00Z
   stop: 2026-11-23T03:30:00Z
   title: News Live
@@ -118,10 +120,14 @@
   - 873157
   - 881747
   - 890944
+  - 906416
   start: 2026-11-23T03:30:00Z
   stop: 2026-11-23T04:00:00Z
   title: The Bottom Line
   subtitle: Current Affairs Series Examining U.s. Politics And Society, Moderated By Steve Clemons.
+  description: Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.
+  genre:
+  - '32'
 - eventId:
   - 798761
   - 870827
@@ -129,26 +135,28 @@
   - 881748
   - 890945
   - 901094
+  - 906417
   start: 2026-11-23T04:00:00Z
   stop: 2026-11-23T04:30:00Z
   title: News Live
   genre:
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-  description: Up-to-date news and analysis from around the world.
+  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
 - eventId:
   - 798762
   - 870828
   - 873159
   - 881749
   - 890946
+  - 906418
   start: 2026-11-23T04:30:00Z
   stop: 2026-11-23T05:00:00Z
   title: The Listening Post
   genre:
   - '32'
   subtitle: The Cockroach Janta Party is challenging India's political and media establishment. What's fuelling its rise and what does it reveal about journalism's future?
-  description: Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.
+  description: The Cockroach Janta Party is challenging India's political and media establishment. What's fuelling its rise and what does it reveal about journalism's future?
 - eventId: 901095
   start: 2026-11-23T04:30:00Z
   stop: 2026-11-23T05:00:00Z
@@ -158,12 +166,12 @@
   - '32'
 - eventId: 798763
   start: 2026-11-23T05:00:00Z
-  stop: 2026-11-24T05:00:00Z
+  stop: 2026-11-23T05:30:00Z
   title: AL JAZEERA ENGLISH
   genre:
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-  description: 'Canal 24 horas de noticias en inglØs realizado en Oriente Medio. Versiðn internacional de Al Jazeera. '
+  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
 - eventId:
   - 798764
   - 901096
@@ -174,11 +182,16 @@
   - '32'
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
   description: What is being reported by world media and how? Richard Gizbert guides you through the global news maze.
-- eventId: 890947
+- eventId:
+  - 890947
+  - 906419
   start: 2026-11-23T05:30:00Z
   stop: 2026-11-23T06:00:00Z
   title: Inside Story
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
+  description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
+  genre:
+  - '128'
 - eventId:
   - 798789
   - 890950
