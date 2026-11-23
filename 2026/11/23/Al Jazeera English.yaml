@@ -154,6 +154,7 @@
   - 890945
   - 901094
   - 906417
+  - 912553
   start: 2026-11-23T04:00:00Z
   stop: 2026-11-23T04:30:00Z
   title: News Live
@@ -168,6 +169,7 @@
   - 881749
   - 890946
   - 906418
+  - 912554
   start: 2026-11-23T04:30:00Z
   stop: 2026-11-23T05:00:00Z
   title: The Listening Post
@@ -184,7 +186,7 @@
   - '32'
 - eventId: 798763
   start: 2026-11-23T05:00:00Z
-  stop: 2026-11-24T05:00:00Z
+  stop: 2026-11-23T05:30:00Z
   title: AL JAZEERA ENGLISH
   genre:
   - '32'
@@ -203,6 +205,7 @@
 - eventId:
   - 890947
   - 906419
+  - 912555
   start: 2026-11-23T05:30:00Z
   stop: 2026-11-23T06:00:00Z
   title: Inside Story
@@ -215,6 +218,7 @@
   - 890950
   - 901123
   - 909984
+  - 912561
   start: 2026-11-23T06:00:00Z
   stop: 2026-11-23T06:30:00Z
   title: News Live
@@ -226,6 +230,7 @@
   - 798790
   - 890951
   - 909985
+  - 912562
   start: 2026-11-23T06:30:00Z
   stop: 2026-11-23T07:00:00Z
   title: The Art of Negotiation
@@ -248,11 +253,16 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
-- eventId: 890952
+- eventId:
+  - 890952
+  - 912563
   start: 2026-11-23T07:00:00Z
   stop: 2026-11-23T08:00:00Z
   title: Newshour
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '128'
 - eventId: 901125
   start: 2026-11-23T07:00:00Z
   stop: 2026-11-23T07:30:00Z
@@ -275,13 +285,14 @@
 - eventId:
   - 798793
   - 890953
+  - 912564
   start: 2026-11-23T08:00:00Z
   stop: 2026-11-23T08:30:00Z
   title: News Live
   genre:
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-  description: Latest news and in-depth analysis from around the world.
+  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
 - eventId: 901127
   start: 2026-11-23T08:00:00Z
   stop: 2026-11-23T09:00:00Z
@@ -294,21 +305,26 @@
   - 842745
   - 870834
   - 890954
+  - 912565
   start: 2026-11-23T08:30:00Z
   stop: 2026-11-23T09:00:00Z
   title: Talk to Al Jazeera
   subtitle: Former Prime Minister of Iceland discusses climate change, Arctic sovereignty and the politics of compromise in a polarized world.
+  description: Former Prime Minister of Iceland discusses climate change, Arctic sovereignty and the politics of compromise in a polarized world.
+  genre:
+  - '48'
 - eventId:
   - 798822
   - 890957
   - 901147
+  - 912568
   start: 2026-11-23T09:00:00Z
   stop: 2026-11-23T09:30:00Z
   title: News Live
   genre:
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-  description: Up-to-date news and analysis from around the world.
+  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
 - eventId:
   - 798823
   - 901148
@@ -319,11 +335,16 @@
   genre:
   - '32'
   description: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.
-- eventId: 890958
+- eventId:
+  - 890958
+  - 912569
   start: 2026-11-23T09:30:00Z
   stop: 2026-11-23T10:00:00Z
   title: Dying Earth
   subtitle: Some of the prophets of doom of the 60's whose warning went unheeded assess the Earth's current environmental fragility.
+  description: Some of the prophets of doom of the 60's whose warning went unheeded assess the Earth's current environmental fragility.
+  genre:
+  - '144'
 - eventId: 798824
   start: 2026-11-23T10:00:00Z
   stop: 2026-11-23T11:00:00Z
