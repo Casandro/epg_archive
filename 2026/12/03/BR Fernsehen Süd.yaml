@@ -721,7 +721,7 @@
   start: 2026-12-03T20:00:00Z
   stop: 2026-12-03T20:45:00Z
   title: Schleich pur
-  subtitle: DE
+  subtitle: Deutschland 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -816,7 +816,7 @@
   - 905025
   start: 2026-12-03T22:15:00Z
   stop: 2026-12-03T23:00:00Z
-  title: Schnee (3)
+  title: Schnee (3/6)
   subtitle: Nachrichten - Berichte - Wettervorhersage
   widescreen: true
   subtitled: true
@@ -829,6 +829,8 @@
     * Weniger ist mehr: beendet Gebäudetyp E die Wohnungskrise?
     * Biber außer Kontrolle: Wenn der Naturschutz zum Problem wird
   ageRating: 12
+  genre:
+  - '16'
 - eventId:
   - 578538
   - 578842
@@ -858,13 +860,15 @@
   - 738861
   start: 2026-12-03T23:00:00Z
   stop: 2026-12-03T23:45:00Z
-  title: Schnee (4)
-  subtitle: AT/DE/IT
+  title: Schnee (4/6)
+  subtitle: Österreich/Deutschland 2023
   ageRating: 12
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 578843
   - 586022
