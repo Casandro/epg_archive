@@ -281,7 +281,7 @@
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 904603
   start: 2026-11-25T05:18:00Z
-  stop: 2026-11-25T05:26:00Z
+  stop: 2026-11-25T05:27:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
@@ -300,7 +300,9 @@
   genre:
   - '160'
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
-- eventId: 933351
+- eventId:
+  - 933351
+  - 933954
   start: 2026-11-25T05:27:00Z
   stop: 2026-11-25T05:56:00Z
   title: Otvoreno
@@ -318,7 +320,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 933352
+- eventId:
+  - 933352
+  - 933955
   start: 2026-11-25T05:57:00Z
   stop: 2026-11-25T05:58:00Z
   title: Bez komentara
