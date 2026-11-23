@@ -524,7 +524,7 @@
   start: 2026-11-23T13:00:00Z
   stop: 2026-11-23T14:00:00Z
   title: 'NEWSHOUR: THE WORLD NOW'
-  subtitle: Journal - 2026. News.
+  subtitle: (katari hírműsor, 2026)
   description: Journal - 2026. News. A fast-paced, live global news show capturing the latest developments as they unfold.
   genre:
   - '144'
@@ -535,6 +535,7 @@
   - 916677
   - 917141
   - 919607
+  - 922888
   start: 2026-11-23T14:00:00Z
   stop: 2026-11-23T14:30:00Z
   title: News Live
@@ -556,6 +557,7 @@
   - 890967
   - 917142
   - 919608
+  - 922889
   start: 2026-11-23T14:30:00Z
   stop: 2026-11-23T15:00:00Z
   title: Counting the Cost
@@ -568,6 +570,7 @@
   - 890970
   - 917147
   - 919598
+  - 922895
   start: 2026-11-23T15:00:00Z
   stop: 2026-11-23T16:00:00Z
   title: 'NEWSHOUR: The Wider Story'
@@ -598,6 +601,7 @@
   - 890971
   - 917148
   - 919599
+  - 922896
   start: 2026-11-23T16:00:00Z
   stop: 2026-11-23T16:30:00Z
   title: News Live
@@ -619,22 +623,27 @@
   - 890972
   - 917149
   - 921162
+  - 922897
   start: 2026-11-23T16:30:00Z
   stop: 2026-11-23T17:00:00Z
   title: UpFront
   subtitle: Marc Lamont Hill discusses the Nvidia scandal, tech failures and the future of AI with entrepreneur and former White House adviser Anil Dash.
+  description: Journalist Mehdi Hasan presents this informational magazine in which he goes through the biggest newspaper headlines. He reads into the stories behind them to uncover the true meanings, often running into contradictions along the way.
+  genre:
+  - '32'
 - eventId:
   - 798877
   - 890973
   - 917150
   - 921163
+  - 922898
   start: 2026-11-23T17:00:00Z
   stop: 2026-11-23T17:30:00Z
   title: 'NEWS 30min: Lives in Focus'
   genre:
   - '32'
   subtitle: A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.
-  description: Up-to-date news and analysis from around the world.
+  description: A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.
 - eventId: 901210
   start: 2026-11-23T17:00:00Z
   stop: 2026-11-23T17:30:00Z
@@ -656,10 +665,14 @@
   - 890974
   - 917151
   - 921164
+  - 922899
   start: 2026-11-23T17:30:00Z
   stop: 2026-11-23T18:00:00Z
   title: Inside Story
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
+  description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
+  genre:
+  - '128'
 - eventId: 798902
   start: 2026-11-23T18:00:00Z
   stop: 2026-11-23T19:00:00Z
@@ -672,10 +685,14 @@
   - 890976
   - 917154
   - 921166
+  - 922902
   start: 2026-11-23T18:00:00Z
   stop: 2026-11-23T19:00:00Z
   title: Newshour
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '128'
 - eventId: 901292
   start: 2026-11-23T18:00:00Z
   stop: 2026-11-23T18:30:00Z

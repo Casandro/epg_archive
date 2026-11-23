@@ -252,6 +252,14 @@
   title: Vrijeme svijet danas
   subtitle: ' '
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+- eventId: 922910
+  start: 2026-11-24T04:56:00Z
+  stop: 2026-11-24T04:58:00Z
+  title: Vrijeme Svijet danas
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 874880
   - 914824
@@ -276,11 +284,15 @@
   - 920869
   - 921379
   - 922767
+  - 922911
   start: 2026-11-24T04:58:00Z
   stop: 2026-11-24T05:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 874881
   start: 2026-11-24T05:00:00Z
   stop: 2026-11-24T05:08:00Z
@@ -328,7 +340,7 @@
   description: Središnji politički talk show HTV-a u kojem se svake večeri od ponedjeljka do četvrtka uz relevantne goste suprotstavljenih stajališta analizira politička tema dana.
 - eventId: 874886
   start: 2026-11-24T05:56:00Z
-  stop: 2026-11-24T05:59:00Z
+  stop: 2026-11-24T06:00:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -547,18 +559,24 @@
   - 918394
   - 920870
   - 921380
+  - 922912
   start: 2026-11-24T12:43:00Z
   stop: 2026-11-24T12:45:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 922768
   start: 2026-11-24T12:43:00Z
   stop: 2026-11-24T12:48:00Z
   title: Poslovne vijesti
   subtitle: ' '
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 874910
+- eventId:
+  - 874910
+  - 922823
   start: 2026-11-24T12:45:00Z
   stop: 2026-11-24T12:50:00Z
   title: Poslovne vijesti
@@ -573,7 +591,9 @@
   title: 'Studio 4: Znanost'
   subtitle: ' '
   description: Kratki pregled aktualnosti iz svijeta znanosti.
-- eventId: 874911
+- eventId:
+  - 874911
+  - 922824
   start: 2026-11-24T12:50:00Z
   stop: 2026-11-24T13:00:00Z
   title: 'Studio 4: Znanost'
@@ -691,8 +711,11 @@
   start: 2026-11-24T14:55:00Z
   stop: 2026-11-24T15:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 874923
   start: 2026-11-24T15:00:00Z
   stop: 2026-11-24T15:15:00Z
