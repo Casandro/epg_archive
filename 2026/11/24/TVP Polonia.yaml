@@ -15,8 +15,10 @@
 - eventId: 728973
   start: 2026-11-24T00:30:00Z
   stop: 2026-11-24T00:55:00Z
-  title: Program informacyjny
-  description: (N) Główne wydanie codziennego programu informacyjnego.
+  title: Program informacyjny 19.30
+  description: |-
+    program informacyjny
+    Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.
   genre:
   - '36'
   subtitle: Bieżące wydarzenia w kraju i na świecie. Informacje polityczne, gospodarcze, ważne tematy społeczne i poruszające opinię publiczną.
@@ -31,18 +33,18 @@
   start: 2026-11-24T01:05:00Z
   stop: 2026-11-24T01:10:00Z
   title: Sport
-  description: |
-    Tytuł oryginalny: Sport
-    PL, 2026
+  description: |-
+    magazyn
+    Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.
   genre:
   - '66'
 - eventId: 728976
   start: 2026-11-24T01:10:00Z
   stop: 2026-11-24T01:15:00Z
   title: Pogoda
-  description: |
-    Tytuł oryginalny: Pogoda
-    PL, 2025
+  description: |-
+    program informacyjny
+    Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.
   genre:
   - '32'
 - eventId: 728977
@@ -102,21 +104,21 @@
   start: 2026-11-24T04:25:00Z
   stop: 2026-11-24T04:30:00Z
   title: Pogoda
-  description: |
-    Tytuł oryginalny: Pogoda
-    PL, 2025
+  description: |-
+    program informacyjny
+    Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.
   genre:
   - '32'
 - eventId: 766111
   start: 2026-11-24T04:30:00Z
-  stop: 2026-11-24T05:00:00Z
+  stop: 2026-11-24T04:55:00Z
   title: Barwy szczęścia - odc. 3415
   description: |-
-    Tytuł oryginalny: Barwy szczęścia
-    PL, 2026
-    Reżyseria: Jakub Skoczeń
-    Występują: Elżbieta Romanowska, Jakub Wieczorek, Wenanty Nosul, Maria Świłpa, Marek Molak, Kamil Studnicki
-    W następstwie publikacji artykułu Weroniki, Borys występuje do pana Bogumiła z nową propozycją ugody, na którą mężczyzna tym razem przystaje. Z kolei rozmowa Huberta z Adamem przeradza się w otwarty konflikt. Sytuacja ta budzi nieskrywaną satysfakcję Wilka i Lucyny, którzy nabierają przekonania o ostatecznym powodzeniu działań wymierzonych w Pyrków.
+    serial obyczajowy (Polska, 2026) odc.3415
+    Występują: Katarzyna Glinka, Wenanty Nosul, Michał Rolnicki, Marek Molak, Marieta Żukowska, Lesław Żurek, Stanisława Celińska, Maria Dejmek, Joanna Gleń, Adrianna Biedrzyńska
+    Po publikacji artykułu Weroniki Borys wraca do pana Bogumiła z nową propozycją ugody. Kolejna rozmowa Huberta z Adamem przeradza się w otwarty konflikt. Cieszy to Wilka i Lucynę. Malwina odkrywa, że Herman jest na końcu plebiscytu na fizjoterapeutę roku. Organizator żąda 3 tys. złotych za promocyjne wsparcie kandydata.
+    Reżyser: Jakub Skoczeń
+    Od lat: 12
   ageRating: 12
   genre:
   - '23'
@@ -134,13 +136,18 @@
   genre:
   - '112'
   subtitle: Codzienny teleturniej sprawdzający wiedzę, oparty na formule krzyżówki. Czworo uczestników zmierzy się ze sobą, by zdobyć tytuł finalisty dnia i uzyskać możliwość wzięcia udziału w finale tygodnia.
+- eventId: 928971
+  start: 2026-11-24T04:55:00Z
+  stop: 2026-11-24T05:00:00Z
+  title: Zakończenie programu
+  description: .
 - eventId: 728982
   start: 2026-11-24T05:00:00Z
   stop: 2026-11-24T05:30:00Z
   title: Panorama
-  description: |
-    Tytuł oryginalny: Panorama
-    PL, 2026
+  description: |-
+    program informacyjny
+    Podsumowanie najważniejszych wydarzeń dnia z kraju i ze świata. W programie oprócz materiałów czysto newsowych, politycznych, społecznych, gospodarczych, medycznych, naukowych i kulturalnych znajdą się również analizy konkretnych zagadnień oraz wypowiedzi ekspertów.
   genre:
   - '149'
   subtitle: Główny program informacyjny telewizyjnej Dwójki, podsumowujący najważniejsze wydarzenia minionego dnia w kraju i na świecie.
@@ -148,7 +155,10 @@
   start: 2026-11-24T05:30:00Z
   stop: 2026-11-24T06:00:00Z
   title: Anna Dymna - spotkajmy się - Krzysztof Fogiel
-  description: (JM) Program kierowany jest zarówno do osób niepełnosprawnych jak i pełnosprawnych, ponieważ jego głównym przesłaniem jest zbliżenie tych dwóch wydawałoby się odrębnych światów.
+  description: |-
+    talk-show (Polska, 2026), Krzysztof Fogiel
+    W programie Anna Dymna prowadzi intymne rozmowy z osobami niepełnosprawnymi. Poruszane tematy są związane z problemami dotykającymi każdego człowieka - takimi jak miłość, akceptacja, samotność, szczęście, wiara i nadzieja.
+    Od lat: 7
   ageRating: 7
   genre:
   - '149'
@@ -157,7 +167,11 @@
   start: 2026-11-24T06:00:00Z
   stop: 2026-11-24T06:30:00Z
   title: Rączka gotuje
-  description: Magazyn kulinarny, w którym śląski kucharz Remigiusz Rączka przygotowuje popularne i mniej znane dania kuchni regionalnej.
+  description: |-
+    magazyn kulinarny (Polska)
+    Prowadzą: Remigiusz Rączka
+    Kucharz Remigiusz Rączka w śląskiej gwarze zaprasza do wspólnego gotowania. Każdy odcinek realizowany jest w innym ciekawym miejscu.
+    Od lat: 12
   ageRating: 12
   genre:
   - '165'
@@ -166,7 +180,10 @@
   start: 2026-11-24T06:30:00Z
   stop: 2026-11-24T06:55:00Z
   title: Pytanie na śniadanie - pobudka
-  description: Program służy pogłębianiu znajomości i upowszechnianiu kultury w zakresie muzyki, literatury, teatru i tańca. Jest źródłem wiedzy na temat wydarzeń także natury ekonomicznej i społecznej.
+  description: |-
+    magazyn (Polska, 2026) (na żywo)
+    Poranny program telewizyjnej Dwójki, w którym eksperci odpowiadają na ważne pytania, analizują codzienne sprawy i dzielą się praktycznymi poradami.
+    Od lat: 12
   ageRating: 12
   genre:
   - '149'
@@ -175,7 +192,10 @@
   start: 2026-11-24T06:55:00Z
   stop: 2026-11-24T10:40:00Z
   title: Pytanie na śniadanie
-  description: Program służy pogłębianiu znajomości i upowszechnianiu kultury w zakresie muzyki, literatury, teatru i tańca. Jest źródłem wiedzy na temat wydarzeń także natury ekonomicznej i społecznej.
+  description: |-
+    magazyn (Polska, 2026) (na żywo)
+    Każdy program poświęcony jest innej kwestii. Na pytania związane z konkretnym tematem odpowiadają zaproszeni do studia specjaliści, eksperci z różnych dziedzin, polskie i zagraniczne gwiazdy.
+    Od lat: 12
   ageRating: 12
   genre:
   - '149'
@@ -223,9 +243,9 @@
   start: 2026-11-24T11:00:00Z
   stop: 2026-11-24T11:10:00Z
   title: Serwis Info
-  description: |
-    Tytuł oryginalny: Serwis Info
-    PL, 2026
+  description: |-
+    program informacyjny (Polska) (na żywo)
+    Wiodący magazyn informacyjny TVP Info. Dziennikarze zdają w nim relacje z wydarzeń, które miały miejsce podczas minionego dnia w poszczególnych regionach Polski. Przedstawiają również informacje dotyczące najważniejszych zdarzeń z całego świata. Uzupełnieniem tych wiadomości są reporterskie relacje.
   genre:
   - '149'
 - eventId: 729004
