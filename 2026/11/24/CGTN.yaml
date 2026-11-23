@@ -632,19 +632,17 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 789675
+- eventId:
+  - 789675
+  - 799145
   start: 2026-11-24T21:00:00Z
   stop: 2026-11-24T21:30:00Z
   title: Global Business
-  subtitle: Informativni
+  subtitle: From the visual angle of a traveler to show the beauty of China and the world
   description: Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.
-- eventId: 799145
-  start: 2026-11-24T21:00:00Z
-  stop: 2026-11-24T21:15:00Z
-  title: On the Way
   genre:
   - '32'
-  subtitle: From the visual angle of a traveler to show the beauty of China and the world
+  widescreen: true
 - eventId:
   - 799146
   - 901503
@@ -653,12 +651,15 @@
   title: China 24
   genre:
   - '32'
-- eventId: 789676
+- eventId:
+  - 789676
+  - 905311
   start: 2026-11-24T21:30:00Z
   stop: 2026-11-24T22:00:00Z
   title: The Hub With Wang Guan
   subtitle: Dokumentarni
   description: The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged. It also makes use of trending topics online, while focusing on what's relevant in China and the world.
+  widescreen: true
 - eventId: 870865
   start: 2026-11-24T21:45:00Z
   stop: 2026-11-24T21:50:00Z
@@ -669,33 +670,29 @@
   stop: 2026-11-24T22:30:00Z
   title: Discoveries
   subtitle: Following the track of our ancestors to identify and interpret mysteries and cultural implications contained in physical and human geographies,...
-- eventId: 789677
+- eventId:
+  - 789677
+  - 799147
+  - 901504
   start: 2026-11-24T22:00:00Z
   stop: 2026-11-24T22:30:00Z
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
-- eventId:
-  - 799147
-  - 901504
-  start: 2026-11-24T22:00:00Z
-  stop: 2026-11-24T22:30:00Z
-  title: News Desk
   genre:
   - '32'
-- eventId: 789678
+  widescreen: true
+- eventId:
+  - 789678
+  - 799148
   start: 2026-11-24T22:30:00Z
   stop: 2026-11-24T23:00:00Z
   title: Rediscovering China
-  subtitle: Dokumentarni
+  subtitle: This is the first history program of China, this program unveils secrets of important historical events, mega projects and the untold stories behind those crucial decisions of this country.
   description: Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.
-- eventId: 799148
-  start: 2026-11-24T22:30:00Z
-  stop: 2026-11-24T23:00:00Z
-  title: Memory of China
   genre:
   - '32'
-  subtitle: This is the first history program of China, this program unveils secrets of important historical events, mega projects and the untold stories behind those crucial decisions of this country.
+  widescreen: true
 - eventId: 789679
   start: 2026-11-24T23:00:00Z
   stop: 2026-11-24T23:30:00Z
@@ -709,6 +706,8 @@
   genre:
   - '32'
   subtitle: Around China leads viewers into a fabulous world where they may have a full taste of the excellent personality of the Chinese nation and obtain an intimate understanding of its changes and evolution both in recent time and in future.
+  description: The Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.
+  widescreen: true
 - eventId: 789680
   start: 2026-11-24T23:30:00Z
   stop: 2026-11-25T00:00:00Z
@@ -722,3 +721,5 @@
   genre:
   - '32'
   subtitle: Across the Strait
+  description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
