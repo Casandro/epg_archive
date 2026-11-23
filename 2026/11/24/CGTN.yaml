@@ -32,6 +32,7 @@
   - 870815
   - 881759
   - 890987
+  - 917171
   start: 2026-11-24T01:15:00Z
   stop: 2026-11-24T02:00:00Z
   title: On the Way
@@ -183,6 +184,7 @@
   - 870831
   - 881630
   - 890996
+  - 917191
   start: 2026-11-24T06:15:00Z
   stop: 2026-11-24T07:00:00Z
   title: TV Drama
@@ -207,7 +209,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 799012
   start: 2026-11-24T07:00:00Z
-  stop: 2026-11-24T07:30:00Z
+  stop: 2026-11-24T08:00:00Z
   title: Global Business by CCTV America
   genre:
   - '32'
@@ -253,6 +255,7 @@
   - 870832
   - 881631
   - 890997
+  - 917192
   start: 2026-11-24T08:30:00Z
   stop: 2026-11-24T09:15:00Z
   title: TV Drama
@@ -273,6 +276,7 @@
   - 870840
   - 881632
   - 890998
+  - 917204
   start: 2026-11-24T09:15:00Z
   stop: 2026-11-24T10:00:00Z
   title: TV Drama
@@ -299,7 +303,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 799040
   start: 2026-11-24T10:00:00Z
-  stop: 2026-11-24T10:15:00Z
+  stop: 2026-11-24T10:30:00Z
   title: Global Business
   genre:
   - '32'
@@ -322,6 +326,7 @@
   - 870841
   - 881633
   - 890999
+  - 917205
   start: 2026-11-24T10:30:00Z
   stop: 2026-11-24T11:00:00Z
   title: Around China
@@ -383,6 +388,7 @@
   - 870849
   - 881635
   - 891000
+  - 917213
   start: 2026-11-24T12:45:00Z
   stop: 2026-11-24T13:00:00Z
   title: Nostalgia
@@ -444,6 +450,7 @@
   - 870850
   - 881636
   - 891001
+  - 917214
   start: 2026-11-24T14:45:00Z
   stop: 2026-11-24T15:30:00Z
   title: TV Drama
@@ -481,22 +488,18 @@
   title: The Vibe
   subtitle: Dokumentarni
   description: The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.
-- eventId: 870856
+- eventId:
+  - 870856
+  - 902068
   start: 2026-11-24T15:30:00Z
   stop: 2026-11-24T16:00:00Z
   title: China Showbiz
   subtitle: China Showbiz
   description: The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad.
   widescreen: true
-- eventId: 902068
-  start: 2026-11-24T15:30:00Z
-  stop: 2026-11-24T16:00:00Z
-  title: The Vibe
-  description: The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad.
-  widescreen: true
 - eventId: 799092
   start: 2026-11-24T16:00:00Z
-  stop: 2026-11-24T17:00:00Z
+  stop: 2026-11-24T16:45:00Z
   title: Global Business
   genre:
   - '32'
@@ -515,6 +518,7 @@
   - 870857
   - 881637
   - 891002
+  - 917225
   start: 2026-11-24T16:45:00Z
   stop: 2026-11-24T17:30:00Z
   title: Cartoon City
@@ -550,6 +554,7 @@
 - eventId:
   - 881638
   - 891003
+  - 917226
   start: 2026-11-24T17:30:00Z
   stop: 2026-11-24T18:00:00Z
   title: Around China
@@ -562,7 +567,7 @@
   description: Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.
 - eventId: 799116
   start: 2026-11-24T18:00:00Z
-  stop: 2026-11-24T19:00:00Z
+  stop: 2026-11-24T18:30:00Z
   title: Memory of China
   genre:
   - '32'
@@ -573,6 +578,7 @@
   - 799117
   - 881639
   - 891004
+  - 917235
   start: 2026-11-24T18:30:00Z
   stop: 2026-11-24T19:00:00Z
   title: Across the Strait
@@ -660,12 +666,16 @@
   subtitle: Dokumentarni
   description: The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged. It also makes use of trending topics online, while focusing on what's relevant in China and the world.
   widescreen: true
-- eventId: 870865
+- eventId:
+  - 870865
+  - 917245
   start: 2026-11-24T21:45:00Z
   stop: 2026-11-24T21:50:00Z
   title: Nostalgia
   subtitle: A journey through cherished memories, cultural traditions and stories that bring the past back to life.
-- eventId: 870866
+- eventId:
+  - 870866
+  - 917246
   start: 2026-11-24T21:50:00Z
   stop: 2026-11-24T22:30:00Z
   title: Discoveries

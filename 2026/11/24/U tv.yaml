@@ -1,6 +1,6 @@
 - eventId: 798980
   start: 2026-11-24T05:00:00Z
-  stop: 2026-11-24T12:00:00Z
+  stop: 2026-11-24T08:00:00Z
   title: Coffee Sounds Great!
   genre:
   - '96'
@@ -10,6 +10,7 @@
   - 799007
   - 881760
   - 890991
+  - 917190
   start: 2026-11-24T08:00:00Z
   stop: 2026-11-24T12:00:00Z
   title: Music Brunch
@@ -46,16 +47,13 @@
   description: ' .'
   genre:
   - '131'
-- eventId: 870838
+- eventId:
+  - 870838
+  - 902259
   start: 2026-11-24T12:00:00Z
   stop: 2026-11-24T15:00:00Z
   title: Everything Is Awesome!
   subtitle: '"Everything Is Awesome!" aduce un val de hituri energice i vibe pozitiv, perfect pentru a-i ridica starea de spirit.'
-- eventId: 902259
-  start: 2026-11-24T12:00:00Z
-  stop: 2026-11-24T14:00:00Z
-  title: UTops (r)
-  subtitle: (Music )
   description: ' .'
   genre:
   - '131'
@@ -67,7 +65,9 @@
   description: ' .'
   genre:
   - '131'
-- eventId: 870848
+- eventId:
+  - 870848
+  - 917224
   start: 2026-11-24T15:00:00Z
   stop: 2026-11-24T23:00:00Z
   title: All About Music

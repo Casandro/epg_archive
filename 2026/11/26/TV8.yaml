@@ -1,9 +1,12 @@
-- eventId: 786918
+- eventId:
+  - 786918
+  - 917044
   start: 2026-11-26T04:00:00Z
   stop: 2026-11-26T04:30:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
   description: ' (2026)'
+  subtitle: Teleshoppingové pásmo
 - eventId: 786919
   start: 2026-11-26T04:30:00Z
   stop: 2026-11-26T04:45:00Z
@@ -14,18 +17,24 @@
   description: ' (2026)'
 - eventId: 798491
   start: 2026-11-26T04:30:00Z
-  stop: 2026-11-26T05:00:00Z
+  stop: 2026-11-26T04:45:00Z
   title: HOROSKOPY
   subtitle: 05.10.2026 - 11.10.2026
   genre:
   - '149'
-- eventId: 786920
+  ageRating: 12
+- eventId:
+  - 786920
+  - 917045
   start: 2026-11-26T04:45:00Z
   stop: 2026-11-26T05:00:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
   description: ' (2026)'
-- eventId: 786921
+  subtitle: Teleshoppingové pásmo
+- eventId:
+  - 786921
+  - 798492
   start: 2026-11-26T05:00:00Z
   stop: 2026-11-26T06:40:00Z
   title: Ezoterická poradňa
@@ -34,31 +43,26 @@
   genre:
   - '32'
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
-- eventId: 798492
-  start: 2026-11-26T05:00:00Z
-  stop: 2026-11-26T06:40:00Z
-  title: Veštenie repríza
-  genre:
-  - '149'
-- eventId: 786923
+- eventId:
+  - 786923
+  - 798520
   start: 2026-11-26T06:40:00Z
   stop: 2026-11-26T07:30:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
   description: ' (2026)'
-- eventId: 798520
-  start: 2026-11-26T06:40:00Z
-  stop: 2026-11-26T07:45:00Z
-  title: HOROSKOPY
   subtitle: 05.10.2026 - 11.10.2026
   genre:
   - '149'
-- eventId: 786924
+- eventId:
+  - 786924
+  - 917052
   start: 2026-11-26T07:30:00Z
   stop: 2026-11-26T07:45:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
   description: ' (2026)'
+  subtitle: Teleshoppingové pásmo
 - eventId: 786925
   start: 2026-11-26T07:45:00Z
   stop: 2026-11-26T08:00:00Z
@@ -74,6 +78,7 @@
   subtitle: 05.10.2026 - 11.10.2026
   genre:
   - '149'
+  ageRating: 12
 - eventId: 786926
   start: 2026-11-26T08:00:00Z
   stop: 2026-11-26T09:40:00Z
@@ -85,17 +90,24 @@
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
 - eventId: 798522
   start: 2026-11-26T08:00:00Z
-  stop: 2026-11-26T13:00:00Z
+  stop: 2026-11-26T09:40:00Z
   title: Televeštiareň s Vanessou
   genre:
   - '149'
-- eventId: 786927
+  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
+  ageRating: 12
+- eventId:
+  - 786927
+  - 917057
   start: 2026-11-26T09:40:00Z
   stop: 2026-11-26T10:00:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
   description: ' (2026)'
-- eventId: 786928
+  subtitle: Teleshoppingové pásmo
+- eventId:
+  - 786928
+  - 917058
   start: 2026-11-26T10:00:00Z
   stop: 2026-11-26T11:40:00Z
   title: Ezoterická poradňa
@@ -104,13 +116,18 @@
   genre:
   - '32'
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
-- eventId: 786929
+- eventId:
+  - 786929
+  - 917059
   start: 2026-11-26T11:40:00Z
   stop: 2026-11-26T12:00:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
   description: ' (2026)'
-- eventId: 786930
+  subtitle: Teleshoppingové pásmo
+- eventId:
+  - 786930
+  - 917065
   start: 2026-11-26T12:00:00Z
   stop: 2026-11-26T13:30:00Z
   title: Ezoterická poradňa
@@ -126,7 +143,9 @@
   subtitle: Adam
   genre:
   - '149'
-- eventId: 786931
+- eventId:
+  - 786931
+  - 917066
   start: 2026-11-26T13:30:00Z
   stop: 2026-11-26T13:55:00Z
   title: O Zdraví
@@ -134,7 +153,10 @@
   genre:
   - '147'
   description: ' (2026)'
-- eventId: 786932
+  subtitle: O Zdraví
+- eventId:
+  - 786932
+  - 917067
   start: 2026-11-26T13:55:00Z
   stop: 2026-11-26T14:00:00Z
   title: Horoskopy
@@ -142,7 +164,10 @@
   genre:
   - '32'
   description: ' (2026)'
-- eventId: 786933
+  subtitle: Horoskopy
+- eventId:
+  - 786933
+  - 917068
   start: 2026-11-26T14:00:00Z
   stop: 2026-11-26T15:45:00Z
   title: Ezoterická poradňa
@@ -165,13 +190,18 @@
   subtitle: Adam
   genre:
   - '149'
-- eventId: 786934
+- eventId:
+  - 786934
+  - 917075
   start: 2026-11-26T15:45:00Z
   stop: 2026-11-26T16:00:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
   description: ' (2026)'
-- eventId: 786935
+  subtitle: Teleshoppingové pásmo
+- eventId:
+  - 786935
+  - 917076
   start: 2026-11-26T16:00:00Z
   stop: 2026-11-26T18:00:00Z
   title: Ezoterická poradňa
@@ -180,12 +210,15 @@
   genre:
   - '32'
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
-- eventId: 786938
+- eventId:
+  - 786938
+  - 917085
   start: 2026-11-26T18:00:00Z
   stop: 2026-11-26T19:00:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
   description: ' (2026)'
+  subtitle: Teleshoppingové pásmo
 - eventId: 786939
   start: 2026-11-26T19:00:00Z
   stop: 2026-11-26T20:30:00Z
@@ -197,16 +230,21 @@
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
 - eventId: 798629
   start: 2026-11-26T19:00:00Z
-  stop: 2026-11-26T20:45:00Z
+  stop: 2026-11-26T20:30:00Z
   title: Ezoterická poradňa s Renátou
   genre:
   - '149'
-- eventId: 786940
+  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
+  ageRating: 12
+- eventId:
+  - 786940
+  - 917086
   start: 2026-11-26T20:30:00Z
   stop: 2026-11-26T21:00:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
   description: ' (2026)'
+  subtitle: Teleshoppingové pásmo
 - eventId: 798630
   start: 2026-11-26T20:45:00Z
   stop: 2026-11-26T21:00:00Z
@@ -229,19 +267,25 @@
   title: Ezoterická poradňa s Renátou
   genre:
   - '149'
+  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
+  ageRating: 12
 - eventId: 798658
   start: 2026-11-26T23:00:00Z
-  stop: 2026-11-27T04:30:00Z
+  stop: 2026-11-26T23:20:00Z
   title: Nočné vysielanie pre pánov, X,H,18+
   genre:
   - '160'
+  subtitle: Teleshoppingové pásmo
+  ageRating: 12
 - eventId: 821090
   start: 2026-11-26T23:00:00Z
   stop: 2026-11-26T23:20:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
   description: ' (2026)'
-- eventId: 821091
+- eventId:
+  - 821091
+  - 917093
   start: 2026-11-26T23:20:00Z
   stop: 2026-11-27T04:00:00Z
   title: Nočné vysielanie pre pánov
