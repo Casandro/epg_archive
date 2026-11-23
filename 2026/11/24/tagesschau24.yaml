@@ -620,20 +620,16 @@
   - 569832
   - 607877
   - 631700
+  - 928743
   start: 2026-11-24T23:05:00Z
-  stop: 2026-11-24T23:15:00Z
-  title: Tagesschau
+  stop: 2026-11-24T23:25:00Z
+  title: 'Weltspiegel extra: Wahl in Spanien'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
   description: Die Nachrichten der ARD
-- eventId: 928743
-  start: 2026-11-24T23:05:00Z
-  stop: 2026-11-24T23:25:00Z
-  title: 'Weltspiegel extra: Wahl in Spanien'
   subtitle: Sánchez vor dem Aus?
-  subtitled: true
 - eventId: 927913
   start: 2026-11-24T23:10:00Z
   stop: 2026-11-24T23:25:00Z
@@ -668,12 +664,17 @@
     * Hardliner im Weißen Haus: Was sich mit Stephen Miller als Stabschef ändert
     * Wahlkampf in Frankreich: Wie Jean-Luc Mélenchon die Schülerproteste für sich nutzt
     * Debatte um Eishockey-WM in Deutschland: Sollte Russland teilnehmen dürfen?
-- eventId: 927965
+- eventId:
+  - 927965
+  - 930457
   start: 2026-11-24T23:25:00Z
   stop: 2026-11-24T23:35:00Z
   title: Tagesschau
   description: Die Nachrichten der ARD
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 540789
   - 541361
@@ -724,3 +725,15 @@
     Geplante Themen:
     * Bürgerfrust beim Glasfaserausbau: Woran liegt es?
     * Politischer Extremismus und "Die Linke": Wo verläuft die rote Linie?
+- eventId: 930458
+  start: 2026-11-24T23:35:00Z
+  stop: 2026-11-25T00:00:00Z
+  title: report München
+  subtitle: 'Moderation: Christian Nitsche'
+  description: |-
+    Geplante Themen:
+    * Bürgerfrust beim Glasfaserausbau: Woran liegt es?
+    * Politischer Extremismus und "Die Linke": Wo verläuft die rote Linie?
+  widescreen: true
+  hd: true
+  audiodesc: true
