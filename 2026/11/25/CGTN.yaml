@@ -168,6 +168,7 @@
   - 789780
   - 799226
   - 901526
+  - 921387
   start: 2026-11-25T06:00:00Z
   stop: 2026-11-25T06:30:00Z
   title: The World Today
@@ -186,6 +187,7 @@
 - eventId:
   - 789781
   - 905508
+  - 921388
   start: 2026-11-25T06:30:00Z
   stop: 2026-11-25T07:00:00Z
   title: The Heat
@@ -231,6 +233,7 @@
 - eventId:
   - 789785
   - 905510
+  - 921389
   start: 2026-11-25T08:15:00Z
   stop: 2026-11-25T09:00:00Z
   title: Global Business
@@ -248,6 +251,7 @@
 - eventId:
   - 789790
   - 905558
+  - 921390
   start: 2026-11-25T09:00:00Z
   stop: 2026-11-25T09:30:00Z
   title: The World Today
@@ -262,12 +266,15 @@
   stop: 2026-11-25T10:00:00Z
   title: TV Drama
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
-- eventId: 789791
+- eventId:
+  - 789791
+  - 921391
   start: 2026-11-25T09:30:00Z
   stop: 2026-11-25T10:00:00Z
   title: The Vibe
   subtitle: Dokumentarni
   description: The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.
+  widescreen: true
 - eventId:
   - 799256
   - 901531
@@ -286,7 +293,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 799257
   start: 2026-11-25T10:00:00Z
-  stop: 2026-11-25T10:30:00Z
+  stop: 2026-11-25T10:15:00Z
   title: Global Business
   genre:
   - '32'
@@ -296,6 +303,7 @@
 - eventId:
   - 789793
   - 905559
+  - 921392
   start: 2026-11-25T10:15:00Z
   stop: 2026-11-25T11:00:00Z
   title: Africa Live
