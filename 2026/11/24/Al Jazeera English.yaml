@@ -460,6 +460,7 @@
   - 952425
   - 954287
   - 955893
+  - 956664
   start: 2026-11-24T11:30:00Z
   stop: 2026-11-24T12:00:00Z
   title: Inside Story
@@ -482,7 +483,9 @@
   - '32'
   description: Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.
   subtitle: Acclaimed documentaries from across the globe bringing world issues into focus through personal stories.
-- eventId: 955904
+- eventId:
+  - 955904
+  - 956592
   start: 2026-11-24T12:00:00Z
   stop: 2026-11-24T13:00:00Z
   title: Witness
@@ -510,6 +513,7 @@
   - 951536
   - 952427
   - 955905
+  - 956593
   start: 2026-11-24T13:00:00Z
   stop: 2026-11-24T14:00:00Z
   title: 'NEWSHOUR: The World Now'
@@ -533,6 +537,7 @@
   - 951537
   - 953697
   - 955906
+  - 956594
   start: 2026-11-24T14:00:00Z
   stop: 2026-11-24T14:30:00Z
   title: News Live
@@ -549,6 +554,7 @@
   - 951538
   - 954286
   - 955907
+  - 956595
   start: 2026-11-24T14:30:00Z
   stop: 2026-11-24T15:00:00Z
   title: The Listening Post
@@ -571,6 +577,7 @@
   - 940428
   - 951541
   - 955915
+  - 956598
   start: 2026-11-24T15:00:00Z
   stop: 2026-11-24T16:00:00Z
   title: 'NEWSHOUR: The Wider Story'
@@ -610,6 +617,7 @@
   - 940429
   - 951542
   - 955916
+  - 956599
   start: 2026-11-24T16:00:00Z
   stop: 2026-11-24T16:30:00Z
   title: News Live
@@ -632,10 +640,14 @@
   - 940430
   - 951543
   - 955917
+  - 956600
   start: 2026-11-24T16:30:00Z
   stop: 2026-11-24T17:00:00Z
   title: The Bottom Line
   subtitle: Current Affairs Series Examining U.s. Politics And Society, Moderated By Steve Clemons.
+  description: Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.
+  genre:
+  - '32'
 - eventId:
   - 799103
   - 917232
