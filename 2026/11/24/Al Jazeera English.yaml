@@ -93,6 +93,7 @@
   - 933774
   - 934448
   - 940397
+  - 941973
   start: 2026-11-24T02:00:00Z
   stop: 2026-11-24T03:00:00Z
   title: Newshour
@@ -108,6 +109,7 @@
   - 933775
   - 934451
   - 940403
+  - 941974
   start: 2026-11-24T03:00:00Z
   stop: 2026-11-24T03:30:00Z
   title: News Live
@@ -129,6 +131,7 @@
   - 921094
   - 934452
   - 940404
+  - 941975
   start: 2026-11-24T03:30:00Z
   stop: 2026-11-24T04:00:00Z
   title: Dying Earth
@@ -144,6 +147,7 @@
   - 921095
   - 934453
   - 940405
+  - 941976
   start: 2026-11-24T04:00:00Z
   stop: 2026-11-24T04:30:00Z
   title: News Live
@@ -167,6 +171,7 @@
   - 921096
   - 937610
   - 940406
+  - 941977
   start: 2026-11-24T04:30:00Z
   stop: 2026-11-24T05:00:00Z
   title: Talk to Al Jazeera
@@ -178,7 +183,7 @@
   - 798993
   - 940407
   start: 2026-11-24T05:00:00Z
-  stop: 2026-11-25T05:00:00Z
+  stop: 2026-11-24T05:30:00Z
   title: AL JAZEERA ENGLISH
   genre:
   - '32'
@@ -197,22 +202,27 @@
   - 921097
   - 937686
   - 940408
+  - 941978
   start: 2026-11-24T05:30:00Z
   stop: 2026-11-24T06:00:00Z
   title: Inside Story
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
+  description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
+  genre:
+  - '128'
 - eventId:
   - 799019
   - 917194
   - 921101
   - 937687
   - 940412
+  - 941983
   start: 2026-11-24T06:00:00Z
   stop: 2026-11-24T06:30:00Z
   title: News Live
   genre:
   - '32'
-  description: Up-to-date news and analysis from around the world.
+  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId: 799020
   start: 2026-11-24T06:30:00Z
@@ -227,10 +237,14 @@
   - 921102
   - 937688
   - 940413
+  - 941984
   start: 2026-11-24T06:30:00Z
   stop: 2026-11-24T07:00:00Z
   title: UpFront
   subtitle: Marc Lamont Hill discusses the Nvidia scandal, tech failures and the future of AI with entrepreneur and former White House adviser Anil Dash.
+  description: Journalist Mehdi Hasan presents this informational magazine in which he goes through the biggest newspaper headlines. He reads into the stories behind them to uncover the true meanings, often running into contradictions along the way.
+  genre:
+  - '32'
 - eventId: 799021
   start: 2026-11-24T07:00:00Z
   stop: 2026-11-24T07:30:00Z
@@ -244,10 +258,14 @@
   - 921103
   - 937689
   - 940414
+  - 941985
   start: 2026-11-24T07:00:00Z
   stop: 2026-11-24T08:00:00Z
   title: Newshour
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '128'
 - eventId:
   - 799022
   - 901413
