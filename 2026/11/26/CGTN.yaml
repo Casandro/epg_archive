@@ -1,6 +1,6 @@
 - eventId: 799414
   start: 2026-11-26T00:00:00Z
-  stop: 2026-11-26T00:15:00Z
+  stop: 2026-11-26T01:00:00Z
   title: Global News
   genre:
   - '32'
@@ -21,7 +21,7 @@
   - '32'
 - eventId: 799416
   start: 2026-11-26T01:00:00Z
-  stop: 2026-11-26T01:30:00Z
+  stop: 2026-11-26T01:15:00Z
   title: Nostalgia
   genre:
   - '32'
@@ -32,7 +32,9 @@
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
-- eventId: 917053
+- eventId:
+  - 917053
+  - 955763
   start: 2026-11-26T01:15:00Z
   stop: 2026-11-26T02:00:00Z
   title: On the Way
@@ -53,7 +55,7 @@
   description: China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.
 - eventId: 799418
   start: 2026-11-26T02:00:00Z
-  stop: 2026-11-26T03:00:00Z
+  stop: 2026-11-26T02:30:00Z
   title: Global Business by CCTV America
   genre:
   - '32'
@@ -70,7 +72,9 @@
   title: World Insight with Tian Wei
   subtitle: Informativni
   description: World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.
-- eventId: 917054
+- eventId:
+  - 917054
+  - 955764
   start: 2026-11-26T02:30:00Z
   stop: 2026-11-26T03:15:00Z
   title: TV Drama
@@ -95,7 +99,9 @@
   title: Sports Scene
   subtitle: Informativni
   description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
-- eventId: 917060
+- eventId:
+  - 917060
+  - 955771
   start: 2026-11-26T03:15:00Z
   stop: 2026-11-26T04:00:00Z
   title: TV Drama
@@ -108,7 +114,7 @@
   description: The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged. It also makes use of trending topics online, while focusing on what's relevant in China and the world.
 - eventId: 798480
   start: 2026-11-26T04:00:00Z
-  stop: 2026-11-26T05:30:00Z
+  stop: 2026-11-26T05:00:00Z
   title: China News
   genre:
   - '32'
@@ -125,7 +131,9 @@
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
-- eventId: 917061
+- eventId:
+  - 917061
+  - 955772
   start: 2026-11-26T05:00:00Z
   stop: 2026-11-26T05:30:00Z
   title: Around China
@@ -138,7 +146,7 @@
   description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
 - eventId: 798481
   start: 2026-11-26T05:30:00Z
-  stop: 2026-11-26T06:00:00Z
+  stop: 2026-11-26T06:15:00Z
   title: Dialogue
   genre:
   - '32'
@@ -163,7 +171,9 @@
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
-- eventId: 917070
+- eventId:
+  - 917070
+  - 955783
   start: 2026-11-26T06:15:00Z
   stop: 2026-11-26T07:00:00Z
   title: TV Drama
@@ -176,7 +186,7 @@
   description: The Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.
 - eventId: 798508
   start: 2026-11-26T07:00:00Z
-  stop: 2026-11-26T08:00:00Z
+  stop: 2026-11-26T07:30:00Z
   title: Global Business by CCTV America
   genre:
   - '32'
@@ -193,14 +203,16 @@
   title: Sports Scene
   subtitle: Informativni
   description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
-- eventId: 917071
+- eventId:
+  - 917071
+  - 955784
   start: 2026-11-26T07:30:00Z
   stop: 2026-11-26T08:00:00Z
   title: China Showbiz
   subtitle: China Showbiz
 - eventId: 798509
   start: 2026-11-26T08:00:00Z
-  stop: 2026-11-26T09:30:00Z
+  stop: 2026-11-26T08:30:00Z
   title: China News
   genre:
   - '32'
@@ -217,7 +229,9 @@
   title: Global Business
   subtitle: Informativni
   description: Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.
-- eventId: 917072
+- eventId:
+  - 917072
+  - 955785
   start: 2026-11-26T08:30:00Z
   stop: 2026-11-26T09:15:00Z
   title: TV Drama
@@ -228,7 +242,9 @@
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
-- eventId: 917077
+- eventId:
+  - 917077
+  - 955792
   start: 2026-11-26T09:15:00Z
   stop: 2026-11-26T10:00:00Z
   title: TV Drama
@@ -249,7 +265,7 @@
   description: The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.
 - eventId: 798539
   start: 2026-11-26T10:00:00Z
-  stop: 2026-11-26T11:00:00Z
+  stop: 2026-11-26T10:30:00Z
   title: Global Business
   genre:
   - '32'
@@ -266,7 +282,9 @@
   title: Africa Live
   subtitle: Informativni
   description: Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.
-- eventId: 917078
+- eventId:
+  - 917078
+  - 955793
   start: 2026-11-26T10:30:00Z
   stop: 2026-11-26T11:00:00Z
   title: Across the Strait
@@ -299,7 +317,7 @@
   description: It is a prime time daily English talk show on CGTN.
 - eventId: 798558
   start: 2026-11-26T12:00:00Z
-  stop: 2026-11-26T13:00:00Z
+  stop: 2026-11-26T12:45:00Z
   title: Africa Live
   genre:
   - '32'
@@ -316,7 +334,9 @@
   title: China 24
   subtitle: Informativni
   description: China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.
-- eventId: 917088
+- eventId:
+  - 917088
+  - 955804
   start: 2026-11-26T12:45:00Z
   stop: 2026-11-26T13:00:00Z
   title: Nostalgia
@@ -349,7 +369,7 @@
   description: The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged. It also makes use of trending topics online, while focusing on what's relevant in China and the world.
 - eventId: 798561
   start: 2026-11-26T14:00:00Z
-  stop: 2026-11-26T14:15:00Z
+  stop: 2026-11-26T14:45:00Z
   title: News Desk
   genre:
   - '32'
@@ -374,7 +394,9 @@
   title: World Insight with Tian Wei
   subtitle: Informativni
   description: World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.
-- eventId: 917089
+- eventId:
+  - 917089
+  - 955805
   start: 2026-11-26T14:45:00Z
   stop: 2026-11-26T15:30:00Z
   title: TV Drama
@@ -407,14 +429,16 @@
   title: The Vibe
   subtitle: Dokumentarni
   description: The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.
-- eventId: 917285
+- eventId:
+  - 917285
+  - 955812
   start: 2026-11-26T15:30:00Z
   stop: 2026-11-26T16:00:00Z
   title: China Showbiz
   subtitle: China Showbiz
 - eventId: 798584
   start: 2026-11-26T16:00:00Z
-  stop: 2026-11-26T16:15:00Z
+  stop: 2026-11-26T16:45:00Z
   title: Music Fair
   genre:
   - '32'
@@ -427,7 +451,9 @@
   title: World Insight
   genre:
   - '32'
-- eventId: 917286
+- eventId:
+  - 917286
+  - 955813
   start: 2026-11-26T16:45:00Z
   stop: 2026-11-26T17:30:00Z
   title: Cartoon City
@@ -475,7 +501,7 @@
   subtitle: Across the Strait
 - eventId: 798613
   start: 2026-11-26T19:00:00Z
-  stop: 2026-11-26T20:00:00Z
+  stop: 2026-11-26T19:30:00Z
   title: Network News
   genre:
   - '32'
@@ -492,7 +518,9 @@
   title: World Insight with Tian Wei
   subtitle: Informativni
   description: World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.
-- eventId: 917099
+- eventId:
+  - 917099
+  - 955821
   start: 2026-11-26T19:30:00Z
   stop: 2026-11-26T20:00:00Z
   title: China Showbiz
@@ -522,7 +550,7 @@
   description: It is a prime time daily English talk show on CGTN.
 - eventId: 798645
   start: 2026-11-26T21:00:00Z
-  stop: 2026-11-26T21:15:00Z
+  stop: 2026-11-26T21:45:00Z
   title: On the Way
   genre:
   - '32'
@@ -547,12 +575,16 @@
   title: The Hub With Wang Guan
   subtitle: Dokumentarni
   description: The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged. It also makes use of trending topics online, while focusing on what's relevant in China and the world.
-- eventId: 917102
+- eventId:
+  - 917102
+  - 955825
   start: 2026-11-26T21:45:00Z
   stop: 2026-11-26T21:50:00Z
   title: Nostalgia
   subtitle: A journey through cherished memories, cultural traditions and stories that bring the past back to life.
-- eventId: 917103
+- eventId:
+  - 917103
+  - 955826
   start: 2026-11-26T21:50:00Z
   stop: 2026-11-26T22:30:00Z
   title: Discoveries

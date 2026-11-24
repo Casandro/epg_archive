@@ -12,6 +12,11 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
+- eventId: 955765
+  start: 2026-11-26T00:00:00Z
+  stop: 2026-11-26T01:00:00Z
+  title: Newshour
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId:
   - 799425
   - 953297
@@ -21,7 +26,9 @@
   genre:
   - '32'
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
-- eventId: 799426
+- eventId:
+  - 799426
+  - 955766
   start: 2026-11-26T01:00:00Z
   stop: 2026-11-26T02:00:00Z
   title: Al Jazeera World
@@ -45,7 +52,14 @@
   genre:
   - '32'
   description: Al Jazeera's journalists risk everything to cover the start of Israel's war on Gaza led by bureau chief Wael al Dahdouh, even when he loses his closest family.
-- eventId: 798486
+- eventId: 955767
+  start: 2026-11-26T02:00:00Z
+  stop: 2026-11-26T03:00:00Z
+  title: Newshour
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+- eventId:
+  - 798486
+  - 955775
   start: 2026-11-26T03:00:00Z
   stop: 2026-11-26T03:30:00Z
   title: News Live
@@ -59,7 +73,9 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
-- eventId: 917064
+- eventId:
+  - 917064
+  - 955776
   start: 2026-11-26T03:30:00Z
   stop: 2026-11-26T04:00:00Z
   title: Making Peace
@@ -67,6 +83,7 @@
 - eventId:
   - 798487
   - 953308
+  - 955777
   start: 2026-11-26T04:00:00Z
   stop: 2026-11-26T04:30:00Z
   title: News Live
@@ -84,6 +101,11 @@
   genre:
   - '32'
   description: Hind Hassan examines the prospect of a new nuclear arms race, the companies helping to fuel it, and the dangers it poses to us all.
+- eventId: 955778
+  start: 2026-11-26T04:30:00Z
+  stop: 2026-11-26T05:00:00Z
+  title: UpFront
+  subtitle: Marc Lamont Hill discusses the Nvidia scandal, tech failures and the future of AI with entrepreneur and former White House adviser Anil Dash.
 - eventId: 798489
   start: 2026-11-26T05:00:00Z
   stop: 2026-11-26T05:30:00Z
@@ -118,7 +140,7 @@
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
 - eventId: 798517
   start: 2026-11-26T07:00:00Z
-  stop: 2026-11-26T07:30:00Z
+  stop: 2026-11-26T08:00:00Z
   title: News Live
   genre:
   - '32'
@@ -136,13 +158,15 @@
   description: In the final part of this special series, The Big Picture examines the rise of far-right politics in Israel and how its war on Gaza is sanctioned by the West.
 - eventId: 798519
   start: 2026-11-26T08:00:00Z
-  stop: 2026-11-26T09:00:00Z
+  stop: 2026-11-26T08:30:00Z
   title: News Live
   genre:
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
-- eventId: 917074
+- eventId:
+  - 917074
+  - 955787
   start: 2026-11-26T08:30:00Z
   stop: 2026-11-26T09:00:00Z
   title: The Bottom Line
@@ -165,7 +189,7 @@
   description: Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.
 - eventId: 798548
   start: 2026-11-26T10:00:00Z
-  stop: 2026-11-26T10:30:00Z
+  stop: 2026-11-26T11:00:00Z
   title: News Live
   genre:
   - '32'
@@ -183,20 +207,22 @@
   description: Oppressed, dispossessed and expelled ? how Palestinians resist the century-long effort to force them from their land.
 - eventId: 798550
   start: 2026-11-26T11:00:00Z
-  stop: 2026-11-26T12:00:00Z
+  stop: 2026-11-26T11:30:00Z
   title: News Live
   genre:
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
-- eventId: 917081
+- eventId:
+  - 917081
+  - 955796
   start: 2026-11-26T11:30:00Z
   stop: 2026-11-26T12:00:00Z
   title: Inside Story
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
 - eventId: 798568
   start: 2026-11-26T12:00:00Z
-  stop: 2026-11-26T12:30:00Z
+  stop: 2026-11-26T13:00:00Z
   title: News Live
   genre:
   - '32'
@@ -221,20 +247,22 @@
   description: Designed for viewers seeking context, depth and clarity, Let's Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.
 - eventId: 798571
   start: 2026-11-26T14:00:00Z
-  stop: 2026-11-26T15:00:00Z
+  stop: 2026-11-26T14:30:00Z
   title: News Live
   genre:
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
-- eventId: 917091
+- eventId:
+  - 917091
+  - 955807
   start: 2026-11-26T14:30:00Z
   stop: 2026-11-26T15:00:00Z
   title: Al Jazeera Explains
   subtitle: Democrats won Congress. But did they win voters over? Al Jazeera Explains why Trump's party lost, and how much power the president still holds.
 - eventId: 798592
   start: 2026-11-26T15:00:00Z
-  stop: 2026-11-26T15:30:00Z
+  stop: 2026-11-26T16:00:00Z
   title: 'NEWSHOUR: The Wider Story'
   genre:
   - '32'
@@ -251,13 +279,15 @@
   description: Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.
 - eventId: 798594
   start: 2026-11-26T16:00:00Z
-  stop: 2026-11-26T17:00:00Z
+  stop: 2026-11-26T16:30:00Z
   title: News Live
   genre:
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
-- eventId: 917096
+- eventId:
+  - 917096
+  - 955816
   start: 2026-11-26T16:30:00Z
   stop: 2026-11-26T17:00:00Z
   title: Witness
@@ -280,7 +310,7 @@
   description: One day, four bombsites, two emergency hospital stops with Gaza's Civil Defense under Israeli bombardment.
 - eventId: 798621
   start: 2026-11-26T18:00:00Z
-  stop: 2026-11-26T18:30:00Z
+  stop: 2026-11-26T19:00:00Z
   title: News Live
   genre:
   - '32'
@@ -297,20 +327,22 @@
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
 - eventId: 798623
   start: 2026-11-26T19:00:00Z
-  stop: 2026-11-26T20:00:00Z
+  stop: 2026-11-26T19:30:00Z
   title: News Live
   genre:
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
-- eventId: 917101
+- eventId:
+  - 917101
+  - 955823
   start: 2026-11-26T19:30:00Z
   stop: 2026-11-26T20:00:00Z
   title: Talk to Al Jazeera
   subtitle: Former Prime Minister of Iceland discusses climate change, Arctic sovereignty and the politics of compromise in a polarized world.
 - eventId: 798624
   start: 2026-11-26T20:00:00Z
-  stop: 2026-11-26T20:30:00Z
+  stop: 2026-11-26T21:00:00Z
   title: The Boy Who Started And Survived the Syrian War
   genre:
   - '32'
@@ -335,13 +367,15 @@
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId: 798655
   start: 2026-11-26T22:00:00Z
-  stop: 2026-11-26T23:00:00Z
+  stop: 2026-11-26T22:30:00Z
   title: News Live
   genre:
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
-- eventId: 917106
+- eventId:
+  - 917106
+  - 955829
   start: 2026-11-26T22:30:00Z
   stop: 2026-11-26T23:00:00Z
   title: The Art of Negotiation
