@@ -26,6 +26,7 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 575132
   - 580954
@@ -206,6 +207,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 575726
   - 581659
@@ -396,10 +399,16 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 955991
+- eventId:
+  - 955991
+  - 969173
   start: 2026-12-06T17:28:00Z
   stop: 2026-12-06T17:30:00Z
   title: Sternstunden-Adventskalender (6/24)
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 762246
   - 762298
