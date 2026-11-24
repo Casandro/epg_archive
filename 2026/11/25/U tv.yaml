@@ -8,7 +8,7 @@
   description: U TV - the best music TV in Romania!
 - eventId: 799221
   start: 2026-11-25T08:00:00Z
-  stop: 2026-11-25T17:00:00Z
+  stop: 2026-11-25T12:00:00Z
   title: Music Brunch
   genre:
   - '96'
@@ -34,11 +34,16 @@
   description: ' .'
   genre:
   - '131'
-- eventId: 881665
+- eventId:
+  - 881665
+  - 954224
   start: 2026-11-25T12:00:00Z
   stop: 2026-11-25T14:00:00Z
   title: Everything Is Awesome!
   subtitle: '"Everything Is Awesome!" aduce un val de hituri energice i vibe pozitiv, perfect pentru a-i ridica starea de spirit.'
+  description: ' .'
+  genre:
+  - '131'
 - eventId: 910223
   start: 2026-11-25T12:00:00Z
   stop: 2026-11-25T14:00:00Z
@@ -54,7 +59,9 @@
   stop: 2026-11-25T14:30:00Z
   title: Made in Ro
   subtitle: La "MADE IN RO" asculţi doar piese româneşti!
-- eventId: 931032
+- eventId:
+  - 931032
+  - 954225
   start: 2026-11-25T14:00:00Z
   stop: 2026-11-25T14:30:00Z
   title: Made In RO
@@ -66,6 +73,7 @@
   - 881667
   - 917023
   - 931033
+  - 954226
   start: 2026-11-25T14:30:00Z
   stop: 2026-11-25T15:00:00Z
   title: Everything Is Awesome!
@@ -73,11 +81,16 @@
   description: ' .'
   genre:
   - '131'
-- eventId: 881674
+- eventId:
+  - 881674
+  - 954227
   start: 2026-11-25T15:00:00Z
   stop: 2026-11-25T23:00:00Z
   title: All About Music
   subtitle: '"All About Music" aduce în prim-plan cele mai bune piese ale momentului, într-un mix echilibrat pentru orice stare.'
+  description: ' .'
+  genre:
+  - '131'
 - eventId: 910231
   start: 2026-11-25T15:00:00Z
   stop: 2026-11-25T23:00:00Z
