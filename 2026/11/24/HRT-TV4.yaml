@@ -2009,7 +2009,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 874954
   start: 2026-11-24T20:00:00Z
-  stop: 2026-11-24T20:45:00Z
+  stop: 2026-11-24T20:44:00Z
   title: Pregled dana
   subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -2027,9 +2027,18 @@
   genre:
   - '160'
   description: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
+- eventId: 966743
+  start: 2026-11-24T20:45:00Z
+  stop: 2026-11-24T21:10:00Z
+  title: 'DW: U dobroj formi'
+  subtitle: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 874956
   - 965152
+  - 966744
   start: 2026-11-24T21:11:00Z
   stop: 2026-11-24T21:15:00Z
   title: Bez komentara
@@ -2059,7 +2068,7 @@
 - eventId: 964999
   start: 2026-11-24T22:03:00Z
   stop: 2026-11-24T22:05:00Z
-  title: Bez komentara
+  title: 'Bez komentara: Washington, SAD - Snažno nevrijeme pogodilo pacifičku obalu'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 874959
@@ -2116,7 +2125,9 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 965153
+- eventId:
+  - 965153
+  - 966745
   start: 2026-11-24T22:50:00Z
   stop: 2026-11-24T22:56:00Z
   title: '#REPORTAŽE'
@@ -2127,6 +2138,7 @@
 - eventId:
   - 874965
   - 965154
+  - 966746
   start: 2026-11-24T22:56:00Z
   stop: 2026-11-24T23:00:00Z
   title: Bez komentara
