@@ -206,7 +206,7 @@
   start: 2026-12-05T06:20:00Z
   stop: 2026-12-05T06:50:00Z
   title: Sehen statt Hören - Ein Wochenmagazin für Hörgeschädigte
-  subtitle: Fernsehen in Gebärdensprache
+  subtitle: Pfoten, Spritzen und OP - Jason lernt TFA
   widescreen: true
   subtitled: true
   hd: true
@@ -228,7 +228,7 @@
   - 793258
   start: 2026-12-05T07:05:00Z
   stop: 2026-12-05T07:30:00Z
-  title: Die Sendung mit dem Elefanten
+  title: Die Sendung mit dem Elefanten (358)
   subtitle: Was ist ein Stammbaum?
   widescreen: true
   subtitled: true
@@ -293,6 +293,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '112'
 - eventId:
   - 591804
   - 599333
@@ -307,6 +309,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 591805
   - 599334
@@ -316,7 +320,7 @@
   start: 2026-12-05T11:15:00Z
   stop: 2026-12-05T11:45:00Z
   title: 'Meisterküche: Süßes Mood Food'
-  subtitle: Tag 8 - Die Wichtelmütze
+  subtitle: 'Moderation: Yvonne Willicks'
   widescreen: true
   subtitled: true
   hd: true
@@ -508,7 +512,7 @@
   start: 2026-12-05T19:15:00Z
   stop: 2026-12-05T20:40:00Z
   title: Tatort - Platt gemacht
-  subtitle: Spielfilm Deutschland 2009
+  subtitle: Fernsehfilm Deutschland 2009
   genre:
   - '16'
   widescreen: true
@@ -522,11 +526,14 @@
   start: 2026-12-05T20:40:00Z
   stop: 2026-12-05T22:10:00Z
   title: Kommissar Wallander - Hunde von Riga
-  subtitle: Krimi, Schweden/Deutschland/England 2012
+  subtitle: Fernsehfilm Schweden/Großbritannien/Deutschland 2012
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
+  genre:
+  - '16'
 - eventId:
   - 583500
   - 601111
@@ -534,13 +541,14 @@
   start: 2026-12-05T22:10:00Z
   stop: 2026-12-05T23:40:00Z
   title: Scheidung für Anfänger
-  subtitle: Spielfilm Deutschland 2018
+  subtitle: Fernsehfilm Deutschland 2018
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
 - eventId:
   - 583501
   - 601112
@@ -548,10 +556,11 @@
   start: 2026-12-05T23:40:00Z
   stop: 2026-12-06T01:10:00Z
   title: Sterne über dem Eis
-  subtitle: Spielfilm Deutschland 2009
+  subtitle: Fernsehfilm Deutschland 2009
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
