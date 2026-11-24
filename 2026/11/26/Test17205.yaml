@@ -91,7 +91,7 @@
   hd: true
 - eventId: 925488
   start: 2026-11-26T05:20:00Z
-  stop: 2026-11-26T05:50:00Z
+  stop: 2026-11-26T06:00:00Z
   title: 19h30 - Signé
   description: (Rediffusion)  "Langue des signes"
   genre:
@@ -110,7 +110,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 797240
+- eventId:
+  - 797240
+  - 948386
   start: 2026-11-26T06:00:00Z
   stop: 2026-11-26T07:00:00Z
   title: La Matinale
@@ -176,9 +178,9 @@
   hd: true
 - eventId: 797271
   start: 2026-11-26T10:05:00Z
-  stop: 2026-11-26T10:50:00Z
+  stop: 2026-11-26T10:55:00Z
   title: Infrarouge
-  description: 2026 (31/34) Infrarouge (Suisse Romande-2026)
+  description: "2026 (31/34) Infrarouge: Frigos, avions, hôpitaux, institutions: la cyberguerre est déclarée? Pour commencer, les frigos des supermarchés piratés dans toute l'Europe. Et puis des banques, des laboratoires, des hôpitaux, et même la Commission européenne: en l'espace de trois semaines, les cyberattaques ont atteint une intensité jamais vue sur la planète, et la Suisse n'est pas épargnée. \nEn cause, de nouveaux modèles d'IA à portée de tous les mauvaises intentions  - piratage ou cyberguerre inter-étatique - et capables d'infliger des dégâts en un temps record. Alors le pire est-il à venir? A quel point nos sociétés connectées sont-elles vulnérables, et comment éviter l'effondrement? \n (Suisse Romande-2026)"
   genre:
   - '32'
   widescreen: true
@@ -195,9 +197,20 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 948387
+  start: 2026-11-26T10:55:00Z
+  stop: 2026-11-26T11:05:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 797273
   start: 2026-11-26T11:05:00Z
-  stop: 2026-11-26T11:25:00Z
+  stop: 2026-11-26T11:30:00Z
   title: Couleurs locales
   genre:
   - '33'
@@ -209,6 +222,16 @@
   stop: 2026-11-26T12:20:00Z
   title: Passe-moi les jumelles
   description: "\"Audio description\"  - L'amitié en chemin Chaque année au printemps et juste avant l'hiver, un groupe de bénévoles se réunit pour entretenir le sentier de la Combe Grède, une réserve naturelle spectaculaire et sauvage du Jura bernois. Une histoire d'amitié et une passion pour la région partagée de génération en générations depuis 1903.\n - Bécassine, reine des petits riens Véronique Wilhem filme un univers façonné de bric et de broc en stop motion. Cette technique consiste à créer l'illusion d'un mouvement en photographiant des objets immobiles, déplacés petit à petit. \nElle raconte sa propre histoire avec humour et délicatesse avec Bécassine devenue son alter ego."
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 948388
+  start: 2026-11-26T11:30:00Z
+  stop: 2026-11-26T12:20:00Z
+  title: Passe-moi les jumelles
+  description: "\"Audio description\"  - L'amitié en chemin Chaque année au printemps et juste avant l'hiver, un groupe de bénévoles se réunit pour entretenir le sentier de la Combe Grède, une réserve naturelle spectaculaire et sauvage du Jura bernois. Une histoire d'amitié et une passion pour la région partagée de génération en génération depuis 1903.\n - Bécassine, reine des petits riens Véronique Wilhem filme un univers façonné de bric et de broc en stop motion. Cette technique consiste à créer l'illusion d'un mouvement en photographiant des objets immobiles, déplacés petit à petit. \nElle raconte sa propre histoire avec humour et délicatesse avec Bécassine devenue son alter ego."
   genre:
   - '128'
   widescreen: true
@@ -247,7 +270,7 @@
   start: 2026-11-26T13:50:00Z
   stop: 2026-11-26T14:35:00Z
   title: Infrarouge
-  description: 2026 (31/34) Infrarouge (Suisse Romande-2026)
+  description: "2026 (31/34) Infrarouge: Frigos, avions, hôpitaux, institutions: la cyberguerre est déclarée? Pour commencer, les frigos des supermarchés piratés dans toute l'Europe. Et puis des banques, des laboratoires, des hôpitaux, et même la Commission européenne: en l'espace de trois semaines, les cyberattaques ont atteint une intensité jamais vue sur la planète, et la Suisse n'est pas épargnée. \nEn cause, de nouveaux modèles d'IA à portée de tous les mauvaises intentions  - piratage ou cyberguerre inter-étatique - et capables d'infliger des dégâts en un temps record. Alors le pire est-il à venir? A quel point nos sociétés connectées sont-elles vulnérables, et comment éviter l'effondrement? \n (Suisse Romande-2026)"
   genre:
   - '32'
   widescreen: true
@@ -286,6 +309,7 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 824231
   start: 2026-11-26T17:00:00Z
   stop: 2026-11-26T17:35:00Z
