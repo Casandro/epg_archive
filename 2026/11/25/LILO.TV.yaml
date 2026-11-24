@@ -99,10 +99,19 @@
   widescreen: true
 - eventId: 859091
   start: 2026-11-25T05:00:00Z
-  stop: 2026-11-25T05:20:00Z
+  stop: 2026-11-25T05:15:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Trialog vom Spargel
   description: Heute kocht Ralf Kühler zusammen mit Stefan Wiertz unter anderem Trialog vom Spargel und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 953192
+  start: 2026-11-25T05:15:00Z
+  stop: 2026-11-25T06:20:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Thai-Scampiroll auf Salat von Cox-Orange
+  description: Heute kocht Ralf Kühler zusammen mit Thorsten Schmidt unter anderem Thai-Scampiroll auf Salat von Cox-Orange und Karambole in Vanille-Honig Vinaigrette und vieles mehr.
   genre:
   - '165'
   widescreen: true
@@ -123,7 +132,9 @@
   genre:
   - '166'
   widescreen: true
-- eventId: 771132
+- eventId:
+  - 771132
+  - 953193
   start: 2026-11-25T06:20:00Z
   stop: 2026-11-25T06:50:00Z
   title: Teleshopping
@@ -138,7 +149,9 @@
   subtitle: Der Wetterbericht - 25.11.2026
   description: Ob Sonne, Regen, Sturm oder Schnee - bei uns sind Sie immer aktuell informiert. Sehen Sie mehrmals tagsüber im Programm den Wetterbericht mit der Vorhersage für ganz Deutschland. Kompakt, schnell und verlässlich!
   widescreen: true
-- eventId: 771133
+- eventId:
+  - 771133
+  - 953194
   start: 2026-11-25T06:50:00Z
   stop: 2026-11-25T07:00:00Z
   title: Der Wetterbericht
@@ -147,15 +160,42 @@
   widescreen: true
 - eventId: 771134
   start: 2026-11-25T07:00:00Z
-  stop: 2026-11-25T08:05:00Z
+  stop: 2026-11-25T07:15:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Gefüllte Hähnchenbrust auf Paprika-Tagliatelle
+  description: Heute kocht Ralf Kühler zusammen mit Tobias Greb unter anderem eine gefüllte Hähnchenbrust auf Paprika Tagliatelle und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 953195
+  start: 2026-11-25T07:15:00Z
+  stop: 2026-11-25T08:00:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Zwiebel-Pflaumensüppchen
   description: Heute kocht Ralf Kühler zusammen mit Franz Leonardo Lauter unter anderem ein Zwiebel-Pflaumensüppchen und vieles mehr.
   genre:
   - '165'
   widescreen: true
+- eventId: 953196
+  start: 2026-11-25T08:00:00Z
+  stop: 2026-11-25T08:30:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Rock-'-n-'-Roll-Mops
+  description: Heute kocht Ralf Kühler zusammen mit Heinrich Wächter unter anderem den Rock `n` Rollmops und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 771135
   start: 2026-11-25T08:05:00Z
+  stop: 2026-11-25T09:15:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Sauerkrautsuppe mit Flönz
+  description: Heute kocht Ralf Kühler zusammen mit Jörg Thon unter anderem eine Sauerkrautsuppe mit Flönz und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 953197
+  start: 2026-11-25T08:30:00Z
   stop: 2026-11-25T09:15:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Sauerkrautsuppe mit Flönz
@@ -173,15 +213,33 @@
   widescreen: true
 - eventId: 771154
   start: 2026-11-25T09:45:00Z
-  stop: 2026-11-25T11:00:00Z
+  stop: 2026-11-25T10:45:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Apfel-Currycremesüppchen mit Crème fraîche
   description: Heute kocht Ralf Kühler zusammen mit Ralf Pohlmann unter anderem ein Apfel-Currycremesüppchen mit Crème fraîche und vieles mehr.
   genre:
   - '165'
   widescreen: true
+- eventId: 953198
+  start: 2026-11-25T10:45:00Z
+  stop: 2026-11-25T11:00:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Grüner Spargel mit Entenbrust an weißem Balsamicodressing
+  description: Heute kocht Ralf Kühler zusammen mit Andreas Völkel unter anderem einen Salat von grünem Spargel mit Orangenfilets, geräucherter Entenbrust und gerösteten Pinienkernen auf Rauke an weißem Balsamicodressing und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 771155
   start: 2026-11-25T11:00:00Z
+  stop: 2026-11-25T11:30:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Rucola-Salat mit Kirschtomaten, Champignons und Parmesan
+  description: Heute kocht Ralf Kühler zusammen mit Klaus Gerz unter anderem ein Rucola-Salat mit Kirschtomaten, Champignons und gehobeltem Parmesan und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 953199
+  start: 2026-11-25T11:30:00Z
   stop: 2026-11-25T12:20:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Rucola-Salat mit Kirschtomaten, Champignons und Parmesan
@@ -199,6 +257,15 @@
   widescreen: true
 - eventId: 771169
   start: 2026-11-25T12:55:00Z
+  stop: 2026-11-25T13:10:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Westfälische Schlachtfestsuppe mit Reis
+  description: Heute kocht Ralf Kühler zusammen mit Gerhard Rode unter anderem eine westfälische Schlachtfestsuppe mit Reis, Gemüsestreifen und kleinen Rosenkohlröschen und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 953200
+  start: 2026-11-25T13:10:00Z
   stop: 2026-11-25T14:00:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Westfälische Schlachtfestsuppe mit Reis
@@ -208,6 +275,15 @@
   widescreen: true
 - eventId: 773572
   start: 2026-11-25T14:00:00Z
+  stop: 2026-11-25T14:25:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Erbsen-Karotten-Latte mit Thunfischtandoori
+  description: Heute kocht Ralf Kühler zusammen mit Stefan Manier unter anderem Erbsen-Karotten Latte mit Thunfischtandori und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 953201
+  start: 2026-11-25T14:25:00Z
   stop: 2026-11-25T15:00:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Gratinierte Austern
@@ -217,14 +293,32 @@
   widescreen: true
 - eventId: 773578
   start: 2026-11-25T15:00:00Z
-  stop: 2026-11-25T15:40:00Z
+  stop: 2026-11-25T15:35:00Z
   title: Teleshopping
   subtitle: Teleshopping
   genre:
   - '166'
   widescreen: true
+- eventId: 953202
+  start: 2026-11-25T15:35:00Z
+  stop: 2026-11-25T16:05:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Pfefferpotthast vom Kaninchen
+  description: Heute kocht Ralf Kühler zusammen mit Heinrich Wächter unter anderem ein Pfefferpotthast vom Kaninchen und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 773579
   start: 2026-11-25T15:40:00Z
+  stop: 2026-11-25T17:00:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Warmer Brokkoli-Möhren-Salat mit Kräuterdressing
+  description: Heute kocht Ralf Kühler zusammen mit Mayoori Buchhalter unter anderem ein warmer Brokkoli-Möhren-Salat mit Kräuterdressing und gerösteten Sonnenblumenkernen und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 953203
+  start: 2026-11-25T16:05:00Z
   stop: 2026-11-25T17:00:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Warmer Brokkoli-Möhren-Salat mit Kräuterdressing
@@ -242,6 +336,15 @@
   widescreen: true
 - eventId: 776727
   start: 2026-11-25T17:40:00Z
+  stop: 2026-11-25T18:00:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Curry-Zitronengrassuppe mit Mango-Gambaspieß
+  description: Heute kocht Ralf Kühler zusammen mit Tobias Linhart unter anderem eine Curry-Zitronengrassuppe mit Mango-Gambaspieß und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 953204
+  start: 2026-11-25T18:00:00Z
   stop: 2026-11-25T18:40:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Curry-Zitronengrassuppe mit Mango-Gambaspieß
@@ -268,12 +371,21 @@
   widescreen: true
 - eventId: 776734
   start: 2026-11-25T20:25:00Z
-  stop: 2026-11-25T21:30:00Z
+  stop: 2026-11-25T21:20:00Z
   title: So schmeckt die Welt - Klagenfurt
   subtitle: So schmeckt die Welt - Klagenfurt
   description: Ein einzigartiger und stilvoller Ausflug in die kulturelle Szene von Klagenfurt erwartet dich. Als österreichische Landeshauptstadt strahlt Klagenfurt am berühmten Wörthersee zweifellos Urlaubsatmosphäre aus. Hier zu leben bedeutet praktisch, immer im Urlaub zu sein. Die Dokumentation über diese Sonnenstadt in Kärnten zeigt eindrucksvoll, warum das so ist. Dabei präsentiert sich die Landeshauptstadt auf vielfältige Weise bunt und abwechslungsreich - vom Bodypainter bis zum Schlagzeug-Workshop.
   genre:
   - '129'
+  widescreen: true
+- eventId: 953205
+  start: 2026-11-25T21:20:00Z
+  stop: 2026-11-25T21:50:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Asiatischer Gemüsesalat mit Garnelen und Basmatireis
+  description: Heute kocht Ralf Kühler zusammen mit Walter Stemberg unter anderem ein asiatischer Gemüsesalat mit Garnelen und Basmatireis und vieles mehr.
+  genre:
+  - '165'
   widescreen: true
 - eventId: 777289
   start: 2026-11-25T21:30:00Z
@@ -284,8 +396,35 @@
   genre:
   - '165'
   widescreen: true
+- eventId: 953206
+  start: 2026-11-25T21:50:00Z
+  stop: 2026-11-25T22:40:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Monschauer Senf-Sauerkraut-Suppe
+  description: Heute kocht Ralf Kühler zusammen mit Heinrich Leipold unter anderem eine Monschauer Senf-Sauerkrautsuppe und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 953207
+  start: 2026-11-25T22:40:00Z
+  stop: 2026-11-25T23:10:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Tempura von Black-Tiger-Garnelen auf Rote-Bete-Carpaccio
+  description: Heute kocht Ralf Kühler zusammen mit Steffen Henssler unter anderem eine Tempura von Black Tiger Garnelen auf Rote Bete Carpaccio mit Parmesanbutter, altem Balsamico und Tobbiko und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 778200
   start: 2026-11-25T22:50:00Z
+  stop: 2026-11-26T00:10:00Z
+  title: So schmeckt die Welt - Leipzig
+  subtitle: So schmeckt die Welt - Leipzig
+  description: Während andere Städte in Ostdeutschland noch versuchen, aufzuholen, hat Leipzig bereits viele westdeutsche Städte überholt. Diese Stadt ist zweifellos ein Paradebeispiel dafür, wie Veränderungen auf kreative Weise gestaltet werden können. Ob in der Kunst, im Wohnbereich oder bei der Gestaltung der Stadt - Leipzig beeindruckt mit innovativen Vierteln und einem modernen Flair. In dieser 45-minütigen Dokumentation werfen wir einen Blick auf das neue, zeitgemäße Leipzig des 21. Jahrhunderts.
+  genre:
+  - '129'
+  widescreen: true
+- eventId: 953208
+  start: 2026-11-25T23:10:00Z
   stop: 2026-11-26T00:10:00Z
   title: So schmeckt die Welt - Leipzig
   subtitle: So schmeckt die Welt - Leipzig
