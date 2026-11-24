@@ -318,8 +318,29 @@
   hd: true
 - eventId: 864163
   start: 2026-11-26T04:30:00Z
-  stop: 2026-11-26T04:50:00Z
+  stop: 2026-11-26T04:35:00Z
   title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 961008
+  start: 2026-11-26T04:35:00Z
+  stop: 2026-11-26T04:45:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 961009
+  start: 2026-11-26T04:45:00Z
+  stop: 2026-11-26T05:00:00Z
+  title: Schweiz aktuell
   genre:
   - '32'
   widescreen: true
@@ -343,6 +364,31 @@
   title: Schweiz aktuell
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 961010
+  start: 2026-11-26T05:05:00Z
+  stop: 2026-11-26T05:10:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 961011
+  start: 2026-11-26T05:10:00Z
+  stop: 2026-11-26T06:00:00Z
+  title: UEFA Champions League - Highlights Männer
+  subtitle: Alle Spiele, alle Tore
+  description: |-
+    Die besten Fussballer und Teams Europas im Fokus - mit dem Komplettservice zur Königsklasse. Im Programm sind alle Spiele und alle Tore des Tages. Reaktionen aus den Fussballstadien und vertiefende Analysen ergänzen die Matchberichte. Ein besonderes Augenmerk gilt den Schweizer Vertretern.
+    Schweiz 2026
+  genre:
+  - '64'
   widescreen: true
   subtitled: true
   hd: true
@@ -371,9 +417,39 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 961021
+  start: 2026-11-26T06:00:00Z
+  stop: 2026-11-26T06:15:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 797249
   start: 2026-11-26T06:15:00Z
   stop: 2026-11-26T06:35:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 961022
+  start: 2026-11-26T06:20:00Z
+  stop: 2026-11-26T06:25:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 961023
+  start: 2026-11-26T06:25:00Z
+  stop: 2026-11-26T06:40:00Z
   title: Schweiz aktuell
   genre:
   - '32'
@@ -401,10 +477,34 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 961024
+  start: 2026-11-26T06:45:00Z
+  stop: 2026-11-26T07:30:00Z
+  title: Rundschau in Gebärdensprache
+  subtitle: 'Atomkraft: Ja gerne oder nein danke?'
+  description: |-
+    Die Schweiz braucht mehr Strom, doch woher dieser kommen soll, ist umstritten. Kommt es zu einem Comeback der Atomkraft?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 797252
   start: 2026-11-26T07:00:00Z
   stop: 2026-11-26T07:45:00Z
   title: Rundschau in Gebärdensprache
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 961025
+  start: 2026-11-26T07:30:00Z
+  stop: 2026-11-26T08:10:00Z
+  title: Einstein in Gebärdensprache
+  subtitle: Was, wenns brennt? Feuer in deinem Zuhause
+  description: |-
+    Mit Akkus, neuen Baustoffen und moderner Haustechnik entstehen auch neue Zündquellen. Was tun, wenn dein Zuhause plötzlich brennt?
+    Schweiz 2026
+  genre:
+  - '112'
   widescreen: true
   subtitled: true
   hd: true
@@ -421,6 +521,28 @@
   description: |-
     Mit Akkus, neuen Baustoffen und moderner Haustechnik entstehen auch neue Zündquellen. Was tun, wenn dein Zuhause plötzlich brennt?
     Schweiz 2026
+- eventId: 961026
+  start: 2026-11-26T08:10:00Z
+  stop: 2026-11-26T08:15:00Z
+  title: mitenand in Gebärdensprache
+  subtitle: Marokko - Berufsausbildung für Menschen mit Handicap
+  description: |-
+    Für Menschen mit einem physischen oder mentalen Handicap ist es in Marokko schwierig, eine Berufsausbildung zu machen und ein Einkommen zu erwirtschaften. Im Ausbildungszentrum Amnougar erhalten sie, unterstützt von Partneraid International, diese Möglichkeit. Ein Bericht von Mitja Rietbrock.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 961027
+  start: 2026-11-26T08:15:00Z
+  stop: 2026-11-26T08:45:00Z
+  title: Reporter in Gebärdensprache
+  subtitle: Nach 7 Jahren Haft - Wie weiter? (Teil 1)
+  description: |-
+    Giorgio Lörtscher sitzt wegen Einbruch und Raub im Gefängnis. Als er entlassen wird, versucht er, einen Platz in der Gesellschaft zu finden. Er hat grosse Pläne: Er möchte Rapper werden. Doch bald wachsen ihm die Probleme über den Kopf. Kann das gut gehen?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 797254
   start: 2026-11-26T08:25:00Z
   stop: 2026-11-26T08:30:00Z
@@ -443,6 +565,18 @@
   description: |-
     Giorgio Lörtscher sitzt wegen Einbruch und Raub im Gefängnis. Als er entlassen wird, versucht er, einen Platz in der Gesellschaft zu finden. Er hat grosse Pläne: Er möchte Rapper werden. Doch bald wachsen ihm die Probleme über den Kopf. Kann das gut gehen?
     Schweiz 2026
+- eventId: 961028
+  start: 2026-11-26T08:45:00Z
+  stop: 2026-11-26T09:10:00Z
+  title: Cuntrasts
+  subtitle: Der Kampf ums Bündner Wasser - gestern und heute
+  description: |-
+    16 Jahre Widerstand gegen ein gigantisches Stauseeprojekt: Rheinwald verhinderte die Überflutung seines Tals. Ein Blick auf einen historischen Kampf.
+    Schweiz 2026
+  genre:
+  - '144'
+  widescreen: true
+  hd: true
 - eventId: 797276
   start: 2026-11-26T09:00:00Z
   stop: 2026-11-26T09:25:00Z
@@ -455,11 +589,33 @@
   - '144'
   widescreen: true
   hd: true
+- eventId: 960855
+  start: 2026-11-26T09:10:00Z
+  stop: 2026-11-26T10:05:00Z
+  title: Rundschau
+  subtitle: 'Atomkraft: Ja gerne oder nein danke?'
+  description: |-
+    Die Schweiz braucht mehr Strom, doch woher dieser kommen soll, ist umstritten. Kommt es zu einem Comeback der Atomkraft?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 797277
   start: 2026-11-26T09:25:00Z
   stop: 2026-11-26T10:15:00Z
   title: Rundschau
   subtitle: Spezialsendung zum Thema Atom
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 960856
+  start: 2026-11-26T10:05:00Z
+  stop: 2026-11-26T10:35:00Z
+  title: Reporter
+  subtitle: Zurück hinter Gittern - Normales Leben unmöglich? (Teil 2)
+  description: |-
+    Der Ex-Häftling Giorgio Lörtscher verdient gut als Influencer. Doch dann gerät er in einen Streit mit Brian Keller - die beiden kennen sich aus dem Jugendstrafvollzug. Schnell eskaliert die Situation. Und Lörtscher sitzt am Ende wieder dort, wo er nie mehr hinwollte: im Gefängnis.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -474,6 +630,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 960857
+  start: 2026-11-26T10:35:00Z
+  stop: 2026-11-26T11:05:00Z
+  title: Cuntrasts
+  subtitle: Der Kampf ums Bündner Wasser - gestern und heute
+  description: |-
+    16 Jahre Widerstand gegen ein gigantisches Stauseeprojekt: Rheinwald verhinderte die Überflutung seines Tals. Ein Blick auf einen historischen Kampf.
+    Schweiz 2026
+  genre:
+  - '144'
+  widescreen: true
+  hd: true
 - eventId: 797279
   start: 2026-11-26T10:45:00Z
   stop: 2026-11-26T11:10:00Z
@@ -485,6 +653,19 @@
   genre:
   - '144'
   widescreen: true
+  hd: true
+- eventId: 960858
+  start: 2026-11-26T11:05:00Z
+  stop: 2026-11-26T11:55:00Z
+  title: UEFA Champions League - Highlights Männer
+  subtitle: Alle Spiele, alle Tore
+  description: |-
+    Die besten Fussballer und Teams Europas im Fokus - mit dem Komplettservice zur Königsklasse. Im Programm sind alle Spiele und alle Tore des Tages. Reaktionen aus den Fussballstadien und vertiefende Analysen ergänzen die Matchberichte. Ein besonderes Augenmerk gilt den Schweizer Vertretern.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 797280
   start: 2026-11-26T11:10:00Z
@@ -499,6 +680,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 960859
+  start: 2026-11-26T11:55:00Z
+  stop: 2026-11-26T12:45:00Z
+  title: Rundschau
+  subtitle: 'Atomkraft: Ja gerne oder nein danke?'
+  description: |-
+    Die Schweiz braucht mehr Strom, doch woher dieser kommen soll, ist umstritten. Kommt es zu einem Comeback der Atomkraft?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 803300
   start: 2026-11-26T12:05:00Z
   stop: 2026-11-26T12:55:00Z
@@ -507,9 +699,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 803301
-  start: 2026-11-26T12:55:00Z
-  stop: 2026-11-26T13:00:00Z
+- eventId: 960876
+  start: 2026-11-26T12:45:00Z
+  stop: 2026-11-26T12:50:00Z
   title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
@@ -517,6 +709,29 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 960877
+  start: 2026-11-26T12:50:00Z
+  stop: 2026-11-26T12:55:00Z
+  title: Meteo
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 803301
+  start: 2026-11-26T12:55:00Z
+  stop: 2026-11-26T13:25:00Z
+  title: Tagesschau kompakt
+  subtitle: Zurück hinter Gittern - Normales Leben unmöglich? (Teil 2)
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Der Ex-Häftling Giorgio Lörtscher verdient gut als Influencer. Doch dann gerät er in einen Streit mit Brian Keller - die beiden kennen sich aus dem Jugendstrafvollzug. Schnell eskaliert die Situation. Und Lörtscher sitzt am Ende wieder dort, wo er nie mehr hinwollte: im Gefängnis.
+    Schweiz 2026
 - eventId: 803302
   start: 2026-11-26T13:00:00Z
   stop: 2026-11-26T13:05:00Z
@@ -537,6 +752,38 @@
     Schweiz 2026
   widescreen: true
   subtitled: true
+  hd: true
+- eventId: 960878
+  start: 2026-11-26T13:25:00Z
+  stop: 2026-11-26T13:30:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 960879
+  start: 2026-11-26T13:30:00Z
+  stop: 2026-11-26T13:35:00Z
+  title: Meteo
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 960880
+  start: 2026-11-26T13:35:00Z
+  stop: 2026-11-26T14:00:00Z
+  title: Clic
+  subtitle: 'Gas geben für Likes: Was steckt hinter den Posts?'
+  description: |-
+    Benzin im Blut und die Kamera im Anschlag: Drei Bündner «Petrolheads» zeigen, wie viel Arbeit hinter ihren Social-Media-Auftritten steckt.
+    Schweiz 2026
+  genre:
+  - '130'
+  widescreen: true
   hd: true
 - eventId: 803304
   start: 2026-11-26T13:40:00Z
@@ -570,6 +817,16 @@
   - '130'
   widescreen: true
   hd: true
+- eventId: 960881
+  start: 2026-11-26T14:00:00Z
+  stop: 2026-11-26T14:05:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 803307
   start: 2026-11-26T14:05:00Z
   stop: 2026-11-26T14:10:00Z
@@ -582,14 +839,17 @@
   hd: true
 - eventId: 803308
   start: 2026-11-26T14:10:00Z
-  stop: 2026-11-26T14:15:00Z
+  stop: 2026-11-26T15:05:00Z
   title: Meteo
-  subtitle: Mittagsausgabe
+  subtitle: Die aktuelle Debatte
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Im «Forum» diskutiert Radio SRF 1 mit Gästen und dem Publikum über aktuelle Themen aus Gesellschaft, Politik, Wirtschaft und Kultur. In die Live-Sendung fliessen Meinungen und Fragen ein, die das Moderationsteam per Telefon, E-Mail oder Online-Kommentar erreichen.
+    Schweiz 2026
 - eventId: 803309
   start: 2026-11-26T14:15:00Z
   stop: 2026-11-26T15:10:00Z
@@ -598,6 +858,16 @@
   description: |-
     Im «Forum» diskutiert Radio SRF 1 mit Gästen und dem Publikum über aktuelle Themen aus Gesellschaft, Politik, Wirtschaft und Kultur. In die Live-Sendung fliessen Meinungen und Fragen ein, die das Moderationsteam per Telefon, E-Mail oder Online-Kommentar erreichen.
     Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 960892
+  start: 2026-11-26T15:05:00Z
+  stop: 2026-11-26T15:10:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
   widescreen: true
   subtitled: true
   hd: true
@@ -613,14 +883,17 @@
   hd: true
 - eventId: 803315
   start: 2026-11-26T15:15:00Z
-  stop: 2026-11-26T15:20:00Z
+  stop: 2026-11-26T15:50:00Z
   title: Tagesschau kompakt
-  subtitle: Mittagsausgabe
+  subtitle: 'Online-Betrug: Die perfiden Tricks der Gauner'
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Gauner nutzen Inserate-Plattformen, um an unser Bankkonto zu kommen. «Kassensturz» zeigt ihre Maschen, konfrontiert den Tutti- und Ricardo-Chef mit Kritik der Opfer.
+    Schweiz 2026
 - eventId: 803316
   start: 2026-11-26T15:20:00Z
   stop: 2026-11-26T15:55:00Z
@@ -632,9 +905,19 @@
   description: |-
     Gauner nutzen Inserate-Plattformen, um an unser Bankkonto zu kommen. «Kassensturz» zeigt ihre Maschen, konfrontiert den Tutti- und Ricardo-Chef mit Kritik der Opfer.
     Schweiz 2026
+- eventId: 960893
+  start: 2026-11-26T15:50:00Z
+  stop: 2026-11-26T15:55:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 803317
   start: 2026-11-26T15:55:00Z
-  stop: 2026-11-26T16:00:00Z
+  stop: 2026-11-26T16:05:00Z
   title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
@@ -656,10 +939,13 @@
   start: 2026-11-26T16:05:00Z
   stop: 2026-11-26T16:55:00Z
   title: Rundschau
-  subtitle: Spezialsendung zum Thema Atom
+  subtitle: 'Atomkraft: Ja gerne oder nein danke?'
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Die Schweiz braucht mehr Strom, doch woher dieser kommen soll, ist umstritten. Kommt es zu einem Comeback der Atomkraft?
+    Schweiz 2026
 - eventId: 824235
   start: 2026-11-26T16:55:00Z
   stop: 2026-11-26T17:00:00Z
@@ -695,7 +981,7 @@
 - eventId: 824238
   start: 2026-11-26T17:15:00Z
   stop: 2026-11-26T17:20:00Z
-  title: Meteo
+  title: Tagesschau kompakt
   subtitle: Vorabendausgabe
   genre:
   - '32'
@@ -704,6 +990,19 @@
   hd: true
 - eventId: 824239
   start: 2026-11-26T17:20:00Z
+  stop: 2026-11-26T17:25:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Vorabendausgabe
+- eventId: 960894
+  start: 2026-11-26T17:25:00Z
   stop: 2026-11-26T17:30:00Z
   title: Telesguard
   description: |-
@@ -736,11 +1035,21 @@
   hd: true
 - eventId: 824242
   start: 2026-11-26T17:40:00Z
-  stop: 2026-11-26T17:50:00Z
+  stop: 2026-11-26T17:45:00Z
   title: Telesguard
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
     Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 960895
+  start: 2026-11-26T17:45:00Z
+  stop: 2026-11-26T18:00:00Z
+  title: Meteo
+  subtitle: Vorabendausgabe
   genre:
   - '32'
   widescreen: true
@@ -805,6 +1114,17 @@
   description: |-
     Alle zwei Wochen tötet in der Schweiz ein Mann eine Frau.
     Schweiz 2026
+- eventId: 960913
+  start: 2026-11-26T19:10:00Z
+  stop: 2026-11-26T20:15:00Z
+  title: Club
+  subtitle: Die Überlebenden - vom Partner fast getötet
+  description: |-
+    Alle zwei Wochen tötet in der Schweiz ein Mann eine Frau.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 824268
   start: 2026-11-26T20:15:00Z
   stop: 2026-11-26T20:50:00Z
@@ -828,7 +1148,20 @@
   hd: true
 - eventId: 824270
   start: 2026-11-26T20:55:00Z
-  stop: 2026-11-26T21:05:00Z
+  stop: 2026-11-26T21:00:00Z
+  title: Telesguard
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Abendausgabe
+- eventId: 960917
+  start: 2026-11-26T21:00:00Z
+  stop: 2026-11-26T21:10:00Z
   title: Telesguard
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
@@ -859,8 +1192,22 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 824290
   start: 2026-11-26T21:15:00Z
+  stop: 2026-11-26T21:20:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+- eventId: 960918
+  start: 2026-11-26T21:20:00Z
   stop: 2026-11-26T21:35:00Z
   title: Schweiz aktuell
   genre:
@@ -887,6 +1234,7 @@
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: Abendausgabe
 - eventId: 824293
   start: 2026-11-26T21:45:00Z
   stop: 2026-11-26T21:50:00Z
@@ -899,6 +1247,7 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 824294
   start: 2026-11-26T21:50:00Z
   stop: 2026-11-26T22:15:00Z

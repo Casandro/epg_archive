@@ -302,13 +302,16 @@
   hd: true
 - eventId: 871052
   start: 2026-11-28T04:50:00Z
-  stop: 2026-11-28T04:55:00Z
+  stop: 2026-11-28T05:00:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
+    Schweiz 2026
 - eventId: 871053
   start: 2026-11-28T04:55:00Z
   stop: 2026-11-28T05:05:00Z
@@ -316,6 +319,15 @@
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
     Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 960977
+  start: 2026-11-28T05:00:00Z
+  stop: 2026-11-28T05:20:00Z
+  title: Schweiz aktuell
   genre:
   - '32'
   widescreen: true
@@ -330,6 +342,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 960978
+  start: 2026-11-28T05:20:00Z
+  stop: 2026-11-28T05:30:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 871055
   start: 2026-11-28T05:25:00Z
   stop: 2026-11-28T05:35:00Z
@@ -342,6 +366,15 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 960979
+  start: 2026-11-28T05:30:00Z
+  stop: 2026-11-28T05:50:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 871056
   start: 2026-11-28T05:35:00Z
   stop: 2026-11-28T05:55:00Z
@@ -350,6 +383,18 @@
   - '32'
   widescreen: true
   subtitled: true
+  hd: true
+- eventId: 960980
+  start: 2026-11-28T05:50:00Z
+  stop: 2026-11-28T06:00:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
   hd: true
 - eventId: 871057
   start: 2026-11-28T05:55:00Z
@@ -363,12 +408,34 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 960981
+  start: 2026-11-28T06:00:00Z
+  stop: 2026-11-28T06:20:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 871060
   start: 2026-11-28T06:05:00Z
   stop: 2026-11-28T06:25:00Z
   title: Schweiz aktuell
   genre:
   - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 960982
+  start: 2026-11-28T06:20:00Z
+  stop: 2026-11-28T07:20:00Z
+  title: Sternstunde Religion
+  subtitle: Palästina - Eine Geschichte
+  description: |-
+    Palästina war nie ein Land ohne Volk. Bekannt seit der Antike, umkämpft während der Kreuzzüge, islamisiert durch Saladin, lag es lange an der Peripherie des Osmanischen Reiches, bis es ab Mitte des 19. Jahrhunderts Ziel jüdischer Auswanderer wurde. Klar ist, Palästina heisst für jeden etwas anderes.
+    Frankreich/Belgien 2026
+  genre:
+  - '112'
   widescreen: true
   subtitled: true
   hd: true
@@ -380,6 +447,19 @@
   description: |-
     Palästina war nie ein Land ohne Volk. Bekannt seit der Antike, umkämpft während der Kreuzzüge, islamisiert durch Saladin, lag es lange an der Peripherie des Osmanischen Reiches, bis es ab Mitte des 19. Jahrhunderts Ziel jüdischer Auswanderer wurde. Klar ist, Palästina heisst für jeden etwas anderes.
     Frankreich/Belgien 2026
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 960983
+  start: 2026-11-28T07:20:00Z
+  stop: 2026-11-28T08:20:00Z
+  title: Sternstunde Philosophie
+  subtitle: 'Jugendproteste: Wem gehört die Zukunft?'
+  description: |-
+    Junge Menschen protestieren. Sie fordern bessere Lebensbedingungen und mehr Mitsprache. Was schulden die Generationen einander? Und wie weit darf Protest gehen?
+    Schweiz 2026
   genre:
   - '112'
   widescreen: true
@@ -398,10 +478,28 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 960984
+  start: 2026-11-28T08:20:00Z
+  stop: 2026-11-28T09:30:00Z
+  title: Arena
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 871063
   start: 2026-11-28T08:25:00Z
   stop: 2026-11-28T09:35:00Z
   title: Arena
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 960985
+  start: 2026-11-28T09:30:00Z
+  stop: 2026-11-28T10:10:00Z
+  title: Gredig direkt
+  subtitle: 'Adrian Koerfer: «Ich fühle die Angst heute noch»'
+  description: |-
+    Jahrzehntelang schwieg Adrian Koerfer über die sexuelle Gewalt an der Odenwaldschule. Bei «Gredig direkt» spricht der 71-Jährige über Missbrauch, Scham und Wut.
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -577,6 +675,8 @@
   widescreen: true
   subtitled: true
   hd: true
+  genre:
+  - '164'
 - eventId: 884511
   start: 2026-11-28T21:45:00Z
   stop: 2026-11-28T22:10:00Z
@@ -643,7 +743,7 @@
   hd: true
 - eventId: 884517
   start: 2026-11-28T23:25:00Z
-  stop: 2026-11-28T23:55:00Z
+  stop: 2026-11-29T00:05:00Z
   title: Gredig direkt
   widescreen: true
   subtitled: true

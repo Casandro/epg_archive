@@ -1,7 +1,7 @@
 - eventId: 884544
   start: 2026-11-29T00:05:00Z
-  stop: 2026-11-29T00:10:00Z
-  title: Meteo
+  stop: 2026-11-29T00:15:00Z
+  title: Tagesschau
   subtitle: Spätausgabe
   genre:
   - '32'
@@ -10,6 +10,28 @@
 - eventId: 884545
   start: 2026-11-29T00:10:00Z
   stop: 2026-11-29T00:45:00Z
+  title: Super League - Highlights
+  subtitle: Alle Spiele, alle Tore
+  description: |-
+    Das Magazin bietet den Komplettservice zur höchsten Schweizer Fussballliga mit den Matchberichten zur aktuellen Runde. Dazu: ausgewählte Highlights aus der Women's Super League, der Challenge League und von Schweizer Akteuren in ausländischen Ligen.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 960986
+  start: 2026-11-29T00:15:00Z
+  stop: 2026-11-29T00:20:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 960987
+  start: 2026-11-29T00:20:00Z
+  stop: 2026-11-29T00:55:00Z
   title: Super League - Highlights
   subtitle: Alle Spiele, alle Tore
   description: |-
@@ -32,6 +54,18 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 960988
+  start: 2026-11-29T00:55:00Z
+  stop: 2026-11-29T01:10:00Z
+  title: Sportheute
+  subtitle: Der Sport des Tages
+  description: |-
+    Grosse Erfolge, starke Emotionen und packende Bilder - «Sportheute» offeriert die wichtigsten News aus dem nationalen und internationalen Sport. An Spieltagen der National League steht das Schweizer Eishockey im Fokus.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 884547
   start: 2026-11-29T01:00:00Z
   stop: 2026-11-29T01:10:00Z
@@ -43,8 +77,8 @@
   hd: true
 - eventId: 884548
   start: 2026-11-29T01:10:00Z
-  stop: 2026-11-29T01:15:00Z
-  title: Meteo
+  stop: 2026-11-29T01:20:00Z
+  title: Tagesschau
   subtitle: Spätausgabe
   genre:
   - '32'
@@ -55,6 +89,26 @@
   stop: 2026-11-29T02:00:00Z
   title: Rundschau
   subtitle: Spezialsendung zum Thema Atom
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 960989
+  start: 2026-11-29T01:20:00Z
+  stop: 2026-11-29T01:25:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 960990
+  start: 2026-11-29T01:25:00Z
+  stop: 2026-11-29T02:10:00Z
+  title: Rundschau
+  subtitle: 'Atomkraft: Ja gerne oder nein danke?'
+  description: |-
+    Die Schweiz braucht mehr Strom, doch woher dieser kommen soll, ist umstritten. Kommt es zu einem Comeback der Atomkraft?
+    Schweiz 2026
   widescreen: true
   subtitled: true
   hd: true
@@ -69,8 +123,8 @@
   hd: true
 - eventId: 884551
   start: 2026-11-29T02:10:00Z
-  stop: 2026-11-29T02:15:00Z
-  title: Meteo
+  stop: 2026-11-29T02:20:00Z
+  title: Tagesschau
   subtitle: Spätausgabe
   genre:
   - '32'
@@ -79,6 +133,28 @@
 - eventId: 884552
   start: 2026-11-29T02:15:00Z
   stop: 2026-11-29T02:50:00Z
+  title: Super League - Highlights
+  subtitle: Alle Spiele, alle Tore
+  description: |-
+    Das Magazin bietet den Komplettservice zur höchsten Schweizer Fussballliga mit den Matchberichten zur aktuellen Runde. Dazu: ausgewählte Highlights aus der Women's Super League, der Challenge League und von Schweizer Akteuren in ausländischen Ligen.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 960991
+  start: 2026-11-29T02:20:00Z
+  stop: 2026-11-29T02:25:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 960992
+  start: 2026-11-29T02:25:00Z
+  stop: 2026-11-29T03:00:00Z
   title: Super League - Highlights
   subtitle: Alle Spiele, alle Tore
   description: |-
@@ -101,6 +177,18 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 960993
+  start: 2026-11-29T03:00:00Z
+  stop: 2026-11-29T03:20:00Z
+  title: Sportheute
+  subtitle: Der Sport des Tages
+  description: |-
+    Grosse Erfolge, starke Emotionen und packende Bilder - «Sportheute» offeriert die wichtigsten News aus dem nationalen und internationalen Sport. An Spieltagen der National League steht das Schweizer Eishockey im Fokus.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 884525
   start: 2026-11-29T03:10:00Z
   stop: 2026-11-29T03:40:00Z
@@ -112,6 +200,17 @@
   description: |-
     Gauner nutzen Inserate-Plattformen, um an unser Bankkonto zu kommen. «Kassensturz» zeigt ihre Maschen, konfrontiert den Tutti- und Ricardo-Chef mit Kritik der Opfer.
     Schweiz 2026
+- eventId: 960994
+  start: 2026-11-29T03:20:00Z
+  stop: 2026-11-29T03:50:00Z
+  title: Kassensturz
+  subtitle: 'Online-Betrug: Die perfiden Tricks der Gauner'
+  description: |-
+    Gauner nutzen Inserate-Plattformen, um an unser Bankkonto zu kommen. «Kassensturz» zeigt ihre Maschen, konfrontiert den Tutti- und Ricardo-Chef mit Kritik der Opfer.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 896438
   start: 2026-11-29T03:40:00Z
   stop: 2026-11-29T03:50:00Z
@@ -123,8 +222,8 @@
   hd: true
 - eventId: 896439
   start: 2026-11-29T03:50:00Z
-  stop: 2026-11-29T03:55:00Z
-  title: Meteo
+  stop: 2026-11-29T04:00:00Z
+  title: Tagesschau
   subtitle: Spätausgabe
   genre:
   - '32'
@@ -133,6 +232,28 @@
 - eventId: 896440
   start: 2026-11-29T03:55:00Z
   stop: 2026-11-29T04:30:00Z
+  title: Super League - Highlights
+  subtitle: Alle Spiele, alle Tore
+  description: |-
+    Das Magazin bietet den Komplettservice zur höchsten Schweizer Fussballliga mit den Matchberichten zur aktuellen Runde. Dazu: ausgewählte Highlights aus der Women's Super League, der Challenge League und von Schweizer Akteuren in ausländischen Ligen.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 960995
+  start: 2026-11-29T04:00:00Z
+  stop: 2026-11-29T04:05:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+- eventId: 960996
+  start: 2026-11-29T04:05:00Z
+  stop: 2026-11-29T04:40:00Z
   title: Super League - Highlights
   subtitle: Alle Spiele, alle Tore
   description: |-
@@ -155,10 +276,30 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 960997
+  start: 2026-11-29T04:40:00Z
+  stop: 2026-11-29T05:50:00Z
+  title: Arena
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 896442
   start: 2026-11-29T04:45:00Z
   stop: 2026-11-29T05:55:00Z
   title: Arena
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 960998
+  start: 2026-11-29T05:50:00Z
+  stop: 2026-11-29T06:25:00Z
+  title: Super League - Highlights
+  subtitle: Alle Spiele, alle Tore
+  description: |-
+    Das Magazin bietet den Komplettservice zur höchsten Schweizer Fussballliga mit den Matchberichten zur aktuellen Runde. Dazu: ausgewählte Highlights aus der Women's Super League, der Challenge League und von Schweizer Akteuren in ausländischen Ligen.
+    Schweiz 2026
+  genre:
+  - '64'
   widescreen: true
   subtitled: true
   hd: true
@@ -175,6 +316,18 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 960999
+  start: 2026-11-29T06:25:00Z
+  stop: 2026-11-29T06:45:00Z
+  title: Sportheute
+  subtitle: Der Sport des Tages
+  description: |-
+    Grosse Erfolge, starke Emotionen und packende Bilder - «Sportheute» offeriert die wichtigsten News aus dem nationalen und internationalen Sport. An Spieltagen der National League steht das Schweizer Eishockey im Fokus.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 896448
   start: 2026-11-29T06:30:00Z
   stop: 2026-11-29T06:50:00Z
@@ -186,6 +339,17 @@
   genre:
   - '64'
   widescreen: true
+  hd: true
+- eventId: 961000
+  start: 2026-11-29T06:45:00Z
+  stop: 2026-11-29T07:20:00Z
+  title: Gredig direkt
+  subtitle: 'Adrian Koerfer: «Ich fühle die Angst heute noch»'
+  description: |-
+    Jahrzehntelang schwieg Adrian Koerfer über die sexuelle Gewalt an der Odenwaldschule. Bei «Gredig direkt» spricht der 71-Jährige über Missbrauch, Scham und Wut.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
   hd: true
 - eventId: 896449
   start: 2026-11-29T06:50:00Z
@@ -231,6 +395,10 @@
   widescreen: true
   subtitled: true
   hd: true
+  subtitle: 'Atomkraft: Ja gerne oder nein danke?'
+  description: |-
+    Die Schweiz braucht mehr Strom, doch woher dieser kommen soll, ist umstritten. Kommt es zu einem Comeback der Atomkraft?
+    Schweiz 2026
 - eventId: 896453
   start: 2026-11-29T08:45:00Z
   stop: 2026-11-29T09:20:00Z
@@ -253,6 +421,8 @@
   widescreen: true
   subtitled: true
   hd: true
+  genre:
+  - '164'
 - eventId: 896458
   start: 2026-11-29T09:55:00Z
   stop: 2026-11-29T10:25:00Z
@@ -298,6 +468,8 @@
   widescreen: true
   subtitled: true
   hd: true
+  genre:
+  - '164'
 - eventId: 896463
   start: 2026-11-29T12:05:00Z
   stop: 2026-11-29T13:00:00Z
@@ -322,10 +494,13 @@
   start: 2026-11-29T13:55:00Z
   stop: 2026-11-29T14:45:00Z
   title: Rundschau
-  subtitle: Spezialsendung zum Thema Atom
+  subtitle: 'Atomkraft: Ja gerne oder nein danke?'
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Die Schweiz braucht mehr Strom, doch woher dieser kommen soll, ist umstritten. Kommt es zu einem Comeback der Atomkraft?
+    Schweiz 2026
 - eventId: 896466
   start: 2026-11-29T14:45:00Z
   stop: 2026-11-29T15:20:00Z
@@ -479,15 +654,31 @@
 - eventId: 925491
   start: 2026-11-29T21:10:00Z
   stop: 2026-11-29T21:15:00Z
-  title: Meteo
-  subtitle: Abendausgabe
+  title: mitenand
+  subtitle: Sport für Menschen in sozialer oder psychischer Notlage
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Der Verein Sport'ouverte hilft Menschen in sozialen oder psychischen Notlagen sowie Menschen mit Suchterkrankungen dabei, aktiv zu werden und zu sich selbst zu finden. Von Fitness bis zum Skifahren - die Aktivitäten setzen auf soziale Verbundenheit. Ein Bericht von Céline Thurre-Millius.
+    Schweiz 2026
 - eventId: 925492
   start: 2026-11-29T21:15:00Z
+  stop: 2026-11-29T21:20:00Z
+  title: GESUNDHEITHEUTE - Die Gesundheitssendung mit Dr. Jeanne Fürst
+  subtitle: Frührehabilitation nach schweren Unfällen
+  description: |-
+    Plötzlich ist nichts mehr wie zuvor: Eine leidenschaftliche Mountainbikerin und ein Töff-Fahrer erleiden bei Unfällen schwerste Verletzungen. Mit intensiver Rehabilitation und viel Durchhaltewillen finden sie zurück in den Alltag. Zudem Tipps gegen eine trockene Nase und brennende Augen im Winter.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+  genre:
+  - '32'
+- eventId: 961002
+  start: 2026-11-29T21:20:00Z
   stop: 2026-11-29T21:40:00Z
   title: GESUNDHEITHEUTE - Die Gesundheitssendung mit Dr. Jeanne Fürst
   subtitle: Frührehabilitation nach schweren Unfällen
@@ -535,7 +726,20 @@
   hd: true
 - eventId: 925493
   start: 2026-11-29T21:45:00Z
-  stop: 2026-11-29T21:55:00Z
+  stop: 2026-11-29T21:50:00Z
+  title: Sportflash
+  subtitle: Sport für Menschen in sozialer oder psychischer Notlage
+  description: |-
+    Der Verein Sport'ouverte hilft Menschen in sozialen oder psychischen Notlagen sowie Menschen mit Suchterkrankungen dabei, aktiv zu werden und zu sich selbst zu finden. Von Fitness bis zum Skifahren - die Aktivitäten setzen auf soziale Verbundenheit. Ein Bericht von Céline Thurre-Millius.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
+- eventId: 961003
+  start: 2026-11-29T21:50:00Z
+  stop: 2026-11-29T22:00:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -547,6 +751,19 @@
   hd: true
 - eventId: 925494
   start: 2026-11-29T21:55:00Z
+  stop: 2026-11-29T22:45:00Z
+  title: Super League - Highlights
+  subtitle: Alle Spiele, alle Tore
+  description: |-
+    Das Magazin bietet den Komplettservice zur höchsten Schweizer Fussballliga mit den Matchberichten zur aktuellen Runde. Dazu: ausgewählte Highlights aus der Women's Super League, der Challenge League und von Schweizer Akteuren in ausländischen Ligen.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 961004
+  start: 2026-11-29T22:00:00Z
   stop: 2026-11-29T22:45:00Z
   title: Super League - Highlights
   subtitle: Alle Spiele, alle Tore
@@ -610,6 +827,15 @@
   - '32'
   widescreen: true
   hd: true
+- eventId: 961005
+  start: 2026-11-29T22:50:00Z
+  stop: 2026-11-29T23:00:00Z
+  title: Tagesschau
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
 - eventId: 912488
   start: 2026-11-29T22:55:00Z
   stop: 2026-11-29T23:00:00Z
@@ -621,7 +847,7 @@
   hd: true
 - eventId: 925496
   start: 2026-11-29T23:00:00Z
-  stop: 2026-11-29T23:10:00Z
+  stop: 2026-11-29T23:05:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -640,6 +866,18 @@
   - '32'
   widescreen: true
   hd: true
+- eventId: 961006
+  start: 2026-11-29T23:05:00Z
+  stop: 2026-11-29T23:15:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 912490
   start: 2026-11-29T23:10:00Z
   stop: 2026-11-29T23:55:00Z
@@ -653,6 +891,19 @@
   widescreen: true
   hd: true
   subtitled: true
+- eventId: 961007
+  start: 2026-11-29T23:15:00Z
+  stop: 2026-11-30T00:00:00Z
+  title: Super League - Highlights
+  subtitle: Alle Spiele, alle Tore
+  description: |-
+    Das Magazin bietet den Komplettservice zur höchsten Schweizer Fussballliga mit den Matchberichten zur aktuellen Runde. Dazu: ausgewählte Highlights aus der Women's Super League, der Challenge League und von Schweizer Akteuren in ausländischen Ligen.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 912496
   start: 2026-11-29T23:20:00Z
   stop: 2026-11-29T23:45:00Z
