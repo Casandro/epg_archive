@@ -12,6 +12,7 @@
 - eventId:
   - 799415
   - 953293
+  - 966445
   start: 2026-11-26T00:15:00Z
   stop: 2026-11-26T01:00:00Z
   title: China 24
@@ -37,24 +38,20 @@
   subtitle: From the visual angle of a traveler to show the beauty of China and the world
 - eventId:
   - 799417
+  - 821262
   - 953294
+  - 962787
   start: 2026-11-26T01:30:00Z
   stop: 2026-11-26T02:00:00Z
   title: News Desk
   genre:
   - '32'
-- eventId:
-  - 821262
-  - 962787
-  start: 2026-11-26T01:30:00Z
-  stop: 2026-11-26T02:00:00Z
-  title: China 24
   subtitle: Informativni
   description: China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.
   widescreen: true
 - eventId: 799418
   start: 2026-11-26T02:00:00Z
-  stop: 2026-11-26T02:30:00Z
+  stop: 2026-11-26T03:00:00Z
   title: Global Business by CCTV America
   genre:
   - '32'
@@ -94,6 +91,8 @@
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   widescreen: true
+  genre:
+  - '32'
 - eventId:
   - 821270
   - 917060
@@ -159,6 +158,8 @@
   subtitle: Dokumentarni
   description: Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.
   widescreen: true
+  genre:
+  - '32'
 - eventId:
   - 798507
   - 953314
@@ -176,6 +177,8 @@
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   widescreen: true
+  genre:
+  - '32'
 - eventId:
   - 917070
   - 955783
@@ -194,7 +197,7 @@
   widescreen: true
 - eventId: 798508
   start: 2026-11-26T07:00:00Z
-  stop: 2026-11-26T07:30:00Z
+  stop: 2026-11-26T08:00:00Z
   title: Global Business by CCTV America
   genre:
   - '32'
@@ -267,24 +270,20 @@
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
 - eventId:
   - 798538
+  - 821293
   - 953320
+  - 957766
   start: 2026-11-26T09:30:00Z
   stop: 2026-11-26T10:00:00Z
   title: Sports Scene
   genre:
   - '32'
-- eventId:
-  - 821293
-  - 957766
-  start: 2026-11-26T09:30:00Z
-  stop: 2026-11-26T10:00:00Z
-  title: The Vibe
   subtitle: Dokumentarni
   description: The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.
   widescreen: true
 - eventId: 798539
   start: 2026-11-26T10:00:00Z
-  stop: 2026-11-26T10:15:00Z
+  stop: 2026-11-26T11:00:00Z
   title: Global Business
   genre:
   - '32'
@@ -406,6 +405,7 @@
 - eventId:
   - 798562
   - 953325
+  - 966235
   start: 2026-11-26T14:15:00Z
   stop: 2026-11-26T15:00:00Z
   title: China 24
@@ -444,9 +444,12 @@
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   widescreen: true
+  genre:
+  - '32'
 - eventId:
   - 798583
   - 953333
+  - 966243
   start: 2026-11-26T15:15:00Z
   stop: 2026-11-26T16:00:00Z
   title: Global Business
@@ -469,7 +472,7 @@
   widescreen: true
 - eventId: 798584
   start: 2026-11-26T16:00:00Z
-  stop: 2026-11-26T17:00:00Z
+  stop: 2026-11-26T16:15:00Z
   title: Global Business
   genre:
   - '32'
@@ -479,6 +482,7 @@
 - eventId:
   - 798585
   - 953334
+  - 966244
   start: 2026-11-26T16:15:00Z
   stop: 2026-11-26T17:00:00Z
   title: World Insight
@@ -508,7 +512,11 @@
   subtitle: Informativni
   description: Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.
   widescreen: true
-- eventId: 798587
+  genre:
+  - '32'
+- eventId:
+  - 798587
+  - 966245
   start: 2026-11-26T17:30:00Z
   stop: 2026-11-26T18:00:00Z
   title: Culture Express
@@ -517,7 +525,7 @@
   subtitle: Around China leads viewers into a fabulous world where they may have a full taste of the excellent personality of the Chinese nation and obtain an intimate understanding of its changes and evolution both in recent time and in future.
 - eventId: 798611
   start: 2026-11-26T18:00:00Z
-  stop: 2026-11-26T19:00:00Z
+  stop: 2026-11-26T18:30:00Z
   title: Memory of China
   genre:
   - '32'
@@ -537,6 +545,12 @@
   genre:
   - '32'
   subtitle: Across the Strait
+- eventId: 966251
+  start: 2026-11-26T18:30:00Z
+  stop: 2026-11-26T19:00:00Z
+  title: The Heat
+  genre:
+  - '32'
 - eventId:
   - 798613
   - 821323
@@ -586,7 +600,7 @@
   widescreen: true
 - eventId: 798645
   start: 2026-11-26T21:00:00Z
-  stop: 2026-11-26T21:45:00Z
+  stop: 2026-11-26T21:15:00Z
   title: On the Way
   genre:
   - '32'
@@ -600,6 +614,7 @@
 - eventId:
   - 798646
   - 953371
+  - 966261
   start: 2026-11-26T21:15:00Z
   stop: 2026-11-26T22:00:00Z
   title: China 24
@@ -628,6 +643,7 @@
 - eventId:
   - 798647
   - 953372
+  - 966262
   start: 2026-11-26T22:00:00Z
   stop: 2026-11-26T22:30:00Z
   title: News Desk
