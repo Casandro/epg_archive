@@ -83,7 +83,9 @@
   stop: 2026-11-28T07:30:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
-- eventId: 901098
+- eventId:
+  - 901098
+  - 953219
   start: 2026-11-28T06:40:00Z
   stop: 2026-11-28T07:45:00Z
   title: HOROSKOPY
@@ -104,7 +106,9 @@
   stop: 2026-11-28T08:00:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
-- eventId: 901099
+- eventId:
+  - 901099
+  - 953220
   start: 2026-11-28T07:45:00Z
   stop: 2026-11-28T08:00:00Z
   title: HOROSKOPY
@@ -127,8 +131,10 @@
   - '149'
 - eventId: 936387
   start: 2026-11-28T08:00:00Z
-  stop: 2026-11-28T12:00:00Z
+  stop: 2026-11-28T13:00:00Z
   title: Т/с "Маруся. Возвращение", 49-52 с.
+  genre:
+  - '149'
 - eventId: 853014
   start: 2026-11-28T09:40:00Z
   stop: 2026-11-28T10:00:00Z
@@ -156,7 +162,9 @@
   start: 2026-11-28T12:00:00Z
   stop: 2026-11-28T17:00:00Z
   title: Т/с "В чём вина Фатмагюль?".
-- eventId: 901152
+- eventId:
+  - 901152
+  - 953244
   start: 2026-11-28T13:00:00Z
   stop: 2026-11-28T14:45:00Z
   title: Médium
@@ -178,14 +186,18 @@
   ageRating: 12
   genre:
   - '32'
-- eventId: 901153
+- eventId:
+  - 901153
+  - 953245
   start: 2026-11-28T14:45:00Z
   stop: 2026-11-28T15:00:00Z
   title: HOROSKOPY
   subtitle: 05.10.2026 - 11.10.2026
   genre:
   - '149'
-- eventId: 901183
+- eventId:
+  - 901183
+  - 953254
   start: 2026-11-28T15:00:00Z
   stop: 2026-11-28T19:00:00Z
   title: Médium
@@ -219,7 +231,7 @@
   title: Amprente.
 - eventId: 901240
   start: 2026-11-28T19:00:00Z
-  stop: 2026-11-28T20:00:00Z
+  stop: 2026-11-28T20:45:00Z
   title: Ezoterická poradňa s Renátou
   genre:
   - '149'
@@ -234,7 +246,9 @@
   ageRating: 12
   genre:
   - '147'
-- eventId: 901241
+- eventId:
+  - 901241
+  - 953267
   start: 2026-11-28T20:45:00Z
   stop: 2026-11-28T21:00:00Z
   title: HOROSKOPY
@@ -251,7 +265,7 @@
   - '32'
 - eventId: 901298
   start: 2026-11-28T21:00:00Z
-  stop: 2026-11-28T22:00:00Z
+  stop: 2026-11-28T23:00:00Z
   title: Ezoterická poradňa s Renátou
   genre:
   - '149'
@@ -266,7 +280,7 @@
   ageRating: 12
 - eventId: 901299
   start: 2026-11-28T23:00:00Z
-  stop: 2026-11-29T00:20:00Z
+  stop: 2026-11-29T04:30:00Z
   title: Nočné vysielanie pre pánov, X,H,18+
   genre:
   - '160'

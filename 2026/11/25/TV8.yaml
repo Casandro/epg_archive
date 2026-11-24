@@ -47,8 +47,8 @@
   ageRating: 12
   genre:
   - '32'
-  description: ' (2026)'
-  subtitle: Horoskopy
+  description: Týždenné horoskopy s Petrom.
+  subtitle: 05.10.2026 - 11.10.2026
 - eventId: 799214
   start: 2026-11-25T04:30:00Z
   stop: 2026-11-25T04:45:00Z
@@ -124,8 +124,8 @@
   ageRating: 12
   genre:
   - '32'
-  description: ' (2026)'
-  subtitle: Horoskopy
+  description: Týždenné horoskopy s Petrom.
+  subtitle: 05.10.2026 - 11.10.2026
 - eventId: 799247
   start: 2026-11-25T07:45:00Z
   stop: 2026-11-25T08:00:00Z
@@ -154,10 +154,13 @@
   description: Rýchle riešenie vašich problémov prostredníctvom telefonického veštenia v priamom prenose.
 - eventId: 935910
   start: 2026-11-25T08:00:00Z
-  stop: 2026-11-25T09:40:00Z
+  stop: 2026-11-25T13:00:00Z
   title: Iubeste Viata Confesiuni.
   subtitle: Energetické liečenie
   ageRating: 12
+  description: Rýchle riešenie vašich problémov prostredníctvom telefonického veštenia v priamom prenose.
+  genre:
+  - '149'
 - eventId: 935013
   start: 2026-11-25T09:00:00Z
   stop: 2026-11-25T10:00:00Z
@@ -252,6 +255,7 @@
 - eventId:
   - 799299
   - 900918
+  - 953276
   start: 2026-11-25T14:45:00Z
   stop: 2026-11-25T15:00:00Z
   title: HOROSKOPY
@@ -262,6 +266,7 @@
 - eventId:
   - 799324
   - 900931
+  - 953289
   start: 2026-11-25T15:00:00Z
   stop: 2026-11-25T19:00:00Z
   title: Médium
@@ -331,24 +336,16 @@
   description: ' (2026)'
 - eventId:
   - 760994
+  - 799362
   - 937736
   start: 2026-11-25T19:00:00Z
   stop: 2026-11-25T23:00:00Z
-  title: Médium
+  title: Ezoterická poradňa s Renátou
   subtitle: 'Relácia zameraná na spojenie sa s iným svetom. Médium je spojovník medzi týmto svetom a svetom za jeho hranicami. Médium má schopnosť napojiť sa do duchovného sveta a prijímať a odovzdávať správy. '
   ageRating: 12
   genre:
   - '32'
   description: Relácia zameraná na spojenie sa s iným svetom. Médium je spojovník medzi týmto svetom a svetom za jeho hranicami. Médium má schopnosť napojiť sa do duchovného sveta a prijímať a odovzdávať správy.  (2026)
-- eventId: 799362
-  start: 2026-11-25T19:00:00Z
-  stop: 2026-11-25T23:00:00Z
-  title: Ezoterická poradňa s Renátou
-  genre:
-  - '149'
-  subtitle: 'Relácia zameraná na spojenie sa s iným svetom. Médium je spojovník medzi týmto svetom a svetom za jeho hranicami. Médium má schopnosť napojiť sa do duchovného sveta a prijímať a odovzdávať správy. '
-  ageRating: 12
-  description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
 - eventId: 936429
   start: 2026-11-25T19:20:00Z
   stop: 2026-11-25T19:30:00Z
@@ -365,6 +362,7 @@
 - eventId:
   - 799363
   - 900937
+  - 953300
   start: 2026-11-25T20:45:00Z
   stop: 2026-11-25T21:00:00Z
   title: HOROSKOPY
@@ -375,6 +373,7 @@
 - eventId:
   - 799396
   - 900941
+  - 953310
   start: 2026-11-25T21:00:00Z
   stop: 2026-11-25T23:00:00Z
   title: Ezoterická poradňa s Renátou
@@ -394,7 +393,7 @@
   description: ' (2026)'
 - eventId: 799397
   start: 2026-11-25T23:00:00Z
-  stop: 2026-11-25T23:20:00Z
+  stop: 2026-11-26T04:30:00Z
   title: Nočné vysielanie pre pánov, X,H,18+
   genre:
   - '160'

@@ -183,6 +183,12 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 953224
+  start: 2026-11-25T06:00:00Z
+  stop: 2026-11-25T07:00:00Z
+  title: News Hour
+  genre:
+  - '32'
 - eventId:
   - 881657
   - 917272
@@ -209,7 +215,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 799227
   start: 2026-11-25T07:00:00Z
-  stop: 2026-11-25T07:30:00Z
+  stop: 2026-11-25T08:00:00Z
   title: Global Business by CCTV America
   genre:
   - '32'
@@ -287,6 +293,7 @@
 - eventId:
   - 799256
   - 901531
+  - 953237
   start: 2026-11-25T09:30:00Z
   stop: 2026-11-25T10:00:00Z
   title: Sports Scene
@@ -302,7 +309,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 799257
   start: 2026-11-25T10:00:00Z
-  stop: 2026-11-25T10:30:00Z
+  stop: 2026-11-25T11:00:00Z
   title: Global Business
   genre:
   - '32'
@@ -426,6 +433,7 @@
 - eventId:
   - 799284
   - 900897
+  - 953247
   start: 2026-11-25T14:15:00Z
   stop: 2026-11-25T15:00:00Z
   title: China 24
@@ -466,9 +474,16 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 953257
+  start: 2026-11-25T15:00:00Z
+  stop: 2026-11-25T15:15:00Z
+  title: News Desk
+  genre:
+  - '32'
 - eventId:
   - 799310
   - 900906
+  - 953258
   start: 2026-11-25T15:15:00Z
   stop: 2026-11-25T16:00:00Z
   title: Global Business
@@ -491,7 +506,7 @@
   widescreen: true
 - eventId: 799311
   start: 2026-11-25T16:00:00Z
-  stop: 2026-11-25T16:45:00Z
+  stop: 2026-11-25T16:15:00Z
   title: Global Business
   genre:
   - '32'
@@ -501,6 +516,7 @@
 - eventId:
   - 799312
   - 900907
+  - 953259
   start: 2026-11-25T16:15:00Z
   stop: 2026-11-25T17:00:00Z
   title: World Insight
@@ -531,21 +547,23 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 799314
-  start: 2026-11-25T17:30:00Z
-  stop: 2026-11-25T18:00:00Z
-  title: Culture Express
+- eventId: 953260
+  start: 2026-11-25T17:00:00Z
+  stop: 2026-11-25T17:30:00Z
+  title: News Desk
   genre:
   - '32'
-  subtitle: Around China leads viewers into a fabulous world where they may have a full taste of the excellent personality of the Chinese nation and obtain an intimate understanding of its changes and evolution both in recent time and in future.
 - eventId:
+  - 799314
   - 917033
   - 921182
   - 933322
   - 937658
   start: 2026-11-25T17:30:00Z
   stop: 2026-11-25T18:00:00Z
-  title: Around China
+  title: Culture Express
+  genre:
+  - '32'
   subtitle: Around China leads viewers into a fabulous world where they may have a full taste of the excellent personality of the Chinese nation and obtain an intimate understanding of its changes and evolution both in recent time and in future.
 - eventId: 789819
   start: 2026-11-25T18:00:00Z
@@ -633,7 +651,7 @@
   description: Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.
 - eventId: 799382
   start: 2026-11-25T21:00:00Z
-  stop: 2026-11-25T21:45:00Z
+  stop: 2026-11-25T21:15:00Z
   title: On the Way
   genre:
   - '32'
@@ -641,6 +659,7 @@
 - eventId:
   - 799383
   - 900924
+  - 953282
   start: 2026-11-25T21:15:00Z
   stop: 2026-11-25T22:00:00Z
   title: China 24
@@ -675,6 +694,7 @@
 - eventId:
   - 799384
   - 900925
+  - 953283
   start: 2026-11-25T22:00:00Z
   stop: 2026-11-25T22:30:00Z
   title: News Desk

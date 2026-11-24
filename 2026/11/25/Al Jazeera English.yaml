@@ -130,7 +130,9 @@
   - '32'
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
   description: Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.
-- eventId: 799234
+- eventId:
+  - 799234
+  - 953227
   start: 2026-11-25T06:00:00Z
   stop: 2026-11-25T06:30:00Z
   title: News Live
@@ -146,6 +148,13 @@
   - '32'
   subtitle: Current Affairs Series Examining U.s. Politics And Society, Moderated By Steve Clemons.
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
+- eventId: 953228
+  start: 2026-11-25T06:30:00Z
+  stop: 2026-11-25T07:00:00Z
+  title: Inside Story
+  description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
+  genre:
+  - '32'
 - eventId: 799236
   start: 2026-11-25T07:00:00Z
   stop: 2026-11-25T08:00:00Z
@@ -154,9 +163,17 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
+- eventId: 953229
+  start: 2026-11-25T07:00:00Z
+  stop: 2026-11-25T07:30:00Z
+  title: News Live
+  description: Up-to-date news and analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 799237
   - 901529
+  - 953230
   start: 2026-11-25T07:30:00Z
   stop: 2026-11-25T08:00:00Z
   title: The Bottom Line
@@ -171,6 +188,13 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
+- eventId: 953231
+  start: 2026-11-25T08:00:00Z
+  stop: 2026-11-25T09:00:00Z
+  title: Newshour
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 881661
   - 917275
@@ -178,7 +202,9 @@
   stop: 2026-11-25T09:00:00Z
   title: The Listening Post
   subtitle: The Cockroach Janta Party is challenging India's political and media establishment. What's fuelling its rise and what does it reveal about journalism's future?
-- eventId: 799264
+- eventId:
+  - 799264
+  - 953239
   start: 2026-11-25T09:00:00Z
   stop: 2026-11-25T09:30:00Z
   title: News Live
@@ -186,7 +212,9 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
-- eventId: 799265
+- eventId:
+  - 799265
+  - 953240
   start: 2026-11-25T09:30:00Z
   stop: 2026-11-25T10:00:00Z
   title: The Listening Post
@@ -202,9 +230,17 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
+- eventId: 953241
+  start: 2026-11-25T10:00:00Z
+  stop: 2026-11-25T10:30:00Z
+  title: News Live
+  description: Up-to-date news and analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 799267
   - 901533
+  - 953242
   start: 2026-11-25T10:30:00Z
   stop: 2026-11-25T11:00:00Z
   title: Business of War
@@ -220,6 +256,13 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
+- eventId: 953243
+  start: 2026-11-25T11:00:00Z
+  stop: 2026-11-25T12:00:00Z
+  title: Newshour
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 881765
   - 917283
@@ -235,9 +278,17 @@
   - '32'
   subtitle: War hero turned nationalist, Mahmoud Harbi defied colonial rule to fight for independence in today's Djibouti, until his death in a mysterious 1960 plane crash.
   description: Up-to-date news and analysis from around the world.
+- eventId: 953250
+  start: 2026-11-25T12:00:00Z
+  stop: 2026-11-25T12:30:00Z
+  title: News Live
+  description: Up-to-date news and analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 799291
   - 900900
+  - 953251
   start: 2026-11-25T12:30:00Z
   stop: 2026-11-25T13:00:00Z
   title: Inside Story
@@ -252,6 +303,14 @@
   genre:
   - '32'
   description: Al Jazeera's journalists risk everything to cover the start of Israel's war on Gaza led by bureau chief Wael al Dahdouh, even when he loses his closest family.
+- eventId: 953252
+  start: 2026-11-25T13:00:00Z
+  stop: 2026-11-25T14:00:00Z
+  title: Al Jazeera World
+  subtitle: The Price of Truth P1
+  description: Al Jazeera's journalists risk everything to cover the start of Israel's war on Gaza led by bureau chief Wael al Dahdouh, even when he loses his closest family.
+  genre:
+  - '32'
 - eventId: 799293
   start: 2026-11-25T14:00:00Z
   stop: 2026-11-25T14:30:00Z
@@ -260,6 +319,13 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
+- eventId: 953253
+  start: 2026-11-25T14:00:00Z
+  stop: 2026-11-25T15:00:00Z
+  title: Newshour
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 881679
   - 917027
@@ -275,9 +341,17 @@
   - '32'
   subtitle: A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.
   description: Up-to-date news and analysis from around the world.
+- eventId: 953262
+  start: 2026-11-25T15:00:00Z
+  stop: 2026-11-25T15:30:00Z
+  title: News Live
+  description: Up-to-date news and analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 799320
   - 900910
+  - 953263
   start: 2026-11-25T15:30:00Z
   stop: 2026-11-25T16:00:00Z
   title: Talk to Al Jazeera
@@ -293,6 +367,13 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
+- eventId: 953264
+  start: 2026-11-25T16:00:00Z
+  stop: 2026-11-25T17:00:00Z
+  title: Newshour
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 881686
   - 917036
@@ -308,7 +389,16 @@
   - '32'
   subtitle: A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.
   description: Up-to-date news and analysis from around the world.
-- eventId: 799323
+- eventId: 953265
+  start: 2026-11-25T17:00:00Z
+  stop: 2026-11-25T17:30:00Z
+  title: News Live
+  description: Up-to-date news and analysis from around the world.
+  genre:
+  - '32'
+- eventId:
+  - 799323
+  - 953266
   start: 2026-11-25T17:30:00Z
   stop: 2026-11-25T18:00:00Z
   title: The Big Picture
@@ -324,9 +414,17 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
+- eventId: 953271
+  start: 2026-11-25T18:00:00Z
+  stop: 2026-11-25T18:30:00Z
+  title: News Live
+  description: Up-to-date news and analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 799358
   - 900916
+  - 953272
   start: 2026-11-25T18:30:00Z
   stop: 2026-11-25T19:00:00Z
   title: Inside Story
@@ -341,6 +439,13 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
+- eventId: 953273
+  start: 2026-11-25T19:00:00Z
+  stop: 2026-11-25T20:00:00Z
+  title: Newshour
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 881691
   - 917042
@@ -356,9 +461,17 @@
   - '32'
   subtitle: Human rights activist Fatna El Bouih brings cinema to young prisoners while confronting her own disappearance and torture in 1970s Morocco.
   description: Up-to-date news and analysis from around the world.
+- eventId: 953274
+  start: 2026-11-25T20:00:00Z
+  stop: 2026-11-25T20:30:00Z
+  title: News Live
+  description: Up-to-date news and analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 799361
   - 900917
+  - 953275
   start: 2026-11-25T20:30:00Z
   stop: 2026-11-25T21:00:00Z
   title: The Listening Post
@@ -373,6 +486,14 @@
   genre:
   - '32'
   description: When Israel orders a total evacuation of Gaza City, a Palestinian journalist documents the forced displacement, while living it with her own family.
+- eventId: 953285
+  start: 2026-11-25T21:00:00Z
+  stop: 2026-11-25T22:00:00Z
+  title: Witness
+  subtitle: Gaza - Still Reporting
+  description: When Israel orders a total evacuation of Gaza City, a Palestinian journalist documents the forced displacement, while living it with her own family.
+  genre:
+  - '32'
 - eventId: 799393
   start: 2026-11-25T22:00:00Z
   stop: 2026-11-25T22:30:00Z
@@ -381,6 +502,13 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
+- eventId: 953286
+  start: 2026-11-25T22:00:00Z
+  stop: 2026-11-25T23:00:00Z
+  title: Newshour
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 881696
   - 917050
@@ -388,7 +516,9 @@
   stop: 2026-11-25T23:00:00Z
   title: Fault Lines
   subtitle: An award-winning, current affairs series that explores raw, unedited stories you won't read about in US national headlines, focussing on the powerful nation's role and responsibilities in the modern era.
-- eventId: 799394
+- eventId:
+  - 799394
+  - 953287
   start: 2026-11-25T23:00:00Z
   stop: 2026-11-25T23:30:00Z
   title: News Live
@@ -396,7 +526,9 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
-- eventId: 799395
+- eventId:
+  - 799395
+  - 953288
   start: 2026-11-25T23:30:00Z
   stop: 2026-11-26T00:00:00Z
   title: People and Power
