@@ -12,6 +12,7 @@
   start: 2026-11-25T00:40:00Z
   stop: 2026-11-25T01:40:00Z
   title: İyi Bak Kendine / 32
+  widescreen: true
 - eventId: 915242
   start: 2026-11-25T01:10:00Z
   stop: 2026-11-25T01:40:00Z
@@ -27,8 +28,8 @@
   start: 2026-11-25T02:00:00Z
   stop: 2026-11-25T03:30:00Z
   title: Seksenler / 49
-  subtitle: Türkiye'de 1980'lerin başından günümüze yaşanan değişimin hikayesi..
-  description: Seksenli yıllarda İstanbul'un küçük bir mahallesinde yaşayan insanların hikâyesi. Her sahnesiyle tam bir dönem dizisi... Hem nostaljik, hem enerjik, hem de çok komik.
+  subtitle: Türkiye-#039,de 1980-#039,lerin başından günümüze yaşanan değişimin hikayesi..
+  description: Seksenli yıllarda İstanbul-#039,un küçük bir mahallesinde yaşayan insanların hikâyesi. Her sahnesiyle tam bir dönem dizisi.. Hem nostaljik, hem enerjik, hem de çok komik.
   widescreen: true
 - eventId: 915263
   start: 2026-11-25T03:30:00Z
@@ -67,11 +68,13 @@
   widescreen: true
 - eventId: 915269
   start: 2026-11-25T04:45:00Z
-  stop: 2026-11-25T05:00:00Z
+  stop: 2026-11-25T04:55:00Z
   title: Yeni Hayatım Hakkında
   widescreen: true
   description: Sevmenin inceliği, düşüncenin zarafeti, dostluğun güzelliği ve samimiyetin önemi... Duygulara tercüman olan beyitler eşliğinde hayata dair sohbetler sizleri bekliyor.
-- eventId: 915270
+- eventId:
+  - 915270
+  - 963304
   start: 2026-11-25T04:55:00Z
   stop: 2026-11-25T05:10:00Z
   title: Canıgönülden
@@ -81,7 +84,9 @@
   start: 2026-11-25T05:00:00Z
   stop: 2026-11-25T06:00:00Z
   title: İyi Bak Kendine / 28
-- eventId: 915271
+- eventId:
+  - 915271
+  - 963305
   start: 2026-11-25T05:10:00Z
   stop: 2026-11-25T06:10:00Z
   title: İyi Bak Kendine
@@ -91,7 +96,9 @@
   stop: 2026-11-25T07:00:00Z
   title: Anneler / 127
   description: Dört yakın arkadaşın annelik serüvenleri...
-- eventId: 915316
+- eventId:
+  - 915316
+  - 962726
   start: 2026-11-25T06:10:00Z
   stop: 2026-11-25T07:10:00Z
   title: Anneler
@@ -102,7 +109,9 @@
   stop: 2026-11-25T07:30:00Z
   title: Haberdar / 419
   description: Güncel olayları, Avrupa gündemini, haberleri ve toplumsal gelişmeleri canlı ve stüdyo konukları ile birlikte ele alan bir haber programıdır. Program, izleyicilere, ülke ve dünya genelindeki önemli haberleri kapsamlı ve tarafsız bir şekilde sunar. "Haberdar" uzman konuklarla yapılan röportajlar, analizler ve tartışmalarla, haberlerin arka planını ve gelişimlerini derinlemesine inceler.
-- eventId: 915317
+- eventId:
+  - 915317
+  - 962727
   start: 2026-11-25T07:10:00Z
   stop: 2026-11-25T07:40:00Z
   title: Haberdar
@@ -113,7 +122,9 @@
   stop: 2026-11-25T08:00:00Z
   title: Annem Yapardı / 72
   description: Geleneksel yemeklerin tanıtımını ve yemek etrafında gelişen kültürün anlatımını konu alan program, TRT Türk ekranlarında izleyiciyle buluşuyor.
-- eventId: 915318
+- eventId:
+  - 915318
+  - 962728
   start: 2026-11-25T07:40:00Z
   stop: 2026-11-25T08:10:00Z
   title: Annem Yapardı
@@ -123,7 +134,9 @@
   start: 2026-11-25T08:00:00Z
   stop: 2026-11-25T09:10:00Z
   title: Evde Konuşuruz / 23
-- eventId: 915319
+- eventId:
+  - 915319
+  - 962729
   start: 2026-11-25T08:10:00Z
   stop: 2026-11-25T09:20:00Z
   title: Evde Konuşuruz
@@ -132,7 +145,9 @@
   start: 2026-11-25T09:10:00Z
   stop: 2026-11-25T10:00:00Z
   title: Gönlümdeki Köln / 23
-- eventId: 915332
+- eventId:
+  - 915332
+  - 962732
   start: 2026-11-25T09:20:00Z
   stop: 2026-11-25T10:10:00Z
   title: Gönlümdeki Köln
@@ -141,7 +156,9 @@
   start: 2026-11-25T10:00:00Z
   stop: 2026-11-25T11:00:00Z
   title: İyi Bak Kendine / 33
-- eventId: 915333
+- eventId:
+  - 915333
+  - 962733
   start: 2026-11-25T10:10:00Z
   stop: 2026-11-25T11:10:00Z
   title: İyi Bak Kendine
@@ -151,7 +168,9 @@
   stop: 2026-11-25T11:50:00Z
   title: Öğle Ana Haber
   description: Gün ortasında Türkiye ve dünya gündemine tarafsız bir bakış Öğle Ana Haber'de...
-- eventId: 915334
+- eventId:
+  - 915334
+  - 962734
   start: 2026-11-25T11:10:00Z
   stop: 2026-11-25T12:00:00Z
   title: Öğle Ana Haber
@@ -212,7 +231,9 @@
   stop: 2026-11-25T15:45:00Z
   title: Günün İçinden
   description: Gün içinde yaşanan gelişmeler; sıcak noktalara canlı bağlantılar, dosya haberler ve muhabir bağlantılarıyla ekrana taşınıyor...
-- eventId: 915165
+- eventId:
+  - 915165
+  - 962782
   start: 2026-11-25T15:10:00Z
   stop: 2026-11-25T15:55:00Z
   title: Günün İçinden
@@ -222,7 +243,9 @@
   start: 2026-11-25T15:45:00Z
   stop: 2026-11-25T16:00:00Z
   title: Mikrofon Senin "Kuzey Makedonya" / 10
-- eventId: 915166
+- eventId:
+  - 915166
+  - 962783
   start: 2026-11-25T15:55:00Z
   stop: 2026-11-25T16:10:00Z
   title: Mikrofon Senin Kuzey Makedonya
@@ -232,7 +255,9 @@
   stop: 2026-11-25T16:30:00Z
   title: Temizlik Kulübü / 16
   description: Almanya'da yaşayan Ayşe'nin ailesi, yaşadıkları olumsuzluklar sonrası Türkiye'ye döner. Ayşe burada yeni bir okul ortamında bilim, müzik ve arkadaşlıkla iyileşme sürecine girer. Ayşe'nin arkadaşlarından Cemil obeziteyle, Ceylan ise dijital bağımlılıkla mücadele etmektedir. Dayanışma, merak ve keşifle zorlukların aşılmasını konu alan programda; her bölümde bir orijinal şarkı, eğitici deneyler ve renkli bir anlatım bulunur.
-- eventId: 915167
+- eventId:
+  - 915167
+  - 962784
   start: 2026-11-25T16:10:00Z
   stop: 2026-11-25T16:40:00Z
   title: Temizlik Kulübü
@@ -243,7 +268,9 @@
   stop: 2026-11-25T17:30:00Z
   title: Alman Kuzusu / 5
   description: Müstakbel damat "Mustafa", davet edilince Berlin'e gelmek üzere yollara düşer. Bu davetten haberdar olmayan Zeynep'i kardeşi Ekrem haberdar eder ve Doktor Jens Glaser de aralarında geçen konuşmaya üzülerek kulak misafiri olur.  Yılmaz ailesine göre Mustafa ile ilgili hemen halledilmesi gereken bir sorun vardır ki, o da Mustafa'nın işsiz oluşudur.
-- eventId: 915168
+- eventId:
+  - 915168
+  - 962785
   start: 2026-11-25T16:40:00Z
   stop: 2026-11-25T17:40:00Z
   title: İthal Gelin Aranıyor
@@ -254,7 +281,9 @@
   stop: 2026-11-25T19:00:00Z
   title: Seksenler / 50
   description: Seksenli yıllarda İstanbul'un küçük bir mahallesinde yaşayan insanların hikâyesi. Her sahnesiyle tam bir dönem dizisi... Hem nostaljik, hem enerjik, hem de çok komik.
-- eventId: 915169
+- eventId:
+  - 915169
+  - 962786
   start: 2026-11-25T17:40:00Z
   stop: 2026-11-25T19:10:00Z
   title: Seksenler
@@ -266,7 +295,9 @@
   stop: 2026-11-25T20:30:00Z
   title: Beni Böyle Sev 52/89
   description: Beni Böyle Sev, ilk görüşte birbirlerine aşık olan üniversite öğrencisi bir çiftin hikâyesini konu ediyor.
-- eventId: 915180
+- eventId:
+  - 915180
+  - 962821
   start: 2026-11-25T19:10:00Z
   stop: 2026-11-25T20:40:00Z
   title: Beni Böyle Sev
@@ -278,7 +309,9 @@
   stop: 2026-11-25T21:30:00Z
   title: Alman Kuzusu / 5
   description: Müstakbel damat "Mustafa", davet edilince Berlin'e gelmek üzere yollara düşer. Bu davetten haberdar olmayan Zeynep'i kardeşi Ekrem haberdar eder ve Doktor Jens Glaser de aralarında geçen konuşmaya üzülerek kulak misafiri olur.  Yılmaz ailesine göre Mustafa ile ilgili hemen halledilmesi gereken bir sorun vardır ki, o da Mustafa'nın işsiz oluşudur.
-- eventId: 915181
+- eventId:
+  - 915181
+  - 962822
   start: 2026-11-25T20:40:00Z
   stop: 2026-11-25T21:40:00Z
   title: İthal Gelin Aranıyor
@@ -288,12 +321,16 @@
   start: 2026-11-25T21:30:00Z
   stop: 2026-11-25T22:30:00Z
   title: Hayat Almanya / 28
-- eventId: 915189
+- eventId:
+  - 915189
+  - 962864
   start: 2026-11-25T21:40:00Z
   stop: 2026-11-25T22:10:00Z
   title: Arabam Yerli
   widescreen: true
-- eventId: 915190
+- eventId:
+  - 915190
+  - 962865
   start: 2026-11-25T22:10:00Z
   stop: 2026-11-25T23:20:00Z
   title: Evde Konuşuruz
@@ -302,7 +339,9 @@
   start: 2026-11-25T22:30:00Z
   stop: 2026-11-25T23:40:00Z
   title: Evde Konuşuruz / 23
-- eventId: 915191
+- eventId:
+  - 915191
+  - 962866
   start: 2026-11-25T23:20:00Z
   stop: 2026-11-26T00:20:00Z
   title: Benim Güzel Ailem
