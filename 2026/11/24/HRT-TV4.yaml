@@ -1861,7 +1861,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 874946
+- eventId:
+  - 874946
+  - 965146
   start: 2026-11-24T18:00:00Z
   stop: 2026-11-24T18:53:00Z
   title: Dnevnik 2
@@ -1870,7 +1872,9 @@
   genre:
   - '32'
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
-- eventId: 874947
+- eventId:
+  - 874947
+  - 965147
   start: 2026-11-24T18:53:00Z
   stop: 2026-11-24T18:54:00Z
   title: Vrijeme RH sutra
@@ -1879,7 +1883,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 874948
+- eventId:
+  - 874948
+  - 965148
   start: 2026-11-24T18:54:00Z
   stop: 2026-11-24T18:55:00Z
   title: Vrijeme Europa sutra
@@ -1888,7 +1894,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 874949
+- eventId:
+  - 874949
+  - 965149
   start: 2026-11-24T18:55:00Z
   stop: 2026-11-24T19:00:00Z
   title: Vrijeme Svijet sutra
@@ -1966,7 +1974,7 @@
   - 963336
   - 964364
   start: 2026-11-24T19:05:00Z
-  stop: 2026-11-24T19:55:00Z
+  stop: 2026-11-24T19:54:00Z
   title: Romano Bolković - 1 na 1
   subtitle: Naš večerašnji gost, prof. dr. sc.
   ageRating: 4
@@ -1990,6 +1998,7 @@
   - 960712
   - 963337
   - 964365
+  - 965150
   start: 2026-11-24T19:55:00Z
   stop: 2026-11-24T20:00:00Z
   title: Bez komentara
@@ -2000,7 +2009,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 874954
   start: 2026-11-24T20:00:00Z
-  stop: 2026-11-24T20:45:00Z
+  stop: 2026-11-24T20:44:00Z
   title: Pregled dana
   subtitle: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -2016,7 +2025,17 @@
   genre:
   - '160'
   description: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
-- eventId: 874956
+- eventId: 965151
+  start: 2026-11-24T20:45:00Z
+  stop: 2026-11-24T21:10:00Z
+  title: 'DW: U dobroj formi'
+  subtitle: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 874956
+  - 965152
   start: 2026-11-24T21:11:00Z
   stop: 2026-11-24T21:15:00Z
   title: Bez komentara
@@ -2036,13 +2055,19 @@
   description: Mozaična informativna emisija posvećena bogatstvu našeg Jadranskog mora, obale i priobalja. Donosi zanimljive reportaže o temama vezanim za život na moru i uz njega. Emitira se iz HRT-ovih studija Split, Rijeka, Zadar i Pula.
 - eventId: 874958
   start: 2026-11-24T21:45:00Z
-  stop: 2026-11-24T22:05:00Z
+  stop: 2026-11-24T22:03:00Z
   title: 'Studio 4: Sportske minute'
   subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   ageRating: 4
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+- eventId: 964999
+  start: 2026-11-24T22:03:00Z
+  stop: 2026-11-24T22:05:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 874959
   start: 2026-11-24T22:05:00Z
   stop: 2026-11-24T22:08:00Z
@@ -2097,7 +2122,17 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 874965
+- eventId: 965153
+  start: 2026-11-24T22:50:00Z
+  stop: 2026-11-24T22:56:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 874965
+  - 965154
   start: 2026-11-24T22:56:00Z
   stop: 2026-11-24T23:00:00Z
   title: Bez komentara
