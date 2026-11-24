@@ -103,7 +103,7 @@
   start: 2026-11-28T04:05:00Z
   stop: 2026-11-28T04:25:00Z
   title: Teleexpress Extra
-  description: (JM) Audycja informacyjna, rozszerzenie najważniejszych tematów z głównego wydania Teleexpressu.
+  description: (N) (JM) Audycja informacyjna, rozszerzenie najważniejszych tematów z głównego wydania Teleexpressu.
   genre:
   - '149'
   subtitle: Serwis informacyjny prezentujący bieżące wydarzenia, wiadomości kulturalne oraz ciekawostki z kraju i ze świata.
@@ -151,10 +151,11 @@
 - eventId: 843587
   start: 2026-11-28T06:15:00Z
   stop: 2026-11-28T06:30:00Z
-  title: Turystyczna Jazda
-  description: Magazyn podróżniczy prezentujący ciekawe miejsca i wydarzenia turystyczne w Polsce oraz innych krajach.
+  title: 'Turystyczna Jazda - Morskim Szlakiem: Morze Śródziemne cz. II'
+  description: Ponownie wypływamy na szerokie wody. Odwiedzimy kilka miast portowych Morza Śródziemnego. Zajrzymy na plaże Ibizy, zwiedzimy Rzym na skuterze i będziemy wędrować pośród ulicznych straganów w Palermo.
   genre:
   - '161'
+  ageRating: 12
 - eventId: 843588
   start: 2026-11-28T06:30:00Z
   stop: 2026-11-28T06:55:00Z
@@ -357,7 +358,7 @@
   - '36'
 - eventId: 843657
   start: 2026-11-28T19:05:00Z
-  stop: 2026-11-28T19:10:00Z
+  stop: 2026-11-28T19:15:00Z
   title: Sport
   description: |
     Tytuł oryginalny: Sport
@@ -373,6 +374,11 @@
     PL, 2025
   genre:
   - '32'
+- eventId: 954648
+  start: 2026-11-28T19:15:00Z
+  stop: 2026-11-28T19:20:00Z
+  title: Pogoda
+  description: Prognoza pogody.
 - eventId: 843659
   start: 2026-11-28T19:20:00Z
   stop: 2026-11-28T20:10:00Z
