@@ -376,7 +376,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 799040
   start: 2026-11-24T10:00:00Z
-  stop: 2026-11-24T10:30:00Z
+  stop: 2026-11-24T11:00:00Z
   title: Global Business
   genre:
   - '32'
@@ -512,6 +512,7 @@
 - eventId:
   - 799068
   - 901465
+  - 953693
   start: 2026-11-24T14:15:00Z
   stop: 2026-11-24T15:00:00Z
   title: China 24
@@ -559,7 +560,9 @@
   widescreen: true
   genre:
   - '32'
-- eventId: 799090
+- eventId:
+  - 799090
+  - 953727
   start: 2026-11-24T15:00:00Z
   stop: 2026-11-24T15:15:00Z
   title: News Desk
@@ -568,6 +571,7 @@
 - eventId:
   - 799091
   - 901480
+  - 953728
   start: 2026-11-24T15:15:00Z
   stop: 2026-11-24T16:00:00Z
   title: Global Business
@@ -590,7 +594,7 @@
   widescreen: true
 - eventId: 799092
   start: 2026-11-24T16:00:00Z
-  stop: 2026-11-24T16:45:00Z
+  stop: 2026-11-24T16:15:00Z
   title: Global Business
   genre:
   - '32'
@@ -600,6 +604,7 @@
 - eventId:
   - 799093
   - 901481
+  - 953729
   start: 2026-11-24T16:15:00Z
   stop: 2026-11-24T17:00:00Z
   title: World Insight
@@ -631,7 +636,9 @@
   widescreen: true
   genre:
   - '32'
-- eventId: 799094
+- eventId:
+  - 799094
+  - 953730
   start: 2026-11-24T17:00:00Z
   stop: 2026-11-24T17:30:00Z
   title: News Desk
@@ -639,22 +646,17 @@
   - '32'
 - eventId:
   - 799095
-  - 901482
-  start: 2026-11-24T17:30:00Z
-  stop: 2026-11-24T18:00:00Z
-  title: Culture Express
-  genre:
-  - '32'
-  subtitle: Around China leads viewers into a fabulous world where they may have a full taste of the excellent personality of the Chinese nation and obtain an intimate understanding of its changes and evolution both in recent time and in future.
-- eventId:
   - 881638
   - 891003
+  - 901482
   - 917226
   - 921121
   - 933289
   start: 2026-11-24T17:30:00Z
   stop: 2026-11-24T18:00:00Z
-  title: Around China
+  title: Culture Express
+  genre:
+  - '32'
   subtitle: Around China leads viewers into a fabulous world where they may have a full taste of the excellent personality of the Chinese nation and obtain an intimate understanding of its changes and evolution both in recent time and in future.
 - eventId: 789665
   start: 2026-11-24T18:00:00Z
@@ -751,6 +753,7 @@
 - eventId:
   - 799146
   - 901503
+  - 953803
   start: 2026-11-24T21:15:00Z
   stop: 2026-11-24T22:00:00Z
   title: China 24
@@ -799,6 +802,12 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 953804
+  start: 2026-11-24T22:00:00Z
+  stop: 2026-11-24T22:30:00Z
+  title: News Desk
+  genre:
+  - '32'
 - eventId:
   - 789678
   - 799148
