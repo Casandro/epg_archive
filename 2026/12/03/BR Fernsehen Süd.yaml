@@ -786,7 +786,7 @@
   subtitled: true
   hd: true
   audiodesc: true
-  description: "Bayerisch direkt und unterhaltend diskutieren Gastgeber Hans Werner Kilz und seine beiden Stammgäste Anja Kohl und Christian Neureuther die Themen der Woche.\nIn dieser Woche sind zu Gast: \n* Markus Söder, Bayerischer Ministerpräsident (CSU) \n* Alexander Huber, Profibergsteiger und Physiker"
+  description: "Themen:\n* BayernsKinder - Wuensche werden wahr: Spaß und Bewegung mit Felix Neureuther\n* Schondorf am Ammersee: Orange Day gegen Gewalt an Frauen\n* Dreharbeiten für neue Serie: Die Magie der Manege \n* Stimmungsbild: Weihnachtslieder schon in der Adventszeit?\n* BayernsKinder - Wünsche werden wahr: Musik erleben - Profi-Musiker des BR treffen"
 - eventId:
   - 586019
   - 623256
@@ -833,7 +833,9 @@
   ageRating: 12
   genre:
   - '16'
-- eventId: 992980
+- eventId:
+  - 992980
+  - 993848
   start: 2026-12-03T22:55:00Z
   stop: 2026-12-03T23:40:00Z
   title: Schnee (3/6)
@@ -842,30 +844,9 @@
   genre:
   - '16'
   subtitled: true
-- eventId:
-  - 578538
-  - 578842
-  - 593346
-  - 600919
-  - 604603
-  - 608264
-  - 610066
-  - 616440
-  - 625015
-  - 713166
-  - 905026
-  start: 2026-12-03T23:00:00Z
-  stop: 2026-12-03T23:45:00Z
-  title: Adel zwischen Märchen und Moderne (3)
-  subtitle: Zu Besuch beim Prinzenpaar Marie-Christine und Albert-Henri von Merode
   widescreen: true
-  subtitled: true
   hd: true
   audiodesc: true
-  description: 'Ein belgischer Prinz erobert das Herz einer bayerischen Gräfin, was daraus alles entstanden ist, zeigt die neue Folge der Serie "Adel zwischen Märchen und Moderne". Spektakuläre Kulissen und spannende Geschichten zwischen Schloss Poxau in Niederbayern und Schloss Merode in Nordrhein-Westfalen: Ob eine Inszenierung der "Zauberflöte" im Schlosshof Poxau im Sommer oder einem der schönsten Weihnachtsmärkte Deutschlands auf Schloss Merode. Als Kaiser Karl V. schlüpft Albert-Henri de Merode in die Rolle des mächtigen Herrschers - sozusagen in eine Zeitreise ins Brüssel des 16. Jahrhunderts.'
-  ageRating: 12
-  genre:
-  - '16'
 - eventId:
   - 586021
   - 623258
@@ -882,7 +863,9 @@
   audiodesc: true
   genre:
   - '16'
-- eventId: 992981
+- eventId:
+  - 992981
+  - 993849
   start: 2026-12-03T23:40:00Z
   stop: 2026-12-04T00:25:00Z
   title: Schnee (4/6)
@@ -891,6 +874,9 @@
   genre:
   - '16'
   subtitled: true
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 578843
   - 586022

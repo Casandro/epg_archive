@@ -792,7 +792,7 @@
   - 709259
   - 711490
   start: 2026-11-25T16:10:00Z
-  stop: 2026-11-25T17:00:00Z
+  stop: 2026-11-25T17:05:00Z
   title: hallo deutschland
   genre:
   - '32'
@@ -840,7 +840,9 @@
     Schnitt: Ines Bluhm
     Musik: Michael Dübe, Andreas Kaiser
     HD-Produktion
-- eventId: 990343
+- eventId:
+  - 990343
+  - 993815
   start: 2026-11-25T17:05:00Z
   stop: 2026-11-25T17:54:00Z
   title: SOKO Wismar
@@ -867,6 +869,8 @@
   - '17'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 567639
   - 595043

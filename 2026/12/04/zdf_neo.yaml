@@ -54,7 +54,9 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 984633
+- eventId:
+  - 984633
+  - 993877
   start: 2026-12-04T01:30:00Z
   stop: 2026-12-04T01:55:00Z
   title: Extraordinary
@@ -62,6 +64,8 @@
   genre:
   - '21'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 594867
   - 630751
@@ -90,7 +94,9 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 984634
+- eventId:
+  - 984634
+  - 993878
   start: 2026-12-04T02:25:00Z
   stop: 2026-12-04T02:50:00Z
   title: Extraordinary
@@ -98,6 +104,8 @@
   genre:
   - '21'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 594869
   - 630753
@@ -141,7 +149,9 @@
   subtitled: true
   hd: true
   audiodesc: true
-- eventId: 984635
+- eventId:
+  - 984635
+  - 993883
   start: 2026-12-04T03:45:00Z
   stop: 2026-12-04T04:15:00Z
   title: MAITHINK X - Die Show
@@ -150,6 +160,8 @@
   - '48'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 560231
   - 633940
@@ -676,6 +688,17 @@
   - '48'
   widescreen: true
   subtitled: true
+- eventId: 993884
+  start: 2026-12-04T22:45:00Z
+  stop: 2026-12-04T23:15:00Z
+  title: heute-show
+  subtitle: Nachrichtensatire mit Oliver Welke
+  genre:
+  - '48'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 594774
   - 626977
@@ -699,3 +722,13 @@
   - '21'
   widescreen: true
   subtitled: true
+- eventId: 993885
+  start: 2026-12-04T23:20:00Z
+  stop: 2026-12-05T00:10:00Z
+  title: Infiniti
+  subtitle: Turm des Schweigens
+  genre:
+  - '21'
+  widescreen: true
+  subtitled: true
+  hd: true

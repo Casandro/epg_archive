@@ -151,6 +151,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 593285
   - 602682
@@ -231,6 +233,7 @@
   audiodesc: true
   genre:
   - '16'
+  ageRating: 6
 - eventId:
   - 593726
   - 603116
@@ -239,13 +242,14 @@
   start: 2026-12-06T13:30:00Z
   stop: 2026-12-06T15:00:00Z
   title: Um Himmels Willen - Das Wunder von Fatima
-  subtitle: Spielfilm Deutschland 2014
+  subtitle: Fernsehfilm Deutschland 2014
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 594981
   - 603420
@@ -288,7 +292,7 @@
   - 819006
   start: 2026-12-06T16:15:00Z
   stop: 2026-12-06T17:00:00Z
-  title: 'Erlebnis Erde: Winterwelten'
+  title: 'Abenteuer Erde: Winterwelten'
   subtitle: Ein Film von Annette und Klaus Scheurich
   widescreen: true
   subtitled: true
@@ -348,7 +352,7 @@
   start: 2026-12-06T19:15:00Z
   stop: 2026-12-06T20:45:00Z
   title: Wunderschön! Finnland - Magische Winterreise am Polarkreis
-  subtitle: mit Judith Rakers
+  subtitle: 'Moderation: Judith Rakers'
   widescreen: true
   subtitled: true
   hd: true
@@ -413,8 +417,10 @@
   start: 2026-12-06T23:45:00Z
   stop: 2026-12-07T01:25:00Z
   title: 'Rockpalast: David Bowie'
-  subtitle: Aufzeichnung von der Loreley am 22.06.1996
+  subtitle: Aufzeichnung des Konzerts von der Loreley am 22.06.1996
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '97'

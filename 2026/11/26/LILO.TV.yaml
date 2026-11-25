@@ -63,10 +63,19 @@
   widescreen: true
 - eventId: 789727
   start: 2026-11-26T05:00:00Z
-  stop: 2026-11-26T05:55:00Z
+  stop: 2026-11-26T05:25:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Rehrückenfilet mit Anröchter Meerrettichgemüse
-  description: Heute kocht Ralf Kühler zusammen mit Benno Sasse unter anderem ein Zwiebelkuchen und vieles mehr.
+  description: Heute kocht Ralf Kühler zusammen mit Andreas Völkel unter anderem einen Reis-Sommersalat und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 993324
+  start: 2026-11-26T05:25:00Z
+  stop: 2026-11-26T06:20:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Kaninchenleber an Apfelbrandsoße
+  description: Heute kocht Ralf Kühler zusammen mit Hans Peter Rheinheimer unter anderem eine Kaninchenleber an Apfelbrandsoße und vieles mehr.
   genre:
   - '165'
   widescreen: true
@@ -78,7 +87,9 @@
   genre:
   - '166'
   widescreen: true
-- eventId: 792563
+- eventId:
+  - 792563
+  - 993304
   start: 2026-11-26T06:20:00Z
   stop: 2026-11-26T06:50:00Z
   title: Teleshopping
@@ -93,7 +104,9 @@
   subtitle: Der Wetterbericht - 26.11.2026
   description: Ob Sonne, Regen, Sturm oder Schnee - bei uns sind Sie immer aktuell informiert. Sehen Sie mehrmals tagsüber im Programm den Wetterbericht mit der Vorhersage für ganz Deutschland. Kompakt, schnell und verlässlich!
   widescreen: true
-- eventId: 792564
+- eventId:
+  - 792564
+  - 993305
   start: 2026-11-26T06:50:00Z
   stop: 2026-11-26T07:00:00Z
   title: Der Wetterbericht
@@ -102,15 +115,42 @@
   widescreen: true
 - eventId: 792565
   start: 2026-11-26T07:00:00Z
-  stop: 2026-11-26T08:05:00Z
+  stop: 2026-11-26T07:10:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Gefüllte Hähnchenbrust auf Paprika-Tagliatelle
+  description: Heute kocht Ralf Kühler zusammen mit Tobias Greb unter anderem eine gefüllte Hähnchenbrust auf Paprika Tagliatelle und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 993306
+  start: 2026-11-26T07:10:00Z
+  stop: 2026-11-26T08:00:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Mangosuppe mit Gambas
   description: Heute kocht Ralf Kühler zusammen mit Peter Höppeler unter anderem eine Mangosuppe mit Gambas und vieles mehr.
   genre:
   - '165'
   widescreen: true
+- eventId: 993307
+  start: 2026-11-26T08:00:00Z
+  stop: 2026-11-26T08:30:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Grüner Spargel mit Entenbrust an weißem Balsamicodressing
+  description: Heute kocht Ralf Kühler zusammen mit Andreas Völkel unter anderem einen Salat von grünem Spargel mit Orangenfilets, geräucherter Entenbrust und gerösteten Pinienkernen auf Rauke an weißem Balsamicodressing und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 792566
   start: 2026-11-26T08:05:00Z
+  stop: 2026-11-26T09:15:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Schaumsuppe vom Muskatkürbis mit Kürbiskernöl
+  description: Heute kocht Ralf Kühler zusammen mit Andreas Hillejan unter anderem eine Schaumsuppe vom Muskatkürbis mit Kürbiskernöl und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 993308
+  start: 2026-11-26T08:30:00Z
   stop: 2026-11-26T09:15:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Schaumsuppe vom Muskatkürbis mit Kürbiskernöl
@@ -128,15 +168,33 @@
   widescreen: true
 - eventId: 795294
   start: 2026-11-26T09:45:00Z
-  stop: 2026-11-26T11:00:00Z
+  stop: 2026-11-26T10:50:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Räucherlachs und Frischkäse-Sushi
   description: Heute kocht Ralf Kühler zusammen mit Jerry Aoijs unter anderem Räucherlachs und Frischkäse-Sushi und vieles mehr.
   genre:
   - '165'
   widescreen: true
+- eventId: 993309
+  start: 2026-11-26T10:50:00Z
+  stop: 2026-11-26T11:00:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Gefilterter Maracuja-Spargelsalat mit pochiertem Thunfisch
+  description: Heute kocht Ralf Kühler zusammen mit Bernd Arold unter anderem ein gefilterter Maracuja-Spargelsalat mit pochiertem Thunfisch und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 796418
   start: 2026-11-26T11:00:00Z
+  stop: 2026-11-26T11:25:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Rippchen vom Lamm mit Spitzkohlröllchen
+  description: Heute kocht Ralf Kühler zusammen mit Volker Hintz unter anderem ein Salat von grünen Berglinsen mit gebeizter Taunusforelle in Kirschwasser und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 993310
+  start: 2026-11-26T11:25:00Z
   stop: 2026-11-26T12:20:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Rippchen vom Lamm mit Spitzkohlröllchen
@@ -161,8 +219,35 @@
   genre:
   - '165'
   widescreen: true
+- eventId: 993311
+  start: 2026-11-26T13:00:00Z
+  stop: 2026-11-26T13:10:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Erbsen-Karotten-Latte mit Thunfischtandoori
+  description: Heute kocht Ralf Kühler zusammen mit Stefan Manier unter anderem Erbsen-Karotten Latte mit Thunfischtandori und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 993312
+  start: 2026-11-26T13:10:00Z
+  stop: 2026-11-26T14:00:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Gebratener Schafskäse auf Zucchini-Tomaten-Sugo
+  description: Heute kocht Ralf Kühler zusammen mit Daniel Lewitz unter anderem ein gebratener Schafskäse auf Zucchini-Tomaten-Sugo und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
 - eventId: 801796
   start: 2026-11-26T14:00:00Z
+  stop: 2026-11-26T14:20:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Wolfsbarsch unter der Kürbiskernkruste auf Bandnudeln
+  description: Heute kocht Ralf Kühler zusammen mit Sascha Tätzner unter anderem ein Wolfsbarsch unter der Kürbiskernkruste auf Bandnudeln von Karotten und Pastinaken mit rotem Chicoree und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 993313
+  start: 2026-11-26T14:20:00Z
   stop: 2026-11-26T15:00:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Wolfsbarsch unter der Kürbiskernkruste auf Bandnudeln
@@ -180,6 +265,15 @@
   widescreen: true
 - eventId: 801802
   start: 2026-11-26T15:40:00Z
+  stop: 2026-11-26T15:55:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Gewürztraminer-Schaum auf Feigenkompott im Glas
+  description: Heute kocht Ralf Kühler zusammen mit Christoph Schuster unter anderem Gewürztraminer-Schaum auf Feigenkompott im Glas mit gerösteten Kürbiskernen und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 993314
+  start: 2026-11-26T15:55:00Z
   stop: 2026-11-26T17:00:00Z
   title: Echt lecker!
   subtitle: Echt lecker! - Gewürztraminer-Schaum auf Feigenkompott im Glas
@@ -201,6 +295,15 @@
   title: Echt lecker!
   subtitle: Echt lecker! - Knusperrolle von Blut- und Leberwurst
   description: Heute kocht Ralf Kühler zusammen mit Andre Kauke unter anderem eine Knusperrolle von Blutwurst und Leberwurst und vieles mehr.
+  genre:
+  - '165'
+  widescreen: true
+- eventId: 993315
+  start: 2026-11-26T17:40:00Z
+  stop: 2026-11-26T18:00:00Z
+  title: Echt lecker!
+  subtitle: Echt lecker! - Koriander-Currysuppe
+  description: Heute kocht Ralf Kühler zusammen mit Mirko Reeh unter anderem eine Koriander-Currysuppe und vieles mehr.
   genre:
   - '165'
   widescreen: true

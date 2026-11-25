@@ -812,7 +812,7 @@
   - 729675
   - 738854
   start: 2026-12-03T22:15:00Z
-  stop: 2026-12-03T23:00:00Z
+  stop: 2026-12-03T22:55:00Z
   title: quer am Stammtisch
   subtitle: Österreich/Deutschland 2023
   ageRating: 12
@@ -822,11 +822,20 @@
   audiodesc: true
   genre:
   - '16'
-- eventId: 992982
+- eventId:
+  - 992982
+  - 993846
   start: 2026-12-03T22:55:00Z
   stop: 2026-12-03T23:40:00Z
   title: Schnee (3/6)
   subtitle: Alma und das zweite Gesicht
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 578804
   - 585991
@@ -844,11 +853,20 @@
   audiodesc: true
   genre:
   - '16'
-- eventId: 992983
+- eventId:
+  - 992983
+  - 993847
   start: 2026-12-03T23:40:00Z
   stop: 2026-12-04T00:25:00Z
   title: Schnee (4/6)
   subtitle: Die Suche
+  ageRating: 12
+  genre:
+  - '16'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 578805
   - 585992
