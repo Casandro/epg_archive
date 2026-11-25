@@ -1,6 +1,6 @@
 - eventId: 799419
   start: 2026-11-26T00:00:00Z
-  stop: 2026-11-26T06:00:00Z
+  stop: 2026-11-26T01:00:00Z
   title: CHAINE CHINOISE DE DOCUMENTAIRES EN ANGLAIS
   genre:
   - '35'
@@ -22,7 +22,9 @@
   title: Historical romance
   genre:
   - '35'
-- eventId: 799421
+- eventId:
+  - 799421
+  - 999793
   start: 2026-11-26T01:00:00Z
   stop: 2026-11-26T01:30:00Z
   title: Youthful China
@@ -39,7 +41,9 @@
   title: Geography
   genre:
   - '35'
-- eventId: 799422
+- eventId:
+  - 799422
+  - 999794
   start: 2026-11-26T01:30:00Z
   stop: 2026-11-26T02:00:00Z
   title: Pixel Collage
@@ -69,7 +73,13 @@
   stop: 2026-11-26T03:00:00Z
   title: Today's Top Pick, Xiong'an New Area 1
   subtitle: Dokumentarni
-- eventId: 798482
+- eventId: 999795
+  start: 2026-11-26T02:00:00Z
+  stop: 2026-11-26T03:00:00Z
+  title: Today's Top Pick
+- eventId:
+  - 798482
+  - 999801
   start: 2026-11-26T03:00:00Z
   stop: 2026-11-26T03:30:00Z
   title: Humanities and Geography
@@ -96,6 +106,7 @@
   - 955773
   - 973825
   - 998723
+  - 999802
   start: 2026-11-26T03:30:00Z
   stop: 2026-11-26T04:00:00Z
   title: Living China
@@ -116,6 +127,10 @@
   title: Road of discovery
   genre:
   - '35'
+- eventId: 999803
+  start: 2026-11-26T04:00:00Z
+  stop: 2026-11-26T05:00:00Z
+  title: Special Edition
 - eventId:
   - 798484
   - 953306
@@ -130,6 +145,7 @@
 - eventId:
   - 798485
   - 821279
+  - 999804
   start: 2026-11-26T05:00:00Z
   stop: 2026-11-26T05:30:00Z
   title: Journeys and Discoveries
@@ -153,12 +169,13 @@
   - 955774
   - 973826
   - 998724
+  - 999805
   start: 2026-11-26T05:30:00Z
   stop: 2026-11-26T06:00:00Z
   title: History in the Frame
 - eventId: 798510
   start: 2026-11-26T06:00:00Z
-  stop: 2026-11-26T06:30:00Z
+  stop: 2026-11-26T07:00:00Z
   title: Geography
   genre:
   - '35'
@@ -180,7 +197,7 @@
   - '35'
 - eventId: 798512
   start: 2026-11-26T07:00:00Z
-  stop: 2026-11-26T08:00:00Z
+  stop: 2026-11-26T07:30:00Z
   title: Special presentation
   genre:
   - '35'
@@ -199,12 +216,13 @@
   - 955786
   - 973835
   - 998734
+  - 999811
   start: 2026-11-26T07:30:00Z
   stop: 2026-11-26T08:00:00Z
   title: Pixel Collage
 - eventId: 798513
   start: 2026-11-26T08:00:00Z
-  stop: 2026-11-26T08:30:00Z
+  stop: 2026-11-26T09:00:00Z
   title: Road of discovery
   genre:
   - '35'
@@ -226,7 +244,7 @@
   - '35'
 - eventId: 798542
   start: 2026-11-26T09:00:00Z
-  stop: 2026-11-26T10:00:00Z
+  stop: 2026-11-26T09:30:00Z
   title: Humanities and Geography
   genre:
   - '35'
@@ -246,12 +264,13 @@
   - 973843
   - 982112
   - 998745
+  - 999819
   start: 2026-11-26T09:30:00Z
   stop: 2026-11-26T10:00:00Z
   title: Living China
 - eventId: 798543
   start: 2026-11-26T10:00:00Z
-  stop: 2026-11-26T10:30:00Z
+  stop: 2026-11-26T11:00:00Z
   title: Special Edition
   genre:
   - '35'
@@ -293,12 +312,13 @@
   - 973844
   - 982113
   - 998746
+  - 999820
   start: 2026-11-26T11:30:00Z
   stop: 2026-11-26T12:00:00Z
   title: History in the Frame
 - eventId: 798563
   start: 2026-11-26T12:00:00Z
-  stop: 2026-11-26T12:30:00Z
+  stop: 2026-11-26T13:00:00Z
   title: Road of discovery
   genre:
   - '35'
@@ -321,7 +341,7 @@
   - '35'
 - eventId: 798565
   start: 2026-11-26T13:00:00Z
-  stop: 2026-11-26T14:00:00Z
+  stop: 2026-11-26T13:30:00Z
   title: Wonderful delivery
   genre:
   - '35'
@@ -341,12 +361,13 @@
   - 973853
   - 982121
   - 998759
+  - 999848
   start: 2026-11-26T13:30:00Z
   stop: 2026-11-26T14:00:00Z
   title: Pixel Collage
 - eventId: 798566
   start: 2026-11-26T14:00:00Z
-  stop: 2026-11-26T14:30:00Z
+  stop: 2026-11-26T15:00:00Z
   title: Today's Top Pick
   genre:
   - '35'
@@ -369,7 +390,7 @@
   - '35'
 - eventId: 798588
   start: 2026-11-26T15:00:00Z
-  stop: 2026-11-26T16:00:00Z
+  stop: 2026-11-26T15:30:00Z
   title: Humanities and Geography
   genre:
   - '35'
@@ -389,12 +410,13 @@
   - 973859
   - 982128
   - 998769
+  - 999855
   start: 2026-11-26T15:30:00Z
   stop: 2026-11-26T16:00:00Z
   title: Living China
 - eventId: 798589
   start: 2026-11-26T16:00:00Z
-  stop: 2026-11-26T16:30:00Z
+  stop: 2026-11-26T17:00:00Z
   title: Road of discovery
   genre:
   - '35'
@@ -436,12 +458,13 @@
   - 973860
   - 982129
   - 998770
+  - 999856
   start: 2026-11-26T17:30:00Z
   stop: 2026-11-26T18:00:00Z
   title: History in the Frame
 - eventId: 798616
   start: 2026-11-26T18:00:00Z
-  stop: 2026-11-26T18:30:00Z
+  stop: 2026-11-26T19:00:00Z
   title: Geography
   genre:
   - '35'
@@ -464,7 +487,7 @@
   - '35'
 - eventId: 798618
   start: 2026-11-26T19:00:00Z
-  stop: 2026-11-26T20:00:00Z
+  stop: 2026-11-26T19:30:00Z
   title: Special presentation
   genre:
   - '35'
@@ -484,12 +507,13 @@
   - 973864
   - 982132
   - 998779
+  - 999861
   start: 2026-11-26T19:30:00Z
   stop: 2026-11-26T20:00:00Z
   title: Pixel Collage
 - eventId: 798619
   start: 2026-11-26T20:00:00Z
-  stop: 2026-11-26T20:30:00Z
+  stop: 2026-11-26T21:00:00Z
   title: Road of discovery
   genre:
   - '35'
@@ -512,7 +536,7 @@
   - '35'
 - eventId: 798650
   start: 2026-11-26T21:00:00Z
-  stop: 2026-11-26T22:00:00Z
+  stop: 2026-11-26T21:30:00Z
   title: Humanities and Geography
   genre:
   - '35'
@@ -532,12 +556,13 @@
   - 973871
   - 982178
   - 998787
+  - 999870
   start: 2026-11-26T21:30:00Z
   stop: 2026-11-26T22:00:00Z
   title: Living China
 - eventId: 798651
   start: 2026-11-26T22:00:00Z
-  stop: 2026-11-26T22:30:00Z
+  stop: 2026-11-26T23:00:00Z
   title: Special Edition
   genre:
   - '35'
@@ -579,6 +604,7 @@
   - 973872
   - 982179
   - 998788
+  - 999871
   start: 2026-11-26T23:30:00Z
   stop: 2026-11-27T00:00:00Z
   title: History in the Frame
