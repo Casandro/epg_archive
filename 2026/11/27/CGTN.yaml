@@ -181,12 +181,15 @@
   title: News Hour
   genre:
   - '32'
-- eventId: 856996
+- eventId:
+  - 856996
+  - 988507
   start: 2026-11-27T06:00:00Z
   stop: 2026-11-27T06:30:00Z
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
 - eventId:
   - 940335
   - 955843
@@ -196,12 +199,15 @@
   stop: 2026-11-27T07:00:00Z
   title: TV Drama
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
-- eventId: 856997
+- eventId:
+  - 856997
+  - 988508
   start: 2026-11-27T06:30:00Z
   stop: 2026-11-27T07:00:00Z
   title: The Heat
   subtitle: Informativni
   description: The Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.
+  widescreen: true
 - eventId: 831663
   start: 2026-11-27T07:00:00Z
   stop: 2026-11-27T07:30:00Z
@@ -209,6 +215,8 @@
   genre:
   - '32'
   subtitle: This is the first history program of China, this program unveils secrets of important historical events, mega projects and the untold stories behind those crucial decisions of this country.
+  description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
 - eventId: 856998
   start: 2026-11-27T07:00:00Z
   stop: 2026-11-27T07:30:00Z
@@ -230,25 +238,28 @@
   stop: 2026-11-27T08:00:00Z
   title: China Showbiz
   subtitle: China Showbiz
-- eventId: 831664
-  start: 2026-11-27T08:00:00Z
-  stop: 2026-11-27T08:30:00Z
-  title: China News
-  genre:
-  - '32'
-  subtitle: It concentrates on the latest news and social changes happening in china and all over the world
-- eventId: 857000
+  description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
+  widescreen: true
+- eventId:
+  - 831664
+  - 857000
   start: 2026-11-27T08:00:00Z
   stop: 2026-11-27T08:15:00Z
   title: The World Today
-  subtitle: Informativni
+  genre:
+  - '32'
+  subtitle: It concentrates on the latest news and social changes happening in china and all over the world
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
-- eventId: 857001
+  widescreen: true
+- eventId:
+  - 857001
+  - 988509
   start: 2026-11-27T08:15:00Z
   stop: 2026-11-27T09:00:00Z
   title: Global Business
   subtitle: Informativni
   description: Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.
+  widescreen: true
 - eventId:
   - 940337
   - 955845
@@ -258,12 +269,15 @@
   stop: 2026-11-27T09:15:00Z
   title: TV Drama
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
-- eventId: 857006
+- eventId:
+  - 857006
+  - 988424
   start: 2026-11-27T09:00:00Z
   stop: 2026-11-27T09:30:00Z
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
 - eventId:
   - 940345
   - 955852
@@ -283,31 +297,39 @@
   title: Sports Scene
   genre:
   - '32'
-- eventId: 857007
+- eventId:
+  - 857007
+  - 988425
   start: 2026-11-27T09:30:00Z
   stop: 2026-11-27T10:00:00Z
   title: The Vibe
   subtitle: Dokumentarni
   description: The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.
+  widescreen: true
 - eventId: 831693
   start: 2026-11-27T10:00:00Z
-  stop: 2026-11-27T10:30:00Z
+  stop: 2026-11-27T10:15:00Z
   title: Global Business
   genre:
   - '32'
   subtitle: It concentrates on the latest news and social changes happening in china and all over the world
+  description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
 - eventId: 857008
   start: 2026-11-27T10:00:00Z
   stop: 2026-11-27T10:15:00Z
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
-- eventId: 857009
+- eventId:
+  - 857009
+  - 988426
   start: 2026-11-27T10:15:00Z
   stop: 2026-11-27T11:00:00Z
   title: Africa Live
   subtitle: Informativni
   description: Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.
+  widescreen: true
 - eventId:
   - 940346
   - 955853
@@ -324,6 +346,8 @@
   genre:
   - '32'
   subtitle: It concentrates on the latest news and social changes happening in china and all over the world
+  description: Asia Today highlights the latest news and social developments across Asia. Correspondents in over a dozen countries report on the region's top stories as they happen.
+  widescreen: true
 - eventId: 857010
   start: 2026-11-27T11:00:00Z
   stop: 2026-11-27T11:30:00Z
@@ -337,6 +361,8 @@
   genre:
   - '32'
   subtitle: 'Asia Today is a 30-minute news program revolving around the latest events in politics, economy, social development and culture across the continent. Find out Asia that you''ve never known. '
+  description: It is a prime time daily English talk show on CGTN.
+  widescreen: true
 - eventId: 857011
   start: 2026-11-27T11:30:00Z
   stop: 2026-11-27T12:00:00Z
@@ -445,12 +471,15 @@
   title: News Desk
   genre:
   - '32'
-- eventId: 857027
+- eventId:
+  - 857027
+  - 988443
   start: 2026-11-27T15:00:00Z
   stop: 2026-11-27T15:30:00Z
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
 - eventId:
   - 831750
   - 953525
@@ -476,13 +505,17 @@
   stop: 2026-11-27T16:00:00Z
   title: China Showbiz
   subtitle: China Showbiz
+  description: The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad.
+  widescreen: true
 - eventId: 831751
   start: 2026-11-27T16:00:00Z
-  stop: 2026-11-27T16:45:00Z
-  title: Music Fair
+  stop: 2026-11-27T17:00:00Z
+  title: Global Business
   genre:
   - '32'
   subtitle: Music Fair is a Japanese music show. The shows started in 1964 and it is the longest-running Japanese music show..
+  description: Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.
+  widescreen: true
 - eventId:
   - 831752
   - 953526
@@ -512,12 +545,15 @@
   title: News Desk
   genre:
   - '32'
-- eventId: 857029
+- eventId:
+  - 857029
+  - 988444
   start: 2026-11-27T17:00:00Z
   stop: 2026-11-27T18:00:00Z
   title: Africa Live
   subtitle: Informativni
   description: Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.
+  widescreen: true
 - eventId: 831754
   start: 2026-11-27T17:30:00Z
   stop: 2026-11-27T18:00:00Z
