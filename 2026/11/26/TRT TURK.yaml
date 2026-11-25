@@ -70,7 +70,7 @@
   widescreen: true
 - eventId: 915347
   start: 2026-11-26T04:00:00Z
-  stop: 2026-11-26T04:05:00Z
+  stop: 2026-11-26T04:10:00Z
   title: En Güzel / 23
   description: 9'13 - Peygamber Efendimizin hayatı kısa kesitler halinde kronolojik olarak anlatılıyor ve TRT Türk izleyicilerine genel hatlarıyla siyer bilgileri aktarılıyor.
   widescreen: true
@@ -219,7 +219,7 @@
   widescreen: true
 - eventId: 987639
   start: 2026-11-26T21:30:00Z
-  stop: 2026-11-26T22:00:00Z
+  stop: 2026-11-26T22:30:00Z
   title: Hayat Almanya / 29
   description: Almanya'da yaşayan Türkleri ilgilendiren sosyal güvenlik, hukuk, çalışma hayatı ve günlük yaşama dair konularda bilgilendirici rehberlik sunuluyor.
   widescreen: true
@@ -228,7 +228,9 @@
   stop: 2026-11-26T23:10:00Z
   title: Evde Konuşuruz
   widescreen: true
-- eventId: 987640
+- eventId:
+  - 987640
+  - 997886
   start: 2026-11-26T22:30:00Z
   stop: 2026-11-26T23:40:00Z
   title: Evde Konuşuruz / 24
@@ -238,7 +240,9 @@
   stop: 2026-11-27T00:10:00Z
   title: Benim Güzel Ailem
   widescreen: true
-- eventId: 987641
+- eventId:
+  - 987641
+  - 997887
   start: 2026-11-26T23:40:00Z
   stop: 2026-11-27T00:40:00Z
   title: Benim Güzel Ailem / 39
