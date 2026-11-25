@@ -91,7 +91,7 @@
   hd: true
 - eventId: 925488
   start: 2026-11-26T05:20:00Z
-  stop: 2026-11-26T06:00:00Z
+  stop: 2026-11-26T05:50:00Z
   title: 19h30 - Signé
   description: (Rediffusion)  "Langue des signes"
   genre:
@@ -99,7 +99,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 925489
+- eventId:
+  - 925489
+  - 979221
   start: 2026-11-26T05:50:00Z
   stop: 2026-11-26T07:00:00Z
   title: RTS Info
