@@ -148,6 +148,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ae2816ba82ff4c8f5b701cf
+  ageRating: 6
 - eventId:
   - 565011
   - 574974
@@ -161,6 +162,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ae2816ba82ff4c8f5b701cd
+  ageRating: 12
 - eventId:
   - 565486
   - 567875
@@ -216,6 +218,8 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ae2816ba82ff4c8f5b701c5
+  genre:
+  - '144'
 - eventId:
   - 565947
   - 568141
@@ -230,6 +234,8 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ae2816ba82ff4c8f5b701c3
+  genre:
+  - '16'
 - eventId:
   - 565948
   - 568142
@@ -237,7 +243,7 @@
   start: 2026-12-07T13:30:00Z
   stop: 2026-12-07T15:00:00Z
   title: Eva Zacharias
-  subtitle: Spielfilm Deutschland 2006
+  subtitle: Fernsehfilm Deutschland 2006
   genre:
   - '16'
   widescreen: true
@@ -245,6 +251,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ae2816ba82ff4c8f5b701c1
+  ageRating: 6
 - eventId:
   - 566497
   - 568367
@@ -315,6 +322,8 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ae2816aa82ff4c8f5b701b9
+  genre:
+  - '16'
 - eventId:
   - 566501
   - 568372
@@ -333,7 +342,7 @@
   - 569351
   - 848875
   start: 2026-12-07T18:27:00Z
-  stop: 2026-12-07T18:29:00Z
+  stop: 2026-12-07T18:30:00Z
   title: rbb wetter
   subtitle: Die Wetteraussichten für Berlin und Brandenburg
   widescreen: true
@@ -346,7 +355,7 @@
   - 569352
   - 848876
   start: 2026-12-07T18:30:00Z
-  stop: 2026-12-07T18:59:00Z
+  stop: 2026-12-07T19:00:00Z
   title: rbb24 Brandenburg aktuell
   widescreen: true
   subtitled: true
