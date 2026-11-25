@@ -287,11 +287,16 @@
   title: Vepric, Tematski prilog
   subtitle: Dokumentarni
   description: Vepric je za cijelu lijepu našu Domovinu "hrvatski Lurd" koji sve hodočasnike i ljude dobre volje rado prima i svatko se u njemu osjeća kao u vlastitom domu, kao u "kući svoje Majke". Pogledajte kako izgleda to svetište i što znači za brojne hodočasnike.
-- eventId: 857163
+- eventId:
+  - 857163
+  - 973095
   start: 2026-11-27T21:00:00Z
   stop: 2026-11-27T21:20:00Z
   title: Egzamen - ispit svjesnosti
-  subtitle: Religijski
+  subtitle: Donosimo emisiju "Egzamen- ispit svjesnosti" posvećenu vjeri i religioznosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 963940
   start: 2026-11-27T21:01:00Z
   stop: 2026-11-27T21:20:00Z
@@ -301,7 +306,10 @@
   start: 2026-11-27T21:20:00Z
   stop: 2026-11-27T21:53:00Z
   title: Lovac na čudesa
-  subtitle: Dokumentarni
+  subtitle: Lovac na čudesa dokumentarna je serija Michaela O'Neilla koji putuje poznatim svjetskim svetištima kao što su Lourdes, Loreto, Asiz, Guadalupe, Pariz, New Orleans i donosi zadivljujuće priče o...
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 963941
   start: 2026-11-27T21:53:00Z
   stop: 2026-11-27T22:30:00Z
@@ -310,52 +318,86 @@
   start: 2026-11-27T21:55:00Z
   stop: 2026-11-27T22:30:00Z
   title: 'Ja sam s vama: blaženi Carlo Acutis, I Am With You - Carlo Acutis'
+- eventId: 973096
+  start: 2026-11-27T21:55:00Z
+  stop: 2026-11-27T22:30:00Z
+  title: 'Ja sam s vama: blaženi Carlo Acutis'
+  subtitle: Dokumentarni film o tinejdžeru Carlu Acutisu, prvom milenijalcu koji je proglašen za blaženika. Acutis se bavio programiranjem i bio je predani vjernik. Preminuo je 2006. godine nakon borbe s...
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 857166
   start: 2026-11-27T22:30:00Z
   stop: 2026-11-27T23:01:00Z
   title: Osobna posveta Bezgrješnom Srcu Marijinu
   subtitle: Religijski
   description: Osobna posveta Bezgrješnom Srcu Marijinu
+- eventId: 973097
+  start: 2026-11-27T22:30:00Z
+  stop: 2026-11-27T22:31:00Z
+  title: Osobna posveta Bezgrješnom Srcu Marijinu
+  subtitle: Moliti znači razgovarati s Bogom. Zajedno uz program Laudato TV dodatno osnažite vezu sa svojim Ocem.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 963942
   start: 2026-11-27T22:31:00Z
-  stop: 2026-11-27T22:32:00Z
+  stop: 2026-11-27T23:01:00Z
   title: Osobna posveta Bezgrješnom Srcu Marijinu
-  subtitle: Religijski
+  subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
   description: Osobna posveta Bezgrješnom Srcu Marijinu
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 963943
   start: 2026-11-27T22:32:00Z
   stop: 2026-11-27T23:01:00Z
   title: Krunica, Krunica Blažene Djevice Marije
   subtitle: Religijski
   description: Molimo zajedno molitvu Krunice Blažene Djevice Marije.
-- eventId: 857167
+- eventId:
+  - 857167
+  - 973098
   start: 2026-11-27T23:01:00Z
   stop: 2026-11-27T23:09:00Z
   title: Vijesti iz Vatikana
-  subtitle: Informativni
+  subtitle: Donosimo najnovije vijesti iz Vatikana, koji predstavlja sjedište Rimokatoličke Crkve. Saznajte sve najvažnije novosti i informirajte se o najbitnijim događajima vezanim uz Crkvu.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 963944
   start: 2026-11-27T23:02:00Z
   stop: 2026-11-27T23:10:00Z
   title: Vijesti iz Vatikana
   subtitle: Informativni
-- eventId: 857168
+- eventId:
+  - 857168
+  - 973099
   start: 2026-11-27T23:09:00Z
   stop: 2026-11-27T23:34:00Z
   title: Svijet očima Vatikana
-  subtitle: Religijski
+  subtitle: Emisija donosi analize audijencija Svetoga Oca i njegovih spisa, ekskluzivne intervjue s važnim osobama iz javnog i crkvenog života te priloge o katoličkoj diplomaciji, sakralnoj umjetnosti i glazbi.
   description: Emisija donosi analize audijencija Svetoga Oca i njegovih spisa, ekskluzivne intervjue s važnim osobama iz javnog i crkvenog života te priloge o katoličkoj diplomaciji, sakralnoj umjetnosti i glazbi te misijama diljem svijeta
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 963945
   start: 2026-11-27T23:10:00Z
   stop: 2026-11-27T23:34:00Z
   title: Svijet očima Vatikana
   subtitle: Religijski
   description: Emisija donosi analize audijencija Svetoga Oca i njegovih spisa, ekskluzivne intervjue s važnim osobama iz javnog i crkvenog života te priloge o katoličkoj diplomaciji, sakralnoj umjetnosti i glazbi te misijama diljem svijeta
-- eventId: 857169
+- eventId:
+  - 857169
+  - 973100
   start: 2026-11-27T23:34:00Z
   stop: 2026-11-28T00:21:00Z
   title: In Familia Dei
-  subtitle: Religijski
+  subtitle: Eda i Marijan Šafarić već 42 godine grade svoju zajedničku priču, a posebno mjesto u njihovim srcima zauzima Srce Isusovo, kojemu su kroz život ostali duboko privrženi.
   description: Eda i Marijan Šafarić već 42 godine grade svoju zajedničku priču, a posebno mjesto u njihovim srcima zauzima Srce Isusovo, kojemu su kroz život ostali duboko privrženi. Što im je u svim tim godinama bilo najteže, a što najljepše? Koji su trenuci ostali zauvijek urezani u njihova srca i što im je davalo snagu da zajedno prolaze kroz sve životne izazove? Upoznajte obitelj Šafarić i njihovu priču o ljubavi, vjeri i zajedništvu koje traje.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 963946
   start: 2026-11-27T23:35:00Z
   stop: 2026-11-28T00:21:00Z
