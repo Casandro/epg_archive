@@ -126,6 +126,16 @@
   ageRating: 12
   genre:
   - '96'
+- eventId: 992801
+  start: 2026-11-25T14:00:00Z
+  stop: 2026-11-25T17:00:00Z
+  title: Top 400 lata dwutysięczne
+  description: |
+    Tytuł oryginalny: Top 400 lata dwutysięczne
+    PL, 2026
+  ageRating: 12
+  genre:
+  - '96'
 - eventId: 796330
   start: 2026-11-25T15:00:00Z
   stop: 2026-11-25T16:00:00Z
@@ -147,7 +157,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 796332
+- eventId:
+  - 796332
+  - 992960
   start: 2026-11-25T17:00:00Z
   stop: 2026-11-25T20:00:00Z
   title: Top 400 lata dwutysięczne
@@ -179,7 +191,9 @@
   ageRating: 12
   genre:
   - '96'
-- eventId: 868801
+- eventId:
+  - 868801
+  - 992966
   start: 2026-11-25T20:00:00Z
   stop: 2026-11-25T22:30:00Z
   title: Top 400 lata dwutysięczne
