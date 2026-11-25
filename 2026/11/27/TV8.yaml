@@ -2,6 +2,7 @@
   - 934893
   - 963605
   - 967427
+  - 996617
   start: 2026-11-27T00:00:00Z
   stop: 2026-11-27T01:30:00Z
   title: Cutia Neagra cu Mariana Rata.
@@ -9,6 +10,7 @@
   - 934894
   - 963606
   - 967428
+  - 996618
   start: 2026-11-27T01:30:00Z
   stop: 2026-11-27T02:15:00Z
   title: Iubeste viata Confesiuni.
@@ -16,6 +18,7 @@
   - 934895
   - 963607
   - 967429
+  - 996619
   start: 2026-11-27T02:15:00Z
   stop: 2026-11-27T03:00:00Z
   title: Stirile TV8 cu Angela Gonta.
@@ -23,6 +26,7 @@
   - 934994
   - 963613
   - 967430
+  - 996620
   start: 2026-11-27T03:00:00Z
   stop: 2026-11-27T04:00:00Z
   title: Psihologul meu.
@@ -39,8 +43,8 @@
   description: ' (2026)'
 - eventId: 982183
   start: 2026-11-27T04:00:00Z
-  stop: 2026-11-27T04:30:00Z
-  title: Teleshoppingové pásmo
+  stop: 2026-11-27T05:00:00Z
+  title: Iubeste viata Confesiuni.
   subtitle: Teleshoppingové pásmo
   ageRating: 12
 - eventId:
@@ -88,7 +92,7 @@
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
 - eventId: 831656
   start: 2026-11-27T05:00:00Z
-  stop: 2026-11-27T06:40:00Z
+  stop: 2026-11-27T06:00:00Z
   title: Stirile TV8 cu Angela Gonta.
   genre:
   - '149'
@@ -98,6 +102,7 @@
 - eventId:
   - 935084
   - 967436
+  - 996621
   start: 2026-11-27T06:00:00Z
   stop: 2026-11-27T07:30:00Z
   title: Cutia Neagra cu Mariana Rata.
@@ -122,22 +127,16 @@
   - '149'
 - eventId:
   - 821099
+  - 935085
   - 955840
+  - 967437
   - 982137
   start: 2026-11-27T07:30:00Z
   stop: 2026-11-27T07:45:00Z
-  title: Teleshoppingové pásmo
+  title: Новости с Ириной Стряпко.
   ageRating: 12
   subtitle: Teleshoppingové pásmo
   description: ' (2026)'
-- eventId:
-  - 935085
-  - 967437
-  start: 2026-11-27T07:30:00Z
-  stop: 2026-11-27T07:45:00Z
-  title: Новости с Ириной Стряпко.
-  subtitle: Teleshoppingové pásmo
-  ageRating: 12
 - eventId:
   - 821100
   - 940331
@@ -168,7 +167,7 @@
   description: Rýchle riešenie vašich problémov prostredníctvom telefonického veštenia v priamom prenose. (2026)
 - eventId: 831685
   start: 2026-11-27T08:00:00Z
-  stop: 2026-11-27T09:40:00Z
+  stop: 2026-11-27T09:00:00Z
   title: Televeštiareň s Vanessou
   genre:
   - '149'
@@ -178,6 +177,7 @@
 - eventId:
   - 935175
   - 967443
+  - 996622
   start: 2026-11-27T09:00:00Z
   stop: 2026-11-27T10:00:00Z
   title: Т/с "Маруся. Возвращение", 52 с.
@@ -210,12 +210,14 @@
 - eventId:
   - 935177
   - 967445
+  - 996623
   start: 2026-11-27T10:45:00Z
   stop: 2026-11-27T11:00:00Z
   title: Teleshopping.
 - eventId:
   - 935178
   - 967446
+  - 996624
   start: 2026-11-27T11:00:00Z
   stop: 2026-11-27T13:00:00Z
   title: Х/ф "Курица".
@@ -249,6 +251,7 @@
   - 831741
   - 953558
   - 966336
+  - 996625
   start: 2026-11-27T13:00:00Z
   stop: 2026-11-27T13:40:00Z
   title: Новости.
@@ -292,24 +295,18 @@
   description: ' (2026)'
 - eventId:
   - 821110
-  - 955860
-  - 982160
-  start: 2026-11-27T14:00:00Z
-  stop: 2026-11-27T15:40:00Z
-  title: Ezoterická poradňa
-  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
-  ageRating: 12
-  genre:
-  - '32'
-  description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
-- eventId:
   - 935267
+  - 955860
   - 967452
+  - 982160
   start: 2026-11-27T14:00:00Z
   stop: 2026-11-27T15:40:00Z
   title: Iubeste Viata Confesiuni.
   subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
   ageRating: 12
+  genre:
+  - '32'
+  description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
 - eventId:
   - 831742
   - 953559
@@ -341,6 +338,10 @@
   description: Relácia zameraná na spojenie sa s iným svetom. Médium je spojovník medzi týmto svetom a svetom za jeho hranicami. Médium má schopnosť napojiť sa do duchovného sveta a prijímať a odovzdávať správy.
   genre:
   - '149'
+- eventId: 996626
+  start: 2026-11-27T15:00:00Z
+  stop: 2026-11-27T16:00:00Z
+  title: Stiri.
 - eventId:
   - 821113
   - 940364
@@ -355,27 +356,22 @@
   description: ' (2026)'
 - eventId:
   - 821114
+  - 935354
   - 955869
+  - 967458
   - 982000
   start: 2026-11-27T16:00:00Z
   stop: 2026-11-27T17:40:00Z
-  title: Ezoterická poradňa
+  title: Т/с "В чём вина Фатмагюль?".
   subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
   ageRating: 12
   genre:
   - '32'
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
 - eventId:
-  - 935354
-  - 967458
-  start: 2026-11-27T16:00:00Z
-  stop: 2026-11-27T17:40:00Z
-  title: Т/с "В чём вина Фатмагюль?".
-  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
-  ageRating: 12
-- eventId:
   - 935355
   - 967459
+  - 996627
   start: 2026-11-27T17:00:00Z
   stop: 2026-11-27T18:00:00Z
   title: Stirile TV8 cu Angela Gonta.
@@ -396,6 +392,7 @@
 - eventId:
   - 935439
   - 967464
+  - 996628
   start: 2026-11-27T18:00:00Z
   stop: 2026-11-27T19:20:00Z
   title: Intreaba Ghetu.
@@ -415,18 +412,21 @@
 - eventId:
   - 935440
   - 967465
+  - 996629
   start: 2026-11-27T19:20:00Z
   stop: 2026-11-27T19:30:00Z
   title: Vania Bat prezinta.
 - eventId:
   - 935441
   - 967466
+  - 996630
   start: 2026-11-27T19:30:00Z
   stop: 2026-11-27T20:30:00Z
   title: Amprente.
 - eventId:
   - 935442
   - 967467
+  - 996631
   start: 2026-11-27T20:30:00Z
   stop: 2026-11-27T21:00:00Z
   title: Новости с Ириной Стряпко.

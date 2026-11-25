@@ -2,6 +2,7 @@
   - 935595
   - 949676
   - 955591
+  - 996632
   start: 2026-11-28T00:00:00Z
   stop: 2026-11-28T01:30:00Z
   title: Intreaba Ghetu.
@@ -9,6 +10,7 @@
   - 935596
   - 949677
   - 955592
+  - 996633
   start: 2026-11-28T01:30:00Z
   stop: 2026-11-28T02:15:00Z
   title: Iubeste viata Confesiuni.
@@ -16,6 +18,7 @@
   - 935597
   - 949678
   - 955593
+  - 996634
   start: 2026-11-28T02:15:00Z
   stop: 2026-11-28T03:00:00Z
   title: Stirile TV8 cu Angela Gonta.
@@ -23,6 +26,7 @@
   - 935674
   - 949682
   - 955608
+  - 996635
   start: 2026-11-28T03:00:00Z
   stop: 2026-11-28T03:30:00Z
   title: Serial. Oameni Gospodari.
@@ -30,6 +34,7 @@
   - 935675
   - 949683
   - 955609
+  - 996636
   start: 2026-11-28T03:30:00Z
   stop: 2026-11-28T05:00:00Z
   title: Intreaba Ghetu.
@@ -90,10 +95,15 @@
   title: Stirile TV8 cu Angela Gonta.
   genre:
   - '149'
+- eventId: 996637
+  start: 2026-11-28T05:00:00Z
+  stop: 2026-11-28T06:00:00Z
+  title: Stirile TV8 cu Angela Gonta.
 - eventId:
   - 936383
   - 957824
   - 967499
+  - 996581
   start: 2026-11-28T06:00:00Z
   stop: 2026-11-28T06:15:00Z
   title: Gatim Gustos.
@@ -101,6 +111,7 @@
   - 936384
   - 957825
   - 967500
+  - 996582
   start: 2026-11-28T06:15:00Z
   stop: 2026-11-28T06:30:00Z
   title: Teleshopping.
@@ -108,6 +119,7 @@
   - 936385
   - 957826
   - 967501
+  - 996583
   start: 2026-11-28T06:30:00Z
   stop: 2026-11-28T07:30:00Z
   title: Iubeste Viata Confesiunile.
@@ -134,22 +146,16 @@
   - '149'
 - eventId:
   - 853007
-  - 982033
-  start: 2026-11-28T07:30:00Z
-  stop: 2026-11-28T07:45:00Z
-  title: Teleshoppingové pásmo
-  ageRating: 12
-  description: ' (2026)'
-  subtitle: Teleshoppingové pásmo
-- eventId:
   - 936386
   - 957827
   - 967502
+  - 982033
   start: 2026-11-28T07:30:00Z
   stop: 2026-11-28T07:45:00Z
   title: Magazin la tine acasa.
-  subtitle: Teleshoppingové pásmo
   ageRating: 12
+  description: ' (2026)'
+  subtitle: Teleshoppingové pásmo
 - eventId:
   - 853008
   - 974095
@@ -190,7 +196,7 @@
   - 936387
   - 957828
   start: 2026-11-28T08:00:00Z
-  stop: 2026-11-28T09:40:00Z
+  stop: 2026-11-28T12:00:00Z
   title: Т/с "Маруся. Возвращение", 49-52 с.
   genre:
   - '149'
@@ -233,7 +239,7 @@
   - 982161
   start: 2026-11-28T12:00:00Z
   stop: 2026-11-28T13:50:00Z
-  title: Výklad osudu
+  title: Т/с "В чём вина Фатмагюль?".
   subtitle: Nazrite do Vašej budúcnosti a nezostávajte v pochybnostiach.
   ageRating: 12
   genre:
@@ -321,7 +327,7 @@
   - 982170
   start: 2026-11-28T17:00:00Z
   stop: 2026-11-28T20:30:00Z
-  title: Televeštiareň
+  title: Stiri de week-end.
   subtitle: Rýchle riešenie vašich problémov prostredníctvom telefonického veštenia v priamom prenose.
   ageRating: 12
   genre:
@@ -336,12 +342,14 @@
 - eventId:
   - 935902
   - 955620
+  - 996643
   start: 2026-11-28T17:30:00Z
   stop: 2026-11-28T18:00:00Z
   title: Dosarele X Sinteza.
 - eventId:
   - 935958
   - 955623
+  - 996647
   start: 2026-11-28T18:00:00Z
   stop: 2026-11-28T19:00:00Z
   title: Amprente.
@@ -354,9 +362,14 @@
   genre:
   - '149'
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
+- eventId: 996648
+  start: 2026-11-28T19:00:00Z
+  stop: 2026-11-28T20:00:00Z
+  title: Тайный код взломан.
 - eventId:
   - 935959
   - 955624
+  - 996649
   start: 2026-11-28T20:00:00Z
   stop: 2026-11-28T21:00:00Z
   title: Business UP.
@@ -395,7 +408,7 @@
   description: Rýchle riešenie vašich problémov prostredníctvom telefonického veštenia v priamom prenose. (2026)
 - eventId: 901298
   start: 2026-11-28T21:00:00Z
-  stop: 2026-11-28T23:00:00Z
+  stop: 2026-11-28T22:00:00Z
   title: Ezoterická poradňa s Renátou
   genre:
   - '149'
@@ -405,6 +418,7 @@
 - eventId:
   - 936013
   - 955634
+  - 996654
   start: 2026-11-28T22:00:00Z
   stop: 2026-11-28T23:00:00Z
   title: Dosarele X Sinteza.
@@ -416,7 +430,7 @@
   description: ' (2026)'
 - eventId: 901299
   start: 2026-11-28T23:00:00Z
-  stop: 2026-11-28T23:20:00Z
+  stop: 2026-11-29T00:20:00Z
   title: Nočné vysielanie pre pánov, X,H,18+
   genre:
   - '160'
