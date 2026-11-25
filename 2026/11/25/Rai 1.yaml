@@ -57,7 +57,9 @@
   subtitle: Previsioni sulla viabilità CCISS Viaggiare informati
   genre:
   - '16'
-- eventId: 908587
+- eventId:
+  - 908587
+  - 982542
   start: 2026-11-25T05:30:00Z
   stop: 2026-11-25T06:00:00Z
   title: TG1
@@ -71,6 +73,11 @@
   subtitle: NOTIZIARIO.
   genre:
   - '16'
+- eventId: 982588
+  start: 2026-11-25T06:00:00Z
+  stop: 2026-11-25T06:08:00Z
+  title: TG1
+  subtitle: NOTIZIARIO.
 - eventId: 908589
   start: 2026-11-25T06:09:00Z
   stop: 2026-11-25T07:00:00Z
@@ -160,14 +167,18 @@
   description: "Conduce Antonella Clerici\nUn programma di Antonella Clerici, Davide Corallo \nE Francesco Lucibello, Giorgio Pomi, Francesco Canino, Francesco Megalizzi, Gianfranco D'Attoma\nCon la collaborazione di Valeria Manera e Giacomo Tarantino\nScenografia di Giuseppe Chiara\nProdotto in collaborazione con Stand By Me\nRegia di Laura Ferraresi"
   genre:
   - '16'
-- eventId: 908600
+- eventId:
+  - 908600
+  - 982544
   start: 2026-11-25T12:30:00Z
   stop: 2026-11-25T13:05:00Z
   title: TELEGIORNALE
   subtitle: NOTIZIARIO.
   genre:
   - '16'
-- eventId: 908601
+- eventId:
+  - 908601
+  - 982545
   start: 2026-11-25T13:05:00Z
   stop: 2026-11-25T15:00:00Z
   title: La volta buona
