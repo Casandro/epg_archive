@@ -56,7 +56,7 @@
   - '32'
 - eventId: 992214
   start: 2026-11-26T01:55:00Z
-  stop: 2026-11-26T02:07:00Z
+  stop: 2026-11-26T02:08:00Z
   title: Panorama dnia
   description: |-
     program informacyjny (Polska) (na żywo)
@@ -95,7 +95,9 @@
   description: |-
     program informacyjny
     Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
-- eventId: 992275
+- eventId:
+  - 992275
+  - 996042
   start: 2026-11-26T02:08:00Z
   stop: 2026-11-26T02:20:00Z
   title: Dekalog wg Jana Pawła II
@@ -113,7 +115,9 @@
     Prowadzą: Radosław Kotarski
     Radosław Kotarski udaje się do zamku w Gniewie, gdzie spotyka jeźdźców kultywujących pamięć o husarii - piekielnie skutecznej formacji zbrojnej. Po ćwiczeniach z kopią, koncerzem i szablą przystępuje do testu, w którym spróbuje wykonać różne ewolucje.
     Reżyser: Radosław Kotarski
-- eventId: 992276
+- eventId:
+  - 992276
+  - 996043
   start: 2026-11-26T02:20:00Z
   stop: 2026-11-26T02:51:00Z
   title: Podróże z historią 1 (odc. 2)
@@ -177,6 +181,18 @@
     Dziennikarz i pasjonat przyrody Dariusz Gross zabiera widzów w niezwykłą podróż po polskich parkach narodowych. Program ukazuje te turystycznie miejsca z zupełnie nowej, fascynującej perspektywy. Zamiast standardowych szlaków, widz ma możliwość poznać sekrety ekosystemów oczami wybitnych naukowców i badaczy, którzy na co dzień walczą o ich przetrwanie dla przyszłych pokoleń. To unikalne połączenie nowoczesnych technologii badawczych z odwiecznym pięknem dzikiej natury.
   genre:
   - '35'
+- eventId: 996044
+  start: 2026-11-26T02:51:00Z
+  stop: 2026-11-26T03:19:00Z
+  title: Polskie parki narodowe 1 (odc. 3)
+  subtitle: Tematem programu będzie Pieniński Park Narodowy, znany z malowniczego przełomu Dunajca, wapiennych szczytów oraz wyjątkowych walorów przyrodniczych i krajobrazowych.
+  description: |-
+    Tytuł oryginalny: Polskie parki narodowe
+    PL, 2022
+    Reżyseria: Rafał Kołodziej
+    Dziennikarz i pasjonat przyrody Dariusz Gross zabiera widzów w niezwykłą podróż po polskich parkach narodowych. Program ukazuje te turystycznie miejsca z zupełnie nowej, fascynującej perspektywy. Zamiast standardowych szlaków, widz ma możliwość poznać sekrety ekosystemów oczami wybitnych naukowców i badaczy, którzy na co dzień walczą o ich przetrwanie dla przyszłych pokoleń. To unikalne połączenie nowoczesnych technologii badawczych z odwiecznym pięknem dzikiej natury.
+  genre:
+  - '35'
 - eventId: 842634
   start: 2026-11-26T03:06:00Z
   stop: 2026-11-26T03:51:00Z
@@ -214,6 +230,16 @@
     PL, 2026
   genre:
   - '34'
+- eventId: 996045
+  start: 2026-11-26T03:19:00Z
+  stop: 2026-11-26T04:03:00Z
+  title: Kwiatki polskie
+  subtitle: Prowadzący wraz z innymi dziennikarzami komentują poruszające opinię publiczną tematy, zachowując zdrowy rozsądek i trzeźwość oceny wobec wszystkich stron życia społecznego w Polsce.
+  description: |
+    Tytuł oryginalny: Kwiatki polskie
+    PL, 2026
+  genre:
+  - '34'
 - eventId: 842635
   start: 2026-11-26T03:51:00Z
   stop: 2026-11-26T04:45:00Z
@@ -231,7 +257,9 @@
     program publicystyczny (Polska, 2024)
     Prowadzą: Justyna Dobrosz-Oracz
     Magazyn Justyny Dobrosz-Oracz z udziałem dziennikarzy i komentatorów. Dziennikarka udaje się do Sejmu, gdzie zadaje politykom szczere pytania, nie wahając się poruszać kontrowersyjnych tematów. Natomiast eksperci zgromadzeni w studiu komentują bieżące wydarzenia.
-- eventId: 992806
+- eventId:
+  - 992806
+  - 996046
   start: 2026-11-26T04:03:00Z
   stop: 2026-11-26T04:45:00Z
   title: Bez trybu Justyna Dobrosz-Oracz
