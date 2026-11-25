@@ -32,6 +32,7 @@
 - eventId:
   - 917053
   - 955763
+  - 973816
   start: 2026-11-26T01:15:00Z
   stop: 2026-11-26T02:00:00Z
   title: On the Way
@@ -51,7 +52,7 @@
   widescreen: true
 - eventId: 799418
   start: 2026-11-26T02:00:00Z
-  stop: 2026-11-26T03:00:00Z
+  stop: 2026-11-26T02:30:00Z
   title: Global Business by CCTV America
   genre:
   - '32'
@@ -74,6 +75,11 @@
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
   description: World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.
   widescreen: true
+- eventId: 973817
+  start: 2026-11-26T02:30:00Z
+  stop: 2026-11-26T03:15:00Z
+  title: TV Drama
+  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
 - eventId:
   - 798479
   - 953305
@@ -159,7 +165,7 @@
   start: 2026-11-26T05:30:00Z
   stop: 2026-11-26T06:00:00Z
   title: Rediscovering China
-  subtitle: Dokumentarni
+  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
   description: Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.
   widescreen: true
   genre:
@@ -186,6 +192,7 @@
 - eventId:
   - 917070
   - 955783
+  - 973833
   start: 2026-11-26T06:15:00Z
   stop: 2026-11-26T07:00:00Z
   title: TV Drama
@@ -217,16 +224,9 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId:
   - 821285
-  - 967748
-  start: 2026-11-26T07:30:00Z
-  stop: 2026-11-26T08:00:00Z
-  title: Sports Scene
-  subtitle: Informativni
-  description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
-  widescreen: true
-- eventId:
   - 917071
   - 955784
+  - 967748
   start: 2026-11-26T07:30:00Z
   stop: 2026-11-26T08:00:00Z
   title: China Showbiz
@@ -257,6 +257,7 @@
 - eventId:
   - 917072
   - 955785
+  - 973834
   start: 2026-11-26T08:30:00Z
   stop: 2026-11-26T09:15:00Z
   title: TV Drama
@@ -273,6 +274,7 @@
 - eventId:
   - 917077
   - 955792
+  - 973841
   start: 2026-11-26T09:15:00Z
   stop: 2026-11-26T10:00:00Z
   title: TV Drama
@@ -292,7 +294,7 @@
   widescreen: true
 - eventId: 798539
   start: 2026-11-26T10:00:00Z
-  stop: 2026-11-26T11:00:00Z
+  stop: 2026-11-26T10:30:00Z
   title: Global Business
   genre:
   - '32'
@@ -317,6 +319,7 @@
 - eventId:
   - 917078
   - 955793
+  - 973842
   start: 2026-11-26T10:30:00Z
   stop: 2026-11-26T11:00:00Z
   title: Across the Strait
@@ -375,6 +378,7 @@
 - eventId:
   - 917088
   - 955804
+  - 973851
   start: 2026-11-26T12:45:00Z
   stop: 2026-11-26T13:00:00Z
   title: Nostalgia
@@ -434,6 +438,7 @@
 - eventId:
   - 917089
   - 955805
+  - 973852
   start: 2026-11-26T14:45:00Z
   stop: 2026-11-26T15:30:00Z
   title: TV Drama
@@ -475,21 +480,16 @@
 - eventId:
   - 917285
   - 955812
+  - 966895
   start: 2026-11-26T15:30:00Z
   stop: 2026-11-26T16:00:00Z
   title: China Showbiz
   subtitle: China Showbiz
   description: The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad.
   widescreen: true
-- eventId: 966895
-  start: 2026-11-26T15:30:00Z
-  stop: 2026-11-26T16:00:00Z
-  title: The Vibe
-  description: The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad.
-  widescreen: true
 - eventId: 798584
   start: 2026-11-26T16:00:00Z
-  stop: 2026-11-26T17:00:00Z
+  stop: 2026-11-26T16:45:00Z
   title: Global Business
   genre:
   - '32'
@@ -508,6 +508,7 @@
 - eventId:
   - 917286
   - 955813
+  - 973857
   start: 2026-11-26T16:45:00Z
   stop: 2026-11-26T17:30:00Z
   title: Cartoon City
@@ -540,9 +541,14 @@
   genre:
   - '32'
   subtitle: Around China leads viewers into a fabulous world where they may have a full taste of the excellent personality of the Chinese nation and obtain an intimate understanding of its changes and evolution both in recent time and in future.
+- eventId: 973858
+  start: 2026-11-26T17:30:00Z
+  stop: 2026-11-26T18:00:00Z
+  title: Around China
+  subtitle: Around China leads viewers into a fabulous world where they may have a full taste of the excellent personality of the Chinese nation and obtain an intimate understanding of its changes and evolution both in recent time and in future.
 - eventId: 798611
   start: 2026-11-26T18:00:00Z
-  stop: 2026-11-26T19:00:00Z
+  stop: 2026-11-26T18:30:00Z
   title: Memory of China
   genre:
   - '32'
@@ -555,7 +561,9 @@
   title: Global Business
   subtitle: Informativni
   description: Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.
-- eventId: 798612
+- eventId:
+  - 798612
+  - 973863
   start: 2026-11-26T18:30:00Z
   stop: 2026-11-26T19:00:00Z
   title: Across the Strait
@@ -618,7 +626,7 @@
   widescreen: true
 - eventId: 798645
   start: 2026-11-26T21:00:00Z
-  stop: 2026-11-26T21:15:00Z
+  stop: 2026-11-26T21:45:00Z
   title: On the Way
   genre:
   - '32'
@@ -647,6 +655,7 @@
 - eventId:
   - 917102
   - 955825
+  - 973869
   start: 2026-11-26T21:45:00Z
   stop: 2026-11-26T21:50:00Z
   title: Nostalgia
@@ -654,6 +663,7 @@
 - eventId:
   - 917103
   - 955826
+  - 973870
   start: 2026-11-26T21:50:00Z
   stop: 2026-11-26T22:30:00Z
   title: Discoveries

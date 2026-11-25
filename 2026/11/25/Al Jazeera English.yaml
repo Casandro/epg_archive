@@ -91,6 +91,7 @@
   - 951559
   - 955945
   - 967738
+  - 974150
   start: 2026-11-25T02:00:00Z
   stop: 2026-11-25T03:00:00Z
   title: Newshour
@@ -113,6 +114,7 @@
   - 940297
   - 951562
   - 955683
+  - 974158
   start: 2026-11-25T03:00:00Z
   stop: 2026-11-25T03:30:00Z
   title: News Live
@@ -134,6 +136,7 @@
   - 940298
   - 951563
   - 955684
+  - 974159
   start: 2026-11-25T03:30:00Z
   stop: 2026-11-25T04:00:00Z
   title: Witness
@@ -148,6 +151,7 @@
   - 953832
   - 955685
   - 966373
+  - 974160
   start: 2026-11-25T04:00:00Z
   stop: 2026-11-25T04:30:00Z
   title: News Live
@@ -163,6 +167,7 @@
   - 940300
   - 951565
   - 955686
+  - 974161
   start: 2026-11-25T04:30:00Z
   stop: 2026-11-25T05:00:00Z
   title: Al Jazeera Explains
@@ -190,6 +195,11 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: 'Canal 24 horas de noticias en inglØs realizado en Oriente Medio. Versiðn internacional de Al Jazeera. '
+- eventId: 974162
+  start: 2026-11-25T05:00:00Z
+  stop: 2026-11-25T05:30:00Z
+  title: News Live
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId:
   - 799207
   - 953835
@@ -201,7 +211,9 @@
   - '32'
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
   description: Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.
-- eventId: 955687
+- eventId:
+  - 955687
+  - 974163
   start: 2026-11-25T05:30:00Z
   stop: 2026-11-25T06:00:00Z
   title: Inside Story
@@ -211,6 +223,7 @@
   - 953227
   - 955697
   - 966379
+  - 974172
   start: 2026-11-25T06:00:00Z
   stop: 2026-11-25T06:30:00Z
   title: News Live
@@ -221,12 +234,13 @@
 - eventId:
   - 799235
   - 955698
+  - 974173
   start: 2026-11-25T06:30:00Z
   stop: 2026-11-25T07:00:00Z
   title: The Bottom Line
   genre:
   - '32'
-  subtitle: Current Affairs Series Examining U.s. Politics And Society, Moderated By Steve Clemons.
+  subtitle: U.S. political scientist Matthew Kroenig discusses whether the U.S.-China rivalry is over.
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
 - eventId:
   - 953228
@@ -254,7 +268,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 955699
+- eventId:
+  - 955699
+  - 974174
   start: 2026-11-25T07:00:00Z
   stop: 2026-11-25T08:00:00Z
   title: Newshour
@@ -273,6 +289,7 @@
 - eventId:
   - 799238
   - 955700
+  - 974175
   start: 2026-11-25T08:00:00Z
   stop: 2026-11-25T08:30:00Z
   title: News Live
@@ -293,6 +310,7 @@
   - 881661
   - 917275
   - 955701
+  - 974176
   start: 2026-11-25T08:30:00Z
   stop: 2026-11-25T09:00:00Z
   title: The Listening Post
@@ -302,6 +320,7 @@
   - 953239
   - 955710
   - 966387
+  - 973766
   start: 2026-11-25T09:00:00Z
   stop: 2026-11-25T09:30:00Z
   title: News Live
@@ -320,7 +339,9 @@
   - '32'
   subtitle: In a Salvadoran prison, young women from rival gangs must live together, learning to coexist and prepare for life beyond the walls.
   description: What is being reported by world media and how? Richard Gizbert guides you through the global news maze.
-- eventId: 955711
+- eventId:
+  - 955711
+  - 973767
   start: 2026-11-25T09:30:00Z
   stop: 2026-11-25T10:00:00Z
   title: Making Peace
@@ -342,7 +363,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 955712
+- eventId:
+  - 955712
+  - 973768
   start: 2026-11-25T10:00:00Z
   stop: 2026-11-25T11:00:00Z
   title: Newshour
@@ -362,6 +385,7 @@
 - eventId:
   - 799268
   - 955713
+  - 973769
   start: 2026-11-25T11:00:00Z
   stop: 2026-11-25T11:30:00Z
   title: News Live
@@ -382,6 +406,7 @@
   - 881765
   - 917283
   - 955714
+  - 973770
   start: 2026-11-25T11:30:00Z
   stop: 2026-11-25T12:00:00Z
   title: Inside Story
@@ -389,6 +414,7 @@
 - eventId:
   - 799290
   - 955726
+  - 973779
   start: 2026-11-25T12:00:00Z
   stop: 2026-11-25T13:00:00Z
   title: Al Jazeera World
@@ -419,6 +445,7 @@
 - eventId:
   - 799292
   - 955727
+  - 973780
   start: 2026-11-25T13:00:00Z
   stop: 2026-11-25T14:00:00Z
   title: 'NEWSHOUR: The World Now'
@@ -439,6 +466,7 @@
 - eventId:
   - 799293
   - 955728
+  - 973781
   start: 2026-11-25T14:00:00Z
   stop: 2026-11-25T14:30:00Z
   title: News Live
@@ -459,6 +487,7 @@
   - 881679
   - 917027
   - 955729
+  - 973782
   start: 2026-11-25T14:30:00Z
   stop: 2026-11-25T15:00:00Z
   title: Talk to Al Jazeera
@@ -466,6 +495,7 @@
 - eventId:
   - 799319
   - 955738
+  - 973790
   start: 2026-11-25T15:00:00Z
   stop: 2026-11-25T16:00:00Z
   title: 'NEWSHOUR: The Wider Story'
@@ -497,6 +527,7 @@
 - eventId:
   - 799321
   - 955739
+  - 973791
   start: 2026-11-25T16:00:00Z
   stop: 2026-11-25T16:30:00Z
   title: News Live
@@ -517,6 +548,7 @@
   - 881686
   - 917036
   - 955740
+  - 973792
   start: 2026-11-25T16:30:00Z
   stop: 2026-11-25T17:00:00Z
   title: Dying Earth
@@ -524,6 +556,7 @@
 - eventId:
   - 799322
   - 955741
+  - 973793
   start: 2026-11-25T17:00:00Z
   stop: 2026-11-25T17:30:00Z
   title: 'NEWS 30min: Lives in Focus'
@@ -551,7 +584,9 @@
   genre:
   - '32'
   description: In the final part of this special series, The Big Picture examines the rise of far-right politics in Israel and how its war on Gaza is sanctioned by the West.
-- eventId: 955742
+- eventId:
+  - 955742
+  - 973794
   start: 2026-11-25T17:30:00Z
   stop: 2026-11-25T18:00:00Z
   title: Inside Story
@@ -573,7 +608,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 955747
+- eventId:
+  - 955747
+  - 973798
   start: 2026-11-25T18:00:00Z
   stop: 2026-11-25T19:00:00Z
   title: Newshour
@@ -592,6 +629,7 @@
 - eventId:
   - 799359
   - 955748
+  - 973799
   start: 2026-11-25T19:00:00Z
   stop: 2026-11-25T19:30:00Z
   title: News Live
@@ -612,6 +650,7 @@
   - 881691
   - 917042
   - 955749
+  - 973800
   start: 2026-11-25T19:30:00Z
   stop: 2026-11-25T20:00:00Z
   title: The Listening Post
@@ -633,7 +672,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 955750
+- eventId:
+  - 955750
+  - 973801
   start: 2026-11-25T20:00:00Z
   stop: 2026-11-25T21:00:00Z
   title: Witness
@@ -652,6 +693,7 @@
 - eventId:
   - 799392
   - 955758
+  - 973810
   start: 2026-11-25T21:00:00Z
   stop: 2026-11-25T22:00:00Z
   title: Newshour
@@ -672,6 +714,7 @@
 - eventId:
   - 799393
   - 955759
+  - 973811
   start: 2026-11-25T22:00:00Z
   stop: 2026-11-25T22:30:00Z
   title: News Live
@@ -692,6 +735,7 @@
   - 881696
   - 917050
   - 955760
+  - 973812
   start: 2026-11-25T22:30:00Z
   stop: 2026-11-25T23:00:00Z
   title: Fault Lines
@@ -701,6 +745,7 @@
   - 953287
   - 955761
   - 966428
+  - 973813
   start: 2026-11-25T23:00:00Z
   stop: 2026-11-25T23:30:00Z
   title: News Live
@@ -719,7 +764,9 @@
   genre:
   - '32'
   description: Oppressed, dispossessed and expelled ? how Palestinians resist the century-long effort to force them from their land.
-- eventId: 955762
+- eventId:
+  - 955762
+  - 973814
   start: 2026-11-25T23:30:00Z
   stop: 2026-11-26T00:00:00Z
   title: Inside Story
