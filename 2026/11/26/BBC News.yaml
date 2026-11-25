@@ -7,6 +7,7 @@
   - 967662
   - 968505
   - 969706
+  - 986298
   start: 2026-11-26T00:00:00Z
   stop: 2026-11-26T00:30:00Z
   title: BBC News
@@ -23,6 +24,7 @@
   - 967663
   - 968506
   - 969707
+  - 986299
   start: 2026-11-26T00:30:00Z
   stop: 2026-11-26T01:00:00Z
   title: Newscast
@@ -39,6 +41,7 @@
   - 967664
   - 968507
   - 969708
+  - 986300
   start: 2026-11-26T01:00:00Z
   stop: 2026-11-26T01:30:00Z
   title: BBC News
@@ -55,6 +58,7 @@
   - 967665
   - 968508
   - 969709
+  - 986301
   start: 2026-11-26T01:30:00Z
   stop: 2026-11-26T02:00:00Z
   title: AI Decoded
@@ -70,6 +74,7 @@
   - 967666
   - 968509
   - 969710
+  - 986302
   start: 2026-11-26T02:00:00Z
   stop: 2026-11-26T02:30:00Z
   title: Newsday
@@ -86,6 +91,7 @@
   - 967667
   - 968510
   - 969711
+  - 986303
   start: 2026-11-26T02:30:00Z
   stop: 2026-11-26T02:45:00Z
   title: Business Today
@@ -101,6 +107,7 @@
   - 967668
   - 968511
   - 969712
+  - 986304
   start: 2026-11-26T02:45:00Z
   stop: 2026-11-26T03:00:00Z
   title: BBC Sport
@@ -116,6 +123,7 @@
   - 967669
   - 968512
   - 969713
+  - 986305
   start: 2026-11-26T03:00:00Z
   stop: 2026-11-26T03:30:00Z
   title: Newsday
@@ -132,6 +140,7 @@
   - 967670
   - 968513
   - 969714
+  - 986306
   start: 2026-11-26T03:30:00Z
   stop: 2026-11-26T03:45:00Z
   title: Business Today
@@ -147,6 +156,7 @@
   - 967671
   - 968514
   - 969715
+  - 986307
   start: 2026-11-26T03:45:00Z
   stop: 2026-11-26T04:00:00Z
   title: BBC Sport
@@ -162,6 +172,7 @@
   - 967672
   - 968515
   - 969716
+  - 986308
   start: 2026-11-26T04:00:00Z
   stop: 2026-11-26T04:30:00Z
   title: Newsday
@@ -178,6 +189,7 @@
   - 967673
   - 968516
   - 969717
+  - 986309
   start: 2026-11-26T04:30:00Z
   stop: 2026-11-26T04:45:00Z
   title: Business Today
@@ -193,6 +205,7 @@
   - 967674
   - 968517
   - 969718
+  - 986310
   start: 2026-11-26T04:45:00Z
   stop: 2026-11-26T05:00:00Z
   title: BBC Sport
@@ -207,14 +220,26 @@
   description: The BBC is aims to be a totally impartial public service broadcaster, and was established by Royal Charter. The BBC is funded by a licence fee paid by British households, and is regulated by Ofcom. They aim to create high-quality content, in order to inform and educate, but also entertain, their audience Millions of people from all over the world watch content produced by the BBC, and they are well respected as a media company. It was founded in 1922, with its headquarters in Westminster, London.
   genre:
   - '33'
-- eventId: 789948
+- eventId: 986311
+  start: 2026-11-26T05:00:00Z
+  stop: 2026-11-26T05:30:00Z
+  title: BBC News
+  subtitle: News, GB 2026. The latest news from the BBC,which is designed to inform you on current affairs.
+  description: The BBC is aims to be a totally impartial public service broadcaster, and was established by Royal Charter. The BBC is funded by a licence fee paid by British households, and is regulated by Ofcom. They aim to create high-quality content, in order to inform and educate, but also entertain, their audience Millions of people from all over the world watch content produced by the BBC, and they are well respected as a media company. It was founded in 1922, with its headquarters in Westminster, London.
+  genre:
+  - '33'
+- eventId:
+  - 789948
+  - 986312
   start: 2026-11-26T05:30:00Z
   stop: 2026-11-26T06:00:00Z
   title: Business Today
   subtitle: Business, GB 2026. The latest business news from London and around the world.
   genre:
   - '32'
-- eventId: 790619
+- eventId:
+  - 790619
+  - 986315
   start: 2026-11-26T06:00:00Z
   stop: 2026-11-26T06:30:00Z
   title: BBC News
@@ -222,14 +247,18 @@
   description: The BBC is aims to be a totally impartial public service broadcaster, and was established by Royal Charter. The BBC is funded by a licence fee paid by British households, and is regulated by Ofcom. They aim to create high-quality content, in order to inform and educate, but also entertain, their audience Millions of people from all over the world watch content produced by the BBC, and they are well respected as a media company. It was founded in 1922, with its headquarters in Westminster, London.
   genre:
   - '33'
-- eventId: 791065
+- eventId:
+  - 791065
+  - 986316
   start: 2026-11-26T06:30:00Z
   stop: 2026-11-26T06:55:00Z
   title: Business Today
   subtitle: Business, GB 2026. The latest business news from London and around the world.
   genre:
   - '32'
-- eventId: 791066
+- eventId:
+  - 791066
+  - 986317
   start: 2026-11-26T06:55:00Z
   stop: 2026-11-26T07:00:00Z
   title: Talking Movies
@@ -237,7 +266,9 @@
   description: 'The presenter travels all over the world, attending the greatest festivals and exclusive premieres, interviewing all the biggest stars, which over the years included big names such as Jude Law, Catherine Zeta Jones, Eathan Hawke, Ben Kingsley, Sally Hawkins and many others. The show also explores the newest trends and issues in the world of cinema. '
   genre:
   - '118'
-- eventId: 791751
+- eventId:
+  - 791751
+  - 986318
   start: 2026-11-26T07:00:00Z
   stop: 2026-11-26T07:30:00Z
   title: BBC News
@@ -245,14 +276,18 @@
   description: The BBC is aims to be a totally impartial public service broadcaster, and was established by Royal Charter. The BBC is funded by a licence fee paid by British households, and is regulated by Ofcom. They aim to create high-quality content, in order to inform and educate, but also entertain, their audience Millions of people from all over the world watch content produced by the BBC, and they are well respected as a media company. It was founded in 1922, with its headquarters in Westminster, London.
   genre:
   - '33'
-- eventId: 791752
+- eventId:
+  - 791752
+  - 986319
   start: 2026-11-26T07:30:00Z
   stop: 2026-11-26T07:55:00Z
   title: Business Today
   subtitle: Business, GB 2026. The latest business news from London and around the world.
   genre:
   - '32'
-- eventId: 791753
+- eventId:
+  - 791753
+  - 986320
   start: 2026-11-26T07:55:00Z
   stop: 2026-11-26T08:00:00Z
   title: Talking Movies
@@ -260,7 +295,9 @@
   description: 'The presenter travels all over the world, attending the greatest festivals and exclusive premieres, interviewing all the biggest stars, which over the years included big names such as Jude Law, Catherine Zeta Jones, Eathan Hawke, Ben Kingsley, Sally Hawkins and many others. The show also explores the newest trends and issues in the world of cinema. '
   genre:
   - '118'
-- eventId: 792432
+- eventId:
+  - 792432
+  - 986321
   start: 2026-11-26T08:00:00Z
   stop: 2026-11-26T08:30:00Z
   title: BBC News
@@ -268,7 +305,9 @@
   description: The BBC is aims to be a totally impartial public service broadcaster, and was established by Royal Charter. The BBC is funded by a licence fee paid by British households, and is regulated by Ofcom. They aim to create high-quality content, in order to inform and educate, but also entertain, their audience Millions of people from all over the world watch content produced by the BBC, and they are well respected as a media company. It was founded in 1922, with its headquarters in Westminster, London.
   genre:
   - '33'
-- eventId: 793058
+- eventId:
+  - 793058
+  - 986322
   start: 2026-11-26T08:30:00Z
   stop: 2026-11-26T09:00:00Z
   title: BBC News
@@ -276,7 +315,9 @@
   description: The BBC is aims to be a totally impartial public service broadcaster, and was established by Royal Charter. The BBC is funded by a licence fee paid by British households, and is regulated by Ofcom. They aim to create high-quality content, in order to inform and educate, but also entertain, their audience Millions of people from all over the world watch content produced by the BBC, and they are well respected as a media company. It was founded in 1922, with its headquarters in Westminster, London.
   genre:
   - '33'
-- eventId: 794224
+- eventId:
+  - 794224
+  - 986323
   start: 2026-11-26T09:00:00Z
   stop: 2026-11-26T09:30:00Z
   title: BBC News
@@ -284,7 +325,9 @@
   description: The BBC is aims to be a totally impartial public service broadcaster, and was established by Royal Charter. The BBC is funded by a licence fee paid by British households, and is regulated by Ofcom. They aim to create high-quality content, in order to inform and educate, but also entertain, their audience Millions of people from all over the world watch content produced by the BBC, and they are well respected as a media company. It was founded in 1922, with its headquarters in Westminster, London.
   genre:
   - '33'
-- eventId: 794323
+- eventId:
+  - 794323
+  - 986324
   start: 2026-11-26T09:30:00Z
   stop: 2026-11-26T09:55:00Z
   title: BBC News
@@ -292,7 +335,9 @@
   description: The BBC is aims to be a totally impartial public service broadcaster, and was established by Royal Charter. The BBC is funded by a licence fee paid by British households, and is regulated by Ofcom. They aim to create high-quality content, in order to inform and educate, but also entertain, their audience Millions of people from all over the world watch content produced by the BBC, and they are well respected as a media company. It was founded in 1922, with its headquarters in Westminster, London.
   genre:
   - '33'
-- eventId: 794324
+- eventId:
+  - 794324
+  - 986325
   start: 2026-11-26T09:55:00Z
   stop: 2026-11-26T10:00:00Z
   title: Talking Movies
@@ -300,7 +345,9 @@
   description: 'The presenter travels all over the world, attending the greatest festivals and exclusive premieres, interviewing all the biggest stars, which over the years included big names such as Jude Law, Catherine Zeta Jones, Eathan Hawke, Ben Kingsley, Sally Hawkins and many others. The show also explores the newest trends and issues in the world of cinema. '
   genre:
   - '118'
-- eventId: 795420
+- eventId:
+  - 795420
+  - 986326
   start: 2026-11-26T10:00:00Z
   stop: 2026-11-26T10:30:00Z
   title: BBC News
@@ -308,7 +355,9 @@
   description: The BBC is aims to be a totally impartial public service broadcaster, and was established by Royal Charter. The BBC is funded by a licence fee paid by British households, and is regulated by Ofcom. They aim to create high-quality content, in order to inform and educate, but also entertain, their audience Millions of people from all over the world watch content produced by the BBC, and they are well respected as a media company. It was founded in 1922, with its headquarters in Westminster, London.
   genre:
   - '33'
-- eventId: 796385
+- eventId:
+  - 796385
+  - 986327
   start: 2026-11-26T10:30:00Z
   stop: 2026-11-26T11:00:00Z
   title: BBC News
@@ -316,7 +365,9 @@
   description: The BBC is aims to be a totally impartial public service broadcaster, and was established by Royal Charter. The BBC is funded by a licence fee paid by British households, and is regulated by Ofcom. They aim to create high-quality content, in order to inform and educate, but also entertain, their audience Millions of people from all over the world watch content produced by the BBC, and they are well respected as a media company. It was founded in 1922, with its headquarters in Westminster, London.
   genre:
   - '33'
-- eventId: 796610
+- eventId:
+  - 796610
+  - 986328
   start: 2026-11-26T11:00:00Z
   stop: 2026-11-26T11:30:00Z
   title: BBC News
