@@ -158,6 +158,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ae2816ba82ff4c8f5b701cf
+  ageRating: 6
 - eventId:
   - 564965
   - 585620
@@ -172,6 +173,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ae2816ba82ff4c8f5b701cd
+  ageRating: 12
 - eventId:
   - 565433
   - 567857
@@ -222,6 +224,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 1289640
   - 1482918
@@ -259,6 +263,8 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ae2816ba82ff4c8f5b701c3
+  genre:
+  - '16'
 - eventId:
   - 1289641
   - 1482919
@@ -288,7 +294,7 @@
   start: 2026-12-07T13:30:00Z
   stop: 2026-12-07T15:00:00Z
   title: Eva Zacharias
-  subtitle: Spielfilm Deutschland 2006
+  subtitle: Fernsehfilm Deutschland 2006
   genre:
   - '16'
   widescreen: true
@@ -296,6 +302,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ae2816ba82ff4c8f5b701c1
+  ageRating: 6
 - eventId:
   - 566431
   - 568338
@@ -371,6 +378,8 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ae2816aa82ff4c8f5b701b9
+  genre:
+  - '16'
 - eventId:
   - 566435
   - 568343
@@ -487,7 +496,7 @@
   start: 2026-12-07T21:15:00Z
   stop: 2026-12-07T22:45:00Z
   title: Wolfsland - Das dreckige Dutzend
-  subtitle: Spielfilm Deutschland 2022
+  subtitle: Fernsehfilm Deutschland 2022
   ageRating: 12
   genre:
   - '16'
@@ -504,7 +513,7 @@
   start: 2026-12-07T22:45:00Z
   stop: 2026-12-08T00:15:00Z
   title: 'Tatort: Alles kommt zurück'
-  subtitle: Spielfilm Deutschland 2024
+  subtitle: Fernsehfilm Deutschland 2021
   ageRating: 12
   genre:
   - '16'
