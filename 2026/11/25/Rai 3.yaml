@@ -166,18 +166,15 @@
   subtitle: NOTIZIARIO.
   genre:
   - '16'
-- eventId: 908737
-  start: 2026-11-25T13:20:00Z
-  stop: 2026-11-25T13:49:00Z
-  title: TG3
-  subtitle: NOTIZIARIO.
-  genre:
-  - '16'
-- eventId: 982556
+- eventId:
+  - 908737
+  - 982556
   start: 2026-11-25T13:20:00Z
   stop: 2026-11-25T13:49:15Z
   title: TG3
   subtitle: NOTIZIARIO.
+  genre:
+  - '16'
 - eventId: 908738
   start: 2026-11-25T13:49:00Z
   stop: 2026-11-25T13:50:00Z
@@ -185,13 +182,20 @@
   subtitle: ' '
   genre:
   - '16'
-- eventId: 982557
+- eventId:
+  - 982557
+  - 988826
   start: 2026-11-25T13:49:15Z
   stop: 2026-11-25T13:50:00Z
   title: Meteo 3
-- eventId: 908739
+  subtitle: ' '
+  genre:
+  - '16'
+- eventId:
+  - 908739
+  - 982558
   start: 2026-11-25T13:50:00Z
-  stop: 2026-11-25T14:05:00Z
+  stop: 2026-11-25T14:00:00Z
   title: LEONARDO
   subtitle: ' '
   description: |-
@@ -201,21 +205,16 @@
     a cura della Tgr Piemonte
   genre:
   - '16'
-- eventId: 982558
-  start: 2026-11-25T13:50:00Z
-  stop: 2026-11-25T14:00:00Z
-  title: LEONARDO
-  description: |-
-    Direttore: Roberto Pacchetti
-    Vicedirettrice: Ines Maggiolini
-    Caporedattore centrale: Francesco Marino
-    a cura della Tgr Piemonte
-- eventId: 982559
+- eventId:
+  - 982559
+  - 988827
   start: 2026-11-25T14:00:00Z
   stop: 2026-11-25T15:00:00Z
   title: Camera dei Deputati. "Question Time" Int
   subtitle: Camera dei Deputati. "Question Time" Interrogazioni a risposta immediata
   description: a cura di Rai Parlamento
+  genre:
+  - '16'
 - eventId: 908740
   start: 2026-11-25T14:05:00Z
   stop: 2026-11-25T14:15:00Z
@@ -252,8 +251,34 @@
     Stagione 1
   genre:
   - '16'
+- eventId: 988828
+  start: 2026-11-25T15:00:00Z
+  stop: 2026-11-25T15:10:00Z
+  title: PIAZZA AFFARI
+  subtitle: ' '
+  description: |-
+    Direttore Roberto Pacchetti
+    Vicedirettrice Ines Maggiolini
+    a cura della Tgr Lombardia
+  genre:
+  - '16'
 - eventId: 908744
   start: 2026-11-25T15:10:00Z
+  stop: 2026-11-25T15:15:00Z
+  title: Aspettando Geo
+  subtitle: DOCUMENTARIO - GEO, il programma pomeridiano di Rai Cultura sulla natura, l'ambiente e le culture del mondo, di totale produzione interna, condotto dagli studi di Via Teulada in Roma da Sveva Sagramola ed Emanuele Biggi, in onda tu
+  description: "tti i giorni in diretta, dal lunedì al venerdì, dalle 16 alle 19.00 su Rai3. - Sveva Sagramola ed Emanuele Biggi\nUn programma di Marco Castellazzi, Rosario Cutolo, Luigi Felicetti, Chiara Romano, Sveva Sagramola Produttore esecutivo: Sara Mellone\nCapo progetto: Fausta Vannutelli\nCoordinamento editoriale: Caterina Manganella \nRegia: Michelangelo Pepe"
+  genre:
+  - '16'
+- eventId: 988829
+  start: 2026-11-25T15:15:00Z
+  stop: 2026-11-25T15:20:00Z
+  title: Rai Parlamento Telegiornale
+  subtitle: NOTIZIARIO.
+  genre:
+  - '16'
+- eventId: 988830
+  start: 2026-11-25T15:20:00Z
   stop: 2026-11-25T16:00:00Z
   title: Aspettando Geo
   subtitle: DOCUMENTARIO - GEO, il programma pomeridiano di Rai Cultura sulla natura, l'ambiente e le culture del mondo, di totale produzione interna, condotto dagli studi di Via Teulada in Roma da Sveva Sagramola ed Emanuele Biggi, in onda tu
@@ -277,13 +302,20 @@
   - '16'
 - eventId: 908747
   start: 2026-11-25T18:30:00Z
-  stop: 2026-11-25T18:51:30Z
+  stop: 2026-11-25T18:51:45Z
   title: TG Regione
   subtitle: NOTIZIARIO.
   genre:
   - '16'
 - eventId: 908748
   start: 2026-11-25T18:51:30Z
+  stop: 2026-11-25T19:00:00Z
+  title: TG Regione Meteo
+  subtitle: NOTIZIARIO.
+  genre:
+  - '16'
+- eventId: 988831
+  start: 2026-11-25T18:51:45Z
   stop: 2026-11-25T19:00:00Z
   title: TG Regione Meteo
   subtitle: NOTIZIARIO.
