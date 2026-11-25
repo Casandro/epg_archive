@@ -341,6 +341,15 @@
   ageRating: 12
   genre:
   - '96'
+- eventId: 987493
+  start: 2026-11-26T13:30:00Z
+  stop: 2026-11-26T13:55:00Z
+  title: Élő népzene
+  subtitle: '(magyar zenés műsor, 2007) - Mezőségi hagyományőrzők - 3. rész: Ördöngősfüzes - Népzene és néptánc a Duna Televízió műsorán. '
+  description: 'rendező:  Sztanó Hédi'
+  ageRating: 12
+  genre:
+  - '96'
 - eventId: 956435
   start: 2026-11-26T13:55:00Z
   stop: 2026-11-26T14:15:00Z
@@ -352,6 +361,14 @@
 - eventId: 812904
   start: 2026-11-26T14:00:00Z
   stop: 2026-11-26T14:25:00Z
+  title: Agytorna
+  subtitle: '(magyar szór. műsor, 2026)  A vetélkedők nagy múltú hagyományait folytatva, a Duna TV műsorában műsorvezetőink várják a játszani vágyó nézők hívását. Öt kérdéssel teszik... '
+  description: próbára a játékosok tudását, ha mindegyikre helyes válasz érkezik, a nyertes garantált ajándékot kap. Az izgalmakat a 3 perces időkeret és a változatos feladványok - többek között a filmrészletfelismerés, a képjáték, a betűkeveredés - biztosítják.
+  genre:
+  - '48'
+- eventId: 987494
+  start: 2026-11-26T14:00:00Z
+  stop: 2026-11-26T14:20:00Z
   title: Agytorna
   subtitle: '(magyar szór. műsor, 2026)  A vetélkedők nagy múltú hagyományait folytatva, a Duna TV műsorában műsorvezetőink várják a játszani vágyó nézők hívását. Öt kérdéssel teszik... '
   description: próbára a játékosok tudását, ha mindegyikre helyes válasz érkezik, a nyertes garantált ajándékot kap. Az izgalmakat a 3 perces időkeret és a változatos feladványok - többek között a filmrészletfelismerés, a képjáték, a betűkeveredés - biztosítják.
@@ -374,7 +391,9 @@
   ageRating: 12
   genre:
   - '144'
-- eventId: 812905
+- eventId:
+  - 812905
+  - 987495
   start: 2026-11-26T14:25:00Z
   stop: 2026-11-26T14:30:00Z
   title: Kik vagyunk? - Mi, magyarok
@@ -382,7 +401,9 @@
   description: 'tarsolylemez vagy a kalocsai motívumok ornamentikája. A magyar identitás mindannyiunk közös eredője: az evidencia, mely megbújik az első elgügyögött szóban, elcsukló hanggá változik a Nemzeti Múzeum lépcsője előtt, vagy üvöltéssé öblösödik egy vízilabda meccsen.'
   genre:
   - '144'
-- eventId: 812906
+- eventId:
+  - 812906
+  - 987496
   start: 2026-11-26T14:30:00Z
   stop: 2026-11-26T15:00:00Z
   title: Újvilági portrék
@@ -400,7 +421,9 @@
   ageRating: 12
   genre:
   - '16'
-- eventId: 812952
+- eventId:
+  - 812952
+  - 987497
   start: 2026-11-26T15:00:00Z
   stop: 2026-11-26T15:35:00Z
   title: Kisváros
@@ -417,7 +440,9 @@
   description: a program kedvelői ezentúl az M1 csatornáján kísérhetik figyelemmel a hét minden napján. Akik délelőtt nincsenek otthon, azok se bánkódjanak, délután a Duna Word 16.30-kor megismétli az adásokat. Így, a tengeren túl élő magyarság is láthatja a családokat érintő fontosabb kérdésekkel foglalkozó műsort. A produkció maximálisan a nézők igényeihez igazodik. A szerkesztők olyan délelőtti magazint készítenek, amelyben mindenki megtalálja a számára hasznos információt, egyben mankót jelenthet sok család számára a nehezebb élethelyzetekben.Az ebédhez készülődő kismamákat, nyugdíjasokat, nagyszülőket-szülőket szólítja meg hétköznap a Család-barát című műsor. A magazin a megszokott formában, de színesebb műsorfolyammal és tartalommal várja nézőit közel két órában.
   genre:
   - '32'
-- eventId: 812953
+- eventId:
+  - 812953
+  - 987498
   start: 2026-11-26T15:35:00Z
   stop: 2026-11-26T16:10:00Z
   title: Család-barát
@@ -433,7 +458,9 @@
   description: a program kedvelői ezentúl az M1 csatornáján kísérhetik figyelemmel a hét minden napján. Akik délelőtt nincsenek otthon, azok se bánkódjanak, délután a Duna Word 16.30-kor megismétli az adásokat. Így, a tengeren túl élő magyarság is láthatja a családokat érintő fontosabb kérdésekkel foglalkozó műsort. A produkció maximálisan a nézők igényeihez igazodik. A szerkesztők olyan délelőtti magazint készítenek, amelyben mindenki megtalálja a számára hasznos információt, egyben mankót jelenthet sok család számára a nehezebb élethelyzetekben.Az ebédhez készülődő kismamákat, nyugdíjasokat, nagyszülőket-szülőket szólítja meg hétköznap a Család-barát című műsor. A magazin a megszokott formában, de színesebb műsorfolyammal és tartalommal várja nézőit közel két órában.
   genre:
   - '32'
-- eventId: 812954
+- eventId:
+  - 812954
+  - 987499
   start: 2026-11-26T16:10:00Z
   stop: 2026-11-26T16:55:00Z
   title: Család-barát
@@ -465,14 +492,18 @@
   ageRating: 12
   genre:
   - '160'
-- eventId: 812955
+- eventId:
+  - 812955
+  - 987500
   start: 2026-11-26T16:55:00Z
   stop: 2026-11-26T16:58:00Z
   title: Időjárás-jelentés
   subtitle: '(magyar hírműsor, 2026) '
   genre:
   - '128'
-- eventId: 812956
+- eventId:
+  - 812956
+  - 987501
   start: 2026-11-26T16:58:00Z
   stop: 2026-11-26T17:00:00Z
   title: Agenda plusz
@@ -483,6 +514,15 @@
 - eventId: 812957
   start: 2026-11-26T17:00:00Z
   stop: 2026-11-26T17:30:00Z
+  title: Bringás Brigantik
+  subtitle: '(magyar természetf., 2022) - Tó előttünk, tó utánunk - Mi fán terem a bringázás? Hogyan segítsünk a legkisebbeknek, hogy biztonságban tekerhessenek velünk egy túrán? És hogyan... '
+  description: 'segítsünk azoknak, akik valamilyen okból nem engedhetik meg maguknak, hogy beszerezzenek egy saját bringát? Most minden kérdésre választ kapunk! Bő negyven kilométeres kört jelent a bringatúra: Tatabányáról indulva nagyon változatos környéken tekerve: egyik pillanatban mintha a Mad Max steampunk díszleteibe érkeznének hőseink, máskor egy horgászparadicsomban, kisebb-nagyobb tavakat kerülgetve és cölöpházakat csodálva kerékpároznak, hogy aztán néma remeték nyomán a lelki békét keressék. Bicajoznak kisforgalmú országúton, töltésen, meg kerékpárúton, aztán csatlakoznak hozzájuk régi útitársak és a legfiatalabb Briganti.  rendező:  Kolovratnik Krisztián'
+  ageRating: 12
+  genre:
+  - '160'
+- eventId: 987502
+  start: 2026-11-26T17:00:00Z
+  stop: 2026-11-26T17:10:00Z
   title: Bringás Brigantik
   subtitle: '(magyar természetf., 2022) - Tó előttünk, tó utánunk - Mi fán terem a bringázás? Hogyan segítsünk a legkisebbeknek, hogy biztonságban tekerhessenek velünk egy túrán? És hogyan... '
   description: 'segítsünk azoknak, akik valamilyen okból nem engedhetik meg maguknak, hogy beszerezzenek egy saját bringát? Most minden kérdésre választ kapunk! Bő negyven kilométeres kört jelent a bringatúra: Tatabányáról indulva nagyon változatos környéken tekerve: egyik pillanatban mintha a Mad Max steampunk díszleteibe érkeznének hőseink, máskor egy horgászparadicsomban, kisebb-nagyobb tavakat kerülgetve és cölöpházakat csodálva kerékpároznak, hogy aztán néma remeték nyomán a lelki békét keressék. Bicajoznak kisforgalmú országúton, töltésen, meg kerékpárúton, aztán csatlakoznak hozzájuk régi útitársak és a legfiatalabb Briganti.  rendező:  Kolovratnik Krisztián'
