@@ -560,7 +560,7 @@
   ageRating: 7
 - eventId: 765525
   start: 2026-11-25T17:30:00Z
-  stop: 2026-11-25T17:54:00Z
+  stop: 2026-11-25T17:55:00Z
   title: 'EDITION DU 25/11/2026 '
   subtitle: ' '
   ageRating: 7
@@ -576,7 +576,9 @@
 - eventId: 997085
   start: 2026-11-25T17:54:00Z
   stop: 2026-11-25T18:03:00Z
-- eventId: 790337
+- eventId:
+  - 790337
+  - 997392
   start: 2026-11-25T17:55:00Z
   stop: 2026-11-25T18:03:00Z
   title: 'L''INVITE TV5MONDE DU 25/11/26 '
