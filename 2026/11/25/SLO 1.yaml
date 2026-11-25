@@ -56,12 +56,20 @@
   - '32'
 - eventId: 905127
   start: 2026-11-25T05:35:00Z
-  stop: 2026-11-25T05:50:00Z
+  stop: 2026-11-25T05:45:00Z
   title: Kultura
-  subtitle: Kultura je kratka aktualna informativna oddaja o kulturi in umetnosti, v kateri se praviloma izpostavljajo osrednji dogodki dneva. V njej najdejo prostor tudi mednarodne novice in problemske teme.
+  subtitle: Na Slovenskem knjižnem sejmu so podelili priznanja zlata hruška v kategorijah izvirna slovenska mladinska leposlovna knjiga, prevedena mladinska leposlovna knjiga, izvirna slovenska mladinska poučna.
   ageRating: 4
   genre:
   - '160'
+- eventId: 977272
+  start: 2026-11-25T05:45:00Z
+  stop: 2026-11-25T06:00:00Z
+  title: Šport
+  subtitle: Zadnji pregled športnega dogajanja v dnevu je prelet dneva z vsemi najpomembnejšimi novicami, zlasti popoldanskimi in svežimi večernimi, ter napoved novega tekmovalnega dne.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 905128
   start: 2026-11-25T05:50:00Z
   stop: 2026-11-25T06:00:00Z
@@ -188,6 +196,14 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 977273
+  start: 2026-11-25T12:50:00Z
+  stop: 2026-11-25T13:15:00Z
+  title: Globus
+  subtitle: Srečanje voditeljev treh svetovnih velesil v kitajskem mestu Šendžen številni označujejo za zgodovinsko. Bo srečanje trojice res spremenilo mednarodni red in vzpostavilo novo ravnotežje moči na svetu?
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 905143
   start: 2026-11-25T13:15:00Z
   stop: 2026-11-25T13:35:00Z
@@ -238,12 +254,20 @@
   - '160'
 - eventId: 941694
   start: 2026-11-25T14:35:00Z
-  stop: 2026-11-25T14:50:00Z
+  stop: 2026-11-25T14:40:00Z
   title: Živalski čira čara
   subtitle: Je ptica? Je medved? Je Živalski čira čara! Ugibanje je zabavno. Vam je velik rilec znan? Kaj pa črno bela dlaka? In kaj menite o malčku, ki se plazi naokrog zelo počasi? Škatlica vam pomaga z namigi.
   ageRating: 4
   genre:
   - '160'
+- eventId: 977274
+  start: 2026-11-25T14:40:00Z
+  stop: 2026-11-25T14:50:00Z
+  title: Knjiga o džungli
+  subtitle: Darzi, Ravi in Vira nabirajo jagode, ko se prikaže Šir kan. Mavgli prihiti na pomoč. V tigra vrže kokos prav takrat, ko ga hoče Darzi treščiti. Ravi in Vira sta prepričana, da je Darzi zelo močen.
+  ageRating: 4
+  genre:
+  - '128'
 - eventId: 941695
   start: 2026-11-25T14:50:00Z
   stop: 2026-11-25T15:50:00Z
@@ -252,7 +276,9 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 905148
+- eventId:
+  - 905148
+  - 977275
   start: 2026-11-25T14:55:00Z
   stop: 2026-11-25T15:50:00Z
   title: Azija
@@ -410,12 +436,20 @@
   - '160'
 - eventId: 905172
   start: 2026-11-25T22:55:00Z
-  stop: 2026-11-25T23:25:00Z
+  stop: 2026-11-25T23:20:00Z
   title: Dnevnik Slovencev v Italiji
   subtitle: Dnevnik Slovencev v Italiji je informativna oddaja, v kateri novinarji poročajo predvsem o dnevnih dogodkih med Slovenci v Italiji.
   ageRating: 4
   genre:
   - '32'
+- eventId: 977276
+  start: 2026-11-25T23:20:00Z
+  stop: 2026-11-25T23:40:00Z
+  title: Takšno je življenje na kavču
+  subtitle: Vesna Ponorac in Blaž Dolenc, ki v novi sezoni upodabljata ljubezenski par, razkrivata, s kakšnimi preizkušnjami, odločitvami in presenečenji se bosta soočila njuna lika.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 905173
   start: 2026-11-25T23:25:00Z
   stop: 2026-11-25T23:40:00Z

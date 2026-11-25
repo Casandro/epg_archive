@@ -194,6 +194,7 @@
   - 968360
   - 972754
   - 974546
+  - 977295
   start: 2026-11-25T01:53:00Z
   stop: 2026-11-25T01:55:00Z
   title: Bez komentara
@@ -372,10 +373,13 @@
   - 974303
   - 975194
   start: 2026-11-25T04:56:00Z
-  stop: 2026-11-25T05:00:00Z
+  stop: 2026-11-25T04:58:00Z
   title: 'Bez komentara: Dortmund i Berlin, Njemačka - Otvoreni božićni sajmovi'
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 904599
   - 965160
@@ -392,6 +396,14 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 977296
+  start: 2026-11-25T04:58:00Z
+  stop: 2026-11-25T05:00:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 904600
   start: 2026-11-25T05:00:00Z
   stop: 2026-11-25T05:08:00Z
@@ -492,7 +504,7 @@
   - 940229
   - 941748
   start: 2026-11-25T05:57:00Z
-  stop: 2026-11-25T05:58:00Z
+  stop: 2026-11-25T06:00:00Z
   title: 'Bez komentara: Rio de Janeiro, Brazil - Povorka ponosa donosi dugine zastave i ples na plaži Copacabana'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
@@ -521,20 +533,17 @@
   - 964270
   - 967612
   - 968287
-  start: 2026-11-25T06:13:00Z
-  stop: 2026-11-25T06:20:00Z
-  title: Vijesti iz kulture
-  subtitle: ' '
-  description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
-- eventId:
   - 969190
   - 974304
   - 975195
   start: 2026-11-25T06:13:00Z
-  stop: 2026-11-25T06:22:00Z
+  stop: 2026-11-25T06:20:00Z
   title: Vijesti iz kulture
-  subtitle: ' '
+  subtitle: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
   description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 904608
   - 964502
@@ -556,11 +565,15 @@
   - 964271
   - 967613
   - 968288
+  - 977297
   start: 2026-11-25T06:20:00Z
   stop: 2026-11-25T06:22:00Z
   title: Vrijeme RH danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId: 904609
   start: 2026-11-25T06:22:00Z
   stop: 2026-11-25T06:23:00Z
@@ -572,7 +585,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 904610
   start: 2026-11-25T06:23:00Z
-  stop: 2026-11-25T06:25:00Z
+  stop: 2026-11-25T06:27:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -609,11 +622,15 @@
   - 964272
   - 967614
   - 968289
+  - 977298
   start: 2026-11-25T06:27:00Z
   stop: 2026-11-25T06:30:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 904612
   - 964504
@@ -728,7 +745,10 @@
   start: 2026-11-25T09:00:00Z
   stop: 2026-11-25T10:00:00Z
   title: Sjednica Vlade RH, prijenos
-  subtitle: ' '
+  subtitle: Sjednica Vlade RH, prijenos.
+  ageRating: 4
+  genre:
+  - '48'
 - eventId: 964273
   start: 2026-11-25T09:30:00Z
   stop: 2026-11-25T11:00:00Z
@@ -744,8 +764,11 @@
   start: 2026-11-25T10:00:00Z
   stop: 2026-11-25T11:00:00Z
   title: Prijenos sjednice Hrvatskog sabora
-  subtitle: ' '
+  subtitle: Prijenos sjednice Hrvatskog sabora.
   description: Prijenos sjednice Hrvatskog sabora.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 964274
   - 967617
@@ -756,7 +779,10 @@
   start: 2026-11-25T11:00:00Z
   stop: 2026-11-25T12:00:00Z
   title: Tematska sjednica saborskog Odbora za zdravstvo o bolnici na Jankomiru, prijenos
-  subtitle: ' '
+  subtitle: Tematska sjednica saborskog Odbora za zdravstvo o bolnici na Jankomiru, prijenos
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 904624
   start: 2026-11-25T12:00:00Z
   stop: 2026-11-25T12:30:00Z
@@ -820,8 +846,11 @@
   start: 2026-11-25T12:43:00Z
   stop: 2026-11-25T12:46:00Z
   title: Poslovne vijesti
-  subtitle: ' '
+  subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 904629
   - 958446
@@ -853,8 +882,11 @@
   start: 2026-11-25T12:46:00Z
   stop: 2026-11-25T12:55:00Z
   title: 'Studio 4: Znanost'
-  subtitle: ' '
+  subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   description: Kratki pregled aktualnosti iz svijeta znanosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 958243
   - 959022
@@ -894,8 +926,11 @@
   start: 2026-11-25T12:55:00Z
   stop: 2026-11-25T13:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 958244
   - 959023
@@ -1007,8 +1042,11 @@
   start: 2026-11-25T14:55:00Z
   stop: 2026-11-25T15:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 904642
   start: 2026-11-25T15:00:00Z
   stop: 2026-11-25T15:15:00Z
@@ -1135,8 +1173,11 @@
   start: 2026-11-25T16:14:00Z
   stop: 2026-11-25T16:16:00Z
   title: Vrijeme svijet danas
-  subtitle: ' '
+  subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 904654
   - 964508
@@ -1164,8 +1205,11 @@
   start: 2026-11-25T16:16:00Z
   stop: 2026-11-25T16:20:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 904655
   start: 2026-11-25T16:20:00Z
   stop: 2026-11-25T16:40:00Z
@@ -1203,8 +1247,11 @@
   start: 2026-11-25T16:46:00Z
   stop: 2026-11-25T16:55:00Z
   title: 'Studio 4: Sport'
-  subtitle: ' '
+  subtitle: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 904658
   - 964509
@@ -1232,8 +1279,11 @@
   start: 2026-11-25T16:55:00Z
   stop: 2026-11-25T17:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 904659
   - 964510
