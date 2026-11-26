@@ -247,7 +247,7 @@
   - 782948
   - 806144
   start: 2026-11-26T11:20:00Z
-  stop: 2026-11-26T11:30:00Z
+  stop: 2026-11-26T11:30:24Z
   title: Předpověď počasí, sportovní zprávy
   subtitle: Souhrn meteorologických informací uplynulých 24 hodin a prognóza vývoje počasí na příští dny.
   description: |-
@@ -273,7 +273,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1022107
+- eventId:
+  - 1022107
+  - 1022213
   start: 2026-11-26T11:30:24Z
   stop: 2026-11-26T11:34:14Z
   title: Zprávy
@@ -282,6 +284,7 @@
     Skryté titulky
   genre:
   - '32'
+  widescreen: true
 - eventId:
   - 1020730
   - 782950

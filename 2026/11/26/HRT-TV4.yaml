@@ -1211,6 +1211,7 @@
   description: Kratki pregled vijesti iz Hrvatske i svijeta.
 - eventId:
   - 1021126
+  - 1022176
   - 939321
   start: 2026-11-26T08:30:00Z
   stop: 2026-11-26T12:00:00Z
@@ -1264,7 +1265,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 939329
   start: 2026-11-26T12:35:00Z
-  stop: 2026-11-26T12:45:00Z
+  stop: 2026-11-26T12:43:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -1276,12 +1277,16 @@
   - 1011444
   - 1014045
   - 1018054
+  - 1022130
   - 999983
   start: 2026-11-26T12:43:00Z
   stop: 2026-11-26T12:48:00Z
   title: Poslovne vijesti
-  subtitle: ' '
+  subtitle: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1000073
   - 1005216
@@ -1305,12 +1310,16 @@
   - 1011445
   - 1014046
   - 1018055
+  - 1022131
   - 999984
   start: 2026-11-26T12:48:00Z
   stop: 2026-11-26T12:56:00Z
   title: 'Studio 4: Znanost'
-  subtitle: ' '
+  subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   description: Kratki pregled aktualnosti iz svijeta znanosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1000074
   - 1005217
@@ -1334,12 +1343,16 @@
   - 1011446
   - 1014047
   - 1018056
+  - 1022177
   - 999985
   start: 2026-11-26T12:56:00Z
   stop: 2026-11-26T13:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 939332
   start: 2026-11-26T13:00:00Z
   stop: 2026-11-26T13:30:00Z
@@ -1385,7 +1398,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 939337
+- eventId:
+  - 1022178
+  - 939337
   start: 2026-11-26T13:55:00Z
   stop: 2026-11-26T14:00:00Z
   title: Bez komentara
@@ -1443,8 +1458,11 @@
   start: 2026-11-26T14:55:00Z
   stop: 2026-11-26T15:00:00Z
   title: Bez komentara
-  subtitle: ' '
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 939343
   start: 2026-11-26T15:00:00Z
   stop: 2026-11-26T15:15:00Z
@@ -1529,7 +1547,7 @@
   start: 2026-11-26T15:30:00Z
   stop: 2026-11-26T15:55:00Z
   title: Druga strana
-  subtitle: Tjedna emisija o gospodarstvu koja govori o onome što drugi prešućuju. Je li sve onakvo kakvim se na prvi pogled čini?
+  subtitle: Od Srbije do Bangladeša i Senegala, mladi su postali glavna snaga borbe za ono što površni mediji i navodno interesno neovisni globalni forumi nazivaju "demokracijom".
   ageRating: 4
   genre:
   - '160'
@@ -1586,7 +1604,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1021127
+- eventId:
+  - 1021127
+  - 1022179
   start: 2026-11-26T16:13:00Z
   stop: 2026-11-26T16:15:00Z
   title: Vrijeme Svijet danas
@@ -1648,6 +1668,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId:
   - 1021128
+  - 1022180
   - 939354
   start: 2026-11-26T16:20:00Z
   stop: 2026-11-26T16:40:00Z
@@ -1665,6 +1686,7 @@
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId:
   - 1021129
+  - 1022181
   - 939355
   start: 2026-11-26T16:40:00Z
   stop: 2026-11-26T16:45:00Z
@@ -1682,6 +1704,7 @@
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
 - eventId:
   - 1021130
+  - 1022182
   - 939356
   start: 2026-11-26T16:45:00Z
   stop: 2026-11-26T16:52:00Z
@@ -1699,6 +1722,7 @@
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
 - eventId:
   - 1021131
+  - 1022183
   - 940238
   start: 2026-11-26T16:52:00Z
   stop: 2026-11-26T16:57:00Z
@@ -1732,7 +1756,9 @@
   title: 'Studio 4: Zelena linija'
   subtitle: ' '
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
-- eventId: 1021132
+- eventId:
+  - 1021132
+  - 1022184
   start: 2026-11-26T17:20:00Z
   stop: 2026-11-26T17:23:00Z
   title: '#REPORTAŽE'
@@ -1757,6 +1783,7 @@
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 1021133
+  - 1022185
   - 940239
   - 941384
   start: 2026-11-26T17:23:00Z
@@ -1862,7 +1889,7 @@
   - 940241
   - 941386
   start: 2026-11-26T18:55:00Z
-  stop: 2026-11-26T18:58:00Z
+  stop: 2026-11-26T19:00:00Z
   title: Vrijeme svijet sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
@@ -1916,12 +1943,16 @@
   - 1014048
   - 1018057
   - 1020995
+  - 1022142
   - 999986
   start: 2026-11-26T19:00:00Z
   stop: 2026-11-26T19:01:00Z
   title: HAK - promet info
-  subtitle: ' '
+  subtitle: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
   description: Aktualne informacije o cestovnom i trajektnom prometu, uz javljanja iz Hrvatskog autokluba.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 939371
   - 940635
@@ -1954,7 +1985,7 @@
   description: Tjedni vanjskopolitički magazin koji informira, približava i analizira svjetske događaje, procese, izazove i prijetnje.
 - eventId: 939373
   start: 2026-11-26T19:30:00Z
-  stop: 2026-11-26T19:57:00Z
+  stop: 2026-11-26T19:52:00Z
   title: 'Labirint: Poslije kiše dolazi sunce'
   subtitle: Kako se namještaju natječaji za dodjelu državnog poljoprivrednog zemljišta? Što kada su pravo i pravda na strani poljoprivrednika, a do zemlje i dalje ne mogu.
   ageRating: 4
@@ -1978,12 +2009,21 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 1022186
+  start: 2026-11-26T19:57:00Z
+  stop: 2026-11-26T20:00:00Z
+  title: Bez komentara
+  subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1004027
   - 1011448
   - 1014049
   - 1018058
   - 1020997
+  - 1022144
   - 939375
   - 940636
   - 999987
@@ -2028,6 +2068,14 @@
   title: 'DW: Global Us'
   subtitle: ' '
   description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
+- eventId: 1022145
+  start: 2026-11-26T20:45:00Z
+  stop: 2026-11-26T21:12:00Z
+  title: Global 3000
+  subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 939376
   - 940637
@@ -2083,12 +2131,16 @@
   - 1014056
   - 1018060
   - 1020999
+  - 1022146
   - 999989
   start: 2026-11-26T21:12:00Z
   stop: 2026-11-26T21:44:00Z
   title: Svijet znanosti
-  subtitle: ' '
+  subtitle: Emisija donosi aktualnosti, nova znanstvena otkrića, zanimljivosti iz životinjskog i biljnog svijeta te društvene fenomene. Zavirit ćemo u sve kutke Zemlje, a nećemo zaboraviti ni ostatak svemira.
   description: Emisija donosi aktualnosti, nova znanstvena otkrića, zanimljivosti iz životinjskog i biljnog svijeta te društvene fenomene. Zavirit ćemo u sve kutke Zemlje, a nećemo zaboraviti ni ostatak svemira. Donosimo ozbiljnu, ali i onu ležerniju, zabavnu stranu znanosti.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1000078
   - 1005221
@@ -2126,12 +2178,16 @@
   - 1014057
   - 1018061
   - 1021000
+  - 1022147
   - 999990
   start: 2026-11-26T21:44:00Z
   stop: 2026-11-26T22:04:00Z
   title: 'Studio 4: Zelena linija'
-  subtitle: ' '
+  subtitle: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1000079
   - 1005222
@@ -2175,6 +2231,14 @@
   title: '#REPORTAŽE: Muzej sporta'
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+- eventId: 1022148
+  start: 2026-11-26T22:04:00Z
+  stop: 2026-11-26T22:08:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1000080
   - 1005223
@@ -2242,6 +2306,7 @@
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId:
   - 1021161
+  - 1022187
   - 939382
   start: 2026-11-26T22:20:00Z
   stop: 2026-11-26T22:30:00Z
@@ -2259,6 +2324,7 @@
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId:
   - 1021162
+  - 1022188
   - 939383
   start: 2026-11-26T22:30:00Z
   stop: 2026-11-26T22:50:00Z
@@ -2268,7 +2334,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 1021163
+- eventId:
+  - 1021163
+  - 1022189
   start: 2026-11-26T22:50:00Z
   stop: 2026-11-26T22:55:00Z
   title: '#REPORTAŽE'
@@ -2293,6 +2361,7 @@
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 1021164
+  - 1022190
   - 940250
   - 941395
   start: 2026-11-26T22:55:00Z
