@@ -523,7 +523,7 @@
   - 1022009
   - 1022028
   start: 2026-11-26T14:03:00Z
-  stop: 2026-11-26T14:29:50Z
+  stop: 2026-11-26T14:29:10Z
   title: Studio ČT24
   subtitle: Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí.
   description: |-
@@ -533,7 +533,9 @@
   - '35'
   widescreen: true
   subtitled: true
-- eventId: 1023270
+- eventId:
+  - 1023270
+  - 1023328
   start: 2026-11-26T14:29:10Z
   stop: 2026-11-26T14:32:10Z
   title: Zprávy
@@ -568,7 +570,9 @@
   - '32'
   widescreen: true
   subtitled: true
-- eventId: 1023271
+- eventId:
+  - 1023271
+  - 1023329
   start: 2026-11-26T14:32:10Z
   stop: 2026-11-26T14:39:10Z
   title: Studio ČT24
@@ -606,7 +610,9 @@
   - '35'
   widescreen: true
   subtitled: true
-- eventId: 1023272
+- eventId:
+  - 1023272
+  - 1023330
   start: 2026-11-26T14:39:10Z
   stop: 2026-11-26T15:00:00Z
   title: Ekonomika ČT24
