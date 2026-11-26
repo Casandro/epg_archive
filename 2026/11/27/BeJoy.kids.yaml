@@ -459,7 +459,7 @@
   subtitle: Episodio 9
 - eventId: 1028877
   start: 2026-11-27T03:21:43Z
-  stop: 2026-11-27T03:31:02Z
+  stop: 2026-11-27T03:31:01Z
   title: Minno Kids
   subtitle: Perché Gesù doveva morire
 - eventId: 1025902
@@ -487,7 +487,9 @@
   stop: 2026-11-27T03:31:09Z
   title: Minno Kids
   subtitle: Perché Gesù doveva morire
-- eventId: 1028878
+- eventId:
+  - 1028878
+  - 1031262
   start: 2026-11-27T03:31:01Z
   stop: 2026-11-27T03:37:45Z
   title: La Bussola - Al servizio dei più piccoli
@@ -1723,3 +1725,8 @@
   stop: 2026-11-27T18:31:55Z
   title: Superbook
   subtitle: S03 | E11 - Re Salomone
+- eventId: 1031265
+  start: 2026-11-27T18:31:55Z
+  stop: 2026-11-27T18:57:18Z
+  title: Quo Vadis
+  subtitle: 'Episodio 9: Quo Vadis? Il cartone animato dedicato alla nascita delle prime comunità cristiane da Gerusalemme a Roma insieme agli Apostoli per una avventura che continua nei secoli!'
