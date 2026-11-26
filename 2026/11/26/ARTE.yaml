@@ -241,6 +241,15 @@
     AUDIO 1 : FRANÇAIS / AUDIO 2 : ALLEMAND
   genre:
   - '35'
+- eventId: 1023291
+  start: 2026-11-26T12:03:08Z
+  stop: 2026-11-26T12:35:35Z
+  title: ARTE Regards - En Europe, fleuves et rivières à sec
+  description: |-
+    Reportage (Allemagne, 2026, 30mn) Cet été, la sécheresse a fait chuter le débit des fleuves et des rivières d'Europe. Les barges qui circulent sur le Rhin ont été contraintes de réduire le poids de leur cargaison, ce qui a perturbé la chaîne d'approvisionnement industrielle. Combien de temps la navigation fluviale pourra-t-elle encore tenir le choc ?
+    AUDIO 1 : FRANÇAIS / AUDIO 2 : ALLEMAND
+  genre:
+  - '35'
 - eventId:
   - 1020798
   - 821586
@@ -251,7 +260,9 @@
   ageRating: 12
   genre:
   - '20'
-- eventId: 1015999
+- eventId:
+  - 1015999
+  - 1023292
   start: 2026-11-26T12:35:35Z
   stop: 2026-11-26T14:25:00Z
   title: Cluedo (VM)
@@ -298,7 +309,9 @@
   subtitle: Considérés comme des machines à tuer guidées par leur seul instinct sanguinaire, les requins restent en réalité méconnus. Certaines espèces sont aujourd'hui menacées.
   genre:
   - '146'
-- eventId: 1016001
+- eventId:
+  - 1016001
+  - 1023293
   start: 2026-11-26T15:38:14Z
   stop: 2026-11-26T16:20:00Z
   title: Cinquante nuances de requins
@@ -318,7 +331,9 @@
   subtitle: E52. En Amazonie, l'écrivain de la forêt - A Chypre, recoudre la ligne de démarcation - En Finlande, le porridge fouetté de Lida - En Thaïlande, la reine des desserts.
   genre:
   - '116'
-- eventId: 1016002
+- eventId:
+  - 1016002
+  - 1023294
   start: 2026-11-26T16:23:40Z
   stop: 2026-11-26T17:05:00Z
   title: Invitation au voyage - Amazonie / Chypre / Thaïlande
@@ -338,7 +353,9 @@
   subtitle: E38. En Islande, une Miss qui préfère les mots - Le marseillais, c'est aussi une langue - En Albanie, la truite aux légumes de Merita - En Italie, le congrès de la discorde.
   genre:
   - '116'
-- eventId: 1016003
+- eventId:
+  - 1016003
+  - 1023295
   start: 2026-11-26T17:09:31Z
   stop: 2026-11-26T17:50:00Z
   title: Invitation au voyage - Islande / Marseille / Italie
@@ -365,7 +382,9 @@
   subtitle: 'Normandie : le poulet Vallée d''Auge E136. La journaliste Anne Bouaziz explore la Normandie pour y découvrir le célèbre poulet Vallée d''Auge avec le chef Adrien Haye et la gastronomie locale.'
   genre:
   - '32'
-- eventId: 1016004
+- eventId:
+  - 1016004
+  - 1023296
   start: 2026-11-26T17:54:36Z
   stop: 2026-11-26T18:30:00Z
   title: 'Voyage en cuisine - Normandie : le poulet vallée d''Auge'
@@ -396,6 +415,7 @@
 - eventId:
   - 1005227
   - 1016005
+  - 1023297
   start: 2026-11-26T18:32:20Z
   stop: 2026-11-26T18:45:00Z
   title: Le dessous des images - Le tsunami des affiches IA
@@ -429,6 +449,7 @@
 - eventId:
   - 1005228
   - 1016006
+  - 1023298
   start: 2026-11-26T19:06:43Z
   stop: 2026-11-26T19:50:00Z
   title: 28 minutes
@@ -451,6 +472,7 @@
 - eventId:
   - 1005229
   - 1016007
+  - 1023299
   start: 2026-11-26T19:52:58Z
   stop: 2026-11-26T19:59:26Z
   title: Le dessous des cartes - L'essentiel
@@ -473,6 +495,7 @@
 - eventId:
   - 1005230
   - 1016008
+  - 1023300
   start: 2026-11-26T19:59:26Z
   stop: 2026-11-26T20:40:00Z
   title: Eldorado (4/6)
@@ -496,6 +519,7 @@
 - eventId:
   - 1005231
   - 1016009
+  - 1023301
   start: 2026-11-26T20:42:27Z
   stop: 2026-11-26T21:25:00Z
   title: Eldorado (5/6)

@@ -411,7 +411,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 1022973
+- eventId:
+  - 1022973
+  - 1023269
   start: 2026-11-26T12:33:15Z
   stop: 2026-11-26T13:00:00Z
   title: Studio ČT24
@@ -531,6 +533,16 @@
   - '35'
   widescreen: true
   subtitled: true
+- eventId: 1023270
+  start: 2026-11-26T14:29:10Z
+  stop: 2026-11-26T14:32:10Z
+  title: Zprávy
+  description: |-
+    16:9
+    Skryté titulky
+  genre:
+  - '32'
+  widescreen: true
 - eventId:
   - 1022705
   - 1022711
@@ -556,6 +568,17 @@
   - '32'
   widescreen: true
   subtitled: true
+- eventId: 1023271
+  start: 2026-11-26T14:32:10Z
+  stop: 2026-11-26T14:39:10Z
+  title: Studio ČT24
+  subtitle: 'Témata: Setkání lídrů českého stavebnictví; Počasí v regionech.'
+  description: |-
+    16:9
+    Skryté titulky
+  genre:
+  - '35'
+  widescreen: true
 - eventId:
   - 1022706
   - 1022712
@@ -583,6 +606,17 @@
   - '35'
   widescreen: true
   subtitled: true
+- eventId: 1023272
+  start: 2026-11-26T14:39:10Z
+  stop: 2026-11-26T15:00:00Z
+  title: Ekonomika ČT24
+  subtitle: Nejdůležitější zprávy ze světa peněz každý všední den.
+  description: |-
+    16:9
+    Skryté titulky
+  genre:
+  - '128'
+  widescreen: true
 - eventId:
   - 1019844
   - 1022012
@@ -714,8 +748,9 @@
   start: 2026-11-26T16:55:00Z
   stop: 2026-11-26T17:00:00Z
   title: Předpověď počasí
-  subtitle: Souhrn meteorologických informací uplynulých 24 hodin a prognóza vývoje počasí na příští dny.
+  subtitle: Převažovat bude zataženo, na většině území se slabým občasným sněžením. Během odpoledne a večera bude sněžení zvolna ubývat a lokálně se začne protrhávat oblačnost. Nejvyšší teploty -3 až +1 °C, v
   description: |-
+    1000 m na horách kolem -5 °C. Slabý severní až severovýchodní vítr 1 až 4 m/s, zejména na východě místy vítr mírný 3 až 7 m/s.
     HDTV
     Zvukový popis
     Skryté titulky
