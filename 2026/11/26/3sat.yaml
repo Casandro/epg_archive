@@ -922,23 +922,11 @@
 
     Grüne Verstecke und architektonische Besonderheiten: Eine Reise zu Orten, die Natur, Geschichte und Nostalgie vereinen. Zu besonderen Hotels, die Naturverbundenheit mit nostalgischem Charme verbinden.
     HD-Produktion
-- eventId: 1019704
+- eventId:
+  - 1019704
+  - 1027619
   start: 2026-11-26T16:03:00Z
   stop: 2026-11-26T16:47:00Z
-  title: Die außergewöhnlichsten Hotels der Welt (5/6)
-  subtitle: Natur trifft Geschichte
-  description: |-
-    Großbritannien 2025
-    Übernachten im Naturreservat, auf dem Wasser oder an Bord eines Zuges: In einem mysteriösen Turm in den schottischen Highlands oder einem amerikanischen Wohnmobilpark mit Retroschick.
-
-    Grüne Verstecke und architektonische Besonderheiten: Eine Reise zu Orten, die Natur, Geschichte und Nostalgie vereinen. Zu besonderen Hotels, die Naturverbundenheit mit nostalgischem Charme verbinden.
-    HD-Produktion
-  genre:
-  - '144'
-  widescreen: true
-- eventId: 1027619
-  start: 2026-11-26T16:03:00Z
-  stop: 2026-11-26T16:45:00Z
   title: Die außergewöhnlichsten Hotels der Welt (5/6)
   subtitle: Natur trifft Geschichte
   description: |-
@@ -1094,7 +1082,9 @@
 
     Moderation: Lilian Moschen
     HD-Produktion
-- eventId: 1019096
+- eventId:
+  - 1019096
+  - 1028677
   start: 2026-11-26T18:22:00Z
   stop: 2026-11-26T18:24:00Z
   title: 3sat-Wetter
@@ -1104,7 +1094,11 @@
   genre:
   - '32'
   widescreen: true
-- eventId: 1019097
+  hd: true
+  audiodesc: true
+- eventId:
+  - 1019097
+  - 1028678
   start: 2026-11-26T18:24:00Z
   stop: 2026-11-26T19:00:00Z
   title: Kulturzeit
@@ -1123,6 +1117,8 @@
   genre:
   - '112'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 540346
   - 560934
@@ -1165,7 +1161,9 @@
 
     Die Förderung birgt ein Risiko: Erdbeben. Forschende suchen nun Wege, die Technologie sicher zu machen. Rund die Hälfte unseres Energieverbrauchs entfällt auf den Wärmesektor. Kommunen und Industrie könnten von mehr Geothermie profitieren und selbst Strom erzeugen.
     HD-Produktion
-- eventId: 1019098
+- eventId:
+  - 1019098
+  - 1028679
   start: 2026-11-26T19:17:00Z
   stop: 2026-11-26T20:00:00Z
   title: Tiefengeothermie - Wie gefährlich ist Energie aus der Erde?
@@ -1178,6 +1176,8 @@
   genre:
   - '144'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 540348
   - 560936
@@ -1289,6 +1289,22 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 1028681
+  start: 2026-11-26T21:29:00Z
+  stop: 2026-11-26T21:55:00Z
+  title: auslandsjournal extra
+  subtitle: ZDF-Korrespondenten berichten aus aller Welt
+  description: |-
+    Deutschland 2025
+    "auslandsjournal extra" zeigt politische Entwicklungen und gesellschaftliche Veränderungen in den Ländern der Welt.
+
+    Das Magazin berichtet über Hintergründe von Konflikten, beobachtet Entwicklungen der internationalen Politik und Auslandskorrespondenten liefern Analysen.
+    HD-Produktion
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 540603
   - 544437
@@ -1336,6 +1352,23 @@
   - '144'
   widescreen: true
   subtitled: true
+- eventId: 1028682
+  start: 2026-11-26T21:58:00Z
+  stop: 2026-11-26T22:40:00Z
+  title: Die Tricks der Onlinehändler - Mit Pia Osterhaus
+  subtitle: Film von Marvin Mohr
+  description: |-
+    Dokumentation, Deutschland 2026
+    Im Internet einzukaufen ist heutzutage Alltag: Fast 90 Milliarden Euro gaben die Deutschen 2024 beim Onlineshopping aus. Hinter dieser enormen Summe stecken oft raffinierte Verkaufstricks.
+
+    Pia Osterhaus will herausfinden, wie es die Onlinehändler schaffen, uns zum schnellen "Klick" zu bringen. Mit welchen Tricks werden wir angelockt, wie vertrauenswürdig sind Sterne-Bewertungen, Produktbeschreibungen und zeitlich limitierte Schnäppchen wirklich?
+    HD-Produktion
+  genre:
+  - '144'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 540604
   - 544438
@@ -1384,6 +1417,21 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 1028683
+  start: 2026-11-26T22:43:00Z
+  stop: 2026-11-26T23:10:00Z
+  title: 'WeltWeit: Wohn(t)räume in der Krise.'
+  subtitle: Wie sollen wir in Zukunft leben?
+  description: |-
+    Die Mieten steigen stetig, die Finanzierung von Eigentum sprengt oft den finanziellen Rahmen junger Familien. In immer mehr Städten fehlt es an leistbarem Wohnraum.
+
+    Dabei stehen viele Wohnungen leer oder werden über Plattformen wie Airbnb nur als Ferienunterkünfte vermietet. Wer endlich fündig geworden ist, bekommt am privaten Mietmarkt häufig nur einen befristeten Vertrag.
+    HD-Produktion
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 540605
   - 601372
@@ -1446,6 +1494,20 @@
   genre:
   - '32'
   widescreen: true
+- eventId: 1028684
+  start: 2026-11-26T23:14:00Z
+  stop: 2026-11-26T23:35:00Z
+  title: 10 vor 10
+  description: |-
+    "10 vor 10" ist eine Informationssendung von Schweizer Radio und Fernsehen (SRF).
+
+    Vertiefende Berichte, Reportagen, Porträts und Live-Gespräche informieren über die wichtigsten Themen des Tages aus der Schweiz und der Welt.
+    HD-Produktion
+  genre:
+  - '32'
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 540606
   - 601373
@@ -1523,3 +1585,28 @@
   - '128'
   widescreen: true
   subtitled: true
+- eventId: 1028685
+  start: 2026-11-26T23:40:00Z
+  stop: 2026-11-27T00:50:00Z
+  title: maischberger
+  description: |-
+    Luigi Pantisano, Die Linke - Parteivorsitzender
+
+    Wolfgang Kubicki, FDP - Parteivorsitzender
+
+    Frank Thelen - Unternehmer
+
+    Manfred Lütz - Autor und Psychiater
+
+    Dagmar Rosenfeld - Podcast: Machtwechsel
+
+    Victoria Reichelt - Journalistin
+
+    Moderation: Sandra Maischberger
+    HD-Produktion
+  genre:
+  - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+  audiodesc: true
