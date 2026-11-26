@@ -13,6 +13,7 @@
   title: Stiri de week-end.
 - eventId:
   - 1004878
+  - 1012731
   - 886093
   start: 2026-11-29T04:00:00Z
   stop: 2026-11-29T04:30:00Z
@@ -39,7 +40,7 @@
   - 966347
   - 998406
   start: 2026-11-29T04:30:00Z
-  stop: 2026-11-29T05:00:00Z
+  stop: 2026-11-29T04:45:00Z
   title: HOROSKOPY
   subtitle: 12.10.2026 - 18.10.2026
   genre:
@@ -48,6 +49,7 @@
   description: Týždenné horoskopy s Petrom.
 - eventId:
   - 1004879
+  - 1012732
   - 886095
   start: 2026-11-29T04:45:00Z
   stop: 2026-11-29T05:00:00Z
@@ -56,22 +58,17 @@
   subtitle: Teleshoppingové pásmo
 - eventId:
   - 1009467
+  - 886096
   - 901356
   - 981178
   start: 2026-11-29T05:00:00Z
   stop: 2026-11-29T06:40:00Z
-  title: Veštenie repríza
+  title: Ezoterická poradňa
   genre:
   - '149'
   description: Poradenstvo, veštenie, výklad osudu, numerológia
-- eventId: 886096
-  start: 2026-11-29T05:00:00Z
-  stop: 2026-11-29T06:40:00Z
-  title: Ezoterická poradňa
   subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
   ageRating: 12
-  genre:
-  - '32'
 - eventId:
   - 936125
   - 996587
@@ -97,15 +94,8 @@
   start: 2026-11-29T06:00:00Z
   stop: 2026-11-29T07:00:00Z
   title: Amprente.
-- eventId: 1009476
-  start: 2026-11-29T06:40:00Z
-  stop: 2026-11-29T07:45:00Z
-  title: HOROSKOPY
-  subtitle: 12.10.2026 - 18.10.2026
-  description: Týždenné horoskopy s Petrom.
-  genre:
-  - '149'
 - eventId:
+  - 1009476
   - 886099
   - 901384
   - 953311
@@ -114,11 +104,11 @@
   start: 2026-11-29T06:40:00Z
   stop: 2026-11-29T07:30:00Z
   title: Teleshoppingové pásmo
-  ageRating: 12
   subtitle: 12.10.2026 - 18.10.2026
+  description: Týždenné horoskopy s Petrom.
   genre:
   - '149'
-  description: ' (2026)'
+  ageRating: 12
 - eventId:
   - 1005282
   - 934573
@@ -136,6 +126,12 @@
   ageRating: 12
   subtitle: Teleshoppingové pásmo
   description: ' (2026)'
+- eventId: 1012736
+  start: 2026-11-29T07:30:00Z
+  stop: 2026-11-29T07:45:00Z
+  title: Teleshoppingové pásmo
+  subtitle: Teleshoppingové pásmo
+  ageRating: 12
 - eventId:
   - 934574
   - 967519
@@ -171,7 +167,7 @@
   - 967520
   - 996545
   start: 2026-11-29T08:00:00Z
-  stop: 2026-11-29T13:00:00Z
+  stop: 2026-11-29T09:40:00Z
   title: Televeštiareň s Vanessou
   genre:
   - '149'
@@ -205,6 +201,7 @@
   title: Magazin la tine acasa.
 - eventId:
   - 1004897
+  - 1012742
   - 886106
   start: 2026-11-29T09:40:00Z
   stop: 2026-11-29T10:00:00Z
@@ -214,6 +211,7 @@
   description: ' (2026)'
 - eventId:
   - 1004898
+  - 1012743
   - 886107
   start: 2026-11-29T10:00:00Z
   stop: 2026-11-29T12:00:00Z
@@ -248,6 +246,7 @@
   title: Oameni Simpli.
 - eventId:
   - 1004906
+  - 1012748
   - 886108
   start: 2026-11-29T12:00:00Z
   stop: 2026-11-29T13:00:00Z
@@ -300,6 +299,7 @@
   - '32'
 - eventId:
   - 1000845
+  - 1009507
   - 886111
   - 901462
   - 953329
@@ -313,14 +313,7 @@
   genre:
   - '149'
   ageRating: 12
-- eventId: 1009507
-  start: 2026-11-29T15:00:00Z
-  stop: 2026-11-29T19:00:00Z
-  title: Médium
-  subtitle: Adam
   description: Relácia zameraná na spojenie sa s iným svetom. Médium je spojovník medzi týmto svetom a svetom za jeho hranicami. Médium má schopnosť napojiť sa do duchovného sveta a prijímať a odovzdávať správy.
-  genre:
-  - '149'
 - eventId:
   - 936173
   - 963559
@@ -339,6 +332,7 @@
   title: Cutia Neagra Plus.
 - eventId:
   - 1004918
+  - 1012756
   - 886112
   start: 2026-11-29T18:45:00Z
   stop: 2026-11-29T19:00:00Z
@@ -399,13 +393,20 @@
   - '149'
   ageRating: 12
   description: Týždenné horoskopy s Petrom.
-- eventId: 1009523
+- eventId:
+  - 1009523
+  - 953347
+  - 966358
+  - 981231
+  - 998449
   start: 2026-11-29T21:00:00Z
-  stop: 2026-11-30T04:30:00Z
+  stop: 2026-11-29T23:00:00Z
   title: Ezoterická poradňa s Renátou
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
   genre:
   - '149'
+  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
+  ageRating: 12
 - eventId: 886117
   start: 2026-11-29T21:00:00Z
   stop: 2026-11-29T23:00:00Z
@@ -420,18 +421,6 @@
   title: Ezoterická poradňa s Renátou
   genre:
   - '149'
-- eventId:
-  - 953347
-  - 966358
-  - 981231
-  - 998449
-  start: 2026-11-29T21:00:00Z
-  stop: 2026-11-29T23:00:00Z
-  title: Ezoterická poradňa s Renátou
-  genre:
-  - '149'
-  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
-  ageRating: 12
 - eventId:
   - 1005287
   - 934795
@@ -458,6 +447,7 @@
   title: Sinteza cu Natalia Ghetu.
 - eventId:
   - 1004924
+  - 1012758
   - 912210
   start: 2026-11-29T23:00:00Z
   stop: 2026-11-29T23:20:00Z
@@ -466,6 +456,7 @@
   subtitle: Teleshoppingové pásmo
 - eventId:
   - 1004925
+  - 1012759
   - 912211
   start: 2026-11-29T23:20:00Z
   stop: 2026-11-30T04:00:00Z

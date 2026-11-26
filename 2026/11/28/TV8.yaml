@@ -48,6 +48,7 @@
   title: Intreaba Ghetu.
 - eventId:
   - 1005047
+  - 1012897
   - 853002
   - 974079
   - 982027
@@ -66,7 +67,7 @@
   - 953811
   - 966276
   start: 2026-11-28T04:30:00Z
-  stop: 2026-11-28T05:00:00Z
+  stop: 2026-11-28T04:45:00Z
   title: HOROSKOPY
   subtitle: 05.10.2026 - 11.10.2026
   description: Týždenné horoskopy s Petrom.
@@ -86,6 +87,7 @@
   subtitle: 05.10.2026 - 11.10.2026
 - eventId:
   - 1005048
+  - 1012898
   - 853004
   - 974080
   - 982028
@@ -98,24 +100,18 @@
   ageRating: 12
   subtitle: Teleshoppingové pásmo
   description: ' (2026)'
-- eventId: 1009346
-  start: 2026-11-28T05:00:00Z
-  stop: 2026-11-28T06:40:00Z
-  title: Veštenie repríza
-  description: Poradenstvo, veštenie, výklad osudu, numerológia
-  genre:
-  - '149'
 - eventId:
+  - 1009346
   - 853005
   - 974081
   start: 2026-11-28T05:00:00Z
   stop: 2026-11-28T06:40:00Z
   title: Ezoterická poradňa
+  description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
+  genre:
+  - '149'
   subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
   ageRating: 12
-  genre:
-  - '32'
-  description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
 - eventId:
   - 901070
   - 996637
@@ -156,28 +152,20 @@
   title: Iubeste Viata Confesiunile.
 - eventId:
   - 1009355
+  - 853006
   - 901098
   - 953219
   - 966295
-  start: 2026-11-28T06:40:00Z
-  stop: 2026-11-28T07:45:00Z
-  title: HOROSKOPY
-  subtitle: 05.10.2026 - 11.10.2026
-  genre:
-  - '149'
-  description: Týždenné horoskopy s Petrom.
-- eventId:
-  - 853006
   - 974094
   - 997511
   start: 2026-11-28T06:40:00Z
   stop: 2026-11-28T07:30:00Z
   title: Teleshoppingové pásmo
-  ageRating: 12
   subtitle: 05.10.2026 - 11.10.2026
-  description: Týždenné horoskopy s Petrom.
   genre:
   - '149'
+  description: Týždenné horoskopy s Petrom.
+  ageRating: 12
 - eventId:
   - 1005054
   - 998868
@@ -185,6 +173,12 @@
   start: 2026-11-28T07:30:00Z
   stop: 2026-11-28T08:00:00Z
   title: Magazin la tine acasa.
+  subtitle: Teleshoppingové pásmo
+  ageRating: 12
+- eventId: 1012904
+  start: 2026-11-28T07:30:00Z
+  stop: 2026-11-28T07:45:00Z
+  title: Teleshoppingové pásmo
   subtitle: Teleshoppingové pásmo
   ageRating: 12
 - eventId:
@@ -201,28 +195,20 @@
   subtitle: Teleshoppingové pásmo
 - eventId:
   - 1009356
+  - 853008
   - 901099
   - 953220
   - 966296
-  start: 2026-11-28T07:45:00Z
-  stop: 2026-11-28T08:00:00Z
-  title: HOROSKOPY
-  subtitle: 05.10.2026 - 11.10.2026
-  genre:
-  - '149'
-  description: Týždenné horoskopy s Petrom.
-- eventId:
-  - 853008
   - 974095
   - 997512
   start: 2026-11-28T07:45:00Z
   stop: 2026-11-28T08:00:00Z
   title: Teleshoppingové pásmo
-  ageRating: 12
   subtitle: 05.10.2026 - 11.10.2026
-  description: Týždenné horoskopy s Petrom.
   genre:
   - '149'
+  description: Týždenné horoskopy s Petrom.
+  ageRating: 12
 - eventId: 853009
   start: 2026-11-28T08:00:00Z
   stop: 2026-11-28T09:40:00Z
@@ -242,7 +228,7 @@
   - 936387
   - 957828
   start: 2026-11-28T08:00:00Z
-  stop: 2026-11-28T13:00:00Z
+  stop: 2026-11-28T09:40:00Z
   title: Т/с "Маруся. Возвращение", 49-52 с.
   genre:
   - '149'
@@ -250,6 +236,7 @@
   ageRating: 12
   description: Rýchle riešenie vašich problémov prostredníctvom telefonického veštenia v priamom prenose.
 - eventId:
+  - 1012911
   - 853014
   - 974100
   - 982040
@@ -263,6 +250,7 @@
   subtitle: Teleshoppingové pásmo
   description: ' (2026)'
 - eventId:
+  - 1012912
   - 853015
   - 974101
   - 982041
@@ -276,6 +264,7 @@
   subtitle: Teleshoppingové pásmo
   description: ' (2026)'
 - eventId:
+  - 1012913
   - 853016
   - 974102
   - 982042
@@ -288,7 +277,9 @@
   ageRating: 12
   subtitle: Teleshoppingové pásmo
   description: ' (2026)'
-- eventId: 1005063
+- eventId:
+  - 1005063
+  - 1012920
   start: 2026-11-28T12:00:00Z
   stop: 2026-11-28T13:50:00Z
   title: Výklad osudu
@@ -334,6 +325,7 @@
   description: Relácia zameraná na spojenie sa s iným svetom. Médium je spojovník medzi týmto svetom a svetom za jeho hranicami. Médium má schopnosť napojiť sa do duchovného sveta a prijímať a odovzdávať správy.
 - eventId:
   - 1005064
+  - 1012921
   - 853020
   - 974114
   - 982162
@@ -350,6 +342,7 @@
   description: ' (2026)'
 - eventId:
   - 1005065
+  - 1012922
   - 853021
   - 974115
   - 982163
@@ -398,6 +391,7 @@
   description: Relácia zameraná na spojenie sa s iným svetom. Médium je spojovník medzi týmto svetom a svetom za jeho hranicami. Médium má schopnosť napojiť sa do duchovného sveta a prijímať a odovzdávať správy.
 - eventId:
   - 1004853
+  - 1012710
   - 853022
   - 974122
   - 982169
@@ -410,7 +404,9 @@
   ageRating: 12
   subtitle: Teleshoppingové pásmo
   description: ' (2026)'
-- eventId: 1004854
+- eventId:
+  - 1004854
+  - 1012711
   start: 2026-11-28T17:00:00Z
   stop: 2026-11-28T20:30:00Z
   title: Televeštiareň
@@ -478,6 +474,7 @@
   title: Business UP.
 - eventId:
   - 1004862
+  - 1012720
   - 853024
   - 974134
   - 982190
@@ -542,7 +539,7 @@
   description: ' (2026)'
 - eventId: 901299
   start: 2026-11-28T23:00:00Z
-  stop: 2026-11-29T04:30:00Z
+  stop: 2026-11-28T23:20:00Z
   title: Nočné vysielanie pre pánov, X,H,18+
   genre:
   - '160'
@@ -551,6 +548,7 @@
   description: Šteklivé videá nielen pre pánov.
 - eventId:
   - 1004867
+  - 1012724
   - 886091
   - 974143
   - 982196
