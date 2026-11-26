@@ -208,11 +208,20 @@
   hd: true
 - eventId: 996380
   start: 2026-11-27T04:30:00Z
-  stop: 2026-11-27T04:50:00Z
+  stop: 2026-11-27T04:40:00Z
   title: Telesguard
   description: |-
     Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die tägliche Informationssendung «Telesguard» mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen in den Regionen. Lokal und regional zuhause.
     Schweiz 2026
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1023654
+  start: 2026-11-27T04:40:00Z
+  stop: 2026-11-27T04:50:00Z
+  title: Schweiz aktuell
   genre:
   - '32'
   widescreen: true
@@ -232,18 +241,30 @@
   hd: true
 - eventId: 824329
   start: 2026-11-27T04:50:00Z
-  stop: 2026-11-27T05:10:00Z
+  stop: 2026-11-27T05:00:00Z
   title: Schweiz aktuell
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 824330
-  start: 2026-11-27T05:10:00Z
-  stop: 2026-11-27T05:20:00Z
+- eventId: 1023655
+  start: 2026-11-27T05:00:00Z
+  stop: 2026-11-27T05:10:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 824330
+  start: 2026-11-27T05:10:00Z
+  stop: 2026-11-27T05:40:00Z
+  title: UEFA Europa League - Highlights Männer
+  subtitle: Die besten Spiele, Szenen und Tore
   description: |-
     Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
     Schweiz 2026
@@ -263,9 +284,39 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 1023656
+  start: 2026-11-27T05:40:00Z
+  stop: 2026-11-27T05:55:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 824332
   start: 2026-11-27T05:55:00Z
   stop: 2026-11-27T06:15:00Z
+  title: Schweiz aktuell
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1023657
+  start: 2026-11-27T06:00:00Z
+  stop: 2026-11-27T06:10:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 1023658
+  start: 2026-11-27T06:10:00Z
+  stop: 2026-11-27T06:25:00Z
   title: Schweiz aktuell
   genre:
   - '32'
@@ -297,6 +348,17 @@
   widescreen: true
   hd: true
   subtitled: true
+- eventId: 1023659
+  start: 2026-11-27T06:30:00Z
+  stop: 2026-11-27T07:35:00Z
+  title: Club
+  subtitle: Die Überlebenden - vom Partner fast getötet
+  description: |-
+    Alle zwei Wochen tötet in der Schweiz ein Mann eine Frau.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 960925
   start: 2026-11-27T06:45:00Z
   stop: 2026-11-27T07:50:00Z
@@ -319,6 +381,19 @@
   description: |-
     Alle zwei Wochen tötet in der Schweiz ein Mann eine Frau.
     Schweiz 2026
+- eventId: 1023660
+  start: 2026-11-27T07:35:00Z
+  stop: 2026-11-27T08:10:00Z
+  title: Kulturplatz - Swiss Success Stories
+  subtitle: Der Hochseilartist und der Preis der Freiheit | Folge 2
+  description: |-
+    Was braucht es, um mit einem Einmann-Zirkus unterwegs zu sein? Vor allem starke Arme und gute Nerven. David Dimitri ist mit seinem Zirkus «L'Homme Cirque» an ein Festival in Brüssel eingeladen. Dort baut er aus 30 Tonnen Material das Zirkuszelt auf, um darin seine poetische One-Man-Show zu zeigen.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 960926
   start: 2026-11-27T07:50:00Z
   stop: 2026-11-27T08:20:00Z
@@ -345,6 +420,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1023661
+  start: 2026-11-27T08:10:00Z
+  stop: 2026-11-27T08:50:00Z
+  title: Gredig direkt
+  subtitle: 'Adrian Koerfer: «Ich fühle die Angst heute noch»'
+  description: |-
+    Jahrzehntelang schwieg Adrian Koerfer über die sexuelle Gewalt an der Odenwaldschule. Bei «Gredig direkt» spricht der 71-Jährige über Missbrauch, Scham und Wut.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 960927
   start: 2026-11-27T08:20:00Z
   stop: 2026-11-27T09:00:00Z
@@ -367,6 +453,17 @@
   description: |-
     Jahrzehntelang schwieg Adrian Koerfer über die sexuelle Gewalt an der Odenwaldschule. Bei «Gredig direkt» spricht der 71-Jährige über Missbrauch, Scham und Wut.
     Schweiz 2026
+- eventId: 1023662
+  start: 2026-11-27T08:50:00Z
+  stop: 2026-11-27T09:55:00Z
+  title: Club
+  subtitle: Die Überlebenden - vom Partner fast getötet
+  description: |-
+    Alle zwei Wochen tötet in der Schweiz ein Mann eine Frau.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 960940
   start: 2026-11-27T09:00:00Z
   stop: 2026-11-27T10:05:00Z
@@ -389,6 +486,19 @@
   description: |-
     Alle zwei Wochen tötet in der Schweiz ein Mann eine Frau.
     Schweiz 2026
+- eventId: 1023663
+  start: 2026-11-27T09:55:00Z
+  stop: 2026-11-27T10:30:00Z
+  title: Kulturplatz - Swiss Success Stories
+  subtitle: Der Hochseilartist und der Preis der Freiheit | Folge 2
+  description: |-
+    Was braucht es, um mit einem Einmann-Zirkus unterwegs zu sein? Vor allem starke Arme und gute Nerven. David Dimitri ist mit seinem Zirkus «L'Homme Cirque» an ein Festival in Brüssel eingeladen. Dort baut er aus 30 Tonnen Material das Zirkuszelt auf, um darin seine poetische One-Man-Show zu zeigen.
+    Schweiz 2026
+  genre:
+  - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 960941
   start: 2026-11-27T10:05:00Z
   stop: 2026-11-27T10:40:00Z
@@ -415,6 +525,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1023664
+  start: 2026-11-27T10:30:00Z
+  stop: 2026-11-27T11:10:00Z
+  title: Gredig direkt
+  subtitle: 'Adrian Koerfer: «Ich fühle die Angst heute noch»'
+  description: |-
+    Jahrzehntelang schwieg Adrian Koerfer über die sexuelle Gewalt an der Odenwaldschule. Bei «Gredig direkt» spricht der 71-Jährige über Missbrauch, Scham und Wut.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 960942
   start: 2026-11-27T10:40:00Z
   stop: 2026-11-27T11:20:00Z
@@ -437,9 +558,9 @@
   description: |-
     Jahrzehntelang schwieg Adrian Koerfer über die sexuelle Gewalt an der Odenwaldschule. Bei «Gredig direkt» spricht der 71-Jährige über Missbrauch, Scham und Wut.
     Schweiz 2026
-- eventId: 864243
-  start: 2026-11-27T11:20:00Z
-  stop: 2026-11-27T11:35:00Z
+- eventId: 1023665
+  start: 2026-11-27T11:10:00Z
+  stop: 2026-11-27T11:20:00Z
   title: SRF school
   subtitle: Kapsur - Shapatu
   description: |-
@@ -447,6 +568,28 @@
     Kanada 2025
   genre:
   - '80'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 864243
+  start: 2026-11-27T11:20:00Z
+  stop: 2026-11-27T11:30:00Z
+  title: SRF school
+  subtitle: Faszination Tiefsee - Überleben am Limit
+  description: |-
+    In der Dunkelheit der Tiefsee leben Tiere unter extremem Druck, bei Kälte und Nahrungsmangel. Grönlandhaie, Tiefseeschnecken oder Wale zeigen erstaunliche Anpassungen wie extrem langsamen Stoffwechsel und hohe Lebenserwartung. Diese Organismen liefern Hinweise für Medizin und Altersforschung.
+    Deutschland 2026
+  genre:
+  - '80'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1023666
+  start: 2026-11-27T11:30:00Z
+  stop: 2026-11-27T12:10:00Z
+  title: SRF school
+  subtitle: Die Welt in Zahlen - Trips
+  description: Psychedelische Drogen begleiten uns Menschen, seitdem wir die Lust am Rausch entdeckt haben. Von den Hexen von Salem bis zu Steve Jobs, viele haben damit experimentiert. Im Laufe der Zeit haben bewusstseinsverändernde Substanzen somit die Geschichte und Welt geprägt. 2022
   widescreen: true
   subtitled: true
   hd: true
@@ -470,6 +613,17 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1023667
+  start: 2026-11-27T12:10:00Z
+  stop: 2026-11-27T12:45:00Z
+  title: Eco Talk
+  subtitle: 'Lohn: Wer hat das Sagen am Verhandlungstisch?'
+  description: |-
+    Steigende Kosten treffen auf Spardruck in Firmen. Wer hat in Zeiten von Fachkräftemangel und künstlicher Intelligenz in Lohnverhandlungen die besseren Karten?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 864257
   start: 2026-11-27T12:20:00Z
   stop: 2026-11-27T12:55:00Z
@@ -481,9 +635,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 864258
-  start: 2026-11-27T12:55:00Z
-  stop: 2026-11-27T13:00:00Z
+- eventId: 1023668
+  start: 2026-11-27T12:45:00Z
+  stop: 2026-11-27T12:50:00Z
   title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
@@ -491,6 +645,29 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1023669
+  start: 2026-11-27T12:50:00Z
+  stop: 2026-11-27T12:55:00Z
+  title: Meteo
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 864258
+  start: 2026-11-27T12:55:00Z
+  stop: 2026-11-27T13:45:00Z
+  title: Tagesschau kompakt
+  subtitle: Akris - Mode mit Tradition
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Erstmals in seiner hundertjährigen Geschichte gewährt das Schweizer Modehaus Akris exklusive Einblicke. Nach mehr als vier Jahrzehnten an der kreativen Spitze erlaubt Albert Kriemler einen Blick in sein Atelier und eröffnet damit einen seltenen Zugang zu einer sonst verborgenen Welt.
+    Deutschland 2026
 - eventId: 864259
   start: 2026-11-27T13:00:00Z
   stop: 2026-11-27T13:05:00Z
@@ -514,9 +691,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 864261
-  start: 2026-11-27T13:55:00Z
-  stop: 2026-11-27T14:00:00Z
+- eventId: 1023670
+  start: 2026-11-27T13:45:00Z
+  stop: 2026-11-27T13:50:00Z
   title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
@@ -524,6 +701,29 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1023671
+  start: 2026-11-27T13:50:00Z
+  stop: 2026-11-27T13:55:00Z
+  title: Meteo
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 864261
+  start: 2026-11-27T13:55:00Z
+  stop: 2026-11-27T14:30:00Z
+  title: Tagesschau kompakt
+  subtitle: Zurück hinter Gittern - Normales Leben unmöglich? (Teil 2)
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Der Ex-Häftling Giorgio Lörtscher verdient gut als Influencer. Doch dann gerät er in einen Streit mit Brian Keller - die beiden kennen sich aus dem Jugendstrafvollzug. Schnell eskaliert die Situation. Und Lörtscher sitzt am Ende wieder dort, wo er nie mehr hinwollte: im Gefängnis.
+    Schweiz 2026
 - eventId: 864262
   start: 2026-11-27T14:00:00Z
   stop: 2026-11-27T14:05:00Z
@@ -547,7 +747,7 @@
   hd: true
 - eventId: 996418
   start: 2026-11-27T14:30:00Z
-  stop: 2026-11-27T14:34:00Z
+  stop: 2026-11-27T14:35:00Z
   title: Tagesschau kompakt
   subtitle: Mittagsausgabe
   genre:
@@ -567,6 +767,19 @@
   hd: true
 - eventId: 996420
   start: 2026-11-27T14:35:00Z
+  stop: 2026-11-27T14:40:00Z
+  title: Rundschau
+  subtitle: 'Atomkraft: Ja gerne oder nein danke?'
+  description: |-
+    Die Schweiz braucht mehr Strom, doch woher dieser kommen soll, ist umstritten. Kommt es zu einem Comeback der Atomkraft?
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+  genre:
+  - '32'
+- eventId: 1023672
+  start: 2026-11-27T14:40:00Z
   stop: 2026-11-27T15:25:00Z
   title: Rundschau
   subtitle: 'Atomkraft: Ja gerne oder nein danke?'
@@ -619,7 +832,17 @@
   hd: true
 - eventId: 996432
   start: 2026-11-27T15:30:00Z
-  stop: 2026-11-27T15:40:00Z
+  stop: 2026-11-27T15:35:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1023673
+  start: 2026-11-27T15:35:00Z
+  stop: 2026-11-27T15:45:00Z
   title: Meteo
   subtitle: Mittagsausgabe
   genre:
@@ -640,6 +863,17 @@
   description: |-
     Gauner nutzen Inserate-Plattformen, um an unser Bankkonto zu kommen. «Kassensturz» zeigt ihre Maschen, konfrontiert den Tutti- und Ricardo-Chef mit Kritik der Opfer.
     Schweiz 2026
+- eventId: 1023674
+  start: 2026-11-27T15:45:00Z
+  stop: 2026-11-27T16:18:00Z
+  title: Kassensturz
+  subtitle: 'Online-Betrug: Die perfiden Tricks der Gauner'
+  description: |-
+    Gauner nutzen Inserate-Plattformen, um an unser Bankkonto zu kommen. «Kassensturz» zeigt ihre Maschen, konfrontiert den Tutti- und Ricardo-Chef mit Kritik der Opfer.
+    Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 864273
   start: 2026-11-27T15:45:00Z
   stop: 2026-11-27T15:50:00Z

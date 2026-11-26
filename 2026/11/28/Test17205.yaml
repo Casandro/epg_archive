@@ -182,7 +182,9 @@
   start: 2026-11-28T16:30:00Z
   stop: 2026-11-28T17:20:00Z
   title: 52 minutes
-  description: '52 minutes Vincent Kucholl et Vincent Veillon de retour avec 52 minutes ! Invité : Alain Roche, pianiste et compositeur'
+  description: |-
+    52 minutes Vincent Kucholl et Vincent Veillon de retour avec 52 minutes ! Invité : Alain Roche, pianiste et compositeur
+      "Audio description"
   genre:
   - '48'
   widescreen: true
@@ -190,12 +192,23 @@
   hd: true
 - eventId: 871084
   start: 2026-11-28T17:20:00Z
-  stop: 2026-11-28T18:25:00Z
+  stop: 2026-11-28T18:20:00Z
   title: Ski alpin
   subtitle: Coupe du monde
   description: En direct. Slalom Géant Dames 2ème manche En direct de Killington (USA)
   genre:
   - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1023603
+  start: 2026-11-28T18:20:00Z
+  stop: 2026-11-28T18:35:00Z
+  title: RTS Info
+  subtitle: L'actualité en continu
+  description: En direct.
+  genre:
+  - '32'
   widescreen: true
   subtitled: true
   hd: true
@@ -234,19 +247,30 @@
   hd: true
 - eventId: 884519
   start: 2026-11-28T21:40:00Z
-  stop: 2026-11-28T21:50:00Z
+  stop: 2026-11-28T21:45:00Z
   title: PMU
   widescreen: true
   hd: true
-- eventId: 884520
-  start: 2026-11-28T21:50:00Z
-  stop: 2026-11-28T21:55:00Z
+- eventId: 1023617
+  start: 2026-11-28T21:45:00Z
+  stop: 2026-11-28T21:50:00Z
   title: Zap RTS Sport
   genre:
   - '64'
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 884520
+  start: 2026-11-28T21:50:00Z
+  stop: 2026-11-28T22:50:00Z
+  title: Zap RTS Sport
+  genre:
+  - '64'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: '(Inédit) Jeremy Irons, le dernier romantique Doc Portrait  Jeremy Irons a construit sa carrière d''acteur en suivant son instinct. Il découvre le pouvoir du théâtre pour s''évader du monde réel. Son implication totale sur les plateaux frôle l''obsession : il contrôle chaque détail pour préserver l''intégrité de ses personnages. Il atteint des sommets dans ses performances d''acteur. Avide d''autres défis, il se lance également dans la restauration d''un château du XVe siècle en Irlande, où il s''est bâti un pied-à-terre dont le décor est à son image : celle d''un créateur de mondes sans cesse renouvelés. (France-2026)'
+  ageRating: 10
 - eventId: 884521
   start: 2026-11-28T21:55:00Z
   stop: 2026-11-28T22:50:00Z
@@ -260,12 +284,22 @@
   hd: true
 - eventId: 884522
   start: 2026-11-28T22:50:00Z
-  stop: 2026-11-28T23:40:00Z
+  stop: 2026-11-28T23:35:00Z
   title: La dynastie Kardashian
   subtitle: Ep.2 Sexe, mensonges & vidéos
   description: (2/3) Une vidéo de Kim filmée durant des ébats sexuels est révélée et contribue à faire connaître les Kardashian. (Grande-Bretagne-2023)
   genre:
   - '128'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1023618
+  start: 2026-11-28T23:35:00Z
+  stop: 2026-11-29T00:10:00Z
+  title: 19h30 - Signé
+  description: '"Langue des signes"'
+  genre:
+  - '33'
   widescreen: true
   subtitled: true
   hd: true
