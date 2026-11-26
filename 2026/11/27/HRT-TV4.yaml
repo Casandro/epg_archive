@@ -54,14 +54,16 @@
   - '160'
 - eventId: 965043
   start: 2026-11-27T01:27:00Z
-  stop: 2026-11-27T01:31:00Z
+  stop: 2026-11-27T01:30:00Z
   title: '#REPORTAŽE: Muzej sporta'
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
   genre:
   - '160'
-- eventId: 965044
+- eventId:
+  - 1021165
+  - 965044
   start: 2026-11-27T01:30:00Z
   stop: 2026-11-27T01:53:00Z
   title: Regionalni dnevnik
@@ -76,7 +78,9 @@
   title: Regionalni dnevnik
   subtitle: ' '
   description: Ekipe HTV-a iz svih hrvatskih županija donose najzanimljivije aktualne događaje i priče iz cijele zemlje, a tu je i detaljna regionalna vremenska prognoza.
-- eventId: 965045
+- eventId:
+  - 1021166
+  - 965045
   start: 2026-11-27T01:53:00Z
   stop: 2026-11-27T01:55:00Z
   title: Bez komentara
@@ -91,7 +95,9 @@
   title: Poslovne vijesti
   subtitle: ' '
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 965046
+- eventId:
+  - 1021167
+  - 965046
   start: 2026-11-27T01:55:00Z
   stop: 2026-11-27T02:00:00Z
   title: Poslovne vijesti
@@ -273,14 +279,16 @@
   - '32'
 - eventId: 965066
   start: 2026-11-27T05:18:00Z
-  stop: 2026-11-27T05:28:00Z
+  stop: 2026-11-27T05:26:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   description: Kratki pregled aktualnosti iz svijeta znanosti.
   ageRating: 4
   genre:
   - '160'
-- eventId: 965067
+- eventId:
+  - 1021168
+  - 965067
   start: 2026-11-27T05:26:00Z
   stop: 2026-11-27T05:56:00Z
   title: Otvoreno

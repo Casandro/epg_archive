@@ -1862,7 +1862,7 @@
   - 940241
   - 941386
   start: 2026-11-26T18:55:00Z
-  stop: 2026-11-26T19:00:00Z
+  stop: 2026-11-26T18:58:00Z
   title: Vrijeme svijet sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
@@ -1885,6 +1885,7 @@
   - 1011643
   - 1015276
   - 1019922
+  - 1021154
   - 940242
   - 941387
   - 991467
@@ -1966,7 +1967,9 @@
   title: Bez komentara
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 939374
+- eventId:
+  - 1021155
+  - 939374
   start: 2026-11-26T19:57:00Z
   stop: 2026-11-26T20:02:00Z
   title: Bez komentara
@@ -2011,7 +2014,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1019923
+- eventId:
+  - 1019923
+  - 1021156
   start: 2026-11-26T20:02:00Z
   stop: 2026-11-26T20:45:00Z
   title: Pregled dana
@@ -2057,7 +2062,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1019924
+- eventId:
+  - 1019924
+  - 1021157
   start: 2026-11-26T20:47:00Z
   stop: 2026-11-26T21:12:00Z
   title: Global 3000
@@ -2117,7 +2124,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1019925
+- eventId:
+  - 1019925
+  - 1021158
   start: 2026-11-26T21:13:00Z
   stop: 2026-11-26T21:44:00Z
   title: Svijet znanosti
@@ -2166,7 +2175,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1019926
+- eventId:
+  - 1019926
+  - 1021159
   start: 2026-11-26T21:45:00Z
   stop: 2026-11-26T22:04:00Z
   title: 'Studio 4: Zelena linija'
@@ -2202,6 +2213,7 @@
   - 1011648
   - 1015281
   - 1019927
+  - 1021160
   - 991472
   - 991701
   - 992921
@@ -2247,7 +2259,7 @@
   - '160'
 - eventId: 939381
   start: 2026-11-26T22:10:00Z
-  stop: 2026-11-26T22:19:00Z
+  stop: 2026-11-26T22:20:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
@@ -2260,7 +2272,9 @@
   title: Vijesti na španjolskom jeziku
   subtitle: ' '
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 939382
+- eventId:
+  - 1021161
+  - 939382
   start: 2026-11-26T22:20:00Z
   stop: 2026-11-26T22:30:00Z
   title: Vijesti na španjolskom jeziku
@@ -2275,7 +2289,9 @@
   title: 'Studio 4: Jutarnji intervju'
   subtitle: ' '
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 939383
+- eventId:
+  - 1021162
+  - 939383
   start: 2026-11-26T22:30:00Z
   stop: 2026-11-26T22:50:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -2284,6 +2300,14 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
+- eventId: 1021163
+  start: 2026-11-26T22:50:00Z
+  stop: 2026-11-26T22:55:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 939384
   start: 2026-11-26T22:50:00Z
   stop: 2026-11-26T22:55:00Z
@@ -2300,6 +2324,7 @@
   subtitle: ' '
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
+  - 1021164
   - 940250
   - 941395
   start: 2026-11-26T22:55:00Z
