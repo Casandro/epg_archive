@@ -84,6 +84,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Metković je grad bogate vjerske tradicije, a Župa svetoga Ilije proroka već je desetljećima važno duhovno središte njegovih stanovnika. Uz franjevačku prisutnost, župni život obilježavaju brojne pobožnosti, zajednice i običaji koji se prenose s generacije na generaciju. Tko sve čini ovu živu župnu zajednicu, kako se čuva tradicija i na koji način vjera povezuje mlade i starije? Donosimo vam priču iz Metkovića.
 - eventId: 963954
   start: 2026-11-28T05:23:00Z
   stop: 2026-11-28T05:31:00Z
@@ -108,7 +109,7 @@
   - '160'
 - eventId: 963956
   start: 2026-11-28T05:32:00Z
-  stop: 2026-11-28T06:00:00Z
+  stop: 2026-11-28T05:57:00Z
   title: Krunica, Krunica Blažene Djevice Marije
   subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
   description: Molimo zajedno molitvu Krunice Blažene Djevice Marije.
@@ -121,6 +122,18 @@
   title: Osobna posveta Bezgrješnom Srcu Marijinu
   subtitle: Religijski
   description: Osobna posveta Bezgrješnom Srcu Marijinu
+- eventId: 1031279
+  start: 2026-11-28T05:57:00Z
+  stop: 2026-11-28T05:59:00Z
+  title: Klapa sv. Juraj HRM - Kraljice svete krunice
+  subtitle: Glazbeni
+  description: Klapa sv. Juraj HRM - Kraljice svete krunice
+- eventId: 1031280
+  start: 2026-11-28T05:59:00Z
+  stop: 2026-11-28T06:45:00Z
+  title: 'Sveta Misa: Svetište Majke Božje Remetske, Zagreb, Sveta Misa: Zagreb'
+  subtitle: Religijski
+  description: Sveta Misa iz Svetišta Majke Božje Remetske u Zagrebu.
 - eventId: 895747
   start: 2026-11-28T06:00:00Z
   stop: 2026-11-28T06:45:00Z
@@ -341,6 +354,11 @@
   stop: 2026-11-28T15:43:00Z
   title: Generacija plus
   subtitle: Magazin
+- eventId: 1031281
+  start: 2026-11-28T15:00:00Z
+  stop: 2026-11-28T15:59:00Z
+  title: Generacija plus
+  subtitle: Magazin
 - eventId: 996156
   start: 2026-11-28T15:42:00Z
   stop: 2026-11-28T15:59:00Z
@@ -371,6 +389,7 @@
 - eventId:
   - 1003584
   - 1012654
+  - 1031282
   - 931770
   start: 2026-11-28T16:00:00Z
   stop: 2026-11-28T18:00:00Z
@@ -468,7 +487,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 931785
+- eventId:
+  - 1031284
+  - 931785
   start: 2026-11-28T21:20:00Z
   stop: 2026-11-28T22:00:00Z
   title: Domovinu volim, Domovinu volim
