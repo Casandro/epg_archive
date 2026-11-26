@@ -159,30 +159,24 @@
 - eventId:
   - 1004938
   - 1013836
+  - 786924
+  - 917052
+  - 955779
+  - 967416
   - 998730
   - 999807
   start: 2026-11-26T07:30:00Z
-  stop: 2026-11-26T08:00:00Z
+  stop: 2026-11-26T07:45:00Z
   title: Новости с Ириной Стряпко.
   subtitle: Teleshoppingové pásmo
   ageRating: 12
+  description: ' (2026)'
 - eventId: 1012769
   start: 2026-11-26T07:30:00Z
   stop: 2026-11-26T07:45:00Z
   title: Teleshoppingové pásmo
   subtitle: Teleshoppingové pásmo
   ageRating: 12
-- eventId:
-  - 786924
-  - 917052
-  - 955779
-  - 967416
-  start: 2026-11-26T07:30:00Z
-  stop: 2026-11-26T07:45:00Z
-  title: Новости с Ириной Стряпко.
-  ageRating: 12
-  description: ' (2026)'
-  subtitle: Teleshoppingové pásmo
 - eventId:
   - 1009534
   - 798521
@@ -196,6 +190,7 @@
   ageRating: 12
   description: Týždenné horoskopy s Petrom.
 - eventId:
+  - 1015448
   - 786925
   - 937664
   - 940311
@@ -227,8 +222,10 @@
   ageRating: 12
 - eventId: 1013837
   start: 2026-11-26T08:00:00Z
-  stop: 2026-11-26T09:00:00Z
-  title: Amprente.
+  stop: 2026-11-26T09:40:00Z
+  title: Ezoterická poradňa
+  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
+  ageRating: 12
 - eventId:
   - 1005294
   - 1013831
@@ -242,6 +239,7 @@
 - eventId:
   - 1004946
   - 1012777
+  - 1015455
   - 786927
   - 917057
   - 937665
@@ -260,6 +258,7 @@
 - eventId:
   - 1004947
   - 1012778
+  - 1013832
   - 786928
   - 917058
   - 955611
@@ -274,10 +273,6 @@
   genre:
   - '32'
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
-- eventId: 1013832
-  start: 2026-11-26T10:00:00Z
-  stop: 2026-11-26T10:45:00Z
-  title: News Show.
 - eventId:
   - 1005295
   - 1013833
@@ -302,6 +297,7 @@
 - eventId:
   - 1004948
   - 1012779
+  - 1015456
   - 786929
   - 917059
   - 937666
@@ -320,6 +316,7 @@
 - eventId:
   - 1004956
   - 1012791
+  - 1015464
   - 786930
   - 917065
   - 937667
@@ -370,6 +367,7 @@
 - eventId:
   - 1004957
   - 1012792
+  - 1015465
   - 786931
   - 917066
   - 937668
@@ -406,6 +404,7 @@
 - eventId:
   - 1004958
   - 1012793
+  - 1015466
   - 786932
   - 917067
   - 955799
@@ -424,25 +423,13 @@
 - eventId:
   - 1004959
   - 1013839
-  - 998755
-  - 999825
-  start: 2026-11-26T14:00:00Z
-  stop: 2026-11-26T15:00:00Z
-  title: Т/с "Маруся. Возвращение", 52 с.
-  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
-  ageRating: 12
-- eventId: 1012794
-  start: 2026-11-26T14:00:00Z
-  stop: 2026-11-26T15:45:00Z
-  title: Ezoterická poradňa
-  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
-  ageRating: 12
-- eventId:
   - 786933
   - 917068
   - 955800
   - 967421
   - 982118
+  - 998755
+  - 999825
   start: 2026-11-26T14:00:00Z
   stop: 2026-11-26T15:45:00Z
   title: Т/с "Маруся. Возвращение", 52 с.
@@ -451,6 +438,12 @@
   genre:
   - '32'
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
+- eventId: 1012794
+  start: 2026-11-26T14:00:00Z
+  stop: 2026-11-26T15:45:00Z
+  title: Ezoterická poradňa
+  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
+  ageRating: 12
 - eventId:
   - 1000817
   - 1009545
@@ -503,6 +496,7 @@
 - eventId:
   - 1004967
   - 1012805
+  - 1015475
   - 786934
   - 917075
   - 937669
@@ -522,25 +516,13 @@
 - eventId:
   - 1004968
   - 1013841
-  - 998765
-  - 999851
-  start: 2026-11-26T16:00:00Z
-  stop: 2026-11-26T17:00:00Z
-  title: Т/с "В чём вина Фатмагюль?".
-  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
-  ageRating: 12
-- eventId: 1012806
-  start: 2026-11-26T16:00:00Z
-  stop: 2026-11-26T18:00:00Z
-  title: Ezoterická poradňa
-  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
-  ageRating: 12
-- eventId:
   - 786935
   - 917076
   - 955809
   - 967425
   - 982124
+  - 998765
+  - 999851
   start: 2026-11-26T16:00:00Z
   stop: 2026-11-26T18:00:00Z
   title: Т/с "В чём вина Фатмагюль?".
@@ -549,6 +531,12 @@
   genre:
   - '32'
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
+- eventId: 1012806
+  start: 2026-11-26T16:00:00Z
+  stop: 2026-11-26T18:00:00Z
+  title: Ezoterická poradňa
+  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
+  ageRating: 12
 - eventId:
   - 1005269
   - 1013842
@@ -563,31 +551,25 @@
 - eventId:
   - 1004975
   - 1013826
+  - 786938
+  - 917085
+  - 955817
+  - 967508
+  - 982171
   - 998776
   - 999858
   start: 2026-11-26T18:00:00Z
-  stop: 2026-11-26T19:20:00Z
+  stop: 2026-11-26T19:00:00Z
   title: Cutia Neagra cu Mariana Rata.
   subtitle: Teleshoppingové pásmo
   ageRating: 12
+  description: ' (2026)'
 - eventId: 1012817
   start: 2026-11-26T18:00:00Z
   stop: 2026-11-26T19:00:00Z
   title: Teleshoppingové pásmo
   subtitle: Teleshoppingové pásmo
   ageRating: 12
-- eventId:
-  - 786938
-  - 917085
-  - 955817
-  - 967508
-  - 982171
-  start: 2026-11-26T18:00:00Z
-  stop: 2026-11-26T19:00:00Z
-  title: Cutia Neagra cu Mariana Rata.
-  ageRating: 12
-  description: ' (2026)'
-  subtitle: Teleshoppingové pásmo
 - eventId:
   - 1009566
   - 786939
@@ -601,6 +583,12 @@
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
   genre:
   - '149'
+  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
+  ageRating: 12
+- eventId: 1015482
+  start: 2026-11-26T19:00:00Z
+  stop: 2026-11-26T20:30:00Z
+  title: Ezoterická poradňa
   subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
   ageRating: 12
 - eventId:
@@ -702,6 +690,7 @@
 - eventId:
   - 1004982
   - 1012827
+  - 1015488
   - 821091
   - 917093
   - 937671
