@@ -1313,7 +1313,7 @@
   - 1022131
   - 999984
   start: 2026-11-26T12:48:00Z
-  stop: 2026-11-26T12:56:00Z
+  stop: 2026-11-26T12:58:00Z
   title: 'Studio 4: Znanost'
   subtitle: Kratki pregled aktualnosti iz svijeta znanosti.
   description: Kratki pregled aktualnosti iz svijeta znanosti.
@@ -1353,6 +1353,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1022901
+  start: 2026-11-26T12:58:00Z
+  stop: 2026-11-26T13:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 939332
   start: 2026-11-26T13:00:00Z
   stop: 2026-11-26T13:30:00Z
@@ -1408,6 +1414,12 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 1022902
+  start: 2026-11-26T13:58:00Z
+  stop: 2026-11-26T14:00:00Z
+  title: Bez komentara
+  subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 939338
   start: 2026-11-26T14:00:00Z
@@ -1623,7 +1635,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
-- eventId: 1020986
+- eventId:
+  - 1020986
+  - 1022903
   start: 2026-11-26T16:14:00Z
   stop: 2026-11-26T16:15:00Z
   title: Vrijeme RH danas
@@ -1643,7 +1657,7 @@
   - 940237
   - 941383
   start: 2026-11-26T16:15:00Z
-  stop: 2026-11-26T16:20:00Z
+  stop: 2026-11-26T16:17:00Z
   title: Vrijeme Europa danas
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
@@ -1660,7 +1674,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1020987
+- eventId:
+  - 1020987
+  - 1022904
   start: 2026-11-26T16:17:00Z
   stop: 2026-11-26T16:21:00Z
   title: Vrijeme svijet danas
@@ -1678,7 +1694,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 1020988
+- eventId:
+  - 1020988
+  - 1022905
   start: 2026-11-26T16:21:00Z
   stop: 2026-11-26T16:40:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -1696,7 +1714,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 1020990
+- eventId:
+  - 1020990
+  - 1022906
   start: 2026-11-26T16:44:00Z
   stop: 2026-11-26T16:50:00Z
   title: Poslovne vijesti
@@ -1714,7 +1734,9 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 1020991
+- eventId:
+  - 1020991
+  - 1022907
   start: 2026-11-26T16:50:00Z
   stop: 2026-11-26T16:57:00Z
   title: 'Studio 4: Sport'
@@ -1743,14 +1765,16 @@
   description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
 - eventId: 939358
   start: 2026-11-26T17:00:00Z
-  stop: 2026-11-26T17:20:00Z
+  stop: 2026-11-26T17:02:00Z
   title: 'HRT100 Vremeplov: Prometna policija u Splitu 1976.'
   subtitle: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
   ageRating: 4
   genre:
   - '160'
   description: Tjednih 20 zelenih minuta razgovora o svim aspektima zaštite okoliša, prirode i održivog razvoja.
-- eventId: 1020992
+- eventId:
+  - 1020992
+  - 1022908
   start: 2026-11-26T17:02:00Z
   stop: 2026-11-26T17:20:00Z
   title: 'Studio 4: Zelena linija'
@@ -1775,7 +1799,9 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 1020993
+- eventId:
+  - 1020993
+  - 1022909
   start: 2026-11-26T17:22:00Z
   stop: 2026-11-26T17:25:00Z
   title: '#REPORTAŽE: Muzej sporta'
@@ -1794,7 +1820,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1020994
+- eventId:
+  - 1020994
+  - 1022910
   start: 2026-11-26T17:25:00Z
   stop: 2026-11-26T17:30:00Z
   title: Bez komentara
@@ -1982,17 +2010,19 @@
   ageRating: 4
   genre:
   - '160'
-  description: Tjedni vanjskopolitički magazin koji informira, približava i analizira svjetske događaje, procese, izazove i prijetnje.
+  description: 'Uoči prijevremenih izbora ove nedjelje u Španjolskoj, u Agendi: Svijet, analiziramo tamošnju turbulentnu političku scenu, koja bi mogla, nakon osam godina vladavine socijalista, rezultirati dolaskom na vlast konzervativno-desničarske koalicije. Kako su valovi migranta, stambena kriza i korupcijske afere poljuljale slabašnu vladu Pedra Sancheza, i što bi na unutarnjem, ali i vanjskopolitičkom planu značio dolazak na vlast desničarskog Voxa? O tome govore bivši hrvatski veleposlanik u Madridu Svjetlan Berković, i tamošnji dopisnik Hine Miho Dobrašin. Urednik i voditelj: Danko Družijanić'
 - eventId: 939373
   start: 2026-11-26T19:30:00Z
-  stop: 2026-11-26T19:57:00Z
+  stop: 2026-11-26T19:52:00Z
   title: 'Labirint: Poslije kiše dolazi sunce'
   subtitle: Kako se namještaju natječaji za dodjelu državnog poljoprivrednog zemljišta? Što kada su pravo i pravda na strani poljoprivrednika, a do zemlje i dalje ne mogu.
   ageRating: 4
   genre:
   - '160'
   description: Kako se namještaju natječaji za dodjelu državnog poljoprivrednog zemljišta? Što kada su pravo i pravda na strani poljoprivrednika, a do zemlje i dalje ne mogu. Dok država zagovara domaću proizvodnju, u stvarnosti proizvođačima uskraćuje hektare vrijednog poljoprivrednog zemljišta. Stočari iz Slavonije i Like nisu prošli na natječajima za zakup državnog zemljišta, iako su na njega imali pravo.
-- eventId: 1020996
+- eventId:
+  - 1020996
+  - 1022911
   start: 2026-11-26T19:52:00Z
   stop: 2026-11-26T20:00:00Z
   title: Bez komentara
@@ -2062,17 +2092,13 @@
   - 1014050
   - 1018059
   - 1020998
+  - 1022145
   - 999988
   start: 2026-11-26T20:45:00Z
   stop: 2026-11-26T21:12:00Z
   title: 'DW: Global Us'
-  subtitle: ' '
-  description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
-- eventId: 1022145
-  start: 2026-11-26T20:45:00Z
-  stop: 2026-11-26T21:12:00Z
-  title: Global 3000
   subtitle: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
+  description: Osam milijardi ljudi živi na Zemlji i povezani smo bolje no što je to bilo ikada prije. Nove ideje o tome kako to najbolje iskoristiti, donosi Global Us.
   ageRating: 4
   genre:
   - '160'
@@ -2225,17 +2251,13 @@
   - 1014058
   - 1018062
   - 1021001
+  - 1022148
   - 999991
   start: 2026-11-26T22:04:00Z
   stop: 2026-11-26T22:08:00Z
   title: '#REPORTAŽE: Muzej sporta'
-  subtitle: ' '
-  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 1022148
-  start: 2026-11-26T22:04:00Z
-  stop: 2026-11-26T22:08:00Z
-  title: '#REPORTAŽE'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
@@ -2291,14 +2313,16 @@
   - '160'
 - eventId: 939381
   start: 2026-11-26T22:10:00Z
-  stop: 2026-11-26T22:20:00Z
+  stop: 2026-11-26T22:19:00Z
   title: Vijesti na engleskom jeziku
   subtitle: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
   ageRating: 4
   genre:
   - '32'
   description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 1021002
+- eventId:
+  - 1021002
+  - 1022912
   start: 2026-11-26T22:19:00Z
   stop: 2026-11-26T22:29:00Z
   title: Vijesti na španjolskom jeziku
@@ -2316,7 +2340,9 @@
   genre:
   - '32'
   description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
-- eventId: 1021003
+- eventId:
+  - 1021003
+  - 1022913
   start: 2026-11-26T22:29:00Z
   stop: 2026-11-26T22:50:00Z
   title: 'Studio 4: Jutarnji intervju'
@@ -2353,7 +2379,9 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 1021004
+- eventId:
+  - 1021004
+  - 1022914
   start: 2026-11-26T22:52:00Z
   stop: 2026-11-26T22:58:00Z
   title: '#REPORTAŽE: Drvo'
@@ -2382,7 +2410,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1021005
+- eventId:
+  - 1021005
+  - 1022915
   start: 2026-11-26T22:58:00Z
   stop: 2026-11-26T23:00:00Z
   title: Bez komentara
