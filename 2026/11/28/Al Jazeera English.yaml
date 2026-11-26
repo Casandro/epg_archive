@@ -1,3 +1,8 @@
+- eventId: 1017543
+  start: 2026-11-28T00:00:00Z
+  stop: 2026-11-28T01:00:00Z
+  title: Newshour
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId: 900971
   start: 2026-11-28T00:00:00Z
   stop: 2026-11-28T00:30:00Z
@@ -21,7 +26,9 @@
   genre:
   - '32'
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
-- eventId: 900973
+- eventId:
+  - 1017544
+  - 900973
   start: 2026-11-28T01:00:00Z
   stop: 2026-11-28T02:00:00Z
   title: The Boy Who Started And Survived the Syrian War
@@ -29,12 +36,22 @@
   - '32'
   subtitle: A boy who grew up amid Syria's war reveals the untold origins of the conflict and the fight for his nation's freedom.
   description: Latest news and in-depth analysis from around the world.
+- eventId: 1017545
+  start: 2026-11-28T02:00:00Z
+  stop: 2026-11-28T03:00:00Z
+  title: Newshour
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId: 900974
   start: 2026-11-28T02:00:00Z
   stop: 2026-11-28T03:00:00Z
   title: Program to be Announced
   genre:
   - '32'
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+- eventId: 1017552
+  start: 2026-11-28T03:00:00Z
+  stop: 2026-11-28T03:30:00Z
+  title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId: 900984
   start: 2026-11-28T03:00:00Z
@@ -48,6 +65,7 @@
   - 1005053
   - 1012903
   - 1015370
+  - 1017553
   - 974085
   - 982032
   - 998867
@@ -56,7 +74,9 @@
   stop: 2026-11-28T04:00:00Z
   title: The Art of Negotiation
   subtitle: Top conflict negotiators who brokered historic peace deals reveal the secrets to ending intractable wars.
-- eventId: 900985
+- eventId:
+  - 1017554
+  - 900985
   start: 2026-11-28T04:00:00Z
   stop: 2026-11-28T04:30:00Z
   title: News Live
@@ -64,6 +84,11 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
+- eventId: 1017555
+  start: 2026-11-28T04:30:00Z
+  stop: 2026-11-28T05:00:00Z
+  title: Witness
+  subtitle: A decade after Colombia's peace accords, former FARC guerrilla and artist honours killed signatories with a mural.
 - eventId: 900986
   start: 2026-11-28T04:30:00Z
   stop: 2026-11-28T05:00:00Z
@@ -106,7 +131,7 @@
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
 - eventId: 901014
   start: 2026-11-28T07:00:00Z
-  stop: 2026-11-28T07:30:00Z
+  stop: 2026-11-28T08:00:00Z
   title: News Live
   genre:
   - '32'
@@ -130,7 +155,7 @@
   description: Hind Hassan examines the prospect of a new nuclear arms race, the companies helping to fuel it, and the dangers it poses to us all.
 - eventId: 901016
   start: 2026-11-28T08:00:00Z
-  stop: 2026-11-28T09:00:00Z
+  stop: 2026-11-28T08:30:00Z
   title: News Live
   genre:
   - '32'
@@ -140,6 +165,7 @@
   - 1005073
   - 1012910
   - 1015379
+  - 1017563
   - 974099
   - 982038
   - 998874
@@ -166,7 +192,7 @@
   description: Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.
 - eventId: 901056
   start: 2026-11-28T10:00:00Z
-  stop: 2026-11-28T10:30:00Z
+  stop: 2026-11-28T11:00:00Z
   title: News Live
   genre:
   - '32'
@@ -190,7 +216,7 @@
   description: earthrise follows the progress of Al Mizan, an Islamic Covenant for the Earth, and traces its growing impact in the year after its launch.
 - eventId: 901058
   start: 2026-11-28T11:00:00Z
-  stop: 2026-11-28T12:00:00Z
+  stop: 2026-11-28T11:30:00Z
   title: News Live
   genre:
   - '32'
@@ -201,6 +227,7 @@
   - 1005062
   - 1012919
   - 1015388
+  - 1017571
   - 974108
   - 982046
   - 998882
@@ -210,7 +237,7 @@
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
 - eventId: 901088
   start: 2026-11-28T12:00:00Z
-  stop: 2026-11-28T12:30:00Z
+  stop: 2026-11-28T13:00:00Z
   title: Al Jazeera World
   genre:
   - '32'
@@ -241,7 +268,7 @@
   description: Al Jazeera's journalists risk everything to cover the start of Israel's war on Gaza led by bureau chief Wael al Dahdouh, even when he loses his closest family.
 - eventId: 901091
   start: 2026-11-28T14:00:00Z
-  stop: 2026-11-28T15:00:00Z
+  stop: 2026-11-28T14:30:00Z
   title: News Live
   genre:
   - '32'
@@ -251,6 +278,7 @@
   - 1005069
   - 1012709
   - 1015394
+  - 1017578
   - 974119
   - 982168
   - 998671
@@ -261,7 +289,7 @@
   subtitle: Top conflict negotiators who brokered historic peace deals reveal the secrets to ending intractable wars.
 - eventId: 901114
   start: 2026-11-28T15:00:00Z
-  stop: 2026-11-28T15:30:00Z
+  stop: 2026-11-28T16:00:00Z
   title: 'NEWSHOUR: The Wider Story'
   genre:
   - '32'
@@ -285,7 +313,7 @@
   description: 101 East reports on the people and events shaping the Asia Pacific region. .
 - eventId: 901116
   start: 2026-11-28T16:00:00Z
-  stop: 2026-11-28T17:00:00Z
+  stop: 2026-11-28T16:30:00Z
   title: News Live
   genre:
   - '32'
@@ -295,6 +323,7 @@
   - 1004861
   - 1012719
   - 1015403
+  - 1017588
   - 974128
   - 982201
   - 998680
@@ -321,7 +350,7 @@
   description: Oppressed, dispossessed and expelled ? how Palestinians resist the century-long effort to force them from their land.
 - eventId: 901141
   start: 2026-11-28T18:00:00Z
-  stop: 2026-11-28T18:30:00Z
+  stop: 2026-11-28T19:00:00Z
   title: News Live
   genre:
   - '32'
@@ -344,7 +373,7 @@
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
 - eventId: 901143
   start: 2026-11-28T19:00:00Z
-  stop: 2026-11-28T20:00:00Z
+  stop: 2026-11-28T19:30:00Z
   title: News Live
   genre:
   - '32'
@@ -354,6 +383,7 @@
   - 1004866
   - 1012723
   - 1015524
+  - 1017593
   - 974137
   - 982192
   - 998684
@@ -364,7 +394,7 @@
   subtitle: 'Fast-paced current affairs programme that investigates, analyses and critiques the world''s media and all the important news, explaining how they operate and what are the stories they cover. '
 - eventId: 901144
   start: 2026-11-28T20:00:00Z
-  stop: 2026-11-28T20:30:00Z
+  stop: 2026-11-28T21:00:00Z
   title: News Live
   genre:
   - '32'
@@ -395,7 +425,7 @@
   description: When Israel orders a total evacuation of Gaza City, a Palestinian journalist documents the forced displacement, while living it with her own family.
 - eventId: 901173
   start: 2026-11-28T22:00:00Z
-  stop: 2026-11-28T23:00:00Z
+  stop: 2026-11-28T22:30:00Z
   title: News Live
   genre:
   - '32'
@@ -405,6 +435,7 @@
   - 1004869
   - 1012727
   - 1015407
+  - 1017596
   - 974145
   - 982050
   - 998688
