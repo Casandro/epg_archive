@@ -151,19 +151,16 @@
   stop: 2026-11-27T05:00:00Z
   title: Dying Earth
   subtitle: Some of the prophets of doom of the 60's whose warning went unheeded assess the Earth's current environmental fragility.
-- eventId: 1017715
-  start: 2026-11-27T05:00:00Z
-  stop: 2026-11-27T05:30:00Z
-  title: News Live
-  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId: 831653
+- eventId:
+  - 1017715
+  - 831653
   start: 2026-11-27T05:00:00Z
   stop: 2026-11-28T05:00:00Z
   title: AL JAZEERA ENGLISH
-  genre:
-  - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: 'Canal 24 horas de noticias en inglØs realizado en Oriente Medio. Versiðn internacional de Al Jazeera. '
+  genre:
+  - '32'
 - eventId: 1017716
   start: 2026-11-27T05:30:00Z
   stop: 2026-11-27T06:00:00Z
