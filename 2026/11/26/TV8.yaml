@@ -222,10 +222,13 @@
   ageRating: 12
 - eventId: 1013837
   start: 2026-11-26T08:00:00Z
-  stop: 2026-11-26T09:40:00Z
-  title: Ezoterická poradňa
+  stop: 2026-11-26T13:00:00Z
+  title: Televeštiareň s Vanessou
   subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
   ageRating: 12
+  description: Rýchle riešenie vašich problémov prostredníctvom telefonického veštenia v priamom prenose.
+  genre:
+  - '149'
 - eventId:
   - 1005294
   - 1013831
@@ -364,6 +367,14 @@
   description: Relácia zameraná na spojenie sa s iným svetom. Médium je spojovník medzi týmto svetom a svetom za jeho hranicami. Médium má schopnosť napojiť sa do duchovného sveta a prijímať a odovzdávať správy.
   genre:
   - '149'
+- eventId: 1016375
+  start: 2026-11-26T13:00:00Z
+  stop: 2026-11-26T14:45:00Z
+  title: Médium
+  subtitle: Adam
+  description: Relácia zameraná na spojenie sa s iným svetom. Médium je spojovník medzi týmto svetom a svetom za jeho hranicami. Médium má schopnosť napojiť sa do duchovného sveta a prijímať a odovzdávať správy.
+  genre:
+  - '149'
 - eventId:
   - 1004957
   - 1012792
@@ -448,6 +459,7 @@
   - 1000817
   - 1009545
   - 1013280
+  - 1016376
   - 798573
   - 953349
   - 966255
@@ -464,6 +476,7 @@
 - eventId:
   - 1000827
   - 1013291
+  - 1016385
   - 798599
   - 953374
   - 981152
@@ -587,10 +600,13 @@
   ageRating: 12
 - eventId: 1015482
   start: 2026-11-26T19:00:00Z
-  stop: 2026-11-26T20:30:00Z
-  title: Ezoterická poradňa
+  stop: 2026-11-26T20:45:00Z
+  title: Ezoterická poradňa s Renátou
   subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
   ageRating: 12
+  description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
+  genre:
+  - '149'
 - eventId:
   - 1005292
   - 1013827
@@ -636,6 +652,7 @@
   - 1000840
   - 1009567
   - 1013303
+  - 1016392
   - 798630
   - 953401
   - 966273
