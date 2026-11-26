@@ -22,18 +22,27 @@
   subtitle: Bieżące wydarzenia w kraju i na świecie. Informacje polityczne, gospodarcze, ważne tematy społeczne i poruszające opinię publiczną.
 - eventId: 954438
   start: 2026-12-01T00:55:00Z
-  stop: 2026-12-01T01:05:00Z
+  stop: 2026-12-01T01:00:00Z
   title: Pytanie dnia
   description: (N) "Pytanie dnia" to rozmowa i prośba o skomentowanie aktualnych wydarzeń dnia przez zaproszonego gościa. Emisja bezpośrednio po głównym wydaniu programu informacyjnego ma związek z charakterem problematyki poruszanej w każdym odcinku.
   genre:
   - '36'
-- eventId: 954439
-  start: 2026-12-01T01:05:00Z
-  stop: 2026-12-01T01:10:00Z
+- eventId: 1020851
+  start: 2026-12-01T01:00:00Z
+  stop: 2026-12-01T01:05:00Z
   title: Sport
   description: |
     Tytuł oryginalny: Sport
     PL, 2026
+  genre:
+  - '66'
+- eventId: 954439
+  start: 2026-12-01T01:05:00Z
+  stop: 2026-12-01T01:15:00Z
+  title: Pogoda
+  description: |
+    Tytuł oryginalny: Pogoda
+    PL, 2025
   genre:
   - '66'
 - eventId: 954440
@@ -387,11 +396,14 @@
   start: 2026-12-01T22:45:00Z
   stop: 2026-12-01T23:40:00Z
   title: Magazyn Ekspresu Reporterów
-  description: Cykliczny program, w którym przedstawiamy aktualne reportaże o charakterze społeczno - interwencyjnym. Zaproszeni do studia goście komentują obejrzane materiały.
+  description: |-
+    Tytuł oryginalny: Magazyn Ekspresu Reporterów
+    PL, 2026
+    "Magazyn Ekspresu Reporterów" to wielokrotnie nagradzany i ceniony przez widzów program reporterski, w którym reporterzy Telewizji Polskiej pokazują życie z jego blaskami, ale i dramatami. Zawsze blisko ludzi. W tym wydaniu: "Prosta sprawa" - Pani Agnieszka w wypadku samochodowym straciła matkę. Sama została ciężko ranna, ale co najważniejsze, jej nienarodzone jeszcze dziecko przeżyło. To była ulga. Niestety już po jego narodzinach okazało się, że mózg córeczki jest uszkodzony.
   ageRating: 12
   genre:
   - '149'
-  subtitle: Cykliczny program studyjny emitowany na żywo. Autorzy magazynu przedstawiają reportaże o tematyce społecznej. Zaproszeni do studia goście komentują obejrzane materiały.
+  subtitle: Agnieszka walczy o sprawiedliwość po wypadku samochodowym, w którym straciła matkę, a jej nienarodzona córka doznała uszkodzenia mózgu. Janusz spełnia swoje marzenie o stworzeniu muzeum światła.
 - eventId: 954613
   start: 2026-12-01T23:40:00Z
   stop: 2026-12-02T00:00:00Z
