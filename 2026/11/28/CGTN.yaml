@@ -191,21 +191,19 @@
 - eventId:
   - 1000736
   - 1009350
+  - 896019
   - 901003
   - 981233
   - 998397
   - 999618
   start: 2026-11-28T06:00:00Z
-  stop: 2026-11-28T07:00:00Z
-  title: News Hour
-  genre:
-  - '32'
-- eventId: 896019
-  start: 2026-11-28T06:00:00Z
   stop: 2026-11-28T06:30:00Z
   title: The World Today
-  subtitle: Informativni
+  genre:
+  - '32'
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
+  subtitle: Informativni
 - eventId:
   - 1005070
   - 974096
@@ -216,12 +214,15 @@
   stop: 2026-11-28T07:00:00Z
   title: TV Drama
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
-- eventId: 896020
+- eventId:
+  - 1010574
+  - 896020
   start: 2026-11-28T06:30:00Z
   stop: 2026-11-28T07:00:00Z
   title: The Heat
   subtitle: Informativni
   description: The Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.
+  widescreen: true
 - eventId: 896021
   start: 2026-11-28T07:00:00Z
   stop: 2026-11-28T07:30:00Z
@@ -230,11 +231,13 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 901004
   start: 2026-11-28T07:00:00Z
-  stop: 2026-11-28T08:00:00Z
+  stop: 2026-11-28T07:30:00Z
   title: Global Business by CCTV America
   genre:
   - '32'
   subtitle: This is the first history program of China, this program unveils secrets of important historical events, mega projects and the untold stories behind those crucial decisions of this country.
+  description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
 - eventId:
   - 1005071
   - 974097
@@ -245,25 +248,26 @@
   stop: 2026-11-28T08:00:00Z
   title: China Showbiz
   subtitle: China Showbiz
-- eventId: 896022
+- eventId:
+  - 1010575
+  - 896022
   start: 2026-11-28T07:30:00Z
   stop: 2026-11-28T08:00:00Z
   title: Sports Scene
   subtitle: Informativni
   description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
-- eventId: 896023
+  widescreen: true
+- eventId:
+  - 896023
+  - 901005
   start: 2026-11-28T08:00:00Z
   stop: 2026-11-28T08:30:00Z
   title: The World Today
-  subtitle: Informativni
+  subtitle: It concentrates on the latest news and social changes happening in china and all over the world
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
-- eventId: 901005
-  start: 2026-11-28T08:00:00Z
-  stop: 2026-11-28T08:30:00Z
-  title: China News
   genre:
   - '32'
-  subtitle: It concentrates on the latest news and social changes happening in china and all over the world
+  widescreen: true
 - eventId: 896024
   start: 2026-11-28T08:30:00Z
   stop: 2026-11-28T09:00:00Z
@@ -277,6 +281,8 @@
   genre:
   - '32'
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
+  description: A groundbreaking 30-minute interview show, giving an in-depth look into how top companies around the world conduct business and how policymakers view the fast-changing world economy.
+  widescreen: true
 - eventId:
   - 1000741
   - 1009368
