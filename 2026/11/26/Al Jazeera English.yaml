@@ -452,6 +452,7 @@
 - eventId:
   - 1017649
   - 1018380
+  - 1021171
   start: 2026-11-26T11:00:00Z
   stop: 2026-11-26T11:30:00Z
   title: News Live
@@ -465,6 +466,7 @@
   - 1015463
   - 1017650
   - 1018381
+  - 1021172
   - 917081
   - 955796
   - 973845
@@ -500,6 +502,7 @@
 - eventId:
   - 1017662
   - 1018387
+  - 1021178
   start: 2026-11-26T12:00:00Z
   stop: 2026-11-26T13:00:00Z
   title: Witness
@@ -527,6 +530,7 @@
 - eventId:
   - 1012802
   - 1017663
+  - 1021179
   - 798570
   - 984751
   - 988159
@@ -557,16 +561,22 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
-- eventId: 1017664
+- eventId:
+  - 1017664
+  - 1021180
   start: 2026-11-26T14:00:00Z
   stop: 2026-11-26T14:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
+  genre:
+  - '128'
 - eventId:
   - 1004966
   - 1012804
   - 1015474
   - 1017665
+  - 1021181
   - 917091
   - 955807
   - 973854
@@ -580,6 +590,9 @@
   stop: 2026-11-26T15:00:00Z
   title: Al Jazeera Explains
   subtitle: Democrats won Congress. But did they win voters over? Al Jazeera Explains why Trump's party lost, and how much power the president still holds.
+  description: Democrats won Congress. But did they win voters over? Al Jazeera Explains why Trump's party lost, and how much power the president still holds.
+  genre:
+  - '32'
 - eventId:
   - 1012812
   - 798592
@@ -596,11 +609,16 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 1017674
+- eventId:
+  - 1017674
+  - 1021183
   start: 2026-11-26T15:00:00Z
   stop: 2026-11-26T16:00:00Z
   title: 'NEWSHOUR: The Wider Story'
   subtitle: A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.
+  description: A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.
+  genre:
+  - '128'
 - eventId:
   - 1000801
   - 1009555
