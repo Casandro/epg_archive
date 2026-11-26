@@ -42,6 +42,7 @@
   - 1017541
   - 1020698
   - 1021635
+  - 1029394
   - 974074
   - 982025
   - 998859
@@ -182,7 +183,7 @@
   description: Big Story is a documentary film program on CGTN. It explores global events with in a variety of filmic styles and featuring original, in-depth, thought-provoking storytelling.
 - eventId: 900978
   start: 2026-11-28T05:00:00Z
-  stop: 2026-11-28T06:00:00Z
+  stop: 2026-11-28T05:30:00Z
   title: National Treasures found
   genre:
   - '32'
@@ -207,6 +208,11 @@
   title: Dialogue
   genre:
   - '32'
+  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
+- eventId: 1029400
+  start: 2026-11-28T05:30:00Z
+  stop: 2026-11-28T06:15:00Z
+  title: TV Drama
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
 - eventId:
   - 1000736
@@ -233,6 +239,7 @@
   - 1015376
   - 1017560
   - 1020711
+  - 1029405
   - 974096
   - 982035
   - 998871
@@ -272,6 +279,7 @@
   - 1015377
   - 1017561
   - 1020712
+  - 1027525
   - 896022
   - 974097
   - 982036
@@ -281,12 +289,6 @@
   stop: 2026-11-28T08:00:00Z
   title: China Showbiz
   subtitle: China Showbiz
-  description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
-  widescreen: true
-- eventId: 1027525
-  start: 2026-11-28T07:30:00Z
-  stop: 2026-11-28T08:00:00Z
-  title: Sports Scene
   description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
   widescreen: true
 - eventId:
@@ -305,29 +307,23 @@
   stop: 2026-11-28T09:15:00Z
   title: TV Drama
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
-- eventId: 1027225
+- eventId:
+  - 1027225
+  - 901006
   start: 2026-11-28T08:30:00Z
-  stop: 2026-11-28T09:00:00Z
+  stop: 2026-11-28T09:15:00Z
   title: China Insight
   genre:
   - '32'
   description: A groundbreaking 30-minute interview show, giving an in-depth look into how top companies around the world conduct business and how policymakers view the fast-changing world economy.
   widescreen: true
+  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
 - eventId: 896024
   start: 2026-11-28T08:30:00Z
   stop: 2026-11-28T09:00:00Z
   title: Biz Talk
   subtitle: Dokumentarni
   description: A groundbreaking 30-minute interview show, giving an in-depth look into how top companies around the world conduct business and how policymakers view the fast-changing world economy. It presents 360 degree profiles of industry movers and shakers, tech mavericks and policymakers, and drills down on the stories behind their success, to give you clarity on what's happening in every facet of business.
-- eventId: 901006
-  start: 2026-11-28T08:30:00Z
-  stop: 2026-11-28T09:15:00Z
-  title: China Insight
-  genre:
-  - '32'
-  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
-  description: A groundbreaking 30-minute interview show, giving an in-depth look into how top companies around the world conduct business and how policymakers view the fast-changing world economy.
-  widescreen: true
 - eventId:
   - 1000741
   - 1009368
@@ -360,6 +356,7 @@
   - 1015384
   - 1017568
   - 1020719
+  - 1029412
   - 974105
   - 982043
   - 998879
@@ -394,7 +391,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 901046
   start: 2026-11-28T10:00:00Z
-  stop: 2026-11-28T10:15:00Z
+  stop: 2026-11-28T10:30:00Z
   title: Talk with LuJian
   genre:
   - '32'
@@ -415,6 +412,7 @@
 - eventId:
   - 1012916
   - 1015385
+  - 1029413
   - 901047
   start: 2026-11-28T10:30:00Z
   stop: 2026-11-28T11:00:00Z
@@ -487,6 +485,7 @@
   - 1017575
   - 1020726
   - 1021644
+  - 1029418
   - 974116
   - 982165
   - 998668
@@ -566,6 +565,7 @@
   - 1017576
   - 1020727
   - 1021645
+  - 1029419
   - 974117
   - 982166
   - 998669
@@ -615,6 +615,7 @@
   - 1015399
   - 1017584
   - 1020531
+  - 1027536
   - 974124
   - 982197
   - 998676
@@ -625,12 +626,6 @@
   subtitle: China Showbiz
   description: Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture.
   widescreen: true
-- eventId: 1027536
-  start: 2026-11-28T15:30:00Z
-  stop: 2026-11-28T16:00:00Z
-  title: Inheritors
-  description: Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture.
-  widescreen: true
 - eventId: 895842
   start: 2026-11-28T15:30:00Z
   stop: 2026-11-28T16:30:00Z
@@ -639,7 +634,7 @@
   description: Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.
 - eventId: 901106
   start: 2026-11-28T16:00:00Z
-  stop: 2026-11-28T16:30:00Z
+  stop: 2026-11-28T16:45:00Z
   title: The World Today
   genre:
   - '32'
@@ -679,6 +674,7 @@
   - 1017585
   - 1020532
   - 1021646
+  - 1029427
   - 974125
   - 982198
   - 998677
@@ -715,7 +711,7 @@
   description: Talk Africa is a weekly discussion show that brings the most influential voices in Africa to the world.
 - eventId: 901109
   start: 2026-11-28T17:30:00Z
-  stop: 2026-11-28T18:00:00Z
+  stop: 2026-11-28T18:30:00Z
   title: China Showbiz
   genre:
   - '32'
@@ -778,6 +774,7 @@
   - 1015522
   - 1017591
   - 1020538
+  - 1029432
   - 895854
   - 974135
   - 998682
@@ -826,7 +823,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 901162
   start: 2026-11-28T21:00:00Z
-  stop: 2026-11-28T21:15:00Z
+  stop: 2026-11-28T22:00:00Z
   title: Special Program
   genre:
   - '32'
@@ -859,7 +856,7 @@
   description: Full Frame enriches the lives of viewers through animated discussion of film, arts and culture, and social trends etc impacting a diverse global audience.
 - eventId: 901164
   start: 2026-11-28T22:00:00Z
-  stop: 2026-11-28T22:30:00Z
+  stop: 2026-11-28T22:15:00Z
   title: Dreamchaser
   genre:
   - '32'
@@ -870,6 +867,7 @@
   - 1015406
   - 1017595
   - 1020544
+  - 1029440
   - 974144
   - 982049
   - 998687
@@ -880,7 +878,7 @@
   subtitle: A journey through cherished memories, cultural traditions and stories that bring the past back to life.
 - eventId: 901165
   start: 2026-11-28T22:30:00Z
-  stop: 2026-11-28T23:00:00Z
+  stop: 2026-11-28T23:30:00Z
   title: Universal Show
   genre:
   - '32'
