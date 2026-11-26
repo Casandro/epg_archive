@@ -653,7 +653,7 @@
   - '128'
 - eventId: 1026411
   start: 2026-11-26T15:00:00Z
-  stop: 2026-11-26T15:30:00Z
+  stop: 2026-11-26T16:00:00Z
   title: 'NEWSHOUR: THE WIDER STORY'
   subtitle: A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.
   description: Journal - 2026. News. A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.
@@ -702,7 +702,7 @@
   stop: 2026-11-26T16:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
+  description: News Live is a rolling news programme from Al Jazeera Media Network delivering up-to-the-minute coverage of breaking stories from around the world. Anchored by experienced journalists and supported by correspondents across continents, it brings viewers live reports, expert interviews, and on-the-ground updates as events unfold. From major political developments and conflicts to business, climate, and human interest stories, the programme keeps audiences informed with accurate, timely, and comprehensive global news coverage. (2026)
   genre:
   - '128'
 - eventId:
@@ -768,6 +768,9 @@
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
 - eventId:
   - 1012823
+  - 1017685
+  - 1021582
+  - 1026685
   - 798621
   - 984768
   - 988167
@@ -779,25 +782,15 @@
   stop: 2026-11-26T18:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-  description: Up-to-date news and analysis from around the world.
-  genre:
-  - '32'
-- eventId:
-  - 1017685
-  - 1021582
-  - 1026685
-  start: 2026-11-26T18:00:00Z
-  stop: 2026-11-26T19:00:00Z
-  title: Newshour
-  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
   genre:
-  - '128'
+  - '32'
 - eventId:
   - 1000809
   - 1009564
   - 1013301
   - 1016369
+  - 1027103
   - 798622
   - 953345
   - 966247
@@ -812,6 +805,9 @@
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
 - eventId:
   - 1012824
+  - 1017686
+  - 1021583
+  - 1026686
   - 798623
   - 984769
   - 988168
@@ -823,20 +819,9 @@
   stop: 2026-11-26T20:00:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-  description: Latest news and in-depth analysis from around the world.
-  genre:
-  - '32'
-- eventId:
-  - 1017686
-  - 1021583
-  - 1026686
-  start: 2026-11-26T19:00:00Z
-  stop: 2026-11-26T19:30:00Z
-  title: News Live
-  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
   genre:
-  - '128'
+  - '32'
 - eventId:
   - 1004981
   - 1012825
@@ -862,6 +847,9 @@
   - '48'
 - eventId:
   - 1012826
+  - 1017688
+  - 1021585
+  - 1026688
   - 798624
   - 984771
   - 988170
@@ -873,25 +861,15 @@
   stop: 2026-11-26T20:30:00Z
   title: The Boy Who Started And Survived the Syrian War
   subtitle: A boy who grew up amid Syria's war reveals the untold origins of the conflict and the fight for his nation's freedom.
-  description: Up-to-date news and analysis from around the world.
-  genre:
-  - '32'
-- eventId:
-  - 1017688
-  - 1021585
-  - 1026688
-  start: 2026-11-26T20:00:00Z
-  stop: 2026-11-26T21:00:00Z
-  title: The Boy Who Started And Survived the Syrian War
-  subtitle: A boy who grew up amid Syria's war reveals the untold origins of the conflict and the fight for his nation's freedom.
   description: A boy who grew up amid Syria's war reveals the untold origins of the conflict and the fight for his nation's freedom.
   genre:
-  - '144'
+  - '32'
 - eventId:
   - 1000810
   - 1009565
   - 1013302
   - 1016370
+  - 1027104
   - 798625
   - 953346
   - 966248
@@ -907,6 +885,7 @@
   description: One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.
 - eventId:
   - 1012832
+  - 1027110
   - 798654
   - 984782
   - 988175
@@ -950,6 +929,13 @@
   stop: 2026-11-26T22:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+- eventId: 1027111
+  start: 2026-11-26T22:00:00Z
+  stop: 2026-11-26T23:00:00Z
+  title: Newshour
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 1004987
   - 1012834
@@ -973,6 +959,7 @@
   - 1012835
   - 1017697
   - 1021589
+  - 1027112
   - 798656
   - 984785
   - 988178
@@ -1005,3 +992,11 @@
   genre:
   - '32'
   description: 101 East reports on the people and events shaping the Asia Pacific region. .
+- eventId: 1027113
+  start: 2026-11-26T23:30:00Z
+  stop: 2026-11-27T00:00:00Z
+  title: 101 East
+  subtitle: '05102026'
+  description: 101 East reports on the people and events shaping the Asia Pacific region. .
+  genre:
+  - '32'
