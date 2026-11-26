@@ -642,12 +642,13 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 901162
   start: 2026-11-28T21:00:00Z
-  stop: 2026-11-28T22:00:00Z
+  stop: 2026-11-28T21:15:00Z
   title: Special Program
   genre:
   - '32'
   subtitle: 'A wide range of topics featuring Japanese culture and society are introduced. '
 - eventId:
+  - 1000773
   - 901163
   - 981272
   - 998438
@@ -670,7 +671,7 @@
   description: Full Frame enriches the lives of viewers through animated discussion of film, arts and culture, and social trends etc impacting a diverse global audience.
 - eventId: 901164
   start: 2026-11-28T22:00:00Z
-  stop: 2026-11-28T22:15:00Z
+  stop: 2026-11-28T22:30:00Z
   title: Dreamchaser
   genre:
   - '32'
@@ -686,18 +687,13 @@
   subtitle: A journey through cherished memories, cultural traditions and stories that bring the past back to life.
 - eventId: 901165
   start: 2026-11-28T22:30:00Z
-  stop: 2026-11-28T23:30:00Z
+  stop: 2026-11-28T23:00:00Z
   title: Universal Show
   genre:
   - '32'
   subtitle: Join this light theatrical universal show with songs and dance.
-- eventId: 895864
-  start: 2026-11-28T23:00:00Z
-  stop: 2026-11-28T23:30:00Z
-  title: The World Today
-  subtitle: Informativni
-  description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId:
+  - 1000774
   - 901166
   - 981273
   - 998439
@@ -707,6 +703,12 @@
   title: News Desk
   genre:
   - '32'
+- eventId: 895864
+  start: 2026-11-28T23:00:00Z
+  stop: 2026-11-28T23:30:00Z
+  title: The World Today
+  subtitle: Informativni
+  description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 895865
   start: 2026-11-28T23:30:00Z
   stop: 2026-11-29T00:00:00Z
