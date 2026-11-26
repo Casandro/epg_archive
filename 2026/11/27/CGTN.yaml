@@ -74,6 +74,12 @@
   description: China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.
   widescreen: true
   subtitle: Informativni
+- eventId: 1021100
+  start: 2026-11-27T01:30:00Z
+  stop: 2026-11-27T02:00:00Z
+  title: China 24
+  description: China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.
+  widescreen: true
 - eventId: 831619
   start: 2026-11-27T02:00:00Z
   stop: 2026-11-27T02:30:00Z
@@ -93,6 +99,8 @@
   - 1004989
   - 1010124
   - 1015303
+  - 1017700
+  - 1020638
   - 856977
   - 940316
   - 955831
@@ -107,16 +115,10 @@
   description: World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.
   widescreen: true
 - eventId:
-  - 1017700
-  - 1020638
-  start: 2026-11-27T02:30:00Z
-  stop: 2026-11-27T03:15:00Z
-  title: TV Drama
-  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
-- eventId:
   - 1000596
   - 1009152
   - 1015556
+  - 1021102
   - 831643
   - 856983
   - 953420
@@ -143,6 +145,8 @@
   - 1004993
   - 1010125
   - 1015308
+  - 1017707
+  - 1020642
   - 856984
   - 940322
   - 955835
@@ -157,16 +161,10 @@
   description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
   widescreen: true
 - eventId:
-  - 1017707
-  - 1020642
-  start: 2026-11-27T03:15:00Z
-  stop: 2026-11-27T04:00:00Z
-  title: TV Drama
-  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
-- eventId:
   - 1000597
   - 1010126
   - 1015557
+  - 1021103
   - 856985
   - 989738
   start: 2026-11-27T03:30:00Z
@@ -190,6 +188,8 @@
   - 1004994
   - 1010127
   - 1015309
+  - 1017708
+  - 1020643
   - 856987
   - 940323
   - 955836
@@ -204,16 +204,10 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   widescreen: true
 - eventId:
-  - 1017708
-  - 1020643
-  start: 2026-11-27T05:00:00Z
-  stop: 2026-11-27T05:30:00Z
-  title: Around China
-  subtitle: Around China leads viewers into a fabulous world where they may have a full taste of the excellent personality of the Chinese nation and obtain an intimate understanding of its changes and evolution both in recent time and in future.
-- eventId:
   - 1000598
   - 1010128
   - 1015558
+  - 1021104
   - 856988
   - 989739
   start: 2026-11-27T05:15:00Z
@@ -224,6 +218,7 @@
   widescreen: true
 - eventId:
   - 1015559
+  - 1019794
   - 856989
   - 989740
   start: 2026-11-27T05:30:00Z
@@ -234,11 +229,6 @@
   widescreen: true
   genre:
   - '32'
-- eventId: 1019794
-  start: 2026-11-27T05:30:00Z
-  stop: 2026-11-27T06:15:00Z
-  title: TV Drama
-  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
 - eventId: 831645
   start: 2026-11-27T05:30:00Z
   stop: 2026-11-27T06:15:00Z
@@ -250,6 +240,7 @@
   - 1000847
   - 1009165
   - 1015532
+  - 1021105
   - 831662
   - 856996
   - 953446
@@ -292,6 +283,7 @@
 - eventId:
   - 1010129
   - 1015533
+  - 1021106
   - 856997
   - 988508
   start: 2026-11-27T06:30:00Z
@@ -349,6 +341,7 @@
 - eventId:
   - 1010131
   - 1015534
+  - 1021107
   - 857001
   - 988509
   start: 2026-11-27T08:15:00Z
@@ -378,6 +371,7 @@
   - 1010496
   - 1015560
   - 1019113
+  - 1021108
   - 857006
   - 988424
   start: 2026-11-27T09:00:00Z
@@ -424,7 +418,9 @@
   description: The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.
   widescreen: true
   subtitle: Dokumentarni
-- eventId: 1019114
+- eventId:
+  - 1019114
+  - 1021109
   start: 2026-11-27T09:30:00Z
   stop: 2026-11-27T10:00:00Z
   title: The Vibe
@@ -432,7 +428,7 @@
   widescreen: true
 - eventId: 831693
   start: 2026-11-27T10:00:00Z
-  stop: 2026-11-27T10:30:00Z
+  stop: 2026-11-27T10:15:00Z
   title: Global Business
   genre:
   - '32'
@@ -449,6 +445,7 @@
   - 1010497
   - 1015562
   - 1019115
+  - 1021110
   - 857009
   - 988426
   start: 2026-11-27T10:15:00Z
@@ -769,7 +766,7 @@
   subtitle: 15 Hidden Treasures That Have Been Found (And 10 That We're Still Looking For....
 - eventId: 831780
   start: 2026-11-27T18:00:00Z
-  stop: 2026-11-27T18:30:00Z
+  stop: 2026-11-27T19:00:00Z
   title: Memory of China
   genre:
   - '32'
@@ -808,22 +805,17 @@
   widescreen: true
 - eventId:
   - 1005036
+  - 1010132
   - 1015352
   - 1017522
   - 1020689
-  - 998847
-  - 999921
-  start: 2026-11-27T19:30:00Z
-  stop: 2026-11-27T20:00:00Z
-  title: China Showbiz
-  subtitle: China Showbiz
-- eventId:
-  - 1010132
   - 857037
   - 940381
   - 955881
   - 974059
   - 982012
+  - 998847
+  - 999921
   start: 2026-11-27T19:30:00Z
   stop: 2026-11-27T20:00:00Z
   title: World Insight with Tian Wei
