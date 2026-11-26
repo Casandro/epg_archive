@@ -259,7 +259,7 @@
   subtitle: Religijski/Magazin
 - eventId: 975129
   start: 2026-11-26T08:19:00Z
-  stop: 2026-11-26T09:21:00Z
+  stop: 2026-11-26T09:24:00Z
   title: Radost ljubavi u braku
   subtitle: Kontakt emisija koja pokušava odgovoriti na raznorazna pitanja i probleme koji se javljaju među bračnim supružnicima. Otvorene telefonske linije od samog početka.
   ageRating: 4
@@ -313,7 +313,7 @@
   - '160'
 - eventId: 837198
   start: 2026-11-26T09:55:00Z
-  stop: 2026-11-26T10:59:00Z
+  stop: 2026-11-26T11:00:00Z
   title: Svi za stol, Svi za stol
   subtitle: U goste nam iz Kaštela dolazi mlada talentirana Pina Budišin, a za pripremu ukusnih jela pobrinut će se chef Tomislav Varga.
   description: U goste nam iz Kaštela dolazi mlada talentirana Pina Budišin, a za pripremu ukusnih jela pobrinut će se chef Tomislav Varga. Na jelovniku su gnudi od svježeg sira s gljivama i porilukom, hrskava pileća krilca s prokulicama i kestenom te za kraj kruške s orasima.
@@ -443,6 +443,7 @@
   genre:
   - '160'
 - eventId:
+  - 1015286
   - 963892
   - 975132
   - 996981
@@ -469,6 +470,7 @@
   stop: 2026-11-26T15:31:00Z
   title: Phos - Ja sam Tvoje dijete, Phos - Ja sam Tvoje dijete
 - eventId:
+  - 1015282
   - 837222
   - 996982
   - 999834
@@ -487,21 +489,22 @@
   stop: 2026-11-26T16:55:00Z
   title: Oasis in tempore
   subtitle: Magazin
-- eventId: 837223
-  start: 2026-11-26T16:54:00Z
-  stop: 2026-11-26T17:21:00Z
-  title: Svećenik, prorok, kralj, Priest, Prophet, King
-  description: Svećenici su odgovorni za približavanje ljudi Bogu, obično kroz žrtvu. Prvi svećenik, Adam, bio je iznimno blizak Bogu i hodao je s njim po Edenskom vrtu. Pravilno integrirano jastvo zna da smo stvorenja koja trebaju slaviti svoga Stvoritelja, Boga. Ispravno slavljenje vodi do harmonije, dok neispravno dovodi do dezintegracije, što vidimo od Prvog grijeha nadalje.
-  subtitle: Svećenici su odgovorni za približavanje ljudi Bogu, obično kroz žrtvu. Prvi svećenik, Adam, bio je iznimno blizak Bogu i hodao je s njim po Edenskom vrtu.
-  ageRating: 4
-  genre:
-  - '160'
 - eventId:
+  - 1015283
   - 996983
   - 999835
   start: 2026-11-26T16:54:00Z
   stop: 2026-11-26T17:21:00Z
   title: Svećenik, prorok, kralj
+  subtitle: Svećenici su odgovorni za približavanje ljudi Bogu, obično kroz žrtvu. Prvi svećenik, Adam, bio je iznimno blizak Bogu i hodao je s njim po Edenskom vrtu.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 837223
+  start: 2026-11-26T16:54:00Z
+  stop: 2026-11-26T17:21:00Z
+  title: Svećenik, prorok, kralj, Priest, Prophet, King
+  description: Svećenici su odgovorni za približavanje ljudi Bogu, obično kroz žrtvu. Prvi svećenik, Adam, bio je iznimno blizak Bogu i hodao je s njim po Edenskom vrtu. Pravilno integrirano jastvo zna da smo stvorenja koja trebaju slaviti svoga Stvoritelja, Boga. Ispravno slavljenje vodi do harmonije, dok neispravno dovodi do dezintegracije, što vidimo od Prvog grijeha nadalje.
   subtitle: Svećenici su odgovorni za približavanje ljudi Bogu, obično kroz žrtvu. Prvi svećenik, Adam, bio je iznimno blizak Bogu i hodao je s njim po Edenskom vrtu.
   ageRating: 4
   genre:
@@ -526,6 +529,7 @@
   genre:
   - '160'
 - eventId:
+  - 1015284
   - 963894
   - 975133
   - 996984
@@ -592,12 +596,23 @@
   - '160'
 - eventId: 837239
   start: 2026-11-26T21:20:00Z
-  stop: 2026-11-26T21:50:00Z
+  stop: 2026-11-26T21:49:00Z
   title: Život na stijeni
   subtitle: Fra Mark Mary, OFM i Doug Barry razgovaraju s osobama koje svojim životima sudjeluju u izgradnju Kraljevstva Božjeg i time daju svjedočanstvo o važnosti utemeljenja svog života na Istini, na Stijeni.
   ageRating: 4
   genre:
   - '160'
+- eventId:
+  - 1015285
+  - 996985
+  - 999837
+  start: 2026-11-26T21:49:00Z
+  stop: 2026-11-26T22:26:00Z
+  title: Fatimska poruka
+  subtitle: U produkciji EWTN-a i suradnji s "St. Clare Media" iz Velike Britanije, serijal 'Fatimska poruka', redatelja Stefana Mazzea, sniman dvije godine u pet zemalja, u 8 nastavaka donosi detaljno,.
+  ageRating: 4
+  genre:
+  - '128'
 - eventId:
   - 963895
   - 975134
@@ -606,16 +621,6 @@
   title: Fatimska poruka, The Message of Fatima
   subtitle: U produkciji EWTN-a i suradnji s "St. Clare Media" iz Velike Britanije, serijal 'Fatimska poruka', redatelja Stefana Mazzea, sniman dvije godine u pet zemalja, u 8 nastavaka donosi detaljno,.
   description: U produkciji EWTN-a i suradnji s 'St. Clare Media' iz Velike Britanije, serijal 'Fatimska poruka', redatelja Stefana Mazzea, sniman dvije godine u pet zemalja, u 8 nastavaka donosi detaljno, kronološki i uz stručne komentare cjelokupnu fatimsku priču. Epizode prikazuju kronološki događaje i ukazanja anđela i Blažene Djevice Marije. Priča je ispričana preko naracije, iskaza stručnjaka, posjeta mjestima te igranim dijelovima. Neki dijelovi serije prikazani su iz perspektive sestre Lucije kao časne sestre. Serija je snimana u Portugalu i Londonu.
-  ageRating: 4
-  genre:
-  - '128'
-- eventId:
-  - 996985
-  - 999837
-  start: 2026-11-26T21:49:00Z
-  stop: 2026-11-26T22:26:00Z
-  title: Fatimska poruka
-  subtitle: U produkciji EWTN-a i suradnji s "St. Clare Media" iz Velike Britanije, serijal 'Fatimska poruka', redatelja Stefana Mazzea, sniman dvije godine u pet zemalja, u 8 nastavaka donosi detaljno,.
   ageRating: 4
   genre:
   - '128'
@@ -665,7 +670,7 @@
   - 980537
   - 983915
   start: 2026-11-26T22:31:00Z
-  stop: 2026-11-26T23:01:00Z
+  stop: 2026-11-26T23:02:00Z
   title: Krunica, Krunica Blažene Djevice Marije
   subtitle: Molimo zajedno molitvu krunice Blažene Djevice Marije.
   ageRating: 4
@@ -724,20 +729,8 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1012647
-  start: 2026-11-26T23:10:00Z
-  stop: 2026-11-27T00:39:00Z
-  title: More milosrđa
-  subtitle: Umorni ste od života, pritisnulo vas je beznađe i tjeskoba, ne vidite izlaz iz problema, očaj je sve jači i strah vas je da ćete biti pobijeđeni. Ne predajte se i ne posustajte!
-  ageRating: 4
-  genre:
-  - '160'
-- eventId: 963897
-  start: 2026-11-26T23:10:00Z
-  stop: 2026-11-27T00:38:00Z
-  title: More milosrđa
-  subtitle: Religijski
 - eventId:
+  - 1012647
   - 975136
   - 996987
   - 999839
@@ -748,3 +741,8 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 963897
+  start: 2026-11-26T23:10:00Z
+  stop: 2026-11-27T00:38:00Z
+  title: More milosrđa
+  subtitle: Religijski
