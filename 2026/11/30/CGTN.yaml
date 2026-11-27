@@ -6,12 +6,14 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 953352
   start: 2026-11-30T00:00:00Z
-  stop: 2026-11-30T01:00:00Z
+  stop: 2026-11-30T00:15:00Z
   title: Global News
   genre:
   - '32'
   subtitle: International news and current affairs from CCTV-4 (China Central Television 4). Global News brings you the latest stories from around the world.
-- eventId: 953353
+- eventId:
+  - 1043188
+  - 953353
   start: 2026-11-30T00:15:00Z
   stop: 2026-11-30T01:00:00Z
   title: China 24
@@ -55,6 +57,12 @@
   genre:
   - '32'
   subtitle: The China Government Bond 10Y is expected to trade at 3.22 percent by the end of this quarter, according to Trading Economics global macro models and analysts expectations.
+- eventId: 1043189
+  start: 2026-11-30T02:30:00Z
+  stop: 2026-11-30T03:00:00Z
+  title: China Insight
+  genre:
+  - '32'
 - eventId: 950677
   start: 2026-11-30T02:30:00Z
   stop: 2026-11-30T03:00:00Z
