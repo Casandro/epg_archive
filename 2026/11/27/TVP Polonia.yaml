@@ -196,7 +196,7 @@
   subtitle: Program na żywo, prowadzony przez pary znanych osób. To swoiste kompendium wiedzy o przyzwyczajeniach, różnicach w postrzeganiu otaczającej rzeczywistości i sposobach bycia.
 - eventId: 821725
   start: 2026-11-27T06:55:00Z
-  stop: 2026-11-27T10:40:00Z
+  stop: 2026-11-27T10:35:00Z
   title: Pytanie na śniadanie
   description: |-
     magazyn (Polska, 2026) (na żywo)
@@ -215,6 +215,7 @@
   - 1032879
   - 1033319
   - 1034478
+  - 1042484
   start: 2026-11-27T10:35:00Z
   stop: 2026-11-27T11:00:00Z
   title: 'Skarbiec sztuki Lubelszczyzny: Kościół Akademicki KUL'
@@ -297,7 +298,10 @@
   start: 2026-11-27T12:50:00Z
   stop: 2026-11-27T14:00:00Z
   title: Polonia 24. Tygodnik
-  description: 'Magazyn koncentrujący się wokół tematyki polonijnej. Audycja przybliża widzom TVP Polonia sprawy Polaków z całego świata, przedstawiając szerokie spektrum tematów: od tych społecznych po codziennie inicjatywy naszych rodaków zza granicy.'
+  description: |-
+    program publicystyczny (Polska, 2024)
+    Zróżnicowany magazyn koncentrujący się wokół tematyki polonijnej. Przybliża widzom sprawy Polaków z całego świata, przedstawiając szerokie spektrum tematów: od tych społecznych po codziennie inicjatywy naszych rodaków za granicą. Całość wzbogacają rozmowy z ciekawymi gośćmi oraz przegląd portali internetowych.
+    Od lat: 12
   ageRating: 12
   genre:
   - '34'
@@ -306,9 +310,9 @@
   start: 2026-11-27T14:00:00Z
   stop: 2026-11-27T14:10:00Z
   title: Serwis Info
-  description: |
-    Tytuł oryginalny: Serwis Info
-    PL, 2026
+  description: |-
+    program informacyjny (Polska) (na żywo)
+    Wiodący magazyn informacyjny TVP Info. Dziennikarze zdają w nim relacje z wydarzeń, które miały miejsce podczas minionego dnia w poszczególnych regionach Polski. Przedstawiają również informacje dotyczące najważniejszych zdarzeń z całego świata. Uzupełnieniem tych wiadomości są reporterskie relacje.
   genre:
   - '149'
 - eventId: 821769
@@ -328,7 +332,7 @@
 - eventId: 821770
   start: 2026-11-27T14:40:00Z
   stop: 2026-11-27T15:00:00Z
-  title: Pięknie przyprawiONA - Sprytne i zdrowe mrożenie i mrożonki
+  title: 'Pięknie przyprawiONA 4: Sprytne i zdrowe mrożenie i mrożonki: odc.1'
   description: |-
     Tytuł oryginalny: Pięknie przyprawiONA
     PL, 2022
@@ -354,16 +358,16 @@
   start: 2026-11-27T16:00:00Z
   stop: 2026-11-27T16:20:00Z
   title: Teleexpress
-  description: |
-    Tytuł oryginalny: Teleexpress
-    PL, 2026
+  description: |-
+    program informacyjny (na żywo)
+    Dynamicznie prowadzony serwis informacyjny prezentujący aktualne wydarzenia, wiadomości kulturalne oraz ciekawostki z kraju i ze świata.
   genre:
   - '36'
   subtitle: Serwis informacyjny prezentujący bieżące wydarzenia, wiadomości kulturalne i ciekawostki z kraju i ze świata. "Teleexpress" jest najstarszym obecnie istniejącym ogólnopolskim programem informacyjnym.
 - eventId: 821789
   start: 2026-11-27T16:20:00Z
   stop: 2026-11-27T16:50:00Z
-  title: Gra słów. Krzyżówka - /1189/
+  title: 'Gra słów. Krzyżówka: odc.1189'
   description: |-
     Tytuł oryginalny: Gra słów. Krzyżówka
     PL, 2026
@@ -377,15 +381,20 @@
   start: 2026-11-27T16:50:00Z
   stop: 2026-11-27T17:15:00Z
   title: Teleexpress Extra
-  description: (N) (JM) Audycja informacyjna, rozszerzenie najważniejszych tematów z głównego wydania Teleexpressu.
+  description: |-
+    magazyn informacyjny (Polska)
+    Prowadzący program prezentują najważniejsze tematy głównego wydania "Teleexpressu" w szerszym wymiarze.
   genre:
   - '149'
   subtitle: Serwis informacyjny prezentujący bieżące wydarzenia, wiadomości kulturalne oraz ciekawostki z kraju i ze świata.
 - eventId: 821791
   start: 2026-11-27T17:15:00Z
   stop: 2026-11-27T17:45:00Z
-  title: Wybieram Polskę
-  description: Serial ukazuje poruszające historie cudzoziemców, którzy wybrali Polskę jako miejsce do życia i postanowili związać z nią swoją przyszłość.
+  title: 'Wybieram Polskę: odc.11'
+  description: |-
+    telenowela dokumentalna (Polska, 2024) odc.11
+    Serial ukazuje poruszające historie cudzoziemców, którzy wybrali Polskę jako miejsce do życia i postanowili związać z nią swoją przyszłość.
+    Od lat: 12
   ageRating: 12
   genre:
   - '34'
@@ -394,7 +403,9 @@
   start: 2026-11-27T17:45:00Z
   stop: 2026-11-27T18:20:00Z
   title: Panorama
-  description: (N) (JM) Codzienny serwis informacyjny.
+  description: |-
+    program informacyjny
+    Podsumowanie najważniejszych wydarzeń dnia z kraju i ze świata. W programie oprócz materiałów czysto newsowych, politycznych, społecznych, gospodarczych, medycznych, naukowych i kulturalnych znajdą się również analizy konkretnych zagadnień oraz wypowiedzi ekspertów.
   genre:
   - '149'
   subtitle: Główny program informacyjny telewizyjnej Dwójki, podsumowujący najważniejsze wydarzenia minionego dnia w kraju i na świecie.
@@ -402,15 +413,20 @@
   start: 2026-11-27T18:20:00Z
   stop: 2026-11-27T18:30:00Z
   title: Niezwykłe miejsca - Iłża - Malinowy Chruśniak
-  description: Krótkie reportaże o charakterze edukacyjnym prezentujące niezwykłe miejsca w Polsce. Miejsca znane i mniej znane, często zapomniane i takie, które nie są niedostępne dla wszystkich. Miejsca skrywające wiele tajemnic, owiane legendą,
+  description: |-
+    cykl reportaży (Polska, 2023), Iłża - Malinowy Chruśniak
+    Twórcy reportaży przybliżają niezwykłe miejsca w Polsce. Skrywają one wiele tajemnic, owiane są legendą, mają bogatą historię. Prowadzący przenoszą widza do minionych epok, uwzględniając dokonania współczesnych konserwatorów oraz pasjonatów historii Polski, malarstwa i kultury.
+    Od lat: 7
   ageRating: 7
   genre:
   - '112'
 - eventId: 821810
   start: 2026-11-27T18:30:00Z
   stop: 2026-11-27T18:55:00Z
-  title: Program informacyjny
-  description: (N) Główne wydanie codziennego programu informacyjnego.
+  title: Program informacyjny 19.30
+  description: |-
+    program informacyjny (na żywo)
+    Główny serwis informacyjny TVP. Prowadzący przedstawia najważniejsze wydarzenia dnia z kraju i ze świata. Relacje dotyczą przede wszystkim polityki, gospodarki, kultury oraz życia społecznego.
   genre:
   - '36'
   subtitle: Bieżące wydarzenia w kraju i na świecie. Informacje polityczne, gospodarcze, ważne tematy społeczne i poruszające opinię publiczną.
@@ -425,18 +441,18 @@
   start: 2026-11-27T19:10:00Z
   stop: 2026-11-27T19:15:00Z
   title: Sport
-  description: |
-    Tytuł oryginalny: Sport
-    PL, 2026
+  description: |-
+    magazyn (na żywo)
+    Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.
   genre:
   - '66'
 - eventId: 821813
   start: 2026-11-27T19:15:00Z
   stop: 2026-11-27T19:25:00Z
   title: Pogoda
-  description: |
-    Tytuł oryginalny: Pogoda
-    PL, 2025
+  description: |-
+    program informacyjny
+    Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.
   genre:
   - '32'
 - eventId: 821814
@@ -458,11 +474,11 @@
   stop: 2026-11-27T20:45:00Z
   title: Na sygnale - odc. 684 "Czasem lepiej nie wiedzieć"
   description: |-
-    Tytuł oryginalny: Na sygnale
-    PL, 2025
-    Reżyseria: Karol Kiewel
-    Występują: Kamil Błoch
-    Wiktor próbuje na nowo porozumieć się z Czarkiem, a w pracy zespół doktora Banacha trafia na starszego, zdezorientowanego mężczyznę, który błąka się w nocy po ulicy i u którego lekarz diagnozuje krwotok wewnętrzny. Z kolei doktor Lisicki musi na dyżurze pomóc dziewczynie z koszmarną wysypką na twarzy. Rodzice lekarza nadal uważają, że Basia powinna być jego dziewczyną i oczekują, że Dobromir pojawi się z "ukochaną" na ich rocznicy...
+    serial fabularno-dokumentalny (Polska, 2025) odc.684, Czasem lepiej nie wiedzieć
+    Występują: Tomasz Piątkowski, Lea Oleksiak, Dariusz Wieteska, Kamil Wodka, Edyta Bełza, Anna Wysocka-Jaworska, Wojciech Zygmunt, Anna Wysocka, Amelia Radecka, Justyna Sieniawska
+    Wiktor ponownie stara się dojść do porozumienia z Czarkiem. Podczas dyżuru trafia razem ze swoim zespołem na seniora błąkającego się nocą po ulicy. Lekarz diagnozuje u pacjenta krwotok wewnętrzny. Lisicki leczy dziewczynę z koszmarną wysypką na twarzy. Tymczasem jego rodzice nie odpuszczają w sprawie Basi.
+    Reżyser: Karol Kiewel
+    Od lat: 12
   ageRating: 12
   genre:
   - '23'
@@ -497,9 +513,9 @@
   start: 2026-11-27T22:15:00Z
   stop: 2026-11-27T22:45:00Z
   title: Panorama
-  description: |
-    Tytuł oryginalny: Panorama
-    PL, 2026
+  description: |-
+    program informacyjny
+    Podsumowanie najważniejszych wydarzeń dnia z kraju i ze świata. W programie oprócz materiałów czysto newsowych, politycznych, społecznych, gospodarczych, medycznych, naukowych i kulturalnych znajdą się również analizy konkretnych zagadnień oraz wypowiedzi ekspertów.
   genre:
   - '149'
   subtitle: Główny program informacyjny telewizyjnej Dwójki, podsumowujący najważniejsze wydarzenia minionego dnia w kraju i na świecie.
@@ -521,6 +537,8 @@
   start: 2026-11-27T23:45:00Z
   stop: 2026-11-28T00:00:00Z
   title: Dziennik Regionów
-  description: Codzienny program informacyjny prezentujący najważniejsze wydarzenia dnia, ze wszystkich regionów Polski.
+  description: |-
+    program informacyjny
+    Reporterzy stacji przez cały dzień zbierają najważniejsze informacje ze wszystkich ośrodków regionalnych w kraju. Dotyczą one ostatnich wydarzeń politycznych, społecznych, kulturalnych oraz gospodarczych.
   genre:
   - '36'
