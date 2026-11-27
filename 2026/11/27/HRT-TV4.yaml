@@ -7,10 +7,22 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 1034401
+  start: 2026-11-27T00:07:00Z
+  stop: 2026-11-27T00:57:00Z
+  title: Dnevnik 2
+  subtitle: ' '
+  description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
+- eventId: 1034402
+  start: 2026-11-27T00:57:00Z
+  stop: 2026-11-27T00:59:00Z
+  title: Vrijeme RH danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 965038
   start: 2026-11-27T00:59:00Z
   stop: 2026-11-27T01:00:00Z
-  title: Vrijeme RH danas
+  title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -28,7 +40,7 @@
 - eventId: 965040
   start: 2026-11-27T01:02:00Z
   stop: 2026-11-27T01:04:00Z
-  title: Vrijeme svijet danas
+  title: 'Bez komentara: NY - Dan zahvalnosti'
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -106,7 +118,7 @@
   - 1022917
   - 1026152
   start: 2026-11-27T01:54:00Z
-  stop: 2026-11-27T01:55:00Z
+  stop: 2026-11-27T02:00:00Z
   title: Poslovne vijesti
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
@@ -131,7 +143,7 @@
   - '32'
 - eventId: 965047
   start: 2026-11-27T02:00:00Z
-  stop: 2026-11-27T02:10:00Z
+  stop: 2026-11-27T02:09:00Z
   title: Vijesti flash
   subtitle: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
@@ -200,7 +212,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1031328
+- eventId:
+  - 1031328
+  - 1034404
   start: 2026-11-27T02:51:00Z
   stop: 2026-11-27T02:54:00Z
   title: '#REPORTAŽE: Drvo'
@@ -223,6 +237,18 @@
   title: 'Bez komentara: Hong Kong - Godina dana od razornog požara'
   subtitle: ' '
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 1034405
+  start: 2026-11-27T02:54:00Z
+  stop: 2026-11-27T02:55:00Z
+  title: 'Bez komentara: Hong Kong - Godina dana od razornog požara'
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
+- eventId: 1034406
+  start: 2026-11-27T02:55:00Z
+  stop: 2026-11-27T03:43:00Z
+  title: Pregled dana
+  subtitle: ' '
+  description: Pregled sadržaja iz zemlje i svijeta prikazanih u emisiji Studio 4. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života.
 - eventId: 965055
   start: 2026-11-27T02:58:00Z
   stop: 2026-11-27T03:43:00Z
@@ -234,13 +260,19 @@
   - '160'
 - eventId: 965056
   start: 2026-11-27T03:43:00Z
-  stop: 2026-11-27T03:53:00Z
+  stop: 2026-11-27T03:52:00Z
   title: Vijesti flash
   subtitle: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
   ageRating: 4
   genre:
   - '32'
+- eventId: 1034407
+  start: 2026-11-27T03:52:00Z
+  stop: 2026-11-27T04:01:00Z
+  title: Vijesti iz kulture
+  subtitle: ' '
+  description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
 - eventId: 965057
   start: 2026-11-27T03:53:00Z
   stop: 2026-11-27T04:00:00Z
@@ -259,6 +291,24 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 1034408
+  start: 2026-11-27T04:01:00Z
+  stop: 2026-11-27T04:51:00Z
+  title: Dnevnik 2
+  subtitle: ' '
+  description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
+- eventId: 1034409
+  start: 2026-11-27T04:51:00Z
+  stop: 2026-11-27T04:52:00Z
+  title: Vrijeme RH danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
+- eventId: 1034410
+  start: 2026-11-27T04:52:00Z
+  stop: 2026-11-27T04:54:00Z
+  title: Vrijeme Europa danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
 - eventId: 965059
   start: 2026-11-27T04:53:00Z
   stop: 2026-11-27T04:54:00Z
@@ -270,7 +320,7 @@
   - '32'
 - eventId: 965060
   start: 2026-11-27T04:54:00Z
-  stop: 2026-11-27T04:55:00Z
+  stop: 2026-11-27T04:56:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
@@ -286,6 +336,12 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 1034411
+  start: 2026-11-27T04:56:00Z
+  stop: 2026-11-27T04:59:00Z
+  title: 'Bez komentara: Njemačka - Božićni sajmovi'
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 965062
   start: 2026-11-27T04:57:00Z
   stop: 2026-11-27T05:00:00Z
@@ -295,6 +351,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1034412
+  start: 2026-11-27T04:59:00Z
+  stop: 2026-11-27T05:07:00Z
+  title: Vijesti na španjolskom jeziku
+  subtitle: ' '
+  description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 965063
   start: 2026-11-27T05:00:00Z
   stop: 2026-11-27T05:08:00Z
@@ -304,6 +366,12 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 1034413
+  start: 2026-11-27T05:07:00Z
+  stop: 2026-11-27T05:16:00Z
+  title: Vijesti na engleskom jeziku
+  subtitle: ' '
+  description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 965064
   start: 2026-11-27T05:08:00Z
   stop: 2026-11-27T05:10:00Z
@@ -322,6 +390,12 @@
   ageRating: 4
   genre:
   - '32'
+- eventId: 1034414
+  start: 2026-11-27T05:16:00Z
+  stop: 2026-11-27T05:26:00Z
+  title: 'Studio 4: Znanost'
+  subtitle: ' '
+  description: Kratki pregled aktualnosti iz svijeta znanosti.
 - eventId: 965066
   start: 2026-11-27T05:18:00Z
   stop: 2026-11-27T05:28:00Z
@@ -345,6 +419,12 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1034415
+  start: 2026-11-27T05:26:00Z
+  stop: 2026-11-27T05:58:00Z
+  title: Otvoreno
+  subtitle: ' '
+  description: 'Hrvatska još traga za 1725 ubijenih i nestalih u Domovinskom ratu. Za njihove obitelji, rezolucija Europskog parlamenta o stradanju Vukovara neće sama po sebi otkriti grobove niti donijeti odgovore koje čekaju već 35 godina. No može biti novi pritisak da se otvore srpski ratni arhivi, rasvijetli sudbina nestalih, procesuiraju ratni zločini. Umjesto da bude poticaj za suočavanje s prošlošću - rezolucija je izazvala protivljenje Studentskog pokreta koji preuzima vlast u Srbiji. Slijedi li nastavak politike poricanja, relativiziranja i izbjegavanja odgovornosti? Ima li bez prihvaćanja istine o prošlosti - stvarnog pomirenja? Gosti su: Karlo Ressler, zastupnik u Europskom parlamentu (HDZ), Ana Filko, ravnateljica Uprave za zatočene i nestale Ministarstva hrvatskih branitelja, Nataša Kandić, osnivačica Fonda za humanitarno pravo.'
 - eventId:
   - 1021008
   - 1022918
@@ -581,7 +661,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 972805
   start: 2026-11-27T12:35:00Z
-  stop: 2026-11-27T12:45:00Z
+  stop: 2026-11-27T12:43:00Z
   title: 'Studio 4: Kultura'
   subtitle: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja.
   ageRating: 4
@@ -592,6 +672,7 @@
   - 1022919
   - 1026413
   - 1031330
+  - 1034416
   start: 2026-11-27T12:43:00Z
   stop: 2026-11-27T12:48:00Z
   title: Poslovne vijesti
@@ -616,6 +697,7 @@
   - 1022920
   - 1026414
   - 1031331
+  - 1034417
   start: 2026-11-27T12:48:00Z
   stop: 2026-11-27T12:56:00Z
   title: 'Studio 4: Znanost'
@@ -640,6 +722,7 @@
   - 1022921
   - 1026415
   - 1031332
+  - 1034418
   start: 2026-11-27T12:56:00Z
   stop: 2026-11-27T13:00:00Z
   title: Bez komentara
@@ -884,7 +967,7 @@
   - 974339
   - 975230
   start: 2026-11-27T16:12:00Z
-  stop: 2026-11-27T16:13:00Z
+  stop: 2026-11-27T16:14:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
@@ -917,6 +1000,7 @@
   - 1022922
   - 1026416
   - 1031333
+  - 1034419
   start: 2026-11-27T16:14:00Z
   stop: 2026-11-27T16:16:00Z
   title: Vrijeme svijet danas
@@ -952,6 +1036,7 @@
   - 1022923
   - 1026417
   - 1031334
+  - 1034420
   start: 2026-11-27T16:16:00Z
   stop: 2026-11-27T16:20:00Z
   title: Bez komentara
