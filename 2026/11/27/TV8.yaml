@@ -385,6 +385,7 @@
 - eventId:
   - 1016423
   - 1031015
+  - 1036050
   start: 2026-11-27T13:00:00Z
   stop: 2026-11-27T14:45:00Z
   title: Médium
@@ -470,6 +471,7 @@
   - 1016424
   - 1027205
   - 1031016
+  - 1036051
   - 831742
   - 953559
   - 966337
@@ -513,6 +515,7 @@
 - eventId:
   - 1016429
   - 1031022
+  - 1036060
   start: 2026-11-27T15:00:00Z
   stop: 2026-11-27T19:00:00Z
   title: Médium
@@ -639,10 +642,13 @@
   ageRating: 12
 - eventId: 1032943
   start: 2026-11-27T19:00:00Z
-  stop: 2026-11-27T21:00:00Z
-  title: Ezoterická poradňa
+  stop: 2026-11-27T20:45:00Z
+  title: Ezoterická poradňa s Renátou
   subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
   ageRating: 12
+  description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
+  genre:
+  - '149'
 - eventId:
   - 1000148
   - 1005310
@@ -686,6 +692,7 @@
   - 1016437
   - 1027222
   - 1031028
+  - 1036067
   - 831809
   - 953602
   - 966346
@@ -717,21 +724,17 @@
   subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
   ageRating: 12
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
-- eventId: 1032233
-  start: 2026-11-27T23:00:00Z
-  stop: 2026-11-27T23:20:00Z
-  title: Teleshoppingové pásmo
-  subtitle: Teleshoppingové pásmo
-  ageRating: 12
-- eventId: 831838
+- eventId:
+  - 1032233
+  - 831838
   start: 2026-11-27T23:00:00Z
   stop: 2026-11-28T04:30:00Z
   title: Nočné vysielanie pre pánov, X,H,18+
-  genre:
-  - '160'
   subtitle: Teleshoppingové pásmo
   ageRating: 12
   description: Šteklivé videá nielen pre pánov.
+  genre:
+  - '160'
 - eventId:
   - 853000
   - 955884

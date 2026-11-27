@@ -474,7 +474,7 @@
   - 1034258
   - 831727
   start: 2026-11-27T12:00:00Z
-  stop: 2026-11-27T13:00:00Z
+  stop: 2026-11-27T12:30:00Z
   title: The Boy Who Started And Survived the Syrian War
   subtitle: A boy who grew up amid Syria's war reveals the untold origins of the conflict and the fight for his nation's freedom.
   description: Up-to-date news and analysis from around the world.
@@ -494,6 +494,7 @@
   - 1016405
   - 1027164
   - 1030997
+  - 1036049
   - 831728
   - 953501
   - 966313
@@ -535,7 +536,7 @@
   - 1034260
   - 831730
   start: 2026-11-27T14:00:00Z
-  stop: 2026-11-27T14:30:00Z
+  stop: 2026-11-27T15:00:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
@@ -576,7 +577,7 @@
   - 1034262
   - 831759
   start: 2026-11-27T15:00:00Z
-  stop: 2026-11-27T16:00:00Z
+  stop: 2026-11-27T15:30:00Z
   title: 'NEWSHOUR: The Wider Story'
   subtitle: A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.
   description: Up-to-date news and analysis from around the world.
@@ -596,6 +597,7 @@
   - 1016411
   - 1027175
   - 1031004
+  - 1036059
   - 831760
   - 953529
   - 966321
@@ -617,7 +619,7 @@
   - 1034263
   - 831761
   start: 2026-11-27T16:00:00Z
-  stop: 2026-11-27T16:30:00Z
+  stop: 2026-11-27T17:00:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
@@ -676,6 +678,8 @@
   - 1021624
   - 1027178
   - 1029294
+  - 1032912
+  - 1034266
   - 831763
   start: 2026-11-27T17:30:00Z
   stop: 2026-11-27T18:00:00Z
@@ -684,13 +688,6 @@
   description: Hind Hassan examines the prospect of a new nuclear arms race, the companies helping to fuel it, and the dangers it poses to us all.
   genre:
   - '32'
-- eventId:
-  - 1032912
-  - 1034266
-  start: 2026-11-27T17:30:00Z
-  stop: 2026-11-27T18:00:00Z
-  title: Inside Story
-  subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
 - eventId:
   - 1017524
   - 1021626
@@ -708,9 +705,12 @@
   - 1032915
   - 1034267
   start: 2026-11-27T18:00:00Z
-  stop: 2026-11-27T19:00:00Z
-  title: Newshour
+  stop: 2026-11-27T18:30:00Z
+  title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+  description: Up-to-date news and analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 1000868
   - 1009329
@@ -738,7 +738,7 @@
   - 1034268
   - 831792
   start: 2026-11-27T19:00:00Z
-  stop: 2026-11-27T19:30:00Z
+  stop: 2026-11-27T20:00:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
@@ -779,7 +779,7 @@
   - 1034270
   - 831793
   start: 2026-11-27T20:00:00Z
-  stop: 2026-11-27T21:00:00Z
+  stop: 2026-11-27T20:30:00Z
   title: Al Jazeera World
   subtitle: War hero turned nationalist, Mahmoud Harbi defied colonial rule to fight for independence in today's Djibouti, until his death in a mysterious 1960 plane crash.
   description: Up-to-date news and analysis from around the world.
@@ -799,6 +799,7 @@
   - 1016417
   - 1027195
   - 1031009
+  - 1036066
   - 831794
   - 953557
   - 966330
@@ -816,6 +817,8 @@
   - 1021630
   - 1027201
   - 1029304
+  - 1032921
+  - 1034271
   - 831826
   start: 2026-11-27T21:00:00Z
   stop: 2026-11-27T22:00:00Z
@@ -825,13 +828,6 @@
   genre:
   - '32'
 - eventId:
-  - 1032921
-  - 1034271
-  start: 2026-11-27T21:00:00Z
-  stop: 2026-11-27T22:00:00Z
-  title: Newshour
-  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId:
   - 1017536
   - 1021631
   - 1029305
@@ -839,7 +835,7 @@
   - 1034272
   - 831827
   start: 2026-11-27T22:00:00Z
-  stop: 2026-11-27T22:30:00Z
+  stop: 2026-11-27T23:00:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
@@ -892,6 +888,8 @@
   - 1021634
   - 1027204
   - 1029308
+  - 1032925
+  - 1034275
   - 900955
   start: 2026-11-27T23:30:00Z
   stop: 2026-11-28T00:00:00Z
@@ -900,10 +898,3 @@
   description: earthrise follows the progress of Al Mizan, an Islamic Covenant for the Earth, and traces its growing impact in the year after its launch.
   genre:
   - '32'
-- eventId:
-  - 1032925
-  - 1034275
-  start: 2026-11-27T23:30:00Z
-  stop: 2026-11-28T00:00:00Z
-  title: Inside Story
-  subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.

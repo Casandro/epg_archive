@@ -15,9 +15,12 @@
   - 1032926
   - 1034276
   start: 2026-11-28T00:00:00Z
-  stop: 2026-11-28T01:00:00Z
-  title: Newshour
+  stop: 2026-11-28T00:30:00Z
+  title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+  description: Up-to-date news and analysis from around the world.
+  genre:
+  - '32'
 - eventId:
   - 1000879
   - 1009341
@@ -25,6 +28,7 @@
   - 1016428
   - 1027210
   - 1031021
+  - 1036076
   - 900972
   - 981227
   - 998350
@@ -61,6 +65,8 @@
   - 1021638
   - 1027212
   - 1029313
+  - 1032928
+  - 1034278
   - 900974
   start: 2026-11-28T02:00:00Z
   stop: 2026-11-28T03:00:00Z
@@ -69,13 +75,6 @@
   genre:
   - '32'
 - eventId:
-  - 1032928
-  - 1034278
-  start: 2026-11-28T02:00:00Z
-  stop: 2026-11-28T03:00:00Z
-  title: Newshour
-  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-- eventId:
   - 1017552
   - 1021640
   - 1029314
@@ -83,7 +82,7 @@
   - 1034279
   - 900984
   start: 2026-11-28T03:00:00Z
-  stop: 2026-11-28T03:30:00Z
+  stop: 2026-11-28T04:00:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Latest news and in-depth analysis from around the world.
@@ -134,6 +133,8 @@
   - 1021643
   - 1027220
   - 1029317
+  - 1032932
+  - 1034282
   - 900986
   start: 2026-11-28T04:30:00Z
   stop: 2026-11-28T05:00:00Z
@@ -142,13 +143,6 @@
   description: 101 East reports on the people and events shaping the Asia Pacific region. .
   genre:
   - '32'
-- eventId:
-  - 1032932
-  - 1034282
-  start: 2026-11-28T04:30:00Z
-  stop: 2026-11-28T05:00:00Z
-  title: Witness
-  subtitle: A decade after Colombia's peace accords, former FARC guerrilla and artist honours killed signatories with a mural.
 - eventId: 900987
   start: 2026-11-28T05:00:00Z
   stop: 2026-11-28T05:30:00Z
@@ -183,7 +177,7 @@
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
 - eventId: 901014
   start: 2026-11-28T07:00:00Z
-  stop: 2026-11-28T08:00:00Z
+  stop: 2026-11-28T07:30:00Z
   title: News Live
   genre:
   - '32'
@@ -196,6 +190,7 @@
   - 1016069
   - 1027228
   - 1031035
+  - 1036085
   - 901015
   - 981236
   - 998390
@@ -209,7 +204,7 @@
   description: Hind Hassan examines the prospect of a new nuclear arms race, the companies helping to fuel it, and the dangers it poses to us all.
 - eventId: 901016
   start: 2026-11-28T08:00:00Z
-  stop: 2026-11-28T08:30:00Z
+  stop: 2026-11-28T09:00:00Z
   title: News Live
   genre:
   - '32'
@@ -249,7 +244,7 @@
   description: Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.
 - eventId: 901056
   start: 2026-11-28T10:00:00Z
-  stop: 2026-11-28T11:00:00Z
+  stop: 2026-11-28T10:30:00Z
   title: News Live
   genre:
   - '32'
@@ -262,6 +257,7 @@
   - 1016074
   - 1027251
   - 1031040
+  - 1036092
   - 901057
   - 981244
   - 998400
@@ -275,7 +271,7 @@
   description: earthrise follows the progress of Al Mizan, an Islamic Covenant for the Earth, and traces its growing impact in the year after its launch.
 - eventId: 901058
   start: 2026-11-28T11:00:00Z
-  stop: 2026-11-28T11:30:00Z
+  stop: 2026-11-28T12:00:00Z
   title: News Live
   genre:
   - '32'
@@ -299,7 +295,7 @@
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
 - eventId: 901088
   start: 2026-11-28T12:00:00Z
-  stop: 2026-11-28T13:00:00Z
+  stop: 2026-11-28T12:30:00Z
   title: Al Jazeera World
   genre:
   - '32'
@@ -312,6 +308,7 @@
   - 1016082
   - 1027291
   - 1031045
+  - 1036100
   - 901089
   - 981248
   - 998405
@@ -332,7 +329,7 @@
   description: Al Jazeera's journalists risk everything to cover the start of Israel's war on Gaza led by bureau chief Wael al Dahdouh, even when he loses his closest family.
 - eventId: 901091
   start: 2026-11-28T14:00:00Z
-  stop: 2026-11-28T14:30:00Z
+  stop: 2026-11-28T15:00:00Z
   title: News Live
   genre:
   - '32'
