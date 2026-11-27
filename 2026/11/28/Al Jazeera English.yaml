@@ -455,7 +455,7 @@
   - 1048328
   - 901114
   start: 2026-11-28T15:00:00Z
-  stop: 2026-11-28T16:00:00Z
+  stop: 2026-11-28T15:30:00Z
   title: 'NEWSHOUR: The Wider Story'
   genre:
   - '32'
@@ -470,6 +470,7 @@
   - 1031053
   - 1035841
   - 1043113
+  - 1049253
   - 901115
   - 981260
   - 998412
@@ -485,7 +486,7 @@
   - 1048329
   - 901116
   start: 2026-11-28T16:00:00Z
-  stop: 2026-11-28T16:30:00Z
+  stop: 2026-11-28T17:00:00Z
   title: News Live
   genre:
   - '32'
@@ -520,24 +521,24 @@
   - '32'
   subtitle: A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.
   description: Up-to-date news and analysis from around the world.
-- eventId: 1048332
-  start: 2026-11-28T17:30:00Z
-  stop: 2026-11-28T18:00:00Z
-  title: Inside Story
-  subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
-- eventId: 901118
+- eventId:
+  - 1048332
+  - 901118
   start: 2026-11-28T17:30:00Z
   stop: 2026-11-28T18:00:00Z
   title: People and Power
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
+  description: Oppressed, dispossessed and expelled ? how Palestinians resist the century-long effort to force them from their land.
   genre:
   - '32'
-  description: Oppressed, dispossessed and expelled ? how Palestinians resist the century-long effort to force them from their land.
 - eventId: 1048334
   start: 2026-11-28T18:00:00Z
-  stop: 2026-11-28T19:00:00Z
-  title: Newshour
+  stop: 2026-11-28T18:30:00Z
+  title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+  description: Up-to-date news and analysis from around the world.
+  genre:
+  - '32'
 - eventId: 901141
   start: 2026-11-28T18:00:00Z
   stop: 2026-11-28T19:00:00Z
@@ -555,6 +556,7 @@
   - 1031058
   - 1035854
   - 1043121
+  - 1049260
   - 901142
   - 981267
   - 998421
@@ -569,7 +571,7 @@
   - 1048335
   - 901143
   start: 2026-11-28T19:00:00Z
-  stop: 2026-11-28T19:30:00Z
+  stop: 2026-11-28T20:00:00Z
   title: News Live
   genre:
   - '32'
@@ -596,9 +598,12 @@
   subtitle: 'Fast-paced current affairs programme that investigates, analyses and critiques the world''s media and all the important news, explaining how they operate and what are the stories they cover. '
 - eventId: 1048337
   start: 2026-11-28T20:00:00Z
-  stop: 2026-11-28T21:00:00Z
-  title: Witness
+  stop: 2026-11-28T20:30:00Z
+  title: News Live
   subtitle: Human rights activist Fatna El Bouih brings cinema to young prisoners while confronting her own disappearance and torture in 1970s Morocco.
+  description: Up-to-date news and analysis from around the world.
+  genre:
+  - '32'
 - eventId: 901144
   start: 2026-11-28T20:00:00Z
   stop: 2026-11-28T21:00:00Z
@@ -616,6 +621,7 @@
   - 1031059
   - 1035855
   - 1043122
+  - 1049261
   - 901145
   - 981268
   - 998422
@@ -640,7 +646,7 @@
   - 1048340
   - 901173
   start: 2026-11-28T22:00:00Z
-  stop: 2026-11-28T22:30:00Z
+  stop: 2026-11-28T23:00:00Z
   title: News Live
   genre:
   - '32'
@@ -675,16 +681,13 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
-- eventId: 1048343
-  start: 2026-11-28T23:30:00Z
-  stop: 2026-11-29T00:00:00Z
-  title: Inside Story
-  subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
-- eventId: 901175
+- eventId:
+  - 1048343
+  - 901175
   start: 2026-11-28T23:30:00Z
   stop: 2026-11-29T00:00:00Z
   title: The Bottom Line
-  genre:
-  - '32'
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
   description: Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.
+  genre:
+  - '32'
