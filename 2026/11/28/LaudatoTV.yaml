@@ -126,14 +126,23 @@
   start: 2026-11-28T05:57:00Z
   stop: 2026-11-28T05:59:00Z
   title: Klapa sv. Juraj HRM - Kraljice svete krunice
-  subtitle: Glazbeni
+  subtitle: Klapa sv. Juraj HRM - Kraljice svete krunice.
   description: Klapa sv. Juraj HRM - Kraljice svete krunice
+  ageRating: 4
 - eventId: 1031280
   start: 2026-11-28T05:59:00Z
   stop: 2026-11-28T06:45:00Z
   title: 'Sveta Misa: Svetište Majke Božje Remetske, Zagreb, Sveta Misa: Zagreb'
   subtitle: Religijski
   description: Sveta Misa iz Svetišta Majke Božje Remetske u Zagrebu.
+- eventId: 1038268
+  start: 2026-11-28T05:59:00Z
+  stop: 2026-11-28T06:45:00Z
+  title: 'Sveta Misa: Svetište Majke Božje Remetske, Zagreb'
+  subtitle: Sveta Misa iz Svetišta Majke Božje Remetske u Zagrebu.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 1032969
   start: 2026-11-28T06:00:00Z
   stop: 2026-11-28T06:45:00Z
@@ -269,17 +278,22 @@
   description: U školi, jedan od učenika prijavljuje profesora, a sestra Angela i Nico pokušavaju pomoći Mariji, koja čuva neizrecivu tajnu. Ginevra želi pomoći Nicu oko selidbe, ali možda je to samo izgovor da shvati svoje prave osjećaje... Sestra Angela, shrvana Nicovom odlukom, donosi neočekivanu odluku koja će promijeniti sudbinu samostana.
 - eventId: 931740
   start: 2026-11-28T11:00:00Z
-  stop: 2026-11-28T11:03:00Z
+  stop: 2026-11-28T11:02:00Z
   title: Anđeo Gospodnji
   subtitle: Moliti znači razgovarati s Bogom. Zajedno uz program Laudato TV dodatno osnažite vezu sa svojim Ocem.
   ageRating: 4
   genre:
   - '160'
-- eventId: 1032314
+- eventId:
+  - 1032314
+  - 1038280
   start: 2026-11-28T11:02:00Z
   stop: 2026-11-28T12:35:00Z
   title: More milosrđa
-  subtitle: Religijski
+  subtitle: Umorni ste od života, pritisnulo vas je beznađe i tjeskoba, ne vidite izlaz iz problema, očaj je sve jači i strah vas je da ćete biti pobijeđeni. Ne predajte se i ne posustajte!
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 931741
   start: 2026-11-28T11:02:00Z
   stop: 2026-11-28T12:36:00Z
@@ -295,11 +309,16 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1032315
+- eventId:
+  - 1032315
+  - 1038289
   start: 2026-11-28T12:35:00Z
   stop: 2026-11-28T13:09:00Z
   title: Lovac na čudesa
-  subtitle: Dokumentarni
+  subtitle: Lovac na čudesa dokumentarna je serija Michaela O'Neilla koji putuje poznatim svjetskim svetištima kao što su Lourdes, Loreto, Asiz, Guadalupe, Pariz, New Orleans i donosi zadivljujuće priče o...
+  ageRating: 4
+  genre:
+  - '128'
 - eventId:
   - 1032971
   - 931750
@@ -310,12 +329,17 @@
   ageRating: 4
   genre:
   - '128'
-- eventId: 1032316
+- eventId:
+  - 1032316
+  - 1038290
   start: 2026-11-28T13:09:00Z
   stop: 2026-11-28T13:54:00Z
   title: Izdvojeno
-  subtitle: Religijski
+  subtitle: Metković je grad bogate vjerske tradicije, a Župa svetoga Ilije proroka već je desetljećima važno duhovno središte njegovih stanovnika.
   description: Metković je grad bogate vjerske tradicije, a Župa svetoga Ilije proroka već je desetljećima važno duhovno središte njegovih stanovnika. Uz franjevačku prisutnost, župni život obilježavaju brojne pobožnosti, zajednice i običaji koji se prenose s generacije na generaciju. Tko sve čini ovu živu župnu zajednicu, kako se čuva tradicija i na koji način vjera povezuje mlade i starije? Donosimo vam priču iz Metkovića.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1032972
   - 931751
@@ -326,11 +350,16 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1032317
+- eventId:
+  - 1032317
+  - 1038291
   start: 2026-11-28T13:54:00Z
   stop: 2026-11-28T13:59:00Z
   title: Vijesti iz Vatikana
-  subtitle: Informativni
+  subtitle: Donosimo najnovije vijesti iz Vatikana, koji predstavlja sjedište Rimokatoličke Crkve. Saznajte sve najvažnije novosti i informirajte se o najbitnijim događajima vezanim uz Crkvu.
+  ageRating: 4
+  genre:
+  - '32'
 - eventId:
   - 1032973
   - 931752
@@ -341,12 +370,17 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1032318
+- eventId:
+  - 1032318
+  - 1038292
   start: 2026-11-28T13:59:00Z
   stop: 2026-11-28T14:14:00Z
   title: Krunica Božjeg milosrđa
-  subtitle: Religijski
+  subtitle: Molimo zajedno molitvu Krunice Božjega Milosrđa.
   description: Molimo zajedno molitvu Krunice Božjega Milosrđa.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1032974
   - 931753
@@ -363,7 +397,7 @@
   - 1022205
   - 996154
   start: 2026-11-28T14:14:00Z
-  stop: 2026-11-28T14:54:00Z
+  stop: 2026-11-28T15:00:00Z
   title: Zlatni savjeti
   subtitle: Odoljen ili valerijana od davnina se koristi za smirenje živčanog sustava, ublažavanje nervoze i poboljšanje kvalitete sna.
   description: Odoljen ili valerijana od davnina se koristi za smirenje živčanog sustava, ublažavanje nervoze i poboljšanje kvalitete sna. Saznajte koja se ljekovita svojstva kriju u njegovu korijenu te kako ga pravilno pripremiti i koristiti za očuvanje zdravlja i prirodno ublažavanje svakodnevnih tegoba.
@@ -406,6 +440,14 @@
   stop: 2026-11-28T16:00:00Z
   title: Generacija plus
   subtitle: Magazin
+- eventId: 1038309
+  start: 2026-11-28T15:00:00Z
+  stop: 2026-11-28T15:59:00Z
+  title: Generacija plus
+  subtitle: Dinamičan koncept emisije u kojoj petero mladih raspravlja, ali se i međusobno nadopunjuje, poučava, pojašnjava i poštuje drugačije mišljenje o probranim i mladima važnim temama. Emisija će nastojati...
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1032976
   - 996156
@@ -440,6 +482,7 @@
   - 1003584
   - 1012654
   - 1031282
+  - 1038310
   - 931770
   start: 2026-11-28T16:00:00Z
   stop: 2026-11-28T18:00:00Z
@@ -552,6 +595,14 @@
   stop: 2026-11-28T22:00:00Z
   title: Domovinu volim, Domovinu volim
   subtitle: Glazbeni
+- eventId: 1038340
+  start: 2026-11-28T21:20:00Z
+  stop: 2026-11-28T22:00:00Z
+  title: Domovinu volim
+  subtitle: Domoljubna glazba.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId: 931786
   start: 2026-11-28T22:00:00Z
   stop: 2026-11-28T22:15:00Z

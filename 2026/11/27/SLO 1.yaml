@@ -8,7 +8,7 @@
   - '160'
 - eventId: 972697
   start: 2026-11-27T05:00:00Z
-  stop: 2026-11-27T05:30:00Z
+  stop: 2026-11-27T05:35:00Z
   title: Odmevi
   subtitle: Odmevi vsak delavnik ob 22.10 ponudijo sveže večerne novice ter analize najpomembnejših dogodkov dneva.
   ageRating: 4
@@ -22,7 +22,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 972698
+- eventId:
+  - 1038381
+  - 972698
   start: 2026-11-27T05:35:00Z
   stop: 2026-11-27T05:45:00Z
   title: Kultura
@@ -198,6 +200,14 @@
   - '160'
 - eventId: 972725
   start: 2026-11-27T15:20:00Z
+  stop: 2026-11-27T15:25:00Z
+  title: Zdravnica Mica
+  subtitle: Z jablane, nagnjene nad dvorišče porednih pujsov, bi Jon rad sklatil jabolka. Njegovi poskusi se sprevržejo v vsesplošno vojno med ovcami in pujsi.
+  ageRating: 4
+  genre:
+  - '128'
+- eventId: 1038382
+  start: 2026-11-27T15:25:00Z
   stop: 2026-11-27T15:30:00Z
   title: Bacek Jon
   subtitle: Z jablane, nagnjene nad dvorišče porednih pujsov, bi Jon rad sklatil jabolka. Njegovi poskusi se sprevržejo v vsesplošno vojno med ovcami in pujsi.
@@ -326,7 +336,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 972741
+- eventId:
+  - 1038383
+  - 972741
   start: 2026-11-27T21:00:00Z
   stop: 2026-11-27T21:05:00Z
   title: Krajš' dogaja? Izbor
@@ -368,9 +380,17 @@
   - '32'
 - eventId: 972746
   start: 2026-11-27T22:05:00Z
-  stop: 2026-11-28T00:10:00Z
+  stop: 2026-11-27T23:50:00Z
   title: 'Kinoteka: Sedmi pečat'
   subtitle: Cikel filmov Ingmarja Bergmana§§Vitez Antonius Block se po križarski vojni vrne na rodno Švedsko, ki jo je opustošila kuga. Na obali ga pričaka Smrt, oblečena v dolgo črno haljo.
   ageRating: 4
   genre:
   - '16'
+- eventId: 1038384
+  start: 2026-11-27T23:50:00Z
+  stop: 2026-11-28T00:10:00Z
+  title: Takšno je življenje na kavču
+  subtitle: Vesna Ponorac in Blaž Dolenc, ki v novi sezoni upodabljata ljubezenski par, razkrivata, s kakšnimi preizkušnjami, odločitvami in presenečenji se bosta soočila njuna lika.
+  ageRating: 4
+  genre:
+  - '160'
