@@ -4,6 +4,7 @@
   - 1013883
   - 1023093
   - 1032341
+  - 1047832
   - 935595
   - 949676
   - 955591
@@ -17,6 +18,7 @@
   - 1013884
   - 1023094
   - 1032342
+  - 1047833
   - 935596
   - 949677
   - 955592
@@ -30,6 +32,7 @@
   - 1013885
   - 1023095
   - 1032343
+  - 1047834
   - 935597
   - 949678
   - 955593
@@ -42,6 +45,7 @@
   - 1013886
   - 1023115
   - 1032344
+  - 1047844
   - 935674
   - 949682
   - 955608
@@ -54,6 +58,7 @@
   - 1013887
   - 1023116
   - 1032345
+  - 1047845
   - 935675
   - 949683
   - 955609
@@ -151,7 +156,7 @@
   - 901070
   - 996637
   start: 2026-11-28T05:00:00Z
-  stop: 2026-11-28T06:40:00Z
+  stop: 2026-11-28T06:00:00Z
   title: Stirile TV8 cu Angela Gonta.
   subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
   ageRating: 12
@@ -162,6 +167,7 @@
   - 1005278
   - 1013850
   - 1032376
+  - 1047867
   - 936383
   - 957824
   - 967499
@@ -173,6 +179,7 @@
   - 1005279
   - 1013851
   - 1032377
+  - 1047868
   - 936384
   - 957825
   - 967500
@@ -184,6 +191,7 @@
   - 1005280
   - 1013852
   - 1032378
+  - 1047869
   - 936385
   - 957826
   - 967501
@@ -234,8 +242,8 @@
   - 1037961
   - 1044391
   start: 2026-11-28T07:30:00Z
-  stop: 2026-11-28T07:45:00Z
-  title: Teleshoppingové pásmo
+  stop: 2026-11-28T08:00:00Z
+  title: Magazin la tine acasa.
   subtitle: Teleshoppingové pásmo
   ageRating: 12
 - eventId:
@@ -275,7 +283,7 @@
   - 936387
   - 957828
   start: 2026-11-28T08:00:00Z
-  stop: 2026-11-28T09:40:00Z
+  stop: 2026-11-28T12:00:00Z
   title: Т/с "Маруся. Возвращение", 49-52 с.
   genre:
   - '149'
@@ -375,8 +383,8 @@
   - 1037975
   - 1044405
   start: 2026-11-28T12:00:00Z
-  stop: 2026-11-28T13:50:00Z
-  title: Výklad osudu
+  stop: 2026-11-28T17:00:00Z
+  title: Т/с "В чём вина Фатмагюль?".
   subtitle: Nazrite do Vašej budúcnosti a nezostávajte v pochybnostiach.
   ageRating: 12
 - eventId:
@@ -545,8 +553,8 @@
   - 1037985
   - 1044415
   start: 2026-11-28T17:00:00Z
-  stop: 2026-11-28T20:30:00Z
-  title: Televeštiareň
+  stop: 2026-11-28T17:30:00Z
+  title: Stiri de week-end.
   subtitle: Rýchle riešenie vašich problémov prostredníctvom telefonického veštenia v priamom prenose.
   ageRating: 12
 - eventId:
@@ -554,6 +562,7 @@
   - 1013891
   - 1023134
   - 1032346
+  - 1047848
   - 935902
   - 955620
   - 996643
@@ -565,6 +574,7 @@
   - 1013892
   - 1023144
   - 1032347
+  - 1047849
   - 935958
   - 955623
   - 996647
@@ -598,7 +608,9 @@
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
   genre:
   - '149'
-- eventId: 1032348
+- eventId:
+  - 1032348
+  - 1047850
   start: 2026-11-28T19:00:00Z
   stop: 2026-11-28T20:00:00Z
   title: Тайный код взломан.
@@ -607,6 +619,7 @@
   - 1013893
   - 1023146
   - 1032349
+  - 1047851
   - 935959
   - 955624
   - 996649
@@ -671,7 +684,7 @@
   description: Rýchle riešenie vašich problémov prostredníctvom telefonického veštenia v priamom prenose. (2026)
 - eventId: 901298
   start: 2026-11-28T21:00:00Z
-  stop: 2026-11-28T23:00:00Z
+  stop: 2026-11-28T22:00:00Z
   title: Ezoterická poradňa s Renátou
   genre:
   - '149'
@@ -683,6 +696,7 @@
   - 1013894
   - 1023155
   - 1032350
+  - 1047852
   - 936013
   - 955634
   - 996654
@@ -697,7 +711,7 @@
   description: ' (2026)'
 - eventId: 901299
   start: 2026-11-28T23:00:00Z
-  stop: 2026-11-28T23:20:00Z
+  stop: 2026-11-29T00:20:00Z
   title: Nočné vysielanie pre pánov, X,H,18+
   genre:
   - '160'
