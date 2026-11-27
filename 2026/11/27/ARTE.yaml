@@ -520,7 +520,9 @@
     AUDIO 1 : FRANÇAIS / AUDIO 2 : ALLEMAND / AUDIO 3 : VERSION ORIGINALE - VM (sous-titres optionnels) / AUDIO 4 : AUDIOVISION
   genre:
   - '16'
-- eventId: 1060174
+- eventId:
+  - 1060174
+  - 1068508
   start: 2026-11-27T19:59:41Z
   stop: 2026-11-27T21:30:00Z
   title: Ingo Thiel - Quand les morts tuent (VM)
@@ -551,6 +553,13 @@
   subtitle: Depuis 2015, les autorités judiciaires françaises ont mis en place le programme judiciaire de prévention des dérives radicales (PJPDR).
   genre:
   - '32'
+- eventId: 1068509
+  start: 2026-11-27T21:30:46Z
+  stop: 2026-11-27T22:30:00Z
+  title: Déradicaliser
+  description: "Documentaire de Richard Berthollet (France, 2026, 1h) Depuis 2015, les autorités judiciaires françaises ont mis en place le programme judiciaire de prévention des dérives radicales (PJPDR). Immersion dans ce dispositif de réinsertion hors du commun, qui ouvre de nouvelles perspectives. \nPour préserver l'anonymat de ceux qui ont accepté de témoigner, certains visages et voix ont été modifiés par intelligence artificielle.\n\nAUDIO 1 : FRANÇAIS / AUDIO 2 : ALLEMAND\nSous-titres pour sourds et malentendants disponibles pour ce programme"
+  genre:
+  - '130'
 - eventId: 1047154
   start: 2026-11-27T21:30:56Z
   stop: 2026-11-27T22:32:40Z
@@ -573,6 +582,18 @@
   stop: 2026-11-28T00:00:00Z
   title: Rabia
   subtitle: Riche d'un important travail documentaire, le premier long métrage de Mareike Engelhardt s'appuie sur la justesse de Megan Northam (découverte dans "Salade grecque").
+  ageRating: 12
+  genre:
+  - '16'
+- eventId: 1068510
+  start: 2026-11-27T22:32:20Z
+  stop: 2026-11-28T00:00:00Z
+  title: Rabia
+  description: |-
+    Film de Mareike Engelhardt (2024, 1h31mn) Attirées par la promesse d'une nouvelle vie, deux jeunes Françaises partent en Syrie pour épouser un combattant de Daech. Inspiré de faits réels, ce premier long métrage dévoile avec force l'engrenage de la soumission, loin des idées reçues.
+
+    AUDIO 1 : FRANÇAIS / AUDIO 2 : ALLEMAND / AUDIO 4 : AUDIOVISION
+    Sous-titres pour sourds et malentendants disponibles pour ce programme
   ageRating: 12
   genre:
   - '16'
