@@ -177,6 +177,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ae2816bdc1120bb3a0299ea
+  ageRating: 6
 - eventId:
   - 568589
   - 667538
@@ -189,6 +190,7 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ae2816bdc1120bb3a0299e8
+  ageRating: 12
 - eventId:
   - 568780
   - 667562
@@ -240,6 +242,8 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ae2816bdc1120bb3a0299e0
+  genre:
+  - '144'
 - eventId:
   - 568978
   - 667589
@@ -253,13 +257,15 @@
   hd: true
   audiodesc: true
   episodeUri: crid://onid-1/e/6ae2816bdc1120bb3a0299de
+  genre:
+  - '16'
 - eventId:
   - 568979
   - 667590
   start: 2026-12-08T13:30:00Z
   stop: 2026-12-08T15:00:00Z
   title: Wann ist der Mann ein Mann?
-  subtitle: Spielfilm Deutschland 2001
+  subtitle: Fernsehfilm Deutschland 2001
   genre:
   - '16'
   widescreen: true
