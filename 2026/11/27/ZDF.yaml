@@ -391,7 +391,7 @@
   - 765036
   - 765528
   start: 2026-11-27T16:10:00Z
-  stop: 2026-11-27T17:00:00Z
+  stop: 2026-11-27T17:10:00Z
   title: hallo deutschland
   genre:
   - '32'
@@ -439,7 +439,9 @@
     Schnitt: Roland Dutzler
     Musik: Lothar Scherpe
     HD-Produktion
-- eventId: 1047900
+- eventId:
+  - 1047900
+  - 1048022
   start: 2026-11-27T17:10:00Z
   stop: 2026-11-27T18:00:00Z
   title: SOKO Wien
@@ -466,6 +468,8 @@
   - '17'
   widescreen: true
   subtitled: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 560748
   - 594805
