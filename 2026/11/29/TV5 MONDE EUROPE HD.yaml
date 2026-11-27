@@ -165,7 +165,7 @@
   ageRating: 7
 - eventId: 1021314
   start: 2026-11-29T05:33:00Z
-  stop: 2026-11-29T06:00:00Z
+  stop: 2026-11-29T06:01:00Z
   title: 'Bulgarie / Cisjordanie / Espagne '
   subtitle: 'En Bulgarie, la population se relève après des décennies de misère et d''austérité. En Cisjordanie, les mariages sont des moments g '
   description: 'En Bulgarie, la population se relève après des décennies de misère et d''austérité. En Cisjordanie, les mariages sont des moments grandioses. En Espagne, il existe un programme Erasmus original : plutôt que de partir à l''étranger, les études se font en milieu rural.  '
@@ -203,14 +203,9 @@
   title: 'LA P''TITE LIBRAIRIE-VOYAGE EN ORIENT '
   subtitle: ' '
   ageRating: 7
-- eventId: 1021328
-  start: 2026-11-29T06:45:00Z
-  stop: 2026-11-29T06:59:00Z
-  title: 'Ainay-le-Vieil '
-  subtitle: 'Le château d''Ainay-le-Vieil, médiéval, est construit sur l''emplacement d''une forteresse du XIIe siècle. Ses propriétaires actuels  '
-  description: "Ainay-le-Vieil\n\nLe château d'Ainay-le-Vieil, médiéval, est construit sur l'emplacement d'une forteresse du XIIe siècle. Ses propriétaires actuels comptent parmi leurs ancêtres Jean-Baptiste Colbert, ministre de Louis XIV.\n\nPrésentation : André Manoukian\n "
-  ageRating: 7
-- eventId: 881448
+- eventId:
+  - 1021328
+  - 881448
   start: 2026-11-29T06:45:00Z
   stop: 2026-11-29T07:00:00Z
   title: 'Ainay-le-Vieil '
