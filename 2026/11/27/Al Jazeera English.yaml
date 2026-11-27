@@ -159,6 +159,7 @@
   - 1036794
   - 1037869
   - 1042366
+  - 1044202
   - 940326
   - 955839
   - 973958
@@ -185,6 +186,7 @@
   - 1034245
   - 1037870
   - 1042367
+  - 1044218
   - 831651
   - 984738
   - 987805
@@ -223,9 +225,15 @@
   description: Some of the prophets of doom of the 60's whose warning went unheeded assess the Earth's current environmental fragility.
   genre:
   - '32'
+- eventId: 1044300
+  start: 2026-11-27T04:30:00Z
+  stop: 2026-11-27T05:00:00Z
+  title: Dying Earth
+  subtitle: Some of the prophets of doom of the 60's whose warning went unheeded assess the Earth's current environmental fragility.
 - eventId:
   - 1017715
   - 1029461
+  - 1042369
   - 831653
   start: 2026-11-27T05:00:00Z
   stop: 2026-11-27T05:30:00Z
@@ -234,14 +242,6 @@
   description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
   genre:
   - '32'
-- eventId: 1042369
-  start: 2026-11-27T05:00:00Z
-  stop: 2026-11-28T05:00:00Z
-  title: AL JAZEERA ENGLISH
-  subtitle: (katari hírműsor, 2026)
-  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
-  genre:
-  - '128'
 - eventId:
   - 1017716
   - 1021599
@@ -259,6 +259,11 @@
   description: In the final part of this special series, The Big Picture examines the rise of far-right politics in Israel and how its war on Gaza is sanctioned by the West.
   genre:
   - '32'
+- eventId: 1044301
+  start: 2026-11-27T05:30:00Z
+  stop: 2026-11-27T06:00:00Z
+  title: Inside Story
+  subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
 - eventId:
   - 1017725
   - 1021602
@@ -268,6 +273,7 @@
   - 1034248
   - 1037878
   - 1042357
+  - 1044310
   - 831670
   start: 2026-11-27T06:00:00Z
   stop: 2026-11-27T06:30:00Z
@@ -293,6 +299,11 @@
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
   genre:
   - '32'
+- eventId: 1044311
+  start: 2026-11-27T06:30:00Z
+  stop: 2026-11-27T07:00:00Z
+  title: Witness
+  subtitle: A decade after Colombia's peace accords, former FARC guerrilla and artist honours killed signatories with a mural.
 - eventId:
   - 1017727
   - 1021604
@@ -318,6 +329,11 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
+- eventId: 1044312
+  start: 2026-11-27T07:00:00Z
+  stop: 2026-11-27T08:00:00Z
+  title: Newshour
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId:
   - 1000844
   - 1009168
@@ -363,7 +379,9 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
-- eventId: 1037881
+- eventId:
+  - 1037881
+  - 1044313
   start: 2026-11-27T08:00:00Z
   stop: 2026-11-27T08:30:00Z
   title: News Live
@@ -379,6 +397,7 @@
   - 1032894
   - 1034252
   - 1037882
+  - 1044314
   - 940339
   - 955847
   - 974028
@@ -398,6 +417,7 @@
   - 1034253
   - 1037891
   - 1043022
+  - 1044323
   - 831700
   start: 2026-11-27T09:00:00Z
   stop: 2026-11-27T09:30:00Z
@@ -413,6 +433,7 @@
   - 1032897
   - 1034254
   - 1037892
+  - 1044324
   - 831701
   start: 2026-11-27T09:30:00Z
   stop: 2026-11-27T10:00:00Z
@@ -454,7 +475,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 1037893
+- eventId:
+  - 1037893
+  - 1044325
   start: 2026-11-27T10:00:00Z
   stop: 2026-11-27T11:00:00Z
   title: Newshour
@@ -504,7 +527,9 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
-- eventId: 1037894
+- eventId:
+  - 1037894
+  - 1044326
   start: 2026-11-27T11:00:00Z
   stop: 2026-11-27T11:30:00Z
   title: News Live
@@ -520,6 +545,7 @@
   - 1032900
   - 1034257
   - 1037895
+  - 1044327
   - 940349
   - 955856
   - 974036
@@ -553,7 +579,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 1037908
+- eventId:
+  - 1037908
+  - 1044340
   start: 2026-11-27T12:00:00Z
   stop: 2026-11-27T13:00:00Z
   title: The Boy Who Started And Survived the Syrian War
@@ -586,6 +614,7 @@
   - 1032904
   - 1034259
   - 1037909
+  - 1044341
   start: 2026-11-27T13:00:00Z
   stop: 2026-11-27T14:00:00Z
   title: 'NEWSHOUR: The World Now'
@@ -625,7 +654,9 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
-- eventId: 1037910
+- eventId:
+  - 1037910
+  - 1044342
   start: 2026-11-27T14:00:00Z
   stop: 2026-11-27T14:30:00Z
   title: News Live
@@ -641,6 +672,7 @@
   - 1032906
   - 1034261
   - 1037911
+  - 1044343
   - 940360
   - 955867
   - 974047
@@ -674,7 +706,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 1037920
+- eventId:
+  - 1037920
+  - 1044517
   start: 2026-11-27T15:00:00Z
   stop: 2026-11-27T16:00:00Z
   title: 'NEWSHOUR: The Wider Story'
@@ -724,7 +758,9 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
-- eventId: 1037921
+- eventId:
+  - 1037921
+  - 1044518
   start: 2026-11-27T16:00:00Z
   stop: 2026-11-27T16:30:00Z
   title: News Live
@@ -740,6 +776,7 @@
   - 1032910
   - 1034264
   - 1037922
+  - 1044519
   - 940372
   - 955877
   - 974056
@@ -757,6 +794,7 @@
   - 1032911
   - 1034265
   - 1037923
+  - 1044520
   - 831762
   start: 2026-11-27T17:00:00Z
   stop: 2026-11-27T17:30:00Z
@@ -790,7 +828,9 @@
   description: Hind Hassan examines the prospect of a new nuclear arms race, the companies helping to fuel it, and the dangers it poses to us all.
   genre:
   - '32'
-- eventId: 1037924
+- eventId:
+  - 1037924
+  - 1044521
   start: 2026-11-27T17:30:00Z
   stop: 2026-11-27T18:00:00Z
   title: Inside Story
@@ -819,7 +859,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 1037929
+- eventId:
+  - 1037929
+  - 1044351
   start: 2026-11-27T18:00:00Z
   stop: 2026-11-27T19:00:00Z
   title: Newshour
@@ -868,7 +910,9 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
-- eventId: 1037930
+- eventId:
+  - 1037930
+  - 1044352
   start: 2026-11-27T19:00:00Z
   stop: 2026-11-27T19:30:00Z
   title: News Live
@@ -884,6 +928,7 @@
   - 1032917
   - 1034269
   - 1037931
+  - 1044353
   - 940383
   - 955883
   - 974061
@@ -917,7 +962,9 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 1037932
+- eventId:
+  - 1037932
+  - 1044354
   start: 2026-11-27T20:00:00Z
   stop: 2026-11-27T21:00:00Z
   title: Al Jazeera World
@@ -959,7 +1006,9 @@
   description: Designed for viewers seeking context, depth and clarity, Let's Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.
   genre:
   - '32'
-- eventId: 1037938
+- eventId:
+  - 1037938
+  - 1044362
   start: 2026-11-27T21:00:00Z
   stop: 2026-11-27T22:00:00Z
   title: Newshour
@@ -987,7 +1036,9 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
-- eventId: 1037939
+- eventId:
+  - 1037939
+  - 1044363
   start: 2026-11-27T22:00:00Z
   stop: 2026-11-27T22:30:00Z
   title: News Live
@@ -1003,6 +1054,7 @@
   - 1032923
   - 1034273
   - 1037940
+  - 1044364
   - 940391
   - 955890
   - 974070
@@ -1022,6 +1074,7 @@
   - 1034274
   - 1037941
   - 1043066
+  - 1044365
   - 831828
   start: 2026-11-27T23:00:00Z
   stop: 2026-11-27T23:30:00Z
@@ -1046,7 +1099,9 @@
   description: earthrise follows the progress of Al Mizan, an Islamic Covenant for the Earth, and traces its growing impact in the year after its launch.
   genre:
   - '32'
-- eventId: 1037942
+- eventId:
+  - 1037942
+  - 1044366
   start: 2026-11-27T23:30:00Z
   stop: 2026-11-28T00:00:00Z
   title: Inside Story
