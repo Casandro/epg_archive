@@ -171,12 +171,14 @@
   start: 2026-12-10T11:05:00Z
   stop: 2026-12-10T11:55:00Z
   title: Hubert ohne Staller (177)
-  subtitle: Kunst des Einbrechens
+  subtitle: Die Kunst des Einbrechens
   ageRating: 6
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '16'
 - eventId:
   - 589160
   - 729813
@@ -189,6 +191,8 @@
   subtitled: true
   hd: true
   audiodesc: true
+  genre:
+  - '144'
 - eventId:
   - 589398
   - 729839
@@ -209,13 +213,14 @@
   start: 2026-12-10T13:30:00Z
   stop: 2026-12-10T15:00:00Z
   title: Salto Vitale
-  subtitle: Spielfilm Deutschland 2010
+  subtitle: Fernsehfilm Deutschland 2010
   genre:
   - '16'
   widescreen: true
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
 - eventId:
   - 589621
   - 729858
@@ -373,6 +378,9 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 12
+  genre:
+  - '16'
 - eventId:
   - 563492
   - 729926
@@ -385,6 +393,9 @@
   subtitled: true
   hd: true
   audiodesc: true
+  ageRating: 6
+  genre:
+  - '16'
 - eventId:
   - 563493
   - 729927
@@ -392,7 +403,7 @@
   start: 2026-12-10T23:25:00Z
   stop: 2026-12-11T00:55:00Z
   title: 'Ferdinand von Schirach: Feinde - Gegen die Zeit'
-  subtitle: Spielfilm Deutschland 2021
+  subtitle: Fernsehfilm Deutschland 2021
   ageRating: 12
   genre:
   - '16'

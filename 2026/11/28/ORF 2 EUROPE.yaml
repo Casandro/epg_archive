@@ -43,7 +43,9 @@
   title: Mayrs Magazin - Wissen für alle
   genre:
   - '144'
-- eventId: 1047654
+- eventId:
+  - 1047654
+  - 1058762
   start: 2026-11-28T04:59:37Z
   stop: 2026-11-28T05:18:39Z
   title: Mayrs Magazin - Wissen für alle
@@ -60,9 +62,13 @@
   start: 2026-11-28T05:10:00Z
   stop: 2026-11-28T06:15:00Z
   title: Text Aktuell
+- eventId: 1058763
+  start: 2026-11-28T05:19:40Z
+  stop: 2026-11-28T06:14:43Z
+  title: Text Aktuell
 - eventId: 863246
   start: 2026-11-28T06:15:00Z
-  stop: 2026-11-28T07:55:40Z
+  stop: 2026-11-28T07:59:29Z
   title: Wetter-Panorama
 - eventId: 863247
   start: 2026-11-28T08:00:00Z
@@ -72,6 +78,13 @@
   - '33'
 - eventId: 863248
   start: 2026-11-28T08:05:00Z
+  stop: 2026-11-28T08:30:00Z
+  title: Der Sagenjäger - Max Müller auf Spurensuche
+  subtitle: Die Bienenschlacht
+  genre:
+  - '34'
+- eventId: 1058768
+  start: 2026-11-28T08:06:04Z
   stop: 2026-11-28T08:30:00Z
   title: Der Sagenjäger - Max Müller auf Spurensuche
   subtitle: Die Bienenschlacht
@@ -88,9 +101,28 @@
     Drehbuch: Susanne Beck und Thomas Eifler
     Regie: Gabi Kubach
     86.06
+- eventId: 1058769
+  start: 2026-11-28T08:32:16Z
+  stop: 2026-11-28T09:57:44Z
+  title: Tango im Schnee
+  description: |-
+    (Romanze, DEU/AUT 2008)
+    Ella hat ihr Leben ihren Töchtern und ihrem Mann Manfred und seiner politischen Karriere verschrieben. Nun steht ihr Geburtstag bevor, und ihre Enkelin Lili hat eine besondere Überraschung: Sie hat Franz Zeller eingeladen, Ellas große Liebe - und ehemaliger Tangopartner. Denn Ella hatte eigentlich eine Karriere als Tangosängerin angestrebt. Mit Franz. In Argentinien. 40 Jahre danach steht dieser verlorene Traum wieder im Raum - und Ella am Scheideweg.
+    Mit Ursela Monn (Ella Talbach), Wolfgang Winkler (Manfred Talbach), Peter Bongartz (Franz Zeller), Bruno F. Apitz (Eckhard Zschocke), Helmut Berger (Konstantin Pagl), Iris Minich (Melanie Kaliner), Nora Heschl (Doro Talbach) u.a.
+    Drehbuch: Susanne Beck und Thomas Eifler
+    Regie: Gabi Kubach
+    86.06
 - eventId: 866776
   start: 2026-11-28T11:25:00Z
   stop: 2026-11-28T11:54:40Z
+  title: Orte der Kindheit
+  subtitle: Heinz Marecek
+  description: "(Dokumentation, AUT 2020)\nIn der Reihe \"Orte der Kindheit\" begleitet Kultur-Moderator Peter Schneeberger Künstlerinnen und Künstler an deren Heimatorte. Diesmal ist er mit dem Schauspieler und Regisseur Heinz Marecek unterwegs, der heuer die Platin-ROMY für das Lebenswerk verliehen bekommt. Aufgewachsen ist Marecek im Wien der Nachkriegszeit. Er beschreibt sich selbst als unternehmungslustiges, aktives Kind, das immer zu spät nach Hause gekommen ist. Von klein auf bis zu seinem 14. Lebensjahr trainierte er fast täglich im Turnverein, der sich im Keller des Wohnhauses der Familie im 7. Bezirk befand. Der Wunsch Schauspieler zu werden, manifestierte sich schon im zarten Alter von 7 Jahren, als er bei einer Schulaufführung den Spiel-Ansager gab und merkte, dass er Leute zum Lachen bringen konnte. \nRegie: Ute Gebhardt"
+  genre:
+  - '112'
+- eventId: 1058772
+  start: 2026-11-28T11:26:10Z
+  stop: 2026-11-28T11:55:00Z
   title: Orte der Kindheit
   subtitle: Heinz Marecek
   description: "(Dokumentation, AUT 2020)\nIn der Reihe \"Orte der Kindheit\" begleitet Kultur-Moderator Peter Schneeberger Künstlerinnen und Künstler an deren Heimatorte. Diesmal ist er mit dem Schauspieler und Regisseur Heinz Marecek unterwegs, der heuer die Platin-ROMY für das Lebenswerk verliehen bekommt. Aufgewachsen ist Marecek im Wien der Nachkriegszeit. Er beschreibt sich selbst als unternehmungslustiges, aktives Kind, das immer zu spät nach Hause gekommen ist. Von klein auf bis zu seinem 14. Lebensjahr trainierte er fast täglich im Turnverein, der sich im Keller des Wohnhauses der Familie im 7. Bezirk befand. Der Wunsch Schauspieler zu werden, manifestierte sich schon im zarten Alter von 7 Jahren, als er bei einer Schulaufführung den Spiel-Ansager gab und merkte, dass er Leute zum Lachen bringen konnte. \nRegie: Ute Gebhardt"
@@ -102,9 +134,15 @@
   title: Wetterschau
   genre:
   - '33'
+- eventId: 1058773
+  start: 2026-11-28T11:56:38Z
+  stop: 2026-11-28T11:59:53Z
+  title: Wetterschau
+  genre:
+  - '33'
 - eventId: 866788
   start: 2026-11-28T12:00:00Z
-  stop: 2026-11-28T12:10:00Z
+  stop: 2026-11-28T12:12:00Z
   title: ZIB
   genre:
   - '33'
@@ -114,6 +152,19 @@
   title: Wetter
   genre:
   - '33'
+- eventId: 1058775
+  start: 2026-11-28T12:14:32Z
+  stop: 2026-11-28T12:17:02Z
+  title: Wetter
+  genre:
+  - '33'
+- eventId: 1058776
+  start: 2026-11-28T12:18:40Z
+  stop: 2026-11-28T12:42:44Z
+  title: Adventzeit - Traditionen und Bräuche in Österreich
+  description: Die Vorfreude auf Weihnachten wird in Österreich im Advent bewusst besinnlich zelebriert. Christkindlmärkte, Weihnachtskekse, Adventkranz und viele weitere Traditionen begleiten den Zauber der "schönsten Zeit im Jahr". Ein winterlich-magischer Streifzug durch alle Bundesländer.
+  genre:
+  - '161'
 - eventId: 866790
   start: 2026-11-28T12:20:00Z
   stop: 2026-11-28T12:44:05Z
@@ -121,6 +172,13 @@
   description: Die Vorfreude auf Weihnachten wird in Österreich im Advent bewusst besinnlich zelebriert. Christkindlmärkte, Weihnachtskekse, Adventkranz und viele weitere Traditionen begleiten den Zauber der "schönsten Zeit im Jahr". Ein winterlich-magischer Streifzug durch alle Bundesländer.
   genre:
   - '161'
+- eventId: 1058777
+  start: 2026-11-28T12:44:23Z
+  stop: 2026-11-28T13:01:23Z
+  title: Seitenblicke Weekend
+  description: In der Wochenzusammenfassung der Seitenblicke-Redaktion sehen Sie nochmals die besten Beiträge der vergangenen Fernsehwoche.
+  genre:
+  - '35'
 - eventId: 866791
   start: 2026-11-28T12:45:00Z
   stop: 2026-11-28T13:00:00Z
@@ -128,11 +186,26 @@
   description: In der Wochenzusammenfassung der Seitenblicke-Redaktion sehen Sie nochmals die besten Beiträge der vergangenen Fernsehwoche.
   genre:
   - '35'
+- eventId: 1058782
+  start: 2026-11-28T15:17:42Z
+  stop: 2026-11-28T15:42:12Z
+  title: Land und Leute
+  description: "Neue Chancen für Marchfelder Gemüsebauern\n\nWegen der bevorstehenden Schließung des belgischen ARDO-Werks in Groß Enzersdorf in Niederösterreich suchen die Gemüsebäuerinnen und -bauern im Marchfeld nach neuen Lösungen zur Existenzsicherung. 40.000 Tonnen Gemüse hat das Werk jährlich zu Tiefkühlgemüse verarbeitet. Mit der Abnahmegarantie der beiden einspringenden niederösterreichischen Unternehmen Waldland und Schneiders Gemüseland ist eine Teillösung gefunden. Wie Landwirtschaft autark bleiben kann und wie wichtig es scheint, sich verstärkt auf mehrere Beine zu stellen, untersucht die Reportage am Beispiel des Marchfelds.\n\nDie betroffenen landwirtschaftlichen Betriebe starten mit dieser Teillösung auch Überlegungen zu langfristigen, alternativen Vertriebs- und Absatzmöglichkeiten. Sie suchen Wege, um weniger abhängig von einem Abnehmer zu sein und sich breiter aufzustellen als bisher. Etwa genossenschaftlich organisiert und mit Ideen, wie dem \"Krautfunding\", einer Initiative der Landwirtschaftskammer NÖ mit Bürgerbeteiligung. Während etwa Christian Radl aus Probstdorf nun vermehrt auf Frischgemüseanbau und Gemüsekisterl im Direktverkauf setzt, nützt das Ehepaar Magdalena und Gerald Karpfinger in Markgrafneusiedl seine Flächen im Moment für den Anbau von anderen Kulturen, wie Wintergemüse, Weizen und High Protein Soja.\n\nWeitere Themen von \"Land und Leute\" am 28. November:\n\nPublikumsliebling gekürt\nWildbret vom Wintergrill\nJunger Rechenmacher \nSchifferlsetzen im Advent"
 - eventId: 873663
   start: 2026-11-28T15:20:00Z
   stop: 2026-11-28T15:45:00Z
   title: Land und Leute
   description: "Neue Chancen für Marchfelder Gemüsebauern\n\nWegen der bevorstehenden Schließung des belgischen ARDO-Werks in Groß Enzersdorf in Niederösterreich suchen die Gemüsebäuerinnen und -bauern im Marchfeld nach neuen Lösungen zur Existenzsicherung. 40.000 Tonnen Gemüse hat das Werk jährlich zu Tiefkühlgemüse verarbeitet. Mit der Abnahmegarantie der beiden einspringenden niederösterreichischen Unternehmen Waldland und Schneiders Gemüseland ist eine Teillösung gefunden. Wie Landwirtschaft autark bleiben kann und wie wichtig es scheint, sich verstärkt auf mehrere Beine zu stellen, untersucht die Reportage am Beispiel des Marchfelds.\n\nDie betroffenen landwirtschaftlichen Betriebe starten mit dieser Teillösung auch Überlegungen zu langfristigen, alternativen Vertriebs- und Absatzmöglichkeiten. Sie suchen Wege, um weniger abhängig von einem Abnehmer zu sein und sich breiter aufzustellen als bisher. Etwa genossenschaftlich organisiert und mit Ideen, wie dem \"Krautfunding\", einer Initiative der Landwirtschaftskammer NÖ mit Bürgerbeteiligung. Während etwa Christian Radl aus Probstdorf nun vermehrt auf Frischgemüseanbau und Gemüsekisterl im Direktverkauf setzt, nützt das Ehepaar Magdalena und Gerald Karpfinger in Markgrafneusiedl seine Flächen im Moment für den Anbau von anderen Kulturen, wie Wintergemüse, Weizen und High Protein Soja.\n\nWeitere Themen von \"Land und Leute\" am 28. November:\n\nPublikumsliebling gekürt\nWildbret vom Wintergrill\nJunger Rechenmacher \nSchifferlsetzen im Advent"
+- eventId: 1058783
+  start: 2026-11-28T15:44:20Z
+  stop: 2026-11-28T15:58:20Z
+  title: Prisma
+  description: |-
+    Die Themen:
+    *) Zivildienstreform: Freiwilligendienst vor dem aus?
+    *) "Jetzt": Künstler:innen mit Behinderung am Burgtheater.
+  genre:
+  - '115'
 - eventId: 873664
   start: 2026-11-28T15:45:00Z
   stop: 2026-11-28T15:58:00Z
@@ -145,7 +218,7 @@
     *) "Jetzt": Künstler:innen mit Behinderung am Burgtheater.
 - eventId: 873665
   start: 2026-11-28T16:00:00Z
-  stop: 2026-11-28T16:05:00Z
+  stop: 2026-11-28T16:05:30Z
   title: ZIB
   genre:
   - '33'
@@ -155,12 +228,31 @@
   title: Aktuell nach fünf
   genre:
   - '34'
+- eventId: 1058784
+  start: 2026-11-28T16:07:24Z
+  stop: 2026-11-28T16:26:24Z
+  title: Aktuell nach fünf
+  genre:
+  - '34'
+- eventId: 1058785
+  start: 2026-11-28T16:28:17Z
+  stop: 2026-11-28T16:54:05Z
+  title: Bewusst Gesund - Das Magazin
+  genre:
+  - '164'
 - eventId: 873667
   start: 2026-11-28T16:30:00Z
   stop: 2026-11-28T16:55:00Z
   title: Bewusst Gesund - Das Magazin
   genre:
   - '164'
+- eventId: 1058786
+  start: 2026-11-28T16:57:24Z
+  stop: 2026-11-28T17:50:24Z
+  title: Bürgeranwalt
+  description: "- Amokdrohung an Schule - Hat die Schulleitung richtig reagiert? Im Jänner dieses Jahres gab es an einer niederösterreichischen Schule eine Amokdrohung durch einen ehemaligen Schüler, der deswegen rechtskräftig wegen gefährlicher Drohung verurteilt wurde. Die von der Drohung betroffene Lehrerin und ein Zeuge, ein ehemaliger Mitschüler, haben sich nach der Tat von der Direktorin nicht ernst genommen gefühlt.\n- Kein Diensthundezeugnis: Mehr als 14 Jahre war Herr W. bei der Wiener Polizei beschäftigt. Das letzte Jahr als stellvertretender Diensthundeführers. Nun würde Herr W. für seine Selbständigkeit ein Dienstzeugnis benötigen. Doch dieses wird ihm nicht ausgestellt. \n- Mauereinsturz am Wienfluss: Wer zahlt den Schaden? Vor knapp einem Jahr haben wir zum ersten Mal über eine massive Stützmauer am Wienfluss in Purkersdorf berichtet, die durch den Starkregen 2024 vom Wasser weggerissen wurde. Ein Großteil des Grundstücks von Familie A. ist seither behördlich gesperrt. Trotz Gefahr in Verzug ist die Mauer bis heute nicht saniert."
+  genre:
+  - '130'
 - eventId: 873668
   start: 2026-11-28T17:00:00Z
   stop: 2026-11-28T17:50:00Z
@@ -174,12 +266,18 @@
   title: Steiermark heute Service
 - eventId: 873680
   start: 2026-11-28T18:00:00Z
-  stop: 2026-11-28T18:24:00Z
+  stop: 2026-11-28T18:21:00Z
   title: Steiermark heute
 - eventId: 873681
   start: 2026-11-28T18:30:00Z
-  stop: 2026-11-28T18:49:30Z
+  stop: 2026-11-28T18:49:00Z
   title: Zeit im Bild
+  genre:
+  - '33'
+- eventId: 1058790
+  start: 2026-11-28T18:50:47Z
+  stop: 2026-11-28T18:52:17Z
+  title: Wetter
   genre:
   - '33'
 - eventId: 873682
@@ -188,12 +286,24 @@
   title: Wetter
   genre:
   - '33'
+- eventId: 1058791
+  start: 2026-11-28T18:55:05Z
+  stop: 2026-11-28T18:59:05Z
+  title: Sport Aktuell
+  genre:
+  - '64'
 - eventId: 873683
   start: 2026-11-28T18:56:00Z
   stop: 2026-11-28T18:59:40Z
   title: Sport Aktuell
   genre:
   - '64'
+- eventId: 1058792
+  start: 2026-11-28T19:03:37Z
+  stop: 2026-11-28T19:07:17Z
+  title: Seitenblicke
+  genre:
+  - '35'
 - eventId: 873684
   start: 2026-11-28T19:05:00Z
   stop: 2026-11-28T19:08:40Z
@@ -203,6 +313,12 @@
 - eventId: 886009
   start: 2026-11-28T22:42:00Z
   stop: 2026-11-28T22:47:00Z
+  title: ZIB
+  genre:
+  - '33'
+- eventId: 1058550
+  start: 2026-11-28T22:42:57Z
+  stop: 2026-11-28T22:47:57Z
   title: ZIB
   genre:
   - '33'
