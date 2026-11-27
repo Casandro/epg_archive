@@ -2,6 +2,7 @@
   - 1012215
   - 1026674
   - 1031285
+  - 1049049
   - 911971
   start: 2026-11-29T01:00:00Z
   stop: 2026-11-29T05:00:00Z
@@ -36,7 +37,7 @@
   ageRating: 4
 - eventId: 911991
   start: 2026-11-29T09:00:00Z
-  stop: 2026-11-29T10:00:00Z
+  stop: 2026-11-29T11:00:00Z
   title: Adria Music TV program
   subtitle: 'Miks najvećih hitova domaće pop muzike. Uživajte i opustite se uz naš muzički program! '
   ageRating: 4
@@ -58,7 +59,9 @@
   ageRating: 4
   genre:
   - '96'
-- eventId: 911992
+- eventId:
+  - 1049079
+  - 911992
   start: 2026-11-29T11:00:00Z
   stop: 2026-11-29T13:00:00Z
   title: Adria Music TV program
@@ -70,7 +73,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 912000
+- eventId:
+  - 1049080
+  - 912000
   start: 2026-11-29T13:00:00Z
   stop: 2026-11-29T15:00:00Z
   title: Adria Music TV program
@@ -82,7 +87,9 @@
   ageRating: 4
   genre:
   - '96'
-- eventId: 912011
+- eventId:
+  - 1049061
+  - 912011
   start: 2026-11-29T15:00:00Z
   stop: 2026-11-29T17:00:00Z
   title: Adria Music TV program
