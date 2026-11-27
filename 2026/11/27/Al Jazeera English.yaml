@@ -517,6 +517,10 @@
   stop: 2026-11-27T11:00:00Z
   title: Newshour
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+  description: Journal - 2026. News. ''Newshour'' is an extensive 60-minute television programme that shows all the latest in global news and sport. Find out everything you need to know about current events from around the globe with the help from various notable presenters from Doha and London.
+  genre:
+  - '144'
+  subtitled: true
 - eventId:
   - 1000850
   - 1009250
@@ -573,6 +577,10 @@
   stop: 2026-11-27T11:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+  description: EN DIRECT.  Journal - 2026. 27 Nov 2026 show. Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
+  genre:
+  - '144'
+  subtitled: true
 - eventId:
   - 1005015
   - 1012865
@@ -587,6 +595,7 @@
   - 1044327
   - 1048373
   - 1053455
+  - 1053513
   - 940349
   - 955856
   - 974036
@@ -626,11 +635,16 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 1053232
+- eventId:
+  - 1053232
+  - 1053525
   start: 2026-11-27T12:00:00Z
   stop: 2026-11-27T13:00:00Z
   title: The Boy Who Started And Survived the Syrian War
   subtitle: A boy who grew up amid Syria's war reveals the untold origins of the conflict and the fight for his nation's freedom.
+  description: A boy who grew up amid Syria's war reveals the untold origins of the conflict and the fight for his nation's freedom.
+  genre:
+  - '144'
 - eventId:
   - 1000855
   - 1009290
@@ -663,12 +677,14 @@
   - 1044341
   - 1048270
   - 1053233
+  - 1053526
   start: 2026-11-27T13:00:00Z
   stop: 2026-11-27T14:00:00Z
   title: 'NEWSHOUR: The World Now'
   subtitle: A fast-paced, live global news show capturing the latest developments as they unfold.
   genre:
   - '32'
+  description: A fast-paced, live global news show capturing the latest developments as they unfold.
 - eventId:
   - 1027165
   - 1043033
@@ -705,11 +721,16 @@
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
-- eventId: 1053234
+- eventId:
+  - 1053234
+  - 1053527
   start: 2026-11-27T14:00:00Z
   stop: 2026-11-27T14:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
+  genre:
+  - '128'
 - eventId:
   - 1005024
   - 1012874
@@ -724,6 +745,7 @@
   - 1044343
   - 1048272
   - 1053235
+  - 1053528
   - 940360
   - 955867
   - 974047
@@ -734,6 +756,9 @@
   stop: 2026-11-27T15:00:00Z
   title: Fault Lines
   subtitle: An award-winning, current affairs series that explores raw, unedited stories you won't read about in US national headlines, focussing on the powerful nation's role and responsibilities in the modern era.
+  description: Reportaje que analiza las nuevas políticas en política exterior establecidas por Obama. La pieza investiga especialmente las diferencias entre las medidas adoptadas por el actual Presidente de Estados Unidos y las de George W. Bush.
+  genre:
+  - '144'
 - eventId:
   - 1017513
   - 1021620
@@ -760,11 +785,16 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 1053247
+- eventId:
+  - 1053247
+  - 1053532
   start: 2026-11-27T15:00:00Z
   stop: 2026-11-27T16:00:00Z
   title: 'NEWSHOUR: The Wider Story'
   subtitle: A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.
+  description: A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.
+  genre:
+  - '128'
 - eventId:
   - 1000860
   - 1009307
