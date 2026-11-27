@@ -1,3 +1,8 @@
+- eventId: 1048344
+  start: 2026-11-29T00:00:00Z
+  stop: 2026-11-29T01:00:00Z
+  title: Newshour
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId: 901195
   start: 2026-11-29T00:00:00Z
   stop: 2026-11-29T01:00:00Z
@@ -21,7 +26,9 @@
   genre:
   - '32'
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
-- eventId: 901197
+- eventId:
+  - 1048345
+  - 901197
   start: 2026-11-29T01:00:00Z
   stop: 2026-11-29T02:00:00Z
   title: Al Jazeera World
@@ -29,6 +36,11 @@
   - '32'
   subtitle: War hero turned nationalist, Mahmoud Harbi defied colonial rule to fight for independence in today's Djibouti, until his death in a mysterious 1960 plane crash.
   description: Latest news and in-depth analysis from around the world.
+- eventId: 1048346
+  start: 2026-11-29T02:00:00Z
+  stop: 2026-11-29T03:00:00Z
+  title: Newshour
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId: 901198
   start: 2026-11-29T02:00:00Z
   stop: 2026-11-29T03:00:00Z
@@ -37,7 +49,9 @@
   genre:
   - '32'
   description: Al Jazeera's journalists risk everything to cover the start of Israel's war on Gaza led by bureau chief Wael al Dahdouh, even when he loses his closest family.
-- eventId: 901282
+- eventId:
+  - 1048349
+  - 901282
   start: 2026-11-29T03:00:00Z
   stop: 2026-11-29T03:30:00Z
   title: News Live
@@ -55,11 +69,14 @@
   - 1032191
   - 1038008
   - 1044213
+  - 1048350
   start: 2026-11-29T03:30:00Z
   stop: 2026-11-29T04:00:00Z
   title: UpFront
   subtitle: Frank, Blunt And Upfront, We Cut Through The Headlines To Get To The Heart Of The Matter With Influential Guests And Newsmakers.
-- eventId: 901283
+- eventId:
+  - 1048351
+  - 901283
   start: 2026-11-29T04:00:00Z
   stop: 2026-11-29T04:30:00Z
   title: News Live
@@ -67,6 +84,11 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
+- eventId: 1048352
+  start: 2026-11-29T04:30:00Z
+  stop: 2026-11-29T05:00:00Z
+  title: Counting the Cost
+  subtitle: Ten years after the Brexit vote, is Britain heading back to the EU?
 - eventId: 901284
   start: 2026-11-29T04:30:00Z
   stop: 2026-11-29T05:00:00Z
