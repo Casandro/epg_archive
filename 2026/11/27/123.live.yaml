@@ -41,6 +41,7 @@
   - 1007710
   - 1019683
   - 1028492
+  - 1039084
   start: 2026-11-27T01:20:00Z
   stop: 2026-11-27T03:00:00Z
   title: Mädchen, die nach München kommen
@@ -67,7 +68,7 @@
   - '166'
 - eventId: 1007713
   start: 2026-11-27T03:00:00Z
-  stop: 2026-11-27T04:00:00Z
+  stop: 2026-11-27T03:15:00Z
   title: Christian kocht
   subtitle: 1-2-3.tv Programmvorschau 27.11.2026, 4-5 Uhr
   description: In dieser Stunde erwarten Sie diverse Highlights.
@@ -82,6 +83,7 @@
   - 1007714
   - 1019687
   - 1028493
+  - 1039085
   start: 2026-11-27T03:15:00Z
   stop: 2026-11-27T05:00:00Z
   title: Auf der Alm, da gibt's koa Sünd
@@ -133,7 +135,9 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
-- eventId: 956041
+- eventId:
+  - 1039087
+  - 956041
   start: 2026-11-27T06:05:00Z
   stop: 2026-11-27T06:25:00Z
   title: Teleshopping
@@ -146,7 +150,9 @@
   stop: 2026-11-27T11:00:00Z
   title: Teleshopping
   subtitle: Teleshopping
-- eventId: 956042
+- eventId:
+  - 1039088
+  - 956042
   start: 2026-11-27T06:25:00Z
   stop: 2026-11-27T11:00:00Z
   title: Teleshopping
@@ -197,7 +203,7 @@
   - '166'
 - eventId: 956065
   start: 2026-11-27T11:00:00Z
-  stop: 2026-11-27T12:00:00Z
+  stop: 2026-11-27T13:00:00Z
   title: Schlager Total
   subtitle: 1-2-3.tv Programmvorschau 27.11.2026, 12-13 Uhr
   description: Neugierig auf die Schlager-Total-Tournee 2027? Michael Niekammer hat die Top-Acts der Show eingeladen und bietet einen Blick hinter die Kulissen des großen Star-Aufgebots und der spektakulären Bühnen-Technik. Freuen Sie sich auf Bata Illic, Judith und Mel, Gaby Baginsky, Ilka Wolf, Karsten Walter und Robin Leon und schnuppern Sie schon mal Konzert-Luft für DAS Event 2027! Noch unentschlossen? Nach dieser Sendung nicht mehr - also, einschalten, mitsingen und am besten gleich Karten sichern! Ge 2026
@@ -216,7 +222,7 @@
   - '166'
 - eventId: 956087
   start: 2026-11-27T13:00:00Z
-  stop: 2026-11-27T14:00:00Z
+  stop: 2026-11-27T16:25:00Z
   title: Darimana - Edles aus der Natur
   subtitle: 1-2-3.tv Programmvorschau 27.11.2026, 14-15 Uhr
   description: In dieser Stunde erwarten Sie diverse Highlights.
@@ -258,6 +264,7 @@
 - eventId:
   - 1019692
   - 1028495
+  - 1039091
   - 956108
   start: 2026-11-27T16:25:00Z
   stop: 2026-11-27T17:35:00Z
@@ -283,6 +290,11 @@
   stop: 2026-11-27T18:05:00Z
   title: Teleshopping
   subtitle: Teleshopping
+- eventId: 1039092
+  start: 2026-11-27T17:35:00Z
+  stop: 2026-11-27T18:00:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
 - eventId:
   - 1019045
   - 1024061
@@ -297,6 +309,7 @@
 - eventId:
   - 1019695
   - 1028497
+  - 1039093
   - 956131
   start: 2026-11-27T18:05:00Z
   stop: 2026-11-27T18:40:00Z
@@ -306,6 +319,7 @@
 - eventId:
   - 1019696
   - 1028498
+  - 1039094
   - 956132
   start: 2026-11-27T18:40:00Z
   stop: 2026-11-27T19:15:00Z
@@ -331,6 +345,12 @@
   title: Schlager Total
   subtitle: Schlager Total
   description: Neugierig auf die Schlager-Total-Tournee 2027? Michael Niekammer hat die Top-Acts der Show eingeladen und bietet einen Blick hinter die Kulissen des großen Star-Aufgebots und der spektakulären Bühnen-Technik. Freuen Sie sich auf Bata Illic, Judith und Mel, Gaby Baginsky, Ilka Wolf, Karsten Walter und Robin Leon und schnuppern Sie schon mal Konzert-Luft für DAS Event 2027! Noch unentschlossen? Nach dieser Sendung nicht mehr - also, einschalten, mitsingen und am besten gleich Karten sichern! Ge 2026
+- eventId: 1039095
+  start: 2026-11-27T19:15:00Z
+  stop: 2026-11-27T21:10:00Z
+  title: Schlager Total
+  subtitle: Schlager Total
+  description: Neugierig auf die Schlager-Total-Tournee 2027? Michael Niekammer hat die Top-Acts der Show eingeladen und bietet einen Blick hinter die Kulissen des großen Star-Aufgebots und der spektakulären Bühnen-Technik. Freuen Sie sich auf Bata Illic, Judith und Mel, Gaby Baginsky, Ilka Wolf, Karsten Walter und Robin Leon und schnuppern Sie schon mal Konzert-Luft für DAS Event 2027! Noch unentschlossen? Nach dieser Sendung nicht mehr - also, einschalten, mitsingen und am besten gleich Karten sichern! Ge 2026
 - eventId:
   - 1019047
   - 1024063
@@ -353,6 +373,11 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
+- eventId: 1039096
+  start: 2026-11-27T21:10:00Z
+  stop: 2026-11-27T21:45:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
 - eventId:
   - 1019123
   - 1028500
@@ -361,6 +386,12 @@
   stop: 2026-11-27T23:15:00Z
   title: Teleshopping
   subtitle: Teleshopping
+- eventId: 1039097
+  start: 2026-11-27T21:45:00Z
+  stop: 2026-11-27T22:00:00Z
+  title: Schlager Gold - Daniela Alfinito
+  subtitle: Schlager Gold - Daniela Alfinito
+  description: Seit vielen Jahren stürmt sie die Hitparaden mit ihren Hits. Deshalb ist es uns eine besondere Ehre in der Musikreihe "Schlager Gold" die Künstlerin Daniela Alfinito, auf ganz besondere Weise, zu Ehren. Ingo Blenn berichtet über die großen Erfolge, die Lebensetappen und besonderen Hintergrund-Informationen zur Künstlerin Daniela Alfinito. Die ganz großen Hits werden per Video gespielt. Freuen Sie sich auf diese besondere Sendung. Ein Hit-Feuerwerk ist garantiert! Ge 2020
 - eventId:
   - 1019052
   - 1024073
@@ -372,10 +403,15 @@
   description: In dieser Stunde erwarten Sie diverse Highlights.
   genre:
   - '166'
+- eventId: 1039098
+  start: 2026-11-27T22:05:00Z
+  stop: 2026-11-27T23:15:00Z
+  title: Teleshopping
+  subtitle: Teleshopping
 - eventId: 956150
   start: 2026-11-27T23:15:00Z
   stop: 2026-11-28T01:00:00Z
   title: Schüler-Report - Was die Mädchen alles von uns wollen
   subtitle: Schüler-Report - Was die Mädchen alles von uns wollen
-  description: In diesem explosiven Drama treten Schüler ans Licht, um die ungeschönten Wahrheiten über Mädchen, Liebe und das Leben in der Schule zu enthüllen. Überrasche dich von schockierenden Enthüllungen und schlagfertigen Momenten, die die Grenzen des Vorstellbaren sprengen. Ein Film, der garantiert für Gesprächsstoff sorgt und dir die Augen öffnet! Ge
+  description: 17.000 Mark soll Vivi, die in einem Möbelhaus arbeitet, bei der Bank einzahlen. Einen ganzen Haufen Geld. Vivi bittet ihre Freundin Bea, den Botengang für sie zu übernehmen. Doch Bea steht der Kopf ganz woanders - sie gibt sich lieber ihrer Lust hin - und das Geld geht in einer Möbellieferung unter. Kurzerhand begeben sich die beiden Freundinnen auf die Spur der Lieferung, um die Scheine wieder aufzutreiben ... Ge 1978
   ageRating: 18
