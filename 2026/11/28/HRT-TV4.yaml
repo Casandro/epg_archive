@@ -801,13 +801,19 @@
   - '32'
 - eventId: 1003795
   start: 2026-11-28T14:35:00Z
-  stop: 2026-11-28T15:00:00Z
+  stop: 2026-11-28T14:55:00Z
   title: 'Studio 4: U fokusu'
   subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
   ageRating: 4
   genre:
   - '160'
+- eventId: 1056353
+  start: 2026-11-28T14:55:00Z
+  stop: 2026-11-28T15:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1003796
   start: 2026-11-28T15:00:00Z
   stop: 2026-11-28T15:15:00Z
@@ -871,7 +877,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1003803
+- eventId:
+  - 1003803
+  - 1056438
   start: 2026-11-28T15:55:00Z
   stop: 2026-11-28T16:22:00Z
   title: Druga strana
@@ -880,7 +888,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1003804
+- eventId:
+  - 1003804
+  - 1056439
   start: 2026-11-28T16:22:00Z
   stop: 2026-11-28T16:25:00Z
   title: Bez komentara
@@ -907,7 +917,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1003807
+- eventId: 1056440
+  start: 2026-11-28T16:55:00Z
+  stop: 2026-11-28T17:00:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 1003807
+  - 1056441
   start: 2026-11-28T17:00:00Z
   stop: 2026-11-28T17:31:00Z
   title: TV student
@@ -916,7 +936,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1003808
+- eventId:
+  - 1003808
+  - 1056442
   start: 2026-11-28T17:31:00Z
   stop: 2026-11-28T17:49:00Z
   title: Regionalni dnevnik
@@ -925,7 +947,9 @@
   ageRating: 4
   genre:
   - '32'
-- eventId: 1003809
+- eventId:
+  - 1003809
+  - 1056443
   start: 2026-11-28T17:49:00Z
   stop: 2026-11-28T17:53:00Z
   title: Bez komentara
@@ -1051,6 +1075,20 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1056444
+  start: 2026-11-28T20:45:00Z
+  stop: 2026-11-28T21:10:00Z
+  title: Veterani mira
+  subtitle: Tjedna emisija, u razgovoru u studiju i reportažama rasvjetljava i nastoji riješiti probleme s kojima se susreću branitelji te senzibilizirati javnost.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1056361
+  start: 2026-11-28T21:10:00Z
+  stop: 2026-11-28T21:13:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1003823
   start: 2026-11-28T21:15:00Z
   stop: 2026-11-28T21:42:00Z
@@ -1060,6 +1098,20 @@
   ageRating: 4
   genre:
   - '160'
+- eventId: 1056445
+  start: 2026-11-28T21:15:00Z
+  stop: 2026-11-28T21:40:00Z
+  title: Moj izbor BiH
+  subtitle: U mjestu Rika nedaleko od Jajca, daleko od velikih riječi, ali blizu onima kojima je pomoć najpotrebnija, svoju životnu priču živi Bruno Jelović.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId: 1056363
+  start: 2026-11-28T21:40:00Z
+  stop: 2026-11-28T21:42:00Z
+  title: 'HRT100 Vremeplov: Djeca prognanici iz Srednje Bosne u Postirama na Braču 1993.'
+  subtitle: ' '
+  description: 'HRT 100 VREMEPLOV: dvominutne priče iz svakodnevnog života u 20. stoljeću'
 - eventId: 1003824
   start: 2026-11-28T21:42:00Z
   stop: 2026-11-28T21:44:00Z
@@ -1069,7 +1121,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1003825
+- eventId:
+  - 1003825
+  - 1056446
   start: 2026-11-28T21:44:00Z
   stop: 2026-11-28T22:04:00Z
   title: 'Studio 4: U fokusu'
@@ -1087,7 +1141,17 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1003827
+- eventId: 1056447
+  start: 2026-11-28T22:04:00Z
+  stop: 2026-11-28T22:07:00Z
+  title: '#REPORTAŽE'
+  subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
+  ageRating: 4
+  genre:
+  - '160'
+- eventId:
+  - 1003827
+  - 1056448
   start: 2026-11-28T22:07:00Z
   stop: 2026-11-28T22:10:00Z
   title: Bez komentara
@@ -1177,7 +1241,9 @@
   ageRating: 4
   genre:
   - '160'
-- eventId: 1003837
+- eventId:
+  - 1003837
+  - 1056449
   start: 2026-11-28T23:49:00Z
   stop: 2026-11-29T00:07:00Z
   title: Regionalni dnevnik

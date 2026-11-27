@@ -7,6 +7,20 @@
   genre:
   - '32'
   description: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a. Uz sportske aktualnosti pogledajte i detaljnu vremensku prognozu za sljedeće dane.
+- eventId: 1056450
+  start: 2026-11-29T00:07:00Z
+  stop: 2026-11-29T00:59:00Z
+  title: Dnevnik 2
+  subtitle: Najvažnije vijesti iz zemlje i svijeta, brojne reportaže, gostovanja istaknutih stručnjaka i komentatora u Dnevniku 2, u najgledanijoj informativnoj emisiji HTV-a.
+  ageRating: 4
+  genre:
+  - '32'
+- eventId: 1056368
+  start: 2026-11-29T00:59:00Z
+  stop: 2026-11-29T01:00:00Z
+  title: Vrijeme RH danas
+  subtitle: ' '
+  description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1038544
   start: 2026-11-29T01:00:00Z
   stop: 2026-11-29T01:01:00Z
@@ -16,7 +30,9 @@
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
-- eventId: 1038545
+- eventId:
+  - 1038545
+  - 1056451
   start: 2026-11-29T01:01:00Z
   stop: 2026-11-29T01:02:00Z
   title: Vrijeme Europa danas
@@ -52,7 +68,9 @@
   genre:
   - '160'
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
-- eventId: 1038549
+- eventId:
+  - 1038549
+  - 1056452
   start: 2026-11-29T01:28:00Z
   stop: 2026-11-29T01:32:00Z
   title: Bez komentara
@@ -268,7 +286,9 @@
   genre:
   - '160'
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
-- eventId: 1038573
+- eventId:
+  - 1038573
+  - 1056453
   start: 2026-11-29T05:20:00Z
   stop: 2026-11-29T05:28:00Z
   title: 'Studio 4: Znanost'
@@ -538,7 +558,9 @@
   genre:
   - '160'
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
-- eventId: 1038603
+- eventId:
+  - 1038603
+  - 1056454
   start: 2026-11-29T09:45:00Z
   stop: 2026-11-29T09:50:00Z
   title: Poslovne vijesti
@@ -547,7 +569,9 @@
   genre:
   - '32'
   description: Novosti i zanimljivosti iz gospodarstva, marketinga, trgovine i s burze.
-- eventId: 1038604
+- eventId:
+  - 1038604
+  - 1056455
   start: 2026-11-29T09:50:00Z
   stop: 2026-11-29T10:00:00Z
   title: 'Studio 4: Znanost'
@@ -819,13 +843,19 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 42 grada u svijetu - do 18 sati za taj dan, poslije za idući.
 - eventId: 1038634
   start: 2026-11-29T14:35:00Z
-  stop: 2026-11-29T15:00:00Z
+  stop: 2026-11-29T14:55:00Z
   title: 'Studio 4: U fokusu'
   subtitle: U fokusu razgovaramo o temama koje zaokupljaju život.
   ageRating: 4
   genre:
   - '160'
   description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
+- eventId: 1056374
+  start: 2026-11-29T14:55:00Z
+  stop: 2026-11-29T15:00:00Z
+  title: Bez komentara
+  subtitle: ' '
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1038635
   start: 2026-11-29T15:00:00Z
   stop: 2026-11-29T15:15:00Z
