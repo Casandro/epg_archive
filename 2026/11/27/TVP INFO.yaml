@@ -600,7 +600,7 @@
   - '34'
 - eventId: 850570
   start: 2026-11-27T13:00:00Z
-  stop: 2026-11-27T13:24:00Z
+  stop: 2026-11-27T13:25:00Z
   title: Serwis info dzień
   description: |-
     program informacyjny (na żywo)
@@ -623,7 +623,9 @@
     PL, 2026
   genre:
   - '32'
-- eventId: 992287
+- eventId:
+  - 1054143
+  - 992287
   start: 2026-11-27T13:25:00Z
   stop: 2026-11-27T13:30:00Z
   title: Prognoza pogody
@@ -663,10 +665,12 @@
 - eventId: 1052902
   start: 2026-11-27T14:26:00Z
   stop: 2026-11-27T14:30:00Z
-  title: Pogoda Info
+  title: Prognoza pogody
   description: |-
     program informacyjny (na żywo)
     Szczegółowe informacje na temat stanu pogody w najbliższych dniach.
+  genre:
+  - '32'
 - eventId: 850575
   start: 2026-11-27T14:27:00Z
   stop: 2026-11-27T14:30:00Z
