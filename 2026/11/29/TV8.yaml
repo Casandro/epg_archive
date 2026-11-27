@@ -36,6 +36,7 @@
   - 1053361
   - 1055065
   - 1063938
+  - 1071483
   - 886093
   - 936124
   - 963547
@@ -95,6 +96,7 @@
   - 1055066
   - 1063939
   - 1069858
+  - 1071484
   - 886095
   start: 2026-11-29T04:45:00Z
   stop: 2026-11-29T05:00:00Z
@@ -104,6 +106,7 @@
   description: ' (2026)'
 - eventId:
   - 1009467
+  - 1070522
   - 886096
   - 901356
   - 981178
@@ -128,13 +131,6 @@
   genre:
   - '149'
   description: Poradenstvo, veštenie, výklad osudu, numerológia
-- eventId: 1070522
-  start: 2026-11-29T05:00:00Z
-  stop: 2026-11-29T06:40:00Z
-  title: Veštenie repríza
-  description: Poradenstvo, veštenie, výklad osudu, numerológia
-  genre:
-  - '149'
 - eventId:
   - 1013899
   - 1023176
@@ -167,6 +163,7 @@
   - 1032888
   - 1048353
   - 1061403
+  - 1070531
   - 886099
   - 901384
   - 953311
@@ -180,14 +177,6 @@
   genre:
   - '149'
   ageRating: 12
-- eventId: 1070531
-  start: 2026-11-29T06:40:00Z
-  stop: 2026-11-29T07:45:00Z
-  title: HOROSKOPY
-  subtitle: 12.10.2026 - 18.10.2026
-  description: Týždenné horoskopy s Petrom.
-  genre:
-  - '149'
 - eventId:
   - 1005282
   - 1013855
@@ -229,6 +218,12 @@
   start: 2026-11-29T07:30:00Z
   stop: 2026-11-29T08:00:00Z
   title: In Good Shape - The Health Show.
+  subtitle: Teleshoppingové pásmo
+  ageRating: 12
+- eventId: 1071489
+  start: 2026-11-29T07:30:00Z
+  stop: 2026-11-29T07:45:00Z
+  title: Teleshoppingové pásmo
   subtitle: Teleshoppingové pásmo
   ageRating: 12
 - eventId:
@@ -321,6 +316,7 @@
   - 1055072
   - 1063946
   - 1069107
+  - 1071492
   - 886106
   start: 2026-11-29T09:40:00Z
   stop: 2026-11-29T10:00:00Z
@@ -341,6 +337,7 @@
   - 1053374
   - 1055073
   - 1063947
+  - 1071493
   - 886107
   - 934695
   - 967543
@@ -401,6 +398,7 @@
   - 1055076
   - 1063951
   - 1069108
+  - 1071495
   - 886108
   start: 2026-11-29T12:00:00Z
   stop: 2026-11-29T13:00:00Z
@@ -476,6 +474,7 @@
   - 1032907
   - 1048358
   - 1061430
+  - 1070566
   - 886111
   - 901462
   - 953329
@@ -490,14 +489,6 @@
   - '149'
   ageRating: 12
   description: Relácia zameraná na spojenie sa s iným svetom. Médium je spojovník medzi týmto svetom a svetom za jeho hranicami. Médium má schopnosť napojiť sa do duchovného sveta a prijímať a odovzdávať správy.  (2026)
-- eventId: 1070566
-  start: 2026-11-29T15:00:00Z
-  stop: 2026-11-29T19:00:00Z
-  title: Médium
-  subtitle: Adam
-  description: Relácia zameraná na spojenie sa s iným svetom. Médium je spojovník medzi týmto svetom a svetom za jeho hranicami. Médium má schopnosť napojiť sa do duchovného sveta a prijímať a odovzdávať správy.
-  genre:
-  - '149'
 - eventId:
   - 1013900
   - 1023186
@@ -542,6 +533,7 @@
   - 1055082
   - 1063965
   - 1069862
+  - 1071503
   - 886112
   start: 2026-11-29T18:45:00Z
   stop: 2026-11-29T19:00:00Z
@@ -645,7 +637,9 @@
   - '149'
   subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
   ageRating: 12
-- eventId: 1069156
+- eventId:
+  - 1069156
+  - 1071504
   start: 2026-11-29T21:00:00Z
   stop: 2026-11-29T23:00:00Z
   title: Ezoterická poradňa
@@ -725,6 +719,7 @@
   - 1055085
   - 1063969
   - 1069157
+  - 1071505
   - 912210
   start: 2026-11-29T23:00:00Z
   stop: 2026-11-29T23:20:00Z
@@ -746,6 +741,7 @@
   - 1053390
   - 1055086
   - 1063970
+  - 1071506
   - 912211
   - 934798
   - 967568
