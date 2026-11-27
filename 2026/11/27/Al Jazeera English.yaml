@@ -558,7 +558,7 @@
   - 1053486
   - 831704
   start: 2026-11-27T11:00:00Z
-  stop: 2026-11-27T12:00:00Z
+  stop: 2026-11-27T11:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: EN DIRECT.  Journal - 2026. 27 Nov 2026 show. Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
@@ -589,6 +589,7 @@
   - 1048373
   - 1053455
   - 1053513
+  - 1055058
   - 940349
   - 955856
   - 974036
@@ -615,7 +616,7 @@
   - 1053525
   - 831727
   start: 2026-11-27T12:00:00Z
-  stop: 2026-11-27T12:30:00Z
+  stop: 2026-11-27T13:00:00Z
   title: The Boy Who Started And Survived the Syrian War
   subtitle: A boy who grew up amid Syria's war reveals the untold origins of the conflict and the fight for his nation's freedom.
   description: A boy who grew up amid Syria's war reveals the untold origins of the conflict and the fight for his nation's freedom.
@@ -694,7 +695,7 @@
   - 1053527
   - 831730
   start: 2026-11-27T14:00:00Z
-  stop: 2026-11-27T15:00:00Z
+  stop: 2026-11-27T14:30:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
@@ -724,6 +725,7 @@
   - 1048272
   - 1053235
   - 1053528
+  - 1055157
   - 940360
   - 955867
   - 974047
@@ -750,7 +752,7 @@
   - 1053532
   - 831759
   start: 2026-11-27T15:00:00Z
-  stop: 2026-11-27T15:30:00Z
+  stop: 2026-11-27T16:00:00Z
   title: 'NEWSHOUR: The Wider Story'
   subtitle: A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.
   description: A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.
@@ -809,17 +811,14 @@
 - eventId:
   - 1027176
   - 1043046
+  - 1053248
   - 1054800
-  start: 2026-11-27T16:00:00Z
-  stop: 2026-11-27T17:00:00Z
-  title: Newshour
-  description: Latest news and in-depth analysis from around the world.
-  genre:
-  - '32'
-- eventId: 1053248
   start: 2026-11-27T16:00:00Z
   stop: 2026-11-27T16:30:00Z
   title: News Live
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId:
   - 1005033
@@ -835,6 +834,7 @@
   - 1044519
   - 1048278
   - 1053249
+  - 1055166
   - 940372
   - 955877
   - 974056
@@ -848,13 +848,16 @@
 - eventId:
   - 1017516
   - 1021623
+  - 1027177
   - 1029293
   - 1032911
   - 1034265
   - 1037923
+  - 1043047
   - 1044520
   - 1048279
   - 1053250
+  - 1054801
   - 831762
   start: 2026-11-27T17:00:00Z
   stop: 2026-11-27T17:30:00Z
@@ -863,16 +866,6 @@
   - '32'
   subtitle: A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.
   description: Up-to-date news and analysis from around the world.
-- eventId:
-  - 1027177
-  - 1043047
-  - 1054801
-  start: 2026-11-27T17:00:00Z
-  stop: 2026-11-27T17:30:00Z
-  title: News Live
-  description: Up-to-date news and analysis from around the world.
-  genre:
-  - '32'
 - eventId:
   - 1017517
   - 1021624
@@ -903,15 +896,6 @@
   - 1021626
   - 1027191
   - 1029296
-  - 831790
-  start: 2026-11-27T18:00:00Z
-  stop: 2026-11-27T19:00:00Z
-  title: News Live
-  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-  description: Up-to-date news and analysis from around the world.
-  genre:
-  - '32'
-- eventId:
   - 1032915
   - 1034267
   - 1037929
@@ -919,8 +903,9 @@
   - 1044351
   - 1048283
   - 1054806
+  - 831790
   start: 2026-11-27T18:00:00Z
-  stop: 2026-11-27T18:30:00Z
+  stop: 2026-11-27T19:00:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
@@ -974,17 +959,14 @@
 - eventId:
   - 1027193
   - 1043056
+  - 1053260
   - 1054808
-  start: 2026-11-27T19:00:00Z
-  stop: 2026-11-27T20:00:00Z
-  title: Newshour
-  description: Latest news and in-depth analysis from around the world.
-  genre:
-  - '32'
-- eventId: 1053260
   start: 2026-11-27T19:00:00Z
   stop: 2026-11-27T19:30:00Z
   title: News Live
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId:
   - 1005038
@@ -1000,6 +982,7 @@
   - 1044353
   - 1048285
   - 1053261
+  - 1055172
   - 940383
   - 955883
   - 974061
@@ -1030,17 +1013,14 @@
 - eventId:
   - 1027194
   - 1043057
+  - 1053262
   - 1054809
-  start: 2026-11-27T20:00:00Z
-  stop: 2026-11-27T20:30:00Z
-  title: News Live
-  description: Up-to-date news and analysis from around the world.
-  genre:
-  - '32'
-- eventId: 1053262
   start: 2026-11-27T20:00:00Z
   stop: 2026-11-27T21:00:00Z
   title: Al Jazeera World
+  description: Up-to-date news and analysis from around the world.
+  genre:
+  - '32'
   subtitle: War hero turned nationalist, Mahmoud Harbi defied colonial rule to fight for independence in today's Djibouti, until his death in a mysterious 1960 plane crash.
 - eventId:
   - 1000869
@@ -1110,17 +1090,14 @@
 - eventId:
   - 1027202
   - 1043065
+  - 1053270
   - 1054819
-  start: 2026-11-27T22:00:00Z
-  stop: 2026-11-27T23:00:00Z
-  title: Newshour
-  description: Latest news and in-depth analysis from around the world.
-  genre:
-  - '32'
-- eventId: 1053270
   start: 2026-11-27T22:00:00Z
   stop: 2026-11-27T22:30:00Z
   title: News Live
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId:
   - 1005044
@@ -1136,6 +1113,7 @@
   - 1044364
   - 1048290
   - 1053271
+  - 1055178
   - 940391
   - 955890
   - 974070
