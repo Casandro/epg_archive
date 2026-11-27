@@ -642,6 +642,10 @@
   stop: 2026-11-27T18:00:00Z
   title: History in the Frame, An Ancient Town & A Modern Museum
   subtitle: Dokumentarni
+- eventId: 1067639
+  start: 2026-11-27T18:00:00Z
+  stop: 2026-11-27T19:00:00Z
+  title: Best Eats
 - eventId: 831785
   start: 2026-11-27T18:00:00Z
   stop: 2026-11-27T21:00:00Z
@@ -679,7 +683,9 @@
   title: Times photo
   genre:
   - '35'
-- eventId: 1066123
+- eventId:
+  - 1066123
+  - 1067638
   start: 2026-11-27T19:00:00Z
   stop: 2026-11-27T19:30:00Z
   title: Youthful China
