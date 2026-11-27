@@ -2,7 +2,7 @@
   - 985276
   - 986266
   start: 2026-11-30T00:00:00Z
-  stop: 2026-11-30T00:09:59Z
+  stop: 2026-11-30T00:10:00Z
   title: NOS Journaal
 - eventId:
   - 985277
@@ -10,7 +10,9 @@
   start: 2026-11-30T00:10:00Z
   stop: 2026-11-30T01:09:59Z
   title: WNL op Zondag
-- eventId: 1051281
+- eventId:
+  - 1051281
+  - 1059914
   start: 2026-11-30T00:15:00Z
   stop: 2026-11-30T01:09:59Z
   title: WNL op Zondag
@@ -18,7 +20,7 @@
   - 985278
   - 986268
   start: 2026-11-30T01:10:00Z
-  stop: 2026-11-30T02:04:59Z
+  stop: 2026-11-30T02:05:00Z
   title: Buitenhof
 - eventId:
   - 985279
@@ -30,6 +32,10 @@
   start: 2026-11-30T02:10:00Z
   stop: 2026-11-30T02:59:59Z
   title: Vier Handen Op Eén Buik
+- eventId: 1059915
+  start: 2026-11-30T02:10:00Z
+  stop: 2026-11-30T02:55:00Z
+  title: Vier Handen Op Eén Buik
 - eventId:
   - 985280
   - 986270
@@ -40,13 +46,19 @@
   start: 2026-11-30T03:00:00Z
   stop: 2026-11-30T03:14:59Z
   title: Zin in Zappelin
+- eventId: 1059916
+  start: 2026-11-30T03:00:00Z
+  stop: 2026-11-30T03:10:00Z
+  title: Zin in Zappelin
 - eventId:
   - 985281
   - 986271
   start: 2026-11-30T03:10:00Z
   stop: 2026-11-30T03:19:59Z
   title: Kindertijd
-- eventId: 1051284
+- eventId:
+  - 1051284
+  - 1059917
   start: 2026-11-30T03:15:00Z
   stop: 2026-11-30T03:19:59Z
   title: Kindertijd
@@ -66,7 +78,7 @@
   - 985284
   - 986274
   start: 2026-11-30T03:55:00Z
-  stop: 2026-11-30T04:19:59Z
+  stop: 2026-11-30T04:20:00Z
   title: Checkpoint
 - eventId:
   - 985285
@@ -78,13 +90,19 @@
   start: 2026-11-30T04:25:00Z
   stop: 2026-11-30T04:44:59Z
   title: NOS Jeugdjournaal
+- eventId: 1059918
+  start: 2026-11-30T04:25:00Z
+  stop: 2026-11-30T04:40:00Z
+  title: NOS Jeugdjournaal
 - eventId:
   - 985286
   - 986276
   start: 2026-11-30T04:40:00Z
   stop: 2026-11-30T05:04:59Z
   title: Nederland zingt op zondag
-- eventId: 1051286
+- eventId:
+  - 1051286
+  - 1059919
   start: 2026-11-30T04:45:00Z
   stop: 2026-11-30T05:05:00Z
   title: Nederland zingt op zondag
@@ -98,9 +116,11 @@
   - 985288
   - 986278
   start: 2026-11-30T05:10:00Z
-  stop: 2026-11-30T05:24:59Z
+  stop: 2026-11-30T05:19:59Z
   title: Het Sinterklaasjournaal
-- eventId: 1051287
+- eventId:
+  - 1051287
+  - 1059920
   start: 2026-11-30T05:20:00Z
   stop: 2026-11-30T05:29:59Z
   title: Het Sinterklaasjournaal
@@ -114,6 +134,10 @@
   start: 2026-11-30T05:30:00Z
   stop: 2026-11-30T06:29:59Z
   title: Podium Klassiek
+- eventId: 1059921
+  start: 2026-11-30T05:30:00Z
+  stop: 2026-11-30T06:25:00Z
+  title: Podium Klassiek
 - eventId:
   - 985290
   - 986280
@@ -124,13 +148,19 @@
   start: 2026-11-30T06:30:00Z
   stop: 2026-11-30T07:24:59Z
   title: NOS Studio Sport Voetbal
+- eventId: 1059922
+  start: 2026-11-30T06:30:00Z
+  stop: 2026-11-30T07:20:00Z
+  title: NOS Studio Sport Voetbal
 - eventId:
   - 985291
   - 986281
   start: 2026-11-30T07:20:00Z
   stop: 2026-11-30T07:34:59Z
   title: NOS Journaal
-- eventId: 1051290
+- eventId:
+  - 1051290
+  - 1059923
   start: 2026-11-30T07:25:00Z
   stop: 2026-11-30T07:44:59Z
   title: NOS Journaal
@@ -140,7 +170,9 @@
   start: 2026-11-30T07:35:00Z
   stop: 2026-11-30T08:14:59Z
   title: Dwars door de Pyreneeën
-- eventId: 1051291
+- eventId:
+  - 1051291
+  - 1059924
   start: 2026-11-30T07:45:00Z
   stop: 2026-11-30T08:24:59Z
   title: Dwars door de Pyreneeën
@@ -150,7 +182,9 @@
   start: 2026-11-30T08:15:00Z
   stop: 2026-11-30T09:04:59Z
   title: Ivo op zondag
-- eventId: 1051292
+- eventId:
+  - 1051292
+  - 1059925
   start: 2026-11-30T08:25:00Z
   stop: 2026-11-30T09:14:59Z
   title: Ivo op zondag
@@ -160,7 +194,9 @@
   start: 2026-11-30T09:05:00Z
   stop: 2026-11-30T09:34:59Z
   title: Nieuwsuur
-- eventId: 1051293
+- eventId:
+  - 1051293
+  - 1059926
   start: 2026-11-30T09:15:00Z
   stop: 2026-11-30T09:44:59Z
   title: Nieuwsuur
@@ -170,7 +206,9 @@
   start: 2026-11-30T09:35:00Z
   stop: 2026-11-30T10:24:59Z
   title: Pauw & De Wit
-- eventId: 1051294
+- eventId:
+  - 1051294
+  - 1059927
   start: 2026-11-30T09:45:00Z
   stop: 2026-11-30T10:34:59Z
   title: Pauw & De Wit
@@ -184,9 +222,11 @@
   - 1000193
   - 998897
   start: 2026-11-30T10:35:00Z
-  stop: 2026-11-30T10:59:59Z
+  stop: 2026-11-30T10:44:59Z
   title: Bureau Buitenland
-- eventId: 1051295
+- eventId:
+  - 1051295
+  - 1059928
   start: 2026-11-30T10:45:00Z
   stop: 2026-11-30T11:09:59Z
   title: Bureau Buitenland
@@ -196,7 +236,9 @@
   start: 2026-11-30T11:00:00Z
   stop: 2026-11-30T11:19:59Z
   title: Gezichten van Gaza
-- eventId: 1051296
+- eventId:
+  - 1051296
+  - 1059929
   start: 2026-11-30T11:10:00Z
   stop: 2026-11-30T11:29:59Z
   title: Gezichten van Gaza
@@ -206,7 +248,9 @@
   start: 2026-11-30T11:20:00Z
   stop: 2026-11-30T11:59:59Z
   title: 2 voor 12
-- eventId: 1051297
+- eventId:
+  - 1051297
+  - 1059930
   start: 2026-11-30T11:30:00Z
   stop: 2026-11-30T11:59:59Z
   title: 2 voor 12
@@ -226,7 +270,7 @@
   - 1000198
   - 998902
   start: 2026-11-30T12:35:00Z
-  stop: 2026-11-30T12:49:59Z
+  stop: 2026-11-30T12:50:00Z
   title: MAX Geheugentrainer
 - eventId:
   - 1000199
@@ -234,7 +278,9 @@
   start: 2026-11-30T12:50:00Z
   stop: 2026-11-30T13:09:59Z
   title: Goedemorgen Nederland
-- eventId: 1051298
+- eventId:
+  - 1051298
+  - 1059931
   start: 2026-11-30T12:55:00Z
   stop: 2026-11-30T13:09:59Z
   title: Goedemorgen Nederland
@@ -266,7 +312,7 @@
   - 1000204
   - 998908
   start: 2026-11-30T14:10:00Z
-  stop: 2026-11-30T14:24:59Z
+  stop: 2026-11-30T14:25:00Z
   title: NOS Journaal
 - eventId:
   - 1000205
@@ -278,13 +324,19 @@
   start: 2026-11-30T14:30:00Z
   stop: 2026-11-30T14:59:59Z
   title: Fryslân Dok
+- eventId: 1059932
+  start: 2026-11-30T14:30:00Z
+  stop: 2026-11-30T14:55:00Z
+  title: Fryslân Dok
 - eventId:
   - 1000206
   - 998910
   start: 2026-11-30T14:55:00Z
   stop: 2026-11-30T15:24:59Z
   title: Blauw Bloed
-- eventId: 1051300
+- eventId:
+  - 1051300
+  - 1059933
   start: 2026-11-30T15:00:00Z
   stop: 2026-11-30T15:24:59Z
   title: Blauw Bloed
@@ -388,7 +440,7 @@
   - 1000223
   - 1015908
   start: 2026-11-30T23:05:00Z
-  stop: 2026-11-30T23:29:59Z
+  stop: 2026-11-30T23:30:00Z
   title: Pointer
 - eventId:
   - 1015909
@@ -396,7 +448,9 @@
   start: 2026-11-30T23:30:00Z
   stop: 2026-11-30T23:59:59Z
   title: Meldpunt Actueel
-- eventId: 1051301
+- eventId:
+  - 1051301
+  - 1059934
   start: 2026-11-30T23:35:00Z
   stop: 2026-11-30T23:59:59Z
   title: Meldpunt Actueel

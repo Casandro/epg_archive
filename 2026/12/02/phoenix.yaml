@@ -131,8 +131,19 @@
   hd: true
 - eventId: 1059320
   start: 2026-12-02T10:00:00Z
-  stop: 2026-12-02T11:00:00Z
+  stop: 2026-12-02T10:30:00Z
   title: phoenix persönlich
+- eventId: 1059385
+  start: 2026-12-02T10:30:00Z
+  stop: 2026-12-02T11:45:00Z
+  title: phoenix vor ort
+  subtitle: u.a. Aktuelles
+  description: |-
+    Montag, 30. November 2026
+
+    ca. 11:30 Uhr:
+
+    Aktuelles
 - eventId:
   - 714933
   - 715282
@@ -152,11 +163,15 @@
   - 714934
   - 715283
   start: 2026-12-02T11:45:00Z
-  stop: 2026-12-02T13:00:00Z
+  stop: 2026-12-02T12:15:00Z
   title: phoenix plus
   subtitle: Themen und Hintergründe
   widescreen: true
   hd: true
+- eventId: 1059386
+  start: 2026-12-02T12:15:00Z
+  stop: 2026-12-02T13:00:00Z
+  title: phoenix runde
 - eventId:
   - 714935
   - 715284
@@ -176,11 +191,16 @@
   - 715285
   - 715298
   start: 2026-12-02T13:45:00Z
-  stop: 2026-12-02T15:00:00Z
-  title: phoenix plus
-  subtitle: Themen und Hintergründe
+  stop: 2026-12-02T14:45:00Z
+  title: die diskussion
+  subtitle: 'Sicherheitshalber LIVE: Militärisch überlegen - Krieg verloren'
   widescreen: true
   hd: true
+  description: 'Vietnam, Afghanistan, Ukraine, Iran: Immer wieder scheitern militärisch überlegene Mächte daran, ihre Kriegsziele zu erreichen. Warum gelingt es selbst den stärksten Armeen nicht immer, ihre militärische Überlegenheit in politische Erfolge zu übersetzen?'
+- eventId: 1059387
+  start: 2026-12-02T14:45:00Z
+  stop: 2026-12-02T15:00:00Z
+  title: Für den Fall der Fälle - Wie Polen sich rüstet
 - eventId:
   - 715286
   - 715299

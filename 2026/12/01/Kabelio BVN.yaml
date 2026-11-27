@@ -14,7 +14,7 @@
   - 1015912
   - 1016441
   start: 2026-12-01T00:35:00Z
-  stop: 2026-12-01T00:49:59Z
+  stop: 2026-12-01T00:50:00Z
   title: MAX Geheugentrainer
 - eventId:
   - 1015913
@@ -22,7 +22,9 @@
   start: 2026-12-01T00:50:00Z
   stop: 2026-12-01T01:09:59Z
   title: Goedemorgen Nederland
-- eventId: 1051302
+- eventId:
+  - 1051302
+  - 1059935
   start: 2026-12-01T00:55:00Z
   stop: 2026-12-01T01:09:59Z
   title: Goedemorgen Nederland
@@ -54,7 +56,7 @@
   - 1015918
   - 1016447
   start: 2026-12-01T02:10:00Z
-  stop: 2026-12-01T02:24:59Z
+  stop: 2026-12-01T02:25:00Z
   title: NOS Journaal
 - eventId:
   - 1015919
@@ -66,13 +68,19 @@
   start: 2026-12-01T02:30:00Z
   stop: 2026-12-01T02:59:59Z
   title: Fryslân Dok
+- eventId: 1059936
+  start: 2026-12-01T02:30:00Z
+  stop: 2026-12-01T02:55:00Z
+  title: Fryslân Dok
 - eventId:
   - 1015920
   - 1016449
   start: 2026-12-01T02:55:00Z
   stop: 2026-12-01T03:24:59Z
   title: Blauw Bloed
-- eventId: 1051304
+- eventId:
+  - 1051304
+  - 1059937
   start: 2026-12-01T03:00:00Z
   stop: 2026-12-01T03:24:59Z
   title: Blauw Bloed
@@ -176,7 +184,7 @@
   - 1027235
   - 1030124
   start: 2026-12-01T11:05:00Z
-  stop: 2026-12-01T11:29:59Z
+  stop: 2026-12-01T11:30:00Z
   title: Pointer
 - eventId: 1027236
   start: 2026-12-01T11:30:00Z
@@ -186,11 +194,15 @@
   start: 2026-12-01T11:30:00Z
   stop: 2026-12-01T11:59:59Z
   title: Meldpunt Actueel
-- eventId: 1051305
+- eventId:
+  - 1051305
+  - 1059938
   start: 2026-12-01T11:35:00Z
   stop: 2026-12-01T11:59:59Z
   title: Meldpunt Actueel
-- eventId: 1030126
+- eventId:
+  - 1030126
+  - 1059939
   start: 2026-12-01T12:00:00Z
   stop: 2026-12-01T12:19:59Z
   title: NOS Journaal
@@ -258,75 +270,111 @@
   start: 2026-12-01T15:10:00Z
   stop: 2026-12-01T15:29:59Z
   title: Sesamstraat
-- eventId: 1030137
+- eventId:
+  - 1030137
+  - 1059940
   start: 2026-12-01T15:30:00Z
   stop: 2026-12-01T15:39:59Z
   title: 'Sesamstraat: 10 voor...'
-- eventId: 1030138
+- eventId:
+  - 1030138
+  - 1059941
   start: 2026-12-01T15:40:00Z
   stop: 2026-12-01T15:54:59Z
   title: Het Klokhuis
-- eventId: 1030139
+- eventId:
+  - 1030139
+  - 1059942
   start: 2026-12-01T15:55:00Z
   stop: 2026-12-01T16:14:59Z
   title: NOS Jeugdjournaal
-- eventId: 1030140
+- eventId:
+  - 1030140
+  - 1059943
   start: 2026-12-01T16:15:00Z
   stop: 2026-12-01T16:24:59Z
   title: NOS Journaal in Makkelijke Taal
-- eventId: 1030141
+- eventId:
+  - 1030141
+  - 1059944
   start: 2026-12-01T16:25:00Z
   stop: 2026-12-01T17:04:59Z
   title: Tijd voor Max
-- eventId: 1030142
+- eventId:
+  - 1030142
+  - 1059945
   start: 2026-12-01T17:05:00Z
   stop: 2026-12-01T17:19:59Z
   title: NOS Journaal 18.00 uur
-- eventId: 1051306
+- eventId:
+  - 1051306
+  - 1059946
   start: 2026-12-01T17:20:00Z
   stop: 2026-12-01T17:29:59Z
   title: Het Sinterklaasjournaal
-- eventId: 1051307
+- eventId:
+  - 1051307
+  - 1059947
   start: 2026-12-01T17:30:00Z
   stop: 2026-12-01T18:04:59Z
   title: BinnensteBuiten
-- eventId: 1051308
+- eventId:
+  - 1051308
+  - 1059948
   start: 2026-12-01T18:05:00Z
   stop: 2026-12-01T18:34:59Z
   title: EenVandaag
-- eventId: 1051309
+- eventId:
+  - 1051309
+  - 1059949
   start: 2026-12-01T18:35:00Z
   stop: 2026-12-01T19:19:59Z
   title: Eva
-- eventId: 1051310
+- eventId:
+  - 1051310
+  - 1059950
   start: 2026-12-01T19:20:00Z
   stop: 2026-12-01T19:44:59Z
   title: NOS Journaal 20.00 uur
-- eventId: 1051311
+- eventId:
+  - 1051311
+  - 1059951
   start: 2026-12-01T19:45:00Z
   stop: 2026-12-01T20:39:59Z
   title: Hunted
-- eventId: 1051312
+- eventId:
+  - 1051312
+  - 1059952
   start: 2026-12-01T20:40:00Z
   stop: 2026-12-01T21:24:59Z
   title: Meer dan verwacht
-- eventId: 1051313
+- eventId:
+  - 1051313
+  - 1059953
   start: 2026-12-01T21:25:00Z
   stop: 2026-12-01T21:59:59Z
   title: Nieuwsuur
-- eventId: 1051314
+- eventId:
+  - 1051314
+  - 1059954
   start: 2026-12-01T22:00:00Z
   stop: 2026-12-01T22:44:59Z
   title: Pauw & De Wit
-- eventId: 1051315
+- eventId:
+  - 1051315
+  - 1059955
   start: 2026-12-01T22:45:00Z
   stop: 2026-12-01T23:09:59Z
   title: NOS Journaal Laat
-- eventId: 1051316
+- eventId:
+  - 1051316
+  - 1059956
   start: 2026-12-01T23:10:00Z
   stop: 2026-12-01T23:34:59Z
   title: Keuringsdienst van Waarde
-- eventId: 1051317
+- eventId:
+  - 1051317
+  - 1059957
   start: 2026-12-01T23:35:00Z
   stop: 2026-12-01T23:59:59Z
   title: Noord-Zuid-Oost-West
