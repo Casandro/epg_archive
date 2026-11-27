@@ -1351,14 +1351,16 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 972838
   start: 2026-11-27T17:54:00Z
-  stop: 2026-11-27T17:56:00Z
+  stop: 2026-11-27T17:55:00Z
   title: Vrijeme Europa sutra
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
   genre:
   - '32'
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
-- eventId: 1060982
+- eventId:
+  - 1060982
+  - 1066090
   start: 2026-11-27T17:55:00Z
   stop: 2026-11-27T18:00:00Z
   title: Vrijeme Svijet sutra
@@ -1501,6 +1503,14 @@
   genre:
   - '160'
   description: Na području Zagreba, njegove okolice, ali i cijele Hrvatske postoje tisuće divljih odlagališta otpada. Jedno od najgorih je, prema Udruzi Ekologija grada, u Kosnici kod Velike Gorice, u neposrednoj blizini istoimenog vodocrpilišta. Ondje su zakopani deseci tona azbestnog otpada te najmanje 300 tisuća tona građevnog i drugog otpada nepoznatog podrijetla. Taj uhodani posao traje već 20 godina.  Dretulja je jedna od najmanje poznatih hrvatskih ponornica. Teče Ogulinsko-plaščanskom udolinom u Karlovačkoj županiji i duga je samo 7 km. Voda joj je iznimno čista i bistra. Na svojem putu "hrani" brojne biljne i životinjske vrste, među kojima i neke iznimno rijetke i endemične biljke. Dok većina slobodno vrijeme provodi odmarajući se, Puljanka Sandra godinama stvara svoj mali botanički svijet. Na okućnici obiteljske kuće nastao je vrt u kojem danas raste više od 500 vrsta sukulenata te čak 70 vrsta agava.
+- eventId: 1066091
+  start: 2026-11-27T19:30:00Z
+  stop: 2026-11-27T19:55:00Z
+  title: Eko zona
+  subtitle: Na području Zagreba, njegove okolice, ali i cijele Hrvatske postoje tisuće divljih odlagališta otpada.
+  ageRating: 4
+  genre:
+  - '160'
 - eventId:
   - 1059345
   - 1065962
@@ -1511,6 +1521,7 @@
   description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId:
   - 1060984
+  - 1066092
   - 974348
   - 975239
   start: 2026-11-27T19:56:00Z
@@ -1569,7 +1580,7 @@
   description: Aktualne sportske teme i aktualni sportski trenutak provjerite u studijskim razgovorima s poznatim sportašima, trenerima i djelatnicima iz svijeta sporta.
 - eventId: 972853
   start: 2026-11-27T22:05:00Z
-  stop: 2026-11-27T22:09:00Z
+  stop: 2026-11-27T22:08:00Z
   title: '#REPORTAŽE: Samohrani otac'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
@@ -1578,6 +1589,7 @@
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 1060985
+  - 1066093
   - 974349
   - 975240
   start: 2026-11-27T22:08:00Z
@@ -1623,7 +1635,9 @@
   genre:
   - '160'
   description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
-- eventId: 1060986
+- eventId:
+  - 1060986
+  - 1066094
   start: 2026-11-27T22:50:00Z
   stop: 2026-11-27T22:55:00Z
   title: '#REPORTAŽE'
@@ -1650,6 +1664,7 @@
   description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId:
   - 1060987
+  - 1066095
   - 974350
   - 975241
   start: 2026-11-27T22:55:00Z
