@@ -1,16 +1,14 @@
-- eventId: 901187
-  start: 2026-11-29T00:00:00Z
-  stop: 2026-11-29T01:00:00Z
-  title: Global News
-  genre:
-  - '32'
-  subtitle: International news and current affairs from CCTV-4 (China Central Television 4). Global News brings you the latest stories from around the world.
-- eventId: 912038
+- eventId:
+  - 901187
+  - 912038
   start: 2026-11-29T00:00:00Z
   stop: 2026-11-29T00:30:00Z
   title: The World Today
-  subtitle: Informativni
+  genre:
+  - '32'
+  subtitle: International news and current affairs from CCTV-4 (China Central Television 4). Global News brings you the latest stories from around the world.
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
 - eventId:
   - 1009458
   - 1013207
@@ -30,19 +28,24 @@
   title: China 24
   genre:
   - '32'
-- eventId: 912039
+- eventId:
+  - 1072263
+  - 912039
   start: 2026-11-29T00:30:00Z
   stop: 2026-11-29T01:00:00Z
   title: The Agenda
   subtitle: Dokumentarni
   description: "A weekly talk-show looking beyond the headlines and accepted wisdom to find the real story. Hosted by award-winning journalist and presenter Stephen Cole, The Agenda quite simply sets The Agenda . You won't find the same-old talking heads recycling platitudes; instead thought-provoking guests to debate and explore key issues of today's world. Using virtual reality graphics to bring subjects to life, Stephen will navigate through subjects ranging from Prove That Climate Change Exists to Who Will Win the Race to Space. Opposing views will be given opportunity to flourish and develop into a meaningful conversation. \nThe Agenda: No nonsense talk; Challenging perceptions."
+  widescreen: true
 - eventId: 901189
   start: 2026-11-29T01:00:00Z
-  stop: 2026-11-29T01:15:00Z
+  stop: 2026-11-29T02:00:00Z
   title: Full Frame
   genre:
   - '32'
   subtitle: A journey through cherished memories, cultural traditions and stories that bring the past back to life.
+  description: Big Story is a documentary film program on CGTN. It explores global events with in a variety of filmic styles and featuring original, in-depth, thought-provoking storytelling.
+  widescreen: true
 - eventId: 912040
   start: 2026-11-29T01:00:00Z
   stop: 2026-11-29T02:00:00Z
@@ -87,12 +90,15 @@
   title: News Desk
   genre:
   - '32'
-- eventId: 912041
+- eventId:
+  - 1072264
+  - 912041
   start: 2026-11-29T02:00:00Z
   stop: 2026-11-29T02:30:00Z
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
 - eventId:
   - 1004872
   - 1012729
@@ -131,31 +137,35 @@
   title: New Money
   genre:
   - '32'
-- eventId: 912042
+- eventId:
+  - 1072265
+  - 912042
   start: 2026-11-29T02:30:00Z
   stop: 2026-11-29T03:00:00Z
   title: Inheritors
   subtitle: Dokumentarni
   description: Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.
-- eventId: 901272
-  start: 2026-11-29T03:00:00Z
-  stop: 2026-11-29T03:45:00Z
-  title: News Desk
-  genre:
-  - '32'
-  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
-- eventId: 912048
+  widescreen: true
+- eventId:
+  - 901272
+  - 912048
   start: 2026-11-29T03:00:00Z
   stop: 2026-11-29T03:15:00Z
   title: The World Today
-  subtitle: Informativni
+  genre:
+  - '32'
+  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
-- eventId: 912049
+  widescreen: true
+- eventId:
+  - 1072268
+  - 912049
   start: 2026-11-29T03:15:00Z
   stop: 2026-11-29T03:30:00Z
   title: Sports Scene
   subtitle: Informativni
   description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
+  widescreen: true
 - eventId:
   - 1009464
   - 1013213
@@ -175,6 +185,12 @@
   title: Closer to China with R.L.Kuhn
   genre:
   - '32'
+- eventId: 1072269
+  start: 2026-11-29T03:30:00Z
+  stop: 2026-11-29T04:00:00Z
+  title: Leaders Talk
+  description: Leaders Talk is China Media Group's new current affairs program featuring one-on-one interviews with heads of state and high-ranking government officials and heads of international organizations.
+  widescreen: true
 - eventId: 912050
   start: 2026-11-29T03:30:00Z
   stop: 2026-11-29T04:00:00Z
@@ -199,19 +215,17 @@
   stop: 2026-11-29T04:00:00Z
   title: Nostalgia
   subtitle: A journey through cherished memories, cultural traditions and stories that bring the past back to life.
-- eventId: 901274
-  start: 2026-11-29T04:00:00Z
-  stop: 2026-11-29T05:00:00Z
-  title: China News
-  genre:
-  - '32'
-  subtitle: It concentrates on the latest news and social changes happening in china and all over the world
-- eventId: 912051
+- eventId:
+  - 901274
+  - 912051
   start: 2026-11-29T04:00:00Z
   stop: 2026-11-29T05:00:00Z
   title: Global Watch
-  subtitle: Informativni
+  genre:
+  - '32'
+  subtitle: It concentrates on the latest news and social changes happening in china and all over the world
   description: GLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories.
+  widescreen: true
 - eventId:
   - 1009465
   - 1013214
@@ -233,11 +247,13 @@
   - '32'
 - eventId: 901276
   start: 2026-11-29T05:00:00Z
-  stop: 2026-11-29T05:30:00Z
+  stop: 2026-11-29T06:00:00Z
   title: International Depth
   genre:
   - '32'
   subtitle: In-depth coverage of international affairs, global developments and the key issues shaping the world today.
+  description: Full Frame enriches the lives of viewers through animated discussion of film, arts and culture, and social trends etc impacting a diverse global audience.
+  widescreen: true
 - eventId: 912052
   start: 2026-11-29T05:00:00Z
   stop: 2026-11-29T06:00:00Z
@@ -270,12 +286,15 @@
   title: News Hour
   genre:
   - '32'
-- eventId: 912057
+- eventId:
+  - 1072641
+  - 912057
   start: 2026-11-29T06:00:00Z
   stop: 2026-11-29T06:30:00Z
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
 - eventId:
   - 1004891
   - 1012740
@@ -295,46 +314,53 @@
   stop: 2026-11-29T07:00:00Z
   title: TV Drama
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
-- eventId: 912058
+- eventId:
+  - 1072642
+  - 912058
   start: 2026-11-29T06:30:00Z
   stop: 2026-11-29T07:00:00Z
   title: Biz Talk
   subtitle: Dokumentarni
   description: A groundbreaking 30-minute interview show, giving an in-depth look into how top companies around the world conduct business and how policymakers view the fast-changing world economy. It presents 360 degree profiles of industry movers and shakers, tech mavericks and policymakers, and drills down on the stories behind their success, to give you clarity on what's happening in every facet of business.
+  widescreen: true
 - eventId: 901306
   start: 2026-11-29T07:00:00Z
-  stop: 2026-11-29T08:00:00Z
+  stop: 2026-11-29T07:30:00Z
   title: Special Program for Opera
   genre:
   - '32'
   subtitle: Various celebrities from all walks of life, who may or may not be familiar with the concept of Chinese opera, take part in an interesting challenge to sing and act in the traditional way.
+  description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
 - eventId: 912059
   start: 2026-11-29T07:00:00Z
   stop: 2026-11-29T07:30:00Z
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
-- eventId: 912060
+- eventId:
+  - 1072643
+  - 912060
   start: 2026-11-29T07:30:00Z
   stop: 2026-11-29T08:00:00Z
   title: Sports Scene
   subtitle: Informativni
   description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
-- eventId: 901307
-  start: 2026-11-29T08:00:00Z
-  stop: 2026-11-29T08:30:00Z
-  title: China News
-  genre:
-  - '32'
-  subtitle: It concentrates on the latest news and social changes happening in china and all over the world
-- eventId: 912061
+  widescreen: true
+- eventId:
+  - 901307
+  - 912061
   start: 2026-11-29T08:00:00Z
   stop: 2026-11-29T08:30:00Z
   title: The World Today
-  subtitle: Informativni
+  genre:
+  - '32'
+  subtitle: It concentrates on the latest news and social changes happening in china and all over the world
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
 - eventId:
   - 1056168
+  - 1072644
   - 901308
   - 912062
   start: 2026-11-29T08:30:00Z
@@ -344,6 +370,7 @@
   - '32'
   subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
   description: Talk Africa is a weekly discussion show that brings the most influential voices in Africa to the world.
+  widescreen: true
 - eventId:
   - 1009481
   - 1013227
@@ -363,12 +390,15 @@
   title: News Desk
   genre:
   - '32'
-- eventId: 912067
+- eventId:
+  - 1072294
+  - 912067
   start: 2026-11-29T09:00:00Z
   stop: 2026-11-29T09:30:00Z
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+  widescreen: true
 - eventId:
   - 1004901
   - 1012746
@@ -407,31 +437,35 @@
   title: Sports Scene
   genre:
   - '32'
-- eventId: 912068
+- eventId:
+  - 1072295
+  - 912068
   start: 2026-11-29T09:30:00Z
   stop: 2026-11-29T10:00:00Z
   title: Faces of Africa
   subtitle: Dokumentarni
   description: Faces of Africa is a topical magazine that showcases the diversity of the continent.
-- eventId: 901332
-  start: 2026-11-29T10:00:00Z
-  stop: 2026-11-29T11:00:00Z
-  title: Universal Show
-  genre:
-  - '32'
-  subtitle: Join this light theatrical universal show with songs and dance.
-- eventId: 912069
+  widescreen: true
+- eventId:
+  - 901332
+  - 912069
   start: 2026-11-29T10:00:00Z
   stop: 2026-11-29T10:15:00Z
   title: The World Today
-  subtitle: Informativni
+  genre:
+  - '32'
+  subtitle: Join this light theatrical universal show with songs and dance.
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
-- eventId: 912070
+  widescreen: true
+- eventId:
+  - 1072296
+  - 912070
   start: 2026-11-29T10:15:00Z
   stop: 2026-11-29T11:00:00Z
   title: Africa Live
   subtitle: Informativni
   description: Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.
+  widescreen: true
 - eventId:
   - 1009483
   - 1013229
@@ -453,11 +487,13 @@
   - '32'
 - eventId: 901334
   start: 2026-11-29T11:00:00Z
-  stop: 2026-11-29T11:30:00Z
+  stop: 2026-11-29T12:00:00Z
   title: China News
   genre:
   - '32'
   subtitle: It concentrates on the latest news and social changes happening in china and all over the world
+  description: A TV news magazine show packed with top stories from around the world. The weekly program zooms in on the details of trending news items and zooms out to give viewers the bigger picture. With in-depth analysis and current perspective, Zoom in takes you on a journey beyond the daily headlines.
+  widescreen: true
 - eventId: 912071
   start: 2026-11-29T11:00:00Z
   stop: 2026-11-29T12:00:00Z
@@ -486,6 +522,7 @@
   - 1056151
   - 1061398
   - 1070526
+  - 1072919
   - 901362
   start: 2026-11-29T12:00:00Z
   stop: 2026-11-29T13:00:00Z
@@ -551,7 +588,7 @@
   description: "A weekly talk-show looking beyond the headlines and accepted wisdom to find the real story. Hosted by award-winning journalist and presenter Stephen Cole, The Agenda quite simply sets The Agenda . You won't find the same-old talking heads recycling platitudes; instead thought-provoking guests to debate and explore key issues of today's world. Using virtual reality graphics to bring subjects to life, Stephen will navigate through subjects ranging from Prove That Climate Change Exists to Who Will Win the Race to Space. Opposing views will be given opportunity to flourish and develop into a meaningful conversation. \nThe Agenda: No nonsense talk; Challenging perceptions."
 - eventId: 901365
   start: 2026-11-29T14:00:00Z
-  stop: 2026-11-29T14:45:00Z
+  stop: 2026-11-29T14:15:00Z
   title: News Desk
   genre:
   - '32'
@@ -575,6 +612,7 @@
   - 1056152
   - 1061399
   - 1070527
+  - 1072920
   - 901366
   start: 2026-11-29T14:15:00Z
   stop: 2026-11-29T15:00:00Z
@@ -613,6 +651,7 @@
   - 1055977
   - 1061408
   - 1070535
+  - 1072320
   - 901394
   start: 2026-11-29T15:00:00Z
   stop: 2026-11-29T15:15:00Z
@@ -638,6 +677,7 @@
   - 1055978
   - 1061409
   - 1070536
+  - 1072930
   - 901395
   start: 2026-11-29T15:15:00Z
   stop: 2026-11-29T16:00:00Z
@@ -681,10 +721,17 @@
   - 1055979
   - 1061410
   - 1070537
+  - 1072321
   - 901396
   start: 2026-11-29T16:00:00Z
   stop: 2026-11-29T16:15:00Z
   title: News Desk
+  genre:
+  - '32'
+- eventId: 1072931
+  start: 2026-11-29T16:15:00Z
+  stop: 2026-11-29T17:00:00Z
+  title: Travelogue
   genre:
   - '32'
 - eventId: 901397
@@ -702,7 +749,7 @@
   description: "CGTN's brand new science and technology show, covering cutting edge developments from all over the world. RAZOR will show you the world's most powerful laser and the world's smallest anti-cancer treatment. It will take you from the weird world of quantum computing to the boundaries of the cosmos. \nAn international team of reporters will follow the guidance of Occam's Razor - the principle that the simplest explanation is the best one. RAZOR will show that we are already \"\"living in the future\"!"
 - eventId: 901398
   start: 2026-11-29T17:00:00Z
-  stop: 2026-11-29T18:00:00Z
+  stop: 2026-11-29T17:30:00Z
   title: Health China
   genre:
   - '32'
@@ -726,6 +773,7 @@
   - 1055980
   - 1061411
   - 1070538
+  - 1072323
   - 901399
   start: 2026-11-29T17:30:00Z
   stop: 2026-11-29T18:00:00Z
@@ -817,7 +865,7 @@
   description: Travelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.
 - eventId: 901449
   start: 2026-11-29T21:00:00Z
-  stop: 2026-11-29T22:15:00Z
+  stop: 2026-11-29T21:15:00Z
   title: A Way to be a Super Star
   genre:
   - '32'
@@ -841,6 +889,7 @@
   - 1055885
   - 1061426
   - 1070562
+  - 1072951
   - 901450
   start: 2026-11-29T21:15:00Z
   stop: 2026-11-29T22:00:00Z
@@ -866,6 +915,7 @@
   - 1055886
   - 1061427
   - 1070563
+  - 1072346
   - 901451
   start: 2026-11-29T22:00:00Z
   stop: 2026-11-29T22:30:00Z
@@ -897,6 +947,12 @@
   stop: 2026-11-29T22:30:00Z
   title: Dreamchaser
   subtitle: The Dream Chaser Cargo System is an American reusable lifting body spaceplane being developed by Sierra Nevada Corporation Space Systems.
+- eventId: 1072952
+  start: 2026-11-29T22:30:00Z
+  stop: 2026-11-29T23:00:00Z
+  title: Crossover
+  genre:
+  - '32'
 - eventId: 901452
   start: 2026-11-29T22:30:00Z
   stop: 2026-11-29T23:30:00Z
@@ -917,6 +973,7 @@
   - 1055887
   - 1061428
   - 1070564
+  - 1072347
   - 901453
   start: 2026-11-29T23:00:00Z
   stop: 2026-11-29T23:30:00Z
