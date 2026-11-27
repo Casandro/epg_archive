@@ -93,6 +93,7 @@
   - 1032880
   - 1034345
   - 1037143
+  - 1042362
   - 831628
   - 984789
   - 987772
@@ -123,6 +124,7 @@
   - 1032883
   - 1034243
   - 1037868
+  - 1042363
   - 831650
   - 984736
   - 987803
@@ -156,6 +158,7 @@
   - 1034244
   - 1036794
   - 1037869
+  - 1042366
   - 940326
   - 955839
   - 973958
@@ -181,6 +184,7 @@
   - 1032885
   - 1034245
   - 1037870
+  - 1042367
   - 831651
   - 984738
   - 987805
@@ -217,7 +221,9 @@
   description: Some of the prophets of doom of the 60's whose warning went unheeded assess the Earth's current environmental fragility.
   genre:
   - '32'
-- eventId: 1037871
+- eventId:
+  - 1037871
+  - 1042368
   start: 2026-11-27T04:30:00Z
   stop: 2026-11-27T05:00:00Z
   title: Dying Earth
@@ -236,6 +242,14 @@
   description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
   genre:
   - '32'
+- eventId: 1042369
+  start: 2026-11-27T05:00:00Z
+  stop: 2026-11-27T05:30:00Z
+  title: News Live
+  subtitle: (katari hírműsor, 2026)
+  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
+  genre:
+  - '128'
 - eventId:
   - 1017716
   - 1021599
@@ -251,7 +265,9 @@
   description: In the final part of this special series, The Big Picture examines the rise of far-right politics in Israel and how its war on Gaza is sanctioned by the West.
   genre:
   - '32'
-- eventId: 1037872
+- eventId:
+  - 1037872
+  - 1042370
   start: 2026-11-27T05:30:00Z
   stop: 2026-11-27T06:00:00Z
   title: Inside Story
@@ -267,6 +283,7 @@
   - 1032890
   - 1034248
   - 1037878
+  - 1042357
   - 831670
   start: 2026-11-27T06:00:00Z
   stop: 2026-11-27T06:30:00Z
@@ -290,7 +307,9 @@
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
   genre:
   - '32'
-- eventId: 1037879
+- eventId:
+  - 1037879
+  - 1042358
   start: 2026-11-27T06:30:00Z
   stop: 2026-11-27T07:00:00Z
   title: Witness
@@ -321,11 +340,16 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
-- eventId: 1037880
+- eventId:
+  - 1037880
+  - 1042359
   start: 2026-11-27T07:00:00Z
   stop: 2026-11-27T08:00:00Z
   title: Newshour
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '128'
 - eventId:
   - 1000844
   - 1009168
