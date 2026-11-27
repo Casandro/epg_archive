@@ -306,24 +306,24 @@
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
-- eventId: 1048315
-  start: 2026-11-28T09:30:00Z
-  stop: 2026-11-28T10:00:00Z
-  title: UpFront
-  subtitle: Marc Lamont Hill speaks to author Eli Clifton about AIPAC's shrinking influence in the U.S.
-- eventId: 901055
+- eventId:
+  - 1048315
+  - 901055
   start: 2026-11-28T09:30:00Z
   stop: 2026-11-28T10:00:00Z
   title: Counting the Cost
-  genre:
-  - '32'
   subtitle: Frank, Blunt And Upfront, We Cut Through The Headlines To Get To The Heart Of The Matter With Influential Guests And Newsmakers.
   description: Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.
+  genre:
+  - '32'
 - eventId: 1048316
   start: 2026-11-28T10:00:00Z
-  stop: 2026-11-28T11:00:00Z
-  title: Newshour
+  stop: 2026-11-28T10:30:00Z
+  title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
+  description: Up-to-date news and analysis from around the world.
+  genre:
+  - '32'
 - eventId: 901056
   start: 2026-11-28T10:00:00Z
   stop: 2026-11-28T11:00:00Z
@@ -341,6 +341,7 @@
   - 1031040
   - 1036092
   - 1043094
+  - 1049236
   - 901057
   - 981244
   - 998400
@@ -356,7 +357,7 @@
   - 1048317
   - 901058
   start: 2026-11-28T11:00:00Z
-  stop: 2026-11-28T11:30:00Z
+  stop: 2026-11-28T12:00:00Z
   title: News Live
   genre:
   - '32'
@@ -385,7 +386,7 @@
   - 1048322
   - 901088
   start: 2026-11-28T12:00:00Z
-  stop: 2026-11-28T13:00:00Z
+  stop: 2026-11-28T12:30:00Z
   title: Al Jazeera World
   genre:
   - '32'
@@ -400,6 +401,7 @@
   - 1031045
   - 1036100
   - 1043101
+  - 1049244
   - 901089
   - 981248
   - 998405
@@ -424,7 +426,7 @@
   - 1048324
   - 901091
   start: 2026-11-28T14:00:00Z
-  stop: 2026-11-28T14:30:00Z
+  stop: 2026-11-28T15:00:00Z
   title: News Live
   genre:
   - '32'
