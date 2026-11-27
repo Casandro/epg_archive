@@ -1,6 +1,6 @@
 - eventId: 948394
   start: 2026-12-01T00:00:00Z
-  stop: 2026-12-01T00:05:00Z
+  stop: 2026-12-01T00:25:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
@@ -16,10 +16,32 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1056605
+  start: 2026-12-01T00:25:00Z
+  stop: 2026-12-01T00:28:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1056606
+  start: 2026-12-01T00:28:00Z
+  stop: 2026-12-01T00:30:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
 - eventId: 948396
   start: 2026-12-01T00:30:00Z
-  stop: 2026-12-01T00:35:00Z
-  title: Meteo
+  stop: 2026-12-01T00:40:00Z
+  title: Newsflash SRF 1
   subtitle: Spätausgabe
   genre:
   - '32'
@@ -40,7 +62,7 @@
   hd: true
 - eventId: 948398
   start: 2026-12-01T00:40:00Z
-  stop: 2026-12-01T00:45:00Z
+  stop: 2026-12-01T01:00:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
@@ -56,9 +78,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 948400
-  start: 2026-12-01T01:10:00Z
-  stop: 2026-12-01T01:15:00Z
+- eventId: 1056607
+  start: 2026-12-01T01:00:00Z
+  stop: 2026-12-01T01:05:00Z
   title: Meteo
   subtitle: Spätausgabe
   genre:
@@ -66,9 +88,9 @@
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 948401
-  start: 2026-12-01T01:15:00Z
-  stop: 2026-12-01T01:20:00Z
+- eventId: 1056608
+  start: 2026-12-01T01:05:00Z
+  stop: 2026-12-01T01:10:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -78,6 +100,29 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 948400
+  start: 2026-12-01T01:10:00Z
+  stop: 2026-12-01T01:15:00Z
+  title: Newsflash SRF 1
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 948401
+  start: 2026-12-01T01:15:00Z
+  stop: 2026-12-01T01:40:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+  subtitled: true
 - eventId: 948402
   start: 2026-12-01T01:20:00Z
   stop: 2026-12-01T01:25:00Z
@@ -96,6 +141,37 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1056609
+  start: 2026-12-01T01:40:00Z
+  stop: 2026-12-01T01:43:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1056610
+  start: 2026-12-01T01:43:00Z
+  stop: 2026-12-01T01:45:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 1056611
+  start: 2026-12-01T01:45:00Z
+  stop: 2026-12-01T01:55:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 948404
   start: 2026-12-01T01:50:00Z
   stop: 2026-12-01T01:55:00Z
@@ -108,7 +184,7 @@
   hd: true
 - eventId: 948405
   start: 2026-12-01T01:55:00Z
-  stop: 2026-12-01T02:00:00Z
+  stop: 2026-12-01T02:15:00Z
   title: Sportflash
   subtitle: Die Sportnews des Tages
   description: |-
@@ -118,6 +194,7 @@
   - '64'
   widescreen: true
   hd: true
+  subtitled: true
 - eventId: 948406
   start: 2026-12-01T02:00:00Z
   stop: 2026-12-01T02:05:00Z
@@ -136,10 +213,41 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1056612
+  start: 2026-12-01T02:15:00Z
+  stop: 2026-12-01T02:20:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1056613
+  start: 2026-12-01T02:20:00Z
+  stop: 2026-12-01T02:25:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 1056614
+  start: 2026-12-01T02:25:00Z
+  stop: 2026-12-01T02:30:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 948408
   start: 2026-12-01T02:30:00Z
-  stop: 2026-12-01T02:35:00Z
-  title: Meteo
+  stop: 2026-12-01T02:55:00Z
+  title: 10 vor 10
   subtitle: Spätausgabe
   genre:
   - '32'
@@ -170,6 +278,34 @@
 - eventId: 948411
   start: 2026-12-01T02:45:00Z
   stop: 2026-12-01T03:10:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1056615
+  start: 2026-12-01T02:55:00Z
+  stop: 2026-12-01T02:58:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1056617
+  start: 2026-12-01T03:00:00Z
+  stop: 2026-12-01T03:05:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1056618
+  start: 2026-12-01T03:05:00Z
+  stop: 2026-12-01T03:30:00Z
   title: 10 vor 10
   genre:
   - '32'
@@ -216,6 +352,46 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1056619
+  start: 2026-12-01T03:30:00Z
+  stop: 2026-12-01T03:35:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1056620
+  start: 2026-12-01T03:35:00Z
+  stop: 2026-12-01T03:40:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 1056621
+  start: 2026-12-01T03:40:00Z
+  stop: 2026-12-01T03:45:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1056622
+  start: 2026-12-01T03:45:00Z
+  stop: 2026-12-01T04:10:00Z
+  title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 948418
   start: 2026-12-01T03:50:00Z
   stop: 2026-12-01T03:55:00Z
@@ -251,6 +427,37 @@
   start: 2026-12-01T04:05:00Z
   stop: 2026-12-01T04:30:00Z
   title: 10 vor 10
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1056623
+  start: 2026-12-01T04:10:00Z
+  stop: 2026-12-01T04:13:00Z
+  title: Meteo
+  subtitle: Spätausgabe
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1056624
+  start: 2026-12-01T04:13:00Z
+  stop: 2026-12-01T04:15:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 1056625
+  start: 2026-12-01T04:15:00Z
+  stop: 2026-12-01T04:50:00Z
+  title: Newsflash SRF 1
   genre:
   - '32'
   widescreen: true
@@ -486,7 +693,7 @@
   hd: true
 - eventId: 960959
   start: 2026-12-01T11:55:00Z
-  stop: 2026-12-01T12:50:00Z
+  stop: 2026-12-01T12:45:00Z
   title: Sternstunde Kunst
   subtitle: Uns eine Zukunft bauen
   description: |-
@@ -494,6 +701,16 @@
     Schweiz 2023
   genre:
   - '112'
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1056871
+  start: 2026-12-01T12:45:00Z
+  stop: 2026-12-01T12:50:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
   widescreen: true
   subtitled: true
   hd: true
@@ -509,20 +726,31 @@
   hd: true
 - eventId: 960964
   start: 2026-12-01T12:55:00Z
-  stop: 2026-12-01T13:00:00Z
-  title: Meteo
-  subtitle: Mittagsausgabe
+  stop: 2026-12-01T13:35:00Z
+  title: Hin und weg
+  subtitle: Schweizer Liebesgeschichten aus aller Welt
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: "In Japan feiert Familie Tanaka-Nägele die ersten hundert Tage von Lily - aufwändig und voller Symbolik. In Schweden müssen Niklas und Florence einen grossen Rückschlag hinnehmen. Und in Costa Rica erzählt Rigo von seiner schwierigen Jugend, Lea macht sich auf die Suche nach Arbeit.  \nSchweiz 2026"
 - eventId: 960965
   start: 2026-12-01T13:00:00Z
   stop: 2026-12-01T13:40:00Z
   title: Hin und weg
   subtitle: Schweizer Liebesgeschichten aus aller Welt
   description: "In Japan feiert Familie Tanaka-Nägele die ersten hundert Tage von Lily - aufwändig und voller Symbolik. In Schweden müssen Niklas und Florence einen grossen Rückschlag hinnehmen. Und in Costa Rica erzählt Rigo von seiner schwierigen Jugend, Lea macht sich auf die Suche nach Arbeit.  \nSchweiz 2026"
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1056872
+  start: 2026-12-01T13:35:00Z
+  stop: 2026-12-01T13:40:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
   widescreen: true
   subtitled: true
   hd: true
@@ -538,14 +766,17 @@
   hd: true
 - eventId: 960967
   start: 2026-12-01T13:45:00Z
-  stop: 2026-12-01T13:50:00Z
-  title: Meteo
-  subtitle: Mittagsausgabe
+  stop: 2026-12-01T14:20:00Z
+  title: Eco Talk
+  subtitle: 'Spenden: Gut gemeint, aber auch gut gemacht?'
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Armut, Kriege, Hunger, Naturkatastrophen: Der Bedarf an Hilfe ist gross, die Spendengelder hingegen sind begrenzt. Wie gehen Hilfswerke damit um?
+    Schweiz 2026
 - eventId: 960968
   start: 2026-12-01T13:50:00Z
   stop: 2026-12-01T14:25:00Z
@@ -554,6 +785,16 @@
   description: |-
     Armut, Kriege, Hunger, Naturkatastrophen: Der Bedarf an Hilfe ist gross, die Spendengelder hingegen sind begrenzt. Wie gehen Hilfswerke damit um?
     Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1056873
+  start: 2026-12-01T14:20:00Z
+  stop: 2026-12-01T14:25:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
   widescreen: true
   subtitled: true
   hd: true
@@ -569,14 +810,17 @@
   hd: true
 - eventId: 960970
   start: 2026-12-01T14:30:00Z
-  stop: 2026-12-01T14:35:00Z
+  stop: 2026-12-01T15:05:00Z
   title: Meteo
-  subtitle: Mittagsausgabe
+  subtitle: Hospital at Home - Lieber zu Hause krank als im Spital?
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Menschen, die man eigentlich im Spital vermuten würde, werden immer häufiger in den eigenen vier Wänden behandelt. Das Konzept dahinter: «Hospital at Home» - Spital zu Hause. «Puls» begleitet Patientinnen und Patienten, Angehörige und Fachpersonen und fragt: Welche Zukunft hat das Konzept?
+    Schweiz 2026
 - eventId: 960971
   start: 2026-12-01T14:35:00Z
   stop: 2026-12-01T15:10:00Z
@@ -585,6 +829,16 @@
   description: |-
     Menschen, die man eigentlich im Spital vermuten würde, werden immer häufiger in den eigenen vier Wänden behandelt. Das Konzept dahinter: «Hospital at Home» - Spital zu Hause. «Puls» begleitet Patientinnen und Patienten, Angehörige und Fachpersonen und fragt: Welche Zukunft hat das Konzept?
     Schweiz 2026
+  widescreen: true
+  subtitled: true
+  hd: true
+- eventId: 1056874
+  start: 2026-12-01T15:05:00Z
+  stop: 2026-12-01T15:10:00Z
+  title: Tagesschau kompakt
+  subtitle: Mittagsausgabe
+  genre:
+  - '32'
   widescreen: true
   subtitled: true
   hd: true
@@ -600,14 +854,17 @@
   hd: true
 - eventId: 960975
   start: 2026-12-01T15:15:00Z
-  stop: 2026-12-01T15:20:00Z
-  title: Meteo
-  subtitle: Mittagsausgabe
+  stop: 2026-12-01T15:55:00Z
+  title: Eco Talk
+  subtitle: 'Spenden: Gut gemeint, aber auch gut gemacht?'
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
+  description: |-
+    Armut, Kriege, Hunger, Naturkatastrophen: Der Bedarf an Hilfe ist gross, die Spendengelder hingegen sind begrenzt. Wie gehen Hilfswerke damit um?
+    Schweiz 2026
 - eventId: 960976
   start: 2026-12-01T15:20:00Z
   stop: 2026-12-01T15:55:00Z
@@ -621,9 +878,9 @@
   hd: true
 - eventId: 979230
   start: 2026-12-01T15:55:00Z
-  stop: 2026-12-01T16:00:00Z
-  title: Meteo
-  subtitle: Mittagsausgabe
+  stop: 2026-12-01T17:00:00Z
+  title: 'Sternstunde Philosophie: Zimmer 42'
+  subtitle: mit Felizitas Ambauen
   genre:
   - '32'
   widescreen: true
@@ -898,16 +1155,16 @@
   hd: true
 - eventId: 979178
   start: 2026-12-01T23:00:00Z
-  stop: 2026-12-01T23:25:00Z
+  stop: 2026-12-01T23:20:00Z
   title: 10 vor 10
   genre:
   - '32'
   widescreen: true
   subtitled: true
   hd: true
-- eventId: 979179
-  start: 2026-12-01T23:25:00Z
-  stop: 2026-12-01T23:30:00Z
+- eventId: 1056875
+  start: 2026-12-01T23:20:00Z
+  stop: 2026-12-01T23:22:00Z
   title: Meteo
   subtitle: Spätausgabe
   genre:
@@ -915,6 +1172,31 @@
   widescreen: true
   subtitled: true
   hd: true
+- eventId: 1056876
+  start: 2026-12-01T23:22:00Z
+  stop: 2026-12-01T23:25:00Z
+  title: Sportflash
+  subtitle: Die Sportnews des Tages
+  description: |-
+    Aktionen, Reaktionen, Emotionen - der «Sportflash» bringt das Sportgeschehen aus aller Welt in wenigen Minuten auf den Punkt. Immer mit den wichtigsten News und den besten Bildern des Tages.
+    Schweiz 2026
+  genre:
+  - '64'
+  widescreen: true
+  hd: true
+- eventId: 979179
+  start: 2026-12-01T23:25:00Z
+  stop: 2026-12-01T23:45:00Z
+  title: Schweizer Cup - Highlights Männer
+  subtitle: Die besten Spiele, Szenen und Tore
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
+  description: |-
+    Runde für Runde schreibt der Schweizer Fussballcup seine eigenen Geschichten. Eine Sensation liegt in der Luft, wenn ein unterklassiger Verein einem Super-Ligisten ein Bein zu stellen versucht. Das Magazin bietet den Rundumservice mit den besten Spielen, Szenen und Toren der aktuellen Cup-Runde.
+    Schweiz 2026
 - eventId: 979180
   start: 2026-12-01T23:30:00Z
   stop: 2026-12-01T23:35:00Z
@@ -939,9 +1221,18 @@
   - '64'
   widescreen: true
   hd: true
+- eventId: 1056877
+  start: 2026-12-01T23:45:00Z
+  stop: 2026-12-01T23:55:00Z
+  title: Newsflash SRF 1
+  genre:
+  - '32'
+  widescreen: true
+  subtitled: true
+  hd: true
 - eventId: 979182
   start: 2026-12-01T23:55:00Z
-  stop: 2026-12-02T00:05:00Z
+  stop: 2026-12-02T00:20:00Z
   title: Newsflash SRF 1
   genre:
   - '32'
