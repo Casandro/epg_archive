@@ -63,6 +63,7 @@
   - 1055821
   - 1063967
   - 1069154
+  - 1084040
   - 900973
   start: 2026-11-28T01:00:00Z
   stop: 2026-11-28T02:00:00Z
@@ -95,6 +96,11 @@
   genre:
   - '32'
   description: News Hour is a flagship hourly news programme from Al Jazeera Media Network that delivers comprehensive global coverage of breaking developments, politics, business, climate, and human interest stories. Anchored by experienced journalists and supported by an extensive network of international correspondents, the show provides live updates, expert analysis, and in-depth reports. It connects audiences to events as they unfold, offering clarity, context, and multiple perspectives on the stories shaping the world each day. (2026)
+- eventId: 1084041
+  start: 2026-11-28T02:00:00Z
+  stop: 2026-11-28T03:00:00Z
+  title: Newshour
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId:
   - 1017552
   - 1021640
@@ -111,6 +117,7 @@
   - 1055829
   - 1063974
   - 1069158
+  - 1084044
   - 900984
   start: 2026-11-28T03:00:00Z
   stop: 2026-11-28T03:30:00Z
@@ -139,6 +146,7 @@
   - 1069159
   - 1070795
   - 1078435
+  - 1084045
   - 974085
   - 982032
   - 998867
@@ -166,6 +174,7 @@
   - 1055830
   - 1063976
   - 1069160
+  - 1084046
   - 900985
   start: 2026-11-28T04:00:00Z
   stop: 2026-11-28T04:30:00Z
@@ -198,12 +207,20 @@
   description: A decade after Colombia's peace accords, former FARC guerrilla and artist honours killed signatories with a mural.
   genre:
   - '32'
+- eventId: 1084047
+  start: 2026-11-28T04:30:00Z
+  stop: 2026-11-28T05:00:00Z
+  title: Witness
+  subtitle: (angol dokumentumfilm, 2026) - Columbia At A Crossroads
+  description: A decade after Colombia's peace accords, former FARC guerrilla and artist honours killed signatories with a mural.
+  genre:
+  - '144'
 - eventId:
   - 1052108
   - 1069162
   - 900987
   start: 2026-11-28T05:00:00Z
-  stop: 2026-11-29T05:00:00Z
+  stop: 2026-11-28T05:30:00Z
   title: AL JAZEERA ENGLISH
   genre:
   - '32'
@@ -216,6 +233,7 @@
   - 1055832
   - 1063978
   - 1069163
+  - 1084048
   - 900988
   start: 2026-11-28T05:30:00Z
   stop: 2026-11-28T06:00:00Z
@@ -231,6 +249,7 @@
   - 1055850
   - 1063981
   - 1069109
+  - 1084051
   - 901012
   start: 2026-11-28T06:00:00Z
   stop: 2026-11-28T06:30:00Z
@@ -238,12 +257,13 @@
   genre:
   - '32'
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
-  description: Up-to-date news and analysis from around the world.
+  description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
 - eventId:
   - 1048307
   - 1053298
   - 1063982
   - 1069110
+  - 1084052
   start: 2026-11-28T06:30:00Z
   stop: 2026-11-28T07:00:00Z
   title: Making Peace
@@ -277,6 +297,14 @@
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
+- eventId: 1084053
+  start: 2026-11-28T07:00:00Z
+  stop: 2026-11-28T08:00:00Z
+  title: Newshour
+  subtitle: (katari hírműsor, 2026)
+  description: Latest news and in-depth analysis from around the world.
+  genre:
+  - '128'
 - eventId:
   - 1000734
   - 1009353
