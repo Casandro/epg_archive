@@ -11,7 +11,9 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 1071799
+- eventId:
+  - 1071799
+  - 1091245
   start: 2026-11-29T00:49:00Z
   stop: 2026-11-29T02:14:00Z
   title: das aktuelle sportstudio
@@ -19,6 +21,8 @@
   genre:
   - '32'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 631310
   - 658734
@@ -66,6 +70,28 @@
   genre:
   - '112'
   widescreen: true
+- eventId: 1091246
+  start: 2026-11-29T02:14:00Z
+  stop: 2026-11-29T03:00:00Z
+  title: lebensArt
+  description: |-
+    GTA VI - Der Milliardenerfolg
+
+    Die Highlights der NESTROY-Gala
+
+    Ariadne auf Naxos
+
+    "Everytime" - Ein Trauerdrama auf Erfolgskurs
+
+    Buch Wien - Fünf Tage Literatur mit Schwerpunkt Ukraine
+
+    Moderation: Clarissa Stadler
+    HD-Produktion
+  genre:
+  - '112'
+  widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 631311
   - 658735
@@ -95,13 +121,17 @@
   widescreen: true
   hd: true
   audiodesc: true
-- eventId: 1071801
+- eventId:
+  - 1071801
+  - 1091247
   start: 2026-11-29T03:02:00Z
   stop: 2026-11-29T03:15:00Z
   title: Unterwegs in den hohen Tauern
   genre:
   - '32'
   widescreen: true
+  hd: true
+  audiodesc: true
 - eventId:
   - 543165
   - 605823
