@@ -22,6 +22,7 @@
   - 1055869
   - 1061371
   - 1070489
+  - 1073150
   - 901188
   start: 2026-11-29T00:15:00Z
   stop: 2026-11-29T01:00:00Z
@@ -99,6 +100,8 @@
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   widescreen: true
+  genre:
+  - '32'
 - eventId:
   - 1004872
   - 1012729
@@ -146,6 +149,8 @@
   subtitle: Dokumentarni
   description: Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.
   widescreen: true
+  genre:
+  - '32'
 - eventId:
   - 901272
   - 912048
@@ -179,16 +184,13 @@
   - 1055968
   - 1061378
   - 1070500
+  - 1072269
   - 901273
   start: 2026-11-29T03:30:00Z
   stop: 2026-11-29T04:00:00Z
   title: Closer to China with R.L.Kuhn
   genre:
   - '32'
-- eventId: 1072269
-  start: 2026-11-29T03:30:00Z
-  stop: 2026-11-29T04:00:00Z
-  title: Leaders Talk
   description: Leaders Talk is China Media Group's new current affairs program featuring one-on-one interviews with heads of state and high-ranking government officials and heads of international organizations.
   widescreen: true
 - eventId: 912050
@@ -239,6 +241,7 @@
   - 1055969
   - 1061379
   - 1070501
+  - 1073157
   - 901275
   start: 2026-11-29T04:30:00Z
   stop: 2026-11-29T05:00:00Z
@@ -247,7 +250,7 @@
   - '32'
 - eventId: 901276
   start: 2026-11-29T05:00:00Z
-  stop: 2026-11-29T06:00:00Z
+  stop: 2026-11-29T05:30:00Z
   title: International Depth
   genre:
   - '32'
@@ -260,6 +263,12 @@
   title: Full Frame
   subtitle: Informativni
   description: Full Frame enriches the lives of viewers through animated discussion of film, arts and culture, and social trends etc impacting a diverse global audience.
+- eventId: 1073158
+  start: 2026-11-29T05:30:00Z
+  stop: 2026-11-29T06:00:00Z
+  title: Dialogue
+  genre:
+  - '32'
 - eventId: 901277
   start: 2026-11-29T05:30:00Z
   stop: 2026-11-29T06:15:00Z
@@ -295,6 +304,8 @@
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   widescreen: true
+  genre:
+  - '32'
 - eventId:
   - 1004891
   - 1012740
@@ -325,7 +336,7 @@
   widescreen: true
 - eventId: 901306
   start: 2026-11-29T07:00:00Z
-  stop: 2026-11-29T07:30:00Z
+  stop: 2026-11-29T08:00:00Z
   title: Special Program for Opera
   genre:
   - '32'
@@ -399,6 +410,8 @@
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   widescreen: true
+  genre:
+  - '32'
 - eventId:
   - 1004901
   - 1012746
@@ -446,6 +459,8 @@
   subtitle: Dokumentarni
   description: Faces of Africa is a topical magazine that showcases the diversity of the continent.
   widescreen: true
+  genre:
+  - '32'
 - eventId:
   - 901332
   - 912069
@@ -479,6 +494,7 @@
   - 1056144
   - 1061390
   - 1070519
+  - 1073167
   - 901333
   start: 2026-11-29T10:30:00Z
   stop: 2026-11-29T11:00:00Z
@@ -487,7 +503,7 @@
   - '32'
 - eventId: 901334
   start: 2026-11-29T11:00:00Z
-  stop: 2026-11-29T12:00:00Z
+  stop: 2026-11-29T11:30:00Z
   title: China News
   genre:
   - '32'
@@ -509,6 +525,12 @@
   genre:
   - '32'
   subtitle: Brings media professionals, commentators and on-line opinion leaders into the studio to express views on current issues.
+- eventId: 1073168
+  start: 2026-11-29T11:30:00Z
+  stop: 2026-11-29T12:00:00Z
+  title: Faces of Africa
+  genre:
+  - '32'
 - eventId:
   - 1009489
   - 1013232

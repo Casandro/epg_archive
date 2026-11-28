@@ -16,6 +16,7 @@
   - 1055892
   - 1061434
   - 1070580
+  - 1072958
   - 953353
   start: 2026-11-30T00:15:00Z
   stop: 2026-11-30T01:00:00Z
@@ -80,9 +81,11 @@
   - 950677
   start: 2026-11-30T02:30:00Z
   stop: 2026-11-30T03:00:00Z
-  title: Travelogue
+  title: China Insight
   description: Travelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.
   widescreen: true
+  genre:
+  - '32'
 - eventId:
   - 1042966
   - 1049500
@@ -105,6 +108,8 @@
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   widescreen: true
+  genre:
+  - '32'
 - eventId:
   - 1038051
   - 1044249
@@ -142,6 +147,8 @@
   subtitle: Informativni
   description: The Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective.
   widescreen: true
+  genre:
+  - '32'
 - eventId:
   - 950686
   - 953379
@@ -210,6 +217,8 @@
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   widescreen: true
+  genre:
+  - '32'
 - eventId:
   - 1038059
   - 1044256
@@ -239,7 +248,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 953408
   start: 2026-11-30T07:00:00Z
-  stop: 2026-11-30T07:30:00Z
+  stop: 2026-11-30T08:00:00Z
   title: China's Public Opinion Field
   genre:
   - '32'
@@ -315,18 +324,14 @@
   - 1055905
   - 1061470
   - 1070610
+  - 1072376
+  - 950706
   - 953431
   start: 2026-11-30T09:30:00Z
   stop: 2026-11-30T10:00:00Z
   title: Sports Scene
   genre:
   - '32'
-- eventId:
-  - 1072376
-  - 950706
-  start: 2026-11-30T09:30:00Z
-  stop: 2026-11-30T10:00:00Z
-  title: The Vibe
   subtitle: Dokumentarni
   description: The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.
   widescreen: true
@@ -338,7 +343,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 953432
   start: 2026-11-30T10:00:00Z
-  stop: 2026-11-30T10:15:00Z
+  stop: 2026-11-30T11:00:00Z
   title: Global Business
   genre:
   - '32'
@@ -404,7 +409,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 953454
   start: 2026-11-30T12:00:00Z
-  stop: 2026-11-30T12:45:00Z
+  stop: 2026-11-30T13:00:00Z
   title: Africa Live
   genre:
   - '32'
@@ -461,7 +466,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 953457
   start: 2026-11-30T14:00:00Z
-  stop: 2026-11-30T14:45:00Z
+  stop: 2026-11-30T14:15:00Z
   title: News Desk
   genre:
   - '32'
@@ -473,6 +478,7 @@
   - 1055910
   - 1061478
   - 1070624
+  - 1072976
   - 953458
   start: 2026-11-30T14:15:00Z
   stop: 2026-11-30T15:00:00Z
@@ -519,6 +525,8 @@
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   widescreen: true
+  genre:
+  - '32'
 - eventId:
   - 1042995
   - 1049517
@@ -526,6 +534,7 @@
   - 1055918
   - 1061499
   - 1070333
+  - 1072981
   - 953482
   start: 2026-11-30T15:15:00Z
   stop: 2026-11-30T16:00:00Z
@@ -554,7 +563,7 @@
   description: The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.
 - eventId: 953483
   start: 2026-11-30T16:00:00Z
-  stop: 2026-11-30T17:00:00Z
+  stop: 2026-11-30T16:15:00Z
   title: Global Business
   genre:
   - '32'
@@ -568,6 +577,7 @@
   - 1055919
   - 1061500
   - 1070334
+  - 1072982
   - 953484
   start: 2026-11-30T16:15:00Z
   stop: 2026-11-30T17:00:00Z
@@ -608,7 +618,11 @@
   subtitle: Informativni
   description: Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.
   widescreen: true
-- eventId: 953486
+  genre:
+  - '32'
+- eventId:
+  - 1072983
+  - 953486
   start: 2026-11-30T17:30:00Z
   stop: 2026-11-30T18:00:00Z
   title: Culture Express
@@ -623,13 +637,19 @@
   description: Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.
 - eventId: 953508
   start: 2026-11-30T18:00:00Z
-  stop: 2026-11-30T19:00:00Z
+  stop: 2026-11-30T18:30:00Z
   title: Memory of China
   genre:
   - '32'
   subtitle: This is the first history program of China, this program unveils secrets of important historical events, mega projects and the untold stories behind those crucial decisions of this country.
   description: Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.
   widescreen: true
+- eventId: 1072988
+  start: 2026-11-30T18:30:00Z
+  stop: 2026-11-30T19:00:00Z
+  title: New Money
+  genre:
+  - '32'
 - eventId: 953509
   start: 2026-11-30T18:30:00Z
   stop: 2026-11-30T19:00:00Z
@@ -693,7 +713,7 @@
   description: Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.
 - eventId: 953537
   start: 2026-11-30T21:00:00Z
-  stop: 2026-11-30T21:45:00Z
+  stop: 2026-11-30T21:15:00Z
   title: On the Way
   genre:
   - '32'
@@ -705,6 +725,7 @@
   - 1055932
   - 1061523
   - 1070354
+  - 1072999
   - 953538
   start: 2026-11-30T21:15:00Z
   stop: 2026-11-30T22:00:00Z
@@ -748,6 +769,7 @@
   - 1055933
   - 1061524
   - 1070355
+  - 1073000
   - 953539
   start: 2026-11-30T22:00:00Z
   stop: 2026-11-30T22:30:00Z
