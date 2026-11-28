@@ -20,7 +20,7 @@
   widescreen: true
 - eventId: 1031714
   start: 2026-11-29T00:10:00Z
-  stop: 2026-11-29T00:13:00Z
+  stop: 2026-11-29T00:12:00Z
   title: Sim-Only
   subtitle: Werbung
   description: |-
@@ -28,7 +28,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031715
+- eventId:
+  - 1031715
+  - 1084379
   start: 2026-11-29T00:12:00Z
   stop: 2026-11-29T00:13:00Z
   title: Programmvorschau
@@ -36,7 +38,7 @@
   widescreen: true
 - eventId: 1031716
   start: 2026-11-29T00:13:00Z
-  stop: 2026-11-29T00:19:00Z
+  stop: 2026-11-29T00:14:00Z
   title: Sim-Only + Router TL MR-100
   subtitle: Werbung
   widescreen: true
@@ -45,25 +47,33 @@
 
 
     Sim-Only Angebot
-- eventId: 1031717
+- eventId:
+  - 1031717
+  - 1084380
   start: 2026-11-29T00:14:00Z
   stop: 2026-11-29T00:15:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031718
+- eventId:
+  - 1031718
+  - 1084381
   start: 2026-11-29T00:15:00Z
   stop: 2026-11-29T00:16:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031719
+- eventId:
+  - 1031719
+  - 1084382
   start: 2026-11-29T00:16:00Z
   stop: 2026-11-29T00:17:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031720
+- eventId:
+  - 1031720
+  - 1084383
   start: 2026-11-29T00:17:00Z
   stop: 2026-11-29T00:26:00Z
   title: Motorola Razr 70 Plus 5G 512GB
@@ -91,13 +101,17 @@
     Speichergröße: 256 GB
     Akku: 4985 mAh
   widescreen: true
-- eventId: 1031721
+- eventId:
+  - 1031721
+  - 1084384
   start: 2026-11-29T00:26:00Z
   stop: 2026-11-29T00:28:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 1031722
+- eventId:
+  - 1031722
+  - 1084385
   start: 2026-11-29T00:28:00Z
   stop: 2026-11-29T00:33:00Z
   title: Samsung Galaxy A37 5G 128GB
@@ -111,7 +125,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1031723
+- eventId:
+  - 1031723
+  - 1084386
   start: 2026-11-29T00:33:00Z
   stop: 2026-11-29T00:36:00Z
   title: Sim-Only
@@ -135,7 +151,9 @@
     Speichergröße: 256 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031724
+- eventId:
+  - 1031724
+  - 1084387
   start: 2026-11-29T00:36:00Z
   stop: 2026-11-29T00:43:00Z
   title: Sim-Only + Router TL MR-100
@@ -172,10 +190,18 @@
   widescreen: true
 - eventId: 1031725
   start: 2026-11-29T00:43:00Z
-  stop: 2026-11-29T00:44:00Z
-  title: Programmvorschau
+  stop: 2026-11-29T00:52:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
   subtitle: Werbung
   widescreen: true
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
 - eventId: 1031726
   start: 2026-11-29T00:44:00Z
   stop: 2026-11-29T00:52:00Z
@@ -204,6 +230,20 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
+- eventId: 1084388
+  start: 2026-11-29T00:55:00Z
+  stop: 2026-11-29T01:00:00Z
+  title: Xiaomi REDMI 17 256GB + Tablet
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 250 GB LTE / 5G im Vodafone Netz mtl. 20.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Grün, Blau
+
+    Display: 6,9"" (17,52cm) Hz
+    Speichergröße: 256 GB
+    Akku: 7500 mAh
+  widescreen: true
 - eventId: 1031727
   start: 2026-11-29T00:56:00Z
   stop: 2026-11-29T01:01:00Z
@@ -218,7 +258,15 @@
     Speichergröße: 256 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031728
+- eventId: 1084389
+  start: 2026-11-29T01:00:00Z
+  stop: 2026-11-29T01:01:00Z
+  title: Apple Teaser
+  subtitle: Werbung
+  widescreen: true
+- eventId:
+  - 1031728
+  - 1084390
   start: 2026-11-29T01:01:00Z
   stop: 2026-11-29T01:11:00Z
   title: Motorola Edge 70 Plus 5G 256GB
@@ -251,7 +299,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031729
+- eventId:
+  - 1031729
+  - 1084391
   start: 2026-11-29T01:11:00Z
   stop: 2026-11-29T01:18:00Z
   title: Sim-Only + Router TL MR-100
@@ -264,7 +314,7 @@
   widescreen: true
 - eventId: 1031730
   start: 2026-11-29T01:23:00Z
-  stop: 2026-11-29T01:32:00Z
+  stop: 2026-11-29T01:25:00Z
   title: Motorola Razr 70 Plus 5G 512GB
   subtitle: Werbung
   description: |-
@@ -276,37 +326,49 @@
     Speichergröße: 512 GB
     Akku: 4500 mAh
   widescreen: true
-- eventId: 1031731
+- eventId:
+  - 1031731
+  - 1084392
   start: 2026-11-29T01:25:00Z
   stop: 2026-11-29T01:26:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031732
+- eventId:
+  - 1031732
+  - 1084393
   start: 2026-11-29T01:26:00Z
   stop: 2026-11-29T01:27:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031733
+- eventId:
+  - 1031733
+  - 1084394
   start: 2026-11-29T01:27:00Z
   stop: 2026-11-29T01:28:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031734
+- eventId:
+  - 1031734
+  - 1084395
   start: 2026-11-29T01:28:00Z
   stop: 2026-11-29T01:29:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031735
+- eventId:
+  - 1031735
+  - 1084396
   start: 2026-11-29T01:29:00Z
   stop: 2026-11-29T01:30:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031736
+- eventId:
+  - 1031736
+  - 1084397
   start: 2026-11-29T01:30:00Z
   stop: 2026-11-29T01:39:00Z
   title: Motorola Razr 70 Plus 5G 512GB
@@ -340,7 +402,9 @@
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 1031738
+- eventId:
+  - 1031738
+  - 1084398
   start: 2026-11-29T01:41:00Z
   stop: 2026-11-29T01:46:00Z
   title: Samsung Galaxy A37 5G 128GB
@@ -374,7 +438,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1031759
+- eventId:
+  - 1031759
+  - 1084399
   start: 2026-11-29T01:46:00Z
   stop: 2026-11-29T01:49:00Z
   title: Sim-Only
@@ -386,7 +452,7 @@
   widescreen: true
 - eventId: 1031760
   start: 2026-11-29T01:49:00Z
-  stop: 2026-11-29T01:52:00Z
+  stop: 2026-11-29T01:56:00Z
   title: Sim-Only + Router TL MR-100
   subtitle: Werbung
   description: |-
@@ -411,6 +477,20 @@
   stop: 2026-11-29T01:57:00Z
   title: Apple Teaser
   subtitle: Werbung
+  widescreen: true
+- eventId: 1084400
+  start: 2026-11-29T01:56:00Z
+  stop: 2026-11-29T02:08:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
   widescreen: true
 - eventId: 1031762
   start: 2026-11-29T01:57:00Z
@@ -440,6 +520,20 @@
     Speichergröße: 256 GB
     Akku: 4985 mAh
   widescreen: true
+- eventId: 1084401
+  start: 2026-11-29T02:08:00Z
+  stop: 2026-11-29T02:13:00Z
+  title: Xiaomi REDMI 17 256GB + Tablet
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 250 GB LTE / 5G im Vodafone Netz mtl. 20.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Grün, Blau
+
+    Display: 6,9"" (17,52cm) Hz
+    Speichergröße: 256 GB
+    Akku: 7500 mAh
+  widescreen: true
 - eventId: 1031763
   start: 2026-11-29T02:09:00Z
   stop: 2026-11-29T02:14:00Z
@@ -454,9 +548,15 @@
     Speichergröße: 256 GB
     Akku: 7500 mAh
   widescreen: true
+- eventId: 1084402
+  start: 2026-11-29T02:13:00Z
+  stop: 2026-11-29T02:14:00Z
+  title: Apple Teaser
+  subtitle: Werbung
+  widescreen: true
 - eventId: 1031764
   start: 2026-11-29T02:14:00Z
-  stop: 2026-11-29T02:19:00Z
+  stop: 2026-11-29T02:24:00Z
   title: Motorola Edge 70 Plus 5G 256GB
   subtitle: Werbung
   description: |-
@@ -502,7 +602,7 @@
   widescreen: true
 - eventId: 1031765
   start: 2026-11-29T02:24:00Z
-  stop: 2026-11-29T02:32:00Z
+  stop: 2026-11-29T02:30:00Z
   title: Motorola Edge 70 Plus 5G 256GB
   subtitle: Werbung
   description: |-
@@ -516,7 +616,9 @@
     Speichergröße: 256 GB
     Akku: 6500 mAh
   widescreen: true
-- eventId: 1031766
+- eventId:
+  - 1031766
+  - 1084403
   start: 2026-11-29T02:30:00Z
   stop: 2026-11-29T02:35:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
@@ -544,7 +646,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1031767
+- eventId:
+  - 1031767
+  - 1084404
   start: 2026-11-29T02:35:00Z
   stop: 2026-11-29T02:38:00Z
   title: Sim-Only
@@ -554,7 +658,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031768
+- eventId:
+  - 1031768
+  - 1084405
   start: 2026-11-29T02:38:00Z
   stop: 2026-11-29T02:41:00Z
   title: Handystar Service
@@ -586,7 +692,7 @@
   widescreen: true
 - eventId: 1031773
   start: 2026-11-29T02:45:00Z
-  stop: 2026-11-29T02:48:00Z
+  stop: 2026-11-29T02:54:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
@@ -601,7 +707,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031774
+- eventId:
+  - 1031774
+  - 1084406
   start: 2026-11-29T02:54:00Z
   stop: 2026-11-29T02:56:00Z
   title: Tarif mit Beigabe Teaser
@@ -621,7 +729,9 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 1031775
+- eventId:
+  - 1031775
+  - 1084407
   start: 2026-11-29T02:56:00Z
   stop: 2026-11-29T03:01:00Z
   title: Samsung Galaxy A37 5G 128GB
@@ -645,7 +755,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031779
+- eventId:
+  - 1031779
+  - 1084408
   start: 2026-11-29T03:01:00Z
   stop: 2026-11-29T03:04:00Z
   title: Sim-Only
@@ -669,7 +781,9 @@
     Speichergröße: 512 GB
     Akku: 4500 mAh
   widescreen: true
-- eventId: 1031780
+- eventId:
+  - 1031780
+  - 1084409
   start: 2026-11-29T03:04:00Z
   stop: 2026-11-29T03:11:00Z
   title: Sim-Only + Router TL MR-100
@@ -685,6 +799,20 @@
   stop: 2026-11-29T03:12:00Z
   title: Apple Teaser
   subtitle: Werbung
+  widescreen: true
+- eventId: 1084410
+  start: 2026-11-29T03:11:00Z
+  stop: 2026-11-29T03:23:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
   widescreen: true
 - eventId: 1031782
   start: 2026-11-29T03:12:00Z
@@ -709,7 +837,7 @@
 - eventId: 1043735
   start: 2026-11-29T03:24:00Z
   stop: 2026-11-29T03:29:00Z
-  title: Samsung Galaxy A37 5G 128GB
+  title: Xiaomi REDMI 17 256GB + Tablet
   subtitle: Werbung
   description: |-
     - Allnet Flat 150 GB LTE / 5G im Vodafone Netz mtl. 15.00 ¤
@@ -736,15 +864,17 @@
   widescreen: true
 - eventId: 1043736
   start: 2026-11-29T03:29:00Z
-  stop: 2026-11-29T03:32:00Z
-  title: Sim-Only
+  stop: 2026-11-29T03:30:00Z
+  title: Apple Teaser
   subtitle: Werbung
   description: |-
     - HIGH Allnet Flat 30 GB 5G im Telekom Netz mtl. 8.99 ¤
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031784
+- eventId:
+  - 1031784
+  - 1084411
   start: 2026-11-29T03:30:00Z
   stop: 2026-11-29T03:39:00Z
   title: Motorola Edge 70 Plus 5G 256GB
@@ -773,7 +903,7 @@
   widescreen: true
 - eventId: 1031785
   start: 2026-11-29T03:39:00Z
-  stop: 2026-11-29T03:51:00Z
+  stop: 2026-11-29T03:46:00Z
   title: Sim-Only + Router TL MR-100
   subtitle: Werbung
   description: |-
@@ -785,7 +915,9 @@
     Speichergröße: 256 GB
     Akku: 4985 mAh
   widescreen: true
-- eventId: 1031786
+- eventId:
+  - 1031786
+  - 1084412
   start: 2026-11-29T03:46:00Z
   stop: 2026-11-29T03:51:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
@@ -811,7 +943,7 @@
   widescreen: true
 - eventId: 1031788
   start: 2026-11-29T03:54:00Z
-  stop: 2026-11-29T03:59:00Z
+  stop: 2026-11-29T03:55:00Z
   title: Xiaomi REDMI 17 256GB + Tablet
   subtitle: Werbung
   widescreen: true
@@ -823,25 +955,33 @@
     Display: 6,9"" (17,52cm) Hz
     Speichergröße: 256 GB
     Akku: 7500 mAh
-- eventId: 1031789
+- eventId:
+  - 1031789
+  - 1084413
   start: 2026-11-29T03:55:00Z
   stop: 2026-11-29T03:56:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031790
+- eventId:
+  - 1031790
+  - 1084414
   start: 2026-11-29T03:56:00Z
   stop: 2026-11-29T03:57:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031791
+- eventId:
+  - 1031791
+  - 1084415
   start: 2026-11-29T03:57:00Z
   stop: 2026-11-29T03:58:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031792
+- eventId:
+  - 1031792
+  - 1084416
   start: 2026-11-29T03:58:00Z
   stop: 2026-11-29T04:07:00Z
   title: Programmvorschau
@@ -889,13 +1029,17 @@
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031793
+- eventId:
+  - 1031793
+  - 1084417
   start: 2026-11-29T04:07:00Z
   stop: 2026-11-29T04:09:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 1031794
+- eventId:
+  - 1031794
+  - 1084418
   start: 2026-11-29T04:09:00Z
   stop: 2026-11-29T04:14:00Z
   title: Samsung Galaxy A37 5G 128GB
@@ -911,7 +1055,7 @@
   widescreen: true
 - eventId: 1031795
   start: 2026-11-29T04:14:00Z
-  stop: 2026-11-29T04:24:00Z
+  stop: 2026-11-29T04:17:00Z
   title: Samsung Galaxy A17
   subtitle: Werbung
   description: |-
@@ -923,7 +1067,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1031796
+- eventId:
+  - 1031796
+  - 1084419
   start: 2026-11-29T04:17:00Z
   stop: 2026-11-29T04:24:00Z
   title: Sim-Only + Router TL MR-100
@@ -936,10 +1082,18 @@
   widescreen: true
 - eventId: 1031797
   start: 2026-11-29T04:24:00Z
-  stop: 2026-11-29T04:25:00Z
-  title: Apple Teaser
+  stop: 2026-11-29T04:37:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
   subtitle: Werbung
   widescreen: true
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
 - eventId: 1031798
   start: 2026-11-29T04:25:00Z
   stop: 2026-11-29T04:38:00Z
@@ -1001,15 +1155,17 @@
   widescreen: true
 - eventId: 1043748
   start: 2026-11-29T04:42:00Z
-  stop: 2026-11-29T04:45:00Z
-  title: Sim-Only
+  stop: 2026-11-29T04:43:00Z
+  title: Apple Teaser
   subtitle: Werbung
   description: |-
     - HIGH Allnet Flat 30 GB 5G im Telekom Netz mtl. 8.99 ¤
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031800
+- eventId:
+  - 1031800
+  - 1084420
   start: 2026-11-29T04:43:00Z
   stop: 2026-11-29T04:52:00Z
   title: Motorola Edge 70 Plus 5G 256GB
@@ -1039,7 +1195,9 @@
     Speichergröße: 512 GB
     Akku: 4500 mAh
   widescreen: true
-- eventId: 1031801
+- eventId:
+  - 1031801
+  - 1084421
   start: 2026-11-29T04:52:00Z
   stop: 2026-11-29T04:59:00Z
   title: Sim-Only + Router TL MR-100
@@ -1064,7 +1222,9 @@
     Speichergröße: 128 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031822
+- eventId:
+  - 1031822
+  - 1084422
   start: 2026-11-29T04:59:00Z
   stop: 2026-11-29T05:04:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
@@ -1078,7 +1238,9 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 1031823
+- eventId:
+  - 1031823
+  - 1084423
   start: 2026-11-29T05:04:00Z
   stop: 2026-11-29T05:07:00Z
   title: Sim-Only
@@ -1108,25 +1270,33 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1031824
+- eventId:
+  - 1031824
+  - 1084424
   start: 2026-11-29T05:07:00Z
   stop: 2026-11-29T05:08:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031825
+- eventId:
+  - 1031825
+  - 1084425
   start: 2026-11-29T05:08:00Z
   stop: 2026-11-29T05:09:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031826
+- eventId:
+  - 1031826
+  - 1084426
   start: 2026-11-29T05:09:00Z
   stop: 2026-11-29T05:10:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031827
+- eventId:
+  - 1031827
+  - 1084427
   start: 2026-11-29T05:10:00Z
   stop: 2026-11-29T05:11:00Z
   title: Programmvorschau
@@ -1134,7 +1304,7 @@
   widescreen: true
 - eventId: 1031828
   start: 2026-11-29T05:11:00Z
-  stop: 2026-11-29T05:14:00Z
+  stop: 2026-11-29T05:20:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
@@ -1153,7 +1323,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031829
+- eventId:
+  - 1031829
+  - 1084428
   start: 2026-11-29T05:20:00Z
   stop: 2026-11-29T05:22:00Z
   title: Tarif mit Beigabe Teaser
@@ -1173,7 +1345,9 @@
     Speichergröße: 256 GB
     Akku: 4985 mAh
   widescreen: true
-- eventId: 1031830
+- eventId:
+  - 1031830
+  - 1084429
   start: 2026-11-29T05:22:00Z
   stop: 2026-11-29T05:27:00Z
   title: Samsung Galaxy A37 5G 128GB
@@ -1187,7 +1361,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1031831
+- eventId:
+  - 1031831
+  - 1084430
   start: 2026-11-29T05:27:00Z
   stop: 2026-11-29T05:30:00Z
   title: Sim-Only
@@ -1197,7 +1373,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031832
+- eventId:
+  - 1031832
+  - 1084431
   start: 2026-11-29T05:30:00Z
   stop: 2026-11-29T05:37:00Z
   title: Sim-Only + Router TL MR-100
@@ -1227,6 +1405,20 @@
   stop: 2026-11-29T05:38:00Z
   title: Apple Teaser
   subtitle: Werbung
+  widescreen: true
+- eventId: 1084432
+  start: 2026-11-29T05:37:00Z
+  stop: 2026-11-29T05:45:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
   widescreen: true
 - eventId: 1031834
   start: 2026-11-29T05:38:00Z
@@ -1288,6 +1480,20 @@
     Speichergröße: 256 GB
     Akku: 6500 mAh
   widescreen: true
+- eventId: 1084433
+  start: 2026-11-29T05:50:00Z
+  stop: 2026-11-29T05:55:00Z
+  title: Xiaomi REDMI 17 256GB + Tablet
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 250 GB LTE / 5G im Vodafone Netz mtl. 20.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Grün, Blau
+
+    Display: 6,9"" (17,52cm) Hz
+    Speichergröße: 256 GB
+    Akku: 7500 mAh
+  widescreen: true
 - eventId: 1031835
   start: 2026-11-29T05:51:00Z
   stop: 2026-11-29T05:56:00Z
@@ -1316,7 +1522,15 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1031836
+- eventId: 1084434
+  start: 2026-11-29T05:55:00Z
+  stop: 2026-11-29T05:56:00Z
+  title: Apple Teaser
+  subtitle: Werbung
+  widescreen: true
+- eventId:
+  - 1031836
+  - 1084435
   start: 2026-11-29T05:56:00Z
   stop: 2026-11-29T06:05:00Z
   title: Motorola Edge 70 Plus 5G 256GB
@@ -1332,7 +1546,9 @@
     Speichergröße: 256 GB
     Akku: 6500 mAh
   widescreen: true
-- eventId: 1031840
+- eventId:
+  - 1031840
+  - 1084436
   start: 2026-11-29T06:05:00Z
   stop: 2026-11-29T06:12:00Z
   title: Sim-Only + Router TL MR-100
@@ -1360,7 +1576,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031841
+- eventId:
+  - 1031841
+  - 1084437
   start: 2026-11-29T06:12:00Z
   stop: 2026-11-29T06:17:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
@@ -1376,7 +1594,7 @@
   widescreen: true
 - eventId: 1031842
   start: 2026-11-29T06:17:00Z
-  stop: 2026-11-29T06:22:00Z
+  stop: 2026-11-29T06:20:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
   subtitle: Werbung
   description: |-
@@ -1388,7 +1606,9 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 1031843
+- eventId:
+  - 1031843
+  - 1084438
   start: 2026-11-29T06:20:00Z
   stop: 2026-11-29T06:22:00Z
   title: Handystar Service
@@ -1396,7 +1616,7 @@
   widescreen: true
 - eventId: 1031844
   start: 2026-11-29T06:22:00Z
-  stop: 2026-11-29T06:24:00Z
+  stop: 2026-11-29T06:23:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
@@ -1404,7 +1624,9 @@
     - HIGH Allnet Flat 30 GB 5G im Telekom Netz mtl. 8.99 ¤
 
     Sim-Only Angebot
-- eventId: 1031845
+- eventId:
+  - 1031845
+  - 1084439
   start: 2026-11-29T06:23:00Z
   stop: 2026-11-29T06:24:00Z
   title: Programmvorschau
@@ -1450,13 +1672,17 @@
     Speichergröße: 128 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031849
+- eventId:
+  - 1031849
+  - 1084440
   start: 2026-11-29T06:36:00Z
   stop: 2026-11-29T06:38:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 1031850
+- eventId:
+  - 1031850
+  - 1084441
   start: 2026-11-29T06:38:00Z
   stop: 2026-11-29T06:43:00Z
   title: Samsung Galaxy A37 5G 128GB
@@ -1470,7 +1696,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1031851
+- eventId:
+  - 1031851
+  - 1084442
   start: 2026-11-29T06:43:00Z
   stop: 2026-11-29T06:46:00Z
   title: Sim-Only
@@ -1488,7 +1716,7 @@
   widescreen: true
 - eventId: 1031852
   start: 2026-11-29T06:46:00Z
-  stop: 2026-11-29T06:51:00Z
+  stop: 2026-11-29T06:53:00Z
   title: Sim-Only + Router TL MR-100
   subtitle: Werbung
   description: |-
@@ -1515,6 +1743,20 @@
   stop: 2026-11-29T06:54:00Z
   title: Apple Teaser
   subtitle: Werbung
+  widescreen: true
+- eventId: 1084443
+  start: 2026-11-29T06:53:00Z
+  stop: 2026-11-29T07:01:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
   widescreen: true
 - eventId: 1031854
   start: 2026-11-29T06:54:00Z
@@ -1544,6 +1786,20 @@
     Speichergröße: 256 GB
     Akku: 4985 mAh
   widescreen: true
+- eventId: 1084444
+  start: 2026-11-29T07:05:00Z
+  stop: 2026-11-29T07:10:00Z
+  title: Xiaomi REDMI 17 256GB + Tablet
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 250 GB LTE / 5G im Vodafone Netz mtl. 20.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Grün, Blau
+
+    Display: 6,9"" (17,52cm) Hz
+    Speichergröße: 256 GB
+    Akku: 7500 mAh
+  widescreen: true
 - eventId: 1031855
   start: 2026-11-29T07:06:00Z
   stop: 2026-11-29T07:11:00Z
@@ -1558,7 +1814,15 @@
     Speichergröße: 256 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031856
+- eventId: 1084445
+  start: 2026-11-29T07:10:00Z
+  stop: 2026-11-29T07:11:00Z
+  title: Apple Teaser
+  subtitle: Werbung
+  widescreen: true
+- eventId:
+  - 1031856
+  - 1084446
   start: 2026-11-29T07:11:00Z
   stop: 2026-11-29T07:21:00Z
   title: Motorola Edge 70 Plus 5G 256GB
@@ -1590,7 +1854,7 @@
   widescreen: true
 - eventId: 1031857
   start: 2026-11-29T07:21:00Z
-  stop: 2026-11-29T07:22:00Z
+  stop: 2026-11-29T07:27:00Z
   title: Sim-Only + Router TL MR-100
   subtitle: Werbung
   description: |-
@@ -1623,7 +1887,9 @@
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031858
+- eventId:
+  - 1031858
+  - 1084447
   start: 2026-11-29T07:27:00Z
   stop: 2026-11-29T07:32:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
@@ -1637,7 +1903,9 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 1031859
+- eventId:
+  - 1031859
+  - 1084448
   start: 2026-11-29T07:32:00Z
   stop: 2026-11-29T07:35:00Z
   title: Sim-Only
@@ -1661,31 +1929,41 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1031860
+- eventId:
+  - 1031860
+  - 1084449
   start: 2026-11-29T07:35:00Z
   stop: 2026-11-29T07:36:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031861
+- eventId:
+  - 1031861
+  - 1084450
   start: 2026-11-29T07:36:00Z
   stop: 2026-11-29T07:37:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031862
+- eventId:
+  - 1031862
+  - 1084451
   start: 2026-11-29T07:37:00Z
   stop: 2026-11-29T07:38:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031863
+- eventId:
+  - 1031863
+  - 1084452
   start: 2026-11-29T07:38:00Z
   stop: 2026-11-29T07:39:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031864
+- eventId:
+  - 1031864
+  - 1084453
   start: 2026-11-29T07:39:00Z
   stop: 2026-11-29T07:49:00Z
   title: Programmvorschau
@@ -1697,7 +1975,9 @@
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 1031865
+- eventId:
+  - 1031865
+  - 1084454
   start: 2026-11-29T07:49:00Z
   stop: 2026-11-29T07:51:00Z
   title: Tarif mit Beigabe Teaser
@@ -1714,7 +1994,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031866
+- eventId:
+  - 1031866
+  - 1084455
   start: 2026-11-29T07:51:00Z
   stop: 2026-11-29T07:56:00Z
   title: Samsung Galaxy A37 5G 128GB
@@ -1730,7 +2012,7 @@
   widescreen: true
 - eventId: 1031883
   start: 2026-11-29T07:56:00Z
-  stop: 2026-11-29T08:01:00Z
+  stop: 2026-11-29T07:59:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
   subtitle: Werbung
   description: |-
@@ -1742,7 +2024,9 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 1031884
+- eventId:
+  - 1031884
+  - 1084456
   start: 2026-11-29T07:59:00Z
   stop: 2026-11-29T08:06:00Z
   title: Sim-Only + Router TL MR-100
@@ -1783,6 +2067,20 @@
     Speichergröße: 128 GB
     Akku: 7500 mAh
   widescreen: true
+- eventId: 1084457
+  start: 2026-11-29T08:18:00Z
+  stop: 2026-11-29T08:23:00Z
+  title: Xiaomi REDMI 17 256GB + Tablet
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 250 GB LTE / 5G im Vodafone Netz mtl. 20.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Grün, Blau
+
+    Display: 6,9"" (17,52cm) Hz
+    Speichergröße: 256 GB
+    Akku: 7500 mAh
+  widescreen: true
 - eventId: 1031886
   start: 2026-11-29T08:19:00Z
   stop: 2026-11-29T08:24:00Z
@@ -1797,7 +2095,15 @@
     Speichergröße: 256 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031887
+- eventId: 1084458
+  start: 2026-11-29T08:23:00Z
+  stop: 2026-11-29T08:24:00Z
+  title: Apple Teaser
+  subtitle: Werbung
+  widescreen: true
+- eventId:
+  - 1031887
+  - 1084459
   start: 2026-11-29T08:24:00Z
   stop: 2026-11-29T08:34:00Z
   title: Motorola Edge 70 Plus 5G 256GB
@@ -1845,7 +2151,7 @@
   widescreen: true
 - eventId: 1031888
   start: 2026-11-29T08:34:00Z
-  stop: 2026-11-29T08:41:00Z
+  stop: 2026-11-29T08:40:00Z
   title: Sim-Only + Router TL MR-100
   subtitle: Werbung
   description: |-
@@ -1854,7 +2160,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031889
+- eventId:
+  - 1031889
+  - 1084460
   start: 2026-11-29T08:40:00Z
   stop: 2026-11-29T08:45:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
@@ -1882,7 +2190,9 @@
     Speichergröße: 256 GB
     Akku: 4985 mAh
   widescreen: true
-- eventId: 1031890
+- eventId:
+  - 1031890
+  - 1084461
   start: 2026-11-29T08:45:00Z
   stop: 2026-11-29T08:48:00Z
   title: Sim-Only
@@ -1892,19 +2202,25 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031891
+- eventId:
+  - 1031891
+  - 1084462
   start: 2026-11-29T08:48:00Z
   stop: 2026-11-29T08:49:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031892
+- eventId:
+  - 1031892
+  - 1084463
   start: 2026-11-29T08:49:00Z
   stop: 2026-11-29T08:50:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031893
+- eventId:
+  - 1031893
+  - 1084464
   start: 2026-11-29T08:50:00Z
   stop: 2026-11-29T08:51:00Z
   title: Programmvorschau
@@ -1916,7 +2232,9 @@
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031895
+- eventId:
+  - 1031895
+  - 1084465
   start: 2026-11-29T08:52:00Z
   stop: 2026-11-29T09:02:00Z
   title: Programmvorschau
@@ -1942,7 +2260,9 @@
   title: Handystar Service
   subtitle: Werbung
   widescreen: true
-- eventId: 1031903
+- eventId:
+  - 1031903
+  - 1084466
   start: 2026-11-29T09:02:00Z
   stop: 2026-11-29T09:04:00Z
   title: Tarif mit Beigabe Teaser
@@ -1956,7 +2276,7 @@
   widescreen: true
 - eventId: 1031904
   start: 2026-11-29T09:04:00Z
-  stop: 2026-11-29T09:05:00Z
+  stop: 2026-11-29T09:09:00Z
   title: Samsung Galaxy A37 5G 128GB
   subtitle: Werbung
   description: |-
@@ -2002,7 +2322,9 @@
     Speichergröße: 256 GB
     Akku: 6500 mAh
   widescreen: true
-- eventId: 1031905
+- eventId:
+  - 1031905
+  - 1084467
   start: 2026-11-29T09:09:00Z
   stop: 2026-11-29T09:12:00Z
   title: Sim-Only
@@ -2012,7 +2334,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031906
+- eventId:
+  - 1031906
+  - 1084468
   start: 2026-11-29T09:12:00Z
   stop: 2026-11-29T09:19:00Z
   title: Sim-Only + Router TL MR-100
@@ -2043,6 +2367,20 @@
   title: Apple Teaser
   subtitle: Werbung
   widescreen: true
+- eventId: 1084469
+  start: 2026-11-29T09:19:00Z
+  stop: 2026-11-29T09:29:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
+  widescreen: true
 - eventId: 1031908
   start: 2026-11-29T09:20:00Z
   stop: 2026-11-29T09:32:00Z
@@ -2063,6 +2401,20 @@
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
+- eventId: 1084470
+  start: 2026-11-29T09:31:00Z
+  stop: 2026-11-29T09:36:00Z
+  title: Xiaomi REDMI 17 256GB + Tablet
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 250 GB LTE / 5G im Vodafone Netz mtl. 20.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Grün, Blau
+
+    Display: 6,9"" (17,52cm) Hz
+    Speichergröße: 256 GB
+    Akku: 7500 mAh
+  widescreen: true
 - eventId: 1031909
   start: 2026-11-29T09:32:00Z
   stop: 2026-11-29T09:39:00Z
@@ -2077,7 +2429,15 @@
     Speichergröße: 256 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031910
+- eventId: 1084471
+  start: 2026-11-29T09:36:00Z
+  stop: 2026-11-29T09:37:00Z
+  title: Apple Teaser
+  subtitle: Werbung
+  widescreen: true
+- eventId:
+  - 1031910
+  - 1084472
   start: 2026-11-29T09:53:00Z
   stop: 2026-11-29T09:58:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
@@ -2105,7 +2465,9 @@
     Speichergröße: 128 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031911
+- eventId:
+  - 1031911
+  - 1084473
   start: 2026-11-29T09:58:00Z
   stop: 2026-11-29T10:01:00Z
   title: Sim-Only
@@ -2115,7 +2477,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031912
+- eventId:
+  - 1031912
+  - 1084474
   start: 2026-11-29T10:01:00Z
   stop: 2026-11-29T10:04:00Z
   title: Handystar Service
@@ -2147,7 +2511,7 @@
   widescreen: true
 - eventId: 1031917
   start: 2026-11-29T10:08:00Z
-  stop: 2026-11-29T10:13:00Z
+  stop: 2026-11-29T10:17:00Z
   title: Samsung Galaxy A37 5G 128GB
   subtitle: Werbung
   widescreen: true
@@ -2180,13 +2544,17 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031918
+- eventId:
+  - 1031918
+  - 1084475
   start: 2026-11-29T10:17:00Z
   stop: 2026-11-29T10:19:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 1031919
+- eventId:
+  - 1031919
+  - 1084476
   start: 2026-11-29T10:19:00Z
   stop: 2026-11-29T10:24:00Z
   title: Samsung Galaxy A37 5G 128GB
@@ -2214,7 +2582,9 @@
     Speichergröße: 256 GB
     Akku: 4985 mAh
   widescreen: true
-- eventId: 1031920
+- eventId:
+  - 1031920
+  - 1084477
   start: 2026-11-29T10:24:00Z
   stop: 2026-11-29T10:27:00Z
   title: Sim-Only
@@ -2224,7 +2594,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031921
+- eventId:
+  - 1031921
+  - 1084478
   start: 2026-11-29T10:27:00Z
   stop: 2026-11-29T10:34:00Z
   title: Sim-Only + Router TL MR-100
@@ -2261,10 +2633,18 @@
   widescreen: true
 - eventId: 1043799
   start: 2026-11-29T10:46:00Z
-  stop: 2026-11-29T10:47:00Z
-  title: Programmvorschau
+  stop: 2026-11-29T10:51:00Z
+  title: Xiaomi REDMI 17 256GB + Tablet
   subtitle: Werbung
   widescreen: true
+  description: |-
+    - Allnet Flat 250 GB LTE / 5G im Vodafone Netz mtl. 20.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Grün, Blau
+
+    Display: 6,9"" (17,52cm) Hz
+    Speichergröße: 256 GB
+    Akku: 7500 mAh
 - eventId: 1031923
   start: 2026-11-29T10:47:00Z
   stop: 2026-11-29T10:56:00Z
@@ -2279,7 +2659,15 @@
     Speichergröße: 256 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031924
+- eventId: 1084479
+  start: 2026-11-29T10:51:00Z
+  stop: 2026-11-29T10:52:00Z
+  title: Apple Teaser
+  subtitle: Werbung
+  widescreen: true
+- eventId:
+  - 1031924
+  - 1084480
   start: 2026-11-29T10:52:00Z
   stop: 2026-11-29T11:02:00Z
   title: Motorola Edge 70 Plus 5G 256GB
@@ -2309,7 +2697,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1031925
+- eventId:
+  - 1031925
+  - 1084481
   start: 2026-11-29T11:02:00Z
   stop: 2026-11-29T11:09:00Z
   title: Sim-Only + Router TL MR-100
@@ -2322,7 +2712,7 @@
   widescreen: true
 - eventId: 1031926
   start: 2026-11-29T11:09:00Z
-  stop: 2026-11-29T11:12:00Z
+  stop: 2026-11-29T11:14:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
   subtitle: Werbung
   description: |-
@@ -2345,7 +2735,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031942
+- eventId:
+  - 1031942
+  - 1084482
   start: 2026-11-29T11:14:00Z
   stop: 2026-11-29T11:17:00Z
   title: Sim-Only
@@ -2355,7 +2747,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031943
+- eventId:
+  - 1031943
+  - 1084483
   start: 2026-11-29T11:17:00Z
   stop: 2026-11-29T11:18:00Z
   title: Programmvorschau
@@ -2363,7 +2757,7 @@
   widescreen: true
 - eventId: 1031944
   start: 2026-11-29T11:18:00Z
-  stop: 2026-11-29T11:23:00Z
+  stop: 2026-11-29T11:19:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
   subtitle: Werbung
   widescreen: true
@@ -2375,13 +2769,17 @@
     Display: 6,83"" (17,34cm) Full HD Plus Hz
     Speichergröße: 256 GB
     Akku: 8340 mAh
-- eventId: 1031945
+- eventId:
+  - 1031945
+  - 1084484
   start: 2026-11-29T11:19:00Z
   stop: 2026-11-29T11:20:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031946
+- eventId:
+  - 1031946
+  - 1084485
   start: 2026-11-29T11:20:00Z
   stop: 2026-11-29T11:21:00Z
   title: Programmvorschau
@@ -2422,10 +2820,18 @@
   widescreen: true
 - eventId: 1031950
   start: 2026-11-29T11:47:00Z
-  stop: 2026-11-29T11:48:00Z
-  title: Apple Teaser
+  stop: 2026-11-29T11:56:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
   subtitle: Werbung
   widescreen: true
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
 - eventId: 1031951
   start: 2026-11-29T11:48:00Z
   stop: 2026-11-29T11:53:00Z
@@ -2461,6 +2867,20 @@
 
     Sim-Only Angebot
   widescreen: true
+- eventId: 1084486
+  start: 2026-11-29T11:59:00Z
+  stop: 2026-11-29T12:04:00Z
+  title: Xiaomi REDMI 17 256GB + Tablet
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 250 GB LTE / 5G im Vodafone Netz mtl. 20.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Grün, Blau
+
+    Display: 6,9"" (17,52cm) Hz
+    Speichergröße: 256 GB
+    Akku: 7500 mAh
+  widescreen: true
 - eventId: 1031961
   start: 2026-11-29T12:00:00Z
   stop: 2026-11-29T12:05:00Z
@@ -2489,7 +2909,15 @@
     Speichergröße: 256 GB
     Akku: 4985 mAh
   widescreen: true
-- eventId: 1031962
+- eventId: 1084487
+  start: 2026-11-29T12:04:00Z
+  stop: 2026-11-29T12:05:00Z
+  title: Apple Teaser
+  subtitle: Werbung
+  widescreen: true
+- eventId:
+  - 1031962
+  - 1084488
   start: 2026-11-29T12:05:00Z
   stop: 2026-11-29T12:15:00Z
   title: Motorola Edge 70 Plus 5G 256GB
@@ -2505,7 +2933,9 @@
     Speichergröße: 256 GB
     Akku: 6500 mAh
   widescreen: true
-- eventId: 1031963
+- eventId:
+  - 1031963
+  - 1084489
   start: 2026-11-29T12:15:00Z
   stop: 2026-11-29T12:22:00Z
   title: Sim-Only + Router TL MR-100
@@ -2530,7 +2960,9 @@
     Speichergröße: 256 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031964
+- eventId:
+  - 1031964
+  - 1084490
   start: 2026-11-29T12:22:00Z
   stop: 2026-11-29T12:27:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
@@ -2570,7 +3002,7 @@
   widescreen: true
 - eventId: 1031965
   start: 2026-11-29T12:27:00Z
-  stop: 2026-11-29T12:36:00Z
+  stop: 2026-11-29T12:30:00Z
   title: Programmvorschau
   subtitle: Werbung
   description: |-
@@ -2578,31 +3010,41 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031966
+- eventId:
+  - 1031966
+  - 1084491
   start: 2026-11-29T12:30:00Z
   stop: 2026-11-29T12:31:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031967
+- eventId:
+  - 1031967
+  - 1084492
   start: 2026-11-29T12:31:00Z
   stop: 2026-11-29T12:32:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031968
+- eventId:
+  - 1031968
+  - 1084493
   start: 2026-11-29T12:32:00Z
   stop: 2026-11-29T12:33:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031969
+- eventId:
+  - 1031969
+  - 1084494
   start: 2026-11-29T12:33:00Z
   stop: 2026-11-29T12:34:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031970
+- eventId:
+  - 1031970
+  - 1084495
   start: 2026-11-29T12:34:00Z
   stop: 2026-11-29T12:43:00Z
   title: Programmvorschau
@@ -2622,13 +3064,17 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1031971
+- eventId:
+  - 1031971
+  - 1084496
   start: 2026-11-29T12:43:00Z
   stop: 2026-11-29T12:45:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 1031972
+- eventId:
+  - 1031972
+  - 1084497
   start: 2026-11-29T12:45:00Z
   stop: 2026-11-29T12:50:00Z
   title: Samsung Galaxy A37 5G 128GB
@@ -2648,7 +3094,9 @@
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 1031973
+- eventId:
+  - 1031973
+  - 1084498
   start: 2026-11-29T12:50:00Z
   stop: 2026-11-29T12:53:00Z
   title: Sim-Only
@@ -2669,7 +3117,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031974
+- eventId:
+  - 1031974
+  - 1084499
   start: 2026-11-29T12:53:00Z
   stop: 2026-11-29T13:00:00Z
   title: Sim-Only + Router TL MR-100
@@ -2699,6 +3149,20 @@
   stop: 2026-11-29T13:01:00Z
   title: Apple Teaser
   subtitle: Werbung
+  widescreen: true
+- eventId: 1084500
+  start: 2026-11-29T13:00:00Z
+  stop: 2026-11-29T13:12:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
   widescreen: true
 - eventId: 1031976
   start: 2026-11-29T13:01:00Z
@@ -2738,6 +3202,20 @@
     Speichergröße: 512 GB
     Akku: 4500 mAh
   widescreen: true
+- eventId: 1084501
+  start: 2026-11-29T13:12:00Z
+  stop: 2026-11-29T13:17:00Z
+  title: Xiaomi REDMI 17 256GB + Tablet
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 250 GB LTE / 5G im Vodafone Netz mtl. 20.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Grün, Blau
+
+    Display: 6,9"" (17,52cm) Hz
+    Speichergröße: 256 GB
+    Akku: 7500 mAh
+  widescreen: true
 - eventId: 1031977
   start: 2026-11-29T13:13:00Z
   stop: 2026-11-29T13:18:00Z
@@ -2766,7 +3244,15 @@
     Speichergröße: 128 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031978
+- eventId: 1084502
+  start: 2026-11-29T13:17:00Z
+  stop: 2026-11-29T13:18:00Z
+  title: Apple Teaser
+  subtitle: Werbung
+  widescreen: true
+- eventId:
+  - 1031978
+  - 1084503
   start: 2026-11-29T13:18:00Z
   stop: 2026-11-29T13:28:00Z
   title: Motorola Edge 70 Plus 5G 256GB
@@ -2790,7 +3276,7 @@
   widescreen: true
 - eventId: 1031979
   start: 2026-11-29T13:28:00Z
-  stop: 2026-11-29T13:33:00Z
+  stop: 2026-11-29T13:35:00Z
   title: Sim-Only + Router TL MR-100
   subtitle: Werbung
   description: |-
@@ -2812,7 +3298,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031980
+- eventId:
+  - 1031980
+  - 1084504
   start: 2026-11-29T13:35:00Z
   stop: 2026-11-29T13:40:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
@@ -2837,7 +3325,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031981
+- eventId:
+  - 1031981
+  - 1084505
   start: 2026-11-29T13:40:00Z
   stop: 2026-11-29T13:43:00Z
   title: Sim-Only
@@ -2861,37 +3351,49 @@
     Speichergröße: 256 GB
     Akku: 4985 mAh
   widescreen: true
-- eventId: 1031982
+- eventId:
+  - 1031982
+  - 1084506
   start: 2026-11-29T13:43:00Z
   stop: 2026-11-29T13:45:00Z
   title: Handystar Service
   subtitle: Werbung
   widescreen: true
-- eventId: 1031983
+- eventId:
+  - 1031983
+  - 1084507
   start: 2026-11-29T13:45:00Z
   stop: 2026-11-29T13:46:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031984
+- eventId:
+  - 1031984
+  - 1084508
   start: 2026-11-29T13:46:00Z
   stop: 2026-11-29T13:47:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031985
+- eventId:
+  - 1031985
+  - 1084509
   start: 2026-11-29T13:47:00Z
   stop: 2026-11-29T13:48:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1032005
+- eventId:
+  - 1032005
+  - 1084510
   start: 2026-11-29T13:48:00Z
   stop: 2026-11-29T13:49:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1032006
+- eventId:
+  - 1032006
+  - 1084511
   start: 2026-11-29T13:49:00Z
   stop: 2026-11-29T13:58:00Z
   title: Programmvorschau
@@ -2911,13 +3413,17 @@
     Speichergröße: 256 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1032007
+- eventId:
+  - 1032007
+  - 1084512
   start: 2026-11-29T13:58:00Z
   stop: 2026-11-29T14:01:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 1032008
+- eventId:
+  - 1032008
+  - 1084513
   start: 2026-11-29T14:01:00Z
   stop: 2026-11-29T14:06:00Z
   title: Samsung Galaxy A37 5G 128GB
@@ -2945,7 +3451,7 @@
   widescreen: true
 - eventId: 1032009
   start: 2026-11-29T14:06:00Z
-  stop: 2026-11-29T14:07:00Z
+  stop: 2026-11-29T14:09:00Z
   title: Programmvorschau
   subtitle: Werbung
   description: |-
@@ -2967,7 +3473,7 @@
   widescreen: true
 - eventId: 1032010
   start: 2026-11-29T14:09:00Z
-  stop: 2026-11-29T14:18:00Z
+  stop: 2026-11-29T14:15:00Z
   title: Sim-Only + Router TL MR-100
   subtitle: Werbung
   description: |-
@@ -2981,6 +3487,20 @@
   stop: 2026-11-29T14:16:00Z
   title: Apple Teaser
   subtitle: Werbung
+  widescreen: true
+- eventId: 1084514
+  start: 2026-11-29T14:15:00Z
+  stop: 2026-11-29T14:28:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
   widescreen: true
 - eventId: 1032012
   start: 2026-11-29T14:16:00Z
@@ -3010,6 +3530,20 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
+- eventId: 1084515
+  start: 2026-11-29T14:28:00Z
+  stop: 2026-11-29T14:33:00Z
+  title: Xiaomi REDMI 17 256GB + Tablet
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 250 GB LTE / 5G im Vodafone Netz mtl. 20.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Grün, Blau
+
+    Display: 6,9"" (17,52cm) Hz
+    Speichergröße: 256 GB
+    Akku: 7500 mAh
+  widescreen: true
 - eventId: 1032013
   start: 2026-11-29T14:29:00Z
   stop: 2026-11-29T14:34:00Z
@@ -3030,9 +3564,15 @@
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
+- eventId: 1084516
+  start: 2026-11-29T14:33:00Z
+  stop: 2026-11-29T14:34:00Z
+  title: Apple Teaser
+  subtitle: Werbung
+  widescreen: true
 - eventId: 1032014
   start: 2026-11-29T14:34:00Z
-  stop: 2026-11-29T14:40:00Z
+  stop: 2026-11-29T14:43:00Z
   title: Motorola Edge 70 Plus 5G 256GB
   subtitle: Werbung
   description: |-
@@ -3060,7 +3600,9 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 1032015
+- eventId:
+  - 1032015
+  - 1084517
   start: 2026-11-29T14:43:00Z
   stop: 2026-11-29T14:50:00Z
   title: Sim-Only + Router TL MR-100
@@ -3095,7 +3637,9 @@
     Speichergröße: 512 GB
     Akku: 4500 mAh
   widescreen: true
-- eventId: 1032016
+- eventId:
+  - 1032016
+  - 1084518
   start: 2026-11-29T14:50:00Z
   stop: 2026-11-29T14:55:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
@@ -3109,7 +3653,9 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 1032017
+- eventId:
+  - 1032017
+  - 1084519
   start: 2026-11-29T14:55:00Z
   stop: 2026-11-29T14:58:00Z
   title: Sim-Only
@@ -3133,31 +3679,41 @@
     Speichergröße: 128 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1032018
+- eventId:
+  - 1032018
+  - 1084520
   start: 2026-11-29T14:58:00Z
   stop: 2026-11-29T14:59:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1032019
+- eventId:
+  - 1032019
+  - 1084521
   start: 2026-11-29T14:59:00Z
   stop: 2026-11-29T15:00:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1032029
+- eventId:
+  - 1032029
+  - 1084522
   start: 2026-11-29T15:00:00Z
   stop: 2026-11-29T15:01:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1032030
+- eventId:
+  - 1032030
+  - 1084523
   start: 2026-11-29T15:01:00Z
   stop: 2026-11-29T15:02:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1032031
+- eventId:
+  - 1032031
+  - 1084524
   start: 2026-11-29T15:02:00Z
   stop: 2026-11-29T15:11:00Z
   title: Programmvorschau
@@ -3183,13 +3739,17 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1032032
+- eventId:
+  - 1032032
+  - 1084525
   start: 2026-11-29T15:11:00Z
   stop: 2026-11-29T15:14:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 1032033
+- eventId:
+  - 1032033
+  - 1084526
   start: 2026-11-29T15:14:00Z
   stop: 2026-11-29T15:19:00Z
   title: Samsung Galaxy A37 5G 128GB
@@ -3224,7 +3784,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1032034
+- eventId:
+  - 1032034
+  - 1084527
   start: 2026-11-29T15:19:00Z
   stop: 2026-11-29T15:22:00Z
   title: Sim-Only
@@ -3234,7 +3796,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1032035
+- eventId:
+  - 1032035
+  - 1084528
   start: 2026-11-29T15:22:00Z
   stop: 2026-11-29T15:28:00Z
   title: Sim-Only + Router TL MR-100
@@ -3265,6 +3829,20 @@
   title: Apple Teaser
   subtitle: Werbung
   widescreen: true
+- eventId: 1084529
+  start: 2026-11-29T15:28:00Z
+  stop: 2026-11-29T15:40:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
+  widescreen: true
 - eventId: 1032037
   start: 2026-11-29T15:29:00Z
   stop: 2026-11-29T15:42:00Z
@@ -3282,6 +3860,20 @@
 - eventId: 1043838
   start: 2026-11-29T15:40:00Z
   stop: 2026-11-29T15:45:00Z
+  title: Xiaomi REDMI 17 256GB + Tablet
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 250 GB LTE / 5G im Vodafone Netz mtl. 20.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Grün, Blau
+
+    Display: 6,9"" (17,52cm) Hz
+    Speichergröße: 256 GB
+    Akku: 7500 mAh
+  widescreen: true
+- eventId: 1084530
+  start: 2026-11-29T15:41:00Z
+  stop: 2026-11-29T15:46:00Z
   title: Xiaomi REDMI 17 256GB + Tablet
   subtitle: Werbung
   description: |-
@@ -3321,7 +3913,7 @@
   widescreen: true
 - eventId: 1032039
   start: 2026-11-29T15:47:00Z
-  stop: 2026-11-29T15:48:00Z
+  stop: 2026-11-29T15:56:00Z
   title: Motorola Edge 70 Plus 5G 256GB
   subtitle: Werbung
   description: |-
@@ -3347,7 +3939,9 @@
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1032040
+- eventId:
+  - 1032040
+  - 1084531
   start: 2026-11-29T15:56:00Z
   stop: 2026-11-29T16:03:00Z
   title: Sim-Only + Router TL MR-100
@@ -3372,7 +3966,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1032041
+- eventId:
+  - 1032041
+  - 1084532
   start: 2026-11-29T16:03:00Z
   stop: 2026-11-29T16:08:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
@@ -3398,11 +3994,13 @@
   widescreen: true
 - eventId: 1032043
   start: 2026-11-29T16:11:00Z
-  stop: 2026-11-29T16:13:00Z
+  stop: 2026-11-29T16:12:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 1032044
+- eventId:
+  - 1032044
+  - 1084533
   start: 2026-11-29T16:12:00Z
   stop: 2026-11-29T16:13:00Z
   title: Programmvorschau
@@ -3410,7 +4008,7 @@
   widescreen: true
 - eventId: 1032045
   start: 2026-11-29T16:13:00Z
-  stop: 2026-11-29T16:20:00Z
+  stop: 2026-11-29T16:14:00Z
   title: Sim-Only + Router TL MR-100
   subtitle: Werbung
   widescreen: true
@@ -3419,13 +4017,17 @@
 
 
     Sim-Only Angebot
-- eventId: 1032046
+- eventId:
+  - 1032046
+  - 1084534
   start: 2026-11-29T16:14:00Z
   stop: 2026-11-29T16:15:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1032047
+- eventId:
+  - 1032047
+  - 1084535
   start: 2026-11-29T16:15:00Z
   stop: 2026-11-29T16:24:00Z
   title: Programmvorschau
@@ -3445,7 +4047,9 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 1032048
+- eventId:
+  - 1032048
+  - 1084536
   start: 2026-11-29T16:24:00Z
   stop: 2026-11-29T16:27:00Z
   title: Tarif mit Beigabe Teaser
@@ -3461,7 +4065,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1032049
+- eventId:
+  - 1032049
+  - 1084537
   start: 2026-11-29T16:27:00Z
   stop: 2026-11-29T16:32:00Z
   title: Samsung Galaxy A37 5G 128GB
@@ -3489,7 +4095,9 @@
     Speichergröße: 512 GB
     Akku: 4500 mAh
   widescreen: true
-- eventId: 1032050
+- eventId:
+  - 1032050
+  - 1084538
   start: 2026-11-29T16:32:00Z
   stop: 2026-11-29T16:35:00Z
   title: Sim-Only
@@ -3499,7 +4107,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1032051
+- eventId:
+  - 1032051
+  - 1084539
   start: 2026-11-29T16:35:00Z
   stop: 2026-11-29T16:41:00Z
   title: Sim-Only + Router TL MR-100
@@ -3529,6 +4139,20 @@
   stop: 2026-11-29T16:42:00Z
   title: Apple Teaser
   subtitle: Werbung
+  widescreen: true
+- eventId: 1084540
+  start: 2026-11-29T16:41:00Z
+  stop: 2026-11-29T16:49:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
   widescreen: true
 - eventId: 1032053
   start: 2026-11-29T16:42:00Z
@@ -3564,6 +4188,20 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
+- eventId: 1084541
+  start: 2026-11-29T16:54:00Z
+  stop: 2026-11-29T16:59:00Z
+  title: Xiaomi REDMI 17 256GB + Tablet
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 250 GB LTE / 5G im Vodafone Netz mtl. 20.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Grün, Blau
+
+    Display: 6,9"" (17,52cm) Hz
+    Speichergröße: 256 GB
+    Akku: 7500 mAh
+  widescreen: true
 - eventId: 1032054
   start: 2026-11-29T16:55:00Z
   stop: 2026-11-29T16:58:00Z
@@ -3589,7 +4227,15 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031336
+- eventId: 1084542
+  start: 2026-11-29T16:59:00Z
+  stop: 2026-11-29T17:00:00Z
+  title: Apple Teaser
+  subtitle: Werbung
+  widescreen: true
+- eventId:
+  - 1031336
+  - 1084543
   start: 2026-11-29T17:00:00Z
   stop: 2026-11-29T17:09:00Z
   title: Motorola Edge 70 Plus 5G 256GB
@@ -3619,7 +4265,9 @@
     Speichergröße: 256 GB
     Akku: 4985 mAh
   widescreen: true
-- eventId: 1031337
+- eventId:
+  - 1031337
+  - 1084544
   start: 2026-11-29T17:09:00Z
   stop: 2026-11-29T17:16:00Z
   title: Sim-Only + Router TL MR-100
@@ -3630,7 +4278,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031338
+- eventId:
+  - 1031338
+  - 1084545
   start: 2026-11-29T17:16:00Z
   stop: 2026-11-29T17:21:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
@@ -3658,7 +4308,9 @@
     Speichergröße: 256 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031339
+- eventId:
+  - 1031339
+  - 1084546
   start: 2026-11-29T17:21:00Z
   stop: 2026-11-29T17:24:00Z
   title: Sim-Only
@@ -3670,7 +4322,7 @@
   widescreen: true
 - eventId: 1031340
   start: 2026-11-29T17:24:00Z
-  stop: 2026-11-29T17:25:00Z
+  stop: 2026-11-29T17:26:00Z
   title: Handystar Service
   subtitle: Werbung
   widescreen: true
@@ -3700,17 +4352,21 @@
   widescreen: true
 - eventId: 1031344
   start: 2026-11-29T17:29:00Z
-  stop: 2026-11-29T17:37:00Z
+  stop: 2026-11-29T17:30:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031345
+- eventId:
+  - 1031345
+  - 1084547
   start: 2026-11-29T17:30:00Z
   stop: 2026-11-29T17:31:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031346
+- eventId:
+  - 1031346
+  - 1084548
   start: 2026-11-29T17:31:00Z
   stop: 2026-11-29T17:40:00Z
   title: Motorola Razr 70 Plus 5G 512GB
@@ -3738,13 +4394,17 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1031347
+- eventId:
+  - 1031347
+  - 1084549
   start: 2026-11-29T17:40:00Z
   stop: 2026-11-29T17:42:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 1031348
+- eventId:
+  - 1031348
+  - 1084550
   start: 2026-11-29T17:42:00Z
   stop: 2026-11-29T17:47:00Z
   title: Samsung Galaxy A37 5G 128GB
@@ -3768,7 +4428,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031350
+- eventId:
+  - 1031350
+  - 1084551
   start: 2026-11-29T17:50:00Z
   stop: 2026-11-29T17:57:00Z
   title: Sim-Only + Router TL MR-100
@@ -3801,6 +4463,20 @@
   stop: 2026-11-29T17:58:00Z
   title: Apple Teaser
   subtitle: Werbung
+  widescreen: true
+- eventId: 1084552
+  start: 2026-11-29T17:57:00Z
+  stop: 2026-11-29T18:05:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
   widescreen: true
 - eventId: 1031352
   start: 2026-11-29T17:58:00Z
@@ -3854,6 +4530,20 @@
     Speichergröße: 512 GB
     Akku: 4500 mAh
   widescreen: true
+- eventId: 1084553
+  start: 2026-11-29T18:09:00Z
+  stop: 2026-11-29T18:14:00Z
+  title: Xiaomi REDMI 17 256GB + Tablet
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 250 GB LTE / 5G im Vodafone Netz mtl. 20.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Grün, Blau
+
+    Display: 6,9"" (17,52cm) Hz
+    Speichergröße: 256 GB
+    Akku: 7500 mAh
+  widescreen: true
 - eventId: 1031363
   start: 2026-11-29T18:10:00Z
   stop: 2026-11-29T18:15:00Z
@@ -3868,7 +4558,15 @@
     Speichergröße: 256 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031364
+- eventId: 1084554
+  start: 2026-11-29T18:14:00Z
+  stop: 2026-11-29T18:15:00Z
+  title: Apple Teaser
+  subtitle: Werbung
+  widescreen: true
+- eventId:
+  - 1031364
+  - 1084555
   start: 2026-11-29T18:15:00Z
   stop: 2026-11-29T18:25:00Z
   title: Motorola Edge 70 Plus 5G 256GB
@@ -3898,7 +4596,9 @@
     Speichergröße: 128 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031365
+- eventId:
+  - 1031365
+  - 1084556
   start: 2026-11-29T18:25:00Z
   stop: 2026-11-29T18:31:00Z
   title: Sim-Only + Router TL MR-100
@@ -3929,7 +4629,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1031366
+- eventId:
+  - 1031366
+  - 1084557
   start: 2026-11-29T18:31:00Z
   stop: 2026-11-29T18:36:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
@@ -3953,7 +4655,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031367
+- eventId:
+  - 1031367
+  - 1084558
   start: 2026-11-29T18:36:00Z
   stop: 2026-11-29T18:39:00Z
   title: Sim-Only
@@ -3974,31 +4678,41 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031368
+- eventId:
+  - 1031368
+  - 1084559
   start: 2026-11-29T18:39:00Z
   stop: 2026-11-29T18:40:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031369
+- eventId:
+  - 1031369
+  - 1084560
   start: 2026-11-29T18:40:00Z
   stop: 2026-11-29T18:41:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031370
+- eventId:
+  - 1031370
+  - 1084561
   start: 2026-11-29T18:41:00Z
   stop: 2026-11-29T18:42:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031371
+- eventId:
+  - 1031371
+  - 1084562
   start: 2026-11-29T18:42:00Z
   stop: 2026-11-29T18:43:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031372
+- eventId:
+  - 1031372
+  - 1084563
   start: 2026-11-29T18:43:00Z
   stop: 2026-11-29T18:53:00Z
   title: Programmvorschau
@@ -4018,13 +4732,17 @@
     Speichergröße: 256 GB
     Akku: 4985 mAh
   widescreen: true
-- eventId: 1031373
+- eventId:
+  - 1031373
+  - 1084564
   start: 2026-11-29T18:53:00Z
   stop: 2026-11-29T18:55:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 1031374
+- eventId:
+  - 1031374
+  - 1084565
   start: 2026-11-29T18:55:00Z
   stop: 2026-11-29T19:00:00Z
   title: Samsung Galaxy A37 5G 128GB
@@ -4052,7 +4770,9 @@
     Speichergröße: 256 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031375
+- eventId:
+  - 1031375
+  - 1084566
   start: 2026-11-29T19:00:00Z
   stop: 2026-11-29T19:03:00Z
   title: Sim-Only
@@ -4062,7 +4782,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031376
+- eventId:
+  - 1031376
+  - 1084567
   start: 2026-11-29T19:03:00Z
   stop: 2026-11-29T19:10:00Z
   title: Sim-Only + Router TL MR-100
@@ -4099,10 +4821,18 @@
   widescreen: true
 - eventId: 1031377
   start: 2026-11-29T19:10:00Z
-  stop: 2026-11-29T19:11:00Z
-  title: Programmvorschau
+  stop: 2026-11-29T19:20:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
   subtitle: Werbung
   widescreen: true
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
 - eventId: 1031378
   start: 2026-11-29T19:11:00Z
   stop: 2026-11-29T19:20:00Z
@@ -4131,6 +4861,20 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
+- eventId: 1084568
+  start: 2026-11-29T19:22:00Z
+  stop: 2026-11-29T19:27:00Z
+  title: Xiaomi REDMI 17 256GB + Tablet
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 250 GB LTE / 5G im Vodafone Netz mtl. 20.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Grün, Blau
+
+    Display: 6,9"" (17,52cm) Hz
+    Speichergröße: 256 GB
+    Akku: 7500 mAh
+  widescreen: true
 - eventId: 1031379
   start: 2026-11-29T19:23:00Z
   stop: 2026-11-29T19:28:00Z
@@ -4145,7 +4889,15 @@
     Speichergröße: 256 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031380
+- eventId: 1084569
+  start: 2026-11-29T19:27:00Z
+  stop: 2026-11-29T19:28:00Z
+  title: Apple Teaser
+  subtitle: Werbung
+  widescreen: true
+- eventId:
+  - 1031380
+  - 1084570
   start: 2026-11-29T19:28:00Z
   stop: 2026-11-29T19:38:00Z
   title: Motorola Edge 70 Plus 5G 256GB
@@ -4178,7 +4930,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031381
+- eventId:
+  - 1031381
+  - 1084571
   start: 2026-11-29T19:38:00Z
   stop: 2026-11-29T19:44:00Z
   title: Sim-Only + Router TL MR-100
@@ -4203,7 +4957,9 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 1031382
+- eventId:
+  - 1031382
+  - 1084572
   start: 2026-11-29T19:44:00Z
   stop: 2026-11-29T19:49:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
@@ -4301,7 +5057,9 @@
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 1031408
+- eventId:
+  - 1031408
+  - 1084573
   start: 2026-11-29T20:08:00Z
   stop: 2026-11-29T20:13:00Z
   title: Samsung Galaxy A37 5G 128GB
@@ -4335,7 +5093,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1031409
+- eventId:
+  - 1031409
+  - 1084574
   start: 2026-11-29T20:13:00Z
   stop: 2026-11-29T20:16:00Z
   title: Sim-Only
@@ -4345,7 +5105,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031410
+- eventId:
+  - 1031410
+  - 1084575
   start: 2026-11-29T20:16:00Z
   stop: 2026-11-29T20:23:00Z
   title: Sim-Only + Router TL MR-100
@@ -4383,6 +5145,20 @@
   title: Apple Teaser
   subtitle: Werbung
   widescreen: true
+- eventId: 1084576
+  start: 2026-11-29T20:23:00Z
+  stop: 2026-11-29T20:35:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
+  widescreen: true
 - eventId: 1031412
   start: 2026-11-29T20:24:00Z
   stop: 2026-11-29T20:36:00Z
@@ -4411,6 +5187,20 @@
     Speichergröße: 256 GB
     Akku: 4985 mAh
   widescreen: true
+- eventId: 1084577
+  start: 2026-11-29T20:35:00Z
+  stop: 2026-11-29T20:40:00Z
+  title: Xiaomi REDMI 17 256GB + Tablet
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 250 GB LTE / 5G im Vodafone Netz mtl. 20.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Grün, Blau
+
+    Display: 6,9"" (17,52cm) Hz
+    Speichergröße: 256 GB
+    Akku: 7500 mAh
+  widescreen: true
 - eventId: 1031413
   start: 2026-11-29T20:36:00Z
   stop: 2026-11-29T20:41:00Z
@@ -4425,9 +5215,15 @@
     Speichergröße: 256 GB
     Akku: 7500 mAh
   widescreen: true
+- eventId: 1084578
+  start: 2026-11-29T20:40:00Z
+  stop: 2026-11-29T20:41:00Z
+  title: Apple Teaser
+  subtitle: Werbung
+  widescreen: true
 - eventId: 1031414
   start: 2026-11-29T20:41:00Z
-  stop: 2026-11-29T20:46:00Z
+  stop: 2026-11-29T20:51:00Z
   title: Motorola Edge 70 Plus 5G 256GB
   subtitle: Werbung
   description: |-
@@ -4473,7 +5269,7 @@
   widescreen: true
 - eventId: 1031415
   start: 2026-11-29T20:51:00Z
-  stop: 2026-11-29T20:59:00Z
+  stop: 2026-11-29T20:57:00Z
   title: Sim-Only + Router TL MR-100
   subtitle: Werbung
   description: |-
@@ -4482,7 +5278,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031416
+- eventId:
+  - 1031416
+  - 1084579
   start: 2026-11-29T20:57:00Z
   stop: 2026-11-29T21:02:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
@@ -4510,7 +5308,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1031422
+- eventId:
+  - 1031422
+  - 1084580
   start: 2026-11-29T21:02:00Z
   stop: 2026-11-29T21:05:00Z
   title: Sim-Only
@@ -4520,7 +5320,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031423
+- eventId:
+  - 1031423
+  - 1084581
   start: 2026-11-29T21:05:00Z
   stop: 2026-11-29T21:08:00Z
   title: Handystar Service
@@ -4550,7 +5352,9 @@
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031428
+- eventId:
+  - 1031428
+  - 1084582
   start: 2026-11-29T21:12:00Z
   stop: 2026-11-29T21:21:00Z
   title: Programmvorschau
@@ -4573,7 +5377,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031429
+- eventId:
+  - 1031429
+  - 1084583
   start: 2026-11-29T21:21:00Z
   stop: 2026-11-29T21:23:00Z
   title: Tarif mit Beigabe Teaser
@@ -4593,7 +5399,9 @@
     Speichergröße: 256 GB
     Akku: 8340 mAh
   widescreen: true
-- eventId: 1031430
+- eventId:
+  - 1031430
+  - 1084584
   start: 2026-11-29T21:23:00Z
   stop: 2026-11-29T21:28:00Z
   title: Samsung Galaxy A37 5G 128GB
@@ -4617,7 +5425,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031431
+- eventId:
+  - 1031431
+  - 1084585
   start: 2026-11-29T21:28:00Z
   stop: 2026-11-29T21:31:00Z
   title: Sim-Only
@@ -4641,7 +5451,9 @@
     Speichergröße: 512 GB
     Akku: 4500 mAh
   widescreen: true
-- eventId: 1031432
+- eventId:
+  - 1031432
+  - 1084586
   start: 2026-11-29T21:31:00Z
   stop: 2026-11-29T21:38:00Z
   title: Sim-Only + Router TL MR-100
@@ -4657,6 +5469,20 @@
   stop: 2026-11-29T21:39:00Z
   title: Apple Teaser
   subtitle: Werbung
+  widescreen: true
+- eventId: 1084587
+  start: 2026-11-29T21:38:00Z
+  stop: 2026-11-29T21:50:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
   widescreen: true
 - eventId: 1031434
   start: 2026-11-29T21:39:00Z
@@ -4681,7 +5507,7 @@
 - eventId: 1043895
   start: 2026-11-29T21:51:00Z
   stop: 2026-11-29T21:56:00Z
-  title: Samsung Galaxy A37 5G 128GB
+  title: Xiaomi REDMI 17 256GB + Tablet
   subtitle: Werbung
   description: |-
     - Allnet Flat 150 GB LTE / 5G im Vodafone Netz mtl. 15.00 ¤
@@ -4708,15 +5534,17 @@
   widescreen: true
 - eventId: 1043896
   start: 2026-11-29T21:56:00Z
-  stop: 2026-11-29T21:59:00Z
-  title: Sim-Only
+  stop: 2026-11-29T21:57:00Z
+  title: Apple Teaser
   subtitle: Werbung
   description: |-
     - HIGH Allnet Flat 30 GB 5G im Telekom Netz mtl. 8.99 ¤
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031436
+- eventId:
+  - 1031436
+  - 1084588
   start: 2026-11-29T21:57:00Z
   stop: 2026-11-29T22:06:00Z
   title: Motorola Edge 70 Plus 5G 256GB
@@ -4745,7 +5573,7 @@
   widescreen: true
 - eventId: 1031437
   start: 2026-11-29T22:06:00Z
-  stop: 2026-11-29T22:18:00Z
+  stop: 2026-11-29T22:13:00Z
   title: Sim-Only + Router TL MR-100
   subtitle: Werbung
   description: |-
@@ -4757,7 +5585,9 @@
     Speichergröße: 256 GB
     Akku: 4985 mAh
   widescreen: true
-- eventId: 1031438
+- eventId:
+  - 1031438
+  - 1084589
   start: 2026-11-29T22:13:00Z
   stop: 2026-11-29T22:18:00Z
   title: Xiaomi REDMI Note 17 Pro 5G 256GB
@@ -4783,7 +5613,7 @@
   widescreen: true
 - eventId: 1031440
   start: 2026-11-29T22:21:00Z
-  stop: 2026-11-29T22:26:00Z
+  stop: 2026-11-29T22:22:00Z
   title: Xiaomi REDMI 17 256GB + Tablet
   subtitle: Werbung
   widescreen: true
@@ -4795,25 +5625,33 @@
     Display: 6,9"" (17,52cm) Hz
     Speichergröße: 256 GB
     Akku: 7500 mAh
-- eventId: 1031441
+- eventId:
+  - 1031441
+  - 1084590
   start: 2026-11-29T22:22:00Z
   stop: 2026-11-29T22:23:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031442
+- eventId:
+  - 1031442
+  - 1084591
   start: 2026-11-29T22:23:00Z
   stop: 2026-11-29T22:24:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031443
+- eventId:
+  - 1031443
+  - 1084592
   start: 2026-11-29T22:24:00Z
   stop: 2026-11-29T22:25:00Z
   title: Programmvorschau
   subtitle: Werbung
   widescreen: true
-- eventId: 1031444
+- eventId:
+  - 1031444
+  - 1084593
   start: 2026-11-29T22:25:00Z
   stop: 2026-11-29T22:34:00Z
   title: Programmvorschau
@@ -4865,7 +5703,9 @@
     Speichergröße: 256 GB
     Akku: 6500 mAh
   widescreen: true
-- eventId: 1031445
+- eventId:
+  - 1031445
+  - 1084594
   start: 2026-11-29T22:34:00Z
   stop: 2026-11-29T22:36:00Z
   title: Tarif mit Beigabe Teaser
@@ -4885,10 +5725,20 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
+- eventId: 1084595
+  start: 2026-11-29T22:36:00Z
+  stop: 2026-11-29T22:39:00Z
+  title: Sim-Only
+  subtitle: Werbung
+  description: |-
+    - HIGH Allnet Flat 30 GB 5G im Telekom Netz mtl. 8.99 ¤
+
+    Sim-Only Angebot
+  widescreen: true
 - eventId: 1043904
   start: 2026-11-29T22:39:00Z
-  stop: 2026-11-29T22:48:00Z
-  title: Samsung Galaxy A17
+  stop: 2026-11-29T22:46:00Z
+  title: Sim-Only + Router TL MR-100
   subtitle: Werbung
   description: |-
     - Allnet Flat 100 GB LTE / 5G im Vodafone Netz mtl. 12.50 ¤
@@ -4909,6 +5759,20 @@
 
 
     Sim-Only Angebot
+  widescreen: true
+- eventId: 1084596
+  start: 2026-11-29T22:46:00Z
+  stop: 2026-11-29T22:55:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
   widescreen: true
 - eventId: 1031448
   start: 2026-11-29T22:48:00Z
@@ -4947,6 +5811,20 @@
 
     Sim-Only Angebot
   widescreen: true
+- eventId: 1084597
+  start: 2026-11-29T22:59:00Z
+  stop: 2026-11-29T23:00:00Z
+  title: Xiaomi REDMI 17 256GB + Tablet
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 250 GB LTE / 5G im Vodafone Netz mtl. 20.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Grün, Blau
+
+    Display: 6,9"" (17,52cm) Hz
+    Speichergröße: 256 GB
+    Akku: 7500 mAh
+  widescreen: true
 - eventId: 1031470
   start: 2026-11-29T23:00:00Z
   stop: 2026-11-29T23:01:00Z
@@ -4974,9 +5852,17 @@
 - eventId: 1043907
   start: 2026-11-29T23:04:00Z
   stop: 2026-11-29T23:05:00Z
-  title: Programmvorschau
+  title: Motorola Razr 70 Plus 5G 512GB
   subtitle: Werbung
   widescreen: true
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Grün
+
+    Display: 6,9"" (17,53cm) Hz
+    Speichergröße: 512 GB
+    Akku: 4500 mAh
 - eventId: 1043908
   start: 2026-11-29T23:12:00Z
   stop: 2026-11-29T23:26:00Z
@@ -4991,13 +5877,17 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1031474
+- eventId:
+  - 1031474
+  - 1084598
   start: 2026-11-29T23:13:00Z
   stop: 2026-11-29T23:15:00Z
   title: Tarif mit Beigabe Teaser
   subtitle: Werbung
   widescreen: true
-- eventId: 1031475
+- eventId:
+  - 1031475
+  - 1084599
   start: 2026-11-29T23:15:00Z
   stop: 2026-11-29T23:20:00Z
   title: Samsung Galaxy A37 5G 128GB
@@ -5011,7 +5901,9 @@
     Speichergröße: 128 GB
     Akku: 5000 mAh
   widescreen: true
-- eventId: 1031476
+- eventId:
+  - 1031476
+  - 1084600
   start: 2026-11-29T23:20:00Z
   stop: 2026-11-29T23:23:00Z
   title: Sim-Only
@@ -5021,7 +5913,9 @@
 
     Sim-Only Angebot
   widescreen: true
-- eventId: 1031477
+- eventId:
+  - 1031477
+  - 1084601
   start: 2026-11-29T23:23:00Z
   stop: 2026-11-29T23:30:00Z
   title: Sim-Only + Router TL MR-100
@@ -5054,6 +5948,20 @@
   stop: 2026-11-29T23:31:00Z
   title: Apple Teaser
   subtitle: Werbung
+  widescreen: true
+- eventId: 1084602
+  start: 2026-11-29T23:30:00Z
+  stop: 2026-11-29T23:40:00Z
+  title: Samsung Galaxy S26 FE 5G 128GB
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat LTE / 5G Unlimited im Vodafone Netz mtl. 25.00 ¤
+
+    Aktuell lieferbare Farben: Mint, Grau, Blau
+
+    Display: "" (cm) Hz
+    Speichergröße: GB
+    Akku: mAh
   widescreen: true
 - eventId: 1031479
   start: 2026-11-29T23:31:00Z
@@ -5093,6 +6001,20 @@
 
     Sim-Only Angebot
   widescreen: true
+- eventId: 1084603
+  start: 2026-11-29T23:42:00Z
+  stop: 2026-11-29T23:47:00Z
+  title: Xiaomi REDMI 17 256GB + Tablet
+  subtitle: Werbung
+  description: |-
+    - Allnet Flat 250 GB LTE / 5G im Vodafone Netz mtl. 20.00 ¤
+
+    Aktuell lieferbare Farben: Schwarz, Grün, Blau
+
+    Display: 6,9"" (17,52cm) Hz
+    Speichergröße: 256 GB
+    Akku: 7500 mAh
+  widescreen: true
 - eventId: 1031480
   start: 2026-11-29T23:43:00Z
   stop: 2026-11-29T23:52:00Z
@@ -5107,7 +6029,15 @@
     Speichergröße: 256 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031481
+- eventId: 1084604
+  start: 2026-11-29T23:47:00Z
+  stop: 2026-11-29T23:48:00Z
+  title: Apple Teaser
+  subtitle: Werbung
+  widescreen: true
+- eventId:
+  - 1031481
+  - 1084605
   start: 2026-11-29T23:48:00Z
   stop: 2026-11-29T23:58:00Z
   title: Motorola Edge 70 Plus 5G 256GB
@@ -5137,7 +6067,9 @@
     Speichergröße: 128 GB
     Akku: 7500 mAh
   widescreen: true
-- eventId: 1031482
+- eventId:
+  - 1031482
+  - 1084606
   start: 2026-11-29T23:58:00Z
   stop: 2026-11-30T00:05:00Z
   title: Sim-Only + Router TL MR-100
