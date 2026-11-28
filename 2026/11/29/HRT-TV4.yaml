@@ -290,7 +290,7 @@
   description: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 55 mjesta u Hrvatskoj - do 18 sati za taj dan, poslije za idući.
 - eventId: 1038566
   start: 2026-11-29T04:54:00Z
-  stop: 2026-11-29T04:55:00Z
+  stop: 2026-11-29T04:56:00Z
   title: Vrijeme Europa danas
   subtitle: Slikovna prognoza prevladavajućeg ili značajnog vremena i najviše dnevne temperature zraka za 40 mjesta u Europi - do 18 sati za taj dan, poslije za idući.
   ageRating: 4
@@ -312,6 +312,7 @@
 - eventId:
   - 1071716
   - 1072906
+  - 1088899
   start: 2026-11-29T04:56:00Z
   stop: 2026-11-29T04:58:00Z
   title: Vrijeme svijet danas
@@ -332,6 +333,7 @@
 - eventId:
   - 1071717
   - 1072907
+  - 1088900
   start: 2026-11-29T04:58:00Z
   stop: 2026-11-29T05:00:00Z
   title: Bez komentara
@@ -413,7 +415,7 @@
   description: Emisija Deutsche Wellea o tome kako izbjeći zdravstvene zamke, ostati u dobroj formi neovisno o godinama.
 - eventId: 1038576
   start: 2026-11-29T05:56:00Z
-  stop: 2026-11-29T06:00:00Z
+  stop: 2026-11-29T05:59:00Z
   title: Bez komentara
   subtitle: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
   ageRating: 4
@@ -1076,7 +1078,7 @@
   ageRating: 4
   genre:
   - '160'
-  description: Tjedna emisija namijenjena potrošačima. Otkriva probleme s kojima se svakodnevno susreću pri kupnji robe i usluga, donosi savjete i upute.
+  description: 'Tema emisije je potrošnja na crni petak, prijevare kupaca i kako ih izbjeći. Prema istraživanjima gotovo 90 posto robe koja se prodaje tijekom crnog petka imalo je jednaku ili manju cijenu prije.  EK je provela analizu 400 digitalnih platformi i 40 posto njih bile su lažne. Gosti su: Jakov Kiš, voditelj Odsjeka za osvješćivanje i edukaciju korisnika u CARNET-ovu Sektoru nacionalnog CERT-a te Lovro Rogulje, poslovni konzultant.'
 - eventId: 1038639
   start: 2026-11-29T15:50:00Z
   stop: 2026-11-29T16:35:00Z
@@ -1085,7 +1087,7 @@
   ageRating: 4
   genre:
   - '160'
-  description: Multinacionalni magazin, donosi aktualnosti o manjinama i ljudskim pravima.
+  description: Otvoren novi dječji vrtić u Šišanu - moderan objekt za najmlađe, najavljujemo premijeru filma "Put do zrelosti" redateljice i scenaristice Hane Gelb na Best of the Best programu Festivala tolerancije. Tko će sve nastupiti na Večeri nacionalnih manjina, otkrivaju nam vrijedne voditeljice Češke obeci - Klaudija Panza-Janda, Tihomira Barišić i Miruška Lončar.
 - eventId: 1038640
   start: 2026-11-29T16:35:00Z
   stop: 2026-11-29T17:03:00Z
@@ -1206,11 +1208,12 @@
 - eventId: 1038653
   start: 2026-11-29T21:01:00Z
   stop: 2026-11-29T21:43:00Z
-  title: Intervju tjedna
+  title: 'Intervju tjedna: Jakša Puljiz'
   subtitle: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
   ageRating: 4
   genre:
   - '160'
+  description: U polusatnom "Intervju tjedna" o aktualnim i zanimljivim temama, događajima i vijestima govore relevantni sugovornici iz svih sfera društvenog i političkog života.
 - eventId: 1038654
   start: 2026-11-29T21:43:00Z
   stop: 2026-11-29T22:03:00Z
@@ -1219,14 +1222,16 @@
   ageRating: 4
   genre:
   - '160'
+  description: U fokusu razgovaramo o temama koje zaokupljaju život. Od društvenih zbivanja do kulturnih događaja, naši sugovornici progovorit će i odgovoriti na sva ponekad osjetljiva pitanja o kojima se inače možda tek šapuće na kavi s prijateljima.
 - eventId: 1038655
   start: 2026-11-29T22:03:00Z
   stop: 2026-11-29T22:07:00Z
-  title: '#REPORTAŽE'
+  title: '#REPORTAŽE: Meksičko-pulska moda'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 1038656
   start: 2026-11-29T22:07:00Z
   stop: 2026-11-29T22:10:00Z
@@ -1235,6 +1240,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1038657
   start: 2026-11-29T22:10:00Z
   stop: 2026-11-29T22:20:00Z
@@ -1243,6 +1249,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Vijesti na engleskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 1038658
   start: 2026-11-29T22:20:00Z
   stop: 2026-11-29T22:30:00Z
@@ -1251,6 +1258,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Vijesti na španjolskom jeziku namijenjene turistima u Hrvatskoj.
 - eventId: 1038659
   start: 2026-11-29T22:30:00Z
   stop: 2026-11-29T22:50:00Z
@@ -1259,14 +1267,16 @@
   ageRating: 4
   genre:
   - '160'
+  description: Najnoviji informativni sadržaji iz zemlje i svijeta. Prijenosi, javljanja uživo, analize i razgovori s gostima iz svih područja javnog djelovanja. Politika, kultura, sport i aktualnosti iz društvenog života. Prvi, najbrži i najrelevantniji - Studio 4.
 - eventId: 1038660
   start: 2026-11-29T22:50:00Z
   stop: 2026-11-29T22:55:00Z
-  title: '#REPORTAŽE'
+  title: '#REPORTAŽE: Jan Niković'
   subtitle: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
   ageRating: 4
   genre:
   - '160'
+  description: Iz emisije Kod nas doma donosimo reportaže o zanimljivim temama.
 - eventId: 1038661
   start: 2026-11-29T22:55:00Z
   stop: 2026-11-29T23:00:00Z
@@ -1275,6 +1285,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Aktualnosti i zanimljivosti iz Hrvatske i svijeta bez dodatnih komentara.
 - eventId: 1038662
   start: 2026-11-29T23:00:00Z
   stop: 2026-11-29T23:10:00Z
@@ -1283,6 +1294,7 @@
   ageRating: 4
   genre:
   - '32'
+  description: Pregled najnovijih vijesti iz zemlje i svijeta u kratkoj i britkoj formi.
 - eventId: 1038663
   start: 2026-11-29T23:10:00Z
   stop: 2026-11-29T23:17:00Z
@@ -1291,6 +1303,7 @@
   ageRating: 4
   genre:
   - '160'
+  description: Vijesti iz kulture svakodnevno prate događaje iz različitih područja kulture i umjetnosti.
 - eventId: 1038664
   start: 2026-11-29T23:17:00Z
   stop: 2026-11-30T00:07:00Z
@@ -1299,3 +1312,4 @@
   ageRating: 4
   genre:
   - '160'
+  description: Nedjeljna emisija o poljoprivredi i ribarstvu bavi se aktualnim temama, kritički progovara o agrarnoj politici, savjetuje i poučava gledatelje te donosi agroprognozu. Najstarija specijalizirana emisija Hrvatske televizije, emitira se od 1958. godine.
