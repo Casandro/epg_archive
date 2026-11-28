@@ -84,8 +84,23 @@
   description: ' (2026)'
   genre:
   - '33'
+- eventId: 1092374
+  start: 2026-11-30T04:00:00Z
+  stop: 2026-11-30T04:05:00Z
+  title: Počasie (333)
+  subtitle: Každý pracovný deň vám prinášame predpoveď počasia.
+  description: Každý pracovný deň vám prinášame predpoveď počasia. (2026)
+  genre:
+  - '33'
 - eventId: 912577
   start: 2026-11-30T04:00:00Z
+  stop: 2026-11-30T04:55:00Z
+  title: Správy "N" (333)
+  description: ' (2026)'
+  genre:
+  - '33'
+- eventId: 1092375
+  start: 2026-11-30T04:05:00Z
   stop: 2026-11-30T04:55:00Z
   title: Správy "N" (333)
   description: ' (2026)'
@@ -99,7 +114,9 @@
   description: Všetko, čo potrebujete vedieť o (svojich) peniazoch. (2026)
   genre:
   - '34'
-- eventId: 912578
+- eventId:
+  - 1092376
+  - 912578
   start: 2026-11-30T04:55:00Z
   stop: 2026-11-30T05:20:00Z
   title: Peniaze (24)
@@ -115,7 +132,9 @@
   description: Divadlo GUnaGu má v repertoári novú hru Hriešnice. Pavol Hammel predstavil na koncerte piesne z nového albumu Poetika. Tatranská galéria v Poprade približuje tvorbu troch generácií maliarov Turzákovcov. Rozhovor s Marínou Čarnogurskou o preklade čínskeho románu Sen o červenom pavilóne. Helena Třeštíková nakrútila časozberný dokument Bára Basiková. Divadlo JANART uviedlo premiéru baletu Labutie jazero v réžii a choreografii Jána Ďurovčíka. (2026)
   genre:
   - '122'
-- eventId: 912579
+- eventId:
+  - 1092377
+  - 912579
   start: 2026-11-30T05:20:00Z
   stop: 2026-11-30T06:00:00Z
   title: Kultúra SK (35)
@@ -165,12 +184,20 @@
   - '33'
 - eventId: 912584
   start: 2026-11-30T10:00:00Z
-  stop: 2026-11-30T10:30:00Z
+  stop: 2026-11-30T10:25:00Z
   title: Správy :24 (237)
   subtitle: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24.
   description: Správy, rozhovory, živé vstupy, tlačové konferencie. Aktuálne dianie doma i vo svete na spravodajskej 24. (2026)
   genre:
   - '33'
+- eventId: 1092310
+  start: 2026-11-30T10:25:00Z
+  stop: 2026-11-30T10:45:00Z
+  title: Archív 24 (52)
+  subtitle: Pohľad na život na Slovensku a vo svete pred 30-timi rokmi.
+  description: Pohľad na život na Slovensku a vo svete pred 30-timi rokmi. (2026)
+  genre:
+  - '35'
 - eventId: 912585
   start: 2026-11-30T10:30:00Z
   stop: 2026-11-30T11:00:00Z
@@ -179,6 +206,14 @@
   description: Pohľad na život na Slovensku a vo svete pred 30-timi rokmi. (2026)
   genre:
   - '35'
+- eventId: 1092311
+  start: 2026-11-30T10:45:00Z
+  stop: 2026-11-30T11:00:00Z
+  title: Téma :24 (624)
+  subtitle: Téma 24 - pomôžme rysovi zostať súčasťou našich lesov Branislav Tám.
+  description: Relácia mapuje život a pôsobenie menej známych osobností spoločenského, športového, kultúrneho života, ktoré pre svoju komunitu robia pozitívne veci. Dozvieme sa, čo vo svojej "bubline" považujú za dôležité, ako pristupujú k svojmu okoliu, čím obohacujú život ľudí na Slovensku. Navyše majú často úspech skôr v zahraničí a doma ich pre slabú mediálnu prezentáciu takmer nevidno. (2026)
+  genre:
+  - '33'
 - eventId: 912586
   start: 2026-11-30T11:00:00Z
   stop: 2026-11-30T11:30:00Z
@@ -322,9 +357,17 @@
   description: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu. (2026)
   genre:
   - '33'
+- eventId: 1092312
+  start: 2026-11-30T18:55:00Z
+  stop: 2026-11-30T19:10:00Z
+  title: Góly-body-sekundy (334)
+  subtitle: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu.
+  description: Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu. (2026)
+  genre:
+  - '33'
 - eventId: 912597
   start: 2026-11-30T19:10:00Z
-  stop: 2026-11-30T19:15:00Z
+  stop: 2026-11-30T19:20:00Z
   title: Počasie (334)
   subtitle: Každý pracovný deň vám prinášame predpoveď počasia.
   description: Každý pracovný deň vám prinášame predpoveď počasia. (2026)
@@ -338,7 +381,9 @@
   description: Aktuálne témy z rôznych uhlov pohľadu. Moderovaná diskusia so zaujímavými hosťami. (2026)
   genre:
   - '33'
-- eventId: 912598
+- eventId:
+  - 1092313
+  - 912598
   start: 2026-11-30T19:20:00Z
   stop: 2026-11-30T20:05:00Z
   title: Komentáre dňa (141)
