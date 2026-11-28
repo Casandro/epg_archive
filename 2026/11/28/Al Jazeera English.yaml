@@ -621,7 +621,7 @@
   start: 2026-11-28T14:00:00Z
   stop: 2026-11-28T14:30:00Z
   title: News Live
-  subtitle: (katari hírműsor, 2026)
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
   genre:
   - '128'
@@ -677,7 +677,7 @@
   start: 2026-11-28T15:00:00Z
   stop: 2026-11-28T16:00:00Z
   title: 'NEWSHOUR: The Wider Story'
-  subtitle: (katari hírműsor, 2026)
+  subtitle: A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.
   description: A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.
   genre:
   - '128'
@@ -731,7 +731,7 @@
   start: 2026-11-28T16:00:00Z
   stop: 2026-11-28T16:30:00Z
   title: News Live
-  subtitle: (katari hírműsor, 2026)
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Live global news coverage bringing you the latest headlines, breaking stories, and in-depth reports from Asia, Africa, the Middle East, Europe, and the Americas. Stay informed with live, breaking, and in-depth coverage from across the globe.
   genre:
   - '128'
@@ -814,7 +814,7 @@
   - 1098498
   - 901141
   start: 2026-11-28T18:00:00Z
-  stop: 2026-11-28T18:30:00Z
+  stop: 2026-11-28T19:00:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
@@ -868,11 +868,12 @@
   description: Latest news and in-depth analysis from around the world.
 - eventId: 1098499
   start: 2026-11-28T19:00:00Z
-  stop: 2026-11-28T20:00:00Z
-  title: Newshour
+  stop: 2026-11-28T19:30:00Z
+  title: News Live
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId:
   - 1004866
   - 1012723
@@ -892,6 +893,7 @@
   - 1071382
   - 1082665
   - 1091750
+  - 1100780
   - 974137
   - 982192
   - 998684
@@ -912,7 +914,7 @@
   - 1098501
   - 901144
   start: 2026-11-28T20:00:00Z
-  stop: 2026-11-28T20:30:00Z
+  stop: 2026-11-28T21:00:00Z
   title: News Live
   subtitle: Human rights activist Fatna El Bouih brings cinema to young prisoners while confronting her own disappearance and torture in 1970s Morocco.
   description: Up-to-date news and analysis from around the world.
@@ -956,6 +958,7 @@
   - 1069132
   - 1084896
   - 1091008
+  - 1098502
   - 901172
   start: 2026-11-28T21:00:00Z
   stop: 2026-11-28T22:00:00Z
@@ -964,14 +967,6 @@
   genre:
   - '32'
   description: When Israel orders a total evacuation of Gaza City, a Palestinian journalist documents the forced displacement, while living it with her own family.
-- eventId: 1098502
-  start: 2026-11-28T21:00:00Z
-  stop: 2026-11-28T22:00:00Z
-  title: Witness
-  subtitle: Gaza - Still Reporting
-  description: When Israel orders a total evacuation of Gaza City, a Palestinian journalist documents the forced displacement, while living it with her own family.
-  genre:
-  - '32'
 - eventId:
   - 1048340
   - 1053349
@@ -991,11 +986,12 @@
   description: Latest news and in-depth analysis from around the world.
 - eventId: 1098503
   start: 2026-11-28T22:00:00Z
-  stop: 2026-11-28T23:00:00Z
-  title: Newshour
+  stop: 2026-11-28T22:30:00Z
+  title: News Live
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId:
   - 1004869
   - 1012727
@@ -1015,6 +1011,7 @@
   - 1071392
   - 1082669
   - 1091757
+  - 1100786
   - 974145
   - 982050
   - 998688

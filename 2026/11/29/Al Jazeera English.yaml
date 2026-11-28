@@ -10,7 +10,7 @@
   - 1098507
   - 901195
   start: 2026-11-29T00:00:00Z
-  stop: 2026-11-29T00:30:00Z
+  stop: 2026-11-29T01:00:00Z
   title: News Live
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
   description: Up-to-date news and analysis from around the world.
@@ -50,6 +50,7 @@
   - 1069138
   - 1084906
   - 1091028
+  - 1098508
   - 901197
   start: 2026-11-29T01:00:00Z
   stop: 2026-11-29T02:00:00Z
@@ -58,13 +59,6 @@
   - '32'
   subtitle: War hero turned nationalist, Mahmoud Harbi defied colonial rule to fight for independence in today's Djibouti, until his death in a mysterious 1960 plane crash.
   description: Latest news and in-depth analysis from around the world.
-- eventId: 1098508
-  start: 2026-11-29T01:00:00Z
-  stop: 2026-11-29T02:00:00Z
-  title: Newshour
-  description: Latest news and in-depth analysis from around the world.
-  genre:
-  - '32'
 - eventId:
   - 1048346
   - 1053360
@@ -102,11 +96,12 @@
   description: Latest news and in-depth analysis from around the world.
 - eventId: 1098510
   start: 2026-11-29T03:00:00Z
-  stop: 2026-11-29T04:00:00Z
-  title: Newshour
+  stop: 2026-11-29T03:30:00Z
+  title: News Live
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId:
   - 1004882
   - 1012735
@@ -126,6 +121,7 @@
   - 1071417
   - 1082676
   - 1091766
+  - 1100794
   start: 2026-11-29T03:30:00Z
   stop: 2026-11-29T04:00:00Z
   title: UpFront
@@ -208,7 +204,7 @@
   - 1098517
   - 901316
   start: 2026-11-29T07:00:00Z
-  stop: 2026-11-29T07:30:00Z
+  stop: 2026-11-29T08:00:00Z
   title: News Live
   genre:
   - '32'
@@ -242,11 +238,12 @@
   description: Oppressed, dispossessed and expelled ? how Palestinians resist the century-long effort to force them from their land.
 - eventId: 1098518
   start: 2026-11-29T08:00:00Z
-  stop: 2026-11-29T09:00:00Z
-  title: Newshour
+  stop: 2026-11-29T08:30:00Z
+  title: News Live
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId: 901318
   start: 2026-11-29T08:00:00Z
   stop: 2026-11-29T09:00:00Z
@@ -273,6 +270,7 @@
   - 1082463
   - 1088305
   - 1091772
+  - 1100801
   start: 2026-11-29T08:30:00Z
   stop: 2026-11-29T09:00:00Z
   title: The Listening Post
@@ -301,7 +299,7 @@
   - 1098525
   - 901342
   start: 2026-11-29T10:00:00Z
-  stop: 2026-11-29T10:30:00Z
+  stop: 2026-11-29T11:00:00Z
   title: News Live
   genre:
   - '32'
@@ -334,11 +332,12 @@
   description: Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.
 - eventId: 1098526
   start: 2026-11-29T11:00:00Z
-  stop: 2026-11-29T12:00:00Z
-  title: Newshour
+  stop: 2026-11-29T11:30:00Z
+  title: News Live
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId: 901344
   start: 2026-11-29T11:00:00Z
   stop: 2026-11-29T12:00:00Z
@@ -365,6 +364,7 @@
   - 1082465
   - 1088309
   - 1091773
+  - 1100237
   start: 2026-11-29T11:30:00Z
   stop: 2026-11-29T12:00:00Z
   title: Inside Story
@@ -373,7 +373,7 @@
   - 1098528
   - 901372
   start: 2026-11-29T12:00:00Z
-  stop: 2026-11-29T12:30:00Z
+  stop: 2026-11-29T13:00:00Z
   title: News Live
   genre:
   - '32'
@@ -404,29 +404,24 @@
   genre:
   - '32'
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
-- eventId: 1098529
-  start: 2026-11-29T13:00:00Z
-  stop: 2026-11-29T14:00:00Z
-  title: Witness
-  subtitle: Gaza - Still Reporting
-  description: When Israel orders a total evacuation of Gaza City, a Palestinian journalist documents the forced displacement, while living it with her own family.
-  genre:
-  - '32'
-- eventId: 901374
+- eventId:
+  - 1098529
+  - 901374
   start: 2026-11-29T13:00:00Z
   stop: 2026-11-29T14:00:00Z
   title: 'NEWSHOUR: The World Now'
   subtitle: A fast-paced, live global news show capturing the latest developments as they unfold.
+  description: When Israel orders a total evacuation of Gaza City, a Palestinian journalist documents the forced displacement, while living it with her own family.
   genre:
   - '32'
-  description: When Israel orders a total evacuation of Gaza City, a Palestinian journalist documents the forced displacement, while living it with her own family.
 - eventId: 1098530
   start: 2026-11-29T14:00:00Z
-  stop: 2026-11-29T15:00:00Z
-  title: Newshour
+  stop: 2026-11-29T14:30:00Z
+  title: News Live
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId: 901375
   start: 2026-11-29T14:00:00Z
   stop: 2026-11-29T15:00:00Z
@@ -453,17 +448,19 @@
   - 1082471
   - 1088317
   - 1091780
+  - 1100673
   start: 2026-11-29T14:30:00Z
   stop: 2026-11-29T15:00:00Z
   title: Making Peace
   subtitle: In a Salvadoran prison, young women from rival gangs must live together, learning to coexist and prepare for life beyond the walls.
 - eventId: 1098532
   start: 2026-11-29T15:00:00Z
-  stop: 2026-11-29T15:30:00Z
-  title: News Live
+  stop: 2026-11-29T16:00:00Z
+  title: 'NEWSHOUR: The Wider Story'
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
+  subtitle: A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.
 - eventId: 901404
   start: 2026-11-29T15:00:00Z
   stop: 2026-11-29T15:30:00Z
@@ -500,11 +497,12 @@
   description: Hind Hassan examines the prospect of a new nuclear arms race, the companies helping to fuel it, and the dangers it poses to us all.
 - eventId: 1098533
   start: 2026-11-29T16:00:00Z
-  stop: 2026-11-29T17:00:00Z
-  title: Newshour
+  stop: 2026-11-29T16:30:00Z
+  title: News Live
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId: 901406
   start: 2026-11-29T16:00:00Z
   stop: 2026-11-29T17:00:00Z
@@ -531,46 +529,36 @@
   - 1082476
   - 1088127
   - 1091783
+  - 1100244
   start: 2026-11-29T16:30:00Z
   stop: 2026-11-29T17:00:00Z
   title: The Art of Negotiation
   subtitle: Top conflict negotiators who brokered historic peace deals reveal the secrets to ending intractable wars.
-- eventId: 1098535
-  start: 2026-11-29T17:00:00Z
-  stop: 2026-11-29T17:30:00Z
-  title: News Live
-  description: Up-to-date news and analysis from around the world.
-  genre:
-  - '32'
-- eventId: 901407
+- eventId:
+  - 1098535
+  - 901407
   start: 2026-11-29T17:00:00Z
   stop: 2026-11-29T17:30:00Z
   title: 'NEWS 30min: Lives in Focus'
+  description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
   subtitle: A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.
-  description: Up-to-date news and analysis from around the world.
-- eventId: 1098536
-  start: 2026-11-29T17:30:00Z
-  stop: 2026-11-29T18:00:00Z
-  title: 101 East
-  subtitle: '05102026'
-  description: 101 East reports on the people and events shaping the Asia Pacific region. .
-  genre:
-  - '32'
-- eventId: 901408
+- eventId:
+  - 1098536
+  - 901408
   start: 2026-11-29T17:30:00Z
   stop: 2026-11-29T18:00:00Z
   title: Inside Story
   subtitle: Inside Story brings you the top headlines of the day with analysis and commentary by guest from around the globe.
+  description: 101 East reports on the people and events shaping the Asia Pacific region. .
   genre:
   - '32'
-  description: 101 East reports on the people and events shaping the Asia Pacific region. .
 - eventId:
   - 1098537
   - 901428
   start: 2026-11-29T18:00:00Z
-  stop: 2026-11-29T18:30:00Z
+  stop: 2026-11-29T19:00:00Z
   title: News Live
   genre:
   - '32'
@@ -603,11 +591,12 @@
   description: Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.
 - eventId: 1098538
   start: 2026-11-29T19:00:00Z
-  stop: 2026-11-29T20:00:00Z
-  title: Newshour
+  stop: 2026-11-29T19:30:00Z
+  title: News Live
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId: 901430
   start: 2026-11-29T19:00:00Z
   stop: 2026-11-29T20:00:00Z
@@ -634,17 +623,19 @@
   - 1082484
   - 1088136
   - 1091792
+  - 1100251
   start: 2026-11-29T19:30:00Z
   stop: 2026-11-29T20:00:00Z
   title: Talk to Al Jazeera
   subtitle: Canada's finance minister says his country is building bridges abroad, as U.S. trade war drags on.
 - eventId: 1098540
   start: 2026-11-29T20:00:00Z
-  stop: 2026-11-29T20:30:00Z
-  title: News Live
+  stop: 2026-11-29T21:00:00Z
+  title: The Boy Who Started And Survived the Syrian War
   description: Up-to-date news and analysis from around the world.
   genre:
   - '32'
+  subtitle: A boy who grew up amid Syria's war reveals the untold origins of the conflict and the fight for his nation's freedom.
 - eventId: 901431
   start: 2026-11-29T20:00:00Z
   stop: 2026-11-29T20:30:00Z
@@ -690,11 +681,12 @@
   subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId: 1098542
   start: 2026-11-29T22:00:00Z
-  stop: 2026-11-29T23:00:00Z
-  title: Newshour
+  stop: 2026-11-29T22:30:00Z
+  title: News Live
   description: Latest news and in-depth analysis from around the world.
   genre:
   - '32'
+  subtitle: Live, breaking and in-depth news from Asia, Africa, the Middle East, Europe and the Americas.
 - eventId: 901459
   start: 2026-11-29T22:00:00Z
   stop: 2026-11-29T23:00:00Z
@@ -721,6 +713,7 @@
   - 1082493
   - 1088143
   - 1091599
+  - 1100257
   start: 2026-11-29T22:30:00Z
   stop: 2026-11-29T23:00:00Z
   title: Dying Earth
