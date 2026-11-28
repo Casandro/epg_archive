@@ -38,12 +38,14 @@
   start: 2026-11-29T03:55:00Z
   stop: 2026-11-29T04:00:00Z
   title: İstiklal Marşı Çocuk
-  description: İstiklal Marşı
+  description: İstiklal Marşı.
+  subtitle: İstiklal Marşı ve günün yayın akışı ekrana geliyor.
 - eventId: 1075653
   start: 2026-11-29T04:00:00Z
   stop: 2026-11-29T04:15:00Z
   title: Çizgi Film "Kaptan Pengu Ve Arkadaşları" / 22
   description: Kaptan Pengu, arkadaşları Misket, Pelik ve Mandalina.. Suya bayılıyorlar ve doğal kaynakları korumak için çalışıyorlar çünkü onlar Su Elçileri.. Neşeliler, çok komikler ve bir o kadar da çevreyi korumakta kararlılar.. Onlarla maceradan maceraya koşup eğlenmeye hazır olun.
+  subtitle: Kaptan Pengu ve arkadaşlarının su kaynaklarını korumak için verdiği mücadele..
 - eventId: 1075654
   start: 2026-11-29T04:15:00Z
   stop: 2026-11-29T04:30:00Z
@@ -87,11 +89,13 @@
   widescreen: true
 - eventId: 1022042
   start: 2026-11-29T10:00:00Z
-  stop: 2026-11-29T11:00:00Z
+  stop: 2026-11-29T10:45:00Z
   title: İstanbul Stüdyosu / 162
   description: Yurt dışında yaşayan Türk vatandaşlarının bulundukları ülkelerdeki faaliyetleri, başarı öyküleri, eğitim, kültür, sanat ve topluma katkılarını konu alan bir program.
   widescreen: true
-- eventId: 1022043
+- eventId:
+  - 1022043
+  - 1085378
   start: 2026-11-29T10:45:00Z
   stop: 2026-11-29T11:00:00Z
   title: Zuhurat
@@ -116,15 +120,19 @@
   widescreen: true
 - eventId: 1022048
   start: 2026-11-29T13:00:00Z
-  stop: 2026-11-29T15:00:00Z
+  stop: 2026-11-29T13:45:00Z
   title: TRENDYOL 1. LİG FUTBOL KARŞILAŞMASI 16. HAFTA BOLUSPOR - TURKA ESENLER EROKSPOR
   widescreen: true
-- eventId: 1022049
+- eventId:
+  - 1022049
+  - 1085422
   start: 2026-11-29T13:45:00Z
   stop: 2026-11-29T14:00:00Z
   title: Mikrofon Senin Arnavutluk
   widescreen: true
-- eventId: 1022050
+- eventId:
+  - 1022050
+  - 1085423
   start: 2026-11-29T14:00:00Z
   stop: 2026-11-29T15:00:00Z
   title: Hayat Almanya
@@ -191,7 +199,7 @@
   widescreen: true
 - eventId: 1072262
   start: 2026-11-29T23:00:00Z
-  stop: 2026-11-30T00:30:00Z
+  stop: 2026-11-30T00:15:00Z
   title: Avrupa'nın Nabzı / 95
   description: Geleneksel yemeklerin tanıtımını ve yemek etrafında gelişen kültürün anlatımını konu alan program, TRT Türk ekranlarında izleyiciyle buluşuyor.
   widescreen: true

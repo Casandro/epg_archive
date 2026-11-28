@@ -114,7 +114,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 900965
   start: 2026-11-28T02:00:00Z
-  stop: 2026-11-28T03:00:00Z
+  stop: 2026-11-28T02:30:00Z
   title: Global Business by CCTV America
   genre:
   - '32'
@@ -129,6 +129,7 @@
   - 1020699
   - 1027521
   - 1072580
+  - 1085416
   - 895815
   - 974075
   - 982026
@@ -161,7 +162,16 @@
   - 1016433
   - 1021112
   - 1027215
+  - 1031025
+  - 1036078
+  - 1043077
+  - 1049588
+  - 1054472
+  - 1055826
+  - 1061320
+  - 1070412
   - 1072191
+  - 1084928
   - 896009
   - 900975
   - 998387
@@ -174,21 +184,6 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   widescreen: true
   subtitle: Informativni
-- eventId:
-  - 1031025
-  - 1036078
-  - 1043077
-  - 1049588
-  - 1054472
-  - 1055826
-  - 1061320
-  - 1070412
-  - 1084928
-  start: 2026-11-28T03:00:00Z
-  stop: 2026-11-28T04:00:00Z
-  title: News Desk
-  genre:
-  - '32'
 - eventId:
   - 1005050
   - 1010166
@@ -204,6 +199,7 @@
   - 1059639
   - 1064090
   - 1071441
+  - 1085455
   - 896010
   - 974082
   - 998864
@@ -224,6 +220,7 @@
   - 1021113
   - 1027523
   - 1072192
+  - 1085456
   - 896011
   start: 2026-11-28T03:30:00Z
   stop: 2026-11-28T04:00:00Z
@@ -272,7 +269,7 @@
   description: Big Story is a documentary film program on CGTN. It explores global events with in a variety of filmic styles and featuring original, in-depth, thought-provoking storytelling.
 - eventId: 900978
   start: 2026-11-28T05:00:00Z
-  stop: 2026-11-28T05:30:00Z
+  stop: 2026-11-28T06:00:00Z
   title: National Treasures found
   genre:
   - '32'
@@ -307,6 +304,7 @@
   - 1016066
   - 1027224
   - 1072205
+  - 1085185
   - 896019
   - 901003
   - 981233
@@ -370,6 +368,7 @@
   - 1010574
   - 1027524
   - 1072206
+  - 1085643
   - 896020
   start: 2026-11-28T06:30:00Z
   stop: 2026-11-28T07:00:00Z
@@ -419,6 +418,12 @@
   subtitle: China Showbiz
   description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
   widescreen: true
+- eventId: 1085644
+  start: 2026-11-28T07:30:00Z
+  stop: 2026-11-28T08:00:00Z
+  title: Sports Scene
+  description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
+  widescreen: true
 - eventId:
   - 896023
   - 901005
@@ -440,7 +445,7 @@
   - 1049593
   - 901006
   start: 2026-11-28T08:30:00Z
-  stop: 2026-11-28T09:15:00Z
+  stop: 2026-11-28T09:00:00Z
   title: China Insight
   genre:
   - '32'
@@ -458,6 +463,7 @@
   - 1009368
   - 1026509
   - 1072207
+  - 1085197
   - 895820
   - 901044
   - 981241
@@ -539,6 +545,12 @@
   description: Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.
   widescreen: true
   subtitle: Dokumentarni
+- eventId: 1085198
+  start: 2026-11-28T09:30:00Z
+  stop: 2026-11-28T10:00:00Z
+  title: Inheritors
+  description: Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture.
+  widescreen: true
 - eventId: 895822
   start: 2026-11-28T10:00:00Z
   stop: 2026-11-28T10:15:00Z
@@ -547,7 +559,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 901046
   start: 2026-11-28T10:00:00Z
-  stop: 2026-11-28T10:30:00Z
+  stop: 2026-11-28T10:15:00Z
   title: Talk with LuJian
   genre:
   - '32'
@@ -559,6 +571,7 @@
   - 1026511
   - 1027527
   - 1072209
+  - 1085458
   - 895823
   start: 2026-11-28T10:15:00Z
   stop: 2026-11-28T11:00:00Z
@@ -626,6 +639,7 @@
   - 1027528
   - 1055844
   - 1072218
+  - 1085469
   - 895832
   start: 2026-11-28T12:15:00Z
   stop: 2026-11-28T13:00:00Z
@@ -726,6 +740,7 @@
   - 1027529
   - 1055845
   - 1072219
+  - 1085470
   - 895836
   start: 2026-11-28T14:30:00Z
   stop: 2026-11-28T15:00:00Z
@@ -766,8 +781,17 @@
   - 1016086
   - 1021117
   - 1027297
+  - 1031048
+  - 1035836
+  - 1043108
   - 1044826
+  - 1049248
+  - 1054512
+  - 1056119
+  - 1061344
+  - 1070450
   - 1072220
+  - 1084865
   - 895841
   - 901104
   - 981255
@@ -781,21 +805,6 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   widescreen: true
   subtitle: Informativni
-- eventId:
-  - 1031048
-  - 1035836
-  - 1043108
-  - 1049248
-  - 1054512
-  - 1056119
-  - 1061344
-  - 1070450
-  - 1084865
-  start: 2026-11-28T15:00:00Z
-  stop: 2026-11-28T15:15:00Z
-  title: News Desk
-  genre:
-  - '32'
 - eventId:
   - 1000754
   - 1009418
@@ -847,6 +856,12 @@
   subtitle: China Showbiz
   description: Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture.
   widescreen: true
+- eventId: 1085476
+  start: 2026-11-28T15:30:00Z
+  stop: 2026-11-28T16:00:00Z
+  title: Inheritors
+  description: Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture.
+  widescreen: true
 - eventId: 895842
   start: 2026-11-28T15:30:00Z
   stop: 2026-11-28T16:30:00Z
@@ -855,7 +870,7 @@
   description: Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.
 - eventId: 901106
   start: 2026-11-28T16:00:00Z
-  stop: 2026-11-28T16:15:00Z
+  stop: 2026-11-28T16:30:00Z
   title: The World Today
   genre:
   - '32'
@@ -893,6 +908,7 @@
   - 1027537
   - 1044827
   - 1072221
+  - 1085477
   - 895843
   start: 2026-11-28T16:30:00Z
   stop: 2026-11-28T17:00:00Z
@@ -933,8 +949,17 @@
   - 1016089
   - 1021119
   - 1027300
+  - 1031051
+  - 1035839
+  - 1043111
   - 1044828
+  - 1049251
+  - 1054515
+  - 1056122
+  - 1061347
+  - 1070453
   - 1072222
+  - 1084868
   - 895844
   - 901108
   - 981258
@@ -948,21 +973,6 @@
   description: Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.
   widescreen: true
   subtitle: Informativni
-- eventId:
-  - 1031051
-  - 1035839
-  - 1043111
-  - 1049251
-  - 1054515
-  - 1056122
-  - 1061347
-  - 1070453
-  - 1084868
-  start: 2026-11-28T17:00:00Z
-  stop: 2026-11-28T17:30:00Z
-  title: News Desk
-  genre:
-  - '32'
 - eventId: 895845
   start: 2026-11-28T17:30:00Z
   stop: 2026-11-28T18:00:00Z
@@ -981,7 +991,19 @@
 - eventId:
   - 1000766
   - 1009447
+  - 1013452
+  - 1016095
+  - 1027304
+  - 1031055
+  - 1035851
+  - 1043118
+  - 1049257
+  - 1054525
+  - 1056133
+  - 1061353
+  - 1070464
   - 1072610
+  - 1084882
   - 895851
   - 901131
   - 998429
@@ -994,24 +1016,6 @@
   description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
   widescreen: true
   subtitle: Informativni
-- eventId:
-  - 1013452
-  - 1016095
-  - 1027304
-  - 1031055
-  - 1035851
-  - 1043118
-  - 1049257
-  - 1054525
-  - 1056133
-  - 1061353
-  - 1070464
-  - 1084882
-  start: 2026-11-28T18:00:00Z
-  stop: 2026-11-28T18:30:00Z
-  title: News Desk
-  genre:
-  - '32'
 - eventId: 895852
   start: 2026-11-28T18:30:00Z
   stop: 2026-11-28T19:00:00Z
@@ -1064,6 +1068,12 @@
   subtitle: In-depth coverage of international affairs, global developments and the key issues shaping the world today.
   description: Travelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.
   widescreen: true
+- eventId: 1085484
+  start: 2026-11-28T19:30:00Z
+  stop: 2026-11-28T20:00:00Z
+  title: Travelogue
+  description: Travelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.
+  widescreen: true
 - eventId: 895855
   start: 2026-11-28T20:00:00Z
   stop: 2026-11-28T20:30:00Z
@@ -1102,7 +1112,7 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 901162
   start: 2026-11-28T21:00:00Z
-  stop: 2026-11-28T21:15:00Z
+  stop: 2026-11-28T21:30:00Z
   title: Special Program
   genre:
   - '32'
@@ -1134,7 +1144,9 @@
   title: China 24
   genre:
   - '32'
-- eventId: 1072247
+- eventId:
+  - 1072247
+  - 1085488
   start: 2026-11-28T21:30:00Z
   stop: 2026-11-28T22:00:00Z
   title: Leaders Talk
@@ -1153,7 +1165,7 @@
   description: Full Frame enriches the lives of viewers through animated discussion of film, arts and culture, and social trends etc impacting a diverse global audience.
 - eventId: 901164
   start: 2026-11-28T22:00:00Z
-  stop: 2026-11-28T22:30:00Z
+  stop: 2026-11-28T23:00:00Z
   title: Dreamchaser
   genre:
   - '32'
@@ -1207,27 +1219,21 @@
   - 1055860
   - 1061365
   - 1070474
+  - 1072248
   - 1084894
+  - 895864
   - 901166
   - 981273
   - 998439
   - 999655
   start: 2026-11-28T23:00:00Z
   stop: 2026-11-28T23:30:00Z
-  title: News Desk
+  title: The World Today
   genre:
   - '32'
-- eventId:
-  - 1072248
-  - 895864
-  start: 2026-11-28T23:00:00Z
-  stop: 2026-11-28T23:30:00Z
-  title: The World Today
-  subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
   widescreen: true
-  genre:
-  - '32'
+  subtitle: Informativni
 - eventId: 895865
   start: 2026-11-28T23:30:00Z
   stop: 2026-11-29T00:00:00Z
