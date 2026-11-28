@@ -107,10 +107,15 @@
   description: 'Autor: Milan Tesař * Ranní proud ? informace o dění ve světě i našich regionech, o očekávaných událostech daného dne, živé vstupy, pohled do kalendáře, předpověď počasí (pondělí ? sobota 6.00?9.00).'
 - eventId: 1046655
   start: 2026-12-04T08:00:00Z
-  stop: 2026-12-04T09:00:00Z
+  stop: 2026-12-04T08:45:00Z
   title: Hudební tip týdne
   subtitle: S Jakubem Jedlinským o albu 300 vlaků
   description: 'Autor: Jannis Moras; Interpret: Jakub Jedlinský; Premiéra: 13.11.2026 * Album 300 vlaků představuje společný hudební svět akordeonisty Jakuba Jedlinského a houslisty Pavla Fischera, kteří propojují lidovou hudbu různých koutů Evropy s klasikou, jazzem a world music. Vedle klezmeru, balkánských, irských a romských inspirací nabízejí vlastní kompozice i osobité úpravy tradičních melodií. Na albu hostuje mimo jiné Iva Bittová, která s oběma umělci vystupuje i ve společném koncertním projektu. Rozhovor s Jakubem Jedlinským vede Jannis Moras. [fišera] [mjúzik] '
+- eventId: 1078485
+  start: 2026-12-04T08:45:00Z
+  stop: 2026-12-04T09:00:00Z
+  title: Písně
+  description: 'Autor: Hudební redakce'
 - eventId: 1046656
   start: 2026-12-04T09:00:00Z
   stop: 2026-12-04T09:05:00Z
@@ -137,10 +142,15 @@
   - '99'
 - eventId: 1046660
   start: 2026-12-04T10:00:00Z
-  stop: 2026-12-04T10:30:00Z
+  stop: 2026-12-04T10:27:00Z
   title: Čtení na pokračování
   subtitle: Sedmistupňová hora (1. díl)
   description: 'Autor: Thomas Merton; Interpret: Igor Dostálek; Premiéra: 9.12.2003 * Čtení na pokračování ? interpretace a dramatizace knih (od novinek po klasiku), které pobaví, potěší i dojmou (pondělí ? pátek 11.00, repríza 22.00).'
+- eventId: 1078486
+  start: 2026-12-04T10:27:00Z
+  stop: 2026-12-04T10:57:00Z
+  title: Dopolední proud
+  description: 'Autor: Milan Tesař, zpravodajská redakce'
 - eventId: 1046661
   start: 2026-12-04T10:30:00Z
   stop: 2026-12-04T10:57:00Z
@@ -318,7 +328,8 @@
   start: 2026-12-04T21:30:00Z
   stop: 2026-12-04T22:25:00Z
   title: Na stole je téma
-  description: Na stole je téma ? společenské, kulturní, náboženské? a třeba i politické. Každopádně aktuální. Hodinové rozhovory vysíláme třikrát týdně v premiéře v úterý, ve středu a ve čtvrtek vždy v 9.00 a v reprízách pak následující den v 0.05 a ve 22.30.
+  description: 'Autor: Jana Rambousková; Interpret: Monika Opelková; Premiéra: 3.12.2026 * Rok 2026 je Mezinárodním rokem dobrovolníků pro udržitelný rozvoj a 5. prosince si připomínáme Mezinárodní den dobrovolníků. Při této příležitosti pohovoříme s koordinátorkou dobrovolníků při Diecézní charitě České Budějovice Monikou Opelkovou o tom, co lidi vede k tomu, aby se stali dobrovolníky, jak v praxi probíhá koordinace dobrovolnické pomoci v různých situacích a také jak hledat rovnováhu mezi časem pro druhé a časem pro sebe. Pořad připravila a moderuje Jana Rambousková a vznikl ve spolupráci s Charitou Česká republika.'
+  subtitle: Dobrovolnictví zblízka
 - eventId: 1046689
   start: 2026-12-04T22:25:00Z
   stop: 2026-12-04T22:50:00Z
@@ -339,3 +350,23 @@
   description: 'Autor: moderátor'
   genre:
   - '115'
+- eventId: 1073521
+  start: 2026-12-04T23:00:00Z
+  stop: 2026-12-04T23:05:00Z
+  title: 'Hymna a chorál '
+  genre:
+  - '115'
+- eventId: 1073522
+  start: 2026-12-04T23:05:00Z
+  stop: 2026-12-04T23:30:00Z
+  title: Noční bdění
+  description: 'Autor: Milan Tesař * Noční bdění ? krátce po půlnoci ze soboty na neděli můžete na Proglasu poslouchat půlhodinu jazzu, blues nebo world music. Hrajeme vždy z jednoho aktuálního alba.'
+  genre:
+  - '96'
+- eventId: 1073523
+  start: 2026-12-04T23:30:00Z
+  stop: 2026-12-05T00:00:00Z
+  title: Písně
+  description: 'Autor: Hudební redakce'
+  genre:
+  - '96'
