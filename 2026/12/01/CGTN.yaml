@@ -6,10 +6,11 @@
   description: Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.
 - eventId: 953563
   start: 2026-12-01T00:00:00Z
-  stop: 2026-12-01T00:15:00Z
-  title: News Desk
+  stop: 2026-12-01T01:00:00Z
+  title: Global News
   genre:
   - '32'
+  subtitle: International news and current affairs from CCTV-4 (China Central Television 4). Global News brings you the latest stories from around the world.
 - eventId: 953564
   start: 2026-12-01T00:15:00Z
   stop: 2026-12-01T01:00:00Z
@@ -24,10 +25,16 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 953565
   start: 2026-12-01T01:00:00Z
-  stop: 2026-12-01T01:30:00Z
-  title: The Heat
+  stop: 2026-12-01T01:15:00Z
+  title: Dreamchaser
   genre:
   - '32'
+  subtitle: The Dream Chaser Cargo System is an American reusable lifting body spaceplane being developed by Sierra Nevada Corporation Space Systems.
+- eventId: 1082531
+  start: 2026-12-01T01:15:00Z
+  stop: 2026-12-01T02:00:00Z
+  title: On the Way
+  subtitle: Entertaining documentary about a group of people exploring the world.
 - eventId: 1058960
   start: 2026-12-01T01:30:00Z
   stop: 2026-12-01T02:00:00Z
@@ -48,16 +55,22 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 953567
   start: 2026-12-01T02:00:00Z
-  stop: 2026-12-01T03:00:00Z
+  stop: 2026-12-01T02:30:00Z
   title: Global Business by CCTV America
   genre:
   - '32'
+  subtitle: This is the first history program of China, this program unveils secrets of important historical events, mega projects and the untold stories behind those crucial decisions of this country.
 - eventId: 1058962
   start: 2026-12-01T02:30:00Z
   stop: 2026-12-01T03:00:00Z
   title: World Insight with Tian Wei
   subtitle: Informativni
   description: World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.
+- eventId: 1082532
+  start: 2026-12-01T02:30:00Z
+  stop: 2026-12-01T03:15:00Z
+  title: TV Drama
+  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
 - eventId: 1058976
   start: 2026-12-01T03:00:00Z
   stop: 2026-12-01T03:15:00Z
@@ -76,6 +89,11 @@
   title: Sports Scene
   subtitle: Informativni
   description: Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues.
+- eventId: 1082543
+  start: 2026-12-01T03:15:00Z
+  stop: 2026-12-01T04:00:00Z
+  title: TV Drama
+  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
 - eventId: 1058978
   start: 2026-12-01T03:30:00Z
   stop: 2026-12-01T04:00:00Z
@@ -90,16 +108,22 @@
   description: GLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories.
 - eventId: 953586
   start: 2026-12-01T04:00:00Z
-  stop: 2026-12-01T05:30:00Z
-  title: News Desk
+  stop: 2026-12-01T05:00:00Z
+  title: China News
   genre:
   - '32'
+  subtitle: China News
 - eventId: 1058980
   start: 2026-12-01T05:00:00Z
   stop: 2026-12-01T05:15:00Z
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+- eventId: 1082544
+  start: 2026-12-01T05:00:00Z
+  stop: 2026-12-01T05:30:00Z
+  title: Around China
+  subtitle: Around China leads viewers into a fabulous world where they may have a full taste of the excellent personality of the Chinese nation and obtain an intimate understanding of its changes and evolution both in recent time and in future.
 - eventId: 1058981
   start: 2026-12-01T05:15:00Z
   stop: 2026-12-01T05:30:00Z
@@ -114,10 +138,11 @@
   description: Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.
 - eventId: 953587
   start: 2026-12-01T05:30:00Z
-  stop: 2026-12-01T06:00:00Z
+  stop: 2026-12-01T06:15:00Z
   title: Dialogue
   genre:
   - '32'
+  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
 - eventId: 1058997
   start: 2026-12-01T06:00:00Z
   stop: 2026-12-01T06:30:00Z
@@ -130,6 +155,11 @@
   title: News Hour
   genre:
   - '32'
+- eventId: 1082553
+  start: 2026-12-01T06:15:00Z
+  stop: 2026-12-01T07:00:00Z
+  title: TV Drama
+  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
 - eventId: 1058998
   start: 2026-12-01T06:30:00Z
   stop: 2026-12-01T07:00:00Z
@@ -148,6 +178,7 @@
   title: Global Business by CCTV America
   genre:
   - '32'
+  subtitle: Using health to promote a happy and beautiful lifestyle in China, presenting the concept of holistic health.
 - eventId: 1059000
   start: 2026-12-01T07:30:00Z
   stop: 2026-12-01T08:00:00Z
@@ -162,22 +193,33 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 953610
   start: 2026-12-01T08:00:00Z
-  stop: 2026-12-01T09:30:00Z
-  title: News Desk
+  stop: 2026-12-01T08:30:00Z
+  title: China News
   genre:
   - '32'
+  subtitle: China News
 - eventId: 1059002
   start: 2026-12-01T08:15:00Z
   stop: 2026-12-01T09:00:00Z
   title: Global Business
   subtitle: Informativni
   description: Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.
+- eventId: 1082554
+  start: 2026-12-01T08:30:00Z
+  stop: 2026-12-01T09:15:00Z
+  title: TV Drama
+  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
 - eventId: 1059014
   start: 2026-12-01T09:00:00Z
   stop: 2026-12-01T09:30:00Z
   title: The World Today
   subtitle: Informativni
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
+- eventId: 1082565
+  start: 2026-12-01T09:15:00Z
+  stop: 2026-12-01T10:00:00Z
+  title: TV Drama
+  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
 - eventId: 1059015
   start: 2026-12-01T09:30:00Z
   stop: 2026-12-01T10:00:00Z
@@ -198,16 +240,22 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 953632
   start: 2026-12-01T10:00:00Z
-  stop: 2026-12-01T11:00:00Z
+  stop: 2026-12-01T10:30:00Z
   title: Global Business
   genre:
   - '32'
+  subtitle: China News
 - eventId: 1059017
   start: 2026-12-01T10:15:00Z
   stop: 2026-12-01T11:00:00Z
   title: Africa Live
   subtitle: Informativni
   description: Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live.
+- eventId: 1082566
+  start: 2026-12-01T10:30:00Z
+  stop: 2026-12-01T11:00:00Z
+  title: Around China
+  subtitle: Around China leads viewers into a fabulous world where they may have a full taste of the excellent personality of the Chinese nation and obtain an intimate understanding of its changes and evolution both in recent time and in future.
 - eventId: 1059018
   start: 2026-12-01T11:00:00Z
   stop: 2026-12-01T11:30:00Z
@@ -217,9 +265,10 @@
 - eventId: 953633
   start: 2026-12-01T11:00:00Z
   stop: 2026-12-01T11:30:00Z
-  title: News Desk
+  title: China News
   genre:
   - '32'
+  subtitle: China News
 - eventId: 1059019
   start: 2026-12-01T11:30:00Z
   stop: 2026-12-01T12:00:00Z
@@ -232,6 +281,7 @@
   title: Culture Express
   genre:
   - '32'
+  subtitle: 'Asia Today is a 30-minute news program revolving around the latest events in politics, economy, social development and culture across the continent. Find out Asia that you''ve never known. '
 - eventId: 1059035
   start: 2026-12-01T12:00:00Z
   stop: 2026-12-01T12:15:00Z
@@ -240,16 +290,22 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 953648
   start: 2026-12-01T12:00:00Z
-  stop: 2026-12-01T13:00:00Z
+  stop: 2026-12-01T12:45:00Z
   title: Africa Live
   genre:
   - '32'
+  subtitle: Entertaining documentary about a group of people exploring the world.
 - eventId: 1059036
   start: 2026-12-01T12:15:00Z
   stop: 2026-12-01T13:00:00Z
   title: China 24
   subtitle: Informativni
   description: China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.
+- eventId: 1082577
+  start: 2026-12-01T12:45:00Z
+  stop: 2026-12-01T13:00:00Z
+  title: Nostalgia
+  subtitle: A journey through cherished memories, cultural traditions and stories that bring the past back to life.
 - eventId: 1059037
   start: 2026-12-01T13:00:00Z
   stop: 2026-12-01T13:30:00Z
@@ -262,6 +318,7 @@
   title: Asia Today
   genre:
   - '32'
+  subtitle: China News
 - eventId: 1059038
   start: 2026-12-01T13:30:00Z
   stop: 2026-12-01T14:00:00Z
@@ -271,9 +328,10 @@
 - eventId: 953650
   start: 2026-12-01T13:30:00Z
   stop: 2026-12-01T14:00:00Z
-  title: Dialogue
+  title: Focus Today
   genre:
   - '32'
+  subtitle: 'Traces the current affairs from china and abroadarts/culture. '
 - eventId: 1059039
   start: 2026-12-01T14:00:00Z
   stop: 2026-12-01T14:30:00Z
@@ -282,10 +340,11 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 953651
   start: 2026-12-01T14:00:00Z
-  stop: 2026-12-01T14:15:00Z
+  stop: 2026-12-01T14:45:00Z
   title: News Desk
   genre:
   - '32'
+  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
 - eventId: 953652
   start: 2026-12-01T14:15:00Z
   stop: 2026-12-01T15:00:00Z
@@ -298,6 +357,11 @@
   title: World Insight with Tian Wei
   subtitle: Informativni
   description: World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.
+- eventId: 1082578
+  start: 2026-12-01T14:45:00Z
+  stop: 2026-12-01T15:30:00Z
+  title: TV Drama
+  subtitle: 'A series of television dramas from the People''s Republic of China. These programmes look at all aspects of life''s rich tapestry  with suspense, joy, humour, romance, sadness, family affairs and more. '
 - eventId: 1059052
   start: 2026-12-01T15:00:00Z
   stop: 2026-12-01T15:30:00Z
@@ -322,18 +386,29 @@
   title: The Vibe
   subtitle: Dokumentarni
   description: The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.
+- eventId: 1082586
+  start: 2026-12-01T15:30:00Z
+  stop: 2026-12-01T16:00:00Z
+  title: China Showbiz
+  subtitle: China Showbiz
 - eventId: 953678
   start: 2026-12-01T16:00:00Z
-  stop: 2026-12-01T16:15:00Z
-  title: News Desk
+  stop: 2026-12-01T16:45:00Z
+  title: Music Fair
   genre:
   - '32'
+  subtitle: Music Fair is a Japanese music show. The shows started in 1964 and it is the longest-running Japanese music show..
 - eventId: 953679
   start: 2026-12-01T16:15:00Z
   stop: 2026-12-01T17:00:00Z
   title: World Insight
   genre:
   - '32'
+- eventId: 1082587
+  start: 2026-12-01T16:45:00Z
+  stop: 2026-12-01T17:30:00Z
+  title: Cartoon City
+  subtitle: A lively entertainment show filled with fun, creativity and colorful stories that bring the world of cartoons to life.
 - eventId: 1059054
   start: 2026-12-01T17:00:00Z
   stop: 2026-12-01T18:00:00Z
@@ -352,6 +427,7 @@
   title: Culture Express
   genre:
   - '32'
+  subtitle: Around China leads viewers into a fabulous world where they may have a full taste of the excellent personality of the Chinese nation and obtain an intimate understanding of its changes and evolution both in recent time and in future.
 - eventId: 1059067
   start: 2026-12-01T18:00:00Z
   stop: 2026-12-01T19:00:00Z
@@ -361,15 +437,17 @@
 - eventId: 953707
   start: 2026-12-01T18:00:00Z
   stop: 2026-12-01T18:30:00Z
-  title: News Desk
+  title: Memory of China
   genre:
   - '32'
+  subtitle: This is the first history program of China, this program unveils secrets of important historical events, mega projects and the untold stories behind those crucial decisions of this country.
 - eventId: 953708
   start: 2026-12-01T18:30:00Z
   stop: 2026-12-01T19:00:00Z
-  title: Spectrum Asia
+  title: Across the Strait
   genre:
   - '32'
+  subtitle: Across the Strait
 - eventId: 1059068
   start: 2026-12-01T19:00:00Z
   stop: 2026-12-01T19:30:00Z
@@ -378,16 +456,22 @@
   description: The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.
 - eventId: 953709
   start: 2026-12-01T19:00:00Z
-  stop: 2026-12-01T20:00:00Z
-  title: Africa Live
+  stop: 2026-12-01T19:30:00Z
+  title: Network News
   genre:
   - '32'
+  subtitle: Network News
 - eventId: 1059069
   start: 2026-12-01T19:30:00Z
   stop: 2026-12-01T20:00:00Z
   title: World Insight with Tian Wei
   subtitle: Informativni
   description: World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.
+- eventId: 1082593
+  start: 2026-12-01T19:30:00Z
+  stop: 2026-12-01T20:00:00Z
+  title: China Showbiz
+  subtitle: China Showbiz
 - eventId: 1059070
   start: 2026-12-01T20:00:00Z
   stop: 2026-12-01T20:30:00Z
@@ -400,15 +484,16 @@
   title: Global Business by CCTV Africa
   genre:
   - '32'
+  subtitle: China News
 - eventId:
   - 1059071
   - 953711
   start: 2026-12-01T20:30:00Z
   stop: 2026-12-01T21:00:00Z
-  title: Dialogue
+  title: Focus Today
   genre:
   - '32'
-  subtitle: Informativni
+  subtitle: 'Traces the current affairs from china and abroadarts/culture. '
   description: It is a prime time daily English talk show on CGTN.
 - eventId: 1059076
   start: 2026-12-01T21:00:00Z
@@ -418,10 +503,11 @@
   description: Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.
 - eventId: 953744
   start: 2026-12-01T21:00:00Z
-  stop: 2026-12-01T21:15:00Z
-  title: News Desk
+  stop: 2026-12-01T21:45:00Z
+  title: On the Way
   genre:
   - '32'
+  subtitle: Entertaining documentary about a group of people exploring the world.
 - eventId: 953745
   start: 2026-12-01T21:15:00Z
   stop: 2026-12-01T22:00:00Z
@@ -434,6 +520,16 @@
   title: The Hub With Wang Guan
   subtitle: Dokumentarni
   description: The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged. It also makes use of trending topics online, while focusing on what's relevant in China and the world.
+- eventId: 1082600
+  start: 2026-12-01T21:45:00Z
+  stop: 2026-12-01T21:50:00Z
+  title: Nostalgia
+  subtitle: A journey through cherished memories, cultural traditions and stories that bring the past back to life.
+- eventId: 1082601
+  start: 2026-12-01T21:50:00Z
+  stop: 2026-12-01T22:30:00Z
+  title: Discoveries
+  subtitle: Combining scientific inquiry with human interest, the story will explore major historical, geographical, and cultural discoveries in China, bringing the audience closer to its fascinating tradition and rich national heritage.
 - eventId: 1059078
   start: 2026-12-01T22:00:00Z
   stop: 2026-12-01T22:30:00Z
@@ -455,9 +551,10 @@
 - eventId: 953747
   start: 2026-12-01T22:30:00Z
   stop: 2026-12-01T23:00:00Z
-  title: World Insight
+  title: Memory of China
   genre:
   - '32'
+  subtitle: This is the first history program of China, this program unveils secrets of important historical events, mega projects and the untold stories behind those crucial decisions of this country.
 - eventId: 1059080
   start: 2026-12-01T23:00:00Z
   stop: 2026-12-01T23:30:00Z
@@ -467,9 +564,10 @@
 - eventId: 953748
   start: 2026-12-01T23:00:00Z
   stop: 2026-12-01T23:30:00Z
-  title: News Desk
+  title: Around China
   genre:
   - '32'
+  subtitle: Around China leads viewers into a fabulous world where they may have a full taste of the excellent personality of the Chinese nation and obtain an intimate understanding of its changes and evolution both in recent time and in future.
 - eventId: 1059081
   start: 2026-12-01T23:30:00Z
   stop: 2026-12-02T00:00:00Z
@@ -479,6 +577,7 @@
 - eventId: 998165
   start: 2026-12-01T23:30:00Z
   stop: 2026-12-02T00:00:00Z
-  title: Dialogue
+  title: Across the Strait
   genre:
   - '32'
+  subtitle: Across the Strait

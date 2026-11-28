@@ -1,8 +1,11 @@
-- eventId: 947557
+- eventId:
+  - 1082520
+  - 947557
   start: 2026-12-01T04:00:00Z
   stop: 2026-12-01T04:30:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
+  subtitle: Teleshoppingové pásmo
 - eventId: 947558
   start: 2026-12-01T04:30:00Z
   stop: 2026-12-01T04:45:00Z
@@ -12,18 +15,24 @@
   - '32'
 - eventId: 953598
   start: 2026-12-01T04:30:00Z
-  stop: 2026-12-01T05:00:00Z
+  stop: 2026-12-01T04:45:00Z
   title: HOROSKOPY
   subtitle: 05.10.2026 - 11.10.2026
   genre:
   - '149'
   description: Týždenné horoskopy s Petrom.
-- eventId: 947559
+  ageRating: 12
+- eventId:
+  - 1082521
+  - 947559
   start: 2026-12-01T04:45:00Z
   stop: 2026-12-01T05:00:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
-- eventId: 947560
+  subtitle: Teleshoppingové pásmo
+- eventId:
+  - 947560
+  - 953599
   start: 2026-12-01T05:00:00Z
   stop: 2026-12-01T06:40:00Z
   title: Ezoterická poradňa
@@ -31,31 +40,26 @@
   ageRating: 12
   genre:
   - '32'
-- eventId: 953599
-  start: 2026-12-01T05:00:00Z
-  stop: 2026-12-01T06:40:00Z
-  title: Veštenie repríza
-  genre:
-  - '149'
   description: Poradenstvo, veštenie, výklad osudu, numerológia
-- eventId: 947563
+- eventId:
+  - 947563
+  - 953621
   start: 2026-12-01T06:40:00Z
   stop: 2026-12-01T07:30:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
-- eventId: 953621
-  start: 2026-12-01T06:40:00Z
-  stop: 2026-12-01T07:45:00Z
-  title: HOROSKOPY
   subtitle: 05.10.2026 - 11.10.2026
   genre:
   - '149'
   description: Týždenné horoskopy s Petrom.
-- eventId: 947564
+- eventId:
+  - 1082530
+  - 947564
   start: 2026-12-01T07:30:00Z
   stop: 2026-12-01T07:45:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
+  subtitle: Teleshoppingové pásmo
 - eventId: 947565
   start: 2026-12-01T07:45:00Z
   stop: 2026-12-01T08:00:00Z
@@ -71,6 +75,7 @@
   genre:
   - '149'
   description: Týždenné horoskopy s Petrom.
+  ageRating: 12
 - eventId: 947566
   start: 2026-12-01T08:00:00Z
   stop: 2026-12-01T09:40:00Z
@@ -81,17 +86,24 @@
   - '32'
 - eventId: 953623
   start: 2026-12-01T08:00:00Z
-  stop: 2026-12-01T13:00:00Z
+  stop: 2026-12-01T09:40:00Z
   title: Televeštiareň s Vanessou
   genre:
   - '149'
   description: Rýchle riešenie vašich problémov prostredníctvom telefonického veštenia v priamom prenose.
-- eventId: 947572
+  subtitle: Rýchle riešenie vašich problémov prostredníctvom telefonického veštenia v priamom prenose.
+  ageRating: 12
+- eventId:
+  - 1082541
+  - 947572
   start: 2026-12-01T09:40:00Z
   stop: 2026-12-01T10:00:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
-- eventId: 947573
+  subtitle: Teleshoppingové pásmo
+- eventId:
+  - 1082542
+  - 947573
   start: 2026-12-01T10:00:00Z
   stop: 2026-12-01T13:00:00Z
   title: Televeštiareň
@@ -99,7 +111,9 @@
   ageRating: 12
   genre:
   - '32'
-- eventId: 947574
+- eventId:
+  - 947574
+  - 953662
   start: 2026-12-01T13:00:00Z
   stop: 2026-12-01T13:40:00Z
   title: Ezoterická poradňa
@@ -107,27 +121,28 @@
   ageRating: 12
   genre:
   - '32'
-- eventId: 953662
-  start: 2026-12-01T13:00:00Z
-  stop: 2026-12-01T14:45:00Z
-  title: Médium
-  subtitle: Adam
-  genre:
-  - '149'
   description: Relácia zameraná na spojenie sa s iným svetom. Médium je spojovník medzi týmto svetom a svetom za jeho hranicami. Médium má schopnosť napojiť sa do duchovného sveta a prijímať a odovzdávať správy.
-- eventId: 947575
+- eventId:
+  - 1082550
+  - 947575
   start: 2026-12-01T13:40:00Z
   stop: 2026-12-01T13:55:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
-- eventId: 947576
+  subtitle: Teleshoppingové pásmo
+- eventId:
+  - 1082551
+  - 947576
   start: 2026-12-01T13:55:00Z
   stop: 2026-12-01T14:00:00Z
   title: Horoskopy
   ageRating: 12
   genre:
   - '32'
-- eventId: 947577
+  subtitle: Horoskopy
+- eventId:
+  - 1082552
+  - 947577
   start: 2026-12-01T14:00:00Z
   stop: 2026-12-01T15:45:00Z
   title: Ezoterická poradňa
@@ -151,13 +166,18 @@
   genre:
   - '149'
   description: Relácia zameraná na spojenie sa s iným svetom. Médium je spojovník medzi týmto svetom a svetom za jeho hranicami. Médium má schopnosť napojiť sa do duchovného sveta a prijímať a odovzdávať správy.
-- eventId: 947578
+- eventId:
+  - 1082561
+  - 947578
   start: 2026-12-01T15:45:00Z
   stop: 2026-12-01T16:00:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
   description: ' (2026)'
-- eventId: 947579
+  subtitle: Teleshoppingové pásmo
+- eventId:
+  - 1082562
+  - 947579
   start: 2026-12-01T16:00:00Z
   stop: 2026-12-01T17:45:00Z
   title: Ezoterická poradňa
@@ -166,7 +186,9 @@
   genre:
   - '32'
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života. (2026)
-- eventId: 947580
+- eventId:
+  - 1082563
+  - 947580
   start: 2026-12-01T17:45:00Z
   stop: 2026-12-01T18:00:00Z
   title: Horoskopy
@@ -174,7 +196,10 @@
   genre:
   - '32'
   description: ' (2026)'
-- eventId: 947581
+  subtitle: Horoskopy
+- eventId:
+  - 1082571
+  - 947581
   start: 2026-12-01T18:00:00Z
   stop: 2026-12-01T19:00:00Z
   title: Ezoterická poradňa
@@ -192,18 +217,23 @@
   - '32'
 - eventId: 953722
   start: 2026-12-01T19:00:00Z
-  stop: 2026-12-01T20:45:00Z
+  stop: 2026-12-01T20:30:00Z
   title: Ezoterická poradňa s Renátou
   genre:
   - '149'
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
-- eventId: 947583
+  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
+  ageRating: 12
+- eventId:
+  - 1082572
+  - 947583
   start: 2026-12-01T20:30:00Z
   stop: 2026-12-01T21:00:00Z
   title: O Zdraví
   ageRating: 12
   genre:
   - '147'
+  subtitle: O Zdraví
 - eventId: 953723
   start: 2026-12-01T20:45:00Z
   stop: 2026-12-01T21:00:00Z
@@ -227,19 +257,25 @@
   genre:
   - '149'
   description: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
+  subtitle: Relácia, v ktorej sa dozviete ako riešiť problémy a nájsť zmysel života.
+  ageRating: 12
 - eventId: 953761
   start: 2026-12-01T23:00:00Z
-  stop: 2026-12-02T04:30:00Z
+  stop: 2026-12-01T23:20:00Z
   title: Nočné vysielanie pre pánov, X,H,18+
   genre:
   - '160'
   description: Šteklivé videá nielen pre pánov.
+  subtitle: Teleshoppingové pásmo
+  ageRating: 12
 - eventId: 981344
   start: 2026-12-01T23:00:00Z
   stop: 2026-12-01T23:20:00Z
   title: Teleshoppingové pásmo
   ageRating: 12
-- eventId: 981345
+- eventId:
+  - 1082584
+  - 981345
   start: 2026-12-01T23:20:00Z
   stop: 2026-12-02T04:00:00Z
   title: Nočné vysielanie pre pánov
